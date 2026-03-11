@@ -5,7 +5,7 @@ topic: template-generate-lightning-test
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:05.031Z
+lastCollected: 2026-03-11T10:26:31.426Z
 keywords: [template, generate, lightning, test, Generate, Lightning, test., Description, Examples, Flags, Aliases]
 ---
 

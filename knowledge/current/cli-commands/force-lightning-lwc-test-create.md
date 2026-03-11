@@ -5,7 +5,7 @@ topic: force-lightning-lwc-test-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.728Z
+lastCollected: 2026-03-11T10:26:31.169Z
 keywords: [force, lightning, lwc, test, create, Description, Examples, Flags]
 ---
 

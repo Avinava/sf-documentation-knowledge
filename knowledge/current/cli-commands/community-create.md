@@ -5,7 +5,7 @@ topic: community-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T09:49:04.629Z
+lastCollected: 2026-03-11T10:26:31.085Z
 keywords: [community, create, Create, Experience, Cloud, site, template., Description, Examples, Flags, Aliases]
 ---
 

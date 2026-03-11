@@ -5,7 +5,7 @@ topic: org-delete-scratch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.838Z
+lastCollected: 2026-03-11T10:26:31.256Z
 keywords: [org, delete, scratch, Delete, org., Description, Examples, Flags, Aliases]
 ---
 

@@ -5,7 +5,7 @@ topic: apex-run-test
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T09:49:04.563Z
+lastCollected: 2026-03-11T10:26:31.029Z
 keywords: [apex, run, test, Invoke, Apex, tests, org., Description, Examples, Flags, Aliases]
 ---
 

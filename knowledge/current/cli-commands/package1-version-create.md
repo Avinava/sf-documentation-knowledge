@@ -5,7 +5,7 @@ topic: package1-version-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-11T09:49:04.848Z
+lastCollected: 2026-03-11T10:26:31.266Z
 keywords: [package1, version, create, Create, first-generation, package, release, org., Description, Examples, Flags, Aliases]
 ---
 

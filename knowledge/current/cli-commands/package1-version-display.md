@@ -5,7 +5,7 @@ topic: package1-version-display
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.848Z
+lastCollected: 2026-03-11T10:26:31.266Z
 keywords: [package1, version, display, Display, details, first-generation, package, version., Examples, Flags, Aliases]
 ---
 

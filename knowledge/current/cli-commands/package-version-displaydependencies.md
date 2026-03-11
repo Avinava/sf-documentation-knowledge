@@ -5,7 +5,7 @@ topic: package-version-displaydependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.908Z
+lastCollected: 2026-03-11T10:26:31.319Z
 keywords: [package, version, displaydependencies, Display, dependency, graph, unlocked, 2GP, managed, version., Examples, Flags]
 ---
 

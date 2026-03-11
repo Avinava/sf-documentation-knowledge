@@ -5,7 +5,7 @@ topic: sobject-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.997Z
+lastCollected: 2026-03-11T10:26:31.397Z
 keywords: [sobject, describe, Display, metadata, standard, custom, object, Tooling, API, object., Description, Examples, Flags, Aliases]
 ---
 

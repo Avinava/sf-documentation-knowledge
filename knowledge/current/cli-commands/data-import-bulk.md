@@ -5,7 +5,7 @@ topic: data-import-bulk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T09:49:04.689Z
+lastCollected: 2026-03-11T10:26:31.138Z
 keywords: [data, import, bulk, Bulk, records, Salesforce, object, CSV, file., Uses, API, 2.0., Description, Examples, Flags]
 ---
 

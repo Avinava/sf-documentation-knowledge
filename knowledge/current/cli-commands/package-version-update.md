@@ -5,7 +5,7 @@ topic: package-version-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.908Z
+lastCollected: 2026-03-11T10:26:31.319Z
 keywords: [package, version, update, Update, version., Description, Examples, Flags, Aliases]
 ---
 

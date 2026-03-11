@@ -5,7 +5,7 @@ topic: schema-generate-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.991Z
+lastCollected: 2026-03-11T10:26:31.391Z
 keywords: [schema, generate, sobject, Generate, metadata, source, files, new, custom, object., Description, Examples, Flags, Aliases]
 ---
 

@@ -5,7 +5,7 @@ topic: config-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T09:49:04.638Z
+lastCollected: 2026-03-11T10:26:31.093Z
 keywords: [config, list, List, configuration, variables, you've, previously, set., Description, Examples, Flags, Aliases]
 ---
 

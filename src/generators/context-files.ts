@@ -6,140 +6,198 @@
  * - Each topic gets a self-contained .md file (2-4K tokens)
  * - Files are structured with frontmatter metadata
  */
-import fs from 'fs-extra';
-import path from 'node:path';
-import { createChildLogger } from '../utils/logger.js';
-import type { TaggedDocument } from '../processors/tagger.js';
-import type { DomainConfig } from '../config/domains.js';
+import fs from "fs-extra";
+import path from "node:path";
+import { createChildLogger } from "../utils/logger.js";
+import type { TaggedDocument } from "../processors/tagger.js";
+import type { DomainConfig } from "../config/domains.js";
 
-const log = createChildLogger('generator:context-files');
+const log = createChildLogger("generator:context-files");
 
 export interface GenerationResult {
-    domain: string;
-    filesGenerated: number;
-    outputDir: string;
+  domain: string;
+  filesGenerated: number;
+  outputDir: string;
 }
 
 /**
  * Generate context files for a domain from tagged documents.
  */
 export async function generateContextFiles(
-    domain: DomainConfig,
-    documents: TaggedDocument[],
-    outputBaseDir = 'knowledge/current',
+  domain: DomainConfig,
+  documents: TaggedDocument[],
+  outputBaseDir = "knowledge/current",
 ): Promise<GenerationResult> {
-    const outputDir = path.join(outputBaseDir, domain.id);
-    await fs.ensureDir(outputDir);
+  const outputDir = path.join(outputBaseDir, domain.id);
+  await fs.ensureDir(outputDir);
 
-    let filesGenerated = 0;
+  let filesGenerated = 0;
 
-    // 1. Generate individual topic files
-    for (const doc of documents) {
-        const filename = sanitizeFilename(doc.topic) + '.md';
-        const filePath = path.join(outputDir, filename);
+  // 1. Generate individual topic files
+  for (const doc of documents) {
+    const filename = sanitizeFilename(doc.topic) + ".md";
+    const filePath = path.join(outputDir, filename);
 
-        const content = formatContextFile(doc);
-        await fs.writeFile(filePath, content, 'utf-8');
-        filesGenerated++;
-    }
-
-    // 2. Generate _index.md routing table
-    const indexContent = generateIndex(domain, documents);
-    await fs.writeFile(path.join(outputDir, '_index.md'), indexContent, 'utf-8');
+    const content = formatContextFile(doc);
+    await fs.writeFile(filePath, content, "utf-8");
     filesGenerated++;
+  }
 
-    log.info({ domain: domain.id, filesGenerated, outputDir }, 'Context files generated');
+  // 2. Generate _index.md routing table
+  const indexContent = generateIndex(domain, documents);
+  await fs.writeFile(path.join(outputDir, "_index.md"), indexContent, "utf-8");
+  filesGenerated++;
 
-    return { domain: domain.id, filesGenerated, outputDir };
+  // 3. Generate SKILL.md for Agent access
+  const skillContent = generateSkill(domain);
+  const skillDir = path.join("skills", domain.id);
+  await fs.ensureDir(skillDir);
+  await fs.writeFile(path.join(skillDir, "SKILL.md"), skillContent, "utf-8");
+  filesGenerated++;
+
+  log.info(
+    { domain: domain.id, filesGenerated, outputDir },
+    "Context files generated",
+  );
+
+  return { domain: domain.id, filesGenerated, outputDir };
 }
 
 /**
  * Format a single context file with frontmatter metadata.
  */
 function formatContextFile(doc: TaggedDocument): string {
-    const lines: string[] = [];
+  const lines: string[] = [];
 
-    // YAML frontmatter
-    lines.push('---');
-    lines.push(`title: "${doc.title.replace(/"/g, '\\"')}"`);
-    lines.push(`domain: ${doc.domain}`);
-    lines.push(`topic: ${doc.topic}`);
-    lines.push(`apiVersion: ${doc.metadata.apiVersion}`);
-    lines.push(`release: ${doc.metadata.release}`);
-    lines.push(`docType: ${doc.metadata.docType}`);
-    lines.push(`lastCollected: ${doc.metadata.lastCollected}`);
-    if (doc.metadata.keywords.length > 0) {
-        lines.push(`keywords: [${doc.metadata.keywords.join(', ')}]`);
-    }
-    lines.push('---');
-    lines.push('');
+  // YAML frontmatter
+  lines.push("---");
+  lines.push(`title: "${doc.title.replace(/"/g, '\\"')}"`);
+  lines.push(`domain: ${doc.domain}`);
+  lines.push(`topic: ${doc.topic}`);
+  lines.push(`apiVersion: ${doc.metadata.apiVersion}`);
+  lines.push(`release: ${doc.metadata.release}`);
+  lines.push(`docType: ${doc.metadata.docType}`);
+  lines.push(`lastCollected: ${doc.metadata.lastCollected}`);
+  if (doc.metadata.keywords.length > 0) {
+    lines.push(`keywords: [${doc.metadata.keywords.join(", ")}]`);
+  }
+  lines.push("---");
+  lines.push("");
 
-    // Title
-    lines.push(`# ${doc.title}`);
-    lines.push('');
+  // Title
+  lines.push(`# ${doc.title}`);
+  lines.push("");
 
-    // Short description
-    if (doc.shortDescription) {
-        lines.push(`> ${doc.shortDescription}`);
-        lines.push('');
-    }
+  // Short description
+  if (doc.shortDescription) {
+    lines.push(`> ${doc.shortDescription}`);
+    lines.push("");
+  }
 
-    // Main content
-    lines.push(doc.content);
+  // Main content
+  lines.push(doc.content);
 
-    return lines.join('\n');
+  return lines.join("\n");
 }
 
 /**
  * Generate the _index.md routing table for a domain.
  * This is what LLMs read first to decide which files to load.
  */
-function generateIndex(domain: DomainConfig, documents: TaggedDocument[]): string {
-    const lines: string[] = [];
+function generateIndex(
+  domain: DomainConfig,
+  documents: TaggedDocument[],
+): string {
+  const lines: string[] = [];
 
-    lines.push('---');
-    lines.push(`domain: ${domain.id}`);
-    lines.push(`name: ${domain.name}`);
-    lines.push(`documentCount: ${documents.length}`);
-    lines.push(`lastGenerated: ${new Date().toISOString()}`);
-    lines.push('---');
-    lines.push('');
-    lines.push(`# ${domain.name} — Knowledge Index`);
-    lines.push('');
-    lines.push(`> ${domain.description}`);
-    lines.push('');
-    lines.push('## Available Topics');
-    lines.push('');
-    lines.push('| File | Title | Type | Keywords |');
-    lines.push('|---|---|---|---|');
+  lines.push("---");
+  lines.push(`domain: ${domain.id}`);
+  lines.push(`name: ${domain.name}`);
+  lines.push(`documentCount: ${documents.length}`);
+  lines.push(`lastGenerated: ${new Date().toISOString()}`);
+  lines.push("---");
+  lines.push("");
+  lines.push(`# ${domain.name} — Knowledge Index`);
+  lines.push("");
+  lines.push(`> ${domain.description}`);
+  lines.push("");
+  lines.push("## Available Topics");
+  lines.push("");
+  lines.push("| File | Title | Type | Keywords |");
+  lines.push("|---|---|---|---|");
 
-    // Sort by title for consistency
-    const sorted = [...documents].sort((a, b) => a.title.localeCompare(b.title));
+  // Sort by title for consistency
+  const sorted = [...documents].sort((a, b) => a.title.localeCompare(b.title));
 
-    for (const doc of sorted) {
-        const filename = sanitizeFilename(doc.topic) + '.md';
-        const keywords = doc.metadata.keywords.slice(0, 5).join(', ');
-        lines.push(`| [${filename}](./${filename}) | ${doc.title} | ${doc.metadata.docType} | ${keywords} |`);
-    }
+  for (const doc of sorted) {
+    const filename = sanitizeFilename(doc.topic) + ".md";
+    const keywords = doc.metadata.keywords.slice(0, 5).join(", ");
+    lines.push(
+      `| [${filename}](./${filename}) | ${doc.title} | ${doc.metadata.docType} | ${keywords} |`,
+    );
+  }
 
-    lines.push('');
-    lines.push('## How to Use');
-    lines.push('');
-    lines.push('1. Read this index to find the relevant topic for your question');
-    lines.push('2. Load the specific topic file(s) for detailed information');
-    lines.push('3. Each file is self-contained — no need to load other files for context');
-    lines.push('');
-    lines.push(`*Tags: ${domain.tags.join(', ')}*`);
+  lines.push("");
+  lines.push("## How to Use");
+  lines.push("");
+  lines.push("1. Read this index to find the relevant topic for your question");
+  lines.push("2. Load the specific topic file(s) for detailed information");
+  lines.push(
+    "3. Each file is self-contained — no need to load other files for context",
+  );
+  lines.push("");
+  lines.push(`*Tags: ${domain.tags.join(", ")}*`);
 
-    return lines.join('\n');
+  return lines.join("\n");
 }
 
 /** Sanitize a string into a valid filename */
 function sanitizeFilename(name: string): string {
-    return name
-        .toLowerCase()
-        .replace(/[^a-z0-9-]/g, '-')
-        .replace(/-+/g, '-')
-        .replace(/^-|-$/g, '')
-        .slice(0, 80);
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9-]/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "")
+    .slice(0, 80);
+}
+
+/**
+ * Generate a SKILL.md file for the AI Agent to understand how to use this domain.
+ */
+function generateSkill(domain: DomainConfig): string {
+  const lines: string[] = [];
+  lines.push("---");
+  lines.push(`name: sf-knowledge-${domain.id}`);
+  lines.push(
+    `description: Apply Salesforce knowledge and best practices for ${domain.name}`,
+  );
+  lines.push("---");
+  lines.push("");
+  lines.push(`# Salesforce Knowledge Skill: ${domain.name}`);
+  lines.push("");
+  lines.push(`> ${domain.description}`);
+  lines.push("");
+  lines.push(
+    `This repository contains curated, accurate knowledge mapping for Salesforce **${domain.name}**.`,
+  );
+  lines.push("");
+  lines.push("## How to Use This Knowledge");
+  lines.push("");
+  lines.push(
+    `1. **Use the \`view_file\` tool** to read the index file at \`knowledge/current/${domain.id}/_index.md\`.`,
+  );
+  lines.push(
+    "2. **Identify relevant topics** from the Markdown table in the index.",
+  );
+  lines.push(
+    `3. **Read the specific topic files** in \`knowledge/current/${domain.id}/\` (e.g. \`knowledge/current/${domain.id}/topic-name.md\`) to get detailed implementation steps, JSON formats, or API references.`,
+  );
+  lines.push(
+    "4. Do not blindly search the web when you can just read the curated, hallucination-free Markdown files provided here.",
+  );
+  lines.push("");
+  lines.push("## Domain Topics & Tags");
+  lines.push(domain.tags.map((t) => `- ${t}`).join("\n"));
+  lines.push("");
+  return lines.join("\n");
 }

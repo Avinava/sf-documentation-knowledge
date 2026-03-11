@@ -5,7 +5,7 @@ topic: alias-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.538Z
+lastCollected: 2026-03-11T10:26:31.000Z
 keywords: [alias, list, List, aliases, currently, set, local, computer., Description, Examples, Flags, Aliases]
 ---
 

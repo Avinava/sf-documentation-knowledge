@@ -5,7 +5,7 @@ topic: plugins-discover
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.911Z
+lastCollected: 2026-03-11T10:26:31.321Z
 keywords: [plugins, discover, See, list, 3rd-party, install., Examples, Flags]
 ---
 

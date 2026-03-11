@@ -5,7 +5,7 @@ topic: logic-get-test
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T09:49:04.750Z
+lastCollected: 2026-03-11T10:26:31.186Z
 keywords: [logic, get, test, Get, results, run., Beta, Note, Description, Examples, Flags]
 ---
 

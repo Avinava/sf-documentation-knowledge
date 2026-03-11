@@ -5,7 +5,7 @@ topic: template-generate-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:05.031Z
+lastCollected: 2026-03-11T10:26:31.426Z
 keywords: [template, generate, project, Generate, Salesforce, project., Description, Examples, Flags, Aliases]
 ---
 

@@ -5,7 +5,7 @@ topic: code-analyzer-run
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T09:49:04.620Z
+lastCollected: 2026-03-11T10:26:31.078Z
 keywords: [code-analyzer, run, Analyze, code, selection, rules, ensure, good, coding, practices., Description, Examples, Flags]
 ---
 

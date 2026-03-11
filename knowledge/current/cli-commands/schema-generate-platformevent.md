@@ -5,7 +5,7 @@ topic: schema-generate-platformevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.991Z
+lastCollected: 2026-03-11T10:26:31.391Z
 keywords: [schema, generate, platformevent, Generate, metadata, source, files, new, platform, event., Description, Examples, Flags, Aliases]
 ---
 

@@ -5,7 +5,7 @@ topic: org-disable-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.838Z
+lastCollected: 2026-03-11T10:26:31.256Z
 keywords: [org, disable, tracking, Prevent, Salesforce, CLI, changes, source, files, between, project, org., Description, Examples, Flags]
 ---
 

@@ -5,7 +5,7 @@ topic: doctor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T09:49:04.706Z
+lastCollected: 2026-03-11T10:26:31.152Z
 keywords: [doctor, Gather, CLI, configuration, data, run, diagnostic, tests, discover, report, potential, problems, environment., Description, Examples, Flags]
 ---
 

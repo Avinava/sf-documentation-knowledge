@@ -5,7 +5,7 @@ topic: org-open-authoring-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.838Z
+lastCollected: 2026-03-11T10:26:31.257Z
 keywords: [org, open, authoring-bundle, Open, Agentforce, Studio, specifically, list, view, showing, agents., Description, Examples, Flags]
 ---
 

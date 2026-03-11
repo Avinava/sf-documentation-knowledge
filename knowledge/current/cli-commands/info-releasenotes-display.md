@@ -5,7 +5,7 @@ topic: info-releasenotes-display
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-11T09:49:04.739Z
+lastCollected: 2026-03-11T10:26:31.178Z
 keywords: [info, releasenotes, display, Display, Salesforce, CLI, release, notes, command, line., Description, Examples, Flags, Aliases]
 ---
 

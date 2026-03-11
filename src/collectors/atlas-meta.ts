@@ -9,105 +9,140 @@
  *   Meta: https://developer.salesforce.com/docs/get_document/{deliverable}.meta
  *   Content: https://developer.salesforce.com/docs/get_document_content/{deliverable}/{page}/en-us/{version}
  */
-import fs from 'fs-extra';
-import path from 'node:path';
-import { BaseCollector } from './base-collector.js';
-import type { DomainConfig } from '../config/domains.js';
+import fs from "fs-extra";
+import path from "node:path";
+import { BaseCollector } from "./base-collector.js";
+import type { DomainConfig } from "../config/domains.js";
 
-const LANG = 'en-us';
-const DOCS_BASE_URL = 'https://developer.salesforce.com/docs';
+const LANG = "en-us";
+const DOCS_BASE_URL = "https://developer.salesforce.com/docs";
 
 interface TocNode {
-    text: string;
-    id: string;
-    a_attr?: { href: string };
-    children?: TocNode[];
+  text: string;
+  id: string;
+  a_attr?: { href: string };
+  children?: TocNode[];
 }
 
 interface MetaResponse {
-    toc: TocNode[];
-    deliverable: string;
-    version: { doc_version: string };
+  toc: TocNode[];
+  deliverable: string;
+  version: { doc_version: string };
 }
 
 interface ContentResponse {
-    id: string;
-    title: string;
-    content: string;
-    [key: string]: unknown;
+  id: string;
+  title: string;
+  content: string;
+  [key: string]: unknown;
 }
 
+import pLimit from "p-limit";
+
 export class AtlasMetaCollector extends BaseCollector {
-    private uniquePaths = new Set<string>();
-    private collectedCount = 0;
+  private uniquePaths = new Set<string>();
+  private collectedCount = 0;
 
-    constructor(domain: DomainConfig, baseOutputDir?: string) {
-        super(domain, baseOutputDir);
+  constructor(domain: DomainConfig, baseOutputDir?: string) {
+    super(domain, baseOutputDir);
+  }
+
+  protected async collect(): Promise<number> {
+    if (!this.domain.atlas) {
+      throw new Error(
+        `Domain ${this.domain.id} has no atlas deliverable configured`,
+      );
     }
 
-    protected async collect(): Promise<number> {
-        if (!this.domain.atlas) {
-            throw new Error(`Domain ${this.domain.id} has no atlas deliverable configured`);
-        }
+    // 1. Fetch the metadata / table of contents
+    const metaUrl = `${DOCS_BASE_URL}/get_document/${this.domain.atlas}.meta`;
+    this.log.info({ url: metaUrl }, "Fetching documentation metadata");
 
-        // 1. Fetch the metadata / table of contents
-        const metaUrl = `${DOCS_BASE_URL}/get_document/${this.domain.atlas}.meta`;
-        this.log.info({ url: metaUrl }, 'Fetching documentation metadata');
+    const meta = await this.fetch<MetaResponse>(metaUrl);
+    await this.writeJson("_metadata.json", meta);
 
-        const meta = await this.fetch<MetaResponse>(metaUrl);
-        await this.writeJson('_metadata.json', meta);
+    this.log.info(
+      { deliverable: meta.deliverable, version: meta.version.doc_version },
+      "Metadata fetched",
+    );
 
-        this.log.info(
-            { deliverable: meta.deliverable, version: meta.version.doc_version },
-            'Metadata fetched',
-        );
+    const urlsToDownload: string[] = [];
 
-        // 2. Walk the TOC tree and download each page
-        if (meta.toc?.[0]?.children) {
-            await this.walkToc(meta.toc[0].children, meta.deliverable, meta.version.doc_version);
-        }
-
-        this.log.info({ pagesCollected: this.collectedCount }, 'All pages downloaded');
-        return this.collectedCount;
+    // 2. Extract all valid URLs from the TOC tree
+    if (meta.toc) {
+      this.extractUrls(meta.toc, urlsToDownload);
     }
 
-    /** Recursively walk the table-of-contents tree and download leaf pages */
-    private async walkToc(nodes: TocNode[], deliverable: string, version: string): Promise<void> {
-        for (const node of nodes) {
-            // Recurse into children
-            if (node.children && node.children.length > 0) {
-                await this.walkToc(node.children, deliverable, version);
-                continue;
+    this.log.info(
+      { totalPagesToDownload: urlsToDownload.length },
+      "Starting parallel download",
+    );
+
+    // 3. Download pages concurrently (limit to 10 at a time to avoid overwhelming the API)
+    const limit = pLimit(10);
+
+    const downloadTasks = urlsToDownload.map((href) =>
+      limit(async () => {
+        try {
+          const contentUrl = `${DOCS_BASE_URL}/get_document_content/${meta.deliverable}/${href}/${LANG}/${meta.version.doc_version}`;
+          const content = await this.fetch<ContentResponse>(contentUrl);
+
+          if (content.id) {
+            const filename = `${href.replace(/\//g, "_")}.json`;
+            await this.writeJson(filename, content);
+            this.collectedCount++;
+
+            if (this.collectedCount % 50 === 0) {
+              this.log.info(
+                { count: this.collectedCount, total: urlsToDownload.length },
+                "Progress update",
+              );
             }
+          }
+        } catch (err) {
+          const msg = err instanceof Error ? err.message : String(err);
+          this.log.warn(
+            { href, error: msg },
+            "Failed to download page, skipping",
+          );
+        }
+      }),
+    );
 
-            // Download leaf page
-            if (!node.a_attr?.href) continue;
+    await Promise.all(downloadTasks);
 
-            const href = node.a_attr.href.split('#')[0]!;
+    this.log.info(
+      { pagesCollected: this.collectedCount },
+      "All pages downloaded",
+    );
+    return this.collectedCount;
+  }
 
-            // Skip if already processed or filtered out
-            if (this.uniquePaths.has(href)) continue;
-            if (this.domain.pathFilter && !this.domain.pathFilter(href)) continue;
+  /** Recursively walk the table-of-contents tree and extract URLs */
+  private extractUrls(nodes: TocNode[], urlsToDownload: string[]): void {
+    for (const node of nodes) {
+      // If the node has an href, it's a page we should download
+      if (node.a_attr?.href) {
+        const href = node.a_attr.href.split("#")[0]!;
 
+        // Only download if we haven't seen it and it passes the filter
+        if (!this.uniquePaths.has(href)) {
+          let shouldDownload = true;
+          if (this.domain.pathFilter && !this.domain.pathFilter(href)) {
+            shouldDownload = false;
+          }
+
+          if (shouldDownload) {
             this.uniquePaths.add(href);
-
-            try {
-                const contentUrl = `${DOCS_BASE_URL}/get_document_content/${deliverable}/${href}/${LANG}/${version}`;
-                const content = await this.fetch<ContentResponse>(contentUrl);
-
-                if (content.id) {
-                    const filename = `${href.replace(/\//g, '_')}.json`;
-                    await this.writeJson(filename, content);
-                    this.collectedCount++;
-
-                    if (this.collectedCount % 25 === 0) {
-                        this.log.info({ count: this.collectedCount }, 'Progress update');
-                    }
-                }
-            } catch (err) {
-                const msg = err instanceof Error ? err.message : String(err);
-                this.log.warn({ href, error: msg }, 'Failed to download page, skipping');
-            }
+            urlsToDownload.push(href);
+          }
         }
+      }
+
+      // Always recurse into children
+      if (node.children && node.children.length > 0) {
+        this.extractUrls(node.children, urlsToDownload);
+      }
     }
+  }
 }

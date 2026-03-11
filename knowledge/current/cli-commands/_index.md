@@ -1,8 +1,8 @@
 ---
 domain: cli-commands
 name: SF CLI Commands
-documentCount: 195
-lastGenerated: 2026-03-11T09:49:13.492Z
+documentCount: 196
+lastGenerated: 2026-03-11T10:32:13.702Z
 ---
 
 # SF CLI Commands — Knowledge Index
@@ -192,6 +192,7 @@ lastGenerated: 2026-03-11T09:49:13.492Z
 | [schema-generate-platformevent.md](./schema-generate-platformevent.md) | schema generate platformevent | developer-guide | schema, generate, platformevent, Generate, metadata |
 | [schema-generate-sobject.md](./schema-generate-sobject.md) | schema generate sobject | developer-guide | schema, generate, sobject, Generate, metadata |
 | [schema-generate-tab.md](./schema-generate-tab.md) | schema generate tab | developer-guide | schema, generate, tab, Generate, metadata |
+| [sf.md](./sf.md) | sf | release-note |  |
 | [sobject-describe.md](./sobject-describe.md) | sobject describe | developer-guide | sobject, describe, Display, metadata, standard |
 | [sobject-list.md](./sobject-list.md) | sobject list | developer-guide | sobject, list, List, Salesforce, objects |
 | [template-generate-analytics-template.md](./template-generate-analytics-template.md) | template generate analytics template | developer-guide | template, generate, analytics, Generate, simple |

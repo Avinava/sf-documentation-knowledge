@@ -5,7 +5,7 @@ topic: org-list-sobject-record-counts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T09:49:04.838Z
+lastCollected: 2026-03-11T10:26:31.256Z
 keywords: [org, list, sobject, record-counts, Display, record, counts, specified, standard, custom, objects., Description, Examples, Flags, Aliases]
 ---
 

@@ -5,7 +5,7 @@ topic: data-create-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.689Z
+lastCollected: 2026-03-11T10:26:31.138Z
 keywords: [data, create, file, Upload, local, org., Description, Examples, Flags]
 ---
 

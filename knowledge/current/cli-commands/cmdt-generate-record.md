@@ -5,7 +5,7 @@ topic: cmdt-generate-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T09:49:04.603Z
+lastCollected: 2026-03-11T10:26:31.059Z
 keywords: [cmdt, generate, record, Generate, new, given, custom, metadata, type, current, project., Description, Examples, Flags, Aliases]
 ---
 
