@@ -2,7 +2,7 @@
 domain: data-cloud
 name: Data Cloud
 documentCount: 0
-lastGenerated: 2026-03-11T10:32:13.719Z
+lastGenerated: 2026-03-11T15:08:18.694Z
 ---
 
 # Data Cloud — Knowledge Index

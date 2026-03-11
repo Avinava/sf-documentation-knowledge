@@ -5,7 +5,7 @@ topic: product-catalog-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T10:26:32.034Z
+lastCollected: 2026-03-11T14:37:50.576Z
 keywords: [Product, Catalog, Management, Tooling, API, Objects, See]
 ---
 

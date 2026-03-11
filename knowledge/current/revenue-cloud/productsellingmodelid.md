@@ -5,7 +5,7 @@ topic: productsellingmodelid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T10:26:31.512Z
+lastCollected: 2026-03-11T14:37:50.031Z
 keywords: [productSellingModelId, Set, product, selling, model, return, details, for., Signature, Property, Value]
 ---
 

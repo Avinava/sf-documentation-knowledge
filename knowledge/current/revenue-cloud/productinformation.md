@@ -5,7 +5,7 @@ topic: productinformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T10:26:31.533Z
+lastCollected: 2026-03-11T14:37:50.067Z
 keywords: [productInformation, Get, productinformation, value., Signature, Property, Value]
 ---
 

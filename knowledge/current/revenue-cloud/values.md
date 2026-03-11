@@ -5,7 +5,7 @@ topic: values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T10:26:31.509Z
+lastCollected: 2026-03-11T14:37:50.026Z
 keywords: [values, Get, attribute, picklist., Signature, Property, Value]
 ---
 

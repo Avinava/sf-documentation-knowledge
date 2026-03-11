@@ -5,7 +5,7 @@ topic: product-discovery-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T10:26:32.080Z
+lastCollected: 2026-03-11T14:37:50.621Z
 keywords: [Product, Discovery, Apex, Reference]
 ---
 

@@ -1,26 +1,28 @@
 ---
-title: "status"
+title: "Status"
 domain: revenue-cloud
 topic: status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T10:26:31.533Z
-keywords: [status, Get, bulkproductdetails., Signature, Property, Value]
+lastCollected: 2026-03-11T14:37:50.536Z
+keywords: [Status]
 ---
 
-# status
+# Status
 
-> Get the status of the bulkproductdetails.
+# Status
 
-### status
+Output representation of the status of the request.
 
-Get the status of the bulkproductdetails.
+JSON example
 
-#### Signature
+```
 
-public String status {get; set;}
+```
 
-#### Property Value
-
-Type: String
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| code | String | Code of the error message. | Small, 60.0 | 60.0 |
+| errors | Error[] | Details of the error. | Small, 60.0 | 60.0 |
+| message | String | Error message. | Small, 60.0 | 60.0 |

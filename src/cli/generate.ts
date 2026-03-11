@@ -13,6 +13,7 @@ import { getDomainById, getCollectableDomains } from "../config/domains.js";
 import { generateContextFiles } from "../generators/context-files.js";
 import { GraphBuilder } from "../generators/graph-builder.js";
 import { generateInventory } from "../generators/inventory.js";
+import { generateReadmeStats } from "../generators/docs-generator.js";
 import type { TaggedDocument } from "../processors/tagger.js";
 import { createChildLogger } from "../utils/logger.js";
 
@@ -81,6 +82,14 @@ program
       console.log(`✅ Knowledge inventory built → docs/inventory.md`);
     } catch (err) {
       log.error({ err }, "Failed to build inventory documentation");
+    }
+
+    // Always update the README documentation table
+    try {
+      await generateReadmeStats(options.output, "README.md");
+      console.log(`✅ README.md documentation table updated`);
+    } catch (err) {
+      log.error({ err }, "Failed to update README documentation");
     }
   });
 

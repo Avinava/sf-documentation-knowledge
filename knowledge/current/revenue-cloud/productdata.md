@@ -5,7 +5,7 @@ topic: productdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T10:26:31.514Z
+lastCollected: 2026-03-11T14:37:50.035Z
 keywords: [productData, Set, list, maps, contain, product, IDs, selling, model, IDs., Signature, Property, Value]
 ---
 

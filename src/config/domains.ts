@@ -54,7 +54,8 @@ export const DOMAINS: DomainConfig[] = [
     id: "agentforce",
     name: "Agentforce",
     priority: "P0",
-    // atlas: 'atlas.en-us.einstein_copilot_dev_guide', // Need to find exact Atlas ID
+    // gen_ai_dev_guide is CDN-blocked; using IT Service guide as primary Agentforce deliverable
+    atlas: "atlas.en-us.agentforce_it_service_dev_guide",
     description: "AI agents, actions, topics, prompt templates, agent builder",
     tags: ["agentforce", "einstein", "ai", "agents"],
   },
@@ -117,7 +118,7 @@ export const DOMAINS: DomainConfig[] = [
     id: "omnistudio",
     name: "OmniStudio",
     priority: "P2",
-    // atlas: 'atlas.en-us.omnistudio', // Need to find exact Atlas ID
+    atlas: "atlas.en-us.industries_reference",
     description:
       "OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures",
     tags: ["omnistudio", "vlocity", "low-code"],

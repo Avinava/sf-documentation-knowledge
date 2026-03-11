@@ -25,9 +25,9 @@ interface TocNode {
 }
 
 interface MetaResponse {
-  toc: TocNode[];
+  toc: TocNode[] | { children: TocNode[] };
   deliverable: string;
-  version: { doc_version: string };
+  version: { doc_version: string } | string;
 }
 
 interface ContentResponse {
@@ -61,16 +61,27 @@ export class AtlasMetaCollector extends BaseCollector {
     const meta = await this.fetch<MetaResponse>(metaUrl);
     await this.writeJson("_metadata.json", meta);
 
+    // Extract version string defensively
+    const docVersion =
+      typeof meta.version === "object" && meta.version !== null
+        ? meta.version.doc_version
+        : typeof meta.version === "string"
+          ? meta.version
+          : "latest";
+
     this.log.info(
-      { deliverable: meta.deliverable, version: meta.version.doc_version },
+      { deliverable: meta.deliverable, version: docVersion },
       "Metadata fetched",
     );
 
     const urlsToDownload: string[] = [];
 
-    // 2. Extract all valid URLs from the TOC tree
+    // 2. Extract all valid URLs from the TOC tree (handles both list and object formats)
     if (meta.toc) {
-      this.extractUrls(meta.toc, urlsToDownload);
+      const tocNodes = Array.isArray(meta.toc)
+        ? meta.toc
+        : meta.toc.children || [];
+      this.extractUrls(tocNodes, urlsToDownload);
     }
 
     this.log.info(
@@ -84,7 +95,7 @@ export class AtlasMetaCollector extends BaseCollector {
     const downloadTasks = urlsToDownload.map((href) =>
       limit(async () => {
         try {
-          const contentUrl = `${DOCS_BASE_URL}/get_document_content/${meta.deliverable}/${href}/${LANG}/${meta.version.doc_version}`;
+          const contentUrl = `${DOCS_BASE_URL}/get_document_content/${meta.deliverable}/${href}/${LANG}/${docVersion}`;
           const content = await this.fetch<ContentResponse>(contentUrl);
 
           if (content.id) {
