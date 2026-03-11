@@ -1,0 +1,63 @@
+---
+title: "Actionable List Member Search by Using Filter Criteria"
+domain: omnistudio
+topic: actionable-list-member-search-by-using-filter-criteria
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:25:08.809Z
+keywords: [Actionable, List, Member, Search, Filter, Criteria]
+---
+
+# Actionable List Member Search by Using Filter Criteria
+
+# Actionable List Member Search by Using Filter Criteria
+
+Get a list of actionable list members by using filter criteria.
+
+Resource
+
+```
+
+```
+
+Resource Example
+
+```
+
+```
+
+Available Version
+
+57.0
+
+Requires Chatter
+
+No
+
+HTTP Methods
+
+POST
+
+Request Body for POST
+
+JSON Example
+
+```
+
+```
+
+Properties
+
+| Name |  | Type | Description |  |  | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| after |  | String | Pointer to the last record in the previous pagination request. |  |  | Optional | 57.0 |
+| filters |  | Filter Input[] | List of WHERE clauses for filtering actionable list members. |  |  | Optional | 57.0 |
+| orderBy |  | OrderBy Input[] | ORDER BY clause for sorting actionable list members.NoteSorting of polymorphic columns of actionable list members isn’t supported. |  |  | Optional | 57.0 |
+| requireHeaders |  | Boolean | Indicates whether the metadata of the Actionable List Member fields must be provided (true) or not (false). The default value is true. |  |  | Optional | 57.0 |
+| scope |  | String | Specifies the scope of the API request:Assignee—API fetches the actionable list members assigned to the logged in user.All—API fetches all the actionable list members shared with or belonging to the logged in user.The default value is All. |  |  | Optional | 57.0 |
+| searchTerm |  | String | Reference record name for filtering actionable list member records. |  |  | Optional | 57.0 |
+
+Response Body for POST
+
+[Search Actionable List Members](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_search_actionable_list_members.htm "Output representation of the request for searching for actionable list members.")

@@ -1,0 +1,47 @@
+---
+title: "Guardrails (GET)"
+domain: omnistudio
+topic: guardrails-get
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:25:08.612Z
+keywords: [Guardrails, GET]
+---
+
+# Guardrails (GET)
+
+# Guardrails (GET)
+
+Fetches guardrails from the Business Rules Engine (BRE) to manage rate limits for BRE components.
+
+Resource
+
+```
+
+```
+
+Example POST
+
+```
+
+```
+
+Available version
+
+63.0
+
+HTTP methods
+
+GET
+
+Request parameters for GET
+
+| Parameter Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| componentNames | String | BRE component to fetch the guardrails. It contains a comma-separated list of predefined components.Valid component values are:ExpressionSetDecisionTableDecisionMatrixExplainabilityDynamicRulesIf no values are provided, guardrails for all components accessible to the user are returned. | Optional | 63.0 |
+| isNotification​Enabled | Boolean | Indicates whether to return only the guardrails with enabled notifications (true) or not (false). | Optional | 63.0 |
+
+Response body for GET
+
+[BRE Guardrails](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_bre_guardrails.htm "Output representation of the BRE guardrails for each component.")

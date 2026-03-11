@@ -1,0 +1,33 @@
+---
+title: "Expression Set"
+domain: omnistudio
+topic: expression-set
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:11.215Z
+keywords: [Expression, Set, Note]
+---
+
+# Expression Set
+
+# Expression Set
+
+An expression set allow complex math to be configured within OmniStudio. Expression set is also known as calculation Procedure or evaluation service.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
+
+#### Note
+
+These APIs have been deprecated as of API version 55.0. In API version 55.0 and later, use the new [Business APIs in Business Rules Engine](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/business_rules_engine_connect_apis.htm).
+
+Sometimes you need more than a simple mathematical equation, and configuring expression set enables you to run just this kind of comprehensive and detailed set of mathematical processing steps.
+
+To handle many factors, values, and calculations, a expression set can call up one or more decision matrices. These are simply lookup tables that take a unique input or set of inputs and return an output or set of outputs. Use a decision matrix whenever you need to look up data.
+
+-   **[Resources](atlas.en-us.industries_reference.meta/industries_reference/omnistudio_apis_resources.htm)**  
+    Here’s a list of Expression Set API (also known as Calculation Procedure) resources.
+-   **[Request Bodies](atlas.en-us.industries_reference.meta/industries_reference/omnistudio_apis_requests.htm)**  
+    Here’s a list of Expression Set API (also known as Calculation Procedure) request bodies.
+-   **[Response Bodies](atlas.en-us.industries_reference.meta/industries_reference/omnistudio_apis_responses.htm)**  
+    Here’s a list of Expression Set API (also known as Calculation Procedure) response bodies.

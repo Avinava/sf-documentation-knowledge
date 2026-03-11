@@ -17,6 +17,7 @@ This repository contains curated, accurate knowledge mapping for Salesforce **Re
 4. Do not blindly search the web when you can just read the curated, hallucination-free Markdown files provided here.
 
 ## Domain Topics & Tags
+
 - revenue-cloud
 - cpq
 - billing

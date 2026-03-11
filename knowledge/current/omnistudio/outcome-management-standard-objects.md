@@ -1,0 +1,37 @@
+---
+title: "Outcome Management Standard Objects"
+domain: omnistudio
+topic: outcome-management-standard-objects
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:11.293Z
+keywords: [Outcome, Management, Standard, Objects]
+---
+
+# Outcome Management Standard Objects
+
+# Outcome Management Standard Objects
+
+The Outcome Management data model provides objects and fields to define, measure, and evaluate an organization’s outcome strategy.
+
+-   **[ImpactStrategy](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_impactstrategy.htm)**  
+    Represents a high-level strategy to affect change in an individual, population, stakeholder, or the environment. This object is available in API version 59.0 and later.
+-   **[ImpactStrategyAssignment](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_impactstrategyassignment.htm)**  
+    Represents the connection between the impact strategy and the outcome or other object related to the impact strategy. This object is available in API version 59.0 and later.
+-   **[IndicatorAssignment](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_indicatorassignment.htm)**  
+    Represents the assignment of an indicator definition that's used to measure the performance of an outcome or a related activity. This object is available in API version 59.0 and later.
+-   **[IndicatorDefinition](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_indicatordefinition.htm)**  
+    Represents information about the indicator assignment and the process of measuring and calculating the indicator results. This object is available in API version 59.0 and later.
+-   **[IndicatorPerformancePeriod](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_indicatorperformanceperiod.htm)**  
+    Represents information about a specified time period including the frequency at which indicator results should be calculated and the baseline value of the indicator. This object is available in API version 59.0 and later.
+-   **[IndicatorResult](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_indicatorresult.htm)**  
+    Represents the result of an indicator assignment for the specified time period that can be used to track the performance of the indicator. This object is available in API version 59.0 and later.
+-   **[Outcome](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_outcome.htm)**  
+    Represents information about the expected change in participants that is driven by the organization's activity. This object is available in API version 59.0 and later.
+-   **[OutcomeActivity](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_outcomeactivity.htm)**  
+    Represents a junction between Outcome and the object that's related to the activity undertaken by an organization to achieve that outcome. This object is available in API version 59.0 and later.
+-   **[TimePeriod](atlas.en-us.industries_reference.meta/industries_reference/outcome_management_apis_timeperiod.htm)**  
+    Represents the time period that's used to calculate the indicator performance and result. This object is available in API version 59.0 and later.
+-   **[UnitOfMeasure](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_unitofmeasure.htm)**  
+    Represents the unit of measures for care metrics and care observations. This object is available in API version 49.0 and later.

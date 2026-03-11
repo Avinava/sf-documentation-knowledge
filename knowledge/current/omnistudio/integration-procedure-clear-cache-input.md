@@ -1,0 +1,38 @@
+---
+title: "Integration Procedure Clear Cache Input"
+domain: omnistudio
+topic: integration-procedure-clear-cache-input
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:08.333Z
+keywords: [Integration, Procedure, Clear, Cache, Input]
+---
+
+# Integration Procedure Clear Cache Input
+
+# Integration Procedure Clear Cache Input
+
+Input representation of the details to clear the execution cache of the integration procedures.
+
+JSON example
+
+This is a sample example to clear the cache of an integration procedure by using the key that's associated with the integration procedure and cache storage type.
+
+```
+
+```
+
+This is a sample example to clear the cache of an integration procedure by using the cache keys and cache storage type.
+
+```
+
+```
+
+Properties
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| cacheKeys | Integration Procedure Cache Keys | List of cache keys to clear the cache for. Cache keys are used to identify the cached data. | Optional | 64.0 |
+| cacheStorageType | String | Storage type that's used for caching the data. Valid values are:All—Includes all cache types, such as metadata, session, and org-level caches.Metadata—Cache is used for configuration-related data such as schemas or field mappings.Org—Cache is shared across the entire organization.Session—Cache is stored in the current user session. | Required | 64.0 |
+| iPInput | Integration Procedure Details[] | List of integration procedures to clear the cache for. | Optional | 64.0 |

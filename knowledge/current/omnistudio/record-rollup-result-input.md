@@ -1,0 +1,29 @@
+---
+title: "Record Rollup Result Input"
+domain: omnistudio
+topic: record-rollup-result-input
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:08.530Z
+keywords: [Record, Rollup, Result, Input]
+---
+
+# Record Rollup Result Input
+
+# Record Rollup Result Input
+
+Input representation to sort and fetch the record rollup results.
+
+JSON example
+
+```
+
+```
+
+Properties
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| isSortOrder​Ascending | Boolean | Indicates whether the sort order is ascending (true) or not (false). The default value is true. | Optional | 61.0 |
+| sortBy | String | Criteria to sort the record aggregation results. The default value is CreatedDate. | Optional | 61.0 |

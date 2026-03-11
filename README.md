@@ -58,7 +58,7 @@ npm run generate -- --domain cli-commands
 | **REST API**                                      | Salesforce REST API — resources, methods, composite, batch                | Not Collected | 0     |
 | **Tooling API**                                   | Tooling API — code coverage, debug logs, custom fields                    | Not Collected | 0     |
 | **Field Service**                                 | Field Service — work orders, scheduling, mobile, territories              | Not Collected | 0     |
-| **OmniStudio**                                    | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures  | Not Collected | 0     |
+| **OmniStudio**                                    | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures  | ✅ Available  | 1259  |
 | **Service Cloud**                                 | Service Cloud — cases, knowledge, omni-channel, entitlements              | Not Collected | 0     |
 
 <!-- INVENTORY:END -->

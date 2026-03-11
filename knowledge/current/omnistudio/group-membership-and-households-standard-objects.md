@@ -1,0 +1,27 @@
+---
+title: "Group Membership and Households Standard Objects"
+domain: omnistudio
+topic: group-membership-and-households-standard-objects
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:10.164Z
+keywords: [Group, Membership, Households, Standard, Objects]
+---
+
+# Group Membership and Households Standard Objects
+
+# Group Membership and Households Standard Objects
+
+The Group Membership and Households data model provides objects and fields to represent the relationships used for group memberships.
+
+-   **[AccountAccountRelation](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_accountaccountrelation.htm)**  
+    Represents a relationship between accounts, such as a relationship between a business account and a household account. This object is available in API version 57.0 and later.
+-   **[AccountContactRelation](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_accountcontactrelation.htm)**  
+    Standard and custom fields extend the standard Account object for use in Public Sector Solutions to represent information of members in a household. This object is available in API version 56.0 and later.
+-   **[ContactContactRelation](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_contactcontactrelation.htm)**  
+    Represents a relationship between contacts. This object is available in API version 57.0 and later.
+-   **[PartyRelationshipGroup](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_partyrelationshipgroup.htm)**  
+    Represents a group of people living together such as a household, or a group of people affiliated with each other. This object is available in API version 56.0 and later.
+-   **[PartyRoleRelation](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_partyrolerelation.htm)**  
+    Represents information about the type of relationship between the participants. This object is available in API version 57.0 and later.

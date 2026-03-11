@@ -1,0 +1,31 @@
+---
+title: "Reminder Recurring Schedule Input"
+domain: omnistudio
+topic: reminder-recurring-schedule-input
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:08.517Z
+keywords: [Reminder, Recurring, Schedule, Input]
+---
+
+# Reminder Recurring Schedule Input
+
+# Reminder Recurring Schedule Input
+
+Input representation of the recurring schedule of a reminder.
+
+JSON example
+
+Here’s a sample to configure a recurring reminder.
+
+```
+
+```
+
+Properties
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| recurrenceRule | String | Recurrence rule for the reminder. | Required | 60.0 |
+| scheduleType | String | Schedule type of the reminder. Valid value is Recurring. | Required | 60.0 |

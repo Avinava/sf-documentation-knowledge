@@ -1,0 +1,22 @@
+---
+title: "Expression Set Advanced Condition Step"
+domain: omnistudio
+topic: expression-set-advanced-condition-step
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:09.453Z
+keywords: [Expression, Set, Advanced, Condition, Step]
+---
+
+# Expression Set Advanced Condition Step
+
+# Expression Set Advanced Condition Step
+
+Output representation of an advanced condition step in an expression set.
+
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| condition​Logic | String | Condition that’s defined for the advanced condition. For example, all conditions are met or any of the conditions are met. | Small, 58.0 | 58.0 |
+| criteria | Expression Set Condition Criteria | List of condition criteria in an expression set. | Small, 58.0 | 58.0 |
+| result​Parameter | String | Expression set definition version variable associated with the result of this step. | Small, 58.0 | 58.0 |

@@ -2,7 +2,7 @@
 domain: data-cloud
 name: Data Cloud
 documentCount: 403
-lastGenerated: 2026-03-11T15:17:44.819Z
+lastGenerated: 2026-03-11T15:25:22.252Z
 ---
 
 # Data Cloud — Knowledge Index

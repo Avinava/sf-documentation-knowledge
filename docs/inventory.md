@@ -1,7 +1,7 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks the domains currently available in the knowledge system.
-_Last Updated: 2026-03-11T15:17:44.875Z_
+_Last Updated: 2026-03-11T15:25:23.135Z_
 
 ## Available Domains
 
@@ -18,10 +18,10 @@ _Last Updated: 2026-03-11T15:17:44.875Z_
 | rest-api                                                         | **REST API**<br><sub>P1</sub>                                      | Not Collected | 0     | _api, rest, integration_                |
 | tooling-api                                                      | **Tooling API**<br><sub>P1</sub>                                   | Not Collected | 0     | _api, tooling, development_             |
 | field-service                                                    | **Field Service**<br><sub>P2</sub>                                 | Not Collected | 0     | _field-service, service-cloud_          |
-| omnistudio                                                       | **OmniStudio**<br><sub>P2</sub>                                    | Not Collected | 0     | _omnistudio, vlocity, low-code_         |
+| [omnistudio](../../knowledge/current/omnistudio/_index.md)       | **OmniStudio**<br><sub>P2</sub>                                    | ✅ Available  | 1259  | _omnistudio, vlocity, low-code_         |
 | service-cloud                                                    | **Service Cloud**<br><sub>P2</sub>                                 | Not Collected | 0     | _service-cloud, cases, support_         |
 
 ## Summary
 
 - **Total Domains Tracked**: 13
-- **Total Knowledge Files**: 879
+- **Total Knowledge Files**: 2138

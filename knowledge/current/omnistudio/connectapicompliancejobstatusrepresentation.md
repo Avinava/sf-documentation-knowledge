@@ -1,0 +1,26 @@
+---
+title: "ConnectApi.ComplianceJobStatusRepresentation"
+domain: omnistudio
+topic: connectapicompliancejobstatusrepresentation
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:25:07.802Z
+keywords: [ConnectApi.ComplianceJobStatusRepresentation]
+---
+
+# ConnectApi.ComplianceJobStatusRepresentation
+
+# ConnectApi.ComplianceJobStatusRepresentation
+
+Output representation for job status response.
+
+| Property Name | Type | Description | Available Version |
+| --- | --- | --- | --- |
+| compliance​ProcedureId | String | ID of the compliance procedure. | 65.0 |
+| compliance​Procedure​VersionId | String | ID of the compliance procedure version. | 65.0 |
+| failed​EvaluationCount | Integer | Number of evaluations that failed. | 65.0 |
+| jobId | String | Job ID that's associated with the async evaluation of the compliance procedure. | 65.0 |
+| results | List<ConnectApi.ComplianceProcedureEvaluation> | List of evaluation results for the compliance procedure. | 65.0 |
+| successful​EvaluationCount | Integer | Number of evaluations that are successful. | 65.0 |
+| total​EvaluationCount | Integer | Total number of evaluations. | 65.0 |
