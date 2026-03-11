@@ -27,6 +27,7 @@ src/
 ├── mcp/             # MCP Server (Model Context Protocol)
 ├── cli/             # CLI entry points
 └── utils/           # Logger, hash, shared utilities
+scripts/             # Utility scripts, test runners, and bulk collection tools
 knowledge/           # Git-tracked output (curated .md files)
 skills/              # Generated per-domain SKILL.md files
 data/                # Intermediate data (gitignored)
