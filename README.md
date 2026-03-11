@@ -13,35 +13,102 @@ processes it into structured, curated knowledge files, and serves them to LLM ag
 
 No embeddings. No vector stores. No blind chunking.
 
-## Quick Start
+## Prerequisites
+
+- Node.js 20 or higher
+- Git
+- (Optional) Claude Desktop or an MCP-compatible agent
+
+## 1. Installation
 
 ```bash
-# Install
+# Clone the repository
+git clone https://github.com/Avinava/sf-documentation-knowledge.git
+cd sf-documentation-knowledge
+
+# Install dependencies
 npm install
 
-# Build
+# Build the project
 npm run build
-
-# Collect SF CLI docs
-npm run collect -- --domain cli-commands
-
-# Process raw → tagged
-npm run process -- --domain cli-commands
-
-# Generate knowledge files
-npm run generate -- --domain cli-commands
-
-# Output: knowledge/current/cli-commands/
 ```
 
-## Documentation
+## 2. Using the Pre-Compiled Knowledge Base
+
+The repository comes pre-loaded with **8,900+ curated markdown files** and a **Knowledge Graph** covering 13 domains of Salesforce documentation.
+
+If you just want to use the existing data, you can point your AI agent directly at the `knowledge/current/` directory, or use the MCP Server.
+
+### Option A: Context Engineering (File-based)
+
+Point your AI agent to the `_index.md` file in any domain folder. The index acts as a routing table telling the AI which files contain which topics.
+`knowledge/current/<domain-name>/_index.md`
+
+### Option B: MCP Server (Model Context Protocol)
+
+_Note: The MCP Server is currently in development (Phase 3)._
+Once active, you can configure your AI agent (like Claude Desktop) to connect to this repository to dynamically search and pull structured Salesforce documentation on demand.
+
+---
+
+## 3. Running the Data Pipeline (Updates)
+
+If you want to update the knowledge base with the latest Salesforce releases, you can run the internal data pipeline.
+
+### Step 1: Collect Raw Data
+
+Downloads raw HTML documentation from the Salesforce Atlas metadata APIs.
+_(Warning: This is a heavy operation. A full collection downloads 12,000+ files)._
+
+```bash
+# Collect a specific domain (Recommended)
+npm run collect -- --domain cli-commands
+
+# Collect all P0 domains
+npm run collect
+
+# Collect ALL domains
+npm run collect -- --all
+```
+
+### Step 2: Process HTML to Markdown
+
+Cleans the raw HTML, strips noise, parses tables, formats code blocks, and creates clean Markdown files.
+
+```bash
+# Process a specific domain
+npm run process -- --domain cli-commands
+
+# Process all domains
+npm run process -- --all
+```
+
+### Step 3: Generate Knowledge Graph & Artifacts
+
+Builds the relational knowledge graph, cuts the files into context-optimized 2-4k token chunks, and updates the repository's `README` and `inventory`.
+
+```bash
+# Generate specific domain
+npm run generate -- --domain cli-commands
+
+# Generate all domains and rebuild the Knowledge Graph
+npm run generate -- --all
+```
+
+---
+
+## Architecture & Contributions
 
 | Document                                              | Description               |
 | ----------------------------------------------------- | ------------------------- |
 | [Architecture](docs/architecture.md)                  | System design & data flow |
 | [Repo Skill](.agent/skills/repo-development/SKILL.md) | How to work on this repo  |
 
-## Domains
+## License
+
+Copyright © 2026. All rights reserved.
+
+## Documentation
 
 <!-- INVENTORY:START -->
 
@@ -62,18 +129,3 @@ npm run generate -- --domain cli-commands
 | **Service Cloud**                                 | Service Cloud — cases, knowledge, omni-channel, entitlements              | ✅ Available | 282   |
 
 <!-- INVENTORY:END -->
-
-## Commands
-
-```bash
-npm run collect            # Collect all P0 domains
-npm run collect -- -d <id> # Collect specific domain
-npm run process            # Process raw → tagged
-npm run generate           # Generate knowledge files
-npm run mcp:dev            # Start MCP server
-npm test                   # Run tests
-```
-
-## License
-
-Copyright © 2026. All rights reserved.
