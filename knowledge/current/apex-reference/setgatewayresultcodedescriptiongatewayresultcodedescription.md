@@ -1,0 +1,32 @@
+---
+title: "setGatewayResultCodeDescription(gatewayResultCodeDescription)"
+domain: apex-reference
+topic: setgatewayresultcodedescriptiongatewayresultcodedescription
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:42:36.667Z
+keywords: [setGatewayResultCodeDescription, gatewayResultCodeDescription, Signature, Parameters, Return, Value]
+---
+
+# setGatewayResultCodeDescription(gatewayResultCodeDescription)
+
+# setGatewayResultCodeDescription(gatewayResultCodeDescription)
+
+Sets a description of the gateway-specific result code that a payment gateway returned. Maximum length of 1000 characters.
+
+## Signature
+
+public void setGatewayResultCodeDescription(String gatewayResultCodeDescription)
+
+## Parameters
+
+gatewayResultCodeDescription
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Provides additional information about the result code and why the gateway returned the specific code. Descriptions will vary between different gateways.
+
+## Return Value
+
+Type: void

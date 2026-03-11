@@ -1,0 +1,42 @@
+---
+title: "enablePopout() for Lightning Experience for Lightning
+   Experience"
+domain: service-cloud
+topic: enablepopout-for-lightning-experience-for-lightning-experience
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:47:50.431Z
+keywords: [enablePopout, Lightning, Experience, Arguments, LWC, Sample, Code, Response]
+---
+
+# enablePopout() for Lightning Experience for Lightning
+   Experience
+
+# enablePopout() for Lightning Experience for Lightning Experience
+
+Toggles pop-out mode on a utility. Enabling pop-out mode on a utility displays the utility in a separate child window. This method is available for Lightning Web Components (LWC) only.
+
+## Arguments
+
+Optional parameters are passed into an object as the last argument of the method.
+
+| Name | Type | Description |
+| --- | --- | --- |
+| utilityId | string | The ID of the utility for which to toggle pop-out mode. |
+| enabled | boolean | Specifies whether to enable the utility's modal mode. |
+| disabledText | string | Optional. Hover text for pop-out button when the utility is not enabled for pop-out mode. |
+
+## LWC Sample Code
+
+This component toggles modal mode in a utility bar.
+
+```
+
+```
+
+To make your component available for use in a utility bar, specify the lightning\_\_UtilityBar target in the [component’s configuration file](https://developer.salesforce.com/docs/platform/lwc/guide/use-config-for-utility-bar.html).
+
+## Response
+
+Returns a promise that resolves to true if successful. The promise is rejected on error.

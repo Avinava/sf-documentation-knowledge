@@ -1,0 +1,33 @@
+---
+title: "PrimaryTabComponents Methods"
+domain: apex-reference
+topic: primarytabcomponents-methods
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:42:34.014Z
+keywords: [PrimaryTabComponents, Methods, Makes, duplicate, copy, Metadata.PrimaryTabComponents., clone, Signature, Return, Value]
+---
+
+# PrimaryTabComponents Methods
+
+> Makes a duplicate copy of the Metadata.PrimaryTabComponents.
+
+## PrimaryTabComponents Methods
+
+The following are methods for PrimaryTabComponents.
+
+-   **[clone()](atlas.en-us.apexref.meta/apexref/apex_class_Metadata_PrimaryTabComponents.htm#apex_Metadata_PrimaryTabComponents_clone)**  
+    Makes a duplicate copy of the Metadata.PrimaryTabComponents.
+
+### clone()
+
+Makes a duplicate copy of the Metadata.PrimaryTabComponents.
+
+#### Signature
+
+public Object clone()
+
+#### Return Value
+
+Type: Object

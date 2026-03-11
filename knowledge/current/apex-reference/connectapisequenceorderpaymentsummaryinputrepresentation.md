@@ -1,0 +1,27 @@
+---
+title: "ConnectApi.SequenceOrderPaymentSummaryInputRepresentation"
+domain: apex-reference
+topic: connectapisequenceorderpaymentsummaryinputrepresentation
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:42:37.573Z
+keywords: [ConnectApi.SequenceOrderPaymentSummaryInputRepresentation, See]
+---
+
+# ConnectApi.SequenceOrderPaymentSummaryInputRepresentation
+
+# ConnectApi.SequenceOrderPaymentSummaryInputRepresentation
+
+Amount to apply to specified OrderPaymentSummary as part of a payment or refund.
+
+| Property | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| amount | Double | Amount to apply to the OrderPaymentSummary. | Optional | 56.0 |
+| orderPayment​SummaryId | String | ID of the OrderPaymentSummary to apply the Amount to. | Required | 56.0 |
+
+#### See Also
+
+-   [ensureRefundsAsync(orderSummaryId, ensureRefundsInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm#apex_ConnectAPI_OrderSummary_ensureRefundsAsync_1 "Ensure refunds for a CreditMemo or excess funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and don’t affect the background operation status.")
+    
+-   [ConnectApi.EnsureRefundsAsyncInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_ensure_refunds_async.htm "ID of a credit memo to ensure refunds for, an amount of excess funds to refund, or both. At least one is required. Also includes any invoices for fees that reduce the refund amount, such as return fees. If multiple payment methods are available, you can specify how to distribute the refund.")

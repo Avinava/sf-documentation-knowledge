@@ -1,0 +1,44 @@
+---
+title: "setSelectedNavigationTab()"
+domain: service-cloud
+topic: setselectednavigationtab
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:47:50.703Z
+keywords: [setSelectedNavigationTab, Syntax, Arguments, Sample, Code–Visualforce, Response]
+---
+
+# setSelectedNavigationTab()
+
+# setSelectedNavigationTab()
+
+Sets the navigation tab with a specific ID or URL. This method is only available in API version 31.0 or later.
+
+## Syntax
+
+```
+
+```
+
+## Arguments
+
+| Name | Type | Description |
+| --- | --- | --- |
+| callback | function | JavaScript method that’s called upon completion of the method. |
+| navigatorTabId | string | The ID of the navigation tab to be selected. |
+| url | string | The URL of the navigation tab to be selected. |
+
+## Sample Code–Visualforce
+
+```
+
+```
+
+## Response
+
+This method is asynchronous, so it returns its response in an object in a callback method. The response object contains the following field:
+
+| Name | Type | Description |
+| --- | --- | --- |
+| success | boolean | true if setting the navigation tab with a specific ID or URL was successful, false otherwise. |

@@ -45,21 +45,21 @@ npm run generate -- --domain cli-commands
 
 <!-- INVENTORY:START -->
 
-| Domain                                            | Description                                                               | Status        | Files |
-| ------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ----- |
-| **Agentforce**                                    | AI agents, actions, topics, prompt templates, agent builder               | ✅ Available  | 66    |
-| **Data Cloud**                                    | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available  | 400   |
-| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator           | ✅ Available  | 217   |
-| **SF CLI Commands**                               | Salesforce CLI (sf) command reference — all commands across plugins       | ✅ Available  | 196   |
-| **Apex Developer Guide**                          | Apex language guide — syntax, triggers, testing, best practices           | Not Collected | 0     |
-| **Apex Reference**                                | Apex class library reference — all system classes and methods             | Not Collected | 0     |
-| **Lightning Web Components**                      | LWC developer guide — components, lifecycle, wire service, events         | Not Collected | 0     |
-| **Metadata API**                                  | Metadata API — deployment, retrieval, metadata types                      | Not Collected | 0     |
-| **REST API**                                      | Salesforce REST API — resources, methods, composite, batch                | Not Collected | 0     |
-| **Tooling API**                                   | Tooling API — code coverage, debug logs, custom fields                    | Not Collected | 0     |
-| **Field Service**                                 | Field Service — work orders, scheduling, mobile, territories              | Not Collected | 0     |
-| **OmniStudio**                                    | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures  | ✅ Available  | 1259  |
-| **Service Cloud**                                 | Service Cloud — cases, knowledge, omni-channel, entitlements              | Not Collected | 0     |
+| Domain                                            | Description                                                               | Status       | Files |
+| ------------------------------------------------- | ------------------------------------------------------------------------- | ------------ | ----- |
+| **Agentforce**                                    | AI agents, actions, topics, prompt templates, agent builder               | ✅ Available | 66    |
+| **Data Cloud**                                    | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400   |
+| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator           | ✅ Available | 217   |
+| **SF CLI Commands**                               | Salesforce CLI (sf) command reference — all commands across plugins       | ✅ Available | 196   |
+| **Apex Developer Guide**                          | Apex language guide — syntax, triggers, testing, best practices           | ✅ Available | 541   |
+| **Apex Reference**                                | Apex class library reference — all system classes and methods             | ✅ Available | 4388  |
+| **Lightning Web Components**                      | LWC developer guide — components, lifecycle, wire service, events         | ✅ Available | 1     |
+| **Metadata API**                                  | Metadata API — deployment, retrieval, metadata types                      | ✅ Available | 681   |
+| **REST API**                                      | Salesforce REST API — resources, methods, composite, batch                | ✅ Available | 307   |
+| **Tooling API**                                   | Tooling API — code coverage, debug logs, custom fields                    | ✅ Available | 338   |
+| **Field Service**                                 | Field Service — work orders, scheduling, mobile, territories              | ✅ Available | 242   |
+| **OmniStudio**                                    | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures  | ✅ Available | 1259  |
+| **Service Cloud**                                 | Service Cloud — cases, knowledge, omni-channel, entitlements              | ✅ Available | 282   |
 
 <!-- INVENTORY:END -->
 

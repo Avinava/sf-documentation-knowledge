@@ -1,0 +1,21 @@
+---
+title: "ConnectApi.CapacityRequestInputRepresentation"
+domain: apex-reference
+topic: connectapicapacityrequestinputrepresentation
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:42:36.863Z
+keywords: [ConnectApi.CapacityRequestInputRepresentation]
+---
+
+# ConnectApi.CapacityRequestInputRepresentation
+
+# ConnectApi.CapacityRequestInputRepresentation
+
+Request related to a location’s fulfillment order capacity.
+
+| Property | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| actionRequestId | String | Unique string that identifies the request. Can be a UUID. Use the action request IDs in response data to identify which requests succeeded or failed. | Required | 55.0 |
+| locationId | String | ID of the location associated with the request. | Required | 55.0 |

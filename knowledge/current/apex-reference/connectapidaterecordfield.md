@@ -1,0 +1,22 @@
+---
+title: "ConnectApi.DateRecordField"
+domain: apex-reference
+topic: connectapidaterecordfield
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:42:38.563Z
+keywords: [ConnectApi.DateRecordField]
+---
+
+# ConnectApi.DateRecordField
+
+# ConnectApi.DateRecordField
+
+Record field containing a date.
+
+Subclass of [ConnectApi.LabeledRecordField](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_labeledRecordField.htm "Record field containing a label and a text value.").
+
+| Name | Type | Description | Available Version |
+| --- | --- | --- | --- |
+| dateValue | Datetime | Date that a machine can read.Ignore the trailing 00:00:00.000Z characters. | 29.0 |

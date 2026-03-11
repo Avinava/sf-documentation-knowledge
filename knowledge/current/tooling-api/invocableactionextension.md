@@ -1,0 +1,41 @@
+---
+title: "InvocableActionExtension"
+domain: tooling-api
+topic: invocableactionextension
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:46:38.151Z
+keywords: [InvocableActionExtension, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+---
+
+# InvocableActionExtension
+
+# InvocableActionExtension
+
+Represents an extension to an invocable action in Salesforce. This object is available in API version 65.0 and later.
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_tooling)
+
+#### Important
+
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
+
+## Supported SOAP API Calls
+
+describeSObjects(), query(), retrieve()
+
+## Supported REST API Methods
+
+GET, HEAD, Query
+
+## Fields
+
+| Field | Details |
+| --- | --- |
+| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionThe unique name of the InvocableActionExtension object.The unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization. Label is Record Type Name. This field is automatically generated, but you can supply your own value if you create the record using the API.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
+| Language | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe language for the package. The picklist values match the Fully Supported Languages listed in Salesforce Help.If no language is specified, the language defaults to the language of the Dev Hub user who created the package. This field is available in API version 65.0 and later. |
+| ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
+| MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionLabel for the InvocableActionExtension. In the UI, this field is InvocableActionExtension. |
+| NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix associated with this object. Each Developer Edition organization that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation. |
+| ReferenceObjectId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionReference to the Apex Class that contains the Invocable Action being extended by this InvocableActionExtension. Only one InvocableActionExtension can exist for a given Apex Class, making this field a unique value among InvocableActionExtension records in this object.This field is a relationship field.Relationship NameReferenceObjectRefers ToApexClass |

@@ -1,0 +1,74 @@
+---
+title: "multipleEnsureFundsAsync(multipleEnsureFundsInput)"
+domain: apex-reference
+topic: multipleensurefundsasyncmultipleensurefundsinput
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:42:32.498Z
+keywords: [multipleEnsureFundsAsync, multipleEnsureFundsInput, Ensure, apply, funds, Invoices., needed, capture, authorized, sending, request, payment, provider., method, inserts, background, operation, asynchronous, job, queue]
+---
+
+# multipleEnsureFundsAsync(multipleEnsureFundsInput)
+
+> Ensure and apply funds for one or more Invoices. If needed, capture
+      authorized funds by sending a request to a payment provider. This method inserts a background
+      operation into an asynchronous job queue and returns the ID of that operation so you can track
+      its status. Payment gateway responses appear in the payment gateway log and do not affect the
+      background operation status.
+
+### multipleEnsureFundsAsync(multipleEnsureFundsInput)
+
+Ensure and apply funds for one or more Invoices. If needed, capture authorized funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and do not affect the background operation status.
+
+#### API Version
+
+56.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.MultipleAsyncOutputRepresentation multipleEnsureFundsAsync(ConnectApi.MultipleEnsureFundsAsyncInputRepresentation multipleEnsureFundsInput)
+
+#### Parameters
+
+multipleEnsureFundsInput
+
+Type: [ConnectApi.MultipleEnsureFundsAsyncInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_multiple_ensure_funds_async.htm "List of Invoices and the associated OrderSummaries.")
+
+List of Invoices and the associated OrderSummaries.
+
+#### Return Value
+
+Type: [ConnectApi.MultipleAsyncOutputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_multiple_async_output.htm "IDs of the asynchronous background operations. This output only includes the operation IDs, regardless of whether calls are made to an external payment gateway. It doesn’t include any errors from the operations.")
+
+#### Usage
+
+For each Invoice in the request, this method checks the OrderPaymentSummaries associated with the specified OrderSummary for funds to apply to the Invoice balance following this logic.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexref)
+
+#### Note
+
+If multiple OrderPaymentSummaries have equal BalanceAmount values, their order of selection is random.
+
+1.  Verify that the Invoice balance doesn’t exceed the total BalanceAmount of all the OrderPaymentSummaries associated with the OrderSummary.
+2.  If an OrderPaymentSummary has a BalanceAmount equal to the invoice balance, apply the funds from that OrderPaymentSummary.
+3.  If no exact match was found, apply funds from the OrderPaymentSummary with the largest BalanceAmount.
+4.  If the Invoice still has a balance to ensure, repeat steps 2 and 3 until the full balance is ensured or no captured funds remain.
+5.  If the Invoice still has a balance, look for an OrderPaymentSummary with an authorized amount equal to the remaining Invoice balance. If one exists, capture and apply the funds from that OrderPaymentSummary.
+6.  If no exact match was found, capture and apply funds from the OrderPaymentSummary with the largest authorized amount.
+7.  If the Invoice still has a balance to ensure, repeat steps 5 and 6 until the full balance is ensured.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexref)
+
+#### Note
+
+If the method creates a payment, the payment record’s ClientContext value isn’t predictable. Don't use it in custom logic.
+
+#### See Also
+
+-   [ensureFundsAsync(orderSummaryId, ensureFundsInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm#apex_ConnectAPI_OrderSummary_ensureFundsAsync_1 "Ensure funds for an Invoice and apply them to it and optional define a sequence to capture payments in. If needed, capture authorized funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and do not affect the background operation status.")

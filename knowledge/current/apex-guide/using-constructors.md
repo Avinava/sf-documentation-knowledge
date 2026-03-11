@@ -1,0 +1,57 @@
+---
+title: "Using Constructors"
+domain: apex-guide
+topic: using-constructors
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:43:46.518Z
+keywords: [Constructors]
+---
+
+# Using Constructors
+
+# Using Constructors
+
+A constructor is code that is invoked when an object is created from the class blueprint. You do not need to write a constructor for every class. If a class doesn't have a user-defined constructor, a default, no-argument constructor with the same visibility as the containing class is generated.
+
+The syntax for a constructor is similar to a method, but it differs from a method definition in that it never has an explicit return type and it is not inherited by the object created from it.
+
+After you write the constructor for a class, you must use the new keyword in order to instantiate an object from that class, using that constructor. For example, using the following class:
+
+```
+
+```
+
+A new object of this type can be instantiated with this code.
+
+```
+
+```
+
+If you write a constructor that takes arguments, you can then use that constructor to create an object using those arguments.
+
+If you create a constructor that takes arguments, and you still want to use a no-argument constructor, you must create your own no-argument constructor in your code. After you create a constructor for a class, you no longer have access to the default, no-argument public constructor.
+
+In Apex, a constructor can be overloaded, that is, there can be more than one constructor for a class, each having different parameters. This example illustrates a class with two constructors: one with no arguments and one that takes a simple Integer argument. It also illustrates how one constructor calls another constructor using the this(...) syntax, also know as constructor chaining.
+
+```
+
+```
+
+New objects of this type can be instantiated with this code.
+
+```
+
+```
+
+Every constructor that you create for a class must have a different argument list. In this example, all of the constructors are possible.
+
+```
+
+```
+
+When you define a new class, you are defining a new data type. You can use class name in any place you can use other data type names, such as String, Boolean, or Account. If you define a variable whose type is a class, any object you assign to it must be an instance of that class or subclass.
+
+-   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm "Class Methods")
+-   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm "Access Modifiers")

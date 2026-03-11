@@ -1,0 +1,20 @@
+---
+title: "Apex Release Notes"
+domain: apex-reference
+topic: apex-release-notes
+apiVersion: 67.0
+release: summer-26-v67
+docType: release-note
+lastCollected: 2026-03-11T15:42:42.311Z
+keywords: [Apex, Release, Notes]
+---
+
+# Apex Release Notes
+
+# Apex Release Notes
+
+Use the Salesforce Release Notes to learn about the most recent updates and changes to Apex.
+
+For Apex updates and changes that impact the Salesforce Platform, see the [Apex Release Notes](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex.htm&language=en_US).
+
+For new and changed Apex classes, methods, exceptions and interfaces, see [Apex: New and Changed Items](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_nc.htm&language=en_US) in the Salesforce Release Notes.

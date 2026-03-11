@@ -1,0 +1,58 @@
+---
+title: "setTestSearchStreams(communityId, q, result)"
+domain: apex-reference
+topic: settestsearchstreamscommunityid-q-result
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-11T15:42:31.230Z
+keywords: [setTestSearchStreams, communityId, result, Register, ConnectApi.ChatterStreamPage, object, returned, matching, ConnectApi.searchStream, method, called, test, context., same, parameters, receive, exception., API, Version, Signature]
+---
+
+# setTestSearchStreams(communityId, q, result)
+
+> Register a ConnectApi.ChatterStreamPage object to be returned when the matching ConnectApi.searchStream(communityId, q) method is called in
+      a test context. Use the method with the same parameters or you receive an
+    exception.
+
+### setTestSearchStreams(communityId, q, result)
+
+Register a ConnectApi.ChatterStreamPage object to be returned when the matching ConnectApi.searchStream(communityId, q) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+40.0
+
+#### Signature
+
+public static Void setTestSearchStreams(String communityId, String q, ConnectApi.ChatterStreamPage result)
+
+#### Parameters
+
+communityId
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+ID for an Experience Cloud site, internal, or null.
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Required and can’t be null. Specifies the string to search. The search string must contain at least two characters, not including wildcards. See [Wildcards](https://developer.salesforce.com/docs/atlas.en-us.260.0.chatterapi.meta/chatterapi/intro_wildcards.htm).
+
+result
+
+Type: [ConnectApi.ChatterStreamPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_stream_collection.htm#apex_connectapi_output_feed_stream_collection "A collection of Chatter feed streams.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+#### See Also
+
+-   [searchStreams(communityId, q)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm#apex_ConnectAPI_ChatterFeeds_searchStreams_3 "Search the Chatter feed streams for the context user.")
+    
+-   [*Apex Developer Guide*: Testing ConnectApi Code](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectAPI_TestingApex.htm "Apex Developer Guide: Testing ConnectApi Code - HTML (New Window)")

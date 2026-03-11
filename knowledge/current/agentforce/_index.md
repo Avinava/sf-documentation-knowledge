@@ -2,7 +2,7 @@
 domain: agentforce
 name: Agentforce
 documentCount: 67
-lastGenerated: 2026-03-11T15:25:22.267Z
+lastGenerated: 2026-03-11T15:47:52.371Z
 ---
 
 # Agentforce — Knowledge Index

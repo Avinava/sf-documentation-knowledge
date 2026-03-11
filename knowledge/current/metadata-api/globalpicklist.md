@@ -1,0 +1,53 @@
+---
+title: "GlobalPicklist"
+domain: metadata-api
+topic: globalpicklist
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-11T15:45:52.980Z
+keywords: [GlobalPicklist, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+---
+
+# GlobalPicklist
+
+# GlobalPicklist
+
+Represents a global picklist, or the set of shared picklist values that custom picklist fields can use. In contrast, the custom picklist fields that are based on a global picklist are of type CustomValue. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
+
+#### Important
+
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
+
+## File Suffix and Directory Location
+
+GlobalPicklist components have the suffix .globalPicklist and are stored in the globalPicklist folder.
+
+## Version
+
+GlobalPicklist components are available in API version 37.0 only. In API version 38.0 and later, GlobalPicklist is replaced by the [GlobalValueSet](atlas.en-us.api_meta.meta/api_meta/meta_globalvalueset.htm "Represents the metadata for a global picklist value set, which is the set of shared values that custom picklist fields can use. A global value set isn’t a field itself. In contrast, the custom picklist fields that are based on a global picklist are of type ValueSet. This type extends the Metadata metadata type and inherits its fullName field.") type.
+
+## Fields
+
+| Field Name | Field Type | Description |
+| --- | --- | --- |
+| description | string | It’s useful to state the global picklist’s purpose, and which objects it’s intended for. Limit: 255 characters. |
+| globalPicklistValues | GlobalPicklistValue[] | Requires at least one value. The list of values, or “picklist value set,” that’s defined for a global picklist. The picklist value set is inherited by any custom picklist field that’s based on that global picklist. Each value is of type GlobalPicklistValue. A global picklist can have up to 1,000 total values, including inactive values. |
+| masterLabel | string | Required. A global picklist’s name, which is defined when the global picklist is created. Appears as Label in the user interface. |
+| sorted | string | Indicates whether a global picklist’s value set is sorted in alphabetical order. By default this value is false. |
+
+## Declarative Metadata Sample Definition
+
+This Territories.globalPicklist is an example of a GlobalPicklist component.
+
+```
+
+```
+
+This example package.xml references the previous definition.
+
+```
+
+```
