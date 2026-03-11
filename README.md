@@ -48,7 +48,7 @@ npm run generate -- --domain cli-commands
 | Domain                                            | Description                                                               | Status        | Files |
 | ------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ----- |
 | **Agentforce**                                    | AI agents, actions, topics, prompt templates, agent builder               | ✅ Available  | 66    |
-| **Data Cloud**                                    | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available  | 2     |
+| **Data Cloud**                                    | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available  | 400   |
 | **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator           | ✅ Available  | 217   |
 | **SF CLI Commands**                               | Salesforce CLI (sf) command reference — all commands across plugins       | ✅ Available  | 196   |
 | **Apex Developer Guide**                          | Apex language guide — syntax, triggers, testing, best practices           | Not Collected | 0     |

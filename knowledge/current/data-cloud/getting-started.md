@@ -5,7 +5,7 @@ topic: getting-started
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T10:04:55.087Z
+lastCollected: 2026-03-11T15:17:42.554Z
 keywords: [Getting, Started, Familiarize, Yourself, Data, Cloud, Set, Sources, Create, Connected, App, Important, Acquire, Access, Token, Note, Exchanging, Auto-Generated, Endpoints]
 ---
 

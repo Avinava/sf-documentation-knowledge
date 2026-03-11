@@ -6,9 +6,14 @@
  * - Output directory management
  * - Collection status tracking
  */
-import axios, { type AxiosInstance, type AxiosError } from "axios";
+import axios, {
+  type AxiosInstance,
+  type AxiosError,
+  type AxiosRequestConfig,
+} from "axios";
 import fs from "fs-extra";
 import path from "node:path";
+import puppeteer from "puppeteer";
 import { createChildLogger } from "../utils/logger.js";
 import type { DomainConfig } from "../config/domains.js";
 
@@ -27,6 +32,9 @@ export abstract class BaseCollector {
   protected readonly log;
   private readonly rateLimitMs: number;
   private readonly retryCount: number;
+
+  private static akamaiCookies: string | null = null;
+  private static cookiePromise: Promise<string> | null = null;
 
   constructor(domain: DomainConfig, baseOutputDir = "data/raw") {
     this.domain = domain;
@@ -105,19 +113,46 @@ export abstract class BaseCollector {
           await this.sleep(this.rateLimitMs);
         }
 
-        const response = await this.http.get<T>(url);
+        const config: AxiosRequestConfig = {};
+        if (BaseCollector.akamaiCookies) {
+          config.headers = { Cookie: BaseCollector.akamaiCookies };
+        }
+
+        const response = await this.http.get<T>(url, config);
+
+        // Akamai might return a 200 with an HTML challenge page or empty string instead of JSON
+        if (
+          typeof response.data === "string" &&
+          (response.data.trim().startsWith("<") || response.data.trim() === "")
+        ) {
+          throw new Error(
+            "Akamai CDN blocked request (returned HTML or empty instead of JSON)",
+          );
+        }
+
         return response.data;
       } catch (err) {
         lastError = err as Error;
         const axiosErr = err as AxiosError;
+        const status = axiosErr.response?.status;
+
+        // If we hit a block (403 or our custom error), try to get new cookies
+        if (status === 403 || lastError.message.includes("CDN block")) {
+          this.log.warn(
+            { url, status, err: lastError.message },
+            "CDN block detected, attempting Puppeteer bypass...",
+          );
+          await this.getAkamaiCookies(url);
+          continue; // immediately retry the loop with new cookies
+        }
 
         // Don't retry on 4xx errors (except 429 and 403 which Salesforce uses for rate limiting)
         if (
-          axiosErr.response &&
-          axiosErr.response.status >= 400 &&
-          axiosErr.response.status < 500 &&
-          axiosErr.response.status !== 429 &&
-          axiosErr.response.status !== 403
+          status &&
+          status >= 400 &&
+          status < 500 &&
+          status !== 429 &&
+          status !== 403
         ) {
           throw err;
         }
@@ -127,7 +162,7 @@ export abstract class BaseCollector {
             url,
             attempt,
             maxAttempts: this.retryCount,
-            status: axiosErr.response?.status,
+            status,
           },
           "Fetch failed, retrying",
         );
@@ -135,6 +170,49 @@ export abstract class BaseCollector {
     }
 
     throw lastError || new Error(`Failed to fetch ${url}`);
+  }
+
+  /** Launch a headless browser to solve Akamai challenge and extract cookies */
+  private async getAkamaiCookies(targetUrl: string): Promise<string> {
+    if (BaseCollector.cookiePromise) {
+      return BaseCollector.cookiePromise;
+    }
+
+    BaseCollector.cookiePromise = (async () => {
+      this.log.info(
+        { url: targetUrl },
+        "Launching Puppeteer to bypass CDN block and extract cookies...",
+      );
+      const browser = await puppeteer.launch({ headless: true });
+      try {
+        const page = await browser.newPage();
+        await page.setExtraHTTPHeaders({
+          "Accept-Language": "en-US,en;q=0.9",
+        });
+        await page.setUserAgent(
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        );
+
+        await page.goto(targetUrl, { waitUntil: "networkidle0" });
+
+        const cookies = await page.cookies();
+        const cookieStr = cookies.map((c) => `${c.name}=${c.value}`).join("; ");
+
+        if (cookieStr) {
+          BaseCollector.akamaiCookies = cookieStr;
+          this.log.info("Successfully extracted Akamai session cookies.");
+        } else {
+          this.log.warn("Puppeteer finished but no cookies were extracted.");
+        }
+
+        return cookieStr;
+      } finally {
+        await browser.close();
+        BaseCollector.cookiePromise = null;
+      }
+    })();
+
+    return BaseCollector.cookiePromise;
   }
 
   /** Write a JSON file to the output directory */

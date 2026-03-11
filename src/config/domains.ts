@@ -54,7 +54,7 @@ export const DOMAINS: DomainConfig[] = [
     id: "agentforce",
     name: "Agentforce",
     priority: "P0",
-    // gen_ai_dev_guide is CDN-blocked; using IT Service guide as primary Agentforce deliverable
+    // gen_ai_dev_guide returns blank backend response, using IT Service guide as primary Agentforce deliverable
     atlas: "atlas.en-us.agentforce_it_service_dev_guide",
     description: "AI agents, actions, topics, prompt templates, agent builder",
     tags: ["agentforce", "einstein", "ai", "agents"],
