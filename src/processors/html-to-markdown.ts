@@ -195,16 +195,19 @@ export function processAtlasContent(rawData: {
   // Clean up the markdown — remove excessive whitespace and empty headings
   const cleanedMarkdown = cleanMarkdown(fullMarkdown);
 
+  // Sanitize any example tokens/secrets that would trigger GitHub secret scanning
+  const sanitizedMarkdown = sanitizeSecrets(cleanedMarkdown);
+
   // Extract sections from the final markdown
   const sections = extractSections(cleanedMarkdown);
 
   const document: ParsedDocument = {
     title: pageTitle,
     shortDescription: shortDesc,
-    content: cleanedMarkdown,
+    content: sanitizedMarkdown,
     sourceId: rawData.id,
     sections,
-    codeExamples,
+    codeExamples: codeExamples.map(sanitizeSecrets),
     namespace,
     crossReferences,
   };
@@ -411,4 +414,47 @@ function extractSections(markdown: string): ParsedSection[] {
   }
 
   return sections;
+}
+
+/**
+ * Sanitize example tokens and secrets from documentation content.
+ *
+ * Salesforce docs often include example access tokens, JWT assertions,
+ * and OAuth tokens that GitHub secret scanning will flag as real secrets.
+ * This function redacts them with safe placeholders.
+ */
+function sanitizeSecrets(text: string): string {
+  let result = text;
+
+  // Salesforce access tokens: 00D followed by org ID + ! + token
+  // e.g., 00D50000000IehZ!AQcAQH0dMHZfz972Szmpkb58...
+  result = result.replace(
+    /00D[a-zA-Z0-9]{12,18}![A-Za-z0-9._]{20,}/g,
+    "<SALESFORCE_ACCESS_TOKEN>",
+  );
+
+  // JWT tokens: eyJ... (header.payload.signature, each part base64)
+  // Match base64url dot-separated tokens with 100+ chars total
+  result = result.replace(
+    /eyJ[A-Za-z0-9_-]{20,}\.eyJ[A-Za-z0-9_-]{20,}\.[A-Za-z0-9_-]{20,}/g,
+    "<JWT_TOKEN>",
+  );
+
+  // Long base64 strings that look like assertions/tokens (100+ chars of base64)
+  // Only match within assertion= or token= contexts to avoid false positives
+  result = result.replace(
+    /(&assertion=|&subject_token=)[A-Za-z0-9+/=_-]{100,}/g,
+    (match) => {
+      const prefix = match.startsWith("&assertion=")
+        ? "&assertion="
+        : "&subject_token=";
+      const placeholder =
+        prefix === "&assertion="
+          ? "<JWT_ASSERTION_TOKEN>"
+          : "<SALESFORCE_ACCESS_TOKEN>";
+      return `${prefix}${placeholder}`;
+    },
+  );
+
+  return result;
 }
