@@ -14,6 +14,7 @@ import { z } from "zod";
 import fs from "fs-extra";
 import path from "node:path";
 import { GraphQuery } from "../utils/graph-query.js";
+import { CodeIndex } from "./code-index.js";
 
 const KNOWLEDGE_DIR = path.resolve(
   process.env.SF_KNOWLEDGE_DIR || "knowledge/current",
@@ -21,11 +22,29 @@ const KNOWLEDGE_DIR = path.resolve(
 
 // Shared graph query instance — loaded once on startup
 const gq = new GraphQuery(KNOWLEDGE_DIR);
+const codeIndex = new CodeIndex(KNOWLEDGE_DIR);
 
 const server = new McpServer({
   name: "sf-documentation-knowledge",
-  version: "1.0.0",
+  version: "1.1.0",
 });
+
+// ─── Helper: build next-action suggestions ──────────────────────
+function suggestNext(toolUsed: string, context: Record<string, string> = {}): string {
+  const suggestions: Record<string, string> = {
+    sf_search: context.domain
+      ? `💡 Next: sf_read_topic("${context.domain}", "_index") to see all topics, or sf_code_examples("${context.query || '...'}") for code snippets.`
+      : `💡 Next: sf_read_topic(domain, topic) to read a result, or sf_code_examples("${context.query || '...'}") for code.`,
+    sf_read_topic: `💡 Next: sf_graph_query("context", nodeId) for related docs, or sf_code_examples("${context.topic || '...'}") for more code.`,
+    sf_graph_query: `💡 Next: sf_read_topic to read a doc, or sf_code_examples to find code snippets.`,
+    sf_list_domains: `💡 Next: sf_read_topic(domain, "_index") to explore a domain's topics.`,
+    sf_apex_lookup: `💡 Next: sf_code_examples("${context.className || '...'}") for usage examples, or sf_graph_query("related", nodeId) for related classes.`,
+    sf_code_examples: `💡 Next: sf_read_topic(domain, topic) to read the full page, or sf_apex_lookup(className) for class docs.`,
+    sf_object_reference: `💡 Next: sf_search("${context.object || '...'} trigger") for related automation docs.`,
+    sf_explain_error: `💡 Next: sf_code_examples("${context.error || '...'}") for handling patterns, or sf_apex_lookup(className) for class reference.`,
+  };
+  return suggestions[toolUsed] || '';
+}
 
 // ─── Tool 1: sf_search ──────────────────────────────────────────
 server.tool(
@@ -72,7 +91,7 @@ server.tool(
         {
           type: "text" as const,
           text: filtered.length > 0
-            ? `Found ${filtered.length} results for "${query}":\n\n${text}`
+            ? `Found ${filtered.length} results for "${query}":\n\n${text}\n\n${suggestNext('sf_search', { query, domain: domain || '' })}`
             : `No results found for "${query}". Try broader terms or check available domains with sf_list_domains.`,
         },
       ],
@@ -111,7 +130,7 @@ server.tool(
     }
 
     const content = await fs.readFile(filePath, "utf-8");
-    return { content: [{ type: "text" as const, text: content }] };
+    return { content: [{ type: "text" as const, text: `${content}\n\n${suggestNext('sf_read_topic', { topic })}` }] };
   },
 );
 
@@ -323,11 +342,207 @@ server.tool(
         {
           type: "text" as const,
           text: fileContent
-            ? `${fileContent}${otherText}`
-            : `Found: **${topResult.label}** (${topResult.nodeId})${otherText}`,
+            ? `${fileContent}${otherText}\n\n${suggestNext('sf_apex_lookup', { className })}`
+            : `Found: **${topResult.label}** (${topResult.nodeId})${otherText}\n\n${suggestNext('sf_apex_lookup', { className })}`,
         },
       ],
     };
+  },
+);
+
+// ─── Tool 6: sf_code_examples ───────────────────────────────────
+server.tool(
+  "sf_code_examples",
+  "Find working code examples from Salesforce documentation. Returns code snippets with language, source file, and surrounding context. Great for learning patterns and copy-paste solutions.",
+  {
+    topic: z.string().describe("Topic to find code for (e.g. 'batch apex', 'REST callout', 'SOQL aggregate')"),
+    language: z.string().optional().describe("Optional language filter (e.g. 'apex', 'javascript', 'soql', 'json')"),
+    domain: z.string().optional().describe("Optional domain filter (e.g. 'apex-guide', 'lwc')"),
+    limit: z.number().optional().default(5).describe("Max snippets to return (default 5)"),
+  },
+  async ({ topic, language, domain, limit }) => {
+    const snippets = codeIndex.search(topic, { language, domain, limit: limit || 5 });
+
+    if (snippets.length === 0) {
+      return {
+        content: [{
+          type: "text" as const,
+          text: `No code examples found for "${topic}". Try broader terms or remove the language filter.\n\n💡 Next: sf_search("${topic}") to find documentation pages that may contain code.`,
+        }],
+      };
+    }
+
+    const fence = '```';
+    const text = snippets.map((s, i) => {
+      return [
+        `### Example ${i + 1}: ${s.heading || s.docTitle}`,
+        s.context ? `> ${s.context}` : '',
+        `${fence}${s.language}`,
+        s.code,
+        fence,
+        `*Source: ${s.domain}/${s.topic}*`,
+      ].filter(Boolean).join('\n');
+    }).join('\n\n');
+
+    return {
+      content: [{
+        type: "text" as const,
+        text: `Found ${snippets.length} code examples for "${topic}":\n\n${text}\n\n${suggestNext('sf_code_examples', { topic })}`,
+      }],
+    };
+  },
+);
+
+// ─── Tool 7: sf_object_reference ────────────────────────────────
+server.tool(
+  "sf_object_reference",
+  "Look up a Salesforce standard object or field. Searches the Field Reference Guide (4,800+ pages) and Object Reference (1,700+ pages) for object details, field types, and relationships.",
+  {
+    object: z.string().describe("Object name (e.g. 'Account', 'Contact', 'Opportunity', 'Case')"),
+    field: z.string().optional().describe("Optional specific field (e.g. 'Industry', 'OwnerId', 'StageName')"),
+  },
+  async ({ object, field }) => {
+    const searchQuery = field ? `${object} ${field}` : object;
+    const results = gq.searchNodes(searchQuery, { type: 'document', limit: 20 });
+
+    // Filter to field reference and object reference domains
+    const refResults = results.filter(r =>
+      r.nodeId.startsWith('doc:sfFieldRef:') ||
+      r.nodeId.startsWith('doc:object-reference:'),
+    );
+
+    if (refResults.length === 0) {
+      // Fallback: try keyword search
+      const kwResults = gq.findDocsByKeyword(object.toLowerCase(), 10);
+      const kwFiltered = kwResults.filter(r =>
+        r.nodeId.startsWith('doc:sfFieldRef:') ||
+        r.nodeId.startsWith('doc:object-reference:'),
+      );
+
+      if (kwFiltered.length === 0) {
+        return {
+          content: [{
+            type: "text" as const,
+            text: `No object/field reference found for "${searchQuery}". Try sf_search("${object}") for broader results.`,
+          }],
+        };
+      }
+
+      // Read the top keyword result
+      const top = kwFiltered[0];
+      const parts = top.nodeId.split(':');
+      const filePath = path.join(KNOWLEDGE_DIR, parts[1], `${parts.slice(2).join(':')}.md`);
+      if (await fs.pathExists(filePath)) {
+        const content = await fs.readFile(filePath, 'utf-8');
+        return { content: [{ type: "text" as const, text: `${content}\n\n${suggestNext('sf_object_reference', { object })}` }] };
+      }
+    }
+
+    // Read the top result
+    const topResult = refResults[0];
+    const topParts = topResult.nodeId.split(':');
+    const topDomain = topParts[1];
+    const topTopic = topParts.slice(2).join(':');
+    const filePath = path.join(KNOWLEDGE_DIR, topDomain, `${topTopic}.md`);
+
+    let fileContent = '';
+    if (await fs.pathExists(filePath)) {
+      fileContent = await fs.readFile(filePath, 'utf-8');
+    }
+
+    const otherResults = refResults.slice(1, 8);
+    const otherText = otherResults.length > 0
+      ? '\n\n### See also:\n' + otherResults.map(r => `- **${r.label}** (${r.nodeId})`).join('\n')
+      : '';
+
+    return {
+      content: [{
+        type: "text" as const,
+        text: fileContent
+          ? `${fileContent}${otherText}\n\n${suggestNext('sf_object_reference', { object })}`
+          : `Found: **${topResult.label}** (${topResult.nodeId})${otherText}\n\n${suggestNext('sf_object_reference', { object })}`,
+      }],
+    };
+  },
+);
+
+// ─── Tool 8: sf_explain_error ───────────────────────────────────
+server.tool(
+  "sf_explain_error",
+  "Explain a Salesforce error message or exception. Searches documentation for the error, provides explanation, common causes, and resolution steps.",
+  {
+    error: z.string().describe("Error message or exception (e.g. 'UNABLE_TO_LOCK_ROW', 'System.LimitException', 'FIELD_CUSTOM_VALIDATION_EXCEPTION')"),
+  },
+  async ({ error }) => {
+    // Search across all domains with priority on error-relevant ones
+    const results = gq.searchNodes(error, { type: 'document', limit: 20 });
+
+    // Prioritize apex, api, and guide domains
+    const priorityDomains = ['apex-guide', 'apex-reference', 'api', 'api-asynch', 'api-streaming'];
+    const sorted = results.sort((a, b) => {
+      const aPriority = priorityDomains.some(d => a.nodeId.startsWith(`doc:${d}:`)) ? 1 : 0;
+      const bPriority = priorityDomains.some(d => b.nodeId.startsWith(`doc:${d}:`)) ? 1 : 0;
+      return bPriority - aPriority;
+    });
+
+    // Also try keyword search for the error code
+    const errorCode = error.replace(/[^a-zA-Z_]/g, '_').toLowerCase();
+    const kwResults = gq.findDocsByKeyword(errorCode, 5);
+
+    // Merge and deduplicate
+    const allResults = [...sorted];
+    for (const r of kwResults) {
+      if (!allResults.some(a => a.nodeId === r.nodeId)) {
+        allResults.push(r);
+      }
+    }
+
+    if (allResults.length === 0) {
+      return {
+        content: [{
+          type: "text" as const,
+          text: `No documentation found for error "${error}". Try:\n- sf_search("${error}") for broader results\n- sf_apex_lookup(className) if this is an Apex exception`,
+        }],
+      };
+    }
+
+    // Read the top result to provide detailed explanation
+    const topResult = allResults[0];
+    const topParts = topResult.nodeId.split(':');
+    const topDomain = topParts[1];
+    const topTopic = topParts.slice(2).join(':');
+    const filePath = path.join(KNOWLEDGE_DIR, topDomain, `${topTopic}.md`);
+
+    let explanation = '';
+    if (await fs.pathExists(filePath)) {
+      const content = await fs.readFile(filePath, 'utf-8');
+      // Try to extract a relevant section (up to 2000 chars around the error mention)
+      const errorLower = error.toLowerCase();
+      const contentLower = content.toLowerCase();
+      const idx = contentLower.indexOf(errorLower);
+      if (idx >= 0) {
+        const start = Math.max(0, content.lastIndexOf('\n#', idx) + 1);
+        const end = Math.min(content.length, idx + 2000);
+        explanation = content.slice(start, end).trim();
+      } else {
+        // Return first 2000 chars if exact error not found in text
+        explanation = content.slice(0, 2000).trim();
+      }
+    }
+
+    const relatedDocs = allResults.slice(1, 6).map(r => `- **${r.label}** (${r.nodeId})`).join('\n');
+
+    const text = [
+      `## Error: ${error}`,
+      '',
+      explanation || `Found in: **${topResult.label}** (${topResult.nodeId})`,
+      '',
+      relatedDocs ? `### Related Documentation:\n${relatedDocs}` : '',
+      '',
+      suggestNext('sf_explain_error', { error }),
+    ].filter(Boolean).join('\n');
+
+    return { content: [{ type: "text" as const, text }] };
   },
 );
 
@@ -413,16 +628,17 @@ server.prompt(
 
 // ─── Start the server ───────────────────────────────────────────
 async function main() {
-  // Pre-load graph
-  await gq.load();
+  // Pre-load graph and code index in parallel
+  await Promise.all([gq.load(), codeIndex.load()]);
 
   const transport = new StdioServerTransport();
   await server.connect(transport);
 
   // Log to stderr (stdout is for MCP protocol)
   const { nodes, edges } = gq.getStats();
+  const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v1.0.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v1.1.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets)`,
   );
 }
 

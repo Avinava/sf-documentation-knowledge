@@ -123,7 +123,7 @@ export class GraphQuery {
   ): GraphSearchResult[] {
     this.ensureLoaded();
     const { type, limit = 25 } = options;
-    const terms = query.toLowerCase().split(/\s+/).filter((t) => t.length >= 2);
+    const terms = query.toLowerCase().split(/\s+/).filter((t) => t.length >= 3);
     if (terms.length === 0) return [];
 
     // Find candidate nodes from label index
@@ -131,6 +131,10 @@ export class GraphQuery {
 
     for (const term of terms) {
       for (const [word, nodeIds] of this.labelIndex) {
+        // Require meaningful overlap: shorter string must be ≥60% of longer
+        const shorter = Math.min(word.length, term.length);
+        const longer = Math.max(word.length, term.length);
+        if (shorter / longer < 0.6) continue;
         if (word.includes(term) || term.includes(word)) {
           for (const nodeId of nodeIds) {
             candidates.set(nodeId, (candidates.get(nodeId) || 0) + 1);
@@ -162,6 +166,7 @@ export class GraphQuery {
     }
 
     return results
+      .filter((r) => (r.score || 0) >= 0.3) // Filter weak matches
       .sort((a, b) => (b.score || 0) - (a.score || 0))
       .slice(0, limit);
   }

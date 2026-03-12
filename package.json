@@ -1,6 +1,6 @@
 {
   "name": "@sfdxy/sf-documentation-knowledge",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Salesforce documentation knowledge system — collect, process, and serve SF docs for LLM agents via MCP + Context Engineering",
   "type": "module",
   "main": "./dist/mcp/server.js",
