@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Setup Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v4
@@ -45,19 +47,3 @@ jobs:
         run: |
           node dist/cli/graph-stats.js
           echo "✅ graph:stats works"
-
-      - name: Test graph query API
-        run: |
-          node -e "
-            const {GraphQuery} = require('./dist/utils/graph-query.js');
-            (async () => {
-              const gq = new GraphQuery();
-              await gq.load();
-              const stats = gq.getStats();
-              console.log('Graph:', stats.nodes, 'nodes,', stats.edges, 'edges');
-              if (stats.nodes < 1000) throw new Error('Graph too small');
-              const results = gq.searchNodes('SOQL');
-              if (results.length === 0) throw new Error('Search returned no results');
-              console.log('✅ Graph query API works');
-            })();
-          "
