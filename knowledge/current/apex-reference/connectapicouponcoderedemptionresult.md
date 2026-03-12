@@ -5,9 +5,9 @@ topic: connectapicouponcoderedemptionresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.863Z
+lastCollected: 2026-03-12T09:33:26.956Z
 estimatedTokens: 152
-keywords: [ConnectApi.CouponCodeRedemptionResult, Coupon, code, redemption, result.]
+keywords: [ConnectApi.CouponCodeRedemptionResult, Coupon, code, redemption, result]
 ---
 
 # ConnectApi.CouponCodeRedemptionResult

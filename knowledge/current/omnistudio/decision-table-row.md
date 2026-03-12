@@ -5,9 +5,9 @@ topic: decision-table-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.029Z
+lastCollected: 2026-03-12T09:33:48.759Z
 estimatedTokens: 101
-keywords: [Decision, Table, Row, Output, representation, describe, output, decision, table, row.]
+keywords: [Decision, Row, Output, representation, describe]
 ---
 
 # Decision Table Row

@@ -5,9 +5,9 @@ topic: create-application-form-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.194Z
+lastCollected: 2026-03-12T09:33:47.201Z
 estimatedTokens: 193
-keywords: [Create, Application, Form, Details, Input, representation, request, create, application, form, details.]
+keywords: [Application, Form, Input, representation]
 ---
 
 # Create Application Form Details Input

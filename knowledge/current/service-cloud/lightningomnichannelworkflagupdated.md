@@ -5,9 +5,9 @@ topic: lightningomnichannelworkflagupdated
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.234Z
+lastCollected: 2026-03-12T09:33:55.367Z
 estimatedTokens: 191
-keywords: [lightning, omniChannelWorkFlagUpdated, Indicates, agent’s, work, item, flag, raised, lowered., Response, Example]
+keywords: [lightning, omniChannelWorkFlagUpdated, agent’s, work, item, flag, raised, lowered]
 ---
 
 # lightning:omniChannelWorkFlagUpdated

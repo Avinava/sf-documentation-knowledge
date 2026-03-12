@@ -5,9 +5,9 @@ topic: gtwyprovpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.827Z
+lastCollected: 2026-03-12T09:33:44.979Z
 estimatedTokens: 1752
-keywords: [GtwyProvPaymentMethodType, Represents, allows, integrators, payment, providers, choose, active, receive, order's, data, rather, allowing, Salesforce, Order, Management, platform, select, default, method.]
+keywords: [GtwyProvPaymentMethodType, integrators, payment, providers, choose, active, receive, order's, data, rather, allowing, Salesforce, Order, Management, platform]
 ---
 
 # GtwyProvPaymentMethodType

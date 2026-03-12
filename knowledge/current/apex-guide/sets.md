@@ -5,9 +5,9 @@ topic: sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.635Z
+lastCollected: 2026-03-12T09:33:34.556Z
 estimatedTokens: 431
-keywords: [set, unordered, collection, elements, contain, any, duplicates., Set, data, type—primitive, types, collections, sObjects, user-defined, built-in, Apex, types.]
+keywords: [unordered, collection, elements, contain, any, duplicates, data, type—primitive, collections, sObjects, user-defined, built-in, Apex]
 ---
 
 # Sets

@@ -5,10 +5,10 @@ topic: emailfileattachment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.451Z
+lastCollected: 2026-03-12T09:33:23.819Z
 estimatedTokens: 910
 namespace: Messaging
-keywords: [EmailFileAttachment, attachment, itself., body, contenttype, filename, inline]
+keywords: [EmailFileAttachment, attachment, itself, contenttype, filename, inline]
 ---
 
 # EmailFileAttachment Class

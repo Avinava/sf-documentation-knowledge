@@ -5,9 +5,9 @@ topic: connectapiuseractivitycollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.210Z
+lastCollected: 2026-03-12T09:33:29.251Z
 estimatedTokens: 247
-keywords: [ConnectApi.UserActivityCollection, User, activity, collection.]
+keywords: [ConnectApi.UserActivityCollection, User, activity, collection]
 ---
 
 # ConnectApi.UserActivityCollection

@@ -5,9 +5,9 @@ topic: decision-table-condition-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.268Z
+lastCollected: 2026-03-12T09:33:47.272Z
 estimatedTokens: 96
-keywords: [Decision, Table, Condition, List, Input, representation, condition, list.]
+keywords: [Decision, Condition, Input, representation]
 ---
 
 # Decision Table Condition List Input

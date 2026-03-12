@@ -5,10 +5,10 @@ topic: userprofiles-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.060Z
+lastCollected: 2026-03-12T09:33:19.744Z
 estimatedTokens: 4843
 namespace: ConnectApi
-keywords: [UserProfiles, Delete, user’s, banner, photo., deleteBannerPhoto, communityId, userId, API, Version, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest, Users, getUserProfile, setBannerPhoto, fileId]
+keywords: [UserProfiles, user’s, banner, photo, deleteBannerPhoto, communityId, userId, API, Version, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest]
 ---
 
 # UserProfiles Class

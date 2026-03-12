@@ -5,9 +5,9 @@ topic: relatedobjectfilterinputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.953Z
+lastCollected: 2026-03-12T09:33:07.003Z
 estimatedTokens: 450
-keywords: [RelatedObjectFilterInputRepresentation, Represents, input, criteria, filtering, products, based, related, information, such, account, opportunity, contract, data., relatedObjectFilter]
+keywords: [RelatedObjectFilterInputRepresentation, input, criteria, filtering, products, account, opportunity, contract, data, relatedObjectFilter]
 ---
 
 # RelatedObjectFilterInputRepresentation Class

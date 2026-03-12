@@ -5,10 +5,10 @@ topic: relatedlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.549Z
+lastCollected: 2026-03-12T09:33:21.028Z
 estimatedTokens: 649
 namespace: Metadata
-keywords: [RelatedList, Represents, related, list, custom, components, sidebars, Salesforce, console., Usage, hideOnDetail, name, clone]
+keywords: [RelatedList, custom, components, sidebars, Salesforce, console, Usage, hideOnDetail, clone]
 ---
 
 # RelatedList Class

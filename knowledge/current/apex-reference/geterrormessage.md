@@ -5,9 +5,9 @@ topic: geterrormessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.191Z
+lastCollected: 2026-03-12T09:33:26.360Z
 estimatedTokens: 107
-keywords: [getErrorMessage, contains, error, message., Usage]
+keywords: [getErrorMessage, error, message, Usage]
 ---
 
 # getErrorMessage()

@@ -5,9 +5,9 @@ topic: transaction-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.876Z
+lastCollected: 2026-03-12T09:33:34.773Z
 estimatedTokens: 1601
-keywords: [Transaction, Control, Read, transaction, requests, generating, releasing, savepoints, rolling, back, transactions, more., Generating, Savepoints, Rolling, Back, Transactions, Releasing, Callouts, Versioned]
+keywords: [Transaction, Control, requests, generating, releasing, savepoints, rolling, back, transactions, Callouts, Versioned, Behavior, Changes]
 ---
 
 # Transaction Control

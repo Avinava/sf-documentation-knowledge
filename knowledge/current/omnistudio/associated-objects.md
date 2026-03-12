@@ -5,9 +5,9 @@ topic: associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.162Z
+lastCollected: 2026-03-12T09:33:51.680Z
 estimatedTokens: 650
-keywords: [Associated, Objects, section, provides, list, objects, associated, Industries, standard, their, fields.]
+keywords: [Associated, Objects, Industries, standard, their]
 ---
 
 # Associated Objects

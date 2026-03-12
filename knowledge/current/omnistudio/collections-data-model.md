@@ -5,9 +5,9 @@ topic: collections-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.956Z
+lastCollected: 2026-03-12T09:33:46.977Z
 estimatedTokens: 121
-keywords: [Collections, Data, Model, objects, relationships, used, Recovery.]
+keywords: [Collections, Data, Model, objects, relationships, Recovery]
 ---
 
 # Collections Data Model

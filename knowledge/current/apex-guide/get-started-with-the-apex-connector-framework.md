@@ -5,9 +5,9 @@ topic: get-started-with-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.019Z
+lastCollected: 2026-03-12T09:33:33.048Z
 estimatedTokens: 368
-keywords: [Get, Started, Apex, Connector, Framework, get, started, first, custom, adapter, Salesforce, Connect, create, two, classes, extends, DataSource.Connection, DataSource.Provider, class., Note]
+keywords: [Started, Apex, Connector, Framework, custom, adapter, Salesforce, Connect, two, classes, extends, DataSource.Connection, DataSource.Provider]
 ---
 
 # Get Started with the Apex Connector Framework

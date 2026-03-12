@@ -5,9 +5,9 @@ topic: lightningconversationcustomevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.197Z
+lastCollected: 2026-03-12T09:33:55.333Z
 estimatedTokens: 183
-keywords: [lightning, conversationCustomEvent, Event, triggered, custom, event, occurs, during, chat., Response, Example]
+keywords: [lightning, conversationCustomEvent, Event, triggered, custom, occurs, chat]
 ---
 
 # lightning:conversationCustomEvent

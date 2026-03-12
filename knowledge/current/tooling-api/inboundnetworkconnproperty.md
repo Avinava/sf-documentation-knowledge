@@ -5,9 +5,9 @@ topic: inboundnetworkconnproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.865Z
+lastCollected: 2026-03-12T09:33:45.022Z
 estimatedTokens: 364
-keywords: [InboundNetworkConnProperty, Represents, name-value, pair, describes, inbound, network, connection., API, version, 49.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [InboundNetworkConnProperty, name-value, pair, inbound, network, connection, API, version, 49.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # InboundNetworkConnProperty

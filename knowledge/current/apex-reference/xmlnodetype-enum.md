@@ -5,9 +5,9 @@ topic: xmlnodetype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.458Z
+lastCollected: 2026-03-12T09:33:29.504Z
 estimatedTokens: 94
-keywords: [XmlNodeType, Specifies, node, XML, document., Usage, Values]
+keywords: [XmlNodeType, node, XML, document, Usage]
 ---
 
 # XmlNodeType Enum

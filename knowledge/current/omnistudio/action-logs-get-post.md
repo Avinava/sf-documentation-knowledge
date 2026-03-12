@@ -5,9 +5,9 @@ topic: action-logs-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.250Z
+lastCollected: 2026-03-12T09:33:48.130Z
 estimatedTokens: 899
-keywords: [Action, Logs, GET, POST, Retrieve, paginated, list, Explainability, action, logs., Create, log.]
+keywords: [Action, Logs, POST, Retrieve, paginated, Explainability, log]
 ---
 
 # Action Logs (GET, POST)

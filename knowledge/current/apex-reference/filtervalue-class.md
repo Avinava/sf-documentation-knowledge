@@ -5,10 +5,10 @@ topic: filtervalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.039Z
+lastCollected: 2026-03-12T09:33:23.436Z
 estimatedTokens: 438
 namespace: Reports
-keywords: [FilterValue, Contains, information, filter, such, display, name, API, name., getLabel, Syntax, getName]
+keywords: [FilterValue, filter, display, API, getLabel, getName]
 ---
 
 # FilterValue Class

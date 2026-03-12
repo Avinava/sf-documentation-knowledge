@@ -5,9 +5,9 @@ topic: data-processing-engine
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:50.943Z
+lastCollected: 2026-03-12T09:33:49.569Z
 estimatedTokens: 535
-keywords: [Data, Processing, Engine, Transform, data, that's, Salesforce, org, write, back, transformation, results, new, updated, records., transform, standard, custom, objects., consists]
+keywords: [Data, Processing, Engine, Transform, that's, Salesforce, org, write, back, transformation, results, new, updated, records, standard]
 ---
 
 # Data Processing Engine

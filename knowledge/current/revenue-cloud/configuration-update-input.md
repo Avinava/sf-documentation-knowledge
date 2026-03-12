@@ -5,9 +5,9 @@ topic: configuration-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.547Z
+lastCollected: 2026-03-12T09:33:08.376Z
 estimatedTokens: 126
-keywords: [Configuration, Update, Input, representation, details, update, configuration.]
+keywords: [Configuration, Input, representation]
 ---
 
 # Configuration Update Input

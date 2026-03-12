@@ -5,10 +5,10 @@ topic: appmenu-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.515Z
+lastCollected: 2026-03-12T09:33:21.949Z
 estimatedTokens: 1033
 namespace: AppLauncher
-keywords: [AppMenu, Contains, set, appearance, apps, App, Launcher., setAppVisibility, appMenuItemId, isVisible, setOrgSortOrder, appIds, setUserSortOrder]
+keywords: [AppMenu, appearance, apps, App, Launcher, setAppVisibility, appMenuItemId, isVisible, setOrgSortOrder, appIds, setUserSortOrder]
 ---
 
 # AppMenu Class

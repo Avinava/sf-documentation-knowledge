@@ -5,9 +5,9 @@ topic: create-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.065Z
+lastCollected: 2026-03-12T09:33:34.951Z
 estimatedTokens: 323
-keywords: [Create, Record, sObject, Basic, Information, resource, create, new, records., supply, required, field, values, request, data, send, POST, HTTP, method., response]
+keywords: [Record, sObject, Basic, resource, new, records, supply, data, send, POST, HTTP, call, successful]
 ---
 
 # Create a Record

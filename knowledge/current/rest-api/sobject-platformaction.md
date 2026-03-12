@@ -5,9 +5,9 @@ topic: sobject-platformaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.020Z
+lastCollected: 2026-03-12T09:33:35.867Z
 estimatedTokens: 219
-keywords: [sObject, PlatformAction, description, PlatformAction., virtual, read-only, object., enables, query, actions, displayed, given, user, context, device, format, record, ID., Examples, include]
+keywords: [sObject, PlatformAction, virtual, read-only, query, actions, user, context, device, record, Examples, include, standard, custom, buttons]
 ---
 
 # sObject PlatformAction

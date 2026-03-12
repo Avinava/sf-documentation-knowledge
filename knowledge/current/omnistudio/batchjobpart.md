@@ -5,9 +5,9 @@ topic: batchjobpart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.561Z
+lastCollected: 2026-03-12T09:33:52.045Z
 estimatedTokens: 1327
-keywords: [BatchJobPart, Represents, part, batch, job., API, version, 51.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [BatchJobPart, part, batch, job, API, version, 51.0, later, Calls, Associated, Objects]
 ---
 
 # BatchJobPart

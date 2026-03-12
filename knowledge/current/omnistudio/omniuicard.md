@@ -5,9 +5,9 @@ topic: omniuicard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.144Z
+lastCollected: 2026-03-12T09:33:52.555Z
 estimatedTokens: 65
-keywords: [OmniUiCard, internal, only.]
+keywords: [OmniUiCard, internal]
 ---
 
 # OmniUiCard

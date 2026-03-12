@@ -5,9 +5,9 @@ topic: get-feedback-on-query-performance-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.030Z
+lastCollected: 2026-03-12T09:33:34.919Z
 estimatedTokens: 606
-keywords: [Get, Feedback, Query, Performance, Beta, get, feedback, how, Salesforce, executes, query, report, list, view, resource, along, explain, parameter., analyzes, find]
+keywords: [Feedback, Query, Performance, Beta, how, Salesforce, executes, report, view, resource, along, explain, analyzes, optimal, approach]
 ---
 
 # Get Feedback on Query Performance (Beta)

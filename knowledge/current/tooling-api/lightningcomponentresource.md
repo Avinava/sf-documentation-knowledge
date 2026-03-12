@@ -5,9 +5,9 @@ topic: lightningcomponentresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.940Z
+lastCollected: 2026-03-12T09:33:45.088Z
 estimatedTokens: 422
-keywords: [LightningComponentResource, Represents, Lightning, web, component, resource, such, HTML, markup, JavaScript, code, CSS, file, SVG, XML, configuration, file., API, version, 45.0]
+keywords: [LightningComponentResource, Lightning, web, component, resource, HTML, markup, JavaScript, code, CSS, file, SVG, XML, configuration, API]
 ---
 
 # LightningComponentResource

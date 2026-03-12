@@ -5,9 +5,9 @@ topic: connectapitopicsuggestionpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.163Z
+lastCollected: 2026-03-12T09:33:29.207Z
 estimatedTokens: 58
-keywords: [ConnectApi.TopicSuggestionPage, Page, topic, suggestions.]
+keywords: [ConnectApi.TopicSuggestionPage, topic, suggestions]
 ---
 
 # ConnectApi.TopicSuggestionPage

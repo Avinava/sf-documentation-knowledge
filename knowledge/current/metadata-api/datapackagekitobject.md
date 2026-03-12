@@ -5,9 +5,9 @@ topic: datapackagekitobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.516Z
+lastCollected: 2026-03-12T09:33:38.216Z
 estimatedTokens: 584
-keywords: [DataPackageKitObject, Represents, Data, Kit, Content, Object., objects, added, inside, data, kit., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [DataPackageKitObject, Data, Kit, Content, objects, added, inside, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # DataPackageKitObject

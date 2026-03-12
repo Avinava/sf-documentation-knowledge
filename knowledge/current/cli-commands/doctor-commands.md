@@ -5,9 +5,9 @@ topic: doctor-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.197Z
+lastCollected: 2026-03-12T09:33:05.390Z
 estimatedTokens: 535
-keywords: [doctor, Commands, Gather, CLI, configuration, data, run, diagnostic, tests, discover, report, potential, problems, environment., Description, Examples, Flags]
+keywords: [doctor, Commands, Gather, CLI, configuration, data, run, diagnostic, tests, discover, report, potential, problems, environment, Examples]
 ---
 
 # doctor Commands

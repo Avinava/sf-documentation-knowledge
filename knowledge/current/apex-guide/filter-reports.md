@@ -5,9 +5,9 @@ topic: filter-reports
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.168Z
+lastCollected: 2026-03-12T09:33:32.211Z
 estimatedTokens: 396
-keywords: [Filter, Reports, get, specific, results, fly, filter, reports, through, API., Example]
+keywords: [Filter, Reports, specific, results, fly, API]
 ---
 
 # Filter Reports

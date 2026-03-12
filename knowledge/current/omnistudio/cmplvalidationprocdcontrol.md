@@ -5,9 +5,9 @@ topic: cmplvalidationprocdcontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.733Z
+lastCollected: 2026-03-12T09:33:52.203Z
 estimatedTokens: 535
-keywords: [CmplValidationProcdControl, Represents, junction, between, Validation, Procedure, Version, Compliance, Control., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [CmplValidationProcdControl, junction, Validation, Procedure, Version, Compliance, Control, API, 65.0, later, Calls, Associated, Objects]
 ---
 
 # CmplValidationProcdControl

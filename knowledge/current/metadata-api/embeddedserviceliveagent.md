@@ -5,9 +5,9 @@ topic: embeddedserviceliveagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.235Z
+lastCollected: 2026-03-12T09:33:38.881Z
 estimatedTokens: 1357
-keywords: [EmbeddedServiceLiveAgent, Represents, setup, node, creating, embedded, chat, deployment., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [EmbeddedServiceLiveAgent, setup, node, creating, embedded, chat, deployment, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---
 
 # EmbeddedServiceLiveAgent

@@ -5,9 +5,9 @@ topic: testsetup-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.498Z
+lastCollected: 2026-03-12T09:33:32.533Z
 estimatedTokens: 545
-keywords: [TestSetup, Annotation, defined, @TestSetup, annotation, used, creating, common, test, records, class., Syntax, Note]
+keywords: [TestSetup, Annotation, defined, @TestSetup, creating, common, test, records]
 ---
 
 # TestSetup Annotation Annotation

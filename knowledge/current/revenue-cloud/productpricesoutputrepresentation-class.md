@@ -5,9 +5,9 @@ topic: productpricesoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.895Z
+lastCollected: 2026-03-12T09:33:06.952Z
 estimatedTokens: 1489
-keywords: [ProductPricesOutputRepresentation, Get, price, details, product., currencyIsoCode, effectiveFrom, effectiveTo, isDefault, isDerived, isSelected, priceBookEntryId, priceBookId, pricingModel]
+keywords: [ProductPricesOutputRepresentation, price, product, currencyIsoCode, effectiveFrom, effectiveTo, isDefault, isDerived, isSelected, priceBookEntryId, priceBookId, pricingModel]
 ---
 
 # ProductPricesOutputRepresentation Class

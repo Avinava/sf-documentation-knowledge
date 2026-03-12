@@ -5,9 +5,9 @@ topic: catalog-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.650Z
+lastCollected: 2026-03-12T09:33:08.468Z
 estimatedTokens: 241
-keywords: [Catalog, Details, POST, Get, catalog, details, specified, ID., API, composite, Product, Discovery.]
+keywords: [Catalog, POST, API, composite, Product, Discovery]
 ---
 
 # Catalog Details (POST)

@@ -5,9 +5,9 @@ topic: apex-approval-processing-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.800Z
+lastCollected: 2026-03-12T09:33:33.816Z
 estimatedTokens: 65
-keywords: [Apex, Approval, Processing, Example, following, sample, code, initially, submits, record, approval, then, approves, request., example, assumes, pre-existing, process, Account, exists]
+keywords: [Apex, Approval, Processing, sample, code, initially, submits, record, approves, assumes, pre-existing, process, Account, exists, created]
 ---
 
 # Apex Approval Processing Example

@@ -5,10 +5,10 @@ topic: sobject-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.065Z
+lastCollected: 2026-03-12T09:33:31.113Z
 estimatedTokens: 13490
 namespace: System
-keywords: [SObject, Dynamically, add, errors, fields, associated, specified, field, name., Usage, addError, errorMsg, Note, Example, escape, Warning, exceptionError, fieldName, fieldToken, clear]
+keywords: [SObject, Dynamically, add, errors, associated, Usage, addError, errorMsg, escape, exceptionError, fieldName, fieldToken, clear, clone, preserveId]
 ---
 
 # SObject Class

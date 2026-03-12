@@ -5,9 +5,9 @@ topic: get-a-particular-process-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.020Z
+lastCollected: 2026-03-12T09:33:34.911Z
 estimatedTokens: 135
-keywords: [Get, Particular, Process, Rule, Rules, resource, specify, thesObjectName, workflowRuleId, rule, want, get, metadata, for.]
+keywords: [Particular, Process, Rule, Rules, resource, specify, thesObjectName, workflowRuleId, want, metadata]
 ---
 
 # Get a Particular Process Rule

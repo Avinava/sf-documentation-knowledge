@@ -5,9 +5,9 @@ topic: sms-template-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.952Z
+lastCollected: 2026-03-12T09:33:15.639Z
 estimatedTokens: 959
-keywords: [SMS, Template, DMO, Data, Cloud, data, model, reusable, standard, format, text, messages., API, Name, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [SMS, Template, DMO, Data, Cloud, model, reusable, standard, text, messages, API, Category, Primary, Subject, Area]
 ---
 
 # SMS Template DMO

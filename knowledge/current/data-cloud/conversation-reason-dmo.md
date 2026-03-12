@@ -5,9 +5,9 @@ topic: conversation-reason-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.449Z
+lastCollected: 2026-03-12T09:33:14.281Z
 estimatedTokens: 537
-keywords: [Conversation, Reason, DMO, Data, Clouddata, model, reason, conversation, started., contains, aggregated, metrics, excerpts., Example, values, include, cancel, order, update, check]
+keywords: [Conversation, Reason, DMO, Data, Clouddata, model, started, aggregated, metrics, excerpts, include, cancel, order, check, status]
 ---
 
 # Conversation Reason DMO

@@ -5,9 +5,9 @@ topic: articletype-customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.022Z
+lastCollected: 2026-03-12T09:33:36.820Z
 estimatedTokens: 1349
-keywords: [ArticleType, CustomField, Represents, metadata, associated, article, custom, field., create, update, delete, field, definitions., Declarative, Metadata, File, Suffix, Directory, Location, Retrieving]
+keywords: [ArticleType, CustomField, metadata, associated, article, custom, definitions, Declarative, File, Suffix, Directory, Location, Retrieving, Standard, Objects]
 ---
 
 # ArticleType CustomField

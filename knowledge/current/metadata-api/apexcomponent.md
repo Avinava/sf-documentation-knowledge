@@ -5,9 +5,9 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.846Z
+lastCollected: 2026-03-12T09:33:37.591Z
 estimatedTokens: 738
-keywords: [ApexComponent, Represents, Visualforce, component., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Wildcard, Support, Manifest]
+keywords: [ApexComponent, Visualforce, component, Declarative, Metadata, File, Suffix, Directory, Location, Version, Wildcard, Support, Manifest]
 ---
 
 # ApexComponent

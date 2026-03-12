@@ -5,9 +5,9 @@ topic: connectapimarkupbeginsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.940Z
+lastCollected: 2026-03-12T09:33:27.962Z
 estimatedTokens: 200
-keywords: [ConnectApi.MarkupBeginSegment, beginning, rich, text, markup.]
+keywords: [ConnectApi.MarkupBeginSegment, beginning, rich, text, markup]
 ---
 
 # ConnectApi.MarkupBeginSegment

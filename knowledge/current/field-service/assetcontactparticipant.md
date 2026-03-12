@@ -5,9 +5,9 @@ topic: assetcontactparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.917Z
+lastCollected: 2026-03-12T09:33:54.166Z
 estimatedTokens: 849
-keywords: [AssetContactParticipant, Represents, junction, between, Asset, Contact, objects, describing, association, participating, contact, asset., API, version, 56.0, later., Supported, Calls, Fields, Associated]
+keywords: [AssetContactParticipant, junction, Asset, Contact, objects, describing, association, participating, API, version, 56.0, later, Calls, Associated]
 ---
 
 # AssetContactParticipant

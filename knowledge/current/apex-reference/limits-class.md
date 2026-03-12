@@ -5,10 +5,10 @@ topic: limits-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.785Z
+lastCollected: 2026-03-12T09:33:30.833Z
 estimatedTokens: 8140
 namespace: System
-keywords: [Limits, Reserved, future, use., Usage, getAggregateQueries, getLimitAggregateQueries, getApexCursors, getLimitApexCursors, getApexCursorRows, getLimitApexCursorRows, getApexPaginationCursors, getLimitApexPaginationCursors, getApexPaginationCursorRows, getLimitApexPaginationCursorRows, getFetchCallsOnApexCursor, getLimitFetchCallsOnApexCursor, getAsyncCalls, getLimitAsyncCalls, getCallouts]
+keywords: [Limits, Reserved, future, Usage, getAggregateQueries, getLimitAggregateQueries, getApexCursors, getLimitApexCursors, getApexCursorRows, getLimitApexCursorRows, getApexPaginationCursors, getLimitApexPaginationCursors, getApexPaginationCursorRows, getLimitApexPaginationCursorRows, getFetchCallsOnApexCursor]
 ---
 
 # Limits Class

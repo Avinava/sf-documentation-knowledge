@@ -5,9 +5,9 @@ topic: connectapiabstractmanagedcontentchannelrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.872Z
+lastCollected: 2026-03-12T09:33:26.049Z
 estimatedTokens: 167
-keywords: [ConnectApi.AbstractManagedContentChannelRepresentation, Managed, content, channel.]
+keywords: [Managed, content, channel]
 ---
 
 # ConnectApi.AbstractManagedContentChannelRepresentation

@@ -5,9 +5,9 @@ topic: compliance-procedure-evaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.710Z
+lastCollected: 2026-03-12T09:33:48.510Z
 estimatedTokens: 253
-keywords: [Compliance, Procedure, Evaluation, Represents, single, compliance, procedure, evaluation, result.]
+keywords: [Compliance, Procedure, Evaluation, result]
 ---
 
 # Compliance Procedure Evaluation

@@ -5,9 +5,9 @@ topic: connectapimanagedcontentfoldersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.806Z
+lastCollected: 2026-03-12T09:33:27.851Z
 estimatedTokens: 218
-keywords: [ConnectApi.ManagedContentFolderSummary, Information, managed, content, folder.]
+keywords: [ConnectApi.ManagedContentFolderSummary, managed, content, folder]
 ---
 
 # ConnectApi.ManagedContentFolderSummary

@@ -5,9 +5,9 @@ topic: datadotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.467Z
+lastCollected: 2026-03-12T09:33:38.168Z
 estimatedTokens: 463
-keywords: [DataDotComSettings, Represents, org's, Data.com, settings., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [DataDotComSettings, org's, Data.com, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # DataDotComSettings

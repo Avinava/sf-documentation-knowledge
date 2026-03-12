@@ -5,9 +5,9 @@ topic: decision-explainer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.951Z
+lastCollected: 2026-03-12T09:33:49.576Z
 estimatedTokens: 259
-keywords: [Decision, Explainer, audit-like, service, used, applications, store, their, application, data, explain, past, events., stored, retrieved, later, reporting, through, custom-built, user]
+keywords: [Decision, Explainer, audit-like, service, applications, store, their, application, data, explain, past, events, stored, retrieved, later]
 ---
 
 # Decision Explainer

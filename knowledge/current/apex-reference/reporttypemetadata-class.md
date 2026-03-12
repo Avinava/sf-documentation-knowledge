@@ -5,10 +5,10 @@ topic: reporttypemetadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.962Z
+lastCollected: 2026-03-12T09:33:23.365Z
 estimatedTokens: 1305
 namespace: Reports
-keywords: [ReportTypeMetadata, default, division, list, possible, divisions, applied, report., getCategories, Syntax, getDivisionInfo, getScopeInfo, getStandardDateFilterDurationGroups, getStandardFilterInfos]
+keywords: [ReportTypeMetadata, division, possible, divisions, applied, report, getCategories, getDivisionInfo, getScopeInfo, getStandardDateFilterDurationGroups, getStandardFilterInfos]
 ---
 
 # ReportTypeMetadata Class

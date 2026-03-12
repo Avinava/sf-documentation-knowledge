@@ -5,9 +5,9 @@ topic: query-options-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.156Z
+lastCollected: 2026-03-12T09:33:35.033Z
 estimatedTokens: 187
-keywords: [Query, Options, Header, Specifies, options, used, query, such, results, batch, size., request, header, resource., Field, Name, Values]
+keywords: [Query, Options, results, batch, size, resource]
 ---
 
 # Query Options Header

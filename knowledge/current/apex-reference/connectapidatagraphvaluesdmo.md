@@ -5,9 +5,9 @@ topic: connectapidatagraphvaluesdmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.949Z
+lastCollected: 2026-03-12T09:33:27.042Z
 estimatedTokens: 94
-keywords: [ConnectApi.DataGraphValuesDmo, Represents, data, Data, Model, DMO, contains, JSON, records, graph.]
+keywords: [ConnectApi.DataGraphValuesDmo, data, Model, DMO, JSON, records, graph]
 ---
 
 # ConnectApi.DataGraphValuesDmo

@@ -5,9 +5,9 @@ topic: unit-of-measure-info-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.231Z
+lastCollected: 2026-03-12T09:33:08.984Z
 estimatedTokens: 234
-keywords: [Unit, Measure, Info, GET, Get, details, unit, measure, specific, set, records.]
+keywords: [Unit, Measure, Info, specific, records]
 ---
 
 # Unit of Measure Info (GET)

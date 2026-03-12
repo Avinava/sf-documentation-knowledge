@@ -5,9 +5,9 @@ topic: business-rules-engine
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:47.953Z
+lastCollected: 2026-03-12T09:33:46.975Z
 estimatedTokens: 498
-keywords: [Business, Rules, Engine, suite, services, components, objects, used, create, business, rules, perform, complex, lookups, calculations., key, expression, decision, matrices, tables.]
+keywords: [Business, Rules, Engine, suite, services, components, objects, perform, complex, lookups, calculations, key, expression, decision, matrices]
 ---
 
 # Business Rules Engine

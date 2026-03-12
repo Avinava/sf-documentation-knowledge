@@ -5,9 +5,9 @@ topic: compression-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.182Z
+lastCollected: 2026-03-12T09:33:35.054Z
 estimatedTokens: 347
-keywords: [Compression, Headers, compression, header, compress, REST, API, request, response., reduces, bandwidth, required, although, requires, processing, power, client., most, cases, tradeoff]
+keywords: [Compression, compress, REST, API, reduces, bandwidth, although, requires, processing, power, client, cases, tradeoff, benefits, overall]
 ---
 
 # Compression Headers

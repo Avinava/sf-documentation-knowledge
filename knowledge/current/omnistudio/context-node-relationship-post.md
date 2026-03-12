@@ -5,9 +5,9 @@ topic: context-node-relationship-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.945Z
+lastCollected: 2026-03-12T09:33:47.862Z
 estimatedTokens: 227
-keywords: [Context, Node, Relationship, POST, Configure, relationship, node, adding, child, context, nodes, specific, node.]
+keywords: [Context, Node, Relationship, POST, Configure, adding, child, nodes, specific]
 ---
 
 # Context Node Relationship (POST)

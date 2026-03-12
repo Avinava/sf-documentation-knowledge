@@ -5,9 +5,9 @@ topic: soql-operation-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.415Z
+lastCollected: 2026-03-12T09:33:43.605Z
 estimatedTokens: 642
-keywords: [SOQL, Operation, Limitations, Tooling, API, objects, limitations., limitations, apply, any, Metadata, Catalog, query, which, applies, Custom, Types, entities, only, ones]
+keywords: [SOQL, Operation, Limitations, Tooling, API, objects, apply, any, Metadata, Catalog, query, Custom, entities, ones, explicitly]
 ---
 
 # SOQL Operation Limitations

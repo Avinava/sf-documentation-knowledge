@@ -5,9 +5,9 @@ topic: compliance-logging-info-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.123Z
+lastCollected: 2026-03-12T09:33:47.133Z
 estimatedTokens: 81
-keywords: [Compliance, Logging, Info, Input, representation, compliance, logging, request.]
+keywords: [Compliance, Logging, Info, Input, representation]
 ---
 
 # Compliance Logging Info Input

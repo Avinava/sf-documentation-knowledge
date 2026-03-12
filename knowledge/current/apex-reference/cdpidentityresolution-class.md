@@ -5,10 +5,10 @@ topic: cdpidentityresolution-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.770Z
+lastCollected: 2026-03-12T09:33:16.395Z
 estimatedTokens: 1634
 namespace: ConnectApi
-keywords: [CdpIdentityResolution, Create, identity, resolution, ruleset., createIdentityResolution, input, API, Version, Requires, Chatter, deleteIdentityResolution, identityResolution, getIdentityResolution, getIdentityResolutions, runIdentityResolutionNow, updateIdentityResolution]
+keywords: [CdpIdentityResolution, identity, resolution, ruleset, createIdentityResolution, input, API, Version, Requires, Chatter, deleteIdentityResolution, identityResolution, getIdentityResolution, getIdentityResolutions, runIdentityResolutionNow]
 ---
 
 # CdpIdentityResolution Class

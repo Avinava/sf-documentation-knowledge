@@ -5,9 +5,9 @@ topic: connectapisequencegapreconciliationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.082Z
+lastCollected: 2026-03-12T09:33:07.115Z
 estimatedTokens: 167
-keywords: [ConnectApi.SequenceGapReconciliationInputRepresentation, details, input, used, identify, reconcile, gaps, sequence, values, based, policy, target, object.]
+keywords: [input, identify, reconcile, gaps, sequence, policy, target]
 ---
 
 # ConnectApi.SequenceGapReconciliationInputRepresentation

@@ -5,9 +5,9 @@ topic: connectapimarkupendsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.141Z
+lastCollected: 2026-03-12T09:33:25.375Z
 estimatedTokens: 283
-keywords: [ConnectApi.MarkupEndSegmentInput, end, tag, rich, text, markup.]
+keywords: [ConnectApi.MarkupEndSegmentInput, end, tag, rich, text, markup]
 ---
 
 # ConnectApi.MarkupEndSegmentInput

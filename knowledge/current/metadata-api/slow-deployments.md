@@ -5,9 +5,9 @@ topic: slow-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.719Z
+lastCollected: 2026-03-12T09:33:38.435Z
 estimatedTokens: 258
-keywords: [Slow, Deployments, file-based, Metadata, API, deployment, occurs, during, server, downtime, such, Salesforce, service, upgrade, take, longer, expected., behavior, happens, because]
+keywords: [Slow, Deployments, file-based, Metadata, API, deployment, occurs, server, downtime, Salesforce, service, upgrade, take, longer, expected]
 ---
 
 # Slow Deployments

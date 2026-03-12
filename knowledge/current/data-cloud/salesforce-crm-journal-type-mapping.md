@@ -5,9 +5,9 @@ topic: salesforce-crm-journal-type-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.608Z
+lastCollected: 2026-03-12T09:33:14.434Z
 estimatedTokens: 259
-keywords: [Salesforce, CRM, Journal, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., journal, used, categorize, transaction, journals, based]
+keywords: [Salesforce, CRM, Journal, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, categorize, transaction]
 ---
 
 # Salesforce CRM: Journal Type Mapping

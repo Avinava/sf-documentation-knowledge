@@ -5,9 +5,9 @@ topic: explainability-action-log-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.148Z
+lastCollected: 2026-03-12T09:33:48.856Z
 estimatedTokens: 125
-keywords: [Explainability, Action, Log, Create, Output, representation, create, action, log, request.]
+keywords: [Explainability, Action, Log, Output, representation]
 ---
 
 # Explainability Action Log Create

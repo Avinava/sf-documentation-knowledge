@@ -5,10 +5,10 @@ topic: visibility-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.586Z
+lastCollected: 2026-03-12T09:33:29.631Z
 estimatedTokens: 157
 namespace: Cache.Visibility
-keywords: [Visibility, Cache.Visibility, enumeration, Cache.Session, Cache.Org, indicate, whether, cached, visible, only, value’s, namespaces., Values]
+keywords: [Visibility, Cache.Visibility, enumeration, Cache.Session, Cache.Org, indicate, whether, cached, visible, value’s, namespaces]
 ---
 
 # Visibility Enum

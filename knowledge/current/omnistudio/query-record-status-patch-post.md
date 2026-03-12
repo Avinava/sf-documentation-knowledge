@@ -5,9 +5,9 @@ topic: query-record-status-patch-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.057Z
+lastCollected: 2026-03-12T09:33:47.959Z
 estimatedTokens: 280
-keywords: [Query, Record, Status, PATCH, POST, Update, processing, status, related, error, messages, query, data, records., Create, records]
+keywords: [Query, Record, Status, PATCH, POST, processing, error, messages, data, records]
 ---
 
 # Query Record Status (PATCH, POST)

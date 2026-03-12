@@ -5,9 +5,9 @@ topic: package2versioncreaterequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.264Z
+lastCollected: 2026-03-12T09:33:45.418Z
 estimatedTokens: 1565
-keywords: [Package2VersionCreateRequest, Represents, request, create, second-generation, managed, package, unlocked, version, Dev, Hub, org., API, 41.0, later., Supported, SOAP, Calls, REST, HTTP]
+keywords: [Package2VersionCreateRequest, second-generation, managed, package, unlocked, version, Dev, Hub, org, API, 41.0, later, SOAP, Calls, REST]
 ---
 
 # Package2VersionCreateRequest

@@ -5,9 +5,9 @@ topic: invoke-rating-service-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.899Z
+lastCollected: 2026-03-12T09:33:06.040Z
 estimatedTokens: 484
-keywords: [Invoke, Rating, Service, Action, rating, service, rate, usage, records., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Invoke, Rating, Service, Action, rate, usage, records, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Invoke Rating Service Action

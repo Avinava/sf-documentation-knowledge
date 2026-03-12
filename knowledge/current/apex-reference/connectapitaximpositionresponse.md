@@ -5,9 +5,9 @@ topic: connectapitaximpositionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.121Z
+lastCollected: 2026-03-12T09:33:29.166Z
 estimatedTokens: 68
-keywords: [ConnectApi.TaxImpositionResponse, Tax, imposition, output, representation.]
+keywords: [ConnectApi.TaxImpositionResponse, Tax, imposition, output, representation]
 ---
 
 # ConnectApi.TaxImpositionResponse

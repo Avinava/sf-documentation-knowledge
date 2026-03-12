@@ -5,9 +5,9 @@ topic: prediction-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.692Z
+lastCollected: 2026-03-12T09:33:47.635Z
 estimatedTokens: 460
-keywords: [Prediction, Request, Input, representation, details, prediction, request.]
+keywords: [Prediction, Input, representation]
 ---
 
 # Prediction Request

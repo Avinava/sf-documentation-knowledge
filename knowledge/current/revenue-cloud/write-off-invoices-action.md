@@ -5,9 +5,9 @@ topic: write-off-invoices-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.085Z
+lastCollected: 2026-03-12T09:33:06.205Z
 estimatedTokens: 481
-keywords: [Write, Off, Invoices, Action, off, partially, paid, unpaid, invoices, manage, pending, debts, maintain, accurate, financial, records., action, calls, Posted, Invoice]
+keywords: [Write, Off, Invoices, Action, partially, paid, unpaid, manage, pending, debts, maintain, accurate, financial, records, calls]
 ---
 
 # Write Off Invoices Action

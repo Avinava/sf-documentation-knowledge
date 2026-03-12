@@ -5,9 +5,9 @@ topic: delete-the-translated-value-of-a-survey-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.257Z
+lastCollected: 2026-03-12T09:33:35.122Z
 estimatedTokens: 196
-keywords: [Delete, Translated, Survey, Field, After, survey, field, translated, particular, language, delete, field., resource, REST, API, version, 48.0, later., Note, Syntax]
+keywords: [Translated, Survey, particular, language, resource, REST, API, version, 48.0, later]
 ---
 
 # Delete the Translated Value of a Survey Field

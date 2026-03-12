@@ -5,9 +5,9 @@ topic: metadatatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.491Z
+lastCollected: 2026-03-12T09:33:29.540Z
 estimatedTokens: 69
-keywords: [MetadataType, Represents, custom, metadata, components, Apex., Values]
+keywords: [MetadataType, custom, metadata, components, Apex]
 ---
 
 # MetadataType Enum

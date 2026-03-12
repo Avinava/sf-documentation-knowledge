@@ -5,9 +5,9 @@ topic: getcookies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.232Z
+lastCollected: 2026-03-12T09:33:19.905Z
 estimatedTokens: 219
-keywords: [getCookies, map, cookie, names, objects, where, key, name, contains, name., Usage]
+keywords: [getCookies, map, cookie, objects, key, Usage]
 ---
 
 # getCookies()

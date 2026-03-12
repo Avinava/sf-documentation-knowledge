@@ -6,9 +6,9 @@ topic: convert-negative-invoice-lines
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.591Z
+lastCollected: 2026-03-12T09:33:09.301Z
 estimatedTokens: 159
-keywords: [Convert, Negative, Invoice, Lines, Output, representation, details, created, memo, along, status, request.]
+keywords: [Convert, Negative, Invoice, Lines, Output, representation, created, memo, along, status]
 ---
 
 # Convert

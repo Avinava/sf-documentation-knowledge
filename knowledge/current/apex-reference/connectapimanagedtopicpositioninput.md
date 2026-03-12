@@ -5,9 +5,9 @@ topic: connectapimanagedtopicpositioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.128Z
+lastCollected: 2026-03-12T09:33:25.363Z
 estimatedTokens: 155
-keywords: [ConnectApi.ManagedTopicPositionInput, Relative, position, managed, topic.]
+keywords: [ConnectApi.ManagedTopicPositionInput, Relative, position, managed, topic]
 ---
 
 # ConnectApi.ManagedTopicPositionInput

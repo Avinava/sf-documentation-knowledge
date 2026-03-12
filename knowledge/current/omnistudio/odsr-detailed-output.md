@@ -5,9 +5,9 @@ topic: odsr-detailed-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.390Z
+lastCollected: 2026-03-12T09:33:49.073Z
 estimatedTokens: 221
-keywords: [ODSR, Detailed, Output, representation, OCR, document, scan, result.]
+keywords: [ODSR, Detailed, Output, representation, OCR, document, scan, result]
 ---
 
 # ODSR Detailed Output

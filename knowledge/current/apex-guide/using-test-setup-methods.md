@@ -5,9 +5,9 @@ topic: using-test-setup-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.079Z
+lastCollected: 2026-03-12T09:33:34.081Z
 estimatedTokens: 858
-keywords: [Test, Setup, test, setup, annotated, @testSetup, create, records, once, then, access, every, class., time-saving, need, reference, prerequisite, data, common, set]
+keywords: [Test, Setup, annotated, @testSetup, records, once, access, every, time-saving, prerequisite, data, common, operate, Considerations]
 ---
 
 # Using Test Setup Methods

@@ -5,9 +5,9 @@ topic: clausecatgconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.718Z
+lastCollected: 2026-03-12T09:33:37.471Z
 estimatedTokens: 524
-keywords: [ClauseCatgConfiguration, Represents, configuration, clause, category, used, categorize, disclosure, compliance, reports, standardized, templates, response, document., Parent, File, Suffix, Directory, Location, Version]
+keywords: [ClauseCatgConfiguration, configuration, clause, category, categorize, disclosure, compliance, reports, standardized, templates, document, Parent, File, Suffix, Directory]
 ---
 
 # ClauseCatgConfiguration

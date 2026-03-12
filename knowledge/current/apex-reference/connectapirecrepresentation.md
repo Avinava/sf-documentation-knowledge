@@ -5,9 +5,9 @@ topic: connectapirecrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.768Z
+lastCollected: 2026-03-12T09:33:28.809Z
 estimatedTokens: 555
-keywords: [ConnectApi.RecRepresentation, Recommended, action.]
+keywords: [ConnectApi.RecRepresentation, Recommended, action]
 ---
 
 # ConnectApi.RecRepresentation

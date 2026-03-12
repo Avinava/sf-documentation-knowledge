@@ -5,9 +5,9 @@ topic: schedulingobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:42.573Z
+lastCollected: 2026-03-12T09:33:41.984Z
 estimatedTokens: 844
-keywords: [SchedulingObjective, Represents, scheduling, objective, Workforce, Engagement., Scheduling, objectives, define, business, goals, tools, consider, identifying, agents, shifts., Important, Parent, File, Suffix]
+keywords: [SchedulingObjective, scheduling, objective, Workforce, Engagement, objectives, define, business, goals, tools, consider, identifying, agents, shifts, Parent]
 ---
 
 # SchedulingObjective

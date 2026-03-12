@@ -5,9 +5,9 @@ topic: binding-object-usage-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.167Z
+lastCollected: 2026-03-12T09:33:08.929Z
 estimatedTokens: 332
-keywords: [Binding, Usage, Details, GET, Get, details, grants, resources, rates, any, configured, policies, specified, binding, object.]
+keywords: [Binding, Usage, grants, resources, rates, any, configured, policies]
 ---
 
 # Binding Object Usage Details (GET)

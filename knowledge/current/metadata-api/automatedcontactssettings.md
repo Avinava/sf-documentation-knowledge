@@ -5,9 +5,9 @@ topic: automatedcontactssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.138Z
+lastCollected: 2026-03-12T09:33:36.923Z
 estimatedTokens: 928
-keywords: [AutomatedContactsSettings, Represents, org’s, Einstein, Automated, Contacts, settings., settings, let, find, new, contacts, opportunity, contact, roles., extends, Metadata, metadata, inherits, its]
+keywords: [AutomatedContactsSettings, org’s, Einstein, Automated, Contacts, settings, let, new, opportunity, contact, roles, extends, Metadata, inherits, fullName]
 ---
 
 # AutomatedContactsSettings

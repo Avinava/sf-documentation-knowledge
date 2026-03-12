@@ -5,9 +5,9 @@ topic: connectapieinsteinpromptrecordrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.118Z
+lastCollected: 2026-03-12T09:33:27.214Z
 estimatedTokens: 195
-keywords: [ConnectApi.EinsteinPromptRecordRepresentation, Prompt, template, record.]
+keywords: [Prompt, template, record]
 ---
 
 # ConnectApi.EinsteinPromptRecordRepresentation

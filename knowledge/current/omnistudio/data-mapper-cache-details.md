@@ -5,9 +5,9 @@ topic: data-mapper-cache-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.937Z
+lastCollected: 2026-03-12T09:33:48.683Z
 estimatedTokens: 152
-keywords: [Data, Mapper, Cache, Details, Output, representation, cache, details, cleared, specified, data, mappers.]
+keywords: [Data, Mapper, Cache, Output, representation, cleared, mappers]
 ---
 
 # Data Mapper Cache Details

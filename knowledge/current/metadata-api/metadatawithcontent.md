@@ -5,9 +5,9 @@ topic: metadatawithcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.148Z
+lastCollected: 2026-03-12T09:33:40.628Z
 estimatedTokens: 472
-keywords: [MetadataWithContent, base, metadata, types, contain, content, such, documents, email, templates., extends, Metadata., can’t, edit, object., Version, Fields, Wildcard, Support, Manifest]
+keywords: [MetadataWithContent, base, metadata, contain, content, documents, email, templates, extends, can’t, edit, Version, Wildcard, Support, Manifest]
 ---
 
 # MetadataWithContent

@@ -5,10 +5,10 @@ topic: answers-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.373Z
+lastCollected: 2026-03-12T09:33:23.747Z
 estimatedTokens: 660
 namespace: System
-keywords: [Answers, Represents, zone, answers., Usage, Example, findSimilar, yourQuestion, setBestReply, questionId, replyId]
+keywords: [Answers, zone, Usage, findSimilar, yourQuestion, setBestReply, questionId, replyId]
 ---
 
 # Answers Class

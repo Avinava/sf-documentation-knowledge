@@ -5,9 +5,9 @@ topic: sobject-layouts-for-an-object-with-multiple-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.009Z
+lastCollected: 2026-03-12T09:33:35.858Z
 estimatedTokens: 43
-keywords: [sObject, Layouts, Multiple, Record, Types, Retrieves, lists, page, layouts, their, descriptions, objects, record, defined.]
+keywords: [sObject, Layouts, Multiple, Record, Retrieves, their, descriptions, objects, defined]
 ---
 
 # sObject Layouts for an Object With Multiple Record Types

@@ -5,10 +5,10 @@ topic: commerceextension-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.530Z
+lastCollected: 2026-03-12T09:33:31.584Z
 estimatedTokens: 343
 namespace: CommerceExtension
-keywords: [CommerceExtension, define, resolution, strategies, registered, Commerce, extensions.]
+keywords: [CommerceExtension, define, resolution, strategies, registered, Commerce, extensions]
 ---
 
 # CommerceExtension Namespace

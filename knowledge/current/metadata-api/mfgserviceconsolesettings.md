@@ -5,9 +5,9 @@ topic: mfgserviceconsolesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.062Z
+lastCollected: 2026-03-12T09:33:43.267Z
 estimatedTokens: 535
-keywords: [MfgServiceConsoleSettings, Represents, settings, access, Service, Console, Manufacturing.This, extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Special]
+keywords: [MfgServiceConsoleSettings, settings, access, Service, Console, Manufacturing.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # MfgServiceConsoleSettings

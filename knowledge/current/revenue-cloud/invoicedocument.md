@@ -5,9 +5,9 @@ topic: invoicedocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.518Z
+lastCollected: 2026-03-12T09:33:11.633Z
 estimatedTokens: 802
-keywords: [InvoiceDocument, Represents, PDF, document, generated, invoice., API, version, 63.0, later., Important, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [InvoiceDocument, PDF, document, generated, invoice, API, version, 63.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # InvoiceDocument

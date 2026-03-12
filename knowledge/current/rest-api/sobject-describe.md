@@ -5,9 +5,9 @@ topic: sobject-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.984Z
+lastCollected: 2026-03-12T09:33:35.833Z
 estimatedTokens: 696
-keywords: [sObject, Describe, Completely, describes, individual, metadata, levels, specified, object., example, used, retrieve, fields, URLs, child, relationships, Account, Syntax, Example]
+keywords: [sObject, Describe, Completely, individual, metadata, levels, retrieve, URLs, child, relationships, Account]
 ---
 
 # sObject Describe

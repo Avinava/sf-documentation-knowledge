@@ -5,9 +5,9 @@ topic: service-process-studio-connect-api-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.091Z
+lastCollected: 2026-03-12T09:33:51.623Z
 estimatedTokens: 161
-keywords: [Service, Process, Studio, Connect, API, Cases, connect, cases, invoke, resources, create, manage, instances, particular, service, processes, without, OmniStudio.]
+keywords: [Service, Process, Studio, Connect, API, Cases, invoke, resources, manage, instances, particular, processes, OmniStudio]
 ---
 
 # Service Process Studio Connect API Use Cases

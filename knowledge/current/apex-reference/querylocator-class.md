@@ -5,10 +5,10 @@ topic: querylocator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.527Z
+lastCollected: 2026-03-12T09:33:30.561Z
 estimatedTokens: 619
 namespace: Database
-keywords: [QueryLocator, Represents, record, set, returned, Database.getQueryLocator, used, Batch, Apex., getQuery, Usage, Example, iterator, Warning]
+keywords: [QueryLocator, record, Database.getQueryLocator, Batch, Apex, getQuery, Usage, iterator]
 ---
 
 # QueryLocator Class

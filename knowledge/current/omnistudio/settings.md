@@ -5,9 +5,9 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.118Z
+lastCollected: 2026-03-12T09:33:49.783Z
 estimatedTokens: 121
-keywords: [Settings, Represents, organization, settings, control, related, Intelligent, Document, Reader., information, Settings.]
+keywords: [Settings, organization, control, Intelligent, Document, Reader]
 ---
 
 # Settings

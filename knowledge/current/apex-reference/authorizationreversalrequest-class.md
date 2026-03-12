@@ -5,10 +5,10 @@ topic: authorizationreversalrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.787Z
+lastCollected: 2026-03-12T09:33:22.208Z
 estimatedTokens: 1693
 namespace: CommercePayments
-keywords: [AuthorizationReversalRequest, Sends, information, authorization, reversal, request, gateway, adapter, during, service, call., Example, amount, authorizationId, accountId, paymentAuthorizationId, equals, obj, hashCode, toString]
+keywords: [AuthorizationReversalRequest, authorization, reversal, gateway, adapter, service, call, amount, authorizationId, accountId, paymentAuthorizationId, equals, obj, hashCode, toString]
 ---
 
 # AuthorizationReversalRequest Class

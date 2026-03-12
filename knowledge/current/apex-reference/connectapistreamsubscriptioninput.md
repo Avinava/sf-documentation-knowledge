@@ -5,9 +5,9 @@ topic: connectapistreamsubscriptioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.584Z
+lastCollected: 2026-03-12T09:33:25.765Z
 estimatedTokens: 141
-keywords: [ConnectApi.StreamSubscriptionInput, entity, subscribe, Chatter, feed, stream.]
+keywords: [ConnectApi.StreamSubscriptionInput, entity, subscribe, Chatter, feed, stream]
 ---
 
 # ConnectApi.StreamSubscriptionInput

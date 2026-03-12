@@ -5,10 +5,10 @@ topic: commercecatalogmanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.720Z
+lastCollected: 2026-03-12T09:33:18.323Z
 estimatedTokens: 991
 namespace: ConnectApi
-keywords: [CommerceCatalogManagement, Create, update, composite, product., variation, compositeCommerceProductCreate, webstoreId, compositeCommerceProductInputRepresentation, API, Version, Requires, Chatter, compositeCommerceProductUpdate, productId, compositeCommerceVariationCreate, compositeCommerceVariationInputRepresentation]
+keywords: [CommerceCatalogManagement, composite, product, variation, compositeCommerceProductCreate, webstoreId, API, Version, Requires, Chatter, compositeCommerceProductUpdate, productId, compositeCommerceVariationCreate]
 ---
 
 # CommerceCatalogManagement Class

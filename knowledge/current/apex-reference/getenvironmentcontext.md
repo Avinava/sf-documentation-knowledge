@@ -5,9 +5,9 @@ topic: getenvironmentcontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.379Z
+lastCollected: 2026-03-12T09:33:20.037Z
 estimatedTokens: 233
-keywords: [getEnvironmentContext, Retrieves, environment, context, information., Usage, Example]
+keywords: [getEnvironmentContext, Retrieves, environment, context, Usage]
 ---
 
 # getEnvironmentContext()

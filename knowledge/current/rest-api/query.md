@@ -5,9 +5,9 @@ topic: query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.825Z
+lastCollected: 2026-03-12T09:33:35.671Z
 estimatedTokens: 581
-keywords: [Query, Runs, specified, SOQL, query., Syntax, Example, Resources, Running, Queries]
+keywords: [Query, Runs, SOQL, Resources, Running, Queries]
 ---
 
 # Query

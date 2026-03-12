@@ -5,9 +5,9 @@ topic: connectapiproductprice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.585Z
+lastCollected: 2026-03-12T09:33:28.620Z
 estimatedTokens: 311
-keywords: [ConnectApi.ProductPrice, Pricing, information, product.]
+keywords: [ConnectApi.ProductPrice, Pricing, product]
 ---
 
 # ConnectApi.ProductPrice

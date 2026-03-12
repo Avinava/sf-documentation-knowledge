@@ -5,9 +5,9 @@ topic: productservicecampaignstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.366Z
+lastCollected: 2026-03-12T09:33:54.578Z
 estimatedTokens: 596
-keywords: [ProductServiceCampaignStatus, Represents, status, product, service, campaign, field, service., API, version, 51.0, later., Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
+keywords: [ProductServiceCampaignStatus, status, product, service, campaign, API, version, 51.0, later, Calls, Special, Access, Rules, Usage]
 ---
 
 # ProductServiceCampaignStatus

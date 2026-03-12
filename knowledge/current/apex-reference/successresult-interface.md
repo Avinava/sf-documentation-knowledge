@@ -5,10 +5,10 @@ topic: successresult-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.093Z
+lastCollected: 2026-03-12T09:33:30.133Z
 estimatedTokens: 359
 namespace: EventBus
-keywords: [SuccessResult, Contains, result, Apex, publish, callback, event, publishing, succeeded., used, onSuccess, EventPublishSuccessCallback, interface., getEventUuids]
+keywords: [SuccessResult, result, Apex, publish, callback, event, publishing, succeeded, onSuccess, EventPublishSuccessCallback, getEventUuids]
 ---
 
 # SuccessResult Interface

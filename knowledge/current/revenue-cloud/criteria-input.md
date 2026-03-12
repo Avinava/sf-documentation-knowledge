@@ -5,9 +5,9 @@ topic: criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:06.033Z
+lastCollected: 2026-03-12T09:33:07.932Z
 estimatedTokens: 425
-keywords: [Criteria, Input, representation, filter, criteria, item, request.]
+keywords: [Criteria, Input, representation, filter, item]
 ---
 
 # Criteria Input

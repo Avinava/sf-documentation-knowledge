@@ -5,9 +5,9 @@ topic: salesforce-console-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.070Z
+lastCollected: 2026-03-12T09:33:55.216Z
 estimatedTokens: 835
-keywords: [Salesforce, Console, Developer, Guide, Lightning, JavaScript, API, Integration, Toolkit, both, interact, console, apps., guide, provides, reference, material, both.]
+keywords: [Salesforce, Console, Developer, Lightning, JavaScript, API, Integration, Toolkit, interact, apps, material]
 ---
 
 # Salesforce Console Developer Guide

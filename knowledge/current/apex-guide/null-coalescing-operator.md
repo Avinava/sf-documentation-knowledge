@@ -5,9 +5,9 @@ topic: null-coalescing-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.522Z
+lastCollected: 2026-03-12T09:33:34.456Z
 estimatedTokens: 904
-keywords: [Null, Coalescing, Operator, operator, its, right-hand, side, operand, left-hand, null., Similar, safe, navigation, null, coalescing, replaces, verbose, explicit, checks, references]
+keywords: [Coalescing, Operator, right-hand, side, operand, left-hand, Similar, safe, navigation, replaces, verbose, explicit, checks, references, code]
 ---
 
 # Null Coalescing Operator

@@ -5,9 +5,9 @@ topic: connectapicartpromotionoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.383Z
+lastCollected: 2026-03-12T09:33:26.543Z
 estimatedTokens: 216
-keywords: [ConnectApi.CartPromotionOutputRepresentation, promotion, associated, cart.]
+keywords: [promotion, associated, cart]
 ---
 
 # ConnectApi.CartPromotionOutputRepresentation

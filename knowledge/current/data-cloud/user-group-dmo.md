@@ -5,9 +5,9 @@ topic: user-group-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.032Z
+lastCollected: 2026-03-12T09:33:15.715Z
 estimatedTokens: 545
-keywords: [User, Group, DMO, Data, Cloud, data, model, set, system, users, common, characteristics., Groups, often, created, simplify, granting, privileges, access, resources.]
+keywords: [User, Group, DMO, Data, Cloud, model, system, users, common, characteristics, Groups, often, created, simplify, granting]
 ---
 
 # User Group DMO

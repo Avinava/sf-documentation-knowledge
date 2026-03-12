@@ -5,9 +5,9 @@ topic: searchcriteriaconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.666Z
+lastCollected: 2026-03-12T09:33:51.238Z
 estimatedTokens: 1263
-keywords: [SearchCriteriaConfiguration, Retrieve, deploy, update, create, view, search, criteria, configurations, criteria-based, filter., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [SearchCriteriaConfiguration, Retrieve, deploy, view, search, criteria, configurations, criteria-based, filter, Parent, File, Suffix, Directory, Location, Version, configuration, searchable, group, basis, aggregation]
 ---
 
 # SearchCriteriaConfiguration

@@ -5,9 +5,9 @@ topic: connectapidistinctvaluerefinementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.785Z
+lastCollected: 2026-03-12T09:33:25.040Z
 estimatedTokens: 136
-keywords: [ConnectApi.DistinctValueRefinementInput, Attribute-based, refinement, distinct, values, product, search.]
+keywords: [ConnectApi.DistinctValueRefinementInput, Attribute-based, refinement, distinct, product, search]
 ---
 
 # ConnectApi.DistinctValueRefinementInput

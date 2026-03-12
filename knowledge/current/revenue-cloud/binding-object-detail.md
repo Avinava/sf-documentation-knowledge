@@ -5,9 +5,9 @@ topic: binding-object-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.397Z
+lastCollected: 2026-03-12T09:33:09.127Z
 estimatedTokens: 182
-keywords: [Binding, Detail, Output, representation, list, records, binding, target, details.]
+keywords: [Binding, Detail, Output, representation, records, target]
 ---
 
 # Binding Object Detail

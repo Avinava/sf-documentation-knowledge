@@ -5,9 +5,9 @@ topic: fielddefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.630Z
+lastCollected: 2026-03-12T09:33:44.744Z
 estimatedTokens: 9058
-keywords: [FieldDefinition, Represents, standard, custom, field, providing, row-based, access, metadata., Contrast, EntityParticle, which, represents, element, presented, user, interface., parity, metadata, Field.]
+keywords: [FieldDefinition, standard, custom, providing, row-based, access, metadata, Contrast, EntityParticle, element, presented, user, parity, SOAP, Calls]
 ---
 
 # FieldDefinition

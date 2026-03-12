@@ -5,9 +5,9 @@ topic: connectapimanagedcontentdateandtimenodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.756Z
+lastCollected: 2026-03-12T09:33:27.806Z
 estimatedTokens: 129
-keywords: [ConnectApi.ManagedContentDateAndTimeNodeValue, Managed, content, node, date, time, type.]
+keywords: [Managed, content, node, date, time]
 ---
 
 # ConnectApi.ManagedContentDateAndTimeNodeValue

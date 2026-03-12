@@ -5,9 +5,9 @@ topic: connectapicredentialvalueinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.733Z
+lastCollected: 2026-03-12T09:33:24.989Z
 estimatedTokens: 240
-keywords: [ConnectApi.CredentialValueInput, Credential, input.]
+keywords: [ConnectApi.CredentialValueInput, Credential, input]
 ---
 
 # ConnectApi.CredentialValueInput

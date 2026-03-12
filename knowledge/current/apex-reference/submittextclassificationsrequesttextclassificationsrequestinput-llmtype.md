@@ -5,9 +5,9 @@ topic: submittextclassificationsrequesttextclassificationsrequestinput-llmtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.562Z
+lastCollected: 2026-03-12T09:33:19.241Z
 estimatedTokens: 331
-keywords: [submitTextClassificationsRequest, textClassificationsRequestInput, llmType, Submits, text, classification, request, Einstein, API, Version, Requires, Chatter, Example]
+keywords: [submitTextClassificationsRequest, textClassificationsRequestInput, llmType, Submits, text, classification, Einstein, API, Version, Requires, Chatter]
 ---
 
 # submitTextClassificationsRequest(textClassificationsRequestInput, llmType)

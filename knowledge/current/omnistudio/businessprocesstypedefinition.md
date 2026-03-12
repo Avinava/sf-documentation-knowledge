@@ -5,9 +5,9 @@ topic: businessprocesstypedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.070Z
+lastCollected: 2026-03-12T09:33:50.684Z
 estimatedTokens: 454
-keywords: [BusinessProcessTypeDefinition, Represents, definition, business, process, within, application, domain., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+keywords: [BusinessProcessTypeDefinition, definition, business, process, application, domain, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---
 
 # BusinessProcessTypeDefinition

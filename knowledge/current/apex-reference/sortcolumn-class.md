@@ -5,10 +5,10 @@ topic: sortcolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.967Z
+lastCollected: 2026-03-12T09:33:23.370Z
 estimatedTokens: 721
 namespace: Reports
-keywords: [SortColumn, Contains, information, sort, column, used, report., getSortColumn, getSortOrder, setSortColumn, sortColumn, setSortOrder, SortOrder]
+keywords: [SortColumn, sort, column, report, getSortColumn, getSortOrder, setSortColumn, setSortOrder, SortOrder]
 ---
 
 # SortColumn Class

@@ -5,9 +5,9 @@ topic: useraccesspolicyaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.024Z
+lastCollected: 2026-03-12T09:33:46.093Z
 estimatedTokens: 301
-keywords: [UserAccessPolicyAction, Represents, action, applied, user, access, policy., API, version, 57.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields, Usage]
+keywords: [UserAccessPolicyAction, action, applied, user, access, policy, API, version, 57.0, later, SOAP, Calls, REST, Special, Rules]
 ---
 
 # UserAccessPolicyAction

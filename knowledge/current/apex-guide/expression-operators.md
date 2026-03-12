@@ -5,9 +5,9 @@ topic: expression-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.788Z
+lastCollected: 2026-03-12T09:33:34.701Z
 estimatedTokens: 3370
-keywords: [Expression, Operators, Expressions, joined, another, operators, create, compound, expressions.]
+keywords: [Expression, Operators, Expressions, joined, another, compound]
 ---
 
 # Expression Operators

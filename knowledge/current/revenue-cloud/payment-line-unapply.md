@@ -5,9 +5,9 @@ topic: payment-line-unapply
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.960Z
+lastCollected: 2026-03-12T09:33:09.533Z
 estimatedTokens: 132
-keywords: [Payment, Line, Unapply, Output, representation, details, reversed, payment, line, application., include, record, date, application, reversed.]
+keywords: [Payment, Line, Unapply, Output, representation, reversed, application, include, record, date]
 ---
 
 # Payment Line Unapply

@@ -5,9 +5,9 @@ topic: configurator-attribute-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.492Z
+lastCollected: 2026-03-12T09:33:09.210Z
 estimatedTokens: 162
-keywords: [Configurator, Attribute, Picklist, Output, representation, attribute, picklist, product, configuration.]
+keywords: [Configurator, Attribute, Picklist, Output, representation, product, configuration]
 ---
 
 # Configurator Attribute Picklist

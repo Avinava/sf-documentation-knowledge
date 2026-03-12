@@ -5,9 +5,9 @@ topic: connectapilabeledrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.629Z
+lastCollected: 2026-03-12T09:33:27.683Z
 estimatedTokens: 570
-keywords: [ConnectApi.LabeledRecordField, Record, field, containing, label, text, value., Important]
+keywords: [ConnectApi.LabeledRecordField, Record, containing, label, text]
 ---
 
 # ConnectApi.LabeledRecordField

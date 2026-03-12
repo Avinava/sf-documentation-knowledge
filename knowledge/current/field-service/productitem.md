@@ -5,9 +5,9 @@ topic: productitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.290Z
+lastCollected: 2026-03-12T09:33:54.509Z
 estimatedTokens: 839
-keywords: [ProductItem, Represents, stock, particular, product, location, field, service, such, bolts, stored, main, warehouse., Supported, Calls, Special, Access, Rules, Fields, Usage]
+keywords: [ProductItem, stock, particular, product, location, service, bolts, stored, main, warehouse, Calls, Special, Access, Rules, Usage]
 ---
 
 # ProductItem

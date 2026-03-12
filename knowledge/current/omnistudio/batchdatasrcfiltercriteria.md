@@ -5,9 +5,9 @@ topic: batchdatasrcfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.588Z
+lastCollected: 2026-03-12T09:33:52.949Z
 estimatedTokens: 571
-keywords: [BatchDataSrcFilterCriteria, Represents, details, condition, filter, criteria, used, retrieve, records, data, source, batch, job., API, version, 66.0, later., Supported, Calls, Fields]
+keywords: [BatchDataSrcFilterCriteria, condition, filter, criteria, retrieve, records, data, source, batch, job, API, version, 66.0, later, Calls]
 ---
 
 # BatchDataSrcFilterCriteria

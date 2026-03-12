@@ -5,10 +5,10 @@ topic: cases-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.307Z
+lastCollected: 2026-03-12T09:33:23.685Z
 estimatedTokens: 58
 namespace: System
-keywords: [Cases, interact, case, records.]
+keywords: [Cases, interact, case, records]
 ---
 
 # Cases Class

@@ -5,10 +5,10 @@ topic: groupinginfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.047Z
+lastCollected: 2026-03-12T09:33:23.445Z
 estimatedTokens: 735
 namespace: Reports
-keywords: [GroupingInfo, Contains, describing, fields, used, grouping., getName, Syntax, getSortOrder, getDateGranularity, getSortAggregate]
+keywords: [GroupingInfo, describing, grouping, getName, getSortOrder, getDateGranularity, getSortAggregate]
 ---
 
 # GroupingInfo Class

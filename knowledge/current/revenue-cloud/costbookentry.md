@@ -5,9 +5,9 @@ topic: costbookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.960Z
+lastCollected: 2026-03-12T09:33:11.164Z
 estimatedTokens: 966
-keywords: [CostBookEntry, Represents, total, cost, product, service, that’s, determined, based, various, factors, affect, product's, price., example, manufactured, weight, raw, material, factor]
+keywords: [CostBookEntry, total, cost, product, service, that’s, determined, various, factors, affect, product's, price, manufactured, weight, raw]
 ---
 
 # CostBookEntry

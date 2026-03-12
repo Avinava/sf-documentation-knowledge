@@ -5,9 +5,9 @@ topic: connectapireferencedrefundresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.861Z
+lastCollected: 2026-03-12T09:33:28.906Z
 estimatedTokens: 170
-keywords: [ConnectApi.ReferencedRefundResponse, Refund, comprehensive, output.]
+keywords: [ConnectApi.ReferencedRefundResponse, Refund, comprehensive, output]
 ---
 
 # ConnectApi.ReferencedRefundResponse

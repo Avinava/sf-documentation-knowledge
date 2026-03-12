@@ -5,9 +5,9 @@ topic: sobject-named-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.018Z
+lastCollected: 2026-03-12T09:33:35.865Z
 estimatedTokens: 279
-keywords: [sObject, Named, Layouts, Retrieves, information, alternate, named, layouts, given, object., resource, REST, API, version, 31.0, later., Syntax, Example]
+keywords: [sObject, Named, Layouts, Retrieves, alternate, resource, REST, API, version, 31.0, later]
 ---
 
 # sObject Named Layouts

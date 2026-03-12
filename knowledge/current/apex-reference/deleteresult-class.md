@@ -5,10 +5,10 @@ topic: deleteresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.952Z
+lastCollected: 2026-03-12T09:33:20.502Z
 estimatedTokens: 1722
 namespace: DataSource
-keywords: [DeleteResult, Represents, result, delete, operation, sObject, record., returned, DataSource.deleteRows, DataSource.Connection, class., Usage, errorMessage, externalId, success, equals, obj, failure, hashCode, DML]
+keywords: [DeleteResult, result, operation, sObject, record, DataSource.deleteRows, DataSource.Connection, Usage, errorMessage, externalId, success, equals, obj, failure, hashCode, DML, Database.delete, getErrors, getId, isSuccess]
 ---
 
 # DeleteResult Class

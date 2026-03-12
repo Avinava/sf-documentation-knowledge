@@ -5,9 +5,9 @@ topic: setcustomconsolecomponentwindowvisible
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.448Z
+lastCollected: 2026-03-12T09:33:56.495Z
 estimatedTokens: 398
-keywords: [setCustomConsoleComponentWindowVisible, window, visibility, application-level, custom, console, component, that’s, page., API, versions, 25.0, through, 31.0., isn’t, supported, Lightning, Console., Note, Syntax]
+keywords: [setCustomConsoleComponentWindowVisible, window, visibility, application-level, custom, console, component, that’s, API, versions, 25.0, 31.0, isn’t, Lightning, Arguments]
 ---
 
 # setCustomConsoleComponentWindowVisible()

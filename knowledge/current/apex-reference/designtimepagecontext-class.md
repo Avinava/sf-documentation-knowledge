@@ -5,10 +5,10 @@ topic: designtimepagecontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.472Z
+lastCollected: 2026-03-12T09:33:21.906Z
 estimatedTokens: 834
 namespace: VisualEditor
-keywords: [DesignTimePageContext, provides, context, information, Lightning, page., used, help, define, values, picklist, component, page, based, page’s, which, it’s, associated., Usage, Example]
+keywords: [DesignTimePageContext, context, Lightning, help, define, picklist, component, page’s, it’s, associated, Usage, entityName, pageType, clone]
 ---
 
 # DesignTimePageContext Class

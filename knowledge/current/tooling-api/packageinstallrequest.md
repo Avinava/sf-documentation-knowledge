@@ -5,9 +5,9 @@ topic: packageinstallrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.281Z
+lastCollected: 2026-03-12T09:33:45.434Z
 estimatedTokens: 1299
-keywords: [PackageInstallRequest, Represents, request, install, package, first-, second-generation, target, subscriber, org., API, version, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [PackageInstallRequest, install, package, first-, second-generation, target, subscriber, org, API, version, 41.0, later, SOAP, Calls, REST]
 ---
 
 # PackageInstallRequest

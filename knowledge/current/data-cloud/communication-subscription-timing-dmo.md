@@ -5,9 +5,9 @@ topic: communication-subscription-timing-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.341Z
+lastCollected: 2026-03-12T09:33:14.181Z
 estimatedTokens: 676
-keywords: [Communication, Subscription, Timing, DMO, Data, Cloud, data, model, customer's, timing, preferences, receiving, communication, subscription., API, Name, Category, Primary, Subject, Area]
+keywords: [Communication, Subscription, Timing, DMO, Data, Cloud, model, customer's, preferences, receiving, API, Category, Primary, Subject, Area]
 ---
 
 # Communication Subscription Timing DMO

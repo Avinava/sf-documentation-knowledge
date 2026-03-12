@@ -5,10 +5,10 @@ topic: selfregistercontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.532Z
+lastCollected: 2026-03-12T09:33:21.965Z
 estimatedTokens: 81
 namespace: AppLauncher
-keywords: [SelfRegisterController, its, internal, only.]
+keywords: [SelfRegisterController, internal]
 ---
 
 # SelfRegisterController Class

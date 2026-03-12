@@ -45,16 +45,26 @@ defined in `src/config/domains.ts`. Each domain has:
 
 ### Pipeline Flow
 ```
-Collect (fetch raw) → Process (HTML→MD + tag) → Generate (knowledge files)
+Discover (index API) → Collect (fetch raw) → Process (HTML→MD + tag) → Generate (knowledge files + graph)
 ```
 
-Each step is a separate CLI command and can run independently.
+Each step is a separate CLI command. Use `--discover` on collect/process/generate to automatically handle all 121+ SF deliverables.
 
 ### Knowledge Output
 - `knowledge/current/<domain>/_index.md` — deduplicated routing table for LLMs (one row per file, with descriptions)
-- `knowledge/current/<domain>/<topic>.md` — self-contained topic with full documentation (page-level processing)
+- `knowledge/current/<domain>/<topic>.md` — self-contained topic with full page-level documentation
+- `knowledge/current/graph.json` — semantic knowledge graph (53k+ nodes, 450k+ edges)
 - Each file has YAML frontmatter: `title`, `domain`, `topic`, `apiVersion`, `release`, `docType`, `namespace`, `estimatedTokens`, `keywords`
 - Files include code examples, cross-references to related topics, and callout boxes
+- Secrets (SF access tokens, JWTs) are automatically redacted during processing
+
+### Knowledge Graph
+The graph connects documents with semantic edges:
+- `references` — doc → doc cross-references (52k+ edges)
+- `belongs_to_namespace` — doc → Apex namespace (System, ConnectApi, etc.)
+- `belongs_to_service` — domain → service category (analytics, commerce, etc.)
+- `is_type` — doc → docType (api-reference, developer-guide, concept, etc.)
+- `tagged_with` — doc → keyword
 
 ## How to Add a New Documentation Domain
 
@@ -106,11 +116,21 @@ Each step is a separate CLI command and can run independently.
 # Build
 npm run build              # Compile TypeScript
 
-# Pipeline
-npm run collect            # Collect all P0 domains
+# Discovery
+npm run discover           # List all available SF documentation deliverables
+
+# Pipeline (single domain)
 npm run collect -- -d cli  # Collect specific domain
-npm run process            # Process raw → tagged
-npm run generate           # Generate knowledge files
+npm run process -- -d cli  # Process specific domain
+npm run generate -- -d cli # Generate specific domain
+
+# Pipeline (full — all 121+ domains)
+npm run collect -- --discover   # Auto-discover + collect all
+npm run process -- --discover   # Process all collected
+npm run generate -- --discover  # Generate all + rebuild graph
+
+# Graph
+npm run graph:stats        # Print graph statistics
 
 # MCP Server
 npm run mcp:dev            # Start MCP server (dev)

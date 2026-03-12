@@ -5,9 +5,9 @@ topic: dynamicformssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.071Z
+lastCollected: 2026-03-12T09:33:38.733Z
 estimatedTokens: 696
-keywords: [DynamicFormsSettings, Represents, settings, related, Dynamic, Forms., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample]
+keywords: [DynamicFormsSettings, settings, Dynamic, Forms, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative]
 ---
 
 # DynamicFormsSettings

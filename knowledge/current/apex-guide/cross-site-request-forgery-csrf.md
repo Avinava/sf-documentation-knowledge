@@ -5,9 +5,9 @@ topic: cross-site-request-forgery-csrf
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.888Z
+lastCollected: 2026-03-12T09:33:34.783Z
 estimatedTokens: 799
-keywords: [Cross-Site, Request, Forgery, CSRF, words, attacker's, page, contains, URL, performs, action, website., user, still, logged, web, they, visit, retrieved, actions]
+keywords: [Cross-Site, Forgery, CSRF, words, attacker's, URL, performs, action, website, user, logged, web, they, visit, retrieved]
 ---
 
 # Cross-Site Request Forgery (CSRF)

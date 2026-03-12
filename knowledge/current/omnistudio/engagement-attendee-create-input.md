@@ -5,9 +5,9 @@ topic: engagement-attendee-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.332Z
+lastCollected: 2026-03-12T09:33:47.340Z
 estimatedTokens: 431
-keywords: [Engagement, Attendee, Create, Input, representation, create, engagement, attendee, record.]
+keywords: [Engagement, Attendee, Input, representation, record]
 ---
 
 # Engagement Attendee Create Input

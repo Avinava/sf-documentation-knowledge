@@ -5,9 +5,9 @@ topic: geterrortypename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.195Z
+lastCollected: 2026-03-12T09:33:26.363Z
 estimatedTokens: 77
-keywords: [getErrorTypeName, contains, name, error, type.]
+keywords: [getErrorTypeName, error]
 ---
 
 # getErrorTypeName()

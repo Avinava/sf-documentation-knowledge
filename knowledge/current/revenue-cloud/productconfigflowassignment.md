@@ -5,9 +5,9 @@ topic: productconfigflowassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.116Z
+lastCollected: 2026-03-12T09:33:12.099Z
 estimatedTokens: 436
-keywords: [ProductConfigFlowAssignment, junction, represents, many-to-many, relationship, between, Product, Configuration, Flow, Classification., API, version, 60.0, later., Supported, Calls, Fields]
+keywords: [ProductConfigFlowAssignment, junction, many-to-many, relationship, Product, Configuration, Flow, Classification, API, version, 60.0, later, Calls]
 ---
 
 # ProductConfigFlowAssignment

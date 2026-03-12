@@ -5,9 +5,9 @@ topic: experiencebundlesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.479Z
+lastCollected: 2026-03-12T09:33:39.102Z
 estimatedTokens: 762
-keywords: [ExperienceBundleSettings, Represents, org, setting, enables, ExperienceBundle, metadata, Aura, sites, Experience, Cloud., doesn’t, affect, LWR, which, default., extends, Metadata, inherits, its]
+keywords: [ExperienceBundleSettings, org, setting, ExperienceBundle, metadata, Aura, sites, Experience, Cloud, doesn’t, affect, LWR, extends, inherits, fullName]
 ---
 
 # ExperienceBundleSettings

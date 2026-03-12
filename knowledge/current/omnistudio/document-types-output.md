@@ -5,9 +5,9 @@ topic: document-types-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.072Z
+lastCollected: 2026-03-12T09:33:48.795Z
 estimatedTokens: 225
-keywords: [Document, Types, Output, representation, Type., Important]
+keywords: [Document, Output, representation]
 ---
 
 # Document Types Output

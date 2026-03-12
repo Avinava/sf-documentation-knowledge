@@ -5,9 +5,9 @@ topic: connectapiocibaseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.098Z
+lastCollected: 2026-03-12T09:33:28.125Z
 estimatedTokens: 379
-keywords: [ConnectApi.OCIBaseOutputRepresentation, Base, Omnichannel, Inventory, output, class.]
+keywords: [ConnectApi.OCIBaseOutputRepresentation, Base, Omnichannel, Inventory, output]
 ---
 
 # ConnectApi.OCIBaseOutputRepresentation

@@ -5,9 +5,9 @@ topic: outcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.863Z
+lastCollected: 2026-03-12T09:33:51.436Z
 estimatedTokens: 832
-keywords: [Outcome, Represents, information, expected, change, participants, driven, organization's, activity., API, version, 59.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
+keywords: [Outcome, expected, change, participants, driven, organization's, activity, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---
 
 # Outcome

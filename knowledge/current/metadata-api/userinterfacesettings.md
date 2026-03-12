@@ -5,9 +5,9 @@ topic: userinterfacesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.523Z
+lastCollected: 2026-03-12T09:33:42.806Z
 estimatedTokens: 1813
-keywords: [UserInterfaceSettings, Represents, settings, modify, behavior, org’s, user, interface., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample]
+keywords: [UserInterfaceSettings, settings, modify, behavior, org’s, user, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
 # UserInterfaceSettings

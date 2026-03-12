@@ -5,9 +5,9 @@ topic: best-practices-for-using-global-apex-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.667Z
+lastCollected: 2026-03-12T09:33:33.691Z
 estimatedTokens: 4376
-keywords: [Best, Practices, Apex, Managed, Packages, independent, software, vendor, ISV, developer, understand, how, managed, packages., design, patterns, maximize, flexibility, comply, strict]
+keywords: [Best, Practices, Apex, Managed, Packages, independent, software, vendor, ISV, developer, understand, how, design, patterns, maximize]
 ---
 
 # Best Practices for Using Global Apex in Managed Packages

@@ -5,9 +5,9 @@ topic: icondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.852Z
+lastCollected: 2026-03-12T09:33:45.008Z
 estimatedTokens: 402
-keywords: [IconDefinition, Represents, icon, such, used, tab., API, version, 43.0, later., Note, Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [IconDefinition, icon, tab, API, version, 43.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # IconDefinition

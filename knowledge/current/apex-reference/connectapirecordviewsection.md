@@ -5,9 +5,9 @@ topic: connectapirecordviewsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.818Z
+lastCollected: 2026-03-12T09:33:28.861Z
 estimatedTokens: 289
-keywords: [ConnectApi.RecordViewSection, Section, record, fields, values, detail.]
+keywords: [ConnectApi.RecordViewSection, record, detail]
 ---
 
 # ConnectApi.RecordViewSection

@@ -5,9 +5,9 @@ topic: functioninvokemock-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.116Z
+lastCollected: 2026-03-12T09:33:30.158Z
 estimatedTokens: 1650
-keywords: [FunctionInvokeMock, mock, Salesforce, Functions, responses, during, testing., Usage, respond, functionName, payload, Example, Implementation]
+keywords: [FunctionInvokeMock, mock, Salesforce, Functions, responses, testing, Usage, respond, functionName, payload, Implementation]
 ---
 
 # FunctionInvokeMock Interface

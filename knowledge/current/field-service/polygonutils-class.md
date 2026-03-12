@@ -5,10 +5,10 @@ topic: polygonutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.255Z
+lastCollected: 2026-03-12T09:33:53.581Z
 estimatedTokens: 1222
 namespace: FSL
-keywords: [PolygonUtils, Represents, result, getTerritoryIdByPolygons, service, territory, record, latitude, longitude, geolocation, values., Usage, Example, getAllPolygonsByLatLong]
+keywords: [PolygonUtils, result, getTerritoryIdByPolygons, service, territory, record, latitude, longitude, geolocation, Usage, getAllPolygonsByLatLong]
 ---
 
 # PolygonUtils Class

@@ -5,9 +5,9 @@ topic: connectapicartitempromotioncollectioninputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.511Z
+lastCollected: 2026-03-12T09:33:24.783Z
 estimatedTokens: 85
-keywords: [ConnectApi.CartItemPromotionCollectionInputRepresentation, Promotions, cart, item.]
+keywords: [Promotions, cart, item]
 ---
 
 # ConnectApi.CartItemPromotionCollectionInputRepresentation

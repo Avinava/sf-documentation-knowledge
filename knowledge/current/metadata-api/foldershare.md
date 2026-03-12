@@ -5,9 +5,9 @@ topic: foldershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.052Z
+lastCollected: 2026-03-12T09:33:39.591Z
 estimatedTokens: 1178
-keywords: [FolderShare, Represents, settings, enhanced, analytics, folder, sharing., Users, control, access, reports, dashboards, giving, others, Viewer, Editor, Manager, contains, report, dashboard.]
+keywords: [FolderShare, settings, enhanced, analytics, folder, sharing, Users, control, access, reports, dashboards, giving, others, Viewer, Editor]
 ---
 
 # FolderShare

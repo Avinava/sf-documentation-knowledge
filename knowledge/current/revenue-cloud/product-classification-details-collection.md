@@ -5,9 +5,9 @@ topic: product-classification-details-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.179Z
+lastCollected: 2026-03-12T09:33:09.724Z
 estimatedTokens: 188
-keywords: [Product, Classification, Details, Collection, Output, representation, contains, collection, product, classification, details, along, any, processing, errors.]
+keywords: [Product, Classification, Collection, Output, representation, along, any, processing, errors]
 ---
 
 # Product Classification Details Collection

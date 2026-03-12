@@ -5,10 +5,10 @@ topic: customonetimepassworddeliveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.809Z
+lastCollected: 2026-03-12T09:33:29.835Z
 estimatedTokens: 1349
 namespace: Auth
-keywords: [CustomOneTimePasswordDeliveryHandler, custom, SMS, provider, send, one-time, passwords, OTPs, Experience, Cloud, identity, verification, create, implements, Auth.CustomOneTimePasswordDeliveryHandler, interface., sendOneTimePassword, userId, phoneNumber, oneTimePassword]
+keywords: [CustomOneTimePasswordDeliveryHandler, custom, SMS, provider, send, one-time, passwords, OTPs, Experience, Cloud, identity, verification, implements, sendOneTimePassword, userId]
 ---
 
 # CustomOneTimePasswordDeliveryHandler Interface

@@ -5,9 +5,9 @@ topic: connectapitaxenginelogresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.118Z
+lastCollected: 2026-03-12T09:33:29.162Z
 estimatedTokens: 123
-keywords: [ConnectApi.TaxEngineLogResponse, Shows, results, tax, calculation, request, engine.]
+keywords: [ConnectApi.TaxEngineLogResponse, results, tax, calculation, engine]
 ---
 
 # ConnectApi.TaxEngineLogResponse

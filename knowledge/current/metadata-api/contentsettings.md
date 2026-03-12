@@ -5,9 +5,9 @@ topic: contentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.918Z
+lastCollected: 2026-03-12T09:33:37.660Z
 estimatedTokens: 1460
-keywords: [ContentSettings, Represents, content, settings, org., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [ContentSettings, content, settings, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # ContentSettings

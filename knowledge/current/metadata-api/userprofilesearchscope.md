@@ -5,9 +5,9 @@ topic: userprofilesearchscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.540Z
+lastCollected: 2026-03-12T09:33:42.821Z
 estimatedTokens: 13
-keywords: [UserProfileSearchScope, Reserved, internal, use.]
+keywords: [UserProfileSearchScope, Reserved, internal]
 ---
 
 # UserProfileSearchScope

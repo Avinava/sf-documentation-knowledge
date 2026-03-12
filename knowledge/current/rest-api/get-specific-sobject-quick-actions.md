@@ -5,9 +5,9 @@ topic: get-specific-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.059Z
+lastCollected: 2026-03-12T09:33:35.904Z
 estimatedTokens: 185
-keywords: [Get, Specific, sObject, Quick, Actions, specific, action, well, action’s, details., resource, REST, API, version, 28.0, later., Syntax, Example]
+keywords: [Specific, sObject, Quick, Actions, action, well, action’s, resource, REST, API, version, 28.0, later]
 ---
 
 # Get Specific sObject Quick Actions

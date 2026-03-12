@@ -5,10 +5,10 @@ topic: dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.136Z
+lastCollected: 2026-03-12T09:33:32.181Z
 estimatedTokens: 818
 namespace: Metadata
-keywords: [DataWeave, Apex, uses, Mulesoft, library, read, parse, data, format, transform, export, different, format., create, scripts, metadata, invoke, directly, Apex., run]
+keywords: [DataWeave, Apex, uses, Mulesoft, library, parse, data, transform, export, different, scripts, metadata, invoke, directly, run]
 ---
 
 # DataWeave in Apex

@@ -5,9 +5,9 @@ topic: mobilesecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.238Z
+lastCollected: 2026-03-12T09:33:40.716Z
 estimatedTokens: 1128
-keywords: [MobileSecurityPolicy, Represents, mobile, app, security, policy, Salesforce, Enhanced, Mobile, App, Security, enabled., full, description, Enable, Configure, Policies., Important, Parent, File]
+keywords: [MobileSecurityPolicy, mobile, app, security, policy, Salesforce, Enhanced, enabled, full, Enable, Configure, Policies, Parent, File, Suffix]
 ---
 
 # MobileSecurityPolicy

@@ -5,10 +5,10 @@ topic: relatedcontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.534Z
+lastCollected: 2026-03-12T09:33:21.012Z
 estimatedTokens: 562
 namespace: Metadata
-keywords: [RelatedContent, Represents, Mobile, Cards, section, page, layout., Usage, relatedContentItems, clone]
+keywords: [RelatedContent, Mobile, Cards, layout, Usage, relatedContentItems, clone]
 ---
 
 # RelatedContent Class

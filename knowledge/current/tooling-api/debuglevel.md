@@ -5,9 +5,9 @@ topic: debuglevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.142Z
+lastCollected: 2026-03-12T09:33:44.287Z
 estimatedTokens: 1138
-keywords: [DebugLevel, Represents, set, log, category, levels, assign, TraceFlag, object., Multiple, trace, flags, debug, level., Supported, SOAP, API, Calls, REST, HTTP]
+keywords: [DebugLevel, log, category, levels, assign, TraceFlag, Multiple, trace, flags, debug, level, SOAP, API, Calls, REST]
 ---
 
 # DebugLevel

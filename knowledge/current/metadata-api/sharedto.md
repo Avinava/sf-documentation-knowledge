@@ -5,9 +5,9 @@ topic: sharedto
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.820Z
+lastCollected: 2026-03-12T09:33:42.192Z
 estimatedTokens: 1806
-keywords: [SharedTo, defines, sharing, access, list, view, folder., used, specify, target, source, owner-based, rules., Note, Declarative, Metadata, File, Suffix, Directory, Location]
+keywords: [SharedTo, sharing, access, view, folder, specify, target, source, owner-based, rules, Declarative, Metadata, File, Suffix, Directory]
 ---
 
 # SharedTo

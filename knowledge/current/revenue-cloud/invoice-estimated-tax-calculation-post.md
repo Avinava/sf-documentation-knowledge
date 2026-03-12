@@ -5,9 +5,9 @@ topic: invoice-estimated-tax-calculation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.634Z
+lastCollected: 2026-03-12T09:33:08.453Z
 estimatedTokens: 288
-keywords: [Invoice, Estimated, Tax, Calculation, POST, Calculate, estimated, tax, invoices, invoice, lines, TaxProcessingStatus, either, Pending, Estimated.]
+keywords: [Invoice, Estimated, Tax, Calculation, POST, Calculate, invoices, lines, TaxProcessingStatus, either, Pending]
 ---
 
 # Invoice Estimated Tax Calculation (POST)

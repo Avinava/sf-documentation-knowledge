@@ -5,9 +5,9 @@ topic: rules-application-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.407Z
+lastCollected: 2026-03-12T09:33:09.907Z
 estimatedTokens: 117
-keywords: [Rules, Application, Error, Output, representation, error, details, rules, application, failure.]
+keywords: [Rules, Application, Error, Output, representation, failure]
 ---
 
 # Rules Application Error

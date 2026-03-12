@@ -5,9 +5,9 @@ topic: connectapioauthcredentialauthurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.095Z
+lastCollected: 2026-03-12T09:33:28.121Z
 estimatedTokens: 181
-keywords: [ConnectApi.OAuthCredentialAuthUrl, OAuth, authentication, URL, credential.]
+keywords: [ConnectApi.OAuthCredentialAuthUrl, OAuth, authentication, URL, credential]
 ---
 
 # ConnectApi.OAuthCredentialAuthUrl

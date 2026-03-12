@@ -5,10 +5,10 @@ topic: bucketfieldvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.888Z
+lastCollected: 2026-03-12T09:33:23.295Z
 estimatedTokens: 1869
 namespace: Reports
-keywords: [BucketFieldValue, Contains, information, report, values, included, bucket, field., label, sourceDimensionValues, rangeUpperBound, getLabel, getRangeUpperBound, getSourceDimensionValues, setLabel, setRangeUpperBound, setSourceDimensionValues, toString]
+keywords: [BucketFieldValue, report, included, bucket, label, sourceDimensionValues, rangeUpperBound, getLabel, getRangeUpperBound, getSourceDimensionValues, setLabel, setRangeUpperBound, setSourceDimensionValues, toString]
 ---
 
 # BucketFieldValue Class

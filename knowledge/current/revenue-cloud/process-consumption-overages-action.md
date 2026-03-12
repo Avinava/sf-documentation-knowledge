@@ -5,9 +5,9 @@ topic: process-consumption-overages-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.942Z
+lastCollected: 2026-03-12T09:33:06.078Z
 estimatedTokens: 379
-keywords: [Process, Consumption, Overages, Action, consumption, overages, usage, summary, records, SummaryComplete, status., action, uses, entitlement, service, process, overages., Special, Access, Rules]
+keywords: [Process, Consumption, Overages, Action, usage, summary, records, SummaryComplete, status, uses, entitlement, service, Special, Access, Rules]
 ---
 
 # Process Consumption Overages Action

@@ -5,9 +5,9 @@ topic: connectapicommerceproductsellingmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.683Z
+lastCollected: 2026-03-12T09:33:26.814Z
 estimatedTokens: 72
-keywords: [ConnectApi.CommerceProductSellingModel, Product, selling, model, information.]
+keywords: [ConnectApi.CommerceProductSellingModel, Product, selling, model]
 ---
 
 # ConnectApi.CommerceProductSellingModel

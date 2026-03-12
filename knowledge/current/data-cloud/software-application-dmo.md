@@ -5,9 +5,9 @@ topic: software-application-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.959Z
+lastCollected: 2026-03-12T09:33:15.645Z
 estimatedTokens: 513
-keywords: [Software, Application, DMO, Data, Cloud, data, model, defining, programs, created, end, user, such, app, Northern, Trail, Outfitters, loyalty, members., API]
+keywords: [Software, Application, DMO, Data, Cloud, model, defining, programs, created, end, user, app, Northern, Trail, Outfitters]
 ---
 
 # Software Application DMO

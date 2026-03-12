@@ -5,9 +5,9 @@ topic: setcallattacheddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.408Z
+lastCollected: 2026-03-12T09:33:56.454Z
 estimatedTokens: 243
-keywords: [setCallAttachedData, call, data, associated, ID., get, information, send, between, interaction, log, custom, console, component.This, only, API, version, 31.0, later., Syntax]
+keywords: [setCallAttachedData, call, data, associated, send, interaction, log, custom, console, component.This, API, version, 31.0, later, Arguments]
 ---
 
 # setCallAttachedData()

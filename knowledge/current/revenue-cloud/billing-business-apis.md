@@ -5,9 +5,9 @@ topic: billing-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.370Z
+lastCollected: 2026-03-12T09:33:07.379Z
 estimatedTokens: 2287
-keywords: [Billing, Business, APIs, manage, credit, application, handle, billing, scenarios., Credits, Schedules, Invoices, Invoice, Scheduler, Sequencing, Account, Statement, Payments, Tax, Calculation]
+keywords: [Billing, Business, APIs, manage, credit, application, handle, scenarios, Credits, Schedules, Invoices, Invoice, Scheduler, Sequencing, Account]
 ---
 
 # Billing Business APIs

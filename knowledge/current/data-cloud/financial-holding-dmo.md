@@ -5,9 +5,9 @@ topic: financial-holding-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.083Z
+lastCollected: 2026-03-12T09:33:14.828Z
 estimatedTokens: 719
-keywords: [Financial, Holding, DMO, Represents, financial, holdings, associated, either, account, account., Provided, Services, Cloud, Data, Kit., API, version, later., Name, Category]
+keywords: [Financial, Holding, DMO, holdings, associated, either, account, Provided, Services, Cloud, Data, Kit, API, version, later]
 ---
 
 # Financial Holding DMO

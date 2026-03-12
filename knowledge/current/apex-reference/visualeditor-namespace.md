@@ -5,10 +5,10 @@ topic: visualeditor-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.635Z
+lastCollected: 2026-03-12T09:33:31.691Z
 estimatedTokens: 519
 namespace: VisualEditor
-keywords: [VisualEditor, provides, classes, interacting, Lightning, App, Builder., operate, components, which, include, web, Aura, components.]
+keywords: [VisualEditor, classes, interacting, Lightning, App, Builder, operate, components, include, web, Aura]
 ---
 
 # VisualEditor Namespace

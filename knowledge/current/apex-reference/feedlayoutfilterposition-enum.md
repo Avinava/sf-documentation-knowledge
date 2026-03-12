@@ -5,9 +5,9 @@ topic: feedlayoutfilterposition-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.480Z
+lastCollected: 2026-03-12T09:33:29.528Z
 estimatedTokens: 100
-keywords: [FeedLayoutFilterPosition, Describes, where, feed, filters, list, included, layout., Values]
+keywords: [FeedLayoutFilterPosition, feed, filters, included, layout]
 ---
 
 # FeedLayoutFilterPosition Enum

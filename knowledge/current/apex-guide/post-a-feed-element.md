@@ -5,9 +5,9 @@ topic: post-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.405Z
+lastCollected: 2026-03-12T09:33:34.368Z
 estimatedTokens: 132
-keywords: [Post, Feed, Element, call, post, feed, element.]
+keywords: [Post, Feed, Element, call]
 ---
 
 # Post a Feed Element

@@ -5,9 +5,9 @@ topic: salesforce-crm-journal-subtype-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:13.605Z
+lastCollected: 2026-03-12T09:33:14.431Z
 estimatedTokens: 257
-keywords: [Salesforce, CRM, Journal, Subtype, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., subtypes, help, categorize, types, member]
+keywords: [Salesforce, CRM, Journal, Subtype, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, subtypes]
 ---
 
 # Salesforce CRM: Journal Subtype Mapping

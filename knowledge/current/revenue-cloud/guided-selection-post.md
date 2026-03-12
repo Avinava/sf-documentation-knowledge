@@ -5,9 +5,9 @@ topic: guided-selection-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.956Z
+lastCollected: 2026-03-12T09:33:08.738Z
 estimatedTokens: 378
-keywords: [Guided, Selection, POST, Retrieve, list, products, based, response, identifier, search, terms, guided, selection., selection, captures, user, requirements, show, suitable, products.]
+keywords: [Guided, Selection, POST, Retrieve, products, identifier, search, terms, captures, user, requirements, show, suitable]
 ---
 
 # Guided Selection (POST)

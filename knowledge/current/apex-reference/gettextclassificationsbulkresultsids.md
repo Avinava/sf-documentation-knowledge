@@ -5,9 +5,9 @@ topic: gettextclassificationsbulkresultsids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.538Z
+lastCollected: 2026-03-12T09:33:19.214Z
 estimatedTokens: 196
-keywords: [getTextClassificationsBulkResults, ids, text, classification, results, request, IDs., API, Version, Requires, Chatter, Example]
+keywords: [getTextClassificationsBulkResults, ids, text, classification, results, API, Version, Requires, Chatter]
 ---
 
 # getTextClassificationsBulkResults(ids)

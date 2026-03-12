@@ -5,9 +5,9 @@ topic: place-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.249Z
+lastCollected: 2026-03-12T09:33:08.126Z
 estimatedTokens: 605
-keywords: [Place, Order, Input, representation, request, create, update, order.]
+keywords: [Place, Order, Input, representation]
 ---
 
 # Place Order Input

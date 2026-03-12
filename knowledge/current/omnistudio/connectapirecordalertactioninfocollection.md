@@ -5,9 +5,9 @@ topic: connectapirecordalertactioninfocollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.790Z
+lastCollected: 2026-03-12T09:33:46.813Z
 estimatedTokens: 80
-keywords: [ConnectApi.RecordAlertActionInfoCollection, Representation, details, action, record, alert.]
+keywords: [Representation, action, record, alert]
 ---
 
 # ConnectApi.RecordAlertActionInfoCollection

@@ -5,9 +5,9 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.124Z
+lastCollected: 2026-03-12T09:33:15.804Z
 estimatedTokens: 298
-keywords: [Settings, Represents, organization, settings, related, feature., example, password, policies, session, network, access, controls, SecuritySettings, component, type., information, Settings.]
+keywords: [Settings, organization, feature, password, policies, session, network, access, SecuritySettings, component]
 ---
 
 # Settings

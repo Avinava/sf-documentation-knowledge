@@ -5,9 +5,9 @@ topic: comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.751Z
+lastCollected: 2026-03-12T09:33:34.666Z
 estimatedTokens: 287
-keywords: [Comments, Both, single, multiline, comments, supported, Apex, code., Tip]
+keywords: [Comments, multiline, Apex, code]
 ---
 
 # Comments

@@ -5,9 +5,9 @@ topic: apexexecutionoverlayresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.609Z
+lastCollected: 2026-03-12T09:33:43.782Z
 estimatedTokens: 674
-keywords: [ApexExecutionOverlayResult, Represents, result, Apex, code, snippet, SOQL, query, defined, associated, ApexExecutionOverlayAction, resulting, heap, dump, returned., API, version, 28.0, later., Supported]
+keywords: [ApexExecutionOverlayResult, result, Apex, code, snippet, SOQL, query, defined, associated, ApexExecutionOverlayAction, resulting, heap, dump, API, version]
 ---
 
 # ApexExecutionOverlayResult

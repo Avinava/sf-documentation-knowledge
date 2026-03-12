@@ -5,9 +5,9 @@ topic: configure-callout-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:08.682Z
+lastCollected: 2026-03-12T09:33:10.126Z
 estimatedTokens: 422
-keywords: [Configure, Callout, Settings, Before, set, callout, provider, configure, settings., settings, include, creation, named, credential, external, integration, definition, configuration, fulfillment, step]
+keywords: [Configure, Callout, Settings, provider, include, creation, named, credential, external, integration, definition, configuration, fulfillment, step]
 ---
 
 # Configure Callout Settings

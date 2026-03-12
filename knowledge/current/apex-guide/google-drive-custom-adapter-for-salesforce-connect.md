@@ -5,9 +5,9 @@ topic: google-drive-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.947Z
+lastCollected: 2026-03-12T09:33:32.981Z
 estimatedTokens: 146
-keywords: [Google, Drive™, Custom, Adapter, Salesforce, Connect, example, illustrates, how, callouts, OAuth, connect, external, system, which, case, online, storage, service., shows]
+keywords: [Google, Drive™, Custom, Adapter, Salesforce, Connect, illustrates, how, callouts, OAuth, external, system, case, online, storage]
 ---
 
 # Google Drive™ Custom Adapter for Salesforce Connect

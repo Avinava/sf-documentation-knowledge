@@ -5,10 +5,10 @@ topic: standardfilterinfopicklist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.003Z
+lastCollected: 2026-03-12T09:33:23.404Z
 estimatedTokens: 760
 namespace: Reports
-keywords: [StandardFilterInfoPicklist, Contains, information, standard, filter, picklist, such, display, name, field, default, list, possible, values., getDefaultValue, getFilterValues, getLabel, getType]
+keywords: [StandardFilterInfoPicklist, standard, filter, picklist, display, possible, getDefaultValue, getFilterValues, getLabel, getType]
 ---
 
 # StandardFilterInfoPicklist Class

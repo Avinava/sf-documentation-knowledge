@@ -5,9 +5,9 @@ topic: actionablelistdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.890Z
+lastCollected: 2026-03-12T09:33:50.524Z
 estimatedTokens: 1475
-keywords: [ActionableListDefinition, Represents, data, source, definition, details, associated, actionable, list., Important, Parent, File, Suffix, Directory, Location, Version, Fields, ActionableListDatasetColumn, ActionableListMemberStatus, Declarative]
+keywords: [ActionableListDefinition, data, source, definition, associated, actionable, Parent, File, Suffix, Directory, Location, Version, ActionableListDatasetColumn, ActionableListMemberStatus, Declarative]
 ---
 
 # ActionableListDefinition

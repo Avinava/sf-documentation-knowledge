@@ -5,9 +5,9 @@ topic: connectapibundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.837Z
+lastCollected: 2026-03-12T09:33:26.014Z
 estimatedTokens: 411
-keywords: [ConnectApi.BundleCapability, feed, element, capability, container, elements, called, bundle.]
+keywords: [ConnectApi.BundleCapability, feed, element, capability, container, elements, bundle]
 ---
 
 # ConnectApi.BundleCapability

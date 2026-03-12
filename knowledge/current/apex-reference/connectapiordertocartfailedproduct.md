@@ -5,9 +5,9 @@ topic: connectapiordertocartfailedproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.306Z
+lastCollected: 2026-03-12T09:33:28.357Z
 estimatedTokens: 123
-keywords: [ConnectApi.OrderToCartFailedProduct, Product, could, added, cart, order, error, information.]
+keywords: [ConnectApi.OrderToCartFailedProduct, Product, added, cart, order, error]
 ---
 
 # ConnectApi.OrderToCartFailedProduct

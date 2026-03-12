@@ -5,9 +5,9 @@ topic: orderitemratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.700Z
+lastCollected: 2026-03-12T09:33:11.763Z
 estimatedTokens: 684
-keywords: [OrderItemRateCardEntry, Represents, catalog, negotiated, rates, usage, metric, associated, order, item, that's, used, charge, overage, consumption., API, version, 62.0, later., Important]
+keywords: [OrderItemRateCardEntry, catalog, negotiated, rates, usage, metric, associated, order, item, that's, charge, overage, consumption, API, version]
 ---
 
 # OrderItemRateCardEntry

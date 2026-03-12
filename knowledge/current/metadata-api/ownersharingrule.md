@@ -5,9 +5,9 @@ topic: ownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.613Z
+lastCollected: 2026-03-12T09:33:41.075Z
 estimatedTokens: 3111
-keywords: [OwnerSharingRule, Represents, ownership-based, sharing, rule., enables, share, records, owned, set, users, another, rules, specify, access, level, target, user, group., component]
+keywords: [OwnerSharingRule, ownership-based, sharing, rule, share, records, owned, users, another, rules, specify, access, level, target, user]
 ---
 
 # OwnerSharingRule

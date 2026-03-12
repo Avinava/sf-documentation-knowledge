@@ -5,10 +5,10 @@ topic: tableresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.042Z
+lastCollected: 2026-03-12T09:33:20.577Z
 estimatedTokens: 3106
 namespace: DataSource
-keywords: [TableResult, Contains, results, search, query., errorMessage, queryMoreToken, rows, success, tableName, totalSize, error, get, queryContext, tableSelection]
+keywords: [TableResult, results, search, query, errorMessage, queryMoreToken, rows, success, tableName, totalSize, error, queryContext, tableSelection]
 ---
 
 # TableResult Class

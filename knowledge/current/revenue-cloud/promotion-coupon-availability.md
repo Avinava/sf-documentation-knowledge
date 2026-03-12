@@ -5,9 +5,9 @@ topic: promotion-coupon-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.249Z
+lastCollected: 2026-03-12T09:33:09.791Z
 estimatedTokens: 165
-keywords: [Promotion, Coupon, Availability, Output, representation, details, coupon, that's, eligible, promotion., Additionally, specifies, reason, any, ineligibility.]
+keywords: [Promotion, Coupon, Availability, Output, representation, that's, eligible, Additionally, reason, any, ineligibility]
 ---
 
 # Promotion Coupon Availability

@@ -5,9 +5,9 @@ topic: associationenginesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.063Z
+lastCollected: 2026-03-12T09:33:36.855Z
 estimatedTokens: 581
-keywords: [AssociationEngineSettings, Represents, record, association, builder, settings, org., extends, Metadata, metadata, inherits, its, fullName, field., Parent, Manifest, Access, File, Suffix, Directory]
+keywords: [AssociationEngineSettings, record, association, builder, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, Access, File, Suffix]
 ---
 
 # AssociationEngineSettings

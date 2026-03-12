@@ -5,9 +5,9 @@ topic: connectapibookmarkscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.395Z
+lastCollected: 2026-03-12T09:33:24.670Z
 estimatedTokens: 200
-keywords: [ConnectApi.BookmarksCapabilityInput, Create, update, bookmark, feed, element.]
+keywords: [ConnectApi.BookmarksCapabilityInput, bookmark, feed, element]
 ---
 
 # ConnectApi.BookmarksCapabilityInput

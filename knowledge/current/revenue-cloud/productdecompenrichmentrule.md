@@ -5,9 +5,9 @@ topic: productdecompenrichmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:11.145Z
+lastCollected: 2026-03-12T09:33:12.121Z
 estimatedTokens: 1180
-keywords: [ProductDecompEnrichmentRule, Represents, mappings, between, fields, attributes., Enrichment, rules, part, decomposition, rule, used, propagate, data, fulfillment, order, lines., API, version, 61.0]
+keywords: [ProductDecompEnrichmentRule, mappings, attributes, Enrichment, rules, part, decomposition, rule, propagate, data, fulfillment, order, lines, API, version]
 ---
 
 # ProductDecompEnrichmentRule

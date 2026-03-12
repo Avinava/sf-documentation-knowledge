@@ -5,9 +5,9 @@ topic: sortorder-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.505Z
+lastCollected: 2026-03-12T09:33:29.552Z
 estimatedTokens: 64
-keywords: [SortOrder, Describes, sort, order, related, list., Values]
+keywords: [SortOrder, sort, order]
 ---
 
 # SortOrder Enum

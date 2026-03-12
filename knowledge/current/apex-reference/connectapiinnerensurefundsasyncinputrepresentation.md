@@ -5,9 +5,9 @@ topic: connectapiinnerensurefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.016Z
+lastCollected: 2026-03-12T09:33:25.256Z
 estimatedTokens: 473
-keywords: [ConnectApi.InnerEnsureFundsAsyncInputRepresentation, Invoice, associated, OrderSummary.]
+keywords: [Invoice, associated, OrderSummary]
 ---
 
 # ConnectApi.InnerEnsureFundsAsyncInputRepresentation

@@ -5,9 +5,9 @@ topic: build-custom-lightning-web-components-for-service-documents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.490Z
+lastCollected: 2026-03-12T09:33:53.800Z
 estimatedTokens: 511
-keywords: [Build, Custom, Lightning, Web, Components, Service, Documents, Customize, templates, specific, business, branding, needs, creating, custom, components, web, LWCs]
+keywords: [Build, Custom, Lightning, Web, Components, Service, Documents, Customize, templates, specific, business, branding, needs, creating, LWCs]
 ---
 
 # Build Custom Lightning Web Components for Service Documents

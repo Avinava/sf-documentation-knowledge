@@ -5,10 +5,10 @@ topic: id-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.744Z
+lastCollected: 2026-03-12T09:33:30.788Z
 estimatedTokens: 3174
 namespace: System
-keywords: [Converts, specified, ID., restoreCasing, true, represents, 18-character, incorrect, casing, correctly, aligned, its, encoded, casing., Example, Getting, sObject, Token, addError, errorMsg]
+keywords: [Converts, restoreCasing, 18-character, incorrect, casing, correctly, aligned, encoded, Getting, sObject, Token, addError, errorMsg, Usage, escape]
 ---
 
 # Id Class

@@ -5,9 +5,9 @@ topic: identity-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.206Z
+lastCollected: 2026-03-12T09:33:13.144Z
 estimatedTokens: 1045
-keywords: [Identity, Schema, Capturing, profile, data, achieved, through, mobile, SDK’s, identity, component., component, tracks, various, attributes, emit, events, which, Data, Cloud]
+keywords: [Identity, Schema, Capturing, profile, data, achieved, mobile, SDK’s, component, tracks, various, attributes, emit, events, Cloud]
 ---
 
 # Identity Schema

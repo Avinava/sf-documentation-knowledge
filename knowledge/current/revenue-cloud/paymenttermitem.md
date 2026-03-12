@@ -5,9 +5,9 @@ topic: paymenttermitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.837Z
+lastCollected: 2026-03-12T09:33:11.878Z
 estimatedTokens: 813
-keywords: [PaymentTermItem, Represents, configuration, payment, term., API, version, 62.0, later., Important, Supported, Calls, Special, Access, Rules, Fields]
+keywords: [PaymentTermItem, configuration, payment, term, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---
 
 # PaymentTermItem

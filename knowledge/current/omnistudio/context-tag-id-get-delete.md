@@ -5,9 +5,9 @@ topic: context-tag-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.025Z
+lastCollected: 2026-03-12T09:33:47.931Z
 estimatedTokens: 106
-keywords: [Context, Tag, GET, DELETE, Query, delete, context, tag.]
+keywords: [Context, Tag, Query]
 ---
 
 # Context Tag ID (GET, DELETE)

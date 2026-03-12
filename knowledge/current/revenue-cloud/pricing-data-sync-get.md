@@ -5,9 +5,9 @@ topic: pricing-data-sync-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.070Z
+lastCollected: 2026-03-12T09:33:08.837Z
 estimatedTokens: 185
-keywords: [Pricing, Data, Sync, GET, pricing, data, ensure, lookup, tables, contain, latest, data.]
+keywords: [Pricing, Data, Sync, ensure, lookup, tables, contain, latest]
 ---
 
 # Pricing Data Sync (GET)

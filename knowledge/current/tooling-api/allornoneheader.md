@@ -5,9 +5,9 @@ topic: allornoneheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:44.425Z
+lastCollected: 2026-03-12T09:33:43.617Z
 estimatedTokens: 424
-keywords: [AllOrNoneHeader, Allows, call, roll, back, changes, unless, records, processed, successfully., API, Calls, Fields, Sample, Code—Java]
+keywords: [AllOrNoneHeader, call, roll, back, changes, unless, records, processed, successfully, API, Calls, Sample, Code—Java]
 ---
 
 # AllOrNoneHeader

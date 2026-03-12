@@ -5,9 +5,9 @@ topic: configuration-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.509Z
+lastCollected: 2026-03-12T09:33:09.224Z
 estimatedTokens: 403
-keywords: [Configuration, Details, Output, representation, product, configuration, details.]
+keywords: [Configuration, Output, representation, product]
 ---
 
 # Configuration Details

@@ -5,9 +5,9 @@ topic: debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.553Z
+lastCollected: 2026-03-12T09:33:55.659Z
 estimatedTokens: 668
-keywords: [Debugging, browser’s, console, JavaScript, error, messages, debug, Lightning, pages, built, Console, API., Here, several, recommendations, debugging, API, code., Enable, Debug]
+keywords: [Debugging, browser’s, console, JavaScript, error, messages, debug, Lightning, pages, built, API, several, recommendations, code, Enable]
 ---
 
 # Debugging

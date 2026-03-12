@@ -5,9 +5,9 @@ topic: context-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.914Z
+lastCollected: 2026-03-12T09:33:49.540Z
 estimatedTokens: 473
-keywords: [Context, Service, Simplify, sharing, consumption, business, application, data, Service., Acting, generic, module, forms, layer, between, applications, procedures, enabling, easy, retrieval]
+keywords: [Context, Service, Simplify, sharing, consumption, business, application, data, Acting, generic, module, forms, layer, applications, procedures]
 ---
 
 # Context Service

@@ -5,10 +5,10 @@ topic: connectionparams-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.930Z
+lastCollected: 2026-03-12T09:33:20.485Z
 estimatedTokens: 2100
 namespace: DataSource
-keywords: [ConnectionParams, Contains, credentials, authenticating, external, system., Usage, certificateName, endpoint, oauthToken, password, principalType, protocol, repository, username]
+keywords: [ConnectionParams, credentials, authenticating, external, system, Usage, certificateName, endpoint, oauthToken, password, principalType, protocol, repository, username]
 ---
 
 # ConnectionParams Class

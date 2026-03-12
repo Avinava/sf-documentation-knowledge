@@ -6,9 +6,9 @@ topic: send-multiple-requests-using-composite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.411Z
+lastCollected: 2026-03-12T09:33:35.264Z
 estimatedTokens: 1082
-keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, requests, single, call., output, request, input, subsequent, request., response, bodies, HTTP, statuses]
+keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, call, output, input, subsequent, bodies, HTTP, statuses]
 ---
 
 # Send Multiple Requests

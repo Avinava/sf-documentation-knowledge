@@ -5,9 +5,9 @@ topic: connectapiengagementsidcreateoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.756Z
+lastCollected: 2026-03-12T09:33:46.782Z
 estimatedTokens: 114
-keywords: [ConnectApi.EngagementsIdCreateOutput, Output, representation, create, engagement, interaction.]
+keywords: [ConnectApi.EngagementsIdCreateOutput, Output, representation, engagement, interaction]
 ---
 
 # ConnectApi.EngagementsIdCreateOutput

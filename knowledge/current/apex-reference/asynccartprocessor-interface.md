@@ -5,9 +5,9 @@ topic: asynccartprocessor-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.140Z
+lastCollected: 2026-03-12T09:33:30.183Z
 estimatedTokens: 732
-keywords: [AsyncCartProcessor, implement, asynchronous, integrations, B2B, Commerce., startCartProcessAsync, integrationInfo, cartId, Example, Implementation]
+keywords: [AsyncCartProcessor, implement, asynchronous, integrations, B2B, Commerce, startCartProcessAsync, integrationInfo, cartId, Implementation]
 ---
 
 # AsyncCartProcessor Interface

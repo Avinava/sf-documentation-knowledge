@@ -5,9 +5,9 @@ topic: apply-credit-memo-line-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.786Z
+lastCollected: 2026-03-12T09:33:08.589Z
 estimatedTokens: 311
-keywords: [Apply, Credit, Memo, Line, POST, Adjust, correct, already, issued, invoices, applying, existing, credit, memo, line, invoice, line.]
+keywords: [Apply, Credit, Memo, Line, POST, Adjust, correct, already, issued, invoices, applying, invoice]
 ---
 
 # Apply Credit Memo Line (POST)

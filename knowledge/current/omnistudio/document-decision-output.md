@@ -5,9 +5,9 @@ topic: document-decision-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.054Z
+lastCollected: 2026-03-12T09:33:48.780Z
 estimatedTokens: 159
-keywords: [Document, Decision, Output, representation, response, including, Table, output.]
+keywords: [Document, Decision, Output, representation, including]
 ---
 
 # Document Decision Output

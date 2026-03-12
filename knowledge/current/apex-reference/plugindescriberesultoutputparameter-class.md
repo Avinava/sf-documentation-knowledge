@@ -5,10 +5,10 @@ topic: plugindescriberesultoutputparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.639Z
+lastCollected: 2026-03-12T09:33:21.112Z
 estimatedTokens: 1468
 namespace: Process
-keywords: [PluginDescribeResult.OutputParameter, Describes, output, Process.PluginResult., Tip, name, description, parameterType, Description, Usage, Name, ParameterType]
+keywords: [PluginDescribeResult.OutputParameter, output, Process.PluginResult, parameterType, Usage]
 ---
 
 # PluginDescribeResult.OutputParameter Class

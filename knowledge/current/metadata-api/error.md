@@ -5,9 +5,9 @@ topic: error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.358Z
+lastCollected: 2026-03-12T09:33:38.992Z
 estimatedTokens: 214
-keywords: [Error, Represents, error, occurred, during, synchronous, CRUD, createMetadata, updateMetadata, deleteMetadata, operation., Version]
+keywords: [Error, occurred, synchronous, CRUD, createMetadata, updateMetadata, deleteMetadata, operation, Version]
 ---
 
 # Error

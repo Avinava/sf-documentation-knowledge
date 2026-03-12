@@ -5,9 +5,9 @@ topic: ocrdocumentscanresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.592Z
+lastCollected: 2026-03-12T09:33:46.628Z
 estimatedTokens: 443
-keywords: [OcrDocumentScanResult, contains, OCR, document, scan, result., stores, Document, Scan, Result, page, number, extracted, text., ocrDocumentScanResultId, pageNumber]
+keywords: [OcrDocumentScanResult, OCR, document, scan, result, stores, number, extracted, text, ocrDocumentScanResultId, pageNumber]
 ---
 
 # OcrDocumentScanResult Class

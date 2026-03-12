@@ -5,10 +5,10 @@ topic: basenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.853Z
+lastCollected: 2026-03-12T09:33:22.271Z
 estimatedTokens: 2458
 namespace: CommercePayments
-keywords: [BaseNotification, Abstract, storing, notification, information, sent, payment, gateways., Usage, Example, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails]
+keywords: [BaseNotification, Abstract, storing, notification, sent, payment, gateways, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]
 ---
 
 # BaseNotification Class

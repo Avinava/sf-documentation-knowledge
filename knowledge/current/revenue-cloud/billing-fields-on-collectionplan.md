@@ -5,9 +5,9 @@ topic: billing-fields-on-collectionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.438Z
+lastCollected: 2026-03-12T09:33:07.439Z
 estimatedTokens: 800
-keywords: [Billing, Fields, CollectionPlan, Standard, fields, extend, represent, information, total, invoice, balance., API, version, 64.0, later., Supported, Calls, Special, Access, Rules]
+keywords: [Billing, CollectionPlan, Standard, extend, represent, total, invoice, balance, API, version, 64.0, later, Calls, Special, Access]
 ---
 
 # Billing Fields on CollectionPlan

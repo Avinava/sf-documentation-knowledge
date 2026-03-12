@@ -5,10 +5,10 @@ topic: result-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.484Z
+lastCollected: 2026-03-12T09:33:22.894Z
 estimatedTokens: 431
 namespace: DataWeave
-keywords: [Result, Contains, retrieve, data, transformed, Script, methods., Example, getValue, getValueAsString]
+keywords: [Result, retrieve, data, transformed, Script, getValue, getValueAsString]
 ---
 
 # Result Class

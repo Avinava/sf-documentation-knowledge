@@ -5,9 +5,9 @@ topic: configuration-load-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.904Z
+lastCollected: 2026-03-12T09:33:09.503Z
 estimatedTokens: 329
-keywords: [Configuration, Load, Instance, Output, representation, details, context, session, returned, load, configuration, request.]
+keywords: [Configuration, Load, Instance, Output, representation, context, session]
 ---
 
 # Configuration Load Instance

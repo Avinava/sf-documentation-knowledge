@@ -5,9 +5,9 @@ topic: decision-matrix-columns-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.230Z
+lastCollected: 2026-03-12T09:33:47.235Z
 estimatedTokens: 119
-keywords: [Decision, Matrix, Columns, Input, representation, information, manage, columns, relation, decision, matrix.]
+keywords: [Decision, Matrix, Columns, Input, representation, manage, relation]
 ---
 
 # Decision Matrix Columns Input

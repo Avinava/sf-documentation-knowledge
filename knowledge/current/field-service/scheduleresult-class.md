@@ -5,10 +5,10 @@ topic: scheduleresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.289Z
+lastCollected: 2026-03-12T09:33:53.613Z
 estimatedTokens: 1330
 namespace: FSL
-keywords: [ScheduleResult, Represents, result, scheduling, service, appointment, returned, ScheduleService.schedule, method., Example, breakObject, grade, longOperationId, Usage, partialResults, serviceResource, serviceAppointment]
+keywords: [ScheduleResult, result, scheduling, service, appointment, ScheduleService.schedule, breakObject, grade, longOperationId, Usage, partialResults, serviceResource, serviceAppointment]
 ---
 
 # ScheduleResult Class

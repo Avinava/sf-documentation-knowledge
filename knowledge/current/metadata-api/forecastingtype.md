@@ -5,9 +5,9 @@ topic: forecastingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.144Z
+lastCollected: 2026-03-12T09:33:39.672Z
 estimatedTokens: 1369
-keywords: [ForecastingType, Represents, forecast, type., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+keywords: [ForecastingType, forecast, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # ForecastingType

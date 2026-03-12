@@ -5,9 +5,9 @@ topic: datatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.442Z
+lastCollected: 2026-03-12T09:33:29.488Z
 estimatedTokens: 217
-keywords: [DataType, Specifies, data, types, supported, Apex, Connector, Framework., Usage, Values]
+keywords: [DataType, data, Apex, Connector, Framework, Usage]
 ---
 
 # DataType Enum

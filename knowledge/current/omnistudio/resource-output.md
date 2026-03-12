@@ -5,9 +5,9 @@ topic: resource-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.703Z
+lastCollected: 2026-03-12T09:33:49.348Z
 estimatedTokens: 428
-keywords: [Resource, Output, representation, variables, constants, used, calculation, procedure, version, definition., Note]
+keywords: [Resource, Output, representation, variables, constants, calculation, procedure, version, definition]
 ---
 
 # Resource Output

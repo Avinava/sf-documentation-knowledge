@@ -5,10 +5,10 @@ topic: connectapi-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.046Z
+lastCollected: 2026-03-12T09:33:32.096Z
 estimatedTokens: 265
 namespace: ConnectApi
-keywords: [ConnectApi, Exceptions, contains, exception, classes.]
+keywords: [ConnectApi, Exceptions, exception, classes]
 ---
 
 # ConnectApi Exceptions

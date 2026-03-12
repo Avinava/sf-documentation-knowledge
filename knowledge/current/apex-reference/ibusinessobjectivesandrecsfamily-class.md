@@ -5,10 +5,10 @@ topic: ibusinessobjectivesandrecsfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.218Z
+lastCollected: 2026-03-12T09:33:18.872Z
 estimatedTokens: 2536
 namespace: ConnectApi
-keywords: [IBusinessObjectivesAndRecsFamily, Get, patch, business, objectives, goals., create, update, recommended, actions, objectives., createRecommendations, busObjRecommendationInput, API, Version, Requires, Chatter, getBusinessObjectives, webstoreId, channelId]
+keywords: [IBusinessObjectivesAndRecsFamily, patch, business, objectives, goals, recommended, actions, createRecommendations, busObjRecommendationInput, API, Version, Requires, Chatter, getBusinessObjectives, webstoreId]
 ---
 
 # IBusinessObjectivesAndRecsFamily Class

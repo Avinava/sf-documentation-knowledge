@@ -5,9 +5,9 @@ topic: connectapiaudiencecollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.108Z
+lastCollected: 2026-03-12T09:33:26.280Z
 estimatedTokens: 59
-keywords: [ConnectApi.AudienceCollection, Collection, personalization, audiences.]
+keywords: [ConnectApi.AudienceCollection, Collection, personalization, audiences]
 ---
 
 # ConnectApi.AudienceCollection

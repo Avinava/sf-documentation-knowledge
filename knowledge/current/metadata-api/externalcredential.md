@@ -5,10 +5,10 @@ topic: externalcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:39.620Z
+lastCollected: 2026-03-12T09:33:39.225Z
 estimatedTokens: 2683
 namespace: CreatedByNamespace
-keywords: [ExternalCredential, Represents, details, how, Salesforce, authenticates, external, system., Note, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExternalCredentialParameter]
+keywords: [ExternalCredential, how, Salesforce, authenticates, external, system, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # ExternalCredential

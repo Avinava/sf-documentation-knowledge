@@ -5,9 +5,9 @@ topic: get-knowledge-language-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.568Z
+lastCollected: 2026-03-12T09:33:35.409Z
 estimatedTokens: 178
-keywords: [Get, Knowledge, Language, Settings, existing, language, settings, including, default, knowledge, list, supported, information., resource, used, API, version, 31.0, later., Syntax]
+keywords: [Knowledge, Language, Settings, including, resource, API, version, 31.0, later]
 ---
 
 # Get Knowledge Language Settings

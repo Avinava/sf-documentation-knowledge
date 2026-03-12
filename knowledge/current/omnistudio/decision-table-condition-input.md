@@ -5,9 +5,9 @@ topic: decision-table-condition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:48.265Z
+lastCollected: 2026-03-12T09:33:47.268Z
 estimatedTokens: 582
-keywords: [Decision, Table, Condition, Input, representation, decision, table, condition., Note]
+keywords: [Decision, Condition, Input, representation]
 ---
 
 # Decision Table Condition Input

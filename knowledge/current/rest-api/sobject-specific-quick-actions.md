@@ -5,9 +5,9 @@ topic: sobject-specific-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.056Z
+lastCollected: 2026-03-12T09:33:35.902Z
 estimatedTokens: 444
-keywords: [sObject, Specific, Quick, Actions, Access, specific, action, object., POST, resource, create, records, object’s, quick, actions.]
+keywords: [sObject, Specific, Quick, Actions, Access, action, POST, resource, records, object’s]
 ---
 
 # sObject Specific Quick Actions

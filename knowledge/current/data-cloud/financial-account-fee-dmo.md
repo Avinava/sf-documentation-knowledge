@@ -5,9 +5,9 @@ topic: financial-account-fee-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.016Z
+lastCollected: 2026-03-12T09:33:14.770Z
 estimatedTokens: 437
-keywords: [Financial, Account, Fee, DMO, Represents, fees, associated, financial, account., Provided, Services, Cloud, Data, Kit., API, version, later., Name, Category, Primary]
+keywords: [Financial, Account, Fee, DMO, fees, associated, Provided, Services, Cloud, Data, Kit, API, version, later, Category]
 ---
 
 # Financial Account Fee DMO

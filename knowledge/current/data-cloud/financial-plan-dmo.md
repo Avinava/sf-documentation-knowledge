@@ -5,9 +5,9 @@ topic: financial-plan-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.090Z
+lastCollected: 2026-03-12T09:33:14.834Z
 estimatedTokens: 394
-keywords: [Financial, Plan, DMO, Represents, financial, plan, person, account., API, version, later., Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+keywords: [Financial, Plan, DMO, person, account, API, version, later, Category, Primary, Subject, Area, Key, Label, Relationships]
 ---
 
 # Financial Plan DMO

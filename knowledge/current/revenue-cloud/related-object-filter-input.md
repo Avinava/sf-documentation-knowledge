@@ -5,9 +5,9 @@ topic: related-object-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.409Z
+lastCollected: 2026-03-12T09:33:08.261Z
 estimatedTokens: 137
-keywords: [Related, Filter, Input, representation, request, filter, records, related, object.]
+keywords: [Filter, Input, representation, records]
 ---
 
 # Related Object Filter Input

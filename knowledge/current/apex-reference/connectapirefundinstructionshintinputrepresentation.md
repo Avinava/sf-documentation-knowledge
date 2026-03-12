@@ -5,9 +5,9 @@ topic: connectapirefundinstructionshintinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.476Z
+lastCollected: 2026-03-12T09:33:25.664Z
 estimatedTokens: 216
-keywords: [ConnectApi.RefundInstructionsHintInputRepresentation, payment, credit, sequence, types, refund, provide, information, optimal, processing.]
+keywords: [payment, credit, sequence, refund, provide, optimal, processing]
 ---
 
 # ConnectApi.RefundInstructionsHintInputRepresentation

@@ -5,9 +5,9 @@ topic: products-search-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:06.458Z
+lastCollected: 2026-03-12T09:33:08.303Z
 estimatedTokens: 1439
-keywords: [Products, Search, Input, representation, request, search, products.]
+keywords: [Products, Search, Input, representation]
 ---
 
 # Products Search Input

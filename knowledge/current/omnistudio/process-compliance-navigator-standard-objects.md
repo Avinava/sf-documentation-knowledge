@@ -5,9 +5,9 @@ topic: process-compliance-navigator-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.949Z
+lastCollected: 2026-03-12T09:33:46.971Z
 estimatedTokens: 2862
-keywords: [Process, Compliance, Navigator, Standard, Objects, standard, objects, manage, compliance.]
+keywords: [Process, Compliance, Navigator, Standard, Objects, manage]
 ---
 
 # Process Compliance Navigator Standard Objects

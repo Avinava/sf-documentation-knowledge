@@ -5,9 +5,9 @@ topic: filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.072Z
+lastCollected: 2026-03-12T09:33:07.967Z
 estimatedTokens: 79
-keywords: [Filter, Input, representation, filter, request., request, records.]
+keywords: [Filter, Input, representation, records]
 ---
 
 # Filter Input

@@ -5,9 +5,9 @@ topic: connectapipromotioncartitemkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.342Z
+lastCollected: 2026-03-12T09:33:26.504Z
 estimatedTokens: 76
-keywords: [ConnectApi.PromotionCartItemKey, Cart, item, key, bonus, product, promotion.]
+keywords: [ConnectApi.PromotionCartItemKey, Cart, item, key, bonus, product, promotion]
 ---
 
 # ConnectApi.PromotionCartItemKey

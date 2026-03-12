@@ -5,9 +5,9 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.024Z
+lastCollected: 2026-03-12T09:33:45.170Z
 estimatedTokens: 560
-keywords: [MatchingRule, Setup, specifying, DuplicateJob, instances, share, DuplicateJobDefinition., Tooling, API, version, 42.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [MatchingRule, Setup, specifying, DuplicateJob, instances, share, DuplicateJobDefinition, Tooling, API, version, 42.0, later, SOAP, Calls, REST]
 ---
 
 # MatchingRule

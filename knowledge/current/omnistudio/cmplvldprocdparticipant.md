@@ -5,9 +5,9 @@ topic: cmplvldprocdparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.766Z
+lastCollected: 2026-03-12T09:33:52.233Z
 estimatedTokens: 773
-keywords: [CmplVldProcdParticipant, Represents, Compliant, Data, Sharing, participant, user, group, whom, validation, procedure, shared., API, version, 66.0, later., Supported, Calls, Fields, Associated]
+keywords: [CmplVldProcdParticipant, Compliant, Data, Sharing, participant, user, group, whom, validation, procedure, shared, API, version, 66.0, later]
 ---
 
 # CmplVldProcdParticipant

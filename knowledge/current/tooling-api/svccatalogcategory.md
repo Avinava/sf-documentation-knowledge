@@ -5,9 +5,9 @@ topic: svccatalogcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.899Z
+lastCollected: 2026-03-12T09:33:45.976Z
 estimatedTokens: 721
-keywords: [SvcCatalogCategory, Represents, grouping, individual, catalog, items, Service, Catalog., API, version, 53.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
+keywords: [SvcCatalogCategory, grouping, individual, catalog, items, Service, API, version, 53.0, later, SOAP, Calls, REST, Special, Access]
 ---
 
 # SvcCatalogCategory

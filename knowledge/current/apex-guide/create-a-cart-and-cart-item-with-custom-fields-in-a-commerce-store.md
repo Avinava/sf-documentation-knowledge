@@ -5,9 +5,9 @@ topic: create-a-cart-and-cart-item-with-custom-fields-in-a-commerce-store
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.307Z
+lastCollected: 2026-03-12T09:33:34.293Z
 estimatedTokens: 454
-keywords: [Create, Cart, Item, Custom, Fields, Commerce, Store, cart, item, custom, fields, buyer, guest, user, store.]
+keywords: [Cart, Item, Custom, Commerce, Store, buyer, guest, user]
 ---
 
 # Create a Cart and Cart Item with Custom Fields in a Commerce Store

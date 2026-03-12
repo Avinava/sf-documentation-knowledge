@@ -5,9 +5,9 @@ topic: context-attribute-hydration-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.138Z
+lastCollected: 2026-03-12T09:33:47.147Z
 estimatedTokens: 206
-keywords: [Context, Attribute, Hydration, Details, Input, representation, context, attribute, hydration, detail.]
+keywords: [Context, Attribute, Hydration, Input, representation, detail]
 ---
 
 # Context Attribute Hydration Details Input

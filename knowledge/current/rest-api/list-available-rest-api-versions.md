@@ -5,9 +5,9 @@ topic: list-available-rest-api-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.108Z
+lastCollected: 2026-03-12T09:33:34.989Z
 estimatedTokens: 200
-keywords: [List, REST, API, Versions, resource, list, summary, information, version, currently, including, label, link, version's, root., don’t, need, authentication, retrieve, versions.]
+keywords: [REST, API, Versions, resource, summary, version, currently, including, label, link, version's, root, don’t, authentication, retrieve]
 ---
 
 # List Available REST API Versions

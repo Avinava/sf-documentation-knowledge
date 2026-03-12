@@ -6,9 +6,9 @@ topic: using-the-processplugindescriberesult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.785Z
+lastCollected: 2026-03-12T09:33:33.802Z
 estimatedTokens: 701
-keywords: [Process.PluginDescribeResult, Process.Plugin, describe, dynamically, provide, both, input, output, flow., class., Tip, Subclass]
+keywords: [Process.PluginDescribeResult, Process.Plugin, describe, dynamically, provide, input, output, flow, Subclass]
 ---
 
 # Using the Process.PluginDescribeResult

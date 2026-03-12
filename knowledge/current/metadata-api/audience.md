@@ -5,9 +5,9 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.099Z
+lastCollected: 2026-03-12T09:33:36.891Z
 estimatedTokens: 2860
-keywords: [Audience, Represents, audience, Experience, Builder, site., consists, different, types, criteria, where, assigned, used, targeting, extends, Metadata, metadata, inherits, its, fullName]
+keywords: [Audience, Experience, Builder, site, consists, different, criteria, assigned, targeting, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # Audience

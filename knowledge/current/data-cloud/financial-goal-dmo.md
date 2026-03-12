@@ -5,9 +5,9 @@ topic: financial-goal-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.063Z
+lastCollected: 2026-03-12T09:33:14.811Z
 estimatedTokens: 690
-keywords: [Financial, Goal, DMO, Represents, money, achieve, financial, goal, such, education, home, purchase., Provided, Services, Cloud, Data, Kit., API, version, later.]
+keywords: [Financial, Goal, DMO, money, achieve, education, home, purchase, Provided, Services, Cloud, Data, Kit, API, version]
 ---
 
 # Financial Goal DMO

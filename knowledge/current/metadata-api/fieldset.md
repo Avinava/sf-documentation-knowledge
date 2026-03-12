@@ -5,9 +5,9 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.863Z
+lastCollected: 2026-03-12T09:33:39.457Z
 estimatedTokens: 609
-keywords: [FieldSet, Represents, field, set., set, grouping, fields., example, could, contains, fields, describing, user's, first, name, middle, last, business, title., Version]
+keywords: [FieldSet, grouping, describing, user's, middle, business, title, Version, FieldSetItem, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # FieldSet

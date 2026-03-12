@@ -5,9 +5,9 @@ topic: search-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.292Z
+lastCollected: 2026-03-12T09:33:15.967Z
 estimatedTokens: 2066
-keywords: [Search, Configuration, Item, Perform, paginated, search, across, configuration, items, filtering, sorting, options., list, match, criteria., Request, SearchObject, FilterCriteria, SortCriteria, Response]
+keywords: [Search, Configuration, Item, Perform, paginated, across, items, filtering, sorting, options, match, criteria, SearchObject, FilterCriteria, SortCriteria]
 ---
 
 # Search Configuration Item

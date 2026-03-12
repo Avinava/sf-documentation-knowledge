@@ -5,9 +5,9 @@ topic: unitofmeasureoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.984Z
+lastCollected: 2026-03-12T09:33:07.031Z
 estimatedTokens: 1174
-keywords: [UnitOfMeasureOutputRepresentation, Represents, unit, measure, product., contains, information, how, product, quantities, measured, including, code, name, scale, rounding, method., apexObj, roundingMethod, unitCode]
+keywords: [UnitOfMeasureOutputRepresentation, unit, measure, product, how, quantities, measured, including, code, scale, rounding, apexObj, roundingMethod, unitCode]
 ---
 
 # UnitOfMeasureOutputRepresentation Class

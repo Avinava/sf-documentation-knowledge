@@ -5,9 +5,9 @@ topic: getagentworks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.432Z
+lastCollected: 2026-03-12T09:33:55.547Z
 estimatedTokens: 350
-keywords: [getAgentWorks, list, work, items, currently, assigned, agent, open, agent’s, workspace., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [getAgentWorks, work, items, currently, assigned, agent, open, agent’s, workspace, API, versions, 32.0, later, Arguments, Sample]
 ---
 
 # getAgentWorks

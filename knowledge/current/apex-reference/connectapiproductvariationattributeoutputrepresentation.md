@@ -5,9 +5,9 @@ topic: connectapiproductvariationattributeoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.645Z
+lastCollected: 2026-03-12T09:33:28.682Z
 estimatedTokens: 116
-keywords: [ConnectApi.ProductVariationAttributeOutputRepresentation, Details, product, variation, attribute.]
+keywords: [product, variation, attribute]
 ---
 
 # ConnectApi.ProductVariationAttributeOutputRepresentation

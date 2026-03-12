@@ -5,10 +5,10 @@ topic: evaluatedcondition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.913Z
+lastCollected: 2026-03-12T09:33:23.320Z
 estimatedTokens: 1984
 namespace: Reports
-keywords: [EvaluatedCondition, Contains, individual, components, evaluated, condition, report, notification, such, aggregate, name, label, operator, compared, to., aggregateName, aggregateLabel, compareToValue, aggregateValue, displayCompareTo]
+keywords: [EvaluatedCondition, individual, components, evaluated, condition, report, notification, aggregate, label, operator, compared, aggregateName, aggregateLabel, compareToValue, aggregateValue]
 ---
 
 # EvaluatedCondition Class

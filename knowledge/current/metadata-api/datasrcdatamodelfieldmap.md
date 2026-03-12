@@ -5,9 +5,9 @@ topic: datasrcdatamodelfieldmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.556Z
+lastCollected: 2026-03-12T09:33:38.248Z
 estimatedTokens: 505
-keywords: [DataSrcDataModelFieldMap, Represents, entity, used, storing, design, time, bundle, level, mappings, data, source, fields, model, fields., Important, Parent, File, Suffix, Directory]
+keywords: [DataSrcDataModelFieldMap, entity, storing, design, time, bundle, level, mappings, data, source, model, Parent, File, Suffix, Directory]
 ---
 
 # DataSrcDataModelFieldMap

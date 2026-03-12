@@ -5,9 +5,9 @@ topic: salesforce-crm-promotion-loyalty-partner-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.810Z
+lastCollected: 2026-03-12T09:33:14.579Z
 estimatedTokens: 331
-keywords: [Salesforce, CRM, Promotion, Loyalty, Partner, Product, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., product, that’s, eligible, promotion.]
+keywords: [Salesforce, CRM, Promotion, Loyalty, Partner, Product, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud]
 ---
 
 # Salesforce CRM: Promotion Loyalty Partner Product Mapping

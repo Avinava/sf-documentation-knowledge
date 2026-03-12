@@ -5,9 +5,9 @@ topic: connectapipicklistvalues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.381Z
+lastCollected: 2026-03-12T09:33:28.430Z
 estimatedTokens: 315
-keywords: [ConnectApi.PicklistValues, Picklist, values, field, scoped, record, type., picklist, dependent, response, includes, its, immediate, controlling, how, they, map, picklist.]
+keywords: [ConnectApi.PicklistValues, Picklist, scoped, record, dependent, includes, immediate, controlling, how, they, map]
 ---
 
 # ConnectApi.PicklistValues

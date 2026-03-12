@@ -5,9 +5,9 @@ topic: namedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.103Z
+lastCollected: 2026-03-12T09:33:43.303Z
 estimatedTokens: 1582
-keywords: [NamedFilter, Represents, metadata, associated, lookup, filter., used, create, update, delete, filter, definitions., component, removed, API, version, 30.0, only, previous, versions.]
+keywords: [NamedFilter, metadata, associated, lookup, filter, definitions, component, removed, API, version, 30.0, previous, versions, now, represented]
 ---
 
 # NamedFilter

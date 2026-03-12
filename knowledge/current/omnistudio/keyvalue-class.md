@@ -5,9 +5,9 @@ topic: keyvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.589Z
+lastCollected: 2026-03-12T09:33:46.624Z
 estimatedTokens: 486
-keywords: [KeyValue, contains, details, key-value, pairs, present, document., key]
+keywords: [KeyValue, key-value, pairs, present, document, key]
 ---
 
 # KeyValue Class

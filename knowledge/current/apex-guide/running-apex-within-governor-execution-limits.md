@@ -5,9 +5,9 @@ topic: running-apex-within-governor-execution-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.588Z
+lastCollected: 2026-03-12T09:33:33.619Z
 estimatedTokens: 1143
-keywords: [Running, Apex, within, Governor, Execution, Limits, develop, software, multitenant, cloud, environment, such, Lightning, platform, don’t, scale, code, because, does, you.]
+keywords: [Running, Apex, Governor, Execution, Limits, develop, software, multitenant, cloud, environment, Lightning, platform, don’t, scale, code]
 ---
 
 # Running Apex within Governor Execution Limits

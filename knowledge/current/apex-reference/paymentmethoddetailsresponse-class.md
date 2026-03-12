@@ -5,10 +5,10 @@ topic: paymentmethoddetailsresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.984Z
+lastCollected: 2026-03-12T09:33:22.385Z
 estimatedTokens: 608
 namespace: CommercePayments
-keywords: [PaymentMethodDetailsResponse, contains, details, payment, method., Example, setAlternativePaymentMethod, alternativePaymentMethod, setCardPaymentMethod, cardPaymentMethod]
+keywords: [PaymentMethodDetailsResponse, payment, setAlternativePaymentMethod, alternativePaymentMethod, setCardPaymentMethod, cardPaymentMethod]
 ---
 
 # PaymentMethodDetailsResponse Class

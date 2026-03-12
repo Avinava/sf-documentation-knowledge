@@ -5,9 +5,9 @@ topic: context-definition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.794Z
+lastCollected: 2026-03-12T09:33:48.570Z
 estimatedTokens: 177
-keywords: [Context, Definition, Output, representation, details, context, definition, interface.]
+keywords: [Context, Definition, Output, representation]
 ---
 
 # Context Definition Interface

@@ -5,9 +5,9 @@ topic: user-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.932Z
+lastCollected: 2026-03-12T09:33:07.843Z
 estimatedTokens: 134
-keywords: [User, Context, Input, representation, request, get, context, details, user, which, used, qualification, rules., context.]
+keywords: [User, Context, Input, representation, qualification, rules]
 ---
 
 # User Context Input

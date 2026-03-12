@@ -5,10 +5,10 @@ topic: customtaxattributesresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.425Z
+lastCollected: 2026-03-12T09:33:06.511Z
 estimatedTokens: 624
 namespace: CommerceTax
-keywords: [CustomTaxAttributesResponse, additional, data, custom, attributes, tax, response., setData]
+keywords: [CustomTaxAttributesResponse, additional, data, custom, attributes, tax, setData]
 ---
 
 # CustomTaxAttributesResponse Class

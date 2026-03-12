@@ -5,9 +5,9 @@ topic: unescaped-output-and-formulas-in-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.899Z
+lastCollected: 2026-03-12T09:33:34.793Z
 estimatedTokens: 1044
-keywords: [Unescaped, Output, Formulas, Visualforce, Pages, components, set, escape, attribute, false, including, formulas, outside, component, output, unfiltered, must, validated, security., especially]
+keywords: [Unescaped, Output, Formulas, Visualforce, Pages, components, escape, attribute, including, outside, component, unfiltered, validated, security, especially]
 ---
 
 # Unescaped Output and Formulas in Visualforce Pages

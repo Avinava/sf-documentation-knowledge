@@ -5,10 +5,10 @@ topic: recommendations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.838Z
+lastCollected: 2026-03-12T09:33:19.524Z
 estimatedTokens: 37210
 namespace: ConnectApi
-keywords: [Recommendations, Create, audience, custom, recommendation., createRecommendationAudience, communityId, recommendationAudience, API, Version, Requires, Chatter, Usage, name, createRecommendationDefinition, recommendationDefinition, title, actionUrl, actionUrlName, explanation]
+keywords: [Recommendations, audience, custom, recommendation, createRecommendationAudience, communityId, recommendationAudience, API, Version, Requires, Chatter, Usage, createRecommendationDefinition, recommendationDefinition, title]
 ---
 
 # Recommendations Class

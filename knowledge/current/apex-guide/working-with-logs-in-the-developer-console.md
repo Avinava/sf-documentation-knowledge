@@ -5,10 +5,10 @@ topic: working-with-logs-in-the-developer-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.189Z
+lastCollected: 2026-03-12T09:33:33.210Z
 estimatedTokens: 7993
 namespace: YourClass
-keywords: [Working, Logs, Developer, Console, tab, open, debug, logs., Debug, Log, Categories, Levels, Note, Important, Event, Types]
+keywords: [Working, Logs, Developer, Console, tab, open, debug, Log, Categories, Levels, Event]
 ---
 
 # Working with Logs in the Developer Console

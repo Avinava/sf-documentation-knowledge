@@ -5,9 +5,9 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.664Z
+lastCollected: 2026-03-12T09:33:44.801Z
 estimatedTokens: 272
-keywords: [FieldSet, Represents, metadata, group, fields., API, version, 33.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [FieldSet, metadata, group, API, version, 33.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # FieldSet

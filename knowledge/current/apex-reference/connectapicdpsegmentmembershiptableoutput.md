@@ -5,9 +5,9 @@ topic: connectapicdpsegmentmembershiptableoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.579Z
+lastCollected: 2026-03-12T09:33:26.722Z
 estimatedTokens: 128
-keywords: [ConnectApi.CdpSegmentMembershipTableOutput, Data, 360, segment, membership, table.]
+keywords: [Data, segment, membership]
 ---
 
 # ConnectApi.CdpSegmentMembershipTableOutput

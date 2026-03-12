@@ -5,9 +5,9 @@ topic: debitmemoaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.121Z
+lastCollected: 2026-03-12T09:33:11.296Z
 estimatedTokens: 706
-keywords: [DebitMemoAddress, Represents, buyer's, address, information, which, used, determine, tax, amount, buyer, debit, memo, issued., API, version, 65.0, later., Important, Supported]
+keywords: [DebitMemoAddress, buyer's, address, determine, tax, amount, buyer, debit, memo, issued, API, version, 65.0, later, Calls]
 ---
 
 # DebitMemoAddress

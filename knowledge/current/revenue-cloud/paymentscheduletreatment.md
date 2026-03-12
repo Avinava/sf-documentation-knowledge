@@ -5,9 +5,9 @@ topic: paymentscheduletreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:10.813Z
+lastCollected: 2026-03-12T09:33:11.857Z
 estimatedTokens: 735
-keywords: [PaymentScheduleTreatment, Represents, information, processing, payment, schedules, including, amount, schedule., API, version, 64.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
+keywords: [PaymentScheduleTreatment, processing, payment, schedules, including, amount, schedule, API, version, 64.0, later, Calls, Special, Access, Rules]
 ---
 
 # PaymentScheduleTreatment

@@ -5,9 +5,9 @@ topic: explainability-action-log-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.357Z
+lastCollected: 2026-03-12T09:33:47.362Z
 estimatedTokens: 346
-keywords: [Explainability, Action, Log, Input, representation, action, logs.]
+keywords: [Explainability, Action, Log, Input, representation, logs]
 ---
 
 # Explainability Action Log Input

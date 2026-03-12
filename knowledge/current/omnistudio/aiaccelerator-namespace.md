@@ -5,10 +5,10 @@ topic: aiaccelerator-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.889Z
+lastCollected: 2026-03-12T09:33:46.909Z
 estimatedTokens: 191
 namespace: AiAccelerator
-keywords: [aiaccelerator, AiAccelerator, provides, overriding, default, feature, extractor.]
+keywords: [aiaccelerator, overriding, feature, extractor]
 ---
 
 # aiaccelerator Namespace

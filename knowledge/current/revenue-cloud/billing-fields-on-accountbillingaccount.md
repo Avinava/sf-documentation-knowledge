@@ -5,9 +5,9 @@ topic: billing-fields-on-accountbillingaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.595Z
+lastCollected: 2026-03-12T09:33:07.542Z
 estimatedTokens: 278
-keywords: [Billing, Fields, AccountBillingAccount, Standard, fields, extend, represent, information, default, billing, accounts., API, version, 63.0, later., Supported, Calls, Special, Access, Rules]
+keywords: [Billing, AccountBillingAccount, Standard, extend, represent, accounts, API, version, 63.0, later, Calls, Special, Access, Rules]
 ---
 
 # Billing Fields on AccountBillingAccount

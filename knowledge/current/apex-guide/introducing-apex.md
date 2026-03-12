@@ -5,9 +5,9 @@ topic: introducing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.506Z
+lastCollected: 2026-03-12T09:33:33.540Z
 estimatedTokens: 743
-keywords: [Introducing, Apex, code, first, multitenant, on-demand, programming, language, developers, interested, building, next, generation, business, applications., revolutionizes, way, create]
+keywords: [Introducing, Apex, code, multitenant, on-demand, programming, language, developers, interested, building, generation, business, applications, revolutionizes, way]
 ---
 
 # Introducing Apex

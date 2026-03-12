@@ -5,10 +5,10 @@ topic: revsalestrxn-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.300Z
+lastCollected: 2026-03-12T09:33:07.315Z
 estimatedTokens: 1159
 namespace: RevSalesTrxn
-keywords: [RevSalesTrxn, Create, sales, transaction, such, quote, order, integrated, pricing, configuration., Additionally, update, insert, delete, line, items, calculate, estimated, tax.]
+keywords: [RevSalesTrxn, sales, transaction, quote, order, integrated, pricing, configuration, Additionally, insert, line, items, calculate, estimated, tax]
 ---
 
 # RevSalesTrxn Namespace

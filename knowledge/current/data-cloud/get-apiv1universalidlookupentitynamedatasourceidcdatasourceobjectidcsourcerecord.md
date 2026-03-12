@@ -6,9 +6,9 @@ topic: get-apiv1universalidlookupentitynamedatasourceidcdatasourceobjectidcsourc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.627Z
+lastCollected: 2026-03-12T09:33:13.512Z
 estimatedTokens: 420
-keywords: [GET, api, universalIdLookup, entity_name, DataSourceId__c, DataSourceObjectId__c, SourceRecordId__c, Retrieve, Individual, records, individual, data, sources., example, runner’s, profile, information, comes, three, sources]
+keywords: [api, universalIdLookup, entity_name, DataSourceId__c, DataSourceObjectId__c, SourceRecordId__c, Retrieve, Individual, records, data, sources, runner’s, profile, comes, three]
 ---
 
 # GET

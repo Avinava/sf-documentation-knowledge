@@ -5,9 +5,9 @@ topic: connectapimanagedcontentchannelupdaterepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.088Z
+lastCollected: 2026-03-12T09:33:25.325Z
 estimatedTokens: 399
-keywords: [ConnectApi.ManagedContentChannelUpdateRepresentation, Input, update, managed, content, channel.]
+keywords: [Input, managed, content, channel]
 ---
 
 # ConnectApi.ManagedContentChannelUpdateRepresentation

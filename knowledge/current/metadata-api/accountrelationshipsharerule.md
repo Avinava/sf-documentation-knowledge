@@ -5,9 +5,9 @@ topic: accountrelationshipsharerule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.521Z
+lastCollected: 2026-03-12T09:33:36.342Z
 estimatedTokens: 697
-keywords: [AccountRelationshipShareRule, rule, determines, which, records, shared, how, they’re, account, relationship, shares, level, access, granted, records., Important, File, Suffix, Directory, Location]
+keywords: [AccountRelationshipShareRule, rule, determines, records, shared, how, they’re, account, relationship, shares, level, access, granted, File, Suffix]
 ---
 
 # AccountRelationshipShareRule

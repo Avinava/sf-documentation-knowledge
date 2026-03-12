@@ -5,9 +5,9 @@ topic: create-nested-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.947Z
+lastCollected: 2026-03-12T09:33:34.840Z
 estimatedTokens: 428
-keywords: [Create, Nested, Records, sObject, Tree, resource, create, nested, records, share, root, record, type., example, single, request, account, along, its, child]
+keywords: [Nested, Records, sObject, Tree, resource, share, root, record, account, along, child, contacts, second, accounts, Once]
 ---
 
 # Create Nested Records

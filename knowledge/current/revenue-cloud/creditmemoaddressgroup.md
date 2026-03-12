@@ -5,9 +5,9 @@ topic: creditmemoaddressgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.020Z
+lastCollected: 2026-03-12T09:33:11.212Z
 estimatedTokens: 501
-keywords: [CreditMemoAddressGroup, Represents, storage, buyer's, address, information, which, used, determine, tax, credit, amount, buyer, memo, issued., API, version, 62.0, later., Important]
+keywords: [CreditMemoAddressGroup, storage, buyer's, address, determine, tax, credit, amount, buyer, memo, issued, API, version, 62.0, later]
 ---
 
 # CreditMemoAddressGroup

@@ -5,9 +5,9 @@ topic: service-process-studio-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.424Z
+lastCollected: 2026-03-12T09:33:52.803Z
 estimatedTokens: 234
-keywords: [Service, Process, Studio, Metadata, Types, metadata, types, set, case., Define, attributes, OmniScripts, flows, classes, Integration, Definition.]
+keywords: [Service, Process, Studio, Metadata, case, Define, attributes, OmniScripts, flows, classes, Integration, Definition]
 ---
 
 # Service Process Studio Metadata Types

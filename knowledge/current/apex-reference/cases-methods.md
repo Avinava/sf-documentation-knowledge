@@ -5,9 +5,9 @@ topic: cases-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.189Z
+lastCollected: 2026-03-12T09:33:19.864Z
 estimatedTokens: 216
-keywords: [Cases, following, Cases.]
+keywords: [Cases]
 ---
 
 # Cases Methods

@@ -5,9 +5,9 @@ topic: executedecisiontableid-decisiontableinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.395Z
+lastCollected: 2026-03-12T09:33:46.437Z
 estimatedTokens: 216
-keywords: [execute, decisionTableId, DecisionTableInput, Execute, active, decision, table., API, Version, Requires, Chatter, Example]
+keywords: [execute, decisionTableId, DecisionTableInput, active, decision, API, Version, Requires, Chatter]
 ---
 
 # execute(decisionTableId, DecisionTableInput)

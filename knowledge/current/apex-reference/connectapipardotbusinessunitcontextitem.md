@@ -5,9 +5,9 @@ topic: connectapipardotbusinessunitcontextitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.326Z
+lastCollected: 2026-03-12T09:33:28.376Z
 estimatedTokens: 261
-keywords: [ConnectApi.PardotBusinessUnitContextItem, Pardot, business, unit, context, item., Important]
+keywords: [Pardot, business, unit, context, item]
 ---
 
 # ConnectApi.PardotBusinessUnitContextItem

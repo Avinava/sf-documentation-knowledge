@@ -5,9 +5,9 @@ topic: sample-packagexml-manifest-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.454Z
+lastCollected: 2026-03-12T09:33:36.280Z
 estimatedTokens: 2912
-keywords: [Sample, package.xml, Manifest, Files, section, includes, sample, manifest, files, show, how, work, different, subsets, metadata., file, include, multiple, <types>, elements]
+keywords: [Sample, package.xml, Manifest, Files, includes, show, how, work, different, subsets, metadata, file, include, multiple, <types>]
 ---
 
 # Sample package.xml Manifest Files

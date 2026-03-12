@@ -5,9 +5,9 @@ topic: categories-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.660Z
+lastCollected: 2026-03-12T09:33:08.477Z
 estimatedTokens: 261
-keywords: [Categories, List, POST, Get, list, categories, subcategories, specified, catalog., API, composite, Product, Discovery.]
+keywords: [Categories, POST, subcategories, catalog, API, composite, Product, Discovery]
 ---
 
 # Categories List (POST)

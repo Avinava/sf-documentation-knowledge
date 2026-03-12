@@ -5,9 +5,9 @@ topic: connectapiproductsearchgroupinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.371Z
+lastCollected: 2026-03-12T09:33:25.572Z
 estimatedTokens: 197
-keywords: [ConnectApi.ProductSearchGroupingInput, Grouping, information, product, search, results.]
+keywords: [ConnectApi.ProductSearchGroupingInput, Grouping, product, search, results]
 ---
 
 # ConnectApi.ProductSearchGroupingInput

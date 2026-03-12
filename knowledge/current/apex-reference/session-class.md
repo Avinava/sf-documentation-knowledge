@@ -5,10 +5,10 @@ topic: session-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.668Z
+lastCollected: 2026-03-12T09:33:22.093Z
 estimatedTokens: 7158
 namespace: Cache
-keywords: [Session, Cache.Session, add, retrieve, manage, values, session, cache., cache, active, long, user’s, Salesforce, valid, user, logged, expired, Usage, Note, Example]
+keywords: [Session, Cache.Session, add, retrieve, manage, cache, active, long, user’s, Salesforce, user, logged, expired, Usage, Constants]
 ---
 
 # Session Class

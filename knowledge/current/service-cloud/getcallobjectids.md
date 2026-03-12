@@ -5,9 +5,9 @@ topic: getcallobjectids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.441Z
+lastCollected: 2026-03-12T09:33:55.556Z
 estimatedTokens: 222
-keywords: [getCallObjectIds, any, active, call, IDs, order, which, they, arrived, null, there, aren’t, calls., computer-telephony, integration, CTI, it’s, only, API, version]
+keywords: [getCallObjectIds, any, active, call, IDs, order, they, arrived, there, aren’t, calls, computer-telephony, integration, CTI, it’s]
 ---
 
 # getCallObjectIds()

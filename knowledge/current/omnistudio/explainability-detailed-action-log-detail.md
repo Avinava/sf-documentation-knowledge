@@ -5,9 +5,9 @@ topic: explainability-detailed-action-log-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.164Z
+lastCollected: 2026-03-12T09:33:48.869Z
 estimatedTokens: 527
-keywords: [Explainability, Detailed, Action, Log, Detail, Output, representation, explainability, action, log, detail.]
+keywords: [Explainability, Detailed, Action, Log, Detail, Output, representation]
 ---
 
 # Explainability Detailed Action Log Detail

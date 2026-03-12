@@ -5,9 +5,9 @@ topic: simulation-input-variables-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.761Z
+lastCollected: 2026-03-12T09:33:49.405Z
 estimatedTokens: 252
-keywords: [Simulation, Input, Variables, Result, List, Output, representation, list, input, variables, simulation., Note]
+keywords: [Simulation, Input, Variables, Result, Output, representation]
 ---
 
 # Simulation Input Variables Result List

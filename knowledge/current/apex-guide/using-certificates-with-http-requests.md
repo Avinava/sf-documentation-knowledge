@@ -5,9 +5,9 @@ topic: using-certificates-with-http-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.316Z
+lastCollected: 2026-03-12T09:33:32.353Z
 estimatedTokens: 227
-keywords: [Certificates, HTTP, Requests, After, generated, certificate, Salesforce, support, two-way, authentication, callout, request.]
+keywords: [Certificates, HTTP, Requests, generated, certificate, Salesforce, support, two-way, authentication, callout]
 ---
 
 # Using Certificates with HTTP Requests

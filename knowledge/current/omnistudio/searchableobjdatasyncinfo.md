@@ -5,9 +5,9 @@ topic: searchableobjdatasyncinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.648Z
+lastCollected: 2026-03-12T09:33:51.216Z
 estimatedTokens: 933
-keywords: [SearchableObjDataSyncInfo, Retrieve, deploy, update, create, view, searchable, data, sync, information, criteria-based, search, filter., Important, Parent, File, Suffix, Directory, Location, Version]
+keywords: [SearchableObjDataSyncInfo, Retrieve, deploy, view, searchable, data, sync, criteria-based, search, filter, Parent, File, Suffix, Directory, Location, synchronization, frequency, status, date, time]
 ---
 
 # SearchableObjDataSyncInfo

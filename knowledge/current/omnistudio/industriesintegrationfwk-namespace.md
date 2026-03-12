@@ -5,10 +5,10 @@ topic: industriesintegrationfwk-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.899Z
+lastCollected: 2026-03-12T09:33:46.921Z
 estimatedTokens: 310
 namespace: The
-keywords: [industriesintegrationfwk, provides, interfaces, Industries, Send, Apex, Async, Request, invocable, action, integration, framework, Continuation.]
+keywords: [industriesintegrationfwk, interfaces, Industries, Send, Apex, Async, invocable, action, integration, framework, Continuation]
 ---
 
 # industriesintegrationfwk Namespace

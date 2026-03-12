@@ -5,9 +5,9 @@ topic: connectapimanagedcontentunpublishinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.122Z
+lastCollected: 2026-03-12T09:33:25.355Z
 estimatedTokens: 231
-keywords: [ConnectApi.ManagedContentUnpublishInput, Input, unpublishing, content.]
+keywords: [ConnectApi.ManagedContentUnpublishInput, Input, unpublishing, content]
 ---
 
 # ConnectApi.ManagedContentUnpublishInput

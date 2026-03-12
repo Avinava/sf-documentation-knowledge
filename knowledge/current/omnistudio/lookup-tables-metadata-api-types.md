@@ -5,9 +5,9 @@ topic: lookup-tables-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.853Z
+lastCollected: 2026-03-12T09:33:50.493Z
 estimatedTokens: 391
-keywords: [Lookup, Tables, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Lookup, Tables, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Lookup Tables Metadata API Types

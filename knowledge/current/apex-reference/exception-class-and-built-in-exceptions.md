@@ -5,10 +5,10 @@ topic: exception-class-and-built-in-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.561Z
+lastCollected: 2026-03-12T09:33:23.933Z
 estimatedTokens: 2923
 namespace: System
-keywords: [Exception, Built-In, Exceptions, exception, denotes, error, disrupts, normal, flow, code, execution., Apex, built-in, exceptions, create, custom, exceptions., common, methods., Common]
+keywords: [Exception, Built-In, Exceptions, denotes, error, disrupts, normal, flow, code, execution, Apex, custom, common, DMLException, EmailException]
 ---
 
 # Exception Class and Built-In Exceptions

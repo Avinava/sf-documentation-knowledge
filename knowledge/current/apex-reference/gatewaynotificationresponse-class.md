@@ -5,10 +5,10 @@ topic: gatewaynotificationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.952Z
+lastCollected: 2026-03-12T09:33:22.359Z
 estimatedTokens: 856
 namespace: CommercePayments
-keywords: [GatewayNotificationResponse, payment, gateway, sends, notification, payments, platform, responds, indicating, whether, succeeded, failed, receiving, notification., Usage, Example, setResponseBody, responseBody, setStatusCode, statusCode]
+keywords: [GatewayNotificationResponse, payment, gateway, notification, payments, platform, responds, indicating, whether, succeeded, failed, receiving, Usage, setResponseBody, responseBody]
 ---
 
 # GatewayNotificationResponse Class

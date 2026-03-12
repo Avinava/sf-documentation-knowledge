@@ -5,10 +5,10 @@ topic: httpresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.791Z
+lastCollected: 2026-03-12T09:33:24.197Z
 estimatedTokens: 2334
 namespace: System
-keywords: [HttpResponse, handle, HTTP, response, returned, Http, class., Usage, Example, getBody, getBodyAsBlob, getBodyDocument, getHeader, key, getHeaderKeys, getStatus, getStatusCode, getXmlStreamReader, setBody, body]
+keywords: [HttpResponse, handle, HTTP, Usage, getBody, getBodyAsBlob, getBodyDocument, getHeader, key, getHeaderKeys, getStatus, getStatusCode, getXmlStreamReader, setBody, setBodyAsBlob]
 ---
 
 # HttpResponse Class

@@ -5,9 +5,9 @@ topic: connectapimanagedtopicpositioncollectioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.132Z
+lastCollected: 2026-03-12T09:33:25.366Z
 estimatedTokens: 151
-keywords: [ConnectApi.ManagedTopicPositionCollectionInput, collection, relative, positions, managed, topics.]
+keywords: [collection, relative, positions, managed, topics]
 ---
 
 # ConnectApi.ManagedTopicPositionCollectionInput

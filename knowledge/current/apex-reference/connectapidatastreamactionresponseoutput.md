@@ -5,9 +5,9 @@ topic: connectapidatastreamactionresponseoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.962Z
+lastCollected: 2026-03-12T09:33:27.055Z
 estimatedTokens: 127
-keywords: [ConnectApi.DataStreamActionResponseOutput, Represents, action, data, stream.]
+keywords: [action, data, stream]
 ---
 
 # ConnectApi.DataStreamActionResponseOutput

@@ -5,9 +5,9 @@ topic: assessment-values-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.066Z
+lastCollected: 2026-03-12T09:33:47.085Z
 estimatedTokens: 200
-keywords: [Assessment, Values, Input, representation, assessment, Response, request.]
+keywords: [Assessment, Input, representation]
 ---
 
 # Assessment Values Input

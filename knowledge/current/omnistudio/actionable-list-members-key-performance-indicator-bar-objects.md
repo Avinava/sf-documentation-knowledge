@@ -5,9 +5,9 @@ topic: actionable-list-members-key-performance-indicator-bar-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.235Z
+lastCollected: 2026-03-12T09:33:46.295Z
 estimatedTokens: 198
-keywords: [Actionable, List, Members, Key, Performance, Indicator, Bar, Objects, objects, KPI, create, custom, key, performance, indicators, map, actionable, lists.]
+keywords: [Actionable, Members, Key, Performance, Indicator, Bar, Objects, KPI, custom, indicators, map]
 ---
 
 # Actionable List Members Key Performance Indicator Bar Objects

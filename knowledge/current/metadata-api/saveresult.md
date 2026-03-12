@@ -5,9 +5,9 @@ topic: saveresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.564Z
+lastCollected: 2026-03-12T09:33:41.975Z
 estimatedTokens: 118
-keywords: [SaveResult, Contains, result, information, createMetadata, updateMetadata, renameMetadata, call., Version]
+keywords: [SaveResult, result, createMetadata, updateMetadata, renameMetadata, call, Version]
 ---
 
 # SaveResult

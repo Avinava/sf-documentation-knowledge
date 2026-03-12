@@ -5,9 +5,9 @@ topic: connectapirecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.809Z
+lastCollected: 2026-03-12T09:33:28.851Z
 estimatedTokens: 272
-keywords: [ConnectApi.RecordField, Generic, record, field, containing, label, text, value.]
+keywords: [ConnectApi.RecordField, Generic, record, containing, label, text]
 ---
 
 # ConnectApi.RecordField

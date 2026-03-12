@@ -5,9 +5,9 @@ topic: setcookiescookies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.266Z
+lastCollected: 2026-03-12T09:33:19.934Z
 estimatedTokens: 332
-keywords: [setCookies, cookies, Creates, list, cookie, objects., Used, conjunction, Cookie, class., Usage, Important]
+keywords: [setCookies, cookies, Creates, cookie, objects, conjunction, Usage]
 ---
 
 # setCookies(cookies)

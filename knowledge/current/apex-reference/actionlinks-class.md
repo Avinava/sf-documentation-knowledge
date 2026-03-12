@@ -5,10 +5,10 @@ topic: actionlinks-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.650Z
+lastCollected: 2026-03-12T09:33:16.316Z
 estimatedTokens: 4033
 namespace: ConnectApi
-keywords: [ActionLinks, Create, action, link, group, definition., associate, feed, element, first, create, Then, post, associated, actions, capability., Usage, createActionLinkGroupDefinition​, communityId, actionLinkGroup]
+keywords: [ActionLinks, action, link, group, definition, associate, feed, element, post, associated, actions, capability, Usage, createActionLinkGroupDefinition​, communityId]
 ---
 
 # ActionLinks Class

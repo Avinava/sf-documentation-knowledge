@@ -5,9 +5,9 @@ topic: compliancepolicyversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.854Z
+lastCollected: 2026-03-12T09:33:52.321Z
 estimatedTokens: 1034
-keywords: [CompliancePolicyVersion, Represents, version, Compliance, Policy, tracks, amendments., API, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [CompliancePolicyVersion, version, Compliance, Policy, tracks, amendments, API, 65.0, later, Calls, Associated, Objects]
 ---
 
 # CompliancePolicyVersion

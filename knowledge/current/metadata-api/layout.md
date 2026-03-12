@@ -5,9 +5,9 @@ topic: layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.768Z
+lastCollected: 2026-03-12T09:33:40.271Z
 estimatedTokens: 8860
-keywords: [Layout, Represents, metadata, associated, page, layout., information, Page, Layouts, Salesforce, Help., Important, Note, File, Suffix, Directory, Location, Version, Fields, CustomConsoleComponents]
+keywords: [Layout, metadata, associated, Layouts, Salesforce, Help, File, Suffix, Directory, Location, Version, CustomConsoleComponents, PrimaryTabComponents, ConsoleComponent, Container]
 ---
 
 # Layout

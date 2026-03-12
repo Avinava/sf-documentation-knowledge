@@ -5,9 +5,9 @@ topic: setagentstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.403Z
+lastCollected: 2026-03-12T09:33:56.448Z
 estimatedTokens: 195
-keywords: [setAgentState, agent's, Chat, status, such, Online, Away, Offline., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [setAgentState, agent's, Chat, status, Online, Away, Offline, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # setAgentState()

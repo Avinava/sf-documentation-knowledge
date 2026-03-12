@@ -5,9 +5,9 @@ topic: selection-condition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.463Z
+lastCollected: 2026-03-12T09:33:08.306Z
 estimatedTokens: 201
-keywords: [Selection, Condition, Input, representation, criteria, that's, used, determine, which, sequencing, policy, applied, record., stores, conditions, based, any, standard, custom, fields]
+keywords: [Selection, Condition, Input, representation, criteria, that's, determine, sequencing, policy, applied, record, stores, conditions, any, standard]
 ---
 
 # Selection Condition Input

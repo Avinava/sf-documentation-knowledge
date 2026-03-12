@@ -5,9 +5,9 @@ topic: retired-connectapi-input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.491Z
+lastCollected: 2026-03-12T09:33:25.678Z
 estimatedTokens: 369
-keywords: [Retired, ConnectApi, Input, Classes, input, classes, retired.]
+keywords: [Retired, ConnectApi, Input, Classes]
 ---
 
 # Retired ConnectApi Input Classes

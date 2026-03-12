@@ -5,9 +5,9 @@ topic: connectapirefundlineapplyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.078Z
+lastCollected: 2026-03-12T09:33:07.112Z
 estimatedTokens: 182
-keywords: [ConnectApi.RefundLineApplyRequest, Input, representation, details, transaction, refund, request., outlines, including, amount, payment, credit, memo, record, applied, to.]
+keywords: [ConnectApi.RefundLineApplyRequest, Input, representation, transaction, refund, outlines, including, amount, payment, credit, memo, record, applied]
 ---
 
 # ConnectApi.RefundLineApplyRequest

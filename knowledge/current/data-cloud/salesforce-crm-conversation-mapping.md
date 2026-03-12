@@ -5,9 +5,9 @@ topic: salesforce-crm-conversation-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.828Z
+lastCollected: 2026-03-12T09:33:13.685Z
 estimatedTokens: 401
-keywords: [Salesforce, CRM, Conversation, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Conversation, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---
 
 # Salesforce CRM: Conversation Mapping

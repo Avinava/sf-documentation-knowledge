@@ -5,9 +5,9 @@ topic: getcaseidfromemailheadersheaders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.180Z
+lastCollected: 2026-03-12T09:33:19.856Z
 estimatedTokens: 1131
-keywords: [getCaseIdFromEmailHeaders, headers, case, corresponding, specified, email, header, information, null, none, found., Usage, Example]
+keywords: [getCaseIdFromEmailHeaders, case, corresponding, email, none, found, Usage]
 ---
 
 # getCaseIdFromEmailHeaders(headers)

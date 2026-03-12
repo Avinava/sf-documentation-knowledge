@@ -5,9 +5,9 @@ topic: using-background-utility-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:57.572Z
+lastCollected: 2026-03-12T09:33:55.677Z
 estimatedTokens: 391
-keywords: [Background, Utility, Items, Implement, lightning, backgroundUtilityItem, create, component, fires, responds, events, without, rendering, utility, bar., Note]
+keywords: [Background, Utility, Items, Implement, lightning, backgroundUtilityItem, component, fires, responds, events, rendering, bar]
 ---
 
 # Using Background Utility Items

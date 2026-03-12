@@ -5,9 +5,9 @@ topic: set-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.117Z
+lastCollected: 2026-03-12T09:33:35.960Z
 estimatedTokens: 338
-keywords: [Set, Self-Service, User, Password, self-service, user’s, password, based, specified, user, ID., provided, request, body, replaces, existing, password., resource, REST, API]
+keywords: [Self-Service, User, Password, user’s, provided, replaces, resource, REST, API, version, 24.0, later]
 ---
 
 # Set Self-Service User Password

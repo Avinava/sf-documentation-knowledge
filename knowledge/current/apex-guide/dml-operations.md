@@ -5,9 +5,9 @@ topic: dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.733Z
+lastCollected: 2026-03-12T09:33:34.650Z
 estimatedTokens: 319
-keywords: [DML, Operations, insert, new, records, commit, database., update, field, values, existing, records.]
+keywords: [DML, Operations, insert, new, records, commit, database]
 ---
 
 # DML Operations

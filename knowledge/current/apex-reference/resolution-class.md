@@ -5,10 +5,10 @@ topic: resolution-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.809Z
+lastCollected: 2026-03-12T09:33:20.380Z
 estimatedTokens: 897
 namespace: CommerceExtension
-keywords: [Resolution, resolution, strategy, which, conditionally, invokes, default, domain, logic, provided, extension, provider, logic., Example, resolutionState, providerName, getProviderName, getResolutionState]
+keywords: [Resolution, strategy, conditionally, invokes, domain, logic, provided, extension, provider, resolutionState, providerName, getProviderName, getResolutionState]
 ---
 
 # Resolution Class

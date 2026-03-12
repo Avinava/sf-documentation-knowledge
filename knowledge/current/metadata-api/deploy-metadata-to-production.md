@@ -5,9 +5,9 @@ topic: deploy-metadata-to-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.436Z
+lastCollected: 2026-03-12T09:33:42.743Z
 estimatedTokens: 410
-keywords: [Deploy, Metadata, Production, final, step, development, cycle, move, customizations, source, control, system, such, Git, production, API., Recent, Validation]
+keywords: [Deploy, Metadata, Production, final, step, development, cycle, move, customizations, source, control, system, Git, API, Recent]
 ---
 
 # Deploy Metadata to Production

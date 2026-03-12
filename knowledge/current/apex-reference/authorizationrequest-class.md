@@ -5,10 +5,10 @@ topic: authorizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.760Z
+lastCollected: 2026-03-12T09:33:22.183Z
 estimatedTokens: 1922
 namespace: CommercePayments
-keywords: [AuthorizationRequest, Sends, information, authorization, request, gateway, adapter, during, service, call., extends, BaseRequest, inherits, its, methods., Usage, Example, amount, accountId, comments]
+keywords: [AuthorizationRequest, authorization, gateway, adapter, service, call, extends, BaseRequest, inherits, Usage, amount, accountId, comments, currencyIsoCode, paymentMethod]
 ---
 
 # AuthorizationRequest Class

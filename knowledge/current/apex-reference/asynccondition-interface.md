@@ -5,10 +5,10 @@ topic: asynccondition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.944Z
+lastCollected: 2026-03-12T09:33:30.012Z
 estimatedTokens: 582
 namespace: TxnSecurity
-keywords: [AsyncCondition, Allows, implementing, asynchronous, Apex, calls., used, only, transaction, security, policies, created, Real-Time, Event, Monitoring., Usage, Example, Implementation]
+keywords: [AsyncCondition, implementing, asynchronous, Apex, calls, transaction, security, policies, created, Real-Time, Event, Monitoring, Usage, Implementation]
 ---
 
 # AsyncCondition Interface

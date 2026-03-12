@@ -5,9 +5,9 @@ topic: future-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.558Z
+lastCollected: 2026-03-12T09:33:33.590Z
 estimatedTokens: 2047
-keywords: [Future, future, runs, asynchronously., call, run, long-running, operations, such, callouts, external, web, services, any, operation, want, its, own, thread., isolate]
+keywords: [Future, runs, asynchronously, call, run, long-running, operations, callouts, external, web, services, any, operation, want, own]
 ---
 
 # Future Methods

@@ -5,9 +5,9 @@ topic: connectapirequestheaderinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.486Z
+lastCollected: 2026-03-12T09:33:25.674Z
 estimatedTokens: 151
-keywords: [ConnectApi.RequestHeaderInput, HTTP, request, header, name, pair.]
+keywords: [ConnectApi.RequestHeaderInput, HTTP, pair]
 ---
 
 # ConnectApi.RequestHeaderInput

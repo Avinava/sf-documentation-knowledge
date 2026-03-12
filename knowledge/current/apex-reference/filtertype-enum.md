@@ -5,9 +5,9 @@ topic: filtertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:29.446Z
+lastCollected: 2026-03-12T09:33:29.494Z
 estimatedTokens: 253
-keywords: [FilterType, Referenced, DataSource.Filter., Usage, Values]
+keywords: [FilterType, Referenced, DataSource.Filter, Usage]
 ---
 
 # FilterType Enum

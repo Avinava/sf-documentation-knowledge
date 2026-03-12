@@ -5,10 +5,10 @@ topic: singleemailmessage-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.541Z
+lastCollected: 2026-03-12T09:33:23.912Z
 estimatedTokens: 7996
 namespace: Messaging
-keywords: [SingleEmailMessage, Optional., Array, IDs, Document, ContentVersion, Attachment, items, attach, email., Usage, getOneClickPost, getTemplateName, setBccAddresses, bccAddresses, setCcAddresses, ccAddresses, setCharset, characterSet, setDocumentAttachments]
+keywords: [SingleEmailMessage, Array, IDs, Document, ContentVersion, Attachment, items, attach, email, Usage, getOneClickPost, getTemplateName, setBccAddresses, bccAddresses, setCcAddresses]
 ---
 
 # SingleEmailMessage Class

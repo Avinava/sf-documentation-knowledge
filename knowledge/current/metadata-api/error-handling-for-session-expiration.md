@@ -5,9 +5,9 @@ topic: error-handling-for-session-expiration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.363Z
+lastCollected: 2026-03-12T09:33:38.998Z
 estimatedTokens: 154
-keywords: [Error, Handling, Session, Expiration, sign, via, login, call, new, client, session, begins, corresponding, unique, generated., Sessions, automatically, expire, after, amount]
+keywords: [Error, Handling, Session, Expiration, sign, via, login, call, new, client, begins, corresponding, unique, generated, Sessions]
 ---
 
 # Error Handling for Session Expiration

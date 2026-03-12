@@ -5,9 +5,9 @@ topic: relationshipdomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.655Z
+lastCollected: 2026-03-12T09:33:45.755Z
 estimatedTokens: 806
-keywords: [RelationshipDomain, Represents, relationship, objects., allows, write, simpler, queries., example, “which, objects, child, defined, ParentSobject”, easier, RelationshipDomain., Tooling, API, version, 34.0]
+keywords: [RelationshipDomain, relationship, objects, write, simpler, queries, “which, child, defined, ParentSobject”, easier, Tooling, API, version, 34.0]
 ---
 
 # RelationshipDomain

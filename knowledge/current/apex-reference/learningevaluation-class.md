@@ -5,9 +5,9 @@ topic: learningevaluation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.255Z
+lastCollected: 2026-03-12T09:33:23.636Z
 estimatedTokens: 1177
-keywords: [LearningEvaluation, Contains, retrieve, update, details, required, evaluate, learning, item., Usage, Example, getDetails, getLearningItemId, setDetails, setLearningItemId, learningItemId]
+keywords: [LearningEvaluation, retrieve, evaluate, learning, item, Usage, getDetails, getLearningItemId, setDetails, setLearningItemId, learningItemId]
 ---
 
 # LearningEvaluation Class

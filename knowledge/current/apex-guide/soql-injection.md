@@ -5,9 +5,9 @@ topic: soql-injection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.904Z
+lastCollected: 2026-03-12T09:33:34.797Z
 estimatedTokens: 496
-keywords: [SOQL, Injection, programming, languages, previous, flaw, known, SQL, injection., Apex, doesn’t, uses, its, own, database, query, language, SOQL., simpler, limited]
+keywords: [SOQL, Injection, programming, languages, previous, flaw, known, SQL, Apex, doesn’t, uses, own, database, query, language]
 ---
 
 # SOQL Injection

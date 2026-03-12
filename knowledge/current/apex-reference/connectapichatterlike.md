@@ -5,9 +5,9 @@ topic: connectapichatterlike
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.619Z
+lastCollected: 2026-03-12T09:33:26.756Z
 estimatedTokens: 133
-keywords: [ConnectApi.ChatterLike, Chatter, information.]
+keywords: [ConnectApi.ChatterLike, Chatter]
 ---
 
 # ConnectApi.ChatterLike

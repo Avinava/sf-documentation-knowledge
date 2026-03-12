@@ -5,9 +5,9 @@ topic: creditmemolineinvoiceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.063Z
+lastCollected: 2026-03-12T09:33:11.248Z
 estimatedTokens: 1113
-keywords: [CreditMemoLineInvoiceLine, Represents, junction, between, credit, memo, line, invoice, line., API, version, 62.0, later., Important, Supported, Calls, Special, Access, Rules, Fields]
+keywords: [CreditMemoLineInvoiceLine, junction, credit, memo, line, invoice, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---
 
 # CreditMemoLineInvoiceLine

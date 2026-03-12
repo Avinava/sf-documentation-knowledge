@@ -5,9 +5,9 @@ topic: voucher-definition-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.040Z
+lastCollected: 2026-03-12T09:33:15.723Z
 estimatedTokens: 955
-keywords: [Voucher, Definition, DMO, Data, Cloud, data, model, details, voucher, definition, associated, loyalty, program., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Voucher, Definition, DMO, Data, Cloud, model, associated, loyalty, program, API, Category, Primary, Subject, Area, Key]
 ---
 
 # Voucher Definition DMO

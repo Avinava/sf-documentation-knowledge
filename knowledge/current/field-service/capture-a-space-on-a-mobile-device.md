@@ -5,9 +5,9 @@ topic: capture-a-space-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.518Z
+lastCollected: 2026-03-12T09:33:53.826Z
 estimatedTokens: 457
-keywords: [Capture, Space, Mobile, Device, Create, Lightning, web, component, LWC, uses, SpaceCapture, plugin, create, model, room., created, interactively, scanning, physical, environment]
+keywords: [Capture, Space, Mobile, Device, Lightning, web, component, LWC, uses, SpaceCapture, plugin, model, room, created, interactively]
 ---
 
 # Capture a Space on a Mobile Device

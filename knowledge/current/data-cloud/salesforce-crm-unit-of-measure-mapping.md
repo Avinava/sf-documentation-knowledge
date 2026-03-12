@@ -5,9 +5,9 @@ topic: salesforce-crm-unit-of-measure-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.841Z
+lastCollected: 2026-03-12T09:33:14.606Z
 estimatedTokens: 237
-keywords: [Salesforce, CRM, Unit, Measure, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., unit, measure, product, purchased, loyalty]
+keywords: [Salesforce, CRM, Unit, Measure, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, product]
 ---
 
 # Salesforce CRM: Unit of Measure Mapping

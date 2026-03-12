@@ -5,10 +5,10 @@ topic: abstracttransactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.703Z
+lastCollected: 2026-03-12T09:33:22.126Z
 estimatedTokens: 2199
 namespace: CommercePayments
-keywords: [AbstractTransactionResponse, Abstract, storing, normalized, information, sent, payment, gateways, transaction., Holds, common, response, fields, authorization, sale, capture, refund, transactions., Usage, setAmount]
+keywords: [AbstractTransactionResponse, Abstract, storing, normalized, sent, payment, gateways, transaction, Holds, common, authorization, sale, capture, refund, transactions, setting, tax, external, provider's, classes]
 ---
 
 # AbstractTransactionResponse Class

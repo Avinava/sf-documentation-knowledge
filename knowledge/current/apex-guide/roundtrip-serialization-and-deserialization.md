@@ -5,9 +5,9 @@ topic: roundtrip-serialization-and-deserialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.571Z
+lastCollected: 2026-03-12T09:33:33.601Z
 estimatedTokens: 727
-keywords: [Roundtrip, Serialization, Deserialization, JSON, perform, roundtrip, serialization, deserialization, content., enable, serialize, objects, JSON-formatted, strings, deserialize, back, objects., Example, Serialize, Deserialize]
+keywords: [Roundtrip, Serialization, Deserialization, JSON, perform, content, enable, serialize, objects, JSON-formatted, strings, deserialize, back, Invoices, Considerations]
 ---
 
 # Roundtrip Serialization and Deserialization

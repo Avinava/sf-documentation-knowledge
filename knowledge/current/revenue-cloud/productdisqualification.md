@@ -5,9 +5,9 @@ topic: productdisqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.154Z
+lastCollected: 2026-03-12T09:33:12.130Z
 estimatedTokens: 1029
-keywords: [ProductDisqualification, Represents, disqualification, rules, products., determine, product, doesn’t, qualify, displayed, users., based, user, context., API, version, 60.0, later., Supported, Calls]
+keywords: [ProductDisqualification, disqualification, rules, products, determine, product, doesn’t, qualify, users, user, context, API, version, 60.0, later]
 ---
 
 # ProductDisqualification

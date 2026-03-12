@@ -5,9 +5,9 @@ topic: batch-invoice-filter-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.642Z
+lastCollected: 2026-03-12T09:33:07.584Z
 estimatedTokens: 269
-keywords: [Batch, Invoice, Filter, Criteria, Input, representation, filter, criteria, invoice, batch, run.]
+keywords: [Batch, Invoice, Filter, Criteria, Input, representation, run]
 ---
 
 # Batch Invoice Filter Criteria Input

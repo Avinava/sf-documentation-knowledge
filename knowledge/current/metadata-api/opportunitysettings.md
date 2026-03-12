@@ -5,9 +5,9 @@ topic: opportunitysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:41.551Z
+lastCollected: 2026-03-12T09:33:41.019Z
 estimatedTokens: 2164
-keywords: [OpportunitySettings, Represents, org, preferences, features, such, automatic, opportunity, updates, similar-opportunity, filters., File, Suffix, Directory, Location, Version, Fields, FindSimilarOppFilter, Declarative, Metadata]
+keywords: [OpportunitySettings, org, preferences, features, automatic, opportunity, updates, similar-opportunity, filters, File, Suffix, Directory, Location, Version, FindSimilarOppFilter]
 ---
 
 # OpportunitySettings

@@ -5,9 +5,9 @@ topic: visualforce-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.729Z
+lastCollected: 2026-03-12T09:33:33.747Z
 estimatedTokens: 659
-keywords: [Visualforce, Classes, addition, giving, developers, ability, add, business, logic, Salesforce, system, events, such, button, clicks, related, record, updates, Apex, used]
+keywords: [Visualforce, Classes, addition, giving, developers, ability, add, business, logic, Salesforce, system, events, button, clicks, record]
 ---
 
 # Visualforce Classes

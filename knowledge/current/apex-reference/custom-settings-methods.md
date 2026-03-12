@@ -5,9 +5,9 @@ topic: custom-settings-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.252Z
+lastCollected: 2026-03-12T09:33:30.309Z
 estimatedTokens: 4932
-keywords: [Custom, Settings, settings, similar, custom, objects, enable, application, developers, create, data, well, associate, organization, profile, specific, user., exposed, cache, which]
+keywords: [Custom, Settings, similar, objects, enable, application, developers, data, well, associate, organization, profile, specific, user, exposed]
 ---
 
 # Custom Settings Methods

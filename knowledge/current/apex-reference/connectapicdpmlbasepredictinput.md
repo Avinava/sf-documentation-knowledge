@@ -5,9 +5,9 @@ topic: connectapicdpmlbasepredictinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.575Z
+lastCollected: 2026-03-12T09:33:24.842Z
 estimatedTokens: 227
-keywords: [ConnectApi.CdpMlBasePredictInput, Base, input, representation, prediction, request.]
+keywords: [ConnectApi.CdpMlBasePredictInput, Base, input, representation, prediction]
 ---
 
 # ConnectApi.CdpMlBasePredictInput

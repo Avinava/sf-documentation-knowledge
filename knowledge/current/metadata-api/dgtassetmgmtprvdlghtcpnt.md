@@ -5,9 +5,9 @@ topic: dgtassetmgmtprvdlghtcpnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.807Z
+lastCollected: 2026-03-12T09:33:38.520Z
 estimatedTokens: 734
-keywords: [DgtAssetMgmtPrvdLghtCpnt, Represents, Lightning, web, component, configurations, external, content, providers, such, digital, asset, management, DAM, systems., metadata, enables, integration, systems, Salesforce]
+keywords: [DgtAssetMgmtPrvdLghtCpnt, Lightning, web, component, configurations, external, content, providers, digital, asset, management, DAM, systems, metadata, integration]
 ---
 
 # DgtAssetMgmtPrvdLghtCpnt

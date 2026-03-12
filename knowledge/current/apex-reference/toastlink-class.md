@@ -5,9 +5,9 @@ topic: toastlink-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.543Z
+lastCollected: 2026-03-12T09:33:22.957Z
 estimatedTokens: 70
-keywords: [ToastLink, reserved, future, use.]
+keywords: [ToastLink, reserved, future]
 ---
 
 # ToastLink Class

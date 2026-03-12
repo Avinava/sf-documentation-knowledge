@@ -5,9 +5,9 @@ topic: getagentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.365Z
+lastCollected: 2026-03-12T09:33:55.486Z
 estimatedTokens: 229
-keywords: [getAgentInput, text, which, currently, agent’s, input, area, chat, log, specific, key., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [getAgentInput, text, currently, agent’s, input, area, chat, log, specific, key, API, version, 29.0, later, Arguments]
 ---
 
 # getAgentInput()

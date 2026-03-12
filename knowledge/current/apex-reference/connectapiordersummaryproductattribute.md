@@ -5,9 +5,9 @@ topic: connectapiordersummaryproductattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.298Z
+lastCollected: 2026-03-12T09:33:28.348Z
 estimatedTokens: 99
-keywords: [ConnectApi.OrderSummaryProductAttribute, Order, summary, product, attribute, representation.]
+keywords: [ConnectApi.OrderSummaryProductAttribute, Order, summary, product, attribute, representation]
 ---
 
 # ConnectApi.OrderSummaryProductAttribute

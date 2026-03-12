@@ -5,9 +5,9 @@ topic: assetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.545Z
+lastCollected: 2026-03-12T09:33:10.822Z
 estimatedTokens: 853
-keywords: [AssetShare, Represents, sharing, entry, Asset., API, version, 33.0, later., Note, Supported, Calls, Special, Access, Rules, Fields, Usage]
+keywords: [AssetShare, sharing, entry, Asset, API, version, 33.0, later, Calls, Special, Access, Rules, Usage]
 ---
 
 # AssetShare

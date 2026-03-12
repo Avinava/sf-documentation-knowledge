@@ -5,10 +5,10 @@ topic: describevaluetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:38.769Z
+lastCollected: 2026-03-12T09:33:38.482Z
 estimatedTokens: 541
 namespace: DescribeValueTypeResult
-keywords: [describeValueType, Retrieves, metadata, describing, given, Syntax, Example, Arguments, Permissions, Note, Sample, Code—Java, Response]
+keywords: [describeValueType, Retrieves, metadata, describing, Arguments, Permissions, Sample, Code—Java]
 ---
 
 # describeValueType()

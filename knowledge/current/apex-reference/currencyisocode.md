@@ -5,9 +5,9 @@ topic: currencyisocode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.099Z
+lastCollected: 2026-03-12T09:33:24.394Z
 estimatedTokens: 79
-keywords: [currencyIsoCode, ISO, currency, code, postauthorization, request.]
+keywords: [currencyIsoCode, ISO, currency, code, postauthorization]
 ---
 
 # currencyIsoCode

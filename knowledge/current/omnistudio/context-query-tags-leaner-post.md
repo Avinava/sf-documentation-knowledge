@@ -5,9 +5,9 @@ topic: context-query-tags-leaner-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.010Z
+lastCollected: 2026-03-12T09:33:47.918Z
 estimatedTokens: 257
-keywords: [Context, Query, Tags, Leaner, POST, tags, memory-optimized, leaner, result, suitable, Apex, low-heap, clients., Eliminate, redundant, metadata, reduce, heap, usage, payload]
+keywords: [Context, Query, Tags, Leaner, POST, memory-optimized, result, suitable, Apex, low-heap, clients, Eliminate, redundant, metadata, reduce]
 ---
 
 # Context Query Tags Leaner (POST)

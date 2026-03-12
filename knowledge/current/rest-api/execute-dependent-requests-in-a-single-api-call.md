@@ -5,9 +5,9 @@ topic: execute-dependent-requests-in-a-single-api-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.944Z
+lastCollected: 2026-03-12T09:33:34.835Z
 estimatedTokens: 211
-keywords: [Execute, Dependent, Requests, Single, API, Call, following, example, uses, Composite, resource, execute, several, dependent, requests, single, call., First, creates, account]
+keywords: [Execute, Dependent, Requests, API, Call, uses, Composite, resource, several, creates, account, retrieves, data, resource’s, functionality]
 ---
 
 # Execute Dependent Requests in a Single API Call

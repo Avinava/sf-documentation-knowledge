@@ -5,9 +5,9 @@ topic: evergreen-new-sale-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:05.741Z
+lastCollected: 2026-03-12T09:33:07.671Z
 estimatedTokens: 3593
-keywords: [Evergreen, New, Sale, Transaction, Understand, required, values, key, considerations, before, create, billing, schedule, new, sale, transaction, selling, model, type., Considerations]
+keywords: [Evergreen, New, Sale, Transaction, Understand, key, considerations, billing, schedule, selling, model]
 ---
 
 # Evergreen New Sale Transaction

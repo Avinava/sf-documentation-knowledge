@@ -5,9 +5,9 @@ topic: record-alert-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.714Z
+lastCollected: 2026-03-12T09:33:47.655Z
 estimatedTokens: 176
-keywords: [Record, Alert, Action, Input, representation, record, alert, action.]
+keywords: [Record, Alert, Action, Input, representation]
 ---
 
 # Record Alert Action Input

@@ -5,9 +5,9 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.425Z
+lastCollected: 2026-03-12T09:33:37.196Z
 estimatedTokens: 2331
-keywords: [BrandingSet, Represents, definition, set, branding, Experience, Builder, site, org's, Lightning, theme., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [BrandingSet, definition, branding, Experience, Builder, site, org's, Lightning, theme, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # BrandingSet

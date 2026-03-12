@@ -5,9 +5,9 @@ topic: digital-lending-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.046Z
+lastCollected: 2026-03-12T09:33:49.718Z
 estimatedTokens: 146
-keywords: [Digital, Lending, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Digital, Lending, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Digital Lending Metadata API Types

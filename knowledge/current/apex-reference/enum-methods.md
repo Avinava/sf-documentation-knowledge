@@ -5,9 +5,9 @@ topic: enum-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.675Z
+lastCollected: 2026-03-12T09:33:30.718Z
 estimatedTokens: 257
-keywords: [abstract, data, values, take, exactly, finite, set, identifiers, specify., Apex, provides, built-in, enums, such, LoggingLevel, define, own, enum., Example]
+keywords: [abstract, data, take, finite, identifiers, specify, Apex, built-in, enums, LoggingLevel, define, own]
 ---
 
 # Enum Methods

@@ -5,9 +5,9 @@ topic: closeagentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.143Z
+lastCollected: 2026-03-12T09:33:55.282Z
 estimatedTokens: 200
-keywords: [closeAgentWork, Changes, status, work, item, “Closed”, removes, list, items, Omni-Channel, widget., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [closeAgentWork, Changes, status, work, item, “Closed”, removes, items, Omni-Channel, widget, API, versions, 32.0, later, Arguments]
 ---
 
 # closeAgentWork

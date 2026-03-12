@@ -5,9 +5,9 @@ topic: timesheetentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.731Z
+lastCollected: 2026-03-12T09:33:54.931Z
 estimatedTokens: 1004
-keywords: [TimeSheetEntry, Represents, span, time, service, resource, spends, field, task., API, version, 47.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
+keywords: [TimeSheetEntry, span, time, service, resource, spends, task, API, version, 47.0, later, Calls, Special, Access, Rules]
 ---
 
 # TimeSheetEntry

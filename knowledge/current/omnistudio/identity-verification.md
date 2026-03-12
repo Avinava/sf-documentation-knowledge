@@ -5,9 +5,9 @@ topic: identity-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.236Z
+lastCollected: 2026-03-12T09:33:49.928Z
 estimatedTokens: 423
-keywords: [Identity, Verification, feature, gives, ability, verify, identity, customer, before, share, any, sensitive, information, them., Organizations, across, world, required, comply, regulations]
+keywords: [Identity, Verification, feature, gives, ability, verify, customer, share, any, sensitive, Organizations, across, world, comply, regulations]
 ---
 
 # Identity Verification

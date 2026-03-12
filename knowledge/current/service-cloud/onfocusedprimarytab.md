@@ -5,9 +5,9 @@ topic: onfocusedprimarytab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.262Z
+lastCollected: 2026-03-12T09:33:56.322Z
 estimatedTokens: 210
-keywords: [onFocusedPrimaryTab, Registers, function, call, focus, browser, changes, different, primary, tab., only, API, version, 25.0, later., Syntax, Arguments, Sample, Code–Visualforce, Event]
+keywords: [onFocusedPrimaryTab, Registers, function, call, focus, browser, changes, different, primary, tab, API, version, 25.0, later, Arguments]
 ---
 
 # onFocusedPrimaryTab()

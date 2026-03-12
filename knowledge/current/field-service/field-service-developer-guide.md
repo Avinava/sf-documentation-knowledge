@@ -5,10 +5,10 @@ topic: field-service-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.452Z
+lastCollected: 2026-03-12T09:33:53.769Z
 estimatedTokens: 909
 namespace: The
-keywords: [Field, Service, Developer, Guide, powerful, highly, customizable, toolbox, features, set, manage, multiplatform, mobile, service, operation., guide, offers, reference, information, code]
+keywords: [Service, Developer, powerful, highly, customizable, toolbox, features, manage, multiplatform, mobile, operation, offers, code, examples, help]
 ---
 
 # Field Service Developer Guide

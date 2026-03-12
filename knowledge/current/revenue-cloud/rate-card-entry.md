@@ -5,9 +5,9 @@ topic: rate-card-entry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.303Z
+lastCollected: 2026-03-12T09:33:09.842Z
 estimatedTokens: 588
-keywords: [Rate, Card, Entry, Output, representation, details, rate, card, entry.]
+keywords: [Rate, Card, Entry, Output, representation]
 ---
 
 # Rate Card Entry

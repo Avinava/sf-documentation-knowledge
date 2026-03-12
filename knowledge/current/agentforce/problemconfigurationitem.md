@@ -5,9 +5,9 @@ topic: problemconfigurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.468Z
+lastCollected: 2026-03-12T09:33:16.127Z
 estimatedTokens: 405
-keywords: [ProblemConfigurationItem, Represents, relationship, between, problem, configuration, item, reference., API, version, 65.0, later., Supported, Calls, Fields]
+keywords: [ProblemConfigurationItem, relationship, problem, configuration, item, API, version, 65.0, later, Calls]
 ---
 
 # ProblemConfigurationItem

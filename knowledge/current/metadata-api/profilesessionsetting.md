@@ -5,9 +5,9 @@ topic: profilesessionsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.962Z
+lastCollected: 2026-03-12T09:33:41.413Z
 estimatedTokens: 776
-keywords: [ProfileSessionSetting, Represents, profile’s, session, settings., retrieve, settings, given, profile., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location]
+keywords: [ProfileSessionSetting, profile’s, session, settings, retrieve, profile, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # ProfileSessionSetting

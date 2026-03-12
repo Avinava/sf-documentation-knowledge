@@ -5,9 +5,9 @@ topic: connectapiproductimagegroupoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.558Z
+lastCollected: 2026-03-12T09:33:28.592Z
 estimatedTokens: 90
-keywords: [ConnectApi.ProductImageGroupOutputRepresentation, Details, product, image, group.]
+keywords: [product, image, group]
 ---
 
 # ConnectApi.ProductImageGroupOutputRepresentation

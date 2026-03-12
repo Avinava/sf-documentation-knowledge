@@ -5,9 +5,9 @@ topic: identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.325Z
+lastCollected: 2026-03-12T09:33:13.280Z
 estimatedTokens: 521
-keywords: [Identity, Salesforce, Interactions, SDK, supports, identification, new, returning, customer, first-party, cookie, _sfid_$, domainHash, produced, running, website’s, domain, through, hashing, function.]
+keywords: [Identity, Salesforce, Interactions, SDK, supports, identification, new, returning, customer, first-party, cookie, _sfid_$, domainHash, produced, running]
 ---
 
 # Identity

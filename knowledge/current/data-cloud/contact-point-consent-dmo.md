@@ -5,9 +5,9 @@ topic: contact-point-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.389Z
+lastCollected: 2026-03-12T09:33:14.223Z
 estimatedTokens: 948
-keywords: [Contact, Point, Consent, DMO, Data, Cloud, data, model, recording, information, consent, specific, contact, point., includes, how, long, whether, party, double]
+keywords: [Contact, Point, Consent, DMO, Data, Cloud, model, recording, specific, includes, how, long, whether, party, double]
 ---
 
 # Contact Point Consent DMO

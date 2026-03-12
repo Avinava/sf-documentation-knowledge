@@ -5,10 +5,10 @@ topic: metadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.452Z
+lastCollected: 2026-03-12T09:33:20.959Z
 estimatedTokens: 691
 namespace: Metadata
-keywords: [Metadata, abstract, base, represents, custom, metadata, component., Usage, fullName, clone]
+keywords: [Metadata, abstract, base, custom, component, Usage, fullName, clone]
 ---
 
 # Metadata Class

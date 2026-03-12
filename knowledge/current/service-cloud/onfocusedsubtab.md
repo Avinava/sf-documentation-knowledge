@@ -5,9 +5,9 @@ topic: onfocusedsubtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.265Z
+lastCollected: 2026-03-12T09:33:56.326Z
 estimatedTokens: 204
-keywords: [onFocusedSubtab, Registers, function, call, focus, browser, changes, different, subtab., only, API, version, 24.0, later., Syntax, Arguments, Sample, Code–Visualforce, Event, Handler]
+keywords: [onFocusedSubtab, Registers, function, call, focus, browser, changes, different, subtab, API, version, 24.0, later, Arguments, Sample]
 ---
 
 # onFocusedSubtab()

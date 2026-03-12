@@ -5,9 +5,9 @@ topic: productlistrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.869Z
+lastCollected: 2026-03-12T09:33:06.907Z
 estimatedTokens: 5871
-keywords: [ProductListRepresentation, Get, list, retrieved, products., additionalFields, attributeCategories, availabilityDate, catalogs, categories, childProducts, configureDuringSale, description, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent]
+keywords: [ProductListRepresentation, retrieved, products, additionalFields, attributeCategories, availabilityDate, catalogs, categories, childProducts, configureDuringSale, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable]
 ---
 
 # ProductListRepresentation Class

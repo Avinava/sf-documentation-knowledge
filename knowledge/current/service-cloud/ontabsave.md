@@ -5,9 +5,9 @@ topic: ontabsave
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.276Z
+lastCollected: 2026-03-12T09:33:56.335Z
 estimatedTokens: 684
-keywords: [onTabSave, Registers, calls, callback, user, clicks, Save, subtab’s, Unsaved, Changes, dialog, box., call, setTabUnsavedChanges, method., notifies, console, custom, save, operation]
+keywords: [onTabSave, Registers, calls, callback, user, clicks, Save, subtab’s, Unsaved, Changes, dialog, box, call, setTabUnsavedChanges, notifies]
 ---
 
 # onTabSave()

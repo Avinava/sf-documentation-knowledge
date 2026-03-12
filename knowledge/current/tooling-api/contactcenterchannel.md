@@ -5,9 +5,9 @@ topic: contactcenterchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.905Z
+lastCollected: 2026-03-12T09:33:44.057Z
 estimatedTokens: 775
-keywords: [ContactCenterChannel, Represents, junction, relates, Bring, Own, Channel, Contact, Center, Service, CCaaS, messaging, channel, CallCenter, CCaaS., represents, routing, details, voicemail, configuration.]
+keywords: [ContactCenterChannel, junction, relates, Bring, Own, Channel, Contact, Center, Service, CCaaS, messaging, CallCenter, routing, voicemail, configuration]
 ---
 
 # ContactCenterChannel

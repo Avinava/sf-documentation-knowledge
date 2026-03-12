@@ -5,9 +5,9 @@ topic: recover-billing-schedules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.958Z
+lastCollected: 2026-03-12T09:33:06.091Z
 estimatedTokens: 358
-keywords: [Recover, Billing, Schedules, Action, billing, schedules, Error, Processing, status., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Recover, Billing, Schedules, Action, Error, Processing, status, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Recover Billing Schedules Action

@@ -5,10 +5,10 @@ topic: paymentsbilling-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.153Z
+lastCollected: 2026-03-12T09:33:06.264Z
 estimatedTokens: 2264
 namespace: ConnectApi
-keywords: [PaymentsBilling, allocate, balance, payment, reduce, invoice., Additionally, revert, application, line, applyPaymentLine, PaymentLineApplyInput, paymentId, API, Version, Requires, Chatter, Usage, applyRefundLine, RefundLineApplyInput]
+keywords: [PaymentsBilling, allocate, balance, payment, reduce, invoice, Additionally, revert, application, line, applyPaymentLine, PaymentLineApplyInput, paymentId, API, Version]
 ---
 
 # PaymentsBilling Class

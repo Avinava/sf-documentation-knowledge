@@ -5,9 +5,9 @@ topic: compactlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.883Z
+lastCollected: 2026-03-12T09:33:44.036Z
 estimatedTokens: 633
-keywords: [CompactLayout, Represents, values, define, compact, page, layout., Supported, SOAP, Calls, REST, HTTP, Fields, Note]
+keywords: [CompactLayout, define, compact, layout, SOAP, Calls, REST, HTTP]
 ---
 
 # CompactLayout

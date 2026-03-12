@@ -5,9 +5,9 @@ topic: running-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.938Z
+lastCollected: 2026-03-12T09:33:33.949Z
 estimatedTokens: 369
-keywords: [Running, Apex, access, many, features, Salesforce, user, programmatically, integrate, external, SOAP, REST, Web, services., run, code, variety, mechanisms., runs, atomic]
+keywords: [Running, Apex, access, features, Salesforce, user, programmatically, integrate, external, SOAP, REST, Web, services, run, code]
 ---
 
 # Running Apex

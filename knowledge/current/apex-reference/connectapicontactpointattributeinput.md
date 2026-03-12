@@ -5,9 +5,9 @@ topic: connectapicontactpointattributeinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.671Z
+lastCollected: 2026-03-12T09:33:24.928Z
 estimatedTokens: 97
-keywords: [ConnectApi.ContactPointAttributeInput, Represents, attribute, activation, contact, point.]
+keywords: [ConnectApi.ContactPointAttributeInput, attribute, activation, contact, point]
 ---
 
 # ConnectApi.ContactPointAttributeInput

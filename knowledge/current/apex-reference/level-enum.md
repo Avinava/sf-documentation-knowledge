@@ -5,9 +5,9 @@ topic: level-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.648Z
+lastCollected: 2026-03-12T09:33:29.686Z
 estimatedTokens: 129
-keywords: [Level, Specifies, compression, level, creating, zip, file., Usage, Values]
+keywords: [Level, compression, creating, zip, file, Usage]
 ---
 
 # Level Enum

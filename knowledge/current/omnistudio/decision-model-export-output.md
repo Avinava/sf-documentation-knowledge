@@ -5,9 +5,9 @@ topic: decision-model-export-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.985Z
+lastCollected: 2026-03-12T09:33:48.723Z
 estimatedTokens: 149
-keywords: [Decision, Model, Export, Output, representation, completed, DMN, Notation, export, request.]
+keywords: [Decision, Model, Export, Output, representation, completed, DMN, Notation]
 ---
 
 # Decision Model Export Output

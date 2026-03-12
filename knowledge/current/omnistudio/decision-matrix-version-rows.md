@@ -5,9 +5,9 @@ topic: decision-matrix-version-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.101Z
+lastCollected: 2026-03-12T09:33:47.997Z
 estimatedTokens: 514
-keywords: [Decision, Matrix, Version, Rows, Retrieve, paginated, list, manage, rows, decision, matrix, version., resource, add, new, update, delete, existing]
+keywords: [Decision, Matrix, Version, Rows, Retrieve, paginated, manage, resource, add, new]
 ---
 
 # Decision Matrix Version Rows

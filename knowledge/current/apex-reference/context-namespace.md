@@ -5,10 +5,10 @@ topic: context-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.666Z
+lastCollected: 2026-03-12T09:33:31.720Z
 estimatedTokens: 98
 namespace: Context
-keywords: [Context, provides, classes, manage, sharing, consumption, business, application, data, Service.]
+keywords: [Context, classes, manage, sharing, consumption, business, application, data, Service]
 ---
 
 # Context Namespace

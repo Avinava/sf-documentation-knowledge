@@ -5,9 +5,9 @@ topic: context-node-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.881Z
+lastCollected: 2026-03-12T09:33:49.510Z
 estimatedTokens: 194
-keywords: [Context, Node, Mapping, Create, new, node, mappings, update, existing, ones, retrieve, query, mapping, details, delete, mappings.]
+keywords: [Context, Node, Mapping, new, mappings, ones, retrieve, query]
 ---
 
 # Context Node Mapping

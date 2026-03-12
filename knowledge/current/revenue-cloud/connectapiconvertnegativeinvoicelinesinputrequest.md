@@ -5,9 +5,9 @@ topic: connectapiconvertnegativeinvoicelinesinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.016Z
+lastCollected: 2026-03-12T09:33:07.054Z
 estimatedTokens: 224
-keywords: [ConnectApi.ConvertNegativeInvoiceLinesInputRequest, Input, representation, request, details, convert, negative, invoice, line, credit.]
+keywords: [Input, representation, convert, negative, invoice, line, credit]
 ---
 
 # ConnectApi.ConvertNegativeInvoiceLinesInputRequest

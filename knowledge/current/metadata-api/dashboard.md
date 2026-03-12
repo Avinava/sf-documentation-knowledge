@@ -5,9 +5,9 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:38.407Z
+lastCollected: 2026-03-12T09:33:38.111Z
 estimatedTokens: 7034
-keywords: [Dashboard, Represents, dashboard., Dashboards, visual, representations, data, allow, key, metrics, performance, glance., Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Version]
+keywords: [Dashboard, Dashboards, visual, representations, data, allow, key, metrics, performance, glance, Declarative, Metadata, File, Suffix, Directory]
 ---
 
 # Dashboard

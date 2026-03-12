@@ -5,9 +5,9 @@ topic: connectapifeedmodifiedinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.391Z
+lastCollected: 2026-03-12T09:33:27.457Z
 estimatedTokens: 247
-keywords: [ConnectApi.FeedModifiedInfo, Feed, modified, information., Important]
+keywords: [ConnectApi.FeedModifiedInfo, Feed, modified]
 ---
 
 # ConnectApi.FeedModifiedInfo

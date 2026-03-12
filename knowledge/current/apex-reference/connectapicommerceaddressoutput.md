@@ -5,9 +5,9 @@ topic: connectapicommerceaddressoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.678Z
+lastCollected: 2026-03-12T09:33:26.809Z
 estimatedTokens: 320
-keywords: [ConnectApi.CommerceAddressOutput, Address, Commerce, account.]
+keywords: [ConnectApi.CommerceAddressOutput, Address, Commerce, account]
 ---
 
 # ConnectApi.CommerceAddressOutput

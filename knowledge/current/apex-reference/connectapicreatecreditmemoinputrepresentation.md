@@ -5,9 +5,9 @@ topic: connectapicreatecreditmemoinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.700Z
+lastCollected: 2026-03-12T09:33:24.958Z
 estimatedTokens: 154
-keywords: [ConnectApi.CreateCreditMemoInputRepresentation, list, change, orders, used, create, credit, memo.]
+keywords: [change, orders, credit, memo]
 ---
 
 # ConnectApi.CreateCreditMemoInputRepresentation

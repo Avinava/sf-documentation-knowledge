@@ -5,9 +5,9 @@ topic: connectapiocipublishlocationstructurestatusoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.142Z
+lastCollected: 2026-03-12T09:33:28.182Z
 estimatedTokens: 293
-keywords: [ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation, Detailed, status, publish, location, structure, job.]
+keywords: [Detailed, status, publish, location, structure, job]
 ---
 
 # ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation

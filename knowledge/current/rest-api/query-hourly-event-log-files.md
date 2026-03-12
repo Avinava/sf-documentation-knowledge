@@ -5,9 +5,9 @@ topic: query-hourly-event-log-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.130Z
+lastCollected: 2026-03-12T09:33:35.010Z
 estimatedTokens: 270
-keywords: [Query, Hourly, Event, Log, Files, query, hourly, event, log, files, same, way, 24-hour, files.]
+keywords: [Query, Hourly, Event, Log, Files, way, 24-hour]
 ---
 
 # Query Hourly Event Log Files

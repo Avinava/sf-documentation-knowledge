@@ -5,9 +5,9 @@ topic: onutilityclick-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.849Z
+lastCollected: 2026-03-12T09:33:55.940Z
 estimatedTokens: 538
-keywords: [onUtilityClick, Lightning, Experience, Registers, eventHandler, utility., called, utility, clicked., Arguments, LWC, Sample, Code, Response, Aura, Components]
+keywords: [onUtilityClick, Lightning, Experience, Registers, eventHandler, utility, clicked, Arguments, LWC, Sample, Code, Aura, Components]
 ---
 
 # onUtilityClick() for Lightning Experience for Lightning Experience

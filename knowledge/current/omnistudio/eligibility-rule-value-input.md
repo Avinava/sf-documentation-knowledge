@@ -5,9 +5,9 @@ topic: eligibility-rule-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.327Z
+lastCollected: 2026-03-12T09:33:47.334Z
 estimatedTokens: 170
-keywords: [Eligibility, Rule, Input, Representation, Values]
+keywords: [Eligibility, Rule, Input, Representation]
 ---
 
 # Eligibility Rule Value Input

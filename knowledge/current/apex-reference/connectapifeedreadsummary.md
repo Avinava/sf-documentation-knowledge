@@ -5,9 +5,9 @@ topic: connectapifeedreadsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.401Z
+lastCollected: 2026-03-12T09:33:27.466Z
 estimatedTokens: 839
-keywords: [ConnectApi.FeedReadSummary, Summary, feed, read.]
+keywords: [ConnectApi.FeedReadSummary, Summary, feed]
 ---
 
 # ConnectApi.FeedReadSummary

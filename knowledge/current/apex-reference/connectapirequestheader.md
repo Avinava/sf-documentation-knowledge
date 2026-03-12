@@ -5,9 +5,9 @@ topic: connectapirequestheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.910Z
+lastCollected: 2026-03-12T09:33:28.957Z
 estimatedTokens: 200
-keywords: [ConnectApi.RequestHeader, HTTP, request, header, name, pair.]
+keywords: [ConnectApi.RequestHeader, HTTP, pair]
 ---
 
 # ConnectApi.RequestHeader

@@ -5,9 +5,9 @@ topic: connectapicreditdetailsapplyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.046Z
+lastCollected: 2026-03-12T09:33:07.080Z
 estimatedTokens: 173
-keywords: [ConnectApi.CreditDetailsApplyInput, Input, representation, request, specify, applications, apply, credit, memo, line, application, representing, invoice, line.]
+keywords: [ConnectApi.CreditDetailsApplyInput, Input, representation, specify, applications, apply, credit, memo, line, application, representing, invoice]
 ---
 
 # ConnectApi.CreditDetailsApplyInput

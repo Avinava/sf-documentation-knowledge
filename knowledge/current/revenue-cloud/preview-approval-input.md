@@ -5,9 +5,9 @@ topic: preview-approval-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.274Z
+lastCollected: 2026-03-12T09:33:08.149Z
 estimatedTokens: 128
-keywords: [Preview, Approval, Input, representation, details, request, preview, approval.]
+keywords: [Preview, Approval, Input, representation]
 ---
 
 # Preview Approval Input

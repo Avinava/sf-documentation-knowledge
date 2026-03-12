@@ -6,9 +6,9 @@ topic: salesforce-console-integration-toolkit-for-salesforce-classic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.527Z
+lastCollected: 2026-03-12T09:33:55.630Z
 estimatedTokens: 944
-keywords: [Salesforce, Console, Integration, Toolkit, Classic, browser-based, JavaScript, API, provides, programmatic, access, console, Classic., uses, browsers, clients, display, pages, tabs, console.]
+keywords: [Salesforce, Console, Integration, Toolkit, Classic, browser-based, JavaScript, API, programmatic, access, uses, browsers, clients, display, pages]
 ---
 
 # Salesforce Console Integration Toolkit for Salesforce

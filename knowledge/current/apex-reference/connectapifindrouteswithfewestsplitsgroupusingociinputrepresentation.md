@@ -5,9 +5,9 @@ topic: connectapifindrouteswithfewestsplitsgroupusingociinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.943Z
+lastCollected: 2026-03-12T09:33:25.189Z
 estimatedTokens: 513
-keywords: [ConnectApi.FindRoutesWithFewestSplitsGroupUsingOCIInputRepresentation, Data, used, calculate, inventory, availability, fulfillment, routes, order, involving, fewest, number, shipment, splits.]
+keywords: [Data, calculate, inventory, availability, fulfillment, routes, order, involving, fewest, number, shipment, splits]
 ---
 
 # ConnectApi.FindRoutesWithFewestSplitsGroupUsingOCIInputRepresentation

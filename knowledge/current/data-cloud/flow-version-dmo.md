@@ -5,9 +5,9 @@ topic: flow-version-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.126Z
+lastCollected: 2026-03-12T09:33:14.864Z
 estimatedTokens: 251
-keywords: [Flow, Version, DMO, Data, Cloud, data, model, details, version, flow., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+keywords: [Flow, Version, DMO, Data, Cloud, model, API, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Flow Version DMO

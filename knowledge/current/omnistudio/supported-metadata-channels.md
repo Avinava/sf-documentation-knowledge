@@ -5,9 +5,9 @@ topic: supported-metadata-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.066Z
+lastCollected: 2026-03-12T09:33:49.733Z
 estimatedTokens: 1328
-keywords: [Supported, Metadata, Channels, Discovery, Framework, create, questions, question, categorize, move, such, dataset, across, multiple, orgs., metadata, wrapper, automatically, created, objects.]
+keywords: [Metadata, Channels, Discovery, Framework, questions, question, categorize, move, dataset, across, multiple, orgs, wrapper, automatically, created]
 ---
 
 # Supported Metadata Channels

@@ -5,9 +5,9 @@ topic: servicechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.806Z
+lastCollected: 2026-03-12T09:33:45.891Z
 estimatedTokens: 1285
-keywords: [ServiceChannel, Represents, channel, work, items, received, customers., API, version, 65.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
+keywords: [ServiceChannel, channel, work, items, received, customers, API, version, 65.0, later, SOAP, Calls, REST, Special, Access]
 ---
 
 # ServiceChannel

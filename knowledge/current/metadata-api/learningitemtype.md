@@ -5,9 +5,9 @@ topic: learningitemtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.796Z
+lastCollected: 2026-03-12T09:33:40.296Z
 estimatedTokens: 1295
-keywords: [LearningItemType, Represents, custom, exercise, Enablement, user, takes, program, Guidance, Center., requires, corresponding, LearningItem, record, Center, EnblProgramTaskDefinition, EnblProgramTaskSubCategory, records, admins, create]
+keywords: [LearningItemType, custom, exercise, Enablement, user, program, Guidance, Center, requires, corresponding, LearningItem, record, EnblProgramTaskDefinition, EnblProgramTaskSubCategory, records]
 ---
 
 # LearningItemType

@@ -5,9 +5,9 @@ topic: apex-code-items-that-arent-versioned
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.632Z
+lastCollected: 2026-03-12T09:33:33.656Z
 estimatedTokens: 491
-keywords: [Apex, Code, Items, Aren’t, Versioned, items, managed, packages, can’t, versioned., changes, reflected, across, package, versions., Additionally, there, limitations, they, used]
+keywords: [Apex, Code, Items, Aren’t, Versioned, managed, packages, can’t, changes, reflected, across, package, versions, Additionally, there]
 ---
 
 # Apex Code Items That Aren’t Versioned

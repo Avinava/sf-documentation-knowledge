@@ -5,9 +5,9 @@ topic: regclcmplplcyclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.266Z
+lastCollected: 2026-03-12T09:33:52.665Z
 estimatedTokens: 625
-keywords: [RegClCmplPlcyClVer, Represents, junction, between, Regulation, Clause, Version, Compliance, Policy, objects., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [RegClCmplPlcyClVer, junction, Regulation, Clause, Version, Compliance, Policy, objects, API, 65.0, later, Calls, Associated]
 ---
 
 # RegClCmplPlcyClVer

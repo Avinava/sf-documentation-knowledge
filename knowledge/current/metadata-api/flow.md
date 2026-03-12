@@ -5,9 +5,9 @@ topic: flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:43.847Z
+lastCollected: 2026-03-12T09:33:43.088Z
 estimatedTokens: 49198
-keywords: [Flow, Represents, metadata, associated, flow, encompasses, flow's, structure, logic, run-time, behavior., allows, build, dynamic, applications, guide, users, through, interactive, screens]
+keywords: [Flow, metadata, associated, encompasses, flow's, structure, logic, run-time, behavior, build, dynamic, applications, users, interactive, screens]
 ---
 
 # Flow

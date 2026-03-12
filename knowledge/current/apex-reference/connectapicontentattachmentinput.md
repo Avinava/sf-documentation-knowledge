@@ -5,9 +5,9 @@ topic: connectapicontentattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.678Z
+lastCollected: 2026-03-12T09:33:24.936Z
 estimatedTokens: 218
-keywords: [ConnectApi.ContentAttachmentInput, Used, attach, existing, content, comment, feed, item., Important]
+keywords: [ConnectApi.ContentAttachmentInput, attach, content, comment, feed, item]
 ---
 
 # ConnectApi.ContentAttachmentInput

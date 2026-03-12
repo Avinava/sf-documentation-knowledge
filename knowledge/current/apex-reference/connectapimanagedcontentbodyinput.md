@@ -5,9 +5,9 @@ topic: connectapimanagedcontentbodyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.075Z
+lastCollected: 2026-03-12T09:33:25.315Z
 estimatedTokens: 212
-keywords: [ConnectApi.ManagedContentBodyInput, Input, representation, body, piece, managed, content.]
+keywords: [ConnectApi.ManagedContentBodyInput, Input, representation, piece, managed, content]
 ---
 
 # ConnectApi.ManagedContentBodyInput

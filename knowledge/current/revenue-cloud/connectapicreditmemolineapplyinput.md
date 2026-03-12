@@ -5,9 +5,9 @@ topic: connectapicreditmemolineapplyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.050Z
+lastCollected: 2026-03-12T09:33:07.083Z
 estimatedTokens: 151
-keywords: [ConnectApi.CreditMemoLineApplyInput, Input, representation, details, request, apply, credit, memo, line, invoice, line.]
+keywords: [ConnectApi.CreditMemoLineApplyInput, Input, representation, apply, credit, memo, line, invoice]
 ---
 
 # ConnectApi.CreditMemoLineApplyInput

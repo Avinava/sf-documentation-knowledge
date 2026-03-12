@@ -5,9 +5,9 @@ topic: choicelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.698Z
+lastCollected: 2026-03-12T09:33:37.453Z
 estimatedTokens: 613
-keywords: [ChoiceList, Represents, Choicelist, dropdown, field, that’s, used, pre-chat., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ChoiceListValue]
+keywords: [ChoiceList, dropdown, that’s, pre-chat, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, ChoiceListValue, Declarative]
 ---
 
 # ChoiceList

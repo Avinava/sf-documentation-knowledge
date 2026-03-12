@@ -5,9 +5,9 @@ topic: upsert-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.238Z
+lastCollected: 2026-03-12T09:33:15.915Z
 estimatedTokens: 661
-keywords: [Upsert, Configuration, Item, Submit, bulk, operation, create, update, configuration, items., asynchronous, job, which, getStatus, query, check, progress., Request, Response, Note]
+keywords: [Upsert, Configuration, Item, Submit, bulk, operation, items, asynchronous, job, getStatus, query, check, progress]
 ---
 
 # Upsert Configuration Item

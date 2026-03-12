@@ -6,9 +6,9 @@ topic: apex-security-and-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.974Z
+lastCollected: 2026-03-12T09:33:33.984Z
 estimatedTokens: 770
-keywords: [Apex, Security, Sharing, security, code, critical., You'll, need, add, user, permissions, classes, enforce, sharing, rules., Read, managed, get, tips.]
+keywords: [Apex, Security, Sharing, code, critical, You'll, add, user, permissions, classes, enforce, rules, managed, tips]
 ---
 
 # Apex Security and

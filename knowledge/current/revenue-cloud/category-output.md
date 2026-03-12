@@ -5,9 +5,9 @@ topic: category-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.454Z
+lastCollected: 2026-03-12T09:33:09.178Z
 estimatedTokens: 383
-keywords: [Category, Output, representation, category, definition.]
+keywords: [Category, Output, representation, definition]
 ---
 
 # Category Output

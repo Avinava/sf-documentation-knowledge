@@ -5,10 +5,10 @@ topic: process-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.712Z
+lastCollected: 2026-03-12T09:33:31.767Z
 estimatedTokens: 548
 namespace: Process
-keywords: [Process, provides, classes, passing, data, between, organization, flow.]
+keywords: [Process, classes, passing, data, organization, flow]
 ---
 
 # Process Namespace

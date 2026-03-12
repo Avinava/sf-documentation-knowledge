@@ -5,9 +5,9 @@ topic: engagement-topic-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.136Z
+lastCollected: 2026-03-12T09:33:48.847Z
 estimatedTokens: 355
-keywords: [Engagement, Topic, Output, representation, create, engagement, topic, record.]
+keywords: [Engagement, Topic, Output, representation, record]
 ---
 
 # Engagement Topic Output

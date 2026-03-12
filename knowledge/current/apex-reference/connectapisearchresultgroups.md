@@ -5,9 +5,9 @@ topic: connectapisearchresultgroups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.979Z
+lastCollected: 2026-03-12T09:33:29.021Z
 estimatedTokens: 351
-keywords: [ConnectApi.SearchResultGroups, Results, searching, objects, keywords.]
+keywords: [ConnectApi.SearchResultGroups, Results, searching, objects, keywords]
 ---
 
 # ConnectApi.SearchResultGroups

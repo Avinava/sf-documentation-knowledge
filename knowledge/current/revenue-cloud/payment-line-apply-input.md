@@ -5,9 +5,9 @@ topic: payment-line-apply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.222Z
+lastCollected: 2026-03-12T09:33:08.103Z
 estimatedTokens: 249
-keywords: [Payment, Line, Apply, Input, representation, payment, line, details., covers, details, allocation, specific, invoice, line., provides, additional, context, through, optional, fields]
+keywords: [Payment, Line, Apply, Input, representation, covers, allocation, specific, invoice, additional, context, associated, account, effective, date]
 ---
 
 # Payment Line Apply Input

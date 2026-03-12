@@ -5,9 +5,9 @@ topic: apexresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.652Z
+lastCollected: 2026-03-12T09:33:43.821Z
 estimatedTokens: 261
-keywords: [ApexResult, complex, represents, result, Apex, code, executed, part, ApexExecutionOverlayAction, returned, ApexExecutionOverlayResult., API, version, 28.0, later., Fields, Usage]
+keywords: [ApexResult, complex, result, Apex, code, executed, part, ApexExecutionOverlayAction, ApexExecutionOverlayResult, API, version, 28.0, later, Usage]
 ---
 
 # ApexResult

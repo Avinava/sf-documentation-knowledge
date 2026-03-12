@@ -5,9 +5,9 @@ topic: decisionmatrixdefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:54.733Z
+lastCollected: 2026-03-12T09:33:53.085Z
 estimatedTokens: 749
-keywords: [DecisionMatrixDefinitionVersion, Represents, information, decision, matrix, definition, version., API, version, 55.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [DecisionMatrixDefinitionVersion, decision, matrix, definition, version, API, 55.0, later, SOAP, Calls, REST]
 ---
 
 # DecisionMatrixDefinitionVersion

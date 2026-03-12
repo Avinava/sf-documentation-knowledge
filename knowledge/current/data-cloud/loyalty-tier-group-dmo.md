@@ -5,9 +5,9 @@ topic: loyalty-tier-group-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.380Z
+lastCollected: 2026-03-12T09:33:15.088Z
 estimatedTokens: 1009
-keywords: [Loyalty, Tier, Group, DMO, Data, Cloud, data, model, loyalty, programs, multiple, tiers, benefits., Tiers, organized, based, objectives, example, lifetime, marketing]
+keywords: [Loyalty, Tier, Group, DMO, Data, Cloud, model, programs, multiple, tiers, benefits, organized, objectives, lifetime, marketing]
 ---
 
 # Loyalty Tier Group DMO

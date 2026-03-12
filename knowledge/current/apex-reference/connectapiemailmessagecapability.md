@@ -5,9 +5,9 @@ topic: connectapiemailmessagecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.176Z
+lastCollected: 2026-03-12T09:33:27.269Z
 estimatedTokens: 634
-keywords: [ConnectApi.EmailMessageCapability, feed, element, capability, email, message, case.]
+keywords: [ConnectApi.EmailMessageCapability, feed, element, capability, email, message, case]
 ---
 
 # ConnectApi.EmailMessageCapability

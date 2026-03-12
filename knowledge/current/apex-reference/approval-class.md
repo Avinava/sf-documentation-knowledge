@@ -5,10 +5,10 @@ topic: approval-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.206Z
+lastCollected: 2026-03-12T09:33:30.260Z
 estimatedTokens: 7507
 namespace: ProcessRequest
-keywords: [Approval, true, record, locked, false, it’s, not., Usage, isLocked, ids, sobject, sobjects, lock, recordId, recordIds, recordToLock, recordsToLock, allOrNothing, process, approvalRequest]
+keywords: [Approval, record, locked, it’s, Usage, isLocked, ids, sobject, sobjects, lock, recordId, recordIds, recordToLock, recordsToLock, allOrNothing]
 ---
 
 # Approval Class

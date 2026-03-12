@@ -5,9 +5,9 @@ topic: connectapicdpcalculatedinsightdimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.448Z
+lastCollected: 2026-03-12T09:33:26.601Z
 estimatedTokens: 216
-keywords: [ConnectApi.CdpCalculatedInsightDimension, Calculated, insight, dimension.]
+keywords: [Calculated, insight, dimension]
 ---
 
 # ConnectApi.CdpCalculatedInsightDimension

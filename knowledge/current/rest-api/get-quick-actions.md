@@ -5,9 +5,9 @@ topic: get-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.851Z
+lastCollected: 2026-03-12T09:33:35.696Z
 estimatedTokens: 249
-keywords: [Get, Quick, Actions, list, quick, actions., resource, REST, API, version, 28.0, later., Syntax, Example]
+keywords: [Quick, Actions, resource, REST, API, version, 28.0, later]
 ---
 
 # Get Quick Actions

@@ -5,9 +5,9 @@ topic: configurator-delete-nodes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.683Z
+lastCollected: 2026-03-12T09:33:09.379Z
 estimatedTokens: 299
-keywords: [Configurator, Delete, Nodes, Output, representation, details, configuration, request, delete, nodes.]
+keywords: [Configurator, Nodes, Output, representation, configuration]
 ---
 
 # Configurator Delete Nodes

@@ -5,9 +5,9 @@ topic: get-field-values-from-a-standard-object-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.980Z
+lastCollected: 2026-03-12T09:33:34.875Z
 estimatedTokens: 312
-keywords: [Get, Field, Values, Standard, Record, GET, sObject, Rows, resource, retrieve, field, values, record.]
+keywords: [Standard, Record, sObject, Rows, resource, retrieve]
 ---
 
 # Get Field Values from a Standard Object Record

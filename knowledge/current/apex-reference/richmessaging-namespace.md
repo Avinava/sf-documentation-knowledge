@@ -5,10 +5,10 @@ topic: richmessaging-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.589Z
+lastCollected: 2026-03-12T09:33:31.645Z
 estimatedTokens: 1288
 namespace: RichMessaging
-keywords: [RichMessaging, Provides, objects, handling, content, enhanced, Messaging, channels.]
+keywords: [RichMessaging, objects, handling, content, enhanced, Messaging, channels]
 ---
 
 # RichMessaging Namespace

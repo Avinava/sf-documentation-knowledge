@@ -5,9 +5,9 @@ topic: step-2-build-a-packagexml-manifest
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.101Z
+lastCollected: 2026-03-12T09:33:41.535Z
 estimatedTokens: 746
-keywords: [Step, Build, Package.xml, Manifest, package.xml, manifest, file, lists, components, retrieve, org., Structure, Retrieve, Custom, Objects]
+keywords: [Step, Build, Package.xml, Manifest, file, components, retrieve, org, Structure, Custom, Objects]
 ---
 
 # Step 2: Build a Package.xml Manifest

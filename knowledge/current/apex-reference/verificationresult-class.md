@@ -5,10 +5,10 @@ topic: verificationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.771Z
+lastCollected: 2026-03-12T09:33:20.348Z
 estimatedTokens: 1939
 namespace: Auth
-keywords: [VerificationResult, Contains, result, verification, challenge, invoke, create, own, Verify, page., initiated, either, System.UserManagement.verifyPasswordlessLogin, System.UserManagement.verifySelfRegistration, method., Usage, Example, redirect, success, message]
+keywords: [VerificationResult, result, verification, challenge, invoke, own, Verify, initiated, either, Usage, redirect, success, message, clone]
 ---
 
 # VerificationResult Class

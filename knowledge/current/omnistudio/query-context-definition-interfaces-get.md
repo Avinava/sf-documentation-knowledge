@@ -5,9 +5,9 @@ topic: query-context-definition-interfaces-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.414Z
+lastCollected: 2026-03-12T09:33:48.263Z
 estimatedTokens: 125
-keywords: [Query, Context, Definition, Interfaces, GET, Get, lists, metadata, associated, context, definition, interfaces.]
+keywords: [Query, Context, Definition, Interfaces, metadata, associated]
 ---
 
 # Query Context Definition Interfaces (GET)

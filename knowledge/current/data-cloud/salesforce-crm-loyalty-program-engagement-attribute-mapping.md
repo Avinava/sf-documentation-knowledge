@@ -5,9 +5,9 @@ topic: salesforce-crm-loyalty-program-engagement-attribute-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.700Z
+lastCollected: 2026-03-12T09:33:14.495Z
 estimatedTokens: 523
-keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., engagement, attribute, used, track]
+keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud]
 ---
 
 # Salesforce CRM: Loyalty Program Engagement Attribute Mapping

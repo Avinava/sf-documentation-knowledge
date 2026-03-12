@@ -5,9 +5,9 @@ topic: service-process-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.478Z
+lastCollected: 2026-03-12T09:33:48.311Z
 estimatedTokens: 388
-keywords: [Service, Process, Update, Retrieve, update, service, process.]
+keywords: [Service, Process, Retrieve]
 ---
 
 # Service Process Update

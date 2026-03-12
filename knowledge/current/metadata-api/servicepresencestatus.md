@@ -5,9 +5,9 @@ topic: servicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.759Z
+lastCollected: 2026-03-12T09:33:42.136Z
 estimatedTokens: 484
-keywords: [ServicePresenceStatus, Represents, presence, status, assigned, service, channel., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Special]
+keywords: [ServicePresenceStatus, presence, status, assigned, service, channel, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # ServicePresenceStatus

@@ -5,9 +5,9 @@ topic: casesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.609Z
+lastCollected: 2026-03-12T09:33:37.371Z
 estimatedTokens: 5297
-keywords: [CaseSettings, Represents, organization’s, case, settings, such, default, owner, which, case-related, features, enabled, Classic, email, templates, used, various, activities., extends, Metadata]
+keywords: [CaseSettings, organization’s, case, settings, owner, case-related, features, enabled, Classic, email, templates, various, activities, extends, Metadata]
 ---
 
 # CaseSettings

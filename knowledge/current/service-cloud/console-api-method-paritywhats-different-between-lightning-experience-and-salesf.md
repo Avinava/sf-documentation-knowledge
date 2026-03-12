@@ -6,9 +6,9 @@ topic: console-api-method-paritywhats-different-between-lightning-experience-and
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.591Z
+lastCollected: 2026-03-12T09:33:55.694Z
 estimatedTokens: 1924
-keywords: [Console, API, Parity—What’s, Different, Between, Lightning, Experience, Salesforce, Classic?, JavaScript, provides, similar, those, Integration, Toolkit., Important, Primary, Tabs, Subtabs, Navigation]
+keywords: [Console, API, Parity—What’s, Different, Lightning, Experience, Salesforce, Classic, JavaScript, similar, Integration, Toolkit, Primary, Tabs, Subtabs]
 ---
 
 # Console API Method Parity—What’s Different Between Lightning

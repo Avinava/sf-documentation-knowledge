@@ -5,9 +5,9 @@ topic: context-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.879Z
+lastCollected: 2026-03-12T09:33:48.630Z
 estimatedTokens: 83
-keywords: [Context, Output, Representation, attributes, associated, defined, context.]
+keywords: [Context, Output, Representation, attributes, associated, defined]
 ---
 
 # Context Output

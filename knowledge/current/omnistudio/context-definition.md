@@ -5,9 +5,9 @@ topic: context-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.904Z
+lastCollected: 2026-03-12T09:33:49.532Z
 estimatedTokens: 425
-keywords: [Context, Definition, Create, context, definition, clone, existing, extend, standard, file, based, persist, entire, definition.]
+keywords: [Context, Definition, clone, extend, standard, file, persist, entire]
 ---
 
 # Context Definition

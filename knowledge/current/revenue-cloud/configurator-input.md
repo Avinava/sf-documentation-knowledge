@@ -5,9 +5,9 @@ topic: configurator-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:05.913Z
+lastCollected: 2026-03-12T09:33:07.829Z
 estimatedTokens: 619
-keywords: [Configurator, Input, representation, request, modify, product, configuration.]
+keywords: [Configurator, Input, representation, modify, product, configuration]
 ---
 
 # Configurator Input

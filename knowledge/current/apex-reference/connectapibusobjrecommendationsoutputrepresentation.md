@@ -5,9 +5,9 @@ topic: connectapibusobjrecommendationsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.234Z
+lastCollected: 2026-03-12T09:33:26.400Z
 estimatedTokens: 113
-keywords: [ConnectApi.BusObjRecommendationsOutputRepresentation, Details, recommended, actions, business, objective, goal.]
+keywords: [recommended, actions, business, objective, goal]
 ---
 
 # ConnectApi.BusObjRecommendationsOutputRepresentation

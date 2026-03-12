@@ -5,9 +5,9 @@ topic: territory2settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.153Z
+lastCollected: 2026-03-12T09:33:42.492Z
 estimatedTokens: 1739
-keywords: [Territory2Settings, Represents, org’s, Territory2, settings., settings, set, access, level, Sales, Territories, users, records, associated, sales, territories, enable, features., standard, record]
+keywords: [Territory2Settings, org’s, Territory2, settings, access, level, Sales, Territories, users, records, associated, enable, features, standard, record]
 ---
 
 # Territory2Settings

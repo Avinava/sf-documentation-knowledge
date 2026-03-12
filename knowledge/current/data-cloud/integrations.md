@@ -5,9 +5,9 @@ topic: integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.357Z
+lastCollected: 2026-03-12T09:33:13.311Z
 estimatedTokens: 672
-keywords: [Integrations, Salesforce, Interactions, SDK, features, built-in, CustomEvents, bind, listeners, events, specific, Web, SDK., Data, pass, detail, event, passed, listener’s, callback]
+keywords: [Integrations, Salesforce, Interactions, SDK, features, built-in, CustomEvents, bind, listeners, events, specific, Web, Data, pass, detail]
 ---
 
 # Integrations

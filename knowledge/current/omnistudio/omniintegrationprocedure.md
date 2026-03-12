@@ -5,9 +5,9 @@ topic: omniintegrationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.496Z
+lastCollected: 2026-03-12T09:33:51.072Z
 estimatedTokens: 2039
-keywords: [OmniIntegrationProcedure, Represents, Omnistudio, Integration, Procedure, Discovery, Framework., enables, declarative, server-side, processing, perform, multiple, actions, single, server, call, supporting, sales, service]
+keywords: [OmniIntegrationProcedure, Omnistudio, Integration, Procedure, Discovery, Framework, declarative, server-side, processing, perform, multiple, actions, server, call, supporting]
 ---
 
 # OmniIntegrationProcedure

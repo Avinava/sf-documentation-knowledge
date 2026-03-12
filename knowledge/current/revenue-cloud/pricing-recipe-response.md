@@ -5,9 +5,9 @@ topic: pricing-recipe-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.084Z
+lastCollected: 2026-03-12T09:33:09.622Z
 estimatedTokens: 109
-keywords: [Pricing, Recipe, Response, Output, representation, pricing, recipe.]
+keywords: [Pricing, Recipe, Output, representation]
 ---
 
 # Pricing Recipe Response

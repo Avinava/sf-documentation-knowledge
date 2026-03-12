@@ -5,9 +5,9 @@ topic: connectapiorchestrationinstancecollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.484Z
+lastCollected: 2026-03-12T09:33:27.548Z
 estimatedTokens: 138
-keywords: [ConnectApi.OrchestrationInstanceCollection, Collection, orchestration, instances.]
+keywords: [Collection, orchestration, instances]
 ---
 
 # ConnectApi.OrchestrationInstanceCollection

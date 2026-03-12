@@ -5,9 +5,9 @@ topic: get-repositories
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.357Z
+lastCollected: 2026-03-12T09:33:34.333Z
 estimatedTokens: 86
-keywords: [Get, Repositories, Call, get, repositories.]
+keywords: [Repositories, Call]
 ---
 
 # Get Repositories

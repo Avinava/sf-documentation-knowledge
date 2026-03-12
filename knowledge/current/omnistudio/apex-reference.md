@@ -5,10 +5,10 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.386Z
+lastCollected: 2026-03-12T09:33:46.429Z
 estimatedTokens: 140
 namespace: AiAccelerator
-keywords: [Apex, Reference, reference, goes, detail, built-in, ConnectApi, classes, interfaces.]
+keywords: [Apex, goes, detail, built-in, ConnectApi, classes, interfaces]
 ---
 
 # Apex Reference

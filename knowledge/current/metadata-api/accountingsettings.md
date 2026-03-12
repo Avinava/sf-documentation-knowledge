@@ -5,9 +5,9 @@ topic: accountingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.488Z
+lastCollected: 2026-03-12T09:33:36.312Z
 estimatedTokens: 646
-keywords: [AccountingSettings, Represents, settings, Accounting, Subledger, feature., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
+keywords: [AccountingSettings, settings, Accounting, Subledger, feature, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata]
 ---
 
 # AccountingSettings

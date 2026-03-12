@@ -5,9 +5,9 @@ topic: get-renewable-assets-summary-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.878Z
+lastCollected: 2026-03-12T09:33:06.021Z
 estimatedTokens: 386
-keywords: [Get, Renewable, Assets, Summary, Action, Retrieve, details, renewable, assets, given, order., information, create, renewal, opportunities., Note, Supported, REST, HTTP, Inputs]
+keywords: [Renewable, Assets, Summary, Action, Retrieve, order, renewal, opportunities, REST, HTTP, Inputs, Outputs]
 ---
 
 # Get Renewable Assets Summary Action

@@ -5,9 +5,9 @@ topic: connectapiusermissionactivitiesjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.237Z
+lastCollected: 2026-03-12T09:33:29.284Z
 estimatedTokens: 140
-keywords: [ConnectApi.UserMissionActivitiesJob, User, mission, activities, job.]
+keywords: [ConnectApi.UserMissionActivitiesJob, User, mission, activities, job]
 ---
 
 # ConnectApi.UserMissionActivitiesJob

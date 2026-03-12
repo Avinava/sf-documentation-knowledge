@@ -5,9 +5,9 @@ topic: getenclosingtabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.457Z
+lastCollected: 2026-03-12T09:33:55.568Z
 estimatedTokens: 279
-keywords: [getEnclosingTabId, tab, contains, current, Visualforce, page, which, may, primary, subtab., work, call, made, within, component, enclosed, only, API, version, 20.0]
+keywords: [getEnclosingTabId, tab, current, Visualforce, may, primary, subtab, work, call, made, component, enclosed, API, version, 20.0]
 ---
 
 # getEnclosingTabId()

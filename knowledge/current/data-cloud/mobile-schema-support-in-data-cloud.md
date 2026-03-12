@@ -5,9 +5,9 @@ topic: mobile-schema-support-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.229Z
+lastCollected: 2026-03-12T09:33:13.166Z
 estimatedTokens: 1832
-keywords: [Mobile, Schema, Support, Data, Cloud, unified, data, model, across, Salesforce, recommended, Connector, configuring, Connector., Translating, SDK, Events, Schemas, Automatic, Population]
+keywords: [Mobile, Schema, Support, Data, Cloud, unified, model, across, Salesforce, recommended, Connector, configuring, Translating, SDK, Events]
 ---
 
 # Mobile Schema Support in Data Cloud

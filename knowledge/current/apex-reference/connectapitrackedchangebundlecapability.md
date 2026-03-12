@@ -5,9 +5,9 @@ topic: connectapitrackedchangebundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.184Z
+lastCollected: 2026-03-12T09:33:29.229Z
 estimatedTokens: 158
-keywords: [ConnectApi.TrackedChangeBundleCapability, feed, element, capability, group, elements, aggregated, called, bundle., bundle, aggregates, tracked, changes.]
+keywords: [feed, element, capability, group, elements, aggregated, bundle, aggregates, tracked, changes]
 ---
 
 # ConnectApi.TrackedChangeBundleCapability

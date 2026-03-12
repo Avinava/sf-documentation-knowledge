@@ -5,9 +5,9 @@ topic: getredirectcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.248Z
+lastCollected: 2026-03-12T09:33:19.918Z
 estimatedTokens: 508
-keywords: [getRedirectCode, HTTP, redirect, code, used, getRedirect, set, true, PageReference, object.]
+keywords: [getRedirectCode, HTTP, redirect, code, getRedirect, PageReference]
 ---
 
 # getRedirectCode()

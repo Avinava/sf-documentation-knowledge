@@ -5,10 +5,10 @@ topic: fieldset-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.726Z
+lastCollected: 2026-03-12T09:33:30.770Z
 estimatedTokens: 1267
 namespace: Schema.FieldSet
-keywords: [FieldSet, translation, text, label, displayed, next, field, Salesforce, user, interface., Usage, Example, Displaying, Field, Set, Visualforce, Page, getDescription, getFields, getLabel]
+keywords: [FieldSet, translation, text, label, Salesforce, user, Usage, Displaying, Visualforce, getDescription, getFields, getLabel, getName, getNamespace, getSObjectType]
 ---
 
 # FieldSet Class

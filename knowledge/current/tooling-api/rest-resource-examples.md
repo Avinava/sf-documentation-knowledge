@@ -5,9 +5,9 @@ topic: rest-resource-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:44.269Z
+lastCollected: 2026-03-12T09:33:43.466Z
 estimatedTokens: 1036
-keywords: [REST, Resource, Examples, Robust, examples, resources, Tooling, API., Example, Setup, Note, Retrieve, Description, Manipulate, Objects, Tip, Query, Within, MetadataContainer, Check]
+keywords: [REST, Resource, Examples, Robust, resources, Tooling, API, Setup, Retrieve, Manipulate, Objects, Query, MetadataContainer, Check, Deployment]
 ---
 
 # REST Resource Examples

@@ -5,9 +5,9 @@ topic: retrycategory-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.621Z
+lastCollected: 2026-03-12T09:33:29.659Z
 estimatedTokens: 216
-keywords: [RetryCategory, Specifies, retry, category., Values]
+keywords: [RetryCategory, retry, category]
 ---
 
 # RetryCategory Enum

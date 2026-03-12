@@ -5,9 +5,9 @@ topic: connectapicdpidentityresolutionmatchrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.554Z
+lastCollected: 2026-03-12T09:33:24.822Z
 estimatedTokens: 236
-keywords: [ConnectApi.CdpIdentityResolutionMatchRule, Input, representation, identity, resolution, ruleset’s, match, rule.]
+keywords: [Input, representation, identity, resolution, ruleset’s, match, rule]
 ---
 
 # ConnectApi.CdpIdentityResolutionMatchRule

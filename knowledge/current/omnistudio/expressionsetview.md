@@ -5,9 +5,9 @@ topic: expressionsetview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.979Z
+lastCollected: 2026-03-12T09:33:52.441Z
 estimatedTokens: 1003
-keywords: [ExpressionSetView, Represents, virtual, provides, consolidated, view, file-based, expression, set., File-based, read-only, templates., able, modify, must, clone, first., API, version, 55.0]
+keywords: [ExpressionSetView, virtual, consolidated, view, file-based, expression, read-only, templates, able, modify, clone, API, version, 55.0, later]
 ---
 
 # ExpressionSetView

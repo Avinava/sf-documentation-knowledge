@@ -5,10 +5,10 @@ topic: cdpcalculatedinsight-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.742Z
+lastCollected: 2026-03-12T09:33:16.373Z
 estimatedTokens: 2458
 namespace: ConnectApi
-keywords: [CdpCalculatedInsight, Create, calculated, insight., createCalculatedInsight, input, API, Version, Requires, Chatter, deleteCalculatedInsight, apiName, getCalculatedInsight, getCalculatedInsights, definitionType, batchSize, offset, orderby, dataspace, pageToken]
+keywords: [CdpCalculatedInsight, calculated, insight, createCalculatedInsight, input, API, Version, Requires, Chatter, deleteCalculatedInsight, apiName, getCalculatedInsight, getCalculatedInsights, definitionType, batchSize]
 ---
 
 # CdpCalculatedInsight Class

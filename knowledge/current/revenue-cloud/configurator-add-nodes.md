@@ -5,9 +5,9 @@ topic: configurator-add-nodes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.295Z
+lastCollected: 2026-03-12T09:33:09.040Z
 estimatedTokens: 296
-keywords: [Configurator, Add, Nodes, Output, representation, configuration, request, details, add, nodes.]
+keywords: [Configurator, Add, Nodes, Output, representation, configuration]
 ---
 
 # Configurator Add Nodes

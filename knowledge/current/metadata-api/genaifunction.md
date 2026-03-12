@@ -5,9 +5,9 @@ topic: genaifunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.212Z
+lastCollected: 2026-03-12T09:33:39.732Z
 estimatedTokens: 2807
-keywords: [GenAiFunction, Represents, agent, action, added, agent., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, GenAiPlannerAttr, Input, Folder, Output]
+keywords: [GenAiFunction, agent, action, added, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, GenAiPlannerAttr, Input]
 ---
 
 # GenAiFunction

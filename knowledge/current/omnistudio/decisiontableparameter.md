@@ -5,9 +5,9 @@ topic: decisiontableparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:54.775Z
+lastCollected: 2026-03-12T09:33:53.127Z
 estimatedTokens: 925
-keywords: [DecisionTableParameter, Represents, input, output, field, decision, table., business, rule, custom, metadata, contains, values, used, table, evaluate, records, values., provided, outcomes]
+keywords: [DecisionTableParameter, input, output, decision, business, rule, custom, metadata, evaluate, records, provided, outcomes, API, version, 51.0]
 ---
 
 # DecisionTableParameter

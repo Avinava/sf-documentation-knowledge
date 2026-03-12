@@ -5,10 +5,10 @@ topic: orgpartition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.590Z
+lastCollected: 2026-03-12T09:33:22.020Z
 estimatedTokens: 817
 namespace: Cache
-keywords: [OrgPartition, Contains, manage, cache, values, org, specific, partition., Unlike, session, tied, any, session., It’s, across, requests, users., Usage, Example, Note]
+keywords: [OrgPartition, manage, cache, org, specific, partition, Unlike, session, tied, any, It’s, across, requests, users, Usage]
 ---
 
 # OrgPartition Class

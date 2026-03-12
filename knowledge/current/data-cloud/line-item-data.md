@@ -5,9 +5,9 @@ topic: line-item-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.380Z
+lastCollected: 2026-03-12T09:33:13.331Z
 estimatedTokens: 415
-keywords: [Line, Item, Data, items, intended, describe, purchasable, used, cart, order, interactions., Example]
+keywords: [Line, Item, Data, items, intended, describe, purchasable, cart, order, interactions]
 ---
 
 # Line Item Data

@@ -5,9 +5,9 @@ topic: post-data-from-an-amazon-s3-data-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.405Z
+lastCollected: 2026-03-12T09:33:13.354Z
 estimatedTokens: 261
-keywords: [Post, Data, Amazon, Source, POST, stream, data, source., Syntax, Note, Example]
+keywords: [Post, Data, Amazon, Source, stream]
 ---
 
 # Post Data from an Amazon S3 Data Source

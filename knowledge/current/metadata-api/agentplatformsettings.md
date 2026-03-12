@@ -5,9 +5,9 @@ topic: agentplatformsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.688Z
+lastCollected: 2026-03-12T09:33:36.495Z
 estimatedTokens: 644
-keywords: [AgentPlatformSettings, Represents, settings, Agentforce., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
+keywords: [AgentPlatformSettings, settings, Agentforce, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative, Metadata]
 ---
 
 # AgentPlatformSettings

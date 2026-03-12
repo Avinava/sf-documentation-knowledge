@@ -5,9 +5,9 @@ topic: workorder-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.377Z
+lastCollected: 2026-03-12T09:33:53.698Z
 estimatedTokens: 905
-keywords: [WorkOrder, Custom, Fields, fields, associated, field, service, work, performed, customer., Supported, Calls, Special, Access, Rules]
+keywords: [WorkOrder, Custom, associated, service, work, performed, customer, Calls, Special, Access, Rules]
 ---
 
 # WorkOrder Custom Fields

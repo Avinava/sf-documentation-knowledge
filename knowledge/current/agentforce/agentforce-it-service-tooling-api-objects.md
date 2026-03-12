@@ -5,9 +5,9 @@ topic: agentforce-it-service-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.140Z
+lastCollected: 2026-03-12T09:33:15.820Z
 estimatedTokens: 1515
-keywords: [Agentforce, Service, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow]
+keywords: [Agentforce, Service, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---
 
 # Agentforce IT Service Tooling API Objects

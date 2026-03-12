@@ -5,9 +5,9 @@ topic: onchatended
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.195Z
+lastCollected: 2026-03-12T09:33:56.266Z
 estimatedTokens: 176
-keywords: [onChatEnded, Registers, function, call, engaged, chat, ends., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [onChatEnded, Registers, function, call, engaged, chat, ends, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # onChatEnded()

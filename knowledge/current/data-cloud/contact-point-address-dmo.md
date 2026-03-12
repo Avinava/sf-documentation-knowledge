@@ -5,9 +5,9 @@ topic: contact-point-address-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.369Z
+lastCollected: 2026-03-12T09:33:14.206Z
 estimatedTokens: 1966
-keywords: [Contact, Point, Address, DMO, data, model, Data, CloudDMO, based, mailing, address, party., Provided, both, Sales, Service, Kits., API, Name, Category]
+keywords: [Contact, Point, Address, DMO, data, model, CloudDMO, mailing, party, Provided, Sales, Service, Kits, API, Category]
 ---
 
 # Contact Point Address DMO

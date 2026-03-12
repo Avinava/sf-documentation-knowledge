@@ -5,9 +5,9 @@ topic: dynamic-revenue-orchestrator-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.721Z
+lastCollected: 2026-03-12T09:33:10.158Z
 estimatedTokens: 292
-keywords: [Dynamic, Revenue, Orchestrator, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Dynamic, Revenue, Orchestrator, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Dynamic Revenue Orchestrator Metadata API Types

@@ -5,9 +5,9 @@ topic: batchresult-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.201Z
+lastCollected: 2026-03-12T09:33:26.369Z
 estimatedTokens: 309
-keywords: [BatchResult, instance, BatchResult.]
+keywords: [BatchResult, instance]
 ---
 
 # BatchResult Methods

@@ -5,9 +5,9 @@ topic: connectapiproductreturnratelistoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.593Z
+lastCollected: 2026-03-12T09:33:28.626Z
 estimatedTokens: 77
-keywords: [ConnectApi.ProductReturnRateListOutputRepresentation, Products, corresponding, rates.]
+keywords: [Products, corresponding, rates]
 ---
 
 # ConnectApi.ProductReturnRateListOutputRepresentation

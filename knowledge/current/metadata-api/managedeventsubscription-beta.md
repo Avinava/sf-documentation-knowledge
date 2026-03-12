@@ -5,9 +5,9 @@ topic: managedeventsubscription-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.032Z
+lastCollected: 2026-03-12T09:33:40.521Z
 estimatedTokens: 1306
-keywords: [ManagedEventSubscription, Beta, Represents, managed, event, subscription, Pub, Sub, API., track, events, subscriber, client, consumed, resume, where, left, off., extends, metadata]
+keywords: [ManagedEventSubscription, Beta, managed, event, subscription, Pub, Sub, API, track, events, subscriber, client, consumed, resume, left]
 ---
 
 # ManagedEventSubscription (Beta)

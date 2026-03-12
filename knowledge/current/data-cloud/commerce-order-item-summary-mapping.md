@@ -5,9 +5,9 @@ topic: commerce-order-item-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.196Z
+lastCollected: 2026-03-12T09:33:14.031Z
 estimatedTokens: 949
-keywords: [Commerce, Order, Item, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., information]
+keywords: [Commerce, Order, Item, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
 ---
 
 # Commerce: Order Item Summary Mapping

@@ -5,9 +5,9 @@ topic: methods-for-workspace-tabs-and-subtabs-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.145Z
+lastCollected: 2026-03-12T09:33:56.220Z
 estimatedTokens: 1844
-keywords: [Workspace, Tabs, Subtabs, Lightning, Experience, console, app, displays, Salesforce, pages, workspace, tabs, subtabs., tab, main, work, item, record, such, account.]
+keywords: [Workspace, Tabs, Subtabs, Lightning, Experience, console, app, displays, Salesforce, pages, tab, main, work, item, record]
 ---
 
 # Methods for Workspace Tabs and Subtabs in Lightning Experience

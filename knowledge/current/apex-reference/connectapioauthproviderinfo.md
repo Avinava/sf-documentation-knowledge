@@ -5,9 +5,9 @@ topic: connectapioauthproviderinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.181Z
+lastCollected: 2026-03-12T09:33:28.228Z
 estimatedTokens: 105
-keywords: [ConnectApi.OauthProviderInfo, OAuth, provider, information.]
+keywords: [ConnectApi.OauthProviderInfo, OAuth, provider]
 ---
 
 # ConnectApi.OauthProviderInfo

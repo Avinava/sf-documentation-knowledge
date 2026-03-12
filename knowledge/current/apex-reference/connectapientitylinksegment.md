@@ -5,9 +5,9 @@ topic: connectapientitylinksegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.199Z
+lastCollected: 2026-03-12T09:33:27.289Z
 estimatedTokens: 144
-keywords: [ConnectApi.EntityLinkSegment, Entity, link, segment.]
+keywords: [ConnectApi.EntityLinkSegment, Entity, link, segment]
 ---
 
 # ConnectApi.EntityLinkSegment

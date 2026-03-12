@@ -5,9 +5,9 @@ topic: communitythemedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.826Z
+lastCollected: 2026-03-12T09:33:37.574Z
 estimatedTokens: 1590
-keywords: [CommunityThemeDefinition, Represents, definition, theme, Experience, Builder, site., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version]
+keywords: [CommunityThemeDefinition, definition, theme, Experience, Builder, site, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # CommunityThemeDefinition

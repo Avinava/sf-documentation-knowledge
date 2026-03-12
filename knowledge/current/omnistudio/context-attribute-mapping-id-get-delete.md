@@ -5,9 +5,9 @@ topic: context-attribute-mapping-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.958Z
+lastCollected: 2026-03-12T09:33:47.874Z
 estimatedTokens: 120
-keywords: [Context, Attribute, Mapping, GET, DELETE, Query, delete, context, attribute, mapping, ID.]
+keywords: [Context, Attribute, Mapping, Query]
 ---
 
 # Context Attribute Mapping ID (GET, DELETE)

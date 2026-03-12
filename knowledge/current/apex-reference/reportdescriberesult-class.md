@@ -5,10 +5,10 @@ topic: reportdescriberesult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.065Z
+lastCollected: 2026-03-12T09:33:23.462Z
 estimatedTokens: 635
 namespace: Reports
-keywords: [ReportDescribeResult, Contains, report, extended, metadata, tabular, summary, matrix, report., getReportExtendedMetadata, Syntax, getReportMetadata, getReportTypeMetadata]
+keywords: [ReportDescribeResult, report, extended, metadata, tabular, summary, matrix, getReportExtendedMetadata, getReportMetadata, getReportTypeMetadata]
 ---
 
 # ReportDescribeResult Class

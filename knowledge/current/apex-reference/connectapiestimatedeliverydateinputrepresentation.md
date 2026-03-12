@@ -5,9 +5,9 @@ topic: connectapiestimatedeliverydateinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.841Z
+lastCollected: 2026-03-12T09:33:25.094Z
 estimatedTokens: 166
-keywords: [ConnectApi.EstimateDeliveryDateInputRepresentation, Delivery, date, estimation, information.]
+keywords: [Delivery, date, estimation]
 ---
 
 # ConnectApi.EstimateDeliveryDateInputRepresentation

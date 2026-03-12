@@ -5,10 +5,10 @@ topic: taxcustomerdetailsrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.339Z
+lastCollected: 2026-03-12T09:33:22.695Z
 estimatedTokens: 2004
 namespace: CommerceTax
-keywords: [TaxCustomerDetailsRequest, Contains, customer, details, used, tax, calculation., accountId, code, exemptionNo, exemptionReason, taxCertificateId, equals, obj, hashCode, toString]
+keywords: [TaxCustomerDetailsRequest, customer, tax, calculation, accountId, code, exemptionNo, exemptionReason, taxCertificateId, equals, obj, hashCode, toString]
 ---
 
 # TaxCustomerDetailsRequest Class

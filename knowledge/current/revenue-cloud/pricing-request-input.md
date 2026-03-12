@@ -5,9 +5,9 @@ topic: pricing-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.287Z
+lastCollected: 2026-03-12T09:33:08.160Z
 estimatedTokens: 104
-keywords: [Pricing, Request, Input, representation, pricing, request.]
+keywords: [Pricing, Input, representation]
 ---
 
 # Pricing Request Input

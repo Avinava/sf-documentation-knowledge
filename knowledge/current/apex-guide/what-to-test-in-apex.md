@@ -5,9 +5,9 @@ topic: what-to-test-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.119Z
+lastCollected: 2026-03-12T09:33:34.117Z
 estimatedTokens: 351
-keywords: [Test, Apex, Conditional, ternary, operators, considered, executed, unless, both, positive, negative, branches, executed., Note]
+keywords: [Test, Apex, Conditional, ternary, operators, considered, executed, unless, positive, negative, branches]
 ---
 
 # What to Test in Apex

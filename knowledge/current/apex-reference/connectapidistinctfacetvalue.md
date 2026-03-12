@@ -5,9 +5,9 @@ topic: connectapidistinctfacetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.052Z
+lastCollected: 2026-03-12T09:33:27.144Z
 estimatedTokens: 217
-keywords: [ConnectApi.DistinctFacetValue, Distinct, facet, value.]
+keywords: [ConnectApi.DistinctFacetValue, Distinct, facet]
 ---
 
 # ConnectApi.DistinctFacetValue

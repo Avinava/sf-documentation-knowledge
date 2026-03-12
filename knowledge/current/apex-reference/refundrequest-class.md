@@ -5,10 +5,10 @@ topic: refundrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.073Z
+lastCollected: 2026-03-12T09:33:22.461Z
 estimatedTokens: 521
 namespace: CommercePayments
-keywords: [RefundRequest, Sends, data, related, refund, payment, gateway, adapter., Usage, Example, equals, obj, hashCode]
+keywords: [RefundRequest, data, refund, payment, gateway, adapter, Usage, equals, obj, hashCode]
 ---
 
 # RefundRequest Class

@@ -5,10 +5,10 @@ topic: authproviderpluginclass-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.478Z
+lastCollected: 2026-03-12T09:33:20.126Z
 estimatedTokens: 3276
 namespace: Auth
-keywords: [AuthProviderPluginClass, custom, metadata, API, name, OAuth-based, authentication, provider, single, sign-on, Salesforce., Usage, getCustomMetadataType, getUserInfo, authProviderConfiguration, response, handleCallback, callbackState, initiate, stateToPropagate]
+keywords: [AuthProviderPluginClass, custom, metadata, API, OAuth-based, authentication, provider, sign-on, Salesforce, Usage, getCustomMetadataType, getUserInfo, authProviderConfiguration, handleCallback, callbackState]
 ---
 
 # AuthProviderPluginClass Class

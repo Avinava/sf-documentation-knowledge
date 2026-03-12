@@ -5,9 +5,9 @@ topic: opportunityinsightssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.535Z
+lastCollected: 2026-03-12T09:33:41.001Z
 estimatedTokens: 698
-keywords: [OpportunityInsightsSettings, Represents, org’s, Einstein, Opportunity, Insights, settings., setting, controls, features, give, relevant, updates, opportunities., Note, File, Suffix, Directory, Location, Version]
+keywords: [OpportunityInsightsSettings, org’s, Einstein, Opportunity, Insights, settings, setting, features, give, relevant, updates, opportunities, File, Suffix, Directory]
 ---
 
 # OpportunityInsightsSettings

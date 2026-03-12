@@ -5,9 +5,9 @@ topic: basesharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.149Z
+lastCollected: 2026-03-12T09:33:36.934Z
 estimatedTokens: 708
-keywords: [BaseSharingRule, component, removed, API, version, 33.0, earlier, versions, only., SharingBaseRule, instead., Represents, base, container, criteria-based, owner-based, sharing, rules., Note, Version]
+keywords: [BaseSharingRule, component, removed, API, version, 33.0, earlier, versions, SharingBaseRule, instead, base, container, criteria-based, owner-based, sharing]
 ---
 
 # BaseSharingRule

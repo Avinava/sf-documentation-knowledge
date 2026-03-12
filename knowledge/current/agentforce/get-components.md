@@ -5,9 +5,9 @@ topic: get-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.268Z
+lastCollected: 2026-03-12T09:33:15.944Z
 estimatedTokens: 550
-keywords: [Get, Components, Retrieve, child, components, specific, configuration, item, its, unique, identifier., Request, Response, CIComponent, Note]
+keywords: [Components, Retrieve, child, specific, configuration, item, unique, identifier, CIComponent]
 ---
 
 # Get Components

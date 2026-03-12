@@ -5,10 +5,10 @@ topic: recordtranscripts-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.554Z
+lastCollected: 2026-03-12T09:33:46.589Z
 estimatedTokens: 591
 namespace: DataRetrieval
-keywords: [RecordTranscripts, Stores, transcripts, single, interaction, session, record, such, messaging, voice, call., recordId]
+keywords: [RecordTranscripts, Stores, transcripts, interaction, session, record, messaging, voice, call, recordId]
 ---
 
 # RecordTranscripts Class

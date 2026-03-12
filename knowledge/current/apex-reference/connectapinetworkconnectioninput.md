@@ -5,9 +5,9 @@ topic: connectapinetworkconnectioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.199Z
+lastCollected: 2026-03-12T09:33:25.427Z
 estimatedTokens: 132
-keywords: [ConnectApi.NetworkConnectionInput, Network, connection, input.]
+keywords: [ConnectApi.NetworkConnectionInput, Network, connection, input]
 ---
 
 # ConnectApi.NetworkConnectionInput

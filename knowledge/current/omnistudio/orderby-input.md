@@ -5,9 +5,9 @@ topic: orderby-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.572Z
+lastCollected: 2026-03-12T09:33:47.535Z
 estimatedTokens: 137
-keywords: [OrderBy, Input, representation, orderBy, clause, sort, actionable, list, members.]
+keywords: [OrderBy, Input, representation, clause, sort, actionable, members]
 ---
 
 # OrderBy Input

@@ -5,9 +5,9 @@ topic: create-application-form-product
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.914Z
+lastCollected: 2026-03-12T09:33:48.661Z
 estimatedTokens: 113
-keywords: [Create, Application, Form, Product, Output, representation, application, form, product.]
+keywords: [Application, Form, Product, Output, representation]
 ---
 
 # Create Application Form Product

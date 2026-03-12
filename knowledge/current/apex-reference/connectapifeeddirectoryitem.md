@@ -5,9 +5,9 @@ topic: connectapifeeddirectoryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.760Z
+lastCollected: 2026-03-12T09:33:25.937Z
 estimatedTokens: 997
-keywords: [ConnectApi.FeedDirectoryItem, Definition, feed.]
+keywords: [ConnectApi.FeedDirectoryItem, Definition, feed]
 ---
 
 # ConnectApi.FeedDirectoryItem

@@ -5,9 +5,9 @@ topic: containerasyncrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.911Z
+lastCollected: 2026-03-12T09:33:44.064Z
 estimatedTokens: 885
-keywords: [ContainerAsyncRequest, Allows, compile, asynchronously, deploy, MetadataContainer, organization., Supported, SOAP, API, Calls, REST, HTTP, Special, Access, Rules, Fields, Usage]
+keywords: [ContainerAsyncRequest, compile, asynchronously, deploy, MetadataContainer, organization, SOAP, API, Calls, REST, HTTP, Special, Access, Rules, Usage]
 ---
 
 # ContainerAsyncRequest

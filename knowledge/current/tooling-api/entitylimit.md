@@ -5,9 +5,9 @@ topic: entitylimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.393Z
+lastCollected: 2026-03-12T09:33:44.512Z
 estimatedTokens: 521
-keywords: [EntityLimit, Represents, limits, displayed, Setup, UI., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields]
+keywords: [EntityLimit, limits, Setup, SOAP, Calls, REST, HTTP, Limitations]
 ---
 
 # EntityLimit

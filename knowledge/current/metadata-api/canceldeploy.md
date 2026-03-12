@@ -5,9 +5,9 @@ topic: canceldeploy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.535Z
+lastCollected: 2026-03-12T09:33:37.302Z
 estimatedTokens: 1244
-keywords: [cancelDeploy, Cancels, deployment, hasn’t, completed, yet., Syntax, Usage, Version, Permissions, Note, Arguments, Response, Sample, Code—Java]
+keywords: [cancelDeploy, Cancels, deployment, hasn’t, completed, yet, Usage, Version, Permissions, Arguments, Sample, Code—Java]
 ---
 
 # cancelDeploy()

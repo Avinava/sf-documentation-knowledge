@@ -5,9 +5,9 @@ topic: ipaddressrange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.661Z
+lastCollected: 2026-03-12T09:33:40.165Z
 estimatedTokens: 698
-keywords: [IPAddressRange, Represents, range, addresses, include, exclude, specified, feature., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata]
+keywords: [IPAddressRange, range, addresses, include, exclude, feature, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # IPAddressRange

@@ -5,9 +5,9 @@ topic: get-records-using-sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.093Z
+lastCollected: 2026-03-12T09:33:35.937Z
 estimatedTokens: 919
-keywords: [Get, Records, sObject, Rows, record, based, specified, ID., fields, field, values, returned, response, body., resource, used, external, objects, API, version]
+keywords: [Records, sObject, Rows, record, resource, external, objects, API, version, 32.0, later]
 ---
 
 # Get Records Using sObject Rows

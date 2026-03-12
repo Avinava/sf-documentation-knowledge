@@ -5,9 +5,9 @@ topic: salesforce-crm-segment-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.826Z
+lastCollected: 2026-03-12T09:33:14.593Z
 estimatedTokens: 286
-keywords: [Salesforce, CRM, Segment, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., Segments, Cloud, used, determine, target, audience]
+keywords: [Salesforce, CRM, Segment, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, Segments, determine]
 ---
 
 # Salesforce CRM: Segment Mapping

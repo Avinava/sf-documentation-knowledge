@@ -5,9 +5,9 @@ topic: engagementtopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.930Z
+lastCollected: 2026-03-12T09:33:52.394Z
 estimatedTokens: 1399
-keywords: [EngagementTopic, Represents, information, topics, discussed, customer, attendees, during, engagement., example, initiates, engagement, interaction, calling, service, representative, inquire, insurance, claim, topic]
+keywords: [EngagementTopic, topics, discussed, customer, attendees, engagement, initiates, interaction, calling, service, representative, inquire, insurance, claim, topic]
 ---
 
 # EngagementTopic

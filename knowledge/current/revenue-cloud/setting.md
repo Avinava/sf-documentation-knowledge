@@ -5,9 +5,9 @@ topic: setting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.500Z
+lastCollected: 2026-03-12T09:33:09.974Z
 estimatedTokens: 116
-keywords: [Setting, Output, representation, setting, that’s, used, indexing.]
+keywords: [Setting, Output, representation, that’s, indexing]
 ---
 
 # Setting

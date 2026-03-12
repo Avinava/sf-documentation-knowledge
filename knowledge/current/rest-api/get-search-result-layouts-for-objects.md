@@ -5,9 +5,9 @@ topic: get-search-result-layouts-for-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.045Z
+lastCollected: 2026-03-12T09:33:34.933Z
 estimatedTokens: 155
-keywords: [Get, Search, Result, Layouts, Objects, resource, retrieve, search, result, layout, configuration, specified, query, string.]
+keywords: [Search, Result, Layouts, Objects, resource, retrieve, layout, configuration, query]
 ---
 
 # Get Search Result Layouts for Objects

@@ -5,9 +5,9 @@ topic: create-a-sample-datasourceprovider-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.034Z
+lastCollected: 2026-03-12T09:33:33.063Z
 estimatedTokens: 741
-keywords: [Create, Sample, DataSource.Provider, Now, need, extends, overrides, few, DataSource.Provider., Warning]
+keywords: [Sample, DataSource.Provider, Now, extends, overrides, few]
 ---
 
 # Create a Sample  DataSource.Provider Class Class

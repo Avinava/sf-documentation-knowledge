@@ -5,9 +5,9 @@ topic: addtobrowsertitlequeue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.099Z
+lastCollected: 2026-03-12T09:33:55.240Z
 estimatedTokens: 223
-keywords: [addToBrowserTitleQueue, Adds, browser, tab, title, list, titles, which, rotates, every, three, seconds., only, API, version, 28.0, later., Syntax, Arguments, Sample]
+keywords: [addToBrowserTitleQueue, Adds, browser, tab, title, titles, rotates, every, three, seconds, API, version, 28.0, later, Arguments]
 ---
 
 # addToBrowserTitleQueue()

@@ -5,9 +5,9 @@ topic: global-search-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.951Z
+lastCollected: 2026-03-12T09:33:08.734Z
 estimatedTokens: 1552
-keywords: [Search, POST, Retrieves, list, products, based, search, query, term., API, composite, Product, Discovery.]
+keywords: [Search, POST, Retrieves, products, query, term, API, composite, Product, Discovery]
 ---
 
 # Global Search (POST)

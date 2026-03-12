@@ -5,10 +5,10 @@ topic: configurableselfreghandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.794Z
+lastCollected: 2026-03-12T09:33:29.823Z
 estimatedTokens: 2061
 namespace: Auth
-keywords: [ConfigurableSelfRegHandler, Gives, control, over, how, customers, partners, self-register, Experience, Cloud, site, creating, implements, Auth.ConfigurableSelfRegHandler., choose, user, information, collect, users, identify]
+keywords: [ConfigurableSelfRegHandler, Gives, control, over, how, customers, partners, self-register, Experience, Cloud, site, creating, implements, Auth.ConfigurableSelfRegHandler, choose]
 ---
 
 # ConfigurableSelfRegHandler Interface

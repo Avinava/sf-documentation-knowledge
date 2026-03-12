@@ -5,10 +5,10 @@ topic: billing-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.356Z
+lastCollected: 2026-03-12T09:33:07.366Z
 estimatedTokens: 879
 namespace: ConnectApi
-keywords: [Billing, Apex, Reference, provides, ConnectApi, called, Connect, contains, classes, accessing, same, capabilities, Business, APIs., Additionally, built-in, interfaces, grouped, namespace.]
+keywords: [Billing, Apex, ConnectApi, Connect, classes, accessing, capabilities, Business, APIs, Additionally, built-in, interfaces, grouped]
 ---
 
 # Billing Apex Reference

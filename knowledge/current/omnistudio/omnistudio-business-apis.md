@@ -5,9 +5,9 @@ topic: omnistudio-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:52.744Z
+lastCollected: 2026-03-12T09:33:51.318Z
 estimatedTokens: 298
-keywords: [Omnistudio, Business, APIs, RESTful, sometimes, Apex, classes, methods., Note]
+keywords: [Omnistudio, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
 
 # Omnistudio Business APIs

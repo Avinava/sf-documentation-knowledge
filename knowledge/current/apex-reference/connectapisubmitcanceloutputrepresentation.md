@@ -5,9 +5,9 @@ topic: connectapisubmitcanceloutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.078Z
+lastCollected: 2026-03-12T09:33:29.119Z
 estimatedTokens: 209
-keywords: [ConnectApi.SubmitCancelOutputRepresentation, change, order, created, cancel, action, set, its, financial, values.]
+keywords: [change, order, created, cancel, action, financial]
 ---
 
 # ConnectApi.SubmitCancelOutputRepresentation

@@ -5,9 +5,9 @@ topic: recordaggregationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.622Z
+lastCollected: 2026-03-12T09:33:51.189Z
 estimatedTokens: 1664
-keywords: [RecordAggregationDefinition, Represents, data, aggregation, another, which, connected, objects, model., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+keywords: [RecordAggregationDefinition, data, aggregation, another, connected, objects, model, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 59.0, later, SOAP]
 ---
 
 # RecordAggregationDefinition

@@ -5,9 +5,9 @@ topic: documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.042Z
+lastCollected: 2026-03-12T09:33:38.712Z
 estimatedTokens: 418
-keywords: [DocumentType, Represents, document, type., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [DocumentType, document, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample, Definition]
 ---
 
 # DocumentType

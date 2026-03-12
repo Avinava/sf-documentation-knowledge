@@ -5,9 +5,9 @@ topic: connectapicreditmemolineappliedresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.127Z
+lastCollected: 2026-03-12T09:33:07.157Z
 estimatedTokens: 83
-keywords: [ConnectApi.CreditMemoLineAppliedResponse, Output, representation, list, applied, credit, memo, line, results.]
+keywords: [Output, representation, applied, credit, memo, line, results]
 ---
 
 # ConnectApi.CreditMemoLineAppliedResponse

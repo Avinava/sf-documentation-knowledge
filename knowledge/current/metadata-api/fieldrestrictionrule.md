@@ -5,9 +5,9 @@ topic: fieldrestrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:39.842Z
+lastCollected: 2026-03-12T09:33:39.438Z
 estimatedTokens: 1078
-keywords: [FieldRestrictionRule, Represents, field, visibility, rule, controls, whether, visible, user, based, field’s, inclusion, set., Enhanced, Personal, Information, Management, setting, enabled, before]
+keywords: [FieldRestrictionRule, visibility, rule, whether, visible, user, field’s, inclusion, Enhanced, Personal, Management, setting, enabled, Spring, ’22]
 ---
 
 # FieldRestrictionRule

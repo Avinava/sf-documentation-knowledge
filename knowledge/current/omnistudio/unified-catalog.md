@@ -5,9 +5,9 @@ topic: unified-catalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.098Z
+lastCollected: 2026-03-12T09:33:53.440Z
 estimatedTokens: 252
-keywords: [Unified, Catalog, provides, centralized, consistent, framework, managing, accessing, product, service, definitions, across, business, processes., serves, single, source, truth, catalog, data]
+keywords: [Unified, Catalog, centralized, consistent, framework, managing, accessing, product, service, definitions, across, business, processes, serves, source]
 ---
 
 # Unified Catalog

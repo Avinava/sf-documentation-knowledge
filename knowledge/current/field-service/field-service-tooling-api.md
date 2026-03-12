@@ -5,9 +5,9 @@ topic: field-service-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.593Z
+lastCollected: 2026-03-12T09:33:53.903Z
 estimatedTokens: 139
-keywords: [Field, Service, Tooling, API, following, objects, used, Service.]
+keywords: [Service, Tooling, API, objects]
 ---
 
 # Field Service Tooling API

@@ -5,9 +5,9 @@ topic: salesforce-crm-card-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.542Z
+lastCollected: 2026-03-12T09:33:14.372Z
 estimatedTokens: 180
-keywords: [Salesforce, CRM, Card, Mappings, data, mappings, DLO, found, Financial, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO, Mapping]
+keywords: [Salesforce, CRM, Card, Mappings, data, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage, DMO, Mapping]
 ---
 
 # Salesforce CRM: Card Mappings

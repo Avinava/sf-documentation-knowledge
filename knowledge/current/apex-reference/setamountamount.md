@@ -5,9 +5,9 @@ topic: setamountamount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.116Z
+lastCollected: 2026-03-12T09:33:24.409Z
 estimatedTokens: 92
-keywords: [setAmount, amount, payment, authorization., positive, negative, zero.]
+keywords: [setAmount, amount, payment, authorization, positive, negative, zero]
 ---
 
 # setAmount(amount)

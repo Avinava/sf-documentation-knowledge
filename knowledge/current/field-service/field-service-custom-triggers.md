@@ -5,9 +5,9 @@ topic: field-service-custom-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.431Z
+lastCollected: 2026-03-12T09:33:53.750Z
 estimatedTokens: 10733
-keywords: [Field, Service, Custom, Triggers, custom, triggers, ensure, objects, respective, fields, processed, before, after, scheduling., Assigned, Resource, Event, Gantt, Filter, Palette]
+keywords: [Service, Custom, Triggers, ensure, objects, respective, processed, scheduling, Assigned, Resource, Event, Gantt, Filter, Palette, Map]
 ---
 
 # Field Service Custom Triggers

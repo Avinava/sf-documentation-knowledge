@@ -5,9 +5,9 @@ topic: billingarrangement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.660Z
+lastCollected: 2026-03-12T09:33:10.920Z
 estimatedTokens: 535
-keywords: [BillingArrangement, Represents, arrangement, invoicing, transaction’s, billing, amount, accounts., specifies, whether, total, must, invoiced, owning, account, different, invoices, split, among, multiple]
+keywords: [BillingArrangement, arrangement, invoicing, transaction’s, billing, amount, accounts, whether, total, invoiced, owning, account, different, invoices, split]
 ---
 
 # BillingArrangement

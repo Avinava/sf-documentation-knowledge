@@ -5,9 +5,9 @@ topic: time-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.214Z
+lastCollected: 2026-03-12T09:33:36.045Z
 estimatedTokens: 199
-keywords: [Time, Slots, Describes, result, Get, Appointments, request.]
+keywords: [Time, Slots, result, Appointments]
 ---
 
 # Time Slots

@@ -5,9 +5,9 @@ topic: standardobjectname-feed-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.309Z
+lastCollected: 2026-03-12T09:33:15.983Z
 estimatedTokens: 2132
-keywords: [StandardObjectName, Feed, StandardObjectNameFeed, model, feed, objects, associated, standard, objects., represent, posts, feed-tracked, changes, object., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [StandardObjectName, Feed, StandardObjectNameFeed, model, objects, associated, standard, represent, posts, feed-tracked, changes, Calls, Special, Access, Rules]
 ---
 
 # StandardObjectName Feed Feed

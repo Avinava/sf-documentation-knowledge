@@ -5,9 +5,9 @@ topic: cleandataservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.735Z
+lastCollected: 2026-03-12T09:33:37.487Z
 estimatedTokens: 1906
-keywords: [CleanDataService, Represents, data, service, adds, updates, standard, objects., Important, File, Suffix, Directory, Location, Version, Fields, CleanRule, FieldMapping, FieldMappingRow, FieldMappingField, Declarative]
+keywords: [CleanDataService, data, service, adds, updates, standard, objects, File, Suffix, Directory, Location, Version, CleanRule, FieldMapping, FieldMappingRow]
 ---
 
 # CleanDataService

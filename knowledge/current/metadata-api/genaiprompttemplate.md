@@ -5,9 +5,9 @@ topic: genaiprompttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:40.305Z
+lastCollected: 2026-03-12T09:33:39.812Z
 estimatedTokens: 1880
-keywords: [GenAiPromptTemplate, Represents, definition, prompt, template, including, its, related, objects, fields., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [GenAiPromptTemplate, definition, prompt, template, including, objects, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # GenAiPromptTemplate

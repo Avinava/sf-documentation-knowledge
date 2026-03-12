@@ -5,9 +5,9 @@ topic: conversation-reason-report-definition-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.454Z
+lastCollected: 2026-03-12T09:33:14.285Z
 estimatedTokens: 528
-keywords: [Conversation, Reason, Report, Definition, DMO, Data, Cloud, data, model, conversation, mining, report, contains, overview, conversational, shape, groups, reasons, excerpts., API]
+keywords: [Conversation, Reason, Report, Definition, DMO, Data, Cloud, model, mining, conversational, shape, groups, reasons, excerpts, API]
 ---
 
 # Conversation Reason Report Definition DMO

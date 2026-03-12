@@ -5,9 +5,9 @@ topic: connectapicreatemultipleinvoicesfromchangeordersoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.868Z
+lastCollected: 2026-03-12T09:33:26.966Z
 estimatedTokens: 273
-keywords: [ConnectApi.CreateMultipleInvoicesFromChangeOrdersOutputRepresentation, List, lists, invoices, created, change, orders, fees.]
+keywords: [invoices, created, change, orders, fees]
 ---
 
 # ConnectApi.CreateMultipleInvoicesFromChangeOrdersOutputRepresentation

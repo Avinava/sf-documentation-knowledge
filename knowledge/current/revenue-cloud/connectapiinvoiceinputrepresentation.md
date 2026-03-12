@@ -5,9 +5,9 @@ topic: connectapiinvoiceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.062Z
+lastCollected: 2026-03-12T09:33:07.096Z
 estimatedTokens: 220
-keywords: [ConnectApi.InvoiceInputRepresentation, Input, representation, details, billing, schedule.]
+keywords: [ConnectApi.InvoiceInputRepresentation, Input, representation, billing, schedule]
 ---
 
 # ConnectApi.InvoiceInputRepresentation

@@ -5,9 +5,9 @@ topic: reminder-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.741Z
+lastCollected: 2026-03-12T09:33:47.680Z
 estimatedTokens: 367
-keywords: [Reminder, Create, Input, representation, reminder, definition, configure, reminders, along, channel.]
+keywords: [Reminder, Input, representation, definition, configure, reminders, along, channel]
 ---
 
 # Reminder Create Input

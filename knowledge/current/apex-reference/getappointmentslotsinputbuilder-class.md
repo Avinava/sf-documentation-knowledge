@@ -5,10 +5,10 @@ topic: getappointmentslotsinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.647Z
+lastCollected: 2026-03-12T09:33:23.061Z
 estimatedTokens: 4055
 namespace: LxScheduler
-keywords: [GetAppointmentSlotsInputBuilder, Contains, build, instance, lxscheduler.GetAppointmentSlotsInput, class., setAccountId, accountId, setAllowConcurrentScheduling, allowConcurrentScheduling, setApiVersion, apiVersion, Usage, Note, setCorrelationId, correlationId, setEndTime, endTime, setEngagementChannelTypeIds, engagementChannelTypeIds]
+keywords: [GetAppointmentSlotsInputBuilder, build, instance, lxscheduler.GetAppointmentSlotsInput, setAccountId, accountId, setAllowConcurrentScheduling, allowConcurrentScheduling, setApiVersion, apiVersion, Usage, setCorrelationId, correlationId, setEndTime, endTime]
 ---
 
 # GetAppointmentSlotsInputBuilder Class

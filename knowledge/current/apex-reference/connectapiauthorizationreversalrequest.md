@@ -5,9 +5,9 @@ topic: connectapiauthorizationreversalrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.351Z
+lastCollected: 2026-03-12T09:33:24.631Z
 estimatedTokens: 216
-keywords: [ConnectApi.AuthorizationReversalRequest, Authorization, reversal, input, consumed, authorization, service.]
+keywords: [ConnectApi.AuthorizationReversalRequest, Authorization, reversal, input, consumed, service]
 ---
 
 # ConnectApi.AuthorizationReversalRequest

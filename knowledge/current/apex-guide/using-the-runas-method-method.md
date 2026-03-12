@@ -5,9 +5,9 @@ topic: using-the-runas-method-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.090Z
+lastCollected: 2026-03-12T09:33:34.091Z
 estimatedTokens: 1149
-keywords: [runAs, Generally, Apex, code, runs, system, mode, where, object-level, field-level, permissions, current, user, aren’t, taken, account., System, write, test, change]
+keywords: [runAs, Generally, Apex, code, runs, system, mode, object-level, field-level, permissions, current, user, aren’t, taken, account]
 ---
 
 # Using the  runAs Method Method

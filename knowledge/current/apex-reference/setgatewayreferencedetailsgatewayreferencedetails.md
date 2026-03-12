@@ -5,9 +5,9 @@ topic: setgatewayreferencedetailsgatewayreferencedetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.134Z
+lastCollected: 2026-03-12T09:33:24.428Z
 estimatedTokens: 110
-keywords: [setGatewayReferenceDetails, gatewayReferenceDetails, any, additional, reference, details, gateway, returned.]
+keywords: [setGatewayReferenceDetails, gatewayReferenceDetails, any, additional, gateway]
 ---
 
 # setGatewayReferenceDetails(gatewayReferenceDetails)

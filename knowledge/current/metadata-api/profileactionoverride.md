@@ -5,9 +5,9 @@ topic: profileactionoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.942Z
+lastCollected: 2026-03-12T09:33:41.395Z
 estimatedTokens: 1468
-keywords: [ProfileActionOverride, Represents, override, ActionOverride, user, profile., standard, Home, tab, record, page, Lightning, Experience., logs, profile, matching, assignment, takes, precedence, over]
+keywords: [ProfileActionOverride, override, ActionOverride, user, profile, standard, Home, tab, record, Lightning, Experience, logs, matching, assignment, precedence]
 ---
 
 # ProfileActionOverride

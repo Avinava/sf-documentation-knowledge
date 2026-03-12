@@ -5,9 +5,9 @@ topic: field-service-org-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.993Z
+lastCollected: 2026-03-12T09:33:55.158Z
 estimatedTokens: 727
-keywords: [Field, Service, Org, Setup, Define, assign, required, permission, sets., Note, Permission, Set, Assign, Mobile, User]
+keywords: [Service, Org, Setup, Define, assign, permission, Mobile, User]
 ---
 
 # Field Service Org Setup

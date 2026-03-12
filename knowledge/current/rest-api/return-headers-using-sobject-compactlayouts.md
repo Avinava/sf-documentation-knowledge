@@ -5,9 +5,9 @@ topic: return-headers-using-sobject-compactlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.980Z
+lastCollected: 2026-03-12T09:33:35.829Z
 estimatedTokens: 154
-keywords: [Headers, sObject, CompactLayouts, only, headers, returned, GET, request, resource., gives, chance, header, values, ahead, time, before, retrieving, content, resource, REST]
+keywords: [sObject, CompactLayouts, resource, gives, chance, ahead, time, retrieving, content, REST, API, version, 29.0, later]
 ---
 
 # Return Headers Using sObject CompactLayouts

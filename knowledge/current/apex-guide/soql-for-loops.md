@@ -5,9 +5,9 @@ topic: soql-for-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.830Z
+lastCollected: 2026-03-12T09:33:34.734Z
 estimatedTokens: 1233
-keywords: [SOQL, Loops, loops, iterate, over, sObject, records, returned, query., Versus, Standard, Queries, Loop, Formats, Note]
+keywords: [SOQL, Loops, iterate, over, sObject, records, query, Versus, Standard, Queries, Loop, Formats]
 ---
 
 # SOQL For Loops

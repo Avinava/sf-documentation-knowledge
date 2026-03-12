@@ -5,9 +5,9 @@ topic: working-with-approval-processes-and-process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.250Z
+lastCollected: 2026-03-12T09:33:36.076Z
 estimatedTokens: 580
-keywords: [Working, Approval, Processes, Process, Rules, examples, section, REST, API, resources, work, approval, processes, process, rules.]
+keywords: [Working, Approval, Processes, Process, Rules, examples, REST, API, resources, work]
 ---
 
 # Working with Approval Processes and Process Rules

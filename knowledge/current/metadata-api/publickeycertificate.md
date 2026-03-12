@@ -5,9 +5,9 @@ topic: publickeycertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.999Z
+lastCollected: 2026-03-12T09:33:41.447Z
 estimatedTokens: 544
-keywords: [PublicKeyCertificate, Represents, key, certificate., entity, store, certificate, JSON, web, which, used, validate, customer-provided, JWT., Important, Parent, File, Suffix, Directory, Location]
+keywords: [PublicKeyCertificate, key, certificate, entity, store, JSON, web, validate, customer-provided, JWT, Parent, File, Suffix, Directory, Location]
 ---
 
 # PublicKeyCertificate

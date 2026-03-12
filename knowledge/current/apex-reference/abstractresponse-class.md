@@ -5,10 +5,10 @@ topic: abstractresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.690Z
+lastCollected: 2026-03-12T09:33:22.114Z
 estimatedTokens: 2012
 namespace: CommercePayments
-keywords: [AbstractResponse, Contains, normalized, response, fields, payment, gateways, common, gateway, responses., Usage, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription]
+keywords: [AbstractResponse, normalized, payment, gateways, common, gateway, responses, Usage, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayResultCode]
 ---
 
 # AbstractResponse Class

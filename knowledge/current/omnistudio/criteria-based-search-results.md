@@ -5,9 +5,9 @@ topic: criteria-based-search-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.064Z
+lastCollected: 2026-03-12T09:33:47.964Z
 estimatedTokens: 531
-keywords: [Criteria-Based, Search, Results, results, search, based, searchable, configuration, criteria, defined, admin.]
+keywords: [Criteria-Based, Search, Results, searchable, configuration, criteria, defined, admin]
 ---
 
 # Criteria-Based Search Results

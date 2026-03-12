@@ -5,9 +5,9 @@ topic: criteria-based-search-filter-configurations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.067Z
+lastCollected: 2026-03-12T09:33:47.968Z
 estimatedTokens: 205
-keywords: [Criteria-Based, Search, Filter, Configurations, Retrieve, unified, search, data, based, input, criteria, configuration, defined, administrator.]
+keywords: [Criteria-Based, Search, Filter, Configurations, Retrieve, unified, data, input, criteria, configuration, defined, administrator]
 ---
 
 # Criteria-Based Search Filter Configurations

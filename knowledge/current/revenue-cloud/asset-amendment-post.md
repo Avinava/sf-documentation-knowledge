@@ -5,9 +5,9 @@ topic: asset-amendment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.607Z
+lastCollected: 2026-03-12T09:33:08.429Z
 estimatedTokens: 357
-keywords: [Asset, Amendment, POST, Initiate, execute, amendment, quote, order.]
+keywords: [Asset, Amendment, POST, Initiate, execute, quote, order]
 ---
 
 # Asset Amendment (POST)

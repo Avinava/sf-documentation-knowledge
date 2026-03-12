@@ -5,9 +5,9 @@ topic: what-is-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.533Z
+lastCollected: 2026-03-12T09:33:33.567Z
 estimatedTokens: 916
-keywords: [Apex?, Apex, strongly, typed, object-oriented, programming, language, allows, developers, execute, flow, transaction, control, statements, Salesforce, servers, conjunction, calls, API., syntax]
+keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, servers, conjunction]
 ---
 
 # What is Apex?

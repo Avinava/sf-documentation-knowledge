@@ -5,9 +5,9 @@ topic: connectapichattergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.616Z
+lastCollected: 2026-03-12T09:33:26.753Z
 estimatedTokens: 805
-keywords: [ConnectApi.ChatterGroup, Chatter, group.]
+keywords: [ConnectApi.ChatterGroup, Chatter, group]
 ---
 
 # ConnectApi.ChatterGroup

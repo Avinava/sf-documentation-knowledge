@@ -5,9 +5,9 @@ topic: productcategoryqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.067Z
+lastCollected: 2026-03-12T09:33:12.068Z
 estimatedTokens: 882
-keywords: [ProductCategoryQualification, Represents, qualification, rules, product, categories., determine, category, qualifies, displayed, users., API, version, 60.0, later., Supported, Calls, Special, Access, Rules]
+keywords: [ProductCategoryQualification, qualification, rules, product, categories, determine, category, qualifies, users, API, version, 60.0, later, Calls, Special]
 ---
 
 # ProductCategoryQualification

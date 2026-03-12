@@ -5,9 +5,9 @@ topic: performrecordalertactionalertid-actionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.448Z
+lastCollected: 2026-03-12T09:33:46.487Z
 estimatedTokens: 229
-keywords: [performRecordAlertAction, alertId, actionParameters, Snooze, internal, record, alerts, specified, time, period, dismiss, them., API, Version, Requires, Chatter]
+keywords: [performRecordAlertAction, alertId, actionParameters, Snooze, internal, record, alerts, time, period, dismiss, API, Version, Requires, Chatter]
 ---
 
 # performRecordAlertAction(alertId, actionParameters)

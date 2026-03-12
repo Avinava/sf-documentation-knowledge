@@ -5,9 +5,9 @@ topic: get-report-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.186Z
+lastCollected: 2026-03-12T09:33:32.230Z
 estimatedTokens: 198
-keywords: [Get, Report, Metadata, retrieve, report, metadata, get, information, its, type., Example]
+keywords: [Report, Metadata, retrieve]
 ---
 
 # Get Report Metadata

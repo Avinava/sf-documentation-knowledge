@@ -5,10 +5,10 @@ topic: inboundemail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.429Z
+lastCollected: 2026-03-12T09:33:23.798Z
 estimatedTokens: 2862
 namespace: Messaging
-keywords: [InboundEmail, Represents, inbound, email, object., authenticationResults, Usage, binaryAttachments, ccAddresses, fromAddress, fromName, headers, htmlBody, htmlBodyIsTruncated, inReplyTo, messageId, plainTextBody, plainTextBodyIsTruncated, references, replyTo]
+keywords: [InboundEmail, inbound, email, authenticationResults, Usage, binaryAttachments, ccAddresses, fromAddress, fromName, htmlBody, htmlBodyIsTruncated, inReplyTo, messageId, plainTextBody, plainTextBodyIsTruncated]
 ---
 
 # InboundEmail Class

@@ -5,9 +5,9 @@ topic: businessalertstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.595Z
+lastCollected: 2026-03-12T09:33:52.076Z
 estimatedTokens: 331
-keywords: [BusinessAlertStatus, Represents, information, read, status, insight, alert., API, version, 57.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [BusinessAlertStatus, status, insight, alert, API, version, 57.0, later, Calls, Special, Access, Rules]
 ---
 
 # BusinessAlertStatus

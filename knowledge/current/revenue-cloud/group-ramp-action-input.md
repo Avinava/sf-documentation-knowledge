@@ -5,9 +5,9 @@ topic: group-ramp-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.132Z
+lastCollected: 2026-03-12T09:33:08.024Z
 estimatedTokens: 719
-keywords: [Group, Ramp, Action, Input, Understand, sample, request, specify, group, ramp, actions, during, initial, sale.]
+keywords: [Group, Ramp, Action, Input, Understand, sample, specify, actions, initial, sale]
 ---
 
 # Group Ramp Action Input

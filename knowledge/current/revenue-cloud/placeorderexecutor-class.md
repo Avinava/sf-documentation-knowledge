@@ -5,10 +5,10 @@ topic: placeorderexecutor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.318Z
+lastCollected: 2026-03-12T09:33:06.415Z
 estimatedTokens: 2871
 namespace: CommerceOrders
-keywords: [PlaceOrderExecutor, Contains, place, order, details, graph, request, pricing, preferences, configuration, options., Example, execute, graphRequest, pricingPreferenceEnum, configurationInputEnum, configurationOptionsInput, catalogRatesPreference, Implementation, Usage]
+keywords: [PlaceOrderExecutor, place, order, graph, pricing, preferences, configuration, options, execute, graphRequest, pricingPreferenceEnum, configurationInputEnum, configurationOptionsInput, catalogRatesPreference, Implementation]
 ---
 
 # PlaceOrderExecutor Class

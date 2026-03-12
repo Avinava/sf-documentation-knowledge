@@ -5,9 +5,9 @@ topic: ar-spacecapture-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.534Z
+lastCollected: 2026-03-12T09:33:53.841Z
 estimatedTokens: 163
-keywords: [SpaceCapture, User, Experience, component, deliver, any, user, experience, desire, must, follow, common, flow, calls, scan.]
+keywords: [SpaceCapture, User, Experience, component, deliver, any, desire, follow, common, flow, calls, scan]
 ---
 
 # AR SpaceCapture User Experience

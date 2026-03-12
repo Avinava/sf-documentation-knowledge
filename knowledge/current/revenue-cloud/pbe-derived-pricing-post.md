@@ -5,9 +5,9 @@ topic: pbe-derived-pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.009Z
+lastCollected: 2026-03-12T09:33:08.784Z
 estimatedTokens: 254
-keywords: [PBE, Derived, Pricing, POST, Get, source, product, Price, Book, Entry, derived, pricing.]
+keywords: [PBE, Derived, Pricing, POST, source, product, Price, Book, Entry]
 ---
 
 # PBE Derived Pricing (POST)

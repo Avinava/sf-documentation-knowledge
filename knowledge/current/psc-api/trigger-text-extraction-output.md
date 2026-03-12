@@ -1,0 +1,52 @@
+---
+title: "Trigger Text Extraction Output"
+domain: psc-api
+topic: trigger-text-extraction-output
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:35:31.757Z
+estimatedTokens: 137
+keywords: [Trigger, Text, Extraction, Output, representation, recent, version, document]
+---
+
+# Trigger Text Extraction Output
+
+> Output representation of the text extraction request on the most
+   recent version of the document.
+
+# Trigger Text Extraction Output
+
+Output representation of the text extraction request on the most recent version of the document.
+
+JSON example
+
+```
+
+```
+
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| ocrDocumentScanResultInfos | OCR Document Scan Result Info[] | Represents the details of the OCR document scan result. | Small, 55.0 | 55.0 |
+| status | Status | Indicates whether the OCR document scan result record is created successfully or not. | Small, 55.0 | 55.0 |
+
+## Code Examples
+
+```
+{
+  "ocrDocumentScanResultInfos": [
+    {
+      "ocrDocumentScanResultId": "0ixRM0000004DY7",
+      "pageNum": 1
+    }
+  ],
+  "status": {
+    "code": "SUCCESS",
+    "message": "API call has been executed Successfully."
+  }
+}
+```
+
+## Related Topics
+
+- OCR Document Scan Result Info (atlas.en-us.psc_api.meta/psc_api/intelligent_document_reader_connect_responses_ocr_document_scan_result_info.htm)

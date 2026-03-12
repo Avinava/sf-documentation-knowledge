@@ -5,9 +5,9 @@ topic: connectapiensurepaymentcreditinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.829Z
+lastCollected: 2026-03-12T09:33:25.081Z
 estimatedTokens: 195
-keywords: [ConnectApi.EnsurePaymentCreditInputRepresentation, credit, memo, information, optionally, payment, sequence, details, issuing, credits., amount, distributed, specified, until, fully, applied., don’t, specify, default, Ensure]
+keywords: [credit, memo, optionally, payment, sequence, issuing, credits, amount, distributed, until, fully, applied, don’t, specify, Ensure]
 ---
 
 # ConnectApi.EnsurePaymentCreditInputRepresentation

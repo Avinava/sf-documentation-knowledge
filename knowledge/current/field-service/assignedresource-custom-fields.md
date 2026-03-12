@@ -5,9 +5,9 @@ topic: assignedresource-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.322Z
+lastCollected: 2026-03-12T09:33:53.645Z
 estimatedTokens: 1027
-keywords: [AssignedResource, Custom, Fields, fields, associated, service, resource, who, assigned, appointment, Field, Service., Assigned, resources, appear, Resources, related, list, appointments., API]
+keywords: [AssignedResource, Custom, associated, service, resource, assigned, appointment, resources, appear, appointments, API, version, 38.0, later, Calls]
 ---
 
 # AssignedResource Custom Fields

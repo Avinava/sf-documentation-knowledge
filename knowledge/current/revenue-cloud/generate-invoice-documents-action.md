@@ -5,9 +5,9 @@ topic: generate-invoice-documents-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.769Z
+lastCollected: 2026-03-12T09:33:05.919Z
 estimatedTokens: 478
-keywords: [Generate, Invoice, Documents, Action, Asynchronously, generate, PDF, documents, invoices, associated, invoice, batch, run, record, Draft, Posted, status., Special, Access, Rules]
+keywords: [Generate, Invoice, Documents, Action, Asynchronously, PDF, invoices, associated, batch, run, record, Draft, Posted, status, Special]
 ---
 
 # Generate Invoice Documents Action

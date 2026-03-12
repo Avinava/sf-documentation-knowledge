@@ -6,9 +6,9 @@ topic: serializing-and-deserializing-connectapi-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.879Z
+lastCollected: 2026-03-12T09:33:32.915Z
 estimatedTokens: 265
-keywords: [Serializing, Deserializing, ConnectApi, Objects, output, objects, serialized, JSON, structure, similar, returned, Connect, REST, API., input, deserialized, format]
+keywords: [Serializing, Deserializing, ConnectApi, Objects, output, serialized, JSON, structure, similar, Connect, REST, API, input, deserialized]
 ---
 
 # Serializing and Deserializing ConnectApi

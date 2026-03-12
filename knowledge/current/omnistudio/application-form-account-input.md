@@ -5,9 +5,9 @@ topic: application-form-account-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.027Z
+lastCollected: 2026-03-12T09:33:47.045Z
 estimatedTokens: 864
-keywords: [Application, Form, Account, Input, representation, account, related, application, form.]
+keywords: [Application, Form, Account, Input, representation]
 ---
 
 # Application Form Account Input

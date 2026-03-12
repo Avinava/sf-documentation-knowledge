@@ -5,9 +5,9 @@ topic: moderationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.274Z
+lastCollected: 2026-03-12T09:33:40.749Z
 estimatedTokens: 1556
-keywords: [ModerationRule, Represents, rule, used, Experience, Cloud, site, moderate, member-generated, content., specifies, content, applies, criteria, enforce, moderation, action, take., Moderation, rules]
+keywords: [ModerationRule, rule, Experience, Cloud, site, moderate, member-generated, content, criteria, enforce, moderation, action, take, rules, help]
 ---
 
 # ModerationRule

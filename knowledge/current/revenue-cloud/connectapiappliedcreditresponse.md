@@ -5,9 +5,9 @@ topic: connectapiappliedcreditresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.131Z
+lastCollected: 2026-03-12T09:33:07.160Z
 estimatedTokens: 156
-keywords: [ConnectApi.AppliedCreditResponse, Output, representation, list, applied, credit, memo, line, results.]
+keywords: [ConnectApi.AppliedCreditResponse, Output, representation, applied, credit, memo, line, results]
 ---
 
 # ConnectApi.AppliedCreditResponse

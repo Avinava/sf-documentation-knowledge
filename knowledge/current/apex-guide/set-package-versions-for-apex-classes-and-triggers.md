@@ -5,9 +5,9 @@ topic: set-package-versions-for-apex-classes-and-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.698Z
+lastCollected: 2026-03-12T09:33:33.720Z
 estimatedTokens: 2382
-keywords: [Set, Package, Versions, Apex, Classes, Triggers, managed, package, subscriber, specify, which, version, classes, triggers, use., Setup, through, metadata, deployments, API]
+keywords: [Package, Versions, Apex, Classes, Triggers, managed, subscriber, specify, version, Setup, metadata, deployments, API, requests]
 ---
 
 # Set Package Versions for Apex Classes and Triggers

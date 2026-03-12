@@ -5,9 +5,9 @@ topic: getenclosingprimarytabobjectid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.452Z
+lastCollected: 2026-03-12T09:33:55.564Z
 estimatedTokens: 315
-keywords: [getEnclosingPrimaryTabObjectId, current, primary, tab, which, contains, subtab., example, case, account, ID., works, within, only, API, version, 24.0, later., Syntax, Arguments]
+keywords: [getEnclosingPrimaryTabObjectId, current, primary, tab, subtab, case, account, works, API, version, 24.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # getEnclosingPrimaryTabObjectId()

@@ -5,9 +5,9 @@ topic: connectapibookmarkscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.213Z
+lastCollected: 2026-03-12T09:33:26.380Z
 estimatedTokens: 195
-keywords: [ConnectApi.BookmarksCapability, feed, element, capability, context, user, bookmark, it.]
+keywords: [ConnectApi.BookmarksCapability, feed, element, capability, context, user, bookmark]
 ---
 
 # ConnectApi.BookmarksCapability

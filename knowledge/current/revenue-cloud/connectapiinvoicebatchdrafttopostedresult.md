@@ -5,9 +5,9 @@ topic: connectapiinvoicebatchdrafttopostedresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.140Z
+lastCollected: 2026-03-12T09:33:07.168Z
 estimatedTokens: 141
-keywords: [ConnectApi.InvoiceBatchDraftToPostedResult, Output, representation, batch, update, details, invoices, Draft, Posted, status.]
+keywords: [Output, representation, batch, invoices, Draft, Posted, status]
 ---
 
 # ConnectApi.InvoiceBatchDraftToPostedResult

@@ -5,9 +5,9 @@ topic: resources-by-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.533Z
+lastCollected: 2026-03-12T09:33:35.378Z
 estimatedTokens: 128
-keywords: [Resources, Version, Lists, resources, specified, API, version, including, resource, name, URI., Syntax, Example]
+keywords: [Resources, Version, API, including, resource, URI]
 ---
 
 # Resources by Version

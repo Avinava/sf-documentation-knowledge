@@ -5,9 +5,9 @@ topic: externalclientappsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.604Z
+lastCollected: 2026-03-12T09:33:39.211Z
 estimatedTokens: 759
-keywords: [ExternalClientAppSettings, Represents, settings, enable, External, Client, App, feature, provide, access, OAuth, consumer, secret., Parent, Manifest, Access, File, Suffix, Directory, Location]
+keywords: [ExternalClientAppSettings, settings, enable, External, Client, App, feature, provide, access, OAuth, consumer, secret, Parent, Manifest, File]
 ---
 
 # ExternalClientAppSettings

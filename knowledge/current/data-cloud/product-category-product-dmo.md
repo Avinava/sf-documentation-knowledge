@@ -5,9 +5,9 @@ topic: product-category-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.785Z
+lastCollected: 2026-03-12T09:33:15.482Z
 estimatedTokens: 715
-keywords: [Product, Category, DMO, data, model, Data, Cloud, used, identify, how, products, assigned, categories., example, Northern, Trail, Outfitters, specific, running, shoe]
+keywords: [Product, Category, DMO, data, model, Cloud, identify, how, products, assigned, categories, Northern, Trail, Outfitters, specific]
 ---
 
 # Product Category Product DMO

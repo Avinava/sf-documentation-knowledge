@@ -5,9 +5,9 @@ topic: connectapifeeddirectory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.753Z
+lastCollected: 2026-03-12T09:33:25.931Z
 estimatedTokens: 73
-keywords: [ConnectApi.FeedDirectory, Directory, feeds, favorites.]
+keywords: [ConnectApi.FeedDirectory, Directory, feeds, favorites]
 ---
 
 # ConnectApi.FeedDirectory

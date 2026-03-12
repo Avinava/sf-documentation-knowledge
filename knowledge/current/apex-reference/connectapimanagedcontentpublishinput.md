@@ -5,9 +5,9 @@ topic: connectapimanagedcontentpublishinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.102Z
+lastCollected: 2026-03-12T09:33:25.337Z
 estimatedTokens: 260
-keywords: [ConnectApi.ManagedContentPublishInput, Input, publishing, content.]
+keywords: [ConnectApi.ManagedContentPublishInput, Input, publishing, content]
 ---
 
 # ConnectApi.ManagedContentPublishInput

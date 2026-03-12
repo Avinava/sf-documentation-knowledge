@@ -5,9 +5,9 @@ topic: platformcachepartition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.753Z
+lastCollected: 2026-03-12T09:33:41.212Z
 estimatedTokens: 881
-keywords: [PlatformCachePartition, Represents, partition, Platform, Cache., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [PlatformCachePartition, partition, Platform, Cache, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # PlatformCachePartition

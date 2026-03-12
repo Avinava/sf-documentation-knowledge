@@ -5,9 +5,9 @@ topic: connectapirepositoryfolderitemscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.891Z
+lastCollected: 2026-03-12T09:33:28.938Z
 estimatedTokens: 141
-keywords: [ConnectApi.RepositoryFolderItemsCollection, collection, repository, folder, items.]
+keywords: [collection, repository, folder, items]
 ---
 
 # ConnectApi.RepositoryFolderItemsCollection

@@ -5,9 +5,9 @@ topic: connectapipollcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.332Z
+lastCollected: 2026-03-12T09:33:25.542Z
 estimatedTokens: 240
-keywords: [ConnectApi.PollCapabilityInput, Create, update, vote, poll, feed, element.]
+keywords: [ConnectApi.PollCapabilityInput, vote, poll, feed, element]
 ---
 
 # ConnectApi.PollCapabilityInput

@@ -5,10 +5,10 @@ topic: externalservicetest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.131Z
+lastCollected: 2026-03-12T09:33:21.583Z
 estimatedTokens: 511
 namespace: System
-keywords: [ExternalServiceTest, Provides, test, external, service's, asynchronous, callouts, enables, sending, mock, request, asserts, expected, payload, then, triggers, mocked, service’s, callback, response.]
+keywords: [ExternalServiceTest, test, external, service's, asynchronous, callouts, sending, mock, asserts, expected, payload, triggers, mocked, service’s, callback]
 ---
 
 # ExternalServiceTest Class

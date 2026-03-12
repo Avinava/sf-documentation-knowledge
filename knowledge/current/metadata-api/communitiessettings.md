@@ -5,9 +5,9 @@ topic: communitiessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.783Z
+lastCollected: 2026-03-12T09:33:37.532Z
 estimatedTokens: 1744
-keywords: [CommunitiesSettings, Represents, community, settings, org., Enable, digital, experiences, workspaces., Manage, moderation, guest, user, partner, more., extends, Metadata, metadata, inherits, its]
+keywords: [CommunitiesSettings, community, settings, org, Enable, digital, experiences, workspaces, Manage, moderation, guest, user, partner, extends, Metadata]
 ---
 
 # CommunitiesSettings

@@ -5,9 +5,9 @@ topic: connectapiactioninfoinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.203Z
+lastCollected: 2026-03-12T09:33:24.494Z
 estimatedTokens: 108
-keywords: [ConnectApi.ActionInfoInputRepresentation, Recommended, action, information.]
+keywords: [Recommended, action]
 ---
 
 # ConnectApi.ActionInfoInputRepresentation

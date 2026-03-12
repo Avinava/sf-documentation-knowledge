@@ -5,9 +5,9 @@ topic: exception-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.714Z
+lastCollected: 2026-03-12T09:33:34.632Z
 estimatedTokens: 144
-keywords: [Exception, Handling, DML, statements, run-time, exceptions, something, went, wrong, database, during, execution, operations., handle, code, wrapping, within, try-catch, blocks., following]
+keywords: [Exception, Handling, DML, statements, run-time, exceptions, something, went, wrong, database, execution, operations, handle, code, wrapping]
 ---
 
 # Exception Handling

@@ -5,9 +5,9 @@ topic: connectapisequencesassignmentinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.085Z
+lastCollected: 2026-03-12T09:33:07.118Z
 estimatedTokens: 156
-keywords: [ConnectApi.SequencesAssignmentInputRepresentation, details, target, objects, which, sequence, pattern, values, assigned.]
+keywords: [target, objects, sequence, pattern, assigned]
 ---
 
 # ConnectApi.SequencesAssignmentInputRepresentation

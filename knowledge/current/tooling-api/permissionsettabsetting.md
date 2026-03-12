@@ -5,9 +5,9 @@ topic: permissionsettabsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.421Z
+lastCollected: 2026-03-12T09:33:45.532Z
 estimatedTokens: 448
-keywords: [PermissionSetTabSetting, Represents, tab’s, settings, profile, permission, set., manipulating, tab, visibility, profiles, sets., Tooling, API, version, 37.0, later., Supported, SOAP, Calls]
+keywords: [PermissionSetTabSetting, tab’s, settings, profile, permission, manipulating, tab, visibility, profiles, Tooling, API, version, 37.0, later, SOAP]
 ---
 
 # PermissionSetTabSetting

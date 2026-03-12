@@ -5,9 +5,9 @@ topic: create-application-form-party-financial-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.897Z
+lastCollected: 2026-03-12T09:33:48.646Z
 estimatedTokens: 171
-keywords: [Create, Application, Form, Party, Financial, Asset, Output, representation, request, create, party, financial, asset.]
+keywords: [Application, Form, Party, Financial, Asset, Output, representation]
 ---
 
 # Create Application Form Party Financial Asset

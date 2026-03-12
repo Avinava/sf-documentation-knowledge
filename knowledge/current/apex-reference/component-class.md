@@ -5,10 +5,10 @@ topic: component-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.742Z
+lastCollected: 2026-03-12T09:33:31.798Z
 estimatedTokens: 604
 namespace: ApexPages
-keywords: [Component, Represents, dynamic, Visualforce, component, Apex., Dynamic, childComponents, Example, expressions, facets, Usage, Note]
+keywords: [Component, dynamic, Visualforce, Apex, childComponents, expressions, facets, Usage]
 ---
 
 # Component Class

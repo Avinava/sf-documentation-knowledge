@@ -5,10 +5,10 @@ topic: triggercontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.534Z
+lastCollected: 2026-03-12T09:33:22.948Z
 estimatedTokens: 1524
 namespace: EventBus
-keywords: [TriggerContext, Provides, information, platform, event, change, trigger, that’s, currently, executing, such, how, many, times, retried, due, EventBus.RetryableException., provides, resume, executions.]
+keywords: [TriggerContext, platform, event, change, trigger, that’s, currently, executing, how, times, retried, due, EventBus.RetryableException, resume, executions]
 ---
 
 # TriggerContext Class

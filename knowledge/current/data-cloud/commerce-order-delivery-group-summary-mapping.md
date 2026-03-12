@@ -5,9 +5,9 @@ topic: commerce-order-delivery-group-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:13.231Z
+lastCollected: 2026-03-12T09:33:14.059Z
 estimatedTokens: 587
-keywords: [Commerce, Order, Delivery, Group, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud.]
+keywords: [Commerce, Order, Delivery, Group, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model]
 ---
 
 # Commerce: Order Delivery Group Summary Mapping

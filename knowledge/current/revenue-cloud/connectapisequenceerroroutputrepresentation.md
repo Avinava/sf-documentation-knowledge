@@ -5,9 +5,9 @@ topic: connectapisequenceerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.168Z
+lastCollected: 2026-03-12T09:33:07.194Z
 estimatedTokens: 101
-keywords: [ConnectApi.SequenceErrorOutputRepresentation, Output, representation, error, response, that's, associated, request, create, update, sequence, policy, assign, sequences.]
+keywords: [Output, representation, error, that's, associated, sequence, policy, assign, sequences]
 ---
 
 # ConnectApi.SequenceErrorOutputRepresentation

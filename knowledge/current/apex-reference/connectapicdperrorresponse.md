@@ -5,9 +5,9 @@ topic: connectapicdperrorresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.459Z
+lastCollected: 2026-03-12T09:33:26.611Z
 estimatedTokens: 109
-keywords: [ConnectApi.CdpErrorResponse, Error, response.]
+keywords: [ConnectApi.CdpErrorResponse, Error]
 ---
 
 # ConnectApi.CdpErrorResponse

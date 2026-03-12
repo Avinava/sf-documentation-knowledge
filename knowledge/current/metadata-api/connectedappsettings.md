@@ -5,9 +5,9 @@ topic: connectedappsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.897Z
+lastCollected: 2026-03-12T09:33:37.641Z
 estimatedTokens: 529
-keywords: [ConnectedAppSettings, Represents, settings, connected, apps., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [ConnectedAppSettings, settings, connected, apps, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # ConnectedAppSettings

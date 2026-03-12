@@ -5,10 +5,10 @@ topic: layoutsection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.448Z
+lastCollected: 2026-03-12T09:33:20.954Z
 estimatedTokens: 1218
 namespace: Metadata
-keywords: [LayoutSection, Represents, section, page, layout, such, Custom, Links, section., Usage, customLabel, detailHeading, editHeading, label, layoutColumns, style, clone]
+keywords: [LayoutSection, layout, Custom, Links, Usage, customLabel, detailHeading, editHeading, label, layoutColumns, style, clone]
 ---
 
 # LayoutSection Class

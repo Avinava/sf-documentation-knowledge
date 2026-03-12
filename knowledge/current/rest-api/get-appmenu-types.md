@@ -5,9 +5,9 @@ topic: get-appmenu-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.366Z
+lastCollected: 2026-03-12T09:33:35.219Z
 estimatedTokens: 94
-keywords: [Get, AppMenu, Types, list, App, Menu, types, Salesforce, app, dropdown, menu., resource, REST, API, version, 29.0, later., Syntax, Example]
+keywords: [AppMenu, App, Menu, Salesforce, dropdown, resource, REST, API, version, 29.0, later]
 ---
 
 # Get AppMenu Types

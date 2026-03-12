@@ -5,10 +5,10 @@ topic: sfdccheckout-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.724Z
+lastCollected: 2026-03-12T09:33:31.779Z
 estimatedTokens: 374
 namespace: The
-keywords: [Sfdc_Checkout, provides, classes, B2B, Commerce, apps, Salesforce., Sfdc, _Checkout]
+keywords: [Sfdc_Checkout, classes, B2B, Commerce, apps, Salesforce, Sfdc, _Checkout]
 ---
 
 # Sfdc_Checkout Namespace

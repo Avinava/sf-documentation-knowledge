@@ -5,9 +5,9 @@ topic: idempotency-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.790Z
+lastCollected: 2026-03-12T09:33:32.829Z
 estimatedTokens: 245
-keywords: [Idempotency, Guidelines, represents, ability, payment, gateway, recognize, duplicate, requests, submitted, either, error, maliciously, then, process, accordingly., working, idempotent, consider, important]
+keywords: [Idempotency, Guidelines, ability, payment, gateway, recognize, duplicate, requests, submitted, either, error, maliciously, process, accordingly, working]
 ---
 
 # Idempotency Guidelines

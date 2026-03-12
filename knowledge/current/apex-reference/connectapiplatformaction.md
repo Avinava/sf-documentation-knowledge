@@ -5,9 +5,9 @@ topic: connectapiplatformaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.400Z
+lastCollected: 2026-03-12T09:33:28.450Z
 estimatedTokens: 1058
-keywords: [ConnectApi.PlatformAction, platform, action, instance, state, information, context, user.]
+keywords: [ConnectApi.PlatformAction, platform, action, instance, state, context, user]
 ---
 
 # ConnectApi.PlatformAction

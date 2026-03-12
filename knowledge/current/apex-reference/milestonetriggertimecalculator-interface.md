@@ -5,10 +5,10 @@ topic: milestonetriggertimecalculator-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.156Z
+lastCollected: 2026-03-12T09:33:30.201Z
 estimatedTokens: 638
 namespace: Support
-keywords: [MilestoneTriggerTimeCalculator, Support.MilestoneTriggerTimeCalculator, calculates, time, trigger, milestone., calculateMilestoneTriggerTime, caseId, milestoneTypeId, Syntax, Example, Implementation]
+keywords: [MilestoneTriggerTimeCalculator, Support.MilestoneTriggerTimeCalculator, calculates, time, trigger, milestone, calculateMilestoneTriggerTime, caseId, milestoneTypeId, Implementation]
 ---
 
 # MilestoneTriggerTimeCalculator Interface

@@ -5,9 +5,9 @@ topic: read-sales-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.325Z
+lastCollected: 2026-03-12T09:33:09.861Z
 estimatedTokens: 182
-keywords: [Read, Sales, Transaction, Output, representation, request, read, sales, transaction.]
+keywords: [Sales, Transaction, Output, representation]
 ---
 
 # Read Sales Transaction

@@ -5,9 +5,9 @@ topic: dynamicmenuitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.595Z
+lastCollected: 2026-03-12T09:33:23.010Z
 estimatedTokens: 1772
-keywords: [DynamicMenuItem, Contains, define, hold, details, single, dynamic, menu, item, contains, information, related, such, identifiers, labels, summaries, sorting, logic., enables, bots]
+keywords: [DynamicMenuItem, define, hold, dynamic, menu, item, identifiers, labels, summaries, sorting, logic, bots, present, context-aware, user-relevant]
 ---
 
 # DynamicMenuItem Class

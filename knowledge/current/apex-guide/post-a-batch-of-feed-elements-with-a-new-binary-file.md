@@ -5,9 +5,9 @@ topic: post-a-batch-of-feed-elements-with-a-new-binary-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.412Z
+lastCollected: 2026-03-12T09:33:34.373Z
 estimatedTokens: 218
-keywords: [Post, Batch, Feed, Elements, New, Binary, File, trigger, call, bulk, post, new, file, feeds, accounts., Important]
+keywords: [Post, Batch, Feed, Elements, New, Binary, File, trigger, call, bulk, feeds, accounts]
 ---
 
 # Post a Batch of Feed Elements with a New (Binary) File

@@ -5,9 +5,9 @@ topic: virtualvisitconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.572Z
+lastCollected: 2026-03-12T09:33:42.847Z
 estimatedTokens: 1491
-keywords: [VirtualVisitConfig, Represents, external, video, provider, configuration, which, relays, events, Salesforce, provider., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [VirtualVisitConfig, external, video, provider, configuration, relays, events, Salesforce, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # VirtualVisitConfig

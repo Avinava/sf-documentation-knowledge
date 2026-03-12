@@ -5,9 +5,9 @@ topic: invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.335Z
+lastCollected: 2026-03-12T09:33:35.192Z
 estimatedTokens: 355
-keywords: [Invocable, Actions, Represents, standard, custom, invocable, actions., actions, add, functionality, applications., Choose, such, posting, Chatter, sending, email, create, based, company’s]
+keywords: [Invocable, Actions, standard, custom, add, functionality, applications, Choose, posting, Chatter, sending, email, company’s, needs]
 ---
 
 # Invocable Actions

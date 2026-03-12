@@ -5,9 +5,9 @@ topic: getsublocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.363Z
+lastCollected: 2026-03-12T09:33:20.021Z
 estimatedTokens: 235
-keywords: [getSublocation, Retrieves, display, sublocation, where, canvas, app, being, called, from., Usage]
+keywords: [getSublocation, Retrieves, display, sublocation, canvas, app, Usage]
 ---
 
 # getSublocation()

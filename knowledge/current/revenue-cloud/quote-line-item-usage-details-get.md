@@ -5,9 +5,9 @@ topic: quote-line-item-usage-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.138Z
+lastCollected: 2026-03-12T09:33:08.902Z
 estimatedTokens: 441
-keywords: [Quote, Line, Item, Usage, Details, GET, Get, details, usage-based, product, associated, quote, line, item.]
+keywords: [Quote, Line, Item, Usage, usage-based, product, associated]
 ---
 
 # Quote Line Item Usage Details (GET)

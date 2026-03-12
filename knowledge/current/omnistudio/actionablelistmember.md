@@ -5,9 +5,9 @@ topic: actionablelistmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:53.293Z
+lastCollected: 2026-03-12T09:33:51.804Z
 estimatedTokens: 1647
-keywords: [ActionableListMember, Represents, individual, actionable, list, item., API, version, 57.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ActionableListMember, individual, actionable, item, API, version, 57.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ActionableListMember

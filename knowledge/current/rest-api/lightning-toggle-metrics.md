@@ -5,9 +5,9 @@ topic: lightning-toggle-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.609Z
+lastCollected: 2026-03-12T09:33:35.448Z
 estimatedTokens: 180
-keywords: [Lightning, Toggle, Metrics, details, users, who, switched, between, Salesforce, Classic, Experience., resource, REST, API, version, 44.0, later., Syntax, Example]
+keywords: [Lightning, Toggle, Metrics, users, switched, Salesforce, Classic, Experience, resource, REST, API, version, 44.0, later]
 ---
 
 # Lightning Toggle Metrics

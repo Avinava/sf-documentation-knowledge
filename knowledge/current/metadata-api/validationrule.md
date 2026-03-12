@@ -5,9 +5,9 @@ topic: validationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.559Z
+lastCollected: 2026-03-12T09:33:42.836Z
 estimatedTokens: 818
-keywords: [ValidationRule, Represents, validation, rule, which, used, verify, data, user, enters, record, valid, saved., contains, formula, expression, evaluates, fields, true, false.]
+keywords: [ValidationRule, validation, rule, verify, data, user, enters, record, saved, formula, expression, evaluates, rules, include, error]
 ---
 
 # ValidationRule

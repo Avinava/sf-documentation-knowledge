@@ -5,9 +5,9 @@ topic: connectapiqueryinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.700Z
+lastCollected: 2026-03-12T09:33:28.738Z
 estimatedTokens: 129
-keywords: [ConnectApi.QueryInfo, Query, execution, information.]
+keywords: [ConnectApi.QueryInfo, Query, execution]
 ---
 
 # ConnectApi.QueryInfo

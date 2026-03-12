@@ -5,10 +5,10 @@ topic: environmentcontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.968Z
+lastCollected: 2026-03-12T09:33:30.036Z
 estimatedTokens: 174
 namespace: Canvas
-keywords: [EnvironmentContext, retrieve, environment, context, information, such, app, display, location, configuration, parameters., Usage]
+keywords: [EnvironmentContext, retrieve, environment, context, app, display, location, configuration, Usage]
 ---
 
 # EnvironmentContext Interface

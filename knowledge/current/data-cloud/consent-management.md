@@ -5,9 +5,9 @@ topic: consent-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.165Z
+lastCollected: 2026-03-12T09:33:13.102Z
 estimatedTokens: 445
-keywords: [Consent, Management, Engagement, Mobile, SDK, offers, managed, solution, allowing, restricting, collection, event, data., mobile, application, responsible, presenting, device, owner, choice]
+keywords: [Consent, Management, Engagement, Mobile, SDK, offers, managed, solution, allowing, restricting, collection, event, data, application, responsible]
 ---
 
 # Consent Management

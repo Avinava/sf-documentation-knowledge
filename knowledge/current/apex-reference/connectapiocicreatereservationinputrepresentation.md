@@ -5,9 +5,9 @@ topic: connectapiocicreatereservationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.217Z
+lastCollected: 2026-03-12T09:33:25.444Z
 estimatedTokens: 345
-keywords: [ConnectApi.OCICreateReservationInputRepresentation, Data, reserve, inventory, Omnichannel, Inventory, locations, location, groups.]
+keywords: [Data, reserve, inventory, Omnichannel, locations, location, groups]
 ---
 
 # ConnectApi.OCICreateReservationInputRepresentation

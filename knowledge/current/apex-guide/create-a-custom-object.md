@@ -5,9 +5,9 @@ topic: create-a-custom-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.850Z
+lastCollected: 2026-03-12T09:33:33.864Z
 estimatedTokens: 490
-keywords: [Create, Custom, step, create, custom, called, Book, field, Price.]
+keywords: [Custom, step, Book, Price]
 ---
 
 # Create a Custom Object

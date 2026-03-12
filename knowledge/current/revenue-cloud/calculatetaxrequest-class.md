@@ -5,10 +5,10 @@ topic: calculatetaxrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.400Z
+lastCollected: 2026-03-12T09:33:06.488Z
 estimatedTokens: 2509
 namespace: CommerceTax
-keywords: [CalculateTaxRequest, Represents, request, external, tax, engine, calculate, tax., Extends, TaxTransactionRequest, top-level, class., Usage, Example, taxType, isCommit, isHeaderTaxRequested, shouldVoidTax, taxTransactionType, equals]
+keywords: [CalculateTaxRequest, external, tax, engine, calculate, Extends, TaxTransactionRequest, top-level, Usage, taxType, isCommit, isHeaderTaxRequested, shouldVoidTax, taxTransactionType, equals]
 ---
 
 # CalculateTaxRequest Class

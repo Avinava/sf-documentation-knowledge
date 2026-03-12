@@ -5,10 +5,10 @@ topic: commercebuygrp-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.528Z
+lastCollected: 2026-03-12T09:33:31.582Z
 estimatedTokens: 502
 namespace: CommerceBuyGrp
-keywords: [CommerceBuyGrp, provides, classes, retrieving, information, buyer, groups, associated, user.]
+keywords: [CommerceBuyGrp, classes, retrieving, buyer, groups, associated, user]
 ---
 
 # CommerceBuyGrp Namespace

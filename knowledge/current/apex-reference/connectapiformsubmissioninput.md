@@ -5,9 +5,9 @@ topic: connectapiformsubmissioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.962Z
+lastCollected: 2026-03-12T09:33:25.207Z
 estimatedTokens: 78
-keywords: [ConnectApi.FormSubmissionInput, Marketing, integration, form, submission.]
+keywords: [ConnectApi.FormSubmissionInput, Marketing, integration, form, submission]
 ---
 
 # ConnectApi.FormSubmissionInput

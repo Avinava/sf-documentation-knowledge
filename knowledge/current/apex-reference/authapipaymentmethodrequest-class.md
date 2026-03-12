@@ -5,10 +5,10 @@ topic: authapipaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.747Z
+lastCollected: 2026-03-12T09:33:22.170Z
 estimatedTokens: 995
 namespace: CommercePayments
-keywords: [AuthApiPaymentMethodRequest, Sends, information, payment, gateway, adapter, during, authorization, service, call., Usage, cardPaymentMethodRequest, cardPaymentMethod]
+keywords: [AuthApiPaymentMethodRequest, payment, gateway, adapter, authorization, service, call, Usage, cardPaymentMethodRequest, cardPaymentMethod]
 ---
 
 # AuthApiPaymentMethodRequest Class

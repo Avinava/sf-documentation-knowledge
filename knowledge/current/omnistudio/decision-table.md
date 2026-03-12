@@ -5,9 +5,9 @@ topic: decision-table
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.986Z
+lastCollected: 2026-03-12T09:33:49.665Z
 estimatedTokens: 405
-keywords: [Decision, Table, decision, table, provides, outcomes, fields, standard, custom, based, business, rules, define., part, metadata, type.]
+keywords: [Decision, outcomes, standard, custom, business, rules, define, part, metadata]
 ---
 
 # Decision Table

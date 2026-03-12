@@ -5,10 +5,10 @@ topic: collator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.090Z
+lastCollected: 2026-03-12T09:33:21.542Z
 estimatedTokens: 867
 namespace: System
-keywords: [Collator, Contains, get, locale-specific, instances, used, comparisons, sorting., getInstance, obtain, instance, given, locale, pass, Comparator, list.sort, method., Usage, Example, compare]
+keywords: [Collator, locale-specific, instances, comparisons, sorting, getInstance, obtain, instance, locale, pass, Comparator, list.sort, Usage, compare, source]
 ---
 
 # Collator Class

@@ -5,10 +5,10 @@ topic: deploycontainer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.334Z
+lastCollected: 2026-03-12T09:33:20.843Z
 estimatedTokens: 1074
 namespace: Metadata
-keywords: [DeployContainer, Represents, container, custom, metadata, components, deployed., Usage, Example, addMetadata, clone, getMetadata, removeMetadata, removeMetadataByFullName, fullName]
+keywords: [DeployContainer, container, custom, metadata, components, deployed, Usage, addMetadata, clone, getMetadata, removeMetadata, removeMetadataByFullName, fullName]
 ---
 
 # DeployContainer Class

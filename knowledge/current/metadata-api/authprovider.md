@@ -5,9 +5,9 @@ topic: authprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:37.131Z
+lastCollected: 2026-03-12T09:33:36.917Z
 estimatedTokens: 3982
-keywords: [AuthProvider, Represents, authentication, provider, auth, lets, users, log, Salesforce, external, service, such, Facebook, Google, GitHub., extends, Metadata, metadata, inherits, its]
+keywords: [AuthProvider, authentication, provider, auth, lets, users, log, Salesforce, external, service, Facebook, Google, GitHub, extends, Metadata]
 ---
 
 # AuthProvider

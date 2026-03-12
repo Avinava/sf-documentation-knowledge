@@ -5,9 +5,9 @@ topic: workorderlineitem-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.382Z
+lastCollected: 2026-03-12T09:33:53.704Z
 estimatedTokens: 662
-keywords: [WorkOrderLineItem, Custom, Fields, fields, associated, subtask, work, order, field, service., Supported, Calls, Special, Access, Rules]
+keywords: [WorkOrderLineItem, Custom, associated, subtask, work, order, service, Calls, Special, Access, Rules]
 ---
 
 # WorkOrderLineItem Custom Fields

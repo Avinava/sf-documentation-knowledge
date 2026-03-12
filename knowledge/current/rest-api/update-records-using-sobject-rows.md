@@ -5,9 +5,9 @@ topic: update-records-using-sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.098Z
+lastCollected: 2026-03-12T09:33:35.943Z
 estimatedTokens: 1096
-keywords: [Update, Records, sObject, Rows, Updates, record, based, specified, ID., Field, values, provided, request, body, replace, existing, record., resource, used, external]
+keywords: [Records, sObject, Rows, Updates, record, provided, replace, resource, external, objects, API, version, 32.0, later]
 ---
 
 # Update Records Using sObject Rows

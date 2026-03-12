@@ -5,10 +5,10 @@ topic: function-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.576Z
+lastCollected: 2026-03-12T09:33:22.990Z
 estimatedTokens: 2889
 namespace: RuntimeException
-keywords: [Function, access, deployed, Salesforce, Functions, invoke, synchronously, asynchronously., Usage, Example, get, functionName, payload, callback]
+keywords: [Function, access, deployed, Salesforce, Functions, invoke, synchronously, asynchronously, Usage, functionName, payload, callback]
 ---
 
 # Function Class

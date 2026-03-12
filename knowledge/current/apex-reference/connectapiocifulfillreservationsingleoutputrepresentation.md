@@ -5,9 +5,9 @@ topic: connectapiocifulfillreservationsingleoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.117Z
+lastCollected: 2026-03-12T09:33:28.149Z
 estimatedTokens: 160
-keywords: [ConnectApi.OCIFulfillReservationSingleOutputRepresentation, Details, single, fulfilled, reservation.]
+keywords: [fulfilled, reservation]
 ---
 
 # ConnectApi.OCIFulfillReservationSingleOutputRepresentation

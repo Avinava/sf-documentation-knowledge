@@ -5,9 +5,9 @@ topic: billingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.744Z
+lastCollected: 2026-03-12T09:33:10.989Z
 estimatedTokens: 694
-keywords: [BillingPolicy, Represents, information, set, billing, treatments, define, rules, invoice, customer, order, item., API, version, 62.0, later., Supported, Calls, Special, Access]
+keywords: [BillingPolicy, billing, treatments, define, rules, invoice, customer, order, item, API, version, 62.0, later, Calls, Special]
 ---
 
 # BillingPolicy

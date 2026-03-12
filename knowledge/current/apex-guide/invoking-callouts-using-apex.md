@@ -5,9 +5,9 @@ topic: invoking-callouts-using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.309Z
+lastCollected: 2026-03-12T09:33:32.345Z
 estimatedTokens: 829
-keywords: [Invoking, Callouts, Apex, Before, any, callout, call, external, site, must, registered, Remote, Site, Settings, page, fails., Salesforce, prevents, calls, unauthorized]
+keywords: [Invoking, Callouts, Apex, any, callout, call, external, site, registered, Remote, Settings, fails, Salesforce, prevents, calls]
 ---
 
 # Invoking Callouts Using Apex

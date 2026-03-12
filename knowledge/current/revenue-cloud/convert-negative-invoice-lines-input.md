@@ -5,9 +5,9 @@ topic: convert-negative-invoice-lines-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.966Z
+lastCollected: 2026-03-12T09:33:07.873Z
 estimatedTokens: 197
-keywords: [Convert, Negative, Invoice, Lines, Input, representation, details, request, convert, list, negative, invoice, lines, credit.]
+keywords: [Convert, Negative, Invoice, Lines, Input, representation, credit]
 ---
 
 # Convert Negative Invoice Lines Input

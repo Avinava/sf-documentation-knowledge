@@ -5,9 +5,9 @@ topic: relatedlistcolumndefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.640Z
+lastCollected: 2026-03-12T09:33:45.740Z
 estimatedTokens: 589
-keywords: [RelatedListColumnDefinition, Represents, information, column, related, list., list, specifies, set, records, based, specific, criteria., API, version, 55.0, later., Supported, SOAP, Calls]
+keywords: [RelatedListColumnDefinition, column, records, specific, criteria, API, version, 55.0, later, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # RelatedListColumnDefinition

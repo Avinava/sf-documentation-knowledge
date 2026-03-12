@@ -5,9 +5,9 @@ topic: expression-set-condition-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.372Z
+lastCollected: 2026-03-12T09:33:47.378Z
 estimatedTokens: 247
-keywords: [Expression, Set, Condition, Criteria, Input, representation, condition, criteria, expression, set.]
+keywords: [Expression, Condition, Criteria, Input, representation]
 ---
 
 # Expression Set Condition Criteria Input

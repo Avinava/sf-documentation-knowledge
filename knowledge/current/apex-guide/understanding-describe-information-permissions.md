@@ -5,9 +5,9 @@ topic: understanding-describe-information-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.318Z
+lastCollected: 2026-03-12T09:33:33.365Z
 estimatedTokens: 391
-keywords: [Understanding, Describe, Information, Permissions, Apex, classes, triggers, run, system, mode., Classes, restrictions, dynamically, looking, any, sObject, org., generate, map, sObjects]
+keywords: [Understanding, Describe, Permissions, Apex, classes, triggers, run, system, mode, restrictions, dynamically, looking, any, sObject, org]
 ---
 
 # Understanding Describe Information Permissions

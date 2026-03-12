@@ -6,9 +6,9 @@ topic: open-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.063Z
+lastCollected: 2026-03-12T09:33:56.145Z
 estimatedTokens: 258
-keywords: [open, Lightning, Experience, Opens, utility., utility, already, effect., Only, time., another, minimizes, Web, Components, LWC, only., Arguments, Sample, Code, Response]
+keywords: [open, Lightning, Experience, Opens, utility, already, effect, time, another, minimizes, Web, Components, LWC, Arguments, Sample]
 ---
 
 # open() for Lightning Experience for Lightning

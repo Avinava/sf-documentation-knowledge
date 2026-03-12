@@ -5,9 +5,9 @@ topic: calculation-procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.913Z
+lastCollected: 2026-03-12T09:33:47.838Z
 estimatedTokens: 213
-keywords: [Calculation, Procedure, Retrieve, details, given, expression, set, known, calculation, procedure, record., Note]
+keywords: [Calculation, Procedure, Retrieve, expression, known, record]
 ---
 
 # Calculation Procedure

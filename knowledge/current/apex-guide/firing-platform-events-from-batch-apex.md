@@ -5,9 +5,9 @@ topic: firing-platform-events-from-batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.259Z
+lastCollected: 2026-03-12T09:33:32.299Z
 estimatedTokens: 958
-keywords: [Firing, Platform, Events, Batch, Apex, classes, fire, platform, events, encountering, error, exception., Clients, listening, event, obtain, actionable, information, such, how]
+keywords: [Firing, Platform, Events, Batch, Apex, classes, fire, encountering, error, exception, Clients, listening, event, obtain, actionable]
 ---
 
 # Firing Platform Events from Batch Apex

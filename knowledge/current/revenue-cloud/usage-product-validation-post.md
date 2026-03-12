@@ -5,9 +5,9 @@ topic: usage-product-validation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.266Z
+lastCollected: 2026-03-12T09:33:09.016Z
 estimatedTokens: 262
-keywords: [Usage, Product, Validation, POST, Validate, cross-object, relationships, business, rules, usage-based, products.]
+keywords: [Usage, Product, Validation, POST, Validate, cross-object, relationships, business, rules, usage-based, products]
 ---
 
 # Usage Product Validation (POST)

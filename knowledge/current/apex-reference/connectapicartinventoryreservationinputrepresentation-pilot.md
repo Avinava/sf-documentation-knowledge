@@ -5,9 +5,9 @@ topic: connectapicartinventoryreservationinputrepresentation-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.500Z
+lastCollected: 2026-03-12T09:33:24.772Z
 estimatedTokens: 239
-keywords: [ConnectApi.CartInventoryReservationInputRepresentation, Pilot, Input, representation, create, update, reservation., Note]
+keywords: [Pilot, Input, representation, reservation]
 ---
 
 # ConnectApi.CartInventoryReservationInputRepresentation (Pilot)

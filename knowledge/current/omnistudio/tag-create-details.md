@@ -5,9 +5,9 @@ topic: tag-create-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.800Z
+lastCollected: 2026-03-12T09:33:49.441Z
 estimatedTokens: 90
-keywords: [Tag, Create, Details, Output, representation, tag, creation, results.]
+keywords: [Tag, Output, representation, creation, results]
 ---
 
 # Tag Create Details

@@ -5,9 +5,9 @@ topic: data-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.890Z
+lastCollected: 2026-03-12T09:33:34.785Z
 estimatedTokens: 277
-keywords: [Data, Access, Control, Lightning, Platform, makes, extensive, data, sharing, rules., permissions, settings, users, read, create, edit, delete., enforced, standard, controllers.]
+keywords: [Data, Access, Control, Lightning, Platform, extensive, sharing, rules, permissions, settings, users, edit, enforced, standard, controllers]
 ---
 
 # Data Access Control

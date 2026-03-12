@@ -5,9 +5,9 @@ topic: serviceterritory-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.366Z
+lastCollected: 2026-03-12T09:33:53.687Z
 estimatedTokens: 793
-keywords: [ServiceTerritory, Custom, Fields, fields, associated, geographic, functional, region, which, field, service, work, performed, Field, Service., Supported, Calls, Special, Access, Rules]
+keywords: [ServiceTerritory, Custom, associated, geographic, functional, region, service, work, performed, Calls, Special, Access, Rules, Internal]
 ---
 
 # ServiceTerritory Custom Fields

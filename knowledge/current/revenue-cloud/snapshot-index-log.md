@@ -5,9 +5,9 @@ topic: snapshot-index-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.526Z
+lastCollected: 2026-03-12T09:33:09.992Z
 estimatedTokens: 258
-keywords: [Snapshot, Index, Log, Output, representation, snapshot, index, log.]
+keywords: [Snapshot, Index, Log, Output, representation]
 ---
 
 # Snapshot Index Log

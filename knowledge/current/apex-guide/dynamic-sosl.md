@@ -5,9 +5,9 @@ topic: dynamic-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.329Z
+lastCollected: 2026-03-12T09:33:33.376Z
 estimatedTokens: 837
-keywords: [Dynamic, SOSL, refers, creation, run, time, Apex, code., enables, create, flexible, applications., example, search, based, input, end, user, update, records]
+keywords: [Dynamic, SOSL, refers, creation, run, time, Apex, code, flexible, applications, search, input, end, user, records]
 ---
 
 # Dynamic SOSL

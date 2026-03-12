@@ -5,9 +5,9 @@ topic: timeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.740Z
+lastCollected: 2026-03-12T09:33:54.939Z
 estimatedTokens: 1073
-keywords: [TimeSlot, Represents, period, time, specified, day, week, during, which, work, performed, Field, Service, Salesforce, Scheduler, Workforce, Engagement., Operating, hours, consist]
+keywords: [TimeSlot, period, time, day, week, work, performed, Service, Salesforce, Scheduler, Workforce, Engagement, Operating, hours, consist]
 ---
 
 # TimeSlot

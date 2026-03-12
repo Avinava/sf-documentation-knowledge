@@ -5,10 +5,10 @@ topic: invocable-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.555Z
+lastCollected: 2026-03-12T09:33:31.610Z
 estimatedTokens: 198
 namespace: Invocable
-keywords: [Invocable, provides, classes, calling, invocable, actions, Apex.]
+keywords: [Invocable, classes, calling, actions, Apex]
 ---
 
 # Invocable Namespace

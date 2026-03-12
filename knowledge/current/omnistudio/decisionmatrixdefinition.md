@@ -5,9 +5,9 @@ topic: decisionmatrixdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:52.128Z
+lastCollected: 2026-03-12T09:33:50.737Z
 estimatedTokens: 1465
-keywords: [DecisionMatrixDefinition, Represents, definition, decision, matrix., Note, File, Suffix, Directory, Location, Version, Fields, DecisionMatrixDefinitionVersion, DecisionMatrixDefinitionVersionColumn​​, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [DecisionMatrixDefinition, definition, decision, matrix, File, Suffix, Directory, Location, Version, DecisionMatrixDefinitionVersion, DecisionMatrixDefinitionVersionColumn​​, Declarative, Metadata, Sample, Wildcard, API, version, 55.0, later, SOAP]
 ---
 
 # DecisionMatrixDefinition

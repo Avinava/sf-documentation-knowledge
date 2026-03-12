@@ -5,9 +5,9 @@ topic: getpartyincomestatuslabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.739Z
+lastCollected: 2026-03-12T09:33:29.771Z
 estimatedTokens: 64
-keywords: [GetPartyIncomeStatusLabel, picklist, values, party, income, status, field, entity.]
+keywords: [GetPartyIncomeStatusLabel, picklist, party, income, status, entity]
 ---
 
 # GetPartyIncomeStatusLabel

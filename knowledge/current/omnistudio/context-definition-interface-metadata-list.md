@@ -5,9 +5,9 @@ topic: context-definition-interface-metadata-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.809Z
+lastCollected: 2026-03-12T09:33:48.582Z
 estimatedTokens: 195
-keywords: [Context, Definition, Metadata, List, Output, representation, metadata, list, associated, context, definition, interfaces.]
+keywords: [Context, Definition, Metadata, Output, representation, associated, interfaces]
 ---
 
 # Context Definition Interface Metadata List

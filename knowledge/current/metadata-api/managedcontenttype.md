@@ -5,9 +5,9 @@ topic: managedcontenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:41.021Z
+lastCollected: 2026-03-12T09:33:40.512Z
 estimatedTokens: 1739
-keywords: [ManagedContentType, Represents, definition, custom, content, types, Salesforce, CMS., Custom, displayed, forms, defined, fields., Important, File, Suffix, Directory, Location, Version, Special]
+keywords: [ManagedContentType, definition, custom, content, Salesforce, CMS, forms, defined, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # ManagedContentType

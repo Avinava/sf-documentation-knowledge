@@ -5,9 +5,9 @@ topic: listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.897Z
+lastCollected: 2026-03-12T09:33:40.393Z
 estimatedTokens: 2017
-keywords: [ListView, allows, filtered, list, records, such, contacts, accounts, custom, objects., Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ListViewFilter]
+keywords: [ListView, filtered, records, contacts, accounts, custom, objects, Declarative, Metadata, File, Suffix, Directory, Location, Version, ListViewFilter]
 ---
 
 # ListView

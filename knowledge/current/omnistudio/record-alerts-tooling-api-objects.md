@@ -5,9 +5,9 @@ topic: record-alerts-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.966Z
+lastCollected: 2026-03-12T09:33:51.539Z
 estimatedTokens: 252
-keywords: [Record, Alerts, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow]
+keywords: [Record, Alerts, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---
 
 # Record Alerts Tooling API Objects

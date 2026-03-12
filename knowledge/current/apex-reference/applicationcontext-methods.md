@@ -5,9 +5,9 @@ topic: applicationcontext-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.319Z
+lastCollected: 2026-03-12T09:33:19.986Z
 estimatedTokens: 264
-keywords: [ApplicationContext, following, ApplicationContext.]
+keywords: [ApplicationContext]
 ---
 
 # ApplicationContext Methods

@@ -5,9 +5,9 @@ topic: emailservicesfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.155Z
+lastCollected: 2026-03-12T09:33:38.804Z
 estimatedTokens: 2573
-keywords: [EmailServicesFunction, Represents, email, service., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, EmailServicesAddress, Wildcard, Support]
+keywords: [EmailServicesFunction, email, service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, EmailServicesAddress, Wildcard, Support]
 ---
 
 # EmailServicesFunction

@@ -5,10 +5,10 @@ topic: commerceorders-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.309Z
+lastCollected: 2026-03-12T09:33:07.323Z
 estimatedTokens: 898
 namespace: CommerceOrders
-keywords: [CommerceOrders, provides, classes, place, orders, integrated, pricing, configuration, validation., Note]
+keywords: [CommerceOrders, classes, place, orders, integrated, pricing, configuration, validation]
 ---
 
 # CommerceOrders Namespace

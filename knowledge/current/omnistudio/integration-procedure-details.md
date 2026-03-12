@@ -5,9 +5,9 @@ topic: integration-procedure-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.476Z
+lastCollected: 2026-03-12T09:33:47.474Z
 estimatedTokens: 147
-keywords: [Integration, Procedure, Details, Input, representation, details, integration, procedures, clear, cache, for.]
+keywords: [Integration, Procedure, Input, representation, procedures, clear, cache]
 ---
 
 # Integration Procedure Details

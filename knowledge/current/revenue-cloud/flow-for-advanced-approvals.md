@@ -5,9 +5,9 @@ topic: flow-for-advanced-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:04.100Z
+lastCollected: 2026-03-12T09:33:06.218Z
 estimatedTokens: 481
-keywords: [Flow, Advanced, Approvals, flow, represents, metadata, associated, flow., create, application, takes, users, through, series, pages, query, update, records, database., run]
+keywords: [Flow, Advanced, Approvals, metadata, associated, application, users, series, pages, query, records, database, run, logic, provide]
 ---
 
 # Flow for Advanced Approvals

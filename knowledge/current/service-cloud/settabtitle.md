@@ -5,9 +5,9 @@ topic: settabtitle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.493Z
+lastCollected: 2026-03-12T09:33:56.541Z
 estimatedTokens: 323
-keywords: [setTabTitle, title, primary, tab, subtab., only, API, version, 20.0, later., Syntax, Arguments, Sample, Code–Visualforce, Version, Later, Note, Response, 25.0]
+keywords: [setTabTitle, title, primary, tab, subtab, API, version, 20.0, later, Arguments, Sample, Code–Visualforce, 25.0]
 ---
 
 # setTabTitle()

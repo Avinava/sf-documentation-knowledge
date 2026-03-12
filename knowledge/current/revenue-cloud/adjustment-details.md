@@ -5,9 +5,9 @@ topic: adjustment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.305Z
+lastCollected: 2026-03-12T09:33:09.050Z
 estimatedTokens: 137
-keywords: [Adjustment, Details, Output, representation, pricing, adjustment, request., rate]
+keywords: [Adjustment, Output, representation, pricing, rate]
 ---
 
 # Adjustment Details

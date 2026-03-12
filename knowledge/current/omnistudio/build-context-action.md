@@ -5,9 +5,9 @@ topic: build-context-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.256Z
+lastCollected: 2026-03-12T09:33:46.314Z
 estimatedTokens: 523
-keywords: [Build, Context, Action, cache, context, data, associated, definition., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Usage, Example]
+keywords: [Build, Context, Action, cache, data, associated, definition, Special, Access, Rules, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Build Context Action

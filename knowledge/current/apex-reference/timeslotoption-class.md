@@ -5,10 +5,10 @@ topic: timeslotoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.790Z
+lastCollected: 2026-03-12T09:33:21.353Z
 estimatedTokens: 1316
 namespace: RichMessaging
-keywords: [TimeSlotOption, Represents, complex, time, slot, option, type., used, provide, payloads, translated, structured, content, rich, messages., startTime, endTime, duration, durationValue, endTimeValue]
+keywords: [TimeSlotOption, complex, time, slot, option, provide, payloads, translated, structured, content, rich, messages, startTime, endTime, duration]
 ---
 
 # TimeSlotOption Class

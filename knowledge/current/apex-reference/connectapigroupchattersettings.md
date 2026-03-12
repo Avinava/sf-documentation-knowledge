@@ -5,9 +5,9 @@ topic: connectapigroupchattersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.798Z
+lastCollected: 2026-03-12T09:33:25.976Z
 estimatedTokens: 73
-keywords: [ConnectApi.GroupChatterSettings, user’s, Chatter, settings, specific, group.]
+keywords: [ConnectApi.GroupChatterSettings, user’s, Chatter, settings, specific, group]
 ---
 
 # ConnectApi.GroupChatterSettings

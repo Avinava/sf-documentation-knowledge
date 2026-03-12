@@ -5,9 +5,9 @@ topic: query-context-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.695Z
+lastCollected: 2026-03-12T09:33:47.638Z
 estimatedTokens: 137
-keywords: [Query, Context, Record, Input, representation, query, context, record.]
+keywords: [Query, Context, Record, Input, representation]
 ---
 
 # Query Context Record Input

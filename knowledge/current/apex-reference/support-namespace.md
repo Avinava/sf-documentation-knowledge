@@ -5,10 +5,10 @@ topic: support-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:31.609Z
+lastCollected: 2026-03-12T09:33:31.664Z
 estimatedTokens: 204
 namespace: Support
-keywords: [Support, provides, used, Case, Feed.]
+keywords: [Support, Case, Feed]
 ---
 
 # Support Namespace

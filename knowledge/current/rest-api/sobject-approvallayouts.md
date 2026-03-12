@@ -5,9 +5,9 @@ topic: sobject-approvallayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.947Z
+lastCollected: 2026-03-12T09:33:35.795Z
 estimatedTokens: 288
-keywords: [sObject, ApprovalLayouts, Retrieve, list, approval, layouts, specified, object., resource, REST, API, version, 30.0, later.]
+keywords: [sObject, ApprovalLayouts, Retrieve, approval, layouts, resource, REST, API, version, 30.0, later]
 ---
 
 # sObject ApprovalLayouts

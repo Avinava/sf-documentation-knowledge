@@ -5,9 +5,9 @@ topic: moderationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.121Z
+lastCollected: 2026-03-12T09:33:45.276Z
 estimatedTokens: 1118
-keywords: [ModerationRule, Represents, rule, used, Experience, Cloud, site, moderate, member-generated, content., Tooling, API, version, 36.0, later., Supported, SOAP, Calls, REST, HTTP]
+keywords: [ModerationRule, rule, Experience, Cloud, site, moderate, member-generated, content, Tooling, API, version, 36.0, later, SOAP, Calls]
 ---
 
 # ModerationRule

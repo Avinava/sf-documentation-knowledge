@@ -5,9 +5,9 @@ topic: usage-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.990Z
+lastCollected: 2026-03-12T09:33:12.908Z
 estimatedTokens: 273
-keywords: [Usage, Management, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Usage, Management, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Usage Management Metadata API Types

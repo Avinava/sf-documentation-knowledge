@@ -5,9 +5,9 @@ topic: sobject-relevant-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.875Z
+lastCollected: 2026-03-12T09:33:35.717Z
 estimatedTokens: 812
-keywords: [sObject, Relevant, Items, current, user’s, most, relevant, items., items, include, records, objects, search, scope, recently, used, MRU, objects., Note, Syntax]
+keywords: [sObject, Relevant, Items, current, user’s, include, records, objects, search, scope, recently, MRU]
 ---
 
 # sObject Relevant Items

@@ -5,10 +5,10 @@ topic: dategranularity-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.695Z
+lastCollected: 2026-03-12T09:33:29.730Z
 estimatedTokens: 274
 namespace: Reports
-keywords: [DateGranularity, Reports.DateGranularity, describes, date, interval, used, grouping., Usage, Values]
+keywords: [DateGranularity, Reports.DateGranularity, date, interval, grouping, Usage]
 ---
 
 # DateGranularity Enum

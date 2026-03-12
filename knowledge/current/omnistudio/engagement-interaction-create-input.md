@@ -5,9 +5,9 @@ topic: engagement-interaction-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.342Z
+lastCollected: 2026-03-12T09:33:47.348Z
 estimatedTokens: 846
-keywords: [Engagement, Interaction, Create, Input, representation, create, engagement, interaction, record.]
+keywords: [Engagement, Interaction, Input, representation, record]
 ---
 
 # Engagement Interaction Create Input

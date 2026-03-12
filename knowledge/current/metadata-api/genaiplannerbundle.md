@@ -5,10 +5,10 @@ topic: genaiplannerbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.264Z
+lastCollected: 2026-03-12T09:33:39.777Z
 estimatedTokens: 2407
 namespace: Namespace.TopicName.ActionName.AttributeName
-keywords: [GenAiPlannerBundle, Represents, planner, agent, template., It’s, container, topics, actions, used, interact, large, language, model, LLM, Parent, File, Suffix, Directory, Location]
+keywords: [GenAiPlannerBundle, planner, agent, template, It’s, container, topics, actions, interact, large, language, model, LLM, Parent, File]
 ---
 
 # GenAiPlannerBundle

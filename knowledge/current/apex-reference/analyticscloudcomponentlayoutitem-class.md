@@ -5,10 +5,10 @@ topic: analyticscloudcomponentlayoutitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.278Z
+lastCollected: 2026-03-12T09:33:20.789Z
 estimatedTokens: 1905
 namespace: Metadata
-keywords: [AnalyticsCloudComponentLayoutItem, Represents, settings, Wave, Analytics, dashboard, standard, custom, page., Usage, assetType, devName, error, filter, height, hideOnError, showHeader, showSharing, showTitle, width]
+keywords: [AnalyticsCloudComponentLayoutItem, settings, Wave, Analytics, dashboard, standard, custom, Usage, assetType, devName, error, filter, height, hideOnError, showHeader]
 ---
 
 # AnalyticsCloudComponentLayoutItem Class

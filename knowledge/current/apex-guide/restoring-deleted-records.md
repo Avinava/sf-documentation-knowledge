@@ -5,9 +5,9 @@ topic: restoring-deleted-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.704Z
+lastCollected: 2026-03-12T09:33:34.623Z
 estimatedTokens: 390
-keywords: [Restoring, Deleted, Records, After, deleted, records, placed, Recycle, Bin, days, after, which, they, permanently, deleted., While, still, restore, undelete, operation.]
+keywords: [Restoring, Deleted, Records, placed, Recycle, Bin, days, they, permanently, restore, undelete, operation, accidentally, rec, Considerations]
 ---
 
 # Restoring Deleted Records

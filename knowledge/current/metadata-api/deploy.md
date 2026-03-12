@@ -5,9 +5,9 @@ topic: deploy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.685Z
+lastCollected: 2026-03-12T09:33:38.380Z
 estimatedTokens: 5154
-keywords: [deploy, Uses, file, representations, components, create, update, delete, those, Salesforce, org., Syntax, Usage, Note, Deploy, Components, Org, Check, Status, Deployment]
+keywords: [deploy, Uses, file, representations, components, Salesforce, org, Usage, Check, Status, Deployment, Cancel, Permissions, Arguments, DeployOptions]
 ---
 
 # deploy()

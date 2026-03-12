@@ -5,9 +5,9 @@ topic: pricing-recipe-procedure-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:06.284Z
+lastCollected: 2026-03-12T09:33:08.157Z
 estimatedTokens: 78
-keywords: [Pricing, Recipe, Procedure, Input, representation, procedure, setup, page, recipe.]
+keywords: [Pricing, Recipe, Procedure, Input, representation, setup]
 ---
 
 # Pricing Recipe Procedure Input

@@ -5,9 +5,9 @@ topic: improve-performance-by-avoiding-null-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.544Z
+lastCollected: 2026-03-12T09:33:34.476Z
 estimatedTokens: 146
-keywords: [Improve, Performance, Avoiding, Null, Values]
+keywords: [Improve, Performance, Avoiding]
 ---
 
 # Improve Performance by Avoiding Null Values

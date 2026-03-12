@@ -5,9 +5,9 @@ topic: switch-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.871Z
+lastCollected: 2026-03-12T09:33:34.768Z
 estimatedTokens: 848
-keywords: [Switch, Statements, Apex, provides, switch, statement, tests, whether, expression, matches, several, values, branches, accordingly., Note, Blocks, Else, Block, Examples, Literals]
+keywords: [Switch, Statements, Apex, statement, tests, whether, expression, matches, several, branches, accordingly, Blocks, Else, Block, Examples]
 ---
 
 # Switch Statements

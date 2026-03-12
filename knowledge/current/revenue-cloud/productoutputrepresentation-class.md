@@ -5,9 +5,9 @@ topic: productoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.886Z
+lastCollected: 2026-03-12T09:33:06.944Z
 estimatedTokens: 5165
-keywords: [ProductOutputRepresentation, Get, details, product, definition., additionalFields, attributeCategories, availabilityDate, catalogs, configureDuringSale, description, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent, isQuantityEditable, isSoldOnlyWithOtherProds]
+keywords: [ProductOutputRepresentation, product, definition, additionalFields, attributeCategories, availabilityDate, catalogs, configureDuringSale, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent]
 ---
 
 # ProductOutputRepresentation Class

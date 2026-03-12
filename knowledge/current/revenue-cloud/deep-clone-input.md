@@ -5,9 +5,9 @@ topic: deep-clone-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.047Z
+lastCollected: 2026-03-12T09:33:07.945Z
 estimatedTokens: 166
-keywords: [Deep, Clone, Input, representation, details, associated, record, cloned.]
+keywords: [Deep, Clone, Input, representation, associated, record, cloned]
 ---
 
 # Deep Clone Input

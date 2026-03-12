@@ -5,9 +5,9 @@ topic: connectapicompliancecontrolevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.707Z
+lastCollected: 2026-03-12T09:33:46.740Z
 estimatedTokens: 237
-keywords: [ConnectApi.ComplianceControlEvaluation, Output, representation, details, compliance, control, evaluation.]
+keywords: [ConnectApi.ComplianceControlEvaluation, Output, representation, compliance, control, evaluation]
 ---
 
 # ConnectApi.ComplianceControlEvaluation

@@ -5,9 +5,9 @@ topic: group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.462Z
+lastCollected: 2026-03-12T09:33:47.461Z
 estimatedTokens: 396
-keywords: [Group, Input, representation, party, relationship, group.]
+keywords: [Group, Input, representation, party, relationship]
 ---
 
 # Group Input

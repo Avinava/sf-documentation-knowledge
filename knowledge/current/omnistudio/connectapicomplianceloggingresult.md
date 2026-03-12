@@ -5,9 +5,9 @@ topic: connectapicomplianceloggingresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.720Z
+lastCollected: 2026-03-12T09:33:46.750Z
 estimatedTokens: 105
-keywords: [ConnectApi.ComplianceLoggingResult, Output, representation, single, compliance, logging.]
+keywords: [ConnectApi.ComplianceLoggingResult, Output, representation, compliance, logging]
 ---
 
 # ConnectApi.ComplianceLoggingResult

@@ -5,10 +5,10 @@ topic: reports-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.167Z
+lastCollected: 2026-03-12T09:33:19.845Z
 estimatedTokens: 339
 namespace: Reports
-keywords: [Reports, Exceptions, contains, exception, classes.]
+keywords: [Reports, Exceptions, exception, classes]
 ---
 
 # Reports Exceptions

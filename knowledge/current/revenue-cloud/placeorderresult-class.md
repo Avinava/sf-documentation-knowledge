@@ -5,10 +5,10 @@ topic: placeorderresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.323Z
+lastCollected: 2026-03-12T09:33:06.421Z
 estimatedTokens: 859
 namespace: CommerceOrders
-keywords: [PlaceOrderResult, Contains, hold, response, place, order, request., Example, orderId, requestIdentifier, responseError, statusURL, success]
+keywords: [PlaceOrderResult, hold, place, order, orderId, requestIdentifier, responseError, statusURL, success]
 ---
 
 # PlaceOrderResult Class

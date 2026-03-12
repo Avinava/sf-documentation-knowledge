@@ -5,9 +5,9 @@ topic: connectapinbastrategyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.179Z
+lastCollected: 2026-03-12T09:33:25.410Z
 estimatedTokens: 183
-keywords: [ConnectApi.NBAStrategyInput, recommendation, strategy.]
+keywords: [ConnectApi.NBAStrategyInput, recommendation, strategy]
 ---
 
 # ConnectApi.NBAStrategyInput

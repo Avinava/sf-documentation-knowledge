@@ -6,9 +6,9 @@ topic: setting-the-salesforce-api-version-for-classes-and-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.733Z
+lastCollected: 2026-03-12T09:33:32.763Z
 estimatedTokens: 239
-keywords: [Setting, Salesforce, API, Version, Classes, Triggers, set, Apex, version, trigger]
+keywords: [Setting, Salesforce, API, Version, Classes, Triggers, Apex, trigger]
 ---
 
 # Setting the Salesforce API Version for Classes and

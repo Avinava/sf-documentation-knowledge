@@ -5,9 +5,9 @@ topic: decision-matrix-column-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.949Z
+lastCollected: 2026-03-12T09:33:48.692Z
 estimatedTokens: 178
-keywords: [Decision, Matrix, Column, Output, Representation, details, column, decision, matrix.]
+keywords: [Decision, Matrix, Column, Output, Representation]
 ---
 
 # Decision Matrix Column Output

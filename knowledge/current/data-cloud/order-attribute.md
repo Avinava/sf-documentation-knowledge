@@ -5,9 +5,9 @@ topic: order-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.235Z
+lastCollected: 2026-03-12T09:33:13.171Z
 estimatedTokens: 195
-keywords: [Order, Attribute, order, attribute, contained, within, event, structure, Event, mapped, accordance, schema., Example]
+keywords: [Order, Attribute, contained, event, structure, mapped, accordance, schema]
 ---
 
 # Order Attribute

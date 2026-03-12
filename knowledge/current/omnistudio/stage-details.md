@@ -5,9 +5,9 @@ topic: stage-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.401Z
+lastCollected: 2026-03-12T09:33:49.081Z
 estimatedTokens: 232
-keywords: [Stage, Details, Output, representation, details, associated, stage.]
+keywords: [Stage, Output, representation, associated]
 ---
 
 # Stage Details

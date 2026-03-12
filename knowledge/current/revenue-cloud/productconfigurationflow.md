@@ -5,9 +5,9 @@ topic: productconfigurationflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.121Z
+lastCollected: 2026-03-12T09:33:12.103Z
 estimatedTokens: 297
-keywords: [ProductConfigurationFlow, Specifies, many-to-many, relationship, between, Product, Classification, Flow, Definition, objects., flow, definition, used, configure, standalone, bundled, products, specific, product, classification]
+keywords: [ProductConfigurationFlow, many-to-many, relationship, Product, Classification, Flow, Definition, objects, configure, standalone, bundled, products, specific, along, attributes]
 ---
 
 # ProductConfigurationFlow

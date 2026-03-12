@@ -5,9 +5,9 @@ topic: sf
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:03.625Z
+lastCollected: 2026-03-12T09:33:05.786Z
 estimatedTokens: 1747
-keywords: [Commands, manage, Salesforce, projects, create, scratch, orgs, sandboxes, synchronize, source, install, packages, more.]
+keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, synchronize, source, install, packages]
 ---
 
 # sf

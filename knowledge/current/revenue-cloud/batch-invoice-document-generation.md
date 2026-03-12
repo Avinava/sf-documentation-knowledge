@@ -5,9 +5,9 @@ topic: batch-invoice-document-generation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.364Z
+lastCollected: 2026-03-12T09:33:09.100Z
 estimatedTokens: 178
-keywords: [Batch, Invoice, Document, Generation, Output, representation, request, generate, regenerate, PDF, documents, invoices, Draft, Posted, status.]
+keywords: [Batch, Invoice, Document, Generation, Output, representation, generate, regenerate, PDF, documents, invoices, Draft, Posted, status]
 ---
 
 # Batch Invoice Document Generation

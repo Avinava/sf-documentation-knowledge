@@ -5,9 +5,9 @@ topic: decision-table-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.999Z
+lastCollected: 2026-03-12T09:33:49.677Z
 estimatedTokens: 93
-keywords: [Decision, Table, APIs, table, RESTful, sometimes, Apex, classes, methods.]
+keywords: [Decision, APIs, RESTful, sometimes, Apex, classes]
 ---
 
 # Decision Table APIs

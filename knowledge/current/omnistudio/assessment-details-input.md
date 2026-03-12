@@ -5,9 +5,9 @@ topic: assessment-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.060Z
+lastCollected: 2026-03-12T09:33:47.078Z
 estimatedTokens: 133
-keywords: [Assessment, Details, Input, representation, assessment, details, Response, request.]
+keywords: [Assessment, Input, representation]
 ---
 
 # Assessment Details Input

@@ -5,9 +5,9 @@ topic: searchcustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.613Z
+lastCollected: 2026-03-12T09:33:42.019Z
 estimatedTokens: 1176
-keywords: [SearchCustomization, Represents, configuration, search, settings, created, Search, Manager., includes, channel, searchable, objects, fields, rules, filter, results., Important, Parent, File, Suffix]
+keywords: [SearchCustomization, configuration, search, settings, created, Manager, includes, channel, searchable, objects, rules, filter, results, Parent, File]
 ---
 
 # SearchCustomization

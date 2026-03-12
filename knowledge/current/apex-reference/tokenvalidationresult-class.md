@@ -5,10 +5,10 @@ topic: tokenvalidationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.743Z
+lastCollected: 2026-03-12T09:33:20.321Z
 estimatedTokens: 3056
 namespace: Auth
-keywords: [TokenValidationResult, Contains, describe, result, token, validation, performed, exchange, handler, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, during, OAuth, 2.0, flow., Usage, Example, isValid, data, userData]
+keywords: [TokenValidationResult, describe, result, token, validation, performed, exchange, handler, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, OAuth, 2.0, flow, Usage, isValid]
 ---
 
 # TokenValidationResult Class

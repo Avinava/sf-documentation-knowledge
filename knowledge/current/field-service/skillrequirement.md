@@ -5,9 +5,9 @@ topic: skillrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.712Z
+lastCollected: 2026-03-12T09:33:54.914Z
 estimatedTokens: 1535
-keywords: [SkillRequirement, Represents, skill, required, complete, particular, task, Field, Service, Omni-Channel, Salesforce, Scheduler, Workforce, Engagement., Skill, requirements, added, pending, service, routing]
+keywords: [SkillRequirement, skill, particular, task, Service, Omni-Channel, Salesforce, Scheduler, Workforce, Engagement, requirements, added, pending, routing, objects]
 ---
 
 # SkillRequirement

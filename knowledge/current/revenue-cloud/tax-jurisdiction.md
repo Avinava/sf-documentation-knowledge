@@ -5,9 +5,9 @@ topic: tax-jurisdiction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.581Z
+lastCollected: 2026-03-12T09:33:10.035Z
 estimatedTokens: 181
-keywords: [Tax, Jurisdiction, Output, representation, details, tax, jurisdiction, line.]
+keywords: [Tax, Jurisdiction, Output, representation, line]
 ---
 
 # Tax Jurisdiction

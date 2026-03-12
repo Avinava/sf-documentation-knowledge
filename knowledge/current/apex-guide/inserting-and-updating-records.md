@@ -5,9 +5,9 @@ topic: inserting-and-updating-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.695Z
+lastCollected: 2026-03-12T09:33:34.612Z
 estimatedTokens: 660
-keywords: [Inserting, Updating, Records, DML, insert, new, records, commit, database., Similarly, update, field, values, existing, records., Important, Related]
+keywords: [Inserting, Updating, Records, DML, insert, new, commit, database, Similarly]
 ---
 
 # Inserting and Updating Records

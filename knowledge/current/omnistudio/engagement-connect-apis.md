@@ -5,9 +5,9 @@ topic: engagement-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.131Z
+lastCollected: 2026-03-12T09:33:49.794Z
 estimatedTokens: 176
-keywords: [Engagement, Connect, APIs, REST, create, delete, get, Interaction, Attendee, Topic, records.]
+keywords: [Engagement, Connect, APIs, REST, Interaction, Attendee, Topic, records]
 ---
 
 # Engagement Connect APIs

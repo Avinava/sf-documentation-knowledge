@@ -5,9 +5,9 @@ topic: procedure-plan-section
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.166Z
+lastCollected: 2026-03-12T09:33:09.712Z
 estimatedTokens: 353
-keywords: [Procedure, Plan, Section, Output, representation, details, procedure, plan, section.]
+keywords: [Procedure, Plan, Output, representation]
 ---
 
 # Procedure Plan Section

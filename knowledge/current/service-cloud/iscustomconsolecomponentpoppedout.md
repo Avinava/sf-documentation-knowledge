@@ -5,9 +5,9 @@ topic: iscustomconsolecomponentpoppedout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.536Z
+lastCollected: 2026-03-12T09:33:55.638Z
 estimatedTokens: 210
-keywords: [isCustomConsoleComponentPoppedOut, Determines, custom, console, component, popped, browser., multi-monitor, components, must, turned, on., only, API, version, 30.0, later., Syntax, Arguments, Sample]
+keywords: [isCustomConsoleComponentPoppedOut, Determines, custom, console, component, popped, browser, multi-monitor, components, turned, API, version, 30.0, later, Arguments]
 ---
 
 # isCustomConsoleComponentPoppedOut()

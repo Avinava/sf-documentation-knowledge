@@ -5,9 +5,9 @@ topic: bindingobjectratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.876Z
+lastCollected: 2026-03-12T09:33:11.091Z
 estimatedTokens: 1294
-keywords: [BindingObjectRateCardEntry, Represents, rate, card, entry, details, usage, resource, associated, binding, that's, used, charge, over, consumption., API, version, 64.0, later., Supported]
+keywords: [BindingObjectRateCardEntry, rate, card, entry, usage, resource, associated, binding, that's, charge, over, consumption, API, version, 64.0]
 ---
 
 # BindingObjectRateCardEntry

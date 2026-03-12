@@ -5,9 +5,9 @@ topic: understanding-apex-core-concepts
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.844Z
+lastCollected: 2026-03-12T09:33:33.860Z
 estimatedTokens: 2111
-keywords: [Understanding, Apex, Core, Concepts, code, typically, contains, many, things, you're, familiar, programming, languages., Version, Settings, Naming, Variables, Classes, Expressions, Tip]
+keywords: [Understanding, Apex, Core, Concepts, code, typically, things, you're, familiar, programming, languages, Version, Settings, Naming, Variables]
 ---
 
 # Understanding Apex Core Concepts

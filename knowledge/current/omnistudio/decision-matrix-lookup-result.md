@@ -5,9 +5,9 @@ topic: decision-matrix-lookup-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.620Z
+lastCollected: 2026-03-12T09:33:48.433Z
 estimatedTokens: 106
-keywords: [Decision, Matrix, Lookup, Result, Output, representation, individual, output, decision, matrix, version, lookup.]
+keywords: [Decision, Matrix, Lookup, Result, Output, representation, individual, version]
 ---
 
 # Decision Matrix Lookup Result

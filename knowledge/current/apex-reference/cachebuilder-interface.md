@@ -5,10 +5,10 @@ topic: cachebuilder-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.960Z
+lastCollected: 2026-03-12T09:33:30.028Z
 estimatedTokens: 651
 namespace: Cache
-keywords: [CacheBuilder, safely, retrieving, removing, values, session, org, cache., generate, want, store, checks, cache, misses, which, means, longer, need, check, null]
+keywords: [CacheBuilder, safely, retrieving, removing, session, org, cache, generate, want, store, checks, misses, means, longer, check]
 ---
 
 # CacheBuilder Interface

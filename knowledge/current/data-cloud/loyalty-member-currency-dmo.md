@@ -5,9 +5,9 @@ topic: loyalty-member-currency-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.302Z
+lastCollected: 2026-03-12T09:33:15.020Z
 estimatedTokens: 956
-keywords: [Loyalty, Member, Currency, DMO, Data, Cloud, data, model, representing, loyalty, member, selects, receive, example, airline, miles, points., API, Name, Category]
+keywords: [Loyalty, Member, Currency, DMO, Data, Cloud, model, representing, selects, receive, airline, miles, points, API, Category]
 ---
 
 # Loyalty Member Currency DMO

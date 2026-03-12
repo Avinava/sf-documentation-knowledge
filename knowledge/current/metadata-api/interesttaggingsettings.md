@@ -5,9 +5,9 @@ topic: interesttaggingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.620Z
+lastCollected: 2026-03-12T09:33:40.126Z
 estimatedTokens: 724
-keywords: [InterestTaggingSettings, Represents, settings, Interest, Tags, which, users, add, client, records, capture, needs, interests, prospecting, opportunities., Parent, Manifest, Access, File, Suffix]
+keywords: [InterestTaggingSettings, settings, Interest, Tags, users, add, client, records, capture, needs, interests, prospecting, opportunities, Parent, Manifest]
 ---
 
 # InterestTaggingSettings

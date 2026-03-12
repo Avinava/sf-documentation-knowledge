@@ -5,10 +5,10 @@ topic: contexttypeenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.589Z
+lastCollected: 2026-03-12T09:33:29.633Z
 estimatedTokens: 181
 namespace: Canvas
-keywords: [ContextTypeEnum, Describes, context, data, excluded, canvas, app, data., specify, which, types, exclude, excludeContextTypes, CanvasLifecycleHandler, implementation., Values]
+keywords: [ContextTypeEnum, context, data, excluded, canvas, app, specify, exclude, excludeContextTypes, CanvasLifecycleHandler, implementation]
 ---
 
 # ContextTypeEnum Enum

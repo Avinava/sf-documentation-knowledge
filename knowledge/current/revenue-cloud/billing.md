@@ -5,10 +5,10 @@ topic: billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.428Z
+lastCollected: 2026-03-12T09:33:07.430Z
 estimatedTokens: 902
 namespace: ConnectApi
-keywords: [Billing, Automate, processes, related, billing, credit, application, invoice, generation., Generate, schedules, context, service, create, invoices, schedule.]
+keywords: [Billing, Automate, processes, credit, application, invoice, generation, Generate, schedules, context, service, invoices, schedule]
 ---
 
 # Billing

@@ -5,9 +5,9 @@ topic: place-quote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.987Z
+lastCollected: 2026-03-12T09:33:09.552Z
 estimatedTokens: 223
-keywords: [Place, Quote, Output, representation, request, create, update, quote.]
+keywords: [Place, Quote, Output, representation]
 ---
 
 # Place Quote

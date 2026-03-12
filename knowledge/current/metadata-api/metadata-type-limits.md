@@ -5,9 +5,9 @@ topic: metadata-type-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.144Z
+lastCollected: 2026-03-12T09:33:40.625Z
 estimatedTokens: 192
-keywords: [Metadata, Limits, Certain, metadata, types, deploy, retrieve, limits., apply, individual, transaction, there, daily, limits, specific, types.]
+keywords: [Metadata, Limits, Certain, deploy, retrieve, apply, individual, transaction, there, daily, specific]
 ---
 
 # Metadata Type Limits

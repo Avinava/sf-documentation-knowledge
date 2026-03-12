@@ -5,9 +5,9 @@ topic: invoice-draft-to-posted-status-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.811Z
+lastCollected: 2026-03-12T09:33:08.612Z
 estimatedTokens: 346
-keywords: [Invoice, Draft, Posted, Status, POST, Update, status, invoice, Posted.]
+keywords: [Invoice, Draft, Posted, Status, POST]
 ---
 
 # Invoice Draft to Posted Status (POST)

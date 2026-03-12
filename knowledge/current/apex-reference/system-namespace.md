@@ -5,10 +5,10 @@ topic: system-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.624Z
+lastCollected: 2026-03-12T09:33:31.681Z
 estimatedTokens: 7166
 namespace: System
-keywords: [System, provides, classes, core, Apex, functionality.]
+keywords: [System, classes, core, Apex, functionality]
 ---
 
 # System Namespace

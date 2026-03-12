@@ -5,9 +5,9 @@ topic: connectapiinvoicedrafttopostedinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.065Z
+lastCollected: 2026-03-12T09:33:07.100Z
 estimatedTokens: 169
-keywords: [ConnectApi.InvoiceDraftToPostedInputRequest, Input, representation, details, draft, invoice, that’s, posted.]
+keywords: [Input, representation, draft, invoice, that’s, posted]
 ---
 
 # ConnectApi.InvoiceDraftToPostedInputRequest

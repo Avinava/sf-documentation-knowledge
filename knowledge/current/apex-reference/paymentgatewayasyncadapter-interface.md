@@ -5,10 +5,10 @@ topic: paymentgatewayasyncadapter-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.994Z
+lastCollected: 2026-03-12T09:33:30.061Z
 estimatedTokens: 796
 namespace: CommercePayments
-keywords: [PaymentGatewayAsyncAdapter, Implement, allow, customers, process, payments, asynchronously., Usage, Example, processNotification, paymentGatewayNotificationContext, Implementation]
+keywords: [PaymentGatewayAsyncAdapter, Implement, allow, customers, process, payments, asynchronously, Usage, processNotification, paymentGatewayNotificationContext, Implementation]
 ---
 
 # PaymentGatewayAsyncAdapter Interface

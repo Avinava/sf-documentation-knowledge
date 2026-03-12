@@ -5,9 +5,9 @@ topic: expression-set-advanced-condition-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.181Z
+lastCollected: 2026-03-12T09:33:48.878Z
 estimatedTokens: 167
-keywords: [Expression, Set, Advanced, Condition, Step, Output, representation, advanced, condition, step, expression, set.]
+keywords: [Expression, Advanced, Condition, Step, Output, representation]
 ---
 
 # Expression Set Advanced Condition Step

@@ -5,9 +5,9 @@ topic: salesforce-functions-retired
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:03.227Z
+lastCollected: 2026-03-12T09:33:05.418Z
 estimatedTokens: 118
-keywords: [Salesforce, Functions, Retired, retired, Jan, 2025., removed, reference, information, CLI, commands, guide, Feb]
+keywords: [Salesforce, Functions, Retired, Jan, removed, CLI, commands, Feb]
 ---
 
 # Salesforce Functions (Retired)

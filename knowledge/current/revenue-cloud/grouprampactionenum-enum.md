@@ -5,9 +5,9 @@ topic: grouprampactionenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.200Z
+lastCollected: 2026-03-12T09:33:07.224Z
 estimatedTokens: 348
-keywords: [GroupRampActionEnum, Specifies, action, ‌that, want, perform, group, ramp, segments., Additionally, convert, non-ramped, ramped, group., Values]
+keywords: [GroupRampActionEnum, action, ‌that, want, perform, group, ramp, segments, Additionally, convert, non-ramped, ramped]
 ---
 
 # GroupRampActionEnum Enum

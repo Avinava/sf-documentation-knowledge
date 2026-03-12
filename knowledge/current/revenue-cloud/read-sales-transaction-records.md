@@ -5,9 +5,9 @@ topic: read-sales-transaction-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.329Z
+lastCollected: 2026-03-12T09:33:09.863Z
 estimatedTokens: 123
-keywords: [Read, Sales, Transaction, Records, Output, representation, details, map, keys, associated, values., record, names, such, Quote, QuoteLineItem, values, lists, records, type.]
+keywords: [Sales, Transaction, Records, Output, representation, map, keys, associated, record, Quote, QuoteLineItem]
 ---
 
 # Read Sales Transaction Records

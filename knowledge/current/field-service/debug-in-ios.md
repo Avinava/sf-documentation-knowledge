@@ -5,9 +5,9 @@ topic: debug-in-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:57.007Z
+lastCollected: 2026-03-12T09:33:55.168Z
 estimatedTokens: 333
-keywords: [Debug, iOS, Connect, Safari, Web, Inspector, desktop, WebView, Field, Service, mobile, app, where, LWC, running., Note]
+keywords: [Debug, iOS, Connect, Safari, Web, Inspector, desktop, WebView, Service, mobile, app, LWC, running]
 ---
 
 # Debug in iOS

@@ -5,9 +5,9 @@ topic: status-codes-and-error-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.114Z
+lastCollected: 2026-03-12T09:33:34.997Z
 estimatedTokens: 886
-keywords: [Status, Codes, Error, Responses, Either, error, occurs, response, successful, header, contains, HTTP, code, body, usually]
+keywords: [Status, Codes, Error, Responses, Either, occurs, successful, HTTP, code, usually]
 ---
 
 # Status Codes and Error Responses

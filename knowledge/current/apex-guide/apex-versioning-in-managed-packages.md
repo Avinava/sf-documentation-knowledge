@@ -5,9 +5,9 @@ topic: apex-versioning-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.670Z
+lastCollected: 2026-03-12T09:33:33.694Z
 estimatedTokens: 904
-keywords: [Apex, Versioning, Managed, Packages, managed, package, component, exhibit, different, behavior, versions., versioning, add, refine, components, while, maintaining, backwards, compatibility, existing]
+keywords: [Apex, Versioning, Managed, Packages, package, component, exhibit, different, behavior, versions, add, refine, components, maintaining, backwards]
 ---
 
 # Apex Versioning in Managed Packages

@@ -5,9 +5,9 @@ topic: decision-table-definitions-delete-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.111Z
+lastCollected: 2026-03-12T09:33:48.006Z
 estimatedTokens: 174
-keywords: [Decision, Table, Definitions, DELETE, GET, Get, details, decision, table, definition., Delete, definition, associated, table.]
+keywords: [Decision, Definitions, definition, associated]
 ---
 
 # Decision Table Definitions (DELETE, GET)

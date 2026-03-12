@@ -5,9 +5,9 @@ topic: creditmemo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.012Z
+lastCollected: 2026-03-12T09:33:11.206Z
 estimatedTokens: 2319
-keywords: [CreditMemo, Represents, document, that’s, used, reduce, amount, buyer, owes, seller, under, terms, earlier, invoice., API, version, 62.0, later., Supported, Calls]
+keywords: [CreditMemo, document, that’s, reduce, amount, buyer, owes, seller, under, terms, earlier, invoice, API, version, 62.0]
 ---
 
 # CreditMemo

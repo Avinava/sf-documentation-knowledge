@@ -5,9 +5,9 @@ topic: expression-set-version-dependencies-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.184Z
+lastCollected: 2026-03-12T09:33:48.072Z
 estimatedTokens: 114
-keywords: [Expression, Set, Version, Dependencies, GET, Retrieve, expression, set, version, dependencies.]
+keywords: [Expression, Version, Dependencies, Retrieve]
 ---
 
 # Expression Set Version Dependencies (GET)

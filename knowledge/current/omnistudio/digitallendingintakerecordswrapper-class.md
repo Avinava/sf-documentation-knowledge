@@ -5,9 +5,9 @@ topic: digitallendingintakerecordswrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.566Z
+lastCollected: 2026-03-12T09:33:46.601Z
 estimatedTokens: 232
-keywords: [DigitalLendingIntakeRecordsWrapper, Contains, call, utility, Omniscripts, used, Digital, Lending, application, intake, process., Usage]
+keywords: [DigitalLendingIntakeRecordsWrapper, call, utility, Omniscripts, Digital, Lending, application, intake, process, Usage]
 ---
 
 # DigitalLendingIntakeRecordsWrapper Class

@@ -5,9 +5,9 @@ topic: connectapitextclassificationsbulkresultsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.135Z
+lastCollected: 2026-03-12T09:33:29.181Z
 estimatedTokens: 92
-keywords: [ConnectApi.TextClassificationsBulkResultsOutputRepresentation, Text, classification, get, results, multiple, text, request, IDs.]
+keywords: [Text, classification, results, multiple, IDs]
 ---
 
 # ConnectApi.TextClassificationsBulkResultsOutputRepresentation

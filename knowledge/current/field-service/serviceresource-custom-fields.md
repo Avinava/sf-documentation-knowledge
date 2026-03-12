@@ -5,9 +5,9 @@ topic: serviceresource-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.354Z
+lastCollected: 2026-03-12T09:33:53.676Z
 estimatedTokens: 779
-keywords: [ServiceResource, Custom, Fields, fields, associated, field, service, technician, crew, Field, Service., Supported, Calls, Special, Access, Rules]
+keywords: [ServiceResource, Custom, associated, service, technician, crew, Calls, Special, Access, Rules]
 ---
 
 # ServiceResource Custom Fields

@@ -5,10 +5,10 @@ topic: renderemailtemplateerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.266Z
+lastCollected: 2026-03-12T09:33:20.776Z
 estimatedTokens: 658
 namespace: Messaging
-keywords: [RenderEmailTemplateError, Represents, error, RenderEmailTemplateBodyResult, contain., getFieldName, getMessage, getOffset, getStatusCode]
+keywords: [RenderEmailTemplateError, error, RenderEmailTemplateBodyResult, contain, getFieldName, getMessage, getOffset, getStatusCode]
 ---
 
 # RenderEmailTemplateError Class

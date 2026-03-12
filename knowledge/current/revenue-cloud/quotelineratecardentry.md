@@ -5,9 +5,9 @@ topic: quotelineratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.362Z
+lastCollected: 2026-03-12T09:33:12.348Z
 estimatedTokens: 672
-keywords: [QuoteLineRateCardEntry, Represents, catalog, negotiated, rates, usage, resource, associated, quote, line, item, that's, used, charge, overage, consumption., API, version, 62.0, later.]
+keywords: [QuoteLineRateCardEntry, catalog, negotiated, rates, usage, resource, associated, quote, line, item, that's, charge, overage, consumption, API]
 ---
 
 # QuoteLineRateCardEntry

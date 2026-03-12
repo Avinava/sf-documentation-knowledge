@@ -5,9 +5,9 @@ topic: working-with-recently-viewed-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.252Z
+lastCollected: 2026-03-12T09:33:36.078Z
 estimatedTokens: 242
-keywords: [Working, Recently, Viewed, Information, examples, section, REST, API, Query, resources, programmatically, retrieve, update, recently, viewed, record, information.]
+keywords: [Working, Recently, Viewed, examples, REST, API, Query, resources, programmatically, retrieve, record]
 ---
 
 # Working with Recently Viewed Information

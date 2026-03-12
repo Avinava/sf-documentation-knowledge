@@ -5,9 +5,9 @@ topic: connectapisubmitreturnoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.086Z
+lastCollected: 2026-03-12T09:33:29.127Z
 estimatedTokens: 209
-keywords: [ConnectApi.SubmitReturnOutputRepresentation, change, order, created, action, set, its, financial, values.]
+keywords: [change, order, created, action, financial]
 ---
 
 # ConnectApi.SubmitReturnOutputRepresentation

@@ -5,10 +5,10 @@ topic: oauth2tokenexchangehandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.646Z
+lastCollected: 2026-03-12T09:33:20.271Z
 estimatedTokens: 1552
 namespace: Auth
-keywords: [Oauth2TokenExchangeHandler, create, token, exchange, handler, validates, tokens, external, identity, provider, maps, token’s, subject, Salesforce, user, during, OAuth, 2.0, flow., used]
+keywords: [Oauth2TokenExchangeHandler, token, exchange, handler, validates, tokens, external, identity, provider, maps, token’s, subject, Salesforce, user, OAuth]
 ---
 
 # Oauth2TokenExchangeHandler Class

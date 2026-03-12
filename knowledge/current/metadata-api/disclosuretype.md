@@ -5,9 +5,9 @@ topic: disclosuretype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.917Z
+lastCollected: 2026-03-12T09:33:38.625Z
 estimatedTokens: 532
-keywords: [DisclosureType, Represents, types, disclosures, done, individual, organization, associated, metadata., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
+keywords: [DisclosureType, disclosures, individual, organization, associated, metadata, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # DisclosureType

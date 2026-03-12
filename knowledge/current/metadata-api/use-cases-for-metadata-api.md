@@ -5,9 +5,9 @@ topic: use-cases-for-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.429Z
+lastCollected: 2026-03-12T09:33:42.739Z
 estimatedTokens: 1461
-keywords: [Cases, Metadata, API, move, metadata, between, orgs, during, development, cycle., used, deploying, large, configuration, changes, development., Development, Process]
+keywords: [Cases, Metadata, API, move, orgs, development, cycle, deploying, large, configuration, changes, Process]
 ---
 
 # Use Cases for Metadata API

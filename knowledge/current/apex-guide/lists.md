@@ -5,9 +5,9 @@ topic: lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.613Z
+lastCollected: 2026-03-12T09:33:34.538Z
 estimatedTokens: 719
-keywords: [Lists, list, ordered, collection, elements, distinguished, their, indices., List, any, data, type—primitive, types, collections, sObjects, user-defined, built-in, Apex, types., Array]
+keywords: [ordered, collection, elements, distinguished, their, indices, any, data, type—primitive, collections, sObjects, user-defined, built-in, Apex, Array]
 ---
 
 # Lists

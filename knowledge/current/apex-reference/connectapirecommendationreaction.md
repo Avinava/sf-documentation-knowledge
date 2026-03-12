@@ -5,7 +5,7 @@ topic: connectapirecommendationreaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.037Z
+lastCollected: 2026-03-12T09:33:28.051Z
 estimatedTokens: 409
 keywords: [ConnectApi.RecommendationReaction, reaction, recommendation, produced, strategy]
 ---

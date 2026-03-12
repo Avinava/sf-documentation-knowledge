@@ -5,10 +5,10 @@ topic: httpcalloutmock-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.119Z
+lastCollected: 2026-03-12T09:33:30.162Z
 estimatedTokens: 434
 namespace: System
-keywords: [HttpCalloutMock, Enables, sending, fake, responses, testing, HTTP, callouts., Usage, respond, request]
+keywords: [HttpCalloutMock, sending, fake, responses, testing, HTTP, callouts, Usage, respond]
 ---
 
 # HttpCalloutMock Interface

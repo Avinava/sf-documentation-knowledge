@@ -5,9 +5,9 @@ topic: unified-object-search-result-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.857Z
+lastCollected: 2026-03-12T09:33:49.492Z
 estimatedTokens: 95
-keywords: [Unified, Search, Result, Record, Output, representation, unified, search, data, result, record.]
+keywords: [Unified, Search, Result, Record, Output, representation, data]
 ---
 
 # Unified Object Search Result Record

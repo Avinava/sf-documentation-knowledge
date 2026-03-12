@@ -5,9 +5,9 @@ topic: auto-assignee-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.080Z
+lastCollected: 2026-03-12T09:33:47.098Z
 estimatedTokens: 141
-keywords: [Auto, Assignee, Input, representation, updating, Assignee.]
+keywords: [Auto, Assignee, Input, representation, updating]
 ---
 
 # Auto Assignee Input

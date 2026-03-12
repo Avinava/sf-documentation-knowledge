@@ -5,9 +5,9 @@ topic: symboltable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.944Z
+lastCollected: 2026-03-12T09:33:46.017Z
 estimatedTokens: 1080
-keywords: [SymbolTable, complex, represents, user-defined, tokens, Body, ApexClass, ApexClassMember, ApexTriggerMember, their, associated, line, column, locations, within, Body., Fields, Annotations, Modifiers, Usage]
+keywords: [SymbolTable, complex, user-defined, tokens, ApexClass, ApexClassMember, ApexTriggerMember, their, associated, line, column, locations, Annotations, Modifiers, Usage]
 ---
 
 # SymbolTable

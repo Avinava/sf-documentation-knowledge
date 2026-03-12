@@ -5,9 +5,9 @@ topic: retrieve-compliance-async-evaluation-job-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.340Z
+lastCollected: 2026-03-12T09:33:46.387Z
 estimatedTokens: 348
-keywords: [Retrieve, Compliance, Async, Evaluation, Job, Detail, Action, Get, job, details, asynchronous, compliance, evaluation., Special, Access, Rules, Supported, REST, HTTP, Inputs]
+keywords: [Retrieve, Compliance, Async, Evaluation, Job, Detail, Action, asynchronous, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Retrieve Compliance Async Evaluation Job Detail Action

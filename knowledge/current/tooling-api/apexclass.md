@@ -5,9 +5,9 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.555Z
+lastCollected: 2026-03-12T09:33:43.732Z
 estimatedTokens: 1621
-keywords: [ApexClass, Represents, saved, copy, Apex, class., uses, cached, version, unless, unavailable., API, 28.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [ApexClass, saved, copy, Apex, uses, cached, version, unless, unavailable, API, 28.0, later, SOAP, Calls, REST]
 ---
 
 # ApexClass

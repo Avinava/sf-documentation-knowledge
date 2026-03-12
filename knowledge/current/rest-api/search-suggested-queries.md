@@ -5,9 +5,9 @@ topic: search-suggested-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.923Z
+lastCollected: 2026-03-12T09:33:35.773Z
 estimatedTokens: 781
-keywords: [Search, Suggested, Queries, list, suggested, searches, based, user’s, query, text, matching, users, performed, Salesforce, Knowledge., Provides, way, improve, search, effectiveness]
+keywords: [Search, Suggested, Queries, searches, user’s, query, text, matching, users, performed, Salesforce, Knowledge, way, improve, effectiveness]
 ---
 
 # Search Suggested Queries

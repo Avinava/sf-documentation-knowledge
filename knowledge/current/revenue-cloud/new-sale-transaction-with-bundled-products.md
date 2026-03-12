@@ -5,9 +5,9 @@ topic: new-sale-transaction-with-bundled-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:05.688Z
+lastCollected: 2026-03-12T09:33:07.623Z
 estimatedTokens: 3985
-keywords: [New, Sale, Transaction, Bundled, Products, Understand, required, values, key, considerations, before, create, billing, schedule, new, sale, transaction, bundled, products., Considerations]
+keywords: [New, Sale, Transaction, Bundled, Products, Understand, key, considerations, billing, schedule]
 ---
 
 # New Sale Transaction With Bundled Products

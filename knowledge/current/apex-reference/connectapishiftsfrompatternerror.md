@@ -5,9 +5,9 @@ topic: connectapishiftsfrompatternerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.993Z
+lastCollected: 2026-03-12T09:33:29.036Z
 estimatedTokens: 81
-keywords: [ConnectApi.ShiftsFromPatternError, Shifts, pattern, error, response.]
+keywords: [ConnectApi.ShiftsFromPatternError, Shifts, pattern, error]
 ---
 
 # ConnectApi.ShiftsFromPatternError

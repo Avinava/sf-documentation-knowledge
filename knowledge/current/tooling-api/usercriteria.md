@@ -5,9 +5,9 @@ topic: usercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.038Z
+lastCollected: 2026-03-12T09:33:46.110Z
 estimatedTokens: 590
-keywords: [UserCriteria, Represents, member, criteria, Experience, Cloud, site, moderation, rules., Tooling, API, version, 39.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [UserCriteria, member, criteria, Experience, Cloud, site, moderation, rules, Tooling, API, version, 39.0, later, SOAP, Calls]
 ---
 
 # UserCriteria

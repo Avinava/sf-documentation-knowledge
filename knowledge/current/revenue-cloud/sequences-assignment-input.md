@@ -5,9 +5,9 @@ topic: sequences-assignment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.488Z
+lastCollected: 2026-03-12T09:33:08.325Z
 estimatedTokens: 164
-keywords: [Sequences, Assignment, Input, representation, details, target, objects, which, sequence, pattern, values, assigned.]
+keywords: [Sequences, Assignment, Input, representation, target, objects, sequence, pattern, assigned]
 ---
 
 # Sequences Assignment Input

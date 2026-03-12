@@ -5,9 +5,9 @@ topic: connectapitypeandfilterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.649Z
+lastCollected: 2026-03-12T09:33:25.827Z
 estimatedTokens: 83
-keywords: [ConnectApi.TypeAndFilterInput, Represents, wrapper, logical, comparison, filters.]
+keywords: [ConnectApi.TypeAndFilterInput, wrapper, logical, comparison, filters]
 ---
 
 # ConnectApi.TypeAndFilterInput

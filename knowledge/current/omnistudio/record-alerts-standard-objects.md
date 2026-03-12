@@ -5,9 +5,9 @@ topic: record-alerts-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.964Z
+lastCollected: 2026-03-12T09:33:51.537Z
 estimatedTokens: 588
-keywords: [Record, Alerts, Standard, Objects, standard, objects, create, update, record, alerts.]
+keywords: [Record, Alerts, Standard, Objects]
 ---
 
 # Record Alerts Standard Objects

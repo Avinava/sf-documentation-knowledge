@@ -5,9 +5,9 @@ topic: blockingrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.134Z
+lastCollected: 2026-03-12T09:33:53.474Z
 estimatedTokens: 153
-keywords: [blockingRules, Array, blocking, rules, rule, name, number, slots]
+keywords: [blockingRules, Array, blocking, rules, rule, number, slots]
 ---
 
 # blockingRules

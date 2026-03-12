@@ -5,9 +5,9 @@ topic: productclassificationattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:11.100Z
+lastCollected: 2026-03-12T09:33:12.087Z
 estimatedTokens: 1862
-keywords: [ProductClassificationAttr, Represents, relationship, between, product, classification, its, attributes., default, configuration, products, based, classification., API, version, 60.0, later., Supported, Calls, Special]
+keywords: [ProductClassificationAttr, relationship, product, classification, attributes, configuration, products, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---
 
 # ProductClassificationAttr

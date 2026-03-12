@@ -5,9 +5,9 @@ topic: neginvclineprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.661Z
+lastCollected: 2026-03-12T09:33:11.730Z
 estimatedTokens: 675
-keywords: [NegInvcLineProcessedEvent, Represents, notification, customers, negative, invoice, line, converted, credit, memo, API, version, 62.0, later., Supported, Calls, Subscribers, Subscription, Channel, Event]
+keywords: [NegInvcLineProcessedEvent, notification, customers, negative, invoice, line, converted, credit, memo, API, version, 62.0, later, Calls, Subscribers]
 ---
 
 # NegInvcLineProcessedEvent

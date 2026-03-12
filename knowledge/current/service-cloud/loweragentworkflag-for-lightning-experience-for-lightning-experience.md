@@ -6,9 +6,9 @@ topic: loweragentworkflag-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.826Z
+lastCollected: 2026-03-12T09:33:55.920Z
 estimatedTokens: 239
-keywords: [lowerAgentWorkFlag, Lightning, Experience, Lowers, flag, agent, work, item., Arguments, Sample, Code, Response, Note]
+keywords: [lowerAgentWorkFlag, Lightning, Experience, Lowers, flag, agent, work, item, Arguments, Sample, Code]
 ---
 
 # lowerAgentWorkFlag for Lightning Experience for

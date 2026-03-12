@@ -5,9 +5,9 @@ topic: connectapibaseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.177Z
+lastCollected: 2026-03-12T09:33:26.348Z
 estimatedTokens: 2217
-keywords: [ConnectApi.BaseOutputRepresentation, Base, Order, Management, output, class.]
+keywords: [ConnectApi.BaseOutputRepresentation, Base, Order, Management, output]
 ---
 
 # ConnectApi.BaseOutputRepresentation

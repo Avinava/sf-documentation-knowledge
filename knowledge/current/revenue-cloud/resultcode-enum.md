@@ -5,9 +5,9 @@ topic: resultcode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.231Z
+lastCollected: 2026-03-12T09:33:07.253Z
 estimatedTokens: 218
-keywords: [ResultCode, Code, represents, results, tax, request, made, engine., Usage, Values]
+keywords: [ResultCode, Code, results, tax, made, engine, Usage]
 ---
 
 # ResultCode Enum

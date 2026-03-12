@@ -5,9 +5,9 @@ topic: connectapiactivationtargetsubjectconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.262Z
+lastCollected: 2026-03-12T09:33:24.550Z
 estimatedTokens: 111
-keywords: [ConnectApi.ActivationTargetSubjectConfigInput, Represents, activation, target, subject, configuration, input.]
+keywords: [activation, target, subject, configuration, input]
 ---
 
 # ConnectApi.ActivationTargetSubjectConfigInput

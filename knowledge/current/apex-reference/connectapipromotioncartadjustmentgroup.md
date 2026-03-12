@@ -5,9 +5,9 @@ topic: connectapipromotioncartadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.665Z
+lastCollected: 2026-03-12T09:33:28.704Z
 estimatedTokens: 496
-keywords: [ConnectApi.PromotionCartAdjustmentGroup, Adjustment, group, associated, cart.]
+keywords: [ConnectApi.PromotionCartAdjustmentGroup, Adjustment, group, associated, cart]
 ---
 
 # ConnectApi.PromotionCartAdjustmentGroup

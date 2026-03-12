@@ -5,9 +5,9 @@ topic: interest-tags-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.522Z
+lastCollected: 2026-03-12T09:33:48.347Z
 estimatedTokens: 225
-keywords: [Interest, Tags, PATCH, Update, Tags.]
+keywords: [Interest, Tags, PATCH]
 ---
 
 # Interest Tags (PATCH)

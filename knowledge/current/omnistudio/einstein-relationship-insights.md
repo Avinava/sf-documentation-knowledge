@@ -5,9 +5,9 @@ topic: einstein-relationship-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.137Z
+lastCollected: 2026-03-12T09:33:49.800Z
 estimatedTokens: 129
-keywords: [Einstein, Relationship, Insights, Explore, interconnected, relationships, between, people, companies, web., helps, discover, critical, exploring, disparate, data, sources, unstructured, web, pages]
+keywords: [Einstein, Relationship, Insights, Explore, interconnected, relationships, people, companies, web, helps, discover, critical, exploring, disparate, data]
 ---
 
 # Einstein Relationship Insights

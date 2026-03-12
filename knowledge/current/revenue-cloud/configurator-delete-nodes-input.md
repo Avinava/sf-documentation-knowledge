@@ -5,9 +5,9 @@ topic: configurator-delete-nodes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.050Z
+lastCollected: 2026-03-12T09:33:07.948Z
 estimatedTokens: 177
-keywords: [Configurator, Delete, Nodes, Input, representation, request, delete, nodes, product, configuration.]
+keywords: [Configurator, Nodes, Input, representation, product, configuration]
 ---
 
 # Configurator Delete Nodes Input

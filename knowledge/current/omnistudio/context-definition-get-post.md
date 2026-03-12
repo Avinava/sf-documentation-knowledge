@@ -5,9 +5,9 @@ topic: context-definition-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.966Z
+lastCollected: 2026-03-12T09:33:47.879Z
 estimatedTokens: 424
-keywords: [Context, Definition, GET, POST, Create, context, definition, clone, existing, extend, standard, file, based, persist, entire, definition.]
+keywords: [Context, Definition, POST, clone, extend, standard, file, persist, entire]
 ---
 
 # Context Definition (GET, POST)

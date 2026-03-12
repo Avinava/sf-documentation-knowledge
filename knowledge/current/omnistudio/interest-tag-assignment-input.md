@@ -5,9 +5,9 @@ topic: interest-tag-assignment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.519Z
+lastCollected: 2026-03-12T09:33:47.501Z
 estimatedTokens: 122
-keywords: [Interest, Tag, Assignment, Input, representation, record, assignment.]
+keywords: [Interest, Tag, Assignment, Input, representation, record]
 ---
 
 # Interest Tag Assignment Input

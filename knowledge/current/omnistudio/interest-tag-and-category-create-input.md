@@ -5,9 +5,9 @@ topic: interest-tag-and-category-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.498Z
+lastCollected: 2026-03-12T09:33:47.493Z
 estimatedTokens: 96
-keywords: [Interest, Tag, Category, Create, Input, representation, creating, interest, tags, categories, simultaneously.]
+keywords: [Interest, Tag, Category, Input, representation, creating, tags, categories, simultaneously]
 ---
 
 # Interest Tag and Category Create Input

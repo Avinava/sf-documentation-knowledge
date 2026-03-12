@@ -5,9 +5,9 @@ topic: connectapirecordsnapshotcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.831Z
+lastCollected: 2026-03-12T09:33:28.874Z
 estimatedTokens: 207
-keywords: [ConnectApi.RecordSnapshotCapability, feed, element, capability, contains, snapshotted, fields, record, single, create, event.]
+keywords: [ConnectApi.RecordSnapshotCapability, feed, element, capability, snapshotted, record, event]
 ---
 
 # ConnectApi.RecordSnapshotCapability

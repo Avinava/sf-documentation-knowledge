@@ -5,9 +5,9 @@ topic: connectapipaymentinitiationsourceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.318Z
+lastCollected: 2026-03-12T09:33:25.531Z
 estimatedTokens: 209
-keywords: [ConnectApi.PaymentInitiationSourceInputRepresentation, Payment, initiation, source, input, representation.]
+keywords: [Payment, initiation, source, input, representation]
 ---
 
 # ConnectApi.PaymentInitiationSourceInputRepresentation

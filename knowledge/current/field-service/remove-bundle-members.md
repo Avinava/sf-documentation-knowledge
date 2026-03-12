@@ -5,9 +5,9 @@ topic: remove-bundle-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.644Z
+lastCollected: 2026-03-12T09:33:53.935Z
 estimatedTokens: 1901
-keywords: [Remove, Bundle, Members, Removes, service, appointments, existing, bundle., resource, accepts, appointment, IDs., API, supported, Gov, Cloud., endpoint, version, 54.0, later]
+keywords: [Remove, Bundle, Members, Removes, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, version]
 ---
 
 # Remove Bundle Members

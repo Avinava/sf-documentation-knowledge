@@ -5,10 +5,10 @@ topic: rulesappln-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.306Z
+lastCollected: 2026-03-12T09:33:07.320Z
 estimatedTokens: 307
 namespace: RulesAppln
-keywords: [RulesAppln, Apply, payments, credits, posted, invoices, adhering, specified, rules.]
+keywords: [RulesAppln, Apply, payments, credits, posted, invoices, adhering, rules]
 ---
 
 # RulesAppln Namespace

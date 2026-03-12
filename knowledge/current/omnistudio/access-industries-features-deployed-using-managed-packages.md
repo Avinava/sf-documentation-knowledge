@@ -5,9 +5,9 @@ topic: access-industries-features-deployed-using-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:53.000Z
+lastCollected: 2026-03-12T09:33:51.559Z
 estimatedTokens: 263
-keywords: [Access, Industries, Features, Deployed, Managed, Packages, features, deployed, org, managed, packages., access, records, packages, must, Apex, REST, methods.]
+keywords: [Access, Industries, Features, Deployed, Managed, Packages, org, records, Apex, REST]
 ---
 
 # Access Industries Features Deployed Using Managed Packages

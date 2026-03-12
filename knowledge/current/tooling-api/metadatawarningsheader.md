@@ -5,9 +5,9 @@ topic: metadatawarningsheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.227Z
+lastCollected: 2026-03-12T09:33:43.424Z
 estimatedTokens: 121
-keywords: [MetadataWarningsHeader, Allows, save, metadata, even, warnings, returned., Version, Supported, Calls, Field]
+keywords: [MetadataWarningsHeader, save, metadata, warnings, Version, Calls]
 ---
 
 # MetadataWarningsHeader

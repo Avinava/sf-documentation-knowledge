@@ -5,10 +5,10 @@ topic: buyergroupevaluationservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.780Z
+lastCollected: 2026-03-12T09:33:20.355Z
 estimatedTokens: 1186
 namespace: CommerceBuyGrp
-keywords: [BuyerGroupEvaluationService, allows, define, execute, custom, business, logic, dynamically, assigning, users, buyer, groups., Unlike, out-of-the-box, configurations, limited, account, market, data, segment-based]
+keywords: [BuyerGroupEvaluationService, define, execute, custom, business, logic, dynamically, assigning, users, buyer, groups, Unlike, out-of-the-box, configurations, limited]
 ---
 
 # BuyerGroupEvaluationService Class

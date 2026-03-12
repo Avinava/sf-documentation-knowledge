@@ -5,9 +5,9 @@ topic: profile-event-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.667Z
+lastCollected: 2026-03-12T09:33:13.544Z
 estimatedTokens: 397
-keywords: [Profile, Event, Routing, Events, described, Web, Connector, Schema, mapped, individual, data, streams, deployed., route, profile, collected, Salesforce, Interactions, SDK, proper]
+keywords: [Profile, Event, Routing, Events, described, Web, Connector, Schema, mapped, individual, data, streams, deployed, route, collected]
 ---
 
 # Profile Event Routing

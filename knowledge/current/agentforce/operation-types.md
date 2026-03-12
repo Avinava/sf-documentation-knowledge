@@ -5,9 +5,9 @@ topic: operation-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.159Z
+lastCollected: 2026-03-12T09:33:15.838Z
 estimatedTokens: 806
-keywords: [Operation, Types, various, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, operations.]
+keywords: [Operation, various, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, operations]
 ---
 
 # Operation Types

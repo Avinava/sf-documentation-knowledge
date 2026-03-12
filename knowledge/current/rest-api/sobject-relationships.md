@@ -5,9 +5,9 @@ topic: sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.066Z
+lastCollected: 2026-03-12T09:33:35.911Z
 estimatedTokens: 425
-keywords: [sObject, Relationships, Accesses, records, traversing, relationships, via, friendly, URLs., retrieve, update, delete, record, associated, traversed, relationship, field., there, multiple, related]
+keywords: [sObject, Relationships, Accesses, records, traversing, via, friendly, URLs, retrieve, record, associated, traversed, relationship, there, multiple]
 ---
 
 # sObject Relationships

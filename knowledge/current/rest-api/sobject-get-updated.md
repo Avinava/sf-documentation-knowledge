@@ -5,9 +5,9 @@ topic: sobject-get-updated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.565Z
+lastCollected: 2026-03-12T09:33:35.406Z
 estimatedTokens: 828
-keywords: [sObject, Get, Updated, Retrieves, list, individual, records, updated, added, changed, within, given, timespan, specified, object., resource, REST, API, version, 31.0]
+keywords: [sObject, Updated, Retrieves, individual, records, added, changed, timespan, resource, REST, API, version, 31.0, later, Examples]
 ---
 
 # sObject Get Updated

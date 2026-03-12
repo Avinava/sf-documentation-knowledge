@@ -5,9 +5,9 @@ topic: valtfrm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.834Z
+lastCollected: 2026-03-12T09:33:12.769Z
 estimatedTokens: 753
-keywords: [ValTfrm, Represents, mappings, between, fields, attributes., Enrichment, rules, part, decomposition, rule, used, propagate, data, fulfillment, order, lines., API, version, 61.0]
+keywords: [ValTfrm, mappings, attributes, Enrichment, rules, part, decomposition, rule, propagate, data, fulfillment, order, lines, API, version]
 ---
 
 # ValTfrm

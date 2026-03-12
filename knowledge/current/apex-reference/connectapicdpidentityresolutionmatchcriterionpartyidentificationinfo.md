@@ -5,9 +5,9 @@ topic: connectapicdpidentityresolutionmatchcriterionpartyidentificationinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.551Z
+lastCollected: 2026-03-12T09:33:24.818Z
 estimatedTokens: 192
-keywords: [ConnectApi.CdpIdentityResolutionMatchCriterionPartyIdentificationInfo, Input, representation, information, party, identification, used, identity, resolution, ruleset's, match, rule, criterion.]
+keywords: [Input, representation, party, identification, identity, resolution, ruleset's, match, rule, criterion]
 ---
 
 # ConnectApi.CdpIdentityResolutionMatchCriterionPartyIdentificationInfo

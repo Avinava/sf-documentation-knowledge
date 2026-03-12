@@ -5,10 +5,10 @@ topic: deferredtiming-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.700Z
+lastCollected: 2026-03-12T09:33:21.276Z
 estimatedTokens: 808
 namespace: RichMessaging
-keywords: [DeferredTiming, Represents, timing, transaction, occurs, future., deferredDate, deferredDateValue, timingType]
+keywords: [DeferredTiming, timing, transaction, occurs, future, deferredDate, deferredDateValue, timingType]
 ---
 
 # DeferredTiming Class

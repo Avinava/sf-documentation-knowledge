@@ -5,9 +5,9 @@ topic: omnichannelsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.423Z
+lastCollected: 2026-03-12T09:33:51.005Z
 estimatedTokens: 710
-keywords: [OmniChannelSettings, Represents, Omni-Channel, settings, org., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [OmniChannelSettings, Omni-Channel, settings, org, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---
 
 # OmniChannelSettings

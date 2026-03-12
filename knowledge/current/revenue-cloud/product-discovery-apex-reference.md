@@ -5,10 +5,10 @@ topic: product-discovery-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:09.062Z
+lastCollected: 2026-03-12T09:33:10.442Z
 estimatedTokens: 106
 namespace: The
-keywords: [Product, Discovery, Apex, Reference, built-in, classes, interfaces, grouped, namespace.]
+keywords: [Product, Discovery, Apex, built-in, classes, interfaces, grouped]
 ---
 
 # Product Discovery Apex Reference

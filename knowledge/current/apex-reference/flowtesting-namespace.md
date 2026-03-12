@@ -5,10 +5,10 @@ topic: flowtesting-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:31.680Z
+lastCollected: 2026-03-12T09:33:31.735Z
 estimatedTokens: 152
 namespace: The
-keywords: [Flowtesting, flowtesting, provides, dynamically, generated, Apex, classes, flow, tests, created, Flow, Builder.]
+keywords: [Flowtesting, dynamically, generated, Apex, classes, flow, tests, created, Builder]
 ---
 
 # Flowtesting Namespace

@@ -5,9 +5,9 @@ topic: compactlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.835Z
+lastCollected: 2026-03-12T09:33:37.581Z
 estimatedTokens: 589
-keywords: [CompactLayout, Represents, metadata, associated, compact, layout., extends, Metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [CompactLayout, metadata, associated, compact, layout, extends, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # CompactLayout

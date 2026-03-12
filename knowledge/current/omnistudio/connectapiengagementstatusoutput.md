@@ -5,9 +5,9 @@ topic: connectapiengagementstatusoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.802Z
+lastCollected: 2026-03-12T09:33:46.823Z
 estimatedTokens: 76
-keywords: [ConnectApi.EngagementStatusOutput, Output, representation, display, status, API, request.]
+keywords: [ConnectApi.EngagementStatusOutput, Output, representation, display, status, API]
 ---
 
 # ConnectApi.EngagementStatusOutput

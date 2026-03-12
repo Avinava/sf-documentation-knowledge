@@ -5,9 +5,9 @@ topic: associatedlocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.962Z
+lastCollected: 2026-03-12T09:33:54.208Z
 estimatedTokens: 530
-keywords: [AssociatedLocation, Represents, link, between, account, location, Field, Service., associate, multiple, accounts, location., example, shopping, center, may, customer, accounts., Supported, Calls]
+keywords: [AssociatedLocation, link, account, location, Service, associate, multiple, accounts, shopping, center, may, customer, Calls, Special, Access]
 ---
 
 # AssociatedLocation

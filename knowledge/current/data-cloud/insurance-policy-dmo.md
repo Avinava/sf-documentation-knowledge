@@ -5,9 +5,9 @@ topic: insurance-policy-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.206Z
+lastCollected: 2026-03-12T09:33:14.934Z
 estimatedTokens: 418
-keywords: [Insurance, Policy, DMO, Represents, insurance, policy., Provided, Financial, Services, Cloud, Data, Kit., API, version, later., Name, Category, Primary, Subject, Area]
+keywords: [Insurance, Policy, DMO, Provided, Financial, Services, Cloud, Data, Kit, API, version, later, Category, Primary, Subject]
 ---
 
 # Insurance Policy DMO

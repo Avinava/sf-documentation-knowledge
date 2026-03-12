@@ -5,9 +5,9 @@ topic: connectapipromotioncartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.673Z
+lastCollected: 2026-03-12T09:33:28.710Z
 estimatedTokens: 630
-keywords: [ConnectApi.PromotionCartItem, cart, item, its, adjustments.]
+keywords: [ConnectApi.PromotionCartItem, cart, item, adjustments]
 ---
 
 # ConnectApi.PromotionCartItem

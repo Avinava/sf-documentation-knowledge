@@ -5,9 +5,9 @@ topic: oauth-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.005Z
+lastCollected: 2026-03-12T09:33:33.034Z
 estimatedTokens: 554
-keywords: [OAuth, Salesforce, Connect, Custom, Adapters, 2.0, access, external, data, how, avoid, interruptions, caused, expired, tokens.]
+keywords: [OAuth, Salesforce, Connect, Custom, Adapters, 2.0, access, external, data, how, avoid, interruptions, caused, expired, tokens]
 ---
 
 # OAuth for Salesforce Connect Custom Adapters

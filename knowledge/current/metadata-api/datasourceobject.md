@@ -5,9 +5,9 @@ topic: datasourceobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.548Z
+lastCollected: 2026-03-12T09:33:38.241Z
 estimatedTokens: 743
-keywords: [DataSourceObject, Represents, where, data, sourced., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+keywords: [DataSourceObject, data, sourced, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # DataSourceObject

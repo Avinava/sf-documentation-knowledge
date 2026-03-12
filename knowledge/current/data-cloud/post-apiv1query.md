@@ -5,9 +5,9 @@ topic: post-apiv1query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.466Z
+lastCollected: 2026-03-12T09:33:13.407Z
 estimatedTokens: 230
-keywords: [POST, api, query, Query, API, Data, Cloud, data, lake, across, model, unified, linked, objects., Syntax, Request, Examples, HTTP, Responses]
+keywords: [POST, api, query, Data, Cloud, lake, across, model, unified, linked, objects, Examples, HTTP, Responses]
 ---
 
 # POST /api/v1/query

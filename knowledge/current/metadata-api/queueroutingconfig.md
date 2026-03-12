@@ -5,9 +5,9 @@ topic: queueroutingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.029Z
+lastCollected: 2026-03-12T09:33:41.473Z
 estimatedTokens: 1350
-keywords: [QueueRoutingConfig, Represents, settings, determine, how, work, items, routed, agents., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, QueueRoutingConfigSkill, Declarative]
+keywords: [QueueRoutingConfig, settings, determine, how, work, items, routed, agents, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # QueueRoutingConfig

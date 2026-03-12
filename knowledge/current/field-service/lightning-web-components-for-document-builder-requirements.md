@@ -5,9 +5,9 @@ topic: lightning-web-components-for-document-builder-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.486Z
+lastCollected: 2026-03-12T09:33:53.798Z
 estimatedTokens: 689
-keywords: [Lightning, Web, Components, Document, Builder, Requirements, Here, requirements, creating, web, components, LWCs, Builder., Salesforce, Design, System, SLDS, wire, adapters, create]
+keywords: [Lightning, Web, Components, Document, Builder, Requirements, creating, LWCs, Salesforce, Design, System, SLDS, wire, adapters, operations]
 ---
 
 # Lightning Web Components for Document Builder: Requirements

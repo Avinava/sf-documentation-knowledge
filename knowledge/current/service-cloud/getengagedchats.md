@@ -5,9 +5,9 @@ topic: getengagedchats
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.421Z
+lastCollected: 2026-03-12T09:33:55.537Z
 estimatedTokens: 191
-keywords: [getEngagedChats, chat, keys, chats, which, agent, currently, engaged., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [getEngagedChats, chat, keys, chats, agent, currently, engaged, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # getEngagedChats()

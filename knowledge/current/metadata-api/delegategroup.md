@@ -5,9 +5,9 @@ topic: delegategroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.646Z
+lastCollected: 2026-03-12T09:33:38.342Z
 estimatedTokens: 822
-keywords: [DelegateGroup, Represents, group, users, who, same, administrative, privileges., groups, different, used, sharing., File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [DelegateGroup, group, users, administrative, privileges, groups, different, sharing, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # DelegateGroup

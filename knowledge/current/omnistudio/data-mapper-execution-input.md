@@ -5,9 +5,9 @@ topic: data-mapper-execution-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.210Z
+lastCollected: 2026-03-12T09:33:47.217Z
 estimatedTokens: 145
-keywords: [Data, Mapper, Execution, Input, representation, execution, details, data, mapper.]
+keywords: [Data, Mapper, Execution, Input, representation]
 ---
 
 # Data Mapper Execution Input

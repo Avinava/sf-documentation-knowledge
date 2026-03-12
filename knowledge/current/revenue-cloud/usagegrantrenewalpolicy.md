@@ -5,9 +5,9 @@ topic: usagegrantrenewalpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.740Z
+lastCollected: 2026-03-12T09:33:12.685Z
 estimatedTokens: 647
-keywords: [UsageGrantRenewalPolicy, Represents, policy, rollover, usage, grant., API, version, 62.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [UsageGrantRenewalPolicy, policy, rollover, usage, grant, API, version, 62.0, later, Calls, Associated, Objects]
 ---
 
 # UsageGrantRenewalPolicy

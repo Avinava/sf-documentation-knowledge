@@ -5,10 +5,10 @@ topic: continuation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.100Z
+lastCollected: 2026-03-12T09:33:21.553Z
 estimatedTokens: 1903
 namespace: System
-keywords: [Continuation, callouts, asynchronously, SOAP, REST, Web, service., Example, timeout, continuationMethod, Usage, Note, state, addHttpRequest, request, getRequests, getResponse, requestLabel]
+keywords: [Continuation, callouts, asynchronously, SOAP, REST, Web, service, timeout, continuationMethod, Usage, state, addHttpRequest, getRequests, getResponse, requestLabel]
 ---
 
 # Continuation Class

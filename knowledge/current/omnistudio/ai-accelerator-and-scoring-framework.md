@@ -5,9 +5,9 @@ topic: ai-accelerator-and-scoring-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.361Z
+lastCollected: 2026-03-12T09:33:46.406Z
 estimatedTokens: 285
-keywords: [Accelerator, Scoring, Framework, developer, resources, build, deploy, generic, propensity, models, multiple, Industries, cloud, cases., configure, Einstein, Discovery, models.]
+keywords: [Accelerator, Scoring, Framework, developer, resources, build, deploy, generic, propensity, models, multiple, Industries, cloud, cases, configure]
 ---
 
 # AI Accelerator and Scoring Framework

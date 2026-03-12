@@ -5,9 +5,9 @@ topic: decision-table-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.149Z
+lastCollected: 2026-03-12T09:33:48.040Z
 estimatedTokens: 214
-keywords: [Decision, Table, Execution, Execute, active, decision, table.]
+keywords: [Decision, Execution, Execute, active]
 ---
 
 # Decision Table Execution

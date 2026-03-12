@@ -5,9 +5,9 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.813Z
+lastCollected: 2026-03-12T09:33:10.245Z
 estimatedTokens: 1281
-keywords: [PricingRecipe, Represents, data, models, objects, particular, cloud, pricing, store, consumes, during, design, time, run, time., Parent, File, Suffix, Directory, Location]
+keywords: [PricingRecipe, data, models, objects, particular, cloud, pricing, store, consumes, design, time, run, Parent, File, Suffix, various, entities, that'll, consumed, API]
 ---
 
 # PricingRecipe

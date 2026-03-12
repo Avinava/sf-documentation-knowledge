@@ -5,9 +5,9 @@ topic: getcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.227Z
+lastCollected: 2026-03-12T09:33:19.897Z
 estimatedTokens: 271
-keywords: [getContent, output, page, displayed, user, web, browser., Usage]
+keywords: [getContent, output, user, web, browser, Usage]
 ---
 
 # getContent()

@@ -5,9 +5,9 @@ topic: experiencepropertytypebundle-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.490Z
+lastCollected: 2026-03-12T09:33:39.110Z
 estimatedTokens: 1447
-keywords: [ExperiencePropertyTypeBundle, Beta, Represents, type., Replaced, Spring, ’26, updated, LightningPropertyType., create, custom, Lightning, web, component, LightningPropertyType, instead, deploy, bundle, org., Note]
+keywords: [ExperiencePropertyTypeBundle, Beta, Replaced, Spring, ’26, updated, LightningPropertyType, custom, Lightning, web, component, instead, deploy, bundle, org]
 ---
 
 # ExperiencePropertyTypeBundle (Beta)

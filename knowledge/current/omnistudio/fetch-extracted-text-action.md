@@ -5,9 +5,9 @@ topic: fetch-extracted-text-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:51.183Z
+lastCollected: 2026-03-12T09:33:49.861Z
 estimatedTokens: 399
-keywords: [Fetch, Extracted, Text, Action, text, extracted, uploaded, document., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Fetch, Extracted, Text, Action, uploaded, document, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Fetch Extracted Text Action

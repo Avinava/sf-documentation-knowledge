@@ -5,9 +5,9 @@ topic: connectapitextclassificationsresultwithidoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.138Z
+lastCollected: 2026-03-12T09:33:29.184Z
 estimatedTokens: 115
-keywords: [ConnectApi.TextClassificationsResultWithIdOutputRepresentation, Classified, text, status, classification, request, IDs.]
+keywords: [Classified, text, status, classification, IDs]
 ---
 
 # ConnectApi.TextClassificationsResultWithIdOutputRepresentation

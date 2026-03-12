@@ -5,9 +5,9 @@ topic: visibilityrule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.993Z
+lastCollected: 2026-03-12T09:33:07.038Z
 estimatedTokens: 1660
-keywords: [VisibilityRule, Represents, visibility, rule, evaluated, during, product, configuration., Visibility, rules, control, products, attributes, elements, based, configuration, conditions., stiId, prcId, attributeId]
+keywords: [VisibilityRule, visibility, rule, evaluated, product, configuration, rules, control, products, attributes, elements, conditions, stiId, prcId, attributeId]
 ---
 
 # VisibilityRule Class

@@ -5,10 +5,10 @@ topic: embeddedai-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.673Z
+lastCollected: 2026-03-12T09:33:31.729Z
 estimatedTokens: 189
 namespace: The
-keywords: [embeddedai, provides, classes, manage, represent, records, data, Apex, support, embedded, features.]
+keywords: [embeddedai, classes, manage, represent, records, data, Apex, support, embedded, features]
 ---
 
 # embeddedai Namespace

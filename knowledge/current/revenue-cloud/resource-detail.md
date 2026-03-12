@@ -5,9 +5,9 @@ topic: resource-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.383Z
+lastCollected: 2026-03-12T09:33:09.892Z
 estimatedTokens: 300
-keywords: [Resource, Detail, Output, representation, details, specific, usage, resource.]
+keywords: [Resource, Detail, Output, representation, specific, usage]
 ---
 
 # Resource Detail

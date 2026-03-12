@@ -5,9 +5,9 @@ topic: genaiplugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.280Z
+lastCollected: 2026-03-12T09:33:39.791Z
 estimatedTokens: 927
-keywords: [GenAiPlugin, Represents, agent, topic, which, category, actions, related, particular, job, done, agents., Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [GenAiPlugin, agent, topic, category, actions, particular, job, agents, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # GenAiPlugin

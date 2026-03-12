@@ -5,9 +5,9 @@ topic: sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.132Z
+lastCollected: 2026-03-12T09:33:35.974Z
 estimatedTokens: 450
-keywords: [sObject, Rows, External, Creates, retrieves, upserts, deletes, records, based, specified, external, field., PATCH, resource, send, upsert, requests, Salesforce.]
+keywords: [sObject, Rows, External, Creates, retrieves, upserts, deletes, records, PATCH, resource, send, upsert, requests, Salesforce]
 ---
 
 # sObject Rows by External ID

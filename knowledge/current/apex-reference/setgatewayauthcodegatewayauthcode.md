@@ -5,9 +5,9 @@ topic: setgatewayauthcodegatewayauthcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.123Z
+lastCollected: 2026-03-12T09:33:24.419Z
 estimatedTokens: 118
-keywords: [setGatewayAuthCode, gatewayAuthCode, authorization, code, gateway, returned., Maximum, length, characters.]
+keywords: [setGatewayAuthCode, gatewayAuthCode, authorization, code, gateway, Maximum, length, characters]
 ---
 
 # setGatewayAuthCode(gatewayAuthCode)

@@ -5,10 +5,10 @@ topic: questionsuggestionfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.897Z
+lastCollected: 2026-03-12T09:33:21.455Z
 estimatedTokens: 1709
 namespace: Search
-keywords: [QuestionSuggestionFilter, Search.QuestionSuggestionFilter, filters, results, call, System.Search.suggest, searchQuery, sObjectType, options, SOSL, contains, FeedItem, object., addGroupId, groupId, Usage, addNetworkId, networkId, addUserId, userId]
+keywords: [QuestionSuggestionFilter, Search.QuestionSuggestionFilter, filters, results, call, System.Search.suggest, searchQuery, sObjectType, options, SOSL, FeedItem, addGroupId, groupId, Usage, addNetworkId]
 ---
 
 # QuestionSuggestionFilter Class

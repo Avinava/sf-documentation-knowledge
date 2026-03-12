@@ -5,9 +5,9 @@ topic: workflowrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.144Z
+lastCollected: 2026-03-12T09:33:46.215Z
 estimatedTokens: 471
-keywords: [WorkflowRule, Represents, workflow, rule, used, fire, off, specific, action, specified, criteria, met., Includes, access, associated, Salesforce, Metadata, API., Supported, SOAP]
+keywords: [WorkflowRule, workflow, rule, fire, off, specific, action, criteria, met, Includes, access, associated, Salesforce, Metadata, API]
 ---
 
 # WorkflowRule

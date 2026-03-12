@@ -5,9 +5,9 @@ topic: connectapicompliancejobstatusrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.715Z
+lastCollected: 2026-03-12T09:33:46.744Z
 estimatedTokens: 209
-keywords: [ConnectApi.ComplianceJobStatusRepresentation, Output, representation, job, status, response.]
+keywords: [Output, representation, job, status]
 ---
 
 # ConnectApi.ComplianceJobStatusRepresentation

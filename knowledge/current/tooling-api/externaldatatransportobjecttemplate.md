@@ -5,9 +5,9 @@ topic: externaldatatransportobjecttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:45.541Z
+lastCollected: 2026-03-12T09:33:44.658Z
 estimatedTokens: 17
-keywords: [ExternalDataTransportObjectTemplate, Reserved, internal, use.]
+keywords: [ExternalDataTransportObjectTemplate, Reserved, internal]
 ---
 
 # ExternalDataTransportObjectTemplate

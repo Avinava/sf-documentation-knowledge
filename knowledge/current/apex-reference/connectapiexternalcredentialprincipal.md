@@ -5,9 +5,9 @@ topic: connectapiexternalcredentialprincipal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.273Z
+lastCollected: 2026-03-12T09:33:27.361Z
 estimatedTokens: 389
-keywords: [ConnectApi.ExternalCredentialPrincipal, External, credential, principal.]
+keywords: [ConnectApi.ExternalCredentialPrincipal, External, credential, principal]
 ---
 
 # ConnectApi.ExternalCredentialPrincipal

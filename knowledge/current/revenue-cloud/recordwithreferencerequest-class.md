@@ -5,10 +5,10 @@ topic: recordwithreferencerequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.251Z
+lastCollected: 2026-03-12T09:33:06.355Z
 estimatedTokens: 1214
 namespace: RevSalesTrxn
-keywords: [RecordWithReferenceRequest, Contains, associate, record, reference, identifier., Example, referenceId]
+keywords: [RecordWithReferenceRequest, associate, record, identifier, referenceId]
 ---
 
 # RecordWithReferenceRequest Class

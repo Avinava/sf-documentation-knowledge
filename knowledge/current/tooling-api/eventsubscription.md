@@ -5,9 +5,9 @@ topic: eventsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.460Z
+lastCollected: 2026-03-12T09:33:44.584Z
 estimatedTokens: 915
-keywords: [EventSubscription, Represents, subscription, event, type., Removed, API, version, 46.0., 41.0, 45.0., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [EventSubscription, subscription, event, Removed, API, version, 46.0, 41.0, 45.0, SOAP, Calls, REST, HTTP]
 ---
 
 # EventSubscription

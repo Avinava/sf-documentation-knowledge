@@ -5,9 +5,9 @@ topic: lightningomnichannellogout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.246Z
+lastCollected: 2026-03-12T09:33:55.378Z
 estimatedTokens: 124
-keywords: [lightning, omniChannelLogout, Indicates, agent, logged, Omni-Channel., Response, Example]
+keywords: [lightning, omniChannelLogout, agent, logged, Omni-Channel]
 ---
 
 # lightning:omniChannelLogout

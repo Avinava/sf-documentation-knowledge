@@ -5,9 +5,9 @@ topic: pricingadjbatchjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.948Z
+lastCollected: 2026-03-12T09:33:11.970Z
 estimatedTokens: 1269
-keywords: [PricingAdjBatchJob, Represents, collective, update, multiple, records, their, prices, adjustments., API, version, 62.0, later., Supported, Calls, Fields, Usage, Associated, Objects]
+keywords: [PricingAdjBatchJob, collective, multiple, records, their, prices, adjustments, API, version, 62.0, later, Calls, Usage, Associated, Objects]
 ---
 
 # PricingAdjBatchJob

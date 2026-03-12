@@ -5,9 +5,9 @@ topic: customnotificationactiongroup-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:45.035Z
+lastCollected: 2026-03-12T09:33:44.172Z
 estimatedTokens: 454
-keywords: [CustomNotificationActionGroup, Beta, Stores, information, custom, notification, action, groups., API, version, 66.0, later., Important, Note, Supported, Calls, Fields]
+keywords: [CustomNotificationActionGroup, Beta, Stores, custom, notification, action, groups, API, version, 66.0, later, Calls]
 ---
 
 # CustomNotificationActionGroup (Beta)

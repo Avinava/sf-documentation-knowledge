@@ -5,10 +5,10 @@ topic: cdpdatastreams-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.759Z
+lastCollected: 2026-03-12T09:33:16.387Z
 estimatedTokens: 439
 namespace: ConnectApi
-keywords: [CdpDataStreams, Run, Data, 360, data, streams., runDataStream, recordIdOrDeveloperName, interactive, API, Version, Requires, Chatter]
+keywords: [CdpDataStreams, Run, Data, streams, runDataStream, recordIdOrDeveloperName, interactive, API, Version, Requires, Chatter]
 ---
 
 # CdpDataStreams Class

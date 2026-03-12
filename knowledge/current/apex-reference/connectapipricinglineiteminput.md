@@ -5,9 +5,9 @@ topic: connectapipricinglineiteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.354Z
+lastCollected: 2026-03-12T09:33:25.559Z
 estimatedTokens: 96
-keywords: [ConnectApi.PricingLineItemInput, Pricing, line, item.]
+keywords: [ConnectApi.PricingLineItemInput, Pricing, line, item]
 ---
 
 # ConnectApi.PricingLineItemInput

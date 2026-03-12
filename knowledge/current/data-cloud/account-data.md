@@ -5,9 +5,9 @@ topic: account-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.030Z
+lastCollected: 2026-03-12T09:33:12.949Z
 estimatedTokens: 369
-keywords: [Account, Data, data, represent, user, information, account, level., fields, allow, capture, many, customers, account., Example]
+keywords: [Account, Data, represent, user, level, allow, capture, customers]
 ---
 
 # Account Data

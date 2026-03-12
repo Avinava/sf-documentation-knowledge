@@ -5,9 +5,9 @@ topic: quotelinerateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.354Z
+lastCollected: 2026-03-12T09:33:12.341Z
 estimatedTokens: 395
-keywords: [QuoteLineRateAdjustment, Represents, negotiated, rate, adjustment, quote, line, item., API, version, 62.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [QuoteLineRateAdjustment, negotiated, rate, adjustment, quote, line, item, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---
 
 # QuoteLineRateAdjustment

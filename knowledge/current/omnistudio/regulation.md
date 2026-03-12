@@ -5,9 +5,9 @@ topic: regulation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.275Z
+lastCollected: 2026-03-12T09:33:52.673Z
 estimatedTokens: 1115
-keywords: [Regulation, Represents, information, laws, regulations, specified, regulatory, agencies, authorities., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [Regulation, laws, regulations, regulatory, agencies, authorities, API, version, 65.0, later, Calls, Associated, Objects]
 ---
 
 # Regulation

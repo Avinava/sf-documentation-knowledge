@@ -5,9 +5,9 @@ topic: indicatorresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:52.854Z
+lastCollected: 2026-03-12T09:33:51.429Z
 estimatedTokens: 1068
-keywords: [IndicatorResult, Represents, result, indicator, assignment, specified, time, period, used, track, performance, indicator., API, version, 59.0, later., Important, Supported, Calls, Special]
+keywords: [IndicatorResult, result, indicator, assignment, time, period, track, performance, API, version, 59.0, later, Calls, Special, Access]
 ---
 
 # IndicatorResult

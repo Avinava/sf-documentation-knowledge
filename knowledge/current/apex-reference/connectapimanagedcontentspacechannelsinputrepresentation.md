@@ -5,9 +5,9 @@ topic: connectapimanagedcontentspacechannelsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.113Z
+lastCollected: 2026-03-12T09:33:25.349Z
 estimatedTokens: 176
-keywords: [ConnectApi.ManagedContentSpaceChannelsInputRepresentation, Channels, add, remove, managed, content, space.]
+keywords: [Channels, add, remove, managed, content, space]
 ---
 
 # ConnectApi.ManagedContentSpaceChannelsInputRepresentation

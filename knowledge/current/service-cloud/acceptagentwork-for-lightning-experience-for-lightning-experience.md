@@ -6,9 +6,9 @@ topic: acceptagentwork-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.627Z
+lastCollected: 2026-03-12T09:33:55.730Z
 estimatedTokens: 107
-keywords: [acceptAgentWork, Lightning, Experience, Accepts, work, item, that’s, assigned, agent., Arguments, Sample, Code, Response]
+keywords: [acceptAgentWork, Lightning, Experience, Accepts, work, item, that’s, assigned, agent, Arguments, Sample, Code]
 ---
 
 # acceptAgentWork for Lightning Experience for

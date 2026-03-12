@@ -5,9 +5,9 @@ topic: compliance-control-log-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.116Z
+lastCollected: 2026-03-12T09:33:47.128Z
 estimatedTokens: 430
-keywords: [Compliance, Control, Log, Input, representation, compliance, control, logs.]
+keywords: [Compliance, Control, Log, Input, representation, logs]
 ---
 
 # Compliance Control Log Value Input

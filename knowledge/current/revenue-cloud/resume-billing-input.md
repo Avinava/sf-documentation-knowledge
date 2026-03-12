@@ -5,9 +5,9 @@ topic: resume-billing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.433Z
+lastCollected: 2026-03-12T09:33:08.282Z
 estimatedTokens: 116
-keywords: [Resume, Billing, Input, representation, details, request, resume, billing, operation, account, schedule, group.]
+keywords: [Resume, Billing, Input, representation, operation, account, schedule, group]
 ---
 
 # Resume Billing Input

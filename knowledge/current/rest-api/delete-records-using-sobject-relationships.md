@@ -5,9 +5,9 @@ topic: delete-records-using-sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.071Z
+lastCollected: 2026-03-12T09:33:35.916Z
 estimatedTokens: 503
-keywords: [Delete, Records, sObject, Relationships, Deletes, parent, record, based, specified, relationship, field, name., Only, child-to-parent, traversed, delete, records., Syntax, Example]
+keywords: [Records, sObject, Relationships, Deletes, parent, record, relationship, child-to-parent, traversed]
 ---
 
 # Delete Records Using sObject Relationships

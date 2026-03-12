@@ -5,9 +5,9 @@ topic: connectapiproductsearchsuggestionsresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.622Z
+lastCollected: 2026-03-12T09:33:28.653Z
 estimatedTokens: 73
-keywords: [ConnectApi.ProductSearchSuggestionsResults, Product, search, suggestions, results.]
+keywords: [Product, search, suggestions, results]
 ---
 
 # ConnectApi.ProductSearchSuggestionsResults

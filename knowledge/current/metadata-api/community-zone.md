@@ -5,9 +5,9 @@ topic: community-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.795Z
+lastCollected: 2026-03-12T09:33:37.544Z
 estimatedTokens: 1476
-keywords: [Community, Zone, Represents, zone, contains, Ideas, Chatter, Answers, objects., Zones, shared, features, allowing, view, create, zones, those, locations.This, extends, Metadata]
+keywords: [Community, Zone, Ideas, Chatter, Answers, objects, Zones, shared, features, allowing, view, locations.This, extends, Metadata, inherits]
 ---
 
 # Community (Zone)

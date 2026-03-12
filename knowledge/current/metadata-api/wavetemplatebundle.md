@@ -5,9 +5,9 @@ topic: wavetemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.913Z
+lastCollected: 2026-03-12T09:33:43.144Z
 estimatedTokens: 686
-keywords: [WaveTemplateBundle, Represents, Analytics, template, bundle, which, used, create, apps., contains, definition, its, related, resources.This, extends, Metadata, metadata, inherits, fullName, field.]
+keywords: [WaveTemplateBundle, Analytics, template, bundle, apps, definition, resources.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---
 
 # WaveTemplateBundle

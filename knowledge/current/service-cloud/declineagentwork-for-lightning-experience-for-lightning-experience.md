@@ -6,9 +6,9 @@ topic: declineagentwork-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.681Z
+lastCollected: 2026-03-12T09:33:55.782Z
 estimatedTokens: 129
-keywords: [declineAgentWork, Lightning, Experience, Declines, work, item, that’s, assigned, agent., Arguments, Sample, Code, Response]
+keywords: [declineAgentWork, Lightning, Experience, Declines, work, item, that’s, assigned, agent, Arguments, Sample, Code]
 ---
 
 # declineAgentWork for Lightning Experience for

@@ -5,10 +5,10 @@ topic: saleapipaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.083Z
+lastCollected: 2026-03-12T09:33:22.469Z
 estimatedTokens: 1717
 namespace: CommercePayments
-keywords: [SaleApiPaymentMethodRequest, Sends, data, related, card, payment, gateway, adapter, during, sale, service, call., Usage, Example, cardPaymentMethodRequest, cardPaymentMethod, standardEntryClassCode, equals, obj, hashCode]
+keywords: [SaleApiPaymentMethodRequest, data, card, payment, gateway, adapter, sale, service, call, Usage, cardPaymentMethodRequest, cardPaymentMethod, standardEntryClassCode, equals, obj]
 ---
 
 # SaleApiPaymentMethodRequest Class

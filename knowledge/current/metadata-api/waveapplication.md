@@ -5,9 +5,9 @@ topic: waveapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.870Z
+lastCollected: 2026-03-12T09:33:43.108Z
 estimatedTokens: 523
-keywords: [WaveApplication, Represents, Analytics, application., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [WaveApplication, Analytics, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
 ---
 
 # WaveApplication

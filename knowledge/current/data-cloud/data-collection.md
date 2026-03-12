@@ -5,9 +5,9 @@ topic: data-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.108Z
+lastCollected: 2026-03-12T09:33:15.780Z
 estimatedTokens: 357
-keywords: [Data, Collection, Before, Salesforce, Interactions, SDK, begin, capturing, data, initialize, gain, user’s, consent, track, data., Capturing, User, Engagement, Profile]
+keywords: [Data, Collection, Salesforce, Interactions, SDK, begin, capturing, initialize, gain, user’s, consent, track, User, Engagement, Profile]
 ---
 
 # Data Collection

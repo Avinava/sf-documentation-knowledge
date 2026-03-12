@@ -5,9 +5,9 @@ topic: productattributedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:11.050Z
+lastCollected: 2026-03-12T09:33:12.054Z
 estimatedTokens: 2047
-keywords: [ProductAttributeDefinition, Represents, relationship, between, product, its, attributes., API, version, 60.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ProductAttributeDefinition, relationship, product, attributes, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ProductAttributeDefinition

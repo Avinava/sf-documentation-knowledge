@@ -5,9 +5,9 @@ topic: commerce-location-group-product-inventory-change-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.597Z
+lastCollected: 2026-03-12T09:33:15.309Z
 estimatedTokens: 472
-keywords: [Commerce, Location, Group, Product, Inventory, Change, Mapping, Omnichannel, connector, Data, Cloud, automatically, maps, data, source, objects, model, DMO, establishes, relationships.]
+keywords: [Commerce, Location, Group, Product, Inventory, Change, Mapping, Omnichannel, connector, Data, Cloud, automatically, maps, source, objects]
 ---
 
 # Commerce: Location Group Product Inventory Change Mapping

@@ -5,10 +5,10 @@ topic: mydomainlogindiscoveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.850Z
+lastCollected: 2026-03-12T09:33:29.907Z
 estimatedTokens: 1370
 namespace: Auth
-keywords: [MyDomainLoginDiscoveryHandler, handler, used, implement, Domain, Login, Discovery, page, which, interview-based, two-step, login, process., First, user, prompted, unique, identifier, such, email]
+keywords: [MyDomainLoginDiscoveryHandler, handler, implement, Domain, Login, Discovery, interview-based, two-step, process, user, prompted, unique, identifier, email, address]
 ---
 
 # MyDomainLoginDiscoveryHandler Interface

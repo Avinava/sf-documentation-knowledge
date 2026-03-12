@@ -5,9 +5,9 @@ topic: accountintelligencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.498Z
+lastCollected: 2026-03-12T09:33:36.321Z
 estimatedTokens: 779
-keywords: [AccountIntelligenceSettings, Represents, org’s, Account, Intelligence, settings., settings, control, features, easy, sales, reps, create, accounts, relevant, news, articles, add, logos, account]
+keywords: [AccountIntelligenceSettings, org’s, Account, Intelligence, settings, control, features, easy, sales, reps, accounts, relevant, news, articles, add]
 ---
 
 # AccountIntelligenceSettings

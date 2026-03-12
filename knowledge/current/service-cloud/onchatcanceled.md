@@ -5,9 +5,9 @@ topic: onchatcanceled
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.183Z
+lastCollected: 2026-03-12T09:33:56.254Z
 estimatedTokens: 158
-keywords: [onChatCanceled, Registers, function, call, chat, visitor, cancels, request., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [onChatCanceled, Registers, function, call, chat, visitor, cancels, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # onChatCanceled()

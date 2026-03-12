@@ -5,9 +5,9 @@ topic: connectapigrouprecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.786Z
+lastCollected: 2026-03-12T09:33:25.963Z
 estimatedTokens: 128
-keywords: [ConnectApi.GroupRecord, record, associated, group.]
+keywords: [ConnectApi.GroupRecord, record, associated, group]
 ---
 
 # ConnectApi.GroupRecord

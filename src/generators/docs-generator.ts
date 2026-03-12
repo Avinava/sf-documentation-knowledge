@@ -1,6 +1,5 @@
 import fs from "fs-extra";
 import path from "node:path";
-import { getCollectableDomains } from "../config/domains.js";
 import { createChildLogger } from "../utils/logger.js";
 
 const log = createChildLogger("generator:docs-generator");
@@ -16,52 +15,83 @@ export async function generateReadmeStats(
     return;
   }
 
-  const domains = getCollectableDomains();
+  // Scan the actual knowledge directory — not hardcoded domains
+  const domainDirs = await fs.readdir(knowledgeDir);
   const rows: string[] = [];
   let totalFiles = 0;
+  let totalDomains = 0;
+
+  interface DomainEntry {
+    id: string;
+    name: string;
+    description: string;
+    fileCount: number;
+  }
+
+  const domains: DomainEntry[] = [];
+
+  for (const dir of domainDirs) {
+    const domainPath = path.join(knowledgeDir, dir);
+    const stat = await fs.stat(domainPath);
+    if (!stat.isDirectory()) continue;
+
+    const indexPath = path.join(domainPath, "_index.md");
+    if (!(await fs.pathExists(indexPath))) continue;
+
+    const indexContent = await fs.readFile(indexPath, "utf-8");
+
+    // Parse name from frontmatter
+    const nameMatch = indexContent.match(/name:\s*(.+)/);
+    const name = nameMatch?.[1]?.trim() || dir;
+
+    // Parse description from blockquote
+    const descMatch = indexContent.match(/^>\s*(.+)$/m);
+    const description = descMatch?.[1]?.trim().slice(0, 80) || "";
+
+    // Count files
+    const files = await fs.readdir(domainPath);
+    const fileCount = files.filter(
+      (f) => f.endsWith(".md") && f !== "_index.md",
+    ).length;
+
+    if (fileCount > 0) {
+      totalFiles += fileCount;
+      totalDomains++;
+      domains.push({ id: dir, name, description, fileCount });
+    }
+  }
+
+  // Sort by file count desc, show top 30 in README + summary row
+  domains.sort((a, b) => b.fileCount - a.fileCount);
 
   // Build the new markdown table
   rows.push("| Domain | Description | Status | Files |");
   rows.push("|---|---|---|---|");
 
-  domains.sort((a, b) => {
-    if (a.priority !== b.priority) return a.priority.localeCompare(b.priority);
-    return a.name.localeCompare(b.name);
-  });
+  const displayDomains = domains.slice(0, 30);
+  const remaining = domains.slice(30);
 
-  for (const domain of domains) {
-    const domainDir = path.join(knowledgeDir, domain.id);
-    let fileCount = 0;
-    let status = "Not Collected";
-
-    try {
-      if (await fs.pathExists(domainDir)) {
-        const files = await fs.readdir(domainDir);
-        fileCount = files.filter(
-          (f) => f.endsWith(".md") && f !== "_index.md",
-        ).length;
-        if (fileCount > 0) {
-          status = "✅ Available";
-          totalFiles += fileCount;
-        }
-      }
-    } catch (err) {
-      // ignore
-    }
-
-    // Use HTML breaks to keep the table compact
+  for (const domain of displayDomains) {
     rows.push(
-      `| **${domain.name}** | ${domain.description} | ${status} | ${fileCount} |`,
+      `| **${domain.name}** | ${domain.description.replace(/\|/g, "\\|")} | ✅ Available | ${domain.fileCount} |`,
     );
   }
+
+  if (remaining.length > 0) {
+    const remainingFiles = remaining.reduce((s, d) => s + d.fileCount, 0);
+    rows.push(
+      `| *+ ${remaining.length} more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *${remainingFiles.toLocaleString()}* |`,
+    );
+  }
+
+  rows.push("");
+  rows.push(
+    `*${totalDomains} domains | ${totalFiles.toLocaleString()} knowledge files*`,
+  );
 
   // Read existing README
   let readmeContent = await fs.readFile(readmePath, "utf-8");
 
-  // Replace the table between markers (or under the ## Documentation header)
-  const startMarker =
-    "## Documentation\\n\\n| Document | Description |\\n|---|---|";
-  // We will place a marker to make future replacements easier
   const markerStart = "<!-- INVENTORY:START -->";
   const markerEnd = "<!-- INVENTORY:END -->";
 
@@ -69,27 +99,23 @@ export async function generateReadmeStats(
     readmeContent.includes(markerStart) &&
     readmeContent.includes(markerEnd)
   ) {
-    // Replce existing marker block
     const regex = new RegExp(`${markerStart}[\\s\\S]*?${markerEnd}`);
     readmeContent = readmeContent.replace(
       regex,
       `${markerStart}\n${rows.join("\n")}\n${markerEnd}`,
     );
   } else {
-    // Append to the end or replace a known section if markers don't exist
     const docSectionIndex = readmeContent.indexOf("## Documentation");
     if (docSectionIndex !== -1) {
-      // Just append it after the Documentation header
       readmeContent =
         readmeContent.substring(0, docSectionIndex) +
         "## Documentation\n\n" +
-        `${markerStart}\n${rows.join("\n")}\n${markerEnd}\n\n` +
-        `*Total Domains: ${domains.length} | Total Knowledge Files: ${totalFiles}*\n`;
+        `${markerStart}\n${rows.join("\n")}\n${markerEnd}\n`;
     } else {
       readmeContent += `\n## Documentation\n\n${markerStart}\n${rows.join("\n")}\n${markerEnd}\n`;
     }
   }
 
   await fs.writeFile(readmePath, readmeContent, "utf-8");
-  log.info({ totalFiles }, "README.md updated successfully");
+  log.info({ totalFiles, totalDomains }, "README.md updated successfully");
 }

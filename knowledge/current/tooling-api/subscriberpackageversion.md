@@ -5,10 +5,10 @@ topic: subscriberpackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:46.885Z
+lastCollected: 2026-03-12T09:33:45.964Z
 estimatedTokens: 2896
 namespace: NamespaceCollision
-keywords: [SubscriberPackageVersion, Represents, package, version, first-, second-generation, across, Salesforce, instances., API, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Fields, SubscriberPackageCspTrustedSites, SubscriberPackageCspTrustedSite]
+keywords: [SubscriberPackageVersion, package, version, first-, second-generation, across, Salesforce, instances, API, 41.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # SubscriberPackageVersion

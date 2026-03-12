@@ -1,0 +1,57 @@
+---
+title: "ApplicationActionItem"
+domain: sfFieldRef
+topic: applicationactionitem
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:35:47.431Z
+estimatedTokens: 397
+keywords: [ApplicationActionItem, Stores, action, items, assigned, user, application, API, version, 61.0, later, Digital, Lending, permission]
+---
+
+# ApplicationActionItem
+
+> Stores the action items assigned to a user on an application.
+      This object is available in API version 61.0 and later. Available with Digital Lending
+      permission set.
+
+# ApplicationActionItem
+
+Stores the action items assigned to a user on an application. This object is available in API version 61.0 and later. Available with Digital Lending permission set.
+
+This guide only lists certain information for each object. For more information, including descriptions of the fields, see ApplicationActionItem in the Financial Services Cloud Developer Guide.
+
+## Fields
+
+| Field Name | Field Label | Type | Digits | Length | Precision | Scale |
+| --- | --- | --- | --- | --- | --- | --- |
+| AssignedToId | Assigned To ID | reference |  | 18 |  |  |
+| CreatedById | Created By ID | reference |  | 18 |  |  |
+| CreatedDate | Created Date | datetime |  |  |  |  |
+| Description | Description | textarea |  | 255 |  |  |
+| DueDate | Due Date | date |  |  |  |  |
+| Id | Application Action Item ID | id |  | 18 |  |  |
+| IsDeleted | Deleted | boolean |  |  |  |  |
+| LastModifiedById | Last Modified By ID | reference |  | 18 |  |  |
+| LastModifiedDate | Last Modified Date | datetime |  |  |  |  |
+| LastReferencedDate | Last Referenced Date | datetime |  |  |  |  |
+| LastViewedDate | Last Viewed Date | datetime |  |  |  |  |
+| Name | Name | string |  | 255 |  |  |
+| OwnerId | Owner ID | reference |  | 18 |  |  |
+| RelatedApplnActnItmId | Related Application Action Item ID | reference |  | 18 |  |  |
+| RelatedRecordId | Related Record ID | reference |  | 18 |  |  |
+| Status | Status | picklist |  | 40 |  |  |
+| Subject | Subject | string |  | 255 |  |  |
+| SystemModstamp | System Modstamp | datetime |  |  |  |  |
+| Type | Type | picklist |  | 40 |  |  |
+
+## Related Topics
+
+- Field Name (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
+- Field Label (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
+- Type (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
+- Digits (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
+- Length (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
+- Precision (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
+- Scale (atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)

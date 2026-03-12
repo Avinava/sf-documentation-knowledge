@@ -5,9 +5,9 @@ topic: edit-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.324Z
+lastCollected: 2026-03-12T09:33:34.309Z
 estimatedTokens: 374
-keywords: [Edit, Feed, Element, Call, edit, feed, element.]
+keywords: [Edit, Feed, Element, Call]
 ---
 
 # Edit a Feed Element

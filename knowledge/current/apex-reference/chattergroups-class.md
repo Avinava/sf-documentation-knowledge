@@ -5,10 +5,10 @@ topic: chattergroups-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.291Z
+lastCollected: 2026-03-12T09:33:17.918Z
 estimatedTokens: 20666
 namespace: ConnectApi
-keywords: [ChatterGroups, Associate, record, group., addMember, communityId, groupId, userId, API, Version, Requires, Chatter, Usage, addMemberWithRole, role, addRecord, recordId, createGroup, groupInput, deleteBannerPhoto]
+keywords: [ChatterGroups, Associate, record, group, addMember, communityId, groupId, userId, API, Version, Requires, Chatter, Usage, addMemberWithRole, role]
 ---
 
 # ChatterGroups Class

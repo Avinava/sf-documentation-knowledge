@@ -5,10 +5,10 @@ topic: kbmanagement-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.559Z
+lastCollected: 2026-03-12T09:33:31.614Z
 estimatedTokens: 108
 namespace: KbManagement
-keywords: [KbManagement, provides, managing, knowledge, articles.]
+keywords: [KbManagement, managing, knowledge, articles]
 ---
 
 # KbManagement Namespace

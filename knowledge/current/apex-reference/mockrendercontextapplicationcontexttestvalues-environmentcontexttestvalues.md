@@ -5,9 +5,9 @@ topic: mockrendercontextapplicationcontexttestvalues-environmentcontexttestvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.397Z
+lastCollected: 2026-03-12T09:33:20.052Z
 estimatedTokens: 841
-keywords: [mockRenderContext, applicationContextTestValues, environmentContextTestValues, Creates, test, Canvas.RenderContext, based, provided, application, environment, context, parameters., Usage, Example]
+keywords: [mockRenderContext, applicationContextTestValues, environmentContextTestValues, Creates, test, Canvas.RenderContext, provided, application, environment, context, Usage]
 ---
 
 # mockRenderContext(applicationContextTestValues, environmentContextTestValues)

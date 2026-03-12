@@ -5,9 +5,9 @@ topic: configurator-added-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.898Z
+lastCollected: 2026-03-12T09:33:07.819Z
 estimatedTokens: 354
-keywords: [Configurator, Added, Node, Input, representation, nodes, added, product, configuration.]
+keywords: [Configurator, Added, Node, Input, representation, nodes, product, configuration]
 ---
 
 # Configurator Added Node Input

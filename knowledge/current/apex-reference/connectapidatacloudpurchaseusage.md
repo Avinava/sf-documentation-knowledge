@@ -5,9 +5,9 @@ topic: connectapidatacloudpurchaseusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.997Z
+lastCollected: 2026-03-12T09:33:27.086Z
 estimatedTokens: 207
-keywords: [ConnectApi.DatacloudPurchaseUsage, Information, Data.com, point, usage, monthly, list, pool, users.]
+keywords: [ConnectApi.DatacloudPurchaseUsage, Data.com, point, usage, monthly, pool, users]
 ---
 
 # ConnectApi.DatacloudPurchaseUsage

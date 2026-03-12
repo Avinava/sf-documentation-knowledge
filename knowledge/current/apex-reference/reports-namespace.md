@@ -5,10 +5,10 @@ topic: reports-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.583Z
+lastCollected: 2026-03-12T09:33:31.639Z
 estimatedTokens: 3464
 namespace: Reports
-keywords: [Reports, provides, classes, accessing, same, data, Salesforce, Dashboards, REST, API.]
+keywords: [Reports, classes, accessing, data, Salesforce, Dashboards, REST, API]
 ---
 
 # Reports Namespace

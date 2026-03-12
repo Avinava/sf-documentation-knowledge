@@ -5,9 +5,9 @@ topic: connectapiactivationdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.001Z
+lastCollected: 2026-03-12T09:33:26.178Z
 estimatedTokens: 238
-keywords: [ConnectApi.ActivationData, Represents, activation, data, Audience, Data, Model, DMO]
+keywords: [ConnectApi.ActivationData, activation, data, Audience, Model, DMO]
 ---
 
 # ConnectApi.ActivationData

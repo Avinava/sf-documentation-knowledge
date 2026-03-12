@@ -5,9 +5,9 @@ topic: datasourcefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.540Z
+lastCollected: 2026-03-12T09:33:38.234Z
 estimatedTokens: 1158
-keywords: [DataSourceField, Represents, details, data, source, field., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample]
+keywords: [DataSourceField, data, source, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample]
 ---
 
 # DataSourceField

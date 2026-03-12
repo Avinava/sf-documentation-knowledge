@@ -5,9 +5,9 @@ topic: connectapibatchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.187Z
+lastCollected: 2026-03-12T09:33:26.356Z
 estimatedTokens: 1127
-keywords: [ConnectApi.BatchResult, result, operation, returned, batch, method., Usage, Example]
+keywords: [ConnectApi.BatchResult, result, operation, batch, Usage]
 ---
 
 # ConnectApi.BatchResult

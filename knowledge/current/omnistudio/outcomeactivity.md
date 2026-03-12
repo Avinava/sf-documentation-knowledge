@@ -5,9 +5,9 @@ topic: outcomeactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.871Z
+lastCollected: 2026-03-12T09:33:51.445Z
 estimatedTokens: 1007
-keywords: [OutcomeActivity, Represents, junction, between, Outcome, that's, related, activity, undertaken, organization, achieve, outcome., API, version, 59.0, later., Important, Supported, Calls, Special]
+keywords: [OutcomeActivity, junction, Outcome, that's, activity, undertaken, organization, achieve, API, version, 59.0, later, Calls, Special, Access]
 ---
 
 # OutcomeActivity

@@ -5,9 +5,9 @@ topic: pricing-generic-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.055Z
+lastCollected: 2026-03-12T09:33:09.601Z
 estimatedTokens: 109
-keywords: [Pricing, Generic, Response, Output, representation, pricing, data, sync, request.]
+keywords: [Pricing, Generic, Output, representation, data, sync]
 ---
 
 # Pricing Generic Response

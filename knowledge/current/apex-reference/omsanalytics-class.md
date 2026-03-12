@@ -5,10 +5,10 @@ topic: omsanalytics-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.542Z
+lastCollected: 2026-03-12T09:33:19.219Z
 estimatedTokens: 509
 namespace: ConnectApi
-keywords: [OMSAnalytics, OMSAnalytics., static., Get, products, rates, get, text, classified, different, classifications, analysis, capture, reasons, external, sources, based, product, ids.]
+keywords: [OMSAnalytics, products, rates, text, classified, different, classifications, analysis, capture, reasons, external, sources, product, ids]
 ---
 
 # OMSAnalytics Class

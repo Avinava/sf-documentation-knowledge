@@ -5,9 +5,9 @@ topic: taxengine
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:11.577Z
+lastCollected: 2026-03-12T09:33:12.541Z
 estimatedTokens: 906
-keywords: [TaxEngine, Represents, information, instance, tax, engine, provider, well, merchant, credentials, specific, instance., API, version, 62.0, later., Supported, Calls, Special, Access]
+keywords: [TaxEngine, instance, tax, engine, provider, well, merchant, credentials, specific, API, version, 62.0, later, Calls, Special]
 ---
 
 # TaxEngine

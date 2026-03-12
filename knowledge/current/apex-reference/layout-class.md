@@ -5,10 +5,10 @@ topic: layout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.420Z
+lastCollected: 2026-03-12T09:33:20.927Z
 estimatedTokens: 4219
 namespace: Metadata
-keywords: [Layout, Represents, metadata, associated, page, layout., Usage, customButtons, customConsoleComponents, emailDefault, excludeButtons, feedLayout, headers, layoutSections, miniLayout, multilineLayoutFields, platformActionList, quickActionList, relatedContent, relatedLists]
+keywords: [Layout, metadata, associated, Usage, customButtons, customConsoleComponents, emailDefault, excludeButtons, feedLayout, layoutSections, miniLayout, multilineLayoutFields, platformActionList, quickActionList, relatedContent]
 ---
 
 # Layout Class

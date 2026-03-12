@@ -5,9 +5,9 @@ topic: post-draft-credit-memo-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.927Z
+lastCollected: 2026-03-12T09:33:06.064Z
 estimatedTokens: 301
-keywords: [Post, Draft, Credit, Memo, Action, draft, credit, memo, record, review, approval., Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Post, Draft, Credit, Memo, Action, record, review, approval, REST, HTTP, Inputs, Outputs]
 ---
 
 # Post Draft Credit Memo Action

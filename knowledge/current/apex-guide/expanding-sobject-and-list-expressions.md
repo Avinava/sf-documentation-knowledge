@@ -5,9 +5,9 @@ topic: expanding-sobject-and-list-expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.753Z
+lastCollected: 2026-03-12T09:33:34.669Z
 estimatedTokens: 237
-keywords: [Expanding, sObject, List, Expressions, Java, list, expressions, expanded, references, respectively, form, new, expressions.]
+keywords: [Expanding, sObject, Expressions, Java, expanded, references, respectively, form, new]
 ---
 
 # Expanding sObject and List Expressions

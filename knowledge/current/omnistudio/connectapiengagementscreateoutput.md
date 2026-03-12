@@ -5,9 +5,9 @@ topic: connectapiengagementscreateoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.751Z
+lastCollected: 2026-03-12T09:33:46.776Z
 estimatedTokens: 119
-keywords: [ConnectApi.EngagementsCreateOutput, Output, representation, create, engagement, record, along, status.]
+keywords: [ConnectApi.EngagementsCreateOutput, Output, representation, engagement, record, along, status]
 ---
 
 # ConnectApi.EngagementsCreateOutput

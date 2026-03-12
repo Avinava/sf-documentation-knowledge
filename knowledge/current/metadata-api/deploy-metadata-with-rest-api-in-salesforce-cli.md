@@ -5,9 +5,9 @@ topic: deploy-metadata-with-rest-api-in-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.456Z
+lastCollected: 2026-03-12T09:33:41.876Z
 estimatedTokens: 576
-keywords: [Deploy, Metadata, REST, API, Salesforce, CLI, default, project, deploy, start, command, uses, SOAP, source, org., instead, setting, configuration, environment, variable.]
+keywords: [Deploy, Metadata, REST, API, Salesforce, CLI, project, start, command, uses, SOAP, source, org, instead, setting]
 ---
 
 # Deploy Metadata with REST API in Salesforce CLI

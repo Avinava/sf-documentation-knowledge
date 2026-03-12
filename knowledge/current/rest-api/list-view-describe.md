@@ -5,9 +5,9 @@ topic: list-view-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.703Z
+lastCollected: 2026-03-12T09:33:35.553Z
 estimatedTokens: 109
-keywords: [List, View, Describe, detailed, information, list, view, including, columns, SOQL, query., Example]
+keywords: [View, Describe, detailed, including, columns, SOQL, query]
 ---
 
 # List View Describe

@@ -5,9 +5,9 @@ topic: identityprovidersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.402Z
+lastCollected: 2026-03-12T09:33:39.895Z
 estimatedTokens: 678
-keywords: [IdentityProviderSettings, Represents, settings, used, enable, disable, Salesforce, SAML, identity, provider, single, sign-on, SSO, Parent, Manifest, Access, File, Suffix, Directory, Location]
+keywords: [IdentityProviderSettings, settings, enable, disable, Salesforce, SAML, identity, provider, sign-on, SSO, Parent, Manifest, Access, File, Suffix]
 ---
 
 # IdentityProviderSettings

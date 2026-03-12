@@ -5,9 +5,9 @@ topic: location-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.218Z
+lastCollected: 2026-03-12T09:33:13.157Z
 estimatedTokens: 249
-keywords: [Location, Tracking, Data, Cloud, Module, Engagement, Mobile, SDK, supports, location, tracking, events., Enable, functionality, setLocation, set, coordinates, expiresIn., Note]
+keywords: [Location, Tracking, Data, Cloud, Module, Engagement, Mobile, SDK, supports, events, Enable, functionality, setLocation, coordinates, expiresIn]
 ---
 
 # Location Tracking

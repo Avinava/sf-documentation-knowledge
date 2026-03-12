@@ -5,9 +5,9 @@ topic: flow-for-intelligent-form-reader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.212Z
+lastCollected: 2026-03-12T09:33:49.898Z
 estimatedTokens: 300
-keywords: [Flow, Intelligent, Form, Reader, Represents, metadata, associated, flow., flow, create, application, navigates, users, through, series, screens, query, update, records, database.]
+keywords: [Flow, Intelligent, Form, Reader, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
 ---
 
 # Flow for Intelligent Form Reader

@@ -5,9 +5,9 @@ topic: timeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:54.442Z
+lastCollected: 2026-03-12T09:33:52.823Z
 estimatedTokens: 297
-keywords: [Timeline, component, shows, key, events, relating, person, resource, place, users, information, single, source, truth.]
+keywords: [Timeline, component, key, events, relating, person, resource, place, users, source, truth]
 ---
 
 # Timeline

@@ -5,9 +5,9 @@ topic: conversationchanneldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:38.017Z
+lastCollected: 2026-03-12T09:33:37.735Z
 estimatedTokens: 3176
-keywords: [ConversationChannelDefinition, Represents, conversation, channel, definition, that’s, implemented, Interaction, Service, Bring, Own, Channel, Messaging, CCaaS, messaging, channels., API, version, 60.0, later.]
+keywords: [ConversationChannelDefinition, conversation, channel, definition, that’s, implemented, Interaction, Service, Bring, Own, Messaging, CCaaS, channels, API, version]
 ---
 
 # ConversationChannelDefinition

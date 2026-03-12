@@ -5,9 +5,9 @@ topic: seller-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.466Z
+lastCollected: 2026-03-12T09:33:08.309Z
 estimatedTokens: 78
-keywords: [Seller, Details, Input, representation, seller, details, tax, calculation.]
+keywords: [Seller, Input, representation, tax, calculation]
 ---
 
 # Seller Details Input

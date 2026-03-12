@@ -5,7 +5,7 @@ topic: connectapitaxtransactionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.131Z
+lastCollected: 2026-03-12T09:33:29.174Z
 estimatedTokens: 368
 keywords: [ConnectApi.TaxTransactionResponse, Tax, transaction, output, representation]
 ---

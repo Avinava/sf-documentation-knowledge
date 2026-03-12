@@ -5,9 +5,9 @@ topic: financial-account-party-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.034Z
+lastCollected: 2026-03-12T09:33:14.790Z
 estimatedTokens: 522
-keywords: [Financial, Account, Party, DMO, Represents, role, organization, account, person, related, financial, account., Provided, Services, Cloud, Data, Kit., API, version, later.]
+keywords: [Financial, Account, Party, DMO, role, organization, person, Provided, Services, Cloud, Data, Kit, API, version, later]
 ---
 
 # Financial Account Party DMO

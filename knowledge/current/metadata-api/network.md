@@ -5,9 +5,9 @@ topic: network
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:41.411Z
+lastCollected: 2026-03-12T09:33:40.878Z
 estimatedTokens: 9799
-keywords: [Network, Represents, Experience, Cloud, site., Salesforce, lets, create, branded, spaces, employees, customers, partners., customize, experiences, whether, they’re, communities, sites, portals]
+keywords: [Network, Experience, Cloud, site, Salesforce, lets, branded, spaces, employees, customers, partners, customize, experiences, whether, they’re]
 ---
 
 # Network

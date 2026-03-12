@@ -5,9 +5,9 @@ topic: data-mapper-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.079Z
+lastCollected: 2026-03-12T09:33:47.977Z
 estimatedTokens: 299
-keywords: [Data, Mapper, Execution, POST, Execute, data, mapper, Apex, classes, specifying, name, along, additional, inputs, options.]
+keywords: [Data, Mapper, Execution, POST, Execute, Apex, classes, specifying, along, additional, inputs, options]
 ---
 
 # Data Mapper Execution (POST)

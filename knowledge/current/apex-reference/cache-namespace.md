@@ -5,10 +5,10 @@ topic: cache-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.641Z
+lastCollected: 2026-03-12T09:33:31.697Z
 estimatedTokens: 674
 namespace: Cache
-keywords: [Cache, contains, managing, platform, cache.]
+keywords: [Cache, managing, platform]
 ---
 
 # Cache Namespace

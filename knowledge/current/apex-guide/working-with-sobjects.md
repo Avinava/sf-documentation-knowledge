@@ -5,9 +5,9 @@ topic: working-with-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.572Z
+lastCollected: 2026-03-12T09:33:34.501Z
 estimatedTokens: 147
-keywords: [Working, sObjects, developer, guide, term, sObject, refers, any, stored, Lightning, platform, database.]
+keywords: [Working, sObjects, developer, term, sObject, refers, any, stored, Lightning, platform, database]
 ---
 
 # Working with sObjects

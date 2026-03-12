@@ -5,9 +5,9 @@ topic: customer-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.036Z
+lastCollected: 2026-03-12T09:33:07.934Z
 estimatedTokens: 79
-keywords: [Customer, Details, Input, representation, customer, details, tax, calculation.]
+keywords: [Customer, Input, representation, tax, calculation]
 ---
 
 # Customer Details Input

@@ -5,10 +5,10 @@ topic: businessrule-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.878Z
+lastCollected: 2026-03-12T09:33:46.897Z
 estimatedTokens: 309
 namespace: BusinessRule
-keywords: [BusinessRule, provides, classes, migrating, calculation, matrices, procedures, Vlocity, Business, Rules, Engine, Salesforce.]
+keywords: [BusinessRule, classes, migrating, calculation, matrices, procedures, Vlocity, Business, Rules, Engine, Salesforce]
 ---
 
 # BusinessRule Namespace

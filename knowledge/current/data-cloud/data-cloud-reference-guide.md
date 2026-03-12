@@ -5,9 +5,9 @@ topic: data-cloud-reference-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.364Z
+lastCollected: 2026-03-12T09:33:13.316Z
 estimatedTokens: 1221
-keywords: [Data, Cloud, Reference, Guide, Salesforce, provides, programmatic, access, information, simple, robust, secure, RESTful, APIs., integrate, web, mobile, applications, SDKs., Integrate]
+keywords: [Data, Cloud, Salesforce, programmatic, access, simple, robust, secure, RESTful, APIs, integrate, web, mobile, applications, SDKs]
 ---
 
 # Data Cloud Reference Guide

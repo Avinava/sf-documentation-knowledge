@@ -5,9 +5,9 @@ topic: platform-cache-partitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:32.304Z
+lastCollected: 2026-03-12T09:33:32.341Z
 estimatedTokens: 1051
-keywords: [Platform, Cache, Partitions, partitions, improve, performance, applications., allow, distribute, cache, space, way, works, best, Caching, data, designated, ensures, it’s, overwritten]
+keywords: [Platform, Cache, Partitions, improve, performance, applications, allow, distribute, space, way, works, best, Caching, data, designated]
 ---
 
 # Platform Cache Partitions

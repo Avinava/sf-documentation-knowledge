@@ -5,9 +5,9 @@ topic: applicationsubtypedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.948Z
+lastCollected: 2026-03-12T09:33:50.575Z
 estimatedTokens: 406
-keywords: [ApplicationSubtypeDefinition, Represents, subtype, application., Create, application, definitions, define, types, applications, used, Decision, Explainer, entities., Important, Parent, File, Suffix, Directory, Location]
+keywords: [ApplicationSubtypeDefinition, subtype, application, definitions, define, applications, Decision, Explainer, entities, Parent, File, Suffix, Directory, Location, Version, domain, API, version, 54.0, later]
 ---
 
 # ApplicationSubtypeDefinition

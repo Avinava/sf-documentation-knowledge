@@ -5,9 +5,9 @@ topic: query-customer-profile-information-with-profile-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.411Z
+lastCollected: 2026-03-12T09:33:13.359Z
 estimatedTokens: 1702
-keywords: [Query, Customer, Profile, Information, API, Data, Cloud, calls, used, look, search, customer, profile, information., included, external, web, mobile, apps, Note]
+keywords: [Query, Customer, Profile, API, Data, Cloud, calls, look, search, included, external, web, mobile, apps, Key]
 ---
 
 # Query Customer Profile Information with Profile API

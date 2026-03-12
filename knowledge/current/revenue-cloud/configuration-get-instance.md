@@ -5,9 +5,9 @@ topic: configuration-get-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.748Z
+lastCollected: 2026-03-12T09:33:09.432Z
 estimatedTokens: 152
-keywords: [Configuration, Get, Instance, Output, representation, request, retrieve, configuration, instance.]
+keywords: [Configuration, Instance, Output, representation, retrieve]
 ---
 
 # Configuration Get Instance

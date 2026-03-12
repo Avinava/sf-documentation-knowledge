@@ -5,10 +5,10 @@ topic: trigger-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.346Z
+lastCollected: 2026-03-12T09:33:21.787Z
 estimatedTokens: 872
 namespace: System
-keywords: [Trigger, access, run-time, context, information, trigger, such, list, sObject, records, operates, on., Context, Variables, Note, Example]
+keywords: [Trigger, access, run-time, context, sObject, records, operates, Variables]
 ---
 
 # Trigger Class

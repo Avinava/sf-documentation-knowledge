@@ -5,9 +5,9 @@ topic: get-a-list-of-all-approval-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.004Z
+lastCollected: 2026-03-12T09:33:34.895Z
 estimatedTokens: 131
-keywords: [Get, List, Approval, Processes, Process, Approvals, resource, get, information, approvals.]
+keywords: [Approval, Processes, Process, Approvals, resource]
 ---
 
 # Get a List of All Approval Processes

@@ -5,9 +5,9 @@ topic: approval-processing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.797Z
+lastCollected: 2026-03-12T09:33:33.814Z
 estimatedTokens: 483
-keywords: [Approval, Processing, approval, process, automates, how, records, approved, Salesforce., specifies, step, including, whom, request, point, process., Note]
+keywords: [Approval, Processing, process, automates, how, records, approved, Salesforce, step, including, whom, point]
 ---
 
 # Approval Processing

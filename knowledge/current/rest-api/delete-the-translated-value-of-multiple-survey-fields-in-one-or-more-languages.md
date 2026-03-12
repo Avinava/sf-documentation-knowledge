@@ -5,9 +5,9 @@ topic: delete-the-translated-value-of-multiple-survey-fields-in-one-or-more-lang
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.261Z
+lastCollected: 2026-03-12T09:33:35.125Z
 estimatedTokens: 194
-keywords: [Delete, Translated, Multiple, Survey, Fields, Languages, After, survey, fields, translated, languages, delete, values, multiple, fields., resource, REST, API, version, 48.0]
+keywords: [Translated, Multiple, Survey, Languages, resource, REST, API, version, 48.0, later]
 ---
 
 # Delete the Translated Value of Multiple Survey Fields in One or More Languages

@@ -5,9 +5,9 @@ topic: connectapicontactpointsourceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.675Z
+lastCollected: 2026-03-12T09:33:24.933Z
 estimatedTokens: 158
-keywords: [ConnectApi.ContactPointSourceInput, Represents, configuration, input, contact, point, sources.]
+keywords: [ConnectApi.ContactPointSourceInput, configuration, input, contact, point, sources]
 ---
 
 # ConnectApi.ContactPointSourceInput

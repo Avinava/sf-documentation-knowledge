@@ -5,9 +5,9 @@ topic: svccatalogcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.051Z
+lastCollected: 2026-03-12T09:33:42.396Z
 estimatedTokens: 461
-keywords: [SvcCatalogCategory, Represents, grouping, individual, catalog, items, Service, Catalog., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [SvcCatalogCategory, grouping, individual, catalog, items, Service, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
 ---
 
 # SvcCatalogCategory

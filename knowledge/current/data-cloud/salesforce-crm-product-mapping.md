@@ -5,9 +5,9 @@ topic: salesforce-crm-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.806Z
+lastCollected: 2026-03-12T09:33:14.575Z
 estimatedTokens: 255
-keywords: [Salesforce, CRM, Product, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., product, company, sells., Bundle, DMO]
+keywords: [Salesforce, CRM, Product, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, company, sells]
 ---
 
 # Salesforce CRM: Product Mapping

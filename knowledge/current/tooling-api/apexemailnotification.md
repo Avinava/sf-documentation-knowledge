@@ -5,9 +5,9 @@ topic: apexemailnotification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.592Z
+lastCollected: 2026-03-12T09:33:43.767Z
 estimatedTokens: 373
-keywords: [ApexEmailNotification, Stores, Salesforce, user, external, email, address, notified, unhandled, Apex, exceptions, occur., API, version, 35.0, later., Note, Supported, SOAP, Calls]
+keywords: [ApexEmailNotification, Stores, Salesforce, user, external, email, address, notified, unhandled, Apex, exceptions, occur, API, version, 35.0]
 ---
 
 # ApexEmailNotification

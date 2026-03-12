@@ -5,10 +5,10 @@ topic: integer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.751Z
+lastCollected: 2026-03-12T09:33:30.799Z
 estimatedTokens: 717
 namespace: System
-keywords: [Contains, primitive, data, type., Usage, format, Example, valueOf, stringToInteger, Examples, fieldValue]
+keywords: [primitive, data, Usage, valueOf, stringToInteger, Examples, fieldValue]
 ---
 
 # Integer Class

@@ -5,9 +5,9 @@ topic: externalserviceregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.556Z
+lastCollected: 2026-03-12T09:33:44.673Z
 estimatedTokens: 1649
-keywords: [ExternalServiceRegistration, Represents, external, service, configuration, org., API, version, 39.0, later., Important, Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [ExternalServiceRegistration, external, service, configuration, org, API, version, 39.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # ExternalServiceRegistration

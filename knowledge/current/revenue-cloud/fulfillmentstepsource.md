@@ -5,9 +5,9 @@ topic: fulfillmentstepsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.369Z
+lastCollected: 2026-03-12T09:33:11.504Z
 estimatedTokens: 687
-keywords: [FulfillmentStepSource, Represents, link, between, fulfillment, step, corresponding, order, lines., API, version, 61.0, later., Important, Supported, Calls, Fields, Associated, Objects]
+keywords: [FulfillmentStepSource, link, fulfillment, step, corresponding, order, lines, API, version, 61.0, later, Calls, Associated, Objects]
 ---
 
 # FulfillmentStepSource

@@ -5,10 +5,10 @@ topic: queueableduplicatesignaturebuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.303Z
+lastCollected: 2026-03-12T09:33:21.745Z
 estimatedTokens: 2215
 namespace: System
-keywords: [QueueableDuplicateSignature.Builder, Build, unique, queueable, job, inner, builder, class., build, builds, QueueableDuplicateSignature, input, addId, addInteger, addString, methods., DuplicateSignature, AsyncOptions, store, signature.]
+keywords: [QueueableDuplicateSignature.Builder, Build, unique, queueable, job, inner, builder, builds, QueueableDuplicateSignature, input, addId, addInteger, addString, DuplicateSignature, AsyncOptions]
 ---
 
 # QueueableDuplicateSignature.Builder Class

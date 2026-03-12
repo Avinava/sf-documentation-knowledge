@@ -5,10 +5,10 @@ topic: string-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.294Z
+lastCollected: 2026-03-12T09:33:31.328Z
 estimatedTokens: 28787
 namespace: System
-keywords: [character, specified, index., Usage, abbreviate, maxWidth, Example, offset, capitalize, center, size, paddingString, charAt, index, codePointAt, codePointBefore, codePointCount, beginIndex, endIndex, compareTo]
+keywords: [character, index, Usage, abbreviate, maxWidth, offset, capitalize, center, size, paddingString, charAt, codePointAt, codePointBefore, codePointCount, beginIndex]
 ---
 
 # String Class

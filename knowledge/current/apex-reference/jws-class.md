@@ -5,10 +5,10 @@ topic: jws-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.577Z
+lastCollected: 2026-03-12T09:33:20.213Z
 estimatedTokens: 1222
 namespace: Auth
-keywords: [JWS, Contains, apply, digital, JSON, Web, Token, JWT, data, structure., creates, signed, bearer, token, which, used, request, OAuth, access, 2.0]
+keywords: [JWS, apply, digital, JSON, Web, Token, JWT, data, structure, creates, signed, bearer, OAuth, access, 2.0]
 ---
 
 # JWS Class

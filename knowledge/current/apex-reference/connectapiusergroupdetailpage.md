@@ -5,9 +5,9 @@ topic: connectapiusergroupdetailpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.227Z
+lastCollected: 2026-03-12T09:33:29.275Z
 estimatedTokens: 153
-keywords: [ConnectApi.UserGroupDetailPage, page, groups, user, member, of.]
+keywords: [ConnectApi.UserGroupDetailPage, groups, user, member]
 ---
 
 # ConnectApi.UserGroupDetailPage

@@ -5,9 +5,9 @@ topic: document-reader-mappings-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:51.513Z
+lastCollected: 2026-03-12T09:33:50.175Z
 estimatedTokens: 634
-keywords: [Document, Reader, Mappings, POST, Retrieve, mappings, between, values, keys, extracted, document, Salesforce, fields, respect, given, template., Permission, Usage]
+keywords: [Document, Reader, Mappings, POST, Retrieve, keys, extracted, Salesforce, respect, template, Permission, Usage]
 ---
 
 # Document Reader Mappings (POST)

@@ -5,9 +5,9 @@ topic: analyticssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.862Z
+lastCollected: 2026-03-12T09:33:36.665Z
 estimatedTokens: 6550
-keywords: [AnalyticsSettings, Represents, Analytics, settings, Salesforce., CRM, lets, explore, data, quickly, easily, providing, AI-powered, advanced, right, inside, Manage, datasets, query, Salesforce]
+keywords: [AnalyticsSettings, Analytics, settings, Salesforce, CRM, lets, explore, data, quickly, easily, providing, AI-powered, advanced, right, inside]
 ---
 
 # AnalyticsSettings

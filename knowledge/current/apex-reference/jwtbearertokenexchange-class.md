@@ -5,10 +5,10 @@ topic: jwtbearertokenexchange-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.609Z
+lastCollected: 2026-03-12T09:33:20.243Z
 estimatedTokens: 2340
 namespace: Auth
-keywords: [JWTBearerTokenExchange, Contains, POST, signed, JWT, bearer, token, endpoint, request, access, OAuth, 2.0, flow., Usage, Example, tokenEndpoint, jws, clone, getAccessToken, getGrantType]
+keywords: [JWTBearerTokenExchange, POST, signed, JWT, bearer, token, endpoint, access, OAuth, 2.0, flow, Usage, tokenEndpoint, jws, clone]
 ---
 
 # JWTBearerTokenExchange Class

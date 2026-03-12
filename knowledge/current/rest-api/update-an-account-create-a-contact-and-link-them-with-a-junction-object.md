@@ -6,9 +6,9 @@ topic: update-an-account-create-a-contact-and-link-them-with-a-junction-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.940Z
+lastCollected: 2026-03-12T09:33:34.829Z
 estimatedTokens: 148
-keywords: [Update, Account, Create, Contact, Link, Junction, following, example, uses, Composite, resource, update, fields, account, create, contact, link, two, records, junction]
+keywords: [Account, Contact, Link, Junction, uses, Composite, resource, two, records, AccountContactJunction, requests, executed, call, composite.json, file]
 ---
 
 # Update an Account, Create a Contact, and Link Them with a Junction

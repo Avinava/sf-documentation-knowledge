@@ -5,9 +5,9 @@ topic: context-definition-id-get-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.979Z
+lastCollected: 2026-03-12T09:33:47.890Z
 estimatedTokens: 191
-keywords: [Context, Definition, GET, PATCH, DELETE, Query, update, delete, context, definition, ID.]
+keywords: [Context, Definition, PATCH, Query]
 ---
 
 # Context Definition Id (GET, PATCH, DELETE)

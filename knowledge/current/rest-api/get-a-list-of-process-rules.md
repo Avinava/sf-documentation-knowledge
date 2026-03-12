@@ -5,9 +5,9 @@ topic: get-a-list-of-process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.017Z
+lastCollected: 2026-03-12T09:33:34.909Z
 estimatedTokens: 121
-keywords: [Get, List, Process, Rules, resource, get, information, process, rules.]
+keywords: [Process, Rules, resource]
 ---
 
 # Get a List of Process Rules

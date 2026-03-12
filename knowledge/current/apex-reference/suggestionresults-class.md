@@ -5,10 +5,10 @@ topic: suggestionresults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.925Z
+lastCollected: 2026-03-12T09:33:21.485Z
 estimatedTokens: 636
 namespace: Search
-keywords: [SuggestionResults, Wraps, results, returned, Search.suggest, ​String, Search.SuggestionOption, method., getSuggestionResults, hasMoreResults, Usage]
+keywords: [SuggestionResults, Wraps, results, Search.suggest, ​String, Search.SuggestionOption, getSuggestionResults, hasMoreResults, Usage]
 ---
 
 # SuggestionResults Class

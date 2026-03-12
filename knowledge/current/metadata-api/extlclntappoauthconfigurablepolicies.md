@@ -5,9 +5,9 @@ topic: extlclntappoauthconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.754Z
+lastCollected: 2026-03-12T09:33:39.346Z
 estimatedTokens: 2243
-keywords: [ExtlClntAppOauthConfigurablePolicies, Represents, policies, configured, admin, OAuth-enabled, external, client, app., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppOauthPoliciesAttribute]
+keywords: [ExtlClntAppOauthConfigurablePolicies, policies, configured, admin, OAuth-enabled, external, client, app, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # ExtlClntAppOauthConfigurablePolicies

@@ -5,9 +5,9 @@ topic: dataconnectors3
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.461Z
+lastCollected: 2026-03-12T09:33:38.163Z
 estimatedTokens: 308
-keywords: [DataConnectorS3, Represents, connection, information, specific, Amazon, S3., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample]
+keywords: [DataConnectorS3, connection, specific, Amazon, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample]
 ---
 
 # DataConnectorS3

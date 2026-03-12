@@ -5,9 +5,9 @@ topic: individual-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.199Z
+lastCollected: 2026-03-12T09:33:14.929Z
 estimatedTokens: 4445
-keywords: [Individual, DMO, Data, Cloud, data, model, contacts, customers, people, interested, company's, products, services., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Individual, DMO, Data, Cloud, model, contacts, customers, people, interested, company's, products, services, API, Category, Primary]
 ---
 
 # Individual DMO

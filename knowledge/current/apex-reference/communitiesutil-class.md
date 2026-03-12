@@ -5,10 +5,10 @@ topic: communitiesutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.516Z
+lastCollected: 2026-03-12T09:33:20.159Z
 estimatedTokens: 741
 namespace: Auth
-keywords: [CommunitiesUtil, Contains, getting, information, Experience, Cloud, user., Example, getLogoutUrl, getUserDisplayName, isGuestUser, isInternalUser]
+keywords: [CommunitiesUtil, getting, Experience, Cloud, user, getLogoutUrl, getUserDisplayName, isGuestUser, isInternalUser]
 ---
 
 # CommunitiesUtil Class

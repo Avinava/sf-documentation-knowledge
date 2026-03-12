@@ -5,9 +5,9 @@ topic: retrieve-s3-connector-metadata-with-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.681Z
+lastCollected: 2026-03-12T09:33:13.557Z
 estimatedTokens: 431
-keywords: [Retrieve, Connector, Metadata, Salesforce, CLI, retrieve, metadata, CLI.]
+keywords: [Retrieve, Connector, Metadata, Salesforce, CLI]
 ---
 
 # Retrieve S3 Connector Metadata with Salesforce CLI

@@ -5,9 +5,9 @@ topic: intelligent-form-reader-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.214Z
+lastCollected: 2026-03-12T09:33:49.901Z
 estimatedTokens: 336
-keywords: [Intelligent, Form, Reader, Standard, Invocable, Actions, detects, extracts, text, document, Amazon, Textract, API, which, based, optical, character, recognition., standard, invocable]
+keywords: [Intelligent, Form, Reader, Standard, Invocable, Actions, detects, extracts, text, document, Amazon, Textract, API, optical, character]
 ---
 
 # Intelligent Form Reader Standard Invocable Actions

@@ -5,9 +5,9 @@ topic: send-email-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.454Z
+lastCollected: 2026-03-12T09:33:09.939Z
 estimatedTokens: 320
-keywords: [Send, Email, Response, Output, representation, API, request, send, emails, posted, invoices.]
+keywords: [Send, Email, Output, representation, API, emails, posted, invoices]
 ---
 
 # Send Email Response

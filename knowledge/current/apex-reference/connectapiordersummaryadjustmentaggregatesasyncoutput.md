@@ -5,9 +5,9 @@ topic: connectapiordersummaryadjustmentaggregatesasyncoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.281Z
+lastCollected: 2026-03-12T09:33:28.330Z
 estimatedTokens: 56
-keywords: [ConnectApi.OrderSummaryAdjustmentAggregatesAsyncOutput, Async, adjustment, aggregates, output.]
+keywords: [Async, adjustment, aggregates, output]
 ---
 
 # ConnectApi.OrderSummaryAdjustmentAggregatesAsyncOutput

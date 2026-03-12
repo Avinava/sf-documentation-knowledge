@@ -5,9 +5,9 @@ topic: pricing-versioned-revision-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.272Z
+lastCollected: 2026-03-12T09:33:09.021Z
 estimatedTokens: 457
-keywords: [Pricing, Versioned, Revision, Details, POST, Create, revisions, pricing, request, versions, adjustment, entities.]
+keywords: [Pricing, Versioned, Revision, POST, revisions, versions, adjustment, entities]
 ---
 
 # Pricing Versioned Revision Details (POST)

@@ -5,9 +5,9 @@ topic: void-a-posted-invoice-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.282Z
+lastCollected: 2026-03-12T09:33:09.030Z
 estimatedTokens: 607
-keywords: [Posted, Invoice, POST, posted, invoice, rebill, customer, necessary.]
+keywords: [Posted, Invoice, POST, rebill, customer, necessary]
 ---
 
 # Void a Posted Invoice (POST)

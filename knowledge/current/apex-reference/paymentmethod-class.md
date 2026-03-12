@@ -5,10 +5,10 @@ topic: paymentmethod-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.733Z
+lastCollected: 2026-03-12T09:33:21.303Z
 estimatedTokens: 825
 namespace: RichMessaging
-keywords: [PaymentMethod, Represents, payment, method., network, paymentType, displayName]
+keywords: [PaymentMethod, payment, network, paymentType, displayName]
 ---
 
 # PaymentMethod Class

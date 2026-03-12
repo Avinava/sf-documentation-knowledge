@@ -5,9 +5,9 @@ topic: customindex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.248Z
+lastCollected: 2026-03-12T09:33:37.963Z
 estimatedTokens: 575
-keywords: [CustomIndex, Represents, index, used, increase, speed, queries.This, extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Special]
+keywords: [CustomIndex, index, increase, speed, queries.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # CustomIndex

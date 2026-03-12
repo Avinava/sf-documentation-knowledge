@@ -5,10 +5,10 @@ topic: plugindescriberesultinputparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.627Z
+lastCollected: 2026-03-12T09:33:21.101Z
 estimatedTokens: 1731
 namespace: Process
-keywords: [PluginDescribeResult.InputParameter, Describes, input, Process.PluginResult., Tip, name, description, parameterType, required, Description, Usage, Name, ParameterType, Required]
+keywords: [PluginDescribeResult.InputParameter, input, Process.PluginResult, parameterType, Usage]
 ---
 
 # PluginDescribeResult.InputParameter Class

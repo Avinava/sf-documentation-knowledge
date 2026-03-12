@@ -5,10 +5,10 @@ topic: sendemailresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.502Z
+lastCollected: 2026-03-12T09:33:23.873Z
 estimatedTokens: 504
 namespace: Messaging
-keywords: [SendEmailResult, Contains, result, sending, email, message., getErrors, isSuccess]
+keywords: [SendEmailResult, result, sending, email, message, getErrors, isSuccess]
 ---
 
 # SendEmailResult Class

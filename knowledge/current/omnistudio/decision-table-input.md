@@ -5,9 +5,9 @@ topic: decision-table-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.286Z
+lastCollected: 2026-03-12T09:33:47.288Z
 estimatedTokens: 127
-keywords: [Decision, Table, Input, representation, decision, table.]
+keywords: [Decision, Input, representation]
 ---
 
 # Decision Table Input

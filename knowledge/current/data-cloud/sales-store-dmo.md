@@ -5,9 +5,9 @@ topic: sales-store-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.881Z
+lastCollected: 2026-03-12T09:33:15.575Z
 estimatedTokens: 439
-keywords: [Sales, Store, DMO, Data, Cloud, data, model, provides, information, regarding, retail, establishment, selling, items, public., API, Name, Category, Primary, Subject]
+keywords: [Sales, Store, DMO, Data, Cloud, model, regarding, retail, establishment, selling, items, API, Category, Primary, Subject]
 ---
 
 # Sales Store DMO

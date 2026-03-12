@@ -5,9 +5,9 @@ topic: decision-table-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.114Z
+lastCollected: 2026-03-12T09:33:49.779Z
 estimatedTokens: 661
-keywords: [Decision, Table, Tooling, API, Objects, objects, create, update, activate, decision, tables., Dataset, links, created, associated, tables, objects.]
+keywords: [Decision, Tooling, API, Objects, activate, tables, Dataset, links, created, associated]
 ---
 
 # Decision Table Tooling API Objects

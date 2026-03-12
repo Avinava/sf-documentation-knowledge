@@ -5,10 +5,10 @@ topic: taxtransactionrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.408Z
+lastCollected: 2026-03-12T09:33:22.768Z
 estimatedTokens: 4073
 namespace: CommerceTax
-keywords: [TaxTransactionRequest, Abstract, storing, customer, details, used, tax, calculation, estimation, requests., Usage, addresses, currencyIsoCode, customerDetails, description, documentCode, referenceDocumentCode, transactionDate, effectiveDate, lineItems]
+keywords: [TaxTransactionRequest, Abstract, storing, customer, tax, calculation, estimation, requests, Usage, addresses, currencyIsoCode, customerDetails, documentCode, referenceDocumentCode, transactionDate]
 ---
 
 # TaxTransactionRequest Class

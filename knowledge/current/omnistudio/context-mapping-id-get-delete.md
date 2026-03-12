@@ -5,9 +5,9 @@ topic: context-mapping-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.993Z
+lastCollected: 2026-03-12T09:33:47.903Z
 estimatedTokens: 107
-keywords: [Context, Mapping, GET, DELETE, Query, delete, context, mapping, Id.]
+keywords: [Context, Mapping, Query]
 ---
 
 # Context Mapping Id (GET, DELETE)

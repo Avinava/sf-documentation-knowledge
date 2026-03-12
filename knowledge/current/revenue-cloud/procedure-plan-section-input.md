@@ -5,9 +5,9 @@ topic: procedure-plan-section-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.339Z
+lastCollected: 2026-03-12T09:33:08.206Z
 estimatedTokens: 386
-keywords: [Procedure, Plan, Section, Input, representation, details, procedure, plan, section.]
+keywords: [Procedure, Plan, Input, representation]
 ---
 
 # Procedure Plan Section Input

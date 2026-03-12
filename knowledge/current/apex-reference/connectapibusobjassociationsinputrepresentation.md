@@ -5,9 +5,9 @@ topic: connectapibusobjassociationsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.406Z
+lastCollected: 2026-03-12T09:33:24.683Z
 estimatedTokens: 107
-keywords: [ConnectApi.BusObjAssociationsInputRepresentation, Business, objective, association.]
+keywords: [Business, objective, association]
 ---
 
 # ConnectApi.BusObjAssociationsInputRepresentation

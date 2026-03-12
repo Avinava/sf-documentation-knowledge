@@ -5,9 +5,9 @@ topic: connectapitaxtransactionrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.637Z
+lastCollected: 2026-03-12T09:33:25.815Z
 estimatedTokens: 446
-keywords: [ConnectApi.TaxTransactionRequest, Information, tax, transaction, sent, adapter, part, calculation, request.]
+keywords: [ConnectApi.TaxTransactionRequest, tax, transaction, sent, adapter, part, calculation]
 ---
 
 # ConnectApi.TaxTransactionRequest

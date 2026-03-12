@@ -5,9 +5,9 @@ topic: get-appointment-candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.312Z
+lastCollected: 2026-03-12T09:33:35.172Z
 estimatedTokens: 1580
-keywords: [Get, Appointment, Candidates, list, service, resources, appointment, candidates, based, work, group, territories., Note, Syntax, Examples]
+keywords: [Appointment, Candidates, service, resources, work, group, territories, Examples]
 ---
 
 # Get Appointment Candidates

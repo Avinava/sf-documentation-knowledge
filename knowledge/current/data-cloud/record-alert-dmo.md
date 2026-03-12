@@ -5,9 +5,9 @@ topic: record-alert-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.833Z
+lastCollected: 2026-03-12T09:33:15.525Z
 estimatedTokens: 456
-keywords: [Record, Alert, DMO, Represents, record, alerts, account., Provided, Financial, Services, Cloud, Data, Kit., API, version, later., Name, Category, Primary, Subject]
+keywords: [Record, Alert, DMO, alerts, account, Provided, Financial, Services, Cloud, Data, Kit, API, version, later, Category]
 ---
 
 # Record Alert DMO

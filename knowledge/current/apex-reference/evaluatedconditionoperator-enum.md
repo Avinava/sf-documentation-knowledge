@@ -5,10 +5,10 @@ topic: evaluatedconditionoperator-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.698Z
+lastCollected: 2026-03-12T09:33:29.733Z
 estimatedTokens: 202
 namespace: Reports
-keywords: [EvaluatedConditionOperator, Reports.EvaluatedConditionOperator, describes, operator, used, compare, aggregate, value., returned, getOperator, method., Values]
+keywords: [EvaluatedConditionOperator, Reports.EvaluatedConditionOperator, operator, compare, aggregate, getOperator]
 ---
 
 # EvaluatedConditionOperator Enum

@@ -5,9 +5,9 @@ topic: postauthapipaymentmethodrequest-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.084Z
+lastCollected: 2026-03-12T09:33:24.380Z
 estimatedTokens: 161
-keywords: [PostAuthApiPaymentMethodRequest, Lists, PostAuthApiPaymentMethodRequest.]
+keywords: [PostAuthApiPaymentMethodRequest]
 ---
 
 # PostAuthApiPaymentMethodRequest Properties

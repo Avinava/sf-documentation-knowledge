@@ -1,0 +1,62 @@
+---
+title: "Inner Ensure Funds Async Input"
+domain: chatterapi
+topic: inner-ensure-funds-async-input
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-12T09:34:11.884Z
+estimatedTokens: 475
+keywords: [Inner, Ensure, Funds, Async, Input, Invoice, associated, OrderSummary]
+---
+
+# Inner Ensure Funds Async Input
+
+> ID of an Invoice and ID of the associated
+    OrderSummary.
+
+# Inner Ensure Funds Async Input
+
+ID of an Invoice and ID of the associated OrderSummary.
+
+Root XML tag
+
+<innerEnsureFundsAsyncInput>
+
+JSON example
+
+```
+
+```
+
+Properties
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| invoiceId | String | ID of the Invoice to ensure funds for. | Required | 56.0 |
+| isAllowPartial | Boolean | If true, the invoice can be funded through multiple, partial payments. Optionally, define a sequence to capture multiple payments. If false, the invoice must be funded through a single payment. Default value is false. | Required | 60.0 |
+| isConsiderReservedBalanceAmount | Boolean | If true, the reserved balance amount is used for the Order Summary to fund the invoice. If not enough reserved balance amount, any available balance that isn’t reserved by another Order Summary is used. If false, any available balance is used. | Optional | 59.0 |
+| orderSummaryId | String | ID of the OrderSummary associated with the Invoice. | Required | 56.0 |
+| sequences | String | The payment sequence in which the funds are captured for the invoice. | Optional | 60.0 |
+
+#### See Also
+
+-   [Order Summaries, Multiple Ensure Funds Async](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_sfom_order_summaries_multiple_ensure_funds_async.htm "Ensure and apply funds for one or more Invoices. If needed, capture authorized funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and do not affect the background operation status.")
+
+-   [Multiple Ensure Funds Async Input](atlas.en-us.chatterapi.meta/chatterapi/connect_requests_multiple_ensure_funds_async_input.htm "List of Invoices and the associated OrderSummaries.")
+
+## Code Examples
+
+```
+[
+  {
+    "invoiceId" "3ttxx0000000001",
+    "orderSummaryId": "1Osxx0000000001"
+  }
+]
+```
+
+## Related Topics
+
+- Order Summaries, Multiple Ensure Funds Async (atlas.en-us.chatterapi.meta/chatterapi/connect_resources_sfom_order_summaries_multiple_ensure_funds_async.htm)
+- Multiple Ensure Funds Async Input (atlas.en-us.chatterapi.meta/chatterapi/connect_requests_multiple_ensure_funds_async_input.htm)

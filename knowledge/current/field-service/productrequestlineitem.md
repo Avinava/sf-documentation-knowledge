@@ -5,9 +5,9 @@ topic: productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.328Z
+lastCollected: 2026-03-12T09:33:54.544Z
 estimatedTokens: 1774
-keywords: [ProductRequestLineItem, Represents, request, part, field, service., Product, line, items, components, product, requests., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ProductRequestLineItem, part, service, Product, line, items, components, requests, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ProductRequestLineItem

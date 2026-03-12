@@ -5,9 +5,9 @@ topic: process-compliance-navigator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.909Z
+lastCollected: 2026-03-12T09:33:51.483Z
 estimatedTokens: 268
-keywords: [Process, Compliance, Navigator, Business, APIs, control, mitigate, compliance, risk, evaluating, procedures, enforcing, regulations., Keep, users, customers, compliant, their, Salesforce, processes]
+keywords: [Process, Compliance, Navigator, Business, APIs, control, mitigate, risk, evaluating, procedures, enforcing, regulations, Keep, users, customers]
 ---
 
 # Process Compliance Navigator Business APIs

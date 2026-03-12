@@ -5,10 +5,10 @@ topic: inboundemailheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.414Z
+lastCollected: 2026-03-12T09:33:23.784Z
 estimatedTokens: 509
 namespace: Messaging
-keywords: [InboundEmail.Header, InboundEmail, stores, RFC, 2822, email, header, information, following, properties., name]
+keywords: [InboundEmail.Header, InboundEmail, stores, RFC, email]
 ---
 
 # InboundEmail.Header Class

@@ -5,9 +5,9 @@ topic: connectapinbaflowaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.028Z
+lastCollected: 2026-03-12T09:33:28.043Z
 estimatedTokens: 163
-keywords: [ConnectApi.NBAFlowAction, recommended, flow.]
+keywords: [ConnectApi.NBAFlowAction, recommended, flow]
 ---
 
 # ConnectApi.NBAFlowAction

@@ -5,9 +5,9 @@ topic: usercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.494Z
+lastCollected: 2026-03-12T09:33:42.782Z
 estimatedTokens: 609
-keywords: [UserCriteria, Represents, member, criteria, Experience, Cloud, site, moderation, rules., extends, Metadata, metadata, inherits, its, fullName, field.., Important, File, Suffix, Directory]
+keywords: [UserCriteria, member, criteria, Experience, Cloud, site, moderation, rules, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # UserCriteria

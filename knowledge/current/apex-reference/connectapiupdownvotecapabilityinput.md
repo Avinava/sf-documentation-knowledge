@@ -5,9 +5,9 @@ topic: connectapiupdownvotecapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.654Z
+lastCollected: 2026-03-12T09:33:25.831Z
 estimatedTokens: 81
-keywords: [ConnectApi.UpDownVoteCapabilityInput, Upvote, downvote, feed, element, comment.]
+keywords: [ConnectApi.UpDownVoteCapabilityInput, Upvote, downvote, feed, element, comment]
 ---
 
 # ConnectApi.UpDownVoteCapabilityInput

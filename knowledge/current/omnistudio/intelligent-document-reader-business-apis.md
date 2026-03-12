@@ -5,9 +5,9 @@ topic: intelligent-document-reader-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.455Z
+lastCollected: 2026-03-12T09:33:50.129Z
 estimatedTokens: 606
-keywords: [Intelligent, Document, Reader, Business, APIs, read, mapping, details, extracted, text, stored, Salesforce, object., uses, optical, character, recognition, automatically, extract, data]
+keywords: [Intelligent, Document, Reader, Business, APIs, mapping, extracted, text, stored, Salesforce, uses, optical, character, recognition, automatically]
 ---
 
 # Intelligent Document Reader Business APIs

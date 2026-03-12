@@ -5,10 +5,10 @@ topic: skillrequirementbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.699Z
+lastCollected: 2026-03-12T09:33:23.110Z
 estimatedTokens: 828
 namespace: LxScheduler
-keywords: [SkillRequirementBuilder, Contains, build, instance, lxscheduler.SkillRequirement, class., setSkillId, skillId, setSkillLevel, skillLevel]
+keywords: [SkillRequirementBuilder, build, instance, lxscheduler.SkillRequirement, setSkillId, skillId, setSkillLevel, skillLevel]
 ---
 
 # SkillRequirementBuilder Class

@@ -5,9 +5,9 @@ topic: connectapirangesearchfacet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.744Z
+lastCollected: 2026-03-12T09:33:28.784Z
 estimatedTokens: 246
-keywords: [ConnectApi.RangeSearchFacet, Range, facet, minimum, maximum, values, product, search, results.]
+keywords: [ConnectApi.RangeSearchFacet, Range, facet, minimum, maximum, product, search, results]
 ---
 
 # ConnectApi.RangeSearchFacet

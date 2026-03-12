@@ -5,9 +5,9 @@ topic: connectapiholdfocapacityinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.002Z
+lastCollected: 2026-03-12T09:33:25.245Z
 estimatedTokens: 113
-keywords: [ConnectApi.HoldFOCapacityInputRepresentation, Request, hold, fulfillment, order, capacity, locations., correspond, action, call.]
+keywords: [hold, fulfillment, order, capacity, locations, correspond, action, call]
 ---
 
 # ConnectApi.HoldFOCapacityInputRepresentation

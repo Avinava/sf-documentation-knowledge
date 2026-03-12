@@ -5,9 +5,9 @@ topic: expression-set-des-token-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.206Z
+lastCollected: 2026-03-12T09:33:48.901Z
 estimatedTokens: 135
-keywords: [Expression, Set, DES, Token, Mapping, Output, representation, token, mapping, expression, set, version, step.]
+keywords: [Expression, DES, Token, Mapping, Output, representation, version, step]
 ---
 
 # Expression Set DES Token Mapping

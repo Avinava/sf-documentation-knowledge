@@ -5,9 +5,9 @@ topic: get-category-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.815Z
+lastCollected: 2026-03-12T09:33:05.963Z
 estimatedTokens: 767
-keywords: [Get, Category, Details, Action, details, category, record., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Category, Action, record, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Get Category Details Action

@@ -5,10 +5,10 @@ topic: billing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.129Z
+lastCollected: 2026-03-12T09:33:06.244Z
 estimatedTokens: 3796
 namespace: ConnectApi
-keywords: [Billing, Manage, billing, scenarios, class., convert, negative, invoice, lines, create, apply, credit, memo, generate, invoices, recover, schedules., convertNegativeInvoiceLines, ConvertNegativeInvoiceLinesInput, invoiceId]
+keywords: [Billing, Manage, scenarios, convert, negative, invoice, lines, apply, credit, memo, generate, invoices, recover, schedules, convertNegativeInvoiceLines]
 ---
 
 # Billing Class

@@ -5,9 +5,9 @@ topic: extending-a-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.580Z
+lastCollected: 2026-03-12T09:33:32.611Z
 estimatedTokens: 978
-keywords: [Extending, extend, provide, specialized, behavior., Versioned, Behavior, Changes]
+keywords: [Extending, extend, provide, specialized, behavior, Versioned, Changes]
 ---
 
 # Extending a Class

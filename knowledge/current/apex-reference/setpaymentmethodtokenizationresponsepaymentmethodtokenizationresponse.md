@@ -5,9 +5,9 @@ topic: setpaymentmethodtokenizationresponsepaymentmethodtokenizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.148Z
+lastCollected: 2026-03-12T09:33:24.440Z
 estimatedTokens: 206
-keywords: [setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, information, gateway, tokenized, payment, method.]
+keywords: [setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, gateway, tokenized, payment]
 ---
 
 # setPaymentMethodTokenizationResponse(paymentMethodTokenizationResponse)

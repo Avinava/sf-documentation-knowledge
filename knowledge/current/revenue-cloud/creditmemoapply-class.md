@@ -5,10 +5,10 @@ topic: creditmemoapply-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.135Z
+lastCollected: 2026-03-12T09:33:06.248Z
 estimatedTokens: 1044
 namespace: ConnectApi
-keywords: [CreditMemoApply, Manage, credit, memo, applications, class., applyCreditMemos, CreditMemoApplyInput, creditMemoId, API, Version, Requires, Chatter, Usage, unapplyCreditMemos, CreditMemoUnapplyInput, creditMemoInvApplicationId]
+keywords: [CreditMemoApply, Manage, credit, memo, applications, applyCreditMemos, CreditMemoApplyInput, creditMemoId, API, Version, Requires, Chatter, Usage, unapplyCreditMemos, CreditMemoUnapplyInput]
 ---
 
 # CreditMemoApply Class

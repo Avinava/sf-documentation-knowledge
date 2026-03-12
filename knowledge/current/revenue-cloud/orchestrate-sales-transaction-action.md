@@ -5,9 +5,9 @@ topic: orchestrate-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.914Z
+lastCollected: 2026-03-12T09:33:06.054Z
 estimatedTokens: 824
-keywords: [Orchestrate, Sales, Transaction, Action, Initiate, orchestration, process, sales, transaction., action, executes, only, plan, composition, phases, without, performing, decomposition., Special, Access]
+keywords: [Orchestrate, Sales, Transaction, Action, Initiate, orchestration, process, executes, plan, composition, phases, performing, decomposition, Special, Access]
 ---
 
 # Orchestrate Sales Transaction Action

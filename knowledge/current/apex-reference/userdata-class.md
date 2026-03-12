@@ -5,10 +5,10 @@ topic: userdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.763Z
+lastCollected: 2026-03-12T09:33:20.340Z
 estimatedTokens: 4735
 namespace: Auth
-keywords: [UserData, Stores, user, information, authentication, provider, registration, handlers, including, implement, Auth.RegistrationHandler, built, Flow, Builder., Usage, identifier, firstName, lastName, fullName, email]
+keywords: [UserData, Stores, user, authentication, provider, registration, handlers, including, implement, Auth.RegistrationHandler, built, Flow, Builder, Usage, identifier]
 ---
 
 # UserData Class

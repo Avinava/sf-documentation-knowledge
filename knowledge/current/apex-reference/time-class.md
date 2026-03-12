@@ -5,10 +5,10 @@ topic: time-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.421Z
+lastCollected: 2026-03-12T09:33:31.478Z
 estimatedTokens: 1630
 namespace: System
-keywords: [Time, Contains, primitive, data, type., Usage, addHours, additionalHours, Example, addMilliseconds, additionalMilliseconds, addMinutes, additionalMinutes, addSeconds, additionalSeconds, hour, millisecond, minute, newInstance, minutes]
+keywords: [Time, primitive, data, Usage, addHours, additionalHours, addMilliseconds, additionalMilliseconds, addMinutes, additionalMinutes, addSeconds, additionalSeconds, hour, millisecond, minute]
 ---
 
 # Time Class

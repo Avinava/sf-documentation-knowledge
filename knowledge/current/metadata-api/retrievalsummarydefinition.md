@@ -5,9 +5,9 @@ topic: retrievalsummarydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.488Z
+lastCollected: 2026-03-12T09:33:41.907Z
 estimatedTokens: 1373
-keywords: [RetrievalSummaryDefinition, Represents, metadata, stores, header, information, retrieval, definition., enables, configuration, data, patterns, summarizing, related, records, across, relationships., Parent, File, Suffix]
+keywords: [RetrievalSummaryDefinition, metadata, stores, retrieval, definition, configuration, data, patterns, summarizing, records, across, relationships, Parent, File, Suffix]
 ---
 
 # RetrievalSummaryDefinition

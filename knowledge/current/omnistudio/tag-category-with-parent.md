@@ -5,9 +5,9 @@ topic: tag-category-with-parent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.798Z
+lastCollected: 2026-03-12T09:33:49.437Z
 estimatedTokens: 171
-keywords: [Tag, Category, Parent, Output, representation, category, its, parent, category.]
+keywords: [Tag, Category, Parent, Output, representation]
 ---
 
 # Tag Category with Parent

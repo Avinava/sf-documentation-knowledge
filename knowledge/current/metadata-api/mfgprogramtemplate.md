@@ -5,9 +5,9 @@ topic: mfgprogramtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:41.163Z
+lastCollected: 2026-03-12T09:33:40.642Z
 estimatedTokens: 1004
-keywords: [MfgProgramTemplate, Represents, definition, program, create, program-based, business., business, known, Manufacturing, Program, enables, manufacturers, drive, their, models, forecasting, tools, manage, end-to-end]
+keywords: [MfgProgramTemplate, definition, program, program-based, business, known, Manufacturing, manufacturers, drive, their, models, forecasting, tools, manage, end-to-end]
 ---
 
 # MfgProgramTemplate

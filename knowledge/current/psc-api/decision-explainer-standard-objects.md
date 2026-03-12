@@ -1,0 +1,32 @@
+---
+title: "Decision Explainer Standard Objects"
+domain: psc-api
+topic: decision-explainer-standard-objects
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:35:31.369Z
+estimatedTokens: 144
+keywords: [Decision, Explainer, Standard, Objects, activate, components]
+---
+
+# Decision Explainer Standard Objects
+
+> Use standard objects to create, update, and activate Decision Explainer
+    components.
+
+# Decision Explainer Standard Objects
+
+Use standard objects to create, update, and activate Decision Explainer components.
+
+| Available in: Lightning Experience |
+| --- |
+| Available in: Enterprise, Professional, Unlimited, and Developer Editions |
+
+
+-   **[ExplainabilityMsgTemplateLocalization](atlas.en-us.psc_api.meta/psc_api/sforce_api_objects_explainabilitymsgtemplatelocalization.htm)**
+    Represents the translated value of the message in an explainability message template for an expression set step element. This object is available in API version 56.0 and later.
+
+## Related Topics
+
+- ExplainabilityMsgTemplateLocalization (atlas.en-us.psc_api.meta/psc_api/sforce_api_objects_explainabilitymsgtemplatelocalization.htm)

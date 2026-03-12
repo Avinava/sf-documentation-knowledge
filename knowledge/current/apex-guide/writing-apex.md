@@ -5,9 +5,9 @@ topic: writing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.240Z
+lastCollected: 2026-03-12T09:33:34.228Z
 estimatedTokens: 467
-keywords: [Writing, Apex, Java, Salesforce., enables, add, interact, data, Lightning, Platform, persistence, layer., uses, classes, types, variables, if-else, statements., execute, based]
+keywords: [Writing, Apex, Java, Salesforce, add, interact, data, Lightning, Platform, persistence, layer, uses, classes, variables, if-else]
 ---
 
 # Writing Apex

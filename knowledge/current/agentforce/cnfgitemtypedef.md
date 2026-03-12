@@ -5,9 +5,9 @@ topic: cnfgitemtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.571Z
+lastCollected: 2026-03-12T09:33:16.223Z
 estimatedTokens: 759
-keywords: [CnfgItemTypeDef, Represents, definition, configuration, item, type., represents, category, used, classify, items., components, share, common, characteristics., example, server, application, network, device.]
+keywords: [CnfgItemTypeDef, definition, configuration, item, category, classify, items, components, share, common, characteristics, server, application, network, device]
 ---
 
 # CnfgItemTypeDef

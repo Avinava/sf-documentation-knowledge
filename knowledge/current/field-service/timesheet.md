@@ -5,9 +5,9 @@ topic: timesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.721Z
+lastCollected: 2026-03-12T09:33:54.922Z
 estimatedTokens: 833
-keywords: [TimeSheet, Represents, schedule, service, resource’s, time, Field, Service, Workforce, Engagement., API, v47.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
+keywords: [TimeSheet, schedule, service, resource’s, time, Workforce, Engagement, API, v47.0, later, Calls, Special, Access, Rules, Associated]
 ---
 
 # TimeSheet

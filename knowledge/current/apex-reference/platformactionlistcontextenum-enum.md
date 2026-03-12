@@ -5,9 +5,9 @@ topic: platformactionlistcontextenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.495Z
+lastCollected: 2026-03-12T09:33:29.544Z
 estimatedTokens: 245
-keywords: [PlatformActionListContextEnum, Describes, different, contexts, action, lists., Values]
+keywords: [PlatformActionListContextEnum, different, contexts, action]
 ---
 
 # PlatformActionListContextEnum Enum

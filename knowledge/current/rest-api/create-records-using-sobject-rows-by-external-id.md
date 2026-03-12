@@ -5,9 +5,9 @@ topic: create-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.150Z
+lastCollected: 2026-03-12T09:33:35.992Z
 estimatedTokens: 302
-keywords: [Create, Records, sObject, Rows, External, Creates, new, record, based, field, values, included, request, body., resource, does, require, external, field., Note]
+keywords: [Records, sObject, Rows, External, Creates, new, record, included, resource, require]
 ---
 
 # Create Records Using sObject Rows by External ID

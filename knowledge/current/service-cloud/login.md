@@ -5,9 +5,9 @@ topic: login
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.026Z
+lastCollected: 2026-03-12T09:33:56.109Z
 estimatedTokens: 230
-keywords: [login, Logs, agent, Omni-Channel, specific, presence, status., reconnect, after, connection, error., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [login, Logs, agent, Omni-Channel, specific, presence, status, reconnect, connection, error, API, versions, 32.0, later, Arguments]
 ---
 
 # login

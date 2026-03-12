@@ -5,10 +5,10 @@ topic: sandboxpostcopy-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.927Z
+lastCollected: 2026-03-12T09:33:29.993Z
 estimatedTokens: 1121
 namespace: System
-keywords: [SandboxPostCopy, sandbox, environment, business, ready, automate, data, manipulation, logic, tasks., Extend, add, perform, post-copy, tasks, then, specify, during, creation., Usage]
+keywords: [SandboxPostCopy, sandbox, environment, business, ready, automate, data, manipulation, logic, tasks, Extend, add, perform, post-copy, specify]
 ---
 
 # SandboxPostCopy Interface

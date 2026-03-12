@@ -5,9 +5,9 @@ topic: connectapimanagedcontentmedianodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.811Z
+lastCollected: 2026-03-12T09:33:27.857Z
 estimatedTokens: 364
-keywords: [ConnectApi.ManagedContentMediaNodeValue, Managed, content, node, media, type.]
+keywords: [ConnectApi.ManagedContentMediaNodeValue, Managed, content, node, media]
 ---
 
 # ConnectApi.ManagedContentMediaNodeValue

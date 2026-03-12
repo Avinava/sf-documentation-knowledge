@@ -5,9 +5,9 @@ topic: batch-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.933Z
+lastCollected: 2026-03-12T09:33:46.956Z
 estimatedTokens: 201
-keywords: [Batch, Management, Standard, Objects, contains, standard, BatchProcessJobDefinitionView, which, view, batch, jobs, Salesforce, org, including, file-based, jobs.]
+keywords: [Batch, Management, Standard, Objects, BatchProcessJobDefinitionView, view, jobs, Salesforce, org, including, file-based]
 ---
 
 # Batch Management Standard Objects

@@ -5,9 +5,9 @@ topic: connectapimanagedcontentchannelcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.714Z
+lastCollected: 2026-03-12T09:33:27.766Z
 estimatedTokens: 178
-keywords: [ConnectApi.ManagedContentChannelCollection, Collection, managed, content, channels.]
+keywords: [Collection, managed, content, channels]
 ---
 
 # ConnectApi.ManagedContentChannelCollection

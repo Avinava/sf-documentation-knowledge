@@ -5,9 +5,9 @@ topic: flow-for-discovery-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.068Z
+lastCollected: 2026-03-12T09:33:49.736Z
 estimatedTokens: 244
-keywords: [Flow, Discovery, Framework, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute, logic]
+keywords: [Flow, Discovery, Framework, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---
 
 # Flow for Discovery Framework

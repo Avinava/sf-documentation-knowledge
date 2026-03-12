@@ -5,9 +5,9 @@ topic: externaldataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.626Z
+lastCollected: 2026-03-12T09:33:39.231Z
 estimatedTokens: 482
-keywords: [ExternalDataConnector, Used, represent, where, data, sourced., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+keywords: [ExternalDataConnector, represent, data, sourced, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample]
 ---
 
 # ExternalDataConnector

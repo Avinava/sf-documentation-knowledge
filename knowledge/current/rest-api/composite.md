@@ -5,9 +5,9 @@ topic: composite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.404Z
+lastCollected: 2026-03-12T09:33:35.257Z
 estimatedTokens: 209
-keywords: [Composite, Executes, series, REST, API, requests, single, POST, request, retrieves, list, composite, resources, GET, request.]
+keywords: [Composite, Executes, series, REST, API, requests, POST, retrieves, resources]
 ---
 
 # Composite

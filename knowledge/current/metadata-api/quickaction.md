@@ -5,10 +5,10 @@ topic: quickaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.048Z
+lastCollected: 2026-03-12T09:33:41.491Z
 estimatedTokens: 2376
 namespace: Canvas
-keywords: [QuickAction, Represents, specified, create, update, quick, action, then, becomes, Chatter, publisher., example, detail, page, account, allows, user, contact, related, feed]
+keywords: [QuickAction, quick, action, becomes, Chatter, publisher, detail, account, user, contact, feed, created, objects, permit, custom]
 ---
 
 # QuickAction

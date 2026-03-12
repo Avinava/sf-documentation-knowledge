@@ -1,0 +1,72 @@
+---
+title: "WorkStep"
+domain: object-reference
+topic: workstep
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:35:19.847Z
+estimatedTokens: 1380
+keywords: [WorkStep, work, step, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+---
+
+# WorkStep
+
+> Represents a work step in a work plan. This object is available in API
+    version 52.0 and later.
+
+# WorkStep
+
+Represents a work step in a work plan. This object is available in API version 52.0 and later.
+
+## Supported Calls
+
+create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
+
+## Special Access Rules
+
+Field Service must be enabled.
+
+## Fields
+
+| Field | Details |
+| --- | --- |
+| ActionDefinition | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe platform action that the work step executes. The possible values are the names of the flow and quick actions configured in your org. To launch Lightning Web Components from Work Steps, you must use QuickAction on the action definition. |
+| ActionType | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe type of platform action that the work step is associated with.Possible values are:FlowQuickAction |
+| Description | TypetextareaPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe description of the work step. |
+| EndTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time the work step ends. The value must be greater than or equal to StartTime. |
+| ExecutionOrder | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe order in which the work step is executed. Only positive integer values or null are supported. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionRequired. The user-defined name of the work step. |
+| PausedFlowInterviewId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe auto-populated ID of the flow interview paused by a user. |
+| ProcessType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe flow process type launched from the work step.Possible values are:DataCaptureFlow—Data Capture FlowDiscoveryFrameworkFlow—Discovery Framework Data Capture Flow (Beta)FieldServiceMobileFlow—Field Service Mobile FlowThe default value is DataCaptureFlow. |
+| StartTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time the work step starts. |
+| Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe customizable status of the work order. Every status must be mapped to a status category, but there can be status categories not mapped to a status.Possible values are:CompletedIn ProgressNewNot ApplicablePaused |
+| StatusCategory | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe category that each status value belongs to. Each default status category is mapped to the corresponding default status. If you create a custom status, you must indicate which status category it belongs to. To learn which processes reference StatusCategory, see How are Status Categories Used?.Possible values are:CompletedInProgressNewNotApplicablePaused |
+| WorkOrderId | TypereferencePropertiesFilter, Group, SortDescriptionThe ID of the work order. |
+| WorkOrderLineItemId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe ID of the work order line item. |
+| WorkPlanExecutionOrder | TypeintPropertiesFilter, Group, Nillable, SortDescriptionThe ID of the plan execution order. |
+| WorkPlanId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the work plan. |
+
+## Associated Objects
+
+This object has these associated objects. Unless noted, they’re available in the same API version as this object.
+
+[WorkStepChangeEvent](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm "A ChangeEvent object is available for each object that supports Change Data Capture. You can subscribe to a stream of change events using Change Data Capture to receive data tied to record changes in Salesforce. Changes include record creation, updates to an existing record, deletion of a record, and undeletion of a record. A change event isn’t a Salesforce object—it doesn’t support CRUD operations or queries. It’s included in the object reference so you can discover which Salesforce objects support change events.")
+
+Change events are available for the object.
+
+[WorkStepFeed](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm "StandardObjectNameFeed is the model for all feed objects associated with standard objects. These objects represent the posts and feed-tracked changes of a standard object.")
+
+Feed tracking is available for the object.
+
+[WorkStepHistory](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
+
+History is available for tracked fields of the object.
+
+## Related Topics
+
+- WorkStepChangeEvent (atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm)
+- WorkStepFeed (atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
+- WorkStepHistory (atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)

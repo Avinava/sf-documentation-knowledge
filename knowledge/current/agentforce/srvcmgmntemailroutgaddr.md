@@ -5,9 +5,9 @@ topic: srvcmgmntemailroutgaddr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.605Z
+lastCollected: 2026-03-12T09:33:16.254Z
 estimatedTokens: 607
-keywords: [SrvcMgmntEmailRoutgAddr, Represents, relationship, between, email, address, generated, specific, service, management, operation, such, incident., API, version, 65.0, later., Supported, SOAP, Calls]
+keywords: [SrvcMgmntEmailRoutgAddr, relationship, email, address, generated, specific, service, management, operation, incident, API, version, 65.0, later, SOAP]
 ---
 
 # SrvcMgmntEmailRoutgAddr

@@ -5,9 +5,9 @@ topic: decision-matrix-basic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.945Z
+lastCollected: 2026-03-12T09:33:48.689Z
 estimatedTokens: 117
-keywords: [Decision, Matrix, Basic, Output, representation, decision, matrices, details.]
+keywords: [Decision, Matrix, Basic, Output, representation, matrices]
 ---
 
 # Decision Matrix Basic

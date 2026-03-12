@@ -5,9 +5,9 @@ topic: connectapiengagementinteractionfetchoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.754Z
+lastCollected: 2026-03-12T09:33:46.780Z
 estimatedTokens: 108
-keywords: [ConnectApi.EngagementInteractionFetchOutput, Output, representation, fetch, engagement, interaction, record, along, status.]
+keywords: [Output, representation, fetch, engagement, interaction, record, along, status]
 ---
 
 # ConnectApi.EngagementInteractionFetchOutput

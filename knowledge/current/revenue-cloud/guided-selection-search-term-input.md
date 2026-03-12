@@ -5,9 +5,9 @@ topic: guided-selection-search-term-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.139Z
+lastCollected: 2026-03-12T09:33:08.030Z
 estimatedTokens: 80
-keywords: [Guided, Selection, Search, Term, Input, representation, search, terms, guided, selection.]
+keywords: [Guided, Selection, Search, Term, Input, representation, terms]
 ---
 
 # Guided Selection Search Term Input

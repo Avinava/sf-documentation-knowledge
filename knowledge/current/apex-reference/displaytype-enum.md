@@ -5,10 +5,10 @@ topic: displaytype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.540Z
+lastCollected: 2026-03-12T09:33:29.585Z
 estimatedTokens: 693
 namespace: Schema
-keywords: [DisplayType, Schema.DisplayType, returned, field, describe, result's, getType, method., Usage]
+keywords: [DisplayType, Schema.DisplayType, describe, result's, getType, Usage]
 ---
 
 # DisplayType Enum

@@ -5,9 +5,9 @@ topic: connectapidatacategorymetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.917Z
+lastCollected: 2026-03-12T09:33:27.011Z
 estimatedTokens: 141
-keywords: [ConnectApi.DataCategoryMetadata, Data, category, metadata, object.]
+keywords: [ConnectApi.DataCategoryMetadata, Data, category, metadata]
 ---
 
 # ConnectApi.DataCategoryMetadata

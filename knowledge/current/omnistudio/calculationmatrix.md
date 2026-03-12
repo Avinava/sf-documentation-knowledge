@@ -5,9 +5,9 @@ topic: calculationmatrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.645Z
+lastCollected: 2026-03-12T09:33:52.121Z
 estimatedTokens: 1054
-keywords: [CalculationMatrix, Matches, input, values, table, row, row's, output, values., label, Decision, Matrix., API, version, 53.0, later., Supported, Calls, Special, Access]
+keywords: [CalculationMatrix, Matches, input, row, row's, output, label, Decision, Matrix, API, version, 53.0, later, Calls, Special]
 ---
 
 # CalculationMatrix

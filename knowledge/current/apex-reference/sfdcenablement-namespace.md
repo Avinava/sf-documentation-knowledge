@@ -5,10 +5,10 @@ topic: sfdcenablement-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.726Z
+lastCollected: 2026-03-12T09:33:31.782Z
 estimatedTokens: 431
 namespace: The
-keywords: [Sfdc_Enablement, sfdc_enablement, provides, classes, creating, custom, learning, items, implement, exercise, types, Enablement, programs., Lightning, web, components, used, render, exercises, Program]
+keywords: [Sfdc_Enablement, classes, creating, custom, learning, items, implement, exercise, Enablement, programs, Lightning, web, components, render, exercises]
 ---
 
 # Sfdc_Enablement Namespace

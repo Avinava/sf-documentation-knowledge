@@ -5,9 +5,9 @@ topic: data-category-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.593Z
+lastCollected: 2026-03-12T09:33:35.434Z
 estimatedTokens: 384
-keywords: [Data, Category, Detail, data, category, details, child, categories, given, category., resource, used, API, version, 38.0, later., Syntax, Note, Example]
+keywords: [Data, Category, Detail, child, categories, resource, API, version, 38.0, later]
 ---
 
 # Data Category Detail

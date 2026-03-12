@@ -5,9 +5,9 @@ topic: rate-plan-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.308Z
+lastCollected: 2026-03-12T09:33:09.845Z
 estimatedTokens: 130
-keywords: [Rate, Plan, Response, Output, representation, details, rate, plan.]
+keywords: [Rate, Plan, Output, representation]
 ---
 
 # Rate Plan Response

@@ -5,9 +5,9 @@ topic: connectapiordersummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.296Z
+lastCollected: 2026-03-12T09:33:28.345Z
 estimatedTokens: 98
-keywords: [ConnectApi.OrderSummaryOutputRepresentation, created, Order, Summary.]
+keywords: [created, Order, Summary]
 ---
 
 # ConnectApi.OrderSummaryOutputRepresentation

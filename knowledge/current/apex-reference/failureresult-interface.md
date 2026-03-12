@@ -5,10 +5,10 @@ topic: failureresult-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.088Z
+lastCollected: 2026-03-12T09:33:30.129Z
 estimatedTokens: 356
 namespace: EventBus
-keywords: [FailureResult, Contains, result, Apex, publish, callback, event, publishing, failed., used, onFailure, EventPublishFailureCallback, interface., getEventUuids]
+keywords: [FailureResult, result, Apex, publish, callback, event, publishing, failed, onFailure, EventPublishFailureCallback, getEventUuids]
 ---
 
 # FailureResult Interface

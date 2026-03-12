@@ -5,9 +5,9 @@ topic: maintenanceplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:56.205Z
+lastCollected: 2026-03-12T09:33:54.434Z
 estimatedTokens: 2686
-keywords: [MaintenancePlan, Represents, preventive, maintenance, schedule, assets, field, service., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [MaintenancePlan, preventive, maintenance, schedule, assets, service, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # MaintenancePlan

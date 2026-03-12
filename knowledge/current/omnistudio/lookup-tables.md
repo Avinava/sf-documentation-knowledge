@@ -5,10 +5,10 @@ topic: lookup-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.857Z
+lastCollected: 2026-03-12T09:33:50.496Z
 estimatedTokens: 736
 namespace: BusinessRule
-keywords: [Lookup, Tables, Business, Rules, Engine, two, types, lookup, tables—decision, matrices, decision, tables., developer, resources, tables, integration, Flows, Omniscripts, any, third-party]
+keywords: [Lookup, Tables, Business, Rules, Engine, two, tables—decision, matrices, decision, developer, resources, integration, Flows, Omniscripts, any]
 ---
 
 # Lookup Tables

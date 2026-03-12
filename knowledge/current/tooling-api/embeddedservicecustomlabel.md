@@ -5,9 +5,9 @@ topic: embeddedservicecustomlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.255Z
+lastCollected: 2026-03-12T09:33:44.390Z
 estimatedTokens: 339
-keywords: [EmbeddedServiceCustomLabel, Represents, customized, label, appears, embedded, component, particular, Embedded, Service, deployment., Labels, both, Chat, Appointment, Management, beta, API, version, 44.0]
+keywords: [EmbeddedServiceCustomLabel, customized, label, appears, embedded, component, particular, Service, deployment, Labels, Chat, Appointment, Management, beta, API]
 ---
 
 # EmbeddedServiceCustomLabel

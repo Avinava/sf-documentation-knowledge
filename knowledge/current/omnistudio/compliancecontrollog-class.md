@@ -5,10 +5,10 @@ topic: compliancecontrollog-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.464Z
+lastCollected: 2026-03-12T09:33:46.502Z
 estimatedTokens: 534
 namespace: ComplianceMgmt
-keywords: [ComplianceControlLog, Represents, map, business, context, evidence, that's, logged, evaluate, compliance, control., Example, addLog, attributeName, attributeValue, getBusinessContextEvidenceMap]
+keywords: [ComplianceControlLog, map, business, context, evidence, that's, logged, evaluate, compliance, control, addLog, attributeName, attributeValue, getBusinessContextEvidenceMap]
 ---
 
 # ComplianceControlLog Class

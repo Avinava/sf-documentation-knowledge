@@ -6,9 +6,9 @@ topic: getcompliancejobresultsjobid-pagesize-offset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.429Z
+lastCollected: 2026-03-12T09:33:46.469Z
 estimatedTokens: 218
-keywords: [getComplianceJobResults, jobId, pageSize, offset, Get, compliance, job, results, specific, job., API, Version, Requires, Chatter, Usage, Example]
+keywords: [getComplianceJobResults, jobId, pageSize, offset, compliance, job, results, specific, API, Version, Requires, Chatter, Usage]
 ---
 
 # getComplianceJobResults(jobId, pageSize,

@@ -5,10 +5,10 @@ topic: set-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.999Z
+lastCollected: 2026-03-12T09:33:31.047Z
 estimatedTokens: 4316
 namespace: System
-keywords: [Set, Represents, collection, unique, elements, duplicate, values., Usage, Note, Set<T>, Example, setToCopy, listToCopy, add, setElement, addAll, fromList, fromSet, clear, clone]
+keywords: [collection, unique, elements, duplicate, Usage, Set<T>, setToCopy, listToCopy, add, setElement, addAll, fromList, fromSet, clear, clone]
 ---
 
 # Set Class

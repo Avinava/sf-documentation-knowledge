@@ -5,9 +5,9 @@ topic: connectapieditcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.080Z
+lastCollected: 2026-03-12T09:33:27.173Z
 estimatedTokens: 387
-keywords: [ConnectApi.EditCapability, feed, element, comment, capability, users, who, permission, edit, it.]
+keywords: [ConnectApi.EditCapability, feed, element, comment, capability, users, permission, edit]
 ---
 
 # ConnectApi.EditCapability

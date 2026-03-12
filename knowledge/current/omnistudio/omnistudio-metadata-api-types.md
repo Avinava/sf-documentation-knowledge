@@ -5,9 +5,9 @@ topic: omnistudio-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:52.794Z
+lastCollected: 2026-03-12T09:33:51.371Z
 estimatedTokens: 754
-keywords: [Omnistudio, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Omnistudio, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Omnistudio Metadata API Types

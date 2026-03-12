@@ -5,9 +5,9 @@ topic: category-by-id-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.866Z
+lastCollected: 2026-03-12T09:33:08.664Z
 estimatedTokens: 278
-keywords: [Category, GET, Retrieve, details, individual, category, records, based, ID.]
+keywords: [Category, Retrieve, individual, records]
 ---
 
 # Category By ID (GET)

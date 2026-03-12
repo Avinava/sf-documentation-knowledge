@@ -5,9 +5,9 @@ topic: sendmessagingcomponent-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.917Z
+lastCollected: 2026-03-12T09:33:56.004Z
 estimatedTokens: 242
-keywords: [sendMessagingComponent, LWC, Lightning, Experience, Sends, new, message, specified, messaging, component, behalf, service, rep., send, text, message., works, only, console, apps.]
+keywords: [sendMessagingComponent, LWC, Lightning, Experience, new, message, messaging, component, behalf, service, rep, send, text, works, console]
 ---
 
 # sendMessagingComponent() for LWC for Lightning Experience

@@ -5,9 +5,9 @@ topic: setagentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.399Z
+lastCollected: 2026-03-12T09:33:56.445Z
 estimatedTokens: 224
-keywords: [setAgentInput, text, agent’s, input, area, chat, log, specific, key.Available, API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [setAgentInput, text, agent’s, input, area, chat, log, specific, key.Available, API, version, 29.0, later, Arguments, Sample]
 ---
 
 # setAgentInput()

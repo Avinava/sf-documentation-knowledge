@@ -5,9 +5,9 @@ topic: uiobjectrelationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.366Z
+lastCollected: 2026-03-12T09:33:42.703Z
 estimatedTokens: 1015
-keywords: [UIObjectRelationConfig, Represents, admin-created, configuration, relation, component., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UIObjectRelationFieldConfig, Declarative, Metadata]
+keywords: [UIObjectRelationConfig, admin-created, configuration, relation, component, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, UIObjectRelationFieldConfig]
 ---
 
 # UIObjectRelationConfig

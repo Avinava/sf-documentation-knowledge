@@ -5,9 +5,9 @@ topic: getdetailsbychatkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.402Z
+lastCollected: 2026-03-12T09:33:55.519Z
 estimatedTokens: 1612
-keywords: [getDetailsByChatKey, details, chat, associated, specific, key., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response, breadcrumb, customDetail, entityMap, geoLocation, visitorInfo]
+keywords: [getDetailsByChatKey, chat, associated, specific, key, API, version, 29.0, later, Arguments, Sample, Code–Visualforce, breadcrumb, customDetail, entityMap]
 ---
 
 # getDetailsByChatKey()

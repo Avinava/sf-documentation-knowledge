@@ -5,9 +5,9 @@ topic: omnisupervisorconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:52.571Z
+lastCollected: 2026-03-12T09:33:51.138Z
 estimatedTokens: 1957
-keywords: [OmniSupervisorConfig, Represents, Omni-Channel, supervisor, configuration, assigned, group, supervisors., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OmniSpvsrConfigAIAgent]
+keywords: [OmniSupervisorConfig, Omni-Channel, supervisor, configuration, assigned, group, supervisors, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # OmniSupervisorConfig

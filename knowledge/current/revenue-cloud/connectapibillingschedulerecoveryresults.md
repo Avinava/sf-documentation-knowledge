@@ -5,9 +5,9 @@ topic: connectapibillingschedulerecoveryresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.113Z
+lastCollected: 2026-03-12T09:33:07.142Z
 estimatedTokens: 89
-keywords: [ConnectApi.BillingScheduleRecoveryResults, Output, representation, recovered, details, billing, schedules, associated, invoice.]
+keywords: [Output, representation, recovered, billing, schedules, associated, invoice]
 ---
 
 # ConnectApi.BillingScheduleRecoveryResults

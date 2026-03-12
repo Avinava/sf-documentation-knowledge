@@ -5,10 +5,10 @@ topic: xmlnode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.972Z
+lastCollected: 2026-03-12T09:33:24.360Z
 estimatedTokens: 4821
 namespace: Dom
-keywords: [XmlNode, Inserts, new, child, node, before, specified, node., addChildElement, name, prefix, Usage, addCommentNode, text, addTextNode, getAttribute, key, keyNamespace, Example, getAttributeCount]
+keywords: [XmlNode, Inserts, new, child, node, addChildElement, prefix, Usage, addCommentNode, text, addTextNode, getAttribute, key, keyNamespace, getAttributeCount]
 ---
 
 # XmlNode Class

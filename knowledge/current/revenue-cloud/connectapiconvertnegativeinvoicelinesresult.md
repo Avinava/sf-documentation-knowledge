@@ -5,9 +5,9 @@ topic: connectapiconvertnegativeinvoicelinesresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.118Z
+lastCollected: 2026-03-12T09:33:07.148Z
 estimatedTokens: 142
-keywords: [ConnectApi.ConvertNegativeInvoiceLinesResult, Output, representation, details, credit, memo, along, status, request.]
+keywords: [Output, representation, credit, memo, along, status]
 ---
 
 # ConnectApi.ConvertNegativeInvoiceLinesResult

@@ -5,9 +5,9 @@ topic: shifttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.675Z
+lastCollected: 2026-03-12T09:33:54.879Z
 estimatedTokens: 1001
-keywords: [ShiftTemplate, Represents, template, creating, shifts., API, version, 51.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ShiftTemplate, template, creating, shifts, API, version, 51.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ShiftTemplate

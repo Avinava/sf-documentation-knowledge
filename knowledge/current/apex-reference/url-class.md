@@ -5,10 +5,10 @@ topic: url-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.472Z
+lastCollected: 2026-03-12T09:33:31.529Z
 estimatedTokens: 4607
 namespace: System
-keywords: [URL, canonical, org., example, https, MyDomainName.my.salesforce.com., Usage, Example, Versioned, Behavior, Changes, Url, spec, context, protocol, host, file, port, getAuthority, getCurrentRequestUrl]
+keywords: [URL, canonical, org, https, MyDomainName.my.salesforce.com, Usage, Versioned, Behavior, Changes, spec, context, protocol, host, file, port]
 ---
 
 # URL Class

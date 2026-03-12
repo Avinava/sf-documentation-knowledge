@@ -5,9 +5,9 @@ topic: connectapicalculatecartinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.480Z
+lastCollected: 2026-03-12T09:33:24.756Z
 estimatedTokens: 174
-keywords: [ConnectApi.CalculateCartInput, Custom, fields, cart, calculation.]
+keywords: [ConnectApi.CalculateCartInput, Custom, cart, calculation]
 ---
 
 # ConnectApi.CalculateCartInput

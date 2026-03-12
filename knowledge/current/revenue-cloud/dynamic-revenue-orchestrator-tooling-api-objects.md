@@ -5,9 +5,9 @@ topic: dynamic-revenue-orchestrator-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.734Z
+lastCollected: 2026-03-12T09:33:10.173Z
 estimatedTokens: 341
-keywords: [Dynamic, Revenue, Orchestrator, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types]
+keywords: [Dynamic, Revenue, Orchestrator, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow]
 ---
 
 # Dynamic Revenue Orchestrator Tooling API Objects

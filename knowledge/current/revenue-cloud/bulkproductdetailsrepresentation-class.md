@@ -5,9 +5,9 @@ topic: bulkproductdetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.706Z
+lastCollected: 2026-03-12T09:33:06.763Z
 estimatedTokens: 6313
-keywords: [BulkProductDetailsRepresentation, Get, details, multiple, product, definitions, single, request., used, bulk, retrieval, operations, Product, Discovery., apexObj, additionalFields, attributeCategories, attributes, availabilityDate, catalogs]
+keywords: [BulkProductDetailsRepresentation, multiple, product, definitions, bulk, retrieval, operations, Discovery, apexObj, additionalFields, attributeCategories, attributes, availabilityDate, catalogs, childProducts]
 ---
 
 # BulkProductDetailsRepresentation Class

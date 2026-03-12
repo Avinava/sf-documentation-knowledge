@@ -5,9 +5,9 @@ topic: return-headers-using-sobject-quick-action-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.048Z
+lastCollected: 2026-03-12T09:33:35.893Z
 estimatedTokens: 225
-keywords: [Headers, sObject, Quick, Action, Details, only, headers, returned, sending, GET, request, Actions, resource., gives, chance, header, values, before, retrieving, content]
+keywords: [sObject, Quick, Action, sending, Actions, resource, gives, chance, retrieving, content, REST, API, version, 28.0, later]
 ---
 
 # Return Headers Using sObject Quick Action Details

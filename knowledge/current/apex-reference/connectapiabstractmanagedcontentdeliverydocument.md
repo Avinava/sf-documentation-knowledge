@@ -5,9 +5,9 @@ topic: connectapiabstractmanagedcontentdeliverydocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.877Z
+lastCollected: 2026-03-12T09:33:26.054Z
 estimatedTokens: 378
-keywords: [ConnectApi.AbstractManagedContentDeliveryDocument, Managed, content, delivery, document.]
+keywords: [Managed, content, delivery, document]
 ---
 
 # ConnectApi.AbstractManagedContentDeliveryDocument

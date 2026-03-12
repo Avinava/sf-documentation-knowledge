@@ -5,9 +5,9 @@ topic: product-catalog-management-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.029Z
+lastCollected: 2026-03-12T09:33:10.417Z
 estimatedTokens: 800
-keywords: [Product, Catalog, Management, Fields, Standard, Objects, adds, standard, custom, fields, Salesforce, objects., only, orgs, where, enabled., API, version, 60.0, later.]
+keywords: [Product, Catalog, Management, Standard, Objects, adds, custom, Salesforce, orgs, enabled, API, version, 60.0, later]
 ---
 
 # Product Catalog Management Fields on Standard Objects

@@ -5,9 +5,9 @@ topic: orderdirection-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:29.450Z
+lastCollected: 2026-03-12T09:33:29.499Z
 estimatedTokens: 190
-keywords: [OrderDirection, Specifies, direction, sorting, rows, based, column, values., Usage, Values]
+keywords: [OrderDirection, direction, sorting, rows, column, Usage]
 ---
 
 # OrderDirection Enum

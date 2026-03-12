@@ -5,9 +5,9 @@ topic: datapackagekitdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.510Z
+lastCollected: 2026-03-12T09:33:38.211Z
 estimatedTokens: 872
-keywords: [DataPackageKitDefinition, Represents, top-level, data, kit, container, definition., Content, objects, added, after, defined., Important, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [DataPackageKitDefinition, top-level, data, kit, container, definition, Content, objects, added, defined, Parent, File, Suffix, Directory, Location]
 ---
 
 # DataPackageKitDefinition

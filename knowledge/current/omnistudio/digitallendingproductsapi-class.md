@@ -5,10 +5,10 @@ topic: digitallendingproductsapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.570Z
+lastCollected: 2026-03-12T09:33:46.606Z
 estimatedTokens: 223
 namespace: Usage
-keywords: [DigitalLendingProductsApi, Contains, call, utility, Integration, Procedures, used, Digital, Lending, Flexcards., Usage]
+keywords: [DigitalLendingProductsApi, call, utility, Integration, Procedures, Digital, Lending, Flexcards, Usage]
 ---
 
 # DigitalLendingProductsApi Class

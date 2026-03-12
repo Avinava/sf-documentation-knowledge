@@ -5,9 +5,9 @@ topic: connectapicartcouponcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.295Z
+lastCollected: 2026-03-12T09:33:26.460Z
 estimatedTokens: 271
-keywords: [ConnectApi.CartCouponCollection, Collection, coupons, related, cart.]
+keywords: [ConnectApi.CartCouponCollection, Collection, coupons, cart]
 ---
 
 # ConnectApi.CartCouponCollection

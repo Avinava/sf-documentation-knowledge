@@ -5,9 +5,9 @@ topic: setcustomconsolecomponentbuttonstyle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.421Z
+lastCollected: 2026-03-12T09:33:56.471Z
 estimatedTokens: 255
-keywords: [setCustomConsoleComponentButtonStyle, style, button, used, launch, application-level, custom, console, component, that’s, page., only, API, version, 25.0, later., isn’t, supported, Lightning, Console.]
+keywords: [setCustomConsoleComponentButtonStyle, style, button, launch, application-level, custom, console, component, that’s, API, version, 25.0, later, isn’t, Lightning]
 ---
 
 # setCustomConsoleComponentButtonStyle()

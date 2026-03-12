@@ -5,9 +5,9 @@ topic: delete-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.104Z
+lastCollected: 2026-03-12T09:33:13.018Z
 estimatedTokens: 339
-keywords: [Delete, Records, records, data, lake, table., Note]
+keywords: [Records, data, lake]
 ---
 
 # Delete Records

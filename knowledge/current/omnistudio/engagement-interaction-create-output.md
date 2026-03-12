@@ -5,9 +5,9 @@ topic: engagement-interaction-create-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.114Z
+lastCollected: 2026-03-12T09:33:48.830Z
 estimatedTokens: 129
-keywords: [Engagement, Interaction, Create, Output, representation, creating, engagement, interaction, record.]
+keywords: [Engagement, Interaction, Output, representation, creating, record]
 ---
 
 # Engagement Interaction Create Output

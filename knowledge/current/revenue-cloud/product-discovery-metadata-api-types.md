@@ -5,9 +5,9 @@ topic: product-discovery-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.088Z
+lastCollected: 2026-03-12T09:33:10.464Z
 estimatedTokens: 209
-keywords: [Product, Discovery, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Product, Discovery, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Product Discovery Metadata API Types

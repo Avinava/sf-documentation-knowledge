@@ -5,9 +5,9 @@ topic: paymentretryrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:10.756Z
+lastCollected: 2026-03-12T09:33:11.808Z
 estimatedTokens: 852
-keywords: [PaymentRetryRule, Represents, specific, payment, retry, rule, failed, schedule, item., defines, actionable, such, maximum, number, retries, records, time, intervals, between, subsequent]
+keywords: [PaymentRetryRule, specific, payment, retry, rule, failed, schedule, item, actionable, maximum, number, retries, records, time, intervals]
 ---
 
 # PaymentRetryRule

@@ -5,9 +5,9 @@ topic: connectapiordersummarycollectionrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.288Z
+lastCollected: 2026-03-12T09:33:28.336Z
 estimatedTokens: 327
-keywords: [ConnectApi.OrderSummaryCollectionRepresentation, Collection, order, summaries.]
+keywords: [Collection, order, summaries]
 ---
 
 # ConnectApi.OrderSummaryCollectionRepresentation

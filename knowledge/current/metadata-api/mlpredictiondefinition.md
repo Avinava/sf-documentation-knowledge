@@ -5,9 +5,9 @@ topic: mlpredictiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.215Z
+lastCollected: 2026-03-12T09:33:40.693Z
 estimatedTokens: 791
-keywords: [MLPredictionDefinition, Represents, prediction, definition, specifies, details, prediction., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version]
+keywords: [MLPredictionDefinition, prediction, definition, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Wildcard, Support, Manifest]
 ---
 
 # MLPredictionDefinition

@@ -5,9 +5,9 @@ topic: formulafunctionallowedtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.783Z
+lastCollected: 2026-03-12T09:33:44.932Z
 estimatedTokens: 250
-keywords: [FormulaFunctionAllowedType, Represents, functions, supported, given, formula, context., API, version, 48.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access, Rules, Fields]
+keywords: [FormulaFunctionAllowedType, functions, formula, context, API, version, 48.0, later, SOAP, Calls, REST, HTTP, Special, Access, Rules]
 ---
 
 # FormulaFunctionAllowedType

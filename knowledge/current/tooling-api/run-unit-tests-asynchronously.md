@@ -5,9 +5,9 @@ topic: run-unit-tests-asynchronously
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.304Z
+lastCollected: 2026-03-12T09:33:43.501Z
 estimatedTokens: 2025
-keywords: [Run, Unit, Tests, Asynchronously, Test, Runner, API, execute, Apex, flow, tests, asynchronously., version, 30.0, later., automated, 65.0, Syntax, Example]
+keywords: [Run, Unit, Tests, Asynchronously, Test, Runner, API, execute, Apex, flow, version, 30.0, later, automated, 65.0]
 ---
 
 # Run Unit Tests Asynchronously

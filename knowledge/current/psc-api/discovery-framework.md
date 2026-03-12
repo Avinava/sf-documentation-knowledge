@@ -1,0 +1,48 @@
+---
+title: "Discovery Framework"
+domain: psc-api
+topic: discovery-framework
+apiVersion: 67.0
+release: summer-26-v67
+docType: help-article
+lastCollected: 2026-03-12T09:35:31.415Z
+estimatedTokens: 662
+keywords: [Discovery, Framework, data, model, helps, manage, every, aspect, questionnaire-driven, collection, cases, users, collect, validate, their]
+---
+
+# Discovery Framework
+
+> The Discovery Framework data model helps manage every aspect of questionnaire-driven
+  information collection use cases. By using this data model, your users can collect and validate
+  their customers’ information in a compliant manner. For example, financial needs analysis, digital
+  onboarding, and more.
+
+# Discovery Framework
+
+The Discovery Framework data model helps manage every aspect of questionnaire-driven information collection use cases. By using this data model, your users can collect and validate their customers’ information in a compliant manner. For example, financial needs analysis, digital onboarding, and more.
+
+| Available in: Discovery Framework is available in Lightning Experience and included in Financial Services Cloud, Health Cloud, Public Sector Solutions, and Consumer Goods Cloud. |
+| --- |
+
+
+-   **[Discovery Framework Standard Objects](atlas.en-us.psc_api.meta/psc_api/discovery_framework_standard_objects.htm)**
+    This section lists the standard objects associated with Discovery Framework with their standard fields. Use the standard objects to create assessment questions and forms.
+-   **[Discovery Framework Metadata API Types](atlas.en-us.psc_api.meta/psc_api/discovery_framework_metadata_api_parent.htm)**
+    Metadata API enables you to access some types and feature settings that you can customize in the user interface.
+-   **[Discovery Framework Invocable Actions](atlas.en-us.psc_api.meta/psc_api/discovery_framework_actions.htm)**
+    Use actions to invoke Discovery Framework actions in a flow.
+-   **[Discovery Framework Tooling API Objects](atlas.en-us.psc_api.meta/psc_api/discovery_framework_tooling_api_objects.htm)**
+    Tooling API exposes metadata used in developer tooling that you can access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller pieces of metadata. For more information about Tooling API objects and to find a complete reference of all the supported objects, see **[Introducing Tooling API](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_tooling.meta/api_tooling/intro_api_tooling.htm)**.
+-   **[Discovery Framework Connect APIs](atlas.en-us.psc_api.meta/psc_api/dfdt_connect_apis.htm)**
+    Use the Discovery Framework Document Decision Connect APIs to invoke a Decision Table, accept key-value pairs that match the Decision Table keys, and return either Document Types or Document Categories.
+-   **[DiscoveryFramework\_Prefill Integration Procedure](atlas.en-us.psc_api.meta/psc_api/discoveryframework_prefill_integration_procedure.htm)**
+    The DiscoveryFramework\_Prefill Integration Procedure calls a Omnistudio Data Mapper and an Apex class. To customize the prefill flow, edit the steps of the DiscoveryFramework\_Prefill Integration Procedure. Open the OmniStudio app, go to the Integration Procedures page, expand the DiscoveryFramework/Prefill Integration Procedure, and open the highest version.
+
+## Related Topics
+
+- Discovery Framework Standard Objects (atlas.en-us.psc_api.meta/psc_api/discovery_framework_standard_objects.htm)
+- Discovery Framework Metadata API Types (atlas.en-us.psc_api.meta/psc_api/discovery_framework_metadata_api_parent.htm)
+- Discovery Framework Invocable Actions (atlas.en-us.psc_api.meta/psc_api/discovery_framework_actions.htm)
+- Discovery Framework Tooling API Objects (atlas.en-us.psc_api.meta/psc_api/discovery_framework_tooling_api_objects.htm)
+- Discovery Framework Connect APIs (atlas.en-us.psc_api.meta/psc_api/dfdt_connect_apis.htm)
+- DiscoveryFramework_Prefill Integration Procedure (atlas.en-us.psc_api.meta/psc_api/discoveryframework_prefill_integration_procedure.htm)

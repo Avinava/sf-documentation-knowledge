@@ -5,9 +5,9 @@ topic: checkstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.691Z
+lastCollected: 2026-03-12T09:33:37.446Z
 estimatedTokens: 754
-keywords: [checkStatus, Deprecated., Checks, status, asynchronous, metadata, calls, create, update, delete, declarative, call, retrieve, removed, API, version, 31.0, only, earlier, versions.]
+keywords: [checkStatus, Deprecated, Checks, status, asynchronous, metadata, calls, declarative, call, retrieve, removed, API, version, 31.0, earlier]
 ---
 
 # checkStatus()

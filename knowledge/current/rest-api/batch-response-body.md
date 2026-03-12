@@ -5,9 +5,9 @@ topic: batch-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.201Z
+lastCollected: 2026-03-12T09:33:36.032Z
 estimatedTokens: 202
-keywords: [Batch, Response, Body, Describes, result, Composite, request., Results, Subrequest, Result]
+keywords: [Batch, result, Composite, Results, Subrequest]
 ---
 
 # Batch Response Body

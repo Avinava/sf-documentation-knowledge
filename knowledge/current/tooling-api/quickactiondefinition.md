@@ -5,9 +5,9 @@ topic: quickactiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.568Z
+lastCollected: 2026-03-12T09:33:45.670Z
 estimatedTokens: 1682
-keywords: [QuickActionDefinition, Represents, definition, quick, action., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
+keywords: [QuickActionDefinition, definition, quick, action, SOAP, Calls, REST, HTTP, Usage]
 ---
 
 # QuickActionDefinition

@@ -5,9 +5,9 @@ topic: invoice-run-recovery-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.154Z
+lastCollected: 2026-03-12T09:33:08.916Z
 estimatedTokens: 196
-keywords: [Invoice, Run, Recovery, POST, Recover, records, associated, failed, invoice, run., required, only, billing, schedules, remain, Processing, Progress, Error, status.]
+keywords: [Invoice, Run, Recovery, POST, Recover, records, associated, failed, billing, schedules, remain, Processing, Progress, Error, status]
 ---
 
 # Invoice Run Recovery (POST)

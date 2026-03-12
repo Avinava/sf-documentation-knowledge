@@ -5,9 +5,9 @@ topic: field-service-standard-and-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.580Z
+lastCollected: 2026-03-12T09:33:53.892Z
 estimatedTokens: 8122
-keywords: [Field, Service, Standard, Custom, Objects, list, standard, Salesforce, objects, Salesforce-managed, custom, used, Service., Note]
+keywords: [Service, Standard, Custom, Objects, Salesforce, Salesforce-managed]
 ---
 
 # Field Service Standard and Custom Objects

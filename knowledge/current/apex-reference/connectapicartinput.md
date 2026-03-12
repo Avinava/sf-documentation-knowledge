@@ -5,9 +5,9 @@ topic: connectapicartinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.468Z
+lastCollected: 2026-03-12T09:33:24.748Z
 estimatedTokens: 411
-keywords: [ConnectApi.CartInput, cart.]
+keywords: [ConnectApi.CartInput, cart]
 ---
 
 # ConnectApi.CartInput

@@ -5,10 +5,10 @@ topic: taxenginecontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.552Z
+lastCollected: 2026-03-12T09:33:06.625Z
 estimatedTokens: 1246
 namespace: CommerceTax
-keywords: [TaxEngineContext, Wrapper, stores, details, tax, calculation, request., Example, request, requestType, namedUri, getNamedUri, getRequest, getRequestType]
+keywords: [TaxEngineContext, Wrapper, stores, tax, calculation, requestType, namedUri, getNamedUri, getRequest, getRequestType]
 ---
 
 # TaxEngineContext Class

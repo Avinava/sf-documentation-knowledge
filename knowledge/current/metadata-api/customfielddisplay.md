@@ -5,9 +5,9 @@ topic: customfielddisplay
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.237Z
+lastCollected: 2026-03-12T09:33:37.953Z
 estimatedTokens: 494
-keywords: [CustomFieldDisplay, Represents, view, assigned, product, attribute, custom, fields., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [CustomFieldDisplay, view, assigned, product, attribute, custom, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # CustomFieldDisplay

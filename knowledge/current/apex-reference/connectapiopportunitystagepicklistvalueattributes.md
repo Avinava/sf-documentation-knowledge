@@ -5,9 +5,9 @@ topic: connectapiopportunitystagepicklistvalueattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.197Z
+lastCollected: 2026-03-12T09:33:28.248Z
 estimatedTokens: 323
-keywords: [ConnectApi.OpportunityStagePicklistValueAttributes, Opportunity, stage, picklist, attributes.]
+keywords: [Opportunity, stage, picklist, attributes]
 ---
 
 # ConnectApi.OpportunityStagePicklistValueAttributes

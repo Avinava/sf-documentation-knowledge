@@ -5,10 +5,10 @@ topic: describesobjectresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.110Z
+lastCollected: 2026-03-12T09:33:31.158Z
 estimatedTokens: 11235
 namespace: Schema
-keywords: [DescribeSObjectResult, associated, object., example, History, Share., Usage, accessible, associateentitytype, associateparententity, childrelationships, createable, custom, customsetting, datatranslationenabled, defaultimplementation, deletable, deprecatedandhidden, feedenabled, fields]
+keywords: [DescribeSObjectResult, associated, History, Share, Usage, accessible, associateentitytype, associateparententity, childrelationships, createable, custom, customsetting, datatranslationenabled, defaultimplementation, deletable]
 ---
 
 # DescribeSObjectResult Class

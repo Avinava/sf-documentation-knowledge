@@ -5,9 +5,9 @@ topic: party-profile-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.656Z
+lastCollected: 2026-03-12T09:33:47.604Z
 estimatedTokens: 1202
-keywords: [Party, Profile, Input, representation, details, party, profile.]
+keywords: [Party, Profile, Input, representation]
 ---
 
 # Party Profile Input

@@ -5,9 +5,9 @@ topic: relationshipinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.661Z
+lastCollected: 2026-03-12T09:33:45.762Z
 estimatedTokens: 699
-keywords: [RelationshipInfo, Represents, relationship, between, objects., Simplify, queries, such, answering, question, “which, objects, parent, defined, ChildSobject., Tooling, API, version, 34.0, later.]
+keywords: [RelationshipInfo, relationship, objects, Simplify, queries, answering, question, “which, parent, defined, ChildSobject, Tooling, API, version, 34.0]
 ---
 
 # RelationshipInfo

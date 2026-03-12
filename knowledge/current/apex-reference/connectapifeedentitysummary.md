@@ -5,9 +5,9 @@ topic: connectapifeedentitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:27.378Z
+lastCollected: 2026-03-12T09:33:27.445Z
 estimatedTokens: 564
-keywords: [ConnectApi.FeedEntitySummary, summary, feed, entity, shared, element.]
+keywords: [ConnectApi.FeedEntitySummary, summary, feed, entity, shared, element]
 ---
 
 # ConnectApi.FeedEntitySummary

@@ -5,10 +5,10 @@ topic: pricingexecutionwrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.575Z
+lastCollected: 2026-03-12T09:33:46.610Z
 estimatedTokens: 217
 namespace: Usage
-keywords: [PricingExecutionWrapper, Contains, call, utility, integration, procedures, used, Digital, Lending, Flexcards., Usage]
+keywords: [PricingExecutionWrapper, call, utility, integration, procedures, Digital, Lending, Flexcards, Usage]
 ---
 
 # PricingExecutionWrapper Class

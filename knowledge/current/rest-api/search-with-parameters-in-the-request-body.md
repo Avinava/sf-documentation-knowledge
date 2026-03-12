@@ -5,9 +5,9 @@ topic: search-with-parameters-in-the-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.913Z
+lastCollected: 2026-03-12T09:33:35.761Z
 estimatedTokens: 2257
-keywords: [Search, Request, Body, defining, request, body, Access, advanced, search, offers, control, over, how, query, executes., allows, filter, several, DataCategories, networks]
+keywords: [Search, defining, Access, advanced, offers, control, over, how, query, executes, filter, several, DataCategories, networks, sites]
 ---
 
 # Search with Parameters in the Request Body

@@ -5,10 +5,10 @@ topic: soaptype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.549Z
+lastCollected: 2026-03-12T09:33:29.593Z
 estimatedTokens: 401
 namespace: Schema
-keywords: [SOAPType, Schema.SOAPType, returned, field, describe, result, getSoapType, method., Usage]
+keywords: [SOAPType, Schema.SOAPType, describe, result, getSoapType, Usage]
 ---
 
 # SOAPType Enum

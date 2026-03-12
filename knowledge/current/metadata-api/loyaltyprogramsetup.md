@@ -5,9 +5,9 @@ topic: loyaltyprogramsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:40.988Z
+lastCollected: 2026-03-12T09:33:40.481Z
 estimatedTokens: 4284
-keywords: [LoyaltyProgramSetup, Represents, configuration, loyalty, program, process, including, its, rules., Program, processes, determine, how, new, transaction, journals, processed., meet, criteria, conditions]
+keywords: [LoyaltyProgramSetup, configuration, loyalty, program, process, including, rules, processes, determine, how, new, transaction, journals, processed, meet]
 ---
 
 # LoyaltyProgramSetup

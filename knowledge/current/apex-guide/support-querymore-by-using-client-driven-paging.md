@@ -6,9 +6,9 @@ topic: support-querymore-by-using-client-driven-paging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.012Z
+lastCollected: 2026-03-12T09:33:33.042Z
 estimatedTokens: 512
-keywords: [Support, queryMore, Client-Driven, Paging, client-driven, paging, LIMIT, OFFSET, clauses, page, through, result, sets.]
+keywords: [Support, queryMore, Client-Driven, Paging, LIMIT, OFFSET, clauses, result]
 ---
 
 # Support queryMore by Using Client-Driven

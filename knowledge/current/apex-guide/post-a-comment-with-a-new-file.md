@@ -5,9 +5,9 @@ topic: post-a-comment-with-a-new-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.389Z
+lastCollected: 2026-03-12T09:33:34.352Z
 estimatedTokens: 132
-keywords: [Post, Comment, New, File, Call, post, comment, new, file.]
+keywords: [Post, Comment, New, File, Call]
 ---
 
 # Post a Comment with a New File

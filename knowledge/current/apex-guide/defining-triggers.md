@@ -5,9 +5,9 @@ topic: defining-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.175Z
+lastCollected: 2026-03-12T09:33:34.171Z
 estimatedTokens: 1581
-keywords: [Defining, Triggers, Trigger, code, stored, metadata, under, which, they, associated., Note, Apex, Editor]
+keywords: [Defining, Triggers, Trigger, code, stored, metadata, under, they, associated, Apex, Editor]
 ---
 
 # Defining Triggers

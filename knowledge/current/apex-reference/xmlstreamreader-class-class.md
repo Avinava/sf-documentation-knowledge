@@ -5,10 +5,10 @@ topic: xmlstreamreader-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.903Z
+lastCollected: 2026-03-12T09:33:24.306Z
 estimatedTokens: 6479
 namespace: NAMESPACE
-keywords: [XmlStreamReader, provides, forward, read-only, access, XML, data., pull, data, skip, unwanted, events., parse, nested, content, that’s, nodes, deep., Usage, Note]
+keywords: [XmlStreamReader, forward, read-only, access, XML, data, pull, skip, unwanted, events, parse, nested, content, that’s, nodes]
 ---
 
 # XmlStreamReader Class Class

@@ -5,10 +5,10 @@ topic: readmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.119Z
+lastCollected: 2026-03-12T09:33:41.554Z
 estimatedTokens: 925
 namespace: MyNS
-keywords: [readMetadata, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Basic, Steps, Reading, Metadata, Components, Sample, Code—Java, Arguments, Response]
+keywords: [readMetadata, metadata, components, organization, synchronously, Usage, Version, Permissions, Basic, Steps, Reading, Sample, Code—Java, Arguments]
 ---
 
 # readMetadata()

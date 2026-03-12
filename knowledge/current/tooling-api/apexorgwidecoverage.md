@@ -5,9 +5,9 @@ topic: apexorgwidecoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.620Z
+lastCollected: 2026-03-12T09:33:43.792Z
 estimatedTokens: 153
-keywords: [ApexOrgWideCoverage, Represents, code, coverage, test, results, entire, organization., Tooling, API, version, 29.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access]
+keywords: [ApexOrgWideCoverage, code, coverage, test, results, entire, organization, Tooling, API, version, 29.0, later, SOAP, Calls, REST]
 ---
 
 # ApexOrgWideCoverage

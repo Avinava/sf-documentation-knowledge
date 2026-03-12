@@ -5,9 +5,9 @@ topic: embeddedservicemenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:45.309Z
+lastCollected: 2026-03-12T09:33:44.439Z
 estimatedTokens: 1023
-keywords: [EmbeddedServiceMenuItem, Represents, information, needed, configure, Channel, Menu, item., API, version, 47.0, later., Supported, SOAP, Calls, Special, Access, Rules, Fields, Usage]
+keywords: [EmbeddedServiceMenuItem, needed, configure, Channel, Menu, item, API, version, 47.0, later, SOAP, Calls, Special, Access, Rules]
 ---
 
 # EmbeddedServiceMenuItem

@@ -5,9 +5,9 @@ topic: loadformdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.734Z
+lastCollected: 2026-03-12T09:33:23.146Z
 estimatedTokens: 2910
-keywords: [LoadFormData, Retrieve, records, related, tokenized, record, populate, values, preference, form., Example, data, Usage, addOption, fieldId, label, option, addSelectedOption, setButtonLabel, setOptions]
+keywords: [LoadFormData, Retrieve, records, tokenized, record, populate, preference, form, data, Usage, addOption, fieldId, label, option, addSelectedOption]
 ---
 
 # LoadFormData Class

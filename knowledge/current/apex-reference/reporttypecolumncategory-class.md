@@ -5,10 +5,10 @@ topic: reporttypecolumncategory-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.195Z
+lastCollected: 2026-03-12T09:33:23.580Z
 estimatedTokens: 701
 namespace: Reports
-keywords: [ReportTypeColumnCategory, Information, categories, fields, report, type., Usage, getColumns, Syntax, getLabel]
+keywords: [ReportTypeColumnCategory, categories, report, Usage, getColumns, getLabel]
 ---
 
 # ReportTypeColumnCategory Class

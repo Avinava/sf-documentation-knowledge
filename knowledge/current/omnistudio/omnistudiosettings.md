@@ -5,9 +5,9 @@ topic: omnistudiosettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:52.554Z
+lastCollected: 2026-03-12T09:33:51.124Z
 estimatedTokens: 1518
-keywords: [OmniStudioSettings, Represents, settings, help, administrators, turn, specific, Omnistudio, features, capabilities, organization, level., Parent, Manifest, Access, File, Suffix, Directory, Location, Version]
+keywords: [OmniStudioSettings, settings, help, administrators, turn, specific, Omnistudio, features, capabilities, organization, level, Parent, Manifest, Access, File]
 ---
 
 # OmniStudioSettings

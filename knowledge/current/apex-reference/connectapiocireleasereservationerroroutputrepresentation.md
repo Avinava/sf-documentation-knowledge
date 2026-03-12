@@ -5,9 +5,9 @@ topic: connectapiocireleasereservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.144Z
+lastCollected: 2026-03-12T09:33:28.185Z
 estimatedTokens: 115
-keywords: [ConnectApi.OCIReleaseReservationErrorOutputRepresentation, Response, request, release, inventory, reservation.]
+keywords: [release, inventory, reservation]
 ---
 
 # ConnectApi.OCIReleaseReservationErrorOutputRepresentation

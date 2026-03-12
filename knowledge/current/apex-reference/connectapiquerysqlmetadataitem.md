@@ -5,9 +5,9 @@ topic: connectapiquerysqlmetadataitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.717Z
+lastCollected: 2026-03-12T09:33:28.756Z
 estimatedTokens: 171
-keywords: [ConnectApi.QuerySqlMetadataItem, Represents, metadata, associated, SQL, query, output.]
+keywords: [ConnectApi.QuerySqlMetadataItem, metadata, associated, SQL, query, output]
 ---
 
 # ConnectApi.QuerySqlMetadataItem

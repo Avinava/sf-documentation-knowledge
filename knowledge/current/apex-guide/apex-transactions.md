@@ -5,9 +5,9 @@ topic: apex-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.123Z
+lastCollected: 2026-03-12T09:33:34.120Z
 estimatedTokens: 870
-keywords: [Apex, Transactions, transaction, represents, set, operations, executed, single, unit., DML, must, complete, successfully., error, occurs, operation, entire, rolled, back, data]
+keywords: [Apex, Transactions, transaction, operations, executed, unit, DML, successfully, error, occurs, operation, entire, rolled, back, data]
 ---
 
 # Apex Transactions

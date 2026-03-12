@@ -5,10 +5,10 @@ topic: changepasswordcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.517Z
+lastCollected: 2026-03-12T09:33:21.951Z
 estimatedTokens: 82
 namespace: AppLauncher
-keywords: [ChangePasswordController, its, internal, only.]
+keywords: [ChangePasswordController, internal]
 ---
 
 # ChangePasswordController Class

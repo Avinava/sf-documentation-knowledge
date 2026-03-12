@@ -5,9 +5,9 @@ topic: onagentsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.175Z
+lastCollected: 2026-03-12T09:33:56.247Z
 estimatedTokens: 371
-keywords: [onAgentSend, Registers, function, call, agent, sends, chat, message, through, Salesforce, console., intercepts, occurs, before, sent, visitor., API, version, 29.0, later.]
+keywords: [onAgentSend, Registers, function, call, agent, chat, message, Salesforce, console, intercepts, occurs, sent, visitor, API, version]
 ---
 
 # onAgentSend()

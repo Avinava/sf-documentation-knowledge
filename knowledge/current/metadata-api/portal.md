@@ -5,9 +5,9 @@ topic: portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.805Z
+lastCollected: 2026-03-12T09:33:41.263Z
 estimatedTokens: 1328
-keywords: [Portal, metadata, represents, partner, portal., Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Sample, Definition, Wildcard, Support]
+keywords: [Portal, metadata, partner, Declarative, File, Suffix, Directory, Location, Version, Special, Access, Rules, Sample, Definition, Wildcard]
 ---
 
 # Portal

@@ -5,9 +5,9 @@ topic: get-object-metadata-using-sobject-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.964Z
+lastCollected: 2026-03-12T09:33:35.812Z
 estimatedTokens: 325
-keywords: [Get, Metadata, sObject, Basic, Information, basic, metadata, specified, including, recent, items, URIs, resources, related, object., Syntax, Example]
+keywords: [Metadata, sObject, Basic, including, recent, items, URIs, resources]
 ---
 
 # Get Object Metadata Using sObject Basic Information

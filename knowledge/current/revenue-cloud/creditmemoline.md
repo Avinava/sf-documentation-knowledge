@@ -5,9 +5,9 @@ topic: creditmemoline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.050Z
+lastCollected: 2026-03-12T09:33:11.239Z
 estimatedTokens: 2006
-keywords: [CreditMemoLine, Represents, product, service, adjustment, tax, line, items, included, credit, memo., API, version, 62.0, later., Important, Supported, Calls, Special, Access]
+keywords: [CreditMemoLine, product, service, adjustment, tax, line, items, included, credit, memo, API, version, 62.0, later, Calls]
 ---
 
 # CreditMemoLine

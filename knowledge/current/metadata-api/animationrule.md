@@ -5,9 +5,9 @@ topic: animationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.896Z
+lastCollected: 2026-03-12T09:33:36.698Z
 estimatedTokens: 792
-keywords: [AnimationRule, Represents, criteria, determining, animation, displayed, Path, users.This, extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [AnimationRule, criteria, determining, animation, Path, users.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # AnimationRule

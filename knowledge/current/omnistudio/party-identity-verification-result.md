@@ -5,9 +5,9 @@ topic: party-identity-verification-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.508Z
+lastCollected: 2026-03-12T09:33:49.185Z
 estimatedTokens: 781
-keywords: [Party, Identity, Verification, Result, Output, representation, party, identity, verification, result.]
+keywords: [Party, Identity, Verification, Result, Output, representation]
 ---
 
 # Party Identity Verification Result

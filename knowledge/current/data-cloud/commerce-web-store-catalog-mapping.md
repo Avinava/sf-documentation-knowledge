@@ -5,9 +5,9 @@ topic: commerce-web-store-catalog-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.311Z
+lastCollected: 2026-03-12T09:33:14.154Z
 estimatedTokens: 221
-keywords: [Commerce, Web, Store, Catalog, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., information]
+keywords: [Commerce, Web, Store, Catalog, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
 ---
 
 # Commerce: Web Store Catalog Mapping

@@ -5,9 +5,9 @@ topic: integration-definition-for-standard-fulfillment-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.713Z
+lastCollected: 2026-03-12T09:33:10.153Z
 estimatedTokens: 813
-keywords: [Integration, Definition, Standard, Fulfillment, Provider, supported, attribute, values, integration, definition, implement, features, per, requirement.]
+keywords: [Integration, Definition, Standard, Fulfillment, Provider, attribute, implement, features, per, requirement]
 ---
 
 # Integration Definition for Standard Fulfillment Provider

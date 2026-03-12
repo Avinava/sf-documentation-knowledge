@@ -5,9 +5,9 @@ topic: connectapiusermissionactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.239Z
+lastCollected: 2026-03-12T09:33:29.287Z
 estimatedTokens: 73
-keywords: [ConnectApi.UserMissionActivity, User, activity, associated, missions.]
+keywords: [ConnectApi.UserMissionActivity, User, activity, associated, missions]
 ---
 
 # ConnectApi.UserMissionActivity

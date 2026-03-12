@@ -5,9 +5,9 @@ topic: compliance-job-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.696Z
+lastCollected: 2026-03-12T09:33:48.498Z
 estimatedTokens: 238
-keywords: [Compliance, Job, Status, Output, representation, details, compliance, job.]
+keywords: [Compliance, Job, Status, Output, representation]
 ---
 
 # Compliance Job Status

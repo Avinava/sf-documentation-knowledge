@@ -5,9 +5,9 @@ topic: advacctforecastmeasuredef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.502Z
+lastCollected: 2026-03-12T09:33:43.691Z
 estimatedTokens: 617
-keywords: [AdvAcctForecastMeasureDef, Represents, information, measures, displayed, advanced, account, forecasts, grid, forecast, set., API, version, 57.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [AdvAcctForecastMeasureDef, measures, advanced, account, forecasts, grid, forecast, API, version, 57.0, later, SOAP, Calls, REST]
 ---
 
 # AdvAcctForecastMeasureDef

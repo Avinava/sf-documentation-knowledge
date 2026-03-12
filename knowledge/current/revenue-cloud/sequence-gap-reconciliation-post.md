@@ -5,9 +5,9 @@ topic: sequence-gap-reconciliation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.206Z
+lastCollected: 2026-03-12T09:33:08.962Z
 estimatedTokens: 382
-keywords: [Sequence, Gap, Reconciliation, POST, Restore, missing, sequence, identified, API, gapless-enabled, sequences., used, later, subsequent, policy, numbering, ensuring, there, gaps., Special]
+keywords: [Sequence, Gap, Reconciliation, POST, Restore, missing, identified, API, gapless-enabled, sequences, later, subsequent, policy, numbering, ensuring]
 ---
 
 # Sequence Gap Reconciliation (POST)

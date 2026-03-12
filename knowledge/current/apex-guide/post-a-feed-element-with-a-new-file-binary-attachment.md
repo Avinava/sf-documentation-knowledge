@@ -5,9 +5,9 @@ topic: post-a-feed-element-with-a-new-file-binary-attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.415Z
+lastCollected: 2026-03-12T09:33:34.376Z
 estimatedTokens: 187
-keywords: [Post, Feed, Element, New, File, Binary, Attachment, Call, post, feed, element, new, file., Important]
+keywords: [Post, Feed, Element, New, File, Binary, Attachment, Call]
 ---
 
 # Post a Feed Element with a New File (Binary) Attachment

@@ -5,9 +5,9 @@ topic: namesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.341Z
+lastCollected: 2026-03-12T09:33:40.812Z
 estimatedTokens: 770
-keywords: [NameSettings, Enables, disables, formal, name, middle, suffix, attributes, person, objects, Contact, Lead, Person, Account, User., extends, Metadata, metadata, inherits, its]
+keywords: [NameSettings, disables, formal, middle, suffix, attributes, person, objects, Contact, Lead, Account, User, extends, Metadata, inherits]
 ---
 
 # NameSettings

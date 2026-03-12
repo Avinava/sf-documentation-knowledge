@@ -5,9 +5,9 @@ topic: decision-matrix-rows-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.249Z
+lastCollected: 2026-03-12T09:33:47.252Z
 estimatedTokens: 186
-keywords: [Decision, Matrix, Rows, Input, representation, information, manage, rows, relation, decision, matrix, version.]
+keywords: [Decision, Matrix, Rows, Input, representation, manage, relation, version]
 ---
 
 # Decision Matrix Rows Input

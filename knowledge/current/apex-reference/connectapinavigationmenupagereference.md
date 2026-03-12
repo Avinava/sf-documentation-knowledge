@@ -5,9 +5,9 @@ topic: connectapinavigationmenupagereference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.078Z
+lastCollected: 2026-03-12T09:33:28.091Z
 estimatedTokens: 149
-keywords: [ConnectApi.NavigationMenuPageReference, Navigation, menu, item, page, reference.]
+keywords: [ConnectApi.NavigationMenuPageReference, Navigation, menu, item]
 ---
 
 # ConnectApi.NavigationMenuPageReference

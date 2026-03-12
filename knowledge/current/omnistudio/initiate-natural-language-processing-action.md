@@ -5,9 +5,9 @@ topic: initiate-natural-language-processing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.309Z
+lastCollected: 2026-03-12T09:33:46.360Z
 estimatedTokens: 442
-keywords: [Initiate, Natural, Language, Processing, Action, Create, record, natural, language, processing, result, initiate, text, service, specified, related, record., Special, Access, Rules]
+keywords: [Initiate, Natural, Language, Processing, Action, record, result, text, service, Special, Access, Rules, REST, HTTP, Inputs]
 ---
 
 # Initiate Natural Language Processing Action

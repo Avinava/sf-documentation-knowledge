@@ -5,9 +5,9 @@ topic: product-set-quantity-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.215Z
+lastCollected: 2026-03-12T09:33:08.970Z
 estimatedTokens: 305
-keywords: [Product, Set, Quantity, POST, quantity, product, through, runtime, system.]
+keywords: [Product, Quantity, POST, runtime, system]
 ---
 
 # Product Set Quantity (POST)

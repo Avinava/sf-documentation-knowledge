@@ -5,9 +5,9 @@ topic: return-headers-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.141Z
+lastCollected: 2026-03-12T09:33:35.983Z
 estimatedTokens: 381
-keywords: [Headers, sObject, Rows, External, only, headers, returned, sending, GET, request, resource., gives, chance, header, values, before, retrieving, content, itself., Note]
+keywords: [sObject, Rows, External, sending, resource, gives, chance, retrieving, content, itself]
 ---
 
 # Return Headers Using sObject Rows by External ID

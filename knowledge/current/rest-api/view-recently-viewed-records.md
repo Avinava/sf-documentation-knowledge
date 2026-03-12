@@ -5,9 +5,9 @@ topic: view-recently-viewed-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.056Z
+lastCollected: 2026-03-12T09:33:34.942Z
 estimatedTokens: 157
-keywords: [View, Recently, Viewed, Records, Items, resource, get, list, recently, viewed, records.]
+keywords: [View, Recently, Viewed, Records, Items, resource]
 ---
 
 # View Recently Viewed Records

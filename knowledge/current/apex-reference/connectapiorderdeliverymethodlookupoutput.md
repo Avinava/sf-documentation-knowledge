@@ -5,9 +5,9 @@ topic: connectapiorderdeliverymethodlookupoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.212Z
+lastCollected: 2026-03-12T09:33:28.263Z
 estimatedTokens: 83
-keywords: [ConnectApi.OrderDeliveryMethodLookupOutput, Order, delivery, lookup, output.]
+keywords: [Order, delivery, lookup, output]
 ---
 
 # ConnectApi.OrderDeliveryMethodLookupOutput

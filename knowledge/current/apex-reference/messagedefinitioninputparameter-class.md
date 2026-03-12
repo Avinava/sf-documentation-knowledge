@@ -5,10 +5,10 @@ topic: messagedefinitioninputparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.713Z
+lastCollected: 2026-03-12T09:33:21.285Z
 estimatedTokens: 2041
 namespace: RichMessaging
-keywords: [MessageDefinitionInputParameter, Represents, messaging, component, value., used, provide, payloads, translated, structured, content, rich, messages., booleanValue, booleanValues, dateTimeValue, dateTimeValues, dateValue, dateValues, name]
+keywords: [MessageDefinitionInputParameter, messaging, component, provide, payloads, translated, structured, content, rich, messages, booleanValue, booleanValues, dateTimeValue, dateTimeValues, dateValue]
 ---
 
 # MessageDefinitionInputParameter Class

@@ -5,9 +5,9 @@ topic: implementing-the-processplugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.805Z
+lastCollected: 2026-03-12T09:33:33.821Z
 estimatedTokens: 392
-keywords: [Implementing, Process.Plugin, built-in, allows, pass, data, between, organization, specified, flow., Tip, Example, Implementation, Test]
+keywords: [Implementing, Process.Plugin, built-in, pass, data, organization, flow, Implementation, Test]
 ---
 
 # Implementing the Process.Plugin Interface

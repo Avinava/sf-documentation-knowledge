@@ -5,10 +5,10 @@ topic: lxscheduler-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.704Z
+lastCollected: 2026-03-12T09:33:31.759Z
 estimatedTokens: 1109
 namespace: LxScheduler
-keywords: [LxScheduler, provides, classes, integrating, Salesforce, Scheduler, external, calendars.]
+keywords: [LxScheduler, classes, integrating, Salesforce, Scheduler, external, calendars]
 ---
 
 # LxScheduler Namespace

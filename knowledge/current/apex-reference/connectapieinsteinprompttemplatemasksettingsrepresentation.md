@@ -5,9 +5,9 @@ topic: connectapieinsteinprompttemplatemasksettingsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.148Z
+lastCollected: 2026-03-12T09:33:27.242Z
 estimatedTokens: 76
-keywords: [ConnectApi.​EinsteinPrompt​TemplateMaskSettings​Representation, Data, masking, settings, prompt, template.]
+keywords: [Data, masking, settings, prompt, template]
 ---
 
 # ConnectApi.​EinsteinPrompt​TemplateMaskSettings​Representation

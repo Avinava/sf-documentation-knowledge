@@ -5,9 +5,9 @@ topic: managedcontenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.975Z
+lastCollected: 2026-03-12T09:33:45.120Z
 estimatedTokens: 530
-keywords: [ManagedContentType, Represents, standard, custom, content, types, created, org., API, version, 47.0, later., Supported, SOAP, Calls, REST, HTTP, Note]
+keywords: [ManagedContentType, standard, custom, content, created, org, API, version, 47.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # ManagedContentType

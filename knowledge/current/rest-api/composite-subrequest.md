@@ -5,9 +5,9 @@ topic: composite-subrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.425Z
+lastCollected: 2026-03-12T09:33:35.276Z
 estimatedTokens: 1245
-keywords: [Composite, Subrequest, composite, subrequest, describes, execute, Graph, resource., Examples, Usage, Results]
+keywords: [Composite, Subrequest, execute, Graph, resource, Examples, Usage, Results]
 ---
 
 # Composite Subrequest

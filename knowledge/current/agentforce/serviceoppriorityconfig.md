@@ -5,9 +5,9 @@ topic: serviceoppriorityconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.599Z
+lastCollected: 2026-03-12T09:33:16.248Z
 estimatedTokens: 544
-keywords: [ServiceOpPriorityConfig, Represents, configuration, determines, priority, service, operation, such, incident, problem, change, request, based, impact, urgency., API, version, 65.0, later., Supported]
+keywords: [ServiceOpPriorityConfig, configuration, determines, priority, service, operation, incident, problem, change, impact, urgency, API, version, 65.0, later]
 ---
 
 # ServiceOpPriorityConfig

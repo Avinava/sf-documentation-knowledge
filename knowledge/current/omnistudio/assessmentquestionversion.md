@@ -5,9 +5,9 @@ topic: assessmentquestionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:53.462Z
+lastCollected: 2026-03-12T09:33:51.964Z
 estimatedTokens: 1513
-keywords: [AssessmentQuestionVersion, Stores, question, versions, assessment, questions., API, version, 55.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [AssessmentQuestionVersion, Stores, question, versions, assessment, questions, API, version, 55.0, later, Calls, Associated, Objects]
 ---
 
 # AssessmentQuestionVersion

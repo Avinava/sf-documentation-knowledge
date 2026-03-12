@@ -5,9 +5,9 @@ topic: recall-approval-submission-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.953Z
+lastCollected: 2026-03-12T09:33:06.087Z
 estimatedTokens: 320
-keywords: [Recall, Approval, Submission, Action, approval, submission, isn't, completed., add, comments, submitter, admin, made, recall., Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Recall, Approval, Submission, Action, isn't, completed, add, comments, submitter, admin, made, REST, HTTP, Inputs, Outputs]
 ---
 
 # Recall Approval Submission Action

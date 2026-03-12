@@ -5,9 +5,9 @@ topic: get-a-repository-file-with-permissions-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.366Z
+lastCollected: 2026-03-12T09:33:34.337Z
 estimatedTokens: 113
-keywords: [Get, Repository, File, Permissions, Information, Call, get, repository, file, permission, information.]
+keywords: [Repository, File, Permissions, Call, permission]
 ---
 
 # Get a Repository File with Permissions Information

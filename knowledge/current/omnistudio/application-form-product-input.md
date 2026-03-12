@@ -5,9 +5,9 @@ topic: application-form-product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.045Z
+lastCollected: 2026-03-12T09:33:47.063Z
 estimatedTokens: 655
-keywords: [Application, Form, Product, Input, representation, application, form, product.]
+keywords: [Application, Form, Product, Input, representation]
 ---
 
 # Application Form Product Input

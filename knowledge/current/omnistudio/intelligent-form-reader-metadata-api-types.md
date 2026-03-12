@@ -5,9 +5,9 @@ topic: intelligent-form-reader-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.737Z
+lastCollected: 2026-03-12T09:33:51.311Z
 estimatedTokens: 366
-keywords: [Intelligent, Form, Reader, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface., information, find, complete, reference, existing, metadata]
+keywords: [Intelligent, Form, Reader, Metadata, API, access, feature, settings, customize, user, Developer]
 ---
 
 # Intelligent Form Reader Metadata API Types

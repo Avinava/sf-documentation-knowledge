@@ -5,9 +5,9 @@ topic: apply-credit-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.989Z
+lastCollected: 2026-03-12T09:33:06.117Z
 estimatedTokens: 441
-keywords: [Apply, Credit, Action, credit, memo, line, invoice, respectively., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Apply, Credit, Action, memo, line, invoice, respectively, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Apply Credit Action

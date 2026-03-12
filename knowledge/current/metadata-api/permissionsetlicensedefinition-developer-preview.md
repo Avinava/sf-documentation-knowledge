@@ -5,10 +5,10 @@ topic: permissionsetlicensedefinition-developer-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:41.715Z
+lastCollected: 2026-03-12T09:33:41.174Z
 estimatedTokens: 1143
 namespace: BlockNamespaceAccess
-keywords: [PermissionSetLicenseDefinition, Developer, Preview, Represents, definition, custom, permission, set, license, which, entitles, specified, features, package., Parent, File, Suffix, Directory, Location, Version]
+keywords: [PermissionSetLicenseDefinition, Developer, Preview, definition, custom, permission, license, entitles, features, package, Parent, File, Suffix, Directory, Location]
 ---
 
 # PermissionSetLicenseDefinition (Developer Preview)

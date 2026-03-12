@@ -5,9 +5,9 @@ topic: actionable-list-member-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.539Z
+lastCollected: 2026-03-12T09:33:48.363Z
 estimatedTokens: 153
-keywords: [Actionable, List, Member, Status, Output, representation, actionable, list, member, status, request.]
+keywords: [Actionable, Member, Status, Output, representation]
 ---
 
 # Actionable List Member Status

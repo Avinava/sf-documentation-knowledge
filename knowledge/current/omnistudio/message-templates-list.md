@@ -5,9 +5,9 @@ topic: message-templates-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.381Z
+lastCollected: 2026-03-12T09:33:49.062Z
 estimatedTokens: 192
-keywords: [Message, Templates, List, Output, representation, list, explainability, message, templates.]
+keywords: [Message, Templates, Output, representation, explainability]
 ---
 
 # Message Templates List

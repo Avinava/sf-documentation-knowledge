@@ -5,10 +5,10 @@ topic: transcript-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.563Z
+lastCollected: 2026-03-12T09:33:46.599Z
 estimatedTokens: 468
 namespace: DataRetrieval
-keywords: [Transcript, Stores, conversation, between, customers, agents, written, format, specifying, roles, participants, their, messages., role, message]
+keywords: [Transcript, Stores, conversation, customers, agents, written, specifying, roles, participants, their, messages, role, message]
 ---
 
 # Transcript Class

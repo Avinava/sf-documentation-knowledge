@@ -5,10 +5,10 @@ topic: oauthrefreshresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.637Z
+lastCollected: 2026-03-12T09:33:20.266Z
 estimatedTokens: 1369
 namespace: Auth
-keywords: [OAuthRefreshResult, Creates, instance, specified, access, token, refresh, error, custom, authentication, provider, plug-in., Usage, accessToken, refreshToken]
+keywords: [OAuthRefreshResult, Creates, instance, access, token, refresh, error, custom, authentication, provider, plug-in, Usage, accessToken, refreshToken]
 ---
 
 # OAuthRefreshResult Class

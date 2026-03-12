@@ -5,9 +5,9 @@ topic: connectapisearchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.975Z
+lastCollected: 2026-03-12T09:33:29.017Z
 estimatedTokens: 265
-keywords: [ConnectApi.SearchResult, Results, searching, keywords.]
+keywords: [ConnectApi.SearchResult, Results, searching, keywords]
 ---
 
 # ConnectApi.SearchResult

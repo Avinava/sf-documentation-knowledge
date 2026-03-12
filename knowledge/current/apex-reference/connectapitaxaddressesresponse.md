@@ -5,9 +5,9 @@ topic: connectapitaxaddressesresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.043Z
+lastCollected: 2026-03-12T09:33:26.219Z
 estimatedTokens: 124
-keywords: [ConnectApi.TaxAddressesResponse, Ship, Sold, addresses, used, during, tax, calculation.]
+keywords: [ConnectApi.TaxAddressesResponse, Ship, Sold, addresses, tax, calculation]
 ---
 
 # ConnectApi.TaxAddressesResponse

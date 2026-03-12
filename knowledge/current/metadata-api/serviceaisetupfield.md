@@ -5,9 +5,9 @@ topic: serviceaisetupfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.733Z
+lastCollected: 2026-03-12T09:33:42.113Z
 estimatedTokens: 537
-keywords: [ServiceAISetupField, Represents, field, cases, knowledge, articles, Einstein, uses, identify, relevant, Article, Recommendations., extends, Metadata, metadata, inherits, its, fullName, field., File]
+keywords: [ServiceAISetupField, cases, knowledge, articles, Einstein, uses, identify, relevant, Article, Recommendations, extends, Metadata, inherits, fullName, File]
 ---
 
 # ServiceAISetupField

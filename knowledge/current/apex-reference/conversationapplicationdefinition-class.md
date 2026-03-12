@@ -5,10 +5,10 @@ topic: conversationapplicationdefinition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.122Z
+lastCollected: 2026-03-12T09:33:18.782Z
 estimatedTokens: 481
 namespace: ConnectApi
-keywords: [ConversationApplicationDefinition, Access, information, conversation, application, definition., getConversationApplicationDefinition, integrationName, API, Version, Requires, Chatter, Usage]
+keywords: [ConversationApplicationDefinition, Access, conversation, application, definition, getConversationApplicationDefinition, integrationName, API, Version, Requires, Chatter, Usage]
 ---
 
 # ConversationApplicationDefinition Class

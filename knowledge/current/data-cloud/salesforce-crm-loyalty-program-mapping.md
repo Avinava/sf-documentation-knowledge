@@ -5,9 +5,9 @@ topic: salesforce-crm-loyalty-program-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.676Z
+lastCollected: 2026-03-12T09:33:14.480Z
 estimatedTokens: 256
-keywords: [Salesforce, CRM, Loyalty, Program, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., includes, company’s, loyalty, program., Bundle, DMO]
+keywords: [Salesforce, CRM, Loyalty, Program, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud, includes, company’s]
 ---
 
 # Salesforce CRM: Loyalty Program Mapping

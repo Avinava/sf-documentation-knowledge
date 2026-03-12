@@ -5,9 +5,9 @@ topic: connectapirecommendationsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.802Z
+lastCollected: 2026-03-12T09:33:28.845Z
 estimatedTokens: 65
-keywords: [ConnectApi.RecommendationsOutputRepresentation, List, recommended, actions.]
+keywords: [recommended, actions]
 ---
 
 # ConnectApi.RecommendationsOutputRepresentation

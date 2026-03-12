@@ -5,9 +5,9 @@ topic: testing-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.082Z
+lastCollected: 2026-03-12T09:33:33.108Z
 estimatedTokens: 456
-keywords: [Testing, Asynchronous, Callouts, Write, tests, test, controller, meet, code, coverage, requirements, deploying, packaging, Apex., Because, Apex, don’t, support, making, callouts]
+keywords: [Testing, Asynchronous, Callouts, Write, tests, test, controller, meet, code, coverage, requirements, deploying, packaging, Apex, Because]
 ---
 
 # Testing Asynchronous Callouts

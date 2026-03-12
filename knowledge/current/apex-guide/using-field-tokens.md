@@ -5,9 +5,9 @@ topic: using-field-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.312Z
+lastCollected: 2026-03-12T09:33:33.359Z
 estimatedTokens: 1242
-keywords: [Field, Tokens, access, token, field, following, Note, Describe, Results, Accessing, sObject, Considerations, Versioned, Behavior, Changes]
+keywords: [Tokens, access, token, Describe, Results, Accessing, sObject, Considerations, Versioned, Behavior, Changes]
 ---
 
 # Using Field Tokens

@@ -5,9 +5,9 @@ topic: get-product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.757Z
+lastCollected: 2026-03-12T09:33:35.607Z
 estimatedTokens: 99
-keywords: [Get, Product, Schedules, revenue, quantity, schedules, opportunity, products., resource, REST, API, version, 43.0, later., Syntax]
+keywords: [Product, Schedules, revenue, quantity, opportunity, products, resource, REST, API, version, 43.0, later]
 ---
 
 # Get Product Schedules

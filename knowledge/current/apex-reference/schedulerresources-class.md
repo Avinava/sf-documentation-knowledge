@@ -5,10 +5,10 @@ topic: schedulerresources-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:22.663Z
+lastCollected: 2026-03-12T09:33:23.076Z
 estimatedTokens: 2758
 namespace: LxScheduler
-keywords: [SchedulerResources, Contains, holds, business, logic, get, resources, availability., Implementation, Considerations, Example, getAppointmentCandidates, getAppointmentCandidatesInput, Note, getAppointmentSlots, getAppointmentSlotsInput, setAppointmentCandidatesMock, expectedResponse, setAppointmentSlotsMock]
+keywords: [SchedulerResources, holds, business, logic, resources, availability, Implementation, Considerations, getAppointmentCandidates, getAppointmentCandidatesInput, getAppointmentSlots, getAppointmentSlotsInput, setAppointmentCandidatesMock, expectedResponse, setAppointmentSlotsMock]
 ---
 
 # SchedulerResources Class

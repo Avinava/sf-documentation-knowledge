@@ -5,9 +5,9 @@ topic: delete-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.101Z
+lastCollected: 2026-03-12T09:33:13.014Z
 estimatedTokens: 281
-keywords: [Delete, Job, delete, job, must, state, UploadComplete, JobComplete, Aborted, Failed., stored, data, deleted, its, metadata, removed., Example, Usage, Notes]
+keywords: [Job, state, UploadComplete, JobComplete, Aborted, Failed, stored, data, deleted, metadata, removed, Usage, Notes]
 ---
 
 # Delete a Job

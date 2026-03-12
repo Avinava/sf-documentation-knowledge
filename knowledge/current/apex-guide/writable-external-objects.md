@@ -5,10 +5,10 @@ topic: writable-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.983Z
+lastCollected: 2026-03-12T09:33:33.016Z
 estimatedTokens: 739
 namespace: DataSource
-keywords: [Writable, External, Objects, default, external, objects, read, only, writable., Doing, lets, Salesforce, users, APIs, create, update, delete, data, that’s, stored]
+keywords: [Writable, External, Objects, Doing, lets, Salesforce, users, APIs, data, that’s, stored, outside, org, interacting, orders]
 ---
 
 # Writable External Objects

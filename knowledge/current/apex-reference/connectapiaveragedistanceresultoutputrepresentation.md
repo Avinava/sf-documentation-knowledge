@@ -5,9 +5,9 @@ topic: connectapiaveragedistanceresultoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.154Z
+lastCollected: 2026-03-12T09:33:26.325Z
 estimatedTokens: 85
-keywords: [ConnectApi.AverageDistanceResultOutputRepresentation, Wraps, inventory, location, shipping, distance, calculation, results.]
+keywords: [Wraps, inventory, location, shipping, distance, calculation, results]
 ---
 
 # ConnectApi.AverageDistanceResultOutputRepresentation

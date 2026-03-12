@@ -5,9 +5,9 @@ topic: sustainabilityuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.035Z
+lastCollected: 2026-03-12T09:33:42.381Z
 estimatedTokens: 696
-keywords: [SustainabilityUom, Represents, unit, measure, UOM, values, custom, fuel, types, org., Track, consumption, emission, results, flexibility, add, values., Parent, File, Suffix]
+keywords: [SustainabilityUom, unit, measure, UOM, custom, fuel, org, Track, consumption, emission, results, flexibility, add, Parent, File]
 ---
 
 # SustainabilityUom

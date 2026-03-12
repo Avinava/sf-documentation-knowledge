@@ -5,9 +5,9 @@ topic: connectapifilepreviewurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.452Z
+lastCollected: 2026-03-12T09:33:27.513Z
 estimatedTokens: 106
-keywords: [ConnectApi.FilePreviewUrl, URL, file, preview.]
+keywords: [ConnectApi.FilePreviewUrl, URL, file, preview]
 ---
 
 # ConnectApi.FilePreviewUrl

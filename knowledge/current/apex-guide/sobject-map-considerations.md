@@ -5,7 +5,7 @@ topic: sobject-map-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.707Z
+lastCollected: 2026-03-12T09:33:33.727Z
 estimatedTokens: 343
 keywords: [sObject, Map, Considerations]
 ---

@@ -5,9 +5,9 @@ topic: json-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.726Z
+lastCollected: 2026-03-12T09:33:33.744Z
 estimatedTokens: 1317
-keywords: [JSON, Support, JavaScript, Notation, support, Apex, enables, serialization, objects, format, deserialization, serialized, content., Versioned, Behavior, Changes]
+keywords: [JSON, Support, JavaScript, Notation, Apex, serialization, objects, deserialization, serialized, content, Versioned, Behavior, Changes]
 ---
 
 # JSON Support

@@ -5,9 +5,9 @@ topic: asset-usage-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.600Z
+lastCollected: 2026-03-12T09:33:08.421Z
 estimatedTokens: 517
-keywords: [Asset, Usage, Details, GET, Get, details, usage-based, product, associated, asset., covers, grants, resources, configured, rates, including, negotiated, case, rate, override.]
+keywords: [Asset, Usage, usage-based, product, associated, covers, grants, resources, configured, rates, including, negotiated, case, rate, override]
 ---
 
 # Asset Usage Details (GET)

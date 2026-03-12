@@ -5,9 +5,9 @@ topic: dataobjectsearchindexconf
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.501Z
+lastCollected: 2026-03-12T09:33:38.202Z
 estimatedTokens: 693
-keywords: [DataObjectSearchIndexConf, Represents, source, Data, 360, data, model, DMO, Search, Answers, holds, search, index, uses, searching, records., Important, Parent, File, Suffix]
+keywords: [DataObjectSearchIndexConf, source, Data, model, DMO, Search, Answers, holds, index, uses, searching, records, Parent, File, Suffix]
 ---
 
 # DataObjectSearchIndexConf

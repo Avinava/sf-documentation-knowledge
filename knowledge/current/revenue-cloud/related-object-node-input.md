@@ -5,9 +5,9 @@ topic: related-object-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.417Z
+lastCollected: 2026-03-12T09:33:08.268Z
 estimatedTokens: 244
-keywords: [Related, Node, Input, representation, details, related, node.]
+keywords: [Node, Input, representation]
 ---
 
 # Related Object Node Input

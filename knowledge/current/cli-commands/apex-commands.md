@@ -5,9 +5,9 @@ topic: apex-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.004Z
+lastCollected: 2026-03-12T09:33:05.224Z
 estimatedTokens: 3694
-keywords: [apex, Commands, Fetch, specified, log, given, number, most, recent, logs, org., get, Description, Examples, Flags, Aliases, test, list, run, tail]
+keywords: [apex, Commands, Fetch, log, number, recent, logs, org, Examples, Flags, Aliases, test, run, tail]
 ---
 
 # apex Commands

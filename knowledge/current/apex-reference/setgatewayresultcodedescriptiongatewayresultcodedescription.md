@@ -5,9 +5,9 @@ topic: setgatewayresultcodedescriptiongatewayresultcodedescription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.143Z
+lastCollected: 2026-03-12T09:33:24.436Z
 estimatedTokens: 169
-keywords: [setGatewayResultCodeDescription, gatewayResultCodeDescription, description, gateway-specific, result, code, payment, gateway, returned., Maximum, length, 1000, characters.]
+keywords: [setGatewayResultCodeDescription, gatewayResultCodeDescription, gateway-specific, result, code, payment, gateway, Maximum, length, characters]
 ---
 
 # setGatewayResultCodeDescription(gatewayResultCodeDescription)

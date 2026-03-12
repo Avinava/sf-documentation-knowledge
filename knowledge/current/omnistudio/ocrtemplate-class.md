@@ -5,9 +5,9 @@ topic: ocrtemplate-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.611Z
+lastCollected: 2026-03-12T09:33:46.648Z
 estimatedTokens: 725
-keywords: [OcrTemplate, contains, details, OCR, template., developerName, documentTypeId, name, ocrTargetObjects, ocrTemplateId]
+keywords: [OcrTemplate, OCR, template, developerName, documentTypeId, ocrTargetObjects, ocrTemplateId]
 ---
 
 # OcrTemplate Class

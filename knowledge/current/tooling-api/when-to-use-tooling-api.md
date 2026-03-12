@@ -5,9 +5,9 @@ topic: when-to-use-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.338Z
+lastCollected: 2026-03-12T09:33:43.534Z
 estimatedTokens: 1907
-keywords: [Tooling, API, need, fine-grained, access, org’s, metadata., API’s, SOQL, capabilities, many, metadata, types, allow, retrieve, smaller, pieces, Smaller, retrieves, improve]
+keywords: [Tooling, API, fine-grained, access, org’s, metadata, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, retrieves, improve]
 ---
 
 # When to Use Tooling API

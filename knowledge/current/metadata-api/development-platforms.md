@@ -5,9 +5,9 @@ topic: development-platforms
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.785Z
+lastCollected: 2026-03-12T09:33:38.497Z
 estimatedTokens: 364
-keywords: [Development, Platforms, Metadata, API, supports, both, file-based, CRUD-based, development., File-Based, CRUD-Based]
+keywords: [Development, Platforms, Metadata, API, supports, file-based, CRUD-based]
 ---
 
 # Development Platforms

@@ -5,9 +5,9 @@ topic: reminder-nonrecurring-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.769Z
+lastCollected: 2026-03-12T09:33:47.704Z
 estimatedTokens: 219
-keywords: [Reminder, Nonrecurring, Schedule, Input, representation, nonrecurring, schedule, reminder.]
+keywords: [Reminder, Nonrecurring, Schedule, Input, representation]
 ---
 
 # Reminder Nonrecurring Schedule Input

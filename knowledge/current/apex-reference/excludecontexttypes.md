@@ -5,9 +5,9 @@ topic: excludecontexttypes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.329Z
+lastCollected: 2026-03-12T09:33:19.992Z
 estimatedTokens: 562
-keywords: [excludeContextTypes, Lets, implementation, exclude, parts, CanvasRequest, context, application, does, need, it., Usage, Example]
+keywords: [excludeContextTypes, Lets, implementation, exclude, parts, CanvasRequest, context, application, Usage]
 ---
 
 # excludeContextTypes()

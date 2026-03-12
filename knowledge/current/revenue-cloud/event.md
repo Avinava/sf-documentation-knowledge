@@ -5,9 +5,9 @@ topic: event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:10.206Z
+lastCollected: 2026-03-12T09:33:11.367Z
 estimatedTokens: 10333
-keywords: [Event, Represents, event, calendar., user, task, records, collectively, referred, activities., Important, Note, Supported, Calls, Fields, Usage, Associated, Objects]
+keywords: [Event, calendar, user, task, records, collectively, referred, activities, Calls, Usage, Associated, Objects]
 ---
 
 # Event

@@ -5,9 +5,9 @@ topic: contextdatainput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.732Z
+lastCollected: 2026-03-12T09:33:06.787Z
 estimatedTokens: 409
-keywords: [ContextDataInput, Get, details, context., nodeData, nodeName]
+keywords: [ContextDataInput, context, nodeData, nodeName]
 ---
 
 # ContextDataInput Class

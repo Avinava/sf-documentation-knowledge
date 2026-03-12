@@ -5,9 +5,9 @@ topic: binding-object-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.413Z
+lastCollected: 2026-03-12T09:33:09.140Z
 estimatedTokens: 291
-keywords: [Binding, Rate, Output, representation, details, Rates, Asset, object.]
+keywords: [Binding, Rate, Output, representation, Rates, Asset]
 ---
 
 # Binding Object Rate

@@ -5,9 +5,9 @@ topic: perform-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.324Z
+lastCollected: 2026-03-12T09:33:46.373Z
 estimatedTokens: 249
-keywords: [Perform, Contract, Action, actions, contract, based, its, status., Supported, REST, HTTP, Inputs, Output, Usage]
+keywords: [Perform, Contract, Action, actions, status, REST, HTTP, Inputs, Output, Usage]
 ---
 
 # Perform Contract Action

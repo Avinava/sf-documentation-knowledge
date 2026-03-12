@@ -5,9 +5,9 @@ topic: recordaggregationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.204Z
+lastCollected: 2026-03-12T09:33:52.607Z
 estimatedTokens: 830
-keywords: [RecordAggregationResult, Represents, data, aggregation, record, another, based, definition, corresponding, objects., API, version, 59.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [RecordAggregationResult, data, aggregation, record, another, definition, corresponding, objects, API, version, 59.0, later, Calls, Special, Access]
 ---
 
 # RecordAggregationResult

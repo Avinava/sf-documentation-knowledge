@@ -5,9 +5,9 @@ topic: bulkproductdetailsinputbodylist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.685Z
+lastCollected: 2026-03-12T09:33:06.744Z
 estimatedTokens: 484
-keywords: [BulkProductDetailsInputBodyList, Contains, details, request, retrieve, list, products., productData]
+keywords: [BulkProductDetailsInputBodyList, retrieve, products, productData]
 ---
 
 # BulkProductDetailsInputBodyList Class

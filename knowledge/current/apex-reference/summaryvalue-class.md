@@ -5,10 +5,10 @@ topic: summaryvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.201Z
+lastCollected: 2026-03-12T09:33:23.585Z
 estimatedTokens: 307
 namespace: Reports
-keywords: [SummaryValue, Contains, summary, data, cell, report., getLabel, Syntax, getValue]
+keywords: [SummaryValue, summary, data, cell, report, getLabel, getValue]
 ---
 
 # SummaryValue Class

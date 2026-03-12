@@ -5,9 +5,9 @@ topic: checkcrudonincome
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.724Z
+lastCollected: 2026-03-12T09:33:29.757Z
 estimatedTokens: 107
-keywords: [CheckCrudOnIncome, Checks, create, update, delete, access, partyIncome, entity., Examples]
+keywords: [CheckCrudOnIncome, Checks, access, partyIncome, entity, Examples]
 ---
 
 # CheckCrudOnIncome

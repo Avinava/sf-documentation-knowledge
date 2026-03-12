@@ -5,9 +5,9 @@ topic: catalog-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.443Z
+lastCollected: 2026-03-12T09:33:09.166Z
 estimatedTokens: 313
-keywords: [Catalog, Output, representation, catalog, definition.]
+keywords: [Catalog, Output, representation, definition]
 ---
 
 # Catalog Output

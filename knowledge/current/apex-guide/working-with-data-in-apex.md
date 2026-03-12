@@ -5,9 +5,9 @@ topic: working-with-data-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.107Z
+lastCollected: 2026-03-12T09:33:33.132Z
 estimatedTokens: 569
-keywords: [Working, Data, Apex, add, interact, data, Lightning, Platform, persistence, layer., sObject, main, holds, objects., You’ll, Manipulation, Language, DML, work, query]
+keywords: [Working, Data, Apex, add, interact, Lightning, Platform, persistence, layer, sObject, main, holds, objects, You’ll, Manipulation]
 ---
 
 # Working with Data in Apex

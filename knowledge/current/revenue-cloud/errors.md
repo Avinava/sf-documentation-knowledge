@@ -5,9 +5,9 @@ topic: errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.710Z
+lastCollected: 2026-03-12T09:33:09.401Z
 estimatedTokens: 134
-keywords: [Errors, Output, representation, group, error, messages, same, code.]
+keywords: [Errors, Output, representation, group, error, messages, code]
 ---
 
 # Errors

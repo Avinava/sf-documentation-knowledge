@@ -5,10 +5,10 @@ topic: asyncoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.082Z
+lastCollected: 2026-03-12T09:33:21.537Z
 estimatedTokens: 735
 namespace: System
-keywords: [AsyncOptions, Contains, maximum, stack, depths, queueable, transactions, minimum, delay, minutes., Passed, System.enqueueJob, define, unique, job, depth, DuplicateSignature, MaximumQueueableStackDepth, MinimumQueueableDelayInMinutes]
+keywords: [AsyncOptions, maximum, stack, depths, queueable, transactions, minimum, delay, minutes, Passed, System.enqueueJob, define, unique, job, depth]
 ---
 
 # AsyncOptions Class

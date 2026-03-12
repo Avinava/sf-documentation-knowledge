@@ -5,9 +5,9 @@ topic: configurationexecutionenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.197Z
+lastCollected: 2026-03-12T09:33:07.220Z
 estimatedTokens: 254
-keywords: [ConfigurationExecutionEnum, Specifies, configuration, place, sales, transaction, request., Usage, Values]
+keywords: [ConfigurationExecutionEnum, configuration, place, sales, transaction, Usage]
 ---
 
 # ConfigurationExecutionEnum Enum

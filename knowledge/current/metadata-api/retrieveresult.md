@@ -5,9 +5,9 @@ topic: retrieveresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.519Z
+lastCollected: 2026-03-12T09:33:41.935Z
 estimatedTokens: 1124
-keywords: [RetrieveResult, retrieve, call, array, objects., FileProperties, RetrieveMessage]
+keywords: [RetrieveResult, retrieve, call, array, objects, FileProperties, RetrieveMessage]
 ---
 
 # RetrieveResult

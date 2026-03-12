@@ -5,9 +5,9 @@ topic: billingschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:09.771Z
+lastCollected: 2026-03-12T09:33:11.011Z
 estimatedTokens: 2965
-keywords: [BillingSchedule, Represents, information, order, item, that's, used, invoicing, process., API, version, 62.0, later., Important, Supported, Calls, Special, Access, Rules, Fields]
+keywords: [BillingSchedule, order, item, that's, invoicing, process, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---
 
 # BillingSchedule

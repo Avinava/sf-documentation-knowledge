@@ -5,9 +5,9 @@ topic: territory2supportedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.957Z
+lastCollected: 2026-03-12T09:33:46.028Z
 estimatedTokens: 217
-keywords: [Territory2SupportedObject, Represents, supported, territories., API, version, 57.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
+keywords: [Territory2SupportedObject, territories, API, version, 57.0, later, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # Territory2SupportedObject

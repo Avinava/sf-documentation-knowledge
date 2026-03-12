@@ -5,9 +5,9 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.375Z
+lastCollected: 2026-03-12T09:33:46.419Z
 estimatedTokens: 235
-keywords: [REST, Reference, access, Accelerator, APIs, endpoints., follow, similar, conventions, Connect, APIs., Common, Business, Context, Service, Decision, Table, Digital, Lending, give]
+keywords: [REST, access, Accelerator, APIs, endpoints, follow, similar, conventions, Connect, Common, Business, Context, Service, Decision, Digital, Lending, give, users, seamless, API]
 ---
 
 # REST Reference

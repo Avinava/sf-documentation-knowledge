@@ -5,9 +5,9 @@ topic: connectapicdpmlaggregatepredictcondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.498Z
+lastCollected: 2026-03-12T09:33:26.649Z
 estimatedTokens: 67
-keywords: [ConnectApi.CdpMlAggregatePredictCondition, CDP, machine-learning, aggregate, prediction, contribution.]
+keywords: [CDP, machine-learning, aggregate, prediction, contribution]
 ---
 
 # ConnectApi.CdpMlAggregatePredictCondition

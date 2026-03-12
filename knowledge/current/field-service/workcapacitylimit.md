@@ -5,9 +5,9 @@ topic: workcapacitylimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.785Z
+lastCollected: 2026-03-12T09:33:54.982Z
 estimatedTokens: 2088
-keywords: [WorkCapacityLimit, Represents, capacity, limit, specific, service, territory, workstream, whole, given, period., API, version, 59.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [WorkCapacityLimit, capacity, limit, specific, service, territory, workstream, whole, period, API, version, 59.0, later, Calls, Associated]
 ---
 
 # WorkCapacityLimit

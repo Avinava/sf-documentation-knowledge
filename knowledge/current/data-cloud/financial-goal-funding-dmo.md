@@ -5,9 +5,9 @@ topic: financial-goal-funding-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.071Z
+lastCollected: 2026-03-12T09:33:14.816Z
 estimatedTokens: 380
-keywords: [Financial, Goal, Funding, DMO, Represents, financial, goal, individual, person, account, requires, funding., API, version, later., Name, Category, Primary, Subject, Area]
+keywords: [Financial, Goal, Funding, DMO, individual, person, account, requires, API, version, later, Category, Primary, Subject, Area]
 ---
 
 # Financial Goal Funding DMO

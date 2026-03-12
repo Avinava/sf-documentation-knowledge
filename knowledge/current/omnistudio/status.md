@@ -5,9 +5,9 @@ topic: status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.784Z
+lastCollected: 2026-03-12T09:33:49.426Z
 estimatedTokens: 92
-keywords: [Status, Output, representation, status, request.]
+keywords: [Status, Output, representation]
 ---
 
 # Status

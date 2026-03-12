@@ -5,9 +5,9 @@ topic: connectapiattributefilterexpression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.100Z
+lastCollected: 2026-03-12T09:33:26.274Z
 estimatedTokens: 103
-keywords: [ConnectApi.AttributeFilterExpression, Represents, activation, attribute, filter, expression.]
+keywords: [ConnectApi.AttributeFilterExpression, activation, attribute, filter, expression]
 ---
 
 # ConnectApi.AttributeFilterExpression

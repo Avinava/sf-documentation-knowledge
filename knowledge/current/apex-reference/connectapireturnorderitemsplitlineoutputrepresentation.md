@@ -5,9 +5,9 @@ topic: connectapireturnorderitemsplitlineoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.928Z
+lastCollected: 2026-03-12T09:33:28.972Z
 estimatedTokens: 514
-keywords: [ConnectApi.ReturnOrderItemSplitLineOutputRepresentation, After, change, order, created, ReturnOrderLineItem, read-only., Items, API, used, partial, quantity, creates, new, “split”, hold, remaining, returned., case, output]
+keywords: [change, order, created, ReturnOrderLineItem, read-only, Items, API, partial, quantity, creates, new, “split”, hold, remaining, case]
 ---
 
 # ConnectApi.ReturnOrderItemSplitLineOutputRepresentation

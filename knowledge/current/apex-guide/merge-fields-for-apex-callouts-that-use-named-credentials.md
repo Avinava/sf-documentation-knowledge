@@ -5,9 +5,9 @@ topic: merge-fields-for-apex-callouts-that-use-named-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.336Z
+lastCollected: 2026-03-12T09:33:32.374Z
 estimatedTokens: 1040
-keywords: [Merge, Fields, Apex, Callouts, Named, Credentials, construct, HTTP, headers, request, bodies, callouts, endpoints, specified, named, credentials, merge, fields, code.]
+keywords: [Merge, Apex, Callouts, Named, Credentials, construct, HTTP, bodies, endpoints, code]
 ---
 
 # Merge Fields for Apex Callouts That Use Named Credentials

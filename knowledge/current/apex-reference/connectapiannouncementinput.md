@@ -5,9 +5,9 @@ topic: connectapiannouncementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.298Z
+lastCollected: 2026-03-12T09:33:24.584Z
 estimatedTokens: 521
-keywords: [ConnectApi.AnnouncementInput, announcement.]
+keywords: [ConnectApi.AnnouncementInput, announcement]
 ---
 
 # ConnectApi.AnnouncementInput

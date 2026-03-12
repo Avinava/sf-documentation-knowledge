@@ -5,9 +5,9 @@ topic: sample-processplugin-implementation-for-lead-conversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.818Z
+lastCollected: 2026-03-12T09:33:33.835Z
 estimatedTokens: 298
-keywords: [Sample, Process.Plugin, Implementation, Lead, Conversion, example, Apex, implements, converts, lead, account, contact, optionally, opportunity., Test, plug-in, included., implementation, called, flow]
+keywords: [Sample, Process.Plugin, Implementation, Lead, Conversion, Apex, implements, converts, account, contact, optionally, opportunity, Test, plug-in, included]
 ---
 
 # Sample Process.Plugin Implementation for Lead Conversion

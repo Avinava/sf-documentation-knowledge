@@ -5,9 +5,9 @@ topic: aiauthoringbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.704Z
+lastCollected: 2026-03-12T09:33:36.510Z
 estimatedTokens: 1159
-keywords: [AiAuthoringBundle, Represents, authoring, bundle, which, container, AI-related, content., example, Agentforce, agent, contains, Agent, Script, file, associated, metadata, Parent, Directory, Structure]
+keywords: [AiAuthoringBundle, authoring, bundle, container, AI-related, content, Agentforce, agent, Script, file, associated, metadata, Parent, Directory, Structure]
 ---
 
 # AiAuthoringBundle

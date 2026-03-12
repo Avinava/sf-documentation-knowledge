@@ -5,9 +5,9 @@ topic: connectapicdpassetreferenceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.524Z
+lastCollected: 2026-03-12T09:33:24.795Z
 estimatedTokens: 118
-keywords: [ConnectApi.CdpAssetReferenceInput, Refernce, model, asset, prediction, request.]
+keywords: [ConnectApi.CdpAssetReferenceInput, Refernce, model, asset, prediction]
 ---
 
 # ConnectApi.CdpAssetReferenceInput

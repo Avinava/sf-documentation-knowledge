@@ -5,9 +5,9 @@ topic: deploymentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.724Z
+lastCollected: 2026-03-12T09:33:38.439Z
 estimatedTokens: 687
-keywords: [DeploymentSettings, Represents, settings, affecting, how, deployments, behave, org., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
+keywords: [DeploymentSettings, settings, affecting, how, deployments, behave, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---
 
 # DeploymentSettings

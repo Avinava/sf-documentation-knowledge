@@ -5,9 +5,9 @@ topic: priceadjustmentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:10.855Z
+lastCollected: 2026-03-12T09:33:11.893Z
 estimatedTokens: 990
-keywords: [PriceAdjustmentSchedule, Represents, series, tiered, discounts, based, number, items, purchased., API, version, 60.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [PriceAdjustmentSchedule, series, tiered, discounts, number, items, purchased, API, version, 60.0, later, Calls, Associated, Objects]
 ---
 
 # PriceAdjustmentSchedule

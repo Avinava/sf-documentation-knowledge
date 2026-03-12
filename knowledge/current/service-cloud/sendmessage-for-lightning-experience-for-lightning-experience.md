@@ -6,9 +6,9 @@ topic: sendmessage-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.914Z
+lastCollected: 2026-03-12T09:33:56.000Z
 estimatedTokens: 231
-keywords: [sendMessage, Lightning, Experience, Sends, new, chat, message, agent, specific, key., works, only, console, apps., Arguments, argumentObj, Sample, Code, Response]
+keywords: [sendMessage, Lightning, Experience, new, chat, message, agent, specific, key, works, console, apps, Arguments, argumentObj, Sample]
 ---
 
 # sendMessage() for Lightning Experience for Lightning

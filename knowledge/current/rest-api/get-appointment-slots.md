@@ -5,9 +5,9 @@ topic: get-appointment-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.325Z
+lastCollected: 2026-03-12T09:33:35.183Z
 estimatedTokens: 1775
-keywords: [Get, Appointment, Slots, list, appointment, time, slots, resource, based, given, work, group, service, territories., Syntax, Note, Example]
+keywords: [Appointment, Slots, time, resource, work, group, service, territories]
 ---
 
 # Get Appointment Slots

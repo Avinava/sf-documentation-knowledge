@@ -5,9 +5,9 @@ topic: valtfrmgrp
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:11.844Z
+lastCollected: 2026-03-12T09:33:12.777Z
 estimatedTokens: 700
-keywords: [ValTfrmGrp, Represents, rule, determines, how, order, broken, sub-orders, specific, technical, details, help, fulfillment., applied, commercial, product., API, version, 61.0, later.]
+keywords: [ValTfrmGrp, rule, determines, how, order, broken, sub-orders, specific, technical, help, fulfillment, applied, commercial, product, API]
 ---
 
 # ValTfrmGrp

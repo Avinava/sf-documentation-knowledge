@@ -5,9 +5,9 @@ topic: articles-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.579Z
+lastCollected: 2026-03-12T09:33:35.420Z
 estimatedTokens: 1051
-keywords: [Articles, Details, online, article, fields, accessible, user., resource, IDs, REST, API, version, 38.0, later, URL, names, 44.0, later., Valid, channel]
+keywords: [Articles, online, article, accessible, user, resource, IDs, REST, API, version, 38.0, later, URL, 44.0, channel]
 ---
 
 # Articles Details

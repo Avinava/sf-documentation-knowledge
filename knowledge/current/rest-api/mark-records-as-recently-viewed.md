@@ -5,9 +5,9 @@ topic: mark-records-as-recently-viewed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.001Z
+lastCollected: 2026-03-12T09:33:34.893Z
 estimatedTokens: 243
-keywords: [Mark, Records, Recently, Viewed, mark, record, recently, viewed, REST, API, Query, resource, VIEW, REFERENCE, clause., SOQL, records, ensure, information, such]
+keywords: [Mark, Records, Recently, Viewed, record, REST, API, Query, resource, VIEW, clause, SOQL, ensure, date, time]
 ---
 
 # Mark Records as Recently Viewed

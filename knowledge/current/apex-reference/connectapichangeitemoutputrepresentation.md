@@ -5,9 +5,9 @@ topic: connectapichangeitemoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.597Z
+lastCollected: 2026-03-12T09:33:26.736Z
 estimatedTokens: 930
-keywords: [ConnectApi.ChangeItemOutputRepresentation, financial, changes, resulting, change, OrderItemSummaries., Most, values, represent, deltas, associated, OrderSummary., sign, opposite, corresponding, order, record., example, discount, positive]
+keywords: [financial, changes, resulting, change, OrderItemSummaries, represent, deltas, associated, OrderSummary, sign, opposite, corresponding, order, record, discount]
 ---
 
 # ConnectApi.ChangeItemOutputRepresentation

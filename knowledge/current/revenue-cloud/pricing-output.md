@@ -5,9 +5,9 @@ topic: pricing-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:07.596Z
+lastCollected: 2026-03-12T09:33:09.305Z
 estimatedTokens: 381
-keywords: [Pricing, Output, representation, Salesforce, pricing, request.]
+keywords: [Pricing, Output, representation, Salesforce]
 ---
 
 # Pricing Output

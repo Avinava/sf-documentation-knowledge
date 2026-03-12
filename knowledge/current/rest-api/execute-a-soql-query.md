@@ -5,9 +5,9 @@ topic: execute-a-soql-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.027Z
+lastCollected: 2026-03-12T09:33:34.916Z
 estimatedTokens: 258
-keywords: [Execute, SOQL, Query, resource, execute, query, results, single, response, needed, part, locator, used, retrieve, remaining, results., Retrieving, Remaining, Results]
+keywords: [Execute, SOQL, Query, resource, results, needed, part, locator, retrieve, remaining, Retrieving]
 ---
 
 # Execute a SOQL Query

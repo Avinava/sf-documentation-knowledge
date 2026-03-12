@@ -5,9 +5,9 @@ topic: index-setting-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.156Z
+lastCollected: 2026-03-12T09:33:08.044Z
 estimatedTokens: 76
-keywords: [Index, Setting, Input, representation, index, setting.]
+keywords: [Index, Setting, Input, representation]
 ---
 
 # Index Setting Input

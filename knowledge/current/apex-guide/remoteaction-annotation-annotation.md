@@ -5,9 +5,9 @@ topic: remoteaction-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.456Z
+lastCollected: 2026-03-12T09:33:32.493Z
 estimatedTokens: 723
-keywords: [RemoteAction, Annotation, annotation, provides, support, Apex, used, Visualforce, called, via, JavaScript., process, often, referred, JavaScript, remoting., Note, Warning]
+keywords: [RemoteAction, Annotation, support, Apex, Visualforce, via, JavaScript, process, often, referred, remoting]
 ---
 
 # RemoteAction Annotation Annotation

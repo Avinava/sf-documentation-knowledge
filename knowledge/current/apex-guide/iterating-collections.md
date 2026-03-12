@@ -5,9 +5,9 @@ topic: iterating-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.607Z
+lastCollected: 2026-03-12T09:33:34.532Z
 estimatedTokens: 286
-keywords: [Iterating, Collections, consist, lists, maps., Modifying, collection's, elements, while, iterating, through, collection, supported, causes, error., directly, add, remove, includes, them.]
+keywords: [Iterating, Collections, consist, maps, Modifying, collection's, elements, collection, causes, error, directly, add, remove, includes, Adding]
 ---
 
 # Iterating Collections

@@ -5,9 +5,9 @@ topic: httppost-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.476Z
+lastCollected: 2026-03-12T09:33:32.512Z
 estimatedTokens: 77
-keywords: [HttpPost, Annotation, @HttpPost, annotation, used, level, enables, expose, Apex, REST, resource., called, HTTP, POST, request, sent, creates, new]
+keywords: [HttpPost, Annotation, @HttpPost, level, expose, Apex, REST, resource, HTTP, POST, sent, creates, new]
 ---
 
 # HttpPost Annotation Annotation

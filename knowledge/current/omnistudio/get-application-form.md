@@ -5,9 +5,9 @@ topic: get-application-form
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.290Z
+lastCollected: 2026-03-12T09:33:48.980Z
 estimatedTokens: 87
-keywords: [Get, Application, Form, Output, representation, request, get, application, form, details.]
+keywords: [Application, Form, Output, representation]
 ---
 
 # Get Application Form

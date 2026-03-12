@@ -5,9 +5,9 @@ topic: does-a-retrieve-job-have-a-status-of-pending
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.693Z
+lastCollected: 2026-03-12T09:33:38.390Z
 estimatedTokens: 159
-keywords: [Does, Retrieve, Job, Status, Pending?, initiate, several, concurrent, retrieve, operations, single, org, Metadata, API, automatically, puts, those, jobs, queue, becomes]
+keywords: [Retrieve, Job, Status, Pending, initiate, several, concurrent, operations, org, Metadata, API, automatically, puts, jobs, queue]
 ---
 
 # Does a Retrieve Job Have a Status of Pending?

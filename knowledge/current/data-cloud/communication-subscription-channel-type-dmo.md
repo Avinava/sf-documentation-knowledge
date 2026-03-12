@@ -5,9 +5,9 @@ topic: communication-subscription-channel-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.320Z
+lastCollected: 2026-03-12T09:33:14.163Z
 estimatedTokens: 534
-keywords: [Communication, Subscription, Channel, DMO, Data, Cloud, data, model, engagement, channel, through, which, customer, reached, communication, subscription., API, Name, Category, Primary]
+keywords: [Communication, Subscription, Channel, DMO, Data, Cloud, model, engagement, customer, reached, API, Category, Primary, Subject, Area]
 ---
 
 # Communication Subscription Channel Type DMO

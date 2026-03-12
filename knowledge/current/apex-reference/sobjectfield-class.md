@@ -5,10 +5,10 @@ topic: sobjectfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.858Z
+lastCollected: 2026-03-12T09:33:21.413Z
 estimatedTokens: 525
 namespace: Schema
-keywords: [SObjectField, describe, field, result, field., provides, option, get, results, object., Example, sObjectField, getDescribe, options]
+keywords: [SObjectField, describe, result, option, results, getDescribe, options]
 ---
 
 # SObjectField Class

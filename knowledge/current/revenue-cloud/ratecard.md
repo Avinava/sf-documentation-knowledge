@@ -5,9 +5,9 @@ topic: ratecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.427Z
+lastCollected: 2026-03-12T09:33:12.407Z
 estimatedTokens: 631
-keywords: [RateCard, Represents, rules, used, rate, consumption, group, resources, within, product., Usage, resource, billed, specified, user, consumes, their, allowance, time, period.]
+keywords: [RateCard, rules, rate, consumption, group, resources, product, Usage, resource, billed, user, consumes, their, allowance, time]
 ---
 
 # RateCard

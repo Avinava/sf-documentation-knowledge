@@ -5,9 +5,9 @@ topic: working-with-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.255Z
+lastCollected: 2026-03-12T09:33:36.082Z
 estimatedTokens: 1019
-keywords: [Working, Records, examples, section, REST, API, resources, create, retrieve, update, delete, records, along, record-related, operations.]
+keywords: [Working, Records, examples, REST, API, resources, retrieve, along, record-related, operations]
 ---
 
 # Working with Records

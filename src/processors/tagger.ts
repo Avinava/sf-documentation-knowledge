@@ -121,16 +121,28 @@ function extractKeywords(
 ): string[] {
   const allText = [title, description, ...headings].join(" ");
 
-  // Split into words, filter noise
+  // Split into words, clean and filter noise
   const words = allText
     .split(/[\s,;:()\[\]{}|/\\]+/)
     .map((w) => w.trim())
-    .filter((w) => w.length > 2)
+    .map((w) => w.replace(/[.,:;!?'"]+$/g, "")) // Strip trailing punctuation
+    .map((w) => w.replace(/^[.,:;!?'"]+/g, "")) // Strip leading punctuation
+    .filter((w) => w.length > 2 && w.length < 40)
+    .filter((w) => !/^\d+$/.test(w)) // Skip pure numbers
     .filter((w) => !STOP_WORDS.has(w.toLowerCase()))
     .filter((w) => !GENERIC_DOC_WORDS.has(w.toLowerCase()));
 
-  // De-duplicate and limit
-  return [...new Set(words)].slice(0, 20);
+  // De-duplicate (case-insensitive) and limit
+  const seen = new Set<string>();
+  const unique: string[] = [];
+  for (const w of words) {
+    const key = w.toLowerCase();
+    if (!seen.has(key)) {
+      seen.add(key);
+      unique.push(w);
+    }
+  }
+  return unique.slice(0, 15);
 }
 
 /** Detect document type from content patterns */
@@ -197,78 +209,42 @@ function detectDocType(
 }
 
 const STOP_WORDS = new Set([
-  "the",
-  "and",
-  "for",
-  "are",
-  "but",
-  "not",
-  "you",
-  "all",
-  "can",
-  "has",
-  "her",
-  "was",
-  "one",
-  "our",
-  "out",
-  "use",
-  "this",
-  "that",
-  "with",
-  "from",
-  "have",
-  "been",
-  "will",
-  "each",
-  "make",
-  "like",
-  "when",
-  "what",
-  "your",
-  "some",
-  "them",
-  "than",
-  "into",
-  "also",
-  "more",
-  "about",
-  "using",
-  "other",
+  // Articles & pronouns
+  "the", "and", "for", "are", "but", "not", "you", "all", "can", "has",
+  "her", "was", "one", "our", "out", "use", "its", "his", "she", "who",
+  // Prepositions & conjunctions
+  "this", "that", "with", "from", "have", "been", "will", "each", "make",
+  "like", "when", "what", "your", "some", "them", "than", "into", "also",
+  "more", "about", "using", "other", "then", "only", "does", "done",
+  // Common verbs that add no value
+  "provides", "represents", "enables", "allows", "used", "through",
+  "many", "find", "single", "exactly", "must", "sends", "displayed",
+  "complete", "existing", "related", "controls", "exposes", "get", "set",
+  "based", "create", "read", "update", "delete", "makes", "contains",
+  "returned", "specifies", "indicates", "describes", "defines",
+  "applies", "called", "given", "takes", "returns", "shows", "lists",
+  // Determiners & misc
+  "after", "before", "between", "during", "without", "within",
+  "same", "such", "very", "most", "need", "here", "just", "should",
+  "could", "would", "might", "being", "those", "where", "which",
+  "while", "still", "first", "last", "next", "both", "even",
 ]);
 
 /** Generic documentation words that don't add value as keywords */
 const GENERIC_DOC_WORDS = new Set([
-  "class",
-  "methods",
-  "method",
-  "returns",
-  "return",
-  "value",
-  "type",
-  "sets",
-  "gets",
-  "properties",
-  "property",
-  "signature",
-  "parameters",
-  "parameter",
-  "namespace",
-  "enum",
-  "interface",
-  "constructors",
-  "constructor",
-  "see",
-  "learn",
-  "available",
-  "these",
-  "static",
-  "void",
-  "string",
-  "boolean",
-  "integer",
-  "object",
-  "public",
-  "private",
-  "global",
+  // Programming generics
+  "class", "methods", "method", "returns", "return", "value", "type",
+  "sets", "gets", "properties", "property", "signature", "parameters",
+  "parameter", "namespace", "enum", "interface", "constructors",
+  "constructor", "see", "learn", "available", "these", "static",
+  "void", "string", "boolean", "integer", "object", "public",
+  "private", "global",
+  // Documentation patterns
+  "example", "note", "important", "warning", "tip", "true", "false",
+  "null", "undefined", "information", "following", "specified",
+  "required", "optional", "default", "supported", "valid",
+  "details", "description", "overview", "guide", "reference",
+  "section", "page", "table", "list", "field", "fields",
+  "name", "names", "values", "types", "format", "syntax",
+  "request", "response", "body", "header", "headers",
 ]);

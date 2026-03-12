@@ -5,9 +5,9 @@ topic: pass-data-to-an-lwc-with-deep-linking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.467Z
+lastCollected: 2026-03-12T09:33:53.780Z
 estimatedTokens: 216
-keywords: [Pass, Data, LWC, Deep, Linking, data, between, Lightning, web, components, external, apps, deep, linking., linking, Field, Service, mobile, app, both]
+keywords: [Pass, Data, LWC, Deep, Linking, Lightning, web, components, external, apps, Service, mobile, app, Android, iOS]
 ---
 
 # Pass Data to an LWC with Deep Linking

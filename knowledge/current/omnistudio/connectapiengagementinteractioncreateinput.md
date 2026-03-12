@@ -5,9 +5,9 @@ topic: connectapiengagementinteractioncreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.672Z
+lastCollected: 2026-03-12T09:33:46.708Z
 estimatedTokens: 849
-keywords: [ConnectApi.EngagementInteractionCreateInput, Input, representation, create, engagement, interaction, record.]
+keywords: [Input, representation, engagement, interaction, record]
 ---
 
 # ConnectApi.EngagementInteractionCreateInput

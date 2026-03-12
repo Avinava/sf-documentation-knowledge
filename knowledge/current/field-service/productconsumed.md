@@ -5,9 +5,9 @@ topic: productconsumed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.274Z
+lastCollected: 2026-03-12T09:33:54.496Z
 estimatedTokens: 1360
-keywords: [ProductConsumed, Represents, item, inventory, used, complete, work, order, line, field, service., Supported, Calls, Special, Access, Rules, Note, Fields, Usage, Associated]
+keywords: [ProductConsumed, item, inventory, work, order, line, service, Calls, Special, Access, Rules, Usage, Associated, Objects]
 ---
 
 # ProductConsumed

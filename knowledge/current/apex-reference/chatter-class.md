@@ -5,10 +5,10 @@ topic: chatter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.446Z
+lastCollected: 2026-03-12T09:33:18.065Z
 estimatedTokens: 2506
 namespace: ConnectApi
-keywords: [Chatter, Submit, daily, weekly, email, digest, job., deleteSubscription, communityId, subscriptionId, API, Version, Requires, Usage, Example, getFollowers, recordId, pageParam, pageSize, getSubscription]
+keywords: [Chatter, Submit, daily, weekly, email, digest, job, deleteSubscription, communityId, subscriptionId, API, Version, Requires, Usage, getFollowers]
 ---
 
 # Chatter Class

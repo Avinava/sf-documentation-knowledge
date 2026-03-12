@@ -5,9 +5,9 @@ topic: duplicatejobmatchingruledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.201Z
+lastCollected: 2026-03-12T09:33:44.343Z
 estimatedTokens: 157
-keywords: [DuplicateJobMatchingRuleDefinition, Setup, specifying, MatchingRule, DuplicateJob, instances, share, DuplicateJobDefinition., Tooling, API, version, 42.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [DuplicateJobMatchingRuleDefinition, Setup, specifying, MatchingRule, DuplicateJob, instances, share, DuplicateJobDefinition, Tooling, API, version, 42.0, later, SOAP, Calls]
 ---
 
 # DuplicateJobMatchingRuleDefinition

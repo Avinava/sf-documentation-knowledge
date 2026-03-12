@@ -5,9 +5,9 @@ topic: connectapiproductsellingmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.628Z
+lastCollected: 2026-03-12T09:33:28.660Z
 estimatedTokens: 515
-keywords: [ConnectApi.ProductSellingModel, Product, selling, model, Commerce, subscriptions.]
+keywords: [ConnectApi.ProductSellingModel, Product, selling, model, Commerce, subscriptions]
 ---
 
 # ConnectApi.ProductSellingModel

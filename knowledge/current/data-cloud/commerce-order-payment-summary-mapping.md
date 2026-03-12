@@ -5,9 +5,9 @@ topic: commerce-order-payment-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:13.203Z
+lastCollected: 2026-03-12T09:33:14.037Z
 estimatedTokens: 331
-keywords: [Commerce, Order, Payment, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., payments]
+keywords: [Commerce, Order, Payment, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
 ---
 
 # Commerce: Order Payment Summary Mapping

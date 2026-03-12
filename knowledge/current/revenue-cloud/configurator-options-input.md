@@ -5,9 +5,9 @@ topic: configurator-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.921Z
+lastCollected: 2026-03-12T09:33:07.833Z
 estimatedTokens: 387
-keywords: [Configurator, Options, Input, representation, request, get, product, configuration, options, that’s, passed, configurator.]
+keywords: [Configurator, Options, Input, representation, product, configuration, that’s, passed]
 ---
 
 # Configurator Options Input

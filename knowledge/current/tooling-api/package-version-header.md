@@ -5,9 +5,9 @@ topic: package-version-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.237Z
+lastCollected: 2026-03-12T09:33:43.434Z
 estimatedTokens: 192
-keywords: [Package, Version, Header, Specifies, version, package, referenced, client., number, identifies, set, components, behavior, contained, package., header, used, specify, making, calls]
+keywords: [Package, Version, referenced, client, number, identifies, components, behavior, contained, specify, making, calls, Apex, REST, web]
 ---
 
 # Package Version Header

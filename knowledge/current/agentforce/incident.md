@@ -5,9 +5,9 @@ topic: incident
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.438Z
+lastCollected: 2026-03-12T09:33:16.100Z
 estimatedTokens: 948
-keywords: [Incident, Standard, fields, extend, Agentforce, Service, represent, issue., API, version, 65.0, later., Supported, Calls, Fields]
+keywords: [Incident, Standard, extend, Agentforce, Service, represent, issue, API, version, 65.0, later, Calls]
 ---
 
 # Incident

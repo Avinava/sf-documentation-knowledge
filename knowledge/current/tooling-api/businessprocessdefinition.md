@@ -5,9 +5,9 @@ topic: businessprocessdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.793Z
+lastCollected: 2026-03-12T09:33:43.955Z
 estimatedTokens: 894
-keywords: [BusinessProcessDefinition, Represents, information, stages, customer, lifecycle, map., API, version, 51.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [BusinessProcessDefinition, stages, customer, lifecycle, map, API, version, 51.0, later, SOAP, Calls, REST]
 ---
 
 # BusinessProcessDefinition

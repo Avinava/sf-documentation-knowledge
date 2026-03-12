@@ -5,9 +5,9 @@ topic: connectapicommentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.636Z
+lastCollected: 2026-03-12T09:33:24.897Z
 estimatedTokens: 820
-keywords: [ConnectApi.CommentInput, Comment, input, used, add, rich, comments, example, include, mentions, file, attachments.]
+keywords: [ConnectApi.CommentInput, Comment, input, add, rich, comments, include, mentions, file, attachments]
 ---
 
 # ConnectApi.CommentInput

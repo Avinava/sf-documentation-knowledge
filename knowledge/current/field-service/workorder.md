@@ -5,9 +5,9 @@ topic: workorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.832Z
+lastCollected: 2026-03-12T09:33:55.027Z
 estimatedTokens: 4506
-keywords: [WorkOrder, Represents, field, service, work, performed, customer., API, version, 36.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [WorkOrder, service, work, performed, customer, API, version, 36.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # WorkOrder

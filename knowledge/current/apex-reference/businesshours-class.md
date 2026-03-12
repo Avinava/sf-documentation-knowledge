@@ -5,10 +5,10 @@ topic: businesshours-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.385Z
+lastCollected: 2026-03-12T09:33:23.758Z
 estimatedTokens: 1817
 namespace: System
-keywords: [BusinessHours, set, business, hours, which, customer, support, team, operates., add, businessHoursId, startDate, intervalMilliseconds, addGmt, diff, endDate, isWithin, targetDate, Example, nextStartDate]
+keywords: [BusinessHours, business, hours, customer, support, team, operates, add, businessHoursId, startDate, intervalMilliseconds, addGmt, diff, endDate, isWithin]
 ---
 
 # BusinessHours Class

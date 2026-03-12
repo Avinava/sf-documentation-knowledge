@@ -5,9 +5,9 @@ topic: connectapimanagedcontentspaceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.107Z
+lastCollected: 2026-03-12T09:33:25.343Z
 estimatedTokens: 227
-keywords: [ConnectApi.ManagedContentSpaceInput, Create, managed, content, space.]
+keywords: [ConnectApi.ManagedContentSpaceInput, managed, content, space]
 ---
 
 # ConnectApi.ManagedContentSpaceInput

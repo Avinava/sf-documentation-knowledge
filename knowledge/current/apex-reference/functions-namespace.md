@@ -5,10 +5,10 @@ topic: functions-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.690Z
+lastCollected: 2026-03-12T09:33:31.746Z
 estimatedTokens: 663
 namespace: The
-keywords: [Functions, provides, classes, used, invoke, manage, Salesforce, Functions.]
+keywords: [Functions, classes, invoke, manage, Salesforce]
 ---
 
 # Functions Namespace

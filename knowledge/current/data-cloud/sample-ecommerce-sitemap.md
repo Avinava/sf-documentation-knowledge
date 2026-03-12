@@ -5,9 +5,9 @@ topic: sample-ecommerce-sitemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.543Z
+lastCollected: 2026-03-12T09:33:13.443Z
 estimatedTokens: 59
-keywords: [Sample, Ecommerce, Sitemap, Review, sample, sitemap., Example, Profile, Events]
+keywords: [Sample, Ecommerce, Sitemap, Review, Profile, Events]
 ---
 
 # Sample Ecommerce Sitemap

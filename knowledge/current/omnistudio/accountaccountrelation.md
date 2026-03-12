@@ -5,9 +5,9 @@ topic: accountaccountrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.194Z
+lastCollected: 2026-03-12T09:33:51.708Z
 estimatedTokens: 1135
-keywords: [AccountAccountRelation, Represents, relationship, between, accounts, such, business, account, household, account., API, version, 57.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [AccountAccountRelation, relationship, accounts, business, account, household, API, version, 57.0, later, Calls, Associated, Objects]
 ---
 
 # AccountAccountRelation

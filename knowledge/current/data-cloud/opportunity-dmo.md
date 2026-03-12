@@ -5,9 +5,9 @@ topic: opportunity-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.625Z
+lastCollected: 2026-03-12T09:33:15.333Z
 estimatedTokens: 1233
-keywords: [Opportunity, DMO, Data, Cloud, data, model, deals, sales, progress, yet, completed., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+keywords: [Opportunity, DMO, Data, Cloud, model, deals, sales, progress, yet, completed, API, Category, Primary, Subject, Area]
 ---
 
 # Opportunity DMO

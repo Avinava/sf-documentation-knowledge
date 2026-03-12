@@ -5,9 +5,9 @@ topic: amendment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.637Z
+lastCollected: 2026-03-12T09:33:07.580Z
 estimatedTokens: 252
-keywords: [Amendment, Input, representation, details, request, create, amendment, record.]
+keywords: [Amendment, Input, representation, record]
 ---
 
 # Amendment Input

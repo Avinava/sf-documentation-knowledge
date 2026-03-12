@@ -5,9 +5,9 @@ topic: connectapivotepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.287Z
+lastCollected: 2026-03-12T09:33:29.335Z
 estimatedTokens: 388
-keywords: [ConnectApi.VotePage, page, upvotes, downvotes, feed, element, comment.]
+keywords: [ConnectApi.VotePage, upvotes, downvotes, feed, element, comment]
 ---
 
 # ConnectApi.VotePage

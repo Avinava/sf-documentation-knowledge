@@ -5,10 +5,10 @@ topic: sendemailerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.496Z
+lastCollected: 2026-03-12T09:33:23.866Z
 estimatedTokens: 663
 namespace: Messaging
-keywords: [SendEmailError, Represents, error, SendEmailResult, may, contain., getFields, getMessage, getStatusCode, Usage, getTargetObjectId]
+keywords: [SendEmailError, error, SendEmailResult, may, contain, getFields, getMessage, getStatusCode, Usage, getTargetObjectId]
 ---
 
 # SendEmailError Class

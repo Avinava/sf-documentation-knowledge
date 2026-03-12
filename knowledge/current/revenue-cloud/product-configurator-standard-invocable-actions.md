@@ -5,9 +5,9 @@ topic: product-configurator-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.058Z
+lastCollected: 2026-03-12T09:33:10.438Z
 estimatedTokens: 272
-keywords: [Product, Configurator, Standard, Invocable, Actions, standard, invocable, actions, Configurator.]
+keywords: [Product, Configurator, Standard, Invocable, Actions]
 ---
 
 # Product Configurator Standard Invocable Actions

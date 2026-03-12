@@ -5,10 +5,10 @@ topic: timeinterval-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.307Z
+lastCollected: 2026-03-12T09:33:53.631Z
 estimatedTokens: 671
 namespace: FSL
-keywords: [TimeInterval, Holds, interval’s, start, end, times., instance, used, capturing, times, scheduling, horizon, during, which, process, runs., considers, scheduled, jobs, represent]
+keywords: [TimeInterval, Holds, interval’s, start, end, times, instance, capturing, scheduling, horizon, process, runs, considers, scheduled, jobs]
 ---
 
 # TimeInterval Class

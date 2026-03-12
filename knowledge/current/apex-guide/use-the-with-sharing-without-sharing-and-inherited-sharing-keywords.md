@@ -5,9 +5,9 @@ topic: use-the-with-sharing-without-sharing-and-inherited-sharing-keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.614Z
+lastCollected: 2026-03-12T09:33:32.646Z
 estimatedTokens: 2250
-keywords: [sharing, without, inherited, Keywords, keywords, specify, whether, rules, must, enforced., keyword, run, mode, called, it., Tip, Sharing, Without, Inherited, Warning]
+keywords: [sharing, inherited, Keywords, specify, whether, rules, enforced, keyword, run, mode, Omitted, Declarations, Implementation, Apex, Triggers]
 ---
 
 # Use the with sharing, without sharing, and inherited sharing Keywords

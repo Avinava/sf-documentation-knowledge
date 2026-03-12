@@ -5,9 +5,9 @@ topic: emailintegrationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.141Z
+lastCollected: 2026-03-12T09:33:38.792Z
 estimatedTokens: 1860
-keywords: [EmailIntegrationSettings, Represents, org’s, settings, Outlook, integration, Gmail, Salesforce, Inbox., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location]
+keywords: [EmailIntegrationSettings, org’s, settings, Outlook, integration, Gmail, Salesforce, Inbox, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # EmailIntegrationSettings

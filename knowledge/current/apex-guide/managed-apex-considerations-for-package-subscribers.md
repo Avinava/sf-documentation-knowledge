@@ -5,9 +5,9 @@ topic: managed-apex-considerations-for-package-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.687Z
+lastCollected: 2026-03-12T09:33:33.708Z
 estimatedTokens: 374
-keywords: [Managed, Apex, Considerations, Package, Subscribers, managed, keep, considerations, mind.]
+keywords: [Managed, Apex, Considerations, Package, Subscribers, keep, mind]
 ---
 
 # Managed Apex Considerations for Package Subscribers

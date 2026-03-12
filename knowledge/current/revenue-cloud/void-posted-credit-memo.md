@@ -5,9 +5,9 @@ topic: void-posted-credit-memo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.639Z
+lastCollected: 2026-03-12T09:33:10.089Z
 estimatedTokens: 191
-keywords: [Posted, Credit, Memo, Output, representation, request, posted, credit, memo.]
+keywords: [Posted, Credit, Memo, Output, representation]
 ---
 
 # Void Posted Credit Memo

@@ -5,9 +5,9 @@ topic: record-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.334Z
+lastCollected: 2026-03-12T09:33:09.866Z
 estimatedTokens: 106
-keywords: [Record, Details, Output, representation, record, details, including, name.]
+keywords: [Record, Output, representation, including]
 ---
 
 # Record Details

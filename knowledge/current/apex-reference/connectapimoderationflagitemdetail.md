@@ -5,9 +5,9 @@ topic: connectapimoderationflagitemdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.985Z
+lastCollected: 2026-03-12T09:33:28.003Z
 estimatedTokens: 295
-keywords: [ConnectApi.ModerationFlagItemDetail, Flag, details, feed, item, comment, file.]
+keywords: [ConnectApi.ModerationFlagItemDetail, Flag, feed, item, comment, file]
 ---
 
 # ConnectApi.ModerationFlagItemDetail

@@ -5,9 +5,9 @@ topic: apexmap-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.499Z
+lastCollected: 2026-03-12T09:33:22.910Z
 estimatedTokens: 1113
-keywords: [ApexMap, Create, clone, convert, based, key-value, pairs, JSON, format., key, toString]
+keywords: [ApexMap, clone, convert, key-value, pairs, JSON, key, toString]
 ---
 
 # ApexMap Class

@@ -5,9 +5,9 @@ topic: connectapibaserequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.988Z
+lastCollected: 2026-03-12T09:33:25.233Z
 estimatedTokens: 453
-keywords: [ConnectApi.BaseRequest, Base, making, request, payment, gateway.]
+keywords: [ConnectApi.BaseRequest, Base, making, payment, gateway]
 ---
 
 # ConnectApi.BaseRequest

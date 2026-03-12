@@ -5,9 +5,9 @@ topic: bulk-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.149Z
+lastCollected: 2026-03-12T09:33:34.146Z
 estimatedTokens: 185
-keywords: [Bulk, Triggers, triggers, bulk, default, process, multiple, records, time., should, always, plan, processing, record, Note]
+keywords: [Bulk, Triggers, process, multiple, records, time, always, plan, processing, record]
 ---
 
 # Bulk Triggers

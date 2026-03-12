@@ -5,9 +5,9 @@ topic: schemasettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.590Z
+lastCollected: 2026-03-12T09:33:41.998Z
 estimatedTokens: 825
-keywords: [SchemaSettings, Represents, org’s, schema, settings, which, manage, availability, custom, metadata, values., extends, Metadata, inherits, its, fullName, field., File, Suffix, Directory]
+keywords: [SchemaSettings, org’s, schema, settings, manage, availability, custom, metadata, extends, inherits, fullName, File, Suffix, Directory, Location]
 ---
 
 # SchemaSettings

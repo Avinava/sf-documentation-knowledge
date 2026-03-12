@@ -5,9 +5,9 @@ topic: connectapimanagedcontentnodetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.820Z
+lastCollected: 2026-03-12T09:33:27.864Z
 estimatedTokens: 156
-keywords: [ConnectApi.ManagedContentNodeType, Managed, content, node, type.]
+keywords: [ConnectApi.ManagedContentNodeType, Managed, content, node]
 ---
 
 # ConnectApi.ManagedContentNodeType

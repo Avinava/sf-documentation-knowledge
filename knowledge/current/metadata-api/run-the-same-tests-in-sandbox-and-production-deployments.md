@@ -5,9 +5,9 @@ topic: run-the-same-tests-in-sandbox-and-production-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.704Z
+lastCollected: 2026-03-12T09:33:38.420Z
 estimatedTokens: 314
-keywords: [Run, Same, Tests, Sandbox, Production, Deployments, Starting, API, version, 34.0, choose, which, tests, run, development, environment, such, only, local, match]
+keywords: [Run, Tests, Sandbox, Production, Deployments, Starting, API, version, 34.0, choose, development, environment, local, match, earlier]
 ---
 
 # Run the Same Tests in Sandbox and Production Deployments

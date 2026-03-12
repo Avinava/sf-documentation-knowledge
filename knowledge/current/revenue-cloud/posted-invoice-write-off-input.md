@@ -5,9 +5,9 @@ topic: posted-invoice-write-off-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.579Z
+lastCollected: 2026-03-12T09:33:08.402Z
 estimatedTokens: 184
-keywords: [Posted, Invoice, Write-Off, Input, representation, details, request, write, off, posted, invoice., includes, invoice, such, reason, writing, invoices.]
+keywords: [Posted, Invoice, Write-Off, Input, representation, write, off, includes, reason, writing, invoices]
 ---
 
 # Posted Invoice Write-Off Input

@@ -5,10 +5,10 @@ topic: long-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.822Z
+lastCollected: 2026-03-12T09:33:30.869Z
 estimatedTokens: 570
 namespace: System
-keywords: [Long, Contains, primitive, data, type., Usage, format, Example, intValue, valueOf, stringToLong]
+keywords: [Long, primitive, data, Usage, intValue, valueOf, stringToLong]
 ---
 
 # Long Class

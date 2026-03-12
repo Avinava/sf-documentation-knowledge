@@ -5,9 +5,9 @@ topic: aiscoringmodeldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.742Z
+lastCollected: 2026-03-12T09:33:36.548Z
 estimatedTokens: 1141
-keywords: [AIScoringModelDefinition, Represents, information, machine, learning, model, that’s, used, Scoring, Framework, Industries, Cloud, Einstein., scoring, including, its, configuration., Important, Parent, File]
+keywords: [AIScoringModelDefinition, machine, learning, model, that’s, Scoring, Framework, Industries, Cloud, Einstein, including, configuration, Parent, File, Suffix]
 ---
 
 # AIScoringModelDefinition

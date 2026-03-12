@@ -5,10 +5,10 @@ topic: oaasrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.247Z
+lastCollected: 2026-03-12T09:33:53.576Z
 estimatedTokens: 1993
 namespace: FSL
-keywords: [OAASRequest, Represents, request, sent, OAAS.Optimize, method., contains, details, optimization, call., allTasksMode, filterFieldAPIName, start, finish, includeServicesWithEmptyLocation, keepApptScheduled, Beta, Usage, locations, numberOfServicesToSchedule]
+keywords: [OAASRequest, sent, OAAS.Optimize, optimization, call, allTasksMode, filterFieldAPIName, start, finish, includeServicesWithEmptyLocation, keepApptScheduled, Beta, Usage, locations, numberOfServicesToSchedule]
 ---
 
 # OAASRequest Class

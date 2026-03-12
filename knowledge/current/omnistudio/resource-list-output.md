@@ -5,9 +5,9 @@ topic: resource-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.698Z
+lastCollected: 2026-03-12T09:33:49.343Z
 estimatedTokens: 186
-keywords: [Resource, List, Output, representation, expression, set, version, record, resource, list., Note]
+keywords: [Resource, Output, representation, expression, version, record]
 ---
 
 # Resource List Output

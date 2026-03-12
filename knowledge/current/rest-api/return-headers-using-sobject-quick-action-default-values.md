@@ -5,9 +5,9 @@ topic: return-headers-using-sobject-quick-action-default-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.031Z
+lastCollected: 2026-03-12T09:33:35.878Z
 estimatedTokens: 228
-keywords: [Headers, sObject, Quick, Action, Default, Values, only, headers, returned, sending, GET, request, Actions, resource., gives, chance, header, values, before, retrieving]
+keywords: [sObject, Quick, Action, sending, Actions, resource, gives, chance, retrieving, content, REST, API, version, 28.0, later]
 ---
 
 # Return Headers Using sObject Quick Action Default Values

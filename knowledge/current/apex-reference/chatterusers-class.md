@@ -5,10 +5,10 @@ topic: chatterusers-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.431Z
+lastCollected: 2026-03-12T09:33:18.050Z
 estimatedTokens: 18105
 namespace: ConnectApi
-keywords: [ChatterUsers, Export, Chatter-related, user, activity, such, bookmarks, topic, endorsements, votes., exportUserActivities, communityId, userId, API, Version, Requires, Chatter, Usage, follow, subjectId]
+keywords: [ChatterUsers, Export, Chatter-related, user, activity, bookmarks, topic, endorsements, votes, exportUserActivities, communityId, userId, API, Version, Requires]
 ---
 
 # ChatterUsers Class

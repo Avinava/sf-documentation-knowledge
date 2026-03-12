@@ -5,9 +5,9 @@ topic: publisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.534Z
+lastCollected: 2026-03-12T09:33:45.633Z
 estimatedTokens: 1037
-keywords: [Publisher, Represents, publisher, objects, fields., example, Salesforce, standard, organization, custom, package, installed, packages., Tooling, API, version, 34.0, later., Supported, SOAP]
+keywords: [Publisher, objects, Salesforce, standard, organization, custom, package, installed, packages, Tooling, API, version, 34.0, later, SOAP]
 ---
 
 # Publisher

@@ -5,9 +5,9 @@ topic: connectapifulfillmentorderlineiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.981Z
+lastCollected: 2026-03-12T09:33:25.226Z
 estimatedTokens: 298
-keywords: [ConnectApi.FulfillmentOrderLineItemInputRepresentation, FulfillmentOrderLineItem, quantity, cancel., cancel, less, full, which, case, reallocate, canceled, different, FulfillmentOrder.]
+keywords: [FulfillmentOrderLineItem, quantity, cancel, less, full, case, reallocate, canceled, different, FulfillmentOrder]
 ---
 
 # ConnectApi.FulfillmentOrderLineItemInputRepresentation

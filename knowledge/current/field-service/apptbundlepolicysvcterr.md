@@ -5,9 +5,9 @@ topic: apptbundlepolicysvcterr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.830Z
+lastCollected: 2026-03-12T09:33:54.087Z
 estimatedTokens: 423
-keywords: [ApptBundlePolicySvcTerr, Represents, link, between, BundlePolicy, ServiceTerritory., API, version, 54.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [ApptBundlePolicySvcTerr, link, BundlePolicy, ServiceTerritory, API, version, 54.0, later, Calls, Special, Access, Rules]
 ---
 
 # ApptBundlePolicySvcTerr

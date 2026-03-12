@@ -5,9 +5,9 @@ topic: considerations-using-wsdls
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.366Z
+lastCollected: 2026-03-12T09:33:32.403Z
 estimatedTokens: 741
-keywords: [Considerations, WSDLs, aware, following, generating, Apex, classes, WSDL., SOAP, Web, Service, Callout, Mapping, Headers, Understanding, Runtime, Events, Unsupported, Characters, Variable]
+keywords: [Considerations, WSDLs, aware, generating, Apex, classes, WSDL, SOAP, Web, Service, Callout, Mapping, Understanding, Runtime, Events]
 ---
 
 # Considerations Using WSDLs

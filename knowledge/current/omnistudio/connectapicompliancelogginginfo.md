@@ -5,9 +5,9 @@ topic: connectapicompliancelogginginfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.636Z
+lastCollected: 2026-03-12T09:33:46.673Z
 estimatedTokens: 63
-keywords: [ConnectApi.ComplianceLoggingInfo, Compliance, evaluation, logging, request.]
+keywords: [ConnectApi.ComplianceLoggingInfo, Compliance, evaluation, logging]
 ---
 
 # ConnectApi.ComplianceLoggingInfo

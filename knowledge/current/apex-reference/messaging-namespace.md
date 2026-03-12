@@ -5,10 +5,10 @@ topic: messaging-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.563Z
+lastCollected: 2026-03-12T09:33:31.618Z
 estimatedTokens: 1247
 namespace: Messaging
-keywords: [Messaging, provides, classes, Salesforce, outbound, inbound, email, functionality.]
+keywords: [Messaging, classes, Salesforce, outbound, inbound, email, functionality]
 ---
 
 # Messaging Namespace

@@ -5,10 +5,10 @@ topic: getappointmentslotsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.629Z
+lastCollected: 2026-03-12T09:33:23.043Z
 estimatedTokens: 1062
 namespace: LxScheduler
-keywords: [GetAppointmentSlotsInput, Contains, information, appointment, time, slots, resource, based, given, work, group, territories., Usage]
+keywords: [GetAppointmentSlotsInput, appointment, time, slots, resource, work, group, territories, Usage]
 ---
 
 # GetAppointmentSlotsInput Class

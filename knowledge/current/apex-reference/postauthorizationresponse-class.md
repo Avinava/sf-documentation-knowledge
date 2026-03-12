@@ -5,10 +5,10 @@ topic: postauthorizationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.034Z
+lastCollected: 2026-03-12T09:33:22.428Z
 estimatedTokens: 298
 namespace: CommercePayments
-keywords: [PostAuthorizationResponse, Response, sent, payment, gateway, adapter, postauthorization, service., Usage]
+keywords: [PostAuthorizationResponse, sent, payment, gateway, adapter, postauthorization, service, Usage]
 ---
 
 # PostAuthorizationResponse Class

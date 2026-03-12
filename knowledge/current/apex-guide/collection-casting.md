@@ -5,9 +5,9 @@ topic: collection-casting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:32.511Z
+lastCollected: 2026-03-12T09:33:32.546Z
 estimatedTokens: 407
-keywords: [Collection, Casting, Because, collections, Apex, declared, runtime, allows, collection, casting., Note]
+keywords: [Collection, Casting, Because, collections, Apex, declared, runtime]
 ---
 
 # Collection Casting

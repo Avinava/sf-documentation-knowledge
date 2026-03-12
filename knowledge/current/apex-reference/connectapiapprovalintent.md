@@ -5,9 +5,9 @@ topic: connectapiapprovalintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.079Z
+lastCollected: 2026-03-12T09:33:26.254Z
 estimatedTokens: 109
-keywords: [ConnectApi.ApprovalIntent, Approval, intent, social, post.]
+keywords: [ConnectApi.ApprovalIntent, Approval, intent, social, post]
 ---
 
 # ConnectApi.ApprovalIntent

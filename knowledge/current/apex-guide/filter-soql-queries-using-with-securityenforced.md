@@ -5,9 +5,9 @@ topic: filter-soql-queries-using-with-securityenforced
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.746Z
+lastCollected: 2026-03-12T09:33:32.776Z
 estimatedTokens: 1256
-keywords: [Filter, SOQL, Queries, SECURITY_ENFORCED, clause, enable, field-, object-level, security, permissions, checking, SELECT, queries, Apex, code, including, subqueries, cross-object, relationships., SECURITY]
+keywords: [Filter, SOQL, Queries, SECURITY_ENFORCED, clause, enable, field-, object-level, security, permissions, checking, SELECT, Apex, code, including]
 ---
 
 # Filter SOQL Queries Using WITH SECURITY_ENFORCED

@@ -5,9 +5,9 @@ topic: field
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.073Z
+lastCollected: 2026-03-12T09:33:53.419Z
 estimatedTokens: 1587
-keywords: [Field, field's, metadata., Important]
+keywords: [field's, metadata]
 ---
 
 # Field

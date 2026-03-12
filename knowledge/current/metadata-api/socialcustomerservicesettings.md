@@ -5,9 +5,9 @@ topic: socialcustomerservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.929Z
+lastCollected: 2026-03-12T09:33:42.287Z
 estimatedTokens: 1108
-keywords: [SocialCustomerServiceSettings, Represents, Social, Customer, Service, settings, such, how, format, inbound, content, social, posts, cases., extends, Metadata, metadata, inherits, its, fullName]
+keywords: [SocialCustomerServiceSettings, Social, Customer, Service, settings, how, inbound, content, posts, cases, extends, Metadata, inherits, fullName, File]
 ---
 
 # SocialCustomerServiceSettings

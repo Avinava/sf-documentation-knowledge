@@ -5,9 +5,9 @@ topic: lightningconversationendusermessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.230Z
+lastCollected: 2026-03-12T09:33:55.363Z
 estimatedTokens: 280
-keywords: [lightning__conversationEndUserMessage, Messaging, event, triggered, customer, sends, new, message., Enhanced, channels, only, text, messages., messages, files, rich, content., work, session, must]
+keywords: [lightning__conversationEndUserMessage, Messaging, event, triggered, customer, new, message, Enhanced, channels, text, messages, files, rich, content, work]
 ---
 
 # lightning__conversationEndUserMessage

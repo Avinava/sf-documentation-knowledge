@@ -5,9 +5,9 @@ topic: connectapibasecomparison
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.170Z
+lastCollected: 2026-03-12T09:33:26.341Z
 estimatedTokens: 76
-keywords: [ConnectApi.BaseComparison, Represents, abstract, base, comparison, output.]
+keywords: [ConnectApi.BaseComparison, abstract, base, comparison, output]
 ---
 
 # ConnectApi.BaseComparison

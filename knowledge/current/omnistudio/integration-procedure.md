@@ -5,9 +5,9 @@ topic: integration-procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:52.785Z
+lastCollected: 2026-03-12T09:33:51.361Z
 estimatedTokens: 249
-keywords: [Integration, Procedure, procedures, read, write, data, Salesforce, external, systems, REST, API, calls, Apex, classes., called, Omniscript, source, Flexcard., Procedures, handle]
+keywords: [Integration, Procedure, procedures, write, data, Salesforce, external, systems, REST, API, calls, Apex, classes, Omniscript, source]
 ---
 
 # Integration Procedure

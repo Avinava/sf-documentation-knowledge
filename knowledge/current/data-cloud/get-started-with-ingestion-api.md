@@ -5,9 +5,9 @@ topic: get-started-with-ingestion-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:12.319Z
+lastCollected: 2026-03-12T09:33:13.276Z
 estimatedTokens: 1521
-keywords: [Get, Started, Ingestion, API, Before, Data, Cloud, complete, prerequisites, set, authentication, know, limits, apply, bulk, ingestion, streaming, ingestion., Prerequisites, Authentication]
+keywords: [Started, Ingestion, API, Data, Cloud, prerequisites, authentication, know, limits, apply, bulk, streaming, Ingest, Status, Codes]
 ---
 
 # Get Started with Ingestion API
@@ -140,34 +140,34 @@ For guidance on overall limitations view [Data Cloud Limits and Guidelines](http
 POST https://login.salesforce.com/services/oauth2/token
 Content-Type : x-www-form-urlencoded
 grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer
-&assertion=<JWT_ASSERTION_TOKEN>
+&assertion=<JWT_TOKEN>
 ```
 
-```json
+```
 {
-  "access_token": "<SALESFORCE_ACCESS_TOKEN>",
-  "scope": "cdp_ingest_api",
-  "instance_url": "https://<YOUR_INSTANCE>.salesforce.com",
-  "id": "https://<YOUR_INSTANCE>.salesforce.com/id/<ORG_ID>/<USER_ID>",
-  "token_type": "Bearer"
+"access_token": "<SALESFORCE_ACCESS_TOKEN>",
+"scope": "cdp_ingest_api",
+"instance_url": "http://orgmain2.localhost.internal.salesforce.com:6109",
+"id": "http://dcorg-ltm.internal.salesforce.com:6109/id/00Dxx0000006JFrEAM/005xx000001X9hBAAS",
+"token_type": "Bearer"
 }
 ```
 
 ```
-POST https://<DATA_CLOUD_INSTANCE>/services/a360/token
+POST https://a360.cdp.cdp001.dev1-uswest2.aws.sfdc.cl/services/a360/token
 Content-Type : x-www-form-urlencoded
 grant_type=urn:salesforce:grant-type:external:cdp
 &subject_token=<SALESFORCE_ACCESS_TOKEN>
 &subject_token_type=urn:ietf:params:oauth:token-type:access_token
 ```
 
-```json
+```
 {
-  "access_token": "<DATA_CLOUD_ACCESS_TOKEN>",
-  "instance_url": "https://<DATA_CLOUD_INSTANCE>",
-  "token_type": "Bearer",
-  "issued_token_type": "urn:ietf:params:oauth:token-type:jwt",
-  "expires_in": 7191
+"access_token": "<JWT_TOKEN>",
+"instance_url": "https://a360.cdp.cdp001.dev1-uswest2.aws.sfdc.cl",
+"token_type": "Bearer",
+"issued_token_type": "urn:ietf:params:oauth:token-type:jwt",
+"expires_in": 7191
 }
 ```
 

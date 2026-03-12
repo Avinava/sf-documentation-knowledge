@@ -5,9 +5,9 @@ topic: get-an-authentication-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.334Z
+lastCollected: 2026-03-12T09:33:34.319Z
 estimatedTokens: 236
-keywords: [Get, Authentication, URL, Call, get, authentication, URL.]
+keywords: [Authentication, URL, Call]
 ---
 
 # Get an Authentication URL

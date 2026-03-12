@@ -5,9 +5,9 @@ topic: connectapicomplianceprocedureevaluationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.730Z
+lastCollected: 2026-03-12T09:33:46.758Z
 estimatedTokens: 113
-keywords: [ConnectApi.ComplianceProcedureEvaluationResponse, Compliance, procedure, evaluation, result.]
+keywords: [Compliance, procedure, evaluation, result]
 ---
 
 # ConnectApi.ComplianceProcedureEvaluationResponse

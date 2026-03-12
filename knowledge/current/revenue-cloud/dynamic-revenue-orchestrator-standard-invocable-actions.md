@@ -5,9 +5,9 @@ topic: dynamic-revenue-orchestrator-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.719Z
+lastCollected: 2026-03-12T09:33:10.156Z
 estimatedTokens: 650
-keywords: [Dynamic, Revenue, Orchestrator, Standard, Invocable, Actions, standard, invocable, actions, submit, order, sales, transaction, DRO, fulfillment.]
+keywords: [Dynamic, Revenue, Orchestrator, Standard, Invocable, Actions, submit, order, sales, transaction, DRO, fulfillment]
 ---
 
 # Dynamic Revenue Orchestrator Standard Invocable Actions

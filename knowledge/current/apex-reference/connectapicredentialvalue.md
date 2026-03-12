@@ -5,9 +5,9 @@ topic: connectapicredentialvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.894Z
+lastCollected: 2026-03-12T09:33:26.988Z
 estimatedTokens: 126
-keywords: [ConnectApi.CredentialValue, Credential, value.]
+keywords: [ConnectApi.CredentialValue, Credential]
 ---
 
 # ConnectApi.CredentialValue

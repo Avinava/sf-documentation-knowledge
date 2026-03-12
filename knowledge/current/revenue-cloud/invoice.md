@@ -5,9 +5,9 @@ topic: invoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:10.468Z
+lastCollected: 2026-03-12T09:33:11.589Z
 estimatedTokens: 4207
-keywords: [Invoice, Represents, information, financial, document, describing, total, amount, buyer, must, pay, provided, products, services., API, version, 62.0, later., Supported, Calls]
+keywords: [Invoice, financial, document, describing, total, amount, buyer, pay, provided, products, services, API, version, 62.0, later]
 ---
 
 # Invoice

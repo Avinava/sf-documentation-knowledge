@@ -5,9 +5,9 @@ topic: connectapiocitransferreservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.154Z
+lastCollected: 2026-03-12T09:33:28.197Z
 estimatedTokens: 117
-keywords: [ConnectApi.OCITransferReservationErrorOutputRepresentation, Response, request, fulfill, inventory, reservation.]
+keywords: [fulfill, inventory, reservation]
 ---
 
 # ConnectApi.OCITransferReservationErrorOutputRepresentation

@@ -5,10 +5,10 @@ topic: userinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.493Z
+lastCollected: 2026-03-12T09:33:31.551Z
 estimatedTokens: 4193
 namespace: TypeException
-keywords: [UserInfo, preferred, theme, current, user., getCurrentUvid, getDefaultCurrency, Usage, Note, getFirstName, getLanguage, getLastName, getLocale, Example, getName, getOrganizationId, getOrganizationName, getProfileId, getSessionId, getTimeZone]
+keywords: [UserInfo, preferred, theme, current, user, getCurrentUvid, getDefaultCurrency, Usage, getFirstName, getLanguage, getLastName, getLocale, getName, getOrganizationId, getOrganizationName]
 ---
 
 # UserInfo Class

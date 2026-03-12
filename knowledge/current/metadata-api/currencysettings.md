@@ -5,9 +5,9 @@ topic: currencysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.152Z
+lastCollected: 2026-03-12T09:33:37.870Z
 estimatedTokens: 1163
-keywords: [CurrencySettings, Represents, organization’s, currency, settings, including, supporting, multiple, currencies, effective, dates., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix]
+keywords: [CurrencySettings, organization’s, currency, settings, including, supporting, multiple, currencies, effective, dates, extends, Metadata, inherits, fullName, File]
 ---
 
 # CurrencySettings

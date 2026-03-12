@@ -5,9 +5,9 @@ topic: decision-matrix-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.275Z
+lastCollected: 2026-03-12T09:33:46.328Z
 estimatedTokens: 304
-keywords: [Decision, Matrix, Actions, Invoke, decision, matrix, flow, Actions., user-defined, table, where, look, output, based, inputs, provide., Supported, REST, HTTP, Note]
+keywords: [Decision, Matrix, Actions, Invoke, flow, user-defined, look, output, inputs, provide, REST, HTTP, Outputs, Usage]
 ---
 
 # Decision Matrix Actions

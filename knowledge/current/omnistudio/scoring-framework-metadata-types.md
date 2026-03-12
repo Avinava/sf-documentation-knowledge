@@ -5,9 +5,9 @@ topic: scoring-framework-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.054Z
+lastCollected: 2026-03-12T09:33:51.594Z
 estimatedTokens: 188
-keywords: [Scoring, Framework, Metadata, Types, metadata, types, define, machine, learning, model, that’s, used, generate, scores, predictive, cases.]
+keywords: [Scoring, Framework, Metadata, define, machine, learning, model, that’s, generate, scores, predictive, cases]
 ---
 
 # Scoring Framework Metadata Types

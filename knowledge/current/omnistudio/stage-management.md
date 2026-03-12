@@ -5,9 +5,9 @@ topic: stage-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:54.426Z
+lastCollected: 2026-03-12T09:33:52.805Z
 estimatedTokens: 266
-keywords: [Stage, Management, enables, automate, manage, business, process, stages, gain, control, over, record, stage, progress., get, details, transitions, fulfillment, criteria, complex]
+keywords: [Stage, Management, automate, manage, business, process, stages, gain, control, over, record, progress, transitions, fulfillment, criteria]
 ---
 
 # Stage Management

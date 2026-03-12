@@ -5,9 +5,9 @@ topic: reading-and-writing-xml-using-streams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.250Z
+lastCollected: 2026-03-12T09:33:34.238Z
 estimatedTokens: 150
-keywords: [Reading, Writing, XML, Streams, Apex, provides, classes, reading, writing, content, streams.]
+keywords: [Reading, Writing, XML, Streams, Apex, classes, content]
 ---
 
 # Reading and Writing XML Using Streams

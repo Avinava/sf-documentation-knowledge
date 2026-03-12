@@ -5,9 +5,9 @@ topic: connectapifindrouteswithfewestsplitsusingocioutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.459Z
+lastCollected: 2026-03-12T09:33:27.521Z
 estimatedTokens: 291
-keywords: [ConnectApi.FindRoutesWithFewestSplitsUsingOCIOutputRepresentation, list, order, fulfillment, routes, inventory, availability, information.]
+keywords: [order, fulfillment, routes, inventory, availability]
 ---
 
 # ConnectApi.FindRoutesWithFewestSplitsUsingOCIOutputRepresentation

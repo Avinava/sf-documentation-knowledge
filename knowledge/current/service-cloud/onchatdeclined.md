@@ -5,9 +5,9 @@ topic: onchatdeclined
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.191Z
+lastCollected: 2026-03-12T09:33:56.263Z
 estimatedTokens: 183
-keywords: [onChatDeclined, Registers, function, call, agent, declines, chat, request., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [onChatDeclined, Registers, function, call, agent, declines, chat, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # onChatDeclined()

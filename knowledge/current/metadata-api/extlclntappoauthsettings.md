@@ -5,9 +5,9 @@ topic: extlclntappoauthsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.771Z
+lastCollected: 2026-03-12T09:33:39.362Z
 estimatedTokens: 2423
-keywords: [ExtlClntAppOauthSettings, Represents, settings, configuration, external, client, app’s, OAuth, plugin., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppOauthSettingsAttribute]
+keywords: [ExtlClntAppOauthSettings, settings, configuration, external, client, app’s, OAuth, plugin, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # ExtlClntAppOauthSettings

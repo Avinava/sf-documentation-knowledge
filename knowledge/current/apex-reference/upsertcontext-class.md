@@ -5,10 +5,10 @@ topic: upsertcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.056Z
+lastCollected: 2026-03-12T09:33:20.587Z
 estimatedTokens: 502
 namespace: DataSource
-keywords: [UpsertContext, instance, passed, upsertRows, Datasource.Connection, class., provides, context, information, upsert, request, implementor, Usage, rows, tableSelected]
+keywords: [UpsertContext, instance, passed, upsertRows, Datasource.Connection, context, upsert, implementor, Usage, rows, tableSelected]
 ---
 
 # UpsertContext Class

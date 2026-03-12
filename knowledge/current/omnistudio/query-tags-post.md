@@ -5,9 +5,9 @@ topic: query-tags-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.046Z
+lastCollected: 2026-03-12T09:33:47.948Z
 estimatedTokens: 178
-keywords: [Query, Tags, POST, Create, query, tags, within, defined, context]
+keywords: [Query, Tags, POST, defined, context]
 ---
 
 # Query Tags (POST)

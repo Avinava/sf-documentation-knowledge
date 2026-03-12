@@ -5,10 +5,10 @@ topic: httpcalloutmockutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.568Z
+lastCollected: 2026-03-12T09:33:20.206Z
 estimatedTokens: 550
 namespace: Auth
-keywords: [HttpCalloutMockUtil, Contains, send, fake, HTTP, callouts, classes, Auth, namespace., Usage, setHttpMock, mock]
+keywords: [HttpCalloutMockUtil, send, fake, HTTP, callouts, classes, Auth, Usage, setHttpMock, mock]
 ---
 
 # HttpCalloutMockUtil Class

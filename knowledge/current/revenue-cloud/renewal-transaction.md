@@ -5,9 +5,9 @@ topic: renewal-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:05.793Z
+lastCollected: 2026-03-12T09:33:07.721Z
 estimatedTokens: 3198
-keywords: [Renewal, Transaction, Understand, required, values, key, considerations, before, create, billing, schedule, renewal, transaction., Considerations]
+keywords: [Renewal, Transaction, Understand, key, considerations, billing, schedule]
 ---
 
 # Renewal Transaction

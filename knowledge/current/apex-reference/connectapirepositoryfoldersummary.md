@@ -5,9 +5,9 @@ topic: connectapirepositoryfoldersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.893Z
+lastCollected: 2026-03-12T09:33:28.940Z
 estimatedTokens: 104
-keywords: [ConnectApi.RepositoryFolderSummary, summary, repository, folder.]
+keywords: [ConnectApi.RepositoryFolderSummary, summary, repository, folder]
 ---
 
 # ConnectApi.RepositoryFolderSummary

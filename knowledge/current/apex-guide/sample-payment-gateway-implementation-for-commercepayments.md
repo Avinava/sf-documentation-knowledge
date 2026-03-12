@@ -5,9 +5,9 @@ topic: sample-payment-gateway-implementation-for-commercepayments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:32.800Z
+lastCollected: 2026-03-12T09:33:32.839Z
 estimatedTokens: 124
-keywords: [Sample, Payment, Gateway, Implementation, CommercePayments, We’ve, created, GitHub, repository, containing, code, samples, sample, Payeezy, payment, gateway, implementation, namespace., Review, need]
+keywords: [Sample, Payment, Gateway, Implementation, CommercePayments, We’ve, created, GitHub, repository, containing, code, samples, Payeezy, Review, help]
 ---
 
 # Sample Payment Gateway Implementation for CommercePayments

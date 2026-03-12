@@ -5,9 +5,9 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.967Z
+lastCollected: 2026-03-12T09:33:43.186Z
 estimatedTokens: 1928
-keywords: [WebLink, Represents, custom, button, link, defined, object., Important, Version, Fields, Java, Sample, Declarative, Metadata, Definition, Wildcard, Support, Manifest, File]
+keywords: [WebLink, custom, button, link, defined, Version, Java, Sample, Declarative, Metadata, Definition, Wildcard, Support, Manifest, File]
 ---
 
 # WebLink

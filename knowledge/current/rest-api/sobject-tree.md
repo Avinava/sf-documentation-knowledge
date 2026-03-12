@@ -5,9 +5,9 @@ topic: sobject-tree
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.445Z
+lastCollected: 2026-03-12T09:33:35.295Z
 estimatedTokens: 959
-keywords: [sObject, Tree, Creates, trees, root, records, specified, type., tree, collection, nested, parent-child, single, record., Syntax, Example]
+keywords: [sObject, Tree, Creates, trees, root, records, collection, nested, parent-child, record]
 ---
 
 # sObject Tree

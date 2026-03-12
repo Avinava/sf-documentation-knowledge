@@ -5,9 +5,9 @@ topic: omniinteractionaccessconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:52.504Z
+lastCollected: 2026-03-12T09:33:51.079Z
 estimatedTokens: 747
-keywords: [OmniInteractionAccessConfig, Represents, configuration, settings, access, Omnistudio, FlexCard, caching, data, sources., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+keywords: [OmniInteractionAccessConfig, configuration, settings, access, Omnistudio, FlexCard, caching, data, sources, Parent, File, Suffix, Directory, Location, Version, internal]
 ---
 
 # OmniInteractionAccessConfig

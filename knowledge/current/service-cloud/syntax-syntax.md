@@ -5,9 +5,9 @@ topic: syntax-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:57.603Z
+lastCollected: 2026-03-12T09:33:55.705Z
 estimatedTokens: 1117
-keywords: [Syntax, Lightning, Console, JavaScript, API, file, web, component, controller, Aura, component., LWC, Example, Components, Guidelines]
+keywords: [Lightning, Console, JavaScript, API, file, web, component, controller, Aura, LWC, Components, Guidelines]
 ---
 
 # Syntax Syntax

@@ -5,9 +5,9 @@ topic: salesforce-crm-loyalty-program-member-case-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.742Z
+lastCollected: 2026-03-12T09:33:14.523Z
 estimatedTokens: 272
-keywords: [Salesforce, CRM, Loyalty, Program, Member, Case, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., refers, association, between, loyalty]
+keywords: [Salesforce, CRM, Loyalty, Program, Member, Case, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud]
 ---
 
 # Salesforce CRM: Loyalty Program Member Case Mapping

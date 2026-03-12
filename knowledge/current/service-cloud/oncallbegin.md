@@ -5,9 +5,9 @@ topic: oncallbegin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.241Z
+lastCollected: 2026-03-12T09:33:56.302Z
 estimatedTokens: 166
-keywords: [onCallBegin, Registers, function, called, call, begins, comes, computer-telephony, integration, CTI, it’s, only, API, version, 24.0, later., Syntax, Arguments, Sample, Code–Visualforce]
+keywords: [onCallBegin, Registers, function, call, begins, comes, computer-telephony, integration, CTI, it’s, API, version, 24.0, later, Arguments]
 ---
 
 # onCallBegin()

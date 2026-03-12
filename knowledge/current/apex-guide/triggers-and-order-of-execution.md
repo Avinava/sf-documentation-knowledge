@@ -5,9 +5,9 @@ topic: triggers-and-order-of-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.213Z
+lastCollected: 2026-03-12T09:33:34.205Z
 estimatedTokens: 2134
-keywords: [Triggers, Order, Execution, save, record, insert, update, upsert, statement, Salesforce, performs, sequence, events, certain, order., Note, Additional, Considerations]
+keywords: [Triggers, Order, Execution, save, record, insert, upsert, statement, Salesforce, performs, sequence, events, certain, Additional, Considerations]
 ---
 
 # Triggers and Order of Execution

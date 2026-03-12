@@ -5,9 +5,9 @@ topic: loadparameters-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.738Z
+lastCollected: 2026-03-12T09:33:23.150Z
 estimatedTokens: 299
-keywords: [LoadParameters, Contains, retrieve, record, information, passed, load-form, handler., Example, getRecordId]
+keywords: [LoadParameters, retrieve, record, passed, load-form, handler, getRecordId]
 ---
 
 # LoadParameters Class

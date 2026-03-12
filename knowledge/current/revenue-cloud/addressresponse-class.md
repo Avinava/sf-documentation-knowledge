@@ -5,10 +5,10 @@ topic: addressresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.358Z
+lastCollected: 2026-03-12T09:33:06.451Z
 estimatedTokens: 365
 namespace: CommerceTax
-keywords: [AddressResponse, Contains, location, code, sent, external, tax, engine., Usage, setLocationCode, locationCode]
+keywords: [AddressResponse, location, code, sent, external, tax, engine, Usage, setLocationCode, locationCode]
 ---
 
 # AddressResponse Class

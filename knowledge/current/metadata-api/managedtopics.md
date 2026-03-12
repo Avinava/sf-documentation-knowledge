@@ -5,9 +5,9 @@ topic: managedtopics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.041Z
+lastCollected: 2026-03-12T09:33:40.529Z
 estimatedTokens: 792
-keywords: [ManagedTopics, Represents, navigational, featured, topics, managed, Experience, Cloud, site., Note, File, Suffix, Directory, Location, Version, Fields, ManagedTopic, Declarative, Metadata, Sample]
+keywords: [ManagedTopics, navigational, featured, topics, managed, Experience, Cloud, site, File, Suffix, Directory, Location, Version, ManagedTopic, Declarative]
 ---
 
 # ManagedTopics

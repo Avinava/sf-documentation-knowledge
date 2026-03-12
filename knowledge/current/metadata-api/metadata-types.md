@@ -5,9 +5,9 @@ topic: metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:43.342Z
+lastCollected: 2026-03-12T09:33:42.678Z
 estimatedTokens: 27787
-keywords: [Metadata, Types, API, enables, access, entities, feature, settings, customize, user, interface., Note]
+keywords: [Metadata, API, access, entities, feature, settings, customize, user]
 ---
 
 # Metadata Types

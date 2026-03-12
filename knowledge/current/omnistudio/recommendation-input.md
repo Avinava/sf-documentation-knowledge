@@ -5,9 +5,9 @@ topic: recommendation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.710Z
+lastCollected: 2026-03-12T09:33:47.652Z
 estimatedTokens: 367
-keywords: [Recommendation, Input, representation, recommendation, request, Einstein, Next, Best, Action.]
+keywords: [Recommendation, Input, representation, Einstein, Best, Action]
 ---
 
 # Recommendation Input

@@ -5,9 +5,9 @@ topic: methods-for-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.162Z
+lastCollected: 2026-03-12T09:33:56.236Z
 estimatedTokens: 869
-keywords: [Omni-Channel, comprehensive, customer, service, solution, lets, call, center, route, any, incoming, work, item—including, cases, chats, phone, calls, leads—to, most, qualified]
+keywords: [Omni-Channel, comprehensive, customer, service, solution, lets, call, center, route, any, incoming, work, item—including, cases, chats]
 ---
 
 # Methods for Omni-Channel

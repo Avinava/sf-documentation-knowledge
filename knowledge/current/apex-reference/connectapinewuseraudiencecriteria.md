@@ -5,9 +5,9 @@ topic: connectapinewuseraudiencecriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.087Z
+lastCollected: 2026-03-12T09:33:28.111Z
 estimatedTokens: 116
-keywords: [ConnectApi.NewUserAudienceCriteria, Criteria, new, members, custom, recommendation, audience.]
+keywords: [ConnectApi.NewUserAudienceCriteria, Criteria, new, members, custom, recommendation, audience]
 ---
 
 # ConnectApi.NewUserAudienceCriteria

@@ -5,9 +5,9 @@ topic: connectapitextclassificationsresultoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.143Z
+lastCollected: 2026-03-12T09:33:29.187Z
 estimatedTokens: 106
-keywords: [ConnectApi.TextClassificationsResultOutputRepresentation, Text, classifications, result.]
+keywords: [Text, classifications, result]
 ---
 
 # ConnectApi.TextClassificationsResultOutputRepresentation

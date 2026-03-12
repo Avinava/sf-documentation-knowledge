@@ -5,9 +5,9 @@ topic: relatedrecordassoccriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.301Z
+lastCollected: 2026-03-12T09:33:41.736Z
 estimatedTokens: 961
-keywords: [RelatedRecordAssocCriteria, Represents, criteria, automatically, linking, records, accounts, leads, opportunities, cases, branches, work, them., Important, Parent, File, Suffix, Directory, Location, Version]
+keywords: [RelatedRecordAssocCriteria, criteria, automatically, linking, records, accounts, leads, opportunities, cases, branches, work, Parent, File, Suffix, Directory]
 ---
 
 # RelatedRecordAssocCriteria

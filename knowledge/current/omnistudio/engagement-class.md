@@ -5,10 +5,10 @@ topic: engagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.525Z
+lastCollected: 2026-03-12T09:33:46.559Z
 estimatedTokens: 734
 namespace: DataRetrieval
-keywords: [Engagement, Stores, name, engagement, record., record, represents, interaction, messaging, session, voice, call, between, customer, agent., recordId, objectApiName]
+keywords: [Engagement, Stores, record, interaction, messaging, session, voice, call, customer, agent, recordId, objectApiName]
 ---
 
 # Engagement Class

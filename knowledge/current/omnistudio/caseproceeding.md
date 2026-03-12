@@ -5,9 +5,9 @@ topic: caseproceeding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.682Z
+lastCollected: 2026-03-12T09:33:52.155Z
 estimatedTokens: 1383
-keywords: [CaseProceeding, Represents, legal, formal, demand, enforcement, individual’s, rights, against, another, party, court, justice., API, version, 64.0, later., Special, Access, Rules]
+keywords: [CaseProceeding, legal, formal, demand, enforcement, individual’s, rights, against, another, party, court, justice, API, version, 64.0]
 ---
 
 # CaseProceeding

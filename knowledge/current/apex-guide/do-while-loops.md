@@ -5,9 +5,9 @@ topic: do-while-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.816Z
+lastCollected: 2026-03-12T09:33:34.722Z
 estimatedTokens: 171
-keywords: [Do-While, Loops, Curly, braces, always, required, around, code_block., Note]
+keywords: [Do-While, Loops, Curly, braces, always, around, code_block]
 ---
 
 # Do-While Loops

@@ -5,10 +5,10 @@ topic: creditmemolineapply-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.142Z
+lastCollected: 2026-03-12T09:33:06.253Z
 estimatedTokens: 947
 namespace: ConnectApi
-keywords: [CreditMemoLineApply, Manage, credit, memo, line, applications, class., applyCreditMemoLines, CreditMemoLineApplyInput, creditMemoLineId, API, Version, Requires, Chatter, Usage, unapplyCreditMemoLines, CreditMemoLineUnapplyInput, creditMemoLineInvoiceLineId]
+keywords: [CreditMemoLineApply, Manage, credit, memo, line, applications, applyCreditMemoLines, CreditMemoLineApplyInput, creditMemoLineId, API, Version, Requires, Chatter, Usage, unapplyCreditMemoLines]
 ---
 
 # CreditMemoLineApply Class

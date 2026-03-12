@@ -5,9 +5,9 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.091Z
+lastCollected: 2026-03-12T09:33:41.525Z
 estimatedTokens: 629
-keywords: [Prerequisites, strongly, recommend, sandbox, which, exact, replica, production, organization., Enterprise, Unlimited, Performance, Editions, come, free, developer, sandboxes., information, http, www.salesforce.com]
+keywords: [Prerequisites, strongly, recommend, sandbox, exact, replica, production, organization, Enterprise, Unlimited, Performance, Editions, come, free, developer, start, developing, Metadata, API]
 ---
 
 # Prerequisites

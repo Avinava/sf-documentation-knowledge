@@ -5,9 +5,9 @@ topic: setcustomconsolecomponentvisible
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.438Z
+lastCollected: 2026-03-12T09:33:56.486Z
 estimatedTokens: 212
-keywords: [setCustomConsoleComponentVisible, window, visibility, application-level, custom, console, component, that’s, page., API, version, 32.0, later., 31.0, earlier, called, setCustomConsoleComponentWindowVisible, Syntax, Arguments, Sample]
+keywords: [setCustomConsoleComponentVisible, window, visibility, application-level, custom, console, component, that’s, API, version, 32.0, later, 31.0, earlier, setCustomConsoleComponentWindowVisible]
 ---
 
 # setCustomConsoleComponentVisible()

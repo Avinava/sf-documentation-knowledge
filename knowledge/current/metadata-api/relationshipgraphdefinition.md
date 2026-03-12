@@ -5,9 +5,9 @@ topic: relationshipgraphdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.310Z
+lastCollected: 2026-03-12T09:33:41.744Z
 estimatedTokens: 827
-keywords: [RelationshipGraphDefinition, Represents, definition, graph, configure, organization, traverse, hierarchies, record, details, giving, glimpse, how, business, works., Important, Parent, File, Suffix, Directory]
+keywords: [RelationshipGraphDefinition, definition, graph, configure, organization, traverse, hierarchies, record, giving, glimpse, how, business, works, Parent, File]
 ---
 
 # RelationshipGraphDefinition

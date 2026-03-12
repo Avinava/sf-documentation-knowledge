@@ -5,10 +5,10 @@ topic: formularecalcfielderror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.171Z
+lastCollected: 2026-03-12T09:33:21.621Z
 estimatedTokens: 405
 namespace: System
-keywords: [FormulaRecalcFieldError, FormulaRecalcResult.getErrors, method., getFieldError, getFieldName]
+keywords: [FormulaRecalcFieldError, FormulaRecalcResult.getErrors, getFieldError, getFieldName]
 ---
 
 # FormulaRecalcFieldError Class

@@ -5,9 +5,9 @@ topic: billing-fields-on-expressionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.471Z
+lastCollected: 2026-03-12T09:33:07.458Z
 estimatedTokens: 195
-keywords: [Billing, Fields, ExpressionSet, Standard, fields, extend, Billing., represent, information, expression, set, performs, series, calculations, lookups, user-defined, variables, constants, calculate, taxes.]
+keywords: [Billing, ExpressionSet, Standard, extend, represent, expression, performs, series, calculations, lookups, user-defined, variables, constants, calculate, taxes]
 ---
 
 # Billing Fields on ExpressionSet

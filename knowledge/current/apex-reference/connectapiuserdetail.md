@@ -5,9 +5,9 @@ topic: connectapiuserdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.224Z
+lastCollected: 2026-03-12T09:33:29.271Z
 estimatedTokens: 468
-keywords: [ConnectApi.UserDetail, Details, user, org.]
+keywords: [ConnectApi.UserDetail, user, org]
 ---
 
 # ConnectApi.UserDetail

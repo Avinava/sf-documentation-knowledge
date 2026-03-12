@@ -5,9 +5,9 @@ topic: issubtab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.809Z
+lastCollected: 2026-03-12T09:33:55.902Z
 estimatedTokens: 221
-keywords: [isSubtab, Lightning, Experience, Checks, whether, tab, subtab., works, only, console, apps., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code]
+keywords: [isSubtab, Lightning, Experience, Checks, whether, tab, subtab, works, console, apps, isn’t, Web, Components, LWC, Arguments]
 ---
 
 # isSubtab() for Lightning Experience for Lightning Experience

@@ -5,9 +5,9 @@ topic: database-class-method-result-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.675Z
+lastCollected: 2026-03-12T09:33:34.595Z
 estimatedTokens: 165
-keywords: [Database, Result, Objects, results, data, operation., result, objects, contain, useful, information, operation, record, such, whether, successful, any, error, information., specific]
+keywords: [Database, Result, Objects, results, data, operation, contain, useful, record, whether, successful, any, error, specific]
 ---
 
 # Database Class Method Result Objects

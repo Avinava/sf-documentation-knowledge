@@ -5,10 +5,10 @@ topic: oaas-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.236Z
+lastCollected: 2026-03-12T09:33:53.567Z
 estimatedTokens: 6955
 namespace: FSL
-keywords: [OAAS, Contains, used, optimization, services, such, in-day, optimizations, reshuffle, operations, resource, schedule, optimizations., Usage, optimize, request, Example, serviceId, policyId, resourceDayOptimization]
+keywords: [OAAS, optimization, services, in-day, optimizations, reshuffle, operations, resource, schedule, Usage, optimize, serviceId, policyId, resourceDayOptimization, resourceId]
 ---
 
 # OAAS Class

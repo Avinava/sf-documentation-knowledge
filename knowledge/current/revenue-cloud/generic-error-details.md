@@ -5,9 +5,9 @@ topic: generic-error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.744Z
+lastCollected: 2026-03-12T09:33:09.428Z
 estimatedTokens: 110
-keywords: [Generic, Error, Details, Output, representation, error, details, encountered, during, API, request.]
+keywords: [Generic, Error, Output, representation, encountered, API]
 ---
 
 # Generic Error Details

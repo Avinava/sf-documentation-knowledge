@@ -5,9 +5,9 @@ topic: chatterextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.663Z
+lastCollected: 2026-03-12T09:33:37.421Z
 estimatedTokens: 780
-keywords: [ChatterExtension, Represents, metadata, used, describe, Rich, Publisher, App, that’s, integrated, Chatter, publisher., Important, Retrieving, Version, Fields, Wildcard, Support, Manifest, File]
+keywords: [ChatterExtension, metadata, describe, Rich, Publisher, App, that’s, integrated, Chatter, Retrieving, Version, Wildcard, Support, Manifest, File]
 ---
 
 # ChatterExtension

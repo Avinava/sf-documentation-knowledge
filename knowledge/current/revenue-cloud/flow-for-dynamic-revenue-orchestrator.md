@@ -5,9 +5,9 @@ topic: flow-for-dynamic-revenue-orchestrator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.705Z
+lastCollected: 2026-03-12T09:33:10.145Z
 estimatedTokens: 346
-keywords: [Flow, Dynamic, Revenue, Orchestrator, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute]
+keywords: [Flow, Dynamic, Revenue, Orchestrator, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
 ---
 
 # Flow for Dynamic Revenue Orchestrator

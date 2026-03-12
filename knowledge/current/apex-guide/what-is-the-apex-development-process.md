@@ -5,9 +5,9 @@ topic: what-is-the-apex-development-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.517Z
+lastCollected: 2026-03-12T09:33:33.552Z
 estimatedTokens: 607
-keywords: [Apex, Development, Process?, develop, get, Developer, Edition, account, write, test, code, then, deploy, code.]
+keywords: [Apex, Development, Process, develop, Developer, Edition, account, write, test, code, deploy]
 ---
 
 # What is the Apex Development Process?

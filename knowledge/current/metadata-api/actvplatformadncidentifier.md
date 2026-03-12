@@ -5,9 +5,9 @@ topic: actvplatformadncidentifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.630Z
+lastCollected: 2026-03-12T09:33:36.441Z
 estimatedTokens: 650
-keywords: [ActvPlatformAdncIdentifier, Represents, information, identifiers, activated, such, Email, Phone, Mobile, Advertiser, MAID, Over-the-top, OTT, ID., Important, Parent, File, Suffix, Directory, Location]
+keywords: [ActvPlatformAdncIdentifier, identifiers, activated, Email, Phone, Mobile, Advertiser, MAID, Over-the-top, OTT, Parent, File, Suffix, Directory, Location]
 ---
 
 # ActvPlatformAdncIdentifier

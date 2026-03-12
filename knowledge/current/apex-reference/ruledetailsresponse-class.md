@@ -5,10 +5,10 @@ topic: ruledetailsresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.294Z
+lastCollected: 2026-03-12T09:33:22.655Z
 estimatedTokens: 963
 namespace: CommerceTax
-keywords: [RuleDetailsResponse, Contains, details, tax, rules, used, calculation., setNonTaxableRuleId, nonTaxableRuleId, setNonTaxableType, nonTaxableType, setRateRuleId, rateRuleId, setRateSourceId, rateSourceId]
+keywords: [RuleDetailsResponse, tax, rules, calculation, setNonTaxableRuleId, nonTaxableRuleId, setNonTaxableType, nonTaxableType, setRateRuleId, rateRuleId, setRateSourceId, rateSourceId]
 ---
 
 # RuleDetailsResponse Class

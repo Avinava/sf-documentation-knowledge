@@ -5,9 +5,9 @@ topic: debitmemo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.114Z
+lastCollected: 2026-03-12T09:33:11.290Z
 estimatedTokens: 2233
-keywords: [DebitMemo, Represents, document, used, charge, additional, amount, buyer, seller., invoice, generated, debit, memo, next, run., API, version, 65.0, later., Supported]
+keywords: [DebitMemo, document, charge, additional, amount, buyer, seller, invoice, generated, debit, memo, run, API, version, 65.0]
 ---
 
 # DebitMemo

@@ -5,10 +5,10 @@ topic: connectortestutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.443Z
+lastCollected: 2026-03-12T09:33:21.878Z
 estimatedTokens: 504
 namespace: UserProvisioning
-keywords: [ConnectorTestUtil, Enables, developers, write, Apex, test, classes, connectors, used, connected, app, provisioning, solution., simulates, associated, app., Usage, Example, createConnectedApp, connectedAppName]
+keywords: [ConnectorTestUtil, developers, write, Apex, test, classes, connectors, connected, app, provisioning, solution, simulates, associated, Usage, createConnectedApp]
 ---
 
 # ConnectorTestUtil Class

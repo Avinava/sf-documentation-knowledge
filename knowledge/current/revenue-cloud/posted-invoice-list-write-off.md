@@ -5,9 +5,9 @@ topic: posted-invoice-list-write-off
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.651Z
+lastCollected: 2026-03-12T09:33:10.102Z
 estimatedTokens: 94
-keywords: [Posted, Invoice, List, Write-Off, Output, representation, list, invoices, written, off.]
+keywords: [Posted, Invoice, Write-Off, Output, representation, invoices, written, off]
 ---
 
 # Posted Invoice List Write-Off

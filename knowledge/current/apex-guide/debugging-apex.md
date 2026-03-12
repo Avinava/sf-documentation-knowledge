@@ -5,9 +5,9 @@ topic: debugging-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.112Z
+lastCollected: 2026-03-12T09:33:33.136Z
 estimatedTokens: 171
-keywords: [Debugging, Apex, provides, debugging, support., debug, code, Developer, Console, logs.]
+keywords: [Debugging, Apex, support, debug, code, Developer, Console, logs]
 ---
 
 # Debugging Apex

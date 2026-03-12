@@ -5,9 +5,9 @@ topic: recordactiondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.224Z
+lastCollected: 2026-03-12T09:33:41.666Z
 estimatedTokens: 2344
-keywords: [RecordActionDeployment, Represents, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, components., example, deployment, specifies, which, types, actions, display, default, channels]
+keywords: [RecordActionDeployment, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, components, deployment, display, channels, users, add]
 ---
 
 # RecordActionDeployment

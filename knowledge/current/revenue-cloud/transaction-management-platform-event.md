@@ -5,9 +5,9 @@ topic: transaction-management-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:09.234Z
+lastCollected: 2026-03-12T09:33:10.594Z
 estimatedTokens: 587
-keywords: [Transaction, Management, Platform, Event, QuoteSaveEvent, event, notify, subscribers, after, saving, quote, processed.]
+keywords: [Transaction, Management, Platform, Event, QuoteSaveEvent, notify, subscribers, saving, quote, processed]
 ---
 
 # Transaction Management Platform Event

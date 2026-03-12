@@ -6,9 +6,9 @@ topic: enablepopout-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.037Z
+lastCollected: 2026-03-12T09:33:56.119Z
 estimatedTokens: 275
-keywords: [enablePopout, Lightning, Experience, Toggles, pop-out, mode, utility., Enabling, utility, displays, separate, child, window., Web, Components, LWC, only., Arguments, Sample, Code]
+keywords: [enablePopout, Lightning, Experience, Toggles, pop-out, mode, utility, Enabling, displays, separate, child, window, Web, Components, LWC]
 ---
 
 # enablePopout() for Lightning Experience for Lightning

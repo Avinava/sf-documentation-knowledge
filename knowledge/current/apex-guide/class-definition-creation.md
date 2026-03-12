@@ -5,9 +5,9 @@ topic: class-definition-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.525Z
+lastCollected: 2026-03-12T09:33:32.559Z
 estimatedTokens: 1415
-keywords: [Definition, Creation, editor, create, Salesforce., Note, Apex, Editor]
+keywords: [Definition, Creation, editor, Salesforce, Apex]
 ---
 
 # Class Definition Creation

@@ -5,9 +5,9 @@ topic: deep-clone-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.670Z
+lastCollected: 2026-03-12T09:33:09.369Z
 estimatedTokens: 110
-keywords: [Deep, Clone, Error, Output, representation, error, details, related, deep, clone, request.]
+keywords: [Deep, Clone, Error, Output, representation]
 ---
 
 # Deep Clone Error

@@ -5,9 +5,9 @@ topic: seqpolicyselectioncondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.507Z
+lastCollected: 2026-03-12T09:33:12.478Z
 estimatedTokens: 729
-keywords: [SeqPolicySelectionCondition, Represents, condition, used, determine, which, sequence, policy, applied, record., API, version, 65.0, later., Important, Supported, Calls, Special, Access, Rules]
+keywords: [SeqPolicySelectionCondition, condition, determine, sequence, policy, applied, record, API, version, 65.0, later, Calls, Special, Access, Rules]
 ---
 
 # SeqPolicySelectionCondition

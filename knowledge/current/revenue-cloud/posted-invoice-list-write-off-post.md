@@ -5,9 +5,9 @@ topic: posted-invoice-list-write-off-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.290Z
+lastCollected: 2026-03-12T09:33:09.037Z
 estimatedTokens: 283
-keywords: [Posted, Invoice, List, Write-Off, POST, Create, credit, memos, total, charge, amount, invoice, write-off, close, invoice., Special, Access, Rules]
+keywords: [Posted, Invoice, Write-Off, POST, credit, memos, total, charge, amount, close, Special, Access, Rules]
 ---
 
 # Posted Invoice List Write-Off (POST)

@@ -5,9 +5,9 @@ topic: connectapitextclassificationsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.640Z
+lastCollected: 2026-03-12T09:33:25.818Z
 estimatedTokens: 111
-keywords: [ConnectApi.TextClassificationsInputRepresentation, Text, classification, information, associating, classifiers, text, classified.]
+keywords: [Text, classification, associating, classifiers, classified]
 ---
 
 # ConnectApi.TextClassificationsInputRepresentation

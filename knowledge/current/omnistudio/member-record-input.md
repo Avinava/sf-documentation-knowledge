@@ -5,9 +5,9 @@ topic: member-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.550Z
+lastCollected: 2026-03-12T09:33:47.519Z
 estimatedTokens: 308
-keywords: [Member, Record, Input, representation, member, records, party, relationship, group.]
+keywords: [Member, Record, Input, representation, records, party, relationship, group]
 ---
 
 # Member Record Input

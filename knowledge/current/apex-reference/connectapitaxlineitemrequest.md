@@ -5,9 +5,9 @@ topic: connectapitaxlineitemrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.037Z
+lastCollected: 2026-03-12T09:33:25.274Z
 estimatedTokens: 319
-keywords: [ConnectApi.TaxLineItemRequest, list, line, items, passed, tax, engine, calculation.]
+keywords: [ConnectApi.TaxLineItemRequest, line, items, passed, tax, engine, calculation]
 ---
 
 # ConnectApi.TaxLineItemRequest

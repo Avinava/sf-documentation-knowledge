@@ -5,9 +5,9 @@ topic: picklist-including-dependent-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.733Z
+lastCollected: 2026-03-12T09:33:41.189Z
 estimatedTokens: 853
-keywords: [Picklist, Including, Dependent, Deprecated., Represents, picklist, dependent, definition, custom, field, standard, such, account., Version, Declarative, Metadata, File, Suffix, Directory, Location]
+keywords: [Picklist, Including, Dependent, Deprecated, definition, custom, standard, account, Version, Declarative, Metadata, File, Suffix, Directory, Location]
 ---
 
 # Picklist (Including Dependent Picklist)

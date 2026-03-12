@@ -5,9 +5,9 @@ topic: transaction-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.129Z
+lastCollected: 2026-03-12T09:33:10.496Z
 estimatedTokens: 227
-keywords: [Transaction, Management, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Transaction, Management, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Transaction Management Metadata API Types

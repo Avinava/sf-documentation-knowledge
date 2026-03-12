@@ -5,9 +5,9 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.172Z
+lastCollected: 2026-03-12T09:33:42.510Z
 estimatedTokens: 777
-keywords: [TimeSheetTemplate, Represents, template, creating, time, sheets, Field, Service., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [TimeSheetTemplate, template, creating, time, sheets, Service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # TimeSheetTemplate

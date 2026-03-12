@@ -5,9 +5,9 @@ topic: tag-values-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.827Z
+lastCollected: 2026-03-12T09:33:47.760Z
 estimatedTokens: 96
-keywords: [Tag, Values, Input, representation, list, Names, updated, their, values.]
+keywords: [Tag, Input, representation, updated, their]
 ---
 
 # Tag Values Input

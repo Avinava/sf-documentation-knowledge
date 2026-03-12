@@ -5,9 +5,9 @@ topic: indicatorassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.826Z
+lastCollected: 2026-03-12T09:33:51.403Z
 estimatedTokens: 1144
-keywords: [IndicatorAssignment, Represents, assignment, indicator, definition, that's, used, measure, performance, outcome, related, activity., API, version, 59.0, later., Important, Supported, Calls, Special]
+keywords: [IndicatorAssignment, assignment, indicator, definition, that's, measure, performance, outcome, activity, API, version, 59.0, later, Calls, Special]
 ---
 
 # IndicatorAssignment

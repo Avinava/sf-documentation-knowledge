@@ -5,9 +5,9 @@ topic: consumption-traceabilities-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.674Z
+lastCollected: 2026-03-12T09:33:08.489Z
 estimatedTokens: 240
-keywords: [Consumption, Traceabilities, POST, Get, comprehensive, breakdown, overage, charges, resource, drawdown, enabling, view, information, that's, applicable, specific, invoice, lines.]
+keywords: [Consumption, Traceabilities, POST, comprehensive, breakdown, overage, charges, resource, drawdown, enabling, view, that's, applicable, specific, invoice]
 ---
 
 # Consumption Traceabilities (POST)

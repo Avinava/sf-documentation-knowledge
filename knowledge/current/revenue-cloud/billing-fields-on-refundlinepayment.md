@@ -5,9 +5,9 @@ topic: billing-fields-on-refundlinepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.511Z
+lastCollected: 2026-03-12T09:33:07.479Z
 estimatedTokens: 243
-keywords: [Billing, Fields, RefundLinePayment, Standard, fields, extend, Refund, Line, Payment, represent, information, accounting, periods, legal, entities., API, version, 64.0, later., Special]
+keywords: [Billing, RefundLinePayment, Standard, extend, Refund, Line, Payment, represent, accounting, periods, legal, entities, API, version, 64.0]
 ---
 
 # Billing Fields on RefundLinePayment

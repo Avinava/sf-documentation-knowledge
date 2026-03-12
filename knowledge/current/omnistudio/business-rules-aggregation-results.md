@@ -5,9 +5,9 @@ topic: business-rules-aggregation-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.630Z
+lastCollected: 2026-03-12T09:33:48.441Z
 estimatedTokens: 99
-keywords: [Business, Rules, Aggregation, Results, Output, representation, expression, set, results.]
+keywords: [Business, Rules, Aggregation, Results, Output, representation, expression]
 ---
 
 # Business Rules Aggregation Results

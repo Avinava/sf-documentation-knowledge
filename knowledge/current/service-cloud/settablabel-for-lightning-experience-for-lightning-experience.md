@@ -5,9 +5,9 @@ topic: settablabel-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.969Z
+lastCollected: 2026-03-12T09:33:56.054Z
 estimatedTokens: 429
-keywords: [setTabLabel, Lightning, Experience, label, specified, tab., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Response]
+keywords: [setTabLabel, Lightning, Experience, label, tab, works, console, apps, Arguments, LWC, Sample, Code, Aura, Components]
 ---
 
 # setTabLabel() for Lightning Experience for Lightning Experience

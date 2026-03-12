@@ -5,9 +5,9 @@ topic: fldsvcobjchg
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.126Z
+lastCollected: 2026-03-12T09:33:54.361Z
 estimatedTokens: 991
-keywords: [FldSvcObjChg, Represents, change, made, service, appointment’s, tracked, fields., API, version, 63.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [FldSvcObjChg, change, made, service, appointment’s, tracked, API, version, 63.0, later, Calls, Special, Access, Rules]
 ---
 
 # FldSvcObjChg

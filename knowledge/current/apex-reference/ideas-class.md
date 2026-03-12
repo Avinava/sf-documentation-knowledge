@@ -5,10 +5,10 @@ topic: ideas-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.575Z
+lastCollected: 2026-03-12T09:33:23.947Z
 estimatedTokens: 2054
 namespace: System
-keywords: [Ideas, Represents, zone, ideas., Usage, Example, findSimilar, idea, getAllRecentReplies, userID, communityID, getReadRecentReplies, getUnreadRecentReplies, markRead, ideaID]
+keywords: [Ideas, zone, Usage, findSimilar, idea, getAllRecentReplies, userID, communityID, getReadRecentReplies, getUnreadRecentReplies, markRead, ideaID]
 ---
 
 # Ideas Class

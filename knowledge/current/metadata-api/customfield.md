@@ -5,9 +5,9 @@ topic: customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.319Z
+lastCollected: 2026-03-12T09:33:36.142Z
 estimatedTokens: 7294
-keywords: [CustomField, Represents, metadata, associated, field., create, update, delete, custom, field, definitions, standard, external, objects, objects., Important, Note, Declarative, Metadata, File]
+keywords: [CustomField, metadata, associated, custom, definitions, standard, external, objects, Declarative, File, Suffix, Directory, Location, Retrieving, Deploying]
 ---
 
 # CustomField

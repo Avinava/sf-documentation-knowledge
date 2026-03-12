@@ -5,9 +5,9 @@ topic: invoice-ingestion-output-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.844Z
+lastCollected: 2026-03-12T09:33:09.479Z
 estimatedTokens: 142
-keywords: [Invoice, Ingestion, Output, Error, representation, details, invoice, generation, error.]
+keywords: [Invoice, Ingestion, Output, Error, representation, generation]
 ---
 
 # Invoice Ingestion Output Error

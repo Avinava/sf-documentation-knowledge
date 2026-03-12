@@ -5,9 +5,9 @@ topic: decision-matrix-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.967Z
+lastCollected: 2026-03-12T09:33:48.708Z
 estimatedTokens: 144
-keywords: [Decision, Matrix, Result, List, Output, representation, decision, matrix, result, list.]
+keywords: [Decision, Matrix, Result, Output, representation]
 ---
 
 # Decision Matrix Result List

@@ -5,9 +5,9 @@ topic: connectapimotif
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.997Z
+lastCollected: 2026-03-12T09:33:28.014Z
 estimatedTokens: 399
-keywords: [ConnectApi.Motif, motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, type., Common, types, files, users, groups, set, icons., Custom]
+keywords: [ConnectApi.Motif, motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, Common, files, users, groups]
 ---
 
 # ConnectApi.Motif

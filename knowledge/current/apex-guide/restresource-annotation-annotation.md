@@ -5,9 +5,9 @@ topic: restresource-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.495Z
+lastCollected: 2026-03-12T09:33:32.530Z
 estimatedTokens: 375
-keywords: [RestResource, Annotation, @RestResource, annotation, used, level, enables, expose, Apex, REST, resource., URL, Guidelines]
+keywords: [RestResource, Annotation, @RestResource, level, expose, Apex, REST, resource, URL, Guidelines]
 ---
 
 # RestResource Annotation Annotation

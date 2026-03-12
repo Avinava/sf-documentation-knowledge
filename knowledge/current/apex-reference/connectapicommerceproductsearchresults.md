@@ -5,9 +5,9 @@ topic: connectapicommerceproductsearchresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.681Z
+lastCollected: 2026-03-12T09:33:26.812Z
 estimatedTokens: 140
-keywords: [ConnectApi.CommerceProductSearchResults, Product, search, results, information.]
+keywords: [ConnectApi.CommerceProductSearchResults, Product, search, results]
 ---
 
 # ConnectApi.CommerceProductSearchResults

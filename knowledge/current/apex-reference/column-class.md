@@ -5,10 +5,10 @@ topic: column-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.897Z
+lastCollected: 2026-03-12T09:33:20.455Z
 estimatedTokens: 12189
 namespace: DataSource
-keywords: [Column, Describes, column, DataSource.Table., extends, DataSourceUtil, inherits, its, methods., Usage, decimalPlaces, description, filterable, isPicklistAlphabeticallySorted, isPicklistRestricted, label, length, name, picklistValues, referenceTargetField]
+keywords: [Column, DataSource.Table, extends, DataSourceUtil, inherits, Usage, decimalPlaces, filterable, isPicklistAlphabeticallySorted, isPicklistRestricted, label, length, picklistValues, referenceTargetField, referenceTo]
 ---
 
 # Column Class

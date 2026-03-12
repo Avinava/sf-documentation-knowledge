@@ -7,9 +7,9 @@ topic: record-update-with-received-documents-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.517Z
+lastCollected: 2026-03-12T09:33:48.343Z
 estimatedTokens: 559
-keywords: [Record, Update, Received, Documents, PATCH, existing, record, Salesforce, document, based, received, record.]
+keywords: [Record, Received, Documents, PATCH, Salesforce, document]
 ---
 
 # Record Update with Received

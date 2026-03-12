@@ -5,10 +5,10 @@ topic: managedtopics-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.427Z
+lastCollected: 2026-03-12T09:33:19.079Z
 estimatedTokens: 7511
 namespace: ConnectApi
-keywords: [ManagedTopics, Create, managed, topic, specific, Experience, Cloud, site., createManagedTopic, communityId, recordId, managedTopicType, API, Version, Requires, Chatter, Usage, parentId, createManagedTopicByName, name]
+keywords: [ManagedTopics, managed, topic, specific, Experience, Cloud, site, createManagedTopic, communityId, recordId, managedTopicType, API, Version, Requires, Chatter]
 ---
 
 # ManagedTopics Class

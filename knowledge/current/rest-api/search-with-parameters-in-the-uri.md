@@ -5,9 +5,9 @@ topic: search-with-parameters-in-the-uri
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.898Z
+lastCollected: 2026-03-12T09:33:35.740Z
 estimatedTokens: 2140
-keywords: [Search, URI, Get, search, results, simple, instead, SOSL., basic, queries, without, defining, large, SOSL, query., API, case, cover, replacing, FIND]
+keywords: [Search, URI, results, simple, instead, SOSL, basic, queries, defining, large, query, API, case, cover, replacing]
 ---
 
 # Search with Parameters in the URI

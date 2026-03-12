@@ -5,9 +5,9 @@ topic: opportunityscoresettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.539Z
+lastCollected: 2026-03-12T09:33:41.008Z
 estimatedTokens: 668
-keywords: [OpportunityScoreSettings, Represents, org’s, Einstein, Opportunity, Scoring, settings, such, whether, enabled., helps, determine, likelihood, opportunity, being, won., extends, Metadata, metadata, inherits]
+keywords: [OpportunityScoreSettings, org’s, Einstein, Opportunity, Scoring, settings, whether, enabled, helps, determine, likelihood, won, extends, Metadata, inherits]
 ---
 
 # OpportunityScoreSettings

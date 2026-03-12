@@ -5,9 +5,9 @@ topic: connectapibasemanagedsocialaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.920Z
+lastCollected: 2026-03-12T09:33:27.947Z
 estimatedTokens: 373
-keywords: [ConnectApi.BaseManagedSocialAccount, Base, information, describing, managed, social, account, fan, page, network.]
+keywords: [ConnectApi.BaseManagedSocialAccount, Base, describing, managed, social, account, fan, network]
 ---
 
 # ConnectApi.BaseManagedSocialAccount

@@ -5,9 +5,9 @@ topic: ai-accelerator-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.389Z
+lastCollected: 2026-03-12T09:33:46.431Z
 estimatedTokens: 186
-keywords: [Accelerator, Metadata, Types, metadata, types, set, machine, learning, case., Define, models, feature, extractors, objects, fields, saving, prediction, results]
+keywords: [Accelerator, Metadata, machine, learning, case, Define, models, feature, extractors, objects, saving, prediction, results]
 ---
 
 # AI Accelerator Metadata Types

@@ -5,9 +5,9 @@ topic: sharingbaserule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.826Z
+lastCollected: 2026-03-12T09:33:42.198Z
 estimatedTokens: 802
-keywords: [SharingBaseRule, Represents, sharing, rule, settings, such, access, level, whom, granted., Note, Version, Fields, AccountSharingRuleSettings, Wildcard, Support, Manifest, File]
+keywords: [SharingBaseRule, sharing, rule, settings, access, level, whom, granted, Version, AccountSharingRuleSettings, Wildcard, Support, Manifest, File]
 ---
 
 # SharingBaseRule

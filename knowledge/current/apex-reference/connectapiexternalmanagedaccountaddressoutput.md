@@ -5,9 +5,9 @@ topic: connectapiexternalmanagedaccountaddressoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.285Z
+lastCollected: 2026-03-12T09:33:27.372Z
 estimatedTokens: 256
-keywords: [ConnectApi.ExternalManagedAccountAddressOutput, Default, shipping, address, externally, managed, account.]
+keywords: [shipping, address, externally, managed, account]
 ---
 
 # ConnectApi.ExternalManagedAccountAddressOutput

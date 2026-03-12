@@ -5,10 +5,10 @@ topic: implementing-dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.144Z
+lastCollected: 2026-03-12T09:33:32.188Z
 estimatedTokens: 772
 namespace: Script
-keywords: [Implementing, DataWeave, Apex, Create, scripts, metadata, invoke, directly, Apex., exceptions, load, execute, scripts., Supporting, Information, Versioned, Behavior, Changes]
+keywords: [Implementing, DataWeave, Apex, scripts, metadata, invoke, directly, exceptions, load, execute, Supporting, Versioned, Behavior, Changes]
 ---
 
 # Implementing DataWeave in Apex

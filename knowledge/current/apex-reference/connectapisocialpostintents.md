@@ -5,9 +5,9 @@ topic: connectapisocialpostintents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.029Z
+lastCollected: 2026-03-12T09:33:29.068Z
 estimatedTokens: 174
-keywords: [ConnectApi.SocialPostIntents, Intents, social, post.]
+keywords: [ConnectApi.SocialPostIntents, Intents, social, post]
 ---
 
 # ConnectApi.SocialPostIntents

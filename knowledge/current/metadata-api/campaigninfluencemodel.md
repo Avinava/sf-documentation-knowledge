@@ -5,9 +5,9 @@ topic: campaigninfluencemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.521Z
+lastCollected: 2026-03-12T09:33:37.289Z
 estimatedTokens: 921
-keywords: [CampaignInfluenceModel, Represents, campaign, influence, model, used, Customizable, Campaign, Influence., can’t, configure, Influence, via, Metadata, API, add, model., Note, File, Suffix]
+keywords: [CampaignInfluenceModel, campaign, influence, model, Customizable, can’t, configure, via, Metadata, API, add, File, Suffix, Directory, Location]
 ---
 
 # CampaignInfluenceModel

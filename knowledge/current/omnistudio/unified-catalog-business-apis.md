@@ -5,9 +5,9 @@ topic: unified-catalog-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.086Z
+lastCollected: 2026-03-12T09:33:53.431Z
 estimatedTokens: 358
-keywords: [Unified, Catalog, Business, APIs, provide, standardized, REST, accessing, catalog, data, related, business, rules, used, service, automation, workflows., enable, client, applications]
+keywords: [Unified, Catalog, Business, APIs, provide, standardized, REST, accessing, data, rules, service, automation, workflows, enable, client]
 ---
 
 # Unified Catalog Business APIs

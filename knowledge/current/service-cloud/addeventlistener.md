@@ -5,9 +5,9 @@ topic: addeventlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.089Z
+lastCollected: 2026-03-12T09:33:55.231Z
 estimatedTokens: 544
-keywords: [addEventListener, Adds, listener, custom, event, standard, fired., adds, types, API, version, 25.0, later, 30.0, later., Syntax, Arguments, Sample, Code, Version]
+keywords: [addEventListener, Adds, listener, custom, event, standard, fired, API, version, 25.0, later, 30.0, Arguments, Sample, Code]
 ---
 
 # addEventListener()

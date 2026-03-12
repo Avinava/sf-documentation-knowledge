@@ -5,9 +5,9 @@ topic: rules-application-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.420Z
+lastCollected: 2026-03-12T09:33:09.915Z
 estimatedTokens: 291
-keywords: [Rules, Application, Summary, Output, representation, summary, application, rule., includes, number, payments, credit, memos, account, total, that's, applied, invoices, whether, considered]
+keywords: [Rules, Application, Summary, Output, representation, rule, includes, number, payments, credit, memos, account, total, that's, applied]
 ---
 
 # Rules Application Summary

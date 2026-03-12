@@ -5,10 +5,10 @@ topic: experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.383Z
+lastCollected: 2026-03-12T09:33:33.433Z
 estimatedTokens: 253
 namespace: Network
-keywords: [Experience, Cloud, Sites, sites, branded, spaces, employees, customers, partners, connect., customize, create, meet, business, needs, then, transition, seamlessly, between, them.]
+keywords: [Experience, Cloud, Sites, branded, spaces, employees, customers, partners, connect, customize, meet, business, needs, transition, seamlessly]
 ---
 
 # Experience Cloud Sites

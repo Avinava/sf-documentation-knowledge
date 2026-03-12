@@ -5,9 +5,9 @@ topic: get-apiv1profilemetadatadatamodelname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.449Z
+lastCollected: 2026-03-12T09:33:13.392Z
 estimatedTokens: 237
-keywords: [GET, api, profile, metadata, dataModelName, data, model, object., Metadata, includes, list, fields, types, indexes, lookup., Syntax, Request, Examples, HTTP, Responses]
+keywords: [api, profile, metadata, dataModelName, data, model, includes, indexes, lookup, Examples, HTTP, Responses]
 ---
 
 # GET /api/v1/profile/metadata/{dataModelName}

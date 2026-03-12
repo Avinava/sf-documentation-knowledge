@@ -5,9 +5,9 @@ topic: connectapiasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.093Z
+lastCollected: 2026-03-12T09:33:26.267Z
 estimatedTokens: 309
-keywords: [ConnectApi.AsyncOutputRepresentation, Output, representation, async, operation.]
+keywords: [ConnectApi.AsyncOutputRepresentation, Output, representation, async, operation]
 ---
 
 # ConnectApi.AsyncOutputRepresentation

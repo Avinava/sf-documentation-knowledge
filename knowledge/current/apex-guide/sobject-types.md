@@ -5,9 +5,9 @@ topic: sobject-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:34.570Z
+lastCollected: 2026-03-12T09:33:34.499Z
 estimatedTokens: 510
-keywords: [sObject, Types, variable, represents, row, data, only, declared, Apex, SOAP, API, name, object., Note, Custom, Labels]
+keywords: [sObject, variable, row, data, declared, Apex, SOAP, API, Custom, Labels]
 ---
 
 # sObject Types

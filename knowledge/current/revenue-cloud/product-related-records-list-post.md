@@ -5,9 +5,9 @@ topic: product-related-records-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.159Z
+lastCollected: 2026-03-12T09:33:08.921Z
 estimatedTokens: 367
-keywords: [Product, Related, Records, List, POST, Retrieve, related, ProductRampSegment, ProductUsageGrant, records, Product2, object., Note]
+keywords: [Product, Records, POST, Retrieve, ProductRampSegment, ProductUsageGrant, Product2]
 ---
 
 # Product Related Records List (POST)

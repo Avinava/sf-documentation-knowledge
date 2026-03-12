@@ -5,9 +5,9 @@ topic: issuccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.199Z
+lastCollected: 2026-03-12T09:33:26.367Z
 estimatedTokens: 88
-keywords: [isSuccess, set, true, batch, operation, successful, false, otherwise.]
+keywords: [isSuccess, batch, operation, successful, otherwise]
 ---
 
 # isSuccess()

@@ -5,9 +5,9 @@ topic: addtobrowsertitlequeue-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.634Z
+lastCollected: 2026-03-12T09:33:55.735Z
 estimatedTokens: 272
-keywords: [addToBrowserTitleQueue, Lightning, Experience, Adds, list, titles, rotate, browser, title, bar, every, three, seconds.This, works, only, console, apps., isn’t, supported, Web]
+keywords: [addToBrowserTitleQueue, Lightning, Experience, Adds, titles, rotate, browser, title, bar, every, three, seconds.This, works, console, apps]
 ---
 
 # addToBrowserTitleQueue() for Lightning Experience for Lightning Experience

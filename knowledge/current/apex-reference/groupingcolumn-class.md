@@ -5,10 +5,10 @@ topic: groupingcolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.043Z
+lastCollected: 2026-03-12T09:33:23.440Z
 estimatedTokens: 746
 namespace: Reports
-keywords: [GroupingColumn, Contains, describing, fields, used, column, grouping., getName, Syntax, getLabel, getDataType, getGroupingLevel, Usage]
+keywords: [GroupingColumn, describing, column, grouping, getName, getLabel, getDataType, getGroupingLevel, Usage]
 ---
 
 # GroupingColumn Class

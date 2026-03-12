@@ -5,9 +5,9 @@ topic: generate-on-demand-invoice-document-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.841Z
+lastCollected: 2026-03-12T09:33:08.642Z
 estimatedTokens: 407
-keywords: [Generate, On-Demand, Invoice, Document, POST, invoice, document, record, update, any, junction, record.]
+keywords: [Generate, On-Demand, Invoice, Document, POST, record, any, junction]
 ---
 
 # Generate On-Demand Invoice Document (POST)

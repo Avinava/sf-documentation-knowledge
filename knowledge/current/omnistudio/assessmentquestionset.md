@@ -5,9 +5,9 @@ topic: assessmentquestionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.967Z
+lastCollected: 2026-03-12T09:33:50.591Z
 estimatedTokens: 727
-keywords: [AssessmentQuestionSet, Represents, container, Assessment, Questions., Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+keywords: [AssessmentQuestionSet, container, Assessment, Questions, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Wildcard, Container, assessment, questions, API, version]
 ---
 
 # AssessmentQuestionSet

@@ -5,9 +5,9 @@ topic: decision-table-document-decision-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:50.007Z
+lastCollected: 2026-03-12T09:33:48.741Z
 estimatedTokens: 359
-keywords: [Decision, Table, Document, Output, output., Important]
+keywords: [Decision, Document, Output]
 ---
 
 # Decision Table Document Decision Output

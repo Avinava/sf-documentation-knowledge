@@ -5,10 +5,10 @@ topic: schedulablecontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.165Z
+lastCollected: 2026-03-12T09:33:30.214Z
 estimatedTokens: 295
 namespace: System
-keywords: [SchedulableContext, Represents, implements, Schedulable, contains, scheduled, job, ID., implemented, internally, Apex., getTriggerId]
+keywords: [SchedulableContext, implements, Schedulable, scheduled, job, implemented, internally, Apex, getTriggerId]
 ---
 
 # SchedulableContext Interface

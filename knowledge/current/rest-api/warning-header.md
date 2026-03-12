@@ -5,9 +5,9 @@ topic: warning-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.159Z
+lastCollected: 2026-03-12T09:33:35.036Z
 estimatedTokens: 78
-keywords: [Warning, Header, header, returned, there, warnings, such, deprecated, version, API., Field, Name, Values, Example]
+keywords: [there, warnings, deprecated, version, API]
 ---
 
 # Warning Header

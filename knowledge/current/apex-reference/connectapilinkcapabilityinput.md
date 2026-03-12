@@ -5,9 +5,9 @@ topic: connectapilinkcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.049Z
+lastCollected: 2026-03-12T09:33:25.284Z
 estimatedTokens: 200
-keywords: [ConnectApi.LinkCapabilityInput, Create, update, link, feed, element.]
+keywords: [ConnectApi.LinkCapabilityInput, link, feed, element]
 ---
 
 # ConnectApi.LinkCapabilityInput

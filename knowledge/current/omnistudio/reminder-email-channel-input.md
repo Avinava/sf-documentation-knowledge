@@ -5,9 +5,9 @@ topic: reminder-email-channel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.755Z
+lastCollected: 2026-03-12T09:33:47.693Z
 estimatedTokens: 249
-keywords: [Reminder, Email, Channel, Input, representation, email, channel, that’s, used, send, reminder.]
+keywords: [Reminder, Email, Channel, Input, representation, that’s, send]
 ---
 
 # Reminder Email Channel Input

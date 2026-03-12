@@ -5,9 +5,9 @@ topic: product-configurator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:09.034Z
+lastCollected: 2026-03-12T09:33:10.421Z
 estimatedTokens: 876
-keywords: [Product, Configurator, Business, APIs, customize, product, service, according, business-specific, requirements.]
+keywords: [Product, Configurator, Business, APIs, customize, service, according, business-specific, requirements]
 ---
 
 # Product Configurator Business APIs

@@ -5,9 +5,9 @@ topic: context-data-record-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.747Z
+lastCollected: 2026-03-12T09:33:48.541Z
 estimatedTokens: 112
-keywords: [Context, Data, Record, Status, Output, representation, context, data, record, status.]
+keywords: [Context, Data, Record, Status, Output, representation]
 ---
 
 # Context Data Record Status

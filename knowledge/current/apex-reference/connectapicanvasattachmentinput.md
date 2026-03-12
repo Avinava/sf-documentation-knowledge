@@ -5,9 +5,9 @@ topic: connectapicanvasattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.440Z
+lastCollected: 2026-03-12T09:33:24.717Z
 estimatedTokens: 373
-keywords: [ConnectApi.CanvasAttachmentInput, Used, attach, canvas, app, feed, item., Important]
+keywords: [ConnectApi.CanvasAttachmentInput, attach, canvas, app, feed, item]
 ---
 
 # ConnectApi.CanvasAttachmentInput

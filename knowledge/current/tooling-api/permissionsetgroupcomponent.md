@@ -5,9 +5,9 @@ topic: permissionsetgroupcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.414Z
+lastCollected: 2026-03-12T09:33:45.525Z
 estimatedTokens: 326
-keywords: [PermissionSetGroupComponent, junction, relates, PermissionSetGroup, PermissionSet, objects, via, their, respective, IDs, enables, permission, set, group, recalculation, determine, aggregated, permissions, group., Tooling]
+keywords: [PermissionSetGroupComponent, junction, relates, PermissionSetGroup, PermissionSet, objects, via, their, respective, IDs, permission, group, recalculation, determine, aggregated]
 ---
 
 # PermissionSetGroupComponent

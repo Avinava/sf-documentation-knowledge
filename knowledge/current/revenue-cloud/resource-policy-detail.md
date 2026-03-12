@@ -5,9 +5,9 @@ topic: resource-policy-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.388Z
+lastCollected: 2026-03-12T09:33:09.895Z
 estimatedTokens: 173
-keywords: [Resource, Policy, Detail, Output, representation, details, usage, resource, policy.]
+keywords: [Resource, Policy, Detail, Output, representation, usage]
 ---
 
 # Resource Policy Detail

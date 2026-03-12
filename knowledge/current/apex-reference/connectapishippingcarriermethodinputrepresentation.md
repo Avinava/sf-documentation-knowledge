@@ -5,9 +5,9 @@ topic: connectapishippingcarriermethodinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.570Z
+lastCollected: 2026-03-12T09:33:25.753Z
 estimatedTokens: 89
-keywords: [ConnectApi.ShippingCarrierMethodInputRepresentation, Shipping, carrier, external, references.]
+keywords: [Shipping, carrier, external, references]
 ---
 
 # ConnectApi.ShippingCarrierMethodInputRepresentation

@@ -5,9 +5,9 @@ topic: einsteinaisettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.109Z
+lastCollected: 2026-03-12T09:33:38.764Z
 estimatedTokens: 815
-keywords: [EinsteinAISettings, Represents, Einstein, settings, including, feedback, integration, Data, 360, PII, masking, trust, features., Parent, Manifest, Access, File, Suffix, Directory, Location]
+keywords: [EinsteinAISettings, Einstein, settings, including, feedback, integration, Data, PII, masking, trust, features, Parent, Manifest, Access, File]
 ---
 
 # EinsteinAISettings

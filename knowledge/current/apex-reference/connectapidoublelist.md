@@ -5,9 +5,9 @@ topic: connectapidoublelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.800Z
+lastCollected: 2026-03-12T09:33:25.054Z
 estimatedTokens: 96
-keywords: [ConnectApi.DoubleList, List, double, values.]
+keywords: [ConnectApi.DoubleList, double]
 ---
 
 # ConnectApi.DoubleList

@@ -5,9 +5,9 @@ topic: connectapiegresspropertiesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.807Z
+lastCollected: 2026-03-12T09:33:25.062Z
 estimatedTokens: 458
-keywords: [ConnectApi.EgressPropertiesInput, Represents, input, details, egress, activation, target.]
+keywords: [ConnectApi.EgressPropertiesInput, input, egress, activation, target]
 ---
 
 # ConnectApi.EgressPropertiesInput

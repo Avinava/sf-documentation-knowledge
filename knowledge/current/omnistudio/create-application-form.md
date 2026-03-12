@@ -5,9 +5,9 @@ topic: create-application-form
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.911Z
+lastCollected: 2026-03-12T09:33:48.658Z
 estimatedTokens: 79
-keywords: [Create, Application, Form, Output, representation, result, created, application, form, record.]
+keywords: [Application, Form, Output, representation, result, created, record]
 ---
 
 # Create Application Form

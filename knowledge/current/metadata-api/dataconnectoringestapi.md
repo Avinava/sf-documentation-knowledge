@@ -5,9 +5,9 @@ topic: dataconnectoringestapi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.456Z
+lastCollected: 2026-03-12T09:33:38.158Z
 estimatedTokens: 509
-keywords: [DataConnectorIngestApi, Represents, connection, information, specific, Ingestion, API., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata]
+keywords: [DataConnectorIngestApi, connection, specific, Ingestion, API, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
 ---
 
 # DataConnectorIngestApi

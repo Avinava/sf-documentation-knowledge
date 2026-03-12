@@ -5,9 +5,9 @@ topic: examples-of-dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:32.140Z
+lastCollected: 2026-03-12T09:33:32.185Z
 estimatedTokens: 479
-keywords: [Examples, DataWeave, Apex, Here, code, samples, demonstrate, Apex., Note]
+keywords: [Examples, DataWeave, Apex, code, samples, demonstrate]
 ---
 
 # Examples of DataWeave in Apex

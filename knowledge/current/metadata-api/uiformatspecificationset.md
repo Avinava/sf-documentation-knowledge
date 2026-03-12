@@ -5,9 +5,9 @@ topic: uiformatspecificationset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.355Z
+lastCollected: 2026-03-12T09:33:42.691Z
 estimatedTokens: 1243
-keywords: [UiFormatSpecificationSet, Represents, set, rules, define, style, visibility, conditional, field, formatting, Dynamic, Forms-enabled, Lightning, page, instances., Important, Parent, Note, File, Suffix]
+keywords: [UiFormatSpecificationSet, rules, define, style, visibility, conditional, formatting, Dynamic, Forms-enabled, Lightning, instances, Parent, File, Suffix, Directory]
 ---
 
 # UiFormatSpecificationSet

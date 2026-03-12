@@ -5,9 +5,9 @@ topic: connectapireturnorderiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.506Z
+lastCollected: 2026-03-12T09:33:25.692Z
 estimatedTokens: 679
-keywords: [ConnectApi.ReturnOrderItemInputRepresentation, ReturnOrderLineItem, instructions, updating, it., After, update, read-only., Any, remaining, quantity, returned, added, new, ReturnOrderLineItem.]
+keywords: [ReturnOrderLineItem, instructions, updating, read-only, Any, remaining, quantity, added, new]
 ---
 
 # ConnectApi.ReturnOrderItemInputRepresentation

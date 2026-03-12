@@ -5,9 +5,9 @@ topic: svccatalogitemdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.085Z
+lastCollected: 2026-03-12T09:33:42.429Z
 estimatedTokens: 2063
-keywords: [SvcCatalogItemDef, Represents, entity, associated, specific, individual, service, Service, Catalog., File, Suffix, Directory, Location, Version, Fields, SvcCatalogItemDefFiltrCrit, SvcCatalogCategoryItem, SvcCatalogItemDefDataCategorySelection, SvcCatalogItemAttribute, SvcCatalogItemAttrDetail]
+keywords: [SvcCatalogItemDef, entity, associated, specific, individual, service, Catalog, File, Suffix, Directory, Location, Version, SvcCatalogItemDefFiltrCrit, SvcCatalogCategoryItem, SvcCatalogItemDefDataCategorySelection]
 ---
 
 # SvcCatalogItemDef

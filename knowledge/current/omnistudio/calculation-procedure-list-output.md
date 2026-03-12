@@ -5,9 +5,9 @@ topic: calculation-procedure-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.646Z
+lastCollected: 2026-03-12T09:33:48.456Z
 estimatedTokens: 245
-keywords: [Calculation, Procedure, List, Output, representation, expression, set, result, list., Note]
+keywords: [Calculation, Procedure, Output, representation, expression, result]
 ---
 
 # Calculation Procedure List Output

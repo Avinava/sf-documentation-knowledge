@@ -5,9 +5,9 @@ topic: mutingpermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.281Z
+lastCollected: 2026-03-12T09:33:40.755Z
 estimatedTokens: 955
-keywords: [MutingPermissionSet, Represents, set, disabled, permissions, used, conjunction, PermissionSetGroup., Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Sample]
+keywords: [MutingPermissionSet, disabled, permissions, conjunction, PermissionSetGroup, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # MutingPermissionSet

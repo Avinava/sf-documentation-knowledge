@@ -5,9 +5,9 @@ topic: connectapicontentimagefiledetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.593Z
+lastCollected: 2026-03-12T09:33:27.648Z
 estimatedTokens: 140
-keywords: [ConnectApi.ContentImageFileDetails, Image, file, details.]
+keywords: [ConnectApi.ContentImageFileDetails, Image, file]
 ---
 
 # ConnectApi.ContentImageFileDetails

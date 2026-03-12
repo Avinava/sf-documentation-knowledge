@@ -5,9 +5,9 @@ topic: oncurrentcapacitychanged
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.211Z
+lastCollected: 2026-03-12T09:33:56.281Z
 estimatedTokens: 262
-keywords: [onCurrentCapacityChanged, Registers, function, call, agent's, capacity, accepting, chats, changes—for, example, agent, accepts, new, chat, ends, currently, engaged, otherwise, changes, number]
+keywords: [onCurrentCapacityChanged, Registers, function, call, agent's, capacity, accepting, chats, changes—for, agent, accepts, new, chat, ends, currently]
 ---
 
 # onCurrentCapacityChanged()

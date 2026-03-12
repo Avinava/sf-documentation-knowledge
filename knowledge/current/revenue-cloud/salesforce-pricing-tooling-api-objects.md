@@ -5,9 +5,9 @@ topic: salesforce-pricing-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:08.952Z
+lastCollected: 2026-03-12T09:33:10.355Z
 estimatedTokens: 1206
-keywords: [Salesforce, Pricing, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow]
+keywords: [Salesforce, Pricing, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---
 
 # Salesforce Pricing Tooling API Objects

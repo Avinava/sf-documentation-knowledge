@@ -5,9 +5,9 @@ topic: ratingrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:11.456Z
+lastCollected: 2026-03-12T09:33:12.433Z
 estimatedTokens: 796
-keywords: [RatingRequest, Represents, common, run-time, such, context, definition, rating, procedure, set, records, rateable, summary, table., API, version, 62.0, later., Supported, Calls]
+keywords: [RatingRequest, common, run-time, context, definition, rating, procedure, records, rateable, summary, API, version, 62.0, later, Calls]
 ---
 
 # RatingRequest

@@ -5,9 +5,9 @@ topic: cmplcontrolparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.698Z
+lastCollected: 2026-03-12T09:33:52.171Z
 estimatedTokens: 766
-keywords: [CmplControlParticipant, Represents, Compliant, Data, Sharing, participant, user, group, whom, compliance, control, shared., API, version, 66.0, later., Supported, Calls, Fields, Associated]
+keywords: [CmplControlParticipant, Compliant, Data, Sharing, participant, user, group, whom, compliance, control, shared, API, version, 66.0, later]
 ---
 
 # CmplControlParticipant

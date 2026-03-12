@@ -5,10 +5,10 @@ topic: authrequestresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.686Z
+lastCollected: 2026-03-12T09:33:21.265Z
 estimatedTokens: 887
 namespace: RichMessaging
-keywords: [AuthRequestResponse, contains, authorization, request, response, data., accessToken, contextRecordId, authProviderName, getAccessToken, getAuthProviderName, getContextRecordId]
+keywords: [AuthRequestResponse, authorization, data, accessToken, contextRecordId, authProviderName, getAccessToken, getAuthProviderName, getContextRecordId]
 ---
 
 # AuthRequestResponse Class

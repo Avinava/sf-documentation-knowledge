@@ -5,9 +5,9 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.832Z
+lastCollected: 2026-03-12T09:33:45.915Z
 estimatedTokens: 384
-keywords: [Skill, Represents, settings, skill, used, field, service, route, chats, agents, Chat, such, name, which, skills, assigned, to., API, version, 65.0]
+keywords: [Skill, settings, service, route, chats, agents, Chat, skills, assigned, API, version, 65.0, later, SOAP, Calls]
 ---
 
 # Skill

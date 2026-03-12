@@ -5,9 +5,9 @@ topic: document-apex-constructs-and-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.244Z
+lastCollected: 2026-03-12T09:33:33.267Z
 estimatedTokens: 2447
-keywords: [Document, Apex, Constructs, Features, unique, constructs, platform-specific, features, require, particular, attention, documentation., guidelines, document, elements, ApexDoc., Classes, Interfaces, Enums, Variables]
+keywords: [Document, Apex, Constructs, Features, unique, platform-specific, require, particular, attention, documentation, guidelines, elements, ApexDoc, Classes, Interfaces]
 ---
 
 # Document Apex Constructs and Features

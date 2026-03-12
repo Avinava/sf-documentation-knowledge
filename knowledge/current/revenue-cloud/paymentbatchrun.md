@@ -5,9 +5,9 @@ topic: paymentbatchrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.731Z
+lastCollected: 2026-03-12T09:33:11.789Z
 estimatedTokens: 1170
-keywords: [PaymentBatchRun, Represents, batch, processing, job, processes, payments, Billing., During, payment, run, schedules, meet, specified, criteria, processed, corresponding, Payment, records, created.]
+keywords: [PaymentBatchRun, batch, processing, job, processes, payments, Billing, payment, run, schedules, meet, criteria, processed, corresponding, records]
 ---
 
 # PaymentBatchRun

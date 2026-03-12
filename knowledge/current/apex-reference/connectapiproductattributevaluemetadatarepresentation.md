@@ -5,9 +5,9 @@ topic: connectapiproductattributevaluemetadatarepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.485Z
+lastCollected: 2026-03-12T09:33:28.524Z
 estimatedTokens: 150
-keywords: [ConnectApi.ProductAttributeValueMetadataRepresentation, Metadata, product, attribute, value.]
+keywords: [Metadata, product, attribute]
 ---
 
 # ConnectApi.ProductAttributeValueMetadataRepresentation

@@ -5,9 +5,9 @@ topic: group-fields-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.320Z
+lastCollected: 2026-03-12T09:33:48.203Z
 estimatedTokens: 174
-keywords: [Group, Fields, GET, Retrieve, details, two, party, relationship, groups.]
+keywords: [Group, Retrieve, two, party, relationship, groups]
 ---
 
 # Group Fields (GET)

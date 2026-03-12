@@ -5,9 +5,9 @@ topic: connectapiinvoicerecoveryresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.144Z
+lastCollected: 2026-03-12T09:33:07.173Z
 estimatedTokens: 177
-keywords: [ConnectApi.InvoiceRecoveryResult, Output, representation, details, recovered, invoice, billing, schedules.]
+keywords: [ConnectApi.InvoiceRecoveryResult, Output, representation, recovered, invoice, billing, schedules]
 ---
 
 # ConnectApi.InvoiceRecoveryResult

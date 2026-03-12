@@ -5,9 +5,9 @@ topic: sequence-assignment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.200Z
+lastCollected: 2026-03-12T09:33:08.958Z
 estimatedTokens: 277
-keywords: [Sequence, Assignment, POST, Assign, sequence, pattern, values, objects, based, configured, policy., Special, Access, Rules]
+keywords: [Sequence, Assignment, POST, Assign, pattern, objects, configured, policy, Special, Access, Rules]
 ---
 
 # Sequence Assignment (POST)

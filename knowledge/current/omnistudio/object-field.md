@@ -5,9 +5,9 @@ topic: object-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.393Z
+lastCollected: 2026-03-12T09:33:49.075Z
 estimatedTokens: 87
-keywords: [Field, Output, representation, target, field.]
+keywords: [Output, representation, target]
 ---
 
 # Object Field

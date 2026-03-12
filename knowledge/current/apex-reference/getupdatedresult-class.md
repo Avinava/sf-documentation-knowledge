@@ -5,10 +5,10 @@ topic: getupdatedresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.459Z
+lastCollected: 2026-03-12T09:33:22.867Z
 estimatedTokens: 465
 namespace: Database
-keywords: [GetUpdatedResult, Contains, result, Database.getUpdated, call., Usage, getIds, getLatestDateCovered]
+keywords: [GetUpdatedResult, result, Database.getUpdated, call, Usage, getIds, getLatestDateCovered]
 ---
 
 # GetUpdatedResult Class

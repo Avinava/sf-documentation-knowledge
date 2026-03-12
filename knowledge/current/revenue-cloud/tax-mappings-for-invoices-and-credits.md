@@ -5,9 +5,9 @@ topic: tax-mappings-for-invoices-and-credits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:05.585Z
+lastCollected: 2026-03-12T09:33:07.530Z
 estimatedTokens: 3030
-keywords: [Tax, Mappings, Invoices, Credits, extend, customize, existing, tax, custom, metadata, types, mappings., customizations, help, unique, business, requirements, such, inclusion, specific]
+keywords: [Tax, Mappings, Invoices, Credits, extend, customize, custom, metadata, customizations, help, unique, business, requirements, inclusion, specific]
 ---
 
 # Tax Mappings for Invoices and Credits

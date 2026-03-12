@@ -5,9 +5,9 @@ topic: running-tests-in-a-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.716Z
+lastCollected: 2026-03-12T09:33:38.433Z
 estimatedTokens: 826
-keywords: [Running, Tests, Deployment, test, level, specified, deployment, options, default, execution, behavior, depends, contents, package., deploying, production, tests, except, those, originate]
+keywords: [Running, Tests, Deployment, test, level, options, execution, behavior, depends, contents, package, deploying, production, except, originate]
 ---
 
 # Running Tests in a Deployment

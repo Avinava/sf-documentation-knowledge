@@ -5,9 +5,9 @@ topic: unitofmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.650Z
+lastCollected: 2026-03-12T09:33:12.607Z
 estimatedTokens: 746
-keywords: [UnitOfMeasure, Defines, units, systems, used, account, quantities, usage, resource., management, API, version, 62.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [UnitOfMeasure, units, systems, account, quantities, usage, resource, management, API, version, 62.0, later, Calls, Associated, Objects]
 ---
 
 # UnitOfMeasure

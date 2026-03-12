@@ -5,9 +5,9 @@ topic: mldomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.208Z
+lastCollected: 2026-03-12T09:33:40.687Z
 estimatedTokens: 1345
-keywords: [MlDomain, Represents, Einstein, Intent, Set., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, MlIntent, MlIntentUtterance, MlRelatedIntent, MlSlotClass, MlSlotClassValue, SynonymGroup]
+keywords: [MlDomain, Einstein, Intent, File, Suffix, Directory, Location, Version, Special, Access, Rules, MlIntent, MlIntentUtterance, MlRelatedIntent, MlSlotClass]
 ---
 
 # MlDomain

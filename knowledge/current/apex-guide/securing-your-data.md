@@ -5,9 +5,9 @@ topic: securing-your-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.090Z
+lastCollected: 2026-03-12T09:33:33.115Z
 estimatedTokens: 494
-keywords: [Securing, Data, secure, data, provided, Crypto, class., Note, Example, Integrating, Amazon, WebServices, Encrypting, Decrypting]
+keywords: [Securing, Data, secure, provided, Crypto, Integrating, Amazon, WebServices, Encrypting, Decrypting]
 ---
 
 # Securing Your Data

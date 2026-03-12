@@ -5,9 +5,9 @@ topic: lightning-web-component-events-for-enhanced-messaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.701Z
+lastCollected: 2026-03-12T09:33:55.802Z
 estimatedTokens: 531
-keywords: [Lightning, Web, Component, Events, Enhanced, Messaging, JavaScript, executed, certain, types, events, occur, console, such, user, closes, tab., few, specific, Messaging.]
+keywords: [Lightning, Web, Component, Events, Enhanced, Messaging, JavaScript, executed, certain, occur, console, user, closes, tab, few]
 ---
 
 # Lightning Web Component Events for Enhanced Messaging

@@ -5,9 +5,9 @@ topic: connectapicreditmemoaddressesinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.034Z
+lastCollected: 2026-03-12T09:33:07.070Z
 estimatedTokens: 119
-keywords: [ConnectApi.CreditMemoAddressesInputRequest, Input, representation, details, billing, shipping, addresses.]
+keywords: [Input, representation, billing, shipping, addresses]
 ---
 
 # ConnectApi.CreditMemoAddressesInputRequest

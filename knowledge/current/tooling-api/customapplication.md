@@ -5,9 +5,9 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.981Z
+lastCollected: 2026-03-12T09:33:44.124Z
 estimatedTokens: 732
-keywords: [CustomApplication, Represents, custom, standard, application., application, list, tab, references, description, logo., includes, access, associated, related, fields, Metadata, API., Tooling, API]
+keywords: [CustomApplication, custom, standard, application, tab, references, logo, includes, access, associated, Metadata, API, Tooling, version, 42.0]
 ---
 
 # CustomApplication

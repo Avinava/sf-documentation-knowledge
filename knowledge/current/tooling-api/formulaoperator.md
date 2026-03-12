@@ -5,9 +5,9 @@ topic: formulaoperator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.787Z
+lastCollected: 2026-03-12T09:33:44.938Z
 estimatedTokens: 313
-keywords: [FormulaOperator, Represents, operator, used, building, formula, including, examples, uses., Tooling, API, version, 39.0, later., Note, Supported, SOAP, Calls, REST, HTTP]
+keywords: [FormulaOperator, operator, building, formula, including, examples, uses, Tooling, API, version, 39.0, later, SOAP, Calls, REST]
 ---
 
 # FormulaOperator

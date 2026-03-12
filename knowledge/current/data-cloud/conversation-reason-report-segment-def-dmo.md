@@ -7,9 +7,9 @@ topic: conversation-reason-report-segment-def-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.460Z
+lastCollected: 2026-03-12T09:33:14.290Z
 estimatedTokens: 495
-keywords: [Conversation, Reason, Report, Segment, Def, DMO, Data, Cloud, data, model, segment, definition, conversation, reason, report., API, Name, Category, Primary, Subject]
+keywords: [Conversation, Reason, Report, Segment, Def, DMO, Data, Cloud, model, definition, API, Category, Primary, Subject, Area]
 ---
 
 # Conversation Reason Report Segment

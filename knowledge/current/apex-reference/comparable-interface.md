@@ -5,10 +5,10 @@ topic: comparable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.157Z
+lastCollected: 2026-03-12T09:33:24.451Z
 estimatedTokens: 655
 namespace: System
-keywords: [Comparable, Adds, sorting, support, Lists, contain, non-primitive, types, user-defined, types., implementation, must, explicitly, handle, null, inputs, compareTo, avoid, pointer, exception.]
+keywords: [Comparable, Adds, sorting, support, contain, non-primitive, user-defined, implementation, explicitly, handle, inputs, compareTo, avoid, pointer, exception]
 ---
 
 # Comparable Interface

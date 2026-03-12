@@ -5,9 +5,9 @@ topic: connectapipaymentcreditoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.338Z
+lastCollected: 2026-03-12T09:33:28.388Z
 estimatedTokens: 142
-keywords: [ConnectApi.PaymentCreditOutputRepresentation, payment, credit, amount, order, summary, newly, created, credit., Represents, single, transaction, applied, specific, generated, tracking.]
+keywords: [payment, credit, amount, order, summary, newly, created, transaction, applied, specific, generated, tracking]
 ---
 
 # ConnectApi.PaymentCreditOutputRepresentation

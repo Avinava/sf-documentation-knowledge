@@ -5,9 +5,9 @@ topic: connectapiproductdeliverestimationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.533Z
+lastCollected: 2026-03-12T09:33:28.570Z
 estimatedTokens: 144
-keywords: [ConnectApi.ProductDeliverEstimationOutputRepresentation, Delivery, estimation, information, product.]
+keywords: [Delivery, estimation, product]
 ---
 
 # ConnectApi.ProductDeliverEstimationOutputRepresentation

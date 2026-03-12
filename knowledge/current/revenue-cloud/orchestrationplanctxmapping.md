@@ -5,9 +5,9 @@ topic: orchestrationplanctxmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.869Z
+lastCollected: 2026-03-12T09:33:12.802Z
 estimatedTokens: 959
-keywords: [OrchestrationPlanCtxMapping, Represents, orchestration, plan, context, mapping, entry, org., used, connect, business, data, logic, within, Dynamic, Revenue, Orchestrator, DRO, type., API]
+keywords: [OrchestrationPlanCtxMapping, orchestration, plan, context, mapping, entry, org, connect, business, data, logic, Dynamic, Revenue, Orchestrator, DRO]
 ---
 
 # OrchestrationPlanCtxMapping

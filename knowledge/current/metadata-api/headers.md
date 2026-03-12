@@ -5,9 +5,9 @@ topic: headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.362Z
+lastCollected: 2026-03-12T09:33:39.861Z
 estimatedTokens: 229
-keywords: [Headers, headers, Metadata, API, calls, set, options, call.]
+keywords: [Metadata, API, calls, options, call]
 ---
 
 # Headers

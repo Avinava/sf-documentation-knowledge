@@ -5,9 +5,9 @@ topic: object-field-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.398Z
+lastCollected: 2026-03-12T09:33:49.078Z
 estimatedTokens: 83
-keywords: [Field, List, Output, representation, target, fields, list.]
+keywords: [Output, representation, target]
 ---
 
 # Object Field List

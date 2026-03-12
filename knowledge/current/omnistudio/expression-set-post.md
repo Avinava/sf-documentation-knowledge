@@ -5,9 +5,9 @@ topic: expression-set-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.872Z
+lastCollected: 2026-03-12T09:33:47.801Z
 estimatedTokens: 374
-keywords: [Expression, Set, POST, Creates, expression, set, Business, Rules, Engine., performs, series, calculations, lookup, tables, user-defined, variables, constants.]
+keywords: [Expression, POST, Creates, Business, Rules, Engine, performs, series, calculations, lookup, tables, user-defined, variables, constants]
 ---
 
 # Expression Set (POST)

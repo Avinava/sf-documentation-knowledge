@@ -5,9 +5,9 @@ topic: assessment-responses-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.601Z
+lastCollected: 2026-03-12T09:33:48.417Z
 estimatedTokens: 113
-keywords: [Assessment, Responses, Output, assessment, responses.]
+keywords: [Assessment, Responses, Output]
 ---
 
 # Assessment Responses Output

@@ -5,9 +5,9 @@ topic: connectapiemailattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.161Z
+lastCollected: 2026-03-12T09:33:27.254Z
 estimatedTokens: 143
-keywords: [ConnectApi.EmailAttachment, email, attachment, message.]
+keywords: [ConnectApi.EmailAttachment, email, attachment, message]
 ---
 
 # ConnectApi.EmailAttachment

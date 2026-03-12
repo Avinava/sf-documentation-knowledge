@@ -6,9 +6,9 @@ topic: void-posted-invoice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.575Z
+lastCollected: 2026-03-12T09:33:08.399Z
 estimatedTokens: 74
-keywords: [Posted, Invoice, Input, representation, details, invoice, voided.]
+keywords: [Posted, Invoice, Input, representation, voided]
 ---
 
 # Void

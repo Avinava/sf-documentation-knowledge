@@ -5,9 +5,9 @@ topic: utility-bar-api-method-parity
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:57.620Z
+lastCollected: 2026-03-12T09:33:55.722Z
 estimatedTokens: 681
-keywords: [Utility, Bar, API, Parity, utility, bar, provides, Aura, Components, Lightning, Web, LWC, Experience, only., Salesforce, Classic, isn’t, supported., Important, Bars]
+keywords: [Utility, Bar, API, Parity, Aura, Components, Lightning, Web, LWC, Experience, Salesforce, Classic, isn’t, Bars, Considerations]
 ---
 
 # Utility Bar API Method Parity

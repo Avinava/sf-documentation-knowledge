@@ -5,10 +5,10 @@ topic: queueablecontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.159Z
+lastCollected: 2026-03-12T09:33:30.207Z
 estimatedTokens: 303
 namespace: System
-keywords: [QueueableContext, submitted, job, uses, Queueable, interface., getJobId]
+keywords: [QueueableContext, submitted, job, uses, Queueable, getJobId]
 ---
 
 # QueueableContext Interface

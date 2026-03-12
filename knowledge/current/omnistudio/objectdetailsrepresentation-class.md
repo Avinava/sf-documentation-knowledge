@@ -5,10 +5,10 @@ topic: objectdetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.546Z
+lastCollected: 2026-03-12T09:33:46.582Z
 estimatedTokens: 600
 namespace: DataRetrieval
-keywords: [ObjectDetailsRepresentation, Stores, details, its, associated, records, data, summarization.]
+keywords: [ObjectDetailsRepresentation, Stores, associated, records, data, summarization]
 ---
 
 # ObjectDetailsRepresentation Class

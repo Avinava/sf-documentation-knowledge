@@ -5,9 +5,9 @@ topic: connectapifulfillmentordercancellineitemsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.540Z
+lastCollected: 2026-03-12T09:33:27.598Z
 estimatedTokens: 70
-keywords: [ConnectApi.FulfillmentOrderCancelLineItemsOutputRepresentation, Wraps, base, output.]
+keywords: [Wraps, base, output]
 ---
 
 # ConnectApi.FulfillmentOrderCancelLineItemsOutputRepresentation

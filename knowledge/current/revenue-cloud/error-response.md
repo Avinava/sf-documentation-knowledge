@@ -5,9 +5,9 @@ topic: error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.466Z
+lastCollected: 2026-03-12T09:33:09.187Z
 estimatedTokens: 86
-keywords: [Error, Response, Output, representation, details, error., error, encountered, during, API, request.]
+keywords: [Error, Output, representation, encountered, API]
 ---
 
 # Error Response

@@ -5,9 +5,9 @@ topic: standardentryclasscode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.631Z
+lastCollected: 2026-03-12T09:33:29.669Z
 estimatedTokens: 120
-keywords: [StandardEntryClassCode, Specifies, three-letter, code, identifies, electronic, payment, transaction, being, processed, within, Automated, Clearing, House, ACH, network., Values]
+keywords: [StandardEntryClassCode, three-letter, code, identifies, electronic, payment, transaction, processed, Automated, Clearing, House, ACH, network]
 ---
 
 # StandardEntryClassCode Enum

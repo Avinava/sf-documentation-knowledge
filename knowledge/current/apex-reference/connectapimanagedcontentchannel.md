@@ -5,9 +5,9 @@ topic: connectapimanagedcontentchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.710Z
+lastCollected: 2026-03-12T09:33:27.762Z
 estimatedTokens: 992
-keywords: [ConnectApi.ManagedContentChannel, Managed, content, channel.]
+keywords: [ConnectApi.ManagedContentChannel, Managed, content, channel]
 ---
 
 # ConnectApi.ManagedContentChannel

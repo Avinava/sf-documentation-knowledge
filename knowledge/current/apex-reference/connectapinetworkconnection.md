@@ -5,9 +5,9 @@ topic: connectapinetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.081Z
+lastCollected: 2026-03-12T09:33:28.094Z
 estimatedTokens: 223
-keywords: [ConnectApi.NetworkConnection, External, network, connection., Important]
+keywords: [ConnectApi.NetworkConnection, External, network, connection]
 ---
 
 # ConnectApi.NetworkConnection

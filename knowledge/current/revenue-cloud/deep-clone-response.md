@@ -5,9 +5,9 @@ topic: deep-clone-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.679Z
+lastCollected: 2026-03-12T09:33:09.376Z
 estimatedTokens: 185
-keywords: [Deep, Clone, Response, Output, representation, details, cloned, record.]
+keywords: [Deep, Clone, Output, representation, cloned, record]
 ---
 
 # Deep Clone Response

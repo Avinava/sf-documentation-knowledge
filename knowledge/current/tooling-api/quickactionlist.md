@@ -5,9 +5,9 @@ topic: quickactionlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.572Z
+lastCollected: 2026-03-12T09:33:45.674Z
 estimatedTokens: 180
-keywords: [QuickActionList, Represents, list, quick, actions., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
+keywords: [QuickActionList, quick, actions, SOAP, Calls, REST, HTTP, Usage]
 ---
 
 # QuickActionList

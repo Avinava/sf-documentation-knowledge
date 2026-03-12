@@ -5,9 +5,9 @@ topic: sets-of-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.981Z
+lastCollected: 2026-03-12T09:33:33.992Z
 estimatedTokens: 194
-keywords: [Objects, contain, sObjects, among, types, elements., Warning]
+keywords: [Objects, contain, sObjects, among, elements]
 ---
 
 # Sets of Objects

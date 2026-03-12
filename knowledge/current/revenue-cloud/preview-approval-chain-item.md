@@ -5,9 +5,9 @@ topic: preview-approval-chain-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.031Z
+lastCollected: 2026-03-12T09:33:09.583Z
 estimatedTokens: 116
-keywords: [Preview, Approval, Chain, Item, Output, representation, details, approval, chain, item, specific, group.]
+keywords: [Preview, Approval, Chain, Item, Output, representation, specific, group]
 ---
 
 # Preview Approval Chain Item

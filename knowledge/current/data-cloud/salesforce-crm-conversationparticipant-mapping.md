@@ -5,9 +5,9 @@ topic: salesforce-crm-conversationparticipant-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.833Z
+lastCollected: 2026-03-12T09:33:13.690Z
 estimatedTokens: 463
-keywords: [Salesforce, CRM, ConversationParticipant, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, ConversationParticipant, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---
 
 # Salesforce CRM: ConversationParticipant Mapping

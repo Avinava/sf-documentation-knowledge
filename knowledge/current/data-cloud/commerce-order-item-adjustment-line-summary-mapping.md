@@ -5,9 +5,9 @@ topic: commerce-order-item-adjustment-line-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.179Z
+lastCollected: 2026-03-12T09:33:14.014Z
 estimatedTokens: 425
-keywords: [Commerce, Order, Item, Adjustment, Line, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data]
+keywords: [Commerce, Order, Item, Adjustment, Line, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud]
 ---
 
 # Commerce: Order Item Adjustment Line Summary Mapping

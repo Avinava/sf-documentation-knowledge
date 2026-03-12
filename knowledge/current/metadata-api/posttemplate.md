@@ -5,9 +5,9 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.817Z
+lastCollected: 2026-03-12T09:33:41.275Z
 estimatedTokens: 660
-keywords: [PostTemplate, Represents, metadata, associated, approval, post, template, Approvals, Chatter., templates, customize, information, included, request, posts, appear, Chatter, feeds., extends, Metadata]
+keywords: [PostTemplate, metadata, associated, approval, post, template, Approvals, Chatter, templates, customize, included, posts, appear, feeds, extends]
 ---
 
 # PostTemplate

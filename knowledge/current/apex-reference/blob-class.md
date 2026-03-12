@@ -5,10 +5,10 @@ topic: blob-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.215Z
+lastCollected: 2026-03-12T09:33:30.267Z
 estimatedTokens: 878
 namespace: System
-keywords: [Blob, Contains, primitive, data, type., Usage, size, Example, toPdf, stringToConvert, toString, valueOf, stringToBlob]
+keywords: [Blob, primitive, data, Usage, size, toPdf, stringToConvert, toString, valueOf, stringToBlob]
 ---
 
 # Blob Class

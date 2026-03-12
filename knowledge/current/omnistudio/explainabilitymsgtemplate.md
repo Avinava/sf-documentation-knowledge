@@ -5,9 +5,9 @@ topic: explainabilitymsgtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.209Z
+lastCollected: 2026-03-12T09:33:50.820Z
 estimatedTokens: 702
-keywords: [ExplainabilityMsgTemplate, Represents, information, template, contains, decision, explanation, message, specified, expression, set, step, type., Parent, File, Suffix, Directory, Location, Version, Fields]
+keywords: [ExplainabilityMsgTemplate, template, decision, explanation, message, expression, step, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, element, API, version, 56.0, later]
 ---
 
 # ExplainabilityMsgTemplate

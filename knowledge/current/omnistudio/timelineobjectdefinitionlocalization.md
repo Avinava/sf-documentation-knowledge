@@ -5,9 +5,9 @@ topic: timelineobjectdefinitionlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.394Z
+lastCollected: 2026-03-12T09:33:52.779Z
 estimatedTokens: 1287
-keywords: [TimelineObjectDefinitionLocalization, Represents, translated, timeline, configuration’s, master, label, Translation, Workbench, enabled, organization., API, version, 60.0, later., Important, Supported, Calls, Special, Access]
+keywords: [TimelineObjectDefinitionLocalization, translated, timeline, configuration’s, master, label, Translation, Workbench, enabled, organization, API, version, 60.0, later, Calls]
 ---
 
 # TimelineObjectDefinitionLocalization

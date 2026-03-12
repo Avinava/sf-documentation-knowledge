@@ -5,9 +5,9 @@ topic: lightningbolt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.818Z
+lastCollected: 2026-03-12T09:33:40.317Z
 estimatedTokens: 1056
-keywords: [LightningBolt, Represents, definition, Lightning, Bolt, Solution, which, include, custom, apps, flow, categories, Experience, Builder, templates., extends, Metadata, metadata, inherits, its]
+keywords: [LightningBolt, definition, Lightning, Bolt, Solution, include, custom, apps, flow, categories, Experience, Builder, templates, extends, Metadata]
 ---
 
 # LightningBolt

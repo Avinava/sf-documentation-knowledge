@@ -5,9 +5,9 @@ topic: lead-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.250Z
+lastCollected: 2026-03-12T09:33:14.974Z
 estimatedTokens: 1426
-keywords: [Lead, DMO, data, model, Data, Cloud, person, company, shows, interest, company’s, products, services., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Lead, DMO, data, model, Cloud, person, company, interest, company’s, products, services, API, Category, Primary, Subject]
 ---
 
 # Lead DMO

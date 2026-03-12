@@ -5,9 +5,9 @@ topic: configurator-attribute-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.476Z
+lastCollected: 2026-03-12T09:33:09.196Z
 estimatedTokens: 226
-keywords: [Configurator, Attribute, Category, Output, representation, attribute, category, product, configuration.]
+keywords: [Configurator, Attribute, Category, Output, representation, product, configuration]
 ---
 
 # Configurator Attribute Category

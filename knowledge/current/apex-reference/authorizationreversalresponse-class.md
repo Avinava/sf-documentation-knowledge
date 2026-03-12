@@ -5,10 +5,10 @@ topic: authorizationreversalresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.799Z
+lastCollected: 2026-03-12T09:33:22.220Z
 estimatedTokens: 2374
 namespace: CommercePayments
-keywords: [AuthorizationReversalResponse, Response, sent, payment, gateway, following, authorization, reversal, service., Usage, Example, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails]
+keywords: [AuthorizationReversalResponse, sent, payment, gateway, authorization, reversal, service, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]
 ---
 
 # AuthorizationReversalResponse Class

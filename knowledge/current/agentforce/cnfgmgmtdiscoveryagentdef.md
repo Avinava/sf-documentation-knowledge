@@ -5,9 +5,9 @@ topic: cnfgmgmtdiscoveryagentdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.372Z
+lastCollected: 2026-03-12T09:33:16.040Z
 estimatedTokens: 343
-keywords: [CnfgMgmtDiscoveryAgentDef, Represents, discovery, agents, installed, various, operating, systems., Acts, parent, groups, agent, instances, system., Captures, metadata, such, version, upgrade, preferences.]
+keywords: [CnfgMgmtDiscoveryAgentDef, discovery, agents, installed, various, operating, systems, Acts, parent, groups, agent, instances, system, Captures, metadata]
 ---
 
 # CnfgMgmtDiscoveryAgentDef

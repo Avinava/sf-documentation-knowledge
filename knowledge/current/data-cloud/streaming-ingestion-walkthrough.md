@@ -5,9 +5,9 @@ topic: streaming-ingestion-walkthrough
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.572Z
+lastCollected: 2026-03-12T09:33:13.464Z
 estimatedTokens: 667
-keywords: [Streaming, Ingestion, Walkthrough, walkthrough, understand, steps, loading, records, streaming, ingestion.]
+keywords: [Streaming, Ingestion, Walkthrough, understand, steps, loading, records]
 ---
 
 # Streaming Ingestion Walkthrough

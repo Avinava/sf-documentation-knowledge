@@ -5,9 +5,9 @@ topic: safely-cache-values-with-the-cachebuilder-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.743Z
+lastCollected: 2026-03-12T09:33:33.761Z
 estimatedTokens: 946
-keywords: [Safely, Cache, Values, CacheBuilder, Platform, best, practice, ensure, Apex, code, handles, cache, misses, testing, requests, null., write, yourself., Cache.CacheBuilder, which]
+keywords: [Safely, Cache, CacheBuilder, Platform, best, practice, ensure, Apex, code, handles, misses, testing, requests, write, yourself]
 ---
 
 # Safely Cache Values with the CacheBuilder Interface

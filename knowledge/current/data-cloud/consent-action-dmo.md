@@ -5,9 +5,9 @@ topic: consent-action-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.345Z
+lastCollected: 2026-03-12T09:33:14.185Z
 estimatedTokens: 399
-keywords: [Consent, Action, DMO, Data, Cloud, data, model, user, consents, done, their, example, collection, web, activity, tracking., API, Name, Category, Primary]
+keywords: [Consent, Action, DMO, Data, Cloud, model, user, consents, their, collection, web, activity, tracking, API, Category]
 ---
 
 # Consent Action DMO

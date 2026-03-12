@@ -5,9 +5,9 @@ topic: recent-list-views
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.864Z
+lastCollected: 2026-03-12T09:33:35.707Z
 estimatedTokens: 101
-keywords: [Recent, List, Views, list, recently, used, views, given, sObject, type., resource, REST, API, version, 32.0, later., Syntax, Example]
+keywords: [Recent, Views, recently, sObject, resource, REST, API, version, 32.0, later]
 ---
 
 # Recent List Views

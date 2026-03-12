@@ -5,9 +5,9 @@ topic: backward-compatibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.106Z
+lastCollected: 2026-03-12T09:33:55.248Z
 estimatedTokens: 466
-keywords: [Backward, Compatibility, Salesforce, strives, backward, compatibility, easy, Console, Integration, Toolkit.]
+keywords: [Backward, Compatibility, Salesforce, strives, easy, Console, Integration, Toolkit]
 ---
 
 # Backward Compatibility

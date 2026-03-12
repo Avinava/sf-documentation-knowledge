@@ -5,9 +5,9 @@ topic: layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.923Z
+lastCollected: 2026-03-12T09:33:45.072Z
 estimatedTokens: 635
-keywords: [Layout, Represents, page, layout., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [Layout, SOAP, Calls, REST, HTTP]
 ---
 
 # Layout

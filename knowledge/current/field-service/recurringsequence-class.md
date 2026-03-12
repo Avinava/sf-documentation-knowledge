@@ -5,10 +5,10 @@ topic: recurringsequence-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.271Z
+lastCollected: 2026-03-12T09:33:53.597Z
 estimatedTokens: 238
 namespace: FSL
-keywords: [RecurringSequence, Represents, result, getRecurringAppointmentsSlots, pattern, appointments, recur, daily, weekly, monthly., Example]
+keywords: [RecurringSequence, result, getRecurringAppointmentsSlots, pattern, appointments, recur, daily, weekly, monthly]
 ---
 
 # RecurringSequence Class

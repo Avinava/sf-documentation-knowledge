@@ -5,9 +5,9 @@ topic: create-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.610Z
+lastCollected: 2026-03-12T09:33:53.922Z
 estimatedTokens: 1972
-keywords: [Create, Bundle, Creates, bundle, service, appointments, manually., resource, accepts, appointment, IDs, manual, bundling, policy, ID., specifies, rules, marked, bundling., appointment.]
+keywords: [Bundle, Creates, service, appointments, manually, resource, accepts, appointment, IDs, manual, bundling, policy, rules, marked, API]
 ---
 
 # Create Bundle

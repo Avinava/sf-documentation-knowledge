@@ -5,9 +5,9 @@ topic: payment-batch-scheduler-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.239Z
+lastCollected: 2026-03-12T09:33:08.117Z
 estimatedTokens: 395
-keywords: [Payment, Batch, Scheduler, Input, representation, details, request, create, payment, scheduler., rules, timing, scheduler, including, match, types, dates, frequency, filter, criteria.]
+keywords: [Payment, Batch, Scheduler, Input, representation, rules, timing, including, match, dates, frequency, filter, criteria]
 ---
 
 # Payment Batch Scheduler Input

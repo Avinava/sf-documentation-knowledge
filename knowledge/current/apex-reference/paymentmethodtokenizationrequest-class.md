@@ -5,10 +5,10 @@ topic: paymentmethodtokenizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.997Z
+lastCollected: 2026-03-12T09:33:22.396Z
 estimatedTokens: 2488
 namespace: CommercePayments
-keywords: [PaymentMethodTokenizationRequest, Stores, data, request, tokenize, card, payment, method., tokenization, process, occurs, gateway., replaces, sensitive, customer, such, number, CVV, unique, identification]
+keywords: [PaymentMethodTokenizationRequest, Stores, data, tokenize, card, payment, tokenization, process, occurs, gateway, replaces, sensitive, customer, number, CVV]
 ---
 
 # PaymentMethodTokenizationRequest Class

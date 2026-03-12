@@ -5,9 +5,9 @@ topic: configuration-save-instance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.446Z
+lastCollected: 2026-03-12T09:33:08.292Z
 estimatedTokens: 95
-keywords: [Configuration, Save, Instance, Input, representation, request, save, product, configuration, instance.]
+keywords: [Configuration, Save, Instance, Input, representation, product]
 ---
 
 # Configuration Save Instance Input

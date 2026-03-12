@@ -5,9 +5,9 @@ topic: territory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.110Z
+lastCollected: 2026-03-12T09:33:42.452Z
 estimatedTokens: 556
-keywords: [Territory, Represents, territory., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest]
+keywords: [Territory, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # Territory

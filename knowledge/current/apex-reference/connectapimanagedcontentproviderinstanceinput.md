@@ -5,9 +5,9 @@ topic: connectapimanagedcontentproviderinstanceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.097Z
+lastCollected: 2026-03-12T09:33:25.333Z
 estimatedTokens: 384
-keywords: [ConnectApi.ManagedContentProviderInstanceInput, Create, update, managed, content, provider, instance.]
+keywords: [managed, content, provider, instance]
 ---
 
 # ConnectApi.ManagedContentProviderInstanceInput

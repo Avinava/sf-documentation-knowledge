@@ -5,9 +5,9 @@ topic: connectapidateestimationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.004Z
+lastCollected: 2026-03-12T09:33:27.095Z
 estimatedTokens: 86
-keywords: [ConnectApi.DateEstimationOutputRepresentation, Date, estimation, product, delivery.]
+keywords: [Date, estimation, product, delivery]
 ---
 
 # ConnectApi.DateEstimationOutputRepresentation

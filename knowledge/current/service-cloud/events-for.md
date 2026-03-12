@@ -5,9 +5,9 @@ topic: events-for
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.183Z
+lastCollected: 2026-03-12T09:33:55.320Z
 estimatedTokens: 863
-keywords: [Events, events, handlers, Aura, components, controllers, respond, workspace, tabs, opening, closing, gaining, focus., Lightning, web, subscribe, application, their, corresponding, message]
+keywords: [Events, handlers, Aura, components, controllers, respond, workspace, tabs, opening, closing, gaining, focus, Lightning, web, subscribe]
 ---
 
 # Events for

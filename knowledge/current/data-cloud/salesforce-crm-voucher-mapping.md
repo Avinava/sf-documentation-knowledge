@@ -5,9 +5,9 @@ topic: salesforce-crm-voucher-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.846Z
+lastCollected: 2026-03-12T09:33:14.611Z
 estimatedTokens: 391
-keywords: [Salesforce, CRM, Voucher, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., voucher, issued, loyalty, program, member., Bundle]
+keywords: [Salesforce, CRM, Voucher, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, issued, program]
 ---
 
 # Salesforce CRM: Voucher Mapping

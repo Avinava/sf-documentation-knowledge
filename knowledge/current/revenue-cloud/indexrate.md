@@ -5,9 +5,9 @@ topic: indexrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.942Z
+lastCollected: 2026-03-12T09:33:10.346Z
 estimatedTokens: 186
-keywords: [IndexRate, Standard, fields, extend, Salesforce, Pricing, represent, information, given, rate., API, version, 65.0, later., Supported, Calls, Fields]
+keywords: [IndexRate, Standard, extend, Salesforce, Pricing, represent, rate, API, version, 65.0, later, Calls]
 ---
 
 # IndexRate

@@ -5,9 +5,9 @@ topic: connectapimanagedcontentchannelcreaterepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.083Z
+lastCollected: 2026-03-12T09:33:25.321Z
 estimatedTokens: 510
-keywords: [ConnectApi.ManagedContentChannelCreateRepresentation, Input, create, managed, content, channel.]
+keywords: [Input, managed, content, channel]
 ---
 
 # ConnectApi.ManagedContentChannelCreateRepresentation

@@ -5,10 +5,10 @@ topic: chatterfeeds-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.182Z
+lastCollected: 2026-03-12T09:33:17.824Z
 estimatedTokens: 268252
 namespace: ConnectApi
-keywords: [ChatterFeeds, Create, Chatter, feed, stream., Usage, Important, createStream, communityId, streamInput, API, Version, Requires, deleteComment, commentId, deleteFeedElement, feedElementId, deleteLike, likeId, deleteStream]
+keywords: [ChatterFeeds, Chatter, feed, stream, Usage, createStream, communityId, streamInput, API, Version, Requires, deleteComment, commentId, deleteFeedElement, feedElementId]
 ---
 
 # ChatterFeeds Class

@@ -1,0 +1,121 @@
+---
+title: "Decision Table Execution"
+domain: psc-api
+topic: decision-table-execution
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-03-12T09:35:30.446Z
+estimatedTokens: 208
+keywords: [Decision, Execution, Execute, active]
+---
+
+# Decision Table Execution
+
+> Execute an active decision table.
+
+# Decision Table Execution
+
+Execute an active decision table.
+
+Resource
+
+```
+
+```
+
+Available version
+
+51.0
+
+Requires Chatter
+
+No
+
+HTTP methods
+
+POST
+
+Request body for POST
+
+JSON example
+
+```
+
+```
+
+Properties
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| conditions | Decision Table Condition[] | The list of decision table conditions on which the decision table executes and provides outcomes. | Required | 55.0 |
+| datasetLinkName | String | The API name of the dataset link provided as an input for the decision table execution. | Optional | 55.0 |
+
+Response body for POST
+
+[Decision Table Outcome](atlas.en-us.psc_api.meta/psc_api/connect_responses_decision_table_outcome.htm "Output representation of the decision table execution.")
+
+Sample Response body
+
+```
+
+```
+
+## Code Examples
+
+```
+services/data/vXX.X/connect/business-rules/decision-table/lookup/${decisionTableId}
+```
+
+```
+{
+   "conditions":[
+      {
+         "conditionsList":[
+            {
+               "fieldName":"Product__c",
+               "value":"Nike",
+               "operator":"Matches"
+            },
+            {
+               "fieldName":"Price__c",
+               "value":1000,
+               "operator":"GreaterThan"
+            }
+         ]
+      },
+      {
+         "conditionsList":[
+            {
+               "fieldName":"Product__c",
+               "value":"Adidas",
+               "operator":"Matches"
+            },
+            {
+               "fieldName":"Price__c",
+               "value":1500,
+               "operator":"GreaterThan"
+            }
+         ]
+      }
+   ]
+}
+```
+
+```
+{
+   “outcomeType” : “Single Match”,
+   "outcomeList" : [
+      {
+         “values” : {
+            “Discount_c”: 5
+         }
+      }
+   ]
+}
+```
+
+## Related Topics
+
+- Decision Table Condition (atlas.en-us.psc_api.meta/psc_api/connect_requests_decision_table_condition.htm)
+- Decision Table Outcome (atlas.en-us.psc_api.meta/psc_api/connect_responses_decision_table_outcome.htm)

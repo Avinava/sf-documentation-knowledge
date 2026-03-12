@@ -5,9 +5,9 @@ topic: leadconfigsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.776Z
+lastCollected: 2026-03-12T09:33:40.278Z
 estimatedTokens: 878
-keywords: [LeadConfigSettings, Represents, configuration, settings, Leads, control, how, they, converted, displayed, actions, available., extends, Metadata, metadata, inherits, its, fullName, field., File]
+keywords: [LeadConfigSettings, configuration, settings, Leads, control, how, they, converted, actions, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # LeadConfigSettings

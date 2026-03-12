@@ -5,9 +5,9 @@ topic: connectapimanagedcontentchanneldomainrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.723Z
+lastCollected: 2026-03-12T09:33:27.774Z
 estimatedTokens: 159
-keywords: [ConnectApi.ManagedContentChannelDomainRepresentation, Domain, associated, managed, content, channel.]
+keywords: [Domain, associated, managed, content, channel]
 ---
 
 # ConnectApi.ManagedContentChannelDomainRepresentation

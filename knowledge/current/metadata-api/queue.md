@@ -5,9 +5,9 @@ topic: queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.019Z
+lastCollected: 2026-03-12T09:33:41.465Z
 estimatedTokens: 1432
-keywords: [Queue, Represents, holding, area, items, before, they, processed., Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, QueueMembers]
+keywords: [Queue, holding, area, items, they, processed, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # Queue

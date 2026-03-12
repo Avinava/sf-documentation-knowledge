@@ -5,9 +5,9 @@ topic: product-validation-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.238Z
+lastCollected: 2026-03-12T09:33:09.783Z
 estimatedTokens: 121
-keywords: [Product, Validation, Result, Output, representation, validation, result, specific, product.]
+keywords: [Product, Validation, Result, Output, representation, specific]
 ---
 
 # Product Validation Result

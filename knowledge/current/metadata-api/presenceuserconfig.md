@@ -5,9 +5,9 @@ topic: presenceuserconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.837Z
+lastCollected: 2026-03-12T09:33:41.293Z
 estimatedTokens: 1491
-keywords: [PresenceUserConfig, Represents, configuration, determines, presence, user’s, settings., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, PresenceConfigAssignments, PresenceConfigProfileAssignments, PresenceConfigUserAssignments, Declarative]
+keywords: [PresenceUserConfig, configuration, determines, presence, user’s, settings, File, Suffix, Directory, Location, Version, Special, Access, Rules, PresenceConfigAssignments]
 ---
 
 # PresenceUserConfig

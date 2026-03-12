@@ -5,10 +5,10 @@ topic: formularecalcresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.176Z
+lastCollected: 2026-03-12T09:33:21.626Z
 estimatedTokens: 681
 namespace: System
-keywords: [FormulaRecalcResult, Formula.recalculateFormulas, method., Usage, Example, getErrors, getSObject, isSuccess]
+keywords: [FormulaRecalcResult, Formula.recalculateFormulas, Usage, getErrors, getSObject, isSuccess]
 ---
 
 # FormulaRecalcResult Class

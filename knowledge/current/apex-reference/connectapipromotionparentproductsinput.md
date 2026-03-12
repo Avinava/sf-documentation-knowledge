@@ -5,9 +5,9 @@ topic: connectapipromotionparentproductsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.404Z
+lastCollected: 2026-03-12T09:33:25.599Z
 estimatedTokens: 315
-keywords: [ConnectApi.PromotionParentProductsInput, IDs, parent, product, variation, product.]
+keywords: [ConnectApi.PromotionParentProductsInput, IDs, parent, product, variation]
 ---
 
 # ConnectApi.PromotionParentProductsInput

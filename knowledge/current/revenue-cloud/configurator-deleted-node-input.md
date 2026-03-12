@@ -5,9 +5,9 @@ topic: configurator-deleted-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.904Z
+lastCollected: 2026-03-12T09:33:07.823Z
 estimatedTokens: 84
-keywords: [Configurator, Deleted, Node, Input, representation, nodes, deleted, product, configuration.]
+keywords: [Configurator, Deleted, Node, Input, representation, nodes, product, configuration]
 ---
 
 # Configurator Deleted Node Input

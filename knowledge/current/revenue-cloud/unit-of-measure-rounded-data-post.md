@@ -5,9 +5,9 @@ topic: unit-of-measure-rounded-data-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.235Z
+lastCollected: 2026-03-12T09:33:08.989Z
 estimatedTokens: 232
-keywords: [Unit, Measure, Rounded, Data, POST, Round, off, scale, decimal, data, specific, set, fields.]
+keywords: [Unit, Measure, Rounded, Data, POST, Round, off, scale, decimal, specific]
 ---
 
 # Unit of Measure Rounded Data (POST)

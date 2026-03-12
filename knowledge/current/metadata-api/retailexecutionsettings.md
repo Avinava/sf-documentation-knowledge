@@ -5,9 +5,9 @@ topic: retailexecutionsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.057Z
+lastCollected: 2026-03-12T09:33:43.262Z
 estimatedTokens: 586
-keywords: [RetailExecutionSettings, Represents, settings, manage, inventory, promotions, planograms, in-store, activities., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
+keywords: [RetailExecutionSettings, settings, manage, inventory, promotions, planograms, in-store, activities, File, Suffix, Directory, Location, Version, Declarative, Metadata]
 ---
 
 # RetailExecutionSettings

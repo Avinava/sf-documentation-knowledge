@@ -5,9 +5,9 @@ topic: payment-gateway-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:32.766Z
+lastCollected: 2026-03-12T09:33:32.799Z
 estimatedTokens: 505
-keywords: [Payment, Gateway, Adapters, gateway, adapters, represent, bridge, between, payments, platform, Salesforce, external, payment, gateway.]
+keywords: [Payment, Gateway, Adapters, represent, bridge, payments, platform, Salesforce, external]
 ---
 
 # Payment Gateway Adapters

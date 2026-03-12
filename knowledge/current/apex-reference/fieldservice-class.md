@@ -5,10 +5,10 @@ topic: fieldservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.193Z
+lastCollected: 2026-03-12T09:33:18.847Z
 estimatedTokens: 724
 namespace: ConnectApi
-keywords: [FieldService, Preview, create, shifts, pattern., createShiftsFromPattern, shiftsFromPatternInput, shiftPatternId, API, Version, Requires, Chatter, previewShiftsFromPattern]
+keywords: [FieldService, Preview, shifts, pattern, createShiftsFromPattern, shiftsFromPatternInput, shiftPatternId, API, Version, Requires, Chatter, previewShiftsFromPattern]
 ---
 
 # FieldService Class

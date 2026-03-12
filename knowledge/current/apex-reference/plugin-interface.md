@@ -5,10 +5,10 @@ topic: plugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.878Z
+lastCollected: 2026-03-12T09:33:29.940Z
 estimatedTokens: 786
 namespace: Process
-keywords: [Plugin, Allows, pass, data, between, organization, specified, flow., Tip, describe, invoke, request, Example, Implementation, Test]
+keywords: [Plugin, pass, data, organization, flow, describe, invoke, Implementation, Test]
 ---
 
 # Plugin Interface

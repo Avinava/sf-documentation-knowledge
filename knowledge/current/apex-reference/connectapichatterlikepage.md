@@ -5,9 +5,9 @@ topic: connectapichatterlikepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.644Z
+lastCollected: 2026-03-12T09:33:27.697Z
 estimatedTokens: 348
-keywords: [ConnectApi.ChatterLikePage, Page, Chatter, likes.]
+keywords: [ConnectApi.ChatterLikePage, Chatter, likes]
 ---
 
 # ConnectApi.ChatterLikePage

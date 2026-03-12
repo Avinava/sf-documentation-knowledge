@@ -5,10 +5,10 @@ topic: salenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.098Z
+lastCollected: 2026-03-12T09:33:22.482Z
 estimatedTokens: 2850
 namespace: SaleNotification
-keywords: [SaleNotification, payment, gateway, sends, notification, sale, adapter, creates, store, information, notification., Usage, Example, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]
+keywords: [SaleNotification, payment, gateway, notification, sale, adapter, creates, store, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate]
 ---
 
 # SaleNotification Class

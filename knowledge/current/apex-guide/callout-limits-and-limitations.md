@@ -5,9 +5,9 @@ topic: callout-limits-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.346Z
+lastCollected: 2026-03-12T09:33:32.384Z
 estimatedTokens: 1323
-keywords: [Callout, Limits, Limitations, following, limits, limitations, apply, Apex, code, makes, callout, HTTP, request, web, services, call., call, SOAP, API, any]
+keywords: [Callout, Limits, Limitations, apply, Apex, code, HTTP, web, services, call, SOAP, API, any, external, Callouts]
 ---
 
 # Callout Limits and Limitations

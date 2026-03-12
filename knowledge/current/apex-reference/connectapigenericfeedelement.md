@@ -5,9 +5,9 @@ topic: connectapigenericfeedelement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.553Z
+lastCollected: 2026-03-12T09:33:27.611Z
 estimatedTokens: 79
-keywords: [ConnectApi.GenericFeedElement, concrete, implementation, abstract, ConnectApi.FeedElement, class.]
+keywords: [ConnectApi.GenericFeedElement, concrete, implementation, abstract, ConnectApi.FeedElement]
 ---
 
 # ConnectApi.GenericFeedElement

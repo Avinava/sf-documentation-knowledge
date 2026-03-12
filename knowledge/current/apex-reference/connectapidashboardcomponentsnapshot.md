@@ -5,9 +5,9 @@ topic: connectapidashboardcomponentsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.914Z
+lastCollected: 2026-03-12T09:33:27.007Z
 estimatedTokens: 504
-keywords: [ConnectApi.DashboardComponentSnapshot, Represents, both, dashboard, component, snapshots, alerts, receive, crosses, threshold.]
+keywords: [ConnectApi.DashboardComponentSnapshot, dashboard, component, snapshots, alerts, receive, crosses, threshold]
 ---
 
 # ConnectApi.DashboardComponentSnapshot

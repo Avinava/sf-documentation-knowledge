@@ -5,9 +5,9 @@ topic: apex-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.825Z
+lastCollected: 2026-03-12T09:33:33.842Z
 estimatedTokens: 653
-keywords: [Apex, Quick, Start, step-by-step, tutorial, shows, how, create, simple, trigger, deploy, components, production, organization., Note]
+keywords: [Apex, Quick, Start, step-by-step, tutorial, how, simple, trigger, deploy, components, production, organization]
 ---
 
 # Apex Quick Start

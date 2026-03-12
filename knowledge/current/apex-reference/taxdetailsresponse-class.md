@@ -5,10 +5,10 @@ topic: taxdetailsresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.356Z
+lastCollected: 2026-03-12T09:33:22.711Z
 estimatedTokens: 3088
 namespace: CommerceTax
-keywords: [TaxDetailsResponse, Stores, details, tax, values, external, engine, calculates, response, calculation, request., Usage, Example, setCustomTaxAttributes, customTaxAttributes, setExemptAmount, exemptAmount, setExemptReason, reason, setImposition]
+keywords: [TaxDetailsResponse, Stores, tax, external, engine, calculates, calculation, Usage, setCustomTaxAttributes, customTaxAttributes, setExemptAmount, exemptAmount, setExemptReason, reason, setImposition]
 ---
 
 # TaxDetailsResponse Class

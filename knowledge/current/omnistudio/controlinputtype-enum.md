@@ -5,9 +5,9 @@ topic: controlinputtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.812Z
+lastCollected: 2026-03-12T09:33:46.832Z
 estimatedTokens: 80
-keywords: [ControlInputType, control, input, that’s, business, context., Values]
+keywords: [ControlInputType, control, input, that’s, business, context]
 ---
 
 # ControlInputType Enum

@@ -5,9 +5,9 @@ topic: aiusecasefieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.365Z
+lastCollected: 2026-03-12T09:33:51.868Z
 estimatedTokens: 888
-keywords: [AIUsecaseFieldMapping, Represents, information, field, mapping, that’s, used, save, extracted, features, prediction, scores, insights, predictions, suggestions, improve, scores., API, version, 55.0]
+keywords: [AIUsecaseFieldMapping, mapping, that’s, save, extracted, features, prediction, scores, insights, predictions, suggestions, improve, API, version, 55.0, recommendations, later, SOAP]
 ---
 
 # AIUsecaseFieldMapping

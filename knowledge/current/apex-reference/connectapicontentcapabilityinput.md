@@ -5,9 +5,9 @@ topic: connectapicontentcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.682Z
+lastCollected: 2026-03-12T09:33:24.941Z
 estimatedTokens: 421
-keywords: [ConnectApi.ContentCapabilityInput, Attach, update, file, comment., attach, new, already, uploaded, Salesforce.]
+keywords: [ConnectApi.ContentCapabilityInput, Attach, file, comment, new, already, uploaded, Salesforce]
 ---
 
 # ConnectApi.ContentCapabilityInput

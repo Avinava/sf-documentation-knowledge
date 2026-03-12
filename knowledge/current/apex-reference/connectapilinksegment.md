@@ -5,9 +5,9 @@ topic: connectapilinksegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.665Z
+lastCollected: 2026-03-12T09:33:27.719Z
 estimatedTokens: 72
-keywords: [ConnectApi.LinkSegment, Link, segment.]
+keywords: [ConnectApi.LinkSegment, Link, segment]
 ---
 
 # ConnectApi.LinkSegment

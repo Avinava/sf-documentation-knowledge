@@ -5,9 +5,9 @@ topic: appointmentassignmentpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.955Z
+lastCollected: 2026-03-12T09:33:36.754Z
 estimatedTokens: 563
-keywords: [AppointmentAssignmentPolicy, Represents, information, resource, assignment, rule., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields]
+keywords: [AppointmentAssignmentPolicy, resource, assignment, rule, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # AppointmentAssignmentPolicy

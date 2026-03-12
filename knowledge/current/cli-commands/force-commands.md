@@ -5,9 +5,9 @@ topic: force-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:03.224Z
+lastCollected: 2026-03-12T09:33:05.415Z
 estimatedTokens: 2145
-keywords: [force, Commands, Bulk, delete, records, org, CSV, file., Uses, API, 1.0., data, bulk, Description, Examples, Flags, status, upsert, lightning, lwc]
+keywords: [force, Commands, Bulk, records, org, CSV, file, Uses, API, 1.0, data, Examples, Flags, status, upsert]
 ---
 
 # force Commands

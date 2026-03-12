@@ -5,9 +5,9 @@ topic: record-rollup-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.684Z
+lastCollected: 2026-03-12T09:33:49.331Z
 estimatedTokens: 262
-keywords: [Record, Rollup, Results, Output, representation, record, rollup, results.]
+keywords: [Record, Rollup, Results, Output, representation]
 ---
 
 # Record Rollup Results

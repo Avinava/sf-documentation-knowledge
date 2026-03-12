@@ -5,9 +5,9 @@ topic: context-persistence-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.923Z
+lastCollected: 2026-03-12T09:33:49.549Z
 estimatedTokens: 214
-keywords: [Context, Persistence, Platform, Event, ContextPersistence, event, notify, subscribers, after, context, persistence, completed, its, execution, processed.]
+keywords: [Context, Persistence, Platform, Event, ContextPersistence, notify, subscribers, completed, execution, processed]
 ---
 
 # Context Persistence Platform Event

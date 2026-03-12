@@ -5,10 +5,10 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.710Z
+lastCollected: 2026-03-12T09:33:33.729Z
 estimatedTokens: 596
 namespace: Metadata
-keywords: [Metadata, Salesforce, uses, metadata, types, components, represent, org, configuration, customization., used, settings, admins, control, information, applied, installed, apps, packages.]
+keywords: [Metadata, Salesforce, uses, components, represent, org, configuration, customization, settings, admins, control, applied, installed, apps, packages]
 ---
 
 # Metadata

@@ -5,10 +5,10 @@ topic: using-salesforce-features-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.409Z
+lastCollected: 2026-03-12T09:33:33.464Z
 estimatedTokens: 2342
 namespace: CommercePayments
-keywords: [Salesforce, Features, Apex, Many, features, user, exposed, access, programmatically, Lightning, Platform., example, write, code, post, Chatter, feed, approval, submit, approve]
+keywords: [Salesforce, Features, Apex, user, exposed, access, programmatically, Lightning, Platform, write, code, post, Chatter, feed, approval]
 ---
 
 # Using Salesforce Features with Apex

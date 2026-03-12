@@ -5,10 +5,10 @@ topic: sobjecttype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.870Z
+lastCollected: 2026-03-12T09:33:21.431Z
 estimatedTokens: 2078
 namespace: SObjectDescribeOptions.FULL
-keywords: [SObjectType, Schema.sObjectType, returned, field, describe, result, getReferenceTo, sObject, getSObjectType, method., Usage, getDescribe, options, newSObject, Example, recordTypeId, loadDefaults, Important, Note, Creating]
+keywords: [SObjectType, Schema.sObjectType, describe, result, getReferenceTo, sObject, getSObjectType, Usage, getDescribe, options, newSObject, recordTypeId, loadDefaults, Creating, New]
 ---
 
 # SObjectType Class

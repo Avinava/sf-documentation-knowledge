@@ -5,10 +5,10 @@ topic: emptyrecyclebinresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.522Z
+lastCollected: 2026-03-12T09:33:30.556Z
 estimatedTokens: 633
 namespace: Database
-keywords: [EmptyRecycleBinResult, result, emptyRecycleBin, DML, operation, returned, Database.emptyRecycleBin, method., Usage, getErrors, getId, isSuccess]
+keywords: [EmptyRecycleBinResult, result, emptyRecycleBin, DML, operation, Database.emptyRecycleBin, Usage, getErrors, getId, isSuccess]
 ---
 
 # EmptyRecycleBinResult Class

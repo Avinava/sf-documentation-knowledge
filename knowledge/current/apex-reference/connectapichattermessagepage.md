@@ -5,9 +5,9 @@ topic: connectapichattermessagepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.699Z
+lastCollected: 2026-03-12T09:33:25.877Z
 estimatedTokens: 191
-keywords: [ConnectApi.ChatterMessagePage, Chatter, message, page.]
+keywords: [ConnectApi.ChatterMessagePage, Chatter, message]
 ---
 
 # ConnectApi.ChatterMessagePage

@@ -5,9 +5,9 @@ topic: invoice-preview-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.181Z
+lastCollected: 2026-03-12T09:33:08.067Z
 estimatedTokens: 228
-keywords: [Invoice, Preview, Input, representation, details, billing, transaction, preview, invoices, generated, for.]
+keywords: [Invoice, Preview, Input, representation, billing, transaction, invoices, generated]
 ---
 
 # Invoice Preview Input

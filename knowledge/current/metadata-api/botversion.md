@@ -5,9 +5,9 @@ topic: botversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:37.403Z
+lastCollected: 2026-03-12T09:33:37.175Z
 estimatedTokens: 8024
-keywords: [BotVersion, Represents, configuration, details, specific, Einstein, Bot, version, including, dialogs, variables., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [BotVersion, configuration, specific, Einstein, Bot, version, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Special]
 ---
 
 # BotVersion

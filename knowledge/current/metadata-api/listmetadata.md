@@ -5,9 +5,9 @@ topic: listmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.880Z
+lastCollected: 2026-03-12T09:33:40.378Z
 estimatedTokens: 872
-keywords: [listMetadata, call, retrieves, information, metadata, components, organization., Data, returned, match, criteria, specified, queries, parameter., array, contain, three, ListMetadataQuery, call., supports]
+keywords: [listMetadata, call, retrieves, metadata, components, organization, Data, match, criteria, queries, array, contain, three, ListMetadataQuery, supports]
 ---
 
 # listMetadata()

@@ -5,9 +5,9 @@ topic: connect-mulesoft-with-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:12.389Z
+lastCollected: 2026-03-12T09:33:13.342Z
 estimatedTokens: 218
-keywords: [Connect, MuleSoft, Data, Cloud, power, its, ecosystem, data, connectors, bring, Cloud., Salesforce, Connector, helps, integrate, instance, external, systems., Ingestion, API]
+keywords: [Connect, MuleSoft, Data, Cloud, power, ecosystem, connectors, bring, Salesforce, Connector, helps, integrate, instance, external, systems]
 ---
 
 # Connect MuleSoft with Data Cloud

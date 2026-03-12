@@ -5,9 +5,9 @@ topic: connectapifulfillmentorderinvoiceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.543Z
+lastCollected: 2026-03-12T09:33:27.601Z
 estimatedTokens: 98
-keywords: [ConnectApi.FulfillmentOrderInvoiceOutputRepresentation, created, invoice.]
+keywords: [created, invoice]
 ---
 
 # ConnectApi.FulfillmentOrderInvoiceOutputRepresentation

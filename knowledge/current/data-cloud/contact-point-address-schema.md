@@ -5,9 +5,9 @@ topic: contact-point-address-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.176Z
+lastCollected: 2026-03-12T09:33:13.116Z
 estimatedTokens: 633
-keywords: [Contact, Point, Address, Schema, contact, point, address, schema, capture, profile, data, map, individual, streams., contains, mix, required, optional, fields., order]
+keywords: [Contact, Point, Address, Schema, capture, profile, data, map, individual, streams, mix, order, provided]
 ---
 
 # Contact Point Address Schema

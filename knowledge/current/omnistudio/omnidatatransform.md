@@ -5,9 +5,9 @@ topic: omnidatatransform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.460Z
+lastCollected: 2026-03-12T09:33:51.039Z
 estimatedTokens: 2961
-keywords: [OmniDataTransform, Represents, header, configuration, DataRaptor., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OmniDataTransformItem, Declarative, Metadata, Sample, Definition]
+keywords: [OmniDataTransform, configuration, DataRaptor, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, OmniDataTransformItem, Declarative, Metadata, internal]
 ---
 
 # OmniDataTransform

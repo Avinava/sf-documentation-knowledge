@@ -5,9 +5,9 @@ topic: contextdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.111Z
+lastCollected: 2026-03-12T09:33:50.722Z
 estimatedTokens: 3233
-keywords: [ContextDefinition, Represents, details, context, definition, describe, relationship, between, node, structures, within, context., Important, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [ContextDefinition, context, definition, describe, relationship, node, structures, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 59.0, later, SOAP]
 ---
 
 # ContextDefinition

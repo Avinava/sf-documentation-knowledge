@@ -5,9 +5,9 @@ topic: conversationvendorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.099Z
+lastCollected: 2026-03-12T09:33:37.817Z
 estimatedTokens: 3508
-keywords: [ConversationVendorInfo, Represents, connection, between, partner, vendor, system, Service, Cloud, feature., example, Voice, contains, information, telephony, Contact, Center, CCaaS, system., Bring]
+keywords: [ConversationVendorInfo, connection, partner, vendor, system, Service, Cloud, feature, Voice, telephony, Contact, Center, CCaaS, Bring, Own]
 ---
 
 # ConversationVendorInfo

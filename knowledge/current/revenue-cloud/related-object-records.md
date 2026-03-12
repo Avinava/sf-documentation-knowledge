@@ -5,9 +5,9 @@ topic: related-object-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.345Z
+lastCollected: 2026-03-12T09:33:09.877Z
 estimatedTokens: 143
-keywords: [Related, Records, Output, representation, related, records, specified, record, API, name.]
+keywords: [Records, Output, representation, record, API]
 ---
 
 # Related Object Records

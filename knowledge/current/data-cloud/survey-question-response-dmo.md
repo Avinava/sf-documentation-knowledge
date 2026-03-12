@@ -5,9 +5,9 @@ topic: survey-question-response-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.984Z
+lastCollected: 2026-03-12T09:33:15.670Z
 estimatedTokens: 625
-keywords: [Survey, Question, Response, DMO, Data, Cloud, data, model, participants, who, answer, specific, questions., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Survey, Question, DMO, Data, Cloud, model, participants, answer, specific, questions, API, Category, Primary, Subject, Area]
 ---
 
 # Survey Question Response DMO

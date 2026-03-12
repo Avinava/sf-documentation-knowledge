@@ -5,9 +5,9 @@ topic: transaction-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:09.241Z
+lastCollected: 2026-03-12T09:33:10.601Z
 estimatedTokens: 3363
-keywords: [Transaction, Management, Standard, Objects, data, model, provides, objects, fields, manage, transactions.]
+keywords: [Transaction, Management, Standard, Objects, data, model, manage, transactions]
 ---
 
 # Transaction Management Standard Objects

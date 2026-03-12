@@ -5,9 +5,9 @@ topic: privacy-consent-log-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.734Z
+lastCollected: 2026-03-12T09:33:15.436Z
 estimatedTokens: 1025
-keywords: [Privacy, Consent, Log, DMO, Data, Cloud, data, model, information, user’s, requested, consent, privacy, information., API, Name, Category, Primary, Subject, Area]
+keywords: [Privacy, Consent, Log, DMO, Data, Cloud, model, user’s, requested, API, Category, Primary, Subject, Area, Key]
 ---
 
 # Privacy Consent Log DMO

@@ -5,10 +5,10 @@ topic: notificationclient-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.957Z
+lastCollected: 2026-03-12T09:33:22.362Z
 estimatedTokens: 602
 namespace: CommercePayments
-keywords: [NotificationClient, Communicates, payment, platform, regarding, gateway’s, notification., Usage, Example, record, notification]
+keywords: [NotificationClient, Communicates, payment, platform, regarding, gateway’s, notification, Usage, record]
 ---
 
 # NotificationClient Class

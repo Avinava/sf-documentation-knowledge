@@ -5,9 +5,9 @@ topic: getformattedthreadingtokenrecordid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.192Z
+lastCollected: 2026-03-12T09:33:19.868Z
 estimatedTokens: 699
-keywords: [getFormattedThreadingToken, recordId, email, threading, token, that’s, formatted, correct, prefix, suffix., embedded, outbound, body, subject, both, subject., users, reply, tokens, used]
+keywords: [getFormattedThreadingToken, recordId, email, threading, token, that’s, formatted, correct, prefix, suffix, embedded, outbound, subject, users, reply]
 ---
 
 # getFormattedThreadingToken(recordId)

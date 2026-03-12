@@ -5,9 +5,9 @@ topic: lightningcomponentbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.934Z
+lastCollected: 2026-03-12T09:33:45.083Z
 estimatedTokens: 1245
-keywords: [LightningComponentBundle, Represents, Lightning, web, component, bundle., bundle, contains, its, related, resources., API, version, 45.0, later., Supported, SOAP, Calls, REST, HTTP]
+keywords: [LightningComponentBundle, Lightning, web, component, bundle, resources, API, version, 45.0, later, SOAP, Calls, REST, HTTP, Usage]
 ---
 
 # LightningComponentBundle

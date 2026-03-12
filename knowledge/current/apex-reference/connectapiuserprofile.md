@@ -5,9 +5,9 @@ topic: connectapiuserprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.253Z
+lastCollected: 2026-03-12T09:33:29.301Z
 estimatedTokens: 160
-keywords: [ConnectApi.UserProfile, Details, necessary, render, view, user, profile.]
+keywords: [ConnectApi.UserProfile, necessary, render, view, user, profile]
 ---
 
 # ConnectApi.UserProfile

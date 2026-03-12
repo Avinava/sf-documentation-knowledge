@@ -5,9 +5,9 @@ topic: prodtdecompenrchvarmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.031Z
+lastCollected: 2026-03-12T09:33:12.038Z
 estimatedTokens: 475
-keywords: [ProdtDecompEnrchVarMap, Represents, mapping, field, context, tag, attribute, variable, within, expression, set., API, version, 64.0, later., Supported, Calls, Fields]
+keywords: [ProdtDecompEnrchVarMap, mapping, context, tag, attribute, variable, expression, API, version, 64.0, later, Calls]
 ---
 
 # ProdtDecompEnrchVarMap

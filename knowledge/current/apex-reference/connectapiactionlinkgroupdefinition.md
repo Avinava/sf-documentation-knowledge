@@ -5,9 +5,9 @@ topic: connectapiactionlinkgroupdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.955Z
+lastCollected: 2026-03-12T09:33:26.133Z
 estimatedTokens: 631
-keywords: [ConnectApi.ActionLinkGroupDefinition, definition, action, link, group., Information, group, sensitive, third, party, example, OAuth, bearer, token, headers, reason, only, calls, made, Apex]
+keywords: [ConnectApi.ActionLinkGroupDefinition, definition, action, link, group, sensitive, third, party, OAuth, bearer, token, reason, calls, made, Apex]
 ---
 
 # ConnectApi.ActionLinkGroupDefinition

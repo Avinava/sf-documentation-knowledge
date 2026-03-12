@@ -5,9 +5,9 @@ topic: paymentssharingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:08.790Z
+lastCollected: 2026-03-12T09:33:10.222Z
 estimatedTokens: 888
-keywords: [PaymentsSharingSettings, Represents, settings, enable, account-based, sharing, view, details, related, Revenue, Cloud, Billing, objects, Payments, Refunds., Parent, Manifest, Access, File, Suffix]
+keywords: [PaymentsSharingSettings, settings, enable, account-based, sharing, view, Revenue, Cloud, Billing, objects, Payments, Refunds, Parent, Manifest, Access]
 ---
 
 # PaymentsSharingSettings

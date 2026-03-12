@@ -5,9 +5,9 @@ topic: debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.097Z
+lastCollected: 2026-03-12T09:33:13.010Z
 estimatedTokens: 393
-keywords: [Debugging, configured, Salesforce, Interaction, SDK, output, messages, browser, console, debugging, purposes., default, logger, log, level, none., used, Web, wraps, standard]
+keywords: [Debugging, configured, Salesforce, Interaction, SDK, output, messages, browser, console, purposes, logger, log, level, none, Web]
 ---
 
 # Debugging

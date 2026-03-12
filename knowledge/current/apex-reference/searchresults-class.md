@@ -5,10 +5,10 @@ topic: searchresults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.911Z
+lastCollected: 2026-03-12T09:33:21.468Z
 estimatedTokens: 615
 namespace: Search
-keywords: [SearchResults, Wraps, results, returned, Search.find, String​, method., get, sObjectType, Usage]
+keywords: [SearchResults, Wraps, results, Search.find, String​, sObjectType, Usage]
 ---
 
 # SearchResults Class

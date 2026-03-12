@@ -5,9 +5,9 @@ topic: classes-and-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:32.514Z
+lastCollected: 2026-03-12T09:33:32.548Z
 estimatedTokens: 212
-keywords: [Classes, Collections, Lists, maps, used, classes, interfaces, same, ways, lists, sObjects., means, example, user-defined, data, key, map., Likewise, create, set]
+keywords: [Classes, Collections, maps, interfaces, ways, sObjects, means, user-defined, data, key, map, Likewise, objects]
 ---
 
 # Classes and Collections

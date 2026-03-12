@@ -5,9 +5,9 @@ topic: cancel-approval-submission-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.652Z
+lastCollected: 2026-03-12T09:33:05.825Z
 estimatedTokens: 308
-keywords: [Cancel, Approval, Submission, Action, Cancels, approval, submission, child, work, items, haven't, completed., add, comments, why, admin, made, cancellation., Supported, REST]
+keywords: [Cancel, Approval, Submission, Action, Cancels, child, work, items, haven't, completed, add, comments, why, admin, made]
 ---
 
 # Cancel Approval Submission Action

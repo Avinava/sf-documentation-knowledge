@@ -5,9 +5,9 @@ topic: engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.121Z
+lastCollected: 2026-03-12T09:33:49.785Z
 estimatedTokens: 548
-keywords: [Engagement, engagement, objects, store, details, between, customer, service, representative.]
+keywords: [Engagement, objects, store, customer, service, representative]
 ---
 
 # Engagement

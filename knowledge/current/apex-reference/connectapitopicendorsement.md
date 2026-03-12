@@ -5,9 +5,9 @@ topic: connectapitopicendorsement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.175Z
+lastCollected: 2026-03-12T09:33:29.219Z
 estimatedTokens: 138
-keywords: [ConnectApi.TopicEndorsement, Represents, user, endorsing, another, single, topic.]
+keywords: [ConnectApi.TopicEndorsement, user, endorsing, another, topic]
 ---
 
 # ConnectApi.TopicEndorsement

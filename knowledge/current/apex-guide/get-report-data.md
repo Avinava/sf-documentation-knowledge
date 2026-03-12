@@ -5,9 +5,9 @@ topic: get-report-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.181Z
+lastCollected: 2026-03-12T09:33:32.224Z
 estimatedTokens: 298
-keywords: [Get, Report, Data, ReportResults, get, fact, map, which, contains, data, that’s, associated, report., Example]
+keywords: [Report, Data, ReportResults, fact, map, that’s, associated]
 ---
 
 # Get Report Data

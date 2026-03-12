@@ -5,9 +5,9 @@ topic: assignmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.717Z
+lastCollected: 2026-03-12T09:33:43.882Z
 estimatedTokens: 34
-keywords: [AssignmentRule, Don’t, object.]
+keywords: [AssignmentRule, Don’t]
 ---
 
 # AssignmentRule

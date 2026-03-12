@@ -5,9 +5,9 @@ topic: settabtextstyle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.488Z
+lastCollected: 2026-03-12T09:33:56.536Z
 estimatedTokens: 362
-keywords: [setTabTextStyle, cascading, style, sheet, CSS, specified, tab’s, text., tab, set, enclosing, customize, text, style., only, API, version, 28.0, later., Syntax]
+keywords: [setTabTextStyle, cascading, style, sheet, CSS, tab’s, text, tab, enclosing, customize, API, version, 28.0, later, Arguments]
 ---
 
 # setTabTextStyle()

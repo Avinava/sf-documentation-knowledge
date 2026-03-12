@@ -5,9 +5,9 @@ topic: list-org-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.998Z
+lastCollected: 2026-03-12T09:33:34.888Z
 estimatedTokens: 162
-keywords: [List, Org, Limits, resource, list, org, limits.]
+keywords: [Org, Limits, resource]
 ---
 
 # List Org Limits

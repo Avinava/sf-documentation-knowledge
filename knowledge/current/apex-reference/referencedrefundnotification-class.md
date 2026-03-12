@@ -5,10 +5,10 @@ topic: referencedrefundnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.048Z
+lastCollected: 2026-03-12T09:33:22.440Z
 estimatedTokens: 2397
 namespace: CommercePayments
-keywords: [ReferencedRefundNotification, payment, gateway, sends, notification, refund, transaction, adapter, creates, store, information, notification., Usage, Example, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate]
+keywords: [ReferencedRefundNotification, payment, gateway, notification, refund, transaction, adapter, creates, store, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate]
 ---
 
 # ReferencedRefundNotification Class

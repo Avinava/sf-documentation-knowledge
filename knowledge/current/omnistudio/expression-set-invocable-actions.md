@@ -5,9 +5,9 @@ topic: expression-set-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:51.148Z
+lastCollected: 2026-03-12T09:33:49.811Z
 estimatedTokens: 197
-keywords: [Expression, Set, Invocable, Actions, actions, invoke, flow., Note]
+keywords: [Expression, Invocable, Actions, invoke, flow]
 ---
 
 # Expression Set Invocable Actions

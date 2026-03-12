@@ -6,9 +6,9 @@ topic: getnavigationitems-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.765Z
+lastCollected: 2026-03-12T09:33:55.860Z
 estimatedTokens: 316
-keywords: [getNavigationItems, Lightning, Experience, information, items, navigation, menu., works, only, console, apps., Arguments, Sample, Code, Response]
+keywords: [getNavigationItems, Lightning, Experience, items, navigation, menu, works, console, apps, Arguments, Sample, Code]
 ---
 
 # getNavigationItems() for Lightning Experience for

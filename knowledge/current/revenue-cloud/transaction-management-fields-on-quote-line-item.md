@@ -5,9 +5,9 @@ topic: transaction-management-fields-on-quote-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.227Z
+lastCollected: 2026-03-12T09:33:10.588Z
 estimatedTokens: 1332
-keywords: [Transaction, Management, Fields, Quote, Line, Item, Standard, custom, fields, extend, standard, represent, information, line, items, quote., API, version, 60.0, later.]
+keywords: [Transaction, Management, Quote, Line, Item, Standard, custom, extend, represent, items, API, version, 60.0, later, Special]
 ---
 
 # Transaction Management Fields on Quote Line Item

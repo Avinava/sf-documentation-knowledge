@@ -5,9 +5,9 @@ topic: oncallend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.245Z
+lastCollected: 2026-03-12T09:33:56.307Z
 estimatedTokens: 188
-keywords: [onCallEnd, Registers, function, called, call, ends., computer-telephony, integration, CTI, it’s, only, API, version, 24.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [onCallEnd, Registers, function, call, ends, computer-telephony, integration, CTI, it’s, API, version, 24.0, later, Arguments, Sample]
 ---
 
 # onCallEnd()

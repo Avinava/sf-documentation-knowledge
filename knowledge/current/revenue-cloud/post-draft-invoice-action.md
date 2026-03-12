@@ -5,9 +5,9 @@ topic: post-draft-invoice-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.932Z
+lastCollected: 2026-03-12T09:33:06.070Z
 estimatedTokens: 380
-keywords: [Post, Draft, Invoice, Action, Update, status, invoice, Posted, credit, memo, application., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Post, Draft, Invoice, Action, status, Posted, credit, memo, application, Special, Access, Rules, REST, HTTP, Inputs]
 ---
 
 # Post Draft Invoice Action

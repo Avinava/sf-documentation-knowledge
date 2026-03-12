@@ -5,9 +5,9 @@ topic: getpartyincomefrequencylabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.737Z
+lastCollected: 2026-03-12T09:33:29.769Z
 estimatedTokens: 67
-keywords: [GetPartyIncomeFrequencyLabel, picklist, values, party, income, frequency, field, entity.]
+keywords: [GetPartyIncomeFrequencyLabel, picklist, party, income, frequency, entity]
 ---
 
 # GetPartyIncomeFrequencyLabel

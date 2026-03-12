@@ -5,10 +5,10 @@ topic: batchable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.072Z
+lastCollected: 2026-03-12T09:33:30.112Z
 estimatedTokens: 1119
 namespace: Database
-keywords: [Batchable, implements, executed, batch, Apex, job., execute, jobId, recordList, finish, start]
+keywords: [Batchable, implements, executed, batch, Apex, job, execute, jobId, recordList, finish, start]
 ---
 
 # Batchable Interface

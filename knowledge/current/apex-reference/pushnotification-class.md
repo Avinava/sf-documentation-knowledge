@@ -5,10 +5,10 @@ topic: pushnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.663Z
+lastCollected: 2026-03-12T09:33:24.063Z
 estimatedTokens: 221
 namespace: Messaging
-keywords: [PushNotification, used, configure, push, notifications, send, Apex, trigger., Example]
+keywords: [PushNotification, configure, push, notifications, send, Apex, trigger]
 ---
 
 # PushNotification Class

@@ -5,9 +5,9 @@ topic: connectapiproductchildcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.529Z
+lastCollected: 2026-03-12T09:33:28.566Z
 estimatedTokens: 346
-keywords: [ConnectApi.ProductChildCollection, Collection, child, products, related, parent, product.]
+keywords: [ConnectApi.ProductChildCollection, Collection, child, products, parent, product]
 ---
 
 # ConnectApi.ProductChildCollection

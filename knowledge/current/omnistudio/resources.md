@@ -5,9 +5,9 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.370Z
+lastCollected: 2026-03-12T09:33:46.414Z
 estimatedTokens: 212
-keywords: [Resources, Here’s, list, Accelerator, API, resources., Common, Business, Context, Service, Decision, Explainer, includes, Table, Digital, Lending, APIs, include, Expression, Set]
+keywords: [Resources, Here’s, Accelerator, API, Common, Business, Context, Service, Decision, Explainer, includes, Digital, Lending, APIs, include, Expression, Intelligent, Form, Reader, Group]
 ---
 
 # Resources

@@ -5,9 +5,9 @@ topic: build-client-applications-for-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.052Z
+lastCollected: 2026-03-12T09:33:41.495Z
 estimatedTokens: 235
-keywords: [Build, Client, Applications, Metadata, API, retrieve, deploy, create, update, delete, customizations, org., most, common, migrate, changes, sandbox, testing, org, production]
+keywords: [Build, Client, Applications, Metadata, API, retrieve, deploy, customizations, org, common, migrate, changes, sandbox, testing, production]
 ---
 
 # Build Client Applications for Metadata API

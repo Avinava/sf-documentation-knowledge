@@ -5,9 +5,9 @@ topic: procedureplancriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.025Z
+lastCollected: 2026-03-12T09:33:12.033Z
 estimatedTokens: 411
-keywords: [ProcedurePlanCriterion, procedure, plan, option, associated, criterion, record., API, version, 67.0, later., Supported, Calls, Fields, Represents, within, 62.0, Important, SOAP, REST]
+keywords: [ProcedurePlanCriterion, procedure, plan, option, associated, criterion, record, API, version, 67.0, later, Calls, 62.0, SOAP, REST]
 ---
 
 # ProcedurePlanCriterion

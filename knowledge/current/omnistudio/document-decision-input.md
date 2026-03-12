@@ -5,9 +5,9 @@ topic: document-decision-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.309Z
+lastCollected: 2026-03-12T09:33:47.312Z
 estimatedTokens: 101
-keywords: [Document, Decision, Input, representation, request.]
+keywords: [Document, Decision, Input, representation]
 ---
 
 # Document Decision Input

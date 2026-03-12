@@ -5,9 +5,9 @@ topic: error-response-for-batch-invoice-document-generation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.359Z
+lastCollected: 2026-03-12T09:33:09.097Z
 estimatedTokens: 115
-keywords: [Error, Response, Batch, Invoice, Document, Generation, Output, representation, error, details, associated, API.]
+keywords: [Error, Batch, Invoice, Document, Generation, Output, representation, associated, API]
 ---
 
 # Error Response for Batch Invoice Document Generation

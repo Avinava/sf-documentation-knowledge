@@ -5,9 +5,9 @@ topic: connectapidatacloudcompanies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.977Z
+lastCollected: 2026-03-12T09:33:27.068Z
 estimatedTokens: 229
-keywords: [ConnectApi.DatacloudCompanies, Lists, companies, were, purchased, specific, order, page, URLs, number, order.]
+keywords: [ConnectApi.DatacloudCompanies, companies, were, purchased, specific, order, URLs, number]
 ---
 
 # ConnectApi.DatacloudCompanies

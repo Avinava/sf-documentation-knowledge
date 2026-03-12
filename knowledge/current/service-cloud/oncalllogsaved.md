@@ -5,9 +5,9 @@ topic: oncalllogsaved
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.249Z
+lastCollected: 2026-03-12T09:33:56.310Z
 estimatedTokens: 229
-keywords: [onCallLogSaved, Registers, function, fired, interaction, log, saves, call, log., get, information, send, between, custom, console, component., only, API, version, 31.0]
+keywords: [onCallLogSaved, Registers, function, fired, interaction, log, saves, call, send, custom, console, component, API, version, 31.0]
 ---
 
 # onCallLogSaved()

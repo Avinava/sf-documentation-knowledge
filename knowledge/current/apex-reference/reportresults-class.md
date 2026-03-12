@@ -5,10 +5,10 @@ topic: reportresults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.182Z
+lastCollected: 2026-03-12T09:33:23.568Z
 estimatedTokens: 1382
 namespace: Reports
-keywords: [ReportResults, Contains, results, running, report., getAllData, Syntax, Usage, Note, getFactMap, getGroupingsAcross, getGroupingsDown, getHasDetailRows, getReportExtendedMetadata, getReportMetadata]
+keywords: [ReportResults, results, running, report, getAllData, Usage, getFactMap, getGroupingsAcross, getGroupingsDown, getHasDetailRows, getReportExtendedMetadata, getReportMetadata]
 ---
 
 # ReportResults Class

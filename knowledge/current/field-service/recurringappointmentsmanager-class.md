@@ -5,10 +5,10 @@ topic: recurringappointmentsmanager-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.262Z
+lastCollected: 2026-03-12T09:33:53.589Z
 estimatedTokens: 1819
 namespace: FSL
-keywords: [RecurringAppointmentsManager, Represents, result, getRecurringAppointmentSlots, pattern, appointments, recur, weekly., Usage, getRecurringAppointmentsSlots, Important, Example, Execution, Script]
+keywords: [RecurringAppointmentsManager, result, getRecurringAppointmentSlots, pattern, appointments, recur, weekly, Usage, getRecurringAppointmentsSlots, Execution, Script]
 ---
 
 # RecurringAppointmentsManager Class

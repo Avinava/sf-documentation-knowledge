@@ -5,9 +5,9 @@ topic: usageratablesumcmtassetrt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.767Z
+lastCollected: 2026-03-12T09:33:12.710Z
 estimatedTokens: 698
-keywords: [UsageRatableSumCmtAssetRt, Represents, rate, that’s, calculated, applicable, usage, resource, associated, commitment, assets, related, anchor., API, version, 65.0, later., Important, Supported, Calls]
+keywords: [UsageRatableSumCmtAssetRt, rate, that’s, calculated, applicable, usage, resource, associated, commitment, assets, anchor, API, version, 65.0, later]
 ---
 
 # UsageRatableSumCmtAssetRt

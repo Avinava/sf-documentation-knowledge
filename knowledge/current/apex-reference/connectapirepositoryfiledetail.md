@@ -5,9 +5,9 @@ topic: connectapirepositoryfiledetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.879Z
+lastCollected: 2026-03-12T09:33:28.926Z
 estimatedTokens: 66
-keywords: [ConnectApi.RepositoryFileDetail, detailed, description, repository, file.]
+keywords: [ConnectApi.RepositoryFileDetail, detailed, repository, file]
 ---
 
 # ConnectApi.RepositoryFileDetail

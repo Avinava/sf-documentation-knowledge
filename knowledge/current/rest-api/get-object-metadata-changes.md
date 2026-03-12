@@ -5,9 +5,9 @@ topic: get-object-metadata-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.223Z
+lastCollected: 2026-03-12T09:33:36.053Z
 estimatedTokens: 368
-keywords: [Get, Metadata, Changes, sObject, Describe, resource, If-Modified-Since, HTTP, header, determine, metadata, changed.]
+keywords: [Metadata, Changes, sObject, Describe, resource, If-Modified-Since, HTTP, determine, changed]
 ---
 
 # Get Object Metadata Changes

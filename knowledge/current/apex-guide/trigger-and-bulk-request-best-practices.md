@@ -5,9 +5,9 @@ topic: trigger-and-bulk-request-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.147Z
+lastCollected: 2026-03-12T09:33:34.142Z
 estimatedTokens: 651
-keywords: [Trigger, Bulk, Request, Best, Practices, common, development, pitfall, assumption, trigger, invocations, never, include, record., Apex, triggers, optimized, operate, bulk, which]
+keywords: [Trigger, Bulk, Best, Practices, common, development, pitfall, assumption, invocations, never, include, record, Apex, triggers, optimized]
 ---
 
 # Trigger and Bulk Request Best Practices

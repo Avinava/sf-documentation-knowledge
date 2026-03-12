@@ -5,9 +5,9 @@ topic: commerce-return-order-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.283Z
+lastCollected: 2026-03-12T09:33:14.127Z
 estimatedTokens: 684
-keywords: [Commerce, Order, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., order, products, Salesforce]
+keywords: [Commerce, Order, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, products]
 ---
 
 # Commerce: Return Order Mapping

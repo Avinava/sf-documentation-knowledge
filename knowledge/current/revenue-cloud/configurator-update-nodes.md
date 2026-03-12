@@ -5,9 +5,9 @@ topic: configurator-update-nodes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.601Z
+lastCollected: 2026-03-12T09:33:10.053Z
 estimatedTokens: 297
-keywords: [Configurator, Update, Nodes, Output, representation, configuration, request, details, update, nodes.]
+keywords: [Configurator, Nodes, Output, representation, configuration]
 ---
 
 # Configurator Update Nodes

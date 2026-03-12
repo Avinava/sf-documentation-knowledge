@@ -5,9 +5,9 @@ topic: ingest-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.328Z
+lastCollected: 2026-03-12T09:33:13.284Z
 estimatedTokens: 300
-keywords: [Ingest, Data, Load, data, records, Cloud, programmatically, Ingestion, API, configure, connector, retrieval, schedule, order, pull, S3.]
+keywords: [Ingest, Data, Load, records, Cloud, programmatically, Ingestion, API, configure, connector, retrieval, schedule, order, pull]
 ---
 
 # Ingest Data

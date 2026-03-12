@@ -5,9 +5,9 @@ topic: connectapiocifulfillreservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.111Z
+lastCollected: 2026-03-12T09:33:28.142Z
 estimatedTokens: 116
-keywords: [ConnectApi.OCIFulfillReservationErrorOutputRepresentation, Response, request, fulfill, inventory, reservation.]
+keywords: [fulfill, inventory, reservation]
 ---
 
 # ConnectApi.OCIFulfillReservationErrorOutputRepresentation

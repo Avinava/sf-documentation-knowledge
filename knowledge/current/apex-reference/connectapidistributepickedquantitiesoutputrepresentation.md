@@ -5,9 +5,9 @@ topic: connectapidistributepickedquantitiesoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.063Z
+lastCollected: 2026-03-12T09:33:27.153Z
 estimatedTokens: 212
-keywords: [ConnectApi.DistributePickedQuantitiesOutputRepresentation, Output, representation, where, quantities, were, distributed, orders, any, remaining, quantity]
+keywords: [Output, representation, quantities, were, distributed, orders, any, remaining, quantity]
 ---
 
 # ConnectApi.DistributePickedQuantitiesOutputRepresentation

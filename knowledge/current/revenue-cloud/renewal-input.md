@@ -5,9 +5,9 @@ topic: renewal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.427Z
+lastCollected: 2026-03-12T09:33:08.276Z
 estimatedTokens: 274
-keywords: [Renewal, Input, representation, details, request, initiate, renewal, asset.]
+keywords: [Renewal, Input, representation, initiate, asset]
 ---
 
 # Renewal Input

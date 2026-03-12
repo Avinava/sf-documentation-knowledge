@@ -5,9 +5,9 @@ topic: how-are-the-classic-and-lightning-console-apis-different
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.607Z
+lastCollected: 2026-03-12T09:33:55.709Z
 estimatedTokens: 1365
-keywords: [How, Classic, Lightning, Console, APIs, Different?, user, org, dictates, which, development, tools, Salesforce, console., Integration, Toolkit, versus, JavaScript, API, Note]
+keywords: [How, Classic, Lightning, Console, APIs, Different, user, org, dictates, development, tools, Salesforce, Integration, Toolkit, versus]
 ---
 
 # How are the Classic and Lightning Console APIs Different?

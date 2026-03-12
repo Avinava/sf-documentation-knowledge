@@ -5,10 +5,10 @@ topic: layoutcolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.427Z
+lastCollected: 2026-03-12T09:33:20.934Z
 estimatedTokens: 649
 namespace: Metadata
-keywords: [LayoutColumn, Represents, items, column, within, layout, section., Usage, layoutItems, reserved, clone]
+keywords: [LayoutColumn, items, column, layout, Usage, layoutItems, reserved, clone]
 ---
 
 # LayoutColumn Class

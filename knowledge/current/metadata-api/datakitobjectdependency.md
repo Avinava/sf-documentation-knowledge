@@ -5,9 +5,9 @@ topic: datakitobjectdependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.477Z
+lastCollected: 2026-03-12T09:33:38.178Z
 estimatedTokens: 539
-keywords: [DataKitObjectDependency, Represents, dependency, between, two, data, kit, objects., templates, added, inside, kit., Important, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [DataKitObjectDependency, dependency, two, data, kit, objects, templates, added, inside, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # DataKitObjectDependency

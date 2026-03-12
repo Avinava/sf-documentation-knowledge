@@ -5,9 +5,9 @@ topic: forecastingtypesource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.151Z
+lastCollected: 2026-03-12T09:33:39.679Z
 estimatedTokens: 939
-keywords: [ForecastingTypeSource, Represents, mapping, forecasting, source, definition, forecast, type., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+keywords: [ForecastingTypeSource, mapping, forecasting, source, definition, forecast, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---
 
 # ForecastingTypeSource

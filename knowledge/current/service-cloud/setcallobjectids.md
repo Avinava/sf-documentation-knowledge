@@ -5,9 +5,9 @@ topic: setcallobjectids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.413Z
+lastCollected: 2026-03-12T09:33:56.459Z
 estimatedTokens: 178
-keywords: [setCallObjectIds, call, IDs, ascending, order, arrival., only, API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [setCallObjectIds, call, IDs, ascending, order, arrival, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # setCallObjectIds()

@@ -5,9 +5,9 @@ topic: field-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.256Z
+lastCollected: 2026-03-12T09:33:48.944Z
 estimatedTokens: 98
-keywords: [Field, Count, Details, fields, whose, values, fall, outside, expected, trained, data, range, prediction, model.]
+keywords: [Count, whose, fall, outside, expected, trained, data, range, prediction, model]
 ---
 
 # Field Count

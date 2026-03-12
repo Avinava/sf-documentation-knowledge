@@ -5,9 +5,9 @@ topic: return-layout-headers-for-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.007Z
+lastCollected: 2026-03-12T09:33:35.855Z
 estimatedTokens: 117
-keywords: [Layout, Headers, Specified, only, headers, returned, GET, request, sObject, Layouts, resources., gives, chance, header, values, ahead, time, before, retrieving, content]
+keywords: [Layout, sObject, Layouts, resources, gives, chance, ahead, time, retrieving, content, resource]
 ---
 
 # Return Layout Headers for a Specified Object

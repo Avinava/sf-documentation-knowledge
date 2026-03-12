@@ -5,9 +5,9 @@ topic: outboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.593Z
+lastCollected: 2026-03-12T09:33:41.056Z
 estimatedTokens: 841
-keywords: [OutboundNetworkConnection, Represents, connection, between, Salesforce, org, third-party, data, service., outbound, because, callouts, going, Salesforce., extends, Metadata, metadata, inherits, its, fullName]
+keywords: [OutboundNetworkConnection, connection, Salesforce, org, third-party, data, service, outbound, because, callouts, going, extends, Metadata, inherits, fullName]
 ---
 
 # OutboundNetworkConnection

@@ -5,9 +5,9 @@ topic: recordalertcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.628Z
+lastCollected: 2026-03-12T09:33:51.196Z
 estimatedTokens: 416
-keywords: [RecordAlertCategory, Represents, category, group, present, record, alerts., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
+keywords: [RecordAlertCategory, category, group, present, record, alerts, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, API, version, 54.0, later, Calls]
 ---
 
 # RecordAlertCategory

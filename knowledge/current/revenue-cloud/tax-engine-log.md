@@ -5,9 +5,9 @@ topic: tax-engine-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.572Z
+lastCollected: 2026-03-12T09:33:10.029Z
 estimatedTokens: 119
-keywords: [Tax, Engine, Log, Output, representation, logs, tax, engine, generates.]
+keywords: [Tax, Engine, Log, Output, representation, logs, generates]
 ---
 
 # Tax Engine Log

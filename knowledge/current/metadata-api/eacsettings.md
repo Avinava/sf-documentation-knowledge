@@ -5,9 +5,9 @@ topic: eacsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.085Z
+lastCollected: 2026-03-12T09:33:38.744Z
 estimatedTokens: 1803
-keywords: [EACSettings, Represents, Einstein, Activity, Capture, metadata, type., add, emails, events, Microsoft, Google, account, activity, timeline, related, Salesforce, records., Automatically, sync]
+keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, events, Microsoft, Google, account, timeline, Salesforce, records, Automatically]
 ---
 
 # EACSettings

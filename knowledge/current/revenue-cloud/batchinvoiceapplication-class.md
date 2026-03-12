@@ -5,10 +5,10 @@ topic: batchinvoiceapplication-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.113Z
+lastCollected: 2026-03-12T09:33:06.231Z
 estimatedTokens: 410
 namespace: ConnectApi
-keywords: [BatchInvoiceApplication, Update, batch, invoices, Draft, Posted, status, credit, memo, application., class., triggerInvoiceBatchDraftToPosted, invoiceBatchRunId, API, Version, Requires, Chatter, Usage]
+keywords: [BatchInvoiceApplication, batch, invoices, Draft, Posted, status, credit, memo, application, triggerInvoiceBatchDraftToPosted, invoiceBatchRunId, API, Version, Requires, Chatter]
 ---
 
 # BatchInvoiceApplication Class

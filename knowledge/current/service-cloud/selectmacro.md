@@ -5,9 +5,9 @@ topic: selectmacro
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.381Z
+lastCollected: 2026-03-12T09:33:56.428Z
 estimatedTokens: 203
-keywords: [selectMacro, Selects, displays, specific, macro, widget., only, API, version, 36.0, later., isn’t, supported, Lightning, Console., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [selectMacro, Selects, displays, specific, macro, widget, API, version, 36.0, later, isn’t, Lightning, Console, Arguments, Sample]
 ---
 
 # selectMacro()

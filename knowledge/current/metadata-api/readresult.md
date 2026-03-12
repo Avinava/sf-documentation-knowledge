@@ -5,9 +5,9 @@ topic: readresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.124Z
+lastCollected: 2026-03-12T09:33:41.557Z
 estimatedTokens: 70
-keywords: [ReadResult, Contains, result, information, readMetadata, call., Version]
+keywords: [ReadResult, result, readMetadata, call, Version]
 ---
 
 # ReadResult

@@ -2,7 +2,7 @@
 domain: lwc
 name: Lightning Web Components
 documentCount: 1
-lastGenerated: 2026-03-12T05:15:09.282Z
+lastGenerated: 2026-03-12T09:36:25.650Z
 ---
 
 # Lightning Web Components — Knowledge Index

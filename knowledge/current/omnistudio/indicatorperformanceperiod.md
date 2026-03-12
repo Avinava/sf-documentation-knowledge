@@ -5,9 +5,9 @@ topic: indicatorperformanceperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.846Z
+lastCollected: 2026-03-12T09:33:51.419Z
 estimatedTokens: 1048
-keywords: [IndicatorPerformancePeriod, Represents, information, specified, time, period, including, frequency, which, indicator, results, should, calculated, baseline, indicator., API, version, 59.0, later., Important]
+keywords: [IndicatorPerformancePeriod, time, period, including, frequency, indicator, results, calculated, baseline, API, version, 59.0, later, Calls, Special]
 ---
 
 # IndicatorPerformancePeriod

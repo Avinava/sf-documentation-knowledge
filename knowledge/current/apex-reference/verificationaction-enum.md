@@ -5,9 +5,9 @@ topic: verificationaction-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.417Z
+lastCollected: 2026-03-12T09:33:29.464Z
 estimatedTokens: 144
-keywords: [VerificationAction, Indicates, send, one-time, password, OTP, user, during, headless, passwordless, login, flow., Usage, Values]
+keywords: [VerificationAction, send, one-time, password, OTP, user, headless, passwordless, login, flow, Usage]
 ---
 
 # VerificationAction Enum

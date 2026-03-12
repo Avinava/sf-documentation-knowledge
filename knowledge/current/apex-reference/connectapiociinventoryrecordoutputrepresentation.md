@@ -5,9 +5,9 @@ topic: connectapiociinventoryrecordoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.128Z
+lastCollected: 2026-03-12T09:33:28.167Z
 estimatedTokens: 222
-keywords: [ConnectApi.OCIInventoryRecordOutputRepresentation, Inventory, availability, data, product.]
+keywords: [Inventory, availability, data, product]
 ---
 
 # ConnectApi.OCIInventoryRecordOutputRepresentation

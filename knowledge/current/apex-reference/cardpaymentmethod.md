@@ -5,9 +5,9 @@ topic: cardpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.070Z
+lastCollected: 2026-03-12T09:33:24.366Z
 estimatedTokens: 126
-keywords: [cardPaymentMethod, card, payment, used, postauthorizaiton, request.]
+keywords: [cardPaymentMethod, card, payment, postauthorizaiton]
 ---
 
 # cardPaymentMethod

@@ -5,9 +5,9 @@ topic: compliancepolicyclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.845Z
+lastCollected: 2026-03-12T09:33:52.313Z
 estimatedTokens: 837
-keywords: [CompliancePolicyClause, Represents, information, related, Compliance, Policy, outlining, specific, requirements, sections., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [CompliancePolicyClause, Compliance, Policy, outlining, specific, requirements, sections, API, version, 65.0, later, Calls, Associated, Objects]
 ---
 
 # CompliancePolicyClause

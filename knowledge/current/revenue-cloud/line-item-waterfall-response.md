@@ -5,9 +5,9 @@ topic: line-item-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:07.897Z
+lastCollected: 2026-03-12T09:33:09.498Z
 estimatedTokens: 390
-keywords: [Line, Item, Waterfall, Response, Output, representation, line, item, waterfall, response.]
+keywords: [Line, Item, Waterfall, Output, representation]
 ---
 
 # Line Item Waterfall Response

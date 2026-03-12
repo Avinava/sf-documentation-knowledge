@@ -5,9 +5,9 @@ topic: invoicelinerelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.577Z
+lastCollected: 2026-03-12T09:33:11.677Z
 estimatedTokens: 1167
-keywords: [InvoiceLineRelationship, Represents, relationship, between, invoice, line, items, support, bundles, where, parent, multiple, child, lines., API, version, 62.0, later., Important, Supported]
+keywords: [InvoiceLineRelationship, relationship, invoice, line, items, support, bundles, parent, multiple, child, lines, API, version, 62.0, later]
 ---
 
 # InvoiceLineRelationship

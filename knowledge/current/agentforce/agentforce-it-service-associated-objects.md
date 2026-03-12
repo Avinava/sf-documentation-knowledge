@@ -5,9 +5,9 @@ topic: agentforce-it-service-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.319Z
+lastCollected: 2026-03-12T09:33:15.992Z
 estimatedTokens: 524
-keywords: [Agentforce, Service, Associated, Objects, section, provides, list, objects, associated, Channel, Revenue, Management, standard, their, fields.]
+keywords: [Agentforce, Service, Associated, Objects, Channel, Revenue, Management, standard, their]
 ---
 
 # Agentforce IT Service Associated Objects

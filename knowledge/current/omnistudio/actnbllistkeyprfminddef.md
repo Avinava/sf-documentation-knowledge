@@ -5,9 +5,9 @@ topic: actnbllistkeyprfminddef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.898Z
+lastCollected: 2026-03-12T09:33:50.531Z
 estimatedTokens: 694
-keywords: [ActnblListKeyPrfmIndDef, Represents, custom, key, performance, indicators, that're, defined, specific, field, object., API, version, 64.0, later., Important, Parent, File, Suffix, Directory]
+keywords: [ActnblListKeyPrfmIndDef, custom, key, performance, indicators, that're, defined, specific, API, version, 64.0, later, Parent, File, Suffix, 60.0, Calls, Special, Access, Rules]
 ---
 
 # ActnblListKeyPrfmIndDef

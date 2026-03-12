@@ -5,10 +5,10 @@ topic: controlevaluationinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.476Z
+lastCollected: 2026-03-12T09:33:46.513Z
 estimatedTokens: 734
 namespace: ComplianceMgmt
-keywords: [ControlEvaluationInput, Represents, input, used, ComplianceEvaluation, interface's, evaluate, method., contains, map, ControlInput, stores, business, context, required, compliance., Example, getControlInputValue, controlInput, setControlInputValue]
+keywords: [ControlEvaluationInput, input, ComplianceEvaluation, interface's, evaluate, map, ControlInput, stores, business, context, compliance, getControlInputValue, setControlInputValue]
 ---
 
 # ControlEvaluationInput Class

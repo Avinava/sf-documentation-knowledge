@@ -5,9 +5,9 @@ topic: context-definition-upgrade-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.160Z
+lastCollected: 2026-03-12T09:33:47.169Z
 estimatedTokens: 116
-keywords: [Context, Definition, Upgrade, Input, representation, context, definition, upgrade.]
+keywords: [Context, Definition, Upgrade, Input, representation]
 ---
 
 # Context Definition Upgrade Input

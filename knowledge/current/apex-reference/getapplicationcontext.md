@@ -5,9 +5,9 @@ topic: getapplicationcontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.375Z
+lastCollected: 2026-03-12T09:33:20.034Z
 estimatedTokens: 230
-keywords: [getApplicationContext, Retrieves, application, context, information., Usage, Example]
+keywords: [getApplicationContext, Retrieves, application, context, Usage]
 ---
 
 # getApplicationContext()

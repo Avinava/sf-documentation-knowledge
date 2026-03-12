@@ -5,9 +5,9 @@ topic: connectapideliveryestimationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.024Z
+lastCollected: 2026-03-12T09:33:27.115Z
 estimatedTokens: 66
-keywords: [ConnectApi.DeliveryEstimationErrorOutputRepresentation, Delivery, estimation, error.]
+keywords: [Delivery, estimation, error]
 ---
 
 # ConnectApi.DeliveryEstimationErrorOutputRepresentation

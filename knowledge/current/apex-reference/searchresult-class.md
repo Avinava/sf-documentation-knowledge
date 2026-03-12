@@ -5,10 +5,10 @@ topic: searchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.903Z
+lastCollected: 2026-03-12T09:33:21.461Z
 estimatedTokens: 950
 namespace: Search
-keywords: [SearchResult, wrapper, contains, sObject, search, metadata., getSObject, getSnippet, fieldName]
+keywords: [SearchResult, wrapper, sObject, search, metadata, getSObject, getSnippet, fieldName]
 ---
 
 # SearchResult Class

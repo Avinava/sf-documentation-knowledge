@@ -5,9 +5,9 @@ topic: connectapimanagedcontentdeliverychannelsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.772Z
+lastCollected: 2026-03-12T09:33:27.821Z
 estimatedTokens: 247
-keywords: [ConnectApi.ManagedContentDeliveryChannelsRepresentation, Collection, managed, content, delivery, channels.]
+keywords: [Collection, managed, content, delivery, channels]
 ---
 
 # ConnectApi.ManagedContentDeliveryChannelsRepresentation

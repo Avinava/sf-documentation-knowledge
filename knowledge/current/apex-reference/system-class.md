@@ -5,10 +5,10 @@ topic: system-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.364Z
+lastCollected: 2026-03-12T09:33:31.397Z
 estimatedTokens: 15856
 namespace: System
-keywords: [System, Adds, job, Apex, queue, corresponds, specified, queueable, ID., abortJob, jobId, Usage, assert, condition, msg, Important, assertEquals, expected, actual, assertNotEquals]
+keywords: [System, Adds, job, Apex, queue, corresponds, queueable, abortJob, jobId, Usage, assert, condition, msg, assertEquals, expected]
 ---
 
 # System Class

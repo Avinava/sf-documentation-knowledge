@@ -5,9 +5,9 @@ topic: catalog-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.160Z
+lastCollected: 2026-03-12T09:33:13.097Z
 estimatedTokens: 785
-keywords: [Catalog, Schema, Map, Engagement, Mobile, SDK, catalog, event, schema., Note]
+keywords: [Catalog, Schema, Map, Engagement, Mobile, SDK, event]
 ---
 
 # Catalog Schema

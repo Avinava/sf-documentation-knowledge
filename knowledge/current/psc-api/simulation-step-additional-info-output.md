@@ -1,0 +1,32 @@
+---
+title: "Simulation Step Additional Info Output"
+domain: psc-api
+topic: simulation-step-additional-info-output
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:35:31.259Z
+estimatedTokens: 239
+keywords: [Simulation, Step, Additional, Info, Output, decision, matrix, sub, expression]
+---
+
+# Simulation Step Additional Info Output
+
+> Information about the decision matrix or sub expression used in a
+      step.
+
+# Simulation Step Additional Info Output
+
+Information about the decision matrix or sub expression used in a step.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=psc_api)
+
+#### Note
+
+This API has been deprecated as of API version 55.0. In API version 55.0 and later, use the new [Business APIs in Business Rules Engine](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/business_rules_engine_connect_apis.htm).
+
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| stepType | String | The type of the step.Possible values are:DecisionMatrixSubProcedure | Small, 53.0 | 53.0 |
+| versionName | String | The name of the decision matrix version or the sub expression version. | Small, 53.0 | 53.0 |
+| versionNumber | String | The version ID of the decision matrix or the sub expression. | Small, 53.0 | 53.0 |

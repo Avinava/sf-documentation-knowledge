@@ -5,9 +5,9 @@ topic: configuration-get-instance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.091Z
+lastCollected: 2026-03-12T09:33:07.991Z
 estimatedTokens: 95
-keywords: [Configuration, Get, Instance, Input, representation, request, get, product, configuration, instance.]
+keywords: [Configuration, Instance, Input, representation, product]
 ---
 
 # Configuration Get Instance Input

@@ -5,9 +5,9 @@ topic: transaction-management-fields-on-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.157Z
+lastCollected: 2026-03-12T09:33:10.520Z
 estimatedTokens: 1781
-keywords: [Transaction, Management, Fields, Order, Standard, custom, fields, extend, standard, Management., Special, Access, Rules]
+keywords: [Transaction, Management, Order, Standard, custom, extend, Special, Access, Rules]
 ---
 
 # Transaction Management Fields on Order

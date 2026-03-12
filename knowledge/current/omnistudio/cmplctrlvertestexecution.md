@@ -5,9 +5,9 @@ topic: cmplctrlvertestexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.711Z
+lastCollected: 2026-03-12T09:33:52.182Z
 estimatedTokens: 838
-keywords: [CmplCtrlVerTestExecution, Represents, details, captured, during, execution, compliance, control, test., Details, include, status, results, timing, recommendations., API, version, 66.0, later., Supported]
+keywords: [CmplCtrlVerTestExecution, captured, execution, compliance, control, test, include, status, results, timing, recommendations, API, version, 66.0, later]
 ---
 
 # CmplCtrlVerTestExecution

@@ -5,9 +5,9 @@ topic: addresses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.301Z
+lastCollected: 2026-03-12T09:33:09.047Z
 estimatedTokens: 121
-keywords: [Addresses, Output, representation, details, addresses, used, calculating, tax.]
+keywords: [Addresses, Output, representation, calculating, tax]
 ---
 
 # Addresses

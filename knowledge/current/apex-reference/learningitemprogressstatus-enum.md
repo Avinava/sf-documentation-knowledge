@@ -5,9 +5,9 @@ topic: learningitemprogressstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.707Z
+lastCollected: 2026-03-12T09:33:29.741Z
 estimatedTokens: 199
-keywords: [LearningItemProgressStatus, Represents, status, user’s, progress, learning, item, Enablement, program., Usage, Values]
+keywords: [LearningItemProgressStatus, status, user’s, progress, learning, item, Enablement, program, Usage]
 ---
 
 # LearningItemProgressStatus Enum

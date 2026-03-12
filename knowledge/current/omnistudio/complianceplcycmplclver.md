@@ -5,9 +5,9 @@ topic: complianceplcycmplclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.830Z
+lastCollected: 2026-03-12T09:33:52.292Z
 estimatedTokens: 631
-keywords: [CompliancePlcyCmplClVer, Represents, junction, between, Compliance, Policy, Version, Clause, objects., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [CompliancePlcyCmplClVer, junction, Compliance, Policy, Version, Clause, objects, API, 65.0, later, Calls, Associated]
 ---
 
 # CompliancePlcyCmplClVer

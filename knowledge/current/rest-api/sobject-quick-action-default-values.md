@@ -5,9 +5,9 @@ topic: sobject-quick-action-default-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.024Z
+lastCollected: 2026-03-12T09:33:35.873Z
 estimatedTokens: 364
-keywords: [sObject, Quick, Action, Default, Values, Retrieves, default, values, including, field, specific, action, object.]
+keywords: [sObject, Quick, Action, Retrieves, including, specific]
 ---
 
 # sObject Quick Action Default Values

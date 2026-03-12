@@ -5,9 +5,9 @@ topic: connectapicommerceresultrepresentationbase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.699Z
+lastCollected: 2026-03-12T09:33:26.825Z
 estimatedTokens: 174
-keywords: [ConnectApi.CommerceResultRepresentationBase, Base, cart, calculate, output, class.]
+keywords: [Base, cart, calculate, output]
 ---
 
 # ConnectApi.CommerceResultRepresentationBase

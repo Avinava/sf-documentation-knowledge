@@ -5,9 +5,9 @@ topic: loyalty-journal-subtype-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.278Z
+lastCollected: 2026-03-12T09:33:14.998Z
 estimatedTokens: 578
-keywords: [Loyalty, Journal, Subtype, DMO, Data, Cloud, data, model, subtype, loyalty, journal, such, watched, video, product, review., API, Name, Category, Primary]
+keywords: [Loyalty, Journal, Subtype, DMO, Data, Cloud, model, watched, video, product, review, API, Category, Primary, Subject]
 ---
 
 # Loyalty Journal Subtype DMO

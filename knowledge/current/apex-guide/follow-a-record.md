@@ -5,9 +5,9 @@ topic: follow-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.328Z
+lastCollected: 2026-03-12T09:33:34.315Z
 estimatedTokens: 113
-keywords: [Follow, Record, Call, follow, record.]
+keywords: [Follow, Record, Call]
 ---
 
 # Follow a Record

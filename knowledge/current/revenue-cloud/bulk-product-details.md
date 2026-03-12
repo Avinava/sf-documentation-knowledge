@@ -5,9 +5,9 @@ topic: bulk-product-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.612Z
+lastCollected: 2026-03-12T09:33:09.319Z
 estimatedTokens: 176
-keywords: [Bulk, Product, Details, Output, representation, response, contains, details, multiple, products.]
+keywords: [Bulk, Product, Output, representation, multiple, products]
 ---
 
 # Bulk Product Details

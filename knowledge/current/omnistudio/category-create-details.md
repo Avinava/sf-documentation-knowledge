@@ -5,9 +5,9 @@ topic: category-create-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.678Z
+lastCollected: 2026-03-12T09:33:48.483Z
 estimatedTokens: 94
-keywords: [Category, Create, Details, Output, representation, category, creation, results.]
+keywords: [Category, Output, representation, creation, results]
 ---
 
 # Category Create Details

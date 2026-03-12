@@ -5,9 +5,9 @@ topic: apex-connector-framework-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.968Z
+lastCollected: 2026-03-12T09:33:33.002Z
 estimatedTokens: 554
-keywords: [Apex, Connector, Framework, Examples, examples, illustrate, how, create, custom, adapters, Salesforce, Connect.]
+keywords: [Apex, Connector, Framework, Examples, illustrate, how, custom, adapters, Salesforce, Connect]
 ---
 
 # Apex Connector Framework Examples

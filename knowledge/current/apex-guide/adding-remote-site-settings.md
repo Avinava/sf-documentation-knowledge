@@ -5,9 +5,9 @@ topic: adding-remote-site-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.341Z
+lastCollected: 2026-03-12T09:33:32.379Z
 estimatedTokens: 335
-keywords: [Adding, Remote, Site, Settings, Before, any, Apex, callout, call, external, site, must, registered, page, fails., Salesforce, prevents, calls, unauthorized, network]
+keywords: [Adding, Remote, Site, Settings, any, Apex, callout, call, external, registered, fails, Salesforce, prevents, calls, unauthorized]
 ---
 
 # Adding Remote Site Settings

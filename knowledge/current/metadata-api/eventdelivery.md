@@ -5,9 +5,9 @@ topic: eventdelivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:39.380Z
+lastCollected: 2026-03-12T09:33:39.014Z
 estimatedTokens: 630
-keywords: [EventDelivery, Represents, how, event, instance, maps, target, payload., Removed, API, version, 46.0., extends, Metadata, metadata, inherits, its, fullName, field., File]
+keywords: [EventDelivery, how, event, instance, maps, target, payload, Removed, API, version, 46.0, extends, Metadata, inherits, fullName]
 ---
 
 # EventDelivery

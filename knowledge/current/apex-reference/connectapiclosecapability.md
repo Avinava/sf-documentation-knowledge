@@ -5,9 +5,9 @@ topic: connectapiclosecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.634Z
+lastCollected: 2026-03-12T09:33:26.769Z
 estimatedTokens: 295
-keywords: [ConnectApi.CloseCapability, feed, element, capability, users, permission, close, it.]
+keywords: [ConnectApi.CloseCapability, feed, element, capability, users, permission, close]
 ---
 
 # ConnectApi.CloseCapability

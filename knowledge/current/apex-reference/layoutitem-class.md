@@ -5,10 +5,10 @@ topic: layoutitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.441Z
+lastCollected: 2026-03-12T09:33:20.947Z
 estimatedTokens: 2180
 namespace: Metadata
-keywords: [LayoutItem, Represents, valid, values, define, layout, item., Usage, analyticsCloudComponent, behavior, canvas, component, customLink, emptySpace, field, height, page, reportChartComponent, scontrol, showLabel]
+keywords: [LayoutItem, define, layout, item, Usage, analyticsCloudComponent, behavior, canvas, component, customLink, emptySpace, height, reportChartComponent, scontrol, showLabel]
 ---
 
 # LayoutItem Class

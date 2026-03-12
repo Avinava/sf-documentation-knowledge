@@ -5,9 +5,9 @@ topic: connectapiabstractrepositoryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.923Z
+lastCollected: 2026-03-12T09:33:26.101Z
 estimatedTokens: 303
-keywords: [ConnectApi.AbstractRepositoryItem, repository, item.]
+keywords: [ConnectApi.AbstractRepositoryItem, repository, item]
 ---
 
 # ConnectApi.AbstractRepositoryItem

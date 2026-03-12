@@ -5,10 +5,10 @@ topic: identityheadercontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.527Z
+lastCollected: 2026-03-12T09:33:21.962Z
 estimatedTokens: 82
 namespace: AppLauncher
-keywords: [IdentityHeaderController, its, internal, only.]
+keywords: [IdentityHeaderController, internal]
 ---
 
 # IdentityHeaderController Class

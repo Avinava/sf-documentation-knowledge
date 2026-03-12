@@ -5,10 +5,10 @@ topic: additionalinformationmap-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.124Z
+lastCollected: 2026-03-12T09:33:20.645Z
 estimatedTokens: 401
 namespace: Datacloud
-keywords: [AdditionalInformationMap, Represents, information, any, matched, records., getName, getValue]
+keywords: [AdditionalInformationMap, any, matched, records, getName, getValue]
 ---
 
 # AdditionalInformationMap Class

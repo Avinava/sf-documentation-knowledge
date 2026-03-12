@@ -5,10 +5,10 @@ topic: gradeslotsservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.208Z
+lastCollected: 2026-03-12T09:33:53.541Z
 estimatedTokens: 1253
 namespace: FSL
-keywords: [GradeSlotsService, Represents, results, shown, Candidates, quick, action., evaluate, possible, slots, where, given, service, appointment, scheduled., Usage, Note, schedulingPolicyId, serviceAppointmentId, getGradedMatrix]
+keywords: [GradeSlotsService, results, shown, Candidates, quick, action, evaluate, possible, slots, service, appointment, scheduled, Usage, schedulingPolicyId, serviceAppointmentId]
 ---
 
 # GradeSlotsService Class

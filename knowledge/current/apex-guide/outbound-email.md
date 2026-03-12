@@ -5,9 +5,9 @@ topic: outbound-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.392Z
+lastCollected: 2026-03-12T09:33:33.442Z
 estimatedTokens: 1086
-keywords: [Outbound, Email, Apex, work, email, sent, Salesforce., Note, Example]
+keywords: [Outbound, Email, Apex, work, sent, Salesforce]
 ---
 
 # Outbound Email

@@ -5,9 +5,9 @@ topic: b2c-commerce-master-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.908Z
+lastCollected: 2026-03-12T09:33:13.758Z
 estimatedTokens: 396
-keywords: [B2C, Commerce, Master, Product, Mapping, After, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
+keywords: [B2C, Commerce, Master, Product, Mapping, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source]
 ---
 
 # B2C Commerce: Master Product Mapping

@@ -5,9 +5,9 @@ topic: botsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.309Z
+lastCollected: 2026-03-12T09:33:37.084Z
 estimatedTokens: 510
-keywords: [BotSettings, Represents, organization’s, Einstein, Bot, settings, such, whether, Bots, enabled., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory]
+keywords: [BotSettings, organization’s, Einstein, Bot, settings, whether, Bots, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # BotSettings

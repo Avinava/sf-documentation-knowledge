@@ -5,9 +5,9 @@ topic: mldatadefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.194Z
+lastCollected: 2026-03-12T09:33:40.673Z
 estimatedTokens: 1319
-keywords: [MLDataDefinition, Represents, modeling, data, definition, which, specifies, used, create, model., Such, include, filters, fields, exclude, on., extends, Metadata, metadata, inherits]
+keywords: [MLDataDefinition, modeling, data, definition, model, include, filters, exclude, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # MLDataDefinition

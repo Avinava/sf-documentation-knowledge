@@ -5,9 +5,9 @@ topic: setpanelheaderlabel-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.942Z
+lastCollected: 2026-03-12T09:33:56.025Z
 estimatedTokens: 277
-keywords: [setPanelHeaderLabel, Lightning, Experience, label, utility’s, panel., displayed, utility, panel, header., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
+keywords: [setPanelHeaderLabel, Lightning, Experience, label, utility’s, panel, utility, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---
 
 # setPanelHeaderLabel() for Lightning Experience for Lightning Experience

@@ -5,9 +5,9 @@ topic: methods-for-navigation-items-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.130Z
+lastCollected: 2026-03-12T09:33:56.207Z
 estimatedTokens: 516
-keywords: [Navigation, Items, Lightning, Experience, console, apps, display, item, menu, lets, users, select, navigation, items, such, cases, contacts, accounts., Salesforce, admins]
+keywords: [Navigation, Items, Lightning, Experience, console, apps, display, item, menu, lets, users, select, cases, contacts, accounts]
 ---
 
 # Methods for Navigation Items in Lightning Experience

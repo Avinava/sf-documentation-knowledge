@@ -5,9 +5,9 @@ topic: regenerate-a-secret-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.490Z
+lastCollected: 2026-03-12T09:33:13.428Z
 estimatedTokens: 129
-keywords: [Regenerate, Secret, Key, recommend, regenerating, secret, key, used, webhook, system, least, every, months., After, regenerate, takes, minutes, effective., Until, new]
+keywords: [Regenerate, Secret, Key, recommend, regenerating, webhook, system, least, every, months, minutes, effective, Until, new, configured]
 ---
 
 # Regenerate a Secret Key

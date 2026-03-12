@@ -5,9 +5,9 @@ topic: connectapiactionlinkdiagnosticinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.950Z
+lastCollected: 2026-03-12T09:33:26.128Z
 estimatedTokens: 135
-keywords: [ConnectApi.ActionLinkDiagnosticInfo, Any, diagnostic, information, may, exist, executed, action, link., Diagnostic, info, provided, only, users, who, access]
+keywords: [ConnectApi.ActionLinkDiagnosticInfo, Any, diagnostic, may, exist, executed, action, link, info, provided, users, access]
 ---
 
 # ConnectApi.ActionLinkDiagnosticInfo

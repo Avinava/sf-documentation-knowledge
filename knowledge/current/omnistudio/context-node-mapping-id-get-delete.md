@@ -5,9 +5,9 @@ topic: context-node-mapping-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.006Z
+lastCollected: 2026-03-12T09:33:47.914Z
 estimatedTokens: 114
-keywords: [Context, Node, Mapping, GET, DELETE, Query, delete, context, node, mapping, ID.]
+keywords: [Context, Node, Mapping, Query]
 ---
 
 # Context Node Mapping Id (GET, DELETE)

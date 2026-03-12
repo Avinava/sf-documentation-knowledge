@@ -5,9 +5,9 @@ topic: sequences-assignment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.482Z
+lastCollected: 2026-03-12T09:33:09.959Z
 estimatedTokens: 218
-keywords: [Sequences, Assignment, Result, Output, representation, details, assigned, sequence, values, target, objects.]
+keywords: [Sequences, Assignment, Result, Output, representation, assigned, sequence, target, objects]
 ---
 
 # Sequences Assignment Result

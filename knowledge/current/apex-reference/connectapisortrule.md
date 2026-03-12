@@ -5,9 +5,9 @@ topic: connectapisortrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.043Z
+lastCollected: 2026-03-12T09:33:29.082Z
 estimatedTokens: 589
-keywords: [ConnectApi.SortRule, Sort, rule.]
+keywords: [ConnectApi.SortRule, Sort, rule]
 ---
 
 # ConnectApi.SortRule

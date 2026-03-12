@@ -5,10 +5,10 @@ topic: columnsortorder-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.691Z
+lastCollected: 2026-03-12T09:33:29.727Z
 estimatedTokens: 188
 namespace: Reports
-keywords: [ColumnSortOrder, Reports.ColumnSortOrder, describes, order, grouping, column, uses, sort, data., Usage, Values]
+keywords: [ColumnSortOrder, Reports.ColumnSortOrder, order, grouping, column, uses, sort, data, Usage]
 ---
 
 # ColumnSortOrder Enum

@@ -5,9 +5,9 @@ topic: workplantemplateentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.900Z
+lastCollected: 2026-03-12T09:33:55.094Z
 estimatedTokens: 487
-keywords: [WorkPlanTemplateEntry, Represents, associates, work, step, template, plan, template., API, version, 52.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [WorkPlanTemplateEntry, associates, work, step, template, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated]
 ---
 
 # WorkPlanTemplateEntry

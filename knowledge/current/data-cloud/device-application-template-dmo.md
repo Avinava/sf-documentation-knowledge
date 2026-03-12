@@ -5,9 +5,9 @@ topic: device-application-template-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.902Z
+lastCollected: 2026-03-12T09:33:14.662Z
 estimatedTokens: 758
-keywords: [Device, Application, Template, DMO, Data, Cloud, data, model, reusable, standard, format, applications, exchange, information, between, devices., API, Name, Category, Primary]
+keywords: [Device, Application, Template, DMO, Data, Cloud, model, reusable, standard, applications, exchange, devices, API, Category, Primary]
 ---
 
 # Device Application Template DMO

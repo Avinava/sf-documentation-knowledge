@@ -5,9 +5,9 @@ topic: searchable-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.723Z
+lastCollected: 2026-03-12T09:33:49.364Z
 estimatedTokens: 231
-keywords: [Searchable, Criteria, Output, representation, filter, returned, part, search, configuration, metadata.]
+keywords: [Searchable, Criteria, Output, representation, filter, part, search, configuration, metadata]
 ---
 
 # Searchable Criteria

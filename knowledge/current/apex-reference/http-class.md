@@ -5,10 +5,10 @@ topic: http-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.754Z
+lastCollected: 2026-03-12T09:33:24.160Z
 estimatedTokens: 412
 namespace: System
-keywords: [Http, initiate, HTTP, request, response., send, toString]
+keywords: [Http, initiate, send, toString]
 ---
 
 # Http Class

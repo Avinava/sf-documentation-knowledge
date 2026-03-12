@@ -5,9 +5,9 @@ topic: connectapidecisiontableoutcomeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.742Z
+lastCollected: 2026-03-12T09:33:46.769Z
 estimatedTokens: 110
-keywords: [ConnectApi.DecisionTableOutcomeItem, Output, representation, decision, table, outcome, item.]
+keywords: [ConnectApi.DecisionTableOutcomeItem, Output, representation, decision, outcome, item]
 ---
 
 # ConnectApi.DecisionTableOutcomeItem

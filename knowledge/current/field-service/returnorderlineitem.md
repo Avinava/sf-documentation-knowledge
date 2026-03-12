@@ -5,9 +5,9 @@ topic: returnorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:56.492Z
+lastCollected: 2026-03-12T09:33:54.692Z
 estimatedTokens: 3215
-keywords: [ReturnOrderLineItem, Represents, specific, product, returned, repaired, part, order, Field, service, item, Order, Management., API, version, 42.0, later., Supported, Calls, Special]
+keywords: [ReturnOrderLineItem, specific, product, repaired, part, order, service, item, Management, API, version, 42.0, later, Calls, Special]
 ---
 
 # ReturnOrderLineItem

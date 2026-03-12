@@ -5,9 +5,9 @@ topic: eligible-promotions-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.751Z
+lastCollected: 2026-03-12T09:33:09.434Z
 estimatedTokens: 93
-keywords: [Eligible, Promotions, Response, Output, representation, details, eligible, promotions.]
+keywords: [Eligible, Promotions, Output, representation]
 ---
 
 # Eligible Promotions Response

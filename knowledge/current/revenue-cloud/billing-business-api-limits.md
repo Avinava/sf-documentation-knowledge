@@ -5,9 +5,9 @@ topic: billing-business-api-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.379Z
+lastCollected: 2026-03-12T09:33:07.386Z
 estimatedTokens: 1329
-keywords: [Billing, Business, API, Limits, default, limits, usage, business, APIs.]
+keywords: [Billing, Business, API, Limits, usage, APIs]
 ---
 
 # Billing Business API Limits

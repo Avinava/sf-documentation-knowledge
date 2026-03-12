@@ -5,10 +5,10 @@ topic: dmloptionsemailheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.111Z
+lastCollected: 2026-03-12T09:33:20.634Z
 estimatedTokens: 1231
 namespace: Database
-keywords: [DmlOptions.EmailHeader, Enables, setting, email, options., Usage, Example, triggerAutoResponseEmail, triggerOtherEmail, Note, triggerUserEmail]
+keywords: [DmlOptions.EmailHeader, setting, email, options, Usage, triggerAutoResponseEmail, triggerOtherEmail, triggerUserEmail]
 ---
 
 # DmlOptions.EmailHeader Class

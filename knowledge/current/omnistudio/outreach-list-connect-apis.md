@@ -5,9 +5,9 @@ topic: outreach-list-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.898Z
+lastCollected: 2026-03-12T09:33:51.470Z
 estimatedTokens: 125
-keywords: [Outreach, List, Connect, APIs, get, actionable, lists, associated, metadata.]
+keywords: [Outreach, Connect, APIs, actionable, associated, metadata]
 ---
 
 # Outreach List Connect APIs

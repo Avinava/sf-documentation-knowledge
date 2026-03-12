@@ -5,9 +5,9 @@ topic: data-use-purpose-consent-action-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.863Z
+lastCollected: 2026-03-12T09:33:14.628Z
 estimatedTokens: 514
-keywords: [Data, Purpose, Consent, Action, DMO, Cloud, data, model, individual, consent, preferences, actions., API, Name, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Data, Purpose, Consent, Action, DMO, Cloud, model, individual, preferences, actions, API, Category, Primary, Subject, Area]
 ---
 
 # Data Use Purpose Consent Action DMO

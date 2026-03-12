@@ -5,9 +5,9 @@ topic: field-service-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.441Z
+lastCollected: 2026-03-12T09:33:53.759Z
 estimatedTokens: 765
-keywords: [Field, Service, Flow, information, corresponding, field, service, flow., resource, REST, API, version, 42.0, later., Response, Body, Example]
+keywords: [Service, Flow, corresponding, resource, REST, API, version, 42.0, later]
 ---
 
 # Field Service Flow

@@ -5,9 +5,9 @@ topic: debug-log-order-of-precedence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.134Z
+lastCollected: 2026-03-12T09:33:33.156Z
 estimatedTokens: 465
-keywords: [Debug, Log, Order, Precedence, Which, events, logged, depends, various, factors., factors, include, trace, flags, default, logging, levels, API, header, user-based]
+keywords: [Debug, Log, Order, Precedence, events, logged, depends, various, factors, include, trace, flags, logging, levels, API]
 ---
 
 # Debug Log Order of Precedence

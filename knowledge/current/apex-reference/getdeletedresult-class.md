@@ -5,10 +5,10 @@ topic: getdeletedresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.455Z
+lastCollected: 2026-03-12T09:33:22.862Z
 estimatedTokens: 759
 namespace: Database
-keywords: [GetDeletedResult, Contains, deleted, records, retrieved, specific, sObject, time, window., Usage, getDeletedRecords, getEarliestDateAvailable, getLatestDateCovered]
+keywords: [GetDeletedResult, deleted, records, retrieved, specific, sObject, time, window, Usage, getDeletedRecords, getEarliestDateAvailable, getLatestDateCovered]
 ---
 
 # GetDeletedResult Class

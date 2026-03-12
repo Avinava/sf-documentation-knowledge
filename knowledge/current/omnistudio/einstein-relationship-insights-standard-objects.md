@@ -5,9 +5,9 @@ topic: einstein-relationship-insights-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.139Z
+lastCollected: 2026-03-12T09:33:49.802Z
 estimatedTokens: 179
-keywords: [Einstein, Relationship, Insights, Standard, Objects, standard, objects, view, result, sentiment, analysis.]
+keywords: [Einstein, Relationship, Insights, Standard, Objects, view, result, sentiment, analysis]
 ---
 
 # Einstein Relationship Insights Standard Objects

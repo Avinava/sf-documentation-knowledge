@@ -5,9 +5,9 @@ topic: connectapisearchrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.546Z
+lastCollected: 2026-03-12T09:33:25.730Z
 estimatedTokens: 439
-keywords: [ConnectApi.SearchRequest, Search, request, input, searching, object.]
+keywords: [ConnectApi.SearchRequest, Search, input, searching]
 ---
 
 # ConnectApi.SearchRequest

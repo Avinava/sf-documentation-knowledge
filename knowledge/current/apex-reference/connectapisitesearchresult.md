@@ -5,9 +5,9 @@ topic: connectapisitesearchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.003Z
+lastCollected: 2026-03-12T09:33:29.046Z
 estimatedTokens: 256
-keywords: [ConnectApi.SiteSearchResult, Site, search, result.]
+keywords: [ConnectApi.SiteSearchResult, Site, search, result]
 ---
 
 # ConnectApi.SiteSearchResult

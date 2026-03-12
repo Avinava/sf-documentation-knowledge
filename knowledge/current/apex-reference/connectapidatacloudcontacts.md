@@ -5,9 +5,9 @@ topic: connectapidatacloudcontacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.990Z
+lastCollected: 2026-03-12T09:33:27.077Z
 estimatedTokens: 202
-keywords: [ConnectApi.DatacloudContacts, Lists, contacts, were, purchased, specific, order, page, URLs, number, order.]
+keywords: [ConnectApi.DatacloudContacts, contacts, were, purchased, specific, order, URLs, number]
 ---
 
 # ConnectApi.DatacloudContacts

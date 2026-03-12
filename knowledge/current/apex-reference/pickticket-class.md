@@ -5,10 +5,10 @@ topic: pickticket-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.678Z
+lastCollected: 2026-03-12T09:33:19.367Z
 estimatedTokens: 416
 namespace: ConnectApi
-keywords: [PickTicket, Distribute, picked, quantities, among, orders, pick, ticket., distributePickedQuantities, distributePickedQuantitiesInput, API, Version, Requires, Chatter]
+keywords: [PickTicket, Distribute, picked, quantities, among, orders, pick, ticket, distributePickedQuantities, distributePickedQuantitiesInput, API, Version, Requires, Chatter]
 ---
 
 # PickTicket Class

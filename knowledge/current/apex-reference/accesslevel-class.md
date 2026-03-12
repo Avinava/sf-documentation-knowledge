@@ -5,10 +5,10 @@ topic: accesslevel-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.946Z
+lastCollected: 2026-03-12T09:33:21.500Z
 estimatedTokens: 1815
 namespace: System
-keywords: [AccessLevel, Defines, different, modes, such, system, user, mode, Apex, database, operations, execute, in., Usage, Example, withPermissionSetId, permissionSetId, Developer, Preview, Note]
+keywords: [AccessLevel, different, modes, system, user, mode, Apex, database, operations, execute, Usage, withPermissionSetId, permissionSetId, Developer, Preview]
 ---
 
 # AccessLevel Class

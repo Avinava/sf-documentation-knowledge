@@ -5,9 +5,9 @@ topic: projectionnode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.348Z
+lastCollected: 2026-03-12T09:33:23.722Z
 estimatedTokens: 929
-keywords: [ProjectionNode, Add, aggregate, functions, query, define, alias., Usage, sum, avg, min, max, count, unique, alias, name]
+keywords: [ProjectionNode, Add, aggregate, functions, query, define, alias, Usage, sum, avg, min, max, count, unique]
 ---
 
 # ProjectionNode Class

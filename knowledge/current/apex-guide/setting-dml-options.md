@@ -5,9 +5,9 @@ topic: setting-dml-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.667Z
+lastCollected: 2026-03-12T09:33:34.586Z
 estimatedTokens: 1971
-keywords: [Setting, DML, Options, specify, options, insert, update, operations, setting, desired, Database.DMLOptions, object., set, operation, calling, setOptions, sObject, passing, Database.insert, Dat]
+keywords: [Setting, DML, Options, specify, insert, operations, desired, Database.DMLOptions, operation, calling, setOptions, sObject, passing, Database.insert, Dat]
 ---
 
 # Setting DML Options

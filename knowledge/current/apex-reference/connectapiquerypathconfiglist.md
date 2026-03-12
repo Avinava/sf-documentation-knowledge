@@ -5,9 +5,9 @@ topic: connectapiquerypathconfiglist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.708Z
+lastCollected: 2026-03-12T09:33:28.747Z
 estimatedTokens: 67
-keywords: [ConnectApi.QueryPathConfigList, Represents, list, query, path, configurations.]
+keywords: [ConnectApi.QueryPathConfigList, query, path, configurations]
 ---
 
 # ConnectApi.QueryPathConfigList

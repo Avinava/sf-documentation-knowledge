@@ -5,9 +5,9 @@ topic: unitofmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.403Z
+lastCollected: 2026-03-12T09:33:52.786Z
 estimatedTokens: 810
-keywords: [UnitOfMeasure, Represents, unit, measures, care, metrics, observations., API, version, 49.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [UnitOfMeasure, unit, measures, care, metrics, observations, API, version, 49.0, later, Calls, Associated, Objects]
 ---
 
 # UnitOfMeasure

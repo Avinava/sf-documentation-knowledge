@@ -5,9 +5,9 @@ topic: bulk-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.035Z
+lastCollected: 2026-03-12T09:33:12.954Z
 estimatedTokens: 1117
-keywords: [Bulk, Ingestion, Data, Cloud, API, upsert, delete, large, data, sets., Prepare, CSV, file, want, upload, create, job, let, Salesforce, take]
+keywords: [Bulk, Ingestion, Data, Cloud, API, upsert, large, Prepare, CSV, file, want, upload, job, let, Salesforce]
 ---
 
 # Bulk Ingestion

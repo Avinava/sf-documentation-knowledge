@@ -6,9 +6,9 @@ topic: login-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.820Z
+lastCollected: 2026-03-12T09:33:55.911Z
 estimatedTokens: 132
-keywords: [login, Lightning, Experience, Logs, agent, Omni-Channel, specific, presence, status., Arguments, Sample, Code, Response]
+keywords: [login, Lightning, Experience, Logs, agent, Omni-Channel, specific, presence, status, Arguments, Sample, Code]
 ---
 
 # login for Lightning Experience for Lightning

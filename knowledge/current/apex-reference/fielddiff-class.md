@@ -5,10 +5,10 @@ topic: fielddiff-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.144Z
+lastCollected: 2026-03-12T09:33:20.660Z
 estimatedTokens: 488
 namespace: Datacloud
-keywords: [FieldDiff, Represents, name, matching, rule, field, how, values, compare, duplicate, its, record., getDifference, getName]
+keywords: [FieldDiff, matching, rule, how, compare, duplicate, record, getDifference, getName]
 ---
 
 # FieldDiff Class

@@ -5,9 +5,9 @@ topic: portaldelegablepermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.812Z
+lastCollected: 2026-03-12T09:33:41.269Z
 estimatedTokens: 504
-keywords: [PortalDelegablePermissionSet, Represents, org-level, permission, assigned, particular, profile, external, users, shoppers, store, after, enabling, Delegable, Administration, perm., Important, Parent, File, Suffix]
+keywords: [PortalDelegablePermissionSet, org-level, permission, assigned, particular, profile, external, users, shoppers, store, enabling, Delegable, Administration, perm, Parent]
 ---
 
 # PortalDelegablePermissionSet

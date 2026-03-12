@@ -5,9 +5,9 @@ topic: briefcasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.441Z
+lastCollected: 2026-03-12T09:33:37.212Z
 estimatedTokens: 2255
-keywords: [BriefcaseDefinition, Represents, briefcase, definition., makes, selected, records, specific, users, groups, view, they’re, offline, Salesforce, Field, Service, mobile, app, iOS, Android.]
+keywords: [BriefcaseDefinition, briefcase, definition, selected, records, specific, users, groups, view, they’re, offline, Salesforce, Service, mobile, app]
 ---
 
 # BriefcaseDefinition

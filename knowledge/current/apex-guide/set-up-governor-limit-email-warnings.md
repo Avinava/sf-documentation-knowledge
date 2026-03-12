@@ -5,9 +5,9 @@ topic: set-up-governor-limit-email-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.498Z
+lastCollected: 2026-03-12T09:33:33.534Z
 estimatedTokens: 472
-keywords: [Set, Governor, Limit, Email, Warnings, specify, users, organization, receive, email, notification, they, invoke, Apex, code, surpasses, 50%, allocated, governor, limits.]
+keywords: [Governor, Limit, Email, Warnings, specify, users, organization, receive, notification, they, invoke, Apex, code, surpasses, 50%]
 ---
 
 # Set Up Governor Limit Email Warnings

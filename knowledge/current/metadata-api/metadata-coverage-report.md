@@ -5,9 +5,9 @@ topic: metadata-coverage-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.120Z
+lastCollected: 2026-03-12T09:33:37.838Z
 estimatedTokens: 146
-keywords: [Metadata, Coverage, Report, Launch, report, determine, supported, metadata, components., ultimate, source, truth, coverage, across, several, channels., channels, include, API, scratch]
+keywords: [Metadata, Coverage, Report, Launch, determine, components, ultimate, source, truth, across, several, channels, include, API, scratch]
 ---
 
 # Metadata Coverage Report

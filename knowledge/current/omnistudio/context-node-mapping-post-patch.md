@@ -5,9 +5,9 @@ topic: context-node-mapping-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.368Z
+lastCollected: 2026-03-12T09:33:48.231Z
 estimatedTokens: 313
-keywords: [Context, Node, Mapping, POST, PATCH, Create, update, context, node, mappings.]
+keywords: [Context, Node, Mapping, POST, PATCH, mappings]
 ---
 
 # Context Node Mapping (POST, PATCH)

@@ -5,9 +5,9 @@ topic: resetsessiontimeout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.358Z
+lastCollected: 2026-03-12T09:33:56.409Z
 estimatedTokens: 235
-keywords: [resetSessionTimeOut, Resets, session, timeout, console, app., ensures, users, continue, working, Visualforce, pages, without, being, prompted, log, back, they, tab, component.]
+keywords: [resetSessionTimeOut, Resets, session, timeout, console, app, ensures, users, continue, working, Visualforce, pages, prompted, log, back]
 ---
 
 # resetSessionTimeOut()

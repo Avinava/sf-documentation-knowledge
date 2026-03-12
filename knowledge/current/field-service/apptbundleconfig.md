@@ -5,9 +5,9 @@ topic: apptbundleconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.814Z
+lastCollected: 2026-03-12T09:33:54.071Z
 estimatedTokens: 1135
-keywords: [ApptBundleConfig, Represents, general, define, behavior, bundle., API, version, 54.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [ApptBundleConfig, general, define, behavior, bundle, API, version, 54.0, later, Calls, Special, Access, Rules]
 ---
 
 # ApptBundleConfig

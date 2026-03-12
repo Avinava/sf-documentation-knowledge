@@ -5,9 +5,9 @@ topic: expression-set-custom-element-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.203Z
+lastCollected: 2026-03-12T09:33:48.898Z
 estimatedTokens: 87
-keywords: [Expression, Set, Custom, Element, Step, Output, representation, custom, element, step, expression, set.]
+keywords: [Expression, Custom, Element, Step, Output, representation]
 ---
 
 # Expression Set Custom Element Step

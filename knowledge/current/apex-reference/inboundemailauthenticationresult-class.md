@@ -5,10 +5,10 @@ topic: inboundemailauthenticationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.251Z
+lastCollected: 2026-03-12T09:33:20.761Z
 estimatedTokens: 958
 namespace: Messaging
-keywords: [InboundEmail.AuthenticationResult, Contains, authentication, response, inbound, emails., authenticationResultFields, result]
+keywords: [InboundEmail.AuthenticationResult, authentication, inbound, emails, authenticationResultFields, result]
 ---
 
 # InboundEmail.AuthenticationResult Class

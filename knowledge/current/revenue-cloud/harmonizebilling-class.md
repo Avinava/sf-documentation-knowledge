@@ -5,10 +5,10 @@ topic: harmonizebilling-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.146Z
+lastCollected: 2026-03-12T09:33:06.257Z
 estimatedTokens: 437
 namespace: ConnectApi
-keywords: [HarmonizeBilling, Update, status, invoice, Draft, Posted, class., postDraftInvoices, inputRequest, API, Version, Requires, Chatter, Usage]
+keywords: [HarmonizeBilling, status, invoice, Draft, Posted, postDraftInvoices, inputRequest, API, Version, Requires, Chatter, Usage]
 ---
 
 # HarmonizeBilling Class

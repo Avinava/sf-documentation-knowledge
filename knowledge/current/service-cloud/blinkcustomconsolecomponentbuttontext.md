@@ -5,9 +5,9 @@ topic: blinkcustomconsolecomponentbuttontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.114Z
+lastCollected: 2026-03-12T09:33:55.258Z
 estimatedTokens: 238
-keywords: [blinkCustomConsoleComponentButtonText, Blinks, button’s, text, application-level, custom, console, component, that’s, page., only, API, version, 25.0, later., isn’t, supported, Lightning, Console., Syntax]
+keywords: [blinkCustomConsoleComponentButtonText, Blinks, button’s, text, application-level, custom, console, component, that’s, API, version, 25.0, later, isn’t, Lightning]
 ---
 
 # blinkCustomConsoleComponentButtonText()

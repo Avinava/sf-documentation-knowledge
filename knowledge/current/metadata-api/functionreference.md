@@ -5,9 +5,9 @@ topic: functionreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.172Z
+lastCollected: 2026-03-12T09:33:39.696Z
 estimatedTokens: 350
-keywords: [FunctionReference, Represents, information, deployed, Salesforce, Function, invoked, org., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
+keywords: [FunctionReference, deployed, Salesforce, Function, invoked, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # FunctionReference

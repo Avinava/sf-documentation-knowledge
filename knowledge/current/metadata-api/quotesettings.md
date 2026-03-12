@@ -5,9 +5,9 @@ topic: quotesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.113Z
+lastCollected: 2026-03-12T09:33:41.547Z
 estimatedTokens: 708
-keywords: [QuoteSettings, Represents, org’s, quotes, settings, such, enabling, creating, without, associated, opportunity., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix]
+keywords: [QuoteSettings, org’s, quotes, settings, enabling, creating, associated, opportunity, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # QuoteSettings

@@ -5,9 +5,9 @@ topic: preview-approval-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.035Z
+lastCollected: 2026-03-12T09:33:09.587Z
 estimatedTokens: 195
-keywords: [Preview, Approval, Error, Output, representation, error, details, associated, API.]
+keywords: [Preview, Approval, Error, Output, representation, associated, API]
 ---
 
 # Preview Approval Error

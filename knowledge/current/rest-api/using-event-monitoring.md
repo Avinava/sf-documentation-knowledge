@@ -5,9 +5,9 @@ topic: using-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.237Z
+lastCollected: 2026-03-12T09:33:36.065Z
 estimatedTokens: 1748
-keywords: [Event, Monitoring, examples, REST, API, event, monitoring, data, contains, information, useful, assessing, org, usage, trends, user, behavior., accessed, through, Lightning]
+keywords: [Event, Monitoring, examples, REST, API, data, useful, assessing, org, usage, trends, user, behavior, accessed, Lightning]
 ---
 
 # Using Event Monitoring

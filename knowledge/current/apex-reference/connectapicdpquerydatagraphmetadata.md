@@ -5,9 +5,9 @@ topic: connectapicdpquerydatagraphmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.526Z
+lastCollected: 2026-03-12T09:33:26.674Z
 estimatedTokens: 418
-keywords: [ConnectApi.CdpQueryDataGraphMetadata, Represents, metadata, data, graph.]
+keywords: [ConnectApi.CdpQueryDataGraphMetadata, metadata, data, graph]
 ---
 
 # ConnectApi.CdpQueryDataGraphMetadata

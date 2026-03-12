@@ -5,9 +5,9 @@ topic: connectapiserviceprocessrequestinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.695Z
+lastCollected: 2026-03-12T09:33:46.732Z
 estimatedTokens: 195
-keywords: [ConnectApi.ServiceProcessRequestInputRepresentation, Input, creating, updating, service, process.]
+keywords: [Input, creating, updating, service, process]
 ---
 
 # ConnectApi.ServiceProcessRequestInputRepresentation

@@ -5,9 +5,9 @@ topic: batch-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:47.931Z
+lastCollected: 2026-03-12T09:33:46.954Z
 estimatedTokens: 347
-keywords: [Batch, Management, Tooling, API, Objects, view, settings, jobs.]
+keywords: [Batch, Management, Tooling, API, Objects, view, settings, jobs]
 ---
 
 # Batch Management Tooling API Objects

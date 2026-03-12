@@ -5,9 +5,9 @@ topic: working-with-action-links
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.470Z
+lastCollected: 2026-03-12T09:33:34.415Z
 estimatedTokens: 1057
-keywords: [Working, Action, Links, action, link, button, feed, element., Clicking, take, user, Web, page, initiate, file, download, invoke, API, call, Salesforce]
+keywords: [Working, Action, Links, link, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
 ---
 
 # Working with Action Links

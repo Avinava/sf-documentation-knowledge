@@ -5,9 +5,9 @@ topic: create-a-sample-datasourceconnection-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.030Z
+lastCollected: 2026-03-12T09:33:33.059Z
 estimatedTokens: 1488
-keywords: [Create, Sample, DataSource.Connection, First, create, enable, Salesforce, obtain, external, system’s, schema, handle, queries, searches, data., sync, Note, query, search, upsertRows]
+keywords: [Sample, DataSource.Connection, enable, Salesforce, obtain, external, system’s, schema, handle, queries, searches, data, sync, query, search]
 ---
 
 # Create a Sample  DataSource.Connection Class Class

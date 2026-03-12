@@ -5,10 +5,10 @@ topic: userprovisioninglog-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.341Z
+lastCollected: 2026-03-12T09:33:23.716Z
 estimatedTokens: 1279
 namespace: UserProvisioning
-keywords: [UserProvisioningLog, Provides, writing, messages, monitor, outbound, user, provisioning, requests., Example, log, userProvisioningRequestId, details, status, externalUserId, externalUserName, userId]
+keywords: [UserProvisioningLog, writing, messages, monitor, outbound, user, provisioning, requests, log, userProvisioningRequestId, status, externalUserId, externalUserName, userId]
 ---
 
 # UserProvisioningLog Class

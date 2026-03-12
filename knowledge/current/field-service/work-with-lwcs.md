@@ -5,9 +5,9 @@ topic: work-with-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:57.033Z
+lastCollected: 2026-03-12T09:33:55.184Z
 estimatedTokens: 237
-keywords: [Work, LWCs, resources, following, table, developing, Field, Service, mobile, app.]
+keywords: [Work, LWCs, resources, developing, Service, mobile, app]
 ---
 
 # Work with LWCs

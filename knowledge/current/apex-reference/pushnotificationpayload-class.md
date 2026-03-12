@@ -5,10 +5,10 @@ topic: pushnotificationpayload-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.669Z
+lastCollected: 2026-03-12T09:33:24.066Z
 estimatedTokens: 240
 namespace: Messaging
-keywords: [PushNotificationPayload, Contains, create, notification, message, payload, Apple, device., Usage, Example]
+keywords: [PushNotificationPayload, notification, message, payload, Apple, device, Usage]
 ---
 
 # PushNotificationPayload Class

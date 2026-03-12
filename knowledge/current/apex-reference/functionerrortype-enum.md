@@ -5,9 +5,9 @@ topic: functionerrortype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.662Z
+lastCollected: 2026-03-12T09:33:29.699Z
 estimatedTokens: 195
-keywords: [FunctionErrorType, Represents, error, FunctionInvocationError., Values]
+keywords: [FunctionErrorType, error, FunctionInvocationError]
 ---
 
 # FunctionErrorType Enum

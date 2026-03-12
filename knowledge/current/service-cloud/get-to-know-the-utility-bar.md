@@ -5,9 +5,9 @@ topic: get-to-know-the-utility-bar
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.615Z
+lastCollected: 2026-03-12T09:33:55.717Z
 estimatedTokens: 596
-keywords: [Get, Know, Utility, Bar, utility, bar, specialized, Lightning, page, gives, users, quick, access, common, productivity, tools., bars, supported, Experience, desktop]
+keywords: [Know, Utility, Bar, specialized, Lightning, gives, users, quick, access, common, productivity, tools, bars, Experience, desktop]
 ---
 
 # Get to Know the Utility Bar

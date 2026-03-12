@@ -5,9 +5,9 @@ topic: useraccesspolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.481Z
+lastCollected: 2026-03-12T09:33:42.772Z
 estimatedTokens: 1647
-keywords: [UserAccessPolicy, Represents, user, access, policy., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UserAccessPolicyAction, UserAccessPolicyFilter, Declarative, Metadata]
+keywords: [UserAccessPolicy, user, access, policy, Parent, File, Suffix, Directory, Location, Version, Special, Rules, UserAccessPolicyAction, UserAccessPolicyFilter, Declarative]
 ---
 
 # UserAccessPolicy

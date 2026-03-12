@@ -5,9 +5,9 @@ topic: connectapiocifulfillreservationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.114Z
+lastCollected: 2026-03-12T09:33:28.146Z
 estimatedTokens: 112
-keywords: [ConnectApi.OCIFulfillReservationOutputRepresentation, Response, request, fulfill, inventory, reservations.]
+keywords: [fulfill, inventory, reservations]
 ---
 
 # ConnectApi.OCIFulfillReservationOutputRepresentation

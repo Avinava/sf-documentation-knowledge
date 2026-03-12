@@ -5,9 +5,9 @@ topic: context-mapping-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.857Z
+lastCollected: 2026-03-12T09:33:48.613Z
 estimatedTokens: 135
-keywords: [Context, Mapping, List, Output, representation, list, context, mappings.]
+keywords: [Context, Mapping, Output, representation, mappings]
 ---
 
 # Context Mapping List Output

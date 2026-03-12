@@ -5,9 +5,9 @@ topic: remotesitesetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.315Z
+lastCollected: 2026-03-12T09:33:41.749Z
 estimatedTokens: 760
-keywords: [RemoteSiteSetting, Represents, remote, site, setting., Before, any, Visualforce, page, Apex, callout, JavaScript, code, XmlHttpRequest, s-control, custom, button, call, external, must]
+keywords: [RemoteSiteSetting, remote, site, setting, any, Visualforce, Apex, callout, JavaScript, code, XmlHttpRequest, s-control, custom, button, call]
 ---
 
 # RemoteSiteSetting

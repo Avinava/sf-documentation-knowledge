@@ -5,10 +5,10 @@ topic: connectapinamedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.056Z
+lastCollected: 2026-03-12T09:33:28.071Z
 estimatedTokens: 560
 namespace: String
-keywords: [ConnectApi.NamedCredential, Named, credential, associated, external, credential., Important]
+keywords: [ConnectApi.NamedCredential, Named, credential, associated, external]
 ---
 
 # ConnectApi.NamedCredential

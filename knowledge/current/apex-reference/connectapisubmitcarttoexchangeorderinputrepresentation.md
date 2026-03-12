@@ -5,9 +5,9 @@ topic: connectapisubmitcarttoexchangeorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.592Z
+lastCollected: 2026-03-12T09:33:25.774Z
 estimatedTokens: 284
-keywords: [ConnectApi.SubmitCartToExchangeOrderInputRepresentation, Information, required, submit, cart, exchange, order, action.]
+keywords: [submit, cart, exchange, order, action]
 ---
 
 # ConnectApi.SubmitCartToExchangeOrderInputRepresentation

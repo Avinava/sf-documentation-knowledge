@@ -5,9 +5,9 @@ topic: connectapicanvascapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.446Z
+lastCollected: 2026-03-12T09:33:24.727Z
 estimatedTokens: 337
-keywords: [ConnectApi.CanvasCapabilityInput, Create, update, canvas, app, associated, feed, element.]
+keywords: [ConnectApi.CanvasCapabilityInput, canvas, app, associated, feed, element]
 ---
 
 # ConnectApi.CanvasCapabilityInput

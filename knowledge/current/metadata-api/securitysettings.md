@@ -5,9 +5,9 @@ topic: securitysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:42.718Z
+lastCollected: 2026-03-12T09:33:42.103Z
 estimatedTokens: 8672
-keywords: [SecuritySettings, Represents, org’s, security, settings., example, settings, define, trusted, ranges, network, access, password, login, requirements, session, expiration, single, sign-on, File]
+keywords: [SecuritySettings, org’s, security, settings, define, trusted, ranges, network, access, password, login, requirements, session, expiration, sign-on]
 ---
 
 # SecuritySettings

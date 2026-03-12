@@ -5,9 +5,9 @@ topic: expression-set-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.219Z
+lastCollected: 2026-03-12T09:33:48.910Z
 estimatedTokens: 330
-keywords: [Expression, Set, Output, representation, expression, set, create, update, delete, request.]
+keywords: [Expression, Output, representation]
 ---
 
 # Expression Set Output

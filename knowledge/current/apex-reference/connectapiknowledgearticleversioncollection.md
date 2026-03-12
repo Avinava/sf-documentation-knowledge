@@ -5,9 +5,9 @@ topic: connectapiknowledgearticleversioncollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.625Z
+lastCollected: 2026-03-12T09:33:27.679Z
 estimatedTokens: 71
-keywords: [ConnectApi.KnowledgeArticleVersionCollection, collection, knowledge, article, versions.]
+keywords: [collection, knowledge, article, versions]
 ---
 
 # ConnectApi.KnowledgeArticleVersionCollection

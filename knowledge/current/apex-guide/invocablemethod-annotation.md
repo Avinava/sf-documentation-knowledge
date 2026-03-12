@@ -5,9 +5,9 @@ topic: invocablemethod-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.428Z
+lastCollected: 2026-03-12T09:33:32.465Z
 estimatedTokens: 2226
-keywords: [InvocableMethod, Annotation, annotation, identify, run, invocable, actions., Note, Supported, Modifiers, Considerations]
+keywords: [InvocableMethod, Annotation, identify, run, invocable, actions, Modifiers, Considerations]
 ---
 
 # InvocableMethod Annotation

@@ -5,9 +5,9 @@ topic: application-form-seller-item-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.598Z
+lastCollected: 2026-03-12T09:33:48.414Z
 estimatedTokens: 689
-keywords: [Application, Form, Seller, Item, Result, Output, representation, application, form, seller, item, result.]
+keywords: [Application, Form, Seller, Item, Result, Output, representation]
 ---
 
 # Application Form Seller Item Result

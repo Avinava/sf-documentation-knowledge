@@ -5,9 +5,9 @@ topic: connectapichangeitemfeeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.613Z
+lastCollected: 2026-03-12T09:33:24.878Z
 estimatedTokens: 844
-keywords: [ConnectApi.ChangeItemFee​InputRepresentation, Input, representation, Change, Item, Fee]
+keywords: [Input, representation, Change, Item, Fee]
 ---
 
 # ConnectApi.ChangeItemFee​InputRepresentation

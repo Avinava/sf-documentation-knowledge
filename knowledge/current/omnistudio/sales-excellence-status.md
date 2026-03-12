@@ -6,9 +6,9 @@ topic: sales-excellence-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.713Z
+lastCollected: 2026-03-12T09:33:49.357Z
 estimatedTokens: 96
-keywords: [Sales, Excellence, Status, Output, representation, show, status, assignment, API, request.]
+keywords: [Sales, Excellence, Status, Output, representation, show, assignment, API]
 ---
 
 # Sales

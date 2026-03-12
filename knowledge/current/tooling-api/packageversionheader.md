@@ -5,9 +5,9 @@ topic: packageversionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.442Z
+lastCollected: 2026-03-12T09:33:43.632Z
 estimatedTokens: 426
-keywords: [PackageVersionHeader, Specifies, package, version, installed, managed, package., Associated, API, Calls, Fields, PackageVersion, Sample, Code—Java]
+keywords: [PackageVersionHeader, package, version, installed, managed, Associated, API, Calls, PackageVersion, Sample, Code—Java]
 ---
 
 # PackageVersionHeader

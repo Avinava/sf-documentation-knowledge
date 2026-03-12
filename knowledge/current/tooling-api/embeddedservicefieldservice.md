@@ -5,9 +5,9 @@ topic: embeddedservicefieldservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.269Z
+lastCollected: 2026-03-12T09:33:44.403Z
 estimatedTokens: 1391
-keywords: [EmbeddedServiceFieldService, Represents, setup, node, creating, embedded, Appointment, Management, beta, deployment., Tooling, API, version, 43.0, later., Supported, Calls, REST, HTTP, Fields]
+keywords: [EmbeddedServiceFieldService, setup, node, creating, embedded, Appointment, Management, beta, deployment, Tooling, API, version, 43.0, later, Calls]
 ---
 
 # EmbeddedServiceFieldService

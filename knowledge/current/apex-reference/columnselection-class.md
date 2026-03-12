@@ -5,10 +5,10 @@ topic: columnselection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.903Z
+lastCollected: 2026-03-12T09:33:20.461Z
 estimatedTokens: 558
 namespace: DataSource
-keywords: [ColumnSelection, Identifies, list, columns, during, query, search., Usage, aggregation, columnName, tableName]
+keywords: [ColumnSelection, Identifies, columns, query, search, Usage, aggregation, columnName, tableName]
 ---
 
 # ColumnSelection Class

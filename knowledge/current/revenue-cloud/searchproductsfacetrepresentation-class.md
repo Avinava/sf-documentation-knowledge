@@ -5,9 +5,9 @@ topic: searchproductsfacetrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.959Z
+lastCollected: 2026-03-12T09:33:07.009Z
 estimatedTokens: 995
-keywords: [SearchProductsFacetRepresentation, Represents, search, facet, provides, filtering, categorization, options, product, results, such, categories, attributes, characteristics., attributeType, displayName, displayRank, nameOrId, values]
+keywords: [SearchProductsFacetRepresentation, search, facet, filtering, categorization, options, product, results, categories, attributes, characteristics, attributeType, displayName, displayRank, nameOrId]
 ---
 
 # SearchProductsFacetRepresentation Class

@@ -5,9 +5,9 @@ topic: connectapiabstractbasesequenceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.189Z
+lastCollected: 2026-03-12T09:33:24.483Z
 estimatedTokens: 272
-keywords: [ConnectApi.AbstractBaseSequenceInputRepresentation, sequence, refunds, payment, credits.]
+keywords: [sequence, refunds, payment, credits]
 ---
 
 # ConnectApi.AbstractBaseSequenceInputRepresentation

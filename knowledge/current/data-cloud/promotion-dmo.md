@@ -5,9 +5,9 @@ topic: promotion-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.819Z
+lastCollected: 2026-03-12T09:33:15.513Z
 estimatedTokens: 1732
-keywords: [Promotion, DMO, Data, Cloud, data, model, loyalty, promotion, details, such, promotion., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+keywords: [Promotion, DMO, Data, Cloud, model, loyalty, API, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Promotion DMO

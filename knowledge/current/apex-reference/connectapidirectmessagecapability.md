@@ -5,9 +5,9 @@ topic: connectapidirectmessagecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.033Z
+lastCollected: 2026-03-12T09:33:27.124Z
 estimatedTokens: 207
-keywords: [ConnectApi.DirectMessageCapability, feed, element, capability, it’s, direct, message.]
+keywords: [ConnectApi.DirectMessageCapability, feed, element, capability, it’s, direct, message]
 ---
 
 # ConnectApi.DirectMessageCapability

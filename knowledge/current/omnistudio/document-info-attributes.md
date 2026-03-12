@@ -5,9 +5,9 @@ topic: document-info-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.802Z
+lastCollected: 2026-03-12T09:33:47.733Z
 estimatedTokens: 101
-keywords: [Document, Info, Attributes, Input, including, documents, service, process.]
+keywords: [Document, Info, Attributes, Input, including, documents, service, process]
 ---
 
 # Document Info Attributes

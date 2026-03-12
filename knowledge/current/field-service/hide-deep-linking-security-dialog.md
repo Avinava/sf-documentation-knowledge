@@ -5,9 +5,9 @@ topic: hide-deep-linking-security-dialog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.464Z
+lastCollected: 2026-03-12T09:33:53.778Z
 estimatedTokens: 843
-keywords: [Hide, Deep, Linking, Security, Dialog, time, user, opens, deep, link, action, Field, Service, mobile, app, security, dialog, prompts, confirm, action.]
+keywords: [Hide, Deep, Linking, Security, Dialog, time, user, opens, link, action, Service, mobile, app, prompts, confirm]
 ---
 
 # Hide Deep Linking Security Dialog

@@ -5,9 +5,9 @@ topic: billingperioditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:09.735Z
+lastCollected: 2026-03-12T09:33:10.983Z
 estimatedTokens: 1487
-keywords: [BillingPeriodItem, Represents, payment, period, invoice., billing, item, used, pass, information, invoice, line., API, version, 62.0, later., Important, Supported, Calls, Special]
+keywords: [BillingPeriodItem, payment, period, invoice, billing, item, pass, line, API, version, 62.0, later, Calls, Special, Access]
 ---
 
 # BillingPeriodItem

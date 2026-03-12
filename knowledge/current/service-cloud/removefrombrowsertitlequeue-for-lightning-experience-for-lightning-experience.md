@@ -5,9 +5,9 @@ topic: removefrombrowsertitlequeue-for-lightning-experience-for-lightning-experi
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.903Z
+lastCollected: 2026-03-12T09:33:55.991Z
 estimatedTokens: 273
-keywords: [removeFromBrowserTitleQueue, Lightning, Experience, Removes, list, titles, rotate, browser, title, bar, every, three, seconds., works, only, console, apps., isn’t, supported, Web]
+keywords: [removeFromBrowserTitleQueue, Lightning, Experience, Removes, titles, rotate, browser, title, bar, every, three, seconds, works, console, apps]
 ---
 
 # removeFromBrowserTitleQueue() for Lightning Experience for Lightning Experience

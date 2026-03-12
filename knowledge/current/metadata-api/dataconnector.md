@@ -5,9 +5,9 @@ topic: dataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.450Z
+lastCollected: 2026-03-12T09:33:38.153Z
 estimatedTokens: 1962
-keywords: [DataConnector, Represents, white-labeled, metadata, configuration, external, connector, Data, 360., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+keywords: [DataConnector, white-labeled, metadata, configuration, external, connector, Data, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # DataConnector

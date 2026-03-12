@@ -5,9 +5,9 @@ topic: connectapitargetlocationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.623Z
+lastCollected: 2026-03-12T09:33:25.802Z
 estimatedTokens: 95
-keywords: [ConnectApi.TargetLocationInputRepresentation, set, inventory, locations, together, fulfill, order.]
+keywords: [inventory, locations, together, fulfill, order]
 ---
 
 # ConnectApi.TargetLocationInputRepresentation

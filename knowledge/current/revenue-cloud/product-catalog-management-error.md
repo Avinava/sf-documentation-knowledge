@@ -5,9 +5,9 @@ topic: product-catalog-management-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.945Z
+lastCollected: 2026-03-12T09:33:09.527Z
 estimatedTokens: 113
-keywords: [Product, Catalog, Management, Error, Output, representation, contains, error, details, including, codes, messages.]
+keywords: [Product, Catalog, Management, Error, Output, representation, including, codes, messages]
 ---
 
 # Product Catalog Management Error

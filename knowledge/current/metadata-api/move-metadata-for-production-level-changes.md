@@ -5,9 +5,9 @@ topic: move-metadata-for-production-level-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.445Z
+lastCollected: 2026-03-12T09:33:42.749Z
 estimatedTokens: 193
-keywords: [Move, Metadata, Production-Level, Changes, API, move, metadata, during, large, changes, such, merging, splitting, Salesforce, orgs.]
+keywords: [Move, Metadata, Production-Level, Changes, API, large, merging, splitting, Salesforce, orgs]
 ---
 
 # Move Metadata for Production-Level Changes

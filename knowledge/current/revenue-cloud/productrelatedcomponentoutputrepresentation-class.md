@@ -5,9 +5,9 @@ topic: productrelatedcomponentoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.919Z
+lastCollected: 2026-03-12T09:33:06.974Z
 estimatedTokens: 3099
-keywords: [ProductRelatedComponentOutputRepresentation, Represents, related, component, product, bundle, relationship, including, configuration, details, such, quantity, constraints, required, status, metadata., childProductId, childSellingModelId, doesBundlePriceIncludeChild, isComponentRequired]
+keywords: [component, product, bundle, relationship, including, configuration, quantity, constraints, status, metadata, childProductId, childSellingModelId, doesBundlePriceIncludeChild, isComponentRequired, isDefaultComponent]
 ---
 
 # ProductRelatedComponentOutputRepresentation Class

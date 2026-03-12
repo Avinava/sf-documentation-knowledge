@@ -5,9 +5,9 @@ topic: connectapipreviewreturnoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.432Z
+lastCollected: 2026-03-12T09:33:28.480Z
 estimatedTokens: 137
-keywords: [ConnectApi.PreviewReturnOutputRepresentation, Expected, financial, values, proposed, action.]
+keywords: [Expected, financial, proposed, action]
 ---
 
 # ConnectApi.PreviewReturnOutputRepresentation

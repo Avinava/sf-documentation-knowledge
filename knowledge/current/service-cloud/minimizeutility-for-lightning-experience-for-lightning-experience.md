@@ -5,9 +5,9 @@ topic: minimizeutility-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.840Z
+lastCollected: 2026-03-12T09:33:55.932Z
 estimatedTokens: 189
-keywords: [minimizeUtility, Lightning, Experience, Minimizes, utility., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
+keywords: [minimizeUtility, Lightning, Experience, Minimizes, utility, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---
 
 # minimizeUtility() for Lightning Experience for Lightning Experience

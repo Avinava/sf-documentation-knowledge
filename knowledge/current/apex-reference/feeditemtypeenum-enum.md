@@ -5,9 +5,9 @@ topic: feeditemtypeenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.474Z
+lastCollected: 2026-03-12T09:33:29.521Z
 estimatedTokens: 577
-keywords: [FeedItemTypeEnum, feed, item, feed-based, page, layout., Values]
+keywords: [FeedItemTypeEnum, feed, item, feed-based, layout]
 ---
 
 # FeedItemTypeEnum Enum

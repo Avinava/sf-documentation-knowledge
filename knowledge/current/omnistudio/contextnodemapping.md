@@ -5,9 +5,9 @@ topic: contextnodemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:54.708Z
+lastCollected: 2026-03-12T09:33:53.059Z
 estimatedTokens: 506
-keywords: [ContextNodeMapping, Represents, relationship, between, node, context, values, input, schema., API, version, 59.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [ContextNodeMapping, relationship, node, context, input, schema, API, version, 59.0, later, SOAP, Calls, REST]
 ---
 
 # ContextNodeMapping

@@ -5,9 +5,9 @@ topic: connectapiquerypath
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.703Z
+lastCollected: 2026-03-12T09:33:28.741Z
 estimatedTokens: 87
-keywords: [ConnectApi.QueryPath, Represents, query, path.]
+keywords: [ConnectApi.QueryPath, query, path]
 ---
 
 # ConnectApi.QueryPath

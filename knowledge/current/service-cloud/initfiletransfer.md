@@ -5,9 +5,9 @@ topic: initfiletransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.523Z
+lastCollected: 2026-03-12T09:33:55.626Z
 estimatedTokens: 262
-keywords: [initFileTransfer, Initiates, process, transferring, file, customer, agent., API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [initFileTransfer, Initiates, process, transferring, file, customer, agent, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # initFileTransfer()

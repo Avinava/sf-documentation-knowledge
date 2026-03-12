@@ -5,9 +5,9 @@ topic: statuscode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:29.508Z
+lastCollected: 2026-03-12T09:33:29.556Z
 estimatedTokens: 179
-keywords: [StatusCode, Describes, status, code, unsuccessful, component, deploy., Values]
+keywords: [StatusCode, status, code, unsuccessful, component, deploy]
 ---
 
 # StatusCode Enum

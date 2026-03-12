@@ -5,9 +5,9 @@ topic: order-interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.395Z
+lastCollected: 2026-03-12T09:33:13.347Z
 estimatedTokens: 549
-keywords: [Order, Interaction, order, interaction, ecommerce, event, captures, actions, performed, user, manage, new, progress, completed, orders., Example]
+keywords: [Order, Interaction, ecommerce, event, captures, actions, performed, user, manage, new, progress, completed, orders]
 ---
 
 # Order Interaction

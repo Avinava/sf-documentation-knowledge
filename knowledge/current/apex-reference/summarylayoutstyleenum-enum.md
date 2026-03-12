@@ -5,9 +5,9 @@ topic: summarylayoutstyleenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.511Z
+lastCollected: 2026-03-12T09:33:29.559Z
 estimatedTokens: 191
-keywords: [SummaryLayoutStyleEnum, Describes, highlights, panel, style, SummaryLayout., Values]
+keywords: [SummaryLayoutStyleEnum, highlights, panel, style, SummaryLayout]
 ---
 
 # SummaryLayoutStyleEnum Enum

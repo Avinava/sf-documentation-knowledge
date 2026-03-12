@@ -5,9 +5,9 @@ topic: connectapiaudiencetargetassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.129Z
+lastCollected: 2026-03-12T09:33:26.302Z
 estimatedTokens: 283
-keywords: [ConnectApi.AudienceTargetAssignment, Target, assignments, personalization, audience.]
+keywords: [ConnectApi.AudienceTargetAssignment, Target, assignments, personalization, audience]
 ---
 
 # ConnectApi.AudienceTargetAssignment

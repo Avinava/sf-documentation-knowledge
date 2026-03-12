@@ -5,9 +5,9 @@ topic: connectapidistributepickedquantitiesinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.788Z
+lastCollected: 2026-03-12T09:33:25.044Z
 estimatedTokens: 148
-keywords: [ConnectApi.DistributePickedQuantitiesInputRepresentation, Input, representation, Distribute, Picked, Quantities]
+keywords: [Input, representation, Distribute, Picked, Quantities]
 ---
 
 # ConnectApi.DistributePickedQuantitiesInputRepresentation

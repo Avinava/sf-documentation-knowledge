@@ -5,9 +5,9 @@ topic: update-a-repository-file-with-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.452Z
+lastCollected: 2026-03-12T09:33:34.403Z
 estimatedTokens: 328
-keywords: [Update, Repository, File, Content, Call, update, repository, file, content.]
+keywords: [Repository, File, Content, Call]
 ---
 
 # Update a Repository File with Content

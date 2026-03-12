@@ -5,9 +5,9 @@ topic: get-sobject-quick-action-default-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.028Z
+lastCollected: 2026-03-12T09:33:35.876Z
 estimatedTokens: 189
-keywords: [Get, sObject, Quick, Action, Default, Values, specific, action’s, default, values, including, field, values., resource, REST, API, version, 28.0, later., Syntax]
+keywords: [sObject, Quick, Action, specific, action’s, including, resource, REST, API, version, 28.0, later]
 ---
 
 # Get sObject Quick Action Default Values

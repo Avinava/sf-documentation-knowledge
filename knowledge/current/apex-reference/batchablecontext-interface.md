@@ -5,10 +5,10 @@ topic: batchablecontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.077Z
+lastCollected: 2026-03-12T09:33:30.116Z
 estimatedTokens: 393
 namespace: Database
-keywords: [BatchableContext, Represents, batch, job, contains, ID., implemented, internally, Apex., getChildJobId, getJobId]
+keywords: [BatchableContext, batch, job, implemented, internally, Apex, getChildJobId, getJobId]
 ---
 
 # BatchableContext Interface

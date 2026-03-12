@@ -5,9 +5,9 @@ topic: mlfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.086Z
+lastCollected: 2026-03-12T09:33:45.240Z
 estimatedTokens: 498
-keywords: [MLField, Represents, field, modeling, data, definition., definition, specifies, used, create, model, machine, learning, application., API, version, 50.0, later., Supported, SOAP]
+keywords: [MLField, modeling, data, definition, model, machine, learning, application, API, version, 50.0, later, SOAP, Calls, REST]
 ---
 
 # MLField

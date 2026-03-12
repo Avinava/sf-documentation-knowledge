@@ -5,9 +5,9 @@ topic: duplicatejobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.198Z
+lastCollected: 2026-03-12T09:33:44.340Z
 estimatedTokens: 306
-keywords: [DuplicateJobDefinition, Setup, defining, job, identifies, duplicate, record, items, globally., Tooling, API, version, 42.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [DuplicateJobDefinition, Setup, defining, job, identifies, duplicate, record, items, globally, Tooling, API, version, 42.0, later, SOAP]
 ---
 
 # DuplicateJobDefinition

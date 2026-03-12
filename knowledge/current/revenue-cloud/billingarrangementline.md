@@ -5,9 +5,9 @@ topic: billingarrangementline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.667Z
+lastCollected: 2026-03-12T09:33:10.927Z
 estimatedTokens: 645
-keywords: [BillingArrangementLine, Represents, billing, account, profile, percentage, amount, invoiced., arrangement, line, results, separate, invoice, addressed, selected, account., API, version, 66.0, later.]
+keywords: [BillingArrangementLine, billing, account, profile, percentage, amount, invoiced, arrangement, line, results, separate, invoice, addressed, selected, API]
 ---
 
 # BillingArrangementLine

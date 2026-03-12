@@ -5,9 +5,9 @@ topic: expression-set-version-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.418Z
+lastCollected: 2026-03-12T09:33:47.422Z
 estimatedTokens: 1150
-keywords: [Expression, Set, Version, Step, Input, representation, step, expression, set, version.]
+keywords: [Expression, Version, Step, Input, representation]
 ---
 
 # Expression Set Version Step Input

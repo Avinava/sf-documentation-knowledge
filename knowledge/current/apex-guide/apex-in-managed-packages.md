@@ -5,9 +5,9 @@ topic: apex-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.628Z
+lastCollected: 2026-03-12T09:33:33.653Z
 estimatedTokens: 460
-keywords: [Apex, Managed, Packages, how, develop, distribute, managed, Apex., packages, behave, differently, unmanaged, deployed, directly, org., package, developers, subscribers, must, understand]
+keywords: [Apex, Managed, Packages, how, develop, distribute, behave, differently, unmanaged, deployed, directly, org, package, developers, subscribers]
 ---
 
 # Apex in Managed Packages

@@ -5,9 +5,9 @@ topic: configuration-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.722Z
+lastCollected: 2026-03-12T09:33:09.411Z
 estimatedTokens: 152
-keywords: [Configuration, List, Output, representation, details, saved, configuration.]
+keywords: [Configuration, Output, representation, saved]
 ---
 
 # Configuration List

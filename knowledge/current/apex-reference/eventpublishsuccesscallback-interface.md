@@ -5,10 +5,10 @@ topic: eventpublishsuccesscallback-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.085Z
+lastCollected: 2026-03-12T09:33:30.125Z
 estimatedTokens: 654
 namespace: EventBus
-keywords: [EventPublishSuccessCallback, Implement, track, platform, event, messages, were, published, successfully., onSuccess, called, final, result, asynchronous, publish, operation, becomes, available., Usage, Example]
+keywords: [EventPublishSuccessCallback, Implement, track, platform, event, messages, were, published, successfully, onSuccess, final, result, asynchronous, publish, operation]
 ---
 
 # EventPublishSuccessCallback Interface

@@ -5,9 +5,9 @@ topic: interest-tag-and-category-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.330Z
+lastCollected: 2026-03-12T09:33:49.016Z
 estimatedTokens: 177
-keywords: [Interest, Tag, Category, Create, Output, representation, details, simultaneously, creating, interest, tags, categories.]
+keywords: [Interest, Tag, Category, Output, representation, simultaneously, creating, tags, categories]
 ---
 
 # Interest Tag and Category Create

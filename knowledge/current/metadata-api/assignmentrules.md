@@ -5,9 +5,9 @@ topic: assignmentrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.058Z
+lastCollected: 2026-03-12T09:33:36.852Z
 estimatedTokens: 999
-keywords: [AssignmentRules, Represents, assignment, rules, allow, automatically, route, cases, appropriate, users, queues., access, metadata, applicable, objects, specific, rule, object., File, Suffix]
+keywords: [AssignmentRules, assignment, rules, allow, automatically, route, cases, appropriate, users, queues, access, metadata, applicable, objects, specific]
 ---
 
 # AssignmentRules

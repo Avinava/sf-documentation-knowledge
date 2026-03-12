@@ -5,9 +5,9 @@ topic: project-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:03.554Z
+lastCollected: 2026-03-12T09:33:05.718Z
 estimatedTokens: 22507
-keywords: [project, Commands, Convert, metadata, retrieved, via, Metadata, API, source, format, used, Salesforce, projects., convert, mdapi, Description, Examples, Flags, Aliases, source-behavior]
+keywords: [project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Flags, Aliases, source-behavior]
 ---
 
 # project Commands

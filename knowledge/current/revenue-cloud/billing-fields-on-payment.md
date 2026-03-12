@@ -5,9 +5,9 @@ topic: billing-fields-on-payment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.485Z
+lastCollected: 2026-03-12T09:33:07.464Z
 estimatedTokens: 873
-keywords: [Billing, Fields, Payment, Standard, fields, extend, represent, information, corporate, currency, transaction, amounts, accounting, periods, legal, entities., API, version, 64.0, later.]
+keywords: [Billing, Payment, Standard, extend, represent, corporate, currency, transaction, amounts, accounting, periods, legal, entities, API, version]
 ---
 
 # Billing Fields on Payment

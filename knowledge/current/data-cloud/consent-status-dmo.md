@@ -5,9 +5,9 @@ topic: consent-status-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.350Z
+lastCollected: 2026-03-12T09:33:14.191Z
 estimatedTokens: 430
-keywords: [Consent, Status, DMO, Data, Cloud, data, model, status, consent, example, opted, collection., API, Name, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Consent, Status, DMO, Data, Cloud, model, opted, collection, API, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Consent Status DMO

@@ -5,9 +5,9 @@ topic: embeddedservicemenusettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.320Z
+lastCollected: 2026-03-12T09:33:44.450Z
 estimatedTokens: 1296
-keywords: [EmbeddedServiceMenuSettings, Represents, setup, node, creating, channel, menu, deployment., Channel, menus, list, ways, which, customers, contact, business., API, version, 47.0, later.]
+keywords: [EmbeddedServiceMenuSettings, setup, node, creating, channel, menu, deployment, menus, ways, customers, contact, business, API, version, 47.0]
 ---
 
 # EmbeddedServiceMenuSettings

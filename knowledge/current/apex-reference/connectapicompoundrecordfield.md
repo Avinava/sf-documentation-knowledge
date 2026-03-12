@@ -5,9 +5,9 @@ topic: connectapicompoundrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.757Z
+lastCollected: 2026-03-12T09:33:26.868Z
 estimatedTokens: 114
-keywords: [ConnectApi.CompoundRecordField, Record, field, composite, subfields.]
+keywords: [ConnectApi.CompoundRecordField, Record, composite, subfields]
 ---
 
 # ConnectApi.CompoundRecordField

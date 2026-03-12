@@ -5,9 +5,9 @@ topic: named-query-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.737Z
+lastCollected: 2026-03-12T09:33:35.588Z
 estimatedTokens: 356
-keywords: [Named, Query, API, create, it’s, REST, call., name, defines, endpoint, while, appear, URI, query, parameters., Syntax, Example]
+keywords: [Named, Query, API, it’s, REST, call, endpoint, appear, URI]
 ---
 
 # Named Query API

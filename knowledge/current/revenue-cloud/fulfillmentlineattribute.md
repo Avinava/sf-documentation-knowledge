@@ -5,9 +5,9 @@ topic: fulfillmentlineattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.253Z
+lastCollected: 2026-03-12T09:33:11.407Z
 estimatedTokens: 457
-keywords: [FulfillmentLineAttribute, Represents, attribute, fulfillment, order, line., API, version, 61.0, later., Important, Supported, Calls, Fields]
+keywords: [FulfillmentLineAttribute, attribute, fulfillment, order, line, API, version, 61.0, later, Calls]
 ---
 
 # FulfillmentLineAttribute

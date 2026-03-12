@@ -5,9 +5,9 @@ topic: triggers-and-merge-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.205Z
+lastCollected: 2026-03-12T09:33:34.198Z
 estimatedTokens: 436
-keywords: [Triggers, Merge, Statements, example, two, contacts, merged, only, delete, update, contact, triggers, fire., records, related, such, accounts, opportunities]
+keywords: [Triggers, Merge, Statements, two, contacts, merged, contact, fire, records, accounts, opportunities]
 ---
 
 # Triggers and Merge Statements

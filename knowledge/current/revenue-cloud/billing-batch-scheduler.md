@@ -5,9 +5,9 @@ topic: billing-batch-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.383Z
+lastCollected: 2026-03-12T09:33:09.114Z
 estimatedTokens: 82
-keywords: [Billing, Batch, Scheduler, Output, representation, details, created, invoice, payment, scheduler.]
+keywords: [Billing, Batch, Scheduler, Output, representation, created, invoice, payment]
 ---
 
 # Billing Batch Scheduler

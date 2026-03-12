@@ -5,10 +5,10 @@ topic: describequickactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.845Z
+lastCollected: 2026-03-12T09:33:23.252Z
 estimatedTokens: 9755
 namespace: QuickAction
-keywords: [DescribeQuickActionResult, name, Canvas, application, invoked, custom, action., Usage, canvasapplicationname, colors, contextsobjecttype, defaultvalues, flowdevname, flowrecordidvar, height, iconname, icons, iconurl, layout, lightningcomponentbundleid]
+keywords: [DescribeQuickActionResult, Canvas, application, invoked, custom, action, Usage, canvasapplicationname, colors, contextsobjecttype, defaultvalues, flowdevname, flowrecordidvar, height, iconname]
 ---
 
 # DescribeQuickActionResult Class

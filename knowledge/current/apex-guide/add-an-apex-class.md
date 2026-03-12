@@ -5,9 +5,9 @@ topic: add-an-apex-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.830Z
+lastCollected: 2026-03-12T09:33:33.846Z
 estimatedTokens: 946
-keywords: [Add, Apex, step, add, contains, updating, book, price., called, trigger, you’ll, adding, next, step.]
+keywords: [Add, Apex, step, updating, book, price, trigger, you’ll, adding]
 ---
 
 # Add an Apex Class

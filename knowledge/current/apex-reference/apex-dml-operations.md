@@ -5,9 +5,9 @@ topic: apex-dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.381Z
+lastCollected: 2026-03-12T09:33:29.427Z
 estimatedTokens: 1932
-keywords: [Apex, DML, Operations, perform, operations, statements, Database, class., lead, conversion, convertLead, There, counterpart, it., Statements, Insert, Statement, Syntax, Example, Note]
+keywords: [Apex, DML, Operations, perform, statements, Database, lead, conversion, convertLead, There, counterpart, Insert, Statement, Upsert, How]
 ---
 
 # Apex DML Operations

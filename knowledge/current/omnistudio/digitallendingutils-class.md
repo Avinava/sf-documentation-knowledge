@@ -5,10 +5,10 @@ topic: digitallendingutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.573Z
+lastCollected: 2026-03-12T09:33:46.608Z
 estimatedTokens: 214
 namespace: Usage
-keywords: [DigitalLendingUtils, Contains, call, utility, Integration, Procedures, used, Digital, Lending, post, intake, Flexcards., Usage]
+keywords: [DigitalLendingUtils, call, utility, Integration, Procedures, Digital, Lending, post, intake, Flexcards, Usage]
 ---
 
 # DigitalLendingUtils Class

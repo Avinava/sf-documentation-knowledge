@@ -5,9 +5,9 @@ topic: b2c-commerce-sales-order-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.939Z
+lastCollected: 2026-03-12T09:33:13.785Z
 estimatedTokens: 361
-keywords: [B2C, Commerce, Sales, Order, Product, Mapping, After, data, stream, deployed, Salesforce, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
+keywords: [B2C, Commerce, Sales, Order, Product, Mapping, data, stream, deployed, Salesforce, starter, bundle, automatically, maps, source]
 ---
 
 # B2C Commerce: Sales Order Product Mapping

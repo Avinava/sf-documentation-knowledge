@@ -5,9 +5,9 @@ topic: fulfillmentworkspaceitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.390Z
+lastCollected: 2026-03-12T09:33:11.522Z
 estimatedTokens: 404
-keywords: [FulfillmentWorkspaceItem, Represents, information, attributes, used, definition, fulfillment, step, group., API, version, 61.0, later., Important, Supported, Calls, Fields]
+keywords: [FulfillmentWorkspaceItem, attributes, definition, fulfillment, step, group, API, version, 61.0, later, Calls]
 ---
 
 # FulfillmentWorkspaceItem

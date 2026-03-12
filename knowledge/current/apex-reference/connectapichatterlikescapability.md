@@ -5,9 +5,9 @@ topic: connectapichatterlikescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.623Z
+lastCollected: 2026-03-12T09:33:26.760Z
 estimatedTokens: 290
-keywords: [ConnectApi.ChatterLikesCapability, feed, element, capability, context, user, it., Exposes, information, existing, likes.]
+keywords: [ConnectApi.ChatterLikesCapability, feed, element, capability, context, user, likes]
 ---
 
 # ConnectApi.ChatterLikesCapability

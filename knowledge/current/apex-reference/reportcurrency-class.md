@@ -5,10 +5,10 @@ topic: reportcurrency-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.058Z
+lastCollected: 2026-03-12T09:33:23.455Z
 estimatedTokens: 418
 namespace: Reports
-keywords: [ReportCurrency, Contains, information, currency, including, amount, code., getAmount, Syntax, getCurrencyCode]
+keywords: [ReportCurrency, currency, including, amount, code, getAmount, getCurrencyCode]
 ---
 
 # ReportCurrency Class

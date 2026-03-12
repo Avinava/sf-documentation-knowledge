@@ -5,9 +5,9 @@ topic: connectapiitemquantityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.618Z
+lastCollected: 2026-03-12T09:33:27.673Z
 estimatedTokens: 98
-keywords: [ConnectApi.ItemQuantityOutputRepresentation, quantity, specific, item]
+keywords: [quantity, specific, item]
 ---
 
 # ConnectApi.ItemQuantityOutputRepresentation

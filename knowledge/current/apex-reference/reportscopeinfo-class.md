@@ -5,10 +5,10 @@ topic: reportscopeinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.950Z
+lastCollected: 2026-03-12T09:33:23.354Z
 estimatedTokens: 492
 namespace: Reports
-keywords: [ReportScopeInfo, Contains, information, possible, scope, values, choose., Scope, depend, report, type., example, set, opportunity, reports, opportunities, team’s, opportunities., getDefaultValue, getValues]
+keywords: [ReportScopeInfo, possible, scope, choose, depend, report, opportunity, reports, opportunities, team’s, getDefaultValue, getValues]
 ---
 
 # ReportScopeInfo Class

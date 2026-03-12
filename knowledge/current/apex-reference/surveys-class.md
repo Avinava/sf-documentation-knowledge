@@ -5,10 +5,10 @@ topic: surveys-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.949Z
+lastCollected: 2026-03-12T09:33:19.633Z
 estimatedTokens: 472
 namespace: ConnectApi
-keywords: [Surveys, Email, survey, invitations, 300, participants., email, either, leads, contacts, users, org., Either, link, launch, question, embedded, invitations., sendSurveyInvitationEmail, surveyID]
+keywords: [Surveys, Email, survey, invitations, participants, either, leads, contacts, users, org, link, launch, question, embedded, sendSurveyInvitationEmail]
 ---
 
 # Surveys Class

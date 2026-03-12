@@ -5,9 +5,9 @@ topic: globalpicklistvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.335Z
+lastCollected: 2026-03-12T09:33:39.838Z
 estimatedTokens: 2209
-keywords: [GlobalPicklistValue, Represents, definition, used, picklist., Custom, picklist, fields, inherit, set, Note, Version, Fields, PicklistValue, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [GlobalPicklistValue, definition, picklist, Custom, inherit, Version, PicklistValue, Declarative, Metadata, Sample, Wildcard, Support, Manifest, File]
 ---
 
 # GlobalPicklistValue

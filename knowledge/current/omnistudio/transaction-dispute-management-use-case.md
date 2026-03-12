@@ -5,9 +5,9 @@ topic: transaction-dispute-management-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:53.109Z
+lastCollected: 2026-03-12T09:33:51.637Z
 estimatedTokens: 1705
-keywords: [Transaction, Dispute, Management, Case, dispute, management, provides, streamlined, process, users, capture, submit, customer, disputes, related, financial, transactions., Service, Process, connect]
+keywords: [Transaction, Dispute, Management, Case, streamlined, process, users, capture, submit, customer, disputes, financial, transactions, Service, connect]
 ---
 
 # Transaction Dispute Management Use Case

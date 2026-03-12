@@ -5,9 +5,9 @@ topic: loyalty-benefit-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.271Z
+lastCollected: 2026-03-12T09:33:14.993Z
 estimatedTokens: 610
-keywords: [Loyalty, Benefit, DMO, Data, Cloud, data, model, loyalty, benefit, such, rewards, gift, cards., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Loyalty, Benefit, DMO, Data, Cloud, model, rewards, gift, cards, API, Category, Primary, Subject, Area, Key]
 ---
 
 # Loyalty Benefit Type DMO

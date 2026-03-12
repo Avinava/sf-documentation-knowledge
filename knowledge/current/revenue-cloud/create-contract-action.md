@@ -5,9 +5,9 @@ topic: create-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.679Z
+lastCollected: 2026-03-12T09:33:05.850Z
 estimatedTokens: 444
-keywords: [Create, Contract, Action, contract, specific, quote, record., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Contract, Action, specific, quote, record, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Create Contract Action

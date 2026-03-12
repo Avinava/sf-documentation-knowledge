@@ -5,9 +5,9 @@ topic: integration-procedure-cache-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.320Z
+lastCollected: 2026-03-12T09:33:49.005Z
 estimatedTokens: 113
-keywords: [Integration, Procedure, Cache, Response, Output, representation, response, error, message, status.]
+keywords: [Integration, Procedure, Cache, Output, representation, error, message, status]
 ---
 
 # Integration Procedure Cache Response

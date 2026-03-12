@@ -5,10 +5,10 @@ topic: managedcontentchannels-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.249Z
+lastCollected: 2026-03-12T09:33:18.901Z
 estimatedTokens: 1579
 namespace: ConnectApi
-keywords: [ManagedContentChannels, Get, managed, content, channels., Create, get, update, delete, channel., deleteManagedContentChannel, channelId, API, Version, Requires, Chatter, getManagedContentChannel, getManagedContentChannels, pageParam, pageSize]
+keywords: [ManagedContentChannels, managed, content, channels, channel, deleteManagedContentChannel, channelId, API, Version, Requires, Chatter, getManagedContentChannel, getManagedContentChannels, pageParam, pageSize]
 ---
 
 # ManagedContentChannels Class

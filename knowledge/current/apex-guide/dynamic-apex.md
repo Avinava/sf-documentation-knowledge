@@ -5,9 +5,9 @@ topic: dynamic-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.275Z
+lastCollected: 2026-03-12T09:33:33.299Z
 estimatedTokens: 748
-keywords: [Dynamic, Apex, enables, developers, create, flexible, applications, providing, ability]
+keywords: [Dynamic, Apex, developers, flexible, applications, providing, ability]
 ---
 
 # Dynamic Apex

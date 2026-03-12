@@ -5,9 +5,9 @@ topic: incidentconfigurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.445Z
+lastCollected: 2026-03-12T09:33:16.106Z
 estimatedTokens: 407
-keywords: [IncidentConfigurationItem, Represents, relationship, between, incident, configuration, item, reference., API, version, 65.0, later., Supported, Calls, Fields]
+keywords: [IncidentConfigurationItem, relationship, incident, configuration, item, API, version, 65.0, later, Calls]
 ---
 
 # IncidentConfigurationItem

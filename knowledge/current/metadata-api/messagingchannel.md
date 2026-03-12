@@ -5,9 +5,9 @@ topic: messagingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:41.139Z
+lastCollected: 2026-03-12T09:33:40.620Z
 estimatedTokens: 3238
-keywords: [MessagingChannel, Represents, metadata, associated, Embedded, Service, Messaging, channel., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, EmbeddedConfig]
+keywords: [MessagingChannel, metadata, associated, Embedded, Service, Messaging, channel, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # MessagingChannel

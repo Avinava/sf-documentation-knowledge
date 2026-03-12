@@ -5,10 +5,10 @@ topic: cdpquery-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.900Z
+lastCollected: 2026-03-12T09:33:16.530Z
 estimatedTokens: 30989
 namespace: ConnectApi
-keywords: [CdpQuery, Synchronously, query, data, across, model, lake, unified, linked, objects., Specify, batch, size, offset, order, results., 999, rows., getAllMetadata, API]
+keywords: [CdpQuery, Synchronously, query, data, across, model, lake, unified, linked, objects, Specify, batch, size, offset, order]
 ---
 
 # CdpQuery Class

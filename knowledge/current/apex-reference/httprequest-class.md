@@ -5,10 +5,10 @@ topic: httprequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.776Z
+lastCollected: 2026-03-12T09:33:24.182Z
 estimatedTokens: 3915
 namespace: System
-keywords: [HttpRequest, programmatically, create, HTTP, requests, GET, POST, PATCH, PUT, DELETE., Usage, Example, Note, Compression, getBody, getBodyAsBlob, getBodyDocument, getCompressed, getEndpoint, getHeader]
+keywords: [HttpRequest, programmatically, HTTP, requests, POST, PATCH, PUT, Usage, Compression, getBody, getBodyAsBlob, getBodyDocument, getCompressed, getEndpoint, getHeader]
 ---
 
 # HttpRequest Class

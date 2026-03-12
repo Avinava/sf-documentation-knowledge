@@ -5,9 +5,9 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.915Z
+lastCollected: 2026-03-12T09:33:09.508Z
 estimatedTokens: 75
-keywords: [Metadata, Output, representation, metadata, details, objects.]
+keywords: [Metadata, Output, representation, objects]
 ---
 
 # Metadata

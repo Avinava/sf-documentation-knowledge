@@ -5,9 +5,9 @@ topic: cnfgitemtypeattrreldef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.565Z
+lastCollected: 2026-03-12T09:33:16.215Z
 estimatedTokens: 1045
-keywords: [CnfgItemTypeAttrRelDef, Represents, definition, relationship, between, configuration, item, attribute, that's, applicable, type., exampe, server, attributes, manufacturer, name, address., API, version, 65.0]
+keywords: [CnfgItemTypeAttrRelDef, definition, relationship, configuration, item, attribute, that's, applicable, exampe, server, attributes, manufacturer, address, API, version]
 ---
 
 # CnfgItemTypeAttrRelDef

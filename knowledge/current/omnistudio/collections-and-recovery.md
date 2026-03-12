@@ -5,9 +5,9 @@ topic: collections-and-recovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.958Z
+lastCollected: 2026-03-12T09:33:46.979Z
 estimatedTokens: 163
-keywords: [Collections, Recovery, data, model, streamline, collection, process., Create, prioritized, lists, plans., manage, promise, pay, agreements, better, management, overdue, amounts.]
+keywords: [Collections, Recovery, data, model, streamline, collection, process, prioritized, plans, manage, promise, pay, agreements, better, management]
 ---
 
 # Collections and Recovery

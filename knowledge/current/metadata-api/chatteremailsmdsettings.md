@@ -5,9 +5,9 @@ topic: chatteremailsmdsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.655Z
+lastCollected: 2026-03-12T09:33:37.414Z
 estimatedTokens: 936
-keywords: [ChatterEmailsMDSettings, Represents, org’s, settings, Chatter, email, enabled., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields]
+keywords: [ChatterEmailsMDSettings, org’s, settings, Chatter, email, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # ChatterEmailsMDSettings

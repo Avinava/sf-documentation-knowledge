@@ -5,9 +5,9 @@ topic: document-process-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.316Z
+lastCollected: 2026-03-12T09:33:47.318Z
 estimatedTokens: 446
-keywords: [Document, Process, Input, representation, content, document, received, record, create, update, Salesforce, record.]
+keywords: [Document, Process, Input, representation, content, received, record, Salesforce]
 ---
 
 # Document Process Input

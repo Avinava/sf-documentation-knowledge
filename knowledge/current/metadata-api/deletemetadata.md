@@ -5,10 +5,10 @@ topic: deletemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:38.659Z
+lastCollected: 2026-03-12T09:33:38.354Z
 estimatedTokens: 1244
 namespace: MyNS
-keywords: [deleteMetadata, Deletes, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Rules, Guidelines, Basic, Steps, Deleting, Metadata, Components, Sample, Code—Java]
+keywords: [deleteMetadata, Deletes, metadata, components, organization, synchronously, Usage, Version, Permissions, Rules, Guidelines, Basic, Steps, Deleting, Sample]
 ---
 
 # deleteMetadata()

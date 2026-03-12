@@ -5,9 +5,9 @@ topic: connectapiegresspropertiesrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.086Z
+lastCollected: 2026-03-12T09:33:27.181Z
 estimatedTokens: 361
-keywords: [ConnectApi.EgressPropertiesRepresentation, Represents, details, egress, activation, target.]
+keywords: [egress, activation, target]
 ---
 
 # ConnectApi.EgressPropertiesRepresentation

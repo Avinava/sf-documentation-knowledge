@@ -5,9 +5,9 @@ topic: ocrsampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.491Z
+lastCollected: 2026-03-12T09:33:40.958Z
 estimatedTokens: 1697
-keywords: [OcrSampleDocument, Represents, details, sample, document, that's, used, reference, while, extracting, mapping, information, customer, form., extends, Metadata, metadata, inherits, its, fullName]
+keywords: [OcrSampleDocument, sample, document, that's, extracting, mapping, customer, form, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # OcrSampleDocument

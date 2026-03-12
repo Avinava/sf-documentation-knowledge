@@ -5,9 +5,9 @@ topic: code-analyzer-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:03.078Z
+lastCollected: 2026-03-12T09:33:05.284Z
 estimatedTokens: 6591
-keywords: [code-analyzer, Commands, Output, current, state, configuration, Code, Analyzer., config, Description, Examples, Flags, rules, run]
+keywords: [code-analyzer, Commands, Output, current, state, configuration, Code, Analyzer, config, Examples, Flags, rules, run]
 ---
 
 # code-analyzer Commands

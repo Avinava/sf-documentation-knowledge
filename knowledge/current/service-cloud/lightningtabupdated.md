@@ -5,9 +5,9 @@ topic: lightningtabupdated
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.296Z
+lastCollected: 2026-03-12T09:33:55.422Z
 estimatedTokens: 94
-keywords: [lightning, tabUpdated, Indicates, tab, updated, successfully., Response, Example, lightning__tabUpdated, Lightning, message, channel, corresponds, Aura, app, event., web, components, used, within]
+keywords: [lightning, tabUpdated, tab, updated, successfully, lightning__tabUpdated, Lightning, message, channel, corresponds, Aura, app, event, web, components, console, _tabUpdated, LWC]
 ---
 
 # lightning:tabUpdated

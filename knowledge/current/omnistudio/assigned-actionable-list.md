@@ -5,9 +5,9 @@ topic: assigned-actionable-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.610Z
+lastCollected: 2026-03-12T09:33:48.424Z
 estimatedTokens: 229
-keywords: [Assigned, Actionable, List, Output, representation, assigned, actionable, list, request.]
+keywords: [Assigned, Actionable, Output, representation]
 ---
 
 # Assigned Actionable List

@@ -5,9 +5,9 @@ topic: decisiontbldatasetparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:54.789Z
+lastCollected: 2026-03-12T09:33:53.140Z
 estimatedTokens: 472
-keywords: [DecisionTblDatasetParameter, Represents, mapping, between, decision, table, field, selected, dataset, link., allows, know, which, fields, link, must, evaluated, input, table., API]
+keywords: [DecisionTblDatasetParameter, mapping, decision, selected, dataset, link, know, evaluated, input, API, version, 51.0, later, SOAP, Calls]
 ---
 
 # DecisionTblDatasetParameter

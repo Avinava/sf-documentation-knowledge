@@ -6,9 +6,9 @@ topic: isutilitypoppedout-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.812Z
+lastCollected: 2026-03-12T09:33:55.905Z
 estimatedTokens: 215
-keywords: [isUtilityPoppedOut, Lightning, Experience, Determines, whether, utility, popped-out, state., isn’t, supported, Web, Components, LWC, Arguments, Sample, Code, Response]
+keywords: [isUtilityPoppedOut, Lightning, Experience, Determines, whether, utility, popped-out, state, isn’t, Web, Components, LWC, Arguments, Sample, Code]
 ---
 
 # isUtilityPoppedOut() for Lightning Experience for

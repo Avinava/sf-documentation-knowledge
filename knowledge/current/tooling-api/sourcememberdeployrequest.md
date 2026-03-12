@@ -5,9 +5,9 @@ topic: sourcememberdeployrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:46.842Z
+lastCollected: 2026-03-12T09:33:45.924Z
 estimatedTokens: 14
-keywords: [SourceMemberDeployRequest, Reserved, internal, use.]
+keywords: [SourceMemberDeployRequest, Reserved, internal]
 ---
 
 # SourceMemberDeployRequest

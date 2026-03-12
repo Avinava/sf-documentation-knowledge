@@ -6,9 +6,9 @@ topic: focusnavigationitem-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.706Z
+lastCollected: 2026-03-12T09:33:55.807Z
 estimatedTokens: 259
-keywords: [focusNavigationItem, Lightning, Experience, Focuses, selected, navigation, opens, object's, home, page., Typically, standard, custom, objects, open, list, view., split, view, focus]
+keywords: [focusNavigationItem, Lightning, Experience, Focuses, selected, navigation, opens, object's, home, Typically, standard, custom, objects, open, view]
 ---
 
 # focusNavigationItem() for Lightning Experience for

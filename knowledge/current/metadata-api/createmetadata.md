@@ -5,9 +5,9 @@ topic: createmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.132Z
+lastCollected: 2026-03-12T09:33:37.849Z
 estimatedTokens: 1080
-keywords: [createMetadata, Adds, new, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Data, Values, Basic, Steps, Creating]
+keywords: [createMetadata, Adds, new, metadata, components, organization, synchronously, Usage, Version, Permissions, Data, Basic, Steps, Creating, Sample]
 ---
 
 # createMetadata()

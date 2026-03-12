@@ -5,9 +5,9 @@ topic: connectapitaxcustomerdetailsrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.749Z
+lastCollected: 2026-03-12T09:33:25.003Z
 estimatedTokens: 114
-keywords: [ConnectApi.TaxCustomerDetailsRequest, Customer, details, tax, calculation.]
+keywords: [ConnectApi.TaxCustomerDetailsRequest, Customer, tax, calculation]
 ---
 
 # ConnectApi.TaxCustomerDetailsRequest

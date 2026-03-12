@@ -5,10 +5,10 @@ topic: platform-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.301Z
+lastCollected: 2026-03-12T09:33:32.338Z
 estimatedTokens: 992
 namespace: Session
-keywords: [Platform, Cache, Lightning, layer, provides, faster, performance, better, reliability, caching, Salesforce, session, org, data., Specify, cache, how, long, without, custom]
+keywords: [Platform, Cache, Lightning, layer, faster, performance, better, reliability, caching, Salesforce, session, org, data, Specify, how]
 ---
 
 # Platform Cache

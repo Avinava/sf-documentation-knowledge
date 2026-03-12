@@ -5,9 +5,9 @@ topic: tag-record-assignment-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.808Z
+lastCollected: 2026-03-12T09:33:49.447Z
 estimatedTokens: 93
-keywords: [Tag, Record, Assignment, Collection, Output, representation, collection, record, assignments, Interest, Tag.]
+keywords: [Tag, Record, Assignment, Collection, Output, representation, assignments, Interest]
 ---
 
 # Tag Record Assignment Collection

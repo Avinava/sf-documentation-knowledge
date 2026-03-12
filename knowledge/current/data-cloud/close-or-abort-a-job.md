@@ -5,9 +5,9 @@ topic: close-or-abort-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.063Z
+lastCollected: 2026-03-12T09:33:12.979Z
 estimatedTokens: 341
-keywords: [Close, Abort, Job, job, updating, state, UploadComplete., close, uploaded, data, enqueued, processing., abort, update, Aborted., doesn’t, get, queued, processed., Any]
+keywords: [Close, Abort, Job, updating, state, UploadComplete, uploaded, data, enqueued, processing, Aborted, doesn’t, queued, processed, Any]
 ---
 
 # Close or Abort a Job

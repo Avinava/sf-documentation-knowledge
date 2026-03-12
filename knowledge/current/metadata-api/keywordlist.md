@@ -5,9 +5,9 @@ topic: keywordlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.670Z
+lastCollected: 2026-03-12T09:33:40.175Z
 estimatedTokens: 788
-keywords: [KeywordList, Represents, list, keywords, used, Experience, Cloud, site, moderation., keyword, moderation, criteria, defines, offensive, language, inappropriate, content, don’t, want, site.]
+keywords: [KeywordList, keywords, Experience, Cloud, site, moderation, keyword, criteria, offensive, language, inappropriate, content, don’t, want, File]
 ---
 
 # KeywordList

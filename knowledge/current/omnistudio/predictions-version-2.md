@@ -5,9 +5,9 @@ topic: predictions-version-2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.408Z
+lastCollected: 2026-03-12T09:33:48.257Z
 estimatedTokens: 578
-keywords: [Predictions, Version, Identify, prediction, scores, given, request, which, customer, service, representatives, utilize, improve, overall, experience., Special, Access, Rules]
+keywords: [Predictions, Version, Identify, prediction, scores, customer, service, representatives, utilize, improve, overall, experience, Special, Access, Rules]
 ---
 
 # Predictions Version 2

@@ -5,9 +5,9 @@ topic: globalvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.346Z
+lastCollected: 2026-03-12T09:33:39.848Z
 estimatedTokens: 754
-keywords: [GlobalValueSetTranslation, Contains, details, set, translation., lists, values, shared, multiple, custom, picklist, fields, optionally, across, objects., extends, Metadata, metadata, inherits, its]
+keywords: [GlobalValueSetTranslation, translation, shared, multiple, custom, picklist, optionally, across, objects, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # GlobalValueSetTranslation

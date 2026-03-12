@@ -5,9 +5,9 @@ topic: employeeusersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.257Z
+lastCollected: 2026-03-12T09:33:38.900Z
 estimatedTokens: 660
-keywords: [EmployeeUserSettings, Represents, employee-user, settings, used, automatically, creating, syncing, employee, user, data, work.com, orgs., extends, Metadata, metadata, inherits, its, fullName, field.]
+keywords: [EmployeeUserSettings, employee-user, settings, automatically, creating, syncing, employee, user, data, work.com, orgs, extends, Metadata, inherits, fullName]
 ---
 
 # EmployeeUserSettings

@@ -5,9 +5,9 @@ topic: commerce-order-delivery-method-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:13.235Z
+lastCollected: 2026-03-12T09:33:14.077Z
 estimatedTokens: 297
-keywords: [Commerce, Order, Delivery, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., standardized, transferring]
+keywords: [Commerce, Order, Delivery, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
 ---
 
 # Commerce: Order Delivery Method Mapping

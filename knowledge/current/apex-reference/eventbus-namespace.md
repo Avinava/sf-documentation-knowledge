@@ -5,10 +5,10 @@ topic: eventbus-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.676Z
+lastCollected: 2026-03-12T09:33:31.732Z
 estimatedTokens: 695
 namespace: EventBus
-keywords: [EventBus, provides, classes, platform, events, Change, Data, Capture, events.]
+keywords: [EventBus, classes, platform, events, Change, Data, Capture]
 ---
 
 # EventBus Namespace

@@ -5,9 +5,9 @@ topic: inboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.861Z
+lastCollected: 2026-03-12T09:33:45.017Z
 estimatedTokens: 714
-keywords: [InboundNetworkConnection, Represents, connection, between, third-party, data, service, Salesforce, org., inbound, because, callouts, coming, Salesforce.., API, version, 49.0, later., Supported, SOAP]
+keywords: [InboundNetworkConnection, connection, third-party, data, service, Salesforce, org, inbound, because, callouts, coming, API, version, 49.0, later]
 ---
 
 # InboundNetworkConnection

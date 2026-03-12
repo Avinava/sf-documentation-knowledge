@@ -5,9 +5,9 @@ topic: referenceddashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.278Z
+lastCollected: 2026-03-12T09:33:41.715Z
 estimatedTokens: 572
-keywords: [ReferencedDashboard, Represents, CRM, Analytics., referenced, dashboard, stores, information, externally, dashboard., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [ReferencedDashboard, CRM, Analytics, referenced, dashboard, stores, externally, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # ReferencedDashboard

@@ -5,10 +5,10 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.050Z
+lastCollected: 2026-03-12T09:33:43.258Z
 estimatedTokens: 757
 namespace: Account.FirstName
-keywords: [Metadata, base, metadata, types., can’t, edit, object., component, instance, type., Version, Fields, Wildcard, Support, Manifest, File]
+keywords: [Metadata, base, can’t, edit, component, instance, Version, Wildcard, Support, Manifest, File]
 ---
 
 # Metadata

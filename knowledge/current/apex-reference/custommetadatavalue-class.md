@@ -5,10 +5,10 @@ topic: custommetadatavalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.316Z
+lastCollected: 2026-03-12T09:33:20.830Z
 estimatedTokens: 648
 namespace: Metadata
-keywords: [CustomMetadataValue, Represents, custom, metadata, values, component., Usage, Example, field, clone]
+keywords: [CustomMetadataValue, custom, metadata, component, Usage, clone]
 ---
 
 # CustomMetadataValue Class

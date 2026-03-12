@@ -5,9 +5,9 @@ topic: connectapiarticlesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.088Z
+lastCollected: 2026-03-12T09:33:26.262Z
 estimatedTokens: 215
-keywords: [ConnectApi.ArticleSummary, knowledge, article, summary.]
+keywords: [ConnectApi.ArticleSummary, knowledge, article, summary]
 ---
 
 # ConnectApi.ArticleSummary

@@ -5,10 +5,10 @@ topic: serviceresourceschedule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.689Z
+lastCollected: 2026-03-12T09:33:23.100Z
 estimatedTokens: 711
 namespace: LxScheduler
-keywords: [ServiceResourceSchedule, pass, results, implemented, Apex, ServiceResourceScheduleHandler, methods., serviceResourceId, unavailableTimeslots]
+keywords: [ServiceResourceSchedule, pass, results, implemented, Apex, ServiceResourceScheduleHandler, serviceResourceId, unavailableTimeslots]
 ---
 
 # ServiceResourceSchedule Class

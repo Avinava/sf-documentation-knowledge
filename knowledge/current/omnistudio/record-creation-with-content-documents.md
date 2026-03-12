@@ -5,9 +5,9 @@ topic: record-creation-with-content-documents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:51.499Z
+lastCollected: 2026-03-12T09:33:50.162Z
 estimatedTokens: 561
-keywords: [Record, Creation, Content, Documents, Create, records, Salesforce, objects, document, based, content, record.]
+keywords: [Record, Creation, Content, Documents, records, Salesforce, objects, document]
 ---
 
 # Record Creation with Content Documents

@@ -5,9 +5,9 @@ topic: regulationverregclausever
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.309Z
+lastCollected: 2026-03-12T09:33:52.704Z
 estimatedTokens: 621
-keywords: [RegulationVerRegClauseVer, Represents, junction, between, Regulation, Version, Clause, Version., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [RegulationVerRegClauseVer, junction, Regulation, Version, Clause, API, 65.0, later, Calls, Associated, Objects]
 ---
 
 # RegulationVerRegClauseVer

@@ -5,9 +5,9 @@ topic: wavelens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.901Z
+lastCollected: 2026-03-12T09:33:43.133Z
 estimatedTokens: 655
-keywords: [WaveLens, Represents, Analytics, application., Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+keywords: [WaveLens, Analytics, application, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # WaveLens

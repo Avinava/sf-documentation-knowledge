@@ -5,9 +5,9 @@ topic: search-products-facet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.445Z
+lastCollected: 2026-03-12T09:33:09.931Z
 estimatedTokens: 175
-keywords: [Search, Products, Facet, Output, representation, details, faceted, search.]
+keywords: [Search, Products, Facet, Output, representation, faceted]
 ---
 
 # Search Products Facet

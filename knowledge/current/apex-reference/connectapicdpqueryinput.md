@@ -5,9 +5,9 @@ topic: connectapicdpqueryinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.585Z
+lastCollected: 2026-03-12T09:33:24.849Z
 estimatedTokens: 421
-keywords: [ConnectApi.CdpQueryInput, Data, query, input.]
+keywords: [ConnectApi.CdpQueryInput, Data, query, input]
 ---
 
 # ConnectApi.CdpQueryInput

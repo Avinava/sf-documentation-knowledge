@@ -5,10 +5,10 @@ topic: cdpactivation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.723Z
+lastCollected: 2026-03-12T09:33:16.356Z
 estimatedTokens: 1858
 namespace: ConnectApi
-keywords: [CdpActivation, Get, create, update, delete, Data, 360, activations., getActivations, API, Version, Requires, Chatter, getActivationsPaginated, batchSize, offset, orderBy, filters, createActivation, input]
+keywords: [CdpActivation, Data, activations, getActivations, API, Version, Requires, Chatter, getActivationsPaginated, batchSize, offset, orderBy, filters, createActivation, input]
 ---
 
 # CdpActivation Class

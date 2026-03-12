@@ -5,10 +5,10 @@ topic: fielddetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.542Z
+lastCollected: 2026-03-12T09:33:46.578Z
 estimatedTokens: 546
 namespace: DataRetrieval
-keywords: [FieldDetailsRepresentation, Stores, field, names, their, values, associated, record, which, later, used, various, operations, data, processing, tasks., fieldName, fieldValue]
+keywords: [FieldDetailsRepresentation, Stores, their, associated, record, later, various, operations, data, processing, tasks, fieldName, fieldValue]
 ---
 
 # FieldDetailsRepresentation Class

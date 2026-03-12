@@ -5,9 +5,9 @@ topic: flow-for-intelligent-document-reader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.646Z
+lastCollected: 2026-03-12T09:33:50.300Z
 estimatedTokens: 303
-keywords: [Flow, Intelligent, Document, Reader, Represents, metadata, associated, flow., flow, create, application, navigates, users, through, series, screens, query, update, records, database.]
+keywords: [Flow, Intelligent, Document, Reader, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
 ---
 
 # Flow for Intelligent Document Reader

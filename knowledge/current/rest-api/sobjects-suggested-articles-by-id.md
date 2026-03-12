@@ -5,9 +5,9 @@ topic: sobjects-suggested-articles-by-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.123Z
+lastCollected: 2026-03-12T09:33:35.965Z
 estimatedTokens: 693
-keywords: [sObjects, Suggested, Articles, enter, article, retrieve, records, offer, similar, information, entered., resource, REST, API, version, 30.0, later., Syntax, Example]
+keywords: [sObjects, Suggested, Articles, enter, article, retrieve, records, offer, similar, entered, resource, REST, API, version, 30.0]
 ---
 
 # sObjects Suggested Articles by ID

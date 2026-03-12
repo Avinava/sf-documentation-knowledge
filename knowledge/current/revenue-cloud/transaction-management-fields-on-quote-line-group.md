@@ -5,9 +5,9 @@ topic: transaction-management-fields-on-quote-line-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.213Z
+lastCollected: 2026-03-12T09:33:10.577Z
 estimatedTokens: 1148
-keywords: [Transaction, Management, Fields, Quote, Line, Group, Standard, custom, fields, extend, standard, Management., Special, Access, Rules]
+keywords: [Transaction, Management, Quote, Line, Group, Standard, custom, extend, Special, Access, Rules]
 ---
 
 # Transaction Management Fields on Quote Line Group

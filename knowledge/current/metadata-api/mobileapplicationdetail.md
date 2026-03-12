@@ -5,9 +5,9 @@ topic: mobileapplicationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.222Z
+lastCollected: 2026-03-12T09:33:40.700Z
 estimatedTokens: 655
-keywords: [MobileApplicationDetail, Represents, packaging, attributes, mobile, connected, app., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields]
+keywords: [MobileApplicationDetail, packaging, attributes, mobile, connected, app, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # MobileApplicationDetail

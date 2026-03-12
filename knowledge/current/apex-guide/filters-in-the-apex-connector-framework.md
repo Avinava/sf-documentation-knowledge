@@ -5,9 +5,9 @@ topic: filters-in-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.991Z
+lastCollected: 2026-03-12T09:33:33.023Z
 estimatedTokens: 323
-keywords: [Filters, Apex, Connector, Framework, DataSource.QueryContext, contains, DataSource.TableSelection., DataSource.SearchContext, TableSelection., TableSelection, filter, represents, WHERE, clause, SOQL, SOSL, query.]
+keywords: [Filters, Apex, Connector, Framework, DataSource.QueryContext, DataSource.TableSelection, DataSource.SearchContext, TableSelection, filter, clause, SOQL, SOSL, query]
 ---
 
 # Filters in the Apex Connector Framework

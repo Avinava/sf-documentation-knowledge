@@ -5,9 +5,9 @@ topic: marketsegmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.072Z
+lastCollected: 2026-03-12T09:33:40.556Z
 estimatedTokens: 764
-keywords: [MarketSegmentDefinition, Represents, field, values, MarketSegmentDefinition., used, store, exportable, metadata, segment, such, criteria, attributes., Developers, create, definition, packages, pass, form, data]
+keywords: [MarketSegmentDefinition, store, exportable, metadata, segment, criteria, attributes, Developers, definition, packages, pass, form, data, build, tool]
 ---
 
 # MarketSegmentDefinition

@@ -5,9 +5,9 @@ topic: identityverificationprocfld
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.055Z
+lastCollected: 2026-03-12T09:33:52.491Z
 estimatedTokens: 1594
-keywords: [IdentityVerificationProcFld, Used, configure, questions, criteria, verifying, identity, caller., API, version, 54.0, later., Supported, Calls, Fields, customer, their, authorized, representative., Important]
+keywords: [IdentityVerificationProcFld, configure, questions, criteria, verifying, identity, caller, API, version, 54.0, later, Calls, customer, their, authorized, representative, SOAP]
 ---
 
 # IdentityVerificationProcFld

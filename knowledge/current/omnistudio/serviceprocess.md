@@ -5,9 +5,9 @@ topic: serviceprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.690Z
+lastCollected: 2026-03-12T09:33:51.264Z
 estimatedTokens: 1709
-keywords: [ServiceProcess, Represents, process, created, Service, Process, Studio, its, associated, attributes., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+keywords: [ServiceProcess, process, created, Service, Studio, associated, attributes, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # ServiceProcess

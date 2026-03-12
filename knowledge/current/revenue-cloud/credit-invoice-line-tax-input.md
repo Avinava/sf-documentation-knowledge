@@ -5,9 +5,9 @@ topic: credit-invoice-line-tax-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.995Z
+lastCollected: 2026-03-12T09:33:07.900Z
 estimatedTokens: 167
-keywords: [Credit, Invoice, Line, Tax, Input, representation, details, tax, lines, created, manually, invoice, line.]
+keywords: [Credit, Invoice, Line, Tax, Input, representation, lines, created, manually]
 ---
 
 # Credit Invoice Line Tax Input

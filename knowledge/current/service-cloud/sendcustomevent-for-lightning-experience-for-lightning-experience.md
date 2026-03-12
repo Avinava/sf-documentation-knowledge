@@ -6,9 +6,9 @@ topic: sendcustomevent-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.908Z
+lastCollected: 2026-03-12T09:33:55.995Z
 estimatedTokens: 254
-keywords: [sendCustomEvent, Lightning, Experience, Sends, custom, event, client-side, chat, window, specific, key., works, only, console, apps., Arguments, argumentObj, Sample, Code, Response]
+keywords: [sendCustomEvent, Lightning, Experience, custom, event, client-side, chat, window, specific, key, works, console, apps, Arguments, argumentObj]
 ---
 
 # sendCustomEvent() for Lightning Experience for

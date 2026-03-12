@@ -5,9 +5,9 @@ topic: connectapivoidpostedcreditmemoinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.110Z
+lastCollected: 2026-03-12T09:33:07.139Z
 estimatedTokens: 80
-keywords: [ConnectApi.VoidPostedCreditMemoInputRepresentation, Input, representation, details, credit, memo, voided.]
+keywords: [Input, representation, credit, memo, voided]
 ---
 
 # ConnectApi.VoidPostedCreditMemoInputRepresentation

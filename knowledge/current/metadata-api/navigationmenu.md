@@ -5,9 +5,9 @@ topic: navigationmenu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.351Z
+lastCollected: 2026-03-12T09:33:40.821Z
 estimatedTokens: 1332
-keywords: [NavigationMenu, Represents, navigation, menu, Experience, Builder, site., consists, items, users, click, parts, replaces, NavigationLinkSet, subtype, Network., API, version, 47.0, later.]
+keywords: [NavigationMenu, navigation, menu, Experience, Builder, site, consists, items, users, click, parts, replaces, NavigationLinkSet, subtype, Network]
 ---
 
 # NavigationMenu

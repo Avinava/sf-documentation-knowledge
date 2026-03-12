@@ -5,9 +5,9 @@ topic: when-should-i-use-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.537Z
+lastCollected: 2026-03-12T09:33:33.571Z
 estimatedTokens: 822
-keywords: [Should, Apex?, Salesforce, provides, ability, customize, prebuilt, apps, fit, organization., complex, business, processes, implement, custom, functionality, user, interfaces, variety, tools]
+keywords: [Apex, Salesforce, ability, customize, prebuilt, apps, fit, organization, complex, business, processes, implement, custom, functionality, user]
 ---
 
 # When Should I Use Apex?

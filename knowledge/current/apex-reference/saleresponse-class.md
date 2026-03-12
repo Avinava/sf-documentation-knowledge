@@ -5,10 +5,10 @@ topic: saleresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.127Z
+lastCollected: 2026-03-12T09:33:22.509Z
 estimatedTokens: 3326
 namespace: CommercePayments
-keywords: [SaleResponse, Response, sent, payment, gateway, adapters, sales, service., Usage, Example, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage]
+keywords: [SaleResponse, sent, payment, gateway, adapters, sales, service, Usage, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate]
 ---
 
 # SaleResponse Class

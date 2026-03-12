@@ -5,9 +5,9 @@ topic: deleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.663Z
+lastCollected: 2026-03-12T09:33:38.357Z
 estimatedTokens: 109
-keywords: [DeleteResult, Contains, result, information, deleteMetadata, call., Version]
+keywords: [DeleteResult, result, deleteMetadata, call, Version]
 ---
 
 # DeleteResult

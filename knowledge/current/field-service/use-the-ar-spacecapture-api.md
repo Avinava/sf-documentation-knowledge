@@ -5,9 +5,9 @@ topic: use-the-ar-spacecapture-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.532Z
+lastCollected: 2026-03-12T09:33:53.839Z
 estimatedTokens: 349
-keywords: [SpaceCapture, API, develop, LWC, Space, Capture, features, accessing, device’s, native, functionality., Add, Test, Availability, Start, Scan]
+keywords: [SpaceCapture, API, develop, LWC, Space, Capture, features, accessing, device’s, native, functionality, Add, Test, Availability, Start]
 ---
 
 # Use the AR SpaceCapture API

@@ -5,9 +5,9 @@ topic: actionablelistdeffltrcond
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.246Z
+lastCollected: 2026-03-12T09:33:51.751Z
 estimatedTokens: 1330
-keywords: [ActionableListDefFltrCond, Represents, filter, condition, including, excluding, data, dataset, associated, actionable, list, definition., API, version, 60.0, later., Supported, Calls, Fields, Associated]
+keywords: [ActionableListDefFltrCond, filter, condition, including, excluding, data, dataset, associated, actionable, definition, API, version, 60.0, later, Calls]
 ---
 
 # ActionableListDefFltrCond

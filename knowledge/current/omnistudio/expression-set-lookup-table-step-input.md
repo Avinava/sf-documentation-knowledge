@@ -5,9 +5,9 @@ topic: expression-set-lookup-table-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.397Z
+lastCollected: 2026-03-12T09:33:47.402Z
 estimatedTokens: 138
-keywords: [Expression, Set, Lookup, Table, Step, Input, representation, lookup, table, step, expression, set.]
+keywords: [Expression, Lookup, Step, Input, representation]
 ---
 
 # Expression Set Lookup Table Step Input

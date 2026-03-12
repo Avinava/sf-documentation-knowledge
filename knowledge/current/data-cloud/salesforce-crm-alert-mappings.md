@@ -5,9 +5,9 @@ topic: salesforce-crm-alert-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.538Z
+lastCollected: 2026-03-12T09:33:14.365Z
 estimatedTokens: 260
-keywords: [Salesforce, CRM, Alert, Mappings, data, mappings, DLO, found, Financial, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO, Mapping]
+keywords: [Salesforce, CRM, Alert, Mappings, data, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage, DMO, Mapping]
 ---
 
 # Salesforce CRM: Alert Mappings

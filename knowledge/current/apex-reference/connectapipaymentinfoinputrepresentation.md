@@ -5,9 +5,9 @@ topic: connectapipaymentinfoinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.314Z
+lastCollected: 2026-03-12T09:33:25.528Z
 estimatedTokens: 193
-keywords: [ConnectApi.PaymentInfoInputRepresentation, Payment, information, additional, funds, required, order.]
+keywords: [Payment, additional, funds, order]
 ---
 
 # ConnectApi.PaymentInfoInputRepresentation

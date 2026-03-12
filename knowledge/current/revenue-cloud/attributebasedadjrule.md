@@ -5,9 +5,9 @@ topic: attributebasedadjrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.606Z
+lastCollected: 2026-03-12T09:33:10.870Z
 estimatedTokens: 713
-keywords: [AttributeBasedAdjRule, Represents, attribute, conditions, rule, associated, based, adjustment, made, product, service, being, sold., API, version, 60.0, later., Supported, Calls, Fields]
+keywords: [AttributeBasedAdjRule, attribute, conditions, rule, associated, adjustment, made, product, service, sold, API, version, 60.0, later, Calls]
 ---
 
 # AttributeBasedAdjRule

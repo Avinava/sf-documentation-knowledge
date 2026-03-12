@@ -5,9 +5,9 @@ topic: connectapiociupdatereservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.263Z
+lastCollected: 2026-03-12T09:33:25.482Z
 estimatedTokens: 193
-keywords: [ConnectApi.OCIUpdateReservationSingleInputRepresentation, Data, update, Omnichannel, Inventory, reservation, item.]
+keywords: [Data, Omnichannel, Inventory, reservation, item]
 ---
 
 # ConnectApi.OCIUpdateReservationSingleInputRepresentation

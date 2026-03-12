@@ -5,9 +5,9 @@ topic: preferencecenterapexhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.130Z
+lastCollected: 2026-03-12T09:33:30.174Z
 estimatedTokens: 1005
-keywords: [PreferenceCenterApexHandler, Pass, data, between, organization, form, Preference, Manager., load, loadParams, formData, validationResult, submit]
+keywords: [PreferenceCenterApexHandler, Pass, data, organization, form, Preference, Manager, load, loadParams, formData, validationResult, submit]
 ---
 
 # PreferenceCenterApexHandler Interface

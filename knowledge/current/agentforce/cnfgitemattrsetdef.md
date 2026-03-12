@@ -5,9 +5,9 @@ topic: cnfgitemattrsetdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.555Z
+lastCollected: 2026-03-12T09:33:16.207Z
 estimatedTokens: 663
-keywords: [CnfgItemAttrSetDef, Represents, definition, logical, grouping, configuration, item, attributes, that's, used, display, similar, together., example, Stakeholder, attribute, set, owner, business, escalation]
+keywords: [CnfgItemAttrSetDef, definition, logical, grouping, configuration, item, attributes, that's, display, similar, together, Stakeholder, attribute, owner, business]
 ---
 
 # CnfgItemAttrSetDef

@@ -5,10 +5,10 @@ topic: pattern-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.659Z
+lastCollected: 2026-03-12T09:33:24.057Z
 estimatedTokens: 2010
 namespace: System
-keywords: [Pattern, Represents, compiled, representation, regular, expression., compile, regExp, matcher, stringtoMatch, matches, Usage, Example, pattern, quote, yourString, split, Note, limit]
+keywords: [Pattern, compiled, representation, regular, expression, compile, regExp, matcher, stringtoMatch, matches, Usage, quote, yourString, split, limit]
 ---
 
 # Pattern Class

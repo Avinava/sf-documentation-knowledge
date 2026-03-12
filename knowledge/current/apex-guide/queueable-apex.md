@@ -5,9 +5,9 @@ topic: queueable-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.879Z
+lastCollected: 2026-03-12T09:33:33.891Z
 estimatedTokens: 3018
-keywords: [Queueable, Apex, Take, control, asynchronous, processes, interface., Salesforce, recommends, instead, future, methods., Queueables, same, cases, offer, extra, benefits, including, job]
+keywords: [Queueable, Apex, Take, control, asynchronous, processes, Salesforce, recommends, instead, future, Queueables, cases, offer, extra, benefits]
 ---
 
 # Queueable Apex

@@ -5,9 +5,9 @@ topic: accessing-sobject-fields-through-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.585Z
+lastCollected: 2026-03-12T09:33:34.512Z
 estimatedTokens: 862
-keywords: [Accessing, sObject, Fields, Through, Relationships, records, represent, relationships, two, fields, address, points, representation, associated, sObject., example, Contact, both, AccountId, field]
+keywords: [Accessing, sObject, Relationships, records, represent, two, address, points, representation, associated, Contact, AccountId, Account]
 ---
 
 # Accessing sObject Fields Through Relationships

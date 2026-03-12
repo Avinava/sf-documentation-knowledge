@@ -5,9 +5,9 @@ topic: accessing-all-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.315Z
+lastCollected: 2026-03-12T09:33:33.362Z
 estimatedTokens: 532
-keywords: [Accessing, sObjects, Schema, getGlobalDescribe, map, represents, relationship, between, sObject, names, keys, tokens, values, example, Note]
+keywords: [Accessing, sObjects, Schema, getGlobalDescribe, map, relationship, sObject, keys, tokens]
 ---
 
 # Accessing All sObjects

@@ -5,10 +5,10 @@ topic: test-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.681Z
+lastCollected: 2026-03-12T09:33:22.105Z
 estimatedTokens: 376
 namespace: Canvas
-keywords: [Test, Contains, automated, testing, Canvas, classes., Usage, Calculates, aggregate, permissions, specified, permission, set, groups, testing., calculatePermissionSetGroup, psgIds, psgId, clearApexPageMessages, Example]
+keywords: [Test, automated, testing, Canvas, classes, Usage, Calculates, aggregate, permissions, permission, groups, calculatePermissionSetGroup, psgIds, psgId, clearApexPageMessages, createSoqlStub, targetType, soqlStub]
 ---
 
 # Test Class

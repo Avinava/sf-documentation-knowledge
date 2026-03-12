@@ -5,9 +5,9 @@ topic: group-membership-and-households-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.933Z
+lastCollected: 2026-03-12T09:33:51.507Z
 estimatedTokens: 143
-keywords: [Group, Membership, Households, Data, Model, objects, relationships, used, group, memberships, known, party, relationship, groups.]
+keywords: [Group, Membership, Households, Data, Model, objects, relationships, memberships, known, party, relationship, groups]
 ---
 
 # Group Membership and Households Data Model

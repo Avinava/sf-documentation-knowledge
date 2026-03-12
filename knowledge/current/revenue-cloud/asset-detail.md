@@ -5,9 +5,9 @@ topic: asset-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.328Z
+lastCollected: 2026-03-12T09:33:09.069Z
 estimatedTokens: 153
-keywords: [Asset, Detail, Output, representation, details, specific, asset.]
+keywords: [Asset, Detail, Output, representation, specific]
 ---
 
 # Asset Detail

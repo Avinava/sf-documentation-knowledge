@@ -5,9 +5,9 @@ topic: connectapibaseapipaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.376Z
+lastCollected: 2026-03-12T09:33:24.652Z
 estimatedTokens: 268
-keywords: [ConnectApi.BaseApiPaymentMethodRequest, Payment, API, input, representation.]
+keywords: [ConnectApi.BaseApiPaymentMethodRequest, Payment, API, input, representation]
 ---
 
 # ConnectApi.BaseApiPaymentMethodRequest

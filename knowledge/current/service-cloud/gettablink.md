@@ -5,9 +5,9 @@ topic: gettablink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.518Z
+lastCollected: 2026-03-12T09:33:55.621Z
 estimatedTokens: 325
-keywords: [getTabLink, Retrieves, URL, tab, group, related, tabs, Salesforce, console., only, API, version, 28.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [getTabLink, Retrieves, URL, tab, group, tabs, Salesforce, console, API, version, 28.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # getTabLink()

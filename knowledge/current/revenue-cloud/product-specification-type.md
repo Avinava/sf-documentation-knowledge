@@ -5,9 +5,9 @@ topic: product-specification-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.234Z
+lastCollected: 2026-03-12T09:33:09.780Z
 estimatedTokens: 78
-keywords: [Product, Specification, Output, representation, product, specification, type.]
+keywords: [Product, Specification, Output, representation]
 ---
 
 # Product Specification Type

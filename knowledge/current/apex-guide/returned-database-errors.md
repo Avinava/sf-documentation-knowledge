@@ -5,9 +5,9 @@ topic: returned-database-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.670Z
+lastCollected: 2026-03-12T09:33:34.589Z
 estimatedTokens: 316
-keywords: [Returned, Database, Errors, While, DML, statements, always, exceptions, operation, fails, records, being, processed, rolled, back, either, allow, partial, success, record]
+keywords: [Database, Errors, DML, statements, always, exceptions, operation, fails, records, processed, rolled, back, either, allow, partial]
 ---
 
 # Returned Database Errors

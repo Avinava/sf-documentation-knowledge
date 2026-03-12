@@ -5,9 +5,9 @@ topic: converting-leads
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.685Z
+lastCollected: 2026-03-12T09:33:34.603Z
 estimatedTokens: 1100
-keywords: [Converting, Leads, convertLead, DML, operation, converts, lead, account, contact, well, optionally, opportunity., only, Database, statement., Example, Convert, Considerations]
+keywords: [Converting, Leads, convertLead, DML, operation, converts, lead, account, contact, well, optionally, opportunity, Database, statement, Convert]
 ---
 
 # Converting Leads

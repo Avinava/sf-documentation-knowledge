@@ -5,9 +5,9 @@ topic: connectapidmofilterconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.072Z
+lastCollected: 2026-03-12T09:33:27.166Z
 estimatedTokens: 61
-keywords: [ConnectApi.DmoFilterConfig, Represents, DMO, filter, configuration, output.]
+keywords: [ConnectApi.DmoFilterConfig, DMO, filter, configuration, output]
 ---
 
 # ConnectApi.DmoFilterConfig

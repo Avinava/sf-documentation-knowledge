@@ -5,9 +5,9 @@ topic: opportunity-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.633Z
+lastCollected: 2026-03-12T09:33:15.342Z
 estimatedTokens: 867
-keywords: [Opportunity, Product, DMO, Data, Cloud, data, model, connecting, opportunity, product, represents, allowing, many-to-many, relationship., API, Name, Category, Primary, Subject, Area]
+keywords: [Opportunity, Product, DMO, Data, Cloud, model, connecting, allowing, many-to-many, relationship, API, Category, Primary, Subject, Area]
 ---
 
 # Opportunity Product DMO

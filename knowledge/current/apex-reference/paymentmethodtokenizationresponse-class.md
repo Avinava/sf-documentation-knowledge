@@ -5,10 +5,10 @@ topic: paymentmethodtokenizationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.019Z
+lastCollected: 2026-03-12T09:33:22.415Z
 estimatedTokens: 4105
 namespace: CommercePayments
-keywords: [PaymentMethodTokenizationResponse, Gateway, response, sent, payment, gateway, adapters, tokenization, request., includes, method’s, token, value., Usage, Example, setAmount, amount, setAsync, async, setBankName]
+keywords: [PaymentMethodTokenizationResponse, Gateway, sent, payment, adapters, tokenization, includes, method’s, token, Usage, setAmount, amount, setAsync, async, setBankName]
 ---
 
 # PaymentMethodTokenizationResponse Class

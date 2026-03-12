@@ -5,9 +5,9 @@ topic: checkretrievestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:37.687Z
+lastCollected: 2026-03-12T09:33:37.442Z
 estimatedTokens: 1595
-keywords: [checkRetrieveStatus, Checks, status, declarative, metadata, call, zip, file, contents., Syntax, Usage, Retrieving, Zip, File, Second, Process, Sample, Code—Java, Arguments, Response]
+keywords: [checkRetrieveStatus, Checks, status, declarative, metadata, call, zip, file, contents, Usage, Retrieving, Second, Process, Sample, Code—Java]
 ---
 
 # checkRetrieveStatus()

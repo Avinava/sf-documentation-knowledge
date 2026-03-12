@@ -5,9 +5,9 @@ topic: horizonenddate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.136Z
+lastCollected: 2026-03-12T09:33:53.476Z
 estimatedTokens: 72
-keywords: [horizonEndDate, horizon, end, date, calculated, used, operation.]
+keywords: [horizonEndDate, horizon, end, date, calculated, operation]
 ---
 
 # horizonEndDate

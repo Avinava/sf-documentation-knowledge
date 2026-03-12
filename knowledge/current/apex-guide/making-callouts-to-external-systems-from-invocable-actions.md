@@ -5,9 +5,9 @@ topic: making-callouts-to-external-systems-from-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.395Z
+lastCollected: 2026-03-12T09:33:33.445Z
 estimatedTokens: 329
-keywords: [Making, Callouts, External, Systems, Invocable, Actions, define, runs, invocable, action, screen, flow, makes, callout, external, system, modifier.]
+keywords: [Making, Callouts, External, Systems, Invocable, Actions, define, runs, action, screen, flow, callout, system, modifier]
 ---
 
 # Making Callouts to External Systems from Invocable Actions

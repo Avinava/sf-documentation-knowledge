@@ -5,9 +5,9 @@ topic: addresssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.651Z
+lastCollected: 2026-03-12T09:33:36.461Z
 estimatedTokens: 1813
-keywords: [AddressSettings, Represents, configuration, country, territory, state, picklists., component, configure, data, organization, convert, text-based, values, standard, picklist, values., Setup, enter, State]
+keywords: [AddressSettings, configuration, country, territory, state, picklists, component, configure, data, organization, convert, text-based, standard, picklist, Setup]
 ---
 
 # AddressSettings

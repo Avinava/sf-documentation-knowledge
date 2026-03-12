@@ -5,9 +5,9 @@ topic: decision-table-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.098Z
+lastCollected: 2026-03-12T09:33:49.764Z
 estimatedTokens: 204
-keywords: [Decision, Table, Invocable, Actions, Invoke, decision, table, refresh, business, rules, active, table., information, standard, custom, invocable, actions, REST, API, Developer]
+keywords: [Decision, Invocable, Actions, Invoke, refresh, business, rules, active, standard, custom, REST, API, Developer]
 ---
 
 # Decision Table Invocable Actions

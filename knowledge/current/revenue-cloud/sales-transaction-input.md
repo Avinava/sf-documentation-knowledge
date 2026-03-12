@@ -5,9 +5,9 @@ topic: sales-transaction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.265Z
+lastCollected: 2026-03-12T09:33:08.140Z
 estimatedTokens: 1462
-keywords: [Sales, Transaction, Input, representation, details, request, place, sales, transaction, such, quote, order.]
+keywords: [Sales, Transaction, Input, representation, place, quote, order]
 ---
 
 # Sales Transaction Input

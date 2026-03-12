@@ -5,10 +5,10 @@ topic: testbroker-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.527Z
+lastCollected: 2026-03-12T09:33:22.940Z
 estimatedTokens: 543
 namespace: EventBus
-keywords: [TestBroker, Contains, simulate, successful, delivery, failed, publishing, platform, event, change, messages, Apex, test., deliver, Usage, fail]
+keywords: [TestBroker, simulate, successful, delivery, failed, publishing, platform, event, change, messages, Apex, test, deliver, Usage, fail]
 ---
 
 # TestBroker Class

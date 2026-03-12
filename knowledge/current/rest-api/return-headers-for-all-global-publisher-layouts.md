@@ -5,9 +5,9 @@ topic: return-headers-for-all-global-publisher-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.005Z
+lastCollected: 2026-03-12T09:33:35.853Z
 estimatedTokens: 117
-keywords: [Headers, Publisher, Layouts, only, headers, returned, GET, request, sObject, resources., gives, chance, header, values, ahead, time, before, retrieving, content, resource.]
+keywords: [Publisher, Layouts, sObject, resources, gives, chance, ahead, time, retrieving, content, resource]
 ---
 
 # Return Headers for All Global Publisher Layouts

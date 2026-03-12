@@ -5,9 +5,9 @@ topic: decision-table-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.000Z
+lastCollected: 2026-03-12T09:33:48.735Z
 estimatedTokens: 576
-keywords: [Decision, Table, Definition, Output, representation, decision, table, definition, associated, table.]
+keywords: [Decision, Definition, Output, representation, associated]
 ---
 
 # Decision Table Definition Output

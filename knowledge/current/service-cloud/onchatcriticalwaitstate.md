@@ -5,9 +5,9 @@ topic: onchatcriticalwaitstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.187Z
+lastCollected: 2026-03-12T09:33:56.258Z
 estimatedTokens: 197
-keywords: [onChatCriticalWaitState, Registers, function, call, chat, becomes, critical, answer, waiting, answered., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [onChatCriticalWaitState, Registers, function, call, chat, becomes, critical, answer, waiting, answered, API, version, 29.0, later, Arguments]
 ---
 
 # onChatCriticalWaitState()

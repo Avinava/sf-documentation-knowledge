@@ -5,9 +5,9 @@ topic: fulfillmentstepdependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.344Z
+lastCollected: 2026-03-12T09:33:11.483Z
 estimatedTokens: 432
-keywords: [FulfillmentStepDependency, Represents, dependency, between, tasks, defining, order, task, depends, it., API, version, 61.0, later., Important, Supported, Calls, Fields]
+keywords: [FulfillmentStepDependency, dependency, tasks, defining, order, task, depends, API, version, 61.0, later, Calls]
 ---
 
 # FulfillmentStepDependency

@@ -5,9 +5,9 @@ topic: presencedeclinereason
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.475Z
+lastCollected: 2026-03-12T09:33:45.582Z
 estimatedTokens: 227
-keywords: [PresenceDeclineReason, Represents, reason, agent, select, declining, Omni-Channel, work, request., API, version, 65.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [PresenceDeclineReason, reason, agent, select, declining, Omni-Channel, work, API, version, 65.0, later, SOAP, Calls, REST, Special]
 ---
 
 # PresenceDeclineReason

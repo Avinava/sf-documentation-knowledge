@@ -5,9 +5,9 @@ topic: category-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.876Z
+lastCollected: 2026-03-12T09:33:07.798Z
 estimatedTokens: 149
-keywords: [Category, List, Input, representation, request, get, list, categories.]
+keywords: [Category, Input, representation, categories]
 ---
 
 # Category List Input

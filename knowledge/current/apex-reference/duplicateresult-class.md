@@ -5,10 +5,10 @@ topic: duplicateresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.139Z
+lastCollected: 2026-03-12T09:33:20.656Z
 estimatedTokens: 1459
 namespace: Datacloud
-keywords: [DuplicateResult, Represents, details, duplicate, rule, detected, records, information, those, records., Usage, Example, getDuplicateRule, getErrorMessage, getMatchResults, isAllowSave]
+keywords: [DuplicateResult, duplicate, rule, detected, records, Usage, getDuplicateRule, getErrorMessage, getMatchResults, isAllowSave]
 ---
 
 # DuplicateResult Class

@@ -5,10 +5,10 @@ topic: salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.040Z
+lastCollected: 2026-03-12T09:33:33.068Z
 estimatedTokens: 934
 namespace: DataSource
-keywords: [Salesforce, Connect, Apex, code, access, external, data, via, any, adapter., Connector, Framework, develop, custom, adapter, Connect., retrieve, systems, synthesize, locally.]
+keywords: [Salesforce, Connect, Apex, code, access, external, data, via, any, adapter, Connector, Framework, develop, custom, retrieve]
 ---
 
 # Salesforce Connect

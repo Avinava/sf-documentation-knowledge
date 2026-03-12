@@ -5,9 +5,9 @@ topic: decision-matrix-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.233Z
+lastCollected: 2026-03-12T09:33:47.239Z
 estimatedTokens: 78
-keywords: [Decision, Matrix, Input, representation, inputs, passed, decision, matrix, lookup.]
+keywords: [Decision, Matrix, Input, representation, inputs, passed, lookup]
 ---
 
 # Decision Matrix Input

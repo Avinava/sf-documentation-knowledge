@@ -5,9 +5,9 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.095Z
+lastCollected: 2026-03-12T09:33:46.167Z
 estimatedTokens: 1885
-keywords: [WebLink, Represents, custom, button, link., Tooling, APIfrom, API, version, 34.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [WebLink, custom, button, link, Tooling, APIfrom, API, version, 34.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # WebLink

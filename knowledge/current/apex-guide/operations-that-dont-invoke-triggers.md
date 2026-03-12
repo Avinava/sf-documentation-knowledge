@@ -5,9 +5,9 @@ topic: operations-that-dont-invoke-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.197Z
+lastCollected: 2026-03-12T09:33:34.190Z
 estimatedTokens: 866
-keywords: [Operations, Don't, Invoke, Triggers, operations, don’t, invoke, triggers., Note]
+keywords: [Operations, Don't, Invoke, Triggers, don’t]
 ---
 
 # Operations That Don't Invoke Triggers

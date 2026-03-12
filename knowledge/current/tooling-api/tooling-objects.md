@@ -5,9 +5,9 @@ topic: tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.421Z
+lastCollected: 2026-03-12T09:33:43.612Z
 estimatedTokens: 1048
-keywords: [Tooling, Objects, objects, build, tools, around, test, results, debugging, code, coverage, more.]
+keywords: [Tooling, Objects, build, tools, around, test, results, debugging, code, coverage]
 ---
 
 # Tooling Objects

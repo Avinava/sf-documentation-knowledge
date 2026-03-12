@@ -5,9 +5,9 @@ topic: context-definition-interface-attribute-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.800Z
+lastCollected: 2026-03-12T09:33:48.574Z
 estimatedTokens: 282
-keywords: [Context, Definition, Attribute, Tag, Output, representation, attribute, tags, associated, context, definition, interface.]
+keywords: [Context, Definition, Attribute, Tag, Output, representation, tags, associated]
 ---
 
 # Context Definition Interface Attribute Tag

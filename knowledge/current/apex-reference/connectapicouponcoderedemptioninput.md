@@ -5,9 +5,9 @@ topic: connectapicouponcoderedemptioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.698Z
+lastCollected: 2026-03-12T09:33:24.955Z
 estimatedTokens: 137
-keywords: [ConnectApi.CouponCodeRedemptionInput, Input, representation, coupon, code, redemption.]
+keywords: [ConnectApi.CouponCodeRedemptionInput, Input, representation, coupon, code, redemption]
 ---
 
 # ConnectApi.CouponCodeRedemptionInput

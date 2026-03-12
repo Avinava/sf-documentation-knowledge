@@ -5,9 +5,9 @@ topic: lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.565Z
+lastCollected: 2026-03-12T09:33:55.670Z
 estimatedTokens: 1375
-keywords: [Lightning, Console, JavaScript, API, console, apps, allow, users, quickly, find, information, they, need, edits, while, viewing, multiple, records, screen., gives]
+keywords: [Lightning, Console, JavaScript, API, apps, allow, users, quickly, they, edits, viewing, multiple, records, screen, gives]
 ---
 
 # Lightning Console JavaScript API

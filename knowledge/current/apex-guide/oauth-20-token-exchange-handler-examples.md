@@ -5,9 +5,9 @@ topic: oauth-20-token-exchange-handler-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.918Z
+lastCollected: 2026-03-12T09:33:34.810Z
 estimatedTokens: 4425
-keywords: [OAuth, 2.0, Token, Exchange, Handler, Examples, Sometimes, want, integrate, Salesforce, complex, system, where, primary, app, central, identity, provider, multiple, apps]
+keywords: [OAuth, 2.0, Token, Exchange, Handler, Examples, Sometimes, want, integrate, Salesforce, complex, system, primary, app, central]
 ---
 
 # OAuth 2.0 Token Exchange Handler Examples

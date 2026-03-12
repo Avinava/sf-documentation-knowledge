@@ -5,9 +5,9 @@ topic: connectapiengagementattendeecreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.663Z
+lastCollected: 2026-03-12T09:33:46.699Z
 estimatedTokens: 500
-keywords: [ConnectApi.EngagementAttendeeCreateInput, Input, representation, create, engagement, attendee, record.]
+keywords: [Input, representation, engagement, attendee, record]
 ---
 
 # ConnectApi.EngagementAttendeeCreateInput

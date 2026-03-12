@@ -5,9 +5,9 @@ topic: salesforce-crm-conversationreasonexcerpt-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.845Z
+lastCollected: 2026-03-12T09:33:13.701Z
 estimatedTokens: 443
-keywords: [Salesforce, CRM, ConversationReasonExcerpt, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, ConversationReasonExcerpt, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---
 
 # Salesforce CRM: ConversationReasonExcerpt Mapping

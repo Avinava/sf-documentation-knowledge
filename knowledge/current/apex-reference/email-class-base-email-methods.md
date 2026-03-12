@@ -5,10 +5,10 @@ topic: email-class-base-email-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.459Z
+lastCollected: 2026-03-12T09:33:23.828Z
 estimatedTokens: 1555
 namespace: Messaging
-keywords: [Email, Base, Contains, base, email, common, both, single, mass, email., Usage, Note, setBccSender, bcc, setReplyTo, replyAddress, setTemplateID, templateId, setSaveAsActivity, saveAsActivity]
+keywords: [Email, Base, common, mass, Usage, setBccSender, bcc, setReplyTo, replyAddress, setTemplateID, templateId, setSaveAsActivity, saveAsActivity, setSenderDisplayName, displayName]
 ---
 
 # Email Class (Base Email Methods)

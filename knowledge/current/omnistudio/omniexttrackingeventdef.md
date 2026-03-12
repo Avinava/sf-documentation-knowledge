@@ -5,9 +5,9 @@ topic: omniexttrackingeventdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:54.095Z
+lastCollected: 2026-03-12T09:33:52.514Z
 estimatedTokens: 830
-keywords: [OmniExtTrackingEventDef, Represents, format, FlexCard, OmniScript, user, interaction, data, third-party, Analytics, system, such, Google, accept., API, version, 60.0, later., Note, Important]
+keywords: [OmniExtTrackingEventDef, FlexCard, OmniScript, user, interaction, data, third-party, Analytics, system, Google, accept, API, version, 60.0, later]
 ---
 
 # OmniExtTrackingEventDef

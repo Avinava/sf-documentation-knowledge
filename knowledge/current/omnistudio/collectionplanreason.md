@@ -5,9 +5,9 @@ topic: collectionplanreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.799Z
+lastCollected: 2026-03-12T09:33:52.263Z
 estimatedTokens: 963
-keywords: [CollectionPlanReason, Represents, reason, initiating, collection, process, including, non-payment, bills, bankruptcy, outstanding, invoices, deceased, account, holders., API, version, 63.0, later., Supported]
+keywords: [CollectionPlanReason, reason, initiating, collection, process, including, non-payment, bills, bankruptcy, outstanding, invoices, deceased, account, holders, API]
 ---
 
 # CollectionPlanReason

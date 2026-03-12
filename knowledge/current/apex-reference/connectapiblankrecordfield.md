@@ -5,9 +5,9 @@ topic: connectapiblankrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.203Z
+lastCollected: 2026-03-12T09:33:26.371Z
 estimatedTokens: 61
-keywords: [ConnectApi.BlankRecordField, Record, field, displayed, place, holder, grid, fields.]
+keywords: [ConnectApi.BlankRecordField, Record, place, holder, grid]
 ---
 
 # ConnectApi.BlankRecordField

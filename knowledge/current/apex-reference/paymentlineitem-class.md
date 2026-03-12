@@ -5,10 +5,10 @@ topic: paymentlineitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.727Z
+lastCollected: 2026-03-12T09:33:21.298Z
 estimatedTokens: 2331
 namespace: RichMessaging
-keywords: [PaymentLineItem, Represents, payment, line, item, requests, sent, enhanced, Messaging, channels., Example, label, amount, timing, amountValue, automaticReloadPaymentThresholdAmount, automaticReloadPaymentThresholdAmountValue, labelValue, lineItemType, status]
+keywords: [PaymentLineItem, payment, line, item, requests, sent, enhanced, Messaging, channels, label, amount, timing, amountValue, automaticReloadPaymentThresholdAmount, labelValue]
 ---
 
 # PaymentLineItem Class

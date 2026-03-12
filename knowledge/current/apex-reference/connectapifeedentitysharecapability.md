@@ -5,9 +5,9 @@ topic: connectapifeedentitysharecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.373Z
+lastCollected: 2026-03-12T09:33:27.440Z
 estimatedTokens: 196
-keywords: [ConnectApi.FeedEntityShareCapability, feed, element, comment, capability, entity, shared, it.]
+keywords: [ConnectApi.FeedEntityShareCapability, feed, element, comment, capability, entity, shared]
 ---
 
 # ConnectApi.FeedEntityShareCapability

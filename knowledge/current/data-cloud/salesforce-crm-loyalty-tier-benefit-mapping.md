@@ -5,9 +5,9 @@ topic: salesforce-crm-loyalty-tier-benefit-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.768Z
+lastCollected: 2026-03-12T09:33:14.544Z
 estimatedTokens: 273
-keywords: [Salesforce, CRM, Loyalty, Tier, Benefit, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., benefit, that’s, associated, member’s, tier]
+keywords: [Salesforce, CRM, Loyalty, Tier, Benefit, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud, that’s]
 ---
 
 # Salesforce CRM: Loyalty Tier Benefit Mapping

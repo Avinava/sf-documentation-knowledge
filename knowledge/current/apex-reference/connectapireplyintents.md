@@ -5,9 +5,9 @@ topic: connectapireplyintents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.877Z
+lastCollected: 2026-03-12T09:33:28.924Z
 estimatedTokens: 107
-keywords: [ConnectApi.ReplyIntents, List, reply, intents, social, post.]
+keywords: [ConnectApi.ReplyIntents, reply, intents, social, post]
 ---
 
 # ConnectApi.ReplyIntents

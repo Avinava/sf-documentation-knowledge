@@ -6,9 +6,9 @@ topic: getfieldisreadonlymapentityname-fieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.835Z
+lastCollected: 2026-03-12T09:33:46.859Z
 estimatedTokens: 189
-keywords: [getFieldIsReadOnlyMap, entityName, fieldNames, Accepts, entity's, name, list, its, fields, input, indicating, whether, read-only., Usage]
+keywords: [getFieldIsReadOnlyMap, entityName, fieldNames, Accepts, entity's, input, indicating, whether, read-only, Usage]
 ---
 
 # getFieldIsReadOnlyMap(entityName,

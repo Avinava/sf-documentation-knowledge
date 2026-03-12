@@ -5,9 +5,9 @@ topic: connectapipreviewcanceloutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.423Z
+lastCollected: 2026-03-12T09:33:28.472Z
 estimatedTokens: 137
-keywords: [ConnectApi.PreviewCancelOutputRepresentation, Expected, financial, values, proposed, cancel, action.]
+keywords: [Expected, financial, proposed, cancel, action]
 ---
 
 # ConnectApi.PreviewCancelOutputRepresentation

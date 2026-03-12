@@ -5,10 +5,10 @@ topic: placequoterlmapexprocessor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.620Z
+lastCollected: 2026-03-12T09:33:06.687Z
 estimatedTokens: 2403
 namespace: PlaceQuote
-keywords: [PlaceQuoteRLMApexProcessor, Contains, place, quote, details, graph, request, pricing, preferences, configuration, options., execute, pricingPreferenceEnum, graphRequest, configurationInputEnum, configurationOptionsInput, catalogRatesPreference, Example, Implementation, Usage]
+keywords: [PlaceQuoteRLMApexProcessor, place, quote, graph, pricing, preferences, configuration, options, execute, pricingPreferenceEnum, graphRequest, configurationInputEnum, configurationOptionsInput, catalogRatesPreference, Implementation]
 ---
 
 # PlaceQuoteRLMApexProcessor Class

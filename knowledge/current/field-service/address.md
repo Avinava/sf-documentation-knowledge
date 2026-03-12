@@ -5,9 +5,9 @@ topic: address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.777Z
+lastCollected: 2026-03-12T09:33:54.036Z
 estimatedTokens: 1116
-keywords: [Address, Represents, mailing, billing, home, address., Supported, Calls, Special, Access, Rules, Fields, Usage, Important, Associated]
+keywords: [Address, mailing, billing, home, Calls, Special, Access, Rules, Usage, Associated]
 ---
 
 # Address

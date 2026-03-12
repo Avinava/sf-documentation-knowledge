@@ -5,10 +5,10 @@ topic: errorresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.430Z
+lastCollected: 2026-03-12T09:33:06.516Z
 estimatedTokens: 722
 namespace: CommerceTax
-keywords: [ErrorResponse, respond, error, after, receiving, errors, PaymentGatewayAdapter, CommercePayments, such, request-forbidden, responses, custom, validation, expired, API, tokens., Example, resultCode, errorCode, errorMessage]
+keywords: [ErrorResponse, respond, error, receiving, errors, PaymentGatewayAdapter, CommercePayments, request-forbidden, responses, custom, validation, expired, API, tokens, resultCode]
 ---
 
 # ErrorResponse Class

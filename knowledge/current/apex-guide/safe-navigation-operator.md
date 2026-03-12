@@ -5,9 +5,9 @@ topic: safe-navigation-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.596Z
+lastCollected: 2026-03-12T09:33:34.522Z
 estimatedTokens: 1063
-keywords: [Safe, Navigation, Operator, safe, navigation, operator, replace, explicit, sequential, checks, null, references., short-circuits, expressions, attempt, operate, instead, throwing, NullPointerException., Important]
+keywords: [Safe, Navigation, Operator, replace, explicit, sequential, checks, references, short-circuits, expressions, attempt, operate, instead, throwing, NullPointerException]
 ---
 
 # Safe Navigation Operator

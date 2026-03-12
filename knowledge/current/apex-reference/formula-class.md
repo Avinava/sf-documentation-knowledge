@@ -5,10 +5,10 @@ topic: formula-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.166Z
+lastCollected: 2026-03-12T09:33:21.615Z
 estimatedTokens: 937
 namespace: System
-keywords: [Formula, Updates, recalculates, formula, fields, input, SObjects, Usage, Example, builder, recalculateFormulas, sobjects]
+keywords: [Formula, Updates, recalculates, input, SObjects, Usage, builder, recalculateFormulas]
 ---
 
 # Formula Class

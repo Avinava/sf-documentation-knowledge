@@ -5,9 +5,9 @@ topic: contactcontactrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.871Z
+lastCollected: 2026-03-12T09:33:52.337Z
 estimatedTokens: 1106
-keywords: [ContactContactRelation, Represents, relationship, between, contacts., API, version, 57.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [ContactContactRelation, relationship, contacts, API, version, 57.0, later, Calls, Associated, Objects]
 ---
 
 # ContactContactRelation

@@ -5,9 +5,9 @@ topic: goods-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.164Z
+lastCollected: 2026-03-12T09:33:14.896Z
 estimatedTokens: 4017
-keywords: [Goods, Product, DMO, Data, Cloud, data, model, specific, product, example, carton, milk, set, towels, API, Name, Category, Primary, Subject, Area]
+keywords: [Goods, Product, DMO, Data, Cloud, model, specific, carton, milk, towels, API, Category, Primary, Subject, Area]
 ---
 
 # Goods Product DMO

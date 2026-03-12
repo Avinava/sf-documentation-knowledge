@@ -5,10 +5,10 @@ topic: schedulingoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.303Z
+lastCollected: 2026-03-12T09:33:53.627Z
 estimatedTokens: 535
 namespace: FSL
-keywords: [SchedulingOption, Provides, details, individual, slot, scheduling., Represents, run-time, used, within, context, results, returned, AdvancedGapMatrix, class., grade, interval]
+keywords: [SchedulingOption, individual, slot, scheduling, run-time, context, results, AdvancedGapMatrix, grade, interval]
 ---
 
 # SchedulingOption Class

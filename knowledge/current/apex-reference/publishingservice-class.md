@@ -5,10 +5,10 @@ topic: publishingservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.603Z
+lastCollected: 2026-03-12T09:33:23.974Z
 estimatedTokens: 4916
 namespace: KbManagement
-keywords: [PublishingService, KbManagement.PublishingService, manage, lifecycle, article, its, translations., Usage, Note, archiveOnlineArticle, articleId, scheduledDate, Example, assignDraftArticleTask, assigneeId, instructions, dueDate, sendEmailNotification, assignDraftTranslationTask, articleVersionId]
+keywords: [PublishingService, KbManagement.PublishingService, manage, lifecycle, article, translations, Usage, archiveOnlineArticle, articleId, scheduledDate, assignDraftArticleTask, assigneeId, instructions, dueDate, sendEmailNotification]
 ---
 
 # PublishingService Class

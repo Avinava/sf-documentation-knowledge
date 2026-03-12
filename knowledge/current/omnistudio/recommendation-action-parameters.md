@@ -5,9 +5,9 @@ topic: recommendation-action-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.635Z
+lastCollected: 2026-03-12T09:33:49.289Z
 estimatedTokens: 126
-keywords: [Recommendation, Action, Specifies, details, passed, flow, action, based, user’s, acceptance, rejection, recommendation.]
+keywords: [Recommendation, Action, passed, flow, user’s, acceptance, rejection]
 ---
 
 # Recommendation Action Parameters

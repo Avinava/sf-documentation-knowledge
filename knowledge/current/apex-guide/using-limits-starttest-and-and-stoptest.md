@@ -5,9 +5,9 @@ topic: using-limits-starttest-and-and-stoptest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.093Z
+lastCollected: 2026-03-12T09:33:34.094Z
 estimatedTokens: 699
-keywords: [Limits, startTest, stopTest, specific, limit, particular, governor, such, number, calls, amount, heap, size, remaining.]
+keywords: [Limits, startTest, stopTest, specific, limit, particular, governor, number, calls, amount, heap, size, remaining]
 ---
 
 # Using Limits,  startTest , and , and stopTest

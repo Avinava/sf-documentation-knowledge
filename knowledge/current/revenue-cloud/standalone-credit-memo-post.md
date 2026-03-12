@@ -5,9 +5,9 @@ topic: standalone-credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.700Z
+lastCollected: 2026-03-12T09:33:08.512Z
 estimatedTokens: 707
-keywords: [Standalone, Credit, Memo, POST, Create, credit, memo, without, applying, invoice., invoice, later, date.]
+keywords: [Standalone, Credit, Memo, POST, applying, invoice, later, date]
 ---
 
 # Standalone Credit Memo (POST)

@@ -5,9 +5,9 @@ topic: analyticsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.826Z
+lastCollected: 2026-03-12T09:33:36.631Z
 estimatedTokens: 1023
-keywords: [AnalyticSnapshot, Represents, reporting, snapshot., snapshot, lets, report, historical, data., Authorized, users, save, tabular, summary, results, fields, custom, then, map, those]
+keywords: [AnalyticSnapshot, reporting, snapshot, lets, report, historical, data, Authorized, users, save, tabular, summary, results, custom, map]
 ---
 
 # AnalyticSnapshot

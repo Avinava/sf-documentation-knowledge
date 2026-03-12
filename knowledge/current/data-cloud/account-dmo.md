@@ -5,9 +5,9 @@ topic: account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.784Z
+lastCollected: 2026-03-12T09:33:13.649Z
 estimatedTokens: 3479
-keywords: [Account, DMO, Data, Cloud, data, model, how, party, wants, interact, company., Provided, both, Sales, Service, Kits., API, Name, Category, Primary]
+keywords: [Account, DMO, Data, Cloud, model, how, party, wants, interact, company, Provided, Sales, Service, Kits, API]
 ---
 
 # Account DMO

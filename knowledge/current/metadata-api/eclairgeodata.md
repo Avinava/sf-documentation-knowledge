@@ -5,9 +5,9 @@ topic: eclairgeodata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.093Z
+lastCollected: 2026-03-12T09:33:38.751Z
 estimatedTokens: 696
-keywords: [EclairGeoData, Represents, Analytics, custom, map, chart., Custom, maps, user-defined, uploaded, used, just, standard, are., accessed, list, chart, type., Important, File]
+keywords: [EclairGeoData, Analytics, custom, map, chart, maps, user-defined, uploaded, standard, accessed, File, Suffix, Directory, Location, Version]
 ---
 
 # EclairGeoData

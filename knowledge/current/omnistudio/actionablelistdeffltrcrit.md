@@ -5,9 +5,9 @@ topic: actionablelistdeffltrcrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.254Z
+lastCollected: 2026-03-12T09:33:51.760Z
 estimatedTokens: 1148
-keywords: [ActionableListDefFltrCrit, Represents, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, list, definition., API, version, 60.0, later.]
+keywords: [ActionableListDefFltrCrit, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, definition, API]
 ---
 
 # ActionableListDefFltrCrit

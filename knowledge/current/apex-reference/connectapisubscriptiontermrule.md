@@ -5,9 +5,9 @@ topic: connectapisubscriptiontermrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.093Z
+lastCollected: 2026-03-12T09:33:29.136Z
 estimatedTokens: 111
-keywords: [ConnectApi.SubscriptionTermRule, Subscription, term, rules.]
+keywords: [ConnectApi.SubscriptionTermRule, Subscription, term, rules]
 ---
 
 # ConnectApi.SubscriptionTermRule

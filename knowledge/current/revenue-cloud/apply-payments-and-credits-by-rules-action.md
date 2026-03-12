@@ -5,9 +5,9 @@ topic: apply-payments-and-credits-by-rules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.646Z
+lastCollected: 2026-03-12T09:33:05.820Z
 estimatedTokens: 365
-keywords: [Apply, Payments, Credits, Rules, Action, payments, credits, posted, invoices, adhering, specified, rules., Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Apply, Payments, Credits, Rules, Action, posted, invoices, adhering, REST, HTTP, Inputs, Outputs]
 ---
 
 # Apply Payments and Credits by Rules Action

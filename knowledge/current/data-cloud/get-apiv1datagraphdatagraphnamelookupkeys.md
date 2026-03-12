@@ -5,9 +5,9 @@ topic: get-apiv1datagraphdatagraphnamelookupkeys
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.640Z
+lastCollected: 2026-03-12T09:33:13.522Z
 estimatedTokens: 171
-keywords: [GET, api, dataGraph, dataGraphName, ?lookupKeys=, secondary, lookup, keys, request, data, graph., used, one-to-one, lookups, Syntax, Request]
+keywords: [api, dataGraph, dataGraphName, lookupKeys=, secondary, lookup, keys, data, graph, one-to-one, lookups]
 ---
 
 # GET /api/v1/dataGraph/{dataGraphName}?lookupKeys=[]

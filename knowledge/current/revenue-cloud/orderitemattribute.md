@@ -5,9 +5,9 @@ topic: orderitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.677Z
+lastCollected: 2026-03-12T09:33:11.744Z
 estimatedTokens: 580
-keywords: [OrderItemAttribute, Represents, virtual, stores, attribute, specified, order, item.This, API, version, 60.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [OrderItemAttribute, virtual, stores, attribute, order, item.This, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---
 
 # OrderItemAttribute

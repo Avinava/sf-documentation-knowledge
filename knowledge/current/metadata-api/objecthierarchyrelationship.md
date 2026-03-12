@@ -5,9 +5,9 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.077Z
+lastCollected: 2026-03-12T09:33:43.281Z
 estimatedTokens: 1570
-keywords: [ObjectHierarchyRelationship, Represents, organization’s, custom, field, mappings, sales, agreement, conversion., Fields, mapped, Opportunity, Quotes, SalesAgreement, SalesAgreementProduct., Important, File, Suffix, Directory, Location]
+keywords: [ObjectHierarchyRelationship, organization’s, custom, mappings, sales, agreement, conversion, mapped, Opportunity, Quotes, SalesAgreement, SalesAgreementProduct, File, Suffix, Directory]
 ---
 
 # ObjectHierarchyRelationship

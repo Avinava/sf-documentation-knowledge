@@ -5,9 +5,9 @@ topic: promotion-coupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.607Z
+lastCollected: 2026-03-12T09:33:09.316Z
 estimatedTokens: 139
-keywords: [Promotion, Coupon, Output, representation, details, coupon, that's, eligible, recommended, promotion.]
+keywords: [Promotion, Coupon, Output, representation, that's, eligible, recommended]
 ---
 
 # Promotion Coupon

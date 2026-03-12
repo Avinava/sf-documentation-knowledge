@@ -5,9 +5,9 @@ topic: focusnavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.320Z
+lastCollected: 2026-03-12T09:33:55.443Z
 estimatedTokens: 159
-keywords: [focusNavigationTab, Focuses, browser, navigation, tab., only, API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [focusNavigationTab, Focuses, browser, navigation, tab, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # focusNavigationTab()

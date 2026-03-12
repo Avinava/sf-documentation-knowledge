@@ -5,9 +5,9 @@ topic: connectapicontenthubitemtypedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.822Z
+lastCollected: 2026-03-12T09:33:26.922Z
 estimatedTokens: 137
-keywords: [ConnectApi.ContentHubItemTypeDetail, details, item, associated, repository, folder.]
+keywords: [ConnectApi.ContentHubItemTypeDetail, item, associated, repository, folder]
 ---
 
 # ConnectApi.ContentHubItemTypeDetail

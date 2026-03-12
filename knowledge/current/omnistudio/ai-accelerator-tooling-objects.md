@@ -5,9 +5,9 @@ topic: ai-accelerator-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.391Z
+lastCollected: 2026-03-12T09:33:46.434Z
 estimatedTokens: 513
-keywords: [Accelerator, Tooling, Objects, API, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow, retrieve]
+keywords: [Accelerator, Tooling, Objects, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller]
 ---
 
 # AI Accelerator Tooling  Objects

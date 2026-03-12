@@ -5,9 +5,9 @@ topic: entityparticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.422Z
+lastCollected: 2026-03-12T09:33:44.552Z
 estimatedTokens: 3877
-keywords: [EntityParticle, Represents, element, field, presented, user, interface., Contrast, FieldDefinition, which, represents, defined, Metadata, API., parity, describe, API, accessible, fields, only]
+keywords: [EntityParticle, element, presented, user, Contrast, FieldDefinition, defined, Metadata, API, parity, describe, accessible, entity, Tooling, version]
 ---
 
 # EntityParticle

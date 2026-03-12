@@ -5,9 +5,9 @@ topic: benefit-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.972Z
+lastCollected: 2026-03-12T09:33:13.815Z
 estimatedTokens: 414
-keywords: [Benefit, DMO, Data, Cloud, data, model, types, benefits, loyalty, program, such, healthcare, financial, loyalty., API, Name, Category, Primary, Subject, Area]
+keywords: [Benefit, DMO, Data, Cloud, model, benefits, loyalty, program, healthcare, financial, API, Category, Primary, Subject, Area]
 ---
 
 # Benefit Type DMO

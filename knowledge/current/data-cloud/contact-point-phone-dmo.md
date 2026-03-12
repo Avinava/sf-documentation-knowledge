@@ -5,9 +5,9 @@ topic: contact-point-phone-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.417Z
+lastCollected: 2026-03-12T09:33:14.252Z
 estimatedTokens: 1924
-keywords: [Contact, Point, Phone, DMO, data, model, Data, Cloud, phone, number, party., Provided, both, Sales, Service, Kits., API, Name, Category, Primary]
+keywords: [Contact, Point, Phone, DMO, data, model, Cloud, number, party, Provided, Sales, Service, Kits, API, Category]
 ---
 
 # Contact Point Phone DMO

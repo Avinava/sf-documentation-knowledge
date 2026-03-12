@@ -5,9 +5,9 @@ topic: reminder-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.780Z
+lastCollected: 2026-03-12T09:33:47.714Z
 estimatedTokens: 106
-keywords: [Reminder, Update, Input, representation, reminder, definition, update, based, definition.]
+keywords: [Reminder, Input, representation, definition]
 ---
 
 # Reminder Update Input

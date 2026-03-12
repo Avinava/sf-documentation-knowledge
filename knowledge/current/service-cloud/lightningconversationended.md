@@ -5,9 +5,9 @@ topic: lightningconversationended
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.225Z
+lastCollected: 2026-03-12T09:33:55.358Z
 estimatedTokens: 195
-keywords: [lightning__conversationEnded, Messaging, event, triggered, active, chat, ends, agent, leaves, conference., Enhanced, channels., work, channels, session, must, Conversation, Component, visible, page.]
+keywords: [lightning__conversationEnded, Messaging, event, triggered, active, chat, ends, agent, leaves, conference, Enhanced, channels, work, session, Conversation]
 ---
 
 # lightning__conversationEnded

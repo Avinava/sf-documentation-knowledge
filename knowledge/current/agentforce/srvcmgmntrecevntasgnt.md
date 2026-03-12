@@ -5,9 +5,9 @@ topic: srvcmgmntrecevntasgnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.508Z
+lastCollected: 2026-03-12T09:33:16.163Z
 estimatedTokens: 479
-keywords: [SrvcMgmntRecEvntAsgnt, Represents, relationship, between, events, automatically, created, system, assigned, related, record, such, release, change, request., API, version, 65.0, later., Supported]
+keywords: [SrvcMgmntRecEvntAsgnt, relationship, events, automatically, created, system, assigned, record, release, change, API, version, 65.0, later, Calls]
 ---
 
 # SrvcMgmntRecEvntAsgnt

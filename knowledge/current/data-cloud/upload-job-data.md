@@ -5,9 +5,9 @@ topic: upload-job-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.632Z
+lastCollected: 2026-03-12T09:33:13.516Z
 estimatedTokens: 385
-keywords: [Upload, Job, Data, Uploads, CSV, data, job, process., consist, 100, files., After, uploaded, close, indicate, ready, processed., File, Layouts, Operation]
+keywords: [Upload, Job, Data, Uploads, CSV, process, consist, files, uploaded, close, indicate, ready, processed, File, Layouts]
 ---
 
 # Upload Job Data

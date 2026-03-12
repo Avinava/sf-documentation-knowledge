@@ -5,9 +5,9 @@ topic: connectapiensurepaymentcreditoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.194Z
+lastCollected: 2026-03-12T09:33:27.284Z
 estimatedTokens: 123
-keywords: [ConnectApi.EnsurePaymentCreditOutputRepresentation, list, payment, credits, created, credit, memo, success, status, error, information., Shows, successfully, issued, customer's, any, errors, encountered, during, processing.]
+keywords: [payment, credits, created, credit, memo, success, status, error, successfully, issued, customer's, any, errors, encountered, processing]
 ---
 
 # ConnectApi.EnsurePaymentCreditOutputRepresentation

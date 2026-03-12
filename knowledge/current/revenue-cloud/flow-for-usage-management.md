@@ -5,9 +5,9 @@ topic: flow-for-usage-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.984Z
+lastCollected: 2026-03-12T09:33:12.902Z
 estimatedTokens: 337
-keywords: [Flow, Usage, Management, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute, logic]
+keywords: [Flow, Usage, Management, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---
 
 # Flow for Usage Management

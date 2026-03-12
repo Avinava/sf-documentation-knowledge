@@ -5,9 +5,9 @@ topic: connectapisubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.090Z
+lastCollected: 2026-03-12T09:33:29.130Z
 estimatedTokens: 224
-keywords: [ConnectApi.Subscription, Subscription.]
+keywords: [ConnectApi.Subscription, Subscription]
 ---
 
 # ConnectApi.Subscription

@@ -5,9 +5,9 @@ topic: feature-extraction-parameters-map-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.429Z
+lastCollected: 2026-03-12T09:33:47.432Z
 estimatedTokens: 97
-keywords: [Feature, Extraction, Map, Input, representation, feature, extraction, map.]
+keywords: [Feature, Extraction, Map, Input, representation]
 ---
 
 # Feature Extraction Parameters Map Value Input

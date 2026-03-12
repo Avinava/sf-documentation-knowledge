@@ -5,9 +5,9 @@ topic: getservicepresencestatuschannels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.502Z
+lastCollected: 2026-03-12T09:33:55.608Z
 estimatedTokens: 236
-keywords: [getServicePresenceStatusChannels, Retrieves, service, channels, associated, Omni-Channel, user’s, current, presence, status., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [getServicePresenceStatusChannels, Retrieves, service, channels, associated, Omni-Channel, user’s, current, presence, status, API, versions, 32.0, later, Arguments]
 ---
 
 # getServicePresenceStatusChannels

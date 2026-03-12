@@ -5,10 +5,10 @@ topic: authtoken-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.510Z
+lastCollected: 2026-03-12T09:33:20.153Z
 estimatedTokens: 3416
 namespace: Auth
-keywords: [AuthToken, Contains, getting, revoking, access, refresh, tokens, issued, user, logs, via, single, sign-on, SSO, flow, uses, authentication, provider, such, Facebook.]
+keywords: [AuthToken, getting, revoking, access, refresh, tokens, issued, user, logs, via, sign-on, SSO, flow, uses, authentication]
 ---
 
 # AuthToken Class
@@ -286,7 +286,7 @@ Map<String, String> responseMap = Auth.AuthToken.refreshAccessToken('0SOD0000000
 ```
 
 ```
-(RefreshError,null)(AccessToken,<EXAMPLE_ACCESS_TOKEN>)
+(RefreshError,null)(AccessToken,00DD00000007BhE!AQkAQFzj...)
 ```
 
 ```

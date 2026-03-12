@@ -5,9 +5,9 @@ topic: lightningomnichannelworkclosed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.265Z
+lastCollected: 2026-03-12T09:33:55.394Z
 estimatedTokens: 160
-keywords: [lightning, omniChannelWorkClosed, Indicates, status, AgentWork, changed, Closed., Response, Example]
+keywords: [lightning, omniChannelWorkClosed, status, AgentWork, changed, Closed]
 ---
 
 # lightning:omniChannelWorkClosed

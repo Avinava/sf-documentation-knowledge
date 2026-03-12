@@ -5,9 +5,9 @@ topic: connectapiadjustordersummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.046Z
+lastCollected: 2026-03-12T09:33:26.222Z
 estimatedTokens: 522
-keywords: [ConnectApi.AdjustOrderSummaryOutputRepresentation, Output, representation, financial, changes, adjust, items, action., preview, action, values, expected, output., submit, actual]
+keywords: [Output, representation, financial, changes, adjust, items, action, preview, expected, submit, actual]
 ---
 
 # ConnectApi.AdjustOrderSummaryOutputRepresentation

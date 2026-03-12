@@ -5,9 +5,9 @@ topic: connectapiproductcategorydata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.502Z
+lastCollected: 2026-03-12T09:33:28.541Z
 estimatedTokens: 167
-keywords: [ConnectApi.ProductCategoryData, Product, category.]
+keywords: [ConnectApi.ProductCategoryData, Product, category]
 ---
 
 # ConnectApi.ProductCategoryData

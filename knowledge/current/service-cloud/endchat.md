@@ -5,9 +5,9 @@ topic: endchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.177Z
+lastCollected: 2026-03-12T09:33:55.313Z
 estimatedTokens: 176
-keywords: [endChat, Ends, chat, which, agent, currently, engaged., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [endChat, Ends, chat, agent, currently, engaged, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # endChat()

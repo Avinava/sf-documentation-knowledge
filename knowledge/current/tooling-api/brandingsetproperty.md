@@ -5,9 +5,9 @@ topic: brandingsetproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.763Z
+lastCollected: 2026-03-12T09:33:43.926Z
 estimatedTokens: 191
-keywords: [BrandingSetProperty, Represents, branding, set, Theme, panel, Experience, Builder., API, version, 40.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [BrandingSetProperty, branding, Theme, panel, Experience, Builder, API, version, 40.0, later, SOAP, Calls, REST]
 ---
 
 # BrandingSetProperty

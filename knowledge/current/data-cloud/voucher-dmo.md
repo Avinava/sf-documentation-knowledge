@@ -5,9 +5,9 @@ topic: voucher-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.050Z
+lastCollected: 2026-03-12T09:33:15.734Z
 estimatedTokens: 1151
-keywords: [Voucher, DMO, Data, Cloud, data, model, loyalty, program’s, voucher., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+keywords: [Voucher, DMO, Data, Cloud, model, loyalty, program’s, API, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Voucher DMO

@@ -5,9 +5,9 @@ topic: duplicaterule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.062Z
+lastCollected: 2026-03-12T09:33:38.728Z
 estimatedTokens: 2598
-keywords: [DuplicateRule, Represents, rule, specifies, how, duplicate, records, detected., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [DuplicateRule, rule, how, duplicate, records, detected, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # DuplicateRule

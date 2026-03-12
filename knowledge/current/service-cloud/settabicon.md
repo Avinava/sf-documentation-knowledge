@@ -5,9 +5,9 @@ topic: settabicon
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.474Z
+lastCollected: 2026-03-12T09:33:56.521Z
 estimatedTokens: 346
-keywords: [setTabIcon, icon, specified, tab., tab, set, enclosing, customize, tab’s, icon., only, API, version, 28.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [setTabIcon, icon, tab, enclosing, customize, tab’s, API, version, 28.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # setTabIcon()

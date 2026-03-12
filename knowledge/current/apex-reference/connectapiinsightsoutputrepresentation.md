@@ -5,9 +5,9 @@ topic: connectapiinsightsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.604Z
+lastCollected: 2026-03-12T09:33:27.660Z
 estimatedTokens: 145
-keywords: [ConnectApi.InsightsOutputRepresentation, Insight, details, business, objective, goal.]
+keywords: [ConnectApi.InsightsOutputRepresentation, Insight, business, objective, goal]
 ---
 
 # ConnectApi.InsightsOutputRepresentation

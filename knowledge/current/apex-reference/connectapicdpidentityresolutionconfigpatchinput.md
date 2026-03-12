@@ -5,9 +5,9 @@ topic: connectapicdpidentityresolutionconfigpatchinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.540Z
+lastCollected: 2026-03-12T09:33:24.810Z
 estimatedTokens: 230
-keywords: [ConnectApi.CdpIdentityResolutionConfigPatchInput, Input, representation, updating, identity, resolution, ruleset.]
+keywords: [Input, representation, updating, identity, resolution, ruleset]
 ---
 
 # ConnectApi.CdpIdentityResolutionConfigPatchInput

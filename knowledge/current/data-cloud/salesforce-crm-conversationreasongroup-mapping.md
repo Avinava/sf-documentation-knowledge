@@ -5,9 +5,9 @@ topic: salesforce-crm-conversationreasongroup-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.850Z
+lastCollected: 2026-03-12T09:33:13.706Z
 estimatedTokens: 441
-keywords: [Salesforce, CRM, ConversationReasonGroup, Mapping, data, mappings, ConverationReasonGroup, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, ConversationReasonGroup, Mapping, data, mappings, ConverationReasonGroup, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---
 
 # Salesforce CRM: ConversationReasonGroup Mapping

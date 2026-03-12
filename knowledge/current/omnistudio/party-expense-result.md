@@ -5,9 +5,9 @@ topic: party-expense-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.464Z
+lastCollected: 2026-03-12T09:33:49.143Z
 estimatedTokens: 542
-keywords: [Party, Expense, Result, Output, representation, party, expense, result.]
+keywords: [Party, Expense, Result, Output, representation]
 ---
 
 # Party Expense Result

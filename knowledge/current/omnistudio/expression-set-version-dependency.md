@@ -5,9 +5,9 @@ topic: expression-set-version-dependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.224Z
+lastCollected: 2026-03-12T09:33:48.916Z
 estimatedTokens: 105
-keywords: [Expression, Set, Version, Dependency, Output, representation, expression, set, version, dependency.]
+keywords: [Expression, Version, Dependency, Output, representation]
 ---
 
 # Expression Set Version Dependency

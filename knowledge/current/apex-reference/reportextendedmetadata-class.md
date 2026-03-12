@@ -5,10 +5,10 @@ topic: reportextendedmetadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.075Z
+lastCollected: 2026-03-12T09:33:23.471Z
 estimatedTokens: 1052
 namespace: Reports
-keywords: [ReportExtendedMetadata, Contains, report, extended, metadata, tabular, summary, matrix, report., getAggregateColumnInfo, Syntax, getDetailColumnInfo, getGroupingColumnInfo]
+keywords: [ReportExtendedMetadata, report, extended, metadata, tabular, summary, matrix, getAggregateColumnInfo, getDetailColumnInfo, getGroupingColumnInfo]
 ---
 
 # ReportExtendedMetadata Class

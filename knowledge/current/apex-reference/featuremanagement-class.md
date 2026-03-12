@@ -5,10 +5,10 @@ topic: featuremanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.148Z
+lastCollected: 2026-03-12T09:33:21.600Z
 estimatedTokens: 3131
 namespace: System
-keywords: [FeatureManagement, System.FeatureManagement, check, modify, values, feature, show, hide, custom, objects, permissions, subscribers’, orgs., Usage, changeProtection, apiName, typeApiName, protection, Warning, checkPackageBooleanValue]
+keywords: [FeatureManagement, System.FeatureManagement, check, modify, feature, show, hide, custom, objects, permissions, subscribers’, orgs, Usage, changeProtection, apiName]
 ---
 
 # FeatureManagement Class

@@ -5,9 +5,9 @@ topic: connectapifieldchangesegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.765Z
+lastCollected: 2026-03-12T09:33:25.943Z
 estimatedTokens: 136
-keywords: [ConnectApi.FieldChangeSegment, Field, change, segment.]
+keywords: [ConnectApi.FieldChangeSegment, change, segment]
 ---
 
 # ConnectApi.FieldChangeSegment

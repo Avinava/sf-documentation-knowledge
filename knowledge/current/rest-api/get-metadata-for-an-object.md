@@ -5,9 +5,9 @@ topic: get-metadata-for-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.059Z
+lastCollected: 2026-03-12T09:33:34.944Z
 estimatedTokens: 167
-keywords: [Get, Metadata, sObject, Basic, Information, resource, get, metadata, object.]
+keywords: [Metadata, sObject, Basic, resource]
 ---
 
 # Get Metadata for an Object

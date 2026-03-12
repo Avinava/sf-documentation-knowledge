@@ -5,10 +5,10 @@ topic: opportunityterritory2assignmentfilter-global-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.940Z
+lastCollected: 2026-03-12T09:33:30.007Z
 estimatedTokens: 776
 namespace: TerritoryMgmt
-keywords: [OpportunityTerritory2AssignmentFilter, Apex, allows, implementing, assign, single, territory, opportunity., Usage, getOpportunityTerritory2Assignments, opportunityIds, Example, Implementation]
+keywords: [OpportunityTerritory2AssignmentFilter, Apex, implementing, assign, territory, opportunity, Usage, getOpportunityTerritory2Assignments, opportunityIds, Implementation]
 ---
 
 # OpportunityTerritory2AssignmentFilter Global Interface

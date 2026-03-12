@@ -5,9 +5,9 @@ topic: connectapifeeditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.743Z
+lastCollected: 2026-03-12T09:33:25.920Z
 estimatedTokens: 1828
-keywords: [ConnectApi.FeedItem, Feed, item.]
+keywords: [ConnectApi.FeedItem, Feed, item]
 ---
 
 # ConnectApi.FeedItem

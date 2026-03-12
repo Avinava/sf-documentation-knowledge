@@ -5,9 +5,9 @@ topic: connectapipicklistvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.377Z
+lastCollected: 2026-03-12T09:33:28.427Z
 estimatedTokens: 226
-keywords: [ConnectApi.PicklistValue, Picklist, value.]
+keywords: [ConnectApi.PicklistValue, Picklist]
 ---
 
 # ConnectApi.PicklistValue

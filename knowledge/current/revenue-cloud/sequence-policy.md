@@ -5,9 +5,9 @@ topic: sequence-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.471Z
+lastCollected: 2026-03-12T09:33:09.952Z
 estimatedTokens: 170
-keywords: [Sequence, Policy, Output, representation, shows, status, assigned, sequence, pattern, values.]
+keywords: [Sequence, Policy, Output, representation, status, assigned, pattern]
 ---
 
 # Sequence Policy

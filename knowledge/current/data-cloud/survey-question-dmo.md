@@ -5,9 +5,9 @@ topic: survey-question-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.978Z
+lastCollected: 2026-03-12T09:33:15.664Z
 estimatedTokens: 513
-keywords: [Survey, Question, DMO, Data, Cloud, data, model, question, survey, under, section., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+keywords: [Survey, Question, DMO, Data, Cloud, model, under, API, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Survey Question DMO

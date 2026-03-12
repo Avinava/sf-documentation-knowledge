@@ -5,9 +5,9 @@ topic: connectapipercentrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.361Z
+lastCollected: 2026-03-12T09:33:28.412Z
 estimatedTokens: 96
-keywords: [ConnectApi.PercentRecordField, Record, field, containing, percentage, value.]
+keywords: [ConnectApi.PercentRecordField, Record, containing, percentage]
 ---
 
 # ConnectApi.PercentRecordField

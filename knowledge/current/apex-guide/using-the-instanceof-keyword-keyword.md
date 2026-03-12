@@ -5,9 +5,9 @@ topic: using-the-instanceof-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.604Z
+lastCollected: 2026-03-12T09:33:32.635Z
 estimatedTokens: 530
-keywords: [instanceof, Keyword, need, verify, run, time, whether, actually, instance, particular, keyword., keyword, only, used, target, expression, right, viable, Implementation, Considerations]
+keywords: [instanceof, Keyword, verify, run, time, whether, actually, instance, particular, target, expression, right, viable, Implementation, Considerations]
 ---
 
 # Using the  instanceof Keyword Keyword

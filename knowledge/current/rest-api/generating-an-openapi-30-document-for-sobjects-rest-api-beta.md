@@ -6,9 +6,9 @@ topic: generating-an-openapi-30-document-for-sobjects-rest-api-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.207Z
+lastCollected: 2026-03-12T09:33:35.080Z
 estimatedTokens: 2405
-keywords: [Generating, OpenAPI, 3.0, Document, sObjects, REST, API, Beta, generate, document, opt-in, beta, feature., represents, sObject, resources, reflect, customizations, configurations., Note]
+keywords: [Generating, OpenAPI, 3.0, Document, sObjects, REST, API, Beta, generate, opt-in, feature, sObject, resources, reflect, customizations]
 ---
 
 # Generating an OpenAPI 3.0 Document for sObjects REST API

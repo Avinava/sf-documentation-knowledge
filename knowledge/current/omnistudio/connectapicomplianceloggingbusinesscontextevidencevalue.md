@@ -5,9 +5,9 @@ topic: connectapicomplianceloggingbusinesscontextevidencevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.633Z
+lastCollected: 2026-03-12T09:33:46.670Z
 estimatedTokens: 78
-keywords: [ConnectApi.ComplianceLoggingBusinessContextEvidenceValue, Input, representation, generic, context, evidence, value.]
+keywords: [Input, representation, generic, context, evidence]
 ---
 
 # ConnectApi.ComplianceLoggingBusinessContextEvidenceValue

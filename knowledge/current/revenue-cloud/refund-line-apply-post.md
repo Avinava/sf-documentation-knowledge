@@ -5,9 +5,9 @@ topic: refund-line-apply-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.594Z
+lastCollected: 2026-03-12T09:33:08.414Z
 estimatedTokens: 322
-keywords: [Refund, Line, Apply, POST, refund, transaction, against, payment.]
+keywords: [Refund, Line, Apply, POST, transaction, against, payment]
 ---
 
 # Refund Line Apply (POST)

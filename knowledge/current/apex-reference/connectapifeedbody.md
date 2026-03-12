@@ -5,9 +5,9 @@ topic: connectapifeedbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.326Z
+lastCollected: 2026-03-12T09:33:27.398Z
 estimatedTokens: 181
-keywords: [ConnectApi.FeedBody, Feed, body.]
+keywords: [ConnectApi.FeedBody, Feed]
 ---
 
 # ConnectApi.FeedBody

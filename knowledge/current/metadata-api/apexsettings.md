@@ -5,10 +5,10 @@ topic: apexsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:36.913Z
+lastCollected: 2026-03-12T09:33:36.712Z
 estimatedTokens: 1629
 namespace: Metadata
-keywords: [ApexSettings, Represents, Apex-related, org, settings., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [ApexSettings, Apex-related, org, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # ApexSettings

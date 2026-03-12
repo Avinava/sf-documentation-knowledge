@@ -5,9 +5,9 @@ topic: connectapifindrouteswithfewestsplitsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.456Z
+lastCollected: 2026-03-12T09:33:27.517Z
 estimatedTokens: 265
-keywords: [ConnectApi.FindRoutesWithFewestSplitsOutputRepresentation, list, inventory, location, combinations, fulfill, order, without, exceeding, maximum, number, shipments.]
+keywords: [inventory, location, combinations, fulfill, order, exceeding, maximum, number, shipments]
 ---
 
 # ConnectApi.FindRoutesWithFewestSplitsOutputRepresentation

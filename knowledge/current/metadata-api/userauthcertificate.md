@@ -5,9 +5,9 @@ topic: userauthcertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.488Z
+lastCollected: 2026-03-12T09:33:42.777Z
 estimatedTokens: 593
-keywords: [UserAuthCertificate, Represents, PEM-encoded, user, certificate., certificates, associated, externally, uploaded., uploaded, certificate, used, authenticate, user., Important, File, Suffix, Directory, Location, Version]
+keywords: [UserAuthCertificate, PEM-encoded, user, certificate, certificates, associated, externally, uploaded, authenticate, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
 # UserAuthCertificate

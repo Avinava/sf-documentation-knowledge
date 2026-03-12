@@ -5,10 +5,10 @@ topic: authprovidertokenresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.490Z
+lastCollected: 2026-03-12T09:33:20.133Z
 estimatedTokens: 1763
 namespace: Auth
-keywords: [AuthProviderTokenResponse, Stores, response, AuthProviderPlugin.handleCallback, method., provider, oauthToken, oauthSecretOrRefreshToken, state, idToken]
+keywords: [AuthProviderTokenResponse, Stores, AuthProviderPlugin.handleCallback, provider, oauthToken, oauthSecretOrRefreshToken, state, idToken]
 ---
 
 # AuthProviderTokenResponse Class

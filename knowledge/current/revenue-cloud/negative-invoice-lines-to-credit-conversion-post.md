@@ -5,9 +5,9 @@ topic: negative-invoice-lines-to-credit-conversion-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.679Z
+lastCollected: 2026-03-12T09:33:08.494Z
 estimatedTokens: 498
-keywords: [Negative, Invoice, Lines, Credit, Conversion, POST, Convert, list, invoice, lines, negative, amount, posted, credit, memo., conversion, applicable, single, time.]
+keywords: [Negative, Invoice, Lines, Credit, Conversion, POST, Convert, amount, posted, memo, applicable, time]
 ---
 
 # Negative Invoice Lines to Credit Conversion (POST)

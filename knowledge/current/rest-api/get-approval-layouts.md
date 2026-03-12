@@ -5,9 +5,9 @@ topic: get-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.949Z
+lastCollected: 2026-03-12T09:33:35.798Z
 estimatedTokens: 130
-keywords: [Get, Approval, Layouts, list, approval, layouts, specified, object., resource, REST, API, version, 30.0, later., Syntax, Example]
+keywords: [Approval, Layouts, resource, REST, API, version, 30.0, later]
 ---
 
 # Get Approval Layouts

@@ -5,10 +5,10 @@ topic: inboundemailbinaryattachment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.406Z
+lastCollected: 2026-03-12T09:33:23.776Z
 estimatedTokens: 929
 namespace: Messaging
-keywords: [InboundEmail.BinaryAttachment, InboundEmail, stores, binary, attachments, object., Usage, body, fileName, headers, mimeTypeSubType]
+keywords: [InboundEmail.BinaryAttachment, InboundEmail, stores, binary, attachments, Usage, fileName, mimeTypeSubType]
 ---
 
 # InboundEmail.BinaryAttachment Class

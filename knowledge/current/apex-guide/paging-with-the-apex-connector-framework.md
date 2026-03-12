@@ -5,9 +5,9 @@ topic: paging-with-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.007Z
+lastCollected: 2026-03-12T09:33:33.037Z
 estimatedTokens: 396
-keywords: [Paging, Apex, Connector, Framework, displaying, large, set, records, user, Salesforce, breaks, batches, displays, batch., then, page, through, those, batches., However]
+keywords: [Paging, Apex, Connector, Framework, displaying, large, records, user, Salesforce, breaks, batches, displays, batch, However, custom]
 ---
 
 # Paging with the Apex Connector Framework

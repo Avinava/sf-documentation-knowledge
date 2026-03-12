@@ -5,9 +5,9 @@ topic: expression-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.153Z
+lastCollected: 2026-03-12T09:33:49.815Z
 estimatedTokens: 413
-keywords: [Expression, Set, consist, series, steps, connected, logical, flow, built, variables, constants, conditions, calculations, lookups, aggregations., expression, set, allow, complex, math]
+keywords: [Expression, consist, series, steps, connected, logical, flow, built, variables, constants, conditions, calculations, lookups, aggregations, allow, complex, math, configured, OmniStudio, known]
 ---
 
 # Expression Set

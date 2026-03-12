@@ -5,9 +5,9 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.182Z
+lastCollected: 2026-03-12T09:33:54.413Z
 estimatedTokens: 3005
-keywords: [Location, Represents, warehouse, service, vehicle, work, site, element, region, where, team, performs, field, work., API, version, 49.0, later, associate, activities]
+keywords: [Location, warehouse, service, vehicle, work, site, element, region, team, performs, API, version, 49.0, later, associate]
 ---
 
 # Location

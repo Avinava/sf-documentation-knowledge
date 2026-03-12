@@ -5,10 +5,10 @@ topic: sendemailquickactiondefaults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.668Z
+lastCollected: 2026-03-12T09:33:21.247Z
 estimatedTokens: 1180
 namespace: QuickAction
-keywords: [SendEmailQuickActionDefaults, Represents, Apex, provides, address, list, original, email’s, email, message, provided, reply, action, invoked, feed, item, specify, related, settings, templates.]
+keywords: [SendEmailQuickActionDefaults, Apex, address, original, email’s, email, message, provided, reply, action, invoked, feed, item, specify, settings]
 ---
 
 # SendEmailQuickActionDefaults Class

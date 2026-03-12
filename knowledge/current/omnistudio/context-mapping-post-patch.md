@@ -5,9 +5,9 @@ topic: context-mapping-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.990Z
+lastCollected: 2026-03-12T09:33:47.900Z
 estimatedTokens: 479
-keywords: [Context, Mapping, POST, PATCH, Create, update, context, mappings.]
+keywords: [Context, Mapping, POST, PATCH, mappings]
 ---
 
 # Context Mapping (POST, PATCH)

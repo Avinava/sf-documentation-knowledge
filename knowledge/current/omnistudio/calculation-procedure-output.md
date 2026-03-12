@@ -5,9 +5,9 @@ topic: calculation-procedure-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.650Z
+lastCollected: 2026-03-12T09:33:48.459Z
 estimatedTokens: 215
-keywords: [Calculation, Procedure, Output, representation, expression, details., Note]
+keywords: [Calculation, Procedure, Output, representation, expression]
 ---
 
 # Calculation Procedure Output

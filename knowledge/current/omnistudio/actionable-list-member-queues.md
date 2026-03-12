@@ -6,9 +6,9 @@ topic: actionable-list-member-queues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.536Z
+lastCollected: 2026-03-12T09:33:48.359Z
 estimatedTokens: 135
-keywords: [Actionable, List, Member, Queues, Output, representation, fetch, request, queues, contain, actionable, list, member, supported, object.]
+keywords: [Actionable, Member, Queues, Output, representation, fetch, contain]
 ---
 
 # Actionable List Member

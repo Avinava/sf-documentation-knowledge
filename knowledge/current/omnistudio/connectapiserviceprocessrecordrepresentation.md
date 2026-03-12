@@ -5,9 +5,9 @@ topic: connectapiserviceprocessrecordrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.808Z
+lastCollected: 2026-03-12T09:33:46.830Z
 estimatedTokens: 184
-keywords: [ConnectApi.ServiceProcessRecordRepresentation, Service, process, record, output.]
+keywords: [Service, process, record, output]
 ---
 
 # ConnectApi.ServiceProcessRecordRepresentation

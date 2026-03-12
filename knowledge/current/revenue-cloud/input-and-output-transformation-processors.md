@@ -5,9 +5,9 @@ topic: input-and-output-transformation-processors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:08.708Z
+lastCollected: 2026-03-12T09:33:10.148Z
 estimatedTokens: 296
-keywords: [Input, Output, Transformation, Processors, input, output, processors, process, standard, fulfillment, request, before, sending, external, system., Prerequisites]
+keywords: [Input, Output, Transformation, Processors, process, standard, fulfillment, sending, external, system, Prerequisites]
 ---
 
 # Input and Output Transformation Processors

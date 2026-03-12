@@ -5,9 +5,9 @@ topic: testing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.026Z
+lastCollected: 2026-03-12T09:33:34.033Z
 estimatedTokens: 814
-keywords: [Testing, Apex, provides, testing, framework, allows, write, unit, tests, run, check, test, results, code, coverage, results., Note]
+keywords: [Testing, Apex, framework, write, unit, tests, run, check, test, results, code, coverage]
 ---
 
 # Testing Apex

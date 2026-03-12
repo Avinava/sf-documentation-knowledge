@@ -5,9 +5,9 @@ topic: contact-point-social-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.430Z
+lastCollected: 2026-03-12T09:33:14.263Z
 estimatedTokens: 1503
-keywords: [Contact, Point, Social, DMO, Data, Cloud, data, model, social, media, handle, party, example, @trustednews, Twitter., API, Name, Category, Primary, Subject]
+keywords: [Contact, Point, Social, DMO, Data, Cloud, model, media, handle, party, @trustednews, Twitter, API, Category, Primary]
 ---
 
 # Contact Point Social DMO

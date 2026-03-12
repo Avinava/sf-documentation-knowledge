@@ -5,9 +5,9 @@ topic: batch-invoices-document-generation-retry-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.975Z
+lastCollected: 2026-03-12T09:33:08.754Z
 estimatedTokens: 327
-keywords: [Batch, Invoices, Document, Generation, Retry, POST, Asynchronously, regenerate, PDF, documents, invoices, Draft, Posted, status, failed, earlier, invoice, batch, run.]
+keywords: [Batch, Invoices, Document, Generation, Retry, POST, Asynchronously, regenerate, PDF, documents, Draft, Posted, status, failed, earlier]
 ---
 
 # Batch Invoices Document Generation Retry (POST)

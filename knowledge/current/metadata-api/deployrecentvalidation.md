@@ -5,9 +5,9 @@ topic: deployrecentvalidation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.691Z
+lastCollected: 2026-03-12T09:33:38.386Z
 estimatedTokens: 907
-keywords: [deployRecentValidation, Deploys, recently, validated, component, set, without, running, Apex, tests., Syntax, Usage, Version, Arguments, Response, Sample, Code—Java]
+keywords: [deployRecentValidation, Deploys, recently, validated, component, running, Apex, tests, Usage, Version, Arguments, Sample, Code—Java]
 ---
 
 # deployRecentValidation()

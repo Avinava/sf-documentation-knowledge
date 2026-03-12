@@ -5,9 +5,9 @@ topic: connectapicompositecommercevariationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.755Z
+lastCollected: 2026-03-12T09:33:26.865Z
 estimatedTokens: 131
-keywords: [ConnectApi.CompositeCommerceVariationOutputRepresentation, Details, composite, product, variations.]
+keywords: [composite, product, variations]
 ---
 
 # ConnectApi.CompositeCommerceVariationOutputRepresentation

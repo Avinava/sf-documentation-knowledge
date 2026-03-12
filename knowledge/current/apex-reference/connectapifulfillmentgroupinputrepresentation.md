@@ -5,9 +5,9 @@ topic: connectapifulfillmentgroupinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.969Z
+lastCollected: 2026-03-12T09:33:25.215Z
 estimatedTokens: 567
-keywords: [ConnectApi.FulfillmentGroupInputRepresentation, list, OrderItemSummaries, fulfilled, together, fulfillment, location, handle, them., values, defined, field, FulfillmentOrder, such, “Warehouse”, “Retail, Store.”, specified, assigned, group.]
+keywords: [OrderItemSummaries, fulfilled, together, fulfillment, location, handle, defined, FulfillmentOrder, “Warehouse”, “Retail, Store.”, assigned, group]
 ---
 
 # ConnectApi.FulfillmentGroupInputRepresentation

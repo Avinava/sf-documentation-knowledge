@@ -5,9 +5,9 @@ topic: ratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.439Z
+lastCollected: 2026-03-12T09:33:12.419Z
 estimatedTokens: 1326
-keywords: [RateCardEntry, Represents, rule, determines, charge, rate, product's, resource., entry, linked, card, exclusively, its, activation, deactivation, controlled, assigning, effective, dates., API]
+keywords: [RateCardEntry, rule, determines, charge, rate, product's, resource, entry, linked, card, exclusively, activation, deactivation, controlled, assigning]
 ---
 
 # RateCardEntry

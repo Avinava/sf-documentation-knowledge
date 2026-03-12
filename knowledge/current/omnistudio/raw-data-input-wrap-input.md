@@ -5,9 +5,9 @@ topic: raw-data-input-wrap-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.705Z
+lastCollected: 2026-03-12T09:33:47.647Z
 estimatedTokens: 82
-keywords: [Raw, Data, Input, Wrap, representation, list, raw, data, input.]
+keywords: [Raw, Data, Input, Wrap, representation]
 ---
 
 # Raw Data Input Wrap Input

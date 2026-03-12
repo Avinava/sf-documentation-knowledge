@@ -5,9 +5,9 @@ topic: engagement-interaction-ids-create-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.121Z
+lastCollected: 2026-03-12T09:33:48.835Z
 estimatedTokens: 129
-keywords: [Engagement, Interaction, IDs, Create, Output, representation, creating, engagement, interaction.]
+keywords: [Engagement, Interaction, IDs, Output, representation, creating]
 ---
 
 # Engagement Interaction IDs Create Output

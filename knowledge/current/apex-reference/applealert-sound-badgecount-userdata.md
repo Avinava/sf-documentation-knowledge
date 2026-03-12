@@ -5,9 +5,9 @@ topic: applealert-sound-badgecount-userdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.097Z
+lastCollected: 2026-03-12T09:33:19.779Z
 estimatedTokens: 570
-keywords: [apple, alert, sound, badgeCount, userData, Helper, creates, valid, Apple, payload, specified, arguments., Usage, Example]
+keywords: [apple, alert, sound, badgeCount, userData, Helper, creates, payload, arguments, Usage]
 ---
 
 # apple(alert, sound, badgeCount, userData)

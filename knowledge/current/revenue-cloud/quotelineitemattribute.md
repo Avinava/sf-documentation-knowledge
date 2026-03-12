@@ -5,9 +5,9 @@ topic: quotelineitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.348Z
+lastCollected: 2026-03-12T09:33:12.335Z
 estimatedTokens: 702
-keywords: [QuoteLineItemAttribute, Represents, virtual, stores, attribute, specified, quote, line, item., API, version, 59.0, later., Note, Supported, Calls, Special, Access, Rules, Fields]
+keywords: [QuoteLineItemAttribute, virtual, stores, attribute, quote, line, item, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---
 
 # QuoteLineItemAttribute

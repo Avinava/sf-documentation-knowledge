@@ -5,9 +5,9 @@ topic: billing-arrangement-line
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.374Z
+lastCollected: 2026-03-12T09:33:09.107Z
 estimatedTokens: 229
-keywords: [Billing, Arrangement, Line, Output, representation, contains, details, specific, line, item, within, billing, arrangement, defining, how, charges, split, account.]
+keywords: [Billing, Arrangement, Line, Output, representation, specific, item, defining, how, charges, split, account]
 ---
 
 # Billing Arrangement Line

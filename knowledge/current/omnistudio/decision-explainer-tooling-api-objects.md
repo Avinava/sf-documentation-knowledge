@@ -5,9 +5,9 @@ topic: decision-explainer-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.975Z
+lastCollected: 2026-03-12T09:33:49.626Z
 estimatedTokens: 322
-keywords: [Decision, Explainer, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow]
+keywords: [Decision, Explainer, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, store, locate, associated, every, business]
 ---
 
 # Decision Explainer Tooling API Objects

@@ -5,9 +5,9 @@ topic: requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.052Z
+lastCollected: 2026-03-12T09:33:49.724Z
 estimatedTokens: 1270
-keywords: [Requests, igital, Lending, APIs, include, request, bodies., Here’s, list, Identity, Verification, API, Process, Compliance, Navigator, requests., body, Record, Rollup, Definitions]
+keywords: [Requests, igital, Lending, APIs, include, bodies, Here’s, Identity, Verification, API, Process, Compliance, Navigator, Record, Rollup, Definitions, Business]
 ---
 
 # Requests

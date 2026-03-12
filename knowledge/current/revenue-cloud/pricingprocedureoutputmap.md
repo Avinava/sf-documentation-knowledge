@@ -5,9 +5,9 @@ topic: pricingprocedureoutputmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.975Z
+lastCollected: 2026-03-12T09:33:11.991Z
 estimatedTokens: 636
-keywords: [PricingProcedureOutputMap, Represents, mapping, outputs, pricing, procedures, associated, lookup, tables., record, specifies, output, table, based, component, specified, Pricing, Recipe, Table, Mapping]
+keywords: [PricingProcedureOutputMap, mapping, outputs, pricing, procedures, associated, lookup, tables, record, output, component, Recipe, API, version, 60.0]
 ---
 
 # PricingProcedureOutputMap

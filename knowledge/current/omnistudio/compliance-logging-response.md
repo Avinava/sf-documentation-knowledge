@@ -5,9 +5,9 @@ topic: compliance-logging-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.702Z
+lastCollected: 2026-03-12T09:33:48.503Z
 estimatedTokens: 79
-keywords: [Compliance, Logging, Response, Output, representation, compliance, bulk, logging, results.]
+keywords: [Compliance, Logging, Output, representation, bulk, results]
 ---
 
 # Compliance Logging Response

@@ -5,9 +5,9 @@ topic: connectapidirectmessagememberactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.041Z
+lastCollected: 2026-03-12T09:33:27.132Z
 estimatedTokens: 201
-keywords: [ConnectApi.DirectMessageMemberActivity, Direct, message, member, activity.]
+keywords: [ConnectApi.DirectMessageMemberActivity, Direct, message, member, activity]
 ---
 
 # ConnectApi.DirectMessageMemberActivity

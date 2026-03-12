@@ -5,9 +5,9 @@ topic: connectapiocicreatereservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.220Z
+lastCollected: 2026-03-12T09:33:25.447Z
 estimatedTokens: 203
-keywords: [ConnectApi.OCICreateReservationSingleInputRepresentation, quantity, product, Omnichannel, Inventory, location, group, which, reserve, it.]
+keywords: [quantity, product, Omnichannel, Inventory, location, group, reserve]
 ---
 
 # ConnectApi.OCICreateReservationSingleInputRepresentation

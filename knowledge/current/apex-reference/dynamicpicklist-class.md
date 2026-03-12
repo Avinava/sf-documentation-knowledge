@@ -5,10 +5,10 @@ topic: dynamicpicklist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.478Z
+lastCollected: 2026-03-12T09:33:21.913Z
 estimatedTokens: 1086
 namespace: VisualEditor
-keywords: [DynamicPickList, abstract, used, display, values, picklist, Lightning, component, page., Usage, Example, clone, getDefaultValue, getLabel, attributeValue, getValues, isValid]
+keywords: [DynamicPickList, abstract, display, picklist, Lightning, component, Usage, clone, getDefaultValue, getLabel, attributeValue, getValues, isValid]
 ---
 
 # DynamicPickList Class

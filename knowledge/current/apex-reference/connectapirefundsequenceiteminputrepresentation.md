@@ -5,9 +5,9 @@ topic: connectapirefundsequenceiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.478Z
+lastCollected: 2026-03-12T09:33:25.666Z
 estimatedTokens: 105
-keywords: [ConnectApi.RefundSequenceItemInputRepresentation, Order, Payment, Summary, amount, individual, refund, items, sequence., item, payment, processed, method.]
+keywords: [Order, Payment, Summary, amount, individual, refund, items, sequence, item, processed]
 ---
 
 # ConnectApi.RefundSequenceItemInputRepresentation

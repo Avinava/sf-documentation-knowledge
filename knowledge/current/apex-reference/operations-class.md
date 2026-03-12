@@ -5,10 +5,10 @@ topic: operations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.480Z
+lastCollected: 2026-03-12T09:33:20.979Z
 estimatedTokens: 1321
 namespace: Metadata
-keywords: [Operations, Represents, execute, metadata, operations, such, retrieving, deploying, custom, metadata., Usage, Example, Retrieve, Metadata, Deploy, Create, Two, Records, Synchronously, Note]
+keywords: [Operations, execute, metadata, retrieving, deploying, custom, Usage, Retrieve, Deploy, Two, Records, Synchronously, clone, enqueueDeployment, container]
 ---
 
 # Operations Class

@@ -5,10 +5,10 @@ topic: reportdetailrow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.071Z
+lastCollected: 2026-03-12T09:33:23.467Z
 estimatedTokens: 278
 namespace: Reports
-keywords: [ReportDetailRow, Contains, data, cells, detail, row, report., getDataCells, Syntax]
+keywords: [ReportDetailRow, data, cells, detail, row, report, getDataCells]
 ---
 
 # ReportDetailRow Class

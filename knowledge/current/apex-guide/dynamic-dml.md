@@ -5,9 +5,9 @@ topic: dynamic-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.305Z
+lastCollected: 2026-03-12T09:33:33.352Z
 estimatedTokens: 1067
-keywords: [Dynamic, DML, addition, querying, describe, information, building, SOQL, queries, runtime, create, sObjects, dynamically, insert, database, DML., sObject, Creation, Example, Setting]
+keywords: [Dynamic, DML, addition, querying, describe, building, SOQL, queries, runtime, sObjects, dynamically, insert, database, sObject, Creation]
 ---
 
 # Dynamic DML

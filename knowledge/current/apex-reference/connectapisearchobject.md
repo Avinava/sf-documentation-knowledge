@@ -5,9 +5,9 @@ topic: connectapisearchobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.970Z
+lastCollected: 2026-03-12T09:33:29.013Z
 estimatedTokens: 328
-keywords: [ConnectApi.SearchObject, Record, results, keyword, search.]
+keywords: [ConnectApi.SearchObject, Record, results, keyword, search]
 ---
 
 # ConnectApi.SearchObject

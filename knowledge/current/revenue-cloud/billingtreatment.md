@@ -5,9 +5,9 @@ topic: billingtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.812Z
+lastCollected: 2026-03-12T09:33:11.047Z
 estimatedTokens: 882
-keywords: [BillingTreatment, Represents, information, billing, order, item., API, version, 62.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [BillingTreatment, billing, order, item, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # BillingTreatment

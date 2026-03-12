@@ -5,9 +5,9 @@ topic: connectapidmofilterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.753Z
+lastCollected: 2026-03-12T09:33:25.008Z
 estimatedTokens: 222
-keywords: [ConnectApi.DMOFilterInput, Represents, DMO, filter, input.]
+keywords: [ConnectApi.DMOFilterInput, DMO, filter, input]
 ---
 
 # ConnectApi.DMOFilterInput

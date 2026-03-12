@@ -5,9 +5,9 @@ topic: connectapifollowerpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.775Z
+lastCollected: 2026-03-12T09:33:25.952Z
 estimatedTokens: 153
-keywords: [ConnectApi.FollowerPage, Page, followers.]
+keywords: [ConnectApi.FollowerPage, followers]
 ---
 
 # ConnectApi.FollowerPage

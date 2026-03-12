@@ -5,9 +5,9 @@ topic: output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.992Z
+lastCollected: 2026-03-12T09:33:49.671Z
 estimatedTokens: 125
-keywords: [Output, Classes, Decision, Table, Apex, output, classes., Record, Alerts, Engagements]
+keywords: [Output, Classes, Decision, Apex, Record, Alerts, Engagements]
 ---
 
 # Output Classes

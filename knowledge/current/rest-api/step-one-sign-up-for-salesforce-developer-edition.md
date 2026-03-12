@@ -6,9 +6,9 @@ topic: step-one-sign-up-for-salesforce-developer-edition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.219Z
+lastCollected: 2026-03-12T09:33:35.090Z
 estimatedTokens: 366
-keywords: [Step, Sign, Salesforce, Developer, Edition, provides, free, easy, solution, testing, development., Note]
+keywords: [Step, Sign, Salesforce, Developer, Edition, free, easy, solution, testing, development]
 ---
 
 # Step

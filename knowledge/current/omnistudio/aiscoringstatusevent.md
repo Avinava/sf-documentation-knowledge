@@ -5,9 +5,9 @@ topic: aiscoringstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.328Z
+lastCollected: 2026-03-12T09:33:51.836Z
 estimatedTokens: 539
-keywords: [AIScoringStatusEvent, Notifies, subscribers, scoring, job, started, services, data, release, version, connect, aiaccelerator, predictions, REST, request, executed, asynchronous, mode, complete., API]
+keywords: [AIScoringStatusEvent, Notifies, subscribers, scoring, job, started, services, data, release, version, connect, aiaccelerator, predictions, REST, executed]
 ---
 
 # AIScoringStatusEvent

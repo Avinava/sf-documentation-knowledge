@@ -5,9 +5,9 @@ topic: getnamespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.313Z
+lastCollected: 2026-03-12T09:33:19.981Z
 estimatedTokens: 99
-keywords: [getNamespace, Retrieves, prefix, canvas, app., Usage]
+keywords: [getNamespace, Retrieves, prefix, canvas, app, Usage]
 ---
 
 # getNamespace()

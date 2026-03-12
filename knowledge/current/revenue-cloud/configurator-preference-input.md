@@ -5,9 +5,9 @@ topic: configurator-preference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.925Z
+lastCollected: 2026-03-12T09:33:07.838Z
 estimatedTokens: 207
-keywords: [Configurator, Preference, Input, representation, configuration, preference, place, sales, transaction, request.]
+keywords: [Configurator, Preference, Input, representation, configuration, place, sales, transaction]
 ---
 
 # Configurator Preference Input

@@ -5,9 +5,9 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.396Z
+lastCollected: 2026-03-12T09:33:07.401Z
 estimatedTokens: 3065
-keywords: [Resources, Billing, API, resources., Salesforce, Pricing, Product, Catalog, Management, Configurator, Discovery, Quote, Order, Capture, Rate, Usage]
+keywords: [Resources, Billing, API, Salesforce, Pricing, Product, Catalog, Management, Configurator, Discovery, Quote, Order, Capture, Rate, Usage]
 ---
 
 # Resources

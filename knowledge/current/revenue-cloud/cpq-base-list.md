@@ -5,9 +5,9 @@ topic: cpq-base-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.623Z
+lastCollected: 2026-03-12T09:33:09.330Z
 estimatedTokens: 418
-keywords: [CPQ, Base, List, Output, representation, list, catalogs, categories, products, based, request.]
+keywords: [CPQ, Base, Output, representation, catalogs, categories, products]
 ---
 
 # CPQ Base List

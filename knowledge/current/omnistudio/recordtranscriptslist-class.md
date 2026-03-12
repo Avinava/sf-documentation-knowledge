@@ -5,10 +5,10 @@ topic: recordtranscriptslist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.560Z
+lastCollected: 2026-03-12T09:33:46.593Z
 estimatedTokens: 610
 namespace: DataRetrieval
-keywords: [RecordTranscriptsList, Stores, transcripts, multiple, interaction, sessions, between, customers, agents., conversations, conversationsTokens]
+keywords: [RecordTranscriptsList, Stores, transcripts, multiple, interaction, sessions, customers, agents, conversations, conversationsTokens]
 ---
 
 # RecordTranscriptsList Class

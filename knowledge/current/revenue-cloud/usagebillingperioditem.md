@@ -5,9 +5,9 @@ topic: usagebillingperioditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.672Z
+lastCollected: 2026-03-12T09:33:12.626Z
 estimatedTokens: 1418
-keywords: [UsageBillingPeriodItem, Represents, calculated, overages, usage, entitlement, amount, that's, charged, overages., API, version, 63.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [UsageBillingPeriodItem, calculated, overages, usage, entitlement, amount, that's, charged, API, version, 63.0, later, Calls, Special, Access]
 ---
 
 # UsageBillingPeriodItem

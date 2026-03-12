@@ -5,9 +5,9 @@ topic: forecastingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.760Z
+lastCollected: 2026-03-12T09:33:44.910Z
 estimatedTokens: 713
-keywords: [ForecastingType, Represents, forecast, type., API, version, 52.0, later., Important, Supported, SOAP, Calls, REST, Fields]
+keywords: [ForecastingType, forecast, API, version, 52.0, later, SOAP, Calls, REST]
 ---
 
 # ForecastingType

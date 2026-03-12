@@ -5,9 +5,9 @@ topic: composite-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.286Z
+lastCollected: 2026-03-12T09:33:35.149Z
 estimatedTokens: 1706
-keywords: [Composite, Request, Body, Describes, collection, subrequests, execute, resource., Collection, Input, Subrequest, Note]
+keywords: [Composite, collection, subrequests, execute, resource, Input, Subrequest]
 ---
 
 # Composite Request Body

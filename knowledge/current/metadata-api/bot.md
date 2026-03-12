@@ -5,9 +5,9 @@ topic: bot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.289Z
+lastCollected: 2026-03-12T09:33:37.064Z
 estimatedTokens: 2325
-keywords: [Bot, Represents, definition, Einstein, configuration, versions., Only, version, active., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, LocalMlDomain]
+keywords: [Bot, definition, Einstein, configuration, versions, version, active, Parent, File, Suffix, Directory, Location, Special, Access, Rules]
 ---
 
 # Bot

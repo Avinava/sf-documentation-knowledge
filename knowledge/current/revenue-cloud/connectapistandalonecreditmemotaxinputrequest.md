@@ -5,9 +5,9 @@ topic: connectapistandalonecreditmemotaxinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.102Z
+lastCollected: 2026-03-12T09:33:07.133Z
 estimatedTokens: 130
-keywords: [ConnectApi.StandaloneCreditMemoTaxInputRequest, Connect, API, representation, Tax, input, request]
+keywords: [Connect, API, representation, Tax, input]
 ---
 
 # ConnectApi.StandaloneCreditMemoTaxInputRequest

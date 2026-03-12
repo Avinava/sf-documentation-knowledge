@@ -5,9 +5,9 @@ topic: embeddedservicebranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.182Z
+lastCollected: 2026-03-12T09:33:38.832Z
 estimatedTokens: 890
-keywords: [EmbeddedServiceBranding, Represents, branding, Embedded, Service, deployment., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields]
+keywords: [EmbeddedServiceBranding, branding, Embedded, Service, deployment, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
 # EmbeddedServiceBranding

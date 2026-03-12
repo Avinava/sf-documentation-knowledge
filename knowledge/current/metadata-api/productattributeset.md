@@ -5,9 +5,9 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.879Z
+lastCollected: 2026-03-12T09:33:41.334Z
 estimatedTokens: 150
-keywords: [ProductAttributeSet, Represents, ProductAttribute, information, being, used, attribute, such, color_c, size_c, Version, Special, Access, Rules, Fields]
+keywords: [ProductAttributeSet, ProductAttribute, attribute, color_c, size_c, Version, Special, Access, Rules]
 ---
 
 # ProductAttributeSet

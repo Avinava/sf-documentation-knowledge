@@ -5,10 +5,10 @@ topic: rendercontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.970Z
+lastCollected: 2026-03-12T09:33:30.039Z
 estimatedTokens: 158
 namespace: Canvas
-keywords: [RenderContext, wrapper, used, retrieve, application, environment, context, information., Usage]
+keywords: [RenderContext, wrapper, retrieve, application, environment, context, Usage]
 ---
 
 # RenderContext Interface

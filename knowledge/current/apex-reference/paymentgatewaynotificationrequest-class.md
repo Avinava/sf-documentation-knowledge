@@ -5,10 +5,10 @@ topic: paymentgatewaynotificationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.979Z
+lastCollected: 2026-03-12T09:33:22.381Z
 estimatedTokens: 890
 namespace: CommercePayments
-keywords: [PaymentGatewayNotificationRequest, Contains, notification, request, data, gateway., Usage, Example, requestBody, getHeaders, getRequestBody]
+keywords: [PaymentGatewayNotificationRequest, notification, data, gateway, Usage, requestBody, getHeaders, getRequestBody]
 ---
 
 # PaymentGatewayNotificationRequest Class

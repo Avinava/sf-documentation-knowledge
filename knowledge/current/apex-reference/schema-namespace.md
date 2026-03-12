@@ -5,10 +5,10 @@ topic: schema-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.594Z
+lastCollected: 2026-03-12T09:33:31.649Z
 estimatedTokens: 1259
 namespace: Schema
-keywords: [Schema, provides, classes, schema, metadata, information.]
+keywords: [Schema, classes, metadata]
 ---
 
 # Schema Namespace

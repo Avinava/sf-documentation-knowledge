@@ -5,9 +5,9 @@ topic: get-a-record-using-an-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.245Z
+lastCollected: 2026-03-12T09:33:36.071Z
 estimatedTokens: 173
-keywords: [Get, Record, External, GET, sObject, Rows, resource, get, records, specific, external, ID.]
+keywords: [Record, External, sObject, Rows, resource, records, specific]
 ---
 
 # Get a Record Using an External ID

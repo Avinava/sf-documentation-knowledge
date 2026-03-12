@@ -5,9 +5,9 @@ topic: connectapizonesearchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.340Z
+lastCollected: 2026-03-12T09:33:29.386Z
 estimatedTokens: 206
-keywords: [ConnectApi.ZoneSearchResult, Information, specific, zone, search, result.]
+keywords: [ConnectApi.ZoneSearchResult, specific, zone, search, result]
 ---
 
 # ConnectApi.ZoneSearchResult

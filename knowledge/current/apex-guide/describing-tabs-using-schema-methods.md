@@ -5,9 +5,9 @@ topic: describing-tabs-using-schema-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.291Z
+lastCollected: 2026-03-12T09:33:33.338Z
 estimatedTokens: 226
-keywords: [Describing, Tabs, Schema, get, metadata, information, apps, their, tabs, Salesforce, user, executing, describe, call, Apex., detailed, tab., describeTabs, getTabs, Schema.Desc]
+keywords: [Describing, Tabs, Schema, metadata, apps, their, Salesforce, user, executing, describe, call, Apex, detailed, tab, describeTabs]
 ---
 
 # Describing Tabs Using Schema Methods

@@ -5,9 +5,9 @@ topic: form-reader-object-field-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.262Z
+lastCollected: 2026-03-12T09:33:48.949Z
 estimatedTokens: 165
-keywords: [Form, Reader, Field, Mapping, Output, representation, mapping, between, extracted, text, values, specific, Salesforce, fields.]
+keywords: [Form, Reader, Mapping, Output, representation, extracted, text, specific, Salesforce]
 ---
 
 # Form Reader Object Field Mapping

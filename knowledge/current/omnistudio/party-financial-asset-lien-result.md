@@ -5,9 +5,9 @@ topic: party-financial-asset-lien-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.476Z
+lastCollected: 2026-03-12T09:33:49.154Z
 estimatedTokens: 394
-keywords: [Party, Financial, Asset, Lien, Result, Output, representation, lien, details, party, financial, asset]
+keywords: [Party, Financial, Asset, Lien, Result, Output, representation]
 ---
 
 # Party Financial Asset Lien Result

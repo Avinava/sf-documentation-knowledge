@@ -5,9 +5,9 @@ topic: aiusecasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.771Z
+lastCollected: 2026-03-12T09:33:36.577Z
 estimatedTokens: 2860
-keywords: [AIUsecaseDefinition, Represents, collection, fields, Salesforce, org, used, define, machine, learning, case, get, real-time, predictions., Important, Parent, File, Suffix, Directory, Location]
+keywords: [AIUsecaseDefinition, collection, Salesforce, org, define, machine, learning, case, real-time, predictions, Parent, File, Suffix, Directory, Location]
 ---
 
 # AIUsecaseDefinition

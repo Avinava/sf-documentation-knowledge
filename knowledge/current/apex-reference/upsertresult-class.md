@@ -5,10 +5,10 @@ topic: upsertresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.065Z
+lastCollected: 2026-03-12T09:33:20.595Z
 estimatedTokens: 1654
 namespace: DataSource
-keywords: [UpsertResult, Represents, result, upsert, operation, external, record., returned, upsertRows, DataSource.Connection, class., Usage, errorMessage, externalId, success, equals, obj, failure, hashCode, DML]
+keywords: [UpsertResult, result, upsert, operation, external, record, upsertRows, DataSource.Connection, Usage, errorMessage, externalId, success, equals, obj, failure, DML, Database.upsert, getErrors, getId, Versioned]
 ---
 
 # UpsertResult Class

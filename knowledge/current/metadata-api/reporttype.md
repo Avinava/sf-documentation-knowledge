@@ -5,9 +5,9 @@ topic: reporttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.429Z
+lastCollected: 2026-03-12T09:33:41.852Z
 estimatedTokens: 1549
-keywords: [ReportType, Represents, metadata, associated, custom, report, type., Custom, types, allow, build, framework, which, users, create, customize, reports., Important, Declarative, Metadata]
+keywords: [ReportType, metadata, associated, custom, report, allow, build, framework, users, customize, reports, Declarative, File, Suffix, Directory]
 ---
 
 # ReportType

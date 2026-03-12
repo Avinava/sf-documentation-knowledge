@@ -5,9 +5,9 @@ topic: salesforce-crm-user-role-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.118Z
+lastCollected: 2026-03-12T09:33:13.951Z
 estimatedTokens: 240
-keywords: [Salesforce, CRM, User, Role, Mapping, data, mappings, UserRole, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, User, Role, Mapping, data, mappings, UserRole, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---
 
 # Salesforce CRM: User Role Mapping

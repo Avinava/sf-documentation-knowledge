@@ -5,9 +5,9 @@ topic: calculation-procedure-detail-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.643Z
+lastCollected: 2026-03-12T09:33:48.453Z
 estimatedTokens: 343
-keywords: [Calculation, Procedure, Detail, Output, representation, expression, set, details., Note]
+keywords: [Calculation, Procedure, Detail, Output, representation, expression]
 ---
 
 # Calculation Procedure Detail Output

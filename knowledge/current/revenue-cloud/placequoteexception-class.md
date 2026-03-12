@@ -5,10 +5,10 @@ topic: placequoteexception-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.611Z
+lastCollected: 2026-03-12T09:33:06.679Z
 estimatedTokens: 329
 namespace: PlaceQuote
-keywords: [PlaceQuoteException, Contains, hold, exception, details, place, quote, request., getErrorCode]
+keywords: [PlaceQuoteException, hold, exception, place, quote, getErrorCode]
 ---
 
 # PlaceQuoteException Class

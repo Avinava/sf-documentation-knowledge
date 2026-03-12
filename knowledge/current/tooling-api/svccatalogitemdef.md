@@ -5,9 +5,9 @@ topic: svccatalogitemdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.931Z
+lastCollected: 2026-03-12T09:33:46.006Z
 estimatedTokens: 1013
-keywords: [SvcCatalogItemDef, Represents, grouping, individual, catalog, items, Service, Catalog., API, version, 53.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [SvcCatalogItemDef, grouping, individual, catalog, items, Service, API, version, 53.0, later, SOAP, Calls, REST, Special, Access]
 ---
 
 # SvcCatalogItemDef

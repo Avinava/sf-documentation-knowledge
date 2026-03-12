@@ -5,10 +5,10 @@ topic: using-the-schema-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.713Z
+lastCollected: 2026-03-12T09:33:32.744Z
 estimatedTokens: 328
 namespace: Schema
-keywords: [Schema, provides, classes, working, schema, metadata, information., implicitly, import, Schema.*, must, fully, qualify, uses, elements, they, naming, conflicts, items, unmanaged]
+keywords: [Schema, classes, working, metadata, implicitly, import, Schema.*, fully, qualify, uses, elements, they, naming, conflicts, items]
 ---
 
 # Using the Schema Namespace

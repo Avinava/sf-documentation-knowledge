@@ -5,9 +5,9 @@ topic: assignee-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.077Z
+lastCollected: 2026-03-12T09:33:47.095Z
 estimatedTokens: 115
-keywords: [Assignee, Input, representation, updating, assignee, details, actionable, list, member.]
+keywords: [Assignee, Input, representation, updating, actionable, member]
 ---
 
 # Assignee Input

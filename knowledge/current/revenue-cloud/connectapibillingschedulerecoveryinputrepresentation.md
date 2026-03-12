@@ -5,9 +5,9 @@ topic: connectapibillingschedulerecoveryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.009Z
+lastCollected: 2026-03-12T09:33:07.051Z
 estimatedTokens: 109
-keywords: [ConnectApi.BillingScheduleRecoveryInputRepresentation, Input, representation, details, billing, schedules, recover, associated, invoice.]
+keywords: [Input, representation, billing, schedules, recover, associated, invoice]
 ---
 
 # ConnectApi.BillingScheduleRecoveryInputRepresentation

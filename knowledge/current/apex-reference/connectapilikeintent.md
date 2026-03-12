@@ -5,9 +5,9 @@ topic: connectapilikeintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.638Z
+lastCollected: 2026-03-12T09:33:27.692Z
 estimatedTokens: 141
-keywords: [ConnectApi.LikeIntent, intent, social, post.]
+keywords: [ConnectApi.LikeIntent, intent, social, post]
 ---
 
 # ConnectApi.LikeIntent

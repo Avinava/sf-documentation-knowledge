@@ -5,9 +5,9 @@ topic: readonly-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.451Z
+lastCollected: 2026-03-12T09:33:32.488Z
 estimatedTokens: 515
-keywords: [ReadOnly, Annotation, @ReadOnly, annotation, allows, perform, less, restrictive, queries, against, Lightning, Platform, database, increasing, limit, number, returned, rows, request, 000]
+keywords: [ReadOnly, Annotation, @ReadOnly, perform, less, restrictive, queries, against, Lightning, Platform, database, increasing, limit, number, rows]
 ---
 
 # ReadOnly Annotation Annotation

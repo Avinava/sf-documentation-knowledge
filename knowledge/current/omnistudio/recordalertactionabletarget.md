@@ -5,9 +5,9 @@ topic: recordalertactionabletarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.221Z
+lastCollected: 2026-03-12T09:33:52.624Z
 estimatedTokens: 558
-keywords: [RecordAlertActionableTarget, Represents, action, associated, parent, record, alert., API, version, 63.0, later., Important, Supported, Calls, Fields]
+keywords: [RecordAlertActionableTarget, action, associated, parent, record, alert, API, version, 63.0, later, Calls]
 ---
 
 # RecordAlertActionableTarget

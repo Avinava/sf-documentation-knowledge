@@ -5,9 +5,9 @@ topic: actionable-list-members-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.237Z
+lastCollected: 2026-03-12T09:33:46.297Z
 estimatedTokens: 259
-keywords: [Actionable, List, Members, Metadata, Types, metadata, types, set, Bulk, Action, Panel.]
+keywords: [Actionable, Members, Metadata, Bulk, Action, Panel]
 ---
 
 # Actionable List Members Metadata Types

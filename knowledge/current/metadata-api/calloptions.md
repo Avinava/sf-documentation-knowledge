@@ -5,9 +5,9 @@ topic: calloptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.505Z
+lastCollected: 2026-03-12T09:33:37.274Z
 estimatedTokens: 109
-keywords: [CallOptions, Specifies, API, client, identifier., Version, Supported, Calls, Fields, Sample, Code—Java]
+keywords: [CallOptions, API, client, identifier, Version, Calls, Sample, Code—Java]
 ---
 
 # CallOptions

@@ -5,9 +5,9 @@ topic: intelligent-form-reader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.811Z
+lastCollected: 2026-03-12T09:33:50.459Z
 estimatedTokens: 698
-keywords: [Intelligent, Form, Reader, provides, optical, character, recognition, automatically, extract, data, external, documents.]
+keywords: [Intelligent, Form, Reader, optical, character, recognition, automatically, extract, data, external, documents]
 ---
 
 # Intelligent Form Reader

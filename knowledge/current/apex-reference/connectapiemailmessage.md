@@ -5,9 +5,9 @@ topic: connectapiemailmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.157Z
+lastCollected: 2026-03-12T09:33:27.249Z
 estimatedTokens: 308
-keywords: [ConnectApi.EmailMessage, Email, message, case., Important]
+keywords: [ConnectApi.EmailMessage, Email, message, case]
 ---
 
 # ConnectApi.EmailMessage

@@ -5,9 +5,9 @@ topic: connectapithemeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.145Z
+lastCollected: 2026-03-12T09:33:29.189Z
 estimatedTokens: 110
-keywords: [ConnectApi.ThemeInfo, Theme, information, related, object.]
+keywords: [ConnectApi.ThemeInfo, Theme]
 ---
 
 # ConnectApi.ThemeInfo

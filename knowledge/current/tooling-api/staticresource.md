@@ -5,9 +5,9 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.855Z
+lastCollected: 2026-03-12T09:33:45.935Z
 estimatedTokens: 419
-keywords: [StaticResource, Represents, working, copy, resource, file, editing, saving., resources, allow, upload, content, reference, Visualforce, page, including, images, stylesheets, JavaScript, files.]
+keywords: [StaticResource, working, copy, resource, file, editing, saving, resources, allow, upload, content, Visualforce, including, images, stylesheets]
 ---
 
 # StaticResource

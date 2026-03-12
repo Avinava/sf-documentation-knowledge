@@ -6,9 +6,9 @@ topic: getutilityinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.787Z
+lastCollected: 2026-03-12T09:33:55.880Z
 estimatedTokens: 484
-keywords: [getUtilityInfo, Lightning, Experience, state, current, utility, utilityInfo, object., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
+keywords: [getUtilityInfo, Lightning, Experience, state, current, utility, utilityInfo, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---
 
 # getUtilityInfo() for Lightning Experience for Lightning

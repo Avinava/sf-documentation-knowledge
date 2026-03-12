@@ -5,9 +5,9 @@ topic: custom-type-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.927Z
+lastCollected: 2026-03-12T09:33:48.673Z
 estimatedTokens: 99
-keywords: [Custom, Details, Output, representation, custom, details, Omniscript, elements.]
+keywords: [Custom, Output, representation, Omniscript, elements]
 ---
 
 # Custom Type Details

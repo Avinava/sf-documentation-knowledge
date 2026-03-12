@@ -5,9 +5,9 @@ topic: lightningomnichannelworkassigned
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.261Z
+lastCollected: 2026-03-12T09:33:55.390Z
 estimatedTokens: 149
-keywords: [lightning, omniChannelWorkAssigned, Indicates, agent, assigned, new, work, item., Response, Example]
+keywords: [lightning, omniChannelWorkAssigned, agent, assigned, new, work, item]
 ---
 
 # lightning:omniChannelWorkAssigned

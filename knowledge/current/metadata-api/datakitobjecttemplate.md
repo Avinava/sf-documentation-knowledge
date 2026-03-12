@@ -5,9 +5,9 @@ topic: datakitobjecttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.486Z
+lastCollected: 2026-03-12T09:33:38.187Z
 estimatedTokens: 934
-keywords: [DataKitObjectTemplate, Represents, Data, Kit, Template., templates, added, inside, data, kit., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [DataKitObjectTemplate, Data, Kit, Template, templates, added, inside, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # DataKitObjectTemplate

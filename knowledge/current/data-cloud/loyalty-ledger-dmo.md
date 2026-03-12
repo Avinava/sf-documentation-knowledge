@@ -5,9 +5,9 @@ topic: loyalty-ledger-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.293Z
+lastCollected: 2026-03-12T09:33:15.011Z
 estimatedTokens: 945
-keywords: [Loyalty, Ledger, DMO, Data, Cloud, data, model, record, points, credited, debited, member, across, transactions., API, Name, Category, Primary, Subject, Area]
+keywords: [Loyalty, Ledger, DMO, Data, Cloud, model, record, points, credited, debited, member, across, transactions, API, Category]
 ---
 
 # Loyalty Ledger DMO

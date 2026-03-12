@@ -5,9 +5,9 @@ topic: external-ids-for-salesforce-connect-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:32.972Z
+lastCollected: 2026-03-12T09:33:33.006Z
 estimatedTokens: 408
-keywords: [External, IDs, Salesforce, Connect, Objects, access, external, data, custom, adapter, values, standard, field, come, DataSource.Column, named, ExternalId., Important, Example]
+keywords: [External, IDs, Salesforce, Connect, Objects, access, data, custom, adapter, standard, come, DataSource.Column, named, ExternalId]
 ---
 
 # External IDs for Salesforce Connect External Objects

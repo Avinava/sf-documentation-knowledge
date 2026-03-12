@@ -5,9 +5,9 @@ topic: binding-object-rate-adjustments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.408Z
+lastCollected: 2026-03-12T09:33:09.136Z
 estimatedTokens: 261
-keywords: [Binding, Rate, Adjustments, Output, representation, details, binding, target, rate, adjustments.]
+keywords: [Binding, Rate, Adjustments, Output, representation, target]
 ---
 
 # Binding Object Rate Adjustments

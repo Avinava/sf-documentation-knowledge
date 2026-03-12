@@ -5,9 +5,9 @@ topic: process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.776Z
+lastCollected: 2026-03-12T09:33:35.625Z
 estimatedTokens: 371
-keywords: [Process, Approvals, Accesses, approval, processes., used, submit, particular, record, entity, supports, process, already, defined., Records, approved, rejected, current, user, assigned]
+keywords: [Process, Approvals, Accesses, approval, processes, submit, particular, record, entity, supports, already, defined, Records, approved, rejected]
 ---
 
 # Process Approvals

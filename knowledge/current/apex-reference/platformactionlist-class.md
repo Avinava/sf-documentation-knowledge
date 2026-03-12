@@ -5,10 +5,10 @@ topic: platformactionlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.495Z
+lastCollected: 2026-03-12T09:33:20.986Z
 estimatedTokens: 928
 namespace: Metadata
-keywords: [PlatformActionList, Represents, list, actions, their, order, display, Salesforce, mobile, action, bar, layout., Usage, actionListContext, platformActionListItems, relatedSourceEntity, clone]
+keywords: [PlatformActionList, actions, their, order, display, Salesforce, mobile, action, bar, layout, Usage, actionListContext, platformActionListItems, relatedSourceEntity, clone]
 ---
 
 # PlatformActionList Class

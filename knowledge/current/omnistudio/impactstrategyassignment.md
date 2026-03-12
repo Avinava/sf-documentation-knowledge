@@ -5,9 +5,9 @@ topic: impactstrategyassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.816Z
+lastCollected: 2026-03-12T09:33:51.392Z
 estimatedTokens: 647
-keywords: [ImpactStrategyAssignment, Represents, connection, between, impact, strategy, outcome, related, strategy., API, version, 59.0, later., Important, Supported, Calls, Special, Access, Rules, Fields]
+keywords: [ImpactStrategyAssignment, connection, impact, strategy, outcome, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ImpactStrategyAssignment

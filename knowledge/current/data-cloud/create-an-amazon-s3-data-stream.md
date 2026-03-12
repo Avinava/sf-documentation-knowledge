@@ -5,9 +5,9 @@ topic: create-an-amazon-s3-data-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.084Z
+lastCollected: 2026-03-12T09:33:12.999Z
 estimatedTokens: 821
-keywords: [Create, Amazon, Data, Stream, data, stream, programmatically, source., ingest, Cloud, lake.]
+keywords: [Amazon, Data, Stream, programmatically, source, ingest, Cloud, lake]
 ---
 
 # Create an Amazon S3 Data Stream

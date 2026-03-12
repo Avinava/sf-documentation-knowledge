@@ -5,9 +5,9 @@ topic: giftentrygridtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.319Z
+lastCollected: 2026-03-12T09:33:39.823Z
 estimatedTokens: 475
-keywords: [GiftEntryGridTemplate, Represents, templates, customize, gift, entry, grid, Fundraising., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
+keywords: [GiftEntryGridTemplate, templates, customize, gift, entry, grid, Fundraising, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # GiftEntryGridTemplate

@@ -5,9 +5,9 @@ topic: agentforce-it-service-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.127Z
+lastCollected: 2026-03-12T09:33:15.807Z
 estimatedTokens: 330
-keywords: [Agentforce, Service, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface., information, find, complete, reference, existing, metadata, Developer]
+keywords: [Agentforce, Service, Metadata, API, access, feature, settings, customize, user, Developer]
 ---
 
 # Agentforce IT Service Metadata API Types

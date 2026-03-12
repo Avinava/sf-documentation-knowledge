@@ -5,9 +5,9 @@ topic: connectapimcsfoldersharetargetcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.694Z
+lastCollected: 2026-03-12T09:33:27.746Z
 estimatedTokens: 155
-keywords: [ConnectApi.MCSFolderShareTargetCollection, Collection, targets, managed, content, space, folder, shared, with.]
+keywords: [Collection, targets, managed, content, space, folder, shared]
 ---
 
 # ConnectApi.MCSFolderShareTargetCollection

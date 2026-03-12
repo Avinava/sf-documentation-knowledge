@@ -5,9 +5,9 @@ topic: application-form-seller-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.052Z
+lastCollected: 2026-03-12T09:33:47.070Z
 estimatedTokens: 631
-keywords: [Application, Form, Seller, Item, Input, representation, application, form, seller, item.]
+keywords: [Application, Form, Seller, Item, Input, representation]
 ---
 
 # Application Form Seller Item Input

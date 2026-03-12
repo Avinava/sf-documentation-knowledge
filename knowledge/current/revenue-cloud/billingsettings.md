@@ -5,9 +5,9 @@ topic: billingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:08.753Z
+lastCollected: 2026-03-12T09:33:10.189Z
 estimatedTokens: 2514
-keywords: [BillingSettings, Represents, settings, Salesforce, Billing., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition]
+keywords: [BillingSettings, settings, Salesforce, Billing, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative]
 ---
 
 # BillingSettings

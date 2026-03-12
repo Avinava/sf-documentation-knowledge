@@ -5,10 +5,10 @@ topic: changeeventheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.520Z
+lastCollected: 2026-03-12T09:33:22.933Z
 estimatedTokens: 3080
 namespace: EventBus
-keywords: [ChangeEventHeader, Contains, header, fields, Change, Data, Capture, events., changedfields, changeorigin, changetype, commitnumber, committimestamp, commituser, difffields, entityname, nulledfields, recordids, sequencenumber, transactionkey]
+keywords: [ChangeEventHeader, Change, Data, Capture, events, changedfields, changeorigin, changetype, commitnumber, committimestamp, commituser, difffields, entityname, nulledfields, recordids]
 ---
 
 # ChangeEventHeader Class

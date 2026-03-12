@@ -5,9 +5,9 @@ topic: salesforce-pricing-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.916Z
+lastCollected: 2026-03-12T09:33:10.325Z
 estimatedTokens: 1169
-keywords: [Salesforce, Pricing, Business, APIs, Perform, pricing, request, create, context, instance, sync, data, manage, recipes, waterfall, details, APIs.]
+keywords: [Salesforce, Pricing, Business, APIs, Perform, context, instance, sync, data, manage, recipes, waterfall]
 ---
 
 # Salesforce Pricing Business APIs

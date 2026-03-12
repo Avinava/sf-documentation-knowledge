@@ -5,9 +5,9 @@ topic: deploy-s3-connector-metadata-with-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.671Z
+lastCollected: 2026-03-12T09:33:13.547Z
 estimatedTokens: 348
-keywords: [Deploy, Connector, Metadata, Salesforce, CLI, deploy, metadata, package.]
+keywords: [Deploy, Connector, Metadata, Salesforce, CLI, package]
 ---
 
 # Deploy S3 Connector Metadata with Salesforce CLI

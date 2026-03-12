@@ -5,9 +5,9 @@ topic: get-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.138Z
+lastCollected: 2026-03-12T09:33:35.980Z
 estimatedTokens: 416
-keywords: [Get, Records, sObject, Rows, External, Retrieves, record, based, specified, external, field., Note, Syntax, Example]
+keywords: [Records, sObject, Rows, External, Retrieves, record]
 ---
 
 # Get Records Using sObject Rows by External ID

@@ -5,9 +5,9 @@ topic: decision-explainer-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:50.960Z
+lastCollected: 2026-03-12T09:33:49.584Z
 estimatedTokens: 458
-keywords: [Decision, Explainer, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs., Note, give, users, seamless, API, experience]
+keywords: [Decision, Explainer, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs, give, users, seamless, API, experience, applications]
 ---
 
 # Decision Explainer Business APIs

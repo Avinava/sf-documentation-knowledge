@@ -5,9 +5,9 @@ topic: connectapiobjectmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.187Z
+lastCollected: 2026-03-12T09:33:28.235Z
 estimatedTokens: 281
-keywords: [ConnectApi.ObjectMetadata, Search, metadata, related, object.]
+keywords: [ConnectApi.ObjectMetadata, Search, metadata]
 ---
 
 # ConnectApi.ObjectMetadata

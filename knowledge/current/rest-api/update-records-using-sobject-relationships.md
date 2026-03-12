@@ -5,9 +5,9 @@ topic: update-records-using-sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.079Z
+lastCollected: 2026-03-12T09:33:35.924Z
 estimatedTokens: 439
-keywords: [Update, Records, sObject, Relationships, Updates, parent, record, based, specified, relationship, field, name., Field, values, provided, request, body, replace, existing, record.]
+keywords: [Records, sObject, Relationships, Updates, parent, record, relationship, provided, replace, child-to-parent, traversed]
 ---
 
 # Update Records Using sObject Relationships

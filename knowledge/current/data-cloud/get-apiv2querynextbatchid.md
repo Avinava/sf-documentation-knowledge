@@ -5,9 +5,9 @@ topic: get-apiv2querynextbatchid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.309Z
+lastCollected: 2026-03-12T09:33:13.265Z
 estimatedTokens: 237
-keywords: [GET, api, query, nextBatchId, next, batch, data, initial, POST, request., Syntax, Examples, Note, HTTP, Responses]
+keywords: [api, query, nextBatchId, batch, data, initial, POST, Examples, HTTP, Responses]
 ---
 
 # GET /api/v2/query/{nextBatchId}

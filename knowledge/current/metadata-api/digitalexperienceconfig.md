@@ -5,9 +5,9 @@ topic: digitalexperienceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.894Z
+lastCollected: 2026-03-12T09:33:38.604Z
 estimatedTokens: 602
-keywords: [DigitalExperienceConfig, Represents, details, organization’s, workspaces, such, site, label, URL, path, prefix, workspace, type., Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [DigitalExperienceConfig, organization’s, workspaces, site, label, URL, path, prefix, workspace, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # DigitalExperienceConfig

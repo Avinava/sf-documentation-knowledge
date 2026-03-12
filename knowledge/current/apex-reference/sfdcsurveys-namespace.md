@@ -5,10 +5,10 @@ topic: sfdcsurveys-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:31.728Z
+lastCollected: 2026-03-12T09:33:31.784Z
 estimatedTokens: 214
 namespace: The
-keywords: [sfdc_surveys, provides, shortening, survey, invitations., sfdc, _surveys]
+keywords: [sfdc_surveys, shortening, survey, invitations, sfdc, _surveys]
 ---
 
 # sfdc_surveys Namespace

@@ -5,9 +5,9 @@ topic: fulfillmentfalloutrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.245Z
+lastCollected: 2026-03-12T09:33:11.401Z
 estimatedTokens: 995
-keywords: [FulfillmentFalloutRule, Represents, fulfillment, fallout, handling, rule., API, version, 61.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [FulfillmentFalloutRule, fulfillment, fallout, handling, rule, API, version, 61.0, later, Calls, Associated, Objects]
 ---
 
 # FulfillmentFalloutRule

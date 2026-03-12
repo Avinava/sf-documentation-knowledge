@@ -5,9 +5,9 @@ topic: dataimportmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.471Z
+lastCollected: 2026-03-12T09:33:38.172Z
 estimatedTokens: 694
-keywords: [DataImportManagementSettings, Represents, org's, contact, leads, import, settings., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata]
+keywords: [DataImportManagementSettings, org's, contact, leads, import, settings, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # DataImportManagementSettings

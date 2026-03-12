@@ -5,9 +5,9 @@ topic: context-tag-get-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.022Z
+lastCollected: 2026-03-12T09:33:47.929Z
 estimatedTokens: 424
-keywords: [Context, Tag, GET, POST, PATCH, Query, create, update, context, tag., Note]
+keywords: [Context, Tag, POST, PATCH, Query]
 ---
 
 # Context Tag (GET, POST, PATCH)

@@ -5,9 +5,9 @@ topic: affinityscoredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.420Z
+lastCollected: 2026-03-12T09:33:36.245Z
 estimatedTokens: 900
-keywords: [AffinityScoreDefinition, Represents, affinity, information, used, calculations, analyze, categorize, contacts, marketing, purposes., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [AffinityScoreDefinition, affinity, calculations, analyze, categorize, contacts, marketing, purposes, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # AffinityScoreDefinition

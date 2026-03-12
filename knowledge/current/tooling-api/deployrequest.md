@@ -5,9 +5,9 @@ topic: deployrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.174Z
+lastCollected: 2026-03-12T09:33:44.317Z
 estimatedTokens: 1724
-keywords: [DeployRequest, Uses, file, representations, metadata, components, create, update, delete, those, Salesforce, org., API, version, 49.0, later., Supported, SOAP, Calls, REST]
+keywords: [DeployRequest, Uses, file, representations, metadata, components, Salesforce, org, API, version, 49.0, later, SOAP, Calls, REST]
 ---
 
 # DeployRequest

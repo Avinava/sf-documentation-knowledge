@@ -5,9 +5,9 @@ topic: knowledge-article-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:14.236Z
+lastCollected: 2026-03-12T09:33:14.962Z
 estimatedTokens: 3105
-keywords: [Knowledge, Article, Engagement, DMO, Stores, user, engagement, details, related, Article., It’s, logical, subtype, EngagementAction., Provided, Ingestion, API., API, version, later.]
+keywords: [Knowledge, Article, Engagement, DMO, Stores, user, It’s, logical, subtype, EngagementAction, Provided, Ingestion, API, version, later]
 ---
 
 # Knowledge Article Engagement DMO

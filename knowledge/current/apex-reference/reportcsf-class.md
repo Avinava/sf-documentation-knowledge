@@ -5,10 +5,10 @@ topic: reportcsf-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.941Z
+lastCollected: 2026-03-12T09:33:23.347Z
 estimatedTokens: 4297
 namespace: Reports
-keywords: [ReportCsf, Contains, working, information, custom, summary, formula, CSF, label, description, formulaType, decimalPlaces, downGroup, downGroupType, acrossGroup, acrossGroupType, getAcrossGroup, getAcrossGroupType, getDecimalPlaces, getDescription]
+keywords: [ReportCsf, working, custom, summary, formula, CSF, label, formulaType, decimalPlaces, downGroup, downGroupType, acrossGroup, acrossGroupType, getAcrossGroup, getAcrossGroupType]
 ---
 
 # ReportCsf Class

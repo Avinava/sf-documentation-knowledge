@@ -5,9 +5,9 @@ topic: connectapiattributesetinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.357Z
+lastCollected: 2026-03-12T09:33:25.562Z
 estimatedTokens: 134
-keywords: [ConnectApi.AttributeSetInputRepresentation, Attribute, set, information, input.]
+keywords: [Attribute, input]
 ---
 
 # ConnectApi.AttributeSetInputRepresentation

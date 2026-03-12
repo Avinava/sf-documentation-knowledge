@@ -5,9 +5,9 @@ topic: connectapicreatecreditmemooutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.865Z
+lastCollected: 2026-03-12T09:33:26.962Z
 estimatedTokens: 99
-keywords: [ConnectApi.CreateCreditMemoOutputRepresentation, created, Credit, Memo.]
+keywords: [created, Credit, Memo]
 ---
 
 # ConnectApi.CreateCreditMemoOutputRepresentation

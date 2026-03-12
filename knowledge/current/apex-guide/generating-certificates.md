@@ -5,9 +5,9 @@ topic: generating-certificates
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:32.314Z
+lastCollected: 2026-03-12T09:33:32.350Z
 estimatedTokens: 190
-keywords: [Generating, Certificates, self-signed, certificate, generated, Salesforce, signed, authority, generate, callout, Generate, Certificate.]
+keywords: [Generating, Certificates, self-signed, certificate, generated, Salesforce, signed, authority, generate, callout]
 ---
 
 # Generating Certificates

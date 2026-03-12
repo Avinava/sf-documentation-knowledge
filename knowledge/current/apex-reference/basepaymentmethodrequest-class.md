@@ -5,10 +5,10 @@ topic: basepaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.859Z
+lastCollected: 2026-03-12T09:33:22.276Z
 estimatedTokens: 749
 namespace: CommercePayments
-keywords: [BasePaymentMethodRequest, Abstract, storing, information, payment, methods., Usage, equals, obj, hashCode, toString]
+keywords: [BasePaymentMethodRequest, Abstract, storing, payment, Usage, equals, obj, hashCode, toString]
 ---
 
 # BasePaymentMethodRequest Class

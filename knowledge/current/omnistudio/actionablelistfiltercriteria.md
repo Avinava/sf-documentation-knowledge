@@ -5,9 +5,9 @@ topic: actionablelistfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.280Z
+lastCollected: 2026-03-12T09:33:51.791Z
 estimatedTokens: 827
-keywords: [ActionableListFilterCriteria, Represents, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, list., API, version, 59.0, later., Supported]
+keywords: [ActionableListFilterCriteria, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, API, version]
 ---
 
 # ActionableListFilterCriteria

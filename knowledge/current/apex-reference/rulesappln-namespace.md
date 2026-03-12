@@ -5,10 +5,10 @@ topic: rulesappln-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:31.716Z
+lastCollected: 2026-03-12T09:33:31.772Z
 estimatedTokens: 332
 namespace: RulesAppln
-keywords: [RulesAppln, contains, output, classes, store, details, rules-based, application, payments, credits.]
+keywords: [RulesAppln, output, classes, store, rules-based, application, payments, credits]
 ---
 
 # RulesAppln Namespace

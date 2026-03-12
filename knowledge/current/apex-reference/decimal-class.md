@@ -5,10 +5,10 @@ topic: decimal-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.662Z
+lastCollected: 2026-03-12T09:33:30.706Z
 estimatedTokens: 5736
 namespace: System
-keywords: [Decimal, Contains, primitive, data, type., Usage, Note, Rounding, Mode, abs, Example, divide, divisor, scale, roundingMode, doubleValue, format, intValue, longValue, pow]
+keywords: [Decimal, primitive, data, Usage, Rounding, Mode, abs, divide, divisor, scale, roundingMode, doubleValue, intValue, longValue, pow]
 ---
 
 # Decimal Class

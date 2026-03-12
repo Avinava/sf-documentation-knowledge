@@ -5,9 +5,9 @@ topic: territory2model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.131Z
+lastCollected: 2026-03-12T09:33:42.472Z
 estimatedTokens: 1214
-keywords: [Territory2Model, Represents, metadata, associated, territory, model, Sales, Territories., extends, Metadata, inherits, its, fullName, field., Territories, enabled., File, Suffix, Directory, Location]
+keywords: [Territory2Model, metadata, associated, territory, model, Sales, Territories, extends, inherits, fullName, enabled, File, Suffix, Directory, Location]
 ---
 
 # Territory2Model

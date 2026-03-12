@@ -5,9 +5,9 @@ topic: webstorebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.970Z
+lastCollected: 2026-03-12T09:33:43.188Z
 estimatedTokens: 10
-keywords: [WebStoreBundle, internal, only.]
+keywords: [WebStoreBundle, internal]
 ---
 
 # WebStoreBundle

@@ -5,9 +5,9 @@ topic: connectapicreditinvoiceinvoicelinetax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.031Z
+lastCollected: 2026-03-12T09:33:07.067Z
 estimatedTokens: 161
-keywords: [ConnectApi.CreditInvoiceInvoiceLineTax, Input, representation, details, tax, lines, created, manually, invoice, line.]
+keywords: [ConnectApi.CreditInvoiceInvoiceLineTax, Input, representation, tax, lines, created, manually, invoice, line]
 ---
 
 # ConnectApi.CreditInvoiceInvoiceLineTax

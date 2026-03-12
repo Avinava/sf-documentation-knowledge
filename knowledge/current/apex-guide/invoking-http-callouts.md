@@ -5,9 +5,9 @@ topic: invoking-http-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.323Z
+lastCollected: 2026-03-12T09:33:32.359Z
 estimatedTokens: 302
-keywords: [Invoking, HTTP, Callouts, Apex, provides, several, built-in, classes, work, services, create, requests, GET, POST, PUT, DELETE.]
+keywords: [Invoking, HTTP, Callouts, Apex, several, built-in, classes, work, services, requests, POST, PUT]
 ---
 
 # Invoking HTTP Callouts

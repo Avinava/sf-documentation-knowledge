@@ -5,9 +5,9 @@ topic: get-multiple-product-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.828Z
+lastCollected: 2026-03-12T09:33:05.975Z
 estimatedTokens: 985
-keywords: [Get, Multiple, Product, Details, Action, product, details, list, products., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Multiple, Product, Action, products, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Get Multiple Product Details Action

@@ -5,9 +5,9 @@ topic: cnfgmgmtrelationtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.585Z
+lastCollected: 2026-03-12T09:33:16.237Z
 estimatedTokens: 880
-keywords: [CnfgMgmtRelationTypeDef, Represents, relationship, between, configuration, item, types, items, defined, CMDB., example, Depends, Connected, to., API, version, 65.0, later., Supported, SOAP]
+keywords: [CnfgMgmtRelationTypeDef, relationship, configuration, item, items, defined, CMDB, Depends, Connected, API, version, 65.0, later, SOAP, Calls]
 ---
 
 # CnfgMgmtRelationTypeDef

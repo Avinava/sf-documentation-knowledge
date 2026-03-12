@@ -5,9 +5,9 @@ topic: connectapiuserpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.250Z
+lastCollected: 2026-03-12T09:33:29.296Z
 estimatedTokens: 232
-keywords: [ConnectApi.UserPage, Page, users.]
+keywords: [ConnectApi.UserPage, users]
 ---
 
 # ConnectApi.UserPage

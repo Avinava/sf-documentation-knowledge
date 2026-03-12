@@ -5,9 +5,9 @@ topic: fireoncallbegin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.307Z
+lastCollected: 2026-03-12T09:33:55.430Z
 estimatedTokens: 260
-keywords: [fireOnCallBegin, Fires, event, notifies, call, begun., get, information, send, between, interaction, log, custom, console, component., only, API, version, 31.0, later.]
+keywords: [fireOnCallBegin, Fires, event, notifies, call, begun, send, interaction, log, custom, console, component, API, version, 31.0]
 ---
 
 # fireOnCallBegin()

@@ -5,9 +5,9 @@ topic: codebuildersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.759Z
+lastCollected: 2026-03-12T09:33:37.509Z
 estimatedTokens: 550
-keywords: [CodeBuilderSettings, Represents, Code, Builder, settings., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
+keywords: [CodeBuilderSettings, Code, Builder, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # CodeBuilderSettings

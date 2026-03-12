@@ -5,9 +5,9 @@ topic: certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.640Z
+lastCollected: 2026-03-12T09:33:37.400Z
 estimatedTokens: 1173
-keywords: [Certificate, Represents, certificate, used, digital, signatures, verify, requests, coming, org., Certificates, either, authenticated, single, sign-on, external, website, org, identity, provider.]
+keywords: [Certificate, digital, signatures, verify, requests, coming, org, Certificates, either, authenticated, sign-on, external, website, identity, provider]
 ---
 
 # Certificate

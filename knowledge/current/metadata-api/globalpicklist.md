@@ -5,9 +5,9 @@ topic: globalpicklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.324Z
+lastCollected: 2026-03-12T09:33:39.827Z
 estimatedTokens: 643
-keywords: [GlobalPicklist, Represents, picklist, set, shared, values, custom, fields, use., contrast, based, CustomValue., extends, Metadata, metadata, inherits, its, fullName, field., Important]
+keywords: [GlobalPicklist, picklist, shared, custom, contrast, CustomValue, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # GlobalPicklist

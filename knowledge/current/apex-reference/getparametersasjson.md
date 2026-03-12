@@ -5,9 +5,9 @@ topic: getparametersasjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.358Z
+lastCollected: 2026-03-12T09:33:20.019Z
 estimatedTokens: 289
-keywords: [getParametersAsJSON, Retrieves, current, custom, canvas, app., returned, JSON, string., Usage, Example]
+keywords: [getParametersAsJSON, Retrieves, current, custom, canvas, app, JSON, Usage]
 ---
 
 # getParametersAsJSON()

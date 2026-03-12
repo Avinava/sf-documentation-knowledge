@@ -5,9 +5,9 @@ topic: retrydecision-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.625Z
+lastCollected: 2026-03-12T09:33:29.663Z
 estimatedTokens: 74
-keywords: [RetryDecision, Specifies, retry, decision., Values]
+keywords: [RetryDecision, retry, decision]
 ---
 
 # RetryDecision Enum

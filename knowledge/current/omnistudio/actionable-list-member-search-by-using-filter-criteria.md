@@ -5,9 +5,9 @@ topic: actionable-list-member-search-by-using-filter-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.217Z
+lastCollected: 2026-03-12T09:33:48.101Z
 estimatedTokens: 426
-keywords: [Actionable, List, Member, Search, Filter, Criteria, Get, list, actionable, members, filter, criteria.]
+keywords: [Actionable, Member, Search, Filter, Criteria, members]
 ---
 
 # Actionable List Member Search by Using Filter Criteria

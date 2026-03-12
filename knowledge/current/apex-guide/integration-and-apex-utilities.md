@@ -5,10 +5,10 @@ topic: integration-and-apex-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.501Z
+lastCollected: 2026-03-12T09:33:33.538Z
 estimatedTokens: 408
 namespace: Compression
-keywords: [Integration, Apex, Utilities, allows, integrate, external, SOAP, REST, Web, services, callouts., utilities, JSON, XML, data, security, encoding., general-purpose, utility, regular]
+keywords: [Integration, Apex, Utilities, integrate, external, SOAP, REST, Web, services, callouts, JSON, XML, data, security, encoding]
 ---
 
 # Integration and Apex Utilities

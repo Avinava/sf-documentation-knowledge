@@ -5,9 +5,9 @@ topic: mixed-dml-operations-in-test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.234Z
+lastCollected: 2026-03-12T09:33:33.256Z
 estimatedTokens: 559
-keywords: [Mixed, DML, Operations, Test, allow, performing, mixed, Data, Manipulation, Language, operations, include, both, setup, sObjects, code, performs, enclosed, within, System.runAs]
+keywords: [Mixed, DML, Operations, Test, allow, performing, Data, Manipulation, Language, include, setup, sObjects, code, performs, enclosed]
 ---
 
 # Mixed DML Operations in Test Methods

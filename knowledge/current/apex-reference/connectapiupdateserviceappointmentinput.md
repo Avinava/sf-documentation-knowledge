@@ -5,9 +5,9 @@ topic: connectapiupdateserviceappointmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.660Z
+lastCollected: 2026-03-12T09:33:25.836Z
 estimatedTokens: 564
-keywords: [ConnectApi.UpdateServiceAppointmentInput, Contains, information, update, service, appointment.]
+keywords: [service, appointment]
 ---
 
 # ConnectApi.UpdateServiceAppointmentInput

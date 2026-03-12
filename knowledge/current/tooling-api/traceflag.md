@@ -5,9 +5,9 @@ topic: traceflag
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.990Z
+lastCollected: 2026-03-12T09:33:46.060Z
 estimatedTokens: 1686
-keywords: [TraceFlag, Represents, trace, flag, triggers, Apex, debug, log, specified, logging, level., Supported, SOAP, API, Calls, REST, HTTP, Fields, Usage]
+keywords: [TraceFlag, trace, flag, triggers, Apex, debug, log, logging, level, SOAP, API, Calls, REST, HTTP, Usage]
 ---
 
 # TraceFlag

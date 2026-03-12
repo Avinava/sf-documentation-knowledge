@@ -5,10 +5,10 @@ topic: appointmentbookingservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.191Z
+lastCollected: 2026-03-12T09:33:53.526Z
 estimatedTokens: 6148
 namespace: FSL
-keywords: [AppointmentBookingService, Represents, appointment, booking, scheduling, process, field, service., Appointment, slots, service, while, considering, policies, work, rules, objectives., example, schedule, tomorrow]
+keywords: [AppointmentBookingService, appointment, booking, scheduling, process, service, slots, considering, policies, work, rules, objectives, schedule, tomorrow, Monday]
 ---
 
 # AppointmentBookingService Class

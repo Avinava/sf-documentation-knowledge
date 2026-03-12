@@ -5,9 +5,9 @@ topic: formulareturntype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.659Z
+lastCollected: 2026-03-12T09:33:29.696Z
 estimatedTokens: 227
-keywords: [FormulaReturnType, Specifies, withReturnType, returnType, method., Values]
+keywords: [FormulaReturnType, withReturnType, returnType]
 ---
 
 # FormulaReturnType Enum

@@ -5,9 +5,9 @@ topic: update-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.715Z
+lastCollected: 2026-03-12T09:33:53.985Z
 estimatedTokens: 1917
-keywords: [Update, Bundle, Adds, service, appointments, existing, bundle., resource, accepts, bundle, appointment, IDs., API, supported, Gov, Cloud., endpoint, version, 54.0, later]
+keywords: [Bundle, Adds, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, version, 54.0, later]
 ---
 
 # Update Bundle

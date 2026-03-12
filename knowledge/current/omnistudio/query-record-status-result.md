@@ -5,9 +5,9 @@ topic: query-record-status-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.608Z
+lastCollected: 2026-03-12T09:33:49.268Z
 estimatedTokens: 167
-keywords: [Query, Record, Status, Result, Output, representation, query, result, status, context, data, records.]
+keywords: [Query, Record, Status, Result, Output, representation, context, data, records]
 ---
 
 # Query Record Status Result

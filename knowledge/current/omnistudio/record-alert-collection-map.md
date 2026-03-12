@@ -5,9 +5,9 @@ topic: record-alert-collection-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.666Z
+lastCollected: 2026-03-12T09:33:49.317Z
 estimatedTokens: 125
-keywords: [Record, Alert, Collection, Map, Output, representation, bulk, record, alerts, request.]
+keywords: [Record, Alert, Collection, Map, Output, representation, bulk, alerts]
 ---
 
 # Record Alert Collection Map

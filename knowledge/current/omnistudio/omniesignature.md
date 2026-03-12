@@ -5,9 +5,9 @@ topic: omniesignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.072Z
+lastCollected: 2026-03-12T09:33:52.500Z
 estimatedTokens: 66
-keywords: [OmniESignature, internal, only.]
+keywords: [OmniESignature, internal]
 ---
 
 # OmniESignature

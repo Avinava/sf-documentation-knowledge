@@ -5,9 +5,9 @@ topic: connectapimultipleasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.008Z
+lastCollected: 2026-03-12T09:33:28.023Z
 estimatedTokens: 303
-keywords: [ConnectApi.MultipleAsyncOutputRepresentation, IDs, asynchronous, background, operations., output, only, includes, operation, regardless, whether, calls, made, external, payment, gateway., doesn’t, include, any, errors]
+keywords: [IDs, asynchronous, background, operations, output, includes, operation, regardless, whether, calls, made, external, payment, gateway, doesn’t]
 ---
 
 # ConnectApi.MultipleAsyncOutputRepresentation

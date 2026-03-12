@@ -5,9 +5,9 @@ topic: flowtest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:40.027Z
+lastCollected: 2026-03-12T09:33:39.575Z
 estimatedTokens: 1696
-keywords: [FlowTest, Represents, metadata, associated, flow, test., Before, activate, record-triggered, test, verify, its, expected, results, identify, run-time, failures., Parent, File, Suffix]
+keywords: [FlowTest, metadata, associated, flow, test, activate, record-triggered, verify, expected, results, identify, run-time, failures, Parent, File]
 ---
 
 # FlowTest

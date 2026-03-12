@@ -5,9 +5,9 @@ topic: connectapiorderitemsummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.237Z
+lastCollected: 2026-03-12T09:33:28.287Z
 estimatedTokens: 123
-keywords: [ConnectApi.OrderItemSummaryOutputRepresentation, Details, OrderItemSummary, failed, FulfillmentOrder, create, multiple, fulfillment, orders, request.]
+keywords: [OrderItemSummary, failed, FulfillmentOrder, multiple, fulfillment, orders]
 ---
 
 # ConnectApi.OrderItemSummaryOutputRepresentation

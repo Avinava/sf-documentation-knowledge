@@ -5,9 +5,9 @@ topic: using-pop-out-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.998Z
+lastCollected: 2026-03-12T09:33:56.083Z
 estimatedTokens: 720
-keywords: [Pop-Out, Utilities, support, pop-out, “popped, out”, utility, bar, their, own, separate, child, windows., Note, Standard, Custom, Disabling]
+keywords: [Pop-Out, Utilities, support, “popped, out”, utility, bar, their, own, separate, child, windows, Standard, Custom, Disabling]
 ---
 
 # Using Pop-Out Utilities

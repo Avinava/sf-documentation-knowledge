@@ -5,9 +5,9 @@ topic: connectapizonepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.331Z
+lastCollected: 2026-03-12T09:33:29.379Z
 estimatedTokens: 98
-keywords: [ConnectApi.ZonePage, Page, zones.]
+keywords: [ConnectApi.ZonePage, zones]
 ---
 
 # ConnectApi.ZonePage

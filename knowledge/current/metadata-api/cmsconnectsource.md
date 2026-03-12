@@ -5,9 +5,9 @@ topic: cmsconnectsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.755Z
+lastCollected: 2026-03-12T09:33:37.506Z
 estimatedTokens: 3139
-keywords: [CMSConnectSource, Represents, connection, information, external, content, management, systems, feed, Experience, Builder, sites., extends, Metadata, metadata, inherits, its, fullName, field., Important]
+keywords: [CMSConnectSource, connection, external, content, management, systems, feed, Experience, Builder, sites, extends, Metadata, inherits, fullName, File]
 ---
 
 # CMSConnectSource

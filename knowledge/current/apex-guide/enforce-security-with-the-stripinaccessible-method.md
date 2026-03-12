@@ -5,9 +5,9 @@ topic: enforce-security-with-the-stripinaccessible-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.752Z
+lastCollected: 2026-03-12T09:33:32.784Z
 estimatedTokens: 1335
-keywords: [Enforce, Security, stripInaccessible, enforce, field-level, object-level, data, protection., used, strip, fields, relationship, query, subquery, results, user, can’t, access., remove, inaccessible]
+keywords: [Enforce, Security, stripInaccessible, field-level, object-level, data, protection, strip, relationship, query, subquery, results, user, can’t, access]
 ---
 
 # Enforce Security with the stripInaccessible Method

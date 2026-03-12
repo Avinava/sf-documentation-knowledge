@@ -5,9 +5,9 @@ topic: preview-approval-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.053Z
+lastCollected: 2026-03-12T09:33:08.822Z
 estimatedTokens: 275
-keywords: [Preview, Approval, POST, approval, levels, record, associated, level, details, chains, approvers, conditions, before, submit, approval.]
+keywords: [Preview, Approval, POST, levels, record, associated, level, chains, approvers, conditions, submit]
 ---
 
 # Preview Approval (POST)

@@ -5,9 +5,9 @@ topic: conditional-request-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.188Z
+lastCollected: 2026-03-12T09:33:35.059Z
 estimatedTokens: 1996
-keywords: [Conditional, Request, Headers, conditional, request, header, validate, resources, before, accessing, them., setting, precondition, ensure, succeeds, only, met., functionality, helps, prevent]
+keywords: [Conditional, validate, resources, accessing, setting, precondition, ensure, succeeds, met, functionality, helps, prevent, mistakes, reject, outdated]
 ---
 
 # Conditional Request Headers

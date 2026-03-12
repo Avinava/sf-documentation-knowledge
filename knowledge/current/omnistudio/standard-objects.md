@@ -5,9 +5,9 @@ topic: standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.960Z
+lastCollected: 2026-03-12T09:33:46.981Z
 estimatedTokens: 443
-keywords: [Standard, Objects, Collections, standard, objects, associated, fields, create, collection, plan, related, records.]
+keywords: [Standard, Objects, Collections, associated, collection, plan, records]
 ---
 
 # Standard Objects

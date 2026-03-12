@@ -5,9 +5,9 @@ topic: delete-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.459Z
+lastCollected: 2026-03-12T09:33:35.307Z
 estimatedTokens: 457
-keywords: [Delete, Records, sObject, Collections, DELETE, request, delete, 200, records, returning, list, DeleteResult, objects., choose, roll, back, entire, error, occurs., Syntax]
+keywords: [Records, sObject, Collections, returning, DeleteResult, objects, choose, roll, back, entire, error, occurs]
 ---
 
 # Delete Records Using sObject Collections

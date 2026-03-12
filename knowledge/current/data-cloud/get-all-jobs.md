@@ -5,9 +5,9 @@ topic: get-all-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.299Z
+lastCollected: 2026-03-12T09:33:13.257Z
 estimatedTokens: 190
-keywords: [Get, Jobs, Retrieves, jobs, Data, Cloud.]
+keywords: [Jobs, Retrieves, Data, Cloud]
 ---
 
 # Get All Jobs

@@ -5,9 +5,9 @@ topic: return-headers-using-sobject-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.114Z
+lastCollected: 2026-03-12T09:33:35.957Z
 estimatedTokens: 321
-keywords: [Headers, sObject, Self-Service, User, Password, only, headers, returned, sending, GET, request, resource., operation, allows, header, values, before, retrieving, content, itself.]
+keywords: [sObject, Self-Service, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, version, 24.0, later]
 ---
 
 # Return Headers Using sObject Self-Service User Password

@@ -5,9 +5,9 @@ topic: cnfgmgmtdiscoveryprobe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.387Z
+lastCollected: 2026-03-12T09:33:16.053Z
 estimatedTokens: 453
-keywords: [CnfgMgmtDiscoveryProbe, Represents, definition, probe, types, determine, which, commands, scripts, executed, during, discovery, scan., example, deep, host, scan, basic, vcenter, API]
+keywords: [CnfgMgmtDiscoveryProbe, definition, probe, determine, commands, scripts, executed, discovery, scan, deep, host, basic, vcenter, API, version]
 ---
 
 # CnfgMgmtDiscoveryProbe

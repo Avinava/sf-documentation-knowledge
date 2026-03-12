@@ -5,9 +5,9 @@ topic: pattern-and-matcher-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.659Z
+lastCollected: 2026-03-12T09:33:32.692Z
 estimatedTokens: 339
-keywords: [Pattern, Matcher, Example, end, position, match, after, last, character, matched., would, parsing, want, additional, work, found, such, find, next, match.]
+keywords: [Pattern, Matcher, end, position, match, character, matched, parsing, want, additional, work, found]
 ---
 
 # Pattern and Matcher Example

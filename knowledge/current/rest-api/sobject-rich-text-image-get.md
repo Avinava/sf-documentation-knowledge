@@ -5,9 +5,9 @@ topic: sobject-rich-text-image-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.103Z
+lastCollected: 2026-03-12T09:33:35.947Z
 estimatedTokens: 497
-keywords: [sObject, Rich, Text, Image, Get, specified, image, data, specific, rich, text, area, field, given, record., get, must, record, uploaded, field.]
+keywords: [sObject, Rich, Text, Image, data, specific, area, record, uploaded]
 ---
 
 # sObject Rich Text Image Get

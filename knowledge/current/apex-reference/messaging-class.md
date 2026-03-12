@@ -5,10 +5,10 @@ topic: messaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.491Z
+lastCollected: 2026-03-12T09:33:23.861Z
 estimatedTokens: 5968
 namespace: System
-keywords: [Messaging, email, service, code, control, how, parse, process, forwarded, attached, emails., instance, Messaging.InboundEmail, stream, data, RFC822, format., attachment, existing, InboundEmail]
+keywords: [Messaging, email, service, code, control, how, parse, process, forwarded, attached, emails, instance, Messaging.InboundEmail, stream, data]
 ---
 
 # Messaging Class

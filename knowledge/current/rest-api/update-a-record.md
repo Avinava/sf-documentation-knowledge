@@ -5,9 +5,9 @@ topic: update-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.091Z
+lastCollected: 2026-03-12T09:33:34.974Z
 estimatedTokens: 565
-keywords: [Update, Record, sObject, Rows, resource, update, records., Provide, updated, record, information, request, data, PATCH, specific, record., Records, single, file, must]
+keywords: [Record, sObject, Rows, resource, records, Provide, updated, data, PATCH, specific, file]
 ---
 
 # Update a Record

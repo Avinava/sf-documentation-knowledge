@@ -5,9 +5,9 @@ topic: recordtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.266Z
+lastCollected: 2026-03-12T09:33:41.705Z
 estimatedTokens: 1409
-keywords: [RecordType, Represents, metadata, associated, record, type., Record, types, let, offer, different, business, processes, picklist, values, page, layouts, users., create, update]
+keywords: [RecordType, metadata, associated, record, let, offer, different, business, processes, picklist, layouts, users, definitions, custom, Version]
 ---
 
 # RecordType

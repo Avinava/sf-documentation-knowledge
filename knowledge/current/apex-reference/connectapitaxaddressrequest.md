@@ -5,9 +5,9 @@ topic: connectapitaxaddressrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.630Z
+lastCollected: 2026-03-12T09:33:25.809Z
 estimatedTokens: 150
-keywords: [ConnectApi.TaxAddressRequest, Address, input, representation, tax, calculation.]
+keywords: [ConnectApi.TaxAddressRequest, Address, input, representation, tax, calculation]
 ---
 
 # ConnectApi.TaxAddressRequest

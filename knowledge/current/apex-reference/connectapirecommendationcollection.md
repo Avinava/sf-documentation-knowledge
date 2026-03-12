@@ -5,9 +5,9 @@ topic: connectapirecommendationcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.793Z
+lastCollected: 2026-03-12T09:33:28.836Z
 estimatedTokens: 78
-keywords: [ConnectApi.RecommendationCollection, list, Chatter, custom, recommendations.]
+keywords: [ConnectApi.RecommendationCollection, Chatter, custom, recommendations]
 ---
 
 # ConnectApi.RecommendationCollection

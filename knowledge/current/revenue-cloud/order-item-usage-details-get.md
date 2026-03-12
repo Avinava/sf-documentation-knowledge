@@ -5,9 +5,9 @@ topic: order-item-usage-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.992Z
+lastCollected: 2026-03-12T09:33:08.769Z
 estimatedTokens: 492
-keywords: [Order, Item, Usage, Details, GET, Get, details, usage-based, product, associated, order, item.]
+keywords: [Order, Item, Usage, usage-based, product, associated]
 ---
 
 # Order Item Usage Details (GET)

@@ -5,9 +5,9 @@ topic: connectapiexternalauthidentityproviderlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.247Z
+lastCollected: 2026-03-12T09:33:27.335Z
 estimatedTokens: 148
-keywords: [ConnectApi.ExternalAuthIdentityProviderList, List, external, auth, identity, providers, org.]
+keywords: [external, auth, identity, providers, org]
 ---
 
 # ConnectApi.ExternalAuthIdentityProviderList

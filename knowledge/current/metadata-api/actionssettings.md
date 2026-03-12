@@ -5,9 +5,9 @@ topic: actionssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.578Z
+lastCollected: 2026-03-12T09:33:36.398Z
 estimatedTokens: 713
-keywords: [ActionsSettings, Represents, org’s, actions, settings, default, quick, multi-dimensional, publisher, third-party, actions., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix]
+keywords: [ActionsSettings, org’s, actions, settings, quick, multi-dimensional, publisher, third-party, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # ActionsSettings

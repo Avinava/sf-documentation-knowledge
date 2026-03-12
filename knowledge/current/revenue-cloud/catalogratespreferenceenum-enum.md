@@ -5,9 +5,9 @@ topic: catalogratespreferenceenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:05.191Z
+lastCollected: 2026-03-12T09:33:07.216Z
 estimatedTokens: 193
-keywords: [CatalogRatesPreferenceEnum, Specifies, rate, card, entries, defined, catalog, must, fetched, quote, line, items, usage-based, selling, during, place, sales, transaction, process., Usage]
+keywords: [CatalogRatesPreferenceEnum, rate, card, entries, defined, catalog, fetched, quote, line, items, usage-based, selling, place, sales, transaction, order, creation, process, Usage]
 ---
 
 # CatalogRatesPreferenceEnum Enum

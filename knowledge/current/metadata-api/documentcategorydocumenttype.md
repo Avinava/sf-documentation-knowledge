@@ -5,9 +5,9 @@ topic: documentcategorydocumenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.018Z
+lastCollected: 2026-03-12T09:33:38.697Z
 estimatedTokens: 514
-keywords: [DocumentCategoryDocumentType, Represents, junction, between, DocumentCategory, DocumentType., Puts, DocumentType, DocumentCategory., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
+keywords: [DocumentCategoryDocumentType, junction, DocumentCategory, DocumentType, Puts, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
 ---
 
 # DocumentCategoryDocumentType

@@ -5,9 +5,9 @@ topic: record-rollup-result-column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.676Z
+lastCollected: 2026-03-12T09:33:49.323Z
 estimatedTokens: 343
-keywords: [Record, Rollup, Result, Column, Output, representation, consolidated, view, table, column, data.]
+keywords: [Record, Rollup, Result, Column, Output, representation, consolidated, view, data]
 ---
 
 # Record Rollup Result Column

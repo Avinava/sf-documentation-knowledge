@@ -5,9 +5,9 @@ topic: eligibility-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.079Z
+lastCollected: 2026-03-12T09:33:48.802Z
 estimatedTokens: 146
-keywords: [Eligibility, Rule, Output, representation, details, eligibility, rule.]
+keywords: [Eligibility, Rule, Output, representation]
 ---
 
 # Eligibility Rule

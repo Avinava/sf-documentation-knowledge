@@ -5,9 +5,9 @@ topic: customobjecttranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.321Z
+lastCollected: 2026-03-12T09:33:38.030Z
 estimatedTokens: 4881
-keywords: [CustomObjectTranslation, metadata, allows, translate, custom, objects, variety, languages., Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Note, CustomFieldTranslation, FieldSetTranslation]
+keywords: [CustomObjectTranslation, metadata, translate, custom, objects, variety, languages, Declarative, File, Suffix, Directory, Location, Version, CustomFieldTranslation, FieldSetTranslation]
 ---
 
 # CustomObjectTranslation

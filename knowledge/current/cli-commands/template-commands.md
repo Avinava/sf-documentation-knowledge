@@ -5,9 +5,9 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.618Z
+lastCollected: 2026-03-12T09:33:05.776Z
 estimatedTokens: 8000
-keywords: [template, Commands, Generate, simple, Analytics, template., generate, analytics, Description, Examples, Flags, Aliases, apex, trigger, digital-experience, site, Developer, Preview, Note, flexipage]
+keywords: [template, Commands, Generate, simple, Analytics, Examples, Flags, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage]
 ---
 
 # template Commands

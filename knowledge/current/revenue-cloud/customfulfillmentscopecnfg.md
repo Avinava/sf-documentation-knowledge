@@ -5,9 +5,9 @@ topic: customfulfillmentscopecnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:11.861Z
+lastCollected: 2026-03-12T09:33:12.793Z
 estimatedTokens: 997
-keywords: [CustomFulfillmentScopeCnfg, Represents, user-defined, scope, define, customize, scope-specific, validation, orchestration, flexible, fulfillment., API, version, 64.0, later., Important, Supported, SOAP, Calls, REST]
+keywords: [CustomFulfillmentScopeCnfg, user-defined, scope, define, customize, scope-specific, validation, orchestration, flexible, fulfillment, API, version, 64.0, later, SOAP]
 ---
 
 # CustomFulfillmentScopeCnfg

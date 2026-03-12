@@ -5,9 +5,9 @@ topic: reject-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.012Z
+lastCollected: 2026-03-12T09:33:34.902Z
 estimatedTokens: 153
-keywords: [Reject, Record, Process, Approvals, resource, reject, record, collection, records., call, takes, array, requests., current, user, must, assigned, approver.]
+keywords: [Reject, Record, Process, Approvals, resource, collection, records, call, array, requests, current, user, assigned, approver]
 ---
 
 # Reject a Record

@@ -5,9 +5,9 @@ topic: get-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.050Z
+lastCollected: 2026-03-12T09:33:35.896Z
 estimatedTokens: 202
-keywords: [Get, sObject, Quick, Actions, specific, object’s, actions, well, actions., resource, REST, API, version, 28.0, later., Syntax, Example]
+keywords: [sObject, Quick, Actions, specific, object’s, well, resource, REST, API, version, 28.0, later]
 ---
 
 # Get sObject Quick Actions

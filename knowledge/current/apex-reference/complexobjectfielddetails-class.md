@@ -5,9 +5,9 @@ topic: complexobjectfielddetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.537Z
+lastCollected: 2026-03-12T09:33:22.950Z
 estimatedTokens: 74
-keywords: [ComplexObjectFieldDetails, internal, only.]
+keywords: [ComplexObjectFieldDetails, internal]
 ---
 
 # ComplexObjectFieldDetails Class

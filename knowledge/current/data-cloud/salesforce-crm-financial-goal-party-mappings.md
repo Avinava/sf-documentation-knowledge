@@ -5,9 +5,9 @@ topic: salesforce-crm-financial-goal-party-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.553Z
+lastCollected: 2026-03-12T09:33:14.382Z
 estimatedTokens: 195
-keywords: [Salesforce, CRM, Financial, Goal, Party, Mappings, data, mappings, FinancialGoalParty, DLO, found, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Financial, Goal, Party, Mappings, data, FinancialGoalParty, DLO, found, Services, Cloud, bundle, Connector, Usage]
 ---
 
 # Salesforce CRM: Financial Goal Party Mappings

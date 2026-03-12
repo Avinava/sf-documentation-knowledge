@@ -5,9 +5,9 @@ topic: usage-resource-grant-and-policy-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.622Z
+lastCollected: 2026-03-12T09:33:10.072Z
 estimatedTokens: 220
-keywords: [Usage, Resource, Grant, Policy, Detail, Output, representation, details, usage, resource, grant, policy.]
+keywords: [Usage, Resource, Grant, Policy, Detail, Output, representation]
 ---
 
 # Usage Resource Grant And Policy Detail

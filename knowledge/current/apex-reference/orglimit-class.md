@@ -5,10 +5,10 @@ topic: orglimit-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.276Z
+lastCollected: 2026-03-12T09:33:21.720Z
 estimatedTokens: 761
 namespace: System
-keywords: [OrgLimit, Contains, provide, name, maximum, current, org, limit., Usage, Note, getLimit, Example, getName, getValue, toString]
+keywords: [OrgLimit, provide, maximum, current, org, limit, Usage, getLimit, getName, getValue, toString]
 ---
 
 # OrgLimit Class

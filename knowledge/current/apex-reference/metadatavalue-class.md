@@ -5,10 +5,10 @@ topic: metadatavalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.460Z
+lastCollected: 2026-03-12T09:33:20.965Z
 estimatedTokens: 309
 namespace: Metadata
-keywords: [MetadataValue, abstract, base, represents, custom, metadata, component, field., Usage, clone]
+keywords: [MetadataValue, abstract, base, custom, metadata, component, Usage, clone]
 ---
 
 # MetadataValue Class

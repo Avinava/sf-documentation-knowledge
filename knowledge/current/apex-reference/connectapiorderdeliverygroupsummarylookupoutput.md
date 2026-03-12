@@ -5,9 +5,9 @@ topic: connectapiorderdeliverygroupsummarylookupoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.208Z
+lastCollected: 2026-03-12T09:33:28.259Z
 estimatedTokens: 195
-keywords: [ConnectApi.OrderDeliveryGroupSummaryLookupOutput, Order, delivery, group, summary, lookup, output.]
+keywords: [Order, delivery, group, summary, lookup, output]
 ---
 
 # ConnectApi.OrderDeliveryGroupSummaryLookupOutput

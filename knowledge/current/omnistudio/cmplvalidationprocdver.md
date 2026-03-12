@@ -5,9 +5,9 @@ topic: cmplvalidationprocdver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.748Z
+lastCollected: 2026-03-12T09:33:52.217Z
 estimatedTokens: 899
-keywords: [CmplValidationProcdVer, Represents, Validation, Procedure, Version, business, process, uses., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [CmplValidationProcdVer, Validation, Procedure, Version, business, process, uses, API, 65.0, later, Calls, Associated, Objects]
 ---
 
 # CmplValidationProcdVer

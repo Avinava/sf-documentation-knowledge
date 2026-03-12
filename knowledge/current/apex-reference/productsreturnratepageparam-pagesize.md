@@ -5,9 +5,9 @@ topic: productsreturnratepageparam-pagesize
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.550Z
+lastCollected: 2026-03-12T09:33:19.226Z
 estimatedTokens: 357
-keywords: [productsReturnRate, pageParam, pageSize, pages, data, showing, rates, products, calculated, Customer, Data, Platform., paginated, descending, order., API, Version, Requires, Chatter, Example]
+keywords: [productsReturnRate, pageParam, pageSize, pages, data, showing, rates, products, calculated, Customer, Platform, paginated, descending, order, API, their, Version, Requires, Chatter]
 ---
 
 # productsReturnRate(pageParam, pageSize)

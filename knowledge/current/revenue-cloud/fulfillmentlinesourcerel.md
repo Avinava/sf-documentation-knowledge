@@ -5,9 +5,9 @@ topic: fulfillmentlinesourcerel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.271Z
+lastCollected: 2026-03-12T09:33:11.422Z
 estimatedTokens: 761
-keywords: [FulfillmentLineSourceRel, Represents, relationship, between, fulfillment, order, line, its, decomposition, source., API, version, 61.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [FulfillmentLineSourceRel, relationship, fulfillment, order, line, decomposition, source, API, version, 61.0, later, Calls, Associated, Objects]
 ---
 
 # FulfillmentLineSourceRel

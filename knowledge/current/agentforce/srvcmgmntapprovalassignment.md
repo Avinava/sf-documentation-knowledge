@@ -5,9 +5,9 @@ topic: srvcmgmntapprovalassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.500Z
+lastCollected: 2026-03-12T09:33:16.156Z
 estimatedTokens: 421
-keywords: [SrvcMgmntApprovalAssignment, Represents, relationship, between, service, operation, group, user, which, assigned, default, approval., API, version, 65.0, later., Supported, Calls, Fields]
+keywords: [SrvcMgmntApprovalAssignment, relationship, service, operation, group, user, assigned, approval, API, version, 65.0, later, Calls]
 ---
 
 # SrvcMgmntApprovalAssignment

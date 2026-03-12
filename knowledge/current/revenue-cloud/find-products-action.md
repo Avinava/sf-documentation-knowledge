@@ -5,9 +5,9 @@ topic: find-products-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.757Z
+lastCollected: 2026-03-12T09:33:05.907Z
 estimatedTokens: 1873
-keywords: [Find, Products, Action, Search, products, catalog, category, subcategory, specified, search, term., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Products, Action, Search, catalog, category, subcategory, term, Special, Access, Rules, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Find Products Action

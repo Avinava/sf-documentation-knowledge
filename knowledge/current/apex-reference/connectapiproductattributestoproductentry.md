@@ -5,9 +5,9 @@ topic: connectapiproductattributestoproductentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.488Z
+lastCollected: 2026-03-12T09:33:28.527Z
 estimatedTokens: 240
-keywords: [ConnectApi.ProductAttributesToProductEntry, Mapping, attribute, combination, variation, product, ID.]
+keywords: [Mapping, attribute, combination, variation, product]
 ---
 
 # ConnectApi.ProductAttributesToProductEntry

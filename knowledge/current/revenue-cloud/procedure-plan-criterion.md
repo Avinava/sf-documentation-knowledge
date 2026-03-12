@@ -5,9 +5,9 @@ topic: procedure-plan-criterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.109Z
+lastCollected: 2026-03-12T09:33:09.638Z
 estimatedTokens: 329
-keywords: [Procedure, Plan, Criterion, Output, representation, details, procedure, plan, criterion.]
+keywords: [Procedure, Plan, Criterion, Output, representation]
 ---
 
 # Procedure Plan Criterion

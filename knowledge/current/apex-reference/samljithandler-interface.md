@@ -5,10 +5,10 @@ topic: samljithandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.861Z
+lastCollected: 2026-03-12T09:33:29.919Z
 estimatedTokens: 2032
 namespace: Auth
-keywords: [SamlJitHandler, control, customize, Just-in-Time, user, provisioning, logic, during, SAML, single, sign-on., Usage, createUser, samlSsoProviderId, communityId, portalId, federationId, attributes, assertion, updateUser]
+keywords: [SamlJitHandler, control, customize, Just-in-Time, user, provisioning, logic, SAML, sign-on, Usage, createUser, samlSsoProviderId, communityId, portalId, federationId]
 ---
 
 # SamlJitHandler Interface

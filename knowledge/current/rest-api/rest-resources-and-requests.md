@@ -5,9 +5,9 @@ topic: rest-resources-and-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.192Z
+lastCollected: 2026-03-12T09:33:35.065Z
 estimatedTokens: 1522
-keywords: [REST, Resources, Requests, API, based, usage, resources—pieces, data, Salesforce, such, records, collections, query, results, metadata, information., resource, exposed, uniform, identifier]
+keywords: [REST, Resources, Requests, API, usage, resources—pieces, data, Salesforce, records, collections, query, results, metadata, resource, exposed]
 ---
 
 # REST Resources and Requests

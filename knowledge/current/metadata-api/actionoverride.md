@@ -5,9 +5,9 @@ topic: actionoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.279Z
+lastCollected: 2026-03-12T09:33:36.104Z
 estimatedTokens: 1776
-keywords: [ActionOverride, Represents, action, override, standard, custom, object., create, update, edit, delete, overrides., access, only, accessing, its, encompassing, CustomObject., Declarative, Metadata]
+keywords: [ActionOverride, action, override, standard, custom, edit, overrides, access, accessing, encompassing, CustomObject, Declarative, Metadata, File, Suffix]
 ---
 
 # ActionOverride

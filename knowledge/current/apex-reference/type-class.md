@@ -5,10 +5,10 @@ topic: type-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.450Z
+lastCollected: 2026-03-12T09:33:31.508Z
 estimatedTokens: 3232
 namespace: MyNamespace.ClassName
-keywords: [Contains, getting, Apex, corresponds, instantiating, new, types., Usage, Note, Example, Instantiating, Based, Its, Name, equals, typeToCompare, forName, fullyQualifiedName, name, Versioned]
+keywords: [getting, Apex, corresponds, instantiating, new, Usage, equals, typeToCompare, forName, fullyQualifiedName, Versioned, Behavior, Changes, getName, hashCode]
 ---
 
 # Type Class

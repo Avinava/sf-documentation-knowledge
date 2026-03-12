@@ -5,9 +5,9 @@ topic: callaction-args
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.817Z
+lastCollected: 2026-03-12T09:33:46.837Z
 estimatedTokens: 700
-keywords: [call, action, args, invokes, DigitalLendingIntakeRecordsWrapper, actions, passes, arguments, action., Usage, calls, DigitalLendingPostIntakeRecordsWrapper, DigitalLendingProductsApi, PricingExecutionWrapper]
+keywords: [call, action, args, invokes, DigitalLendingIntakeRecordsWrapper, actions, passes, arguments, Usage, calls, DigitalLendingPostIntakeRecordsWrapper, DigitalLendingProductsApi, PricingExecutionWrapper]
 ---
 
 # call(action, args)

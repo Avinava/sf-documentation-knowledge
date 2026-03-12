@@ -5,9 +5,9 @@ topic: interest-tag-create-collection-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.340Z
+lastCollected: 2026-03-12T09:33:49.024Z
 estimatedTokens: 84
-keywords: [Interest, Tag, Create, Collection, Output, representation, collection, Tags, created.]
+keywords: [Interest, Tag, Collection, Output, representation, Tags, created]
 ---
 
 # Interest Tag Create Collection Output

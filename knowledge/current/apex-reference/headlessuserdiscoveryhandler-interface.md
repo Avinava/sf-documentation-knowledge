@@ -5,10 +5,10 @@ topic: headlessuserdiscoveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.826Z
+lastCollected: 2026-03-12T09:33:29.852Z
 estimatedTokens: 1974
 namespace: Auth
-keywords: [HeadlessUserDiscoveryHandler, create, headless, user, discovery, handler, implement, during, login, passwordless, forgot, password, flows., Usage, discoverUserFromLoginHint, networkId, loginHint, verificationAction, customDataJson, requestAttributes]
+keywords: [HeadlessUserDiscoveryHandler, headless, user, discovery, handler, implement, login, passwordless, forgot, password, flows, Usage, discoverUserFromLoginHint, networkId, loginHint]
 ---
 
 # HeadlessUserDiscoveryHandler Interface

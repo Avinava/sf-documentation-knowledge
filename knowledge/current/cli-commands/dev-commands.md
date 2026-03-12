@@ -5,9 +5,9 @@ topic: dev-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:03.192Z
+lastCollected: 2026-03-12T09:33:05.385Z
 estimatedTokens: 2319
-keywords: [dev, Commands, Audit, messages, plugin's, directory, locate, unused, missing, references, source, code., audit, Examples, Flags, convert, Description, script, generate, command]
+keywords: [dev, Commands, Audit, messages, plugin's, directory, locate, unused, missing, references, source, code, Examples, Flags, convert]
 ---
 
 # dev Commands

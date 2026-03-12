@@ -5,9 +5,9 @@ topic: connectapicdpmlpredictresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.508Z
+lastCollected: 2026-03-12T09:33:26.658Z
 estimatedTokens: 266
-keywords: [ConnectApi.CdpMlPredictResult, Represents, CDP, machine-learning, prediction, result.]
+keywords: [ConnectApi.CdpMlPredictResult, CDP, machine-learning, prediction, result]
 ---
 
 # ConnectApi.CdpMlPredictResult

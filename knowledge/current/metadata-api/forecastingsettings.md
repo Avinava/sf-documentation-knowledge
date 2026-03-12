@@ -5,9 +5,9 @@ topic: forecastingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.124Z
+lastCollected: 2026-03-12T09:33:39.654Z
 estimatedTokens: 5895
-keywords: [ForecastingSettings, Represents, Forecasts, settings, options., extends, Metadata, metadata, inherits, its, fullName, field., Important, Note, File, Suffix, Directory, Location, Version, Fields]
+keywords: [ForecastingSettings, Forecasts, settings, options, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, ForecastingCategoryMapping, ForecastingDisplayedFamilySettings]
 ---
 
 # ForecastingSettings

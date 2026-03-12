@@ -5,9 +5,9 @@ topic: data-mapper-clear-cache-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.072Z
+lastCollected: 2026-03-12T09:33:47.972Z
 estimatedTokens: 296
-keywords: [Data, Mapper, Clear, Cache, POST, execution, cache, specified, data, mappers.]
+keywords: [Data, Mapper, Clear, Cache, POST, execution, mappers]
 ---
 
 # Data Mapper Clear Cache (POST)

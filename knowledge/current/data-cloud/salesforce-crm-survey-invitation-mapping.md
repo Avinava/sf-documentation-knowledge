@@ -5,9 +5,9 @@ topic: salesforce-crm-survey-invitation-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.070Z
+lastCollected: 2026-03-12T09:33:13.908Z
 estimatedTokens: 448
-keywords: [Salesforce, CRM, Survey, Invitation, Mapping, data, mappings, SurveyInvitation, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Survey, Invitation, Mapping, data, mappings, SurveyInvitation, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---
 
 # Salesforce CRM: Survey Invitation Mapping

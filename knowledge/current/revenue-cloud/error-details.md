@@ -5,9 +5,9 @@ topic: error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.700Z
+lastCollected: 2026-03-12T09:33:09.393Z
 estimatedTokens: 150
-keywords: [Error, Details, Output, representation, top-level, error, detail, validation, fails.]
+keywords: [Error, Output, representation, top-level, detail, validation, fails]
 ---
 
 # Error Details

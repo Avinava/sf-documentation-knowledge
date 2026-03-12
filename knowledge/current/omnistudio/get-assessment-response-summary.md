@@ -5,9 +5,9 @@ topic: get-assessment-response-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.304Z
+lastCollected: 2026-03-12T09:33:46.354Z
 estimatedTokens: 518
-keywords: [Get, Assessment, Response, Summary, makes, easy, flow, trigger, server-side, document, generation, Document, Generation., Supported, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Assessment, Summary, easy, flow, trigger, server-side, document, generation, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Get Assessment Response Summary

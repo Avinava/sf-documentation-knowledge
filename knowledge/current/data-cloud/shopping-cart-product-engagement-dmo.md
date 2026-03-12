@@ -5,9 +5,9 @@ topic: shopping-cart-product-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.925Z
+lastCollected: 2026-03-12T09:33:15.616Z
 estimatedTokens: 969
-keywords: [Shopping, Cart, Product, Engagement, DMO, Data, Cloud, data, model, captured, user, actions, such, adding, removing, items, shopping, cart., API, Name]
+keywords: [Shopping, Cart, Product, Engagement, DMO, Data, Cloud, model, captured, user, actions, adding, removing, items, API]
 ---
 
 # Shopping Cart Product Engagement DMO

@@ -5,9 +5,9 @@ topic: about-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.199Z
+lastCollected: 2026-03-12T09:33:35.070Z
 estimatedTokens: 399
-keywords: [REST, API, several, web, interfaces, access, Salesforce, data, without, user, interface., perform, operations, integrate, applications, like.]
+keywords: [REST, API, several, web, interfaces, access, Salesforce, data, user, perform, operations, integrate, applications]
 ---
 
 # About REST API

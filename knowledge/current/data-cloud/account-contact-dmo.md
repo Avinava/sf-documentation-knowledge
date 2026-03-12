@@ -5,9 +5,9 @@ topic: account-contact-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.754Z
+lastCollected: 2026-03-12T09:33:13.621Z
 estimatedTokens: 1457
-keywords: [Account, Contact, DMO, Data, Cloud, data, model, individual, who, role, specific, account., Provided, both, Sales, Service, Kits., API, Name, Category]
+keywords: [Account, Contact, DMO, Data, Cloud, model, individual, role, specific, Provided, Sales, Service, Kits, API, Category]
 ---
 
 # Account Contact DMO

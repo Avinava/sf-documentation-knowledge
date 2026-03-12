@@ -5,10 +5,10 @@ topic: dmloptionsassignmentruleheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.073Z
+lastCollected: 2026-03-12T09:33:20.602Z
 estimatedTokens: 628
 namespace: Database
-keywords: [DmlOptions.AssignmentRuleHeader, Enables, setting, assignment, rule, options., Example, assignmentRuleID, Usage, useDefaultRule]
+keywords: [DmlOptions.AssignmentRuleHeader, setting, assignment, rule, options, assignmentRuleID, Usage, useDefaultRule]
 ---
 
 # DmlOptions.AssignmentRuleHeader Class

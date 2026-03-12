@@ -5,10 +5,10 @@ topic: remoteobjectcontroller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.332Z
+lastCollected: 2026-03-12T09:33:23.707Z
 estimatedTokens: 1973
 namespace: System
-keywords: [RemoteObjectController, access, standard, Visualforce, Remote, Objects, operations, override, methods., Usage, create, fields, del, recordIds, retrieve, criteria, update]
+keywords: [RemoteObjectController, access, standard, Visualforce, Remote, Objects, operations, override, Usage, del, recordIds, retrieve, criteria]
 ---
 
 # RemoteObjectController

@@ -5,10 +5,10 @@ topic: staticresourcecalloutmock-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.117Z
+lastCollected: 2026-03-12T09:33:31.165Z
 estimatedTokens: 1004
 namespace: System
-keywords: [StaticResourceCalloutMock, Utility, used, specify, fake, response, testing, HTTP, callouts., Usage, setHeader, headerName, headerValue, setStaticResource, resourceName, setStatus, httpStatus, setStatusCode, httpStatusCode]
+keywords: [StaticResourceCalloutMock, Utility, specify, fake, testing, HTTP, callouts, Usage, setHeader, headerName, headerValue, setStaticResource, resourceName, setStatus, httpStatus]
 ---
 
 # StaticResourceCalloutMock Class

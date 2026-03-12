@@ -5,9 +5,9 @@ topic: connectapiensurerefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.834Z
+lastCollected: 2026-03-12T09:33:25.087Z
 estimatedTokens: 675
-keywords: [ConnectApi.EnsureRefundsAsyncInputRepresentation, credit, memo, ensure, refunds, amount, excess, funds, refund, both., least, required., includes, any, invoices, fees, reduce, such, fees., multiple]
+keywords: [credit, memo, ensure, refunds, amount, excess, funds, refund, least, includes, any, invoices, fees, reduce, multiple]
 ---
 
 # ConnectApi.EnsureRefundsAsyncInputRepresentation

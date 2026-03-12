@@ -5,9 +5,9 @@ topic: expression-set-aggregation-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.364Z
+lastCollected: 2026-03-12T09:33:47.371Z
 estimatedTokens: 170
-keywords: [Expression, Set, Aggregation, Step, Input, representation, aggregation, step, expression, set.]
+keywords: [Expression, Aggregation, Step, Input, representation]
 ---
 
 # Expression Set Aggregation Step Input

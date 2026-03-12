@@ -5,9 +5,9 @@ topic: getdetailsbyprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.417Z
+lastCollected: 2026-03-12T09:33:55.533Z
 estimatedTokens: 1621
-keywords: [getDetailsByPrimaryTabId, details, chat, associated, specific, primary, tab, ID., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response, breadcrumb, customDetail, entityMap]
+keywords: [getDetailsByPrimaryTabId, chat, associated, specific, primary, tab, API, version, 29.0, later, Arguments, Sample, Code–Visualforce, breadcrumb, customDetail]
 ---
 
 # getDetailsByPrimaryTabId()

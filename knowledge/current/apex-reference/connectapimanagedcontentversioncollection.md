@@ -5,9 +5,9 @@ topic: connectapimanagedcontentversioncollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.913Z
+lastCollected: 2026-03-12T09:33:27.942Z
 estimatedTokens: 182
-keywords: [ConnectApi.ManagedContentVersionCollection, Collection, managed, content, versions.]
+keywords: [Collection, managed, content, versions]
 ---
 
 # ConnectApi.ManagedContentVersionCollection

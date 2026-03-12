@@ -5,9 +5,9 @@ topic: explainabilityactiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.194Z
+lastCollected: 2026-03-12T09:33:50.806Z
 estimatedTokens: 756
-keywords: [ExplainabilityActionDefinition, Represents, definition, explainability, action, log, generated, associated, application's, action., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata]
+keywords: [ExplainabilityActionDefinition, definition, explainability, action, log, generated, associated, application's, Parent, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
 # ExplainabilityActionDefinition

@@ -5,9 +5,9 @@ topic: connectapiuserprofiletab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.257Z
+lastCollected: 2026-03-12T09:33:29.305Z
 estimatedTokens: 240
-keywords: [ConnectApi.UserProfileTab, Information, profile, tab.]
+keywords: [ConnectApi.UserProfileTab, profile, tab]
 ---
 
 # ConnectApi.UserProfileTab

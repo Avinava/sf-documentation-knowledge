@@ -5,9 +5,9 @@ topic: commerce-account-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.129Z
+lastCollected: 2026-03-12T09:33:13.961Z
 estimatedTokens: 241
-keywords: [Commerce, Account, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., indicates, how, shopper]
+keywords: [Commerce, Account, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, how]
 ---
 
 # Commerce: Account Mapping

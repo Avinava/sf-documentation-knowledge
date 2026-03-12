@@ -5,9 +5,9 @@ topic: virtualvisitconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.076Z
+lastCollected: 2026-03-12T09:33:46.150Z
 estimatedTokens: 1702
-keywords: [VirtualVisitConfig, Represents, configuration, external, video, provider, which, relays, events, Salesforce, provider., API, version, 56.0, later., Important, Supported, SOAP, Calls, REST]
+keywords: [VirtualVisitConfig, configuration, external, video, provider, relays, events, Salesforce, API, version, 56.0, later, SOAP, Calls, REST]
 ---
 
 # VirtualVisitConfig

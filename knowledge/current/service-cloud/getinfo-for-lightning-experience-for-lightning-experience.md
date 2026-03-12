@@ -6,9 +6,9 @@ topic: getinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.049Z
+lastCollected: 2026-03-12T09:33:56.132Z
 estimatedTokens: 489
-keywords: [getInfo, Lightning, Experience, state, current, utility, utilityInfo, object., Web, Components, LWC, only., Arguments, Sample, Code, Response]
+keywords: [getInfo, Lightning, Experience, state, current, utility, utilityInfo, Web, Components, LWC, Arguments, Sample, Code]
 ---
 
 # getInfo() for Lightning Experience for Lightning

@@ -5,9 +5,9 @@ topic: saved-configuration-delete-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.192Z
+lastCollected: 2026-03-12T09:33:08.950Z
 estimatedTokens: 326
-keywords: [Saved, Configuration, DELETE, PUT, Update, delete, record's, saved, configuration, ID.]
+keywords: [Saved, Configuration, PUT, record's]
 ---
 
 # Saved Configuration (DELETE, PUT)

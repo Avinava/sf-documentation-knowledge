@@ -5,9 +5,9 @@ topic: fieldservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.749Z
+lastCollected: 2026-03-12T09:33:54.011Z
 estimatedTokens: 2743
-keywords: [FieldServiceSettings, Represents, organization’s, Field, Service, settings., Version, Fields, ObjectMappingItem, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+keywords: [FieldServiceSettings, organization’s, Service, settings, Version, ObjectMappingItem, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # FieldServiceSettings

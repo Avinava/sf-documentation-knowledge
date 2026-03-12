@@ -9,7 +9,8 @@
 import { Command } from "commander";
 import fs from "fs-extra";
 import path from "node:path";
-import { getDomainById, getCollectableDomains } from "../config/domains.js";
+import { getDomainById, getCollectableDomains, type DomainConfig } from "../config/domains.js";
+import { fetchDocIndex, deliverableToId } from "../collectors/index-fetcher.js";
 import { processAtlasContent } from "../processors/html-to-markdown.js";
 import { tagDocument } from "../processors/tagger.js";
 import type { TaggedDocument } from "../processors/tagger.js";
@@ -28,10 +29,46 @@ program
     "Output directory for processed data",
     "data/processed",
   )
+  .option(
+    "--discover",
+    "Auto-discover and process ALL deliverables from the SF index API",
+  )
   .action(async (options) => {
-    const domains = options.domain
-      ? [getDomainById(options.domain)].filter(Boolean)
-      : getCollectableDomains();
+    let domains: DomainConfig[] = [];
+
+    if (options.domain) {
+      const domain = getDomainById(options.domain);
+      if (domain) domains.push(domain);
+    } else if (options.discover) {
+      log.info("Discovering deliverables from index API for processing...");
+      const entries = await fetchDocIndex();
+      
+      const configuredDomains = getCollectableDomains();
+      const configuredAtlas = new Set(configuredDomains.map(d => d.atlas));
+      
+      domains = [...configuredDomains];
+      
+      for (const entry of entries) {
+        const atlasKey = `atlas.en-us.${entry.deliverable}`;
+        if (configuredAtlas.has(atlasKey)) continue;
+        
+        const serviceName = typeof entry.service === "string" 
+          ? entry.service 
+          : String(entry.service || "");
+          
+        domains.push({
+          id: deliverableToId(entry.deliverable),
+          name: entry.title,
+          priority: "P2",
+          atlas: atlasKey,
+          description: entry.shortdesc?.slice(0, 100) || "",
+          tags: [serviceName.toLowerCase().replace(/\s+/g, "-")].filter(Boolean),
+        });
+      }
+      log.info({ count: domains.length }, "Total domains to process");
+    } else {
+      domains = getCollectableDomains();
+    }
 
     if (domains.length === 0) {
       console.error("No domains found to process");

@@ -5,9 +5,9 @@ topic: paymentterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.829Z
+lastCollected: 2026-03-12T09:33:11.870Z
 estimatedTokens: 440
-keywords: [PaymentTerm, Represents, agreement, between, buyer, seller, payment, due, invoice., API, version, 62.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [PaymentTerm, agreement, buyer, seller, payment, due, invoice, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---
 
 # PaymentTerm

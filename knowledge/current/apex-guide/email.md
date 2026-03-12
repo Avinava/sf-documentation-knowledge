@@ -5,9 +5,9 @@ topic: email
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.385Z
+lastCollected: 2026-03-12T09:33:33.435Z
 estimatedTokens: 99
-keywords: [Email, Apex, work, inbound, outbound, email.]
+keywords: [Email, Apex, work, inbound, outbound]
 ---
 
 # Email

@@ -5,9 +5,9 @@ topic: submit-approve-or-reject-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.789Z
+lastCollected: 2026-03-12T09:33:35.636Z
 estimatedTokens: 925
-keywords: [Submit, Approve, Reject, Process, Approvals, Submits, particular, record, both, its, entity, supports, approval, process, defined, process., Records, approved, rejected, current]
+keywords: [Submit, Approve, Reject, Process, Approvals, Submits, particular, record, entity, supports, approval, defined, Records, approved, rejected]
 ---
 
 # Submit, Approve, or Reject Process Approvals

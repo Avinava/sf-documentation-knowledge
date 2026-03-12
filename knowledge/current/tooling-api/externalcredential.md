@@ -5,10 +5,10 @@ topic: externalcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.504Z
+lastCollected: 2026-03-12T09:33:44.626Z
 estimatedTokens: 3183
 namespace: CreatedByNamespace
-keywords: [ExternalCredential, Represents, details, how, Salesforce, authenticates, external, system., API, version, 56.0, later., Important, Note, Supported, SOAP, Calls, REST, Fields, ExternalCredentialParameter]
+keywords: [ExternalCredential, how, Salesforce, authenticates, external, system, API, version, 56.0, later, SOAP, Calls, REST, ExternalCredentialParameter]
 ---
 
 # ExternalCredential

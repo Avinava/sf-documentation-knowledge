@@ -5,9 +5,9 @@ topic: fulfillmentstepjeopardyrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.362Z
+lastCollected: 2026-03-12T09:33:11.498Z
 estimatedTokens: 654
-keywords: [FulfillmentStepJeopardyRule, Represents, duration, tolerance, step, fulfillment, process, allow, overall, tracking, rules, risks., API, version, 61.0, later., Supported, Calls, Fields]
+keywords: [FulfillmentStepJeopardyRule, duration, tolerance, step, fulfillment, process, allow, overall, tracking, rules, risks, API, version, 61.0, later]
 ---
 
 # FulfillmentStepJeopardyRule

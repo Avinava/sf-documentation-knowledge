@@ -5,9 +5,9 @@ topic: lookup-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.911Z
+lastCollected: 2026-03-12T09:33:09.505Z
 estimatedTokens: 88
-keywords: [Lookup, Detail, Output, representation, details, usage, resource, record.]
+keywords: [Lookup, Detail, Output, representation, usage, resource, record]
 ---
 
 # Lookup Detail

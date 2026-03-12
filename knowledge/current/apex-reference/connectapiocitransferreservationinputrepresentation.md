@@ -5,9 +5,9 @@ topic: connectapiocitransferreservationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.248Z
+lastCollected: 2026-03-12T09:33:25.470Z
 estimatedTokens: 253
-keywords: [ConnectApi.OCITransferReservationInputRepresentation, list, inventory, reservation, transfers, specifies, whether, single, failure, cancels, entire, list.]
+keywords: [inventory, reservation, transfers, whether, failure, cancels, entire]
 ---
 
 # ConnectApi.OCITransferReservationInputRepresentation

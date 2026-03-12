@@ -5,9 +5,9 @@ topic: allornoneheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.777Z
+lastCollected: 2026-03-12T09:33:36.582Z
 estimatedTokens: 496
-keywords: [AllOrNoneHeader, Indicates, whether, roll, back, metadata, changes, records, call, result, failures., Version, Supported, Calls, Usage, Fields, Sample, Code—Java]
+keywords: [AllOrNoneHeader, whether, roll, back, metadata, changes, records, call, result, failures, Version, Calls, Usage, Sample, Code—Java]
 ---
 
 # AllOrNoneHeader

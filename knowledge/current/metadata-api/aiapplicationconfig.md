@@ -5,9 +5,9 @@ topic: aiapplicationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.697Z
+lastCollected: 2026-03-12T09:33:36.503Z
 estimatedTokens: 609
-keywords: [AIApplicationConfig, Additional, prediction, information, related, application., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Wildcard]
+keywords: [AIApplicationConfig, Additional, prediction, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Wildcard, Support]
 ---
 
 # AIApplicationConfig

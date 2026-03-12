@@ -5,9 +5,9 @@ topic: customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.360Z
+lastCollected: 2026-03-12T09:33:36.182Z
 estimatedTokens: 8068
-keywords: [CustomObject, Represents, custom, stores, data, unique, org, external, maps, stored, outside, org., Declarative, Metadata, File, Suffix, Directory, Location, Note, Version]
+keywords: [CustomObject, custom, stores, data, unique, org, external, maps, stored, outside, Declarative, Metadata, File, Suffix, Directory]
 ---
 
 # CustomObject

@@ -5,9 +5,9 @@ topic: filtercriteriainputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.746Z
+lastCollected: 2026-03-12T09:33:06.798Z
 estimatedTokens: 969
-keywords: [FilterCriteriaInputRepresentation, Contains, store, criteria, details, filter, records, based, supported, properties., attributeType, Usage, operator]
+keywords: [FilterCriteriaInputRepresentation, store, criteria, filter, records, attributeType, Usage, operator]
 ---
 
 # FilterCriteriaInputRepresentation Class

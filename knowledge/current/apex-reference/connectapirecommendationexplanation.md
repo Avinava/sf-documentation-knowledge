@@ -5,9 +5,9 @@ topic: connectapirecommendationexplanation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.770Z
+lastCollected: 2026-03-12T09:33:28.812Z
 estimatedTokens: 171
-keywords: [ConnectApi.RecommendationExplanation, Explanation, Chatter, recommendation.]
+keywords: [ConnectApi.RecommendationExplanation, Explanation, Chatter, recommendation]
 ---
 
 # ConnectApi.RecommendationExplanation

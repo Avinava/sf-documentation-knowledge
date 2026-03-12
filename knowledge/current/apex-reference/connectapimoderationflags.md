@@ -5,9 +5,9 @@ topic: connectapimoderationflags
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.977Z
+lastCollected: 2026-03-12T09:33:27.995Z
 estimatedTokens: 347
-keywords: [ConnectApi.ModerationFlags, Information, moderation, flags, feed, item, comment, file.]
+keywords: [ConnectApi.ModerationFlags, moderation, flags, feed, item, comment, file]
 ---
 
 # ConnectApi.ModerationFlags

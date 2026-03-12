@@ -5,9 +5,9 @@ topic: persist-context-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.329Z
+lastCollected: 2026-03-12T09:33:46.378Z
 estimatedTokens: 423
-keywords: [Persist, Context, Data, Action, Store, cached, context, data, associated, mapping, Salesforce, record., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs]
+keywords: [Persist, Context, Data, Action, Store, cached, associated, mapping, Salesforce, record, Special, Access, Rules, REST, HTTP]
 ---
 
 # Persist Context Data Action

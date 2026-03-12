@@ -5,9 +5,9 @@ topic: recommendation-strategy-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.624Z
+lastCollected: 2026-03-12T09:33:49.281Z
 estimatedTokens: 251
-keywords: [Recommendation, Strategy, Result, Specifies, strategy, result, containing, fetched, recommendation, details, record.]
+keywords: [Recommendation, Strategy, Result, containing, fetched, record]
 ---
 
 # Recommendation Strategy Result

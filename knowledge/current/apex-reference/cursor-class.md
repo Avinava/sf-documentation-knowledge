@@ -5,10 +5,10 @@ topic: cursor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.079Z
+lastCollected: 2026-03-12T09:33:20.607Z
 estimatedTokens: 803
 namespace: Database
-keywords: [Cursor, Contains, fetch, records, get, number, cursor, rows, returned, SOQL, query., Usage, Example, position, count, getNumRecords]
+keywords: [Cursor, fetch, records, number, rows, SOQL, query, Usage, position, count, getNumRecords]
 ---
 
 # Cursor Class

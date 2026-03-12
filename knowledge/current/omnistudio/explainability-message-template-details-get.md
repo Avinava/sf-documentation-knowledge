@@ -5,9 +5,9 @@ topic: explainability-message-template-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.450Z
+lastCollected: 2026-03-12T09:33:48.289Z
 estimatedTokens: 121
-keywords: [Explainability, Message, Template, Details, GET, Retrieves, details, explainability, message, template, specified, ID.]
+keywords: [Explainability, Message, Template, Retrieves]
 ---
 
 # Explainability Message Template Details (GET)

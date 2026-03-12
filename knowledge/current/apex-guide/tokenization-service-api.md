@@ -5,9 +5,9 @@ topic: tokenization-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.836Z
+lastCollected: 2026-03-12T09:33:32.874Z
 estimatedTokens: 766
-keywords: [Tokenization, Service, API, credit, card, tokenization, process, replaces, sensitive, customer, information, one-time, algorithmically, generated, number, called, token, during, payment, transaction.]
+keywords: [Tokenization, Service, API, credit, card, process, replaces, sensitive, customer, one-time, algorithmically, generated, number, token, payment]
 ---
 
 # Tokenization Service API

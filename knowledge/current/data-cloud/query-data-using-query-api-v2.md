@@ -5,9 +5,9 @@ topic: query-data-using-query-api-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:12.481Z
+lastCollected: 2026-03-12T09:33:13.422Z
 estimatedTokens: 1282
-keywords: [Query, Data, API, supports, SQL, query, ANSI, standard., results, array, records., expected, input, calling, free, form, SQL., objects, include, data]
+keywords: [Query, Data, API, supports, SQL, ANSI, standard, results, array, records, expected, input, calling, free, form]
 ---
 
 # Query Data using Query API V2

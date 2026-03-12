@@ -5,9 +5,9 @@ topic: criteriabasedsharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.634Z
+lastCollected: 2026-03-12T09:33:37.395Z
 estimatedTokens: 2852
-keywords: [CriteriaBasedSharingRule, component, removed, API, version, 33.0, earlier, versions, only., SharingRules, instead., Represents, criteria-based, sharing, rule., enables, share, records, based, specific]
+keywords: [CriteriaBasedSharingRule, component, removed, API, version, 33.0, earlier, versions, SharingRules, instead, criteria-based, sharing, rule, share, records]
 ---
 
 # CriteriaBasedSharingRule

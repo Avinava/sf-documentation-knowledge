@@ -5,9 +5,9 @@ topic: ocrtemplateslist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.613Z
+lastCollected: 2026-03-12T09:33:46.652Z
 estimatedTokens: 352
-keywords: [OcrTemplatesList, contain, active, OCR, templates, returned, Fetch, Active, Templates, invocable, action., ocrTemplates]
+keywords: [OcrTemplatesList, contain, active, OCR, templates, Fetch, invocable, action, ocrTemplates]
 ---
 
 # OcrTemplatesList Class

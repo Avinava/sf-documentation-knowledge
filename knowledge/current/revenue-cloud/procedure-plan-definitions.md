@@ -5,9 +5,9 @@ topic: procedure-plan-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.127Z
+lastCollected: 2026-03-12T09:33:09.652Z
 estimatedTokens: 158
-keywords: [Procedure, Plan, Definitions, Output, representation, details, procedure, plan, definitions.]
+keywords: [Procedure, Plan, Definitions, Output, representation]
 ---
 
 # Procedure Plan Definitions

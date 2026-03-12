@@ -5,9 +5,9 @@ topic: connectapireferencewithdaterecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.845Z
+lastCollected: 2026-03-12T09:33:28.888Z
 estimatedTokens: 143
-keywords: [ConnectApi.ReferenceWithDateRecordField, Record, field, containing, referenced, acted, specific, time, example, “Created, By...”.]
+keywords: [ConnectApi.ReferenceWithDateRecordField, Record, containing, referenced, acted, specific, time, “Created, By...”]
 ---
 
 # ConnectApi.ReferenceWithDateRecordField

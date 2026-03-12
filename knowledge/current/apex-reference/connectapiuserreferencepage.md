@@ -5,9 +5,9 @@ topic: connectapiuserreferencepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.260Z
+lastCollected: 2026-03-12T09:33:29.308Z
 estimatedTokens: 175
-keywords: [ConnectApi.UserReferencePage, list, user, references.]
+keywords: [ConnectApi.UserReferencePage, user, references]
 ---
 
 # ConnectApi.UserReferencePage

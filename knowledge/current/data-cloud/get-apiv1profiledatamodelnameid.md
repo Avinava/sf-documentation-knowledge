@@ -5,9 +5,9 @@ topic: get-apiv1profiledatamodelnameid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.425Z
+lastCollected: 2026-03-12T09:33:13.371Z
 estimatedTokens: 547
-keywords: [GET, api, profile, dataModelName, data, model, objects, based, search, indexes, filters., API, call, retrieve, record, primary, key, secondary, keys., empty]
+keywords: [api, profile, dataModelName, data, model, objects, search, indexes, filters, call, retrieve, record, primary, key, secondary]
 ---
 
 # GET /api/v1/profile/{dataModelName}/{Id}

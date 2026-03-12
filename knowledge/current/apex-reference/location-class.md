@@ -5,9 +5,9 @@ topic: location-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.299Z
+lastCollected: 2026-03-12T09:33:23.677Z
 estimatedTokens: 1492
-keywords: [Location, Contains, accessing, component, fields, geolocation, compound, fields., Usage, Important, Example, getDistance, toLocation, unit, firstLocation, secondLocation, getLatitude, getLongitude, newInstance, latitude]
+keywords: [Location, accessing, component, geolocation, compound, Usage, getDistance, toLocation, unit, firstLocation, secondLocation, getLatitude, getLongitude, newInstance, latitude]
 ---
 
 # Location Class

@@ -5,9 +5,9 @@ topic: catalog-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:05.863Z
+lastCollected: 2026-03-12T09:33:07.787Z
 estimatedTokens: 355
-keywords: [Catalog, Input, representation, request, retrieve, catalog, records.]
+keywords: [Catalog, Input, representation, retrieve, records]
 ---
 
 # Catalog Input

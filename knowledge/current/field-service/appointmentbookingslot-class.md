@@ -5,10 +5,10 @@ topic: appointmentbookingslot-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.195Z
+lastCollected: 2026-03-12T09:33:53.531Z
 estimatedTokens: 615
 namespace: FSL
-keywords: [AppointmentBookingSlot, Represents, booking, slot, given, service, appointment., instance, part, results, returned, AppointmentBookingService, GradeSlotsService, classes., Example, grade, interval]
+keywords: [AppointmentBookingSlot, booking, slot, service, appointment, instance, part, results, AppointmentBookingService, GradeSlotsService, classes, grade, interval]
 ---
 
 # AppointmentBookingSlot Class

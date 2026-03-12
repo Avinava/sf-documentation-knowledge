@@ -5,9 +5,9 @@ topic: record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.083Z
+lastCollected: 2026-03-12T09:33:53.428Z
 estimatedTokens: 353
-keywords: [Record, field, data, API, name, child, relationship, record, information, record.]
+keywords: [Record, data, API, child, relationship]
 ---
 
 # Record

@@ -5,9 +5,9 @@ topic: connectapiproductsearchoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.612Z
+lastCollected: 2026-03-12T09:33:28.644Z
 estimatedTokens: 246
-keywords: [ConnectApi.ProductSearchOutputRepresentation, Output, representation, product, search, response]
+keywords: [Output, representation, product, search]
 ---
 
 # ConnectApi.ProductSearchOutputRepresentation

@@ -5,9 +5,9 @@ topic: key-value-pair
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.353Z
+lastCollected: 2026-03-12T09:33:49.036Z
 estimatedTokens: 102
-keywords: [Key, Pair, Output, representation, key, pair, document, textract., extract.]
+keywords: [Key, Pair, Output, representation, document, textract, extract]
 ---
 
 # Key Value Pair

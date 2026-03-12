@@ -5,9 +5,9 @@ topic: connectapireturnorderitemdeliverychargeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.509Z
+lastCollected: 2026-03-12T09:33:25.695Z
 estimatedTokens: 316
-keywords: [ConnectApi.ReturnOrderItemDeliveryChargeInputRepresentation, ReturnOrderLineItem, representing, delivery, charge.]
+keywords: [ReturnOrderLineItem, representing, delivery, charge]
 ---
 
 # ConnectApi.ReturnOrderItemDeliveryChargeInputRepresentation

@@ -5,9 +5,9 @@ topic: get-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.174Z
+lastCollected: 2026-03-12T09:33:36.013Z
 estimatedTokens: 144
-keywords: [Get, Tabs, list, tabs—including, Lightning, page, tabs—available, current, user, regardless, whether, chosen, hide, tabs, via, tab, customization, feature., resource, REST]
+keywords: [Tabs, tabs—including, Lightning, tabs—available, current, user, regardless, whether, chosen, hide, via, tab, customization, feature, resource]
 ---
 
 # Get Tabs

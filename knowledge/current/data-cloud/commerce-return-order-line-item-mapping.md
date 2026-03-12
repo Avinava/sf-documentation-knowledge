@@ -5,9 +5,9 @@ topic: commerce-return-order-line-item-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:13.299Z
+lastCollected: 2026-03-12T09:33:14.142Z
 estimatedTokens: 476
-keywords: [Commerce, Order, Line, Item, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., information]
+keywords: [Commerce, Order, Line, Item, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
 ---
 
 # Commerce: Return Order Line Item Mapping

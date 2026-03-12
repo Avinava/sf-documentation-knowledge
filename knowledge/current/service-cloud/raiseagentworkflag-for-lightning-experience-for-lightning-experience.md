@@ -6,9 +6,9 @@ topic: raiseagentworkflag-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.890Z
+lastCollected: 2026-03-12T09:33:55.978Z
 estimatedTokens: 257
-keywords: [raiseAgentWorkFlag, Lightning, Experience, Raises, flag, agent, work, item., Arguments, Sample, Code, Response, Note]
+keywords: [raiseAgentWorkFlag, Lightning, Experience, Raises, flag, agent, work, item, Arguments, Sample, Code]
 ---
 
 # raiseAgentWorkFlag for Lightning Experience for

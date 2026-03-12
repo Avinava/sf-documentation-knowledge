@@ -5,9 +5,9 @@ topic: logindiscoverymethod-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.404Z
+lastCollected: 2026-03-12T09:33:29.451Z
 estimatedTokens: 140
-keywords: [LoginDiscoveryMethod, Contains, used, verify, user’s, identity, Domain, login, process, uses, Login, Discovery., Usage, Values]
+keywords: [LoginDiscoveryMethod, verify, user’s, identity, Domain, login, process, uses, Discovery, Usage]
 ---
 
 # LoginDiscoveryMethod Enum

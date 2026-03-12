@@ -5,10 +5,10 @@ topic: employeeprofiles-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.165Z
+lastCollected: 2026-03-12T09:33:18.820Z
 estimatedTokens: 3718
 namespace: ConnectApi
-keywords: [EmployeeProfiles, Get, set, crop, delete, employee, banner, photos, photos., deleteBannerPhoto, employeeId, API, Version, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest, Users]
+keywords: [EmployeeProfiles, crop, employee, banner, photos, deleteBannerPhoto, employeeId, API, Version, Requires, Chatter, deletePhoto, getBannerPhoto, getPhoto, Guest]
 ---
 
 # EmployeeProfiles Class

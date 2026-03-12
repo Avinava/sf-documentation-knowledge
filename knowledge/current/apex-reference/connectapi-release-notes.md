@@ -5,9 +5,9 @@ topic: connectapi-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:29.342Z
+lastCollected: 2026-03-12T09:33:29.388Z
 estimatedTokens: 146
-keywords: [ConnectApi, Release, Notes, Salesforce, most, recent, updates, changes, Apex.]
+keywords: [ConnectApi, Release, Notes, Salesforce, recent, updates, changes, Apex]
 ---
 
 # ConnectApi Release Notes

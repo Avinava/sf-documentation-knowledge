@@ -5,9 +5,9 @@ topic: surveyinvitationlinkshortener-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.145Z
+lastCollected: 2026-03-12T09:33:30.190Z
 estimatedTokens: 623
-keywords: [SurveyInvitationLinkShortener, provide, factory, Salesforce, call, create, instances, custom, SurveyInvitationLinkShortener., Usage, Special, access, rules, getShortenedURL, var1, Example, Implementation]
+keywords: [SurveyInvitationLinkShortener, provide, factory, Salesforce, call, instances, custom, Usage, Special, access, rules, getShortenedURL, var1, Implementation]
 ---
 
 # SurveyInvitationLinkShortener Interface

@@ -5,9 +5,9 @@ topic: soqlresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:46.836Z
+lastCollected: 2026-03-12T09:33:45.919Z
 estimatedTokens: 253
-keywords: [SOQLResult, complex, represents, result, SOQL, query, ApexExecutionOverlayResult, object., API, version, 28.0, later., Fields, Usage]
+keywords: [SOQLResult, complex, result, SOQL, query, ApexExecutionOverlayResult, API, version, 28.0, later, Usage]
 ---
 
 # SOQLResult

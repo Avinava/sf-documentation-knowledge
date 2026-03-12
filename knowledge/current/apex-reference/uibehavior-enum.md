@@ -5,9 +5,9 @@ topic: uibehavior-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.516Z
+lastCollected: 2026-03-12T09:33:29.562Z
 estimatedTokens: 92
-keywords: [UiBehavior, Describes, behavior, layout, item, page., Values]
+keywords: [UiBehavior, behavior, layout, item]
 ---
 
 # UiBehavior Enum

@@ -5,9 +5,9 @@ topic: catalog-interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.054Z
+lastCollected: 2026-03-12T09:33:12.970Z
 estimatedTokens: 637
-keywords: [Catalog, Interaction, catalog, interaction, capture, customer, interacts, various, tracking, items., example, product, blog, post., Example]
+keywords: [Catalog, Interaction, capture, customer, interacts, various, tracking, items, product, blog, post]
 ---
 
 # Catalog Interaction

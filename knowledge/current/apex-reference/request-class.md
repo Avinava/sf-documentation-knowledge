@@ -5,10 +5,10 @@ topic: request-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.309Z
+lastCollected: 2026-03-12T09:33:21.752Z
 estimatedTokens: 714
 namespace: System
-keywords: [Request, Contains, obtain, request, Quiddity, current, Salesforce, request., Usage, Example, getCurrent, getQuiddity, getRequestId]
+keywords: [obtain, Quiddity, current, Salesforce, Usage, getCurrent, getQuiddity, getRequestId]
 ---
 
 # Request Class

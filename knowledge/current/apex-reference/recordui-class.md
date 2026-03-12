@@ -5,10 +5,10 @@ topic: recordui-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.848Z
+lastCollected: 2026-03-12T09:33:19.534Z
 estimatedTokens: 538
 namespace: ConnectApi
-keywords: [RecordUi, Get, picklist, values, record, type., getPicklistValuesByRecordType, objectApiName, recordTypeId, API, Version, Guest, Users, Requires, Chatter, Usage]
+keywords: [RecordUi, picklist, record, getPicklistValuesByRecordType, objectApiName, recordTypeId, API, Version, Guest, Users, Requires, Chatter, Usage]
 ---
 
 # RecordUi Class

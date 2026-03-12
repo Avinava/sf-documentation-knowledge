@@ -5,9 +5,9 @@ topic: connectapiocireleasereservationsingleoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.150Z
+lastCollected: 2026-03-12T09:33:28.194Z
 estimatedTokens: 187
-keywords: [ConnectApi.OCIReleaseReservationSingleOutputRepresentation, Details, single, released, reservation.]
+keywords: [released, reservation]
 ---
 
 # ConnectApi.OCIReleaseReservationSingleOutputRepresentation

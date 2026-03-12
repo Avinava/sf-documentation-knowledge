@@ -5,9 +5,9 @@ topic: connectapipaymentlineapplyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.147Z
+lastCollected: 2026-03-12T09:33:07.175Z
 estimatedTokens: 104
-keywords: [ConnectApi.PaymentLineApplyResponse, Output, representation, details, applied, payment, line., include, record, date, line, applied.]
+keywords: [ConnectApi.PaymentLineApplyResponse, Output, representation, applied, payment, line, include, record, date]
 ---
 
 # ConnectApi.PaymentLineApplyResponse

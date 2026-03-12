@@ -5,9 +5,9 @@ topic: sobjects-suggested-articles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.128Z
+lastCollected: 2026-03-12T09:33:35.971Z
 estimatedTokens: 742
-keywords: [sObjects, Suggested, Articles, results, suggested, articles, Case, Work, Order, Line., suggestions, based, common, keywords, title, description, information, that’s, entered, before]
+keywords: [sObjects, Suggested, Articles, results, Case, Work, Order, Line, suggestions, common, keywords, title, that’s, entered, record]
 ---
 
 # sObjects Suggested Articles

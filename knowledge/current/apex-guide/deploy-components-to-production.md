@@ -5,9 +5,9 @@ topic: deploy-components-to-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.855Z
+lastCollected: 2026-03-12T09:33:33.869Z
 estimatedTokens: 758
-keywords: [Deploy, Components, Production, step, deploy, Apex, code, custom, created, previously, production, organization, change, sets.]
+keywords: [Deploy, Components, Production, step, Apex, code, custom, created, previously, organization, change]
 ---
 
 # Deploy Components to Production

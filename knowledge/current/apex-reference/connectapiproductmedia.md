@@ -5,9 +5,9 @@ topic: connectapiproductmedia
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.568Z
+lastCollected: 2026-03-12T09:33:28.604Z
 estimatedTokens: 451
-keywords: [ConnectApi.ProductMedia, Media, associated, product.]
+keywords: [ConnectApi.ProductMedia, Media, associated, product]
 ---
 
 # ConnectApi.ProductMedia

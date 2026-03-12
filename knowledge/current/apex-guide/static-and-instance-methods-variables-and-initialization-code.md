@@ -6,9 +6,9 @@ topic: static-and-instance-methods-variables-and-initialization-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.724Z
+lastCollected: 2026-03-12T09:33:32.755Z
 estimatedTokens: 1919
-keywords: [Instance, Variables, Initialization, Code, Apex, variables, initialization, code., However, classes, can't, static., instance, member, code, which, modifiers, local, variables., Characteristics]
+keywords: [Instance, Variables, Initialization, Code, Apex, However, classes, can't, member, modifiers, local, Characteristics, Versioned, Behavior, Changes]
 ---
 
 # Static and Instance Methods, Variables, and Initialization

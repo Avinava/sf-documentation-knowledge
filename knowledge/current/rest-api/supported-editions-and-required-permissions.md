@@ -5,9 +5,9 @@ topic: supported-editions-and-required-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.176Z
+lastCollected: 2026-03-12T09:33:35.052Z
 estimatedTokens: 601
-keywords: [Supported, Editions, Required, Permissions, access, Salesforce, org, data, API, need, both, user, enabled., There’s, Edition, supports, multiple, ways, grant, permission]
+keywords: [Editions, Permissions, access, Salesforce, org, data, API, user, enabled, There’s, Edition, supports, multiple, ways, grant]
 ---
 
 # Supported Editions and Required Permissions

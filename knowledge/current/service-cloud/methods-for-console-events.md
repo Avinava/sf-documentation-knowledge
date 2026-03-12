@@ -5,9 +5,9 @@ topic: methods-for-console-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.118Z
+lastCollected: 2026-03-12T09:33:56.199Z
 estimatedTokens: 712
-keywords: [Console, Events, Note, objects, such, Email, Case, Comment, tab, opened, closed, immediately, generated, tab., those, cases, field’s, equal, parent’s, ID.]
+keywords: [Console, Events, objects, Email, Case, Comment, tab, opened, closed, immediately, generated, cases, field’s, equal, parent’s]
 ---
 
 # Methods for Console Events

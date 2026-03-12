@@ -5,9 +5,9 @@ topic: group-definitions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.310Z
+lastCollected: 2026-03-12T09:33:48.192Z
 estimatedTokens: 370
-keywords: [Group, Definitions, POST, Define, party, relationship, group, individuals, trusts, deliver, support, services, manage, shared, processes, such, cases, benefits.]
+keywords: [Group, Definitions, POST, Define, party, relationship, individuals, trusts, deliver, support, services, manage, shared, processes, cases]
 ---
 
 # Group Definitions (POST)

@@ -5,9 +5,9 @@ topic: actionable-list-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.984Z
+lastCollected: 2026-03-12T09:33:47.005Z
 estimatedTokens: 226
-keywords: [Actionable, List, Fields, Input, representation, updating, actionable, list, record.]
+keywords: [Actionable, Input, representation, updating, record]
 ---
 
 # Actionable List Fields Input

@@ -5,9 +5,9 @@ topic: fueltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.159Z
+lastCollected: 2026-03-12T09:33:39.685Z
 estimatedTokens: 547
-keywords: [FuelType, Represents, custom, fuel, org., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
+keywords: [FuelType, custom, fuel, org, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata]
 ---
 
 # FuelType

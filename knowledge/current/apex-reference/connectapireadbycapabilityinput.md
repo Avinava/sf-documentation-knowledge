@@ -5,9 +5,9 @@ topic: connectapireadbycapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.443Z
+lastCollected: 2026-03-12T09:33:25.634Z
 estimatedTokens: 256
-keywords: [ConnectApi.ReadByCapabilityInput, Mark, feed, elements, read, context, user.]
+keywords: [ConnectApi.ReadByCapabilityInput, Mark, feed, elements, context, user]
 ---
 
 # ConnectApi.ReadByCapabilityInput

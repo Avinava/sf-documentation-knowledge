@@ -5,9 +5,9 @@ topic: rest-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:44.260Z
+lastCollected: 2026-03-12T09:33:43.456Z
 estimatedTokens: 608
-keywords: [REST, Overview, you’re, language, isn’t, strongly, typed, JavaScript.]
+keywords: [REST, you’re, language, isn’t, strongly, typed, JavaScript]
 ---
 
 # REST Overview

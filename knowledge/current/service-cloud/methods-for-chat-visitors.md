@@ -5,9 +5,9 @@ topic: methods-for-chat-visitors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.022Z
+lastCollected: 2026-03-12T09:33:56.104Z
 estimatedTokens: 450
-keywords: [Chat, Visitors, There, few, customize, visitor, experience, custom, Visualforce, chat, window., apply, Salesforce, Classic, only., Important]
+keywords: [Chat, Visitors, There, few, customize, visitor, experience, custom, Visualforce, window, apply, Salesforce, Classic]
 ---
 
 # Methods for Chat Visitors

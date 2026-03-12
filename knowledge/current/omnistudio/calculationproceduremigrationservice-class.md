@@ -5,10 +5,10 @@ topic: calculationproceduremigrationservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.458Z
+lastCollected: 2026-03-12T09:33:46.497Z
 estimatedTokens: 845
 namespace: BusinessRule
-keywords: [CalculationProcedureMigrationService, Contains, migrating, calculation, procedures, Vlocity, package, Business, Rules, Engine, expression, sets., Usage, Example, migrate, calcProcedureIds, calcProcedureId]
+keywords: [CalculationProcedureMigrationService, migrating, calculation, procedures, Vlocity, package, Business, Rules, Engine, expression, Usage, migrate, calcProcedureIds, calcProcedureId]
 ---
 
 # CalculationProcedureMigrationService Class

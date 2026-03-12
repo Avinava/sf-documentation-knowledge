@@ -5,9 +5,9 @@ topic: entitydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.386Z
+lastCollected: 2026-03-12T09:33:44.505Z
 estimatedTokens: 6304
-keywords: [EntityDefinition, Provides, row-based, access, metadata, standard, custom, objects., Important, Note, Supported, SOAP, Calls, REST, HTTP, Limitations, Fields, RecordTypesSupported, Metadata, RecordTypeInfo]
+keywords: [EntityDefinition, row-based, access, metadata, standard, custom, objects, SOAP, Calls, REST, HTTP, Limitations, RecordTypesSupported, RecordTypeInfo]
 ---
 
 # EntityDefinition

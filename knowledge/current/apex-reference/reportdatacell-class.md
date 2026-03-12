@@ -5,10 +5,10 @@ topic: reportdatacell-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.062Z
+lastCollected: 2026-03-12T09:33:23.459Z
 estimatedTokens: 331
 namespace: Reports
-keywords: [ReportDataCell, Contains, data, cell, report, including, display, label, value., getLabel, Syntax, getValue]
+keywords: [ReportDataCell, data, cell, report, including, display, label, getLabel, getValue]
 ---
 
 # ReportDataCell Class

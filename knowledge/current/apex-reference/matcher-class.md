@@ -5,10 +5,10 @@ topic: matcher-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.646Z
+lastCollected: 2026-03-12T09:33:24.034Z
 estimatedTokens: 7157
 namespace: System
-keywords: [Matcher, Matchers, Patterns, perform, match, operations, character, string., end, groupIndex, Usage, find, group, groupCount, hasAnchoringBounds, hasTransparentBounds, hitEnd, lookingAt, matches, pattern]
+keywords: [Matcher, Matchers, Patterns, perform, match, operations, character, end, groupIndex, Usage, group, groupCount, hasAnchoringBounds, hasTransparentBounds, hitEnd]
 ---
 
 # Matcher Class

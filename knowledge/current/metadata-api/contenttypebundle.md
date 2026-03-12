@@ -5,9 +5,9 @@ topic: contenttypebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.926Z
+lastCollected: 2026-03-12T09:33:37.669Z
 estimatedTokens: 1997
-keywords: [ContentTypeBundle, Represents, definition, enhanced, custom, content, types, CMS, workspaces., create, deploy, bundle, org., Enhanced, displayed, forms, defined, fields., deployed, LWR]
+keywords: [ContentTypeBundle, definition, enhanced, custom, content, CMS, workspaces, deploy, bundle, org, forms, defined, deployed, LWR, site]
 ---
 
 # ContentTypeBundle

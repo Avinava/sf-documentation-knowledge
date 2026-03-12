@@ -5,9 +5,9 @@ topic: custompermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.329Z
+lastCollected: 2026-03-12T09:33:38.037Z
 estimatedTokens: 717
-keywords: [CustomPermission, Represents, permission, grants, access, custom, feature., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Special]
+keywords: [CustomPermission, permission, grants, access, custom, feature, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # CustomPermission

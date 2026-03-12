@@ -5,9 +5,9 @@ topic: connectapiusermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.234Z
+lastCollected: 2026-03-12T09:33:29.281Z
 estimatedTokens: 129
-keywords: [ConnectApi.UserMission, Mission, details, user.]
+keywords: [ConnectApi.UserMission, Mission, user]
 ---
 
 # ConnectApi.UserMission

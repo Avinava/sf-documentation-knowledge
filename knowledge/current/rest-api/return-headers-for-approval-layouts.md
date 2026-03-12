@@ -5,9 +5,9 @@ topic: return-headers-for-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.952Z
+lastCollected: 2026-03-12T09:33:35.801Z
 estimatedTokens: 157
-keywords: [Headers, Approval, Layouts, only, headers, returned, GET, request, sObject, ApprovalLayouts, resources., gives, chance, header, values, before, retrieving, content, resource., resource]
+keywords: [Approval, Layouts, sObject, ApprovalLayouts, resources, gives, chance, retrieving, content, resource, REST, API, version, 30.0, later]
 ---
 
 # Return Headers for Approval Layouts

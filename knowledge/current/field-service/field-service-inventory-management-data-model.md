@@ -5,9 +5,9 @@ topic: field-service-inventory-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.563Z
+lastCollected: 2026-03-12T09:33:53.873Z
 estimatedTokens: 1185
-keywords: [Field, Service, Inventory, Management, Data, Model, Service’s, inventory, objects, track, storage, request, consumption, retirement, items, inventory., Note]
+keywords: [Service, Inventory, Management, Data, Model, Service’s, objects, track, storage, consumption, retirement, items]
 ---
 
 # Field Service Inventory Management Data Model

@@ -5,9 +5,9 @@ topic: connectapimanagedcontentdeliverychannelsummaryrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.769Z
+lastCollected: 2026-03-12T09:33:27.818Z
 estimatedTokens: 408
-keywords: [ConnectApi.ManagedContentDeliveryChannelSummaryRepresentation, Summary, information, managed, content, delivery, channel.]
+keywords: [Summary, managed, content, delivery, channel]
 ---
 
 # ConnectApi.ManagedContentDeliveryChannelSummaryRepresentation

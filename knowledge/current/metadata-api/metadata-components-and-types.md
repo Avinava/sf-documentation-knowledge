@@ -5,9 +5,9 @@ topic: metadata-components-and-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.469Z
+lastCollected: 2026-03-12T09:33:40.936Z
 estimatedTokens: 1459
-keywords: [Metadata, Components, Types, components, based, sObjects, objects, API., Instead, they, metadata, types, such, ApexClass, CustomObject, which, extend, base, types., component]
+keywords: [Metadata, Components, sObjects, objects, API, Instead, they, ApexClass, CustomObject, extend, base, component, instance, Data, Enumeration]
 ---
 
 # Metadata Components and Types

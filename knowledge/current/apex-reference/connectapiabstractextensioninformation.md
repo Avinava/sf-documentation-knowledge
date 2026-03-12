@@ -5,9 +5,9 @@ topic: connectapiabstractextensioninformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.858Z
+lastCollected: 2026-03-12T09:33:26.035Z
 estimatedTokens: 125
-keywords: [ConnectApi.AbstractExtensionInformation, Extension, information.]
+keywords: [ConnectApi.AbstractExtensionInformation, Extension]
 ---
 
 # ConnectApi.AbstractExtensionInformation

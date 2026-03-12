@@ -5,9 +5,9 @@ topic: samlssoconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:42.557Z
+lastCollected: 2026-03-12T09:33:41.969Z
 estimatedTokens: 1862
-keywords: [SamlSsoConfig, Represents, SAML, Single, Sign-On, configuration., extends, Metadata, metadata, inherits, its, fullName, field., sign-on, SSO, authentication, enables, users, access, multiple]
+keywords: [SamlSsoConfig, SAML, Sign-On, configuration, extends, Metadata, inherits, fullName, SSO, authentication, users, access, multiple, applications, login]
 ---
 
 # SamlSsoConfig

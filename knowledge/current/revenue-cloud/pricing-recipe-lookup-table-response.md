@@ -5,9 +5,9 @@ topic: pricing-recipe-lookup-table-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.070Z
+lastCollected: 2026-03-12T09:33:09.611Z
 estimatedTokens: 156
-keywords: [Pricing, Recipe, LookUp, Table, Response, Output, representation, pricing, recipe, lookup, table.]
+keywords: [Pricing, Recipe, LookUp, Output, representation]
 ---
 
 # Pricing Recipe LookUp Table Response

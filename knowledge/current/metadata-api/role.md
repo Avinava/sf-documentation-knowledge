@@ -5,9 +5,9 @@ topic: role
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.525Z
+lastCollected: 2026-03-12T09:33:41.940Z
 estimatedTokens: 422
-keywords: [Role, Represents, role, organization., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest]
+keywords: [Role, organization, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # Role

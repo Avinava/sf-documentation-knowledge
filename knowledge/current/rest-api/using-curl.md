@@ -5,9 +5,9 @@ topic: using-curl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.228Z
+lastCollected: 2026-03-12T09:33:35.099Z
 estimatedTokens: 466
-keywords: [cURL, Get, know, formatting, requests, Salesforce., Quick, Start, uses, examples, any, tool, development, environment, REST, requests., Important]
+keywords: [cURL, know, formatting, requests, Salesforce, Quick, Start, uses, examples, any, tool, development, environment, REST]
 ---
 
 # Using cURL

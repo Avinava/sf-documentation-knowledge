@@ -5,9 +5,9 @@ topic: marketing-cloud-account-engagement-form-activity-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.434Z
+lastCollected: 2026-03-12T09:33:15.138Z
 estimatedTokens: 573
-keywords: [Marketing, Cloud, Account, Engagement, Form, Activity, Mapping, After, data, stream, deployed, bundle, maps, source, objects, model, DMOs, Data, Cloud., includes]
+keywords: [Marketing, Cloud, Account, Engagement, Form, Activity, Mapping, data, stream, deployed, bundle, maps, source, objects, model]
 ---
 
 # Marketing Cloud Account Engagement: Form Activity Mapping

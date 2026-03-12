@@ -5,9 +5,9 @@ topic: deleting-components-from-an-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.700Z
+lastCollected: 2026-03-12T09:33:38.409Z
 estimatedTokens: 1124
-keywords: [Deleting, Components, Organization, delete, components, perform, deployment, deploy, call, destructive, changes, manifest, file, lists, remove, organization., only, deletes, adds, components.]
+keywords: [Deleting, Components, Organization, perform, deployment, deploy, call, destructive, changes, manifest, file, remove, deletes, adds, API]
 ---
 
 # Deleting Components from an Organization

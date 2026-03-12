@@ -5,9 +5,9 @@ topic: configuration-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.597Z
+lastCollected: 2026-03-12T09:33:10.049Z
 estimatedTokens: 153
-keywords: [Configuration, Update, Output, representation, details, updated, configuration.]
+keywords: [Configuration, Output, representation, updated]
 ---
 
 # Configuration Update

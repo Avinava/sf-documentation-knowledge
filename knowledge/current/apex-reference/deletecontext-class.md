@@ -5,10 +5,10 @@ topic: deletecontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.942Z
+lastCollected: 2026-03-12T09:33:20.495Z
 estimatedTokens: 507
 namespace: DataSource
-keywords: [DeleteContext, instance, passed, deleteRows, Database.Connection, class., provides, context, information, delete, request, implementor, Usage, externalIds, tableSelected]
+keywords: [DeleteContext, instance, passed, deleteRows, Database.Connection, context, implementor, Usage, externalIds, tableSelected]
 ---
 
 # DeleteContext Class

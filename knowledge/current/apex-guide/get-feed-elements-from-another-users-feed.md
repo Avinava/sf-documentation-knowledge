@@ -5,9 +5,9 @@ topic: get-feed-elements-from-another-users-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.338Z
+lastCollected: 2026-03-12T09:33:34.323Z
 estimatedTokens: 249
-keywords: [Get, Feed, Elements, Another, User’s, Call, get, feed, elements, another, user’s, feed.]
+keywords: [Feed, Elements, Another, User’s, Call]
 ---
 
 # Get Feed Elements From Another User’s Feed

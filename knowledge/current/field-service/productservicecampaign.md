@@ -5,9 +5,9 @@ topic: productservicecampaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.346Z
+lastCollected: 2026-03-12T09:33:54.561Z
 estimatedTokens: 1074
-keywords: [ProductServiceCampaign, Represents, set, activities, performed, product, service, campaign, asset, such, recall, safety, issues, defects., API, version, 51.0, later., Supported, Calls]
+keywords: [ProductServiceCampaign, activities, performed, product, service, campaign, asset, recall, safety, issues, defects, API, version, 51.0, later]
 ---
 
 # ProductServiceCampaign

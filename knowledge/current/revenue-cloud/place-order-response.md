@@ -5,9 +5,9 @@ topic: place-order-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.976Z
+lastCollected: 2026-03-12T09:33:09.546Z
 estimatedTokens: 206
-keywords: [Place, Order, Response, Output, representation, request, create, update, order.]
+keywords: [Place, Order, Output, representation]
 ---
 
 # Place Order Response

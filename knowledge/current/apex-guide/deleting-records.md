@@ -5,9 +5,9 @@ topic: deleting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.689Z
+lastCollected: 2026-03-12T09:33:34.607Z
 estimatedTokens: 629
-keywords: [Deleting, Records, After, persist, records, database, delete, those, operation., Deleted, aren’t, deleted, permanently, Salesforce, they, placed, Recycle, Bin, days, where]
+keywords: [Deleting, Records, persist, database, operation, Deleted, aren’t, permanently, Salesforce, they, placed, Recycle, Bin, days, restored]
 ---
 
 # Deleting Records

@@ -6,9 +6,9 @@ topic: setutilityhighlighted-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.973Z
+lastCollected: 2026-03-12T09:33:56.057Z
 estimatedTokens: 292
-keywords: [setUtilityHighlighted, Lightning, Experience, utility, highlighted, giving, badge, prominent, background, color., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
+keywords: [setUtilityHighlighted, Lightning, Experience, utility, highlighted, giving, badge, prominent, background, color, isn’t, Web, Components, LWC, Arguments]
 ---
 
 # setUtilityHighlighted() for Lightning Experience for

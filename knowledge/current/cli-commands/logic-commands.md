@@ -5,9 +5,9 @@ topic: logic-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.249Z
+lastCollected: 2026-03-12T09:33:05.438Z
 estimatedTokens: 2317
-keywords: [logic, Commands, Get, results, test, run., get, Beta, Note, Description, Examples, Flags, run]
+keywords: [logic, Commands, results, test, run, Beta, Examples, Flags]
 ---
 
 # logic Commands

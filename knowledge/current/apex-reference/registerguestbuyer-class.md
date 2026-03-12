@@ -5,10 +5,10 @@ topic: registerguestbuyer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.858Z
+lastCollected: 2026-03-12T09:33:19.544Z
 estimatedTokens: 501
 namespace: ConnectApi
-keywords: [RegisterGuestBuyer, Register, guest, buyer, webstore, account, enabling, order, behalf, another, buyer., registerGuestBuyer, webstoreId, accountId, API, Version, Requires, Chatter]
+keywords: [RegisterGuestBuyer, Register, guest, buyer, webstore, account, enabling, order, behalf, another, webstoreId, accountId, API, Version, Requires]
 ---
 
 # RegisterGuestBuyer Class

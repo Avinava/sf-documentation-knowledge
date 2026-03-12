@@ -5,9 +5,9 @@ topic: context-attribute-mapping-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.734Z
+lastCollected: 2026-03-12T09:33:48.531Z
 estimatedTokens: 135
-keywords: [Context, Attribute, Mapping, List, Output, representation, list, context, attribute, mappings.]
+keywords: [Context, Attribute, Mapping, Output, representation, mappings]
 ---
 
 # Context Attribute Mapping List

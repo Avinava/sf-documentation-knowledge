@@ -5,9 +5,9 @@ topic: customvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.339Z
+lastCollected: 2026-03-12T09:33:38.047Z
 estimatedTokens: 1886
-keywords: [CustomValue, Represents, definition, used, set, local, custom, picklist., Custom, picklist, fields, unique, inherit, their, values, called, API, version, 38.0, extends]
+keywords: [CustomValue, definition, local, custom, picklist, unique, inherit, their, API, version, 38.0, extends, Metadata, inherits, fullName]
 ---
 
 # CustomValue

@@ -5,9 +5,9 @@ topic: convintelligencesignalrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.113Z
+lastCollected: 2026-03-12T09:33:37.831Z
 estimatedTokens: 1606
-keywords: [ConvIntelligenceSignalRule, Represents, conversation, intelligence, signal, rule., rule, triggers, actions, based, real-time, signals, telephony, system, keywords, mentioned, support, reps, customers., contains]
+keywords: [ConvIntelligenceSignalRule, conversation, intelligence, signal, rule, triggers, actions, real-time, signals, telephony, system, keywords, mentioned, support, reps]
 ---
 
 # ConvIntelligenceSignalRule

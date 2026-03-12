@@ -5,9 +5,9 @@ topic: sales-transaction-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.428Z
+lastCollected: 2026-03-12T09:33:09.922Z
 estimatedTokens: 88
-keywords: [Sales, Transaction, Record, Generic, output, representation, any, sales, transaction, record, type.]
+keywords: [Sales, Transaction, Record, Generic, output, representation, any]
 ---
 
 # Sales Transaction Record

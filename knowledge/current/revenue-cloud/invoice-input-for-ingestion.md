@@ -5,9 +5,9 @@ topic: invoice-input-for-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.177Z
+lastCollected: 2026-03-12T09:33:08.064Z
 estimatedTokens: 200
-keywords: [Invoice, Input, Ingestion, representation, details, invoice, must, generated, ingested, Billing.]
+keywords: [Invoice, Input, Ingestion, representation, generated, ingested, Billing]
 ---
 
 # Invoice Input for Ingestion

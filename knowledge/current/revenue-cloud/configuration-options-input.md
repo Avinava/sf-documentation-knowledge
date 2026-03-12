@@ -5,9 +5,9 @@ topic: configuration-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.889Z
+lastCollected: 2026-03-12T09:33:07.810Z
 estimatedTokens: 220
-keywords: [Configuration, Options, Input, representation, configuration, options.]
+keywords: [Configuration, Options, Input, representation]
 ---
 
 # Configuration Options Input

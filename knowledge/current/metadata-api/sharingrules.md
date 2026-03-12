@@ -5,9 +5,9 @@ topic: sharingrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.851Z
+lastCollected: 2026-03-12T09:33:42.219Z
 estimatedTokens: 3379
-keywords: [SharingRules, Represents, base, container, sharing, rules, which, criteria-based, ownership-based, territory-based, guest, user, access., enables, share, records, set, users, specify, access]
+keywords: [SharingRules, base, container, sharing, rules, criteria-based, ownership-based, territory-based, guest, user, access, share, records, users, specify]
 ---
 
 # SharingRules

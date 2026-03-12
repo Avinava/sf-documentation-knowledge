@@ -6,9 +6,9 @@ topic: get-a-layout-for-a-single-approval-process-on-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.957Z
+lastCollected: 2026-03-12T09:33:35.805Z
 estimatedTokens: 126
-keywords: [Get, Layout, Single, Approval, Process, Specified, Retrieves, approval, layout, named, process, specified, object., resource, REST, API, version, 30.0, later., Syntax]
+keywords: [Layout, Approval, Process, Retrieves, named, resource, REST, API, version, 30.0, later]
 ---
 
 # Get a Layout for a Single Approval Process on a Specified

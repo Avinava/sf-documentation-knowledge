@@ -5,10 +5,10 @@ topic: addressablecontact-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.681Z
+lastCollected: 2026-03-12T09:33:21.257Z
 estimatedTokens: 1631
 namespace: RichMessaging
-keywords: [AddressableContact, Represents, addressable, contact., givenName, phoneticGivenName, familyName, phoneticFamilyName, emailAddress, phoneNumber, postalAddress]
+keywords: [AddressableContact, addressable, contact, givenName, phoneticGivenName, familyName, phoneticFamilyName, emailAddress, phoneNumber, postalAddress]
 ---
 
 # AddressableContact Class

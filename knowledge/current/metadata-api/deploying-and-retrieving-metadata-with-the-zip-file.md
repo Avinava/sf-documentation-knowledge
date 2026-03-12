@@ -5,9 +5,9 @@ topic: deploying-and-retrieving-metadata-with-the-zip-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.405Z
+lastCollected: 2026-03-12T09:33:36.227Z
 estimatedTokens: 1794
-keywords: [Deploying, Retrieving, Metadata, Zip, File, deploy, retrieve, calls, used, .zip, file., Within, file, project, manifest, package.xml, lists, XML, components, organized]
+keywords: [Deploying, Retrieving, Metadata, Zip, File, deploy, retrieve, calls, project, manifest, package.xml, XML, components, organized, folders]
 ---
 
 # Deploying and Retrieving Metadata with the Zip File

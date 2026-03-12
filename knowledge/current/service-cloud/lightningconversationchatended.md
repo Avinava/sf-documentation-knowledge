@@ -5,9 +5,9 @@ topic: lightningconversationchatended
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.193Z
+lastCollected: 2026-03-12T09:33:55.328Z
 estimatedTokens: 101
-keywords: [lightning, conversationChatEnded, Event, triggered, active, chat, ends, agent, leaves, conference., event, Enhanced, Messaging, channels., Response, Example, work, channels, session, must]
+keywords: [lightning, conversationChatEnded, Event, triggered, active, chat, ends, agent, leaves, conference, Enhanced, Messaging, channels, event, work, session]
 ---
 
 # lightning:conversationChatEnded

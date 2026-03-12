@@ -5,9 +5,9 @@ topic: rest-api-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.173Z
+lastCollected: 2026-03-12T09:33:35.048Z
 estimatedTokens: 872
-keywords: [REST, API, Architecture, follows, standard, RESTful, principles, characteristics., Note]
+keywords: [REST, API, Architecture, follows, standard, RESTful, principles, characteristics]
 ---
 
 # REST API Architecture

@@ -5,9 +5,9 @@ topic: connectapilineitemresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.657Z
+lastCollected: 2026-03-12T09:33:27.710Z
 estimatedTokens: 252
-keywords: [ConnectApi.LineItemResponse, Response, stores, information, list, line, items, which, tax, engine, calculated, tax.]
+keywords: [ConnectApi.LineItemResponse, stores, line, items, tax, engine, calculated]
 ---
 
 # ConnectApi.LineItemResponse

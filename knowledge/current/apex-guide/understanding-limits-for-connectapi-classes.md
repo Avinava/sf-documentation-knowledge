@@ -6,10 +6,10 @@ topic: understanding-limits-for-connectapi-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.846Z
+lastCollected: 2026-03-12T09:33:32.883Z
 estimatedTokens: 344
 namespace: ConnectApi
-keywords: [Understanding, Limits, ConnectApi, Classes, different, limits, Apex, classes.]
+keywords: [Understanding, Limits, ConnectApi, Classes, different, Apex]
 ---
 
 # Understanding Limits for ConnectApi

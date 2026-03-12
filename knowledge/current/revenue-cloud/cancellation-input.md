@@ -5,9 +5,9 @@ topic: cancellation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.854Z
+lastCollected: 2026-03-12T09:33:07.779Z
 estimatedTokens: 233
-keywords: [Cancellation, Input, representation, details, request, cancel, quote, order.]
+keywords: [Cancellation, Input, representation, cancel, quote, order]
 ---
 
 # Cancellation Input

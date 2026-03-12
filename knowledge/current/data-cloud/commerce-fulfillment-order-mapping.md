@@ -5,9 +5,9 @@ topic: commerce-fulfillment-order-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:13.143Z
+lastCollected: 2026-03-12T09:33:13.980Z
 estimatedTokens: 832
-keywords: [Commerce, Fulfillment, Order, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., information, how]
+keywords: [Commerce, Fulfillment, Order, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
 ---
 
 # Commerce: Fulfillment Order Mapping

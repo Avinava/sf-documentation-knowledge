@@ -5,9 +5,9 @@ topic: embeddedservicecustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.249Z
+lastCollected: 2026-03-12T09:33:44.385Z
 estimatedTokens: 303
-keywords: [EmbeddedServiceCustomization, Represents, mapping, between, record, parent, EmbeddedServiceConfiguration, EmbeddedServiceMenuSettings, set, Embedded, Service, resources., resource, customizations, applied, via, uploaded, Chat., API, version]
+keywords: [EmbeddedServiceCustomization, mapping, record, parent, EmbeddedServiceConfiguration, EmbeddedServiceMenuSettings, Embedded, Service, resources, resource, customizations, applied, via, uploaded, Chat]
 ---
 
 # EmbeddedServiceCustomization

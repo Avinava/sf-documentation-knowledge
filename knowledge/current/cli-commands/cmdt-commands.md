@@ -5,9 +5,9 @@ topic: cmdt-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:03.056Z
+lastCollected: 2026-03-12T09:33:05.265Z
 estimatedTokens: 3158
-keywords: [cmdt, Commands, Generate, field, custom, metadata, based, provided, type., generate, Description, Examples, Flags, Aliases, fromorg, record, records]
+keywords: [cmdt, Commands, Generate, custom, metadata, provided, Examples, Flags, Aliases, fromorg, record, records]
 ---
 
 # cmdt Commands

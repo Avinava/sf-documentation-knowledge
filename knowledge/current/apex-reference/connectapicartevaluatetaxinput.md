@@ -5,9 +5,9 @@ topic: connectapicartevaluatetaxinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.494Z
+lastCollected: 2026-03-12T09:33:24.769Z
 estimatedTokens: 213
-keywords: [ConnectApi.CartEvaluateTaxInput, Shipping, address, custom, fields, used, calculate, taxes, cart.]
+keywords: [ConnectApi.CartEvaluateTaxInput, Shipping, address, custom, calculate, taxes, cart]
 ---
 
 # ConnectApi.CartEvaluateTaxInput

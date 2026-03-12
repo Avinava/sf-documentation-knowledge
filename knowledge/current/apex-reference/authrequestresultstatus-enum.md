@@ -5,9 +5,9 @@ topic: authrequestresultstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.522Z
+lastCollected: 2026-03-12T09:33:29.569Z
 estimatedTokens: 74
-keywords: [AuthRequestResultStatus, describes, authentication, result, status., Values]
+keywords: [AuthRequestResultStatus, authentication, result, status]
 ---
 
 # AuthRequestResultStatus Enum

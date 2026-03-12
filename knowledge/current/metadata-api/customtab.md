@@ -5,9 +5,9 @@ topic: customtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.105Z
+lastCollected: 2026-03-12T09:33:42.447Z
 estimatedTokens: 1911
-keywords: [CustomTab, Represents, custom, tab., Custom, tabs, let, display, data, web, content, Salesforce., add, tab, app, Salesforce, Classic, appears, Lightning, Experience]
+keywords: [CustomTab, custom, tab, tabs, let, display, data, web, content, Salesforce, add, app, Classic, appears, Lightning]
 ---
 
 # CustomTab

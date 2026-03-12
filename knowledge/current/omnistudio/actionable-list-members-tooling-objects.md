@@ -5,9 +5,9 @@ topic: actionable-list-members-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.239Z
+lastCollected: 2026-03-12T09:33:46.299Z
 estimatedTokens: 205
-keywords: [Actionable, List, Members, Tooling, Objects, API, exposes, metadata, used, developer, tooling., access, through, REST, SOAP., API’s, SOQL, capabilities, various, types]
+keywords: [Actionable, Members, Tooling, Objects, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, various, retrieve]
 ---
 
 # Actionable List Members Tooling Objects

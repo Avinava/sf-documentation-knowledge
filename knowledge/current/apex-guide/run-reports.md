@@ -5,9 +5,9 @@ topic: run-reports
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.189Z
+lastCollected: 2026-03-12T09:33:32.233Z
 estimatedTokens: 300
-keywords: [Run, Reports, run, report, synchronously, asynchronously, through, Salesforce, Dashboards, API, via, Apex., Report, Synchronously, Asynchronously]
+keywords: [Run, Reports, report, synchronously, asynchronously, Salesforce, Dashboards, API, via, Apex]
 ---
 
 # Run Reports

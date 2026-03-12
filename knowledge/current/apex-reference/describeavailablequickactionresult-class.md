@@ -5,10 +5,10 @@ topic: describeavailablequickactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.771Z
+lastCollected: 2026-03-12T09:33:23.183Z
 estimatedTokens: 671
 namespace: QuickAction
-keywords: [DescribeAvailableQuickActionResult, unique, action., action, doesn’t, its, API, name, used., Usage, getActionEnumOrId, getLabel, getName, getType]
+keywords: [DescribeAvailableQuickActionResult, unique, action, doesn’t, API, Usage, getActionEnumOrId, getLabel, getName, getType]
 ---
 
 # DescribeAvailableQuickActionResult Class

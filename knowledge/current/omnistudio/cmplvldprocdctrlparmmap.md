@@ -5,9 +5,9 @@ topic: cmplvldprocdctrlparmmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.760Z
+lastCollected: 2026-03-12T09:33:52.228Z
 estimatedTokens: 628
-keywords: [CmplVldProcdCtrlParmMap, Represents, association, between, Validation, Procedure, Control, Param, Map, record, Context, Attribute, specified, Control., API, version, 65.0, later., Supported, Calls]
+keywords: [CmplVldProcdCtrlParmMap, association, Validation, Procedure, Control, Param, Map, record, Context, Attribute, API, version, 65.0, later, Calls]
 ---
 
 # CmplVldProcdCtrlParmMap

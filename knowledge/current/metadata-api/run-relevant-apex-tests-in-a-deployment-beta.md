@@ -5,9 +5,9 @@ topic: run-relevant-apex-tests-in-a-deployment-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.708Z
+lastCollected: 2026-03-12T09:33:38.425Z
 estimatedTokens: 1093
-keywords: [Run, Relevant, Apex, Tests, Deployment, Beta, RunRelevantTests, beta, test, level, run, only, tests, relevant, deployment., Salesforce, automatically, identifies, based, analysis]
+keywords: [Run, Relevant, Apex, Tests, Deployment, Beta, RunRelevantTests, test, level, Salesforce, automatically, identifies, analysis, payload, dependencies]
 ---
 
 # Run Relevant Apex Tests in a Deployment (Beta)

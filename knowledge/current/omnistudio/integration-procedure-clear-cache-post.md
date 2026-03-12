@@ -5,9 +5,9 @@ topic: integration-procedure-clear-cache-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.330Z
+lastCollected: 2026-03-12T09:33:48.211Z
 estimatedTokens: 395
-keywords: [Integration, Procedure, Clear, Cache, POST, execution, cache, specified, integration, procedures.]
+keywords: [Integration, Procedure, Clear, Cache, POST, execution, procedures]
 ---
 
 # Integration Procedure Clear Cache (POST)

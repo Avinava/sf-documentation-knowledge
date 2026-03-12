@@ -5,9 +5,9 @@ topic: commerce-fulfillment-order-item-tax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.154Z
+lastCollected: 2026-03-12T09:33:13.989Z
 estimatedTokens: 311
-keywords: [Commerce, Fulfillment, Order, Item, Tax, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., tax]
+keywords: [Commerce, Fulfillment, Order, Item, Tax, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
 ---
 
 # Commerce: Fulfillment Order Item Tax

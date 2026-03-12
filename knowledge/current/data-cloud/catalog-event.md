@@ -5,9 +5,9 @@ topic: catalog-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.152Z
+lastCollected: 2026-03-12T09:33:13.078Z
 estimatedTokens: 274
-keywords: [Catalog, Event, catalog, event, interaction, capture, customer, interacts, various, tracking, items., example, product, blog, post., View, Example, Comment, Favorite, Quick]
+keywords: [Catalog, Event, interaction, capture, customer, interacts, various, tracking, items, product, blog, post, View, Comment, Favorite]
 ---
 
 # Catalog Event

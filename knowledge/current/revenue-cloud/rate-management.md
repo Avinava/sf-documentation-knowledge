@@ -5,9 +5,9 @@ topic: rate-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:09.265Z
+lastCollected: 2026-03-12T09:33:10.620Z
 estimatedTokens: 425
-keywords: [Rate, Management, Quote, price, products, based, predefined, rates, future, product, service.]
+keywords: [Rate, Management, Quote, price, products, predefined, rates, future, product, service]
 ---
 
 # Rate Management

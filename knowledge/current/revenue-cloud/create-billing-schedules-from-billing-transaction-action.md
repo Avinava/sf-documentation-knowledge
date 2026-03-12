@@ -5,9 +5,9 @@ topic: create-billing-schedules-from-billing-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.667Z
+lastCollected: 2026-03-12T09:33:05.837Z
 estimatedTokens: 575
-keywords: [Create, Billing, Schedules, Transaction, Action, billing, schedules, specified, transaction, ID., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Billing, Schedules, Transaction, Action, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Create Billing Schedules From Billing Transaction Action

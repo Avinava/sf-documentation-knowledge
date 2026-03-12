@@ -5,9 +5,9 @@ topic: limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.644Z
+lastCollected: 2026-03-12T09:33:35.483Z
 estimatedTokens: 3160
-keywords: [Limits, List, information, limits, org., limit, resource, maximum, allocation, remaining, based, usage., Tabulated, returned, API, accurate, within, five, minutes, consumption.]
+keywords: [Limits, org, limit, resource, maximum, allocation, remaining, usage, Tabulated, API, accurate, five, minutes, consumption, consistent]
 ---
 
 # Limits

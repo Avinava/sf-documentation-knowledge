@@ -6,9 +6,9 @@ topic: enclosingtabid-context-wire-adapter-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.041Z
+lastCollected: 2026-03-12T09:33:56.123Z
 estimatedTokens: 601
-keywords: [EnclosingTabId, Context, Wire, Adapter, Lightning, Experience, enclosing, tab, subtab., wire, adapter, Web, Components, LWC, only., Tip, Sample, Code, Response]
+keywords: [EnclosingTabId, Context, Wire, Adapter, Lightning, Experience, enclosing, tab, subtab, Web, Components, LWC, Sample, Code]
 ---
 
 # EnclosingTabId Context Wire

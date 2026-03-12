@@ -5,9 +5,9 @@ topic: expressionsetdefinitioncontextdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.961Z
+lastCollected: 2026-03-12T09:33:52.423Z
 estimatedTokens: 325
-keywords: [ExpressionSetDefinitionContextDefinition, Represents, relationship, between, expression, set, definition, context, definition., API, version, 58.0, later., Note, Fields]
+keywords: [relationship, expression, definition, context, API, version, 58.0, later]
 ---
 
 # ExpressionSetDefinitionContextDefinition

@@ -5,9 +5,9 @@ topic: field-service-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T05:14:55.385Z
+lastCollected: 2026-03-12T09:33:53.706Z
 estimatedTokens: 419
-keywords: [Field, Service, Code, Examples, code, examples, get, started, working, programmatically, features.]
+keywords: [Service, Code, Examples, started, working, programmatically, features]
 ---
 
 # Field Service Code Examples

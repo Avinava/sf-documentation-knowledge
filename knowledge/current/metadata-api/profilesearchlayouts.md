@@ -5,9 +5,9 @@ topic: profilesearchlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.956Z
+lastCollected: 2026-03-12T09:33:41.407Z
 estimatedTokens: 665
-keywords: [ProfileSearchLayouts, Represents, user, profile’s, search, results, layouts, object., similar, SearchLayouts., However, profile-specific, profile, different, layout, File, Suffix, Directory, Location, Version]
+keywords: [ProfileSearchLayouts, user, profile’s, search, results, layouts, similar, SearchLayouts, However, profile-specific, profile, different, layout, File, Suffix]
 ---
 
 # ProfileSearchLayouts

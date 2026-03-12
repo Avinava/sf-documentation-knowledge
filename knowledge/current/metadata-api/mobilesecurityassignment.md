@@ -5,9 +5,9 @@ topic: mobilesecurityassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.228Z
+lastCollected: 2026-03-12T09:33:40.705Z
 estimatedTokens: 647
-keywords: [MobileSecurityAssignment, Represents, assignment, mobile, app, security, policies, profile., apply, Salesforce, Enhanced, Mobile, App, Security, enabled., Important, Parent, File, Suffix, Directory]
+keywords: [MobileSecurityAssignment, assignment, mobile, app, security, policies, profile, apply, Salesforce, Enhanced, enabled, Parent, File, Suffix, Directory]
 ---
 
 # MobileSecurityAssignment

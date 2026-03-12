@@ -5,9 +5,9 @@ topic: connectapireputation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.902Z
+lastCollected: 2026-03-12T09:33:28.950Z
 estimatedTokens: 129
-keywords: [ConnectApi.Reputation, Reputation, user.]
+keywords: [ConnectApi.Reputation, Reputation, user]
 ---
 
 # ConnectApi.Reputation

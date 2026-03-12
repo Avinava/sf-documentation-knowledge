@@ -5,9 +5,9 @@ topic: apexlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.617Z
+lastCollected: 2026-03-12T09:33:43.788Z
 estimatedTokens: 618
-keywords: [ApexLog, Represents, debug, log., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [ApexLog, debug, log, SOAP, Calls, REST, HTTP]
 ---
 
 # ApexLog

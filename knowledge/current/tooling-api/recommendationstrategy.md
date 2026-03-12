@@ -5,9 +5,9 @@ topic: recommendationstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.598Z
+lastCollected: 2026-03-12T09:33:45.698Z
 estimatedTokens: 1211
-keywords: [RecommendationStrategy, Represents, recommendation, strategy., Recommendation, strategies, applications, similar, data, flows, determine, set, recommendations, delivered, client, through, retrieval, branching, filtering, logic]
+keywords: [RecommendationStrategy, recommendation, strategy, strategies, applications, similar, data, flows, determine, recommendations, delivered, client, retrieval, branching, filtering]
 ---
 
 # RecommendationStrategy

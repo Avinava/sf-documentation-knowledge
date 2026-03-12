@@ -5,9 +5,9 @@ topic: connectapiocicreatereservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.101Z
+lastCollected: 2026-03-12T09:33:28.128Z
 estimatedTokens: 85
-keywords: [ConnectApi.OCICreateReservationErrorOutputRepresentation, Error, returned, attempt, create, Omnichannel, Inventory, reservation.]
+keywords: [Error, attempt, Omnichannel, Inventory, reservation]
 ---
 
 # ConnectApi.OCICreateReservationErrorOutputRepresentation

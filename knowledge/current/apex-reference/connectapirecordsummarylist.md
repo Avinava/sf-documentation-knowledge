@@ -5,9 +5,9 @@ topic: connectapirecordsummarylist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.811Z
+lastCollected: 2026-03-12T09:33:28.854Z
 estimatedTokens: 83
-keywords: [ConnectApi.RecordSummaryList, Summary, information, list, records, organization, including, custom, objects.]
+keywords: [ConnectApi.RecordSummaryList, Summary, records, organization, including, custom, objects]
 ---
 
 # ConnectApi.RecordSummaryList

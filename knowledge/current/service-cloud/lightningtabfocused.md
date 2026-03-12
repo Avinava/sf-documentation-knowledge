@@ -5,9 +5,9 @@ topic: lightningtabfocused
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.285Z
+lastCollected: 2026-03-12T09:33:55.411Z
 estimatedTokens: 263
-keywords: [lightning, tabFocused, Indicates, tab, focused., Response, Example, lightning__tabFocused, Lightning, message, channel, corresponds, Aura, app, event., web, components, used, within, console]
+keywords: [lightning, tabFocused, tab, focused, lightning__tabFocused, Lightning, message, channel, corresponds, Aura, app, event, web, components, console, _tabFocused, LWC]
 ---
 
 # lightning:tabFocused

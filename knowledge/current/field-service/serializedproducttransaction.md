@@ -5,9 +5,9 @@ topic: serializedproducttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.503Z
+lastCollected: 2026-03-12T09:33:54.700Z
 estimatedTokens: 471
-keywords: [SerializedProductTransaction, Represents, transactions, performed, serialized, product., API, version, 57.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [SerializedProductTransaction, transactions, performed, serialized, product, API, version, 57.0, later, Calls, Associated, Objects]
 ---
 
 # SerializedProductTransaction

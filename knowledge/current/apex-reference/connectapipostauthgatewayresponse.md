@@ -5,9 +5,9 @@ topic: connectapipostauthgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.411Z
+lastCollected: 2026-03-12T09:33:28.461Z
 estimatedTokens: 176
-keywords: [ConnectApi.PostAuthGatewayResponse, Gateway, response, after, confirmation, merchant, ready, capture, payment, existing, pre-authorized, transaction.]
+keywords: [ConnectApi.PostAuthGatewayResponse, Gateway, confirmation, merchant, ready, capture, payment, pre-authorized, transaction]
 ---
 
 # ConnectApi.PostAuthGatewayResponse

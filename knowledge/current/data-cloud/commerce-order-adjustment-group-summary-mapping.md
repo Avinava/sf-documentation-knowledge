@@ -5,9 +5,9 @@ topic: commerce-order-adjustment-group-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.174Z
+lastCollected: 2026-03-12T09:33:14.010Z
 estimatedTokens: 441
-keywords: [Commerce, Order, Adjustment, Group, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud.]
+keywords: [Commerce, Order, Adjustment, Group, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model]
 ---
 
 # Commerce: Order Adjustment Group Summary Mapping

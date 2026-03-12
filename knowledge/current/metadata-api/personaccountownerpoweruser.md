@@ -5,9 +5,9 @@ topic: personaccountownerpoweruser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.721Z
+lastCollected: 2026-03-12T09:33:41.178Z
 estimatedTokens: 287
-keywords: [PersonAccountOwnerPowerUser, Represents, user, who, own, 000, customer, partner, portal, accounts., Person, account, owner, power, users, large, number, either, users., They]
+keywords: [PersonAccountOwnerPowerUser, user, own, customer, partner, portal, accounts, Person, account, owner, power, users, large, number, either]
 ---
 
 # PersonAccountOwnerPowerUser

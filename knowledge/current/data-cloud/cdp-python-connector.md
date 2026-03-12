@@ -5,9 +5,9 @@ topic: cdp-python-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.461Z
+lastCollected: 2026-03-12T09:33:13.402Z
 estimatedTokens: 1485
-keywords: [CDP, Python, Connector, Unlock, extend, Data, Cloud, data, Connector., connector, uses, Query, API, extracts, fetch, Pandas, DataFrames., environment, create, visual]
+keywords: [CDP, Python, Connector, Unlock, extend, Data, Cloud, uses, Query, API, extracts, fetch, Pandas, DataFrames, environment]
 ---
 
 # CDP Python Connector

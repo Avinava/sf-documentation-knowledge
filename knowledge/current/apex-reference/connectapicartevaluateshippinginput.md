@@ -5,9 +5,9 @@ topic: connectapicartevaluateshippinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.491Z
+lastCollected: 2026-03-12T09:33:24.766Z
 estimatedTokens: 216
-keywords: [ConnectApi.CartEvaluateShippingInput, Shipping, address, custom, fields, used, calculate, shipping, costs, cart.]
+keywords: [ConnectApi.CartEvaluateShippingInput, Shipping, address, custom, calculate, costs, cart]
 ---
 
 # ConnectApi.CartEvaluateShippingInput

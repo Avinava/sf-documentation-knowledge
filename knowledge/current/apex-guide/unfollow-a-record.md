@@ -5,9 +5,9 @@ topic: unfollow-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.449Z
+lastCollected: 2026-03-12T09:33:34.400Z
 estimatedTokens: 156
-keywords: [Unfollow, Record, Call, stop, following, record.]
+keywords: [Unfollow, Record, Call, stop]
 ---
 
 # Unfollow a Record

@@ -5,9 +5,9 @@ topic: invoiceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.552Z
+lastCollected: 2026-03-12T09:33:11.667Z
 estimatedTokens: 3176
-keywords: [InvoiceLine, Represents, amount, buyer, must, pay, product, service, fee., Invoice, lines, created, based, order, line., API, version, 62.0, later., Important]
+keywords: [InvoiceLine, amount, buyer, pay, product, service, fee, Invoice, lines, created, order, line, API, version, 62.0]
 ---
 
 # InvoiceLine

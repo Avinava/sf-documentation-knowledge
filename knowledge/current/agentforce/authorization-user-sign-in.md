@@ -5,9 +5,9 @@ topic: authorization-user-sign-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.156Z
+lastCollected: 2026-03-12T09:33:15.835Z
 estimatedTokens: 321
-keywords: [Authorization, User, Sign-In, access, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, must, authenticate, OAuth, 2.0, Code, flow, user, sign-in]
+keywords: [Authorization, User, Sign-In, access, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, authenticate, OAuth, 2.0]
 ---
 
 # Authorization: User Sign-In

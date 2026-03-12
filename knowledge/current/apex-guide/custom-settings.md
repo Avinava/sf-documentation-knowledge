@@ -5,9 +5,9 @@ topic: custom-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.104Z
+lastCollected: 2026-03-12T09:33:33.129Z
 estimatedTokens: 1509
-keywords: [Custom, Settings, settings, similar, custom, objects., Application, developers, create, data, associate, organization, profile, specific, user., exposed, application, cache, which, enables]
+keywords: [Custom, Settings, similar, objects, Application, developers, data, associate, organization, profile, specific, user, exposed, cache, efficient]
 ---
 
 # Custom Settings

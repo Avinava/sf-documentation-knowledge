@@ -5,9 +5,9 @@ topic: snapshot-index-error-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.880Z
+lastCollected: 2026-03-12T09:33:08.675Z
 estimatedTokens: 188
-keywords: [Snapshot, Index, Error, GET, Get, count, details, errors, occurred, during, indexing, process.]
+keywords: [Snapshot, Index, Error, count, errors, occurred, indexing, process]
 ---
 
 # Snapshot Index Error (GET)

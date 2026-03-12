@@ -5,9 +5,9 @@ topic: connectapisocialpostcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.025Z
+lastCollected: 2026-03-12T09:33:29.064Z
 estimatedTokens: 569
-keywords: [ConnectApi.SocialPostCapability, feed, element, capability, interact, social, post, network.]
+keywords: [ConnectApi.SocialPostCapability, feed, element, capability, interact, social, post, network]
 ---
 
 # ConnectApi.SocialPostCapability

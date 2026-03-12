@@ -5,9 +5,9 @@ topic: connectapitargetcollectioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.616Z
+lastCollected: 2026-03-12T09:33:25.796Z
 estimatedTokens: 68
-keywords: [ConnectApi.TargetCollectionInput, Collection, targets, create.]
+keywords: [ConnectApi.TargetCollectionInput, Collection, targets]
 ---
 
 # ConnectApi.TargetCollectionInput

@@ -6,9 +6,9 @@ topic: opentab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.885Z
+lastCollected: 2026-03-12T09:33:55.975Z
 estimatedTokens: 824
-keywords: [openTab, Lightning, Experience, Opens, new, workspace, tab., tab, already, open, focused., Arguments, Note, LWC, Sample, Code, Aura, Components, Response]
+keywords: [openTab, Lightning, Experience, Opens, new, workspace, tab, already, open, focused, Arguments, LWC, Sample, Code, Aura]
 ---
 
 # openTab() for Lightning Experience for Lightning

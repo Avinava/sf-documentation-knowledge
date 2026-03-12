@@ -5,9 +5,9 @@ topic: casting-connectapi-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.851Z
+lastCollected: 2026-03-12T09:33:32.888Z
 estimatedTokens: 519
-keywords: [Casting, ConnectApi, Objects, may, useful, downcast, output, objects, specific, type., Important]
+keywords: [Casting, ConnectApi, Objects, may, useful, downcast, output, specific]
 ---
 
 # Casting ConnectApi Objects

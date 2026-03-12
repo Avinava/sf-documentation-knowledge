@@ -5,9 +5,9 @@ topic: lightningtabclosed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.277Z
+lastCollected: 2026-03-12T09:33:55.404Z
 estimatedTokens: 81
-keywords: [lightning, tabClosed, Indicates, tab, closed., Response, Example, lightning__tabClosed, Lightning, message, channel, corresponds, Aura, app, event., _tabClosed, LWC]
+keywords: [lightning, tabClosed, tab, closed, lightning__tabClosed, Lightning, message, channel, corresponds, Aura, app, event, _tabClosed, LWC]
 ---
 
 # lightning:tabClosed

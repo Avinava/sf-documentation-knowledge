@@ -5,9 +5,9 @@ topic: connectapiinlineimagesegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.011Z
+lastCollected: 2026-03-12T09:33:25.252Z
 estimatedTokens: 254
-keywords: [ConnectApi.InlineImageSegmentInput, inline, image, segment.]
+keywords: [ConnectApi.InlineImageSegmentInput, inline, image, segment]
 ---
 
 # ConnectApi.InlineImageSegmentInput

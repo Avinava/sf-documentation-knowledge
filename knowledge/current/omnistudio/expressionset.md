@@ -5,9 +5,9 @@ topic: expressionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.954Z
+lastCollected: 2026-03-12T09:33:52.418Z
 estimatedTokens: 679
-keywords: [ExpressionSet, Represents, information, expression, set., set, performs, series, calculations, lookups, user-defined, variables, constants., API, version, 55.0, later., Supported, Calls, Fields]
+keywords: [ExpressionSet, expression, performs, series, calculations, lookups, user-defined, variables, constants, API, version, 55.0, later, Calls]
 ---
 
 # ExpressionSet

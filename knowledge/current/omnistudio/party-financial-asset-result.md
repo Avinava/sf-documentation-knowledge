@@ -5,9 +5,9 @@ topic: party-financial-asset-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.486Z
+lastCollected: 2026-03-12T09:33:49.164Z
 estimatedTokens: 906
-keywords: [Party, Financial, Asset, Result, Output, representation, party, financial, asset, result.]
+keywords: [Party, Financial, Asset, Result, Output, representation]
 ---
 
 # Party Financial Asset Result

@@ -5,9 +5,9 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:52.355Z
+lastCollected: 2026-03-12T09:33:50.957Z
 estimatedTokens: 10855
-keywords: [IndustriesSettings, Represents, settings, industries, verticals, such, Financial, Services, Cloud, Consumer, Goods, Sector, Solutions, Education, Salesforce, Scheduler, Life, Sciences, Health, Cloud.]
+keywords: [IndustriesSettings, settings, industries, verticals, Financial, Services, Cloud, Consumer, Goods, Sector, Solutions, Education, Salesforce, Scheduler, Life]
 ---
 
 # IndustriesSettings

@@ -5,9 +5,9 @@ topic: anonymous-blocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.206Z
+lastCollected: 2026-03-12T09:33:32.248Z
 estimatedTokens: 1352
-keywords: [Anonymous, Blocks, anonymous, block, Apex, code, doesn’t, get, stored, metadata, compiled, executed., Important, Executing, through, API, Author, Permission]
+keywords: [Anonymous, Blocks, block, Apex, code, doesn’t, stored, metadata, compiled, executed, Executing, API, Author, Permission]
 ---
 
 # Anonymous Blocks

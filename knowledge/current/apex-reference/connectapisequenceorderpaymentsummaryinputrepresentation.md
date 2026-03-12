@@ -5,9 +5,9 @@ topic: connectapisequenceorderpaymentsummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.552Z
+lastCollected: 2026-03-12T09:33:25.735Z
 estimatedTokens: 358
-keywords: [ConnectApi.SequenceOrderPaymentSummaryInputRepresentation, Amount, apply, specified, OrderPaymentSummary, part, payment, refund.]
+keywords: [Amount, apply, OrderPaymentSummary, part, payment, refund]
 ---
 
 # ConnectApi.SequenceOrderPaymentSummaryInputRepresentation

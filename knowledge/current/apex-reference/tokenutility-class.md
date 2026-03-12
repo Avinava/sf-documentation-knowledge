@@ -5,9 +5,9 @@ topic: tokenutility-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.763Z
+lastCollected: 2026-03-12T09:33:23.176Z
 estimatedTokens: 1634
-keywords: [TokenUtility, Generate, authentication, tokens, access, preference, forms., Example, generateToken, tokenValue, tokenType, generateTokens, tokenValues]
+keywords: [TokenUtility, Generate, authentication, tokens, access, preference, forms, generateToken, tokenValue, tokenType, generateTokens, tokenValues]
 ---
 
 # TokenUtility Class

@@ -5,9 +5,9 @@ topic: metadata-api-support-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:43.022Z
+lastCollected: 2026-03-12T09:33:42.369Z
 estimatedTokens: 410
-keywords: [Metadata, API, Support, Policy, Salesforce, supports, previous, versions, API., However, new, client, applications, should, most, recent, version, Lightning, Platform, WSDL]
+keywords: [Metadata, API, Support, Policy, Salesforce, supports, previous, versions, However, new, client, applications, recent, version, Lightning]
 ---
 
 # Metadata API Support Policy

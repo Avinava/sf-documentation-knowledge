@@ -5,9 +5,9 @@ topic: connectapiocilocationavailabilityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.131Z
+lastCollected: 2026-03-12T09:33:28.170Z
 estimatedTokens: 111
-keywords: [ConnectApi.OCILocationAvailabilityOutputRepresentation, set, inventory, availability, data, location.]
+keywords: [inventory, availability, data, location]
 ---
 
 # ConnectApi.OCILocationAvailabilityOutputRepresentation

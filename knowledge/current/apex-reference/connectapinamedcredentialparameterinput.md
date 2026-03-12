@@ -5,10 +5,10 @@ topic: connectapinamedcredentialparameterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.196Z
+lastCollected: 2026-03-12T09:33:25.424Z
 estimatedTokens: 213
 namespace: AllowedManagedPackageNamespaces
-keywords: [ConnectApi.NamedCredentialParameterInput, Named, credential, input.]
+keywords: [Named, credential, input]
 ---
 
 # ConnectApi.NamedCredentialParameterInput

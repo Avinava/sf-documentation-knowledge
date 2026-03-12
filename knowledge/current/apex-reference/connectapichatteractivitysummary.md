@@ -5,9 +5,9 @@ topic: connectapichatteractivitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.606Z
+lastCollected: 2026-03-12T09:33:26.745Z
 estimatedTokens: 203
-keywords: [ConnectApi.ChatterActivitySummary, Summary, Chatter, activity.]
+keywords: [ConnectApi.ChatterActivitySummary, Summary, Chatter, activity]
 ---
 
 # ConnectApi.ChatterActivitySummary

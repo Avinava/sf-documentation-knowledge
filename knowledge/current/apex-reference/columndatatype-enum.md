@@ -5,10 +5,10 @@ topic: columndatatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.688Z
+lastCollected: 2026-03-12T09:33:29.724Z
 estimatedTokens: 406
 namespace: Reports
-keywords: [ColumnDataType, Reports.ColumnDataType, describes, data, column., returned, getDataType, method., Values]
+keywords: [ColumnDataType, Reports.ColumnDataType, data, column, getDataType]
 ---
 
 # ColumnDataType Enum

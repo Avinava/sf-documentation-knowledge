@@ -8,9 +8,9 @@ topic: batch-invoices-draft-to-posted-status-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.622Z
+lastCollected: 2026-03-12T09:33:08.441Z
 estimatedTokens: 244
-keywords: [Batch, Invoices, Draft, Posted, Status, POST, Update, batch, invoices, status, credit, memo, application.]
+keywords: [Batch, Invoices, Draft, Posted, Status, POST, credit, memo, application]
 ---
 
 # Batch

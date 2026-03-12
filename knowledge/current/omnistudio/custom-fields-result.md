@@ -5,9 +5,9 @@ topic: custom-fields-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.045Z
+lastCollected: 2026-03-12T09:33:48.773Z
 estimatedTokens: 88
-keywords: [Custom, Fields, Result, Output, representation, digital, lending, record, custom, fields.]
+keywords: [Custom, Result, Output, representation, digital, lending, record]
 ---
 
 # Custom Fields Result

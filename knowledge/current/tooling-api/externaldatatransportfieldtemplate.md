@@ -5,9 +5,9 @@ topic: externaldatatransportfieldtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:45.539Z
+lastCollected: 2026-03-12T09:33:44.657Z
 estimatedTokens: 16
-keywords: [ExternalDataTransportFieldTemplate, Reserved, internal, use.]
+keywords: [ExternalDataTransportFieldTemplate, Reserved, internal]
 ---
 
 # ExternalDataTransportFieldTemplate

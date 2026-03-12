@@ -5,9 +5,9 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.373Z
+lastCollected: 2026-03-12T09:33:46.417Z
 estimatedTokens: 900
-keywords: [Response, Bodies, Here’s, list, Accelerator, API, response, bodies., Common, Business, Context, Service, Decision, Explainer, includes, Table, Expression, Set, Intelligent, Form]
+keywords: [Bodies, Here’s, Accelerator, API, Common, Business, Context, Service, Decision, Explainer, includes, Expression, Intelligent, Form, Reader, Group, Membership, Households, APIs, Document]
 ---
 
 # Response Bodies

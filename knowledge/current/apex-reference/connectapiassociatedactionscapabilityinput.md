@@ -5,9 +5,9 @@ topic: connectapiassociatedactionscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.307Z
+lastCollected: 2026-03-12T09:33:24.590Z
 estimatedTokens: 398
-keywords: [ConnectApi.AssociatedActionsCapabilityInput, list, action, link, groups, associate, feed, element., group, element, call, must, made, Apex, created, definition., addition, user, making, definition]
+keywords: [action, link, groups, associate, feed, element, group, call, made, Apex, created, definition, addition, user, making]
 ---
 
 # ConnectApi.AssociatedActionsCapabilityInput

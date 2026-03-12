@@ -5,9 +5,9 @@ topic: connectapiadjustiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.279Z
+lastCollected: 2026-03-12T09:33:24.566Z
 estimatedTokens: 353
-keywords: [ConnectApi.AdjustItemInputRepresentation, price, adjustment, OrderItemSummary., only, supports, discounts, increases.]
+keywords: [price, adjustment, OrderItemSummary, supports, discounts, increases]
 ---
 
 # ConnectApi.AdjustItemInputRepresentation

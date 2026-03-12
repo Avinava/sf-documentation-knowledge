@@ -5,10 +5,10 @@ topic: attachmentretrievaloption-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.461Z
+lastCollected: 2026-03-12T09:33:29.509Z
 estimatedTokens: 389
 namespace: Messaging
-keywords: [AttachmentRetrievalOption, Provides, options, including, attachment, metadata, only, content, excluding, attachments., Usage, Values]
+keywords: [AttachmentRetrievalOption, options, including, attachment, metadata, content, excluding, attachments, Usage]
 ---
 
 # AttachmentRetrievalOption Enum

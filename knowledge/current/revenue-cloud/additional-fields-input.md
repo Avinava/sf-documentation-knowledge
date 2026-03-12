@@ -5,9 +5,9 @@ topic: additional-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.617Z
+lastCollected: 2026-03-12T09:33:07.563Z
 estimatedTokens: 94
-keywords: [Additional, Fields, Input, representation, additional, standard, custom, fields, include, response., included]
+keywords: [Additional, Input, representation, standard, custom, include, included]
 ---
 
 # Additional Fields Input

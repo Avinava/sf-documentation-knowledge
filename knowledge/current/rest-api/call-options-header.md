@@ -5,9 +5,9 @@ topic: call-options-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.143Z
+lastCollected: 2026-03-12T09:33:35.022Z
 estimatedTokens: 460
-keywords: [Call, Options, Header, Specifies, options, client, you’re, access, REST, API, resources., example, provide, default, prefix, don’t, need, specify, code., Field]
+keywords: [Call, Options, client, you’re, access, REST, API, resources, provide, prefix, don’t, specify, code]
 ---
 
 # Call Options Header

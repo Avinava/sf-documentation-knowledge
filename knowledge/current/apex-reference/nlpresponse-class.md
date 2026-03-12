@@ -5,9 +5,9 @@ topic: nlpresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:22.585Z
+lastCollected: 2026-03-12T09:33:22.999Z
 estimatedTokens: 113
-keywords: [NlpResponse, Stores, result, NLP, Operation., operation, SurveyLongSummarization, SurveyShortSummarization.]
+keywords: [NlpResponse, Stores, result, NLP, Operation, SurveyLongSummarization, SurveyShortSummarization]
 ---
 
 # NlpResponse Class

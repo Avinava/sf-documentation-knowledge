@@ -5,9 +5,9 @@ topic: connectapimessagebody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.000Z
+lastCollected: 2026-03-12T09:33:28.016Z
 estimatedTokens: 262
-keywords: [ConnectApi.MessageBody, Message, body.]
+keywords: [ConnectApi.MessageBody, Message]
 ---
 
 # ConnectApi.MessageBody

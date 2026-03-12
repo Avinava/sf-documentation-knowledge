@@ -5,9 +5,9 @@ topic: loan-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.256Z
+lastCollected: 2026-03-12T09:33:14.981Z
 estimatedTokens: 533
-keywords: [Loan, Account, DMO, Represents, subtype, financial, account., Provided, Financial, Services, Cloud, Data, Kit., API, version, later., Name, Category, Primary, Subject]
+keywords: [Loan, Account, DMO, subtype, financial, Provided, Services, Cloud, Data, Kit, API, version, later, Category, Primary]
 ---
 
 # Loan Account DMO

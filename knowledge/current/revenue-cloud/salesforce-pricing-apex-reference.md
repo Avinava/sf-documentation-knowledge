@@ -5,10 +5,10 @@ topic: salesforce-pricing-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:08.898Z
+lastCollected: 2026-03-12T09:33:10.310Z
 estimatedTokens: 185
 namespace: The
-keywords: [Salesforce, Pricing, Apex, Reference, built-in, classes, interfaces, grouped, namespace.]
+keywords: [Salesforce, Pricing, Apex, built-in, classes, interfaces, grouped]
 ---
 
 # Salesforce Pricing Apex Reference

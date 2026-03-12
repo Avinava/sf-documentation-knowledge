@@ -5,9 +5,9 @@ topic: scheduled-reminders
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.044Z
+lastCollected: 2026-03-12T09:33:51.585Z
 estimatedTokens: 193
-keywords: [Scheduled, Reminders, Create, automatic, email, reminders, remind, users, important, events., send, regularly, just, once, keep, people, informed, prepared, completed, actions.]
+keywords: [Scheduled, Reminders, automatic, email, remind, users, events, send, regularly, once, keep, people, informed, prepared, completed]
 ---
 
 # Scheduled Reminders

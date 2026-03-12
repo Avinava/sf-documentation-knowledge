@@ -5,9 +5,9 @@ topic: connectapimanagedtopiccollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.935Z
+lastCollected: 2026-03-12T09:33:27.959Z
 estimatedTokens: 111
-keywords: [ConnectApi.ManagedTopicCollection, collection, managed, topics.]
+keywords: [ConnectApi.ManagedTopicCollection, collection, managed, topics]
 ---
 
 # ConnectApi.ManagedTopicCollection

@@ -5,10 +5,10 @@ topic: order-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.967Z
+lastCollected: 2026-03-12T09:33:20.515Z
 estimatedTokens: 1132
 namespace: DataSource
-keywords: [Order, Contains, details, how, sort, rows, result, set., Equivalent, ORDER, statement, SOQL, query., Usage, columnName, direction, tableName, get]
+keywords: [Order, how, sort, rows, result, Equivalent, statement, SOQL, query, Usage, columnName, direction, tableName]
 ---
 
 # Order Class

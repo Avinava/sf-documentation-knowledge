@@ -5,9 +5,9 @@ topic: create-and-apply-credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.721Z
+lastCollected: 2026-03-12T09:33:08.530Z
 estimatedTokens: 981
-keywords: [Create, Apply, Credit, Memo, POST, credit, memo, apply, invoice., fully, partially]
+keywords: [Apply, Credit, Memo, POST, invoice, fully, partially]
 ---
 
 # Create and Apply Credit Memo (POST)

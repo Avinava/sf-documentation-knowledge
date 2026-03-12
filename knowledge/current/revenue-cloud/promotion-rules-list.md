@@ -5,9 +5,9 @@ topic: promotion-rules-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.269Z
+lastCollected: 2026-03-12T09:33:09.810Z
 estimatedTokens: 141
-keywords: [Promotion, Rules, List, Output, representation, details, rules, eligible, promotion.]
+keywords: [Promotion, Rules, Output, representation, eligible]
 ---
 
 # Promotion Rules List

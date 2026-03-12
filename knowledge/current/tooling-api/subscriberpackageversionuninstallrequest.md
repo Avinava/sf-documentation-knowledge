@@ -5,9 +5,9 @@ topic: subscriberpackageversionuninstallrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.891Z
+lastCollected: 2026-03-12T09:33:45.968Z
 estimatedTokens: 172
-keywords: [SubscriberPackageVersionUninstallRequest, Represents, request, uninstall, Package2Version, second-generation, package, version, API, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [uninstall, Package2Version, second-generation, package, version, API, 41.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # SubscriberPackageVersionUninstallRequest

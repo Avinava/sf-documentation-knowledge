@@ -5,9 +5,9 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.359Z
+lastCollected: 2026-03-12T09:33:39.858Z
 estimatedTokens: 579
-keywords: [Group, Represents, set, groups, which, users, roles, groups., Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Note]
+keywords: [Group, groups, users, roles, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Sample]
 ---
 
 # Group

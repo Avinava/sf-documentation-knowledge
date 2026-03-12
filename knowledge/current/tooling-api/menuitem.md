@@ -5,9 +5,9 @@ topic: menuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.030Z
+lastCollected: 2026-03-12T09:33:45.177Z
 estimatedTokens: 602
-keywords: [MenuItem, Represents, menu, item., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
+keywords: [MenuItem, menu, item, SOAP, Calls, REST, HTTP, Usage]
 ---
 
 # MenuItem

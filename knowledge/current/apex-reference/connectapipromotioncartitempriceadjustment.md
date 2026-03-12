@@ -5,9 +5,9 @@ topic: connectapipromotioncartitempriceadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.680Z
+lastCollected: 2026-03-12T09:33:28.719Z
 estimatedTokens: 675
-keywords: [ConnectApi.PromotionCartItemPriceAdjustment, Price, adjustments, applied, cart, item.]
+keywords: [Price, adjustments, applied, cart, item]
 ---
 
 # ConnectApi.PromotionCartItemPriceAdjustment

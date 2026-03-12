@@ -5,9 +5,9 @@ topic: actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.178Z
+lastCollected: 2026-03-12T09:33:15.857Z
 estimatedTokens: 1385
-keywords: [ActionPlanTemplate, Represents, instance, action, plan, template., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ActionPlanTemplateItem, ActionPlanTemplateItemDependency, ActionPlanTemplateItemValue, Declarative]
+keywords: [ActionPlanTemplate, instance, action, plan, template, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, ActionPlanTemplateItem]
 ---
 
 # ActionPlanTemplate

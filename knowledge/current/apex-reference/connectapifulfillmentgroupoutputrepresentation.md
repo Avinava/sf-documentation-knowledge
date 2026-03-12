@@ -5,9 +5,9 @@ topic: connectapifulfillmentgroupoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.538Z
+lastCollected: 2026-03-12T09:33:27.596Z
 estimatedTokens: 333
-keywords: [ConnectApi.FulfillmentGroupOutputRepresentation, Information, FulfillmentOrder, request, create, fulfillment, orders, multiple, OrderDeliveryGroupSummaries., created, then, its, returned., failed, data, input, returned, resubmit, it.]
+keywords: [FulfillmentOrder, fulfillment, orders, multiple, OrderDeliveryGroupSummaries, created, failed, data, input, resubmit]
 ---
 
 # ConnectApi.FulfillmentGroupOutputRepresentation

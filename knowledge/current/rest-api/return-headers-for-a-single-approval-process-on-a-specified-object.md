@@ -6,9 +6,9 @@ topic: return-headers-for-a-single-approval-process-on-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.959Z
+lastCollected: 2026-03-12T09:33:35.807Z
 estimatedTokens: 170
-keywords: [Headers, Single, Approval, Process, Specified, only, headers, returned, GET, request, sObject, ApprovalLayouts, resources., gives, chance, header, values, before, retrieving, content]
+keywords: [Approval, Process, sObject, ApprovalLayouts, resources, gives, chance, retrieving, content, resource, Specify, particular, limit, specific, layout]
 ---
 
 # Return Headers for a Single Approval Process on a Specified

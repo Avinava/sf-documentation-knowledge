@@ -5,9 +5,9 @@ topic: schedulingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:42.583Z
+lastCollected: 2026-03-12T09:33:41.993Z
 estimatedTokens: 858
-keywords: [SchedulingRule, Represents, scheduling, rule, Workforce, Engagement, Management., Scheduling, rules, determine, agents, assigned, shifts., Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [SchedulingRule, scheduling, rule, Workforce, Engagement, Management, rules, determine, agents, assigned, shifts, Parent, File, Suffix, Directory]
 ---
 
 # SchedulingRule

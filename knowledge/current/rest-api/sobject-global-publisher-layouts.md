@@ -5,9 +5,9 @@ topic: sobject-global-publisher-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.000Z
+lastCollected: 2026-03-12T09:33:35.848Z
 estimatedTokens: 287
-keywords: [sObject, Publisher, Layouts, Retrieves, lists, publisher, layouts., layouts, customize, actions, pages, Home, page, Lightning, Experience, populate, Actions, menu.]
+keywords: [sObject, Publisher, Layouts, Retrieves, customize, actions, pages, Home, Lightning, Experience, populate, menu]
 ---
 
 # sObject Global Publisher Layouts

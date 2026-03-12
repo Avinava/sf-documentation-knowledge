@@ -5,10 +5,10 @@ topic: inboundemailresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.435Z
+lastCollected: 2026-03-12T09:33:23.804Z
 estimatedTokens: 464
 namespace: Messaging
-keywords: [InboundEmailResult, used, result, email, service., null, assumed, successful., message, success, Usage]
+keywords: [InboundEmailResult, result, email, service, assumed, successful, message, success, Usage]
 ---
 
 # InboundEmailResult Class

@@ -5,9 +5,9 @@ topic: sitemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.565Z
+lastCollected: 2026-03-12T09:33:13.458Z
 estimatedTokens: 2372
-keywords: [Sitemap, Salesforce, Interactions, SDK, provides, ability, extract, data, during, page, navigation., sitemap, share, capture, logic, across, multiple, pages, separate, web]
+keywords: [Sitemap, Salesforce, Interactions, SDK, ability, extract, data, navigation, share, capture, logic, across, multiple, pages, separate]
 ---
 
 # Sitemap

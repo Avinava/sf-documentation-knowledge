@@ -5,9 +5,9 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:03.359Z
+lastCollected: 2026-03-12T09:33:05.544Z
 estimatedTokens: 21610
-keywords: [org, Commands, Assign, permission, set, users., assign, permset, Description, Examples, Flags, permsetlicense, create, sandbox, Aliases, scratch, shape, snapshot, user, delete]
+keywords: [org, Commands, Assign, permission, users, permset, Examples, Flags, permsetlicense, sandbox, Aliases, scratch, shape, snapshot, user]
 ---
 
 # org Commands

@@ -5,9 +5,9 @@ topic: connectapiabstractrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.829Z
+lastCollected: 2026-03-12T09:33:26.006Z
 estimatedTokens: 403
-keywords: [ConnectApi.AbstractRecordField, field, record., Important]
+keywords: [ConnectApi.AbstractRecordField, record]
 ---
 
 # ConnectApi.AbstractRecordField

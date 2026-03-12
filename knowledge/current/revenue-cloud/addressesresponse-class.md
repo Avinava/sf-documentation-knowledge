@@ -5,10 +5,10 @@ topic: addressesresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.369Z
+lastCollected: 2026-03-12T09:33:06.458Z
 estimatedTokens: 1146
 namespace: CommerceTax
-keywords: [AddressesResponse, tax, address, fields, based, response, external, engine., Contains, setter, Ship, Sold, addresses., Usage, Example, setShipFrom, shipFrom, setShipTo, shipTo, setSoldTo]
+keywords: [AddressesResponse, tax, address, external, engine, setter, Ship, Sold, addresses, Usage, setShipFrom, shipFrom, setShipTo, shipTo, setSoldTo]
 ---
 
 # AddressesResponse Class

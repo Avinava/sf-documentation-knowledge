@@ -5,9 +5,9 @@ topic: connectapiformulascope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.535Z
+lastCollected: 2026-03-12T09:33:27.592Z
 estimatedTokens: 162
-keywords: [ConnectApi.FormulaScope, Formula, scope, target.]
+keywords: [ConnectApi.FormulaScope, Formula, scope, target]
 ---
 
 # ConnectApi.FormulaScope

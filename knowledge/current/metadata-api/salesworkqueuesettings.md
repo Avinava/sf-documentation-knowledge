@@ -5,9 +5,9 @@ topic: salesworkqueuesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.544Z
+lastCollected: 2026-03-12T09:33:41.958Z
 estimatedTokens: 690
-keywords: [SalesWorkQueueSettings, Represents, settings, used, customize, work, queue, options, third-party, scoring., Sales, Engagement, add, custom, number, field, person, accounts, contacts, leads.]
+keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, third-party, scoring, Sales, Engagement, add, custom, number, person, accounts]
 ---
 
 # SalesWorkQueueSettings

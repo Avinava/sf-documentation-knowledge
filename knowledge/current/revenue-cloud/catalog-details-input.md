@@ -5,9 +5,9 @@ topic: catalog-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.858Z
+lastCollected: 2026-03-12T09:33:07.782Z
 estimatedTokens: 134
-keywords: [Catalog, Details, Input, representation, request, get, catalog, details.]
+keywords: [Catalog, Input, representation]
 ---
 
 # Catalog Details Input

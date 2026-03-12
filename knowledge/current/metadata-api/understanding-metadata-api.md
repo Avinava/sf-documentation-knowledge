@@ -5,9 +5,9 @@ topic: understanding-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:40.626Z
+lastCollected: 2026-03-12T09:33:40.131Z
 estimatedTokens: 1146
-keywords: [Understanding, Metadata, API, data, describes, data., understand, how, Salesforce, defines, metadata, contrast, business, metadata., Business, includes, records, directly, correspond, company’s]
+keywords: [Understanding, Metadata, API, data, understand, how, Salesforce, contrast, business, includes, records, directly, correspond, company’s, address]
 ---
 
 # Understanding Metadata API

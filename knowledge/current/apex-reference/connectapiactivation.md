@@ -5,9 +5,9 @@ topic: connectapiactivation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.970Z
+lastCollected: 2026-03-12T09:33:26.149Z
 estimatedTokens: 1147
-keywords: [ConnectApi.Activation, Represents, activation, output.]
+keywords: [ConnectApi.Activation, activation, output]
 ---
 
 # ConnectApi.Activation

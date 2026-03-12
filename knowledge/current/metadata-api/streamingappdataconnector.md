@@ -5,9 +5,9 @@ topic: streamingappdataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.012Z
+lastCollected: 2026-03-12T09:33:42.360Z
 estimatedTokens: 633
-keywords: [StreamingAppDataConnector, Represents, connection, information, specific, Web, Mobile, Connectors., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
+keywords: [StreamingAppDataConnector, connection, specific, Web, Mobile, Connectors, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # StreamingAppDataConnector

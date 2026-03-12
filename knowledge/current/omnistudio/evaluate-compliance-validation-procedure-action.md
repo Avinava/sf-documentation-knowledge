@@ -5,9 +5,9 @@ topic: evaluate-compliance-validation-procedure-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.286Z
+lastCollected: 2026-03-12T09:33:46.338Z
 estimatedTokens: 385
-keywords: [Evaluate, Compliance, Validation, Procedure, Action, compliance, validation, procedure, create, evaluation, API, response., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs]
+keywords: [Evaluate, Compliance, Validation, Procedure, Action, evaluation, API, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Evaluate Compliance Validation Procedure Action

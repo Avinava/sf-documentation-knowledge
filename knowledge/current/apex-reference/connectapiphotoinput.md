@@ -5,9 +5,9 @@ topic: connectapiphotoinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.172Z
+lastCollected: 2026-03-12T09:33:24.468Z
 estimatedTokens: 688
-keywords: [ConnectApi.PhotoInput, Specify, how, crop, photo, already, uploaded.]
+keywords: [ConnectApi.PhotoInput, Specify, how, crop, photo, already, uploaded]
 ---
 
 # ConnectApi.PhotoInput

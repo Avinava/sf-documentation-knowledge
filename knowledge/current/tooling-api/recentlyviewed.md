@@ -5,9 +5,9 @@ topic: recentlyviewed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.587Z
+lastCollected: 2026-03-12T09:33:45.689Z
 estimatedTokens: 1127
-keywords: [RecentlyViewed, Represents, metadata, entities, typically, found, Setup, such, page, layout, definitions, workflow, rule, email, templates, current, user, recently, viewed., Supported]
+keywords: [RecentlyViewed, metadata, entities, typically, found, Setup, layout, definitions, workflow, rule, email, templates, current, user, recently]
 ---
 
 # RecentlyViewed

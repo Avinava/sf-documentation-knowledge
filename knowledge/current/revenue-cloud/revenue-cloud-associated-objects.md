@@ -5,9 +5,9 @@ topic: revenue-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.315Z
+lastCollected: 2026-03-12T09:33:10.663Z
 estimatedTokens: 847
-keywords: [Revenue, Cloud, Associated, Objects, section, provides, list, objects, associated, standard, their, fields.]
+keywords: [Revenue, Cloud, Associated, Objects, standard, their]
 ---
 
 # Revenue Cloud Associated Objects

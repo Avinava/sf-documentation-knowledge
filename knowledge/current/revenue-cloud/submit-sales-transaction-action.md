@@ -5,9 +5,9 @@ topic: submit-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.061Z
+lastCollected: 2026-03-12T09:33:06.184Z
 estimatedTokens: 771
-keywords: [Submit, Sales, Transaction, Action, Initiate, fulfillment, process, any, sales, transaction, such, quote, order, summary., Special, Access, Rules, Supported, REST, HTTP]
+keywords: [Submit, Sales, Transaction, Action, Initiate, fulfillment, process, any, quote, order, summary, Special, Access, Rules, REST]
 ---
 
 # Submit Sales Transaction Action

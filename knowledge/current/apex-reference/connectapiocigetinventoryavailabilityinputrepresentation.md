@@ -5,9 +5,9 @@ topic: connectapiocigetinventoryavailabilityinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.234Z
+lastCollected: 2026-03-12T09:33:25.459Z
 estimatedTokens: 491
-keywords: [ConnectApi.OCIGetInventoryAvailabilityInputRepresentation, Details, request, retrieve, inventory, availability.]
+keywords: [retrieve, inventory, availability]
 ---
 
 # ConnectApi.OCIGetInventoryAvailabilityInputRepresentation

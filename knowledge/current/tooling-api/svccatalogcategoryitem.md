@@ -5,9 +5,9 @@ topic: svccatalogcategoryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.904Z
+lastCollected: 2026-03-12T09:33:45.980Z
 estimatedTokens: 383
-keywords: [SvcCatalogCategoryItem, Represents, assignment, service, category, within, Service, Catalog., API, version, 53.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
+keywords: [SvcCatalogCategoryItem, assignment, service, category, Catalog, API, version, 53.0, later, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # SvcCatalogCategoryItem

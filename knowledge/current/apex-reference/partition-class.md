@@ -5,10 +5,10 @@ topic: partition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.626Z
+lastCollected: 2026-03-12T09:33:22.053Z
 estimatedTokens: 7878
 namespace: Cache.OrgPartition
-keywords: [Partition, Base, Cache.OrgPartition, Cache.SessionPartition., subclasses, manage, cache, partition, org, caches, session, caches., Cache, Key, Format, contains, key, setOfKeys, Usage, Example]
+keywords: [Partition, Base, Cache.OrgPartition, Cache.SessionPartition, subclasses, manage, cache, org, caches, session, Key, setOfKeys, Usage, createFullyQualifiedKey, createFullyQualifiedPartition]
 ---
 
 # Partition Class

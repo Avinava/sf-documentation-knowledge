@@ -5,9 +5,9 @@ topic: serviceappointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.532Z
+lastCollected: 2026-03-12T09:33:54.738Z
 estimatedTokens: 3729
-keywords: [ServiceAppointment, Represents, appointment, complete, work, customer, Field, Service, Lightning, Scheduler, Intelligent, Appointment, Management, Virtual, Care.This, API, version, 38.0, later., Supported]
+keywords: [ServiceAppointment, appointment, work, customer, Service, Lightning, Scheduler, Intelligent, Management, Virtual, Care.This, API, version, 38.0, later]
 ---
 
 # ServiceAppointment

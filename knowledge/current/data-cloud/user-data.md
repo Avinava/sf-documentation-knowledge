@@ -5,9 +5,9 @@ topic: user-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.636Z
+lastCollected: 2026-03-12T09:33:13.519Z
 estimatedTokens: 398
-keywords: [User, Data, Track, profile, data, user, without, associated, interaction, Salesforce, Interactions, Web, SDK., Example]
+keywords: [User, Data, Track, profile, associated, interaction, Salesforce, Interactions, Web, SDK]
 ---
 
 # User Data

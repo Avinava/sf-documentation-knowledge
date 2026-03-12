@@ -5,9 +5,9 @@ topic: formulatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.680Z
+lastCollected: 2026-03-12T09:33:29.716Z
 estimatedTokens: 91
-keywords: [FormulaType, format, numbers, custom, summary, formula., Values]
+keywords: [FormulaType, numbers, custom, summary, formula]
 ---
 
 # FormulaType Enum

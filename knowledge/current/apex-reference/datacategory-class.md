@@ -5,10 +5,10 @@ topic: datacategory-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.804Z
+lastCollected: 2026-03-12T09:33:21.363Z
 estimatedTokens: 540
 namespace: Schema
-keywords: [DataCategory, Represents, categories, within, category, group., Usage, getChildCategories, getLabel, getName]
+keywords: [DataCategory, categories, category, group, Usage, getChildCategories, getLabel, getName]
 ---
 
 # DataCategory Class

@@ -5,9 +5,9 @@ topic: list-available-rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:34.962Z
+lastCollected: 2026-03-12T09:33:34.856Z
 estimatedTokens: 227
-keywords: [List, REST, Resources, Version, resource, list, resources, specified, API, version., provides, name, URI, additional, resource., Further, Information]
+keywords: [REST, Resources, Version, resource, API, URI, additional, Further]
 ---
 
 # List Available REST Resources

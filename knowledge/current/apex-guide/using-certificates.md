@@ -5,9 +5,9 @@ topic: using-certificates
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:32.312Z
+lastCollected: 2026-03-12T09:33:32.348Z
 estimatedTokens: 700
-keywords: [Certificates, two-way, SSL, authentication, send, certificate, callout, either, generated, Salesforce, signed, authority, Sending, enhances, security, because, target, receives]
+keywords: [Certificates, two-way, SSL, authentication, send, certificate, callout, either, generated, Salesforce, signed, authority, Sending, enhances, security]
 ---
 
 # Using Certificates

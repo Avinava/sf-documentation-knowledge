@@ -5,9 +5,9 @@ topic: salesforce-crm-case-article-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.496Z
+lastCollected: 2026-03-12T09:33:14.325Z
 estimatedTokens: 311
-keywords: [Salesforce, CRM, Case, Article, Mapping, data, mappings, CaseArticle, DLO, found, Knowledge, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Case, Article, Mapping, data, mappings, CaseArticle, DLO, found, Knowledge, bundle, Connector, Cloud, Usage]
 ---
 
 # Salesforce CRM: Case Article Mapping

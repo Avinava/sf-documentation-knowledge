@@ -3,17 +3,23 @@
  * CLI: collect — Run collectors for Salesforce documentation.
  *
  * Usage:
- *   npm run collect                    # Collect all P0 domains
+ *   npm run collect                           # Collect all P0 domains
  *   npm run collect -- --domain cli-commands  # Collect specific domain
- *   npm run collect -- --all           # Collect all domains
+ *   npm run collect -- --all                  # Collect all configured domains
+ *   npm run collect -- --discover             # Discover + collect ALL deliverables from the SF index API
  */
 import { Command } from "commander";
 import {
   getDomainById,
   getDomainsByPriority,
   getCollectableDomains,
+  type DomainConfig,
 } from "../config/domains.js";
 import { AtlasMetaCollector } from "../collectors/atlas-meta.js";
+import {
+  fetchDocIndex,
+  deliverableToId,
+} from "../collectors/index-fetcher.js";
 import { createChildLogger } from "../utils/logger.js";
 import type { CollectionResult } from "../collectors/base-collector.js";
 
@@ -24,7 +30,11 @@ program
   .name("collect")
   .description("Collect Salesforce documentation from developer.salesforce.com")
   .option("-d, --domain <id>", "Collect a specific domain by ID")
-  .option("-a, --all", "Collect all domains (not just P0)")
+  .option("-a, --all", "Collect all configured domains (not just P0)")
+  .option(
+    "--discover",
+    "Auto-discover and collect ALL deliverables from the SF index API",
+  )
   .option("-o, --output <dir>", "Output directory for raw data", "data/raw")
   .action(async (options) => {
     const results: CollectionResult[] = [];
@@ -44,6 +54,63 @@ program
       }
       const collector = new AtlasMetaCollector(domain, options.output);
       results.push(await collector.run());
+    } else if (options.discover) {
+      // Auto-discover ALL deliverables from the index API
+      const entries = await fetchDocIndex();
+      log.info(
+        { count: entries.length },
+        "Discovered deliverables from SF index API",
+      );
+
+      // Build set of already-configured domain IDs for dedup
+      const configuredAtlas = new Set(
+        getCollectableDomains().map((d) => d.atlas),
+      );
+
+      // Collect configured domains first (they may have pathFilters etc.)
+      const configuredDomains = getCollectableDomains();
+      for (const domain of configuredDomains) {
+        try {
+          const collector = new AtlasMetaCollector(domain, options.output);
+          results.push(await collector.run());
+        } catch (err) {
+          log.error({ domain: domain.id, err }, "Failed to collect domain");
+        }
+      }
+
+      // Collect remaining discovered deliverables as dynamic domains
+      for (const entry of entries) {
+        const atlasKey = `atlas.en-us.${entry.deliverable}`;
+        if (configuredAtlas.has(atlasKey)) continue; // Already collected above
+
+        const dynamicDomain: DomainConfig = {
+          id: deliverableToId(entry.deliverable),
+          name: entry.title,
+          priority: "P2",
+          atlas: atlasKey,
+          description: entry.shortdesc.slice(0, 100),
+          tags: [entry.service.toLowerCase().replace(/\s+/g, "-")].filter(
+            Boolean,
+          ),
+        };
+
+        try {
+          log.info(
+            { id: dynamicDomain.id, name: dynamicDomain.name },
+            "Collecting discovered deliverable",
+          );
+          const collector = new AtlasMetaCollector(
+            dynamicDomain,
+            options.output,
+          );
+          results.push(await collector.run());
+        } catch (err) {
+          log.error(
+            { domain: dynamicDomain.id, err },
+            "Failed to collect discovered deliverable",
+          );
+        }
+      }
     } else {
       // Collect by priority
       const domains = options.all
@@ -64,6 +131,8 @@ program
 
     // Summary
     console.log("\n--- Collection Summary ---");
+    let totalFiles = 0;
+    let totalErrors = 0;
     for (const r of results) {
       const status = r.errors.length > 0 ? "⚠️" : "✅";
       console.log(
@@ -72,7 +141,12 @@ program
       if (r.errors.length > 0) {
         r.errors.forEach((e) => console.log(`   ⚠️ ${e}`));
       }
+      totalFiles += r.filesCollected;
+      totalErrors += r.errors.length;
     }
+    console.log(
+      `\nTotal: ${results.length} domains, ${totalFiles} files, ${totalErrors} errors`,
+    );
   });
 
 program.parse();

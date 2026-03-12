@@ -5,10 +5,10 @@ topic: paymentgatewayadapter-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.984Z
+lastCollected: 2026-03-12T09:33:30.053Z
 estimatedTokens: 393
 namespace: CommercePayments
-keywords: [PaymentGatewayAdapter, PaymentGatewayAdapters, implement, order, process, requests., processRequest, var1]
+keywords: [PaymentGatewayAdapter, PaymentGatewayAdapters, implement, order, process, requests, processRequest, var1]
 ---
 
 # PaymentGatewayAdapter Interface

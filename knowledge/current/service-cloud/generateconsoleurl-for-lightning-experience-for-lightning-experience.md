@@ -6,9 +6,9 @@ topic: generateconsoleurl-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.716Z
+lastCollected: 2026-03-12T09:33:55.817Z
 estimatedTokens: 239
-keywords: [generateConsoleUrl, Lightning, Experience, Generates, URL, workspace, tab, its, subtabs., works, only, console, apps., isn’t, supported, Web, Components, LWC, Arguments, Sample]
+keywords: [generateConsoleUrl, Lightning, Experience, Generates, URL, workspace, tab, subtabs, works, console, apps, isn’t, Web, Components, LWC]
 ---
 
 # generateConsoleUrl() for Lightning Experience for

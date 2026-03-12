@@ -5,9 +5,9 @@ topic: letterhead
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.807Z
+lastCollected: 2026-03-12T09:33:40.306Z
 estimatedTokens: 1043
-keywords: [Letterhead, Represents, formatting, options, letterhead, email, template., defines, logo, page, color, text, settings, HTML, templates., letterheads, ensure, consistent, look, feel]
+keywords: [Letterhead, formatting, options, email, template, logo, color, text, settings, HTML, templates, letterheads, ensure, consistent, look]
 ---
 
 # Letterhead

@@ -5,9 +5,9 @@ topic: product-classification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.187Z
+lastCollected: 2026-03-12T09:33:09.734Z
 estimatedTokens: 193
-keywords: [Product, Classification, Output, representation, product, classification, details.]
+keywords: [Product, Classification, Output, representation]
 ---
 
 # Product Classification

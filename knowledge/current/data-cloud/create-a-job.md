@@ -5,9 +5,9 @@ topic: create-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.080Z
+lastCollected: 2026-03-12T09:33:12.996Z
 estimatedTokens: 436
-keywords: [Create, Job, Creates, job, represents, bulk, operation, loading, data, Data, Cloud, org., Note]
+keywords: [Job, Creates, bulk, operation, loading, data, Cloud, org]
 ---
 
 # Create a Job

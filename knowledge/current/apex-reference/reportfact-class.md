@@ -5,10 +5,10 @@ topic: reportfact-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.079Z
+lastCollected: 2026-03-12T09:33:23.475Z
 estimatedTokens: 514
 namespace: Reports
-keywords: [ReportFact, Contains, fact, map, report, which, represents, report’s, data, values., Usage, getAggregates, Syntax, getKey]
+keywords: [ReportFact, fact, map, report, report’s, data, Usage, getAggregates, getKey]
 ---
 
 # ReportFact Class

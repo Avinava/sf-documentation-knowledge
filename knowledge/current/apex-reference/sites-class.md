@@ -5,10 +5,10 @@ topic: sites-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.916Z
+lastCollected: 2026-03-12T09:33:19.601Z
 estimatedTokens: 658
 namespace: ConnectApi
-keywords: [Sites, Search, Experience, Cloud, site., searchSite, siteId, queryTerm, pageToken, pageSize, language, API, Version, Guest, Users, Requires, Chatter]
+keywords: [Sites, Search, Experience, Cloud, site, searchSite, siteId, queryTerm, pageToken, pageSize, language, API, Version, Guest, Users]
 ---
 
 # Sites Class

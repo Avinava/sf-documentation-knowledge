@@ -5,9 +5,9 @@ topic: pathassistantstepitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.351Z
+lastCollected: 2026-03-12T09:33:45.480Z
 estimatedTokens: 254
-keywords: [PathAssistantStepItem, Represents, layout, guidance, details, step, Path., Tooling, API, version, 36.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [PathAssistantStepItem, layout, guidance, step, Path, Tooling, API, version, 36.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # PathAssistantStepItem

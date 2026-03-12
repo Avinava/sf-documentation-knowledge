@@ -5,9 +5,9 @@ topic: accesstype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.559Z
+lastCollected: 2026-03-12T09:33:29.603Z
 estimatedTokens: 226
-keywords: [AccessType, Specifies, access, check, fields, sObject., Usage, Values]
+keywords: [AccessType, access, check, sObject, Usage]
 ---
 
 # AccessType Enum

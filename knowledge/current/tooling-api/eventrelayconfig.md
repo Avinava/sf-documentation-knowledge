@@ -5,9 +5,9 @@ topic: eventrelayconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.450Z
+lastCollected: 2026-03-12T09:33:44.576Z
 estimatedTokens: 1716
-keywords: [EventRelayConfig, Represents, configuration, event, relay, which, relays, platform, events, change, data, capture, Salesforce, Amazon, EventBridge., API, version, 56.0, later., Important]
+keywords: [EventRelayConfig, configuration, event, relay, relays, platform, events, change, data, capture, Salesforce, Amazon, EventBridge, API, version]
 ---
 
 # EventRelayConfig

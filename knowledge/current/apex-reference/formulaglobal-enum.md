@@ -5,9 +5,9 @@ topic: formulaglobal-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.656Z
+lastCollected: 2026-03-12T09:33:29.693Z
 estimatedTokens: 346
-keywords: [FormulaGlobal, Specifies, variable, references, data, organization, withGlobalVariables, formulaGlobals, method., Values]
+keywords: [FormulaGlobal, variable, references, data, organization, withGlobalVariables, formulaGlobals]
 ---
 
 # FormulaGlobal Enum

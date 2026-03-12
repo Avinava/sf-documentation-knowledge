@@ -5,9 +5,9 @@ topic: evaluating-filters-in-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.002Z
+lastCollected: 2026-03-12T09:33:33.032Z
 estimatedTokens: 336
-keywords: [Evaluating, Filters, Apex, Connector, Framework, filter, evaluates, true, row, matches, conditions, describes.]
+keywords: [Evaluating, Filters, Apex, Connector, Framework, filter, evaluates, row, matches, conditions]
 ---
 
 # Evaluating Filters in the Apex Connector Framework

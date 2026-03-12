@@ -5,9 +5,9 @@ topic: connectapicommunitypage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.738Z
+lastCollected: 2026-03-12T09:33:26.852Z
 estimatedTokens: 81
-keywords: [ConnectApi.CommunityPage, Page, Experience, Cloud, sites.]
+keywords: [ConnectApi.CommunityPage, Experience, Cloud, sites]
 ---
 
 # ConnectApi.CommunityPage

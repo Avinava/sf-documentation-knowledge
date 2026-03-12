@@ -5,9 +5,9 @@ topic: callcoachingmediaprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.502Z
+lastCollected: 2026-03-12T09:33:37.270Z
 estimatedTokens: 527
-keywords: [CallCoachingMediaProvider, Represents, configuration., configure, which, providers, voice, recordings, Einstein, Conversation, Insights, use., example, Sales, Dialer, provide, recordings., then, stores, analyzes]
+keywords: [CallCoachingMediaProvider, configuration, configure, providers, voice, recordings, Einstein, Conversation, Insights, Sales, Dialer, provide, stores, analyzes, call]
 ---
 
 # CallCoachingMediaProvider

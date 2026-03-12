@@ -5,9 +5,9 @@ topic: taxpreferenceenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.208Z
+lastCollected: 2026-03-12T09:33:07.231Z
 estimatedTokens: 114
-keywords: [TaxPreferenceEnum, Specifies, whether, execute, skip, tax, calculation, step, sales, transaction, record., API, version, 65.0, later., Values]
+keywords: [TaxPreferenceEnum, whether, execute, skip, tax, calculation, step, sales, transaction, record, API, version, 65.0, later]
 ---
 
 # TaxPreferenceEnum Enum

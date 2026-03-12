@@ -5,9 +5,9 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.006Z
+lastCollected: 2026-03-12T09:33:42.354Z
 estimatedTokens: 781
-keywords: [StaticResource, Represents, resource, file, often, code, library, ZIP, file., resources, allow, upload, content, reference, Visualforce, page, including, archives, such, .zip]
+keywords: [StaticResource, resource, file, often, code, library, ZIP, resources, allow, upload, content, Visualforce, including, archives, jar]
 ---
 
 # StaticResource

@@ -5,9 +5,9 @@ topic: using-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.518Z
+lastCollected: 2026-03-12T09:33:32.552Z
 estimatedTokens: 580
-keywords: [code, invoked, created, blueprint., need, write, every, class., doesn't, user-defined, default, no-argument, same, visibility, containing]
+keywords: [code, invoked, created, blueprint, write, every, doesn't, user-defined, no-argument, visibility, containing]
 ---
 
 # Using Constructors

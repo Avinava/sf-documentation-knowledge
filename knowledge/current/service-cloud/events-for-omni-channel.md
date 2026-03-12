@@ -5,9 +5,9 @@ topic: events-for-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.844Z
+lastCollected: 2026-03-12T09:33:55.935Z
 estimatedTokens: 656
-keywords: [Events, Omni-Channel, JavaScript, executed, certain, types, events, occur, console, such, user, closes, tab., There, few, specific, Omni-Channel., apply, Lightning, Experience]
+keywords: [Events, Omni-Channel, JavaScript, executed, certain, occur, console, user, closes, tab, There, few, specific, apply, Lightning]
 ---
 
 # Events for Omni-Channel

@@ -5,10 +5,10 @@ topic: datacloud-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.668Z
+lastCollected: 2026-03-12T09:33:31.724Z
 estimatedTokens: 787
 namespace: Datacloud
-keywords: [Datacloud, provides, classes, retrieving, information, duplicate, rules., Duplicate, rules, let, control, whether, users, save, records, within, Salesforce.]
+keywords: [Datacloud, classes, retrieving, duplicate, rules, let, control, whether, users, save, records, Salesforce]
 ---
 
 # Datacloud Namespace

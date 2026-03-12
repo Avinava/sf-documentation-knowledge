@@ -5,9 +5,9 @@ topic: reminder-date-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.746Z
+lastCollected: 2026-03-12T09:33:47.684Z
 estimatedTokens: 213
-keywords: [Reminder, Date, Criteria, Input, representation, date, criteria, reminder.]
+keywords: [Reminder, Date, Criteria, Input, representation]
 ---
 
 # Reminder Date Criteria Input

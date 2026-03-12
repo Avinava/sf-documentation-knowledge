@@ -5,9 +5,9 @@ topic: capability-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:29.437Z
+lastCollected: 2026-03-12T09:33:29.484Z
 estimatedTokens: 791
-keywords: [Capability, Declares, which, functional, operations, external, system, supports., specifies, required, endpoint, settings, data, source, definition., Usage, Values]
+keywords: [Capability, Declares, functional, operations, external, system, supports, endpoint, settings, data, source, definition, Usage]
 ---
 
 # Capability Enum

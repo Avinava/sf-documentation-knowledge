@@ -5,9 +5,9 @@ topic: aievaluationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.722Z
+lastCollected: 2026-03-12T09:33:36.528Z
 estimatedTokens: 2199
-keywords: [AiEvaluationDefinition, Represents, agent, evaluation, including, subject, metadata, set, test, cases., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AiEvaluationTestCase]
+keywords: [AiEvaluationDefinition, agent, evaluation, including, subject, metadata, test, cases, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # AiEvaluationDefinition

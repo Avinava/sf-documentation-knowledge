@@ -5,9 +5,9 @@ topic: salesforce-crm-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.821Z
+lastCollected: 2026-03-12T09:33:14.589Z
 estimatedTokens: 449
-keywords: [Salesforce, CRM, Promotion, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., Information, promotion, that’s, offered, members, loyalty]
+keywords: [Salesforce, CRM, Promotion, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, that’s, offered]
 ---
 
 # Salesforce CRM: Promotion Mapping

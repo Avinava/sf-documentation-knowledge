@@ -5,9 +5,9 @@ topic: connectapisearchfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.931Z
+lastCollected: 2026-03-12T09:33:25.180Z
 estimatedTokens: 230
-keywords: [ConnectApi.SearchFilter, Filter, input, search.]
+keywords: [ConnectApi.SearchFilter, Filter, input, search]
 ---
 
 # ConnectApi.SearchFilter

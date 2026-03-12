@@ -5,10 +5,10 @@ topic: action-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.203Z
+lastCollected: 2026-03-12T09:33:20.712Z
 estimatedTokens: 3140
 namespace: Invocable
-keywords: [Action, Contains, create, update, retrieve, information, invocable, actions., addInvocation, clearInvocations, clone, createCustomAction, name, version, createStandardAction, getName, getNamespace, getType, invoke, isStandard]
+keywords: [Action, retrieve, invocable, actions, addInvocation, clearInvocations, clone, createCustomAction, version, createStandardAction, getName, getNamespace, getType, invoke, isStandard, ApexPages.Action, Visualforce, custom, controller, extension]
 ---
 
 # Action Class

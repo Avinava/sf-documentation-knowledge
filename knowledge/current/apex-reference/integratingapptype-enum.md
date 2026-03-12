@@ -5,9 +5,9 @@ topic: integratingapptype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.392Z
+lastCollected: 2026-03-12T09:33:29.439Z
 estimatedTokens: 161
-keywords: [IntegratingAppType, Specifies, whether, you’re, integrating, app, connected, external, client, used, customized, Apex, token, exchange, handler, which, extends, Auth.Oauth2TokenExchangeHandler, class., Usage]
+keywords: [IntegratingAppType, whether, you’re, integrating, app, connected, external, client, customized, Apex, token, exchange, handler, extends, Auth.Oauth2TokenExchangeHandler]
 ---
 
 # IntegratingAppType Enum

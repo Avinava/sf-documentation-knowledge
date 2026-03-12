@@ -5,9 +5,9 @@ topic: connectapicommerceaddressfieldinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.652Z
+lastCollected: 2026-03-12T09:33:24.911Z
 estimatedTokens: 99
-keywords: [ConnectApi.CommerceAddressFieldInput, Commerce, address, field, input., used, reference, custom, fields, address.]
+keywords: [ConnectApi.CommerceAddressFieldInput, Commerce, address, input, custom]
 ---
 
 # ConnectApi.CommerceAddressFieldInput

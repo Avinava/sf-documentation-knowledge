@@ -5,10 +5,10 @@ topic: custommetadatatypeinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.937Z
+lastCollected: 2026-03-12T09:33:22.347Z
 estimatedTokens: 510
 namespace: CommercePayments
-keywords: [CustomMetadataTypeInfo, Access, information, custom, metadata., PaymentGatewayAdapter, send, transaction, requests, through, response, object’s, SalesforceResultCodeInfo., cmtRecordId, cmtSfResultCodeFieldName]
+keywords: [CustomMetadataTypeInfo, Access, custom, metadata, PaymentGatewayAdapter, send, transaction, requests, object’s, SalesforceResultCodeInfo, cmtRecordId, cmtSfResultCodeFieldName]
 ---
 
 # CustomMetadataTypeInfo Class

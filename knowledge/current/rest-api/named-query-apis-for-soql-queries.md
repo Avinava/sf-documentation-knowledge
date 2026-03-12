@@ -5,9 +5,9 @@ topic: named-query-apis-for-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.739Z
+lastCollected: 2026-03-12T09:33:35.590Z
 estimatedTokens: 249
-keywords: [Named, Query, APIs, SOQL, Queries, API, create, custom, Salesforce, Language, queries, expose, REST, calls., Decide, data, want, then, data., Setup]
+keywords: [Named, Query, APIs, SOQL, Queries, API, custom, Salesforce, Language, expose, REST, calls, Decide, data, want]
 ---
 
 # Named Query APIs for SOQL Queries

@@ -5,9 +5,9 @@ topic: omniprocesselement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.116Z
+lastCollected: 2026-03-12T09:33:52.532Z
 estimatedTokens: 67
-keywords: [OmniProcessElement, internal, only.]
+keywords: [OmniProcessElement, internal]
 ---
 
 # OmniProcessElement

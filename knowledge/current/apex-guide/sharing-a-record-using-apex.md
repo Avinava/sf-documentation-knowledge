@@ -5,9 +5,9 @@ topic: sharing-a-record-using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.276Z
+lastCollected: 2026-03-12T09:33:32.315Z
 estimatedTokens: 2826
-keywords: [Sharing, Record, Apex, Where, possible, changed, noninclusive, terms, align, company, Equality., maintained, certain, avoid, any, effect, customer, implementations., Important, Creating]
+keywords: [Sharing, Record, Apex, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect]
 ---
 
 # Sharing a Record Using Apex

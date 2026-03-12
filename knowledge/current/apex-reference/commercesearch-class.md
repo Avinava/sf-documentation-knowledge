@@ -5,10 +5,10 @@ topic: commercesearch-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.825Z
+lastCollected: 2026-03-12T09:33:18.507Z
 estimatedTokens: 1966
 namespace: ConnectApi
-keywords: [CommerceSearch, Get, sort, rules, live, index., getSortRules, webstoreId, API, Version, Guest, Users, Requires, Chatter, getSuggestions, effectiveAccountId, searchTerm, maxResults, includeSuggestedProducts, maxSuggestedProducts]
+keywords: [CommerceSearch, sort, rules, live, index, getSortRules, webstoreId, API, Version, Guest, Users, Requires, Chatter, getSuggestions, effectiveAccountId]
 ---
 
 # CommerceSearch Class

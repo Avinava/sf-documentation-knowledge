@@ -5,9 +5,9 @@ topic: queueroutingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.550Z
+lastCollected: 2026-03-12T09:33:45.651Z
 estimatedTokens: 1030
-keywords: [QueueRoutingConfig, Represents, configuration, settings, determine, how, work, items, routed, agents., API, version, 65.0, later., Supported, SOAP, Calls, REST, Special, Access]
+keywords: [QueueRoutingConfig, configuration, settings, determine, how, work, items, routed, agents, API, version, 65.0, later, SOAP, Calls]
 ---
 
 # QueueRoutingConfig

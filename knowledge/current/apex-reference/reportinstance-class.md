@@ -5,10 +5,10 @@ topic: reportinstance-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.112Z
+lastCollected: 2026-03-12T09:33:23.504Z
 estimatedTokens: 1243
 namespace: Reports
-keywords: [ReportInstance, instance, report, run, asynchronously., Retrieves, results, instance., getCompletionDate, Syntax, getId, getOwnerId, getReportId, getReportResults, getRequestDate, getStatus, Usage]
+keywords: [ReportInstance, instance, report, run, asynchronously, Retrieves, results, getCompletionDate, getId, getOwnerId, getReportId, getReportResults, getRequestDate, getStatus, Usage]
 ---
 
 # ReportInstance Class

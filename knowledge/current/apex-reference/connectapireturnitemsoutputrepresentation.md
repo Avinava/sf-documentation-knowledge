@@ -5,9 +5,9 @@ topic: connectapireturnitemsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.924Z
+lastCollected: 2026-03-12T09:33:28.969Z
 estimatedTokens: 574
-keywords: [ConnectApi.ReturnItemsOutputRepresentation, Output, Items., Includes, generated, change, order, items, delivery, charges, being, returned, well, any, charged, fees., includes, information, ReturnOrderLineItems, were]
+keywords: [Output, Items, Includes, generated, change, order, delivery, charges, well, any, charged, fees, ReturnOrderLineItems, were, created]
 ---
 
 # ConnectApi.ReturnItemsOutputRepresentation

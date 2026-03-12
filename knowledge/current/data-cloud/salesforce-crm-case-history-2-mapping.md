@@ -5,9 +5,9 @@ topic: salesforce-crm-case-history-2-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.034Z
+lastCollected: 2026-03-12T09:33:13.874Z
 estimatedTokens: 290
-keywords: [Salesforce, CRM, Case, History, Mapping, data, mappings, CaseHistory2, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Case, History, Mapping, data, mappings, CaseHistory2, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---
 
 # Salesforce CRM: Case History 2 Mapping

@@ -5,9 +5,9 @@ topic: invocableactionsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.654Z
+lastCollected: 2026-03-12T09:33:40.158Z
 estimatedTokens: 650
-keywords: [InvocableActionSettings, Represents, org’s, invocable, action, settings, such, whether, partial, save, allowed.This, extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix]
+keywords: [InvocableActionSettings, org’s, invocable, action, settings, whether, partial, save, allowed.This, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # InvocableActionSettings

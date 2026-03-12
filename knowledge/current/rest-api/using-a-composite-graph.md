@@ -5,9 +5,9 @@ topic: using-a-composite-graph
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.232Z
+lastCollected: 2026-03-12T09:33:36.060Z
 estimatedTokens: 448
-keywords: [Composite, Graph, example, shows, how, composite, graph., demonstrates, request]
+keywords: [Composite, Graph, how, demonstrates]
 ---
 
 # Using a Composite Graph

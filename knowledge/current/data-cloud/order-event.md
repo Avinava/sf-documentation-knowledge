@@ -5,9 +5,9 @@ topic: order-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.243Z
+lastCollected: 2026-03-12T09:33:13.192Z
 estimatedTokens: 395
-keywords: [Order, Event, order, event, interaction, ecommerce, captures, actions, performed, customer, manage, new, progress, completed, orders., Purchase, Example, Preorder, Cancel, Ship]
+keywords: [Order, Event, interaction, ecommerce, captures, actions, performed, customer, manage, new, progress, completed, orders, Purchase, Preorder]
 ---
 
 # Order Event

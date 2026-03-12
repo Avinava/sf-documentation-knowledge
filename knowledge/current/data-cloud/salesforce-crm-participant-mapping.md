@@ -5,9 +5,9 @@ topic: salesforce-crm-participant-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.860Z
+lastCollected: 2026-03-12T09:33:13.714Z
 estimatedTokens: 287
-keywords: [Salesforce, CRM, Participant, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Participant, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---
 
 # Salesforce CRM: Participant Mapping

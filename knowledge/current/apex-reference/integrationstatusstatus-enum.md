@@ -5,9 +5,9 @@ topic: integrationstatusstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.705Z
+lastCollected: 2026-03-12T09:33:29.739Z
 estimatedTokens: 107
-keywords: [IntegrationStatus.Status, describes, status, current, integration., Values]
+keywords: [IntegrationStatus.Status, status, current, integration]
 ---
 
 # IntegrationStatus.Status Enum

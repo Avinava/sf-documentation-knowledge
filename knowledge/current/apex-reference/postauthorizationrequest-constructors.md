@@ -6,9 +6,9 @@ topic: postauthorizationrequest-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.095Z
+lastCollected: 2026-03-12T09:33:24.390Z
 estimatedTokens: 119
-keywords: [PostAuthorizationRequest, Lists, postauthorization, requests.]
+keywords: [PostAuthorizationRequest, postauthorization, requests]
 ---
 
 # PostAuthorizationRequest

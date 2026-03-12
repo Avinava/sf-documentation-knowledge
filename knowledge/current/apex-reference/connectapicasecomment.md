@@ -5,9 +5,9 @@ topic: connectapicasecomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.408Z
+lastCollected: 2026-03-12T09:33:26.563Z
 estimatedTokens: 321
-keywords: [ConnectApi.CaseComment, Attachments, feed, items, CaseCommentPost., Important]
+keywords: [ConnectApi.CaseComment, Attachments, feed, items, CaseCommentPost]
 ---
 
 # ConnectApi.CaseComment

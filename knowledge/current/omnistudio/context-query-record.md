@@ -5,9 +5,9 @@ topic: context-query-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.883Z
+lastCollected: 2026-03-12T09:33:48.633Z
 estimatedTokens: 126
-keywords: [Context, Query, Record, Output, representation, context, query, record, including, primary, associated, child, records.]
+keywords: [Context, Query, Record, Output, representation, including, primary, associated, child, records]
 ---
 
 # Context Query Record

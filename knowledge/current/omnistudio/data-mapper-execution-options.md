@@ -5,9 +5,9 @@ topic: data-mapper-execution-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.217Z
+lastCollected: 2026-03-12T09:33:47.223Z
 estimatedTokens: 430
-keywords: [Data, Mapper, Execution, Options, Input, representation, optional, data, mapper, execution.]
+keywords: [Data, Mapper, Execution, Options, Input, representation]
 ---
 
 # Data Mapper Execution Options

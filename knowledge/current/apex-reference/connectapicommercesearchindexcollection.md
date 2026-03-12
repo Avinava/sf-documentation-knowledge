@@ -5,9 +5,9 @@ topic: connectapicommercesearchindexcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.702Z
+lastCollected: 2026-03-12T09:33:26.828Z
 estimatedTokens: 92
-keywords: [ConnectApi.CommerceSearchIndexCollection, Collection, indexes.]
+keywords: [Collection, indexes]
 ---
 
 # ConnectApi.CommerceSearchIndexCollection

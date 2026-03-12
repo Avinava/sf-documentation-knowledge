@@ -5,9 +5,9 @@ topic: sequence-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.458Z
+lastCollected: 2026-03-12T09:33:09.941Z
 estimatedTokens: 125
-keywords: [Sequence, Error, Output, representation, error, response, that's, associated, request, create, update, sequence, policy, assign, sequences.]
+keywords: [Sequence, Error, Output, representation, that's, associated, policy, assign, sequences]
 ---
 
 # Sequence Error

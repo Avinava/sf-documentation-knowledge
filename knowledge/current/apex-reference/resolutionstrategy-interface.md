@@ -5,10 +5,10 @@ topic: resolutionstrategy-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.867Z
+lastCollected: 2026-03-12T09:33:29.928Z
 estimatedTokens: 557
 namespace: CommerceExtension
-keywords: [ResolutionStrategy, resolution, strategy., Usage, resolve, Example, Implementation]
+keywords: [ResolutionStrategy, resolution, strategy, Usage, resolve, Implementation]
 ---
 
 # ResolutionStrategy Interface

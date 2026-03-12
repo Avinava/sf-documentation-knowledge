@@ -5,9 +5,9 @@ topic: discoverystory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.988Z
+lastCollected: 2026-03-12T09:33:38.679Z
 estimatedTokens: 833
-keywords: [DiscoveryStory, Represents, metadata, associated, story, used, Einstein, Discovery., Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, DiscoveryStoryOutcome, Sample, Definitions]
+keywords: [DiscoveryStory, metadata, associated, story, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Version, DiscoveryStoryOutcome, Sample, Definitions]
 ---
 
 # DiscoveryStory

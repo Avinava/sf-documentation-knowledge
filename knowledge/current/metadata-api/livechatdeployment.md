@@ -5,9 +5,9 @@ topic: livechatdeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.941Z
+lastCollected: 2026-03-12T09:33:40.435Z
 estimatedTokens: 848
-keywords: [LiveChatDeployment, Represents, configuration, settings, specific, Chat, deployment, such, branding, image, whether, chat, transcripts, automatically, saved., File, Suffix, Directory, Location, Version]
+keywords: [LiveChatDeployment, configuration, settings, specific, Chat, deployment, branding, image, whether, transcripts, automatically, saved, File, Suffix, Directory]
 ---
 
 # LiveChatDeployment

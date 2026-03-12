@@ -5,10 +5,10 @@ topic: bankpaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.815Z
+lastCollected: 2026-03-12T09:33:22.235Z
 estimatedTokens: 2999
 namespace: CommercePayments
-keywords: [BankPaymentMethodRequest, Sends, data, related, bank, payment, gateway, adapter, during, service, call., Usage, Example, accountHolderFirstName, accountHolderLastName, accountHolderName, accountHolderType, accountId, accountNumber, accountType]
+keywords: [BankPaymentMethodRequest, data, bank, payment, gateway, adapter, service, call, Usage, accountHolderFirstName, accountHolderLastName, accountHolderName, accountHolderType, accountId, accountNumber]
 ---
 
 # BankPaymentMethodRequest Class

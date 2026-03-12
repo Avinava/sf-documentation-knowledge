@@ -5,9 +5,9 @@ topic: integration-procedure-cache-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.317Z
+lastCollected: 2026-03-12T09:33:49.003Z
 estimatedTokens: 171
-keywords: [Integration, Procedure, Cache, Details, Output, representation, cache, cleared, specified, integration, procedures.]
+keywords: [Integration, Procedure, Cache, Output, representation, cleared, procedures]
 ---
 
 # Integration Procedure Cache Details

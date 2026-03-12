@@ -5,10 +5,10 @@ topic: leadconvertresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.468Z
+lastCollected: 2026-03-12T09:33:22.876Z
 estimatedTokens: 1234
 namespace: Database
-keywords: [LeadConvertResult, result, lead, conversion., Usage, getAccountId, getContactId, getErrors, getLeadId, getOpportunityId, getRelatedPersonAccountId, isSuccess]
+keywords: [LeadConvertResult, result, lead, conversion, Usage, getAccountId, getContactId, getErrors, getLeadId, getOpportunityId, getRelatedPersonAccountId, isSuccess]
 ---
 
 # LeadConvertResult Class

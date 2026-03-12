@@ -5,9 +5,9 @@ topic: develop-and-distribute-apex-for-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.640Z
+lastCollected: 2026-03-12T09:33:33.665Z
 estimatedTokens: 2002
-keywords: [Develop, Distribute, Apex, Managed, Packages, independent, software, vendor, ISV, Salesforce, partner, distribute, code, customer, orgs, managed, packages., first-generation, packages, 1GP]
+keywords: [Develop, Distribute, Apex, Managed, Packages, independent, software, vendor, ISV, Salesforce, partner, code, customer, orgs, first-generation]
 ---
 
 # Develop and Distribute Apex for Managed Packages

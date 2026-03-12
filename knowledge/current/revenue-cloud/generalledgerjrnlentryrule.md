@@ -5,9 +5,9 @@ topic: generalledgerjrnlentryrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.425Z
+lastCollected: 2026-03-12T09:33:11.552Z
 estimatedTokens: 591
-keywords: [GeneralLedgerJrnlEntryRule, Represents, information, transaction, journal, entry, rule, based, which, journals, created, selected, credit, debit, general, ledger, accounts, amount, field, percentage.]
+keywords: [GeneralLedgerJrnlEntryRule, transaction, journal, entry, rule, journals, created, selected, credit, debit, general, ledger, accounts, amount, percentage]
 ---
 
 # GeneralLedgerJrnlEntryRule

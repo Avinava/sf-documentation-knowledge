@@ -5,9 +5,9 @@ topic: autoresponserule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.747Z
+lastCollected: 2026-03-12T09:33:43.912Z
 estimatedTokens: 208
-keywords: [AutoResponseRule, Specifies, whether, autoresponse, rule, active, true, Supported, SOAP, API, Calls, REST, HTTP, Fields, Usage]
+keywords: [AutoResponseRule, whether, autoresponse, rule, active, SOAP, API, Calls, REST, HTTP, Usage]
 ---
 
 # AutoResponseRule

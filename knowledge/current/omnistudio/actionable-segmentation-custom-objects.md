@@ -5,9 +5,9 @@ topic: actionable-segmentation-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.241Z
+lastCollected: 2026-03-12T09:33:46.301Z
 estimatedTokens: 145
-keywords: [Actionable, Segmentation, Custom, Objects, section, provides, details, custom, objects, including, junction, objects., Junction, enables, link, large, number, child, records, record]
+keywords: [Actionable, Segmentation, Custom, Objects, including, junction, link, large, number, child, records, record, parent]
 ---
 
 # Actionable Segmentation Custom Objects

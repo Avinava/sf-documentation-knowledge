@@ -5,9 +5,9 @@ topic: return-http-headers-for-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.782Z
+lastCollected: 2026-03-12T09:33:35.631Z
 estimatedTokens: 141
-keywords: [HTTP, Headers, Process, Approvals, only, headers, returned, sending, GET, request, process, approvals, resource., gives, chance, header, values, before, retrieving, content.]
+keywords: [HTTP, Process, Approvals, sending, resource, gives, chance, retrieving, content, REST, API, version, 30.0, later]
 ---
 
 # Return HTTP Headers for Process Approvals

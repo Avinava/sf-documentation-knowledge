@@ -5,9 +5,9 @@ topic: plugindescriberesultparametertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.520Z
+lastCollected: 2026-03-12T09:33:29.565Z
 estimatedTokens: 251
-keywords: [PluginDescribeResult.ParameterType, Specifies, data, types, input, output, Process.PluginDescribeResult, class., Values]
+keywords: [PluginDescribeResult.ParameterType, data, input, output, Process.PluginDescribeResult]
 ---
 
 # PluginDescribeResult.ParameterType Enum

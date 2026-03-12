@@ -5,9 +5,9 @@ topic: event-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.282Z
+lastCollected: 2026-03-12T09:33:13.238Z
 estimatedTokens: 879
-keywords: [Event, Structure, event, collected, Salesforce, Interactions, Web, SDK, contains, automatically, set, system, optional, you., Developer, Provided, Data, Example]
+keywords: [Event, Structure, collected, Salesforce, Interactions, Web, SDK, automatically, system, Developer, Provided, Data]
 ---
 
 # Event Structure

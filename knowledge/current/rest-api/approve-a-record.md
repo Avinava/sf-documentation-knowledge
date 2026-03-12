@@ -5,9 +5,9 @@ topic: approve-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.006Z
+lastCollected: 2026-03-12T09:33:34.897Z
 estimatedTokens: 168
-keywords: [Approve, Record, Process, Approvals, resource, approve, record, collection, records., call, takes, array, requests., current, user, must, assigned, approver., contextId, submit]
+keywords: [Approve, Record, Process, Approvals, resource, collection, records, call, array, requests, current, user, assigned, approver, contextId]
 ---
 
 # Approve a Record

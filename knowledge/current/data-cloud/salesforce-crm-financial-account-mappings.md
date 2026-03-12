@@ -5,9 +5,9 @@ topic: salesforce-crm-financial-account-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.572Z
+lastCollected: 2026-03-12T09:33:14.400Z
 estimatedTokens: 947
-keywords: [Salesforce, CRM, Financial, Account, Mappings, data, mappings, FinancialAccount, DLO, found, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO, Mapping]
+keywords: [Salesforce, CRM, Financial, Account, Mappings, data, FinancialAccount, DLO, found, Services, Cloud, bundle, Connector, Usage, DMO]
 ---
 
 # Salesforce CRM: Financial Account Mappings

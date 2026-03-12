@@ -5,10 +5,10 @@ topic: domain-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.108Z
+lastCollected: 2026-03-12T09:33:21.560Z
 estimatedTokens: 1242
 namespace: System
-keywords: [Domain, Represents, existing, domain, hosted, Salesforce, serves, org, its, content., Contains, obtain, information, domains, such, name, sandbox, name., Usage, Example]
+keywords: [Domain, hosted, Salesforce, serves, org, content, obtain, domains, sandbox, Usage, getDomainType, getMyDomainName, getPackageName, getSandboxName, getSitesSubdomainName]
 ---
 
 # Domain Class

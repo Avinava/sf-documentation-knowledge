@@ -5,9 +5,9 @@ topic: usageratablesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.783Z
+lastCollected: 2026-03-12T09:33:12.725Z
 estimatedTokens: 1722
-keywords: [UsageRatableSummary, Represents, aggregation, usage, summaries, used, calculate, rate, which, overages, charged., API, version, 63.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [UsageRatableSummary, aggregation, usage, summaries, calculate, rate, overages, charged, API, version, 63.0, later, Calls, Associated, Objects]
 ---
 
 # UsageRatableSummary

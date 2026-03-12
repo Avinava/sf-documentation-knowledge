@@ -5,9 +5,9 @@ topic: describemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.763Z
+lastCollected: 2026-03-12T09:33:38.477Z
 estimatedTokens: 395
-keywords: [describeMetadata, call, retrieves, metadata, describes, organization., information, includes, Apex, classes, triggers, custom, objects, fields, standard, tab, define, app, many, types.]
+keywords: [describeMetadata, call, retrieves, metadata, organization, includes, Apex, classes, triggers, custom, objects, standard, tab, define, app]
 ---
 
 # describeMetadata()

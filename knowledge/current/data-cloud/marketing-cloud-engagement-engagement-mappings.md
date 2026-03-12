@@ -5,9 +5,9 @@ topic: marketing-cloud-engagement-engagement-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.537Z
+lastCollected: 2026-03-12T09:33:15.266Z
 estimatedTokens: 4689
-keywords: [Marketing, Cloud, Engagement, Mappings, After, data, stream, deployed, starter, bundle, automatically, maps, model, objects, DMO, Data, Cloud., includes, following, system-generated]
+keywords: [Marketing, Cloud, Engagement, Mappings, data, stream, deployed, starter, bundle, automatically, maps, model, objects, DMO, includes]
 ---
 
 # Marketing Cloud Engagement: Engagement Mappings

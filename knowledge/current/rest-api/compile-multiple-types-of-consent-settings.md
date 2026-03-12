@@ -5,9 +5,9 @@ topic: compile-multiple-types-of-consent-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.731Z
+lastCollected: 2026-03-12T09:33:35.583Z
 estimatedTokens: 2434
-keywords: [Compile, Multiple, Types, Consent, Settings, consent, details, based, multiple, actions, email, track, across, specific, management, objects, records, lookup, relationship., API]
+keywords: [Compile, Multiple, Consent, Settings, actions, email, track, across, specific, management, objects, records, lookup, relationship, API]
 ---
 
 # Compile Multiple Types of Consent Settings

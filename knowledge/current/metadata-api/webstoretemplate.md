@@ -5,9 +5,9 @@ topic: webstoretemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.986Z
+lastCollected: 2026-03-12T09:33:43.201Z
 estimatedTokens: 1919
-keywords: [WebStoreTemplate, Represents, configuration, creating, commerce, stores., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+keywords: [WebStoreTemplate, configuration, creating, commerce, stores, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata]
 ---
 
 # WebStoreTemplate

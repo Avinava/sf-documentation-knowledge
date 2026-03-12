@@ -5,10 +5,10 @@ topic: message-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.778Z
+lastCollected: 2026-03-12T09:33:31.834Z
 estimatedTokens: 1869
 namespace: ApexPages
-keywords: [Message, Contains, validation, errors, occur, user, saves, page, uses, standard, controller., Usage, Instantiation, ApexPages.Severity, severity, summary, detail, getComponentLabel, getDetail, getSeverity]
+keywords: [Message, validation, errors, occur, user, saves, uses, standard, controller, Usage, Instantiation, ApexPages.Severity, severity, summary, detail]
 ---
 
 # Message Class

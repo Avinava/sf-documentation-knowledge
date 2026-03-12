@@ -5,9 +5,9 @@ topic: explainability-logs-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.447Z
+lastCollected: 2026-03-12T09:33:48.287Z
 estimatedTokens: 496
-keywords: [Explainability, Logs, GET, Retrieves, explainability, logs, expression, step, elements, which, explanation, messages, configured.]
+keywords: [Explainability, Logs, Retrieves, expression, step, elements, explanation, messages, configured]
 ---
 
 # Explainability Logs (GET)

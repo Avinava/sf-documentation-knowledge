@@ -5,9 +5,9 @@ topic: get-status-of-operation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.273Z
+lastCollected: 2026-03-12T09:33:15.949Z
 estimatedTokens: 364
-keywords: [Get, Status, Operation, Retrieve, status, previously, submitted, asynchronous, job., example, upsertCI, bulk, upsert, operation., query, check, progress, completion, operations., Request]
+keywords: [Status, Operation, Retrieve, previously, submitted, asynchronous, job, upsertCI, bulk, upsert, query, check, progress, completion, operations]
 ---
 
 # Get Status of Operation

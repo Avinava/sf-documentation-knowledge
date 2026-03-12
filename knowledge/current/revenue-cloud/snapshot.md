@@ -5,9 +5,9 @@ topic: snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.542Z
+lastCollected: 2026-03-12T09:33:10.002Z
 estimatedTokens: 204
-keywords: [Snapshot, Output, representation, list, active, snapshots.]
+keywords: [Snapshot, Output, representation, active, snapshots]
 ---
 
 # Snapshot

@@ -5,9 +5,9 @@ topic: schedulingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.761Z
+lastCollected: 2026-03-12T09:33:45.850Z
 estimatedTokens: 913
-keywords: [SchedulingRule, Represents, scheduling, rule, settings, Workforce, Engagement., API, version, 53.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
+keywords: [SchedulingRule, scheduling, rule, settings, Workforce, Engagement, API, version, 53.0, later, SOAP, Calls, REST, Special, Access]
 ---
 
 # SchedulingRule

@@ -5,9 +5,9 @@ topic: connectapipostauthapipaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.340Z
+lastCollected: 2026-03-12T09:33:25.549Z
 estimatedTokens: 151
-keywords: [ConnectApi.PostAuthApiPaymentMethodRequest, Payment, input, post, authorization.]
+keywords: [Payment, input, post, authorization]
 ---
 
 # ConnectApi.PostAuthApiPaymentMethodRequest

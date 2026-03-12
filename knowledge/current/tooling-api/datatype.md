@@ -5,9 +5,9 @@ topic: datatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.128Z
+lastCollected: 2026-03-12T09:33:44.275Z
 estimatedTokens: 1018
-keywords: [DataType, Represents, datatype, field., EntityDefinition, EntityParticle, FieldDefinition, simplify, queries., Tooling, API, version, 34.0, later., Supported, SOAP, Calls, REST, HTTP, Limitations]
+keywords: [DataType, EntityDefinition, EntityParticle, FieldDefinition, simplify, queries, Tooling, API, version, 34.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # DataType

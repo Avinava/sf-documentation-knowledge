@@ -5,9 +5,9 @@ topic: connectapistrategytracenode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.075Z
+lastCollected: 2026-03-12T09:33:29.115Z
 estimatedTokens: 224
-keywords: [ConnectApi.StrategyTraceNode, trace, node, recommendation, strategy, execution.]
+keywords: [ConnectApi.StrategyTraceNode, trace, node, recommendation, strategy, execution]
 ---
 
 # ConnectApi.StrategyTraceNode

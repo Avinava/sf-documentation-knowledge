@@ -5,9 +5,9 @@ topic: sendmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.390Z
+lastCollected: 2026-03-12T09:33:56.438Z
 estimatedTokens: 212
-keywords: [sendMessage, Sends, new, chat, message, agent, specific, key., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [sendMessage, new, chat, message, agent, specific, key, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # sendMessage()

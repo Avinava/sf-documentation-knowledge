@@ -5,9 +5,9 @@ topic: reserved-keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.854Z
+lastCollected: 2026-03-12T09:33:31.910Z
 estimatedTokens: 241
-keywords: [Reserved, Keywords, words, used, only, keywords.]
+keywords: [Reserved, Keywords, words]
 ---
 
 # Reserved Keywords

@@ -5,9 +5,9 @@ topic: connectapiworksteppicklistvalueattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.322Z
+lastCollected: 2026-03-12T09:33:29.368Z
 estimatedTokens: 241
-keywords: [ConnectApi.WorkStepPicklistValueAttribute, Work, step, picklist, attributes.]
+keywords: [Work, step, picklist, attributes]
 ---
 
 # ConnectApi.WorkStepPicklistValueAttribute

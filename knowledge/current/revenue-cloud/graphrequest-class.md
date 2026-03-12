@@ -5,10 +5,10 @@ topic: graphrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.201Z
+lastCollected: 2026-03-12T09:33:06.307Z
 estimatedTokens: 733
 namespace: RevSalesTrxn
-keywords: [GraphRequest, Contains, set, graph, list, records, ingested., specified, key-value, map, format, contains, field, values., graphId, values, order., Example]
+keywords: [GraphRequest, graph, records, ingested, key-value, map, graphId, order]
 ---
 
 # GraphRequest Class

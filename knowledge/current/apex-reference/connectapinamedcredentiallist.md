@@ -5,9 +5,9 @@ topic: connectapinamedcredentiallist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.063Z
+lastCollected: 2026-03-12T09:33:28.076Z
 estimatedTokens: 60
-keywords: [ConnectApi.NamedCredentialList, List, named, credentials.]
+keywords: [ConnectApi.NamedCredentialList, named, credentials]
 ---
 
 # ConnectApi.NamedCredentialList

@@ -5,9 +5,9 @@ topic: process-rule-list-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.812Z
+lastCollected: 2026-03-12T09:33:35.658Z
 estimatedTokens: 484
-keywords: [Process, Rule, List, sObject, Accesses, list, active, workflow, rules, sObject., GET, retrieve, records, fields., HEAD, information, HTTP, headers.]
+keywords: [Process, Rule, sObject, Accesses, active, workflow, rules, retrieve, records, HEAD, HTTP]
 ---
 
 # Process Rule List for an sObject

@@ -5,9 +5,9 @@ topic: connectapiemailmergefieldinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.163Z
+lastCollected: 2026-03-12T09:33:27.257Z
 estimatedTokens: 80
-keywords: [ConnectApi.EmailMergeFieldInfo, map, objects, their, merge, fields.]
+keywords: [ConnectApi.EmailMergeFieldInfo, map, objects, their, merge]
 ---
 
 # ConnectApi.EmailMergeFieldInfo

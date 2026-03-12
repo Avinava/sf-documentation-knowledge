@@ -5,10 +5,10 @@ topic: describetabsetresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.233Z
+lastCollected: 2026-03-12T09:33:23.615Z
 estimatedTokens: 1353
 namespace: Schema
-keywords: [DescribeTabSetResult, display, description, standard, custom, app., Usage, Example, getDescription, getLabel, getLogoUrl, getNamespace, getTabs, isSelected]
+keywords: [DescribeTabSetResult, display, standard, custom, app, Usage, getDescription, getLabel, getLogoUrl, getNamespace, getTabs, isSelected]
 ---
 
 # DescribeTabSetResult Class

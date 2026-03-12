@@ -5,9 +5,9 @@ topic: connectapiaudienceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.323Z
+lastCollected: 2026-03-12T09:33:24.605Z
 estimatedTokens: 287
-keywords: [ConnectApi.AudienceInput, personalization, audience.]
+keywords: [ConnectApi.AudienceInput, personalization, audience]
 ---
 
 # ConnectApi.AudienceInput

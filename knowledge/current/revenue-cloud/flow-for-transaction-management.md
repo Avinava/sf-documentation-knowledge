@@ -5,9 +5,9 @@ topic: flow-for-transaction-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.123Z
+lastCollected: 2026-03-12T09:33:10.491Z
 estimatedTokens: 562
-keywords: [Flow, Transaction, Management, flow, represents, metadata, associated, flow., create, application, takes, users, through, series, pages, query, update, records, database., run]
+keywords: [Flow, Transaction, Management, metadata, associated, application, users, series, pages, query, records, database, run, logic, provide]
 ---
 
 # Flow for Transaction Management

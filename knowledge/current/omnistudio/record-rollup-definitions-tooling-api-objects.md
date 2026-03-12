@@ -5,9 +5,9 @@ topic: record-rollup-definitions-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.973Z
+lastCollected: 2026-03-12T09:33:51.545Z
 estimatedTokens: 424
-keywords: [Record, Rollup, Definitions, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types]
+keywords: [Record, Rollup, Definitions, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow]
 ---
 
 # Record Rollup Definitions Tooling API Objects

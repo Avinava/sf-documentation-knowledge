@@ -5,9 +5,9 @@ topic: generate-work-orders-on-maintenance-plans-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.406Z
+lastCollected: 2026-03-12T09:33:53.726Z
 estimatedTokens: 413
-keywords: [Generate, Work, Orders, Maintenance, Plans, Apex, action, maintenance, plans, called, code., following, code, sample, creates, work, order, records, making, callout]
+keywords: [Generate, Work, Orders, Maintenance, Plans, Apex, action, code, sample, creates, order, records, making, callout, generateWorkOrder]
 ---
 
 # Generate Work Orders on Maintenance Plans with Apex

@@ -5,9 +5,9 @@ topic: unapply-credit-memo-line-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.792Z
+lastCollected: 2026-03-12T09:33:08.595Z
 estimatedTokens: 318
-keywords: [Unapply, Credit, Memo, Line, POST, credit, memo, line, invoice, their, pre-application, states.]
+keywords: [Unapply, Credit, Memo, Line, POST, invoice, their, pre-application, states]
 ---
 
 # Unapply Credit Memo Line (POST)

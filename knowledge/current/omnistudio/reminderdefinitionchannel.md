@@ -5,9 +5,9 @@ topic: reminderdefinitionchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.345Z
+lastCollected: 2026-03-12T09:33:52.736Z
 estimatedTokens: 791
-keywords: [ReminderDefinitionChannel, Represents, channel, that's, used, send, reminder., API, version, 60.0, later., Important, Supported, Calls, Fields, Associated, Objects]
+keywords: [ReminderDefinitionChannel, channel, that's, send, reminder, API, version, 60.0, later, Calls, Associated, Objects]
 ---
 
 # ReminderDefinitionChannel

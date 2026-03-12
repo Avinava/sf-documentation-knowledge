@@ -5,9 +5,9 @@ topic: view-relevant-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.989Z
+lastCollected: 2026-03-12T09:33:34.883Z
 estimatedTokens: 269
-keywords: [View, Relevant, Items, resource, get, list, relevant, records.]
+keywords: [View, Relevant, Items, resource, records]
 ---
 
 # View Relevant Items

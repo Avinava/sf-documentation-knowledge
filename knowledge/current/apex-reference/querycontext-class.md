@@ -5,10 +5,10 @@ topic: querycontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.983Z
+lastCollected: 2026-03-12T09:33:20.528Z
 estimatedTokens: 1359
 namespace: DataSource
-keywords: [QueryContext, instance, provided, query, DataSource.Connection, class., corresponds, SOQL, request., queryMoreToken, tableSelection, get, metadata, offset, maxResults]
+keywords: [QueryContext, instance, provided, query, DataSource.Connection, corresponds, SOQL, queryMoreToken, tableSelection, metadata, offset, maxResults]
 ---
 
 # QueryContext Class

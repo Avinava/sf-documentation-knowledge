@@ -5,10 +5,10 @@ topic: describelayoutcomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.776Z
+lastCollected: 2026-03-12T09:33:23.188Z
 estimatedTokens: 675
 namespace: QuickAction
-keywords: [DescribeLayoutComponent, Represents, smallest, unit, layout—a, field, separator., getDisplayLines, getTabOrder, getType, getValue]
+keywords: [DescribeLayoutComponent, smallest, unit, layout—a, separator, getDisplayLines, getTabOrder, getType, getValue]
 ---
 
 # DescribeLayoutComponent Class

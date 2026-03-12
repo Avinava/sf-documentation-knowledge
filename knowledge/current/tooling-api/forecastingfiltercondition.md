@@ -5,9 +5,9 @@ topic: forecastingfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.743Z
+lastCollected: 2026-03-12T09:33:44.889Z
 estimatedTokens: 829
-keywords: [ForecastingFilterCondition, Represents, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts., API, version, 55.0, later., Important, Supported, SOAP, Calls, REST]
+keywords: [ForecastingFilterCondition, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts, API, version, 55.0, later, SOAP]
 ---
 
 # ForecastingFilterCondition

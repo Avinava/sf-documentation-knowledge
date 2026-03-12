@@ -5,10 +5,10 @@ topic: reportscopevalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.957Z
+lastCollected: 2026-03-12T09:33:23.360Z
 estimatedTokens: 559
 namespace: Reports
-keywords: [ReportScopeValue, Contains, information, possible, scope, value., Scope, values, depend, report, type., example, set, opportunity, reports, opportunities, team’s, opportunities., getAllowsDivision, getLabel]
+keywords: [ReportScopeValue, possible, scope, depend, report, opportunity, reports, opportunities, team’s, getAllowsDivision, getLabel, getValue]
 ---
 
 # ReportScopeValue Class

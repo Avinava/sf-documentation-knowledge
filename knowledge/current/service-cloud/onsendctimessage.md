@@ -5,9 +5,9 @@ topic: onsendctimessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.270Z
+lastCollected: 2026-03-12T09:33:56.329Z
 estimatedTokens: 259
-keywords: [onSendCTIMessage, Registers, function, fired, message, sent, sendCTIMessage, get, information, send, between, interaction, log, custom, console, component., only, API, version, 31.0]
+keywords: [onSendCTIMessage, Registers, function, fired, message, sent, sendCTIMessage, send, interaction, log, custom, console, component, API, version]
 ---
 
 # onSendCTIMessage()

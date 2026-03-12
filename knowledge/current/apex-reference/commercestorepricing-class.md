@@ -5,10 +5,10 @@ topic: commercestorepricing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.841Z
+lastCollected: 2026-03-12T09:33:18.520Z
 estimatedTokens: 3049
 namespace: ConnectApi
-keywords: [CommerceStorePricing, Get, list, buyer, price, product., getProductPrice, webstoreId, productId, effectiveAccountId, API, Version, Guest, Users, Requires, Chatter, Usage, productSellingModelIds, getProductPrices, productIds]
+keywords: [CommerceStorePricing, buyer, price, product, getProductPrice, webstoreId, productId, effectiveAccountId, API, Version, Guest, Users, Requires, Chatter, Usage]
 ---
 
 # CommerceStorePricing Class

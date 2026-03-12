@@ -5,9 +5,9 @@ topic: rest-header-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:44.255Z
+lastCollected: 2026-03-12T09:33:43.451Z
 estimatedTokens: 283
-keywords: [REST, Header, Examples, examples, understand, headers., Note]
+keywords: [REST, Examples, understand]
 ---
 
 # REST Header Examples

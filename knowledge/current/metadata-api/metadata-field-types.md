@@ -5,9 +5,9 @@ topic: metadata-field-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.833Z
+lastCollected: 2026-03-12T09:33:39.429Z
 estimatedTokens: 1375
-keywords: [Metadata, Field, Types, field, types, extend, described, Salesforce, Reference., Important, ValueSet, ValueSetValuesDefinition, ValueSettings]
+keywords: [Metadata, extend, described, Salesforce, ValueSet, ValueSetValuesDefinition, ValueSettings]
 ---
 
 # Metadata Field Types

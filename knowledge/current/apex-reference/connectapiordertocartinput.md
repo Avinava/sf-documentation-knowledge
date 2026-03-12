@@ -5,9 +5,9 @@ topic: connectapiordertocartinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.297Z
+lastCollected: 2026-03-12T09:33:25.513Z
 estimatedTokens: 85
-keywords: [ConnectApi.OrderToCartInput, Input, action, adding, order, cart.]
+keywords: [ConnectApi.OrderToCartInput, Input, action, adding, order, cart]
 ---
 
 # ConnectApi.OrderToCartInput

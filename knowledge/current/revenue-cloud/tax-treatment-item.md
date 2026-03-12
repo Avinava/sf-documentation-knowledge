@@ -5,9 +5,9 @@ topic: tax-treatment-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.622Z
+lastCollected: 2026-03-12T09:33:12.581Z
 estimatedTokens: 631
-keywords: [Tax, Treatment, Item, Represents, tax, code, information, that’s, used, calculate, product, specific, engine., API, version, 66.0, later., Important, Supported, Calls]
+keywords: [Tax, Treatment, Item, code, that’s, calculate, product, specific, engine, API, version, 66.0, later, Calls, Special]
 ---
 
 # Tax Treatment Item

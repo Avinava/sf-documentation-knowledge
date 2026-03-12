@@ -5,9 +5,9 @@ topic: product-catalog-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.985Z
+lastCollected: 2026-03-12T09:33:10.381Z
 estimatedTokens: 803
-keywords: [Product, Catalog, Management, Business, APIs, primitive, serve, catalog, definitions, users, applications.]
+keywords: [Product, Catalog, Management, Business, APIs, primitive, serve, definitions, users, applications]
 ---
 
 # Product Catalog Management Business APIs

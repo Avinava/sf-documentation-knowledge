@@ -5,9 +5,9 @@ topic: identityverificationprocdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.301Z
+lastCollected: 2026-03-12T09:33:50.909Z
 estimatedTokens: 1717
-keywords: [IdentityVerificationProcDef, Represents, definition, identity, verification, process., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, IdentityVerificationProcDtl, IdentityVerificationProcFld, Declarative]
+keywords: [IdentityVerificationProcDef, definition, identity, verification, process, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, IdentityVerificationProcDtl, API, version, 54.0, later, Calls]
 ---
 
 # IdentityVerificationProcDef

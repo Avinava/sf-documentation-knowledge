@@ -5,10 +5,10 @@ topic: commercebuyerexperience-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.590Z
+lastCollected: 2026-03-12T09:33:18.201Z
 estimatedTokens: 34548
 namespace: ConnectApi
-keywords: [CommerceBuyerExperience, Add, order, cart, webstore, summary., addOrderToCart, webstoreId, orderSummaryId, orderToCartInput, API, Version, Requires, Chatter, effectiveAccountId, calculateAdjustmentAggregates, orderSummaryIds, createCommerceAccountAddress, accountId, addressInput]
+keywords: [CommerceBuyerExperience, Add, order, cart, webstore, summary, addOrderToCart, webstoreId, orderSummaryId, orderToCartInput, API, Version, Requires, Chatter, effectiveAccountId]
 ---
 
 # CommerceBuyerExperience Class

@@ -5,9 +5,9 @@ topic: describemetadataresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.782Z
+lastCollected: 2026-03-12T09:33:38.495Z
 estimatedTokens: 567
-keywords: [DescribeMetadataResult, Contains, information, organization, useful, developers, working, declarative, metadata., DescribeMetadataObject]
+keywords: [DescribeMetadataResult, organization, useful, developers, working, declarative, metadata, DescribeMetadataObject]
 ---
 
 # DescribeMetadataResult

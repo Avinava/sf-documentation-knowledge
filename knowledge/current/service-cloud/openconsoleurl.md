@@ -5,9 +5,9 @@ topic: openconsoleurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.281Z
+lastCollected: 2026-03-12T09:33:56.340Z
 estimatedTokens: 499
-keywords: [openConsoleUrl, Opens, URL, created, generateConsoleUrl, tab, group, related, tabs, Salesforce, console, only, API, version, 28.0, later., Syntax, Arguments, Sample, Code–Visualforce]
+keywords: [openConsoleUrl, Opens, URL, created, generateConsoleUrl, tab, group, tabs, Salesforce, console, API, version, 28.0, later, Arguments]
 ---
 
 # openConsoleUrl()

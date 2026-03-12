@@ -5,9 +5,9 @@ topic: error-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.361Z
+lastCollected: 2026-03-12T09:33:38.996Z
 estimatedTokens: 839
-keywords: [Error, Handling, Metadata, API, calls, error, information, client, application, identify, resolve, runtime, errors.]
+keywords: [Error, Handling, Metadata, API, calls, client, application, identify, resolve, runtime, errors]
 ---
 
 # Error Handling

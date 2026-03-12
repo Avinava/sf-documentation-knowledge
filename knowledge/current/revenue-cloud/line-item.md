@@ -5,9 +5,9 @@ topic: line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.884Z
+lastCollected: 2026-03-12T09:33:09.493Z
 estimatedTokens: 253
-keywords: [Line, Item, Output, representation, details, line, item.]
+keywords: [Line, Item, Output, representation]
 ---
 
 # Line Item

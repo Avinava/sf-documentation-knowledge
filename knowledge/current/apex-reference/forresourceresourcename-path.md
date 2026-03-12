@@ -5,9 +5,9 @@ topic: forresourceresourcename-path
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.214Z
+lastCollected: 2026-03-12T09:33:19.888Z
 estimatedTokens: 225
-keywords: [forResource, resourceName, path, Create, PageReference, nested, content, inside, zip, resource, name, path.]
+keywords: [forResource, resourceName, path, PageReference, nested, content, inside, zip, resource]
 ---
 
 # forResource(resourceName, path)

@@ -5,9 +5,9 @@ topic: explainabilitymsgtemplatelocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.947Z
+lastCollected: 2026-03-12T09:33:52.410Z
 estimatedTokens: 1207
-keywords: [ExplainabilityMsgTemplateLocalization, Represents, translated, message, explainability, template, expression, set, step, element., API, version, 56.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [ExplainabilityMsgTemplateLocalization, translated, message, explainability, template, expression, step, element, API, version, 56.0, later, Calls, Special, Access]
 ---
 
 # ExplainabilityMsgTemplateLocalization

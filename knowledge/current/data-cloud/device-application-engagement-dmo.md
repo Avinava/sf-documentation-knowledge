@@ -5,9 +5,9 @@ topic: device-application-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.895Z
+lastCollected: 2026-03-12T09:33:14.656Z
 estimatedTokens: 2382
-keywords: [Device, Application, Engagement, DMO, Data, Cloud, data, model, device, engagement, example, mobile, app, usage., API, Name, Category, Primary, Subject, Area]
+keywords: [Device, Application, Engagement, DMO, Data, Cloud, model, mobile, app, usage, API, Category, Primary, Subject, Area]
 ---
 
 # Device Application Engagement DMO

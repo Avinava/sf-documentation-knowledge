@@ -5,9 +5,9 @@ topic: salesforce-crm-category-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.500Z
+lastCollected: 2026-03-12T09:33:14.328Z
 estimatedTokens: 273
-keywords: [Salesforce, CRM, Category, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., category, products, company, sells., Bundle, DMO]
+keywords: [Salesforce, CRM, Category, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, products, company]
 ---
 
 # Salesforce CRM: Category Mapping

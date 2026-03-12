@@ -5,9 +5,9 @@ topic: connectapiabstractrepositoryfolder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.918Z
+lastCollected: 2026-03-12T09:33:26.096Z
 estimatedTokens: 234
-keywords: [ConnectApi.AbstractRepositoryFolder, repository, folder.]
+keywords: [ConnectApi.AbstractRepositoryFolder, repository, folder]
 ---
 
 # ConnectApi.AbstractRepositoryFolder

@@ -5,9 +5,9 @@ topic: setting-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.495Z
+lastCollected: 2026-03-12T09:33:09.971Z
 estimatedTokens: 80
-keywords: [Setting, Metadata, Output, representation, metadata, associated, setting.]
+keywords: [Setting, Metadata, Output, representation, associated]
 ---
 
 # Setting Metadata

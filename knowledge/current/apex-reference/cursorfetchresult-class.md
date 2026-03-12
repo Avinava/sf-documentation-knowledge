@@ -5,10 +5,10 @@ topic: cursorfetchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.085Z
+lastCollected: 2026-03-12T09:33:20.612Z
 estimatedTokens: 1111
 namespace: Database
-keywords: [CursorFetchResult, encapsulates, result, PaginationCursor.fetchPage, call., contains, get, rows, current, page, start, index, next, number, deleted, skipped, during, fetch, operation., indicates]
+keywords: [CursorFetchResult, encapsulates, result, PaginationCursor.fetchPage, call, rows, current, start, index, number, deleted, skipped, fetch, operation, whether]
 ---
 
 # CursorFetchResult Class

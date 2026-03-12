@@ -5,9 +5,9 @@ topic: tax-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:08.568Z
+lastCollected: 2026-03-12T09:33:10.024Z
 estimatedTokens: 268
-keywords: [Tax, Details, Output, representation, tax, details, line, item.]
+keywords: [Tax, Output, representation, line, item]
 ---
 
 # Tax Details

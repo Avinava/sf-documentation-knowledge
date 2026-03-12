@@ -5,9 +5,9 @@ topic: pardoteinsteinsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.633Z
+lastCollected: 2026-03-12T09:33:41.094Z
 estimatedTokens: 749
-keywords: [PardotEinsteinSettings, Represents, PardotEinsteinSettings., settings, factors, drive, campaign, performance, get, best, possible, engagement, score, prospects., extends, Metadata, metadata, inherits, its, fullName]
+keywords: [PardotEinsteinSettings, settings, factors, drive, campaign, performance, best, possible, engagement, score, prospects, extends, Metadata, inherits, fullName]
 ---
 
 # PardotEinsteinSettings

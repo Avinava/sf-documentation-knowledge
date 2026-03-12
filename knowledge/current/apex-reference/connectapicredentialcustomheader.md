@@ -5,9 +5,9 @@ topic: connectapicredentialcustomheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.891Z
+lastCollected: 2026-03-12T09:33:26.985Z
 estimatedTokens: 223
-keywords: [ConnectApi.CredentialCustomHeader, Credential, custom, header.]
+keywords: [ConnectApi.CredentialCustomHeader, Credential, custom]
 ---
 
 # ConnectApi.CredentialCustomHeader

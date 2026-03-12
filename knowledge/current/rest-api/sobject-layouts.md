@@ -5,9 +5,9 @@ topic: sobject-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.995Z
+lastCollected: 2026-03-12T09:33:35.844Z
 estimatedTokens: 289
-keywords: [sObject, Layouts, Retrieves, lists, page, layouts, their, descriptions., request, information, specific, object’s, associated, specified, record, object.]
+keywords: [sObject, Layouts, Retrieves, their, descriptions, specific, object’s, associated, record]
 ---
 
 # sObject Layouts

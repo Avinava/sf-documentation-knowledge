@@ -5,9 +5,9 @@ topic: ocr-sampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.413Z
+lastCollected: 2026-03-12T09:33:49.092Z
 estimatedTokens: 96
-keywords: [OCR, SampleDocument, Output, representation, sample, document, associated, template.]
+keywords: [OCR, SampleDocument, Output, representation, sample, document, associated, template]
 ---
 
 # OCR SampleDocument

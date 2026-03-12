@@ -5,9 +5,9 @@ topic: connectapireturnorderlineitemfeeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.524Z
+lastCollected: 2026-03-12T09:33:25.709Z
 estimatedTokens: 603
-keywords: [ConnectApi.ReturnOrderLineItemFeeInputRepresentation, Data, creating, ReturnOrderLineItem, represents, fee.]
+keywords: [Data, creating, ReturnOrderLineItem, fee]
 ---
 
 # ConnectApi.ReturnOrderLineItemFeeInputRepresentation

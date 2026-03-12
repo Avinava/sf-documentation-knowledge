@@ -5,10 +5,10 @@ topic: abstracttransactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.352Z
+lastCollected: 2026-03-12T09:33:06.447Z
 estimatedTokens: 3044
 namespace: CommerceTax
-keywords: [AbstractTransactionResponse, Abstract, contains, setting, tax, fields, based, external, provider's, response., Response, classes, extend, inherit, methods., setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode]
+keywords: [AbstractTransactionResponse, Abstract, setting, tax, external, provider's, classes, extend, inherit, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode]
 ---
 
 # AbstractTransactionResponse Class

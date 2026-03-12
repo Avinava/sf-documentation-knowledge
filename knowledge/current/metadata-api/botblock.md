@@ -5,9 +5,9 @@ topic: botblock
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.305Z
+lastCollected: 2026-03-12T09:33:37.079Z
 estimatedTokens: 935
-keywords: [BotBlock, Represents, configuration, details, specific, Einstein, Bot, block, including, dialogs, variables., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [BotBlock, configuration, specific, Einstein, Bot, block, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # BotBlock

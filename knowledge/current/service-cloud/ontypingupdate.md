@@ -5,9 +5,9 @@ topic: ontypingupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.237Z
+lastCollected: 2026-03-12T09:33:56.299Z
 estimatedTokens: 324
-keywords: [onTypingUpdate, Registers, function, call, customer’s, text, chat, window, changes., Sneak, Peek, enabled, called, whenever, customer, edits, window., starts, stops, typing]
+keywords: [onTypingUpdate, Registers, function, call, customer’s, text, chat, window, changes, Sneak, Peek, enabled, whenever, customer, edits]
 ---
 
 # onTypingUpdate()

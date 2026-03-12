@@ -5,9 +5,9 @@ topic: calculationmatrixrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.658Z
+lastCollected: 2026-03-12T09:33:52.133Z
 estimatedTokens: 444
-keywords: [CalculationMatrixRow, Defines, row, Decision, Matrix., label, Matrix, Row., API, version, 53.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [CalculationMatrixRow, row, Decision, Matrix, label, API, version, 53.0, later, Calls, Special, Access, Rules]
 ---
 
 # CalculationMatrixRow

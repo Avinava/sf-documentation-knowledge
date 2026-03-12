@@ -5,9 +5,9 @@ topic: carerequestconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.568Z
+lastCollected: 2026-03-12T09:33:37.332Z
 estimatedTokens: 648
-keywords: [CareRequestConfiguration, Represents, details, record, such, service, request, drug, admission, request., types, associated, care, Important, Parent, File, Suffix, Directory, Location, Version]
+keywords: [CareRequestConfiguration, record, service, drug, admission, associated, care, Parent, File, Suffix, Directory, Location, Version, CareRequestRecords, Declarative]
 ---
 
 # CareRequestConfiguration

@@ -5,9 +5,9 @@ topic: checkdeploystatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.681Z
+lastCollected: 2026-03-12T09:33:37.437Z
 estimatedTokens: 751
-keywords: [checkDeployStatus, Checks, status, declarative, metadata, call, deploy, Syntax, Usage, Sample, Code—Java, Arguments, Response]
+keywords: [checkDeployStatus, Checks, status, declarative, metadata, call, deploy, Usage, Sample, Code—Java, Arguments]
 ---
 
 # checkDeployStatus()

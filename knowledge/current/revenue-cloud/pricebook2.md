@@ -5,9 +5,9 @@ topic: pricebook2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.878Z
+lastCollected: 2026-03-12T09:33:11.911Z
 estimatedTokens: 1267
-keywords: [PriceBook2, Represents, price, book, contains, list, products, org, sells., API, version, 60.0, later., Supported, Calls, Fields, Usage, Associated, Objects]
+keywords: [PriceBook2, price, book, products, org, sells, API, version, 60.0, later, Calls, Usage, Associated, Objects]
 ---
 
 # PriceBook2

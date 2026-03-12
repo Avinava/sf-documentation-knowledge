@@ -5,9 +5,9 @@ topic: decision-matrix-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.095Z
+lastCollected: 2026-03-12T09:33:47.991Z
 estimatedTokens: 336
-keywords: [Decision, Matrix, Columns, Retrieve, list, manage, columns, decision, matrix., resource, add, new, update, delete, existing]
+keywords: [Decision, Matrix, Columns, Retrieve, manage, resource, add, new]
 ---
 
 # Decision Matrix Columns

@@ -5,9 +5,9 @@ topic: catalog-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.868Z
+lastCollected: 2026-03-12T09:33:07.792Z
 estimatedTokens: 195
-keywords: [Catalog, List, Input, representation, request, get, list, catalogs.]
+keywords: [Catalog, Input, representation, catalogs]
 ---
 
 # Catalog List Input

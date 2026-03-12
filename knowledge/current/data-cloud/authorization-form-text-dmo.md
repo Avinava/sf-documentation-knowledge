@@ -5,9 +5,9 @@ topic: authorization-form-text-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.885Z
+lastCollected: 2026-03-12T09:33:13.739Z
 estimatedTokens: 535
-keywords: [Authorization, Form, Text, DMO, Data, Cloud, data, model, authorization, form’s, text, language, settings., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Authorization, Form, Text, DMO, Data, Cloud, model, form’s, language, settings, API, Category, Primary, Subject, Area]
 ---
 
 # Authorization Form Text DMO

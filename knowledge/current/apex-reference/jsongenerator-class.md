@@ -5,10 +5,10 @@ topic: jsongenerator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.225Z
+lastCollected: 2026-03-12T09:33:21.671Z
 estimatedTokens: 5411
 namespace: System
-keywords: [JSONGenerator, Contains, used, serialize, objects, JSON, content, standard, encoding., Usage, close, getAsString, isClosed, writeBlob, blobValue, writeBlobField, fieldName, writeBoolean, writeBooleanField, booleanValue]
+keywords: [JSONGenerator, serialize, objects, JSON, content, standard, encoding, Usage, close, getAsString, isClosed, writeBlob, blobValue, writeBlobField, fieldName]
 ---
 
 # JSONGenerator Class

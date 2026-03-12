@@ -5,9 +5,9 @@ topic: connectapidatagraphidsdmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.932Z
+lastCollected: 2026-03-12T09:33:27.026Z
 estimatedTokens: 91
-keywords: [ConnectApi.DataGraphIdsDmo, Represents, data, Data, Model, DMO, contains, table, graph.]
+keywords: [ConnectApi.DataGraphIdsDmo, data, Model, DMO, graph]
 ---
 
 # ConnectApi.DataGraphIdsDmo

@@ -5,9 +5,9 @@ topic: delete-lightning-experience-event-series
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.975Z
+lastCollected: 2026-03-12T09:33:34.869Z
 estimatedTokens: 571
-keywords: [Delete, Lightning, Experience, Event, Series, HTTP, DELETE, remove, IsRecurrence2, events, series., single, event, following, including, specific, entire, Single, Multiple, Events]
+keywords: [Lightning, Experience, Event, Series, HTTP, remove, IsRecurrence2, events, including, specific, entire, Multiple, Considerations]
 ---
 
 # Delete Lightning Experience Event Series

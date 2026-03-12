@@ -5,9 +5,9 @@ topic: connectapialternativepaymentmethodoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.052Z
+lastCollected: 2026-03-12T09:33:26.228Z
 estimatedTokens: 226
-keywords: [ConnectApi.AlternativePaymentMethodOutput, Alternative, payment, details, output.]
+keywords: [Alternative, payment, output]
 ---
 
 # ConnectApi.AlternativePaymentMethodOutput

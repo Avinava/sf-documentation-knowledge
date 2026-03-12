@@ -5,9 +5,9 @@ topic: connectapicontenthubrepositorycollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.845Z
+lastCollected: 2026-03-12T09:33:26.941Z
 estimatedTokens: 141
-keywords: [ConnectApi.ContentHubRepositoryCollection, collection, repositories.]
+keywords: [collection, repositories]
 ---
 
 # ConnectApi.ContentHubRepositoryCollection

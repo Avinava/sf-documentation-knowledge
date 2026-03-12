@@ -5,9 +5,9 @@ topic: customnotifactiondef-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:45.030Z
+lastCollected: 2026-03-12T09:33:44.168Z
 estimatedTokens: 709
-keywords: [CustomNotifActionDef, Beta, Represents, metadata, associated, mobile, action, group, notification, definition., API, version, 66.0, later., Important, Note, Supported, Calls, Special, Access]
+keywords: [CustomNotifActionDef, Beta, metadata, associated, mobile, action, group, notification, definition, API, version, 66.0, later, Calls, Special]
 ---
 
 # CustomNotifActionDef (Beta)

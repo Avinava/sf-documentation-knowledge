@@ -5,9 +5,9 @@ topic: connectapierrorresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.210Z
+lastCollected: 2026-03-12T09:33:27.298Z
 estimatedTokens: 103
-keywords: [ConnectApi.ErrorResponse, Base, error, response.]
+keywords: [ConnectApi.ErrorResponse, Base, error]
 ---
 
 # ConnectApi.ErrorResponse

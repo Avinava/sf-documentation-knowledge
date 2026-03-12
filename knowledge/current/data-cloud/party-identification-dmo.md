@@ -5,9 +5,9 @@ topic: party-identification-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.689Z
+lastCollected: 2026-03-12T09:33:15.394Z
 estimatedTokens: 842
-keywords: [Party, Identification, DMO, Data, Cloud, data, model, ways, identify, party, such, driver’s, license, birth, certificate., API, Name, Category, Primary, Subject]
+keywords: [Party, Identification, DMO, Data, Cloud, model, ways, identify, driver’s, license, birth, certificate, API, Category, Primary]
 ---
 
 # Party Identification DMO

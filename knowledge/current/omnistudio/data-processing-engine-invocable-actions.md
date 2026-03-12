@@ -5,9 +5,9 @@ topic: data-processing-engine-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.088Z
+lastCollected: 2026-03-12T09:33:49.754Z
 estimatedTokens: 175
-keywords: [Data, Processing, Engine, Invocable, Actions, Run, active, definition., information, custom, invocable, actions, REST, API, Developer, Guide, Guide.]
+keywords: [Data, Processing, Engine, Invocable, Actions, Run, active, definition, custom, REST, API, Developer]
 ---
 
 # Data Processing Engine Invocable Actions

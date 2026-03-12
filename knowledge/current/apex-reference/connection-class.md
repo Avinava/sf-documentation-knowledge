@@ -5,10 +5,10 @@ topic: connection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.918Z
+lastCollected: 2026-03-12T09:33:20.474Z
 estimatedTokens: 1840
 namespace: DataSource
-keywords: [Connection, Extend, enable, Salesforce, org, sync, external, system’s, schema, handle, queries, searches, write, operations, upsert, delete, data., extends, DataSourceUtil, inherits]
+keywords: [Connection, Extend, enable, Salesforce, org, sync, external, system’s, schema, handle, queries, searches, write, operations, upsert]
 ---
 
 # Connection Class

@@ -5,9 +5,9 @@ topic: internal-record-alert-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.354Z
+lastCollected: 2026-03-12T09:33:48.223Z
 estimatedTokens: 269
-keywords: [Internal, Record, Alert, Actions, POST, Snooze, internal, record, alerts, specified, time, period, dismiss, them.]
+keywords: [Internal, Record, Alert, Actions, POST, Snooze, alerts, time, period, dismiss]
 ---
 
 # Internal Record Alert Actions (POST)

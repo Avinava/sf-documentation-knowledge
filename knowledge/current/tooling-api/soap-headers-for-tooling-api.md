@@ -5,9 +5,9 @@ topic: soap-headers-for-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:44.249Z
+lastCollected: 2026-03-12T09:33:43.446Z
 estimatedTokens: 461
-keywords: [SOAP, Headers, Tooling, API, provides, headers, similar, headers.]
+keywords: [SOAP, Tooling, API, similar]
 ---
 
 # SOAP Headers for Tooling API

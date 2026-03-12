@@ -5,9 +5,9 @@ topic: procedure-plan-evaluation-by-object-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.826Z
+lastCollected: 2026-03-12T09:33:08.627Z
 estimatedTokens: 532
-keywords: [Procedure, Plan, Evaluation, POST, Evaluate, procedure, plan, definition, based, primary, check, prerequisites, such, usage, context, mapping, details.]
+keywords: [Procedure, Plan, Evaluation, POST, Evaluate, definition, primary, check, prerequisites, usage, context, mapping]
 ---
 
 # Procedure Plan Evaluation By Object (POST)

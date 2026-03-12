@@ -5,9 +5,9 @@ topic: connectapiengagementtopicoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.774Z
+lastCollected: 2026-03-12T09:33:46.799Z
 estimatedTokens: 307
-keywords: [ConnectApi.EngagementTopicOutput, Output, representation, create, engagement, topic, record.]
+keywords: [ConnectApi.EngagementTopicOutput, Output, representation, engagement, topic, record]
 ---
 
 # ConnectApi.EngagementTopicOutput

@@ -5,9 +5,9 @@ topic: skill-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.930Z
+lastCollected: 2026-03-12T09:33:15.620Z
 estimatedTokens: 329
-keywords: [Skill, DMO, Data, Cloud, data, model, proficiency, competence, expertise, employee, possesses, which, useful, mission, organization., API, Name, Category, Primary, Subject]
+keywords: [Skill, DMO, Data, Cloud, model, proficiency, competence, expertise, employee, possesses, useful, mission, organization, API, Category]
 ---
 
 # Skill DMO

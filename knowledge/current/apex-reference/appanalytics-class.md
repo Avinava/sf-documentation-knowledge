@@ -5,10 +5,10 @@ topic: appanalytics-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.223Z
+lastCollected: 2026-03-12T09:33:20.732Z
 estimatedTokens: 980
 namespace: IsvPartners
-keywords: [AppAnalytics, Contains, help, AppExchange, App, Analytics, cases, such, minimizing, subscriber, attrition, obtaining, product, insights., Usage, Example, logCustomInteraction, interactionLabel, interactionId, interactionUuid]
+keywords: [AppAnalytics, help, AppExchange, App, Analytics, cases, minimizing, subscriber, attrition, obtaining, product, insights, Usage, logCustomInteraction, interactionLabel]
 ---
 
 # AppAnalytics Class

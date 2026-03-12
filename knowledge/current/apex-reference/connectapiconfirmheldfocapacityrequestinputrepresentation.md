@@ -5,9 +5,9 @@ topic: connectapiconfirmheldfocapacityrequestinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.662Z
+lastCollected: 2026-03-12T09:33:24.922Z
 estimatedTokens: 175
-keywords: [ConnectApi.ConfirmHeldFOCapacityRequestInputRepresentation, Request, confirm, held, fulfillment, order, capacity, locations.]
+keywords: [confirm, held, fulfillment, order, capacity, locations]
 ---
 
 # ConnectApi.ConfirmHeldFOCapacityRequestInputRepresentation

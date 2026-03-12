@@ -5,9 +5,9 @@ topic: working-with-lightning-platform-canvas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.124Z
+lastCollected: 2026-03-12T09:33:55.266Z
 estimatedTokens: 787
-keywords: [Working, Lightning, Platform, Canvas, integrate, Salesforce, Console, external, applications, require, authentication, such, signed, requests, OAuth, 2.0, protocols, recommends, Canvas., Note]
+keywords: [Working, Lightning, Platform, Canvas, integrate, Salesforce, Console, external, applications, require, authentication, signed, requests, OAuth, 2.0]
 ---
 
 # Working with Lightning Platform Canvas

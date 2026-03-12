@@ -5,9 +5,9 @@ topic: record-alerts-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.947Z
+lastCollected: 2026-03-12T09:33:51.519Z
 estimatedTokens: 350
-keywords: [Record, Alerts, APIs, Business, give, users, seamless, API, experience, Alerts., Note]
+keywords: [Record, Alerts, APIs, Business, give, users, seamless, API, experience]
 ---
 
 # Record Alerts APIs

@@ -5,9 +5,9 @@ topic: get-appmenu-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.373Z
+lastCollected: 2026-03-12T09:33:35.224Z
 estimatedTokens: 100
-keywords: [Get, AppMenu, Items, list, App, Menu, items, Salesforce, Lightning, dropdown, menu., resource, REST, API, version, 29.0, later., Syntax, Example]
+keywords: [AppMenu, Items, App, Menu, Salesforce, Lightning, dropdown, resource, REST, API, version, 29.0, later]
 ---
 
 # Get AppMenu Items

@@ -5,9 +5,9 @@ topic: assignment-rule-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.139Z
+lastCollected: 2026-03-12T09:33:35.019Z
 estimatedTokens: 338
-keywords: [Assignment, Rule, Header, header, request, applied, creating, updating, Accounts, Cases, Leads., enabled, active, assignment, rules, used., disabled, applied., valid, AssignmentRule]
+keywords: [Assignment, Rule, applied, creating, updating, Accounts, Cases, Leads, enabled, active, rules, disabled, AssignmentRule, provided, REST]
 ---
 
 # Assignment Rule Header

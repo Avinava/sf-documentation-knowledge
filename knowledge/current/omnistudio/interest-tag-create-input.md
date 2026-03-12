@@ -5,9 +5,9 @@ topic: interest-tag-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.526Z
+lastCollected: 2026-03-12T09:33:47.504Z
 estimatedTokens: 137
-keywords: [Interest, Tag, Create, Input, representation, creating, Tags.]
+keywords: [Interest, Tag, Input, representation, creating, Tags]
 ---
 
 # Interest Tag Create Input

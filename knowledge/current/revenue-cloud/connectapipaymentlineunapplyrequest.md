@@ -5,9 +5,9 @@ topic: connectapipaymentlineunapplyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.075Z
+lastCollected: 2026-03-12T09:33:07.109Z
 estimatedTokens: 132
-keywords: [ConnectApi.PaymentLineUnapplyRequest, Input, representation, payment, line, details., covers, fields, specify, revert, application.]
+keywords: [ConnectApi.PaymentLineUnapplyRequest, Input, representation, payment, line, covers, specify, revert, application]
 ---
 
 # ConnectApi.PaymentLineUnapplyRequest

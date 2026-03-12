@@ -5,9 +5,9 @@ topic: using-soql-queries-that-return-one-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.557Z
+lastCollected: 2026-03-12T09:33:34.487Z
 estimatedTokens: 346
-keywords: [SOQL, Queries, Record, queries, used, assign, single, sObject, result, list, contains, only, element.]
+keywords: [SOQL, Queries, Record, assign, sObject, result, element]
 ---
 
 # Using SOQL Queries That Return One Record

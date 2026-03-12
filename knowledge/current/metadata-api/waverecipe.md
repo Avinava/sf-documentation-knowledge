@@ -5,9 +5,9 @@ topic: waverecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.908Z
+lastCollected: 2026-03-12T09:33:43.138Z
 estimatedTokens: 820
-keywords: [WaveRecipe, Represents, Analytics, application., recipe, saved, set, steps, perform, specific, source, dataset, connected, data., extends, MetadataWithContent, metadata, inherits, its, content]
+keywords: [WaveRecipe, Analytics, application, recipe, saved, steps, perform, specific, source, dataset, connected, data, extends, MetadataWithContent, metadata]
 ---
 
 # WaveRecipe

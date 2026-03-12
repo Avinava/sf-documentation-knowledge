@@ -5,10 +5,10 @@ topic: error-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.546Z
+lastCollected: 2026-03-12T09:33:30.580Z
 estimatedTokens: 665
 namespace: Database
-keywords: [Error, Represents, information, error, occurred, during, DML, operation, Database, method., Usage, getFields, getMessage, getStatusCode]
+keywords: [Error, occurred, DML, operation, Database, Usage, getFields, getMessage, getStatusCode]
 ---
 
 # Error Class

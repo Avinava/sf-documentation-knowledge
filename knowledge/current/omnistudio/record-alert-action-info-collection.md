@@ -5,9 +5,9 @@ topic: record-alert-action-info-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.656Z
+lastCollected: 2026-03-12T09:33:49.308Z
 estimatedTokens: 89
-keywords: [Record, Alert, Action, Info, Collection, Output, representation, details, action, record, alert.]
+keywords: [Record, Alert, Action, Info, Collection, Output, representation]
 ---
 
 # Record Alert Action Info Collection

@@ -5,9 +5,9 @@ topic: party-financial-liability-borrower-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.492Z
+lastCollected: 2026-03-12T09:33:49.169Z
 estimatedTokens: 517
-keywords: [Party, Financial, Liability, Borrower, Result, Output, representation, borrower, details, party, financial, liability.]
+keywords: [Party, Financial, Liability, Borrower, Result, Output, representation]
 ---
 
 # Party Financial Liability Borrower Result

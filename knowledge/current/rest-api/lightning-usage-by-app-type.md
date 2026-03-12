@@ -5,9 +5,9 @@ topic: lightning-usage-by-app-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.613Z
+lastCollected: 2026-03-12T09:33:35.452Z
 estimatedTokens: 164
-keywords: [Lightning, Usage, App, total, number, Experience, Salesforce, Mobile, users., resource, REST, API, version, 44.0, later., Syntax, Example]
+keywords: [Lightning, Usage, App, total, number, Experience, Salesforce, Mobile, users, resource, REST, API, version, 44.0, later]
 ---
 
 # Lightning Usage by App Type

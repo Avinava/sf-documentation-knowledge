@@ -5,9 +5,9 @@ topic: service-presence-status-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.885Z
+lastCollected: 2026-03-12T09:33:15.580Z
 estimatedTokens: 393
-keywords: [Service, Presence, Status, DMO, Data, Cloud, data, model, presence, status, assigned, service, channel., example, Leads, Lunch, Busy., API, Name, Category]
+keywords: [Service, Presence, Status, DMO, Data, Cloud, model, assigned, channel, Leads, Lunch, Busy, API, Category, Primary]
 ---
 
 # Service Presence Status DMO

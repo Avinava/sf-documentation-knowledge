@@ -5,9 +5,9 @@ topic: search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.878Z
+lastCollected: 2026-03-12T09:33:35.721Z
 estimatedTokens: 183
-keywords: [Search, Executes, specified, SOSL, search., search, must, URL-encoded., Syntax, Example]
+keywords: [Search, Executes, SOSL, URL-encoded]
 ---
 
 # Search

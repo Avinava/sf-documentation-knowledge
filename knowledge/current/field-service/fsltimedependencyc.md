@@ -5,9 +5,9 @@ topic: fsltimedependencyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.144Z
+lastCollected: 2026-03-12T09:33:54.378Z
 estimatedTokens: 693
-keywords: [FSL__Time_Dependency__c, Represents, dependency, between, two, service, appointments., used, define, scheduling, relationships, allows, determine, order, timing, which, dependent, appointments, should, scheduled.]
+keywords: [FSL__Time_Dependency__c, dependency, two, service, appointments, define, scheduling, relationships, determine, order, timing, dependent, scheduled, FSL, _Time]
 ---
 
 # FSL__Time_Dependency__c

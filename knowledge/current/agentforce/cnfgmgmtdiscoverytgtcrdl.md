@@ -5,9 +5,9 @@ topic: cnfgmgmtdiscoverytgtcrdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.412Z
+lastCollected: 2026-03-12T09:33:16.075Z
 estimatedTokens: 400
-keywords: [CnfgMgmtDiscoveryTgtCrdl, Represents, credentials, associated, specific, discovery, target., Credentials, used, authenticate, execute, commands, during, scan., API, version, 65.0, later., Supported, Calls]
+keywords: [CnfgMgmtDiscoveryTgtCrdl, credentials, associated, specific, discovery, target, authenticate, execute, commands, scan, API, version, 65.0, later, Calls]
 ---
 
 # CnfgMgmtDiscoveryTgtCrdl

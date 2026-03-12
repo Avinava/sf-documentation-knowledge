@@ -5,9 +5,9 @@ topic: connectapiwebstoremetaconfigurations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.295Z
+lastCollected: 2026-03-12T09:33:29.343Z
 estimatedTokens: 103
-keywords: [ConnectApi.WebStoreMetaConfigurations, List, webstore, Meta, configurations.]
+keywords: [ConnectApi.WebStoreMetaConfigurations, webstore, Meta, configurations]
 ---
 
 # ConnectApi.WebStoreMetaConfigurations

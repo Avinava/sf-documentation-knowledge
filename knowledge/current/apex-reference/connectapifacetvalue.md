@@ -5,9 +5,9 @@ topic: connectapifacetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.308Z
+lastCollected: 2026-03-12T09:33:27.382Z
 estimatedTokens: 104
-keywords: [ConnectApi.FacetValue, Facet, value.]
+keywords: [ConnectApi.FacetValue, Facet]
 ---
 
 # ConnectApi.FacetValue

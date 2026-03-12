@@ -5,10 +5,10 @@ topic: writeoffinvoiceinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.166Z
+lastCollected: 2026-03-12T09:33:06.275Z
 estimatedTokens: 1018
 namespace: InvoiceWriteOff
-keywords: [WriteOffInvoiceInput, Contains, invoice, details, used, request, write, off, invoice., invoiceId, reasonCode, reason]
+keywords: [WriteOffInvoiceInput, invoice, write, off, invoiceId, reasonCode, reason]
 ---
 
 # WriteOffInvoiceInput Class

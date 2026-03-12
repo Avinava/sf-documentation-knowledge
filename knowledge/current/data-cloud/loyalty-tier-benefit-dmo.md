@@ -5,9 +5,9 @@ topic: loyalty-tier-benefit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.365Z
+lastCollected: 2026-03-12T09:33:15.075Z
 estimatedTokens: 528
-keywords: [Loyalty, Tier, Benefit, DMO, Data, Cloud, data, model, benefit, specific, loyalty, member, tier., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [Loyalty, Tier, Benefit, DMO, Data, Cloud, model, specific, member, API, Category, Primary, Subject, Area, Key]
 ---
 
 # Loyalty Tier Benefit DMO

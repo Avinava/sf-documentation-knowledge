@@ -5,10 +5,10 @@ topic: prefcenter-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.710Z
+lastCollected: 2026-03-12T09:33:31.763Z
 estimatedTokens: 534
 namespace: The
-keywords: [Pref_center, provides, classes, create, retrieve, data, forms, Preference, Manager., Manager, previously, called, Center, feature, within, Privacy, app., Pref, _center]
+keywords: [Pref_center, classes, retrieve, data, forms, Preference, Manager, previously, Center, feature, Privacy, app, Pref, _center]
 ---
 
 # Pref_center Namespace

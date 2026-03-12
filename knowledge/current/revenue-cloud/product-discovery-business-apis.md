@@ -5,9 +5,9 @@ topic: product-discovery-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.078Z
+lastCollected: 2026-03-12T09:33:10.455Z
 estimatedTokens: 647
-keywords: [Product, Discovery, Business, APIs, which, composite, search, products, discover, catalogs, categories, during, product, browsing, experience.]
+keywords: [Product, Discovery, Business, APIs, composite, search, products, discover, catalogs, categories, browsing, experience]
 ---
 
 # Product Discovery Business APIs

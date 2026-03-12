@@ -5,9 +5,9 @@ topic: set-up-salesforce-connect-to-use-your-custom-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.036Z
+lastCollected: 2026-03-12T09:33:33.065Z
 estimatedTokens: 301
-keywords: [Set, Salesforce, Connect, Custom, Adapter, After, create, DataSource.Connection, DataSource.Provider, classes, custom, adapter, becomes, Setup.]
+keywords: [Salesforce, Connect, Custom, Adapter, DataSource.Connection, DataSource.Provider, classes, becomes, Setup]
 ---
 
 # Set Up Salesforce Connect to Use Your Custom Adapter

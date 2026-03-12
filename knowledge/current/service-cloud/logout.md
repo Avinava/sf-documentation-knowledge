@@ -5,9 +5,9 @@ topic: logout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.030Z
+lastCollected: 2026-03-12T09:33:56.112Z
 estimatedTokens: 154
-keywords: [logout, Logs, agent, Omni-Channel., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [logout, Logs, agent, Omni-Channel, API, versions, 32.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # logout

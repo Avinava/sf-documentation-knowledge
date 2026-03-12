@@ -5,9 +5,9 @@ topic: apexemailnotifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.903Z
+lastCollected: 2026-03-12T09:33:36.703Z
 estimatedTokens: 761
-keywords: [ApexEmailNotifications, allows, define, users, email, addresses, receive, unhandled, Apex, errors., Flow, errors, metadata, type., Declarative, Metadata, File, Suffix, Directory, Location]
+keywords: [ApexEmailNotifications, define, users, email, addresses, receive, unhandled, Apex, errors, Flow, metadata, Declarative, File, Suffix, Directory]
 ---
 
 # ApexEmailNotifications

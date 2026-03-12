@@ -5,9 +5,9 @@ topic: waveanalyticassetcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.865Z
+lastCollected: 2026-03-12T09:33:43.103Z
 estimatedTokens: 544
-keywords: [WaveAnalyticAssetCollection, Represents, collection, Analytics, assets., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields, Declarative]
+keywords: [WaveAnalyticAssetCollection, collection, Analytics, assets, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # WaveAnalyticAssetCollection

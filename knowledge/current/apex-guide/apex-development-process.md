@@ -5,9 +5,9 @@ topic: apex-development-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.216Z
+lastCollected: 2026-03-12T09:33:33.239Z
 estimatedTokens: 636
-keywords: [Apex, Development, Process, chapter, you’ll, development, lifecycle, which, organization, tools, develop, Apex., You’ll, testing, deploying, code.]
+keywords: [Apex, Development, Process, chapter, you’ll, lifecycle, organization, tools, develop, testing, deploying, code]
 ---
 
 # Apex Development Process

@@ -5,9 +5,9 @@ topic: logging-and-debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.222Z
+lastCollected: 2026-03-12T09:33:13.160Z
 estimatedTokens: 414
-keywords: [Logging, Debugging, optional, yet, critical, SDK, feature, allows, mobile, application, developer, select, verbosity, Data, Cloud, Module, Engagement, Mobile, SDK’s, output.]
+keywords: [Logging, Debugging, yet, critical, SDK, feature, mobile, application, developer, select, verbosity, Data, Cloud, Module, Engagement]
 ---
 
 # Logging and Debugging

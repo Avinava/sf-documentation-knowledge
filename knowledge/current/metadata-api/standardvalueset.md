@@ -5,9 +5,9 @@ topic: standardvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.994Z
+lastCollected: 2026-03-12T09:33:42.343Z
 estimatedTokens: 731
-keywords: [StandardValueSet, Represents, set, values, standard, picklist, field., extends, Metadata, metadata, inherits, its, fullName, File, Suffix, Directory, Location, Version, Fields, Declarative]
+keywords: [StandardValueSet, standard, picklist, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
 ---
 
 # StandardValueSet

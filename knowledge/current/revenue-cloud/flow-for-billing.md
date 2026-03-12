@@ -5,9 +5,9 @@ topic: flow-for-billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.416Z
+lastCollected: 2026-03-12T09:33:07.419Z
 estimatedTokens: 571
-keywords: [Flow, Billing, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute, logic, provide]
+keywords: [Flow, Billing, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic, provide]
 ---
 
 # Flow for Billing

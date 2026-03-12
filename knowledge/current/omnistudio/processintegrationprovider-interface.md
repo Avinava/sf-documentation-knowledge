@@ -5,9 +5,9 @@ topic: processintegrationprovider-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.864Z
+lastCollected: 2026-03-12T09:33:46.885Z
 estimatedTokens: 748
-keywords: [ProcessIntegrationProvider, Implement, create, Industries, Send, Apex, Async, Request, invocable, action., Usage, executeCallout, requestGuid, inputRecordId, payload, attributes, getProviderAttributes]
+keywords: [ProcessIntegrationProvider, Implement, Industries, Send, Apex, Async, invocable, action, Usage, executeCallout, requestGuid, inputRecordId, payload, attributes, getProviderAttributes]
 ---
 
 # ProcessIntegrationProvider Interface

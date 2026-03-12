@@ -5,10 +5,10 @@ topic: pardotbusinessunitcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.632Z
+lastCollected: 2026-03-12T09:33:19.317Z
 estimatedTokens: 645
 namespace: ConnectApi
-keywords: [PardotBusinessUnitContext, Get, Pardot, business, units, context, user, access, to., getBusinessUnitContext, API, Version, Requires, Chatter, getBusinessUnitContextByIsCurrentStatus, isCurrent]
+keywords: [PardotBusinessUnitContext, Pardot, business, units, context, user, access, getBusinessUnitContext, API, Version, Requires, Chatter, getBusinessUnitContextByIsCurrentStatus, isCurrent]
 ---
 
 # PardotBusinessUnitContext Class

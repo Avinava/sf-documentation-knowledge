@@ -5,10 +5,10 @@ topic: orderpaymentsummary-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.591Z
+lastCollected: 2026-03-12T09:33:19.268Z
 estimatedTokens: 534
 namespace: ConnectApi
-keywords: [OrderPaymentSummary, Create, OrderSummary., Specify, payment, authorization, payments, share, same, method., org, multicurrency, feature, enabled, inherits, CurrencyIsoCode, createOrderPaymentSummary, orderPaymentSummaryInput, API, Version]
+keywords: [OrderPaymentSummary, OrderSummary, Specify, payment, authorization, payments, share, org, multicurrency, feature, enabled, inherits, CurrencyIsoCode, createOrderPaymentSummary, orderPaymentSummaryInput]
 ---
 
 # OrderPaymentSummary Class

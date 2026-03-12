@@ -5,9 +5,9 @@ topic: sales-transaction-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.996Z
+lastCollected: 2026-03-12T09:33:09.559Z
 estimatedTokens: 138
-keywords: [Sales, Transaction, Error, Response, Output, representation, error, details, associated, API, request.]
+keywords: [Sales, Transaction, Error, Output, representation, associated, API]
 ---
 
 # Sales Transaction Error Response

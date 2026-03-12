@@ -5,9 +5,9 @@ topic: configurator-product-catalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.528Z
+lastCollected: 2026-03-12T09:33:09.241Z
 estimatedTokens: 805
-keywords: [Configurator, Product, Catalog, Output, representation, product, catalog.]
+keywords: [Configurator, Product, Catalog, Output, representation]
 ---
 
 # Configurator Product Catalog

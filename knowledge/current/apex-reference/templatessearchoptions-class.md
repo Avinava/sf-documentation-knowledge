@@ -5,10 +5,10 @@ topic: templatessearchoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.509Z
+lastCollected: 2026-03-12T09:33:21.943Z
 estimatedTokens: 719
 namespace: Wave
-keywords: [TemplatesSearchOptions, provides, optional, filter, template, collection., Usage, filterGroup, Example, options]
+keywords: [TemplatesSearchOptions, filter, template, collection, Usage, filterGroup, options]
 ---
 
 # TemplatesSearchOptions Class

@@ -5,9 +5,9 @@ topic: sentiment-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.059Z
+lastCollected: 2026-03-12T09:33:51.598Z
 estimatedTokens: 123
-keywords: [Sentiment, Insights, Analyze, sentiment, customers, get, actionable, insights, improve, it., uses, Amazon, Comprehend, BatchDetectSentiment, API, AWS, account, customers’, based, their]
+keywords: [Sentiment, Insights, Analyze, customers, actionable, improve, uses, Amazon, Comprehend, BatchDetectSentiment, API, AWS, account, customers’, their]
 ---
 
 # Sentiment Insights

@@ -5,9 +5,9 @@ topic: transactionusageentitlement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.642Z
+lastCollected: 2026-03-12T09:33:12.599Z
 estimatedTokens: 2420
-keywords: [TransactionUsageEntitlement, Represents, details, usage, entitlement, that's, granted, purchased, sellable, product, such, quantity, date, entitlements, were, granted., API, version, 63.0, later.]
+keywords: [TransactionUsageEntitlement, usage, entitlement, that's, granted, purchased, sellable, product, quantity, date, entitlements, were, API, version, 63.0]
 ---
 
 # TransactionUsageEntitlement

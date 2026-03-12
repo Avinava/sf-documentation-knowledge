@@ -5,9 +5,9 @@ topic: loyalty-program-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.333Z
+lastCollected: 2026-03-12T09:33:15.047Z
 estimatedTokens: 740
-keywords: [Loyalty, Program, DMO, Data, Cloud, data, model, strategy, designed, encourage, customers, continue, loyal, business, associated, program., API, Name, Category, Primary]
+keywords: [Loyalty, Program, DMO, Data, Cloud, model, strategy, designed, encourage, customers, continue, loyal, business, associated, API]
 ---
 
 # Loyalty Program DMO

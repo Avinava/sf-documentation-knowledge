@@ -5,9 +5,9 @@ topic: actionablelistcolumn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.235Z
+lastCollected: 2026-03-12T09:33:51.743Z
 estimatedTokens: 552
-keywords: [ActionableListColumn, Represents, information, columns, actionable, list., API, version, 57.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [ActionableListColumn, columns, actionable, API, version, 57.0, later, Calls, Associated, Objects]
 ---
 
 # ActionableListColumn

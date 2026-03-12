@@ -5,9 +5,9 @@ topic: customsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.907Z
+lastCollected: 2026-03-12T09:33:42.268Z
 estimatedTokens: 4055
-keywords: [CustomSite, Represents, Salesforce, site., Create, websites, applications, directly, integrated, organization, don't, require, users, log, username, password., Important, Note, Declarative, Metadata]
+keywords: [CustomSite, Salesforce, site, websites, applications, directly, integrated, organization, don't, require, users, log, username, password, Declarative]
 ---
 
 # CustomSite

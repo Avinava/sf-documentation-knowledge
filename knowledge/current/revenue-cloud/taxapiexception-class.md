@@ -5,10 +5,10 @@ topic: taxapiexception-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.519Z
+lastCollected: 2026-03-12T09:33:06.596Z
 estimatedTokens: 913
 namespace: CommerceTax
-keywords: [TaxApiException, Contains, details, any, exceptions, during, tax, calculation, process., Extends, ApexBaseException, class., var1, var2]
+keywords: [TaxApiException, any, exceptions, tax, calculation, process, Extends, ApexBaseException, var1, var2]
 ---
 
 # TaxApiException Class

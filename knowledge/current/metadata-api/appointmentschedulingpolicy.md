@@ -5,9 +5,9 @@ topic: appointmentschedulingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.965Z
+lastCollected: 2026-03-12T09:33:36.765Z
 estimatedTokens: 1318
-keywords: [AppointmentSchedulingPolicy, Represents, set, rules, scheduling, appointments, Lightning, Scheduler., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [AppointmentSchedulingPolicy, rules, scheduling, appointments, Lightning, Scheduler, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # AppointmentSchedulingPolicy

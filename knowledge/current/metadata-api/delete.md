@@ -5,9 +5,9 @@ topic: delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:38.653Z
+lastCollected: 2026-03-12T09:33:38.348Z
 estimatedTokens: 1596
-keywords: [delete, Deprecated., Deletes, components, organization, asynchronously., call, removed, API, version, 31.0, earlier, versions, only., deleteMetadata, instead., Syntax, Usage, Version, Permissions]
+keywords: [Deprecated, Deletes, components, organization, asynchronously, call, removed, API, version, 31.0, earlier, versions, deleteMetadata, instead, Usage]
 ---
 
 # delete()

@@ -5,9 +5,9 @@ topic: busoperproccmplplcyclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.610Z
+lastCollected: 2026-03-12T09:33:52.089Z
 estimatedTokens: 589
-keywords: [BusOperProcCmplPlcyClVer, Represents, junction, between, Business, Operations, Process, Compliance, Policy, Clause, Version, objects., API, version, 65.0, later., Supported, Calls, Fields, Associated]
+keywords: [BusOperProcCmplPlcyClVer, junction, Business, Operations, Process, Compliance, Policy, Clause, Version, objects, API, 65.0, later, Calls, Associated]
 ---
 
 # BusOperProcCmplPlcyClVer

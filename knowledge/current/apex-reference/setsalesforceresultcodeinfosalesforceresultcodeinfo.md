@@ -5,9 +5,9 @@ topic: setsalesforceresultcodeinfosalesforceresultcodeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.150Z
+lastCollected: 2026-03-12T09:33:24.442Z
 estimatedTokens: 204
-keywords: [setSalesforceResultCodeInfo, salesforceResultCodeInfo, Salesforce-specific, result, code, information., Payment, gateways, many, response, codes, payment, calls., Salesforce, uses, information, map, gateway, predefined, set]
+keywords: [setSalesforceResultCodeInfo, salesforceResultCodeInfo, Salesforce-specific, result, code, Payment, gateways, codes, calls, Salesforce, uses, map, gateway, predefined, standard]
 ---
 
 # setSalesforceResultCodeInfo(salesforceResultCodeInfo)

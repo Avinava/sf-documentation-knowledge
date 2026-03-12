@@ -5,9 +5,9 @@ topic: fsl-apex-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.312Z
+lastCollected: 2026-03-12T09:33:53.635Z
 estimatedTokens: 1751
-keywords: [FSL, Apex, Field, Service, contains, classes, Visualforce, pages, custom, objects, within, managed, package., allow, access, elements, assign, permission, set, that's]
+keywords: [FSL, Apex, Service, classes, Visualforce, pages, custom, objects, managed, package, allow, access, elements, assign, permission]
 ---
 
 # FSL Apex Namespace

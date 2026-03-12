@@ -5,9 +5,9 @@ topic: connectapienhancedlinkcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.186Z
+lastCollected: 2026-03-12T09:33:27.278Z
 estimatedTokens: 271
-keywords: [ConnectApi.EnhancedLinkCapability, feed, element, capability, link, may, contain, supplemental, information, icon, title, description.]
+keywords: [ConnectApi.EnhancedLinkCapability, feed, element, capability, link, may, contain, supplemental, icon, title]
 ---
 
 # ConnectApi.EnhancedLinkCapability

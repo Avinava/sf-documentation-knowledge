@@ -5,9 +5,9 @@ topic: addpushnotificationlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.094Z
+lastCollected: 2026-03-12T09:33:55.236Z
 estimatedTokens: 391
-keywords: [addPushNotificationListener, Adds, listener, push, notification., user, only, register, once, until, she, removes, removed, another, user., API, version, 26.0, later., Syntax]
+keywords: [addPushNotificationListener, Adds, listener, push, notification, user, register, once, until, removes, removed, another, API, version, 26.0]
 ---
 
 # addPushNotificationListener()

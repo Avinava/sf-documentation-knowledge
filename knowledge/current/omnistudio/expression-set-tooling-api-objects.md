@@ -5,9 +5,9 @@ topic: expression-set-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.171Z
+lastCollected: 2026-03-12T09:33:49.832Z
 estimatedTokens: 357
-keywords: [Expression, Set, Tooling, API, Objects, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow]
+keywords: [Expression, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller]
 ---
 
 # Expression Set Tooling API Objects

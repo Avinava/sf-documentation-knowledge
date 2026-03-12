@@ -6,9 +6,9 @@ topic: get-field-values-from-an-external-object-record-by-using-the-external-id-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.983Z
+lastCollected: 2026-03-12T09:33:34.877Z
 estimatedTokens: 244
-keywords: [Get, Field, Values, External, Record, Standard, sObject, Rows, resource, retrieve, field, values, record., Specify, fields, want, GET, resource.]
+keywords: [External, Record, Standard, sObject, Rows, resource, retrieve, Specify, want]
 ---
 
 # Get Field Values from an External Object Record by Using the

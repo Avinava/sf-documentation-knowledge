@@ -5,9 +5,9 @@ topic: connectapiproductattributeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:28.461Z
+lastCollected: 2026-03-12T09:33:28.502Z
 estimatedTokens: 468
-keywords: [ConnectApi.ProductAttributeInfo, Product, attribute, information.]
+keywords: [ConnectApi.ProductAttributeInfo, Product, attribute]
 ---
 
 # ConnectApi.ProductAttributeInfo

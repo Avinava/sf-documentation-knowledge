@@ -5,10 +5,10 @@ topic: quickactionlistitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.528Z
+lastCollected: 2026-03-12T09:33:21.008Z
 estimatedTokens: 500
 namespace: Metadata
-keywords: [QuickActionListItem, Represents, action, QuickActionList., Usage, quickActionName, clone]
+keywords: [QuickActionListItem, action, QuickActionList, Usage, quickActionName, clone]
 ---
 
 # QuickActionListItem Class

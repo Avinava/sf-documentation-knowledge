@@ -5,9 +5,9 @@ topic: data-360-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.413Z
+lastCollected: 2026-03-12T09:33:38.118Z
 estimatedTokens: 1997
-keywords: [Data, 360, Metadata, Types, Check, metadata, types, used, development, 360.]
+keywords: [Data, Metadata, Check, development]
 ---
 
 # Data 360 Metadata Types

@@ -5,9 +5,9 @@ topic: activitiessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:36.612Z
+lastCollected: 2026-03-12T09:33:36.429Z
 estimatedTokens: 2569
-keywords: [ActivitiesSettings, Represents, org's, activity, settings, its, user, calendar., extends, Metadata, metadata, inherits, fullName, field., File, Suffix, Directory, Location, Version, Fields]
+keywords: [ActivitiesSettings, org's, activity, settings, user, calendar, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # ActivitiesSettings

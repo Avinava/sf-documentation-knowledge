@@ -5,10 +5,10 @@ topic: advancedgapmatrix-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.167Z
+lastCollected: 2026-03-12T09:33:53.505Z
 estimatedTokens: 1350
 namespace: FSL
-keywords: [AdvancedGapMatrix, Represents, matrix, service, resource, IDs, graded, time, slots., instance, used, only, within, context, results, returned, GradeSlotsService, class., Example, FSLOperationId]
+keywords: [AdvancedGapMatrix, matrix, service, resource, IDs, graded, time, slots, instance, context, results, GradeSlotsService, FSLOperationId, Usage, partialResults]
 ---
 
 # AdvancedGapMatrix Class

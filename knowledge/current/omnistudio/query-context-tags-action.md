@@ -5,9 +5,9 @@ topic: query-context-tags-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.333Z
+lastCollected: 2026-03-12T09:33:46.382Z
 estimatedTokens: 250
-keywords: [Query, Context, Tags, Action, tag, values, instance, associated, context, definition., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
+keywords: [Query, Context, Tags, Action, tag, instance, associated, definition, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Query Context Tags Action

@@ -5,9 +5,9 @@ topic: search-result-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.882Z
+lastCollected: 2026-03-12T09:33:35.725Z
 estimatedTokens: 294
-keywords: [Search, Result, Layouts, search, result, layout, information, objects, query, string., call, list, fields, displayed, results, page, columns, number, rows, first]
+keywords: [Search, Result, Layouts, layout, objects, query, call, results, columns, number, rows, label]
 ---
 
 # Search Result Layouts

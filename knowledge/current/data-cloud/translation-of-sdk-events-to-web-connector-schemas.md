@@ -5,9 +5,9 @@ topic: translation-of-sdk-events-to-web-connector-schemas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.618Z
+lastCollected: 2026-03-12T09:33:13.505Z
 estimatedTokens: 7065
-keywords: [Translation, SDK, Events, Web, Connector, Schemas, Understanding, how, Event, Structure, Salesforce, Interactions, converted, data, ingested, Data, Cloud, useful, troubleshooting, instrumentation]
+keywords: [Translation, SDK, Events, Web, Connector, Schemas, Understanding, how, Event, Structure, Salesforce, Interactions, converted, data, ingested]
 ---
 
 # Translation of SDK Events to Web Connector Schemas

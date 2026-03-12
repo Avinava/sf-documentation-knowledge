@@ -5,9 +5,9 @@ topic: connectapishiftsfrompatterninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.206Z
+lastCollected: 2026-03-12T09:33:25.433Z
 estimatedTokens: 299
-keywords: [ConnectApi.ShiftsFromPatternInput, Shifts, pattern.]
+keywords: [ConnectApi.ShiftsFromPatternInput, Shifts, pattern]
 ---
 
 # ConnectApi.ShiftsFromPatternInput

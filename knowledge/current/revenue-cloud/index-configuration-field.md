@@ -5,9 +5,9 @@ topic: index-configuration-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.769Z
+lastCollected: 2026-03-12T09:33:09.451Z
 estimatedTokens: 230
-keywords: [Index, Configuration, Field, Output, representation, details, index-configured, field.]
+keywords: [Index, Configuration, Output, representation, index-configured]
 ---
 
 # Index Configuration Field

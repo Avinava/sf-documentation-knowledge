@@ -5,9 +5,9 @@ topic: flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.450Z
+lastCollected: 2026-03-12T09:33:33.490Z
 estimatedTokens: 459
-keywords: [Flows, Flow, Builder, lets, admins, build, applications, known, flows, automate, business, process, collecting, data, doing, something, Salesforce, org, external, system.]
+keywords: [Flows, Flow, Builder, lets, admins, build, applications, known, automate, business, process, collecting, data, doing, something]
 ---
 
 # Flows

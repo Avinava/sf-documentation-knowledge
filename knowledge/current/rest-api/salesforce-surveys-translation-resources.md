@@ -5,9 +5,9 @@ topic: salesforce-surveys-translation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.167Z
+lastCollected: 2026-03-12T09:33:36.008Z
 estimatedTokens: 689
-keywords: [Salesforce, Surveys, Translation, Resources, REST, APIs, translate, survey, fields, view, update, delete, translated, fields., values, surveys, stored, Flow]
+keywords: [Salesforce, Surveys, Translation, Resources, REST, APIs, translate, survey, view, translated, stored, Flow]
 ---
 
 # Salesforce Surveys Translation Resources

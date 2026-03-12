@@ -5,9 +5,9 @@ topic: decision-table-invocation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.083Z
+lastCollected: 2026-03-12T09:33:47.981Z
 estimatedTokens: 232
-keywords: [Decision, Table, Invocation, POST, Invoke, decision, table, passing, multiple, input, conditions, within, same, request.]
+keywords: [Decision, Invocation, POST, Invoke, passing, multiple, input, conditions]
 ---
 
 # Decision Table Invocation (POST)

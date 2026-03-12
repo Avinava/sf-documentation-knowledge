@@ -5,9 +5,9 @@ topic: aisentimentresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.339Z
+lastCollected: 2026-03-12T09:33:51.847Z
 estimatedTokens: 1038
-keywords: [AISentimentResult, Represents, outcome, sentiment, analysis, performed, text, field, Salesforce, third-party, service, provider., API, version, 55.0, later., Supported, Calls, Fields, Associated]
+keywords: [AISentimentResult, outcome, sentiment, analysis, performed, text, Salesforce, third-party, service, provider, API, version, 55.0, later, Calls]
 ---
 
 # AISentimentResult

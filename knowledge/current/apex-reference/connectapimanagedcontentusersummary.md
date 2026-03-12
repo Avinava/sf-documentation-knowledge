@@ -5,9 +5,9 @@ topic: connectapimanagedcontentusersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.892Z
+lastCollected: 2026-03-12T09:33:27.923Z
 estimatedTokens: 177
-keywords: [ConnectApi.ManagedContentUserSummary, Information, user, who, created, modified, content.]
+keywords: [ConnectApi.ManagedContentUserSummary, user, created, modified, content]
 ---
 
 # ConnectApi.ManagedContentUserSummary

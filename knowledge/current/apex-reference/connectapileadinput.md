@@ -5,9 +5,9 @@ topic: connectapileadinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.031Z
+lastCollected: 2026-03-12T09:33:25.269Z
 estimatedTokens: 168
-keywords: [ConnectApi.LeadInput, Contains, information, lead, guest, user.]
+keywords: [ConnectApi.LeadInput, lead, guest, user]
 ---
 
 # ConnectApi.LeadInput

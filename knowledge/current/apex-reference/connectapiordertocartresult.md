@@ -5,9 +5,9 @@ topic: connectapiordertocartresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.309Z
+lastCollected: 2026-03-12T09:33:28.360Z
 estimatedTokens: 145
-keywords: [ConnectApi.OrderToCartResult, Result, action, adding, order, cart.]
+keywords: [ConnectApi.OrderToCartResult, Result, action, adding, order, cart]
 ---
 
 # ConnectApi.OrderToCartResult

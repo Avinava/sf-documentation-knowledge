@@ -5,9 +5,9 @@ topic: connectapimanagedcontentassociations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.703Z
+lastCollected: 2026-03-12T09:33:27.754Z
 estimatedTokens: 114
-keywords: [ConnectApi.ManagedContentAssociations, Content, topics, associated, managed, content.]
+keywords: [ConnectApi.ManagedContentAssociations, Content, topics, associated, managed]
 ---
 
 # ConnectApi.ManagedContentAssociations

@@ -5,9 +5,9 @@ topic: standard-data-model-objects-dmos
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:12.734Z
+lastCollected: 2026-03-12T09:33:13.609Z
 estimatedTokens: 10021
-keywords: [Standard, Data, Model, Objects, DMOs, model, objects, groupings, data, created, streams, insights, sources., Find, reference, information, standard, found, Cloud.]
+keywords: [Standard, Data, Model, Objects, DMOs, groupings, created, streams, insights, sources, found, Cloud]
 ---
 
 # Standard Data Model Objects (DMOs)

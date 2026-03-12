@@ -5,9 +5,9 @@ topic: reading-xml-using-streams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.256Z
+lastCollected: 2026-03-12T09:33:34.244Z
 estimatedTokens: 426
-keywords: [Reading, XML, Streams, XMLStreamReader, enable, forward, read-only, access, data., XmlStreamReader, Example]
+keywords: [Reading, XML, Streams, XMLStreamReader, enable, forward, read-only, access, data]
 ---
 
 # Reading XML Using Streams

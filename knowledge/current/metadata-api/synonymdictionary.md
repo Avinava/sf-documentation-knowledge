@@ -5,9 +5,9 @@ topic: synonymdictionary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.093Z
+lastCollected: 2026-03-12T09:33:42.436Z
 estimatedTokens: 863
-keywords: [SynonymDictionary, Represents, set, synonym, groups, which, words, phrases, treated, equivalent, users’, searches., define, optimize, search, results, acronyms, variations, product, names]
+keywords: [SynonymDictionary, synonym, groups, words, phrases, treated, equivalent, users’, searches, define, optimize, search, results, acronyms, variations]
 ---
 
 # SynonymDictionary

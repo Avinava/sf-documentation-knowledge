@@ -5,9 +5,9 @@ topic: connectapisocialpostmassapprovalinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.575Z
+lastCollected: 2026-03-12T09:33:25.757Z
 estimatedTokens: 122
-keywords: [ConnectApi.SocialPostMassApprovalInput, List, social, post, ids, action, approve, reject, publishing, them.]
+keywords: [ConnectApi.SocialPostMassApprovalInput, social, post, ids, action, approve, reject, publishing]
 ---
 
 # ConnectApi.SocialPostMassApprovalInput

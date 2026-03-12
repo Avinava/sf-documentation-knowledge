@@ -5,9 +5,9 @@ topic: rate-and-consumption-source-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.293Z
+lastCollected: 2026-03-12T09:33:09.833Z
 estimatedTokens: 367
-keywords: [Rate, Consumption, Source, Detail, Output, representation, details, specific, rate, its, consumption, source.]
+keywords: [Rate, Consumption, Source, Detail, Output, representation, specific]
 ---
 
 # Rate and Consumption Source Detail

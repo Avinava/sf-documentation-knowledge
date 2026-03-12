@@ -5,9 +5,9 @@ topic: getagentworkload-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.719Z
+lastCollected: 2026-03-12T09:33:55.820Z
 estimatedTokens: 229
-keywords: [getAgentWorkload, Lightning, Experience, Retrieves, agent’s, currently, assigned, workload., reroute, work, agents., Sample, Code, Response]
+keywords: [getAgentWorkload, Lightning, Experience, Retrieves, agent’s, currently, assigned, workload, reroute, work, agents, Sample, Code]
 ---
 
 # getAgentWorkload for Lightning Experience

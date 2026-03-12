@@ -5,9 +5,9 @@ topic: ownerchangeoptioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.216Z
+lastCollected: 2026-03-12T09:33:45.372Z
 estimatedTokens: 546
-keywords: [OwnerChangeOptionInfo, Represents, default, optional, actions, performed, record’s, owner, changed., Tooling, API, version, 35.0, later., Supported, SOAP, Calls, REST, HTTP, Special]
+keywords: [OwnerChangeOptionInfo, actions, performed, record’s, owner, changed, Tooling, API, version, 35.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # OwnerChangeOptionInfo

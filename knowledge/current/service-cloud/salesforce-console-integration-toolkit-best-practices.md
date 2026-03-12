@@ -5,9 +5,9 @@ topic: salesforce-console-integration-toolkit-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:57.109Z
+lastCollected: 2026-03-12T09:33:55.253Z
 estimatedTokens: 632
-keywords: [Salesforce, Console, Integration, Toolkit, Best, Practices, recommends, adhere, few, best, practices, Toolkit.]
+keywords: [Salesforce, Console, Integration, Toolkit, Best, Practices, recommends, adhere, few]
 ---
 
 # Salesforce Console Integration Toolkit Best Practices

@@ -5,10 +5,10 @@ topic: apexpages-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.178Z
+lastCollected: 2026-03-12T09:33:30.227Z
 estimatedTokens: 1186
 namespace: ApexPages
-keywords: [ApexPages, add, check, messages, associated, current, page, well, reference, page., Usage, addMessage, message, addMessages, exceptionThrown, currentPage, Example, getMessages, hasMessages, severity]
+keywords: [ApexPages, add, check, messages, associated, current, well, Usage, addMessage, message, addMessages, exceptionThrown, currentPage, getMessages, hasMessages]
 ---
 
 # ApexPages Class

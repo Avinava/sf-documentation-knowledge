@@ -5,9 +5,9 @@ topic: package-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:03.453Z
+lastCollected: 2026-03-12T09:33:05.630Z
 estimatedTokens: 14557
-keywords: [package, Commands, Convert, managed-released, first-generation, managed, second-generation, package., convert, Description, Examples, Flags, Aliases, create, delete, install, report, installed, list, push-upgrade]
+keywords: [package, Commands, Convert, managed-released, first-generation, managed, second-generation, Examples, Flags, Aliases, install, report, installed, push-upgrade, abort]
 ---
 
 # package Commands

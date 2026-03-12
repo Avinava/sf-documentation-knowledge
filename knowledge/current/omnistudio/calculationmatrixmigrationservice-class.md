@@ -5,10 +5,10 @@ topic: calculationmatrixmigrationservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.453Z
+lastCollected: 2026-03-12T09:33:46.492Z
 estimatedTokens: 776
 namespace: BusinessRule
-keywords: [CalculationMatrixMigrationService, Contains, migrating, calculation, matrices, Vlocity, package, Business, Rules, Engine, decision, matrices., Example, migrate, calculationMatrixIds, calculationMatrixId]
+keywords: [CalculationMatrixMigrationService, migrating, calculation, matrices, Vlocity, package, Business, Rules, Engine, decision, migrate, calculationMatrixIds, calculationMatrixId]
 ---
 
 # CalculationMatrixMigrationService Class

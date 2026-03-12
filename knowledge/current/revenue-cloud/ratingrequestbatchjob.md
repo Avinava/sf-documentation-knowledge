@@ -5,9 +5,9 @@ topic: ratingrequestbatchjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.464Z
+lastCollected: 2026-03-12T09:33:12.439Z
 estimatedTokens: 671
-keywords: [RatingRequestBatchJob, Represents, junction, between, rating, request, batch, job, objects., API, version, 62.0, later., Important, Supported, Calls, Fields, Associated, Objects]
+keywords: [RatingRequestBatchJob, junction, rating, batch, job, objects, API, version, 62.0, later, Calls, Associated]
 ---
 
 # RatingRequestBatchJob

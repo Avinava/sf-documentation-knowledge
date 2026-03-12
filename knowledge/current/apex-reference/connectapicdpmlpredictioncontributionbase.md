@@ -5,9 +5,9 @@ topic: connectapicdpmlpredictioncontributionbase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.519Z
+lastCollected: 2026-03-12T09:33:26.666Z
 estimatedTokens: 91
-keywords: [ConnectApi.CdpMlPredictionContributionBase, Base, representation, Prediction, Contribution]
+keywords: [Base, representation, Prediction, Contribution]
 ---
 
 # ConnectApi.CdpMlPredictionContributionBase

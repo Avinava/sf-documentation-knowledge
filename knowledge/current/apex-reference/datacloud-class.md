@@ -5,10 +5,10 @@ topic: datacloud-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.133Z
+lastCollected: 2026-03-12T09:33:18.792Z
 estimatedTokens: 2132
 namespace: ConnectApi
-keywords: [Datacloud, Purchase, Data.com, contact, company, records, retrieve, purchase, information., Note, getCompaniesFromOrder, orderId, pageSize, page, API, Version, Requires, Chatter, getCompany, companyId]
+keywords: [Datacloud, Purchase, Data.com, contact, company, records, retrieve, getCompaniesFromOrder, orderId, pageSize, API, Version, Requires, Chatter, getCompany]
 ---
 
 # Datacloud Class

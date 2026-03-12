@@ -5,9 +5,9 @@ topic: connectapireleaseheldfocapacityrequestinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.483Z
+lastCollected: 2026-03-12T09:33:25.671Z
 estimatedTokens: 177
-keywords: [ConnectApi.ReleaseHeldFOCapacityRequestInputRepresentation, Request, release, held, fulfillment, order, capacity, locations.]
+keywords: [release, held, fulfillment, order, capacity, locations]
 ---
 
 # ConnectApi.ReleaseHeldFOCapacityRequestInputRepresentation

@@ -5,9 +5,9 @@ topic: googleappssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.354Z
+lastCollected: 2026-03-12T09:33:39.853Z
 estimatedTokens: 802
-keywords: [GoogleAppsSettings, Represents, settings, Google, Apps, Salesforce., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Example, Package, Manifest, Wildcard]
+keywords: [GoogleAppsSettings, settings, Google, Apps, Salesforce, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Package]
 ---
 
 # GoogleAppsSettings

@@ -5,10 +5,10 @@ topic: oauthtoken-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.651Z
+lastCollected: 2026-03-12T09:33:20.277Z
 estimatedTokens: 714
 namespace: Auth
-keywords: [OauthToken, Contains, revoke, OAuth, access, tokens, refresh, tokens., supports, opaque, JSON, Web, Token, JWT, -based, including, guest, named, user, JWT-based]
+keywords: [OauthToken, revoke, OAuth, access, tokens, refresh, supports, opaque, JSON, Web, Token, JWT, -based, including, guest]
 ---
 
 # OauthToken Class

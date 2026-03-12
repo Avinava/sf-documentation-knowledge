@@ -5,9 +5,9 @@ topic: access-modifiers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.407Z
+lastCollected: 2026-03-12T09:33:32.444Z
 estimatedTokens: 1227
-keywords: [Access, Modifiers, Apex, allows, protected, access, modifiers, defining, variables., Note, Versioned, Behavior, Changes]
+keywords: [Access, Modifiers, Apex, protected, defining, variables, Versioned, Behavior, Changes]
 ---
 
 # Access Modifiers

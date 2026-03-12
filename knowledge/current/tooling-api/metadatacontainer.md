@@ -5,9 +5,9 @@ topic: metadatacontainer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.056Z
+lastCollected: 2026-03-12T09:33:45.209Z
 estimatedTokens: 840
-keywords: [MetadataContainer, Manages, working, copies, ApexClassMember, ApexTriggerMember, ApexPageMember, ApexComponentMember, objects, including, collections, deployed, together., Supported, SOAP, API, Calls, REST, HTTP, Special]
+keywords: [MetadataContainer, Manages, working, copies, ApexClassMember, ApexTriggerMember, ApexPageMember, ApexComponentMember, objects, including, collections, deployed, together, SOAP, API]
 ---
 
 # MetadataContainer

@@ -5,9 +5,9 @@ topic: expression-set-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.168Z
+lastCollected: 2026-03-12T09:33:49.830Z
 estimatedTokens: 555
-keywords: [Expression, Set, Standard, Objects, standard, objects, create, update, activate, components.]
+keywords: [Expression, Standard, Objects, activate, components]
 ---
 
 # Expression Set Standard Objects

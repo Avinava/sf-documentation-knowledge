@@ -5,10 +5,10 @@ topic: slack-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:31.607Z
+lastCollected: 2026-03-12T09:33:31.662Z
 estimatedTokens: 1309
 namespace: Slack
-keywords: [Slack, provides, tools, designed, accelerate, ease, process, developing, apps, Salesforce, platform.]
+keywords: [Slack, tools, designed, accelerate, ease, process, developing, apps, Salesforce, platform]
 ---
 
 # Slack Namespace

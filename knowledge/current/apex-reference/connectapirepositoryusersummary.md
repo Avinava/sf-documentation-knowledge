@@ -5,9 +5,9 @@ topic: connectapirepositoryusersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.899Z
+lastCollected: 2026-03-12T09:33:28.947Z
 estimatedTokens: 111
-keywords: [ConnectApi.RepositoryUserSummary, user, summary.]
+keywords: [ConnectApi.RepositoryUserSummary, user, summary]
 ---
 
 # ConnectApi.RepositoryUserSummary

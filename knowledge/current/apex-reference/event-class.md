@@ -5,10 +5,10 @@ topic: event-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.437Z
+lastCollected: 2026-03-12T09:33:21.873Z
 estimatedTokens: 1923
 namespace: TxnSecurity
-keywords: [Event, Specifies, action, being, taken, resource, Entity, event., example, Login, event, could, create., attribute, used, any, type., Usage, Tip, data]
+keywords: [Event, action, taken, resource, Entity, Login, attribute, any, Usage, data, entityId, entityName, organizationId, resourceType, timeStamp]
 ---
 
 # Event Class

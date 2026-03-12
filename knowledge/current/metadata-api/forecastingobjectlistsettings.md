@@ -5,9 +5,9 @@ topic: forecastingobjectlistsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.087Z
+lastCollected: 2026-03-12T09:33:39.621Z
 estimatedTokens: 1230
-keywords: [ForecastingObjectListSettings, Represents, org’s, forecasting, list, settings., settings, control, which, types, field, appear, details, forecasts, page., example, pipeline, Opportunity, specify, fields]
+keywords: [ForecastingObjectListSettings, org’s, forecasting, settings, control, appear, forecasts, pipeline, Opportunity, specify, extends, Metadata, inherits, fullName, File]
 ---
 
 # ForecastingObjectListSettings

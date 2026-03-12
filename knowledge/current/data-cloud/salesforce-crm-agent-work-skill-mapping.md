@@ -5,9 +5,9 @@ topic: salesforce-crm-agent-work-skill-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.019Z
+lastCollected: 2026-03-12T09:33:13.860Z
 estimatedTokens: 252
-keywords: [Salesforce, CRM, Agent, Work, Skill, Mapping, data, mappings, AgentWorkSkill, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
+keywords: [Salesforce, CRM, Agent, Work, Skill, Mapping, data, mappings, AgentWorkSkill, DLO, found, Services, bundle, Connector, Cloud]
 ---
 
 # Salesforce CRM: Agent Work Skill Mapping

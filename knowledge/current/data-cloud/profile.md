@@ -5,9 +5,9 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.272Z
+lastCollected: 2026-03-12T09:33:13.224Z
 estimatedTokens: 436
-keywords: [Profile, Descriptions, how, Data, Cloud, Module, Engagement, Mobile, SDK, profile, changes, map, event, definition, recommended, mobile, schema, within]
+keywords: [Profile, Descriptions, how, Data, Cloud, Module, Engagement, Mobile, SDK, changes, map, event, definition, recommended, schema]
 ---
 
 # Profile

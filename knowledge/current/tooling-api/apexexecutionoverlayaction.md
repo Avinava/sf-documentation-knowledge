@@ -5,10 +5,10 @@ topic: apexexecutionoverlayaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.601Z
+lastCollected: 2026-03-12T09:33:43.775Z
 estimatedTokens: 853
 namespace: YourClass
-keywords: [ApexExecutionOverlayAction, Specifies, Apex, code, snippet, SOQL, query, execute, specific, line, trigger., Optionally, generates, heap, dump., Supported, SOAP, Calls, REST, HTTP]
+keywords: [ApexExecutionOverlayAction, Apex, code, snippet, SOQL, query, execute, specific, line, trigger, Optionally, generates, heap, dump, SOAP]
 ---
 
 # ApexExecutionOverlayAction

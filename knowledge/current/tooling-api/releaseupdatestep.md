@@ -5,9 +5,9 @@ topic: releaseupdatestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.677Z
+lastCollected: 2026-03-12T09:33:45.778Z
 estimatedTokens: 288
-keywords: [ReleaseUpdateStep, Represents, individual, release, update, step., API, version, 49.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
+keywords: [ReleaseUpdateStep, individual, release, step, API, version, 49.0, later, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # ReleaseUpdateStep

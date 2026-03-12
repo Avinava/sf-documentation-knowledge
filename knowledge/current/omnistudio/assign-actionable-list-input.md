@@ -5,9 +5,9 @@ topic: assign-actionable-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.074Z
+lastCollected: 2026-03-12T09:33:47.092Z
 estimatedTokens: 159
-keywords: [Assign, Actionable, List, Input, representation, assigning, actionable, list.]
+keywords: [Assign, Actionable, Input, representation, assigning]
 ---
 
 # Assign Actionable List Input

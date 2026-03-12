@@ -5,9 +5,9 @@ topic: querynode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.368Z
+lastCollected: 2026-03-12T09:33:23.742Z
 estimatedTokens: 1732
-keywords: [QueryNode, Define, node, query, such, projection, groups, order, filters., Execute, query., Usage, build, streamName, foreach, projections, group, Example, orders, cap]
+keywords: [QueryNode, Define, node, query, projection, groups, order, filters, Execute, Usage, build, streamName, foreach, projections, group]
 ---
 
 # QueryNode Class

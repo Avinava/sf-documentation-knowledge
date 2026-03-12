@@ -5,9 +5,9 @@ topic: capturing-engagement-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:12.128Z
+lastCollected: 2026-03-12T09:33:13.039Z
 estimatedTokens: 526
-keywords: [Capturing, Engagement, Data, Cloud, Module, Mobile, SDK, enables, collection, granular, data, customer’s, mobile, app, interactions, through, event, tracking., iOS, Example]
+keywords: [Capturing, Engagement, Data, Cloud, Module, Mobile, SDK, collection, granular, customer’s, app, interactions, event, tracking, iOS]
 ---
 
 # Capturing Engagement Data

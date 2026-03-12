@@ -5,9 +5,9 @@ topic: cmplplcyclcmplctlver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.716Z
+lastCollected: 2026-03-12T09:33:52.187Z
 estimatedTokens: 586
-keywords: [CmplPlcyClCmplCtlVer, Represents, junction, between, Compliance, Policy, Clause, Version, Control, objects., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [CmplPlcyClCmplCtlVer, junction, Compliance, Policy, Clause, Version, Control, objects, API, 65.0, later, Calls, Associated]
 ---
 
 # CmplPlcyClCmplCtlVer

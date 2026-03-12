@@ -1,0 +1,29 @@
+---
+title: "OCI Transfer Reservation Output"
+domain: chatterapi
+topic: oci-transfer-reservation-output
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:34:20.009Z
+estimatedTokens: 114
+keywords: [OCI, Transfer, Reservation, Output, inventory, reservations]
+---
+
+# OCI Transfer Reservation Output
+
+> Response to a request to transfer one or more inventory
+      reservations.
+
+# OCI Transfer Reservation Output
+
+Response to a request to transfer one or more inventory reservations.
+
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| errors | OCI Transfer Reservation Error Output[] | Responses for the individual reservations in the transfer request. | Big, 51.0 | 51.0 |
+| success | Boolean | Indicates whether the request was successful. | Big, 51.0 | 51.0 |
+
+## Related Topics
+
+- OCI Transfer Reservation Error Output (atlas.en-us.chatterapi.meta/chatterapi/connect_responses_o_c_i_transfer_reservation_error_output.htm)

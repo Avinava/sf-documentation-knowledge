@@ -5,9 +5,9 @@ topic: amendment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.313Z
+lastCollected: 2026-03-12T09:33:09.054Z
 estimatedTokens: 170
-keywords: [Amendment, Output, representation, details, amendment, record.]
+keywords: [Amendment, Output, representation, record]
 ---
 
 # Amendment

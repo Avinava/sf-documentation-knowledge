@@ -5,9 +5,9 @@ topic: get-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.359Z
+lastCollected: 2026-03-12T09:33:35.212Z
 estimatedTokens: 436
-keywords: [Get, Standard, Invocable, Actions, list, standard, invocable, actions, provided, Salesforce., require, special, access., resource, REST, API, version, 32.0, later., Syntax]
+keywords: [Standard, Invocable, Actions, provided, Salesforce, require, special, access, resource, REST, API, version, 32.0, later, URI]
 ---
 
 # Get Standard Invocable Actions

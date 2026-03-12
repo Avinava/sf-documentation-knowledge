@@ -5,9 +5,9 @@ topic: interest-tag-assignments-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.293Z
+lastCollected: 2026-03-12T09:33:48.176Z
 estimatedTokens: 295
-keywords: [Interest, Tag, Assignments, GET, Retrieve, list, record, assignments, Tag.]
+keywords: [Interest, Tag, Assignments, Retrieve, record]
 ---
 
 # Interest Tag Assignments (GET)

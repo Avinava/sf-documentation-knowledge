@@ -5,9 +5,9 @@ topic: view-ramp-deal-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.278Z
+lastCollected: 2026-03-12T09:33:09.025Z
 estimatedTokens: 367
-keywords: [View, Ramp, Deal, GET, ramp, deal, related, quote, line, item, order, item., Note]
+keywords: [View, Ramp, Deal, quote, line, item, order]
 ---
 
 # View Ramp Deal (GET)

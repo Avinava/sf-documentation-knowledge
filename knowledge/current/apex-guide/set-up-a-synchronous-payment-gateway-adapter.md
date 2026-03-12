@@ -5,9 +5,9 @@ topic: set-up-a-synchronous-payment-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:32.823Z
+lastCollected: 2026-03-12T09:33:32.862Z
 estimatedTokens: 767
-keywords: [Set, Synchronous, Payment, Gateway, Adapter, payments, transactions, configure, Salesforce, synchronous, payment, gateway, adapter.]
+keywords: [Synchronous, Payment, Gateway, Adapter, payments, transactions, configure, Salesforce]
 ---
 
 # Set Up a Synchronous Payment Gateway Adapter

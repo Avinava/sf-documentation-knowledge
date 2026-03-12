@@ -5,9 +5,9 @@ topic: built-in-exceptions-and-common-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.342Z
+lastCollected: 2026-03-12T09:33:33.390Z
 estimatedTokens: 1919
-keywords: [Built-In, Exceptions, Common, Apex, provides, number, built-in, exception, types, runtime, engine, throws, errors, encountered, during, execution., You've, seen, DmlException, previous]
+keywords: [Built-In, Exceptions, Common, Apex, number, exception, runtime, engine, throws, errors, encountered, execution, You've, seen, DmlException]
 ---
 
 # Built-In Exceptions and Common Methods

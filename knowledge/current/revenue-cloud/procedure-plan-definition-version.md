@@ -5,9 +5,9 @@ topic: procedure-plan-definition-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.123Z
+lastCollected: 2026-03-12T09:33:09.649Z
 estimatedTokens: 553
-keywords: [Procedure, Plan, Definition, Version, Output, representation, version, details, procedure, plan, definition.]
+keywords: [Procedure, Plan, Definition, Version, Output, representation]
 ---
 
 # Procedure Plan Definition Version

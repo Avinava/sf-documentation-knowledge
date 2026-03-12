@@ -5,9 +5,9 @@ topic: pathassistant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.655Z
+lastCollected: 2026-03-12T09:33:41.115Z
 estimatedTokens: 832
-keywords: [PathAssistant, Represents, Path, records.This, extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields, PathAssistantStep, Declarative]
+keywords: [PathAssistant, Path, records.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, PathAssistantStep, Declarative, Sample]
 ---
 
 # PathAssistant

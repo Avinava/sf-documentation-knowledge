@@ -5,9 +5,9 @@ topic: data-use-legal-basis-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.858Z
+lastCollected: 2026-03-12T09:33:14.622Z
 estimatedTokens: 422
-keywords: [Data, Legal, Basis, DMO, Cloud, data, model, legal, reason, contacting, customer, such, billing, contract., API, Name, Category, Primary, Subject, Area]
+keywords: [Data, Legal, Basis, DMO, Cloud, model, reason, contacting, customer, billing, contract, API, Category, Primary, Subject]
 ---
 
 # Data Use Legal Basis DMO

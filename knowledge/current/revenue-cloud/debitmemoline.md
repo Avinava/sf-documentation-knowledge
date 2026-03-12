@@ -5,9 +5,9 @@ topic: debitmemoline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.136Z
+lastCollected: 2026-03-12T09:33:11.310Z
 estimatedTokens: 1832
-keywords: [DebitMemoLine, Represents, additional, charge, amount, buyer, must, pay, product, service, debit, memo, line, tax, that’s, related, memo., API, version, 65.0]
+keywords: [DebitMemoLine, additional, charge, amount, buyer, pay, product, service, debit, memo, line, tax, that’s, API, version]
 ---
 
 # DebitMemoLine

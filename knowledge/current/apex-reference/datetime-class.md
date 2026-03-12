@@ -5,10 +5,10 @@ topic: datetime-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.631Z
+lastCollected: 2026-03-12T09:33:30.675Z
 estimatedTokens: 9145
 namespace: System
-keywords: [Datetime, Contains, primitive, data, type., Usage, addDays, additionalDays, Example, addHours, additionalHours, addMinutes, additionalMinutes, addMonths, additionalMonths, addSeconds, additionalSeconds, addYears, additionalYears, date]
+keywords: [Datetime, primitive, data, Usage, addDays, additionalDays, addHours, additionalHours, addMinutes, additionalMinutes, addMonths, additionalMonths, addSeconds, additionalSeconds, addYears]
 ---
 
 # Datetime Class

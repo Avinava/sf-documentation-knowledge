@@ -5,9 +5,9 @@ topic: permissionsetgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.708Z
+lastCollected: 2026-03-12T09:33:41.167Z
 estimatedTokens: 845
-keywords: [PermissionSetGroup, Represents, group, permission, permissions, within, them., set, groups, organize, based, job, functions, tasks., Then, package, needed., Declarative, Metadata, File]
+keywords: [PermissionSetGroup, group, permission, permissions, groups, organize, job, functions, tasks, package, needed, Declarative, Metadata, File, Suffix]
 ---
 
 # PermissionSetGroup

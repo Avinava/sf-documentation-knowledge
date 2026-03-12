@@ -5,10 +5,10 @@ topic: contentdownloadhandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.936Z
+lastCollected: 2026-03-12T09:33:21.493Z
 estimatedTokens: 704
 namespace: Sfc
-keywords: [ContentDownloadHandler, define, custom, download, handler, controls, how, content, downloaded., downloadErrorMessage, isDownloadAllowed, redirectUrl]
+keywords: [ContentDownloadHandler, define, custom, download, handler, how, content, downloaded, downloadErrorMessage, isDownloadAllowed, redirectUrl]
 ---
 
 # ContentDownloadHandler Class

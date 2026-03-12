@@ -5,9 +5,9 @@ topic: create-standalone-billing-schedules-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.730Z
+lastCollected: 2026-03-12T09:33:08.538Z
 estimatedTokens: 1646
-keywords: [Create, Standalone, Billing, Schedules, POST, Generate, billing, schedules, any, internal, external, transaction, context, service.]
+keywords: [Standalone, Billing, Schedules, POST, Generate, any, internal, external, transaction, context, service]
 ---
 
 # Create Standalone Billing Schedules (POST)

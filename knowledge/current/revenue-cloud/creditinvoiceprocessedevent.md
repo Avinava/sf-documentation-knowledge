@@ -5,9 +5,9 @@ topic: creditinvoiceprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.990Z
+lastCollected: 2026-03-12T09:33:11.187Z
 estimatedTokens: 751
-keywords: [CreditInvoiceProcessedEvent, Represents, notification, customers, after, process, initiated, commerce, invoicing, invoices, invoiceId, actions, credit, request, complete., API, version, 62.0, later., Supported]
+keywords: [CreditInvoiceProcessedEvent, notification, customers, process, initiated, commerce, invoicing, invoices, invoiceId, actions, credit, API, version, 62.0, later]
 ---
 
 # CreditInvoiceProcessedEvent

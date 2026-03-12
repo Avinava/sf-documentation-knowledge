@@ -5,9 +5,9 @@ topic: invoice-preview-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.058Z
+lastCollected: 2026-03-12T09:33:08.826Z
 estimatedTokens: 442
-keywords: [Invoice, Preview, POST, Generate, preview, invoices, which, includes, estimated, tax, amounts, billing, transaction, next, two, periods.]
+keywords: [Invoice, Preview, POST, Generate, invoices, includes, estimated, tax, amounts, billing, transaction, two, periods]
 ---
 
 # Invoice Preview (POST)

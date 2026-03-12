@@ -5,10 +5,10 @@ topic: cardpaymentmethodresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.932Z
+lastCollected: 2026-03-12T09:33:22.343Z
 estimatedTokens: 3105
 namespace: CommercePayments
-keywords: [CardPaymentMethodResponse, contains, details, card, payment, method., setAccountId, accountId, setAutoPay, autoPay, setCardBin, cardBin, setCardCategory, cardCategory, setCardHolderFirstName, cardHolderFirstName, setCardHolderLastName, cardHolderLastName, setCardHolderName, cardHolderName]
+keywords: [CardPaymentMethodResponse, card, payment, setAccountId, accountId, setAutoPay, autoPay, setCardBin, cardBin, setCardCategory, cardCategory, setCardHolderFirstName, cardHolderFirstName, setCardHolderLastName, cardHolderLastName]
 ---
 
 # CardPaymentMethodResponse Class

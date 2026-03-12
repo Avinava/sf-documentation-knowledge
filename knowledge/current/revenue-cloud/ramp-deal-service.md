@@ -5,9 +5,9 @@ topic: ramp-deal-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.277Z
+lastCollected: 2026-03-12T09:33:09.816Z
 estimatedTokens: 241
-keywords: [Ramp, Deal, Service, Output, representation, details, created, updated, deleted, ramp, deal.]
+keywords: [Ramp, Deal, Service, Output, representation, created, updated, deleted]
 ---
 
 # Ramp Deal Service

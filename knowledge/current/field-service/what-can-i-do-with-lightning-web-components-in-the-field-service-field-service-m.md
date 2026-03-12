@@ -6,9 +6,9 @@ topic: what-can-i-do-with-lightning-web-components-in-the-field-service-field-se
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.029Z
+lastCollected: 2026-03-12T09:33:55.181Z
 estimatedTokens: 190
-keywords: [Lightning, Web, Components, Field, Service, Mobile, App?, create, custom, components, accessed, Actions, menu., built, LWCs, simple, complex, depending, problem, you’re]
+keywords: [Lightning, Web, Components, Service, Mobile, App, custom, accessed, Actions, menu, built, LWCs, simple, complex, depending]
 ---
 
 # What Can I Do with Lightning Web Components in the Field Service Field Service Mobile

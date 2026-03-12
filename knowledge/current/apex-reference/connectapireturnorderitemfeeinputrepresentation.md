@@ -5,9 +5,9 @@ topic: connectapireturnorderitemfeeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.512Z
+lastCollected: 2026-03-12T09:33:25.698Z
 estimatedTokens: 647
-keywords: [ConnectApi.ReturnOrderItemFeeInputRepresentation, ReturnOrderLineItem, representing, fee, instructions, updating, it., After, update, read-only., Any, remaining, quantity, processed, added, new, ReturnOrderLineItem.]
+keywords: [ReturnOrderLineItem, representing, fee, instructions, updating, read-only, Any, remaining, quantity, processed, added, new]
 ---
 
 # ConnectApi.ReturnOrderItemFeeInputRepresentation

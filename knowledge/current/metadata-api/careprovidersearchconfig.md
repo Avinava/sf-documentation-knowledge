@@ -5,9 +5,9 @@ topic: careprovidersearchconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.560Z
+lastCollected: 2026-03-12T09:33:37.325Z
 estimatedTokens: 414
-keywords: [CareProviderSearchConfig, Represents, information, fields, appear, care, provider, search, results., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory]
+keywords: [CareProviderSearchConfig, appear, care, provider, search, results, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # CareProviderSearchConfig

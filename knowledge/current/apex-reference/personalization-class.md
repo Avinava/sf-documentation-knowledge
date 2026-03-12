@@ -5,10 +5,10 @@ topic: personalization-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.674Z
+lastCollected: 2026-03-12T09:33:19.363Z
 estimatedTokens: 6196
 namespace: ConnectApi
-keywords: [Personalization, Create, audience., Note, createAudience, communityId, audience, API, Version, Requires, Chatter, createTargets, target, deleteAudience, audienceId, deleteTarget, targetId, getAudience, includeAudienceCriteria, Guest]
+keywords: [Personalization, audience, createAudience, communityId, API, Version, Requires, Chatter, createTargets, target, deleteAudience, audienceId, deleteTarget, targetId, getAudience]
 ---
 
 # Personalization Class

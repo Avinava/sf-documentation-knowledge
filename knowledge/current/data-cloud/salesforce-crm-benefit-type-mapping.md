@@ -5,9 +5,9 @@ topic: salesforce-crm-benefit-type-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.481Z
+lastCollected: 2026-03-12T09:33:14.311Z
 estimatedTokens: 286
-keywords: [Salesforce, CRM, Benefit, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., benefit, used, categorize, benefits, offered, members]
+keywords: [Salesforce, CRM, Benefit, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, categorize, benefits]
 ---
 
 # Salesforce CRM: Benefit Type Mapping

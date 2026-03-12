@@ -5,10 +5,10 @@ topic: fsccashflowutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.564Z
+lastCollected: 2026-03-12T09:33:22.977Z
 estimatedTokens: 189
 namespace: Usage
-keywords: [FSCCashFlowUtil, callable, manage, validate, data, party, income, expense, entities, passing, action, corresponding, arguments., provides, utility, used, FSCCashFlow, Flexcard, its, child]
+keywords: [FSCCashFlowUtil, callable, manage, validate, data, party, income, expense, entities, passing, action, corresponding, arguments, utility, FSCCashFlow]
 ---
 
 # FSCCashFlowUtil Class

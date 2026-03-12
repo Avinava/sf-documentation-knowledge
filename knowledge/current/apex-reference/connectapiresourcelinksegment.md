@@ -5,9 +5,9 @@ topic: connectapiresourcelinksegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.912Z
+lastCollected: 2026-03-12T09:33:28.959Z
 estimatedTokens: 65
-keywords: [ConnectApi.ResourceLinkSegment, Resource, link, segment.]
+keywords: [ConnectApi.ResourceLinkSegment, Resource, link, segment]
 ---
 
 # ConnectApi.ResourceLinkSegment

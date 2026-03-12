@@ -5,9 +5,9 @@ topic: extended-class-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.575Z
+lastCollected: 2026-03-12T09:33:32.606Z
 estimatedTokens: 592
-keywords: [Extended, Example, following, extended, example, showing, features, Apex, classes., keywords, concepts, introduced, explained, detail, throughout, chapter.]
+keywords: [Extended, showing, features, Apex, classes, keywords, concepts, introduced, explained, detail, throughout, chapter]
 ---
 
 # Extended Class Example

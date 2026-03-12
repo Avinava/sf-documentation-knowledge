@@ -5,9 +5,9 @@ topic: connectapifeedfavorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.727Z
+lastCollected: 2026-03-12T09:33:25.904Z
 estimatedTokens: 66
-keywords: [ConnectApi.FeedFavorites, Feed, favorites.]
+keywords: [ConnectApi.FeedFavorites, Feed, favorites]
 ---
 
 # ConnectApi.FeedFavorites

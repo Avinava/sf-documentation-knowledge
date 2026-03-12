@@ -5,9 +5,9 @@ topic: account-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.974Z
+lastCollected: 2026-03-12T09:33:46.994Z
 estimatedTokens: 580
-keywords: [Account, Input, representation, account.]
+keywords: [Account, Input, representation]
 ---
 
 # Account Input

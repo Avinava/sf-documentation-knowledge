@@ -5,10 +5,10 @@ topic: json-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.194Z
+lastCollected: 2026-03-12T09:33:21.643Z
 estimatedTokens: 2682
 namespace: System
-keywords: [JSON, Suppresses, null, values, serializing, Apex, objects, content., Usage, createGenerator, prettyPrint, createParser, jsonString, deserialize, apexType, Example, deserializeStrict, deserializeUntyped, serialize, objectToSerialize]
+keywords: [JSON, Suppresses, serializing, Apex, objects, content, Usage, createGenerator, prettyPrint, createParser, jsonString, deserialize, apexType, deserializeStrict, deserializeUntyped]
 ---
 
 # JSON Class

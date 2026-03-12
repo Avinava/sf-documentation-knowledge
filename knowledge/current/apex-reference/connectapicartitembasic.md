@@ -5,9 +5,9 @@ topic: connectapicartitembasic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.330Z
+lastCollected: 2026-03-12T09:33:26.492Z
 estimatedTokens: 123
-keywords: [ConnectApi.CartItemBasic, Represents, limited, details, cart, item.]
+keywords: [ConnectApi.CartItemBasic, limited, cart, item]
 ---
 
 # ConnectApi.CartItemBasic

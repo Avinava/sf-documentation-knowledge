@@ -5,9 +5,9 @@ topic: connectapifeedelementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.902Z
+lastCollected: 2026-03-12T09:33:25.152Z
 estimatedTokens: 888
-keywords: [ConnectApi.FeedElementInput, Feed, elements, top-level, items, feed, contains., Feeds, element, containers.]
+keywords: [ConnectApi.FeedElementInput, Feed, elements, top-level, items, Feeds, element, containers]
 ---
 
 # ConnectApi.FeedElementInput

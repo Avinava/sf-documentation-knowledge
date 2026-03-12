@@ -5,9 +5,9 @@ topic: workcapacityusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.800Z
+lastCollected: 2026-03-12T09:33:54.996Z
 estimatedTokens: 2017
-keywords: [WorkCapacityUsage, Represents, capacity, usage, specific, service, territory, workstream, whole, given, period., API, version, 59.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [WorkCapacityUsage, capacity, usage, specific, service, territory, workstream, whole, period, API, version, 59.0, later, Calls, Associated]
 ---
 
 # WorkCapacityUsage

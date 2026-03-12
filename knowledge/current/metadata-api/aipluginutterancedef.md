@@ -5,9 +5,9 @@ topic: aipluginutterancedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.727Z
+lastCollected: 2026-03-12T09:33:36.533Z
 estimatedTokens: 384
-keywords: [AiPluginUtteranceDef, Represents, utterance, used, pick, topic, during, runtime., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata]
+keywords: [AiPluginUtteranceDef, utterance, pick, topic, runtime, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
 ---
 
 # AiPluginUtteranceDef

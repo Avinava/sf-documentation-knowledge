@@ -5,10 +5,10 @@ topic: baseapipaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.840Z
+lastCollected: 2026-03-12T09:33:22.258Z
 estimatedTokens: 1923
 namespace: CommercePayments
-keywords: [BaseApiPaymentMethodRequest, Abstract, used, send, information, payment, gateway, adapter, during, service, call., Usage, address, saveForFuture, idType, equals, obj, hashCode, toString]
+keywords: [BaseApiPaymentMethodRequest, Abstract, send, payment, gateway, adapter, service, call, Usage, address, saveForFuture, idType, equals, obj, hashCode]
 ---
 
 # BaseApiPaymentMethodRequest Class

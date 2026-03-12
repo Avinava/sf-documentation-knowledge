@@ -5,10 +5,10 @@ topic: compression-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.664Z
+lastCollected: 2026-03-12T09:33:31.719Z
 estimatedTokens: 332
 namespace: Compression
-keywords: [Compression, provides, classes, create, extract, zip, files.]
+keywords: [Compression, classes, extract, zip, files]
 ---
 
 # Compression Namespace

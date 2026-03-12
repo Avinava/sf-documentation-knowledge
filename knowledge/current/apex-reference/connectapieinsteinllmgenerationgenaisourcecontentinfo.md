@@ -5,9 +5,9 @@ topic: connectapieinsteinllmgenerationgenaisourcecontentinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.099Z
+lastCollected: 2026-03-12T09:33:27.195Z
 estimatedTokens: 134
-keywords: [ConnectApi.EinsteinLlmGenerationGenAiSourceContentInfo, Values, source, cited, generated, response.]
+keywords: [source, cited, generated]
 ---
 
 # ConnectApi.EinsteinLlmGenerationGenAiSourceContentInfo

@@ -5,10 +5,10 @@ topic: boolean-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.220Z
+lastCollected: 2026-03-12T09:33:30.274Z
 estimatedTokens: 537
 namespace: System
-keywords: [Contains, primitive, data, type., valueOf, stringToBoolean, Usage, Example, fieldValue]
+keywords: [primitive, data, valueOf, stringToBoolean, Usage, fieldValue]
 ---
 
 # Boolean Class

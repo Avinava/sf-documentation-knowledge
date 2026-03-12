@@ -5,9 +5,9 @@ topic: invoice-ingestion-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.840Z
+lastCollected: 2026-03-12T09:33:09.477Z
 estimatedTokens: 202
-keywords: [Invoice, Ingestion, Details, Output, representation, details, generated, invoice.]
+keywords: [Invoice, Ingestion, Output, representation, generated]
 ---
 
 # Invoice Ingestion Details

@@ -5,9 +5,9 @@ topic: orderitemdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.685Z
+lastCollected: 2026-03-12T09:33:11.751Z
 estimatedTokens: 717
-keywords: [OrderItemDetail, Represents, breakdown, details, order, product., Revenue, Cloud, generates, records, capture, pricing, quantity, changes, such, negative, reductions, early, renewals, derived]
+keywords: [OrderItemDetail, breakdown, order, product, Revenue, Cloud, generates, records, capture, pricing, quantity, changes, negative, reductions, early]
 ---
 
 # OrderItemDetail

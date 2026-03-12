@@ -5,9 +5,9 @@ topic: connectapieinsteinllmgenerationitemoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.107Z
+lastCollected: 2026-03-12T09:33:27.202Z
 estimatedTokens: 177
-keywords: [ConnectApi.​EinsteinLLM​GenerationItem​Output, Generated, response, LLM, provider.]
+keywords: [Generated, LLM, provider]
 ---
 
 # ConnectApi.​EinsteinLLM​GenerationItem​Output

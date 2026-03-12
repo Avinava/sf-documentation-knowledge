@@ -5,9 +5,9 @@ topic: connectapimanagedcontentdocumentclone
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.799Z
+lastCollected: 2026-03-12T09:33:27.846Z
 estimatedTokens: 364
-keywords: [ConnectApi.ManagedContentDocumentClone, Managed, content, document, clone.]
+keywords: [ConnectApi.ManagedContentDocumentClone, Managed, content, document, clone]
 ---
 
 # ConnectApi.ManagedContentDocumentClone

@@ -5,9 +5,9 @@ topic: connectapicontenthuballoweditemtypecollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.812Z
+lastCollected: 2026-03-12T09:33:26.915Z
 estimatedTokens: 97
-keywords: [ConnectApi.ContentHubAllowedItemTypeCollection, item, types, context, user, allowed, create, repository, folder.]
+keywords: [item, context, user, allowed, repository, folder]
 ---
 
 # ConnectApi.ContentHubAllowedItemTypeCollection

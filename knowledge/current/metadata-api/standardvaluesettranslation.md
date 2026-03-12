@@ -5,9 +5,9 @@ topic: standardvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.001Z
+lastCollected: 2026-03-12T09:33:42.349Z
 estimatedTokens: 610
-keywords: [StandardValueSetTranslation, Contains, details, standard, picklist, translation., translated, set.This, extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
+keywords: [StandardValueSetTranslation, standard, picklist, translation, translated, set.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # StandardValueSetTranslation

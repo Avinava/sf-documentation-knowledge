@@ -5,9 +5,9 @@ topic: composite-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.401Z
+lastCollected: 2026-03-12T09:33:35.255Z
 estimatedTokens: 670
-keywords: [Composite, Batch, Executes, subrequests, single, request., response, bodies, HTTP, statuses, batch, returned, body., subrequest, counts, against, rate, limits., Syntax, Example]
+keywords: [Composite, Batch, Executes, subrequests, bodies, HTTP, statuses, subrequest, counts, against, rate, limits]
 ---
 
 # Composite Batch

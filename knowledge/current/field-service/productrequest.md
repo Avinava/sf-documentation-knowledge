@@ -5,9 +5,9 @@ topic: productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.312Z
+lastCollected: 2026-03-12T09:33:54.529Z
 estimatedTokens: 1491
-keywords: [ProductRequest, Represents, order, part, parts, field, service., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ProductRequest, order, part, parts, service, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ProductRequest

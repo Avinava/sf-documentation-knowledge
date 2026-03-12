@@ -5,9 +5,9 @@ topic: apex-type-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:08.670Z
+lastCollected: 2026-03-12T09:33:10.118Z
 estimatedTokens: 1170
-keywords: [Apex, Provider, Implement, custom, integration, logic, via, Provider., provider, requires, Integration, Developer, implement, adapter, interface., Adapter, Implementation, Error, Handling, Advanced]
+keywords: [Apex, Provider, Implement, custom, integration, logic, via, requires, Developer, adapter, Implementation, Error, Handling, Advanced, Definition]
 ---
 
 # Apex Type Provider

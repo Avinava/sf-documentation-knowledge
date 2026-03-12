@@ -5,9 +5,9 @@ topic: using-composite-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.227Z
+lastCollected: 2026-03-12T09:33:36.056Z
 estimatedTokens: 1126
-keywords: [Composite, Resources, examples, section, composite, resources, improve, application’s, performance, minimizing, number, round-trips, between, client, server.]
+keywords: [Composite, Resources, examples, improve, application’s, performance, minimizing, number, round-trips, client, server]
 ---
 
 # Using Composite Resources

@@ -5,9 +5,9 @@ topic: connectapieinsteinllmgenerationcitationoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.093Z
+lastCollected: 2026-03-12T09:33:27.188Z
 estimatedTokens: 123
-keywords: [ConnectApi.EinsteinLlmGenerationCitationOutput, Source, information, associated, generated, response.]
+keywords: [Source, associated, generated]
 ---
 
 # ConnectApi.EinsteinLlmGenerationCitationOutput

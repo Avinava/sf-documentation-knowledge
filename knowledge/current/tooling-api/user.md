@@ -5,9 +5,9 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.009Z
+lastCollected: 2026-03-12T09:33:46.078Z
 estimatedTokens: 360
-keywords: [User, Represents, user., retrieve, standard, fields, Tooling, API, custom, can’t, retrieved., Note, Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [User, retrieve, standard, Tooling, API, custom, can’t, retrieved, SOAP, Calls, REST, HTTP]
 ---
 
 # User

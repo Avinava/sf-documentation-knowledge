@@ -5,9 +5,9 @@ topic: actionablelistfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:53.273Z
+lastCollected: 2026-03-12T09:33:51.780Z
 estimatedTokens: 1328
-keywords: [ActionableListFilterCondition, Represents, filter, condition, including, excluding, data, dataset, associated, actionable, list., API, version, 59.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [ActionableListFilterCondition, filter, condition, including, excluding, data, dataset, associated, actionable, API, version, 59.0, later, Calls, Objects]
 ---
 
 # ActionableListFilterCondition

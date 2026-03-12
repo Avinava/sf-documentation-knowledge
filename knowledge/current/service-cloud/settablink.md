@@ -5,9 +5,9 @@ topic: settablink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.478Z
+lastCollected: 2026-03-12T09:33:56.525Z
 estimatedTokens: 221
-keywords: [setTabLink, console, tab’s, URL, attribute, location, content., generate, secure, URLs, users, navigate, tabs, displaying, content, outside, Salesforce, domain.This, only, API]
+keywords: [setTabLink, console, tab’s, URL, attribute, location, content, generate, secure, URLs, users, navigate, tabs, displaying, outside]
 ---
 
 # setTabLink()

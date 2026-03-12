@@ -5,9 +5,9 @@ topic: getpartyexpensefrequencylabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.733Z
+lastCollected: 2026-03-12T09:33:29.764Z
 estimatedTokens: 68
-keywords: [GetPartyExpenseFrequencyLabel, picklist, values, party, expense, frequency, field, entity.]
+keywords: [GetPartyExpenseFrequencyLabel, picklist, party, expense, frequency, entity]
 ---
 
 # GetPartyExpenseFrequencyLabel

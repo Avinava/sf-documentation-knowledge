@@ -5,9 +5,9 @@ topic: filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.440Z
+lastCollected: 2026-03-12T09:33:47.441Z
 estimatedTokens: 147
-keywords: [Filter, Input, representation, filter, query, fetch, actionable, list, members.]
+keywords: [Filter, Input, representation, query, fetch, actionable, members]
 ---
 
 # Filter Input

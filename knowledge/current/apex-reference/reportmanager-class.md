@@ -5,10 +5,10 @@ topic: reportmanager-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.127Z
+lastCollected: 2026-03-12T09:33:23.518Z
 estimatedTokens: 3545
 namespace: Reports
-keywords: [ReportManager, Runs, report, synchronously, asynchronously, without, details., Usage, describeReport, reportId, Syntax, getDatatypeFilterOperatorMap, getReportInstance, instanceId, getReportInstances, runAsyncReport, reportMetadata, includeDetails, runReport]
+keywords: [ReportManager, Runs, report, synchronously, asynchronously, Usage, describeReport, reportId, getDatatypeFilterOperatorMap, getReportInstance, instanceId, getReportInstances, runAsyncReport, reportMetadata, includeDetails]
 ---
 
 # ReportManager Class

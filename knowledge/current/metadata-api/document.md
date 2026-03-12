@@ -5,9 +5,9 @@ topic: document
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.002Z
+lastCollected: 2026-03-12T09:33:38.686Z
 estimatedTokens: 1238
-keywords: [Document, Represents, Document., documents, must, document, folder, such, sampleFolder, TestDocument., Retrieving, Documents, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [Document, documents, folder, sampleFolder, TestDocument, Retrieving, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
 
 # Document

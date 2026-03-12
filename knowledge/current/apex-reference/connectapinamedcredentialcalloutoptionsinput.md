@@ -5,9 +5,9 @@ topic: connectapinamedcredentialcalloutoptionsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.192Z
+lastCollected: 2026-03-12T09:33:25.420Z
 estimatedTokens: 201
-keywords: [ConnectApi.NamedCredentialCalloutOptionsInput, Named, credential, callout, options, input.]
+keywords: [Named, credential, callout, options, input]
 ---
 
 # ConnectApi.NamedCredentialCalloutOptionsInput

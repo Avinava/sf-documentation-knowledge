@@ -5,9 +5,9 @@ topic: fulfillmentstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:10.313Z
+lastCollected: 2026-03-12T09:33:11.458Z
 estimatedTokens: 2892
-keywords: [FulfillmentStep, Represents, task, that's, required, perform, certain, action, part, order, fulfillment., manual, automated., API, version, 61.0, later., Supported, Calls, Fields]
+keywords: [FulfillmentStep, task, that's, perform, certain, action, part, order, fulfillment, manual, automated, API, version, 61.0, later]
 ---
 
 # FulfillmentStep

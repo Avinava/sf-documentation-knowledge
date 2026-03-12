@@ -5,10 +5,10 @@ topic: quickaction-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.322Z
+lastCollected: 2026-03-12T09:33:23.698Z
 estimatedTokens: 2859
 namespace: System
-keywords: [QuickAction, Apex, request, process, actions, objects, allow, custom, fields, appear, Chatter, feed, globally., Example, describeAvailableQuickActions, parentType, describeQuickActions, sObjectNames, performQuickAction, quickActionRequest]
+keywords: [QuickAction, Apex, process, actions, objects, allow, custom, appear, Chatter, feed, globally, describeAvailableQuickActions, parentType, describeQuickActions, sObjectNames]
 ---
 
 # QuickAction Class

@@ -5,9 +5,9 @@ topic: connectapirecipientengagementcontextinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.605Z
+lastCollected: 2026-03-12T09:33:25.786Z
 estimatedTokens: 166
-keywords: [ConnectApi.RecipientEngagementContextInput, Context, based, which, survey, invitation, sent, participant.]
+keywords: [Context, survey, invitation, sent, participant]
 ---
 
 # ConnectApi.RecipientEngagementContextInput

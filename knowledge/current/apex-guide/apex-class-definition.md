@@ -5,9 +5,9 @@ topic: apex-class-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.536Z
+lastCollected: 2026-03-12T09:33:32.569Z
 estimatedTokens: 1534
-keywords: [Apex, Definition, Avoid, standard, names, names., Doing, causes, unexpected, results., list, objects, Reference, Salesforce., Note, Versioned, Behavior, Changes]
+keywords: [Apex, Definition, Avoid, standard, Doing, causes, unexpected, results, objects, Salesforce, Versioned, Behavior, Changes]
 ---
 
 # Apex Class Definition

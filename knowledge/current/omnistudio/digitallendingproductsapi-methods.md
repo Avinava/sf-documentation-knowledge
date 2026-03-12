@@ -5,9 +5,9 @@ topic: digitallendingproductsapi-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.833Z
+lastCollected: 2026-03-12T09:33:46.855Z
 estimatedTokens: 97
-keywords: [DigitalLendingProductsApi, includes, invoke, actions.]
+keywords: [DigitalLendingProductsApi, includes, invoke, actions]
 ---
 
 # DigitalLendingProductsApi Methods

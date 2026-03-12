@@ -5,9 +5,9 @@ topic: openprimarytab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.290Z
+lastCollected: 2026-03-12T09:33:56.347Z
 estimatedTokens: 776
-keywords: [openPrimaryTab, Opens, new, primary, tab, display, content, specified, URL, which, relative, absolute., override, existing, tab., only, API, version, 20.0, later.]
+keywords: [openPrimaryTab, Opens, new, primary, tab, display, content, URL, relative, absolute, override, API, version, 20.0, later]
 ---
 
 # openPrimaryTab()

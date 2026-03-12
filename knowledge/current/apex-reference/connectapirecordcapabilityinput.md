@@ -5,9 +5,9 @@ topic: connectapirecordcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.457Z
+lastCollected: 2026-03-12T09:33:25.647Z
 estimatedTokens: 129
-keywords: [ConnectApi.RecordCapabilityInput, Attach, existing, knowledge, article, comment.]
+keywords: [ConnectApi.RecordCapabilityInput, Attach, knowledge, article, comment]
 ---
 
 # ConnectApi.RecordCapabilityInput

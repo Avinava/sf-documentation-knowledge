@@ -5,9 +5,9 @@ topic: decision-explainer-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.973Z
+lastCollected: 2026-03-12T09:33:49.618Z
 estimatedTokens: 150
-keywords: [Decision, Explainer, Standard, Objects, standard, objects, create, update, activate, components.]
+keywords: [Decision, Explainer, Standard, Objects, activate, components]
 ---
 
 # Decision Explainer Standard Objects

@@ -5,9 +5,9 @@ topic: identity-verification-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.254Z
+lastCollected: 2026-03-12T09:33:49.948Z
 estimatedTokens: 266
-keywords: [Identity, Verification, Tooling, API, Objects, objects, create, update, identity, verification, configuration.]
+keywords: [Identity, Verification, Tooling, API, Objects, configuration]
 ---
 
 # Identity Verification Tooling API Objects

@@ -5,9 +5,9 @@ topic: onfiletransfercompleted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.221Z
+lastCollected: 2026-03-12T09:33:56.291Z
 estimatedTokens: 210
-keywords: [onFileTransferCompleted, Registers, function, call, file, transferred, customer, agent., API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [onFileTransferCompleted, Registers, function, call, file, transferred, customer, agent, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # onFileTransferCompleted()

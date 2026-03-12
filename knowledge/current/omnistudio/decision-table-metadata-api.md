@@ -5,9 +5,9 @@ topic: decision-table-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.016Z
+lastCollected: 2026-03-12T09:33:49.690Z
 estimatedTokens: 213
-keywords: [Decision, Table, Metadata, API, create, edit, activate, decision, table, API.]
+keywords: [Decision, Metadata, API, edit, activate]
 ---
 
 # Decision Table Metadata API

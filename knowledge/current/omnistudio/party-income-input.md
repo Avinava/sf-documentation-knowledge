@@ -5,9 +5,9 @@ topic: party-income-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.634Z
+lastCollected: 2026-03-12T09:33:47.584Z
 estimatedTokens: 356
-keywords: [Party, Income, Input, representation, details, party, income.]
+keywords: [Party, Income, Input, representation]
 ---
 
 # Party Income Input

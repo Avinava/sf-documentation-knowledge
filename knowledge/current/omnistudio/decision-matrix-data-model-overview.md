@@ -5,9 +5,9 @@ topic: decision-matrix-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:51.841Z
+lastCollected: 2026-03-12T09:33:50.484Z
 estimatedTokens: 155
-keywords: [Decision, Matrix, Data, Model, Overview, objects, relationships, within, data, model.]
+keywords: [Decision, Matrix, Data, Model, objects, relationships]
 ---
 
 # Decision Matrix Data Model Overview

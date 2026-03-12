@@ -5,9 +5,9 @@ topic: custom-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.201Z
+lastCollected: 2026-03-12T09:33:47.208Z
 estimatedTokens: 121
-keywords: [Custom, Fields, Input, representation, creating, engagement, interaction, topic, attendee, record, custom, field., digital, lending, fields.]
+keywords: [Custom, Input, representation, creating, engagement, interaction, topic, attendee, record, digital, lending]
 ---
 
 # Custom Fields Input

@@ -5,9 +5,9 @@ topic: headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.134Z
+lastCollected: 2026-03-12T09:33:35.013Z
 estimatedTokens: 879
-keywords: [Headers, REST, API, supports, several, standard, custom, HTTP, headers, including, both, request, response, headers.]
+keywords: [REST, API, supports, several, standard, custom, HTTP, including]
 ---
 
 # Headers

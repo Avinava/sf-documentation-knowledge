@@ -5,9 +5,9 @@ topic: schema-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:03.565Z
+lastCollected: 2026-03-12T09:33:05.730Z
 estimatedTokens: 1811
-keywords: [schema, Commands, Generate, metadata, source, files, new, custom, field, specified, object., generate, Description, Examples, Flags, Aliases, platformevent, sobject, tab]
+keywords: [schema, Commands, Generate, metadata, source, files, new, custom, Examples, Flags, Aliases, platformevent, sobject, tab]
 ---
 
 # schema Commands

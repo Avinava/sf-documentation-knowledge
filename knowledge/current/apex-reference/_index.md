@@ -2,7 +2,7 @@
 domain: apex-reference
 name: Apex Reference
 documentCount: 2205
-lastGenerated: 2026-03-12T05:15:09.000Z
+lastGenerated: 2026-03-12T09:36:25.391Z
 ---
 
 # Apex Reference — Knowledge Index

@@ -5,9 +5,9 @@ topic: invlatepymntriskcalcsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.637Z
+lastCollected: 2026-03-12T09:33:40.142Z
 estimatedTokens: 640
-keywords: [InvLatePymntRiskCalcSettings, Represents, org’s, settings, identify, level, risks, associated, payment, invoices., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative]
+keywords: [InvLatePymntRiskCalcSettings, org’s, settings, identify, level, risks, associated, payment, invoices, Parent, Manifest, Access, File, Suffix, Directory]
 ---
 
 # InvLatePymntRiskCalcSettings

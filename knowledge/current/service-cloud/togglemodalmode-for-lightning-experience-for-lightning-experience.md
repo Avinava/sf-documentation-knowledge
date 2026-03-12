@@ -5,9 +5,9 @@ topic: togglemodalmode-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.994Z
+lastCollected: 2026-03-12T09:33:56.077Z
 estimatedTokens: 282
-keywords: [toggleModalMode, Lightning, Experience, Toggles, modal, mode, utility., While, overlay, blocks, users, console, while, utility, panel, visible., isn’t, supported, Web, Components]
+keywords: [toggleModalMode, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, isn’t, Web]
 ---
 
 # toggleModalMode() for Lightning Experience for Lightning Experience

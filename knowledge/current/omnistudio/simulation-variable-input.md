@@ -5,9 +5,9 @@ topic: simulation-variable-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.821Z
+lastCollected: 2026-03-12T09:33:47.752Z
 estimatedTokens: 214
-keywords: [Simulation, Variable, Input, information, input, variable, its, value., Note]
+keywords: [Simulation, Variable, Input]
 ---
 
 # Simulation Variable Input

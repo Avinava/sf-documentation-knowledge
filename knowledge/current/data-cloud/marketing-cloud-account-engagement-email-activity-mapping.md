@@ -5,9 +5,9 @@ topic: marketing-cloud-account-engagement-email-activity-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.424Z
+lastCollected: 2026-03-12T09:33:15.128Z
 estimatedTokens: 941
-keywords: [Marketing, Cloud, Account, Engagement, Email, Activity, Mapping, After, data, stream, deployed, maps, source, objects, model, DMOs, Data, Cloud., includes, email]
+keywords: [Marketing, Cloud, Account, Engagement, Email, Activity, Mapping, data, stream, deployed, maps, source, objects, model, DMOs]
 ---
 
 # Marketing Cloud Account Engagement: Email Activity Mapping

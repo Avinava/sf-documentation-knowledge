@@ -5,9 +5,9 @@ topic: fueltypesustnuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.168Z
+lastCollected: 2026-03-12T09:33:39.693Z
 estimatedTokens: 589
-keywords: [FuelTypeSustnUom, Represents, mapping, between, custom, fuel, types, their, corresponding, unit, measure, UOM, values, defined, customer, org., Parent, File, Suffix, Directory]
+keywords: [FuelTypeSustnUom, mapping, custom, fuel, their, corresponding, unit, measure, UOM, defined, customer, org, Parent, File, Suffix]
 ---
 
 # FuelTypeSustnUom

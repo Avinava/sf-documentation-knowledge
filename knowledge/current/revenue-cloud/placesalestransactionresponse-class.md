@@ -5,10 +5,10 @@ topic: placesalestransactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:04.234Z
+lastCollected: 2026-03-12T09:33:06.338Z
 estimatedTokens: 1096
 namespace: RevSalesTrxn
-keywords: [PlaceSalesTransactionResponse, Contains, hold, response, place, sales, transaction, request., Example, contextDetails, errorResponse, isSuccess, salesTransactionId, statusUrl, trackerId]
+keywords: [PlaceSalesTransactionResponse, hold, place, sales, transaction, contextDetails, errorResponse, isSuccess, salesTransactionId, statusUrl, trackerId]
 ---
 
 # PlaceSalesTransactionResponse Class

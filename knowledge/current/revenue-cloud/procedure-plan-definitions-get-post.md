@@ -5,9 +5,9 @@ topic: procedure-plan-definitions-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.907Z
+lastCollected: 2026-03-12T09:33:08.696Z
 estimatedTokens: 686
-keywords: [Procedure, Plan, Definitions, GET, POST, Get, records, procedure, plan, definitions., Additionally, create, record, definition.]
+keywords: [Procedure, Plan, Definitions, POST, records, Additionally, record, definition]
 ---
 
 # Procedure Plan Definitions (GET, POST)

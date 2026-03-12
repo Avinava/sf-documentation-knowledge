@@ -5,9 +5,9 @@ topic: genaiprompttemplateactv
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:40.311Z
+lastCollected: 2026-03-12T09:33:39.817Z
 estimatedTokens: 640
-keywords: [GenAiPromptTemplateActv, Represents, activation, status, Salesforce-provided, prompt, template., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata]
+keywords: [GenAiPromptTemplateActv, activation, status, Salesforce-provided, prompt, template, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # GenAiPromptTemplateActv

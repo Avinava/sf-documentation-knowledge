@@ -5,9 +5,9 @@ topic: taxtransactiontype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.238Z
+lastCollected: 2026-03-12T09:33:07.258Z
 estimatedTokens: 304
-keywords: [TaxTransactionType, Shows, whether, tax, transaction, credit, debit, transaction., Usage, Values]
+keywords: [TaxTransactionType, whether, tax, transaction, credit, debit, Usage]
 ---
 
 # TaxTransactionType Enum

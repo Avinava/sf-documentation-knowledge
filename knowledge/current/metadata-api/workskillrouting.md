@@ -5,9 +5,9 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:44.046Z
+lastCollected: 2026-03-12T09:33:43.254Z
 estimatedTokens: 899
-keywords: [WorkSkillRouting, Represents, setup, stores, set, WorkSkillRoutingAttribute, objects., objects, used, route, work, item, agent, who, skills, necessary, take, work., extends, Metadata]
+keywords: [WorkSkillRouting, setup, stores, WorkSkillRoutingAttribute, objects, route, work, item, agent, skills, necessary, take, extends, Metadata, inherits]
 ---
 
 # WorkSkillRouting

@@ -5,9 +5,9 @@ topic: connectapimcsfoldersharecollectionupdateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.066Z
+lastCollected: 2026-03-12T09:33:25.304Z
 estimatedTokens: 244
-keywords: [ConnectApi.MCSFolderShareCollectionUpdateInput, Update, targets, managed, content, space, folder, shared, with.]
+keywords: [targets, managed, content, space, folder, shared]
 ---
 
 # ConnectApi.MCSFolderShareCollectionUpdateInput

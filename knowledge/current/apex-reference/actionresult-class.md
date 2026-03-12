@@ -5,10 +5,10 @@ topic: actionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.217Z
+lastCollected: 2026-03-12T09:33:20.726Z
 estimatedTokens: 1284
 namespace: Invocable
-keywords: [Action.Result, Contains, retrieve, results, invocable, actions, called, Apex, code., clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess]
+keywords: [Action.Result, retrieve, results, invocable, actions, Apex, code, clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess]
 ---
 
 # Action.Result Class

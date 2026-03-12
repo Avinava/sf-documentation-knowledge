@@ -5,9 +5,9 @@ topic: eventdelivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.435Z
+lastCollected: 2026-03-12T09:33:44.562Z
 estimatedTokens: 865
-keywords: [EventDelivery, Represents, how, event, instant, maps, target, payload., Removed, API, version, 46.0., 41.0, 45.0., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [EventDelivery, how, event, instant, maps, target, payload, Removed, API, version, 46.0, 41.0, 45.0, SOAP, Calls]
 ---
 
 # EventDelivery

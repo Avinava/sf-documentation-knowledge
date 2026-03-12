@@ -5,9 +5,9 @@ topic: upsert-an-account-and-create-a-contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.953Z
+lastCollected: 2026-03-12T09:33:34.847Z
 estimatedTokens: 192
-keywords: [Upsert, Account, Create, Contact, following, example, uses, Composite, resource, upsert, account, create, contact, linked, account., requests, executed, single, call., composite.json]
+keywords: [Upsert, Account, Contact, uses, Composite, resource, linked, requests, executed, call, composite.json, file, subrequest, data]
 ---
 
 # Upsert an Account and Create a Contact

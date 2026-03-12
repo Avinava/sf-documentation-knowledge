@@ -5,9 +5,9 @@ topic: lists-of-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.601Z
+lastCollected: 2026-03-12T09:33:33.627Z
 estimatedTokens: 777
-keywords: [Lists, sObjects, contain, among, types, elements., used, bulk, processing, data., Auto-populating, List, SOQL, Query, Adding, Retrieving, Elements, Bulk, Processing, Note]
+keywords: [sObjects, contain, among, elements, bulk, processing, data, Auto-populating, SOQL, Query, Adding, Retrieving, Record, Generation, Array]
 ---
 
 # Lists of sObjects

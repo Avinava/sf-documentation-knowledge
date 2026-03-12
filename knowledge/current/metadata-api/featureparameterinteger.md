@@ -5,9 +5,9 @@ topic: featureparameterinteger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:39.821Z
+lastCollected: 2026-03-12T09:33:39.417Z
 estimatedTokens: 844
-keywords: [FeatureParameterInteger, Represents, feature, Feature, Management, App, FMA, let, drive, app, behavior, track, activation, metrics, subscriber, orgs, install, package., extends, Metadata]
+keywords: [FeatureParameterInteger, feature, Management, App, FMA, let, drive, behavior, track, activation, metrics, subscriber, orgs, install, package]
 ---
 
 # FeatureParameterInteger

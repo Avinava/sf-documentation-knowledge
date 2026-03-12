@@ -5,9 +5,9 @@ topic: group-related-records-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.304Z
+lastCollected: 2026-03-12T09:33:48.188Z
 estimatedTokens: 114
-keywords: [Group, Related, Records, GET, Get, related, records, party, relationship, group.]
+keywords: [Group, Records, party, relationship]
 ---
 
 # Group Related Records (GET)

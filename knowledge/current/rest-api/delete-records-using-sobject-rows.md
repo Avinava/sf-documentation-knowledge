@@ -5,9 +5,9 @@ topic: delete-records-using-sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.088Z
+lastCollected: 2026-03-12T09:33:35.933Z
 estimatedTokens: 796
-keywords: [Delete, Records, sObject, Rows, Deletes, records, based, specified, record, ID., resource, used, external, objects, API, version, 32.0, later., Syntax, Example]
+keywords: [Records, sObject, Rows, Deletes, record, resource, external, objects, API, version, 32.0, later]
 ---
 
 # Delete Records Using sObject Rows

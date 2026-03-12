@@ -5,10 +5,10 @@ topic: store-and-retrieve-values-from-the-session-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.776Z
+lastCollected: 2026-03-12T09:33:33.793Z
 estimatedTokens: 913
 namespace: Cache.SessionPartition
-keywords: [Store, Retrieve, Values, Session, Cache, Cache.Session, Cache.SessionPartition, classes, manage, values, session, cache., any, partition, class., you’re, managing, cache, instead., Note]
+keywords: [Store, Retrieve, Session, Cache, Cache.Session, Cache.SessionPartition, classes, manage, any, partition, you’re, managing, instead]
 ---
 
 # Store and Retrieve Values from the Session Cache

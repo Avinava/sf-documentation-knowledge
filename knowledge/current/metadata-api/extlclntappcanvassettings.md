@@ -5,9 +5,9 @@ topic: extlclntappcanvassettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:39.698Z
+lastCollected: 2026-03-12T09:33:39.294Z
 estimatedTokens: 1002
-keywords: [ExtlClntAppCanvasSettings, Represents, external, client, app’s, canvas, app, settings., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative]
+keywords: [ExtlClntAppCanvasSettings, external, client, app’s, canvas, app, settings, Parent, Manifest, Access, File, Suffix, Directory, Location, Version]
 ---
 
 # ExtlClntAppCanvasSettings

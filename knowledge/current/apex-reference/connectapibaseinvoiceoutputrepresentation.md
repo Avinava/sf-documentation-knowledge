@@ -5,9 +5,9 @@ topic: connectapibaseinvoiceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.173Z
+lastCollected: 2026-03-12T09:33:26.343Z
 estimatedTokens: 159
-keywords: [ConnectApi.BaseInvoiceOutputRepresentation, Base, Order, Management, Invoice, output, class.]
+keywords: [Base, Order, Management, Invoice, output]
 ---
 
 # ConnectApi.BaseInvoiceOutputRepresentation

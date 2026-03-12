@@ -5,9 +5,9 @@ topic: connectapitopicscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.646Z
+lastCollected: 2026-03-12T09:33:25.824Z
 estimatedTokens: 157
-keywords: [ConnectApi.TopicsCapabilityInput, Assign, topics, feed, element.]
+keywords: [ConnectApi.TopicsCapabilityInput, Assign, topics, feed, element]
 ---
 
 # ConnectApi.TopicsCapabilityInput

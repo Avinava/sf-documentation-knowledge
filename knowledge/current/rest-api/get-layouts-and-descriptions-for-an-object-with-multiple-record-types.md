@@ -6,9 +6,9 @@ topic: get-layouts-and-descriptions-for-an-object-with-multiple-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.012Z
+lastCollected: 2026-03-12T09:33:35.860Z
 estimatedTokens: 177
-keywords: [Get, Layouts, Descriptions, Multiple, Record, Types, Retrieves, lists, layouts, their, descriptions., Syntax, Example]
+keywords: [Layouts, Descriptions, Multiple, Record, Retrieves, their]
 ---
 
 # Get Layouts and Descriptions for an Object With Multiple Record

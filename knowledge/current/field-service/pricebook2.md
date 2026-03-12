@@ -5,9 +5,9 @@ topic: pricebook2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.235Z
+lastCollected: 2026-03-12T09:33:54.461Z
 estimatedTokens: 1660
-keywords: [Pricebook2, Represents, price, book, contains, list, products, org, sells., Note, Supported, Calls, Fields, Usage, PriceBook2, Product2, PricebookEntry, Relationships, Price, Book]
+keywords: [Pricebook2, price, book, products, org, sells, Calls, Usage, Product2, PricebookEntry, Relationships, Setup, Code, Sample—Java, Associated]
 ---
 
 # Pricebook2

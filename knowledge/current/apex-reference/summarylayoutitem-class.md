@@ -5,10 +5,10 @@ topic: summarylayoutitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.607Z
+lastCollected: 2026-03-12T09:33:21.082Z
 estimatedTokens: 1096
 namespace: Metadata
-keywords: [SummaryLayoutItem, Controls, appearance, individual, field, its, column, row, position, within, highlights, panel, grid, Case, Feed, enabled., two, fields, per, panel.]
+keywords: [SummaryLayoutItem, appearance, individual, column, row, position, highlights, panel, grid, Case, Feed, enabled, two, per, Usage]
 ---
 
 # SummaryLayoutItem Class

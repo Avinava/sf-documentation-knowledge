@@ -5,9 +5,9 @@ topic: sms-publication-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.943Z
+lastCollected: 2026-03-12T09:33:15.631Z
 estimatedTokens: 1366
-keywords: [SMS, Publication, DMO, Data, Cloud, data, model, process, sends, set, messages, multiple, recipients., API, Name, Category, Primary, Subject, Area, Key]
+keywords: [SMS, Publication, DMO, Data, Cloud, model, process, messages, multiple, recipients, API, Category, Primary, Subject, Area]
 ---
 
 # SMS Publication DMO

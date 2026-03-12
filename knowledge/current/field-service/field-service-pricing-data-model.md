@@ -5,9 +5,9 @@ topic: field-service-pricing-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.584Z
+lastCollected: 2026-03-12T09:33:53.895Z
 estimatedTokens: 605
-keywords: [Field, Service, Pricing, Data, Model, Link, work, orders, products, assets, org, track, product, pricing, being, performed, customers’, installed, products., Note]
+keywords: [Service, Pricing, Data, Model, Link, work, orders, products, assets, org, track, product, performed, customers’, installed]
 ---
 
 # Field Service Pricing Data Model

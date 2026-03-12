@@ -5,9 +5,9 @@ topic: connectapifindrouteswithfewestsplitsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.938Z
+lastCollected: 2026-03-12T09:33:25.185Z
 estimatedTokens: 396
-keywords: [ConnectApi.FindRoutesWithFewestSplitsInputRepresentation, Data, used, calculate, order, fulfillment, routes, involving, fewest, number, shipment, splits.]
+keywords: [Data, calculate, order, fulfillment, routes, involving, fewest, number, shipment, splits]
 ---
 
 # ConnectApi.FindRoutesWithFewestSplitsInputRepresentation

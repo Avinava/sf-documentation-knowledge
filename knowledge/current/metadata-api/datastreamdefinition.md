@@ -5,9 +5,9 @@ topic: datastreamdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:38.565Z
+lastCollected: 2026-03-12T09:33:38.257Z
 estimatedTokens: 913
-keywords: [DataStreamDefinition, Contains, data, ingestion, information, such, connection, API, file, retrieval, settings., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [DataStreamDefinition, data, ingestion, connection, API, file, retrieval, settings, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # DataStreamDefinition

@@ -5,9 +5,9 @@ topic: setsidebarvisible
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.463Z
+lastCollected: 2026-03-12T09:33:56.510Z
 estimatedTokens: 272
-keywords: [setSidebarVisible, Shows, hides, console, sidebar, based, tabId, region., API, version, 33.0, later., isn’t, supported, Lightning, Console., Syntax, Arguments, Sample, Code–Visualforce]
+keywords: [setSidebarVisible, hides, console, sidebar, tabId, region, API, version, 33.0, later, isn’t, Lightning, Arguments, Sample, Code–Visualforce]
 ---
 
 # setSidebarVisible()

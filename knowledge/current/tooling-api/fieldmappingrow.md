@@ -5,9 +5,9 @@ topic: fieldmappingrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.648Z
+lastCollected: 2026-03-12T09:33:44.779Z
 estimatedTokens: 452
-keywords: [FieldMappingRow, Represents, field, data, service, record, maps, org., Supported, SOAP, Calls, REST, HTTP, Fields]
+keywords: [FieldMappingRow, data, service, record, maps, org, SOAP, Calls, REST, HTTP]
 ---
 
 # FieldMappingRow

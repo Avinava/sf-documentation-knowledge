@@ -6,9 +6,9 @@ topic: contact-point-email-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.180Z
+lastCollected: 2026-03-12T09:33:13.120Z
 estimatedTokens: 414
-keywords: [Contact, Point, Email, Schema, contact, point, email, schema, capture, profile, data, map, individual, streams.]
+keywords: [Contact, Point, Email, Schema, capture, profile, data, map, individual, streams]
 ---
 
 # Contact

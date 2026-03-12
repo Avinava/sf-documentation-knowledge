@@ -5,9 +5,9 @@ topic: connectapitaxaddressresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.038Z
+lastCollected: 2026-03-12T09:33:26.214Z
 estimatedTokens: 53
-keywords: [ConnectApi.TaxAddressResponse, Location, code, address.]
+keywords: [ConnectApi.TaxAddressResponse, Location, code, address]
 ---
 
 # ConnectApi.TaxAddressResponse

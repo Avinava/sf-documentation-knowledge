@@ -5,9 +5,9 @@ topic: product-quantity-set-configurator-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.498Z
+lastCollected: 2026-03-12T09:33:08.333Z
 estimatedTokens: 209
-keywords: [Product, Quantity, Set, Configurator, Input, representation, request, set, quantity, product.]
+keywords: [Product, Quantity, Configurator, Input, representation]
 ---
 
 # Product Quantity Set Configurator Input

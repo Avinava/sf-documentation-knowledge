@@ -5,9 +5,9 @@ topic: supported-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.718Z
+lastCollected: 2026-03-12T09:33:33.737Z
 estimatedTokens: 165
-keywords: [Supported, Metadata, Types, Apex, supports, subset, metadata, types, components.]
+keywords: [Metadata, Apex, supports, subset, components]
 ---
 
 # Supported Metadata Types

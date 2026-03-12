@@ -5,9 +5,9 @@ topic: bindingobjusagersrcplcy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.885Z
+lastCollected: 2026-03-12T09:33:11.104Z
 estimatedTokens: 848
-keywords: [BindingObjUsageRsrcPlcy, Represents, policies, used, usage, resource, that's, associated, asset, binding, object., API, version, 65.0, later., Supported, Calls, Fields]
+keywords: [BindingObjUsageRsrcPlcy, policies, usage, resource, that's, associated, asset, binding, API, version, 65.0, later, Calls]
 ---
 
 # BindingObjUsageRsrcPlcy

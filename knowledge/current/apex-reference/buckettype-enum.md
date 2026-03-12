@@ -5,9 +5,9 @@ topic: buckettype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.672Z
+lastCollected: 2026-03-12T09:33:29.708Z
 estimatedTokens: 66
-keywords: [BucketType, types, values, included, bucket., Values]
+keywords: [BucketType, included, bucket]
 ---
 
 # BucketType Enum

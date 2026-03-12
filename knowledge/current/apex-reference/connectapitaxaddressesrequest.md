@@ -5,9 +5,9 @@ topic: connectapitaxaddressesrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.275Z
+lastCollected: 2026-03-12T09:33:24.562Z
 estimatedTokens: 142
-keywords: [ConnectApi.TaxAddressesRequest, Addresses, including, Bill, address, Ship, Sold, address.]
+keywords: [ConnectApi.TaxAddressesRequest, Addresses, including, Bill, address, Ship, Sold]
 ---
 
 # ConnectApi.TaxAddressesRequest

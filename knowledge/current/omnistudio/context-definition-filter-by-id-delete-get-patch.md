@@ -5,9 +5,9 @@ topic: context-definition-filter-by-id-delete-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.971Z
+lastCollected: 2026-03-12T09:33:47.884Z
 estimatedTokens: 522
-keywords: [Context, Definition, Filter, DELETE, GET, PATCH, Get, update, delete, context, definition, filter, specified, ID.]
+keywords: [Context, Definition, Filter, PATCH]
 ---
 
 # Context Definition Filter By ID (DELETE, GET, PATCH)

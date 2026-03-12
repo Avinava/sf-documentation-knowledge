@@ -5,10 +5,10 @@ topic: sessionmanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.720Z
+lastCollected: 2026-03-12T09:33:20.307Z
 estimatedTokens: 7493
 namespace: Auth
-keywords: [SessionManagement, Finishes, Domain, Login, Discovery, login, process., finishLoginDiscovery, userId, Usage, finishLoginFlow, startUrl, generateVerificationUrl, policy, description, destinationUrl, getCurrentSession, Example, getLightningLoginEligibility, getQrCode]
+keywords: [SessionManagement, Finishes, Domain, Login, Discovery, process, finishLoginDiscovery, userId, Usage, finishLoginFlow, startUrl, generateVerificationUrl, policy, destinationUrl, getCurrentSession]
 ---
 
 # SessionManagement Class

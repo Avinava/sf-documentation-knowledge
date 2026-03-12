@@ -5,9 +5,9 @@ topic: serviceresourcecapacity-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.360Z
+lastCollected: 2026-03-12T09:33:53.681Z
 estimatedTokens: 622
-keywords: [ServiceResourceCapacity, Custom, Fields, fields, associated, maximum, number, scheduled, hours, service, appointments, capacity-based, resource, complete, within, specific, time, period., Supported, Calls]
+keywords: [ServiceResourceCapacity, Custom, associated, maximum, number, scheduled, hours, service, appointments, capacity-based, resource, specific, time, period, Calls]
 ---
 
 # ServiceResourceCapacity Custom Fields

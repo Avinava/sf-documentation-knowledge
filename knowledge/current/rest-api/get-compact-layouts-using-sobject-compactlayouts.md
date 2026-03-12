@@ -5,9 +5,9 @@ topic: get-compact-layouts-using-sobject-compactlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.978Z
+lastCollected: 2026-03-12T09:33:35.826Z
 estimatedTokens: 208
-keywords: [Get, Compact, Layouts, sObject, CompactLayouts, Retrieves, list, compact, layouts, specific, object., resource, REST, API, version, 29.0, later., Syntax, Example]
+keywords: [Compact, Layouts, sObject, CompactLayouts, Retrieves, specific, resource, REST, API, version, 29.0, later]
 ---
 
 # Get Compact Layouts Using sObject CompactLayouts

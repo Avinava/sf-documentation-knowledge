@@ -5,9 +5,9 @@ topic: agentforce-it-service-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.135Z
+lastCollected: 2026-03-12T09:33:15.816Z
 estimatedTokens: 1917
-keywords: [Agentforce, Service, Standard, Objects, data, model, provides, objects, fields, track, manage, issues, service, requests., processes.]
+keywords: [Agentforce, Service, Standard, Objects, data, model, track, manage, issues, requests, processes]
 ---
 
 # Agentforce IT Service Standard Objects

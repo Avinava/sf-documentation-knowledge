@@ -5,9 +5,9 @@ topic: connectapicreateorderpaymentsummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.873Z
+lastCollected: 2026-03-12T09:33:26.971Z
 estimatedTokens: 107
-keywords: [ConnectApi.CreateOrderPaymentSummaryOutputRepresentation, created, Order, Payment, Summary.]
+keywords: [created, Order, Payment, Summary]
 ---
 
 # ConnectApi.CreateOrderPaymentSummaryOutputRepresentation

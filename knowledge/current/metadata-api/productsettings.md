@@ -5,9 +5,9 @@ topic: productsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.884Z
+lastCollected: 2026-03-12T09:33:41.339Z
 estimatedTokens: 660
-keywords: [ProductSettings, Represents, organization, preferences, quantity, schedules, revenue, active, flag, interaction, prices., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix]
+keywords: [ProductSettings, organization, preferences, quantity, schedules, revenue, active, flag, interaction, prices, extends, Metadata, inherits, fullName, File]
 ---
 
 # ProductSettings

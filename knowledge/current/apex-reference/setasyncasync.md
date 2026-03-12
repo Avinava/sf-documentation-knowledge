@@ -5,9 +5,9 @@ topic: setasyncasync
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.118Z
+lastCollected: 2026-03-12T09:33:24.414Z
 estimatedTokens: 119
-keywords: [setAsync, async, whether, payment, capture, authorization, asynchronous, True, synchronous, False, then, record, created, status, Pending.]
+keywords: [setAsync, async, whether, payment, capture, authorization, asynchronous, synchronous, record, created, status, Pending]
 ---
 
 # setAsync(async)

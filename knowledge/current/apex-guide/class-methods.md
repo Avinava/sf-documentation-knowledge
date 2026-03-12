@@ -5,9 +5,9 @@ topic: class-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.544Z
+lastCollected: 2026-03-12T09:33:32.577Z
 estimatedTokens: 1887
-keywords: [how, define, Apex, methods., Understand, differences, between, passing, arguments, reference., Note, Passing, Arguments, Versioned, Behavior, Changes]
+keywords: [how, define, Apex, Understand, differences, passing, arguments, Versioned, Behavior, Changes]
 ---
 
 # Class Methods

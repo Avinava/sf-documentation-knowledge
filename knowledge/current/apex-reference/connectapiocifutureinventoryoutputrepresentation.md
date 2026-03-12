@@ -5,9 +5,9 @@ topic: connectapiocifutureinventoryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.119Z
+lastCollected: 2026-03-12T09:33:28.158Z
 estimatedTokens: 81
-keywords: [ConnectApi.OCIFutureInventoryOutputRepresentation, expected, future, inventory, restock.]
+keywords: [expected, future, inventory, restock]
 ---
 
 # ConnectApi.OCIFutureInventoryOutputRepresentation

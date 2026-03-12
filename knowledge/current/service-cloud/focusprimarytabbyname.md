@@ -5,9 +5,9 @@ topic: focusprimarytabbyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.329Z
+lastCollected: 2026-03-12T09:33:55.456Z
 estimatedTokens: 281
-keywords: [focusPrimaryTabByName, Focuses, browser, primary, tab, already, open, specified, name., only, API, version, 22.0, later., Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+keywords: [focusPrimaryTabByName, Focuses, browser, primary, tab, already, open, API, version, 22.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # focusPrimaryTabByName()

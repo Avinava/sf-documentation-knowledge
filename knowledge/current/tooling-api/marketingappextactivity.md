@@ -5,9 +5,9 @@ topic: marketingappextactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.003Z
+lastCollected: 2026-03-12T09:33:45.148Z
 estimatedTokens: 1060
-keywords: [MarketingAppExtActivity, Represents, Activity, which, prospect, activity, occurs, third-party, app, used, Account, Engagement, automations., API, version, 53.0, later., Important, Supported, SOAP]
+keywords: [MarketingAppExtActivity, Activity, prospect, occurs, third-party, app, Account, Engagement, automations, API, version, 53.0, later, SOAP, Calls]
 ---
 
 # MarketingAppExtActivity

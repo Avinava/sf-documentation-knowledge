@@ -5,10 +5,10 @@ topic: commercecart-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.714Z
+lastCollected: 2026-03-12T09:33:18.314Z
 estimatedTokens: 27585
 namespace: ConnectApi
-keywords: [CommerceCart, Add, item, cart, specific, currency., addItemToCart, webstoreId, effectiveAccountId, activeCartOrId, cartItemInput, currencyIsoCode, API, Version, Guest, Users, Requires, Chatter, Usage, includeCartData]
+keywords: [CommerceCart, Add, item, cart, specific, currency, addItemToCart, webstoreId, effectiveAccountId, activeCartOrId, cartItemInput, currencyIsoCode, API, Version, Guest]
 ---
 
 # CommerceCart Class

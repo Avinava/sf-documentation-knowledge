@@ -5,9 +5,9 @@ topic: milestonetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.168Z
+lastCollected: 2026-03-12T09:33:40.647Z
 estimatedTokens: 526
-keywords: [MilestoneType, Represents, name, description, milestone, which, entitlement, process, track, important, steps, cases., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata]
+keywords: [MilestoneType, milestone, entitlement, process, track, steps, cases, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---
 
 # MilestoneType

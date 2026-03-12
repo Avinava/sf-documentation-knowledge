@@ -1,0 +1,30 @@
+---
+title: "Decision Table Condition List Input"
+domain: psc-api
+topic: decision-table-condition-list-input
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T09:35:29.974Z
+estimatedTokens: 96
+keywords: [Decision, Condition, Input, representation]
+---
+
+# Decision Table Condition List Input
+
+> Input representation of the Decision Table condition
+      list.
+
+# Decision Table Condition List Input
+
+Input representation of the Decision Table condition list.
+
+Properties
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| conditions | Decision Table Condition[] | The details of the decision table conditions on which the decision table executes and provides outcomes. | Required | 58.0 |
+
+## Related Topics
+
+- Decision Table Condition (atlas.en-us.psc_api.meta/psc_api/connect_requests_decision_table_condition.htm)

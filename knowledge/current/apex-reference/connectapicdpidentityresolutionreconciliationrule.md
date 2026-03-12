@@ -5,9 +5,9 @@ topic: connectapicdpidentityresolutionreconciliationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.563Z
+lastCollected: 2026-03-12T09:33:24.831Z
 estimatedTokens: 396
-keywords: [ConnectApi.CdpIdentityResolutionReconciliationRule, Input, representation, identity, resolution, ruleset's, default, reconciliation, rule, object.]
+keywords: [Input, representation, identity, resolution, ruleset's, reconciliation, rule]
 ---
 
 # ConnectApi.CdpIdentityResolutionReconciliationRule

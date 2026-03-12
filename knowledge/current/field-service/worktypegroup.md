@@ -5,9 +5,9 @@ topic: worktypegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.942Z
+lastCollected: 2026-03-12T09:33:55.133Z
 estimatedTokens: 619
-keywords: [WorkTypeGroup, Represents, grouping, work, types, used, categorize, appointments, Lightning, Scheduler, define, scheduling, limits, Field, Service., API, version, 45.0, later., Supported]
+keywords: [WorkTypeGroup, grouping, work, categorize, appointments, Lightning, Scheduler, define, scheduling, limits, Service, API, version, 45.0, later]
 ---
 
 # WorkTypeGroup

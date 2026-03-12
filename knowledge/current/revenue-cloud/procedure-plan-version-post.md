@@ -5,9 +5,9 @@ topic: procedure-plan-version-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.755Z
+lastCollected: 2026-03-12T09:33:08.561Z
 estimatedTokens: 754
-keywords: [Procedure, Plan, Version, POST, Create, records, procedure, plan, version, details., Note]
+keywords: [Procedure, Plan, Version, POST, records]
 ---
 
 # Procedure Plan Version (POST)

@@ -5,9 +5,9 @@ topic: createassetorderevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:09.979Z
+lastCollected: 2026-03-12T09:33:11.179Z
 estimatedTokens: 1048
-keywords: [CreateAssetOrderEvent, Notifies, subscribers, process, started, actions, standard, createOrUpdateAssetFromOrder, createOrUpdateAssetFromOrderItem, request, complete., successful, event, new, assets., isn't, errors, how, fix, them.]
+keywords: [CreateAssetOrderEvent, Notifies, subscribers, process, started, actions, standard, createOrUpdateAssetFromOrder, createOrUpdateAssetFromOrderItem, successful, event, new, assets, isn't, errors]
 ---
 
 # CreateAssetOrderEvent

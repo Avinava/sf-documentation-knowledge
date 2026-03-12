@@ -5,10 +5,10 @@ topic: sfc-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:31.600Z
+lastCollected: 2026-03-12T09:33:31.656Z
 estimatedTokens: 218
 namespace: Sfc
-keywords: [Sfc, contains, classes, used, Salesforce, Files.]
+keywords: [Sfc, classes, Salesforce, Files]
 ---
 
 # Sfc Namespace

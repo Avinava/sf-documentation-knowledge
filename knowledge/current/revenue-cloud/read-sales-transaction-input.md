@@ -5,9 +5,9 @@ topic: read-sales-transaction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.401Z
+lastCollected: 2026-03-12T09:33:08.254Z
 estimatedTokens: 113
-keywords: [Read, Sales, Transaction, Input, representation, filter, criteria, details, read, sales, transaction.]
+keywords: [Sales, Transaction, Input, representation, filter, criteria]
 ---
 
 # Read Sales Transaction Input

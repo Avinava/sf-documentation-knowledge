@@ -5,9 +5,9 @@ topic: master-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.959Z
+lastCollected: 2026-03-12T09:33:13.805Z
 estimatedTokens: 3038
-keywords: [Master, Product, DMO, Data, Cloud, data, model, company’s, products., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields, Note]
+keywords: [Master, Product, DMO, Data, Cloud, model, company’s, products, API, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Master Product DMO

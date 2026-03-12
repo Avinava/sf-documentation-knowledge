@@ -5,9 +5,9 @@ topic: step-1-configure-a-mcp-client
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.092Z
+lastCollected: 2026-03-12T09:33:40.574Z
 estimatedTokens: 1120
-keywords: [Step, Configure, MCP, Client, client, connect, servers, hosted, Salesforce, org., quick, start, guide, provide, guidance, how, configure, Agentforce, Vibes, Cursor]
+keywords: [Step, Configure, MCP, Client, connect, servers, hosted, Salesforce, org, quick, start, provide, guidance, how, Agentforce]
 ---
 
 # Step 1: Configure a MCP Client

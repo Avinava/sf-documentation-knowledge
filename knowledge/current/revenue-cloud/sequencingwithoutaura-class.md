@@ -5,10 +5,10 @@ topic: sequencingwithoutaura-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.160Z
+lastCollected: 2026-03-12T09:33:06.268Z
 estimatedTokens: 944
 namespace: ConnectApi
-keywords: [SequencingWithoutAura, Manage, invoice, sequencing, processes, class., reconcileSequences, sequenceGapReconciliationInputRepresentation, API, Version, Requires, Chatter, Usage, sequenceAssignment, sequencesAssignmentInputRepresentation]
+keywords: [SequencingWithoutAura, Manage, invoice, sequencing, processes, reconcileSequences, API, Version, Requires, Chatter, Usage, sequenceAssignment, sequencesAssignmentInputRepresentation]
 ---
 
 # SequencingWithoutAura Class

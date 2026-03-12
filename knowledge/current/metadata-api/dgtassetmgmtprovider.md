@@ -5,9 +5,9 @@ topic: dgtassetmgmtprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.802Z
+lastCollected: 2026-03-12T09:33:38.513Z
 estimatedTokens: 573
-keywords: [DgtAssetMgmtProvider, Represents, external, content, providers, such, digital, asset, management, DAM, systems, integrate, Salesforce, CMS., combined, DgtAssetMgmtPrvdLghtCpnt, metadata, enables, organizations, configure]
+keywords: [DgtAssetMgmtProvider, external, content, providers, digital, asset, management, DAM, systems, integrate, Salesforce, CMS, combined, DgtAssetMgmtPrvdLghtCpnt, metadata]
 ---
 
 # DgtAssetMgmtProvider

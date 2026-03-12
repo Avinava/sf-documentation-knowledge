@@ -5,9 +5,9 @@ topic: translations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:43.271Z
+lastCollected: 2026-03-12T09:33:42.606Z
 estimatedTokens: 13121
-keywords: [Translations, Metadata, enables, work, translations, various, supported, languages., ability, translate, component, labels, part, Translation, Workbench., Important, Language, Note, Declarative, File]
+keywords: [Translations, Metadata, work, various, languages, ability, translate, component, labels, part, Translation, Workbench, Language, Declarative, File]
 ---
 
 # Translations

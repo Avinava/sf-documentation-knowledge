@@ -5,9 +5,9 @@ topic: connectapicurrencyrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.896Z
+lastCollected: 2026-03-12T09:33:26.991Z
 estimatedTokens: 64
-keywords: [ConnectApi.CurrencyRecordField, Record, field, containing, currency, value.]
+keywords: [ConnectApi.CurrencyRecordField, Record, containing, currency]
 ---
 
 # ConnectApi.CurrencyRecordField

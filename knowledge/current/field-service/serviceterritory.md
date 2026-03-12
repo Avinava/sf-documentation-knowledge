@@ -5,9 +5,9 @@ topic: serviceterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.624Z
+lastCollected: 2026-03-12T09:33:54.830Z
 estimatedTokens: 1828
-keywords: [ServiceTerritory, Represents, geographic, functional, region, which, work, performed, Field, Service, Salesforce, Scheduler, Workforce, Engagement., API, version, 38.0, later., Supported, Calls]
+keywords: [ServiceTerritory, geographic, functional, region, work, performed, Service, Salesforce, Scheduler, Workforce, Engagement, API, version, 38.0, later]
 ---
 
 # ServiceTerritory

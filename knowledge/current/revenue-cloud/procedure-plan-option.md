@@ -5,9 +5,9 @@ topic: procedure-plan-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.154Z
+lastCollected: 2026-03-12T09:33:09.695Z
 estimatedTokens: 427
-keywords: [Procedure, Plan, Option, Output, representation, details, procedure, plan, option.]
+keywords: [Procedure, Plan, Option, Output, representation]
 ---
 
 # Procedure Plan Option

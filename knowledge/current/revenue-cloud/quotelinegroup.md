@@ -5,9 +5,9 @@ topic: quotelinegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:11.339Z
+lastCollected: 2026-03-12T09:33:12.328Z
 estimatedTokens: 1085
-keywords: [QuoteLineGroup, Stores, group, information, line, items, quote., stores, aggregated, field, subtotal, contains, parent-child, relationship, API, version, 61.0, later., Supported, Calls]
+keywords: [QuoteLineGroup, Stores, group, line, items, quote, aggregated, subtotal, parent-child, relationship, API, version, 61.0, later, Calls]
 ---
 
 # QuoteLineGroup

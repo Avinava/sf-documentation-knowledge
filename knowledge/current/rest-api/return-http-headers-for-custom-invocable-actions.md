@@ -5,9 +5,9 @@ topic: return-http-headers-for-custom-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.346Z
+lastCollected: 2026-03-12T09:33:35.201Z
 estimatedTokens: 145
-keywords: [HTTP, Headers, Custom, Invocable, Actions, only, headers, returned, sending, GET, request, custom, invocable, actions, resource., gives, chance, header, values, before]
+keywords: [HTTP, Custom, Invocable, Actions, sending, resource, gives, chance, retrieving, content, REST, API, version, 32.0, later]
 ---
 
 # Return HTTP Headers for Custom Invocable Actions

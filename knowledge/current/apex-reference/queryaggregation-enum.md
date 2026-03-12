@@ -5,9 +5,9 @@ topic: queryaggregation-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:29.455Z
+lastCollected: 2026-03-12T09:33:29.501Z
 estimatedTokens: 216
-keywords: [QueryAggregation, Specifies, how, aggregate, column, query., Usage, Values]
+keywords: [QueryAggregation, how, aggregate, column, query, Usage]
 ---
 
 # QueryAggregation Enum

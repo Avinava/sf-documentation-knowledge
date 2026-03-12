@@ -5,9 +5,9 @@ topic: send-rest-requests-with-curl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:35.162Z
+lastCollected: 2026-03-12T09:33:35.039Z
 estimatedTokens: 462
-keywords: [Send, REST, Requests, cURL, examples, guide, tool, send, HTTP, requests, access, create, manipulate, resources, Salesforce., different, same, elements, requests., Note]
+keywords: [Send, REST, Requests, cURL, examples, tool, HTTP, access, manipulate, resources, Salesforce, different, elements, Attaching, Bodies]
 ---
 
 # Send REST Requests with cURL
@@ -65,7 +65,7 @@ curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account
 ```
 
 ```
-curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H "Authorization: Bearer <SALESFORCE_ACCESS_TOKEN>"
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H "Authorization: Bearer 00D50000000IehZ\!AQcAQH0dMHZfz972Szmpkb58urFRkgeBGsxL_QJWwYMfAbUeeG7c1E6LYUfiDUkWe6H34r1AAwOR8B8fLEz6n04NPGRrq0FM"
 ```
 
 ```

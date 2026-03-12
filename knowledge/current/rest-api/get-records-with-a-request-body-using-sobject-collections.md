@@ -6,9 +6,9 @@ topic: get-records-with-a-request-body-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.468Z
+lastCollected: 2026-03-12T09:33:35.316Z
 estimatedTokens: 472
-keywords: [Get, Records, Request, Body, sObject, Collections, POST, request, get, records, same, type., list, sObjects, represents, individual, specified, returned., number, returned]
+keywords: [Records, sObject, Collections, POST, sObjects, individual, number, matches, IDs, passed]
 ---
 
 # Get Records With a Request Body Using sObject

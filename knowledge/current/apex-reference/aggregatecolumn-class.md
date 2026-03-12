@@ -5,10 +5,10 @@ topic: aggregatecolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.022Z
+lastCollected: 2026-03-12T09:33:23.421Z
 estimatedTokens: 833
 namespace: Reports
-keywords: [AggregateColumn, Contains, describing, summary, fields, such, Record, Count, Sum, Average, Max, Min, custom, formulas., Includes, name, label, data, grouping, context.]
+keywords: [AggregateColumn, describing, summary, Record, Count, Sum, Average, Max, Min, custom, formulas, Includes, label, data, grouping]
 ---
 
 # AggregateColumn Class

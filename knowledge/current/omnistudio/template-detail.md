@@ -5,9 +5,9 @@ topic: template-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.815Z
+lastCollected: 2026-03-12T09:33:49.454Z
 estimatedTokens: 269
-keywords: [Template, Detail, Output, representation, details, OCR, template.]
+keywords: [Template, Detail, Output, representation, OCR]
 ---
 
 # Template Detail

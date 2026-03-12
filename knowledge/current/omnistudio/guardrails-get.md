@@ -5,9 +5,9 @@ topic: guardrails-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.904Z
+lastCollected: 2026-03-12T09:33:47.830Z
 estimatedTokens: 261
-keywords: [Guardrails, GET, Fetches, guardrails, Business, Rules, Engine, BRE, manage, rate, limits, components.]
+keywords: [Guardrails, Fetches, Business, Rules, Engine, BRE, manage, rate, limits, components]
 ---
 
 # Guardrails (GET)

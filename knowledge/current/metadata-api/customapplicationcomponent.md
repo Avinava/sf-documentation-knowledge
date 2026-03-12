@@ -5,9 +5,9 @@ topic: customapplicationcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:38.221Z
+lastCollected: 2026-03-12T09:33:37.936Z
 estimatedTokens: 589
-keywords: [CustomApplicationComponent, Represents, custom, console, component, Visualforce, page, assigned, CustomApplication, marked, Salesforce, console., Custom, components, extend, capabilities, apps., Customize, Console, Components]
+keywords: [CustomApplicationComponent, custom, console, component, Visualforce, assigned, CustomApplication, marked, Salesforce, components, extend, capabilities, apps, Customize, Classic]
 ---
 
 # CustomApplicationComponent

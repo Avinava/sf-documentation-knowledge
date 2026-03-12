@@ -5,10 +5,10 @@ topic: notificationsaveresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.961Z
+lastCollected: 2026-03-12T09:33:22.366Z
 estimatedTokens: 788
 namespace: CommercePayments
-keywords: [NotificationSaveResult, Contains, result, payment, platform’s, attempt, record, data, gateway’s, notification., Usage, Example, getErrorMessage, getStatusCode, isSuccess]
+keywords: [NotificationSaveResult, result, payment, platform’s, attempt, record, data, gateway’s, notification, Usage, getErrorMessage, getStatusCode, isSuccess]
 ---
 
 # NotificationSaveResult Class

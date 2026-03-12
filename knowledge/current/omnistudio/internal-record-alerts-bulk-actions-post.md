@@ -5,9 +5,9 @@ topic: internal-record-alerts-bulk-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.337Z
+lastCollected: 2026-03-12T09:33:48.219Z
 estimatedTokens: 246
-keywords: [Internal, Record, Alerts, Bulk, Actions, POST, Snooze, bulk, internal, record, alerts, specified, time, period, dismiss, them., Note]
+keywords: [Internal, Record, Alerts, Bulk, Actions, POST, Snooze, time, period, dismiss]
 ---
 
 # Internal Record Alerts Bulk Actions (POST)

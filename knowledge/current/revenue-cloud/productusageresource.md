@@ -5,9 +5,9 @@ topic: productusageresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.286Z
+lastCollected: 2026-03-12T09:33:12.280Z
 estimatedTokens: 1123
-keywords: [ProductUsageResource, Represents, mapping, product, its, usage, resources., API, version, 64.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ProductUsageResource, mapping, product, usage, resources, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ProductUsageResource

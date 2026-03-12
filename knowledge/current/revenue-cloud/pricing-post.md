@@ -5,9 +5,9 @@ topic: pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.961Z
+lastCollected: 2026-03-12T09:33:08.744Z
 estimatedTokens: 547
-keywords: [Pricing, POST, Create, hydrate, context, instance, single, request., Provide, comprehensive, response, contains, final, pricing, details, per, line, items, related, errors]
+keywords: [Pricing, POST, hydrate, context, instance, Provide, comprehensive, final, per, line, items, errors, any]
 ---
 
 # Pricing (POST)

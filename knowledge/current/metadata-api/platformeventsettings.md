@@ -5,9 +5,9 @@ topic: platformeventsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.786Z
+lastCollected: 2026-03-12T09:33:41.245Z
 estimatedTokens: 712
-keywords: [PlatformEventSettings, Represents, settings, platform, events, change, data, capture, events., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields]
+keywords: [PlatformEventSettings, settings, platform, events, change, data, capture, Parent, Manifest, Access, File, Suffix, Directory, Location, Version]
 ---
 
 # PlatformEventSettings

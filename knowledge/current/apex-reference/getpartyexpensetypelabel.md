@@ -5,9 +5,9 @@ topic: getpartyexpensetypelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.735Z
+lastCollected: 2026-03-12T09:33:29.766Z
 estimatedTokens: 64
-keywords: [GetPartyExpenseTypeLabel, picklist, values, party, expense, field, entity.]
+keywords: [GetPartyExpenseTypeLabel, picklist, party, expense, entity]
 ---
 
 # GetPartyExpenseTypeLabel

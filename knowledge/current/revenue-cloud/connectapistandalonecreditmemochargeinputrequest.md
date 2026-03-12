@@ -5,9 +5,9 @@ topic: connectapistandalonecreditmemochargeinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.098Z
+lastCollected: 2026-03-12T09:33:07.130Z
 estimatedTokens: 454
-keywords: [ConnectApi.StandaloneCreditMemoChargeInputRequest, Input, representation, details, charge, lines, credit, memo.]
+keywords: [Input, representation, charge, lines, credit, memo]
 ---
 
 # ConnectApi.StandaloneCreditMemoChargeInputRequest

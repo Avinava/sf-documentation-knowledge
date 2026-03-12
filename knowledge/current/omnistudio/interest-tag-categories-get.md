@@ -5,9 +5,9 @@ topic: interest-tag-categories-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.298Z
+lastCollected: 2026-03-12T09:33:48.180Z
 estimatedTokens: 318
-keywords: [Interest, Tag, Categories, GET, Retrieve, list, tag, categories, assigned, Tag.]
+keywords: [Interest, Tag, Categories, Retrieve, assigned]
 ---
 
 # Interest Tag Categories (GET)

@@ -5,9 +5,9 @@ topic: expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.795Z
+lastCollected: 2026-03-12T09:33:34.704Z
 estimatedTokens: 416
-keywords: [Expressions, expression, construct, made, variables, operators, invocations, evaluates, single, value.]
+keywords: [Expressions, expression, construct, made, variables, operators, invocations, evaluates]
 ---
 
 # Expressions

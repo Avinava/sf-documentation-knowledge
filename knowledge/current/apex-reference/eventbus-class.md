@@ -5,10 +5,10 @@ topic: eventbus-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.422Z
+lastCollected: 2026-03-12T09:33:21.858Z
 estimatedTokens: 4796
 namespace: System
-keywords: [EventBus, Contains, publishing, platform, events., getOperationId, result, Usage, publish, event, events, callback]
+keywords: [EventBus, publishing, platform, events, getOperationId, result, Usage, publish, event, callback]
 ---
 
 # EventBus Class

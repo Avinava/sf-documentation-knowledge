@@ -5,9 +5,9 @@ topic: querying-all-records-with-a-soql-statement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.554Z
+lastCollected: 2026-03-12T09:33:34.484Z
 estimatedTokens: 121
-keywords: [Querying, Records, SOQL, Statement, ROWS, query, records, organization's, Recycle, Bin., cannot, keywords, UPDATE, keywords.]
+keywords: [Querying, Records, SOQL, Statement, ROWS, query, organization's, Recycle, Bin, cannot, keywords]
 ---
 
 # Querying All Records with a SOQL Statement

@@ -5,9 +5,9 @@ topic: rate-adjustments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.287Z
+lastCollected: 2026-03-12T09:33:09.827Z
 estimatedTokens: 322
-keywords: [Rate, Adjustments, Output, representation, details, rate, adjustment.]
+keywords: [Rate, Adjustments, Output, representation, adjustment]
 ---
 
 # Rate Adjustments

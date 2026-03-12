@@ -5,9 +5,9 @@ topic: assessment-reasons-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.062Z
+lastCollected: 2026-03-12T09:33:47.081Z
 estimatedTokens: 118
-keywords: [Assessment, Reasons, Input, representation, assessment, reason, Response, request.]
+keywords: [Assessment, Reasons, Input, representation, reason]
 ---
 
 # Assessment Reasons Input

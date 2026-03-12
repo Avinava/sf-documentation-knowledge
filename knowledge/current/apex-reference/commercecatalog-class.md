@@ -5,10 +5,10 @@ topic: commercecatalog-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.791Z
+lastCollected: 2026-03-12T09:33:18.476Z
 estimatedTokens: 19201
 namespace: ConnectApi
-keywords: [CommerceCatalog, Get, product., getCategoryMenuItems, webstoreId, includeImageUrl, addHomeMenuItem, publishStatus, effectiveAccountId, maxLevels, maxItems, API, Version, Guest, Users, Requires, Chatter, getProduct, productId, fields]
+keywords: [CommerceCatalog, product, getCategoryMenuItems, webstoreId, includeImageUrl, addHomeMenuItem, publishStatus, effectiveAccountId, maxLevels, maxItems, API, Version, Guest, Users, Requires]
 ---
 
 # CommerceCatalog Class

@@ -5,9 +5,9 @@ topic: configurator-update-nodes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.552Z
+lastCollected: 2026-03-12T09:33:08.379Z
 estimatedTokens: 177
-keywords: [Configurator, Update, Nodes, Input, representation, request, update, nodes, product, configuration.]
+keywords: [Configurator, Nodes, Input, representation, product, configuration]
 ---
 
 # Configurator Update Nodes Input

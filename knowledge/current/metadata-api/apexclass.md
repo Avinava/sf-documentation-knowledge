@@ -5,9 +5,9 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:37.713Z
+lastCollected: 2026-03-12T09:33:37.466Z
 estimatedTokens: 1648
-keywords: [ApexClass, Represents, Apex, class., template, blueprint, which, objects, created., Classes, consist, classes, user-defined, variables, exception, types, initialization, code., Note, Supported]
+keywords: [ApexClass, Apex, template, blueprint, objects, created, Classes, consist, user-defined, variables, exception, initialization, code, Calls, Declarative]
 ---
 
 # ApexClass

@@ -5,9 +5,9 @@ topic: connectapidataspaceinforepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.959Z
+lastCollected: 2026-03-12T09:33:27.051Z
 estimatedTokens: 165
-keywords: [ConnectApi.DataSpaceInfoRepresentation, Represents, data, space.]
+keywords: [ConnectApi.DataSpaceInfoRepresentation, data, space]
 ---
 
 # ConnectApi.DataSpaceInfoRepresentation

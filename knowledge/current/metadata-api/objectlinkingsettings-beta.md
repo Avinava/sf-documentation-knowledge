@@ -5,9 +5,9 @@ topic: objectlinkingsettings-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.464Z
+lastCollected: 2026-03-12T09:33:40.931Z
 estimatedTokens: 637
-keywords: [ObjectLinkingSettings, Beta, Represents, channel-object, linking, settings, org., extends, Metadata, metadata, inherits, its, fullName, field., Note, File, Suffix, Directory, Location, Version]
+keywords: [ObjectLinkingSettings, Beta, channel-object, linking, settings, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # ObjectLinkingSettings (Beta)

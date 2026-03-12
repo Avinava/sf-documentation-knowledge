@@ -5,9 +5,9 @@ topic: createengagementinteractionengagementcontainerinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.397Z
+lastCollected: 2026-03-12T09:33:46.439Z
 estimatedTokens: 538
-keywords: [createEngagementInteraction, engagementContainerInput, Create, engagement, interaction, record., API, Version, Requires, Chatter, Example]
+keywords: [createEngagementInteraction, engagementContainerInput, engagement, interaction, record, API, Version, Requires, Chatter]
 ---
 
 # createEngagementInteraction(engagementContainerInput)

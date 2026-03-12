@@ -5,9 +5,9 @@ topic: errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.755Z
+lastCollected: 2026-03-12T09:33:29.786Z
 estimatedTokens: 48
-keywords: [errors, Represents, store, occurred, result, NLP, Operation.]
+keywords: [errors, store, occurred, result, NLP, Operation]
 ---
 
 # errors

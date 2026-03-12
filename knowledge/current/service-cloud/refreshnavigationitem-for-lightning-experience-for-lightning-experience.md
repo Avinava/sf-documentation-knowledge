@@ -6,9 +6,9 @@ topic: refreshnavigationitem-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.893Z
+lastCollected: 2026-03-12T09:33:55.981Z
 estimatedTokens: 234
-keywords: [refreshNavigationItem, Lightning, Experience, Refreshes, selected, navigation, object's, home, page., Typically, standard, custom, objects, open, list, view., split, view, it's, refreshed.]
+keywords: [refreshNavigationItem, Lightning, Experience, Refreshes, selected, navigation, object's, home, Typically, standard, custom, objects, open, view, split]
 ---
 
 # refreshNavigationItem() for Lightning Experience for

@@ -5,9 +5,9 @@ topic: api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.931Z
+lastCollected: 2026-03-12T09:33:36.728Z
 estimatedTokens: 363
-keywords: [API, End-of-Life, Policy, which, Metadata, REST, SOAP, versions, supported, unsupported, unavailable.]
+keywords: [API, End-of-Life, Policy, Metadata, REST, SOAP, versions, unsupported, unavailable]
 ---
 
 # API End-of-Life Policy

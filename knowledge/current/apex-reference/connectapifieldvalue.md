@@ -5,9 +5,9 @@ topic: connectapifieldvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.421Z
+lastCollected: 2026-03-12T09:33:27.485Z
 estimatedTokens: 86
-keywords: [ConnectApi.FieldValue, Field's, product, search, results.]
+keywords: [ConnectApi.FieldValue, Field's, product, search, results]
 ---
 
 # ConnectApi.FieldValue

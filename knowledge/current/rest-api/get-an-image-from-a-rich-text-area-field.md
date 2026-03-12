@@ -5,9 +5,9 @@ topic: get-an-image-from-a-rich-text-area-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.082Z
+lastCollected: 2026-03-12T09:33:34.967Z
 estimatedTokens: 530
-keywords: [Get, Image, Rich, Text, Area, Field, sObject, resource, retrieve, image, rich, text, area, field., example, custom, field, Lead, record, called]
+keywords: [Image, Rich, Text, Area, sObject, resource, retrieve, custom, Lead, record, LeadPhotoRichText__c, assume, already, uploaded, Obtain]
 ---
 
 # Get an Image from a Rich Text Area Field

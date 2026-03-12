@@ -5,10 +5,10 @@ topic: apex-reference-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T05:14:31.845Z
+lastCollected: 2026-03-12T09:33:31.900Z
 estimatedTokens: 4140
 namespace: ApexPages
-keywords: [Apex, Reference, Guide, strongly, typed, object-oriented, programming, language, allows, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, calls]
+keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server]
 ---
 
 # Apex Reference Guide

@@ -5,10 +5,10 @@ topic: object-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.270Z
+lastCollected: 2026-03-12T09:33:21.714Z
 estimatedTokens: 1033
 namespace: System
-keywords: [Contains, implemented, Apex, types., Usage, equals, obj, hashCode, toString, Versioned, Behavior, Changes]
+keywords: [implemented, Apex, Usage, equals, obj, hashCode, toString, Versioned, Behavior, Changes]
 ---
 
 # Object Class

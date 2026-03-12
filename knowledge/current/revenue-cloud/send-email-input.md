@@ -5,9 +5,9 @@ topic: send-email-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.469Z
+lastCollected: 2026-03-12T09:33:08.311Z
 estimatedTokens: 98
-keywords: [Send, Email, Input, representation, request, send, email, invoice, batch, run.]
+keywords: [Send, Email, Input, representation, invoice, batch, run]
 ---
 
 # Send Email Input

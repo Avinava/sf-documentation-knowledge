@@ -5,9 +5,9 @@ topic: customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.051Z
+lastCollected: 2026-03-12T09:33:44.187Z
 estimatedTokens: 647
-keywords: [CustomObject, Represents, custom, stores, data, unique, organization., Includes, access, associated, related, fields, Salesforce, Metadata, API., API, version, 31.0, later., Supported]
+keywords: [CustomObject, custom, stores, data, unique, organization, Includes, access, associated, Salesforce, Metadata, API, version, 31.0, later]
 ---
 
 # CustomObject

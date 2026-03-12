@@ -5,9 +5,9 @@ topic: connectapiocigetinventoryavailabilityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.125Z
+lastCollected: 2026-03-12T09:33:28.162Z
 estimatedTokens: 478
-keywords: [ConnectApi.OCIGetInventoryAvailabilityOutputRepresentation, Response, request, inventory, availability, data.]
+keywords: [inventory, availability, data]
 ---
 
 # ConnectApi.OCIGetInventoryAvailabilityOutputRepresentation

@@ -5,9 +5,9 @@ topic: themes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.187Z
+lastCollected: 2026-03-12T09:33:36.023Z
 estimatedTokens: 689
-keywords: [Themes, list, icons, colors, used, themes, Salesforce, application., Theme, information, provided, objects, organization, UI., resource, REST, API, version, 29.0, later.]
+keywords: [Themes, icons, colors, Salesforce, application, Theme, provided, objects, organization, resource, REST, API, version, 29.0, later]
 ---
 
 # Themes

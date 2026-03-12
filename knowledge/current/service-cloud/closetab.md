@@ -5,9 +5,9 @@ topic: closetab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.150Z
+lastCollected: 2026-03-12T09:33:55.289Z
 estimatedTokens: 561
-keywords: [closeTab, Closes, specified, primary, tab, subtab., Keep, mind, closing, first, closes, itself., only, API, version, 20.0, later., Syntax, Note, Arguments]
+keywords: [closeTab, Closes, primary, tab, subtab, Keep, mind, closing, itself, API, version, 20.0, later, Arguments, Sample]
 ---
 
 # closeTab()

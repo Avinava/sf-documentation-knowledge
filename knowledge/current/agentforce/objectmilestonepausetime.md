@@ -5,9 +5,9 @@ topic: objectmilestonepausetime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.450Z
+lastCollected: 2026-03-12T09:33:16.112Z
 estimatedTokens: 313
-keywords: [ObjectMilestonePauseTime, Represents, details, related, duration, start, end, times, users, pause, resume, milestones, specific, object., API, version, 65.0, later., Supported, Calls]
+keywords: [ObjectMilestonePauseTime, duration, start, end, times, users, pause, resume, milestones, specific, API, version, 65.0, later, Calls]
 ---
 
 # ObjectMilestonePauseTime

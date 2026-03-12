@@ -1,0 +1,167 @@
+---
+title: "Action Links Overview, Authentication, and Security"
+domain: chatterapi
+topic: action-links-overview-authentication-and-security
+apiVersion: 67.0
+release: summer-26-v67
+docType: concept
+lastCollected: 2026-03-12T09:34:21.708Z
+estimatedTokens: 3410
+keywords: [Action, Links, Authentication, Security, Connect, REST, API, labels, errors, Workflow, Link, Templates, Context, Variables, Versioning]
+---
+
+# Action Links Overview, Authentication, and Security
+
+> Learn about Connect REST API action links security, authentication, labels, and
+    errors.
+
+# Action Links Overview, Authentication, and Security
+
+Learn about Connect REST API action links security, authentication, labels, and errors.
+
+## Workflow
+
+This feed item contains one action link group with two action links: **Approve** and **Reject**.
+
+![Approve and Reject action links on a feed item.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fchatter_connect%2Fimages%2Factionlinks_approve.png&folder=chatterapi)
+
+The workflow to create and post action links with a feed element:
+
+1.  (Optional) Create an [action link template](#templates).
+2.  Make a request to [/connect/action-link-group-definitions](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_group_definitions.htm#connect_resources_action_links_group_definitions "Create an action link group definition. To associate an action link with a feed element, first create an action link group definition. Then post a feed element with an associated actions capability.") to define an action link group or to instantiate an action link group from a template. An action link group contains at least one action link.
+3.  Make a request to [/chatter/feed-elements](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_feed_element.htm#connect_resources_feed_element "Post feed elements and search all feed elements in an organization.") to post a feed element and associate the action link with it.
+
+## Action Link Templates
+
+Create action link templates in Setup to instantiate action link groups with common properties. You can package templates and distribute them to other Salesforce organizations.
+
+Specify binding variables in the template and set the values of the variables when you instantiate the action link group. For example, use a binding variable for the API version number, a user ID, or an OAuth token.
+
+You can also specify context variables in the templates. When a user executes the action link, Salesforce provides values for these variables, such as who executed the link and in which organization.
+
+To instantiate the action link group, make a request to the [/connect/action-link-group-definitions](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_group_definitions.htm#connect_resources_action_links_group_definitions "Create an action link group definition. To associate an action link with a feed element, first create an action link group definition. Then post a feed element with an associated actions capability.") resource. Specify the template ID and the values for any binding variables defined in the template.
+
+See [Design Action Link Templates](https://help.salesforce.com/articleView?id=action_link_group_template_design.htm&type=5&language=en_US "HTML (New Window)").
+
+## Type of Action Links
+
+Specify the action link type in the actionType property when you define an action link.
+
+There are four types of action links.
+
+-   Api—The action link calls a synchronous API at the action URL. Salesforce sets the status to SuccessfulStatus or FailedStatus based on the HTTP status code returned by your server.
+-   ApiAsync—The action link calls an asynchronous API at the action URL. The action remains in a PendingStatus state until a third party makes a request to /connect/action-links/actionLinkId to set the status to SuccessfulStatus or FailedStatus when the asynchronous operation is complete.
+-   Download—The action link downloads a file from the action URL.
+-   Ui—The action link takes the user to a web page at the action URL.
+
+Different types of action links have different workflows to set the status of an action link (to Pending, Successful, or Failed). See [/connect/action-links/actionLinkId](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_specific.htm "Get information about or update the status of an action link. The status of the action link in combination with the labelKey property of the Action Link Definition Input determines the text that displays in the UI. To trigger the API request for Api and ApiAsync action links, set the status to PendingStatus.") for more information.
+
+## Authentication
+
+When you define an action link, specify a URL (actionUrl) and the HTTP headers (headers) required to make a request to that URL.
+
+If an external resource requires authentication, include the information wherever the resource requires.
+
+If a Salesforce resource requires authentication, you can include OAuth information in the HTTP headers or you can include a bearer token in the URL.
+
+Salesforce automatically authenticates these resources.
+
+-   Relative URLs in templates
+-   Relative URLs beginning with /services/apexrest when the action link group is instantiated from Apex
+
+Don’t use these resources for sensitive operations.
+
+## Security
+
+HTTPS
+
+The action URL in an action link must begin with https:// or be a relative URL that matches one of the rules in the previous Authentication section.
+
+Encryption
+
+API details are stored with encryption, and obfuscated for clients.
+
+The actionURL, headers, and requestBody data for action links that are not instantiated from a template are encrypted with the organization’s encryption key. The Action URL, HTTP Headers, and HTTP Request Body for an action link template are not encrypted. The binding values used when instantiating an action link group from a template are encrypted with the organization’s encryption key.
+
+Action Link Templates
+
+Only users with Customize Application user permission can create, edit, delete, and package action link templates in Setup.
+
+Don’t store sensitive information in templates. Use binding variables to add sensitive information when you instantiate the action link group. After the action link group is instantiated, the values are stored in an encrypted format. See Define Binding Variables in [Design Action Link Templates](https://help.salesforce.com/s/articleView?id=platform.action_link_group_template_design.htm&type=5&language=en_US "HTML (New Window)").
+
+Client Apps
+
+When creating action links via a client app, it's a good idea to use a client app with a consumer key that never leaves your control. The client app is used for server-to-server communication and is not compiled into mobile apps that could be decompiled.
+
+Expiration Date
+
+When you define an action link group, specify an expiration date (expirationDate). After that date, the action links in the group can’t be executed and disappear from the feed. If your action link group definition includes an OAuth token, set the group’s expiration date to the same value as the expiration date of the OAuth token.
+
+Action link templates use a slightly different mechanism for excluding a user. See Set the Action Link Group Expiration Time in [Design Action Link Templates](https://help.salesforce.com/s/articleView?id=platform.action_link_group_template_design.htm&type=5&language=en_US "HTML (New Window)").
+
+Exclude a User or Specify a User
+
+Use the excludeUserId property of the action link definition input to exclude a single user from executing an action.
+
+Use the userId property of the action link definition input to specify the ID of a user who alone can execute the action. If you don’t specify a userId property or if you pass null, any user can execute the action. You can’t specify both excludeUserId and userId for an action link
+
+Action link templates use a slightly different mechanism for excluding a user. See Set Who Can See the Action Link in [Design Action Link Templates](https://help.salesforce.com/s/articleView?id=platform.action_link_group_template_design.htm&type=5&language=en_US "HTML (New Window)").
+
+Read, Modify, or Delete an Action Link Group Definition
+
+There are two views of an action link and an action link group: the definition, and the context user’s view. The definition includes potentially sensitive information, such as authentication information. The context user’s view is filtered by visibility options and the values reflect the state of the context user.
+
+Action link group definitions can contain sensitive information (such as OAuth tokens). For this reason, to read, modify, or delete a definition, the user must have created the definition or have View All Data permission. In addition, in Connect REST API, the request must be made via the same client app that created the definition. In Apex, the call must be made from the same namespace that created the definition.
+
+## Context Variables
+
+Use context variables to pass information about the user who executed the action link and the context in which it was invoked into the HTTP request made by invoking an action link. You can use context variables in the actionUrl, headers, and requestBody properties of the Action Link Definition Input request body or ConnectApi.ActionLinkDefinitionInput object. You can also use context variables in the Action URL, HTTP Request Body, and HTTP Headers fields of action link templates. You can edit these fields, including adding and removing context variables, after a template is published.
+
+The context variables are:
+
+| Context Variable | Description |
+| --- | --- |
+| {!actionLinkId} | The ID of the action link the user executed. |
+| {!actionLinkGroupId} | The ID of the action link group containing the action link the user executed. |
+| {!communityId} | The ID of the site in which the user executed the action link. The value for your internal org is the empty key "000000000000000000". |
+| {!communityUrl} | The URL of the site in which the user executed the action link. The value for your internal org is empty string "". |
+| {!orgId} | The ID of the org in which the user executed the action link. |
+| {!userId} | The ID of the user that executed the action link. |
+
+## Versioning
+
+To avoid issues due to upgrades or changing functionality in your API, we recommend using versioning when defining action links. For example, the actionUrl property in the [Action Link Definition Input](atlas.en-us.chatterapi.meta/chatterapi/connect_requests_action_link_definition_input.htm "The definition of an action link. An action link is a button on a feed element. Clicking an action link can take a user to a Web page, initiate a file download, or invoke an API call to Salesforce or to an external server. An action link includes a URL and an HTTP method, and can include a request body and header information, such as an OAuth token for authentication. Use action links to integrate Salesforce and third-party services into the feed so that users can drive productivity and accelerate innovation.") looks like https://www.example.com/api/v1/exampleResource.
+
+You can use templates to change the values of the actionUrl, headers, or requestBody properties, even after a template is distributed in a package. For example, if you release a new API version that requires new inputs, an admin can change the inputs in the action link template. Even action links already associated with a feed element use the new inputs. However, you can’t add new binding variables to a published action link template.
+
+If your API isn’t versioned, you can use the expirationDate property of the Action Link Group Definition Input to avoid issues due to upgrades or changing functionality in your API. See Set the Action Link Group Expiration Time in [Design Action Link Templates](https://help.salesforce.com/s/articleView?id=platform.action_link_group_template_design.htm&type=5&language=en_US "HTML (New Window)").
+
+## Errors
+
+Use the Action Link Diagnostic Information resource ([/connect/action-links/actionLinkId/diagnostic-info](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_diagnostic.htm#connect_resources_action_links_diagnostic "Get diagnostic information returned when an action link executes. Diagnostic information is given only for users who can access the action link.")) to return status codes and errors from executing Api and AsyncApi action links. Diagnostic info is given only for users who can access the action link.
+
+## Localized Labels
+
+Action links use a predefined set of localized labels specified in the labelKey property of the [Action Link Definition Input](atlas.en-us.chatterapi.meta/chatterapi/connect_requests_action_link_definition_input.htm "The definition of an action link. An action link is a button on a feed element. Clicking an action link can take a user to a Web page, initiate a file download, or invoke an API call to Salesforce or to an external server. An action link includes a URL and an HTTP method, and can include a request body and header information, such as an OAuth token for authentication. Use action links to integrate Salesforce and third-party services into the feed so that users can drive productivity and accelerate innovation.") request body and the Label Key field of an action link template.
+
+For a list of labels, see [Action Links Labels](atlas.en-us.chatterapi.meta/chatterapi/connect_appendices_action_links_labels.htm "Use these labels for action link buttons.").
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=chatterapi)
+
+#### Note
+
+If none of the label key values make sense for your action link, specify a custom label in the Label field of an action link template and set Label Key to None. However, custom labels aren’t localized.
+
+#### See Also
+
+-   [Action Links Use Cases](atlas.en-us.chatterapi.meta/chatterapi/features_action_links_use_cases.htm "Use action links to integrate Salesforce and third-party services with a feed. An action link can make an HTTP request to a Salesforce or third-party API. An action link can also download a file or open a web page. This topic contains two use case examples.")
+
+## Related Topics
+
+- /connect/action-link-group-definitions (atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_group_definitions.htm)
+- /chatter/feed-elements (atlas.en-us.chatterapi.meta/chatterapi/connect_resources_feed_element.htm)
+- /connect/action-links/actionLinkId (atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_specific.htm)
+- Action Link Definition Input (atlas.en-us.chatterapi.meta/chatterapi/connect_requests_action_link_definition_input.htm)
+- /connect/action-links/actionLinkId/diagnostic-info (atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links_diagnostic.htm)
+- Action Links Labels (atlas.en-us.chatterapi.meta/chatterapi/connect_appendices_action_links_labels.htm)
+- Action Links Use Cases (atlas.en-us.chatterapi.meta/chatterapi/features_action_links_use_cases.htm)

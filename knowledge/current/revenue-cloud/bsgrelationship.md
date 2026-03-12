@@ -5,9 +5,9 @@ topic: bsgrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.895Z
+lastCollected: 2026-03-12T09:33:11.114Z
 estimatedTokens: 827
-keywords: [BsgRelationship, Represents, relationship, between, billing, schedule, groups, support, bundles, where, parent, group, multiple, child, groups., API, version, 62.0, later., Important]
+keywords: [BsgRelationship, relationship, billing, schedule, groups, support, bundles, parent, group, multiple, child, API, version, 62.0, later]
 ---
 
 # BsgRelationship

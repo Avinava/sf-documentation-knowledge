@@ -5,9 +5,9 @@ topic: transactionsecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:43.195Z
+lastCollected: 2026-03-12T09:33:42.533Z
 estimatedTokens: 2774
-keywords: [TransactionSecurityPolicy, Represents, transaction, security, policy, definition., Transaction, policies, give, way, look, through, events, organization, specify, actions, take, certain, combinations, occur.]
+keywords: [TransactionSecurityPolicy, transaction, security, policy, definition, policies, give, way, look, events, organization, specify, actions, take, certain]
 ---
 
 # TransactionSecurityPolicy

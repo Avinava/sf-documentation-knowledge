@@ -5,9 +5,9 @@ topic: expression-set-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:51.141Z
+lastCollected: 2026-03-12T09:33:49.806Z
 estimatedTokens: 310
-keywords: [Expression, Set, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs.]
+keywords: [Expression, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs]
 ---
 
 # Expression Set Business APIs

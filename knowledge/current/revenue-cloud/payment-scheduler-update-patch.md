@@ -5,9 +5,9 @@ topic: payment-scheduler-update-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.246Z
+lastCollected: 2026-03-12T09:33:08.997Z
 estimatedTokens: 317
-keywords: [Payment, Scheduler, Update, PATCH, Activate, deactivate, payment, scheduler., set, status, scheduler, Active, Canceled, Draft, Inactive.]
+keywords: [Payment, Scheduler, PATCH, Activate, deactivate, status, Active, Canceled, Draft, Inactive]
 ---
 
 # Payment Scheduler Update (PATCH)

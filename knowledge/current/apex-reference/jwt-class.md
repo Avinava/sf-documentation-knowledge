@@ -5,10 +5,10 @@ topic: jwt-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.594Z
+lastCollected: 2026-03-12T09:33:20.229Z
 estimatedTokens: 2882
 namespace: Auth
-keywords: [JWT, Generates, JSON, Claims, Set, Web, Token, resulting, Base64-encoded, payload, passed, argument, create, instance, Auth.JWS, class., Usage, clone, getAdditionalClaims, getAud]
+keywords: [JWT, Generates, JSON, Claims, Web, Token, resulting, Base64-encoded, payload, passed, argument, instance, Auth.JWS, Usage, clone]
 ---
 
 # JWT Class

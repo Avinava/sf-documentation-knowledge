@@ -5,9 +5,9 @@ topic: communication-subscription-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.333Z
+lastCollected: 2026-03-12T09:33:14.176Z
 estimatedTokens: 506
-keywords: [Communication, Subscription, DMO, Data, Cloud, data, model, customer’s, subscription, preferences, specific, communication., API, Name, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Communication, Subscription, DMO, Data, Cloud, model, customer’s, preferences, specific, API, Category, Primary, Subject, Area, Key]
 ---
 
 # Communication Subscription DMO

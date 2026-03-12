@@ -5,9 +5,9 @@ topic: using-patterns-and-matchers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.670Z
+lastCollected: 2026-03-12T09:33:32.702Z
 estimatedTokens: 721
-keywords: [Patterns, Matchers, Apex, provides, patterns, matchers, enable, search, text, regular, expressions., Note]
+keywords: [Patterns, Matchers, Apex, enable, search, text, regular, expressions]
 ---
 
 # Using Patterns and Matchers

@@ -5,9 +5,9 @@ topic: connectapiproductsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.634Z
+lastCollected: 2026-03-12T09:33:28.665Z
 estimatedTokens: 308
-keywords: [ConnectApi.ProductSummary, Product, summary.]
+keywords: [ConnectApi.ProductSummary, Product, summary]
 ---
 
 # ConnectApi.ProductSummary

@@ -5,10 +5,10 @@ topic: reportmetadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.172Z
+lastCollected: 2026-03-12T09:33:23.560Z
 estimatedTokens: 9466
 namespace: Reports
-keywords: [ReportMetadata, list, bucket, fields, report., Usage, getAggregates, Syntax, getBuckets, getCrossFilters, getCurrencyCode, getCustomSummaryFormula, getDescription, getDetailColumns, getDeveloperName, getDivision, Note, getGroupingsAcross, getGroupingsDown, getHasDetailRows]
+keywords: [ReportMetadata, bucket, report, Usage, getAggregates, getBuckets, getCrossFilters, getCurrencyCode, getCustomSummaryFormula, getDescription, getDetailColumns, getDeveloperName, getDivision, getGroupingsAcross, getGroupingsDown]
 ---
 
 # ReportMetadata Class

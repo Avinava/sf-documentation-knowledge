@@ -5,9 +5,9 @@ topic: connectapisocialaccountrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.013Z
+lastCollected: 2026-03-12T09:33:29.054Z
 estimatedTokens: 135
-keywords: [ConnectApi.SocialAccountRelationship, Follow, relationship, between, managed, social, account, persona.]
+keywords: [ConnectApi.SocialAccountRelationship, Follow, relationship, managed, social, account, persona]
 ---
 
 # ConnectApi.SocialAccountRelationship

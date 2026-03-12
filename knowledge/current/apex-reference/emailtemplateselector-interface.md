@@ -5,10 +5,10 @@ topic: emailtemplateselector-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.386Z
+lastCollected: 2026-03-12T09:33:29.433Z
 estimatedTokens: 625
 namespace: Support
-keywords: [EmailTemplateSelector, Support.EmailTemplateSelector, enables, providing, default, email, templates, Case, Feed., specified, preloaded, cases, based, criteria, such, case, origin, subject., getDefaultTemplateId, caseId]
+keywords: [EmailTemplateSelector, Support.EmailTemplateSelector, providing, email, templates, Case, Feed, preloaded, cases, criteria, origin, subject, getDefaultTemplateId, caseId, Implementation]
 ---
 
 # EmailTemplateSelector Interface

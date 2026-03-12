@@ -5,9 +5,9 @@ topic: connectapimanagedcontentcollectionitemtypesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.748Z
+lastCollected: 2026-03-12T09:33:27.797Z
 estimatedTokens: 129
-keywords: [ConnectApi.ManagedContentCollectionItemTypeSummary, Summary, collection, item, type.]
+keywords: [Summary, collection, item]
 ---
 
 # ConnectApi.ManagedContentCollectionItemTypeSummary

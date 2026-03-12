@@ -5,9 +5,9 @@ topic: emailadministrationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.129Z
+lastCollected: 2026-03-12T09:33:38.782Z
 estimatedTokens: 1865
-keywords: [EmailAdministrationSettings, Represents, organization’s, email, administration, settings, including, deliverability, security, compliance, relay, configurations, system, notifications., extends, Metadata, metadata, inherits, its, fullName]
+keywords: [EmailAdministrationSettings, organization’s, email, administration, settings, including, deliverability, security, compliance, relay, configurations, system, notifications, extends, Metadata]
 ---
 
 # EmailAdministrationSettings

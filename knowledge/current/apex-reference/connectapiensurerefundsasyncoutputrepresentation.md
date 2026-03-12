@@ -5,9 +5,9 @@ topic: connectapiensurerefundsasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.196Z
+lastCollected: 2026-03-12T09:33:27.286Z
 estimatedTokens: 255
-keywords: [ConnectApi.EnsureRefundsAsyncOutputRepresentation, asynchronous, background, operation., output, only, includes, operation, regardless, whether, call, made, external, payment, gateway., doesn’t, include, any, errors]
+keywords: [asynchronous, background, operation, output, includes, regardless, whether, call, made, external, payment, gateway, doesn’t, include, any]
 ---
 
 # ConnectApi.EnsureRefundsAsyncOutputRepresentation

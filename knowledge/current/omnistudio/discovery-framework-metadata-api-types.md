@@ -5,9 +5,9 @@ topic: discovery-framework-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.071Z
+lastCollected: 2026-03-12T09:33:49.738Z
 estimatedTokens: 600
-keywords: [Discovery, Framework, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Discovery, Framework, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Discovery Framework Metadata API Types

@@ -6,9 +6,9 @@ topic: jsonaccess-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.441Z
+lastCollected: 2026-03-12T09:33:32.479Z
 estimatedTokens: 512
-keywords: [JsonAccess, Annotation, @JsonAccess, annotation, defined, Apex, level, controls, whether, instances, serialized, deserialized., restricts, JSON, XML, serialization, deserialization, runtime, JSONException, exception]
+keywords: [JsonAccess, Annotation, @JsonAccess, defined, Apex, level, whether, instances, serialized, deserialized, restricts, JSON, XML, serialization, deserialization]
 ---
 
 # JsonAccess

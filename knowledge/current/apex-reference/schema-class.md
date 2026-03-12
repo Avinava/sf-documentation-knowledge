@@ -5,10 +5,10 @@ topic: schema-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.960Z
+lastCollected: 2026-03-12T09:33:31.009Z
 estimatedTokens: 2669
 namespace: System
-keywords: [Schema, Describes, metadata, such, field, list, specified, SObjects., default, describe, option, SObjectDescribeOptions.DEFERRED, which, indicates, lazy, initialization, attributes, first, use., getGlobalDescribe]
+keywords: [Schema, metadata, SObjects, describe, option, SObjectDescribeOptions.DEFERRED, lazy, initialization, attributes, getGlobalDescribe, Usage, describeDataCategoryGroups, sObjectNames, describeSObjects, sObjectTypes]
 ---
 
 # Schema Class

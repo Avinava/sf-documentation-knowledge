@@ -5,10 +5,10 @@ topic: sobjectaccessdecision-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.318Z
+lastCollected: 2026-03-12T09:33:21.761Z
 estimatedTokens: 1155
 namespace: System
-keywords: [SObjectAccessDecision, Contains, results, call, Security.stripInaccessible, retrieve, those, results., getModifiedIndexes, Example, getRecords, Usage, getRemovedFields]
+keywords: [SObjectAccessDecision, results, call, Security.stripInaccessible, retrieve, getModifiedIndexes, getRecords, Usage, getRemovedFields]
 ---
 
 # SObjectAccessDecision Class

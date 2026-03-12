@@ -5,9 +5,9 @@ topic: end-of-life
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.179Z
+lastCollected: 2026-03-12T09:33:55.317Z
 estimatedTokens: 158
-keywords: [End-of-Life, Salesforce, committed, supporting, Console, Integration, Toolkit, version, minimum, three, years, date, its, first, release., improve, quality, performance, versions, old]
+keywords: [End-of-Life, Salesforce, committed, supporting, Console, Integration, Toolkit, version, minimum, three, years, date, release, improve, quality]
 ---
 
 # End-of-Life

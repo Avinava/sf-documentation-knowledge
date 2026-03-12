@@ -5,9 +5,9 @@ topic: connectapicartpromotionlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.380Z
+lastCollected: 2026-03-12T09:33:26.539Z
 estimatedTokens: 66
-keywords: [ConnectApi.CartPromotionList, list, promotions, cart.]
+keywords: [ConnectApi.CartPromotionList, promotions, cart]
 ---
 
 # ConnectApi.CartPromotionList

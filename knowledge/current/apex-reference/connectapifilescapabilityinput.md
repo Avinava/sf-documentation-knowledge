@@ -5,9 +5,9 @@ topic: connectapifilescapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.157Z
+lastCollected: 2026-03-12T09:33:25.389Z
 estimatedTokens: 210
-keywords: [ConnectApi.FilesCapabilityInput, Attach, files, already, uploaded, remove, feed, element.]
+keywords: [ConnectApi.FilesCapabilityInput, Attach, files, already, uploaded, remove, feed, element]
 ---
 
 # ConnectApi.FilesCapabilityInput

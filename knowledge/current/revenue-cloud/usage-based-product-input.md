@@ -5,9 +5,9 @@ topic: usage-based-product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.561Z
+lastCollected: 2026-03-12T09:33:08.387Z
 estimatedTokens: 610
-keywords: [Usage-Based, Product, Input, Understand, sample, request, structure, specify, manage, usage-based, products, within, sales, transaction.]
+keywords: [Usage-Based, Product, Input, Understand, sample, structure, specify, manage, products, sales, transaction]
 ---
 
 # Usage-Based Product Input

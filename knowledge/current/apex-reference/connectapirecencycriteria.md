@@ -5,9 +5,9 @@ topic: connectapirecencycriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.778Z
+lastCollected: 2026-03-12T09:33:28.821Z
 estimatedTokens: 154
-keywords: [ConnectApi.RecencyCriteria, Represents, recency, criteria, data, graph.]
+keywords: [ConnectApi.RecencyCriteria, recency, criteria, data, graph]
 ---
 
 # ConnectApi.RecencyCriteria

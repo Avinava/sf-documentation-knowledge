@@ -5,9 +5,9 @@ topic: entitymilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.065Z
+lastCollected: 2026-03-12T09:33:54.298Z
 estimatedTokens: 2396
-keywords: [EntityMilestone, Represents, required, step, customer, support, process, work, order., Salesforce, user, uses, term, “object, milestone., API, version, 37.0, later., Note]
+keywords: [EntityMilestone, step, customer, support, process, work, order, Salesforce, user, uses, term, “object, milestone, API, version]
 ---
 
 # EntityMilestone

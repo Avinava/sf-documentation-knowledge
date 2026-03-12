@@ -5,9 +5,9 @@ topic: billing-fields-on-billingaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:05.607Z
+lastCollected: 2026-03-12T09:33:07.556Z
 estimatedTokens: 1437
-keywords: [Billing, Fields, BillingAccount, Standard, fields, extend, represent, information, billing, suspension, date, resumption, date., API, version, 63.0, later., Supported, Calls, Special]
+keywords: [Billing, BillingAccount, Standard, extend, represent, suspension, date, resumption, API, version, 63.0, later, Calls, Special, Access]
 ---
 
 # Billing Fields on BillingAccount

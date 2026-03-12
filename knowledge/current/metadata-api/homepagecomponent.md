@@ -5,9 +5,9 @@ topic: homepagecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.384Z
+lastCollected: 2026-03-12T09:33:39.880Z
 estimatedTokens: 1132
-keywords: [HomePageComponent, Represents, metadata, associated, home, page, component., customize, Home, tab, Salesforce, Classic, include, components, such, sidebar, links, company, logo, dashboard]
+keywords: [HomePageComponent, metadata, associated, home, component, customize, tab, Salesforce, Classic, include, components, sidebar, links, company, logo]
 ---
 
 # HomePageComponent

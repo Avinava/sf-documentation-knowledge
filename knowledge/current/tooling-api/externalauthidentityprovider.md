@@ -5,10 +5,10 @@ topic: externalauthidentityprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.482Z
+lastCollected: 2026-03-12T09:33:44.605Z
 estimatedTokens: 1441
 namespace: CreatedByNamespace
-keywords: [ExternalAuthIdentityProvider, Represents, external, authentication, auth, identity, provider., provider, links, credential, obtains, OAuth, tokens, outbound, callouts, systems., Important, Supported, SOAP, API]
+keywords: [ExternalAuthIdentityProvider, external, authentication, auth, identity, provider, links, credential, obtains, OAuth, tokens, outbound, callouts, systems, SOAP]
 ---
 
 # ExternalAuthIdentityProvider

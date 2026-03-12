@@ -5,10 +5,10 @@ topic: referencedrefundresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.068Z
+lastCollected: 2026-03-12T09:33:22.456Z
 estimatedTokens: 2083
 namespace: CommercePayments
-keywords: [ReferencedRefundResponse, payment, gateway, adapter, sends, response, ReferencedRefund, request, type., Usage, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage]
+keywords: [ReferencedRefundResponse, payment, gateway, adapter, ReferencedRefund, Usage, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]
 ---
 
 # ReferencedRefundResponse Class

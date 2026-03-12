@@ -5,9 +5,9 @@ topic: servicemgmtknwlgartclconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.220Z
+lastCollected: 2026-03-12T09:33:15.897Z
 estimatedTokens: 441
-keywords: [ServiceMgmtKnwlgArtclConfig, Represents, collection, settings, configure, Service, Management, Knowledge., Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
+keywords: [ServiceMgmtKnwlgArtclConfig, collection, settings, configure, Service, Management, Knowledge, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, API, version, 65.0, later, SOAP]
 ---
 
 # ServiceMgmtKnwlgArtclConfig

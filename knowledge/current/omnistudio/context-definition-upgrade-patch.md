@@ -5,9 +5,9 @@ topic: context-definition-upgrade-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:48.984Z
+lastCollected: 2026-03-12T09:33:47.894Z
 estimatedTokens: 240
-keywords: [Context, Definition, Upgrade, PATCH, context, definition., Once, extended, definition, created, base, standard, API, reflect, any, updates, made]
+keywords: [Context, Definition, Upgrade, PATCH, Once, extended, created, base, standard, API, reflect, any, updates, made]
 ---
 
 # Context Definition Upgrade (PATCH)

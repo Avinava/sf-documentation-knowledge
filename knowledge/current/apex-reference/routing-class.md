@@ -5,10 +5,10 @@ topic: routing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.883Z
+lastCollected: 2026-03-12T09:33:19.570Z
 estimatedTokens: 3234
 namespace: ConnectApi
-keywords: [Routing, Confirm, held, fulfillment, order, capacity, locations., call, decreases, location’s, increases, its, assigned, count., assign, location., confirmHeldFOCapacity, confirmHeldFOCapacityInput, API, Version]
+keywords: [Routing, Confirm, held, fulfillment, order, capacity, locations, call, decreases, location’s, increases, assigned, count, assign, location]
 ---
 
 # Routing Class

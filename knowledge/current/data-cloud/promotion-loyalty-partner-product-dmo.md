@@ -5,9 +5,9 @@ topic: promotion-loyalty-partner-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:14.826Z
+lastCollected: 2026-03-12T09:33:15.520Z
 estimatedTokens: 599
-keywords: [Promotion, Loyalty, Partner, Product, DMO, Data, Cloud, data, model, promotion, product, partner, co-marketing, loyalty, program, members., API, Name, Category, Primary]
+keywords: [Promotion, Loyalty, Partner, Product, DMO, Data, Cloud, model, co-marketing, program, members, API, Category, Primary, Subject]
 ---
 
 # Promotion Loyalty Partner Product DMO

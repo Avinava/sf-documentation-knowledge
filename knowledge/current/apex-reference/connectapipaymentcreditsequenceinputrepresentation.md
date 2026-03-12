@@ -5,9 +5,9 @@ topic: connectapipaymentcreditsequenceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.301Z
+lastCollected: 2026-03-12T09:33:25.516Z
 estimatedTokens: 213
-keywords: [ConnectApi.PaymentCreditSequenceInputRepresentation, order, which, credit, amount, applied, specified, payment, methods., sequence, determines, during, processing., credited, determined, summary.]
+keywords: [order, credit, amount, applied, payment, sequence, determines, processing, credited, determined, summary]
 ---
 
 # ConnectApi.PaymentCreditSequenceInputRepresentation

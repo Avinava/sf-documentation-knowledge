@@ -5,9 +5,9 @@ topic: focussubtabbynameandprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.345Z
+lastCollected: 2026-03-12T09:33:55.471Z
 estimatedTokens: 303
-keywords: [focusSubtabByNameAndPrimaryTabId, Focuses, browser, subtab, already, open, specified, name, primary, tab, ID., only, API, version, 22.0, later., Syntax, Arguments, Sample, Code–Visualforce]
+keywords: [focusSubtabByNameAndPrimaryTabId, Focuses, browser, subtab, already, open, primary, tab, API, version, 22.0, later, Arguments, Sample, Code–Visualforce]
 ---
 
 # focusSubtabByNameAndPrimaryTabId()

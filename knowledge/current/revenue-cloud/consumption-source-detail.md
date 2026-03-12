@@ -5,9 +5,9 @@ topic: consumption-source-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.571Z
+lastCollected: 2026-03-12T09:33:09.284Z
 estimatedTokens: 183
-keywords: [Consumption, Source, Detail, Output, representation, details, specific, consumption, source.]
+keywords: [Consumption, Source, Detail, Output, representation, specific]
 ---
 
 # Consumption Source Detail

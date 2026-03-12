@@ -5,9 +5,9 @@ topic: engagement-interactions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.040Z
+lastCollected: 2026-03-12T09:33:47.945Z
 estimatedTokens: 203
-keywords: [Engagement, Interactions, POST, Create, engagement, interaction, attendee, topic, records.]
+keywords: [Engagement, Interactions, POST, interaction, attendee, topic, records]
 ---
 
 # Engagement Interactions (POST)

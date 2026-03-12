@@ -5,9 +5,9 @@ topic: lightningexperiencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.845Z
+lastCollected: 2026-03-12T09:33:40.344Z
 estimatedTokens: 2954
-keywords: [LightningExperienceSettings, Represents, settings, modify, org’s, Lightning, Experience, configuration., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
+keywords: [LightningExperienceSettings, settings, modify, org’s, Lightning, Experience, configuration, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---
 
 # LightningExperienceSettings

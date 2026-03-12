@@ -5,9 +5,9 @@ topic: place-supplemental-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.043Z
+lastCollected: 2026-03-12T09:33:08.814Z
 estimatedTokens: 587
-keywords: [Place, Supplemental, Transaction, POST, Create, supplemental, order, change, orders, after, they, submitted, processing, such, during, fulfillment, process.]
+keywords: [Place, Supplemental, Transaction, POST, order, change, orders, they, submitted, processing, fulfillment, process]
 ---
 
 # Place Supplemental Transaction (POST)

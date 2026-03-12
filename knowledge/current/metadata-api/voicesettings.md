@@ -5,9 +5,9 @@ topic: voicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.858Z
+lastCollected: 2026-03-12T09:33:43.097Z
 estimatedTokens: 1236
-keywords: [VoiceSettings, Represents, org’s, Sales, Dialer, settings, such, call, recording, conferencing, voicemail., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample]
+keywords: [VoiceSettings, org’s, Sales, Dialer, settings, call, recording, conferencing, voicemail, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
 # VoiceSettings

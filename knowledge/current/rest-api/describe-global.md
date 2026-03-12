@@ -5,9 +5,9 @@ topic: describe-global
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.530Z
+lastCollected: 2026-03-12T09:33:35.375Z
 estimatedTokens: 645
-keywords: [Describe, Lists, objects, associated, metadata., resource, both, custom, standard, objects., Note, Syntax, Example]
+keywords: [Describe, objects, associated, metadata, resource, custom, standard]
 ---
 
 # Describe Global

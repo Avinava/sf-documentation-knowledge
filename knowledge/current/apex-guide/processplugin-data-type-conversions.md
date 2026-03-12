@@ -5,9 +5,9 @@ topic: processplugin-data-type-conversions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.779Z
+lastCollected: 2026-03-12T09:33:33.796Z
 estimatedTokens: 311
-keywords: [Process.Plugin, Data, Conversions, Understand, how, data, types, converted, between, Apex, values, returned, Process.Plugin., example, text, flow, converts, Apex., Tip]
+keywords: [Process.Plugin, Data, Conversions, Understand, how, converted, Apex, text, flow, converts]
 ---
 
 # Process.Plugin Data Type Conversions

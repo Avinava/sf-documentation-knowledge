@@ -5,9 +5,9 @@ topic: product-catalog-management-fields-on-attribute-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.990Z
+lastCollected: 2026-03-12T09:33:10.385Z
 estimatedTokens: 184
-keywords: [Product, Catalog, Management, Fields, Attribute, Definition, Standard, custom, fields, extend, standard, Management.]
+keywords: [Product, Catalog, Management, Attribute, Definition, Standard, custom, extend]
 ---
 
 # Product Catalog Management Fields on Attribute Definition

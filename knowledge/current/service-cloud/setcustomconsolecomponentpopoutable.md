@@ -5,9 +5,9 @@ topic: setcustomconsolecomponentpopoutable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.434Z
+lastCollected: 2026-03-12T09:33:56.483Z
 estimatedTokens: 237
-keywords: [setCustomConsoleComponentPopoutable, custom, console, component, popped, browser., multi-monitor, components, must, turned, on., only, API, version, 30.0, later., Syntax, Arguments, Sample, Code–Visualforce]
+keywords: [setCustomConsoleComponentPopoutable, custom, console, component, popped, browser, multi-monitor, components, turned, API, version, 30.0, later, Arguments, Sample]
 ---
 
 # setCustomConsoleComponentPopoutable()

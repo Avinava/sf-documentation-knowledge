@@ -5,10 +5,10 @@ topic: extendedcommercedelivery-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.175Z
+lastCollected: 2026-03-12T09:33:18.830Z
 estimatedTokens: 582
 namespace: ConnectApi
-keywords: [ExtendedCommerceDelivery, Access, information, delivery, estimation., estimateDeliveryDate, estimateDeliveryDateInput, externalReference, API, Version, Guest, Users, Requires, Chatter]
+keywords: [ExtendedCommerceDelivery, Access, delivery, estimation, estimateDeliveryDate, estimateDeliveryDateInput, externalReference, API, Version, Guest, Users, Requires, Chatter]
 ---
 
 # ExtendedCommerceDelivery Class

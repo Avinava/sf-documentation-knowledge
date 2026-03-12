@@ -5,9 +5,9 @@ topic: cnfgitemattrpcklstvaldef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.537Z
+lastCollected: 2026-03-12T09:33:16.191Z
 estimatedTokens: 638
-keywords: [CnfgItemAttrPcklstValDef, Represents, specific, configuration, item, attribute., example, high, medium, low, picklist, values, attribute, Business, Criticality., API, version, 65.0, later., Supported]
+keywords: [CnfgItemAttrPcklstValDef, specific, configuration, item, attribute, high, medium, low, picklist, Business, Criticality, API, version, 65.0, later]
 ---
 
 # CnfgItemAttrPcklstValDef

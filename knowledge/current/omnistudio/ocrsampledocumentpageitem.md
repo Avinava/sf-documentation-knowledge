@@ -5,9 +5,9 @@ topic: ocrsampledocumentpageitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.292Z
+lastCollected: 2026-03-12T09:33:49.988Z
 estimatedTokens: 319
-keywords: [OcrSampleDocumentPageItem, Represents, details, items, present, OCR, sample, document, page., API, version, 56.0, later., Supported, Calls, Fields, SOAP, REST, Special, Access]
+keywords: [OcrSampleDocumentPageItem, items, present, OCR, sample, document, API, version, 56.0, later, Calls, SOAP, REST, Special, Access]
 ---
 
 # OcrSampleDocumentPageItem

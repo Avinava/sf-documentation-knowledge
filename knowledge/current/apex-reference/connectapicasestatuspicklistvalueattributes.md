@@ -5,9 +5,9 @@ topic: connectapicasestatuspicklistvalueattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.415Z
+lastCollected: 2026-03-12T09:33:26.571Z
 estimatedTokens: 164
-keywords: [ConnectApi.CaseStatusPicklistValueAttributes, Case, status, picklist, attributes.]
+keywords: [Case, status, picklist, attributes]
 ---
 
 # ConnectApi.CaseStatusPicklistValueAttributes

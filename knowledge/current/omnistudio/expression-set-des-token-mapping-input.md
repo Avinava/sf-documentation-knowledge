@@ -5,9 +5,9 @@ topic: expression-set-des-token-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.386Z
+lastCollected: 2026-03-12T09:33:47.393Z
 estimatedTokens: 146
-keywords: [Expression, Set, DES, Token, Mapping, Input, representation, token, mapping, expression, set, version, step.]
+keywords: [Expression, DES, Token, Mapping, Input, representation, version, step]
 ---
 
 # Expression Set DES Token Mapping Input

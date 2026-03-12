@@ -5,9 +5,9 @@ topic: connectapichangeiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.608Z
+lastCollected: 2026-03-12T09:33:24.872Z
 estimatedTokens: 666
-keywords: [ConnectApi.ChangeItemInputRepresentation, Change, order, item, summary, such, cancel., specify, whether, prorate, associated, shipping, charge, based, price, change., can’t, charge.]
+keywords: [Change, order, item, summary, cancel, specify, whether, prorate, associated, shipping, charge, price, can’t]
 ---
 
 # ConnectApi.ChangeItemInputRepresentation

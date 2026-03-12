@@ -5,9 +5,9 @@ topic: billing-arrangement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.380Z
+lastCollected: 2026-03-12T09:33:09.111Z
 estimatedTokens: 380
-keywords: [Billing, Arrangement, Output, representation, contains, details, billing, arrangement, including, its, status, configuration, settings, associated, lines.]
+keywords: [Billing, Arrangement, Output, representation, including, status, configuration, settings, associated, lines]
 ---
 
 # Billing Arrangement

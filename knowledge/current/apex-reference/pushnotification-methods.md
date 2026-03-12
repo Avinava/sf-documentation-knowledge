@@ -5,9 +5,9 @@ topic: pushnotification-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.117Z
+lastCollected: 2026-03-12T09:33:19.800Z
 estimatedTokens: 143
-keywords: [PushNotification, following, PushNotification., methods.]
+keywords: [PushNotification]
 ---
 
 # PushNotification Methods

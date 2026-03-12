@@ -5,9 +5,9 @@ topic: how-dml-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:34.681Z
+lastCollected: 2026-03-12T09:33:34.599Z
 estimatedTokens: 705
-keywords: [How, DML, Works, perform, operations, either, single, sObject, bulk, list, sObjects., Performing, recommended, way, because, helps, avoid, hitting, governor, limits]
+keywords: [How, DML, Works, perform, operations, either, sObject, bulk, sObjects, Performing, recommended, way, because, helps, avoid]
 ---
 
 # How DML Works

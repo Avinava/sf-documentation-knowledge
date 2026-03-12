@@ -5,9 +5,9 @@ topic: creditmemoprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.089Z
+lastCollected: 2026-03-12T09:33:11.270Z
 estimatedTokens: 550
-keywords: [CreditMemoProcessedEvent, Represents, notification, customers, after, process, initiated, commerce, invoicing, credit-memos, request, complete., API, version, 62.0, later., Supported, Calls, Subscribers, Subscription]
+keywords: [CreditMemoProcessedEvent, notification, customers, process, initiated, commerce, invoicing, credit-memos, API, version, 62.0, later, Calls, Subscribers, Subscription]
 ---
 
 # CreditMemoProcessedEvent

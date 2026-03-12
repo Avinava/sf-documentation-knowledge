@@ -5,9 +5,9 @@ topic: fulfillmentsourcechangeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:10.287Z
+lastCollected: 2026-03-12T09:33:11.436Z
 estimatedTokens: 328
-keywords: [FulfillmentSourceChangeEvent, Notifies, updates, sources, orchestrated, Dynamic, Revenue, Orchestrator, order, product, fulfillment, product., API, version, 66.0, later., Supported, Calls, Subscribers, Streaming]
+keywords: [FulfillmentSourceChangeEvent, Notifies, updates, sources, orchestrated, Dynamic, Revenue, Orchestrator, order, product, fulfillment, API, version, 66.0, later]
 ---
 
 # FulfillmentSourceChangeEvent

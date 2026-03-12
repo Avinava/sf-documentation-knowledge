@@ -5,9 +5,9 @@ topic: context-service-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.912Z
+lastCollected: 2026-03-12T09:33:49.538Z
 estimatedTokens: 204
-keywords: [Context, Service, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Context, Service, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Context Service Metadata API Types

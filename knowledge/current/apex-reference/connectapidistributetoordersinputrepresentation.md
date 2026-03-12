@@ -5,9 +5,9 @@ topic: connectapidistributetoordersinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.794Z
+lastCollected: 2026-03-12T09:33:25.046Z
 estimatedTokens: 109
-keywords: [ConnectApi.DistributeToOrdersInputRepresentation, Input, representation, single, element, within, Distribute, Orders, list.]
+keywords: [Input, representation, element, Distribute, Orders]
 ---
 
 # ConnectApi.DistributeToOrdersInputRepresentation

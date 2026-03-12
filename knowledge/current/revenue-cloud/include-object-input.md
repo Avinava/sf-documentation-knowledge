@@ -5,9 +5,9 @@ topic: include-object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.143Z
+lastCollected: 2026-03-12T09:33:08.033Z
 estimatedTokens: 100
-keywords: [Include, Input, representation, include, response.]
+keywords: [Include, Input, representation]
 ---
 
 # Include Object Input

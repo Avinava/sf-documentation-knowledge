@@ -5,9 +5,9 @@ topic: recordpagesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:42.258Z
+lastCollected: 2026-03-12T09:33:41.696Z
 estimatedTokens: 762
-keywords: [RecordPageSettings, Represents, org’s, record, page, settings., extends, Metadata, metadata, inherits, its, fullName, field., Declarative, File, Suffix, Directory, Location, Version, Fields]
+keywords: [RecordPageSettings, org’s, record, settings, extends, Metadata, inherits, fullName, Declarative, File, Suffix, Directory, Location, Version, Sample]
 ---
 
 # RecordPageSettings

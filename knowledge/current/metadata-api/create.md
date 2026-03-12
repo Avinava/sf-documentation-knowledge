@@ -5,9 +5,9 @@ topic: create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.126Z
+lastCollected: 2026-03-12T09:33:37.843Z
 estimatedTokens: 1486
-keywords: [create, Deprecated., Adds, new, metadata, components, organization, asynchronously., call, removed, API, version, 31.0, earlier, versions, only., createMetadata, instead., Syntax, Usage]
+keywords: [Deprecated, Adds, new, metadata, components, organization, asynchronously, call, removed, API, version, 31.0, earlier, versions, createMetadata]
 ---
 
 # create()

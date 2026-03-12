@@ -5,9 +5,9 @@ topic: servicecrewmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:56.570Z
+lastCollected: 2026-03-12T09:33:54.775Z
 estimatedTokens: 573
-keywords: [ServiceCrewMember, Represents, technician, service, resource, belongs, crew., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [ServiceCrewMember, technician, service, resource, belongs, crew, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ServiceCrewMember

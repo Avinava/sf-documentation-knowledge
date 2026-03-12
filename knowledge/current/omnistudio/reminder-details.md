@@ -5,9 +5,9 @@ topic: reminder-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.695Z
+lastCollected: 2026-03-12T09:33:49.340Z
 estimatedTokens: 216
-keywords: [Reminder, Details, Output, representation, reminder, definition, request, create, update, reminder.]
+keywords: [Reminder, Output, representation, definition]
 ---
 
 # Reminder Details

@@ -5,9 +5,9 @@ topic: digital-lending
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:51.048Z
+lastCollected: 2026-03-12T09:33:49.720Z
 estimatedTokens: 353
-keywords: [Digital, Lending, supports, end-to-end, lending, lifecycle, across, retail, loan, products, channels, unified, platform., Create, application, process, suits, needs, clients, both]
+keywords: [Digital, Lending, supports, end-to-end, lifecycle, across, retail, loan, products, channels, unified, platform, application, process, suits]
 ---
 
 # Digital Lending

@@ -5,9 +5,9 @@ topic: gettaburl-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.780Z
+lastCollected: 2026-03-12T09:33:55.874Z
 estimatedTokens: 295
-keywords: [getTabURL, Lightning, Experience, URL, specified, tab., works, only, console, apps., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Note]
+keywords: [getTabURL, Lightning, Experience, URL, tab, works, console, apps, isn’t, Web, Components, LWC, Arguments, Aura, Sample]
 ---
 
 # getTabURL() for Lightning Experience for Lightning Experience

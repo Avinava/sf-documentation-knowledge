@@ -5,10 +5,10 @@ topic: commercepromotions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:17.799Z
+lastCollected: 2026-03-12T09:33:18.483Z
 estimatedTokens: 1203
 namespace: ConnectApi
-keywords: [CommercePromotions, Get, coupon, code, redemption, usage, revert, previously, redeemed, code., Note, decreaseRedemption, couponCodeRedemption, API, Version, Guest, Users, Requires, Chatter, evaluate]
+keywords: [CommercePromotions, coupon, code, redemption, usage, revert, previously, redeemed, decreaseRedemption, couponCodeRedemption, API, Version, Guest, Users, Requires]
 ---
 
 # CommercePromotions Class

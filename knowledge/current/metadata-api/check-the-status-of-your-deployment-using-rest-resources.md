@@ -5,9 +5,9 @@ topic: check-the-status-of-your-deployment-using-rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:42.451Z
+lastCollected: 2026-03-12T09:33:41.872Z
 estimatedTokens: 200
-keywords: [Check, Status, Deployment, REST, Resources, status, deployment, passing, request, URL, response, body, similar, returned, original, includes, information, progress., Response, Body]
+keywords: [Check, Status, Deployment, REST, Resources, passing, URL, similar, original, includes, progress, Deploy, Metadata]
 ---
 
 # Check the Status of Your Deployment Using REST Resources

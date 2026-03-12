@@ -5,9 +5,9 @@ topic: objectsourcetargetmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.477Z
+lastCollected: 2026-03-12T09:33:40.945Z
 estimatedTokens: 971
-keywords: [ObjectSourceTargetMap, Contains, object-level, mappings, between, source, target, objects., objects, MktDataLakeObject, MktDataModelObject., example, Email, mapped, ContactPointEmail, object., Important, Parent, File, Suffix]
+keywords: [ObjectSourceTargetMap, object-level, mappings, source, target, objects, MktDataLakeObject, MktDataModelObject, Email, mapped, ContactPointEmail, Parent, File, Suffix, Directory]
 ---
 
 # ObjectSourceTargetMap

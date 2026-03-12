@@ -5,9 +5,9 @@ topic: extlclntapppushsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:39.784Z
+lastCollected: 2026-03-12T09:33:39.374Z
 estimatedTokens: 1558
-keywords: [ExtlClntAppPushSettings, Represents, external, client, app’s, push, notification, settings., Note, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Important]
+keywords: [ExtlClntAppPushSettings, external, client, app’s, push, notification, settings, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # ExtlClntAppPushSettings

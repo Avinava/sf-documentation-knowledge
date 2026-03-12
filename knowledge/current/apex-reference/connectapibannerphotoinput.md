@@ -5,9 +5,9 @@ topic: connectapibannerphotoinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.370Z
+lastCollected: 2026-03-12T09:33:24.649Z
 estimatedTokens: 252
-keywords: [ConnectApi.BannerPhotoInput, banner, photo.]
+keywords: [ConnectApi.BannerPhotoInput, banner, photo]
 ---
 
 # ConnectApi.BannerPhotoInput

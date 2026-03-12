@@ -5,9 +5,9 @@ topic: validating-the-signature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.660Z
+lastCollected: 2026-03-12T09:33:13.538Z
 estimatedTokens: 67
-keywords: [Validating, validate, sample, Java, code, something, similar., includes, payload, received, secret, key.]
+keywords: [Validating, validate, sample, Java, code, something, similar, includes, payload, received, secret, key]
 ---
 
 # Validating the Signature

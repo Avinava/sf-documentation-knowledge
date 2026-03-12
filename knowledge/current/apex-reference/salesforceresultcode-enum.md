@@ -5,9 +5,9 @@ topic: salesforceresultcode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:29.628Z
+lastCollected: 2026-03-12T09:33:29.667Z
 estimatedTokens: 558
-keywords: [SalesforceResultCode, Defines, gateway, call, status, values, Salesforce, based, payment, returned., Usage, Values]
+keywords: [SalesforceResultCode, gateway, call, status, Salesforce, payment, Usage]
 ---
 
 # SalesforceResultCode Enum

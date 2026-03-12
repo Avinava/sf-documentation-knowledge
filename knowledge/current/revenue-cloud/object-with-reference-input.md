@@ -5,9 +5,9 @@ topic: object-with-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.204Z
+lastCollected: 2026-03-12T09:33:08.087Z
 estimatedTokens: 207
-keywords: [Reference, Input, representation, list, records, inserted, updated., update, record, specify, ID.]
+keywords: [Input, representation, records, inserted, updated, record, specify]
 ---
 
 # Object with Reference Input

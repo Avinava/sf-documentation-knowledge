@@ -5,9 +5,9 @@ topic: prerequisites-set-up-salesforce-hosted-mcp-servers-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.100Z
+lastCollected: 2026-03-12T09:33:40.583Z
 estimatedTokens: 960
-keywords: [Prerequisites, Set, Salesforce, Hosted, MCP, Servers, Beta, API, Context, server, many, Servers., must, first, set, Server., Enable, Note, Create, External]
+keywords: [Prerequisites, Salesforce, Hosted, MCP, Servers, Beta, API, Context, server, Enable, External, Client, App, Log, Target]
 ---
 
 # Prerequisites: Set Up Salesforce Hosted MCP Servers (Beta)

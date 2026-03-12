@@ -5,9 +5,9 @@ topic: contextattrhydrationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:54.633Z
+lastCollected: 2026-03-12T09:33:52.991Z
 estimatedTokens: 531
-keywords: [ContextAttrHydrationDetail, Represents, SOQL, database, queries, fetch, data, chosen, attribute, input, schema., API, version, 59.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [ContextAttrHydrationDetail, SOQL, database, queries, fetch, data, chosen, attribute, input, schema, API, version, 59.0, later, SOAP]
 ---
 
 # ContextAttrHydrationDetail

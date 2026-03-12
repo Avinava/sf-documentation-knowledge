@@ -5,9 +5,9 @@ topic: connectapicapacityresponseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.271Z
+lastCollected: 2026-03-12T09:33:26.439Z
 estimatedTokens: 117
-keywords: [ConnectApi.CapacityResponseOutputRepresentation, Response, request, related, location’s, fulfillment, capacity.]
+keywords: [location’s, fulfillment, capacity]
 ---
 
 # ConnectApi.CapacityResponseOutputRepresentation

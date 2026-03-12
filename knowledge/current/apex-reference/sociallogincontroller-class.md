@@ -5,10 +5,10 @@ topic: sociallogincontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.533Z
+lastCollected: 2026-03-12T09:33:21.967Z
 estimatedTokens: 81
 namespace: AppLauncher
-keywords: [SocialLoginController, its, internal, only.]
+keywords: [SocialLoginController, internal]
 ---
 
 # SocialLoginController Class

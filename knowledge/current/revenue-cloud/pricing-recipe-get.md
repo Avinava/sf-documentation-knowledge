@@ -5,9 +5,9 @@ topic: pricing-recipe-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:07.077Z
+lastCollected: 2026-03-12T09:33:08.843Z
 estimatedTokens: 110
-keywords: [Pricing, Recipe, GET, Get, mapping, details, pricing, recipes, associated, recipe, table.]
+keywords: [Pricing, Recipe, mapping, recipes, associated]
 ---
 
 # Pricing Recipe (GET)

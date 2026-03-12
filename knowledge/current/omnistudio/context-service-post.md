@@ -5,9 +5,9 @@ topic: context-service-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.036Z
+lastCollected: 2026-03-12T09:33:47.942Z
 estimatedTokens: 240
-keywords: [Context, Service, POST, Create, new, context, records, submitting, metadata, associated, JSON, data., After, validating, data, system, generates, ID., objects, created]
+keywords: [Context, Service, POST, new, records, submitting, metadata, associated, JSON, data, validating, system, generates, objects, created]
 ---
 
 # Context Service (POST)

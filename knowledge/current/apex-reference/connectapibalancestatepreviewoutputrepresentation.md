@@ -5,9 +5,9 @@ topic: connectapibalancestatepreviewoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.157Z
+lastCollected: 2026-03-12T09:33:26.329Z
 estimatedTokens: 302
-keywords: [ConnectApi.BalanceStatePreviewOutputRepresentation, generated, preview, balances, order, cart, including, totals, adjustments, taxes.]
+keywords: [generated, preview, balances, order, cart, including, totals, adjustments, taxes]
 ---
 
 # ConnectApi.BalanceStatePreviewOutputRepresentation

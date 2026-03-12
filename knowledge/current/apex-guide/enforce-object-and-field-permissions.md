@@ -5,9 +5,9 @@ topic: enforce-object-and-field-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.674Z
+lastCollected: 2026-03-12T09:33:32.706Z
 estimatedTokens: 1272
-keywords: [Enforce, Field, Permissions, Apex, generally, runs, system, context, current, user's, permissions, field-level, security, FLS, aren’t, taken, account, during, code, execution.]
+keywords: [Enforce, Permissions, Apex, generally, runs, system, context, current, user's, field-level, security, FLS, aren’t, taken, account]
 ---
 
 # Enforce Object and Field Permissions

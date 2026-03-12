@@ -5,9 +5,9 @@ topic: package2member
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.233Z
+lastCollected: 2026-03-12T09:33:45.389Z
 estimatedTokens: 645
-keywords: [Package2Member, Represents, component, second-generation, managed, package, subscriber’s, org., Created, subscriber, installs, package., API, version, 41.0, later., Supported, SOAP, Calls, REST]
+keywords: [Package2Member, component, second-generation, managed, package, subscriber’s, org, Created, subscriber, installs, API, version, 41.0, later, SOAP]
 ---
 
 # Package2Member

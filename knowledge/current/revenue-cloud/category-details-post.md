@@ -5,9 +5,9 @@ topic: category-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.664Z
+lastCollected: 2026-03-12T09:33:08.480Z
 estimatedTokens: 243
-keywords: [Category, Details, POST, Get, details, category, specified, ID., API, composite, Product, Discovery.]
+keywords: [Category, POST, API, composite, Product, Discovery]
 ---
 
 # Category Details (POST)

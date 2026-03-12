@@ -5,9 +5,9 @@ topic: field-service-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.540Z
+lastCollected: 2026-03-12T09:33:53.846Z
 estimatedTokens: 310
-keywords: [Field, Service, REST, API, following, endpoints, used, manage, field, service, implementation.]
+keywords: [Service, REST, API, endpoints, manage, implementation]
 ---
 
 # Field Service REST API

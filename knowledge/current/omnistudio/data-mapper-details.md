@@ -5,9 +5,9 @@ topic: data-mapper-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.204Z
+lastCollected: 2026-03-12T09:33:47.211Z
 estimatedTokens: 127
-keywords: [Data, Mapper, Details, Input, representation, data, mapper, details, clear, cache, for.]
+keywords: [Data, Mapper, Input, representation, clear, cache]
 ---
 
 # Data Mapper Details

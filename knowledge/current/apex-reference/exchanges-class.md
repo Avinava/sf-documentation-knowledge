@@ -5,10 +5,10 @@ topic: exchanges-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.169Z
+lastCollected: 2026-03-12T09:33:18.826Z
 estimatedTokens: 944
 namespace: ConnectApi
-keywords: [Exchanges, Preview, submit, cart, exchange, orders., previewCartToExchangeOrder, previewCartToExchangeOrderInput, API, Version, Requires, Chatter, submitCartToExchangeOrder, submitCartToExchangeOrderInput]
+keywords: [Exchanges, Preview, submit, cart, exchange, orders, previewCartToExchangeOrder, previewCartToExchangeOrderInput, API, Version, Requires, Chatter, submitCartToExchangeOrder, submitCartToExchangeOrderInput]
 ---
 
 # Exchanges Class

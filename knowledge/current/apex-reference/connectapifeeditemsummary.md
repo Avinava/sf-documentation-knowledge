@@ -5,9 +5,9 @@ topic: connectapifeeditemsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:27.387Z
+lastCollected: 2026-03-12T09:33:27.453Z
 estimatedTokens: 359
-keywords: [ConnectApi.FeedItemSummary, feed, item, summary.]
+keywords: [ConnectApi.FeedItemSummary, feed, item, summary]
 ---
 
 # ConnectApi.FeedItemSummary

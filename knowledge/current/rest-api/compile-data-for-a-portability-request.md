@@ -5,9 +5,9 @@ topic: compile-data-for-a-portability-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.774Z
+lastCollected: 2026-03-12T09:33:35.622Z
 estimatedTokens: 333
-keywords: [Compile, Data, Portability, Request, Aggregate, data, subject's, personally, identifiable, information, PII, file, POST, resource., includes, found, Account, Contact, Individual, Lead]
+keywords: [Compile, Data, Portability, Aggregate, subject's, personally, identifiable, PII, file, POST, resource, includes, found, Account, Contact]
 ---
 
 # Compile Data for a Portability Request

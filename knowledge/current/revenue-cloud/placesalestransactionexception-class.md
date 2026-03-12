@@ -5,10 +5,10 @@ topic: placesalestransactionexception-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.206Z
+lastCollected: 2026-03-12T09:33:06.310Z
 estimatedTokens: 390
 namespace: RevSalesTrxn
-keywords: [PlaceSalesTransactionException, Contains, hold, exception, details, place, sales, transaction, request., getErrorCode]
+keywords: [PlaceSalesTransactionException, hold, exception, place, sales, transaction, getErrorCode]
 ---
 
 # PlaceSalesTransactionException Class

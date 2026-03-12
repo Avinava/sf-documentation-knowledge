@@ -5,9 +5,9 @@ topic: understanding-capturing-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:32.655Z
+lastCollected: 2026-03-12T09:33:32.688Z
 estimatedTokens: 200
-keywords: [Understanding, Capturing, Groups, During, matching, operation, substring, input, matches, pattern, saved., substrings, called, capturing, groups.]
+keywords: [Understanding, Capturing, Groups, matching, operation, substring, input, matches, pattern, saved, substrings]
 ---
 
 # Understanding Capturing Groups

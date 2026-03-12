@@ -5,9 +5,9 @@ topic: aireplyrecommendationssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:36.731Z
+lastCollected: 2026-03-12T09:33:36.538Z
 estimatedTokens: 763
-keywords: [AIReplyRecommendationsSettings, Represents, metadata, used, manage, settings, Einstein, Reply, Recommendations., extends, Metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
+keywords: [AIReplyRecommendationsSettings, metadata, manage, settings, Einstein, Reply, Recommendations, extends, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # AIReplyRecommendationsSettings

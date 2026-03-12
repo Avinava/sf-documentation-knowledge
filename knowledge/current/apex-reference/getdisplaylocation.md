@@ -5,9 +5,9 @@ topic: getdisplaylocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:19.350Z
+lastCollected: 2026-03-12T09:33:20.009Z
 estimatedTokens: 306
-keywords: [getDisplayLocation, Retrieves, display, location, where, canvas, app, being, called, from., example, Visualforce, page., Usage]
+keywords: [getDisplayLocation, Retrieves, display, location, canvas, app, Visualforce, Usage]
 ---
 
 # getDisplayLocation()

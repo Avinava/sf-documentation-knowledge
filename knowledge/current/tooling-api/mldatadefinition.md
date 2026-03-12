@@ -5,9 +5,9 @@ topic: mldatadefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.080Z
+lastCollected: 2026-03-12T09:33:45.234Z
 estimatedTokens: 1411
-keywords: [MLDataDefinition, Represents, modeling, data, definition, which, specifies, used, create, model, machine, learning, application., Examples, such, include, filters, fields, exclude., API]
+keywords: [MLDataDefinition, modeling, data, definition, model, machine, learning, application, Examples, include, filters, exclude, API, version, 50.0]
 ---
 
 # MLDataDefinition

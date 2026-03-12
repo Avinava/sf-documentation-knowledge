@@ -5,10 +5,10 @@ topic: industriescontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.518Z
+lastCollected: 2026-03-12T09:33:46.552Z
 estimatedTokens: 2934
 namespace: Context
-keywords: [IndustriesContext, Contains, create, query, persist, delete, context., record's, status, context, based, tags, update, attributes, methods., addRecordsToContext, input, Example, buildContext, deleteContext]
+keywords: [IndustriesContext, query, persist, context, record's, status, tags, attributes, addRecordsToContext, input, buildContext, deleteContext, evictContextDefinition, filteringContext, getContext]
 ---
 
 # IndustriesContext Class

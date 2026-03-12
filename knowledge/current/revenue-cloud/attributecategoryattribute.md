@@ -5,9 +5,9 @@ topic: attributecategoryattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.632Z
+lastCollected: 2026-03-12T09:33:10.897Z
 estimatedTokens: 821
-keywords: [AttributeCategoryAttribute, Represents, relationship, between, attribute, category, definition., API, version, 60.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+keywords: [AttributeCategoryAttribute, relationship, attribute, category, definition, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # AttributeCategoryAttribute

@@ -5,9 +5,9 @@ topic: permissiondependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.377Z
+lastCollected: 2026-03-12T09:33:45.495Z
 estimatedTokens: 334
-keywords: [PermissionDependency, Represents, permission, dependencies, specified, permission., example, child, Modify, Data, Tooling, API, version, 46.0, later., Supported, SOAP, Calls, REST, HTTP]
+keywords: [PermissionDependency, permission, dependencies, child, Modify, Data, Tooling, API, version, 46.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # PermissionDependency

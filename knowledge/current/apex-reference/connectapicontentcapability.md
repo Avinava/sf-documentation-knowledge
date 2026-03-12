@@ -5,9 +5,9 @@ topic: connectapicontentcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.809Z
+lastCollected: 2026-03-12T09:33:26.912Z
 estimatedTokens: 882
-keywords: [ConnectApi.ContentCapability, comment, capability, file, attachment.]
+keywords: [ConnectApi.ContentCapability, comment, capability, file, attachment]
 ---
 
 # ConnectApi.ContentCapability

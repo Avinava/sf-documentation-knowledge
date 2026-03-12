@@ -5,9 +5,9 @@ topic: differences-between-apex-classes-and-java-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.595Z
+lastCollected: 2026-03-12T09:33:32.626Z
 estimatedTokens: 692
-keywords: [Differences, Between, Apex, Classes, Java, classes, work, similar, ways, there, significant, differences.]
+keywords: [Differences, Apex, Classes, Java, work, similar, ways, there, significant]
 ---
 
 # Differences Between Apex Classes and Java Classes

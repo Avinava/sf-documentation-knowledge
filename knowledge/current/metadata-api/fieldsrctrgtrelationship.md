@@ -5,9 +5,9 @@ topic: fieldsrctrgtrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.869Z
+lastCollected: 2026-03-12T09:33:39.463Z
 estimatedTokens: 724
-keywords: [FieldSrcTrgtRelationship, Stores, relationships, between, data, model, DMO, its, fields., example, Individual.Id, field, one-to-many, relationship, ContactPointEmail.PartyId, field., Important, Parent, File, Suffix]
+keywords: [FieldSrcTrgtRelationship, Stores, relationships, data, model, DMO, Individual.Id, one-to-many, relationship, ContactPointEmail.PartyId, Parent, File, Suffix, Directory, Location]
 ---
 
 # FieldSrcTrgtRelationship

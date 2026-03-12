@@ -5,9 +5,9 @@ topic: usage-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:11.959Z
+lastCollected: 2026-03-12T09:33:12.879Z
 estimatedTokens: 589
-keywords: [Usage, Management, Business, APIs, get, details, usage-based, product, that’s, associated, asset, order, item, quote, line, item.]
+keywords: [Usage, Management, Business, APIs, usage-based, product, that’s, associated, asset, order, item, quote, line]
 ---
 
 # Usage Management Business APIs

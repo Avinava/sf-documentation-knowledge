@@ -5,9 +5,9 @@ topic: eligibility-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.322Z
+lastCollected: 2026-03-12T09:33:47.329Z
 estimatedTokens: 230
-keywords: [Eligibility, Rule, Input, representation, details, eligibility, rule, associated, decision, table.]
+keywords: [Eligibility, Rule, Input, representation, associated, decision]
 ---
 
 # Eligibility Rule Input

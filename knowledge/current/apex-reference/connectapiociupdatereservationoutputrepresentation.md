@@ -5,9 +5,9 @@ topic: connectapiociupdatereservationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.168Z
+lastCollected: 2026-03-12T09:33:28.212Z
 estimatedTokens: 166
-keywords: [ConnectApi.OCIUpdateReservationOutputRepresentation, Result, Omnichannel, Inventory, update, request, reserved, inventory.]
+keywords: [Result, Omnichannel, Inventory, reserved]
 ---
 
 # ConnectApi.OCIUpdateReservationOutputRepresentation

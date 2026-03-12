@@ -5,9 +5,9 @@ topic: connectapicapturegatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.276Z
+lastCollected: 2026-03-12T09:33:26.442Z
 estimatedTokens: 79
-keywords: [ConnectApi.CaptureGatewayResponse, Gateway, capture, response.]
+keywords: [ConnectApi.CaptureGatewayResponse, Gateway, capture]
 ---
 
 # ConnectApi.CaptureGatewayResponse

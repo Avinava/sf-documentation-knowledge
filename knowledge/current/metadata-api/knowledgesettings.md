@@ -5,9 +5,9 @@ topic: knowledgesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.694Z
+lastCollected: 2026-03-12T09:33:40.199Z
 estimatedTokens: 3191
-keywords: [KnowledgeSettings, Represents, metadata, used, manage, settings, Salesforce, Knowledge., File, Suffix, Directory, Location, Version, Fields, KnowledgeAnswerSettings, KnowledgeCaseSettings, KnowledgeSitesSettings, KnowledgeLanguageSettings, KnowledgeLanguage, KnowledgeSuggestedArticlesSettings]
+keywords: [KnowledgeSettings, metadata, manage, settings, Salesforce, Knowledge, File, Suffix, Directory, Location, Version, KnowledgeAnswerSettings, KnowledgeCaseSettings, KnowledgeSitesSettings, KnowledgeLanguageSettings]
 ---
 
 # KnowledgeSettings

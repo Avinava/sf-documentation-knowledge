@@ -5,10 +5,10 @@ topic: nextbestaction-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.535Z
+lastCollected: 2026-03-12T09:33:19.210Z
 estimatedTokens: 3003
 namespace: ConnectApi
-keywords: [NextBestAction, Delete, recommendation, reaction., Usage, deleteRecommendationReaction, reactionId, API, Version, Requires, Chatter, executeStrategy, strategyName, maxResults, contextRecordId, Guest, Users, debugTrace, strategyInput, getRecommendation]
+keywords: [NextBestAction, recommendation, reaction, Usage, deleteRecommendationReaction, reactionId, API, Version, Requires, Chatter, executeStrategy, strategyName, maxResults, contextRecordId, Guest]
 ---
 
 # NextBestAction Class

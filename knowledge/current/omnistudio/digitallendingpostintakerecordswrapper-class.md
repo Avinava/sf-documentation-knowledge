@@ -5,10 +5,10 @@ topic: digitallendingpostintakerecordswrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.568Z
+lastCollected: 2026-03-12T09:33:46.604Z
 estimatedTokens: 240
 namespace: Usage
-keywords: [DigitalLendingPostIntakeRecordsWrapper, Contains, call, utility, Integration, Procedures, used, Digital, Lending, post, intake, Flexcards., Usage]
+keywords: [DigitalLendingPostIntakeRecordsWrapper, call, utility, Integration, Procedures, Digital, Lending, post, intake, Flexcards, Usage]
 ---
 
 # DigitalLendingPostIntakeRecordsWrapper Class

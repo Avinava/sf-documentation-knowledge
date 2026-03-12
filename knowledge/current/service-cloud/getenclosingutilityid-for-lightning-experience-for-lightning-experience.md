@@ -6,9 +6,9 @@ topic: getenclosingutilityid-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.755Z
+lastCollected: 2026-03-12T09:33:55.850Z
 estimatedTokens: 209
-keywords: [getEnclosingUtilityId, Lightning, Experience, enclosing, utility, false, within, utility., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
+keywords: [getEnclosingUtilityId, Lightning, Experience, enclosing, utility, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---
 
 # getEnclosingUtilityId() for Lightning Experience for

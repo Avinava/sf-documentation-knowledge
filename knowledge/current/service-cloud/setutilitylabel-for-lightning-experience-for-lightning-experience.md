@@ -6,9 +6,9 @@ topic: setutilitylabel-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.982Z
+lastCollected: 2026-03-12T09:33:56.066Z
 estimatedTokens: 280
-keywords: [setUtilityLabel, Lightning, Experience, label, utility., text, displayed, utility, bar., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
+keywords: [setUtilityLabel, Lightning, Experience, label, utility, text, bar, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---
 
 # setUtilityLabel() for Lightning Experience for

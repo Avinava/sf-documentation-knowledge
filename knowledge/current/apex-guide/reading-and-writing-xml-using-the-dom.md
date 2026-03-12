@@ -5,10 +5,10 @@ topic: reading-and-writing-xml-using-the-dom
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.247Z
+lastCollected: 2026-03-12T09:33:34.236Z
 estimatedTokens: 1069
 namespace: Dom
-keywords: [Reading, Writing, XML, DOM, Apex, provides, classes, enable, work, content, Document, Model, Namespaces, Example, Nodes, XmlNode]
+keywords: [Reading, Writing, XML, DOM, Apex, classes, enable, work, content, Document, Model, Namespaces, Nodes, XmlNode]
 ---
 
 # Reading and Writing XML Using the DOM

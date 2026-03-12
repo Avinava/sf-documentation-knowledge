@@ -5,10 +5,10 @@ topic: orglimits-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.282Z
+lastCollected: 2026-03-12T09:33:21.725Z
 estimatedTokens: 656
 namespace: System
-keywords: [OrgLimits, Contains, provide, list, map, OrgLimit, instances, Salesforce, org, such, SOAP, API, requests, Bulk, Streaming, limits., Usage, Note, getAll, getMap]
+keywords: [OrgLimits, provide, map, OrgLimit, instances, Salesforce, org, SOAP, API, requests, Bulk, Streaming, limits, Usage, getAll]
 ---
 
 # OrgLimits Class

@@ -5,9 +5,9 @@ topic: apex-rest-basic-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.904Z
+lastCollected: 2026-03-12T09:33:33.920Z
 estimatedTokens: 578
-keywords: [Apex, REST, Basic, Code, Sample, sample, shows, how, implement, simple, API, three, HTTP, request, delete, retrieve, update, record.]
+keywords: [Apex, REST, Basic, Code, Sample, how, implement, simple, API, three, HTTP, retrieve, record]
 ---
 
 # Apex REST Basic Code Sample

@@ -5,9 +5,9 @@ topic: packaging-connectapi-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.848Z
+lastCollected: 2026-03-12T09:33:32.885Z
 estimatedTokens: 265
-keywords: [Packaging, ConnectApi, Classes, include, classes, package, aware, Chatter, dependencies.]
+keywords: [Packaging, ConnectApi, Classes, include, package, aware, Chatter, dependencies]
 ---
 
 # Packaging ConnectApi Classes

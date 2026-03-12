@@ -5,9 +5,9 @@ topic: create-service-appointment-lists-in-the-dispatcher-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.398Z
+lastCollected: 2026-03-12T09:33:53.718Z
 estimatedTokens: 727
-keywords: [Create, Service, Appointment, Lists, Dispatcher, Console, create, user-specific, temporary, appointment, lists, adding, Temporary, List, custom, permission, Field, managed, package., enabled]
+keywords: [Service, Appointment, Dispatcher, Console, user-specific, temporary, adding, custom, permission, managed, package, enabled, app, creates, connection]
 ---
 
 # Create Service Appointment Lists in the Dispatcher Console

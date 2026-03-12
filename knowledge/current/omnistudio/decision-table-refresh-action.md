@@ -5,9 +5,9 @@ topic: decision-table-refresh-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:51.103Z
+lastCollected: 2026-03-12T09:33:49.769Z
 estimatedTokens: 413
-keywords: [Decision, Table, Refresh, Action, business, rules, active, decision, table., Supported, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Decision, Refresh, Action, business, rules, active, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Decision Table Refresh Action

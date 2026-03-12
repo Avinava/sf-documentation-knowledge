@@ -5,9 +5,9 @@ topic: email-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:13.928Z
+lastCollected: 2026-03-12T09:33:14.686Z
 estimatedTokens: 2383
-keywords: [Email, Engagement, DMO, Data, Cloud, data, model, captured, various, sources, engagement, channel., API, Name, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Email, Engagement, DMO, Data, Cloud, model, captured, various, sources, channel, API, Category, Primary, Subject, Area]
 ---
 
 # Email Engagement DMO

@@ -5,10 +5,10 @@ topic: unavailabletimeslot-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.704Z
+lastCollected: 2026-03-12T09:33:23.115Z
 estimatedTokens: 707
 namespace: LxScheduler
-keywords: [UnavailableTimeslot, pass, unavailable, time, slots, lxscheduler.ServiceResourceSchedule, class., Timezones, differ, across, operating, hours, handled, results, always, returned, UTC., timeMin, timeMax]
+keywords: [UnavailableTimeslot, pass, unavailable, time, slots, lxscheduler.ServiceResourceSchedule, Timezones, differ, across, operating, hours, handled, results, always, UTC]
 ---
 
 # UnavailableTimeslot Class

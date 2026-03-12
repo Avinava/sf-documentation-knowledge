@@ -5,9 +5,9 @@ topic: context-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.862Z
+lastCollected: 2026-03-12T09:33:48.618Z
 estimatedTokens: 357
-keywords: [Context, Node, Output, representation, details, context, nodes., Create, new, nodes, update, existing, retrieve, query, node, delete]
+keywords: [Context, Node, Output, representation, nodes, new, retrieve, query]
 ---
 
 # Context Node

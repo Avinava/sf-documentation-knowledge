@@ -5,9 +5,9 @@ topic: query-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.259Z
+lastCollected: 2026-03-12T09:33:15.936Z
 estimatedTokens: 939
-keywords: [Query, Configuration, Item, configuration, item, its, unique, identifier., operation, detailed, information, single, item., Request, Response, CnfgItemTypeDef, DiscoveryInformation, LastDiscoveredBySource, Note]
+keywords: [Query, Configuration, Item, unique, identifier, operation, detailed, CnfgItemTypeDef, DiscoveryInformation, LastDiscoveredBySource]
 ---
 
 # Query Configuration Item

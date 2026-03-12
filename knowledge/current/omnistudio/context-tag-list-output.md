@@ -5,9 +5,9 @@ topic: context-tag-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.894Z
+lastCollected: 2026-03-12T09:33:48.643Z
 estimatedTokens: 116
-keywords: [Context, Tag, List, Output, representation, list, context, tags.]
+keywords: [Context, Tag, Output, representation, tags]
 ---
 
 # Context Tag List Output

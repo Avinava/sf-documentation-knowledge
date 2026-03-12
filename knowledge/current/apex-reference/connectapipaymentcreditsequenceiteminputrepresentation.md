@@ -5,9 +5,9 @@ topic: connectapipaymentcreditsequenceiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.304Z
+lastCollected: 2026-03-12T09:33:25.519Z
 estimatedTokens: 134
-keywords: [ConnectApi.PaymentCreditSequenceItemInputRepresentation, Order, Payment, Summary, credit, amount, individual, payment, items., item, represents, specific, applied, transaction.]
+keywords: [Order, Payment, Summary, credit, amount, individual, items, item, specific, applied, transaction]
 ---
 
 # ConnectApi.PaymentCreditSequenceItemInputRepresentation

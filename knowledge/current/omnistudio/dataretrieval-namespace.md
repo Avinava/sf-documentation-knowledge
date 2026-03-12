@@ -5,10 +5,10 @@ topic: dataretrieval-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.885Z
+lastCollected: 2026-03-12T09:33:46.906Z
 estimatedTokens: 824
 namespace: DataRetrieval
-keywords: [DataRetrieval, provides, classes, store, record, details, conversation, transcripts, between, customers, agents.]
+keywords: [DataRetrieval, classes, store, record, conversation, transcripts, customers, agents]
 ---
 
 # DataRetrieval Namespace

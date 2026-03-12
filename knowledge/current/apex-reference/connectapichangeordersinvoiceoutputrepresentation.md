@@ -5,9 +5,9 @@ topic: connectapichangeordersinvoiceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.600Z
+lastCollected: 2026-03-12T09:33:26.738Z
 estimatedTokens: 260
-keywords: [ConnectApi.ChangeOrdersInvoiceOutputRepresentation, List, IDs, invoices, created, change, orders.]
+keywords: [IDs, invoices, created, change, orders]
 ---
 
 # ConnectApi.ChangeOrdersInvoiceOutputRepresentation

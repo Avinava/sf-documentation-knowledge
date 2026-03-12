@@ -5,9 +5,9 @@ topic: timeline-tooling-api-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.446Z
+lastCollected: 2026-03-12T09:33:52.827Z
 estimatedTokens: 183
-keywords: [Timeline, Tooling, API, exposes, metadata, used, developer, tooling, access, through, REST, SOAP., API’s, SOQL, capabilities, many, types, allow, retrieve, smaller]
+keywords: [Timeline, Tooling, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
 
 # Timeline Tooling API Object

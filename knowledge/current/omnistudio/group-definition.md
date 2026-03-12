@@ -5,9 +5,9 @@ topic: group-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.297Z
+lastCollected: 2026-03-12T09:33:48.986Z
 estimatedTokens: 171
-keywords: [Group, Definition, Output, representation, party, relationship, group, definition.]
+keywords: [Group, Definition, Output, representation, party, relationship]
 ---
 
 # Group Definition

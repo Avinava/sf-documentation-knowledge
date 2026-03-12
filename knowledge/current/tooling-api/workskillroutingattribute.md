@@ -5,9 +5,9 @@ topic: workskillroutingattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.165Z
+lastCollected: 2026-03-12T09:33:46.234Z
 estimatedTokens: 786
-keywords: [WorkSkillRoutingAttribute, Represents, setup, stores, metadata, related, routing, assignments, between, field, values, skills., Field, used, route, work, item, agent, who, skills]
+keywords: [WorkSkillRoutingAttribute, setup, stores, metadata, routing, assignments, skills, route, work, item, agent, necessary, take, API, version]
 ---
 
 # WorkSkillRoutingAttribute

@@ -5,9 +5,9 @@ topic: connectapieinsteinprompttemplategenerationsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.820Z
+lastCollected: 2026-03-12T09:33:25.073Z
 estimatedTokens: 324
-keywords: [ConnectApi.​EinsteinPrompt​Template​GenerationsInput, Prompt, template, input, generation.]
+keywords: [Prompt, template, input, generation]
 ---
 
 # ConnectApi.​EinsteinPrompt​Template​GenerationsInput

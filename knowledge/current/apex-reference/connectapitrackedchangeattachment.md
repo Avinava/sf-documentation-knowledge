@@ -5,9 +5,9 @@ topic: connectapitrackedchangeattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.807Z
+lastCollected: 2026-03-12T09:33:25.983Z
 estimatedTokens: 174
-keywords: [ConnectApi.TrackedChangeAttachment, Tracked, change, attachment, feed, item., Important]
+keywords: [ConnectApi.TrackedChangeAttachment, Tracked, change, attachment, feed, item]
 ---
 
 # ConnectApi.TrackedChangeAttachment

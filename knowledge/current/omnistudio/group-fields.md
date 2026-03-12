@@ -5,9 +5,9 @@ topic: group-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.372Z
+lastCollected: 2026-03-12T09:33:49.053Z
 estimatedTokens: 162
-keywords: [Group, Fields, Output, representation, fields, party, relationship, groups, merged.]
+keywords: [Group, Output, representation, party, relationship, groups, merged]
 ---
 
 # Group Fields

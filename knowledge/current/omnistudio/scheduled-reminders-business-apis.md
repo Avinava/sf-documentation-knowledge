@@ -5,9 +5,9 @@ topic: scheduled-reminders-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.976Z
+lastCollected: 2026-03-12T09:33:51.547Z
 estimatedTokens: 176
-keywords: [Scheduled, Reminders, Business, APIs, create, update, reminder, definitions, communication, channels, used, send, reminders., Resources]
+keywords: [Scheduled, Reminders, Business, APIs, reminder, definitions, communication, channels, send, Resources]
 ---
 
 # Scheduled Reminders Business APIs

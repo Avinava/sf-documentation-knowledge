@@ -5,9 +5,9 @@ topic: connectapigroupmembershiprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.566Z
+lastCollected: 2026-03-12T09:33:27.621Z
 estimatedTokens: 318
-keywords: [ConnectApi.GroupMembershipRequest, Request, become, group, member.]
+keywords: [ConnectApi.GroupMembershipRequest, become, group, member]
 ---
 
 # ConnectApi.GroupMembershipRequest

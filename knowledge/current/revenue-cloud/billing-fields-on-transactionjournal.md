@@ -5,9 +5,9 @@ topic: billing-fields-on-transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.542Z
+lastCollected: 2026-03-12T09:33:07.499Z
 estimatedTokens: 1249
-keywords: [Billing, Fields, TransactionJournal, Standard, fields, extend, represent, information, general, ledger, accounts, billing, transactions., API, version, 63.0, later., Supported, Calls, Special]
+keywords: [Billing, TransactionJournal, Standard, extend, represent, general, ledger, accounts, transactions, API, version, 63.0, later, Calls, Special]
 ---
 
 # Billing Fields on TransactionJournal

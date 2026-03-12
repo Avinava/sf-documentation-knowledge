@@ -5,9 +5,9 @@ topic: orgsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.586Z
+lastCollected: 2026-03-12T09:33:41.048Z
 estimatedTokens: 790
-keywords: [OrgSettings, Represents, settings, org-wide, functionality, isn’t, associated, any, specific, feature.This, extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory]
+keywords: [OrgSettings, settings, org-wide, functionality, isn’t, associated, any, specific, feature.This, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # OrgSettings

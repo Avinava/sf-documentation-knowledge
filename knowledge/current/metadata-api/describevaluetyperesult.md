@@ -5,9 +5,9 @@ topic: describevaluetyperesult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.776Z
+lastCollected: 2026-03-12T09:33:38.490Z
 estimatedTokens: 922
-keywords: [DescribeValueTypeResult, Contains, information, that’s, useful, developers, working, declarative, metadata., ValueTypeField, PicklistEntry]
+keywords: [DescribeValueTypeResult, that’s, useful, developers, working, declarative, metadata, ValueTypeField, PicklistEntry]
 ---
 
 # DescribeValueTypeResult

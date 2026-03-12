@@ -5,10 +5,10 @@ topic: table-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.025Z
+lastCollected: 2026-03-12T09:33:20.562Z
 estimatedTokens: 2286
 namespace: DataSource
-keywords: [Table, List, table, columns., Usage, columns, description, labelPlural, labelSingular, name, nameColumn, get]
+keywords: [columns, Usage, labelPlural, labelSingular, nameColumn]
 ---
 
 # Table Class

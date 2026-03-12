@@ -5,10 +5,10 @@ topic: managedcontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.391Z
+lastCollected: 2026-03-12T09:33:19.041Z
 estimatedTokens: 19548
 namespace: ConnectApi
-keywords: [ManagedContent, Clone, managed, content., Create, get, delete, update, digital, asset, management, DAM, provider, instance., Delete, replace, variants., Get, channels., content]
+keywords: [ManagedContent, Clone, managed, content, digital, asset, management, DAM, provider, instance, replace, variants, channels, space, providers]
 ---
 
 # ManagedContent Class

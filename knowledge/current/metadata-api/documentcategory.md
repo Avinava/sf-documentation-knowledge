@@ -5,9 +5,9 @@ topic: documentcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:39.011Z
+lastCollected: 2026-03-12T09:33:38.691Z
 estimatedTokens: 441
-keywords: [DocumentCategory, Represents, document, category., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [DocumentCategory, document, category, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample]
 ---
 
 # DocumentCategory

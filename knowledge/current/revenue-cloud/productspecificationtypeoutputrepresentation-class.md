@@ -5,9 +5,9 @@ topic: productspecificationtypeoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.937Z
+lastCollected: 2026-03-12T09:33:06.990Z
 estimatedTokens: 612
-keywords: [ProductSpecificationTypeOutputRepresentation, Represents, product, specification, defines, structure, attributes, configuring, product., name, productSpecificationRecordType]
+keywords: [product, specification, structure, attributes, configuring, productSpecificationRecordType]
 ---
 
 # ProductSpecificationTypeOutputRepresentation Class

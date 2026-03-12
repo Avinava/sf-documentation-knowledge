@@ -5,10 +5,10 @@ topic: getappointmentcandidatesinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:22.619Z
+lastCollected: 2026-03-12T09:33:23.034Z
 estimatedTokens: 4338
 namespace: LxScheduler
-keywords: [GetAppointmentCandidatesInputBuilder, Contains, build, instance, lxscheduler.GetAppointmentCandidatesInput, class., setAccountId, accountId, setAllowConcurrent, allowConcurrent, setApiVersion, apiVersion, Usage, Note, setCorrelationId, correlationId, setEndTime, endTime, setEngagementChannelTypeIds, engagementChannelTypeIds]
+keywords: [GetAppointmentCandidatesInputBuilder, build, instance, setAccountId, accountId, setAllowConcurrent, allowConcurrent, setApiVersion, apiVersion, Usage, setCorrelationId, correlationId, setEndTime, endTime, setEngagementChannelTypeIds]
 ---
 
 # GetAppointmentCandidatesInputBuilder Class

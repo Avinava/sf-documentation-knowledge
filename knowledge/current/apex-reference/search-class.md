@@ -5,10 +5,10 @@ topic: search-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.911Z
+lastCollected: 2026-03-12T09:33:19.596Z
 estimatedTokens: 4624
 namespace: ConnectApi
-keywords: [Search, objects, keywords, natural, language, query., answer, API, Version, Guest, Users, Requires, Chatter, Usage, objectApiName, displayFields, findAndGroup, configurationName, highlights, find]
+keywords: [Search, objects, keywords, natural, language, query, answer, API, Version, Guest, Users, Requires, Chatter, Usage, objectApiName, Performs, dynamic, SOSL, include, SNIPPET]
 ---
 
 # Search Class

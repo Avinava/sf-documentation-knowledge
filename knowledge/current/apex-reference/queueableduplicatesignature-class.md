@@ -5,10 +5,10 @@ topic: queueableduplicatesignature-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.295Z
+lastCollected: 2026-03-12T09:33:21.737Z
 estimatedTokens: 339
 namespace: System
-keywords: [QueueableDuplicateSignature, Used, AsyncOptions, store, queueable, job, DuplicateSignature, property., toString]
+keywords: [QueueableDuplicateSignature, AsyncOptions, store, queueable, job, DuplicateSignature, toString]
 ---
 
 # QueueableDuplicateSignature Class

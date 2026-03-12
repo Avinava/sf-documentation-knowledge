@@ -5,9 +5,9 @@ topic: connectapiwishlistitemcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.307Z
+lastCollected: 2026-03-12T09:33:29.354Z
 estimatedTokens: 311
-keywords: [ConnectApi.WishlistItemCollection, Collection, wishlist, items.]
+keywords: [ConnectApi.WishlistItemCollection, Collection, wishlist, items]
 ---
 
 # ConnectApi.WishlistItemCollection

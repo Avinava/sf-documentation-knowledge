@@ -5,9 +5,9 @@ topic: connectapimanagedcontentpublishoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.838Z
+lastCollected: 2026-03-12T09:33:27.881Z
 estimatedTokens: 85
-keywords: [ConnectApi.ManagedContentPublishOutput, Information, Publish, action]
+keywords: [ConnectApi.ManagedContentPublishOutput, Publish, action]
 ---
 
 # ConnectApi.ManagedContentPublishOutput

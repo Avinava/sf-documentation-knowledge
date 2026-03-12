@@ -5,9 +5,9 @@ topic: fieldrestrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.658Z
+lastCollected: 2026-03-12T09:33:44.794Z
 estimatedTokens: 1348
-keywords: [FieldRestrictionRule, Represents, field, visibility, rule, controls, whether, visible, user, based, field’s, inclusion, PersonalInfo_EPIM, set., Enhanced, Personal, Information, Management, setting, enabled]
+keywords: [FieldRestrictionRule, visibility, rule, whether, visible, user, field’s, inclusion, PersonalInfo_EPIM, Enhanced, Personal, Management, setting, enabled, Spring]
 ---
 
 # FieldRestrictionRule

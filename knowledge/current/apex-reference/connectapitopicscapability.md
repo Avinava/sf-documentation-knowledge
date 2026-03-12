@@ -5,9 +5,9 @@ topic: connectapitopicscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:29.182Z
+lastCollected: 2026-03-12T09:33:29.227Z
 estimatedTokens: 225
-keywords: [ConnectApi.TopicsCapability, feed, element, capability, context, user, add, topics, it., Topics, help, users, organize, discover, conversations.]
+keywords: [ConnectApi.TopicsCapability, feed, element, capability, context, user, add, topics, help, users, organize, discover, conversations]
 ---
 
 # ConnectApi.TopicsCapability

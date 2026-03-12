@@ -5,9 +5,9 @@ topic: connectapistatuscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.064Z
+lastCollected: 2026-03-12T09:33:29.105Z
 estimatedTokens: 356
-keywords: [ConnectApi.StatusCapability, feed, post, comment, capability, status, determines, its, visibility.]
+keywords: [ConnectApi.StatusCapability, feed, post, comment, capability, status, determines, visibility]
 ---
 
 # ConnectApi.StatusCapability

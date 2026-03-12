@@ -5,9 +5,9 @@ topic: prediction-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:50.568Z
+lastCollected: 2026-03-12T09:33:49.240Z
 estimatedTokens: 141
-keywords: [Prediction, Output, representation, list, predictions.]
+keywords: [Prediction, Output, representation, predictions]
 ---
 
 # Prediction Object

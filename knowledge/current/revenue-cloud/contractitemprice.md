@@ -5,9 +5,9 @@ topic: contractitemprice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:09.923Z
+lastCollected: 2026-03-12T09:33:11.135Z
 estimatedTokens: 1264
-keywords: [ContractItemPrice, Represents, that’s, used, capture, price, product, contract., API, version, 61.0, later., Important, Supported, Calls, Special, Access, Rules, Fields, Associated]
+keywords: [ContractItemPrice, that’s, capture, price, product, contract, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
 # ContractItemPrice

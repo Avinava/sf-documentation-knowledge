@@ -5,9 +5,9 @@ topic: security-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.716Z
+lastCollected: 2026-03-12T09:33:33.735Z
 estimatedTokens: 575
-keywords: [Security, Considerations, aware, security, considerations, Apex, access, metadata.]
+keywords: [Security, Considerations, aware, Apex, access, metadata]
 ---
 
 # Security Considerations

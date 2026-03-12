@@ -5,10 +5,10 @@ topic: inboundenvelope-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.410Z
+lastCollected: 2026-03-12T09:33:23.780Z
 estimatedTokens: 371
 namespace: Messaging
-keywords: [InboundEnvelope, stores, envelope, information, associated, inbound, email, following, fields., fromAddress, toAddress]
+keywords: [InboundEnvelope, stores, envelope, associated, inbound, email, fromAddress, toAddress]
 ---
 
 # InboundEnvelope Class

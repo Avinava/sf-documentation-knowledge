@@ -5,9 +5,9 @@ topic: connectapiunapplycreditresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.137Z
+lastCollected: 2026-03-12T09:33:07.166Z
 estimatedTokens: 137
-keywords: [ConnectApi.UnapplyCreditResult, Output, representation, details, credit, memo, invoice, application, record, status, request.]
+keywords: [ConnectApi.UnapplyCreditResult, Output, representation, credit, memo, invoice, application, record, status]
 ---
 
 # ConnectApi.UnapplyCreditResult

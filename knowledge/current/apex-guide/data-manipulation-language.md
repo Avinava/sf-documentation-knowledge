@@ -5,9 +5,9 @@ topic: data-manipulation-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:34.652Z
+lastCollected: 2026-03-12T09:33:34.572Z
 estimatedTokens: 561
-keywords: [Data, Manipulation, Language, Apex, enables, insert, update, delete, restore, data, database., DML, operations, allow, modify, records, time, batches.]
+keywords: [Data, Manipulation, Language, Apex, insert, restore, database, DML, operations, allow, modify, records, time, batches]
 ---
 
 # Data Manipulation Language

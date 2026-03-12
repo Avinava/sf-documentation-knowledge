@@ -5,9 +5,9 @@ topic: mobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:41.251Z
+lastCollected: 2026-03-12T09:33:40.727Z
 estimatedTokens: 1802
-keywords: [MobileSettings, Represents, organization’s, mobile, settings., extends, Metadata, metadata, inherits, its, fullName, field., Note, Declarative, File, Suffix, Directory, Location, Version, Fields]
+keywords: [MobileSettings, organization’s, mobile, settings, extends, Metadata, inherits, fullName, Declarative, File, Suffix, Directory, Location, Version, ChatterMobileSettings]
 ---
 
 # MobileSettings

@@ -5,9 +5,9 @@ topic: contact-point-phone-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.185Z
+lastCollected: 2026-03-12T09:33:13.124Z
 estimatedTokens: 420
-keywords: [Contact, Point, Phone, Schema, contact, point, phone, schema, capture, profile, data, map, individual, streams.]
+keywords: [Contact, Point, Phone, Schema, capture, profile, data, map, individual, streams]
 ---
 
 # Contact Point Phone Schema

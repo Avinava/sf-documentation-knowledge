@@ -5,10 +5,10 @@ topic: label-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.261Z
+lastCollected: 2026-03-12T09:33:21.706Z
 estimatedTokens: 1744
 namespace: True
-keywords: [Label, Provides, retrieve, custom, label, check, translation, exists, specific, language, namespace., names, dynamically, resolved, run, time, overriding, user’s, current, requested]
+keywords: [Label, retrieve, custom, check, translation, exists, specific, language, dynamically, resolved, run, time, overriding, user’s, current]
 ---
 
 # Label Class

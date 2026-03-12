@@ -5,10 +5,10 @@ topic: sidebarcomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:20.584Z
+lastCollected: 2026-03-12T09:33:21.060Z
 estimatedTokens: 2217
 namespace: Metadata
-keywords: [SidebarComponent, Represents, specific, custom, console, component, display, container, hosts, multiple, components, sidebars, Salesforce, console., Usage, componentType, createAction, enableLinking, height, knowledgeOneEnable]
+keywords: [SidebarComponent, specific, custom, console, component, display, container, hosts, multiple, components, sidebars, Salesforce, Usage, componentType, createAction]
 ---
 
 # SidebarComponent Class

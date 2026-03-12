@@ -5,9 +5,9 @@ topic: payment-line-apply-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.999Z
+lastCollected: 2026-03-12T09:33:08.776Z
 estimatedTokens: 509
-keywords: [Payment, Line, Apply, POST, Allocate, balance, payment, reduce, invoice., response, includes, line, invoice, represents, allocated, against]
+keywords: [Payment, Line, Apply, POST, Allocate, balance, reduce, invoice, includes, allocated, against]
 ---
 
 # Payment Line Apply (POST)

@@ -5,9 +5,9 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:43.282Z
+lastCollected: 2026-03-12T09:33:42.619Z
 estimatedTokens: 952
-keywords: [ApexTrigger, Represents, Apex, trigger., trigger, code, executes, before, after, specific, data, manipulation, language, DML, events, occur, such, records, inserted, database]
+keywords: [ApexTrigger, Apex, trigger, code, executes, specific, data, manipulation, language, DML, events, occur, records, inserted, database]
 ---
 
 # ApexTrigger

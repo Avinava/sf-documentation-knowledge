@@ -6,9 +6,9 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:35.211Z
+lastCollected: 2026-03-12T09:33:35.082Z
 estimatedTokens: 432
-keywords: [Quick, Start, set, run, REST, API, send, few, basic, requests, Salesforce., explains, setting, environment, updating, record, API., many, ways, examples]
+keywords: [Quick, Start, run, REST, API, send, few, basic, requests, Salesforce, explains, setting, environment, updating, record]
 ---
 
 # Quick

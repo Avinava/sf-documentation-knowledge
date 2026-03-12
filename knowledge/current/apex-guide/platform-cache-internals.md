@@ -5,9 +5,9 @@ topic: platform-cache-internals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:33.755Z
+lastCollected: 2026-03-12T09:33:33.772Z
 estimatedTokens: 560
-keywords: [Platform, Cache, Internals, uses, local, cache, least, recently, used, LRU, algorithm, improve, performance., Local, Note, Atomic, Transactions, Eviction, Algorithm]
+keywords: [Platform, Cache, Internals, uses, local, least, recently, LRU, algorithm, improve, performance, Atomic, Transactions, Eviction]
 ---
 
 # Platform Cache Internals

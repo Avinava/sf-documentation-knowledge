@@ -5,9 +5,9 @@ topic: object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.932Z
+lastCollected: 2026-03-12T09:33:09.518Z
 estimatedTokens: 190
-keywords: [Reference, Output, representation, sObject, reference, along, any, potential, error.]
+keywords: [Output, representation, sObject, along, any, potential, error]
 ---
 
 # Object Reference

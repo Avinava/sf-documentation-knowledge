@@ -5,9 +5,9 @@ topic: standardobjectname-ownersharingrule-ownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.325Z
+lastCollected: 2026-03-12T09:33:15.998Z
 estimatedTokens: 830
-keywords: [StandardObjectName, OwnerSharingRule, StandardObjectNameOwnerSharingRule, model, owner, sharing, rule, objects, associated, standard, objects., represent, users, owner., Note, Supported, Calls, Special, Access, Rules]
+keywords: [StandardObjectName, OwnerSharingRule, StandardObjectNameOwnerSharingRule, model, owner, sharing, rule, objects, associated, standard, represent, users, Calls, Special, Access]
 ---
 
 # StandardObjectName OwnerSharingRule OwnerSharingRule

@@ -5,9 +5,9 @@ topic: connectapicdpcalculatedinsightpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.434Z
+lastCollected: 2026-03-12T09:33:26.588Z
 estimatedTokens: 66
-keywords: [ConnectApi.CdpCalculatedInsightPage, Collection, calculated, insights.]
+keywords: [ConnectApi.CdpCalculatedInsightPage, Collection, calculated, insights]
 ---
 
 # ConnectApi.CdpCalculatedInsightPage

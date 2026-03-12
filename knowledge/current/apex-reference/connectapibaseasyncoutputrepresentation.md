@@ -5,9 +5,9 @@ topic: connectapibaseasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.168Z
+lastCollected: 2026-03-12T09:33:26.339Z
 estimatedTokens: 331
-keywords: [ConnectApi.BaseAsyncOutputRepresentation, Base, Order, Management, async, output, class.]
+keywords: [Base, Order, Management, async, output]
 ---
 
 # ConnectApi.BaseAsyncOutputRepresentation

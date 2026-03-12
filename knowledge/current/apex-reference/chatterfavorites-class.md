@@ -5,10 +5,10 @@ topic: chatterfavorites-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.983Z
+lastCollected: 2026-03-12T09:33:16.663Z
 estimatedTokens: 13346
 namespace: ConnectApi
-keywords: [ChatterFavorites, Get, first, page, feed, elements, favorite., Usage, addFavorite, communityId, subjectId, searchText, API, Version, Requires, Chatter, addRecordFavorite, targetId, deleteFavorite, favoriteId]
+keywords: [ChatterFavorites, feed, elements, favorite, Usage, addFavorite, communityId, subjectId, searchText, API, Version, Requires, Chatter, addRecordFavorite, targetId]
 ---
 
 # ChatterFavorites Class

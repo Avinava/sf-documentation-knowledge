@@ -5,9 +5,9 @@ topic: resourceabsence-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.333Z
+lastCollected: 2026-03-12T09:33:53.656Z
 estimatedTokens: 1562
-keywords: [ResourceAbsence, Custom, Fields, fields, associated, time, period, which, service, resource, unavailable, work, Field, Service., Supported, Calls, Special, Access, Rules, Internal]
+keywords: [ResourceAbsence, Custom, associated, time, period, service, resource, unavailable, work, Calls, Special, Access, Rules, Internal]
 ---
 
 # ResourceAbsence Custom Fields

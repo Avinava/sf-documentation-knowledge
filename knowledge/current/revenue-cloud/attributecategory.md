@@ -5,9 +5,9 @@ topic: attributecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.626Z
+lastCollected: 2026-03-12T09:33:10.890Z
 estimatedTokens: 796
-keywords: [AttributeCategory, Represents, logical, grouping, attributes, reused, while, defining, products., Attribute, Categories, used, searching, managing, product, attributes., example, "Mobile, Handset, Properties"]
+keywords: [AttributeCategory, logical, grouping, attributes, reused, defining, products, Attribute, Categories, searching, managing, product, Mobile, Handset, category]
 ---
 
 # AttributeCategory

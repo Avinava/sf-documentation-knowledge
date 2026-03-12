@@ -5,9 +5,9 @@ topic: deep-linking-schema-for-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.476Z
+lastCollected: 2026-03-12T09:33:53.788Z
 estimatedTokens: 2230
-keywords: [Deep, Linking, Schema, Field, Service, Mobile, App, predefined, URI, schema, mobile, app, Android, iOS, devices., Format, Supported, Schemes, Passing]
+keywords: [Deep, Linking, Schema, Service, Mobile, App, predefined, URI, Android, iOS, devices, Schemes, Passing]
 ---
 
 # Deep Linking Schema for the Field Service Mobile App

@@ -5,9 +5,9 @@ topic: platform-cache-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.764Z
+lastCollected: 2026-03-12T09:33:33.781Z
 estimatedTokens: 370
-keywords: [Platform, Cache, Limits, limits, apply, Cache.]
+keywords: [Platform, Cache, Limits, apply]
 ---
 
 # Platform Cache Limits

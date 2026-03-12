@@ -5,9 +5,9 @@ topic: lightningconversationnewmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:57.201Z
+lastCollected: 2026-03-12T09:33:55.337Z
 estimatedTokens: 216
-keywords: [lightning, conversationNewMessage, Event, triggered, customer, sends, new, message., event, Enhanced, Messaging, channels., work, channels, session, must, active, Conversation, Component, visible]
+keywords: [lightning, conversationNewMessage, Event, triggered, customer, new, message, Enhanced, Messaging, channels, work, session, active, Conversation, Component, event, text, messages, files, rich]
 ---
 
 # lightning:conversationNewMessage

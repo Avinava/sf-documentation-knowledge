@@ -6,9 +6,9 @@ topic: querymore-with-the-apex-connector-framework-with-the-apex-connector-frame
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.010Z
+lastCollected: 2026-03-12T09:33:33.039Z
 estimatedTokens: 352
-keywords: [queryMore, Apex, Connector, Framework, Custom, adapters, Salesforce, Connect, don’t, automatically, support, API, queries., However, implementation, must, able, break, large, result]
+keywords: [queryMore, Apex, Connector, Framework, Custom, adapters, Salesforce, Connect, don’t, automatically, support, API, queries, However, implementation]
 ---
 
 # queryMore with the Apex Connector Framework with the Apex

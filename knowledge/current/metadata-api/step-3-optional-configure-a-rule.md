@@ -5,9 +5,9 @@ topic: step-3-optional-configure-a-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.085Z
+lastCollected: 2026-03-12T09:33:40.567Z
 estimatedTokens: 224
-keywords: [Step, Optional, Configure, Rule, ​​To, help, MCP, server, function, optimally, create, rule, guides, assistant, such, Agentforce, Vibes, Cursor, Agent, call]
+keywords: [Step, Configure, Rule, ​​To, help, MCP, server, function, optimally, guides, assistant, Agentforce, Vibes, Cursor, Agent]
 ---
 
 # Step 3 [Optional]: Configure a Rule

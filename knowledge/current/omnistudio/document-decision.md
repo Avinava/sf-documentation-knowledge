@@ -5,9 +5,9 @@ topic: document-decision
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.164Z
+lastCollected: 2026-03-12T09:33:48.053Z
 estimatedTokens: 398
-keywords: [Document, Decision, Invoke, Table, accept, key-value, pairs, match, keys, either, Types, Categories, associated, them.]
+keywords: [Document, Decision, Invoke, accept, key-value, pairs, match, keys, either, Categories, associated]
 ---
 
 # Document Decision

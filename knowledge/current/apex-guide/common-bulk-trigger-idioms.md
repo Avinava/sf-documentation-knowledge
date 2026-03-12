@@ -5,9 +5,9 @@ topic: common-bulk-trigger-idioms
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:34.153Z
+lastCollected: 2026-03-12T09:33:34.150Z
 estimatedTokens: 714
-keywords: [Common, Bulk, Trigger, Idioms, Although, bulk, triggers, allow, developers, process, records, without, exceeding, execution, governor, limits, they, difficult, understand, code]
+keywords: [Common, Bulk, Trigger, Idioms, Although, triggers, allow, developers, process, records, exceeding, execution, governor, limits, they]
 ---
 
 # Common Bulk Trigger Idioms

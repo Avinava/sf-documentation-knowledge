@@ -5,9 +5,9 @@ topic: connectapisharedorderpaymentsummarysequenceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.565Z
+lastCollected: 2026-03-12T09:33:25.747Z
 estimatedTokens: 98
-keywords: [ConnectApi.sharedOrderPaymentSummarySequenceInputRepresentation, Shared, order, payment, summary, sequence.]
+keywords: [Shared, order, payment, summary, sequence]
 ---
 
 # ConnectApi.sharedOrderPaymentSummarySequenceInputRepresentation

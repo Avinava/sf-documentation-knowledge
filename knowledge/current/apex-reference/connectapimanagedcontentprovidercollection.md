@@ -5,9 +5,9 @@ topic: connectapimanagedcontentprovidercollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:27.831Z
+lastCollected: 2026-03-12T09:33:27.876Z
 estimatedTokens: 286
-keywords: [ConnectApi.ManagedContentProviderCollection, Collection, managed, content, providers.]
+keywords: [Collection, managed, content, providers]
 ---
 
 # ConnectApi.ManagedContentProviderCollection

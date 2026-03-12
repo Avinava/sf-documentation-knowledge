@@ -6,9 +6,9 @@ topic: updatepanel-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.088Z
+lastCollected: 2026-03-12T09:33:56.170Z
 estimatedTokens: 753
-keywords: [updatePanel, Lightning, Experience, Specifies, label, icon, utility, panel, provides, height, width, panel., Web, Components, LWC, only., Arguments, heightTransition, widthTransition, Sample]
+keywords: [updatePanel, Lightning, Experience, label, icon, utility, panel, height, width, Web, Components, LWC, Arguments, heightTransition, widthTransition]
 ---
 
 # updatePanel() for Lightning Experience for Lightning

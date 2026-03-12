@@ -5,9 +5,9 @@ topic: flowdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.703Z
+lastCollected: 2026-03-12T09:33:44.846Z
 estimatedTokens: 1076
-keywords: [FlowDefinition, parent, set, flow, versions., Important, Note, Supported, SOAP, API, Calls, REST, HTTP, Fields]
+keywords: [FlowDefinition, parent, flow, versions, SOAP, API, Calls, REST, HTTP]
 ---
 
 # FlowDefinition

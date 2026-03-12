@@ -5,9 +5,9 @@ topic: connectapiwishlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.298Z
+lastCollected: 2026-03-12T09:33:29.346Z
 estimatedTokens: 127
-keywords: [ConnectApi.Wishlist, Wishlist, including, summary, items.]
+keywords: [ConnectApi.Wishlist, Wishlist, including, summary, items]
 ---
 
 # ConnectApi.Wishlist

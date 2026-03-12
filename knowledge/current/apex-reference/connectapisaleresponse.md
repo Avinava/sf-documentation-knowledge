@@ -5,9 +5,9 @@ topic: connectapisaleresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.938Z
+lastCollected: 2026-03-12T09:33:28.982Z
 estimatedTokens: 202
-keywords: [ConnectApi.SaleResponse, Payment, sale, response.]
+keywords: [ConnectApi.SaleResponse, Payment, sale]
 ---
 
 # ConnectApi.SaleResponse

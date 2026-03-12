@@ -5,9 +5,9 @@ topic: upsert-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:36.147Z
+lastCollected: 2026-03-12T09:33:35.988Z
 estimatedTokens: 740
-keywords: [Upsert, Records, sObject, Rows, External, Upserts, record, based, specified, external, field., Based, whether, exists, request, either, creates, updates, existing, one.]
+keywords: [Upsert, Records, sObject, Rows, External, Upserts, record, whether, exists, either, creates, updates]
 ---
 
 # Upsert Records Using sObject Rows by External ID

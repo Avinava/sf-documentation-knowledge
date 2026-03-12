@@ -5,10 +5,10 @@ topic: undeleteresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.557Z
+lastCollected: 2026-03-12T09:33:30.596Z
 estimatedTokens: 729
 namespace: Database
-keywords: [UndeleteResult, result, undelete, DML, operation, returned, Database.undelete, method., Usage, getErrors, getId, isSuccess]
+keywords: [UndeleteResult, result, undelete, DML, operation, Database.undelete, Usage, getErrors, getId, isSuccess]
 ---
 
 # UndeleteResult Class

@@ -5,9 +5,9 @@ topic: pricing-recipe-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:08.081Z
+lastCollected: 2026-03-12T09:33:09.619Z
 estimatedTokens: 115
-keywords: [Pricing, Recipe, Post, Output, representation, pricing, recipe, after, API, request.]
+keywords: [Pricing, Recipe, Post, Output, representation, API]
 ---
 
 # Pricing Recipe Post

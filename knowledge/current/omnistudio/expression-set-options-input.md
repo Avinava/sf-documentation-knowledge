@@ -5,9 +5,9 @@ topic: expression-set-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.562Z
+lastCollected: 2026-03-12T09:33:47.527Z
 estimatedTokens: 439
-keywords: [Expression, Set, Options, Input, representation, options, executing, expression, set.]
+keywords: [Expression, Options, Input, representation, executing]
 ---
 
 # Expression Set Options Input

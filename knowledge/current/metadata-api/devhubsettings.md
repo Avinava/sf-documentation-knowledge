@@ -5,9 +5,9 @@ topic: devhubsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:38.796Z
+lastCollected: 2026-03-12T09:33:38.508Z
 estimatedTokens: 1324
-keywords: [DevHubSettings, Represents, Dev, Hub, settings., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [DevHubSettings, Dev, Hub, settings, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---
 
 # DevHubSettings

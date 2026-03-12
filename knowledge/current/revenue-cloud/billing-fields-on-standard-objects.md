@@ -5,9 +5,9 @@ topic: billing-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.412Z
+lastCollected: 2026-03-12T09:33:07.415Z
 estimatedTokens: 1408
-keywords: [Billing, Fields, Standard, Objects, adds, standard, fields, Salesforce, objects, features, represent, information, specific, Billing., only, orgs, where, enabled.]
+keywords: [Billing, Standard, Objects, adds, Salesforce, features, represent, specific, orgs, enabled]
 ---
 
 # Billing Fields on Standard Objects

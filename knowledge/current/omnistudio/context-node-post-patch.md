@@ -5,9 +5,9 @@ topic: context-node-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.001Z
+lastCollected: 2026-03-12T09:33:47.908Z
 estimatedTokens: 361
-keywords: [Context, Node, POST, PATCH, Create, update, context, node.]
+keywords: [Context, Node, POST, PATCH]
 ---
 
 # Context Node (POST, PATCH)

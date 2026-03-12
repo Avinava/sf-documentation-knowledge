@@ -5,9 +5,9 @@ topic: connectapimanagedcontentdatenodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.760Z
+lastCollected: 2026-03-12T09:33:27.808Z
 estimatedTokens: 99
-keywords: [ConnectApi.ManagedContentDateNodeValue, Managed, content, node, date, type.]
+keywords: [ConnectApi.ManagedContentDateNodeValue, Managed, content, node, date]
 ---
 
 # ConnectApi.ManagedContentDateNodeValue

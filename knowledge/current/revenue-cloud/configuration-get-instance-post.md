@@ -5,9 +5,9 @@ topic: configuration-get-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.870Z
+lastCollected: 2026-03-12T09:33:08.667Z
 estimatedTokens: 236
-keywords: [Configuration, Get, Instance, POST, Fetch, JSON, representation, product, configuration., response, display, details, configuration, instance, Salesforce, user, save, external, system.]
+keywords: [Configuration, Instance, POST, Fetch, JSON, representation, product, display, Salesforce, user, save, external, system]
 ---
 
 # Configuration Get Instance (POST)

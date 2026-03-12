@@ -5,9 +5,9 @@ topic: connectapiordersummarylookupinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.291Z
+lastCollected: 2026-03-12T09:33:25.507Z
 estimatedTokens: 104
-keywords: [ConnectApi.OrderSummaryLookupInput, Order, summary, lookup, input.]
+keywords: [ConnectApi.OrderSummaryLookupInput, Order, summary, lookup, input]
 ---
 
 # ConnectApi.OrderSummaryLookupInput

@@ -5,9 +5,9 @@ topic: accountingperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.340Z
+lastCollected: 2026-03-12T09:33:10.683Z
 estimatedTokens: 1214
-keywords: [AccountingPeriod, Represents, information, time, period, which, businesses, prepare, reports, analyze, performance., billing, transaction, associated, accounting, period., API, version, 62.0, later.]
+keywords: [AccountingPeriod, time, period, businesses, prepare, reports, analyze, performance, billing, transaction, associated, accounting, API, version, 62.0]
 ---
 
 # AccountingPeriod

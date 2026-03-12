@@ -5,9 +5,9 @@ topic: externalstring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:45.563Z
+lastCollected: 2026-03-12T09:33:44.681Z
 estimatedTokens: 633
-keywords: [ExternalString, Represents, custom, label, translatable, component., Includes, access, associated, Metadata, API., API, version, 38.0, later., Supported, SOAP, Calls, REST, HTTP]
+keywords: [ExternalString, custom, label, translatable, component, Includes, access, associated, Metadata, API, version, 38.0, later, SOAP, Calls]
 ---
 
 # ExternalString

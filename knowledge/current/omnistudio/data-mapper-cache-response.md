@@ -5,9 +5,9 @@ topic: data-mapper-cache-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:49.940Z
+lastCollected: 2026-03-12T09:33:48.686Z
 estimatedTokens: 110
-keywords: [Data, Mapper, Cache, Response, Output, representation, response, error, message, status.]
+keywords: [Data, Mapper, Cache, Output, representation, error, message, status]
 ---
 
 # Data Mapper Cache Response

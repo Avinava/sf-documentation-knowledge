@@ -5,9 +5,9 @@ topic: connectapiactivationattributeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.979Z
+lastCollected: 2026-03-12T09:33:26.159Z
 estimatedTokens: 69
-keywords: [ConnectApi.ActivationAttributeConfig, Represents, configuration, activation, attributes.]
+keywords: [ConnectApi.ActivationAttributeConfig, configuration, activation, attributes]
 ---
 
 # ConnectApi.ActivationAttributeConfig

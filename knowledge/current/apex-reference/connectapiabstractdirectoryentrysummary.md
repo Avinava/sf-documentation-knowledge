@@ -5,9 +5,9 @@ topic: connectapiabstractdirectoryentrysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:25.855Z
+lastCollected: 2026-03-12T09:33:26.032Z
 estimatedTokens: 198
-keywords: [ConnectApi.AbstractDirectoryEntrySummary, directory, entry, summary, information.]
+keywords: [directory, entry, summary]
 ---
 
 # ConnectApi.AbstractDirectoryEntrySummary

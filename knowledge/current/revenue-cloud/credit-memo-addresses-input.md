@@ -5,9 +5,9 @@ topic: credit-memo-addresses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.999Z
+lastCollected: 2026-03-12T09:33:07.904Z
 estimatedTokens: 115
-keywords: [Credit, Memo, Addresses, Input, representation, details, billing, shipping, addresses.]
+keywords: [Credit, Memo, Addresses, Input, representation, billing, shipping]
 ---
 
 # Credit Memo Addresses Input

@@ -5,10 +5,10 @@ topic: industriesdigitallending-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.897Z
+lastCollected: 2026-03-12T09:33:46.918Z
 estimatedTokens: 390
 namespace: The
-keywords: [industriesdigitallending, provides, classes, used, Digital, Lending, Omniscripts, Flexcards, Integration, Procedures.]
+keywords: [industriesdigitallending, classes, Digital, Lending, Omniscripts, Flexcards, Integration, Procedures]
 ---
 
 # industriesdigitallending Namespace

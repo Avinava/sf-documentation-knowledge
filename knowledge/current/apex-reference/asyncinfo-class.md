@@ -5,10 +5,10 @@ topic: asyncinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:21.077Z
+lastCollected: 2026-03-12T09:33:21.531Z
 estimatedTokens: 735
 namespace: System
-keywords: [AsyncInfo, Provides, get, current, stack, depth, maximum, minimum, queueable, delay, Queueable, transactions, determine, set., getCurrentQueueableStackDepth, getMaximumQueueableStackDepth, getMinimumQueueableDelayInMinutes, hasMaxStackDepth]
+keywords: [AsyncInfo, current, stack, depth, maximum, minimum, queueable, delay, transactions, determine, getCurrentQueueableStackDepth, getMaximumQueueableStackDepth, getMinimumQueueableDelayInMinutes, hasMaxStackDepth]
 ---
 
 # AsyncInfo Class

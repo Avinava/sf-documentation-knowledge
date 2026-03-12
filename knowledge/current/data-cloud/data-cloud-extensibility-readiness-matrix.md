@@ -5,9 +5,9 @@ topic: data-cloud-extensibility-readiness-matrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:12.370Z
+lastCollected: 2026-03-12T09:33:13.324Z
 estimatedTokens: 651
-keywords: [Data, Cloud, Extensibility, Readiness, Matrix, table, lists, configuration, elements, deploy., deploy, features, first, add, data, kit, then, package.]
+keywords: [Data, Cloud, Extensibility, Readiness, Matrix, configuration, elements, deploy, features, add, kit, package]
 ---
 
 # Data Cloud Extensibility Readiness Matrix

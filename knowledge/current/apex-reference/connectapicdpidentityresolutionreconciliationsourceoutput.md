@@ -5,9 +5,9 @@ topic: connectapicdpidentityresolutionreconciliationsourceoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:26.491Z
+lastCollected: 2026-03-12T09:33:26.641Z
 estimatedTokens: 227
-keywords: [ConnectApi.CdpIdentityResolutionReconciliationSourceOutput, Source, identity, resolution, default, reconciliation, rule, field-specific, SourceSequence, match, method.]
+keywords: [Source, identity, resolution, reconciliation, rule, field-specific, SourceSequence, match]
 ---
 
 # ConnectApi.CdpIdentityResolutionReconciliationSourceOutput

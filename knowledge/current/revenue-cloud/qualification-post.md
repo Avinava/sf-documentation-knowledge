@@ -5,9 +5,9 @@ topic: qualification-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.692Z
+lastCollected: 2026-03-12T09:33:08.505Z
 estimatedTokens: 488
-keywords: [Qualification, POST, Run, qualification, procedure, list, product, IDs., API, composite, Product, Discovery.]
+keywords: [Qualification, POST, Run, procedure, product, IDs, API, composite, Discovery]
 ---
 
 # Qualification (POST)

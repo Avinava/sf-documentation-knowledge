@@ -5,9 +5,9 @@ topic: pardotsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:41.641Z
+lastCollected: 2026-03-12T09:33:41.101Z
 estimatedTokens: 1215
-keywords: [PardotSettings, Represents, Marketing, Cloud, Account, Engagement, settings, Salesforce, org., formerly, known, Pardot, B2B, marketing, automation, solution, helps, create, meaningful, connections]
+keywords: [PardotSettings, Marketing, Cloud, Account, Engagement, settings, Salesforce, org, formerly, known, Pardot, B2B, automation, solution, helps]
 ---
 
 # PardotSettings

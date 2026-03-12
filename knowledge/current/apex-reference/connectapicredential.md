@@ -5,9 +5,9 @@ topic: connectapicredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.885Z
+lastCollected: 2026-03-12T09:33:26.982Z
 estimatedTokens: 470
-keywords: [ConnectApi.Credential, Credential.]
+keywords: [ConnectApi.Credential, Credential]
 ---
 
 # ConnectApi.Credential

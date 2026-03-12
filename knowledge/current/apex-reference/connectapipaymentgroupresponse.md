@@ -5,9 +5,9 @@ topic: connectapipaymentgroupresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.343Z
+lastCollected: 2026-03-12T09:33:28.393Z
 estimatedTokens: 104
-keywords: [ConnectApi.PaymentGroupResponse, Payment, group.]
+keywords: [ConnectApi.PaymentGroupResponse, Payment, group]
 ---
 
 # ConnectApi.PaymentGroupResponse

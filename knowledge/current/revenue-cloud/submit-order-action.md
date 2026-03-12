@@ -5,9 +5,9 @@ topic: submit-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.050Z
+lastCollected: 2026-03-12T09:33:06.174Z
 estimatedTokens: 1024
-keywords: [Submit, Order, Action, order, Dynamic, Revenue, Orchestrator, DRO, fulfillment., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example, Explainability, Logs]
+keywords: [Submit, Order, Action, Dynamic, Revenue, Orchestrator, DRO, fulfillment, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
 # Submit Order Action

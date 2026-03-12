@@ -5,9 +5,9 @@ topic: field-service-core-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:55.557Z
+lastCollected: 2026-03-12T09:33:53.869Z
 estimatedTokens: 1454
-keywords: [Field, Service, Core, Data, Model, Service’s, core, objects, complete, essential, field, service, tasks, such, managing, work, orders, defining, territories, tracking]
+keywords: [Service, Core, Data, Model, Service’s, objects, essential, tasks, managing, work, orders, defining, territories, tracking, workforce]
 ---
 
 # Field Service Core Data Model

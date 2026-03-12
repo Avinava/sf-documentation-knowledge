@@ -5,9 +5,9 @@ topic: billingtreatmentitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:09.827Z
+lastCollected: 2026-03-12T09:33:11.059Z
 estimatedTokens: 1930
-keywords: [BillingTreatmentItem, Represents, information, allocation, total, amount, order, item, billing, schedules, throughout, item's, lifecycle., API, version, 62.0, later., Important, Supported, Calls]
+keywords: [BillingTreatmentItem, allocation, total, amount, order, item, billing, schedules, throughout, item's, lifecycle, API, version, 62.0, later]
 ---
 
 # BillingTreatmentItem

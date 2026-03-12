@@ -5,9 +5,9 @@ topic: connectapimutecapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:25.170Z
+lastCollected: 2026-03-12T09:33:25.400Z
 estimatedTokens: 195
-keywords: [ConnectApi.MuteCapabilityInput, Mute, unmute, feed, element.]
+keywords: [ConnectApi.MuteCapabilityInput, Mute, unmute, feed, element]
 ---
 
 # ConnectApi.MuteCapabilityInput

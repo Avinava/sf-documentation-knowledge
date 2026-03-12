@@ -5,9 +5,9 @@ topic: cpq-base-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:07.616Z
+lastCollected: 2026-03-12T09:33:09.323Z
 estimatedTokens: 229
-keywords: [CPQ, Base, Details, Output, representation, catalog, category, product, details, based, request.]
+keywords: [CPQ, Base, Output, representation, catalog, category, product]
 ---
 
 # CPQ Base Details

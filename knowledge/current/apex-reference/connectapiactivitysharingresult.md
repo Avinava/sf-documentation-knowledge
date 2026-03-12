@@ -5,9 +5,9 @@ topic: connectapiactivitysharingresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.023Z
+lastCollected: 2026-03-12T09:33:26.200Z
 estimatedTokens: 62
-keywords: [ConnectApi.ActivitySharingResult, results, sharing, captured, email, event.]
+keywords: [ConnectApi.ActivitySharingResult, results, sharing, captured, email, event]
 ---
 
 # ConnectApi.ActivitySharingResult

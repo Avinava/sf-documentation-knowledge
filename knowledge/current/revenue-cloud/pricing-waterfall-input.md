@@ -5,9 +5,9 @@ topic: pricing-waterfall-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.298Z
+lastCollected: 2026-03-12T09:33:08.170Z
 estimatedTokens: 180
-keywords: [Pricing, Waterfall, Input, representation, pricing, waterfall, details.]
+keywords: [Pricing, Waterfall, Input, representation]
 ---
 
 # Pricing Waterfall Input

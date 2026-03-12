@@ -5,9 +5,9 @@ topic: connectapiaudiencecriterionvalueinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.340Z
+lastCollected: 2026-03-12T09:33:24.621Z
 estimatedTokens: 484
-keywords: [ConnectApi.AudienceCriterionValueInput, Audience, criterion, value.]
+keywords: [ConnectApi.AudienceCriterionValueInput, Audience, criterion]
 ---
 
 # ConnectApi.AudienceCriterionValueInput

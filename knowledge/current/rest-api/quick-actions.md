@@ -5,9 +5,9 @@ topic: quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:35.849Z
+lastCollected: 2026-03-12T09:33:35.693Z
 estimatedTokens: 373
-keywords: [Quick, Actions, Access, quick, actions, object-specific, actions., POST, resource, create, records, action., REST, API, version, 28.0, later.]
+keywords: [Quick, Actions, Access, object-specific, POST, resource, records, action, REST, API, version, 28.0, later]
 ---
 
 # Quick Actions

@@ -5,9 +5,9 @@ topic: commerce-order-item-tax-line-item-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.185Z
+lastCollected: 2026-03-12T09:33:14.019Z
 estimatedTokens: 370
-keywords: [Commerce, Order, Item, Tax, Line, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data]
+keywords: [Commerce, Order, Item, Tax, Line, Summary, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud]
 ---
 
 # Commerce: Order Item Tax Line Item Summary Mapping

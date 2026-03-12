@@ -5,9 +5,9 @@ topic: moderate-feed-items-with-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.379Z
+lastCollected: 2026-03-12T09:33:33.429Z
 estimatedTokens: 276
-keywords: [Moderate, Feed, Items, Triggers, Write, trigger, FeedItem, automate, moderation, posts, org, Experience, Cloud, site., triggers, ensure, conform, company’s, communication, policies]
+keywords: [Moderate, Feed, Items, Triggers, Write, trigger, FeedItem, automate, moderation, posts, org, Experience, Cloud, site, ensure]
 ---
 
 # Moderate Feed Items with Triggers

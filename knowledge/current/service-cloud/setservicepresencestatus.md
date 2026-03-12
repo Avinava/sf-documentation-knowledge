@@ -5,9 +5,9 @@ topic: setservicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.458Z
+lastCollected: 2026-03-12T09:33:56.505Z
 estimatedTokens: 367
-keywords: [setServicePresenceStatus, agent's, presence, status, particular, ID., API, version, 35.0, later, log, user, already, logged, don’t, additional, calls., reconnect, Omni-Channel, after]
+keywords: [setServicePresenceStatus, agent's, presence, status, particular, API, version, 35.0, later, log, user, already, logged, don’t, additional]
 ---
 
 # setServicePresenceStatus

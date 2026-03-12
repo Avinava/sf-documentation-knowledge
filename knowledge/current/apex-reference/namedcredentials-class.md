@@ -5,10 +5,10 @@ topic: namedcredentials-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:18.506Z
+lastCollected: 2026-03-12T09:33:19.179Z
 estimatedTokens: 7742
 namespace: ConnectApi
-keywords: [NamedCredentials, Create, external, credential., Note, createCredential, requestBody, API, Version, Requires, Chatter, action, createExternalAuthIdentityProvider, createExternalAuthIdentityProviderCredentials, fullName, createExternalCredential, createNamedCredential, deleteCredential, externalCredential, principalName]
+keywords: [NamedCredentials, external, credential, createCredential, requestBody, API, Version, Requires, Chatter, action, createExternalAuthIdentityProvider, fullName, createExternalCredential, createNamedCredential, deleteCredential]
 ---
 
 # NamedCredentials Class

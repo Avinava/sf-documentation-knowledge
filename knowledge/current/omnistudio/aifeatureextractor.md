@@ -5,9 +5,9 @@ topic: aifeatureextractor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:53.321Z
+lastCollected: 2026-03-12T09:33:51.831Z
 estimatedTokens: 928
-keywords: [AIFeatureExtractor, Represents, information, feature, extractor, that’s, used, extract, input, data, required, making, predictions.This, API, version, 55.0, later., Supported, Calls, Special]
+keywords: [AIFeatureExtractor, feature, extractor, that’s, extract, input, data, making, predictions.This, API, version, 55.0, later, Calls, Special, machine, learning, model, predictions]
 ---
 
 # AIFeatureExtractor

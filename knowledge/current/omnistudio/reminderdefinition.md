@@ -5,9 +5,9 @@ topic: reminderdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:54.336Z
+lastCollected: 2026-03-12T09:33:52.728Z
 estimatedTokens: 1102
-keywords: [ReminderDefinition, Represents, information, condition, rule, related, configuration, that's, set, reminder., API, version, 60.0, later., Supported, Calls, Fields, Associated, Objects]
+keywords: [ReminderDefinition, condition, rule, configuration, that's, reminder, API, version, 60.0, later, Calls, Associated, Objects]
 ---
 
 # ReminderDefinition

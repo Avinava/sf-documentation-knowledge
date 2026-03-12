@@ -5,9 +5,9 @@ topic: declinechat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.160Z
+lastCollected: 2026-03-12T09:33:55.297Z
 estimatedTokens: 191
-keywords: [declineChat, Declines, chat, request., API, version, 29.0, later., isn't, supported, Omni-Channel, 37.0, Syntax, Arguments, Sample, Code–Visualforce, Response]
+keywords: [declineChat, Declines, chat, API, version, 29.0, later, isn't, Omni-Channel, 37.0, Arguments, Sample, Code–Visualforce]
 ---
 
 # declineChat()

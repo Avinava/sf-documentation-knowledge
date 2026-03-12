@@ -5,9 +5,9 @@ topic: move-metadata-changes-to-and-from-a-scratch-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.451Z
+lastCollected: 2026-03-12T09:33:42.753Z
 estimatedTokens: 335
-keywords: [Move, Metadata, Changes, Scratch, Org, scratch, org, develop, test, changes, metadata., perform, development, within, outside, Salesforce, CLI, Extensions, Code, which]
+keywords: [Move, Metadata, Changes, Scratch, Org, develop, test, perform, development, outside, Salesforce, CLI, Extensions, Code, leverage]
 ---
 
 # Move Metadata Changes to and from a Scratch Org

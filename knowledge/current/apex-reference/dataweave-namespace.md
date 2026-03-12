@@ -5,10 +5,10 @@ topic: dataweave-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.671Z
+lastCollected: 2026-03-12T09:33:31.726Z
 estimatedTokens: 268
 namespace: DataWeave
-keywords: [DataWeave, provides, classes, support, invocation, scripts, Apex.]
+keywords: [DataWeave, classes, support, invocation, scripts, Apex]
 ---
 
 # DataWeave Namespace

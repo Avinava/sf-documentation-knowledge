@@ -5,9 +5,9 @@ topic: monitor-workflow-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:52.733Z
+lastCollected: 2026-03-12T09:33:51.308Z
 estimatedTokens: 356
-keywords: [Monitor, Workflow, Services, Montior, standard, objects, used, track, run, Data, Processing, Engine, definitons, Batch, Management, jobs., During, view, details, part]
+keywords: [Monitor, Workflow, Services, Montior, standard, objects, track, run, Data, Processing, Engine, definitons, Batch, Management, jobs]
 ---
 
 # Monitor Workflow Services

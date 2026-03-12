@@ -5,9 +5,9 @@ topic: contact-point-email-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:13.401Z
+lastCollected: 2026-03-12T09:33:14.236Z
 estimatedTokens: 1499
-keywords: [Contact, Point, Email, DMO, Data, Cloud, data, model, email, address, party., Provided, both, Sales, Service, Kits., API, Name, Category, Primary]
+keywords: [Contact, Point, Email, DMO, Data, Cloud, model, address, party, Provided, Sales, Service, Kits, API, Category]
 ---
 
 # Contact Point Email DMO

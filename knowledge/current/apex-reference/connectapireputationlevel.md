@@ -5,9 +5,9 @@ topic: connectapireputationlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.907Z
+lastCollected: 2026-03-12T09:33:28.954Z
 estimatedTokens: 152
-keywords: [ConnectApi.ReputationLevel, Reputation, level, user.]
+keywords: [ConnectApi.ReputationLevel, Reputation, level, user]
 ---
 
 # ConnectApi.ReputationLevel

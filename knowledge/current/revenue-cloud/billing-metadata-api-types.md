@@ -5,9 +5,9 @@ topic: billing-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.425Z
+lastCollected: 2026-03-12T09:33:07.426Z
 estimatedTokens: 341
-keywords: [Billing, Metadata, API, Types, enables, access, types, feature, settings, customize, user, interface.]
+keywords: [Billing, Metadata, API, access, feature, settings, customize, user]
 ---
 
 # Billing Metadata API Types

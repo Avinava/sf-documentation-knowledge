@@ -5,9 +5,9 @@ topic: design-managed-apex-for-agentforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.621Z
+lastCollected: 2026-03-12T09:33:33.646Z
 estimatedTokens: 2623
-keywords: [Design, Managed, Apex, Agentforce, independent, software, vendor, ISV, developer, build, custom, agent, actions, distribute, managed, packages., ensure, subscriber, admins, declaratively]
+keywords: [Design, Managed, Apex, Agentforce, independent, software, vendor, ISV, developer, build, custom, agent, actions, distribute, packages]
 ---
 
 # Design Managed Apex for Agentforce

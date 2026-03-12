@@ -5,9 +5,9 @@ topic: connectapicomplianceprocedureevaluationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.645Z
+lastCollected: 2026-03-12T09:33:46.681Z
 estimatedTokens: 195
-keywords: [ConnectApi.ComplianceProcedureEvaluationRequest, Input, representation, details, compliance, evaluation, request.]
+keywords: [Input, representation, compliance, evaluation]
 ---
 
 # ConnectApi.ComplianceProcedureEvaluationRequest

@@ -5,9 +5,9 @@ topic: configure-deep-linking-for-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:55.460Z
+lastCollected: 2026-03-12T09:33:53.774Z
 estimatedTokens: 504
-keywords: [Configure, Deep, Linking, Field, Service, Mobile, App, field, technicians, rely, their, mobile, devices, perform, complex, tasks, those, require, navigate, between]
+keywords: [Configure, Deep, Linking, Service, Mobile, App, technicians, rely, their, devices, perform, complex, tasks, require, navigate]
 ---
 
 # Configure Deep Linking for the Field Service Mobile App

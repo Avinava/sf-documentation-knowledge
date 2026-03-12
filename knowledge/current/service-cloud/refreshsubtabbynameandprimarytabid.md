@@ -5,9 +5,9 @@ topic: refreshsubtabbynameandprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.329Z
+lastCollected: 2026-03-12T09:33:56.383Z
 estimatedTokens: 376
-keywords: [refreshSubtabByNameAndPrimaryTabId, Refreshes, subtab, last, known, URL, specified, name, primary, tab, ID., can't, refresh, external, page, Visualforce, page., only, API, version]
+keywords: [refreshSubtabByNameAndPrimaryTabId, Refreshes, subtab, known, URL, primary, tab, can't, refresh, external, Visualforce, API, version, 22.0, later]
 ---
 
 # refreshSubtabByNameAndPrimaryTabId()

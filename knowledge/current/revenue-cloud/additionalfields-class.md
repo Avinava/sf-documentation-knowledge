@@ -5,9 +5,9 @@ topic: additionalfields-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:04.649Z
+lastCollected: 2026-03-12T09:33:06.712Z
 estimatedTokens: 521
-keywords: [AdditionalFields, Contains, include, map, where, key, instance, AdditionalFieldsInput, class., additionalFields]
+keywords: [AdditionalFields, include, map, key, instance, AdditionalFieldsInput]
 ---
 
 # AdditionalFields Class

@@ -5,10 +5,10 @@ topic: schedulable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.163Z
+lastCollected: 2026-03-12T09:33:30.211Z
 estimatedTokens: 316
 namespace: System
-keywords: [Schedulable, implements, scheduled, run, different, intervals., execute, context]
+keywords: [Schedulable, implements, scheduled, run, different, intervals, execute, context]
 ---
 
 # Schedulable Interface

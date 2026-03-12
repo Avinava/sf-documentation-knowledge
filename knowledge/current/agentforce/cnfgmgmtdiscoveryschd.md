@@ -5,9 +5,9 @@ topic: cnfgmgmtdiscoveryschd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:15.396Z
+lastCollected: 2026-03-12T09:33:16.060Z
 estimatedTokens: 578
-keywords: [CnfgMgmtDiscoverySchd, Represents, definition, schedule, controls, discovery, scan, should, run., example, daily, weekly, cron-based, scanning, cloud, infrastructure., API, version, 65.0, later.]
+keywords: [CnfgMgmtDiscoverySchd, definition, schedule, discovery, scan, run, daily, weekly, cron-based, scanning, cloud, infrastructure, API, version, 65.0]
 ---
 
 # CnfgMgmtDiscoverySchd

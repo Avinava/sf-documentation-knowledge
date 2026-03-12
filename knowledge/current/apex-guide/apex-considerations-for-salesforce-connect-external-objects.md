@@ -6,9 +6,9 @@ topic: apex-considerations-for-salesforce-connect-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T05:14:33.373Z
+lastCollected: 2026-03-12T09:33:33.423Z
 estimatedTokens: 974
-keywords: [Apex, Considerations, Salesforce, Connect, External, Objects, code, access, external, data, via, any, adapter, requirements, limitations, apply., Important]
+keywords: [Apex, Considerations, Salesforce, Connect, External, Objects, code, access, data, via, any, adapter, requirements, limitations, apply]
 ---
 
 # Apex Considerations for Salesforce Connect External

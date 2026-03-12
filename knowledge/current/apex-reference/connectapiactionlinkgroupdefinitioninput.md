@@ -5,9 +5,9 @@ topic: connectapiactionlinkgroupdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.224Z
+lastCollected: 2026-03-12T09:33:24.514Z
 estimatedTokens: 1243
-keywords: [ConnectApi.ActionLinkGroupDefinitionInput, definition, action, link, group., links, must, belong, Action, group, mutually, exclusive, share, properties., Define, standalone, actions, their, own]
+keywords: [definition, action, link, group, links, belong, mutually, exclusive, share, Define, standalone, actions, their, own]
 ---
 
 # ConnectApi.ActionLinkGroupDefinitionInput

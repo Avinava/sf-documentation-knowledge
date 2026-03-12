@@ -5,9 +5,9 @@ topic: connectapiactionlinkdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.217Z
+lastCollected: 2026-03-12T09:33:24.506Z
 estimatedTokens: 1700
-keywords: [ConnectApi.ActionLinkDefinitionInput, definition, action, link., link, button, feed, element., Clicking, take, user, Web, page, initiate, file, download, invoke, API, call, Salesforce]
+keywords: [ConnectApi.ActionLinkDefinitionInput, definition, action, link, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
 ---
 
 # ConnectApi.ActionLinkDefinitionInput

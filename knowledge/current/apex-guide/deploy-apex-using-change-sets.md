@@ -5,9 +5,9 @@ topic: deploy-apex-using-change-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:33.203Z
+lastCollected: 2026-03-12T09:33:33.225Z
 estimatedTokens: 226
-keywords: [Deploy, Apex, Change, change, deploy, classes, triggers, between, connected, organizations, example, sandbox, org, production, org.]
+keywords: [Deploy, Apex, Change, classes, triggers, connected, organizations, sandbox, org, production]
 ---
 
 # Deploy Apex Using Change Sets

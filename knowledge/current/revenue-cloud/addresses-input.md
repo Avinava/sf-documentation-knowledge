@@ -5,9 +5,9 @@ topic: addresses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.626Z
+lastCollected: 2026-03-12T09:33:07.571Z
 estimatedTokens: 145
-keywords: [Addresses, Input, representation, details, addresses, calculating, tax.]
+keywords: [Addresses, Input, representation, calculating, tax]
 ---
 
 # Addresses Input

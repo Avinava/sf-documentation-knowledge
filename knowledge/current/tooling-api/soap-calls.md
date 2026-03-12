@@ -5,9 +5,9 @@ topic: soap-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:44.332Z
+lastCollected: 2026-03-12T09:33:43.528Z
 estimatedTokens: 2780
-keywords: [SOAP, Calls, you’re, strongly, typed, language, Java, generates, Web, service, client, code., details, usage, syntax, authentication, API, Developer, Guide., Headers]
+keywords: [SOAP, Calls, you’re, strongly, typed, language, Java, generates, Web, service, client, code, usage, authentication, API]
 ---
 
 # SOAP Calls

@@ -5,10 +5,10 @@ topic: math-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:30.909Z
+lastCollected: 2026-03-12T09:33:30.959Z
 estimatedTokens: 12683
 namespace: System
-keywords: [Math, mathematical, constant, which, base, natural, logarithms., Fields, abs, decimalValue, doubleValue, integerValue, Example, longValue, acos, decimalAngle, doubleAngle, asin, atan, atan2]
+keywords: [Math, mathematical, constant, base, natural, logarithms, abs, decimalValue, doubleValue, integerValue, longValue, acos, decimalAngle, doubleAngle, asin]
 ---
 
 # Math Class

@@ -5,9 +5,9 @@ topic: advanced-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:04.110Z
+lastCollected: 2026-03-12T09:33:06.226Z
 estimatedTokens: 397
-keywords: [Advanced, Approvals, feature, provides, invocable, actions, streamline, complex, business, processes., automate, manage, intricate, parallel, sequential, approval, chains, detailed, audit, trails.]
+keywords: [Advanced, Approvals, feature, invocable, actions, streamline, complex, business, processes, automate, manage, intricate, parallel, sequential, approval]
 ---
 
 # Advanced Approvals

@@ -5,9 +5,9 @@ topic: closetab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:57.673Z
+lastCollected: 2026-03-12T09:33:55.774Z
 estimatedTokens: 442
-keywords: [closeTab, Lightning, Experience, Closes, workspace, tab, subtab., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Response]
+keywords: [closeTab, Lightning, Experience, Closes, workspace, tab, subtab, works, console, apps, Arguments, LWC, Sample, Code, Aura]
 ---
 
 # closeTab() for Lightning Experience for Lightning Experience

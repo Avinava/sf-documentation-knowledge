@@ -5,9 +5,9 @@ topic: searchsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:42.643Z
+lastCollected: 2026-03-12T09:33:42.056Z
 estimatedTokens: 2158
-keywords: [SearchSettings, Represents, org's, search, settings., File, Suffix, Directory, Location, Version, Fields, SearchSettingsByObject, ObjectSearchSetting, Declarative, Metadata, Sample, Definition, Example, Package, Manifest]
+keywords: [SearchSettings, org's, search, settings, File, Suffix, Directory, Location, Version, SearchSettingsByObject, ObjectSearchSetting, Declarative, Metadata, Sample, Definition]
 ---
 
 # SearchSettings

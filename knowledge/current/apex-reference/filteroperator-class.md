@@ -5,10 +5,10 @@ topic: filteroperator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.033Z
+lastCollected: 2026-03-12T09:33:23.431Z
 estimatedTokens: 537
 namespace: Reports
-keywords: [FilterOperator, Contains, information, filter, operator, such, display, name, API, name., getLabel, Syntax, getName]
+keywords: [FilterOperator, filter, operator, display, API, getLabel, getName]
 ---
 
 # FilterOperator Class

@@ -5,9 +5,9 @@ topic: connectapiquerysqlpageoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:28.721Z
+lastCollected: 2026-03-12T09:33:28.760Z
 estimatedTokens: 764
-keywords: [ConnectApi.QuerySqlPageOutput, Represents, rows, output, SQL, query.]
+keywords: [ConnectApi.QuerySqlPageOutput, rows, output, SQL, query]
 ---
 
 # ConnectApi.QuerySqlPageOutput

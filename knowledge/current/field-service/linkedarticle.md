@@ -5,9 +5,9 @@ topic: linkedarticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:56.160Z
+lastCollected: 2026-03-12T09:33:54.392Z
 estimatedTokens: 856
-keywords: [LinkedArticle, Represents, knowledge, article, attached, work, order, line, item, type., API, version, 37.0, later., Supported, Calls, Special, Access, Rules, Fields]
+keywords: [LinkedArticle, knowledge, article, attached, work, order, line, item, API, version, 37.0, later, Calls, Special, Access]
 ---
 
 # LinkedArticle

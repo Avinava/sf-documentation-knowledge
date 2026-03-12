@@ -5,9 +5,9 @@ topic: service-report-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:55.548Z
+lastCollected: 2026-03-12T09:33:53.854Z
 estimatedTokens: 915
-keywords: [Service, Report, Template, information, corresponding, service, report, templates, field, service., resource, REST, API, version, 40.0, later., Response, Body, Example]
+keywords: [Service, Report, Template, corresponding, templates, resource, REST, API, version, 40.0, later]
 ---
 
 # Service Report Template

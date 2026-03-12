@@ -5,9 +5,9 @@ topic: connectapimaintenanceinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.699Z
+lastCollected: 2026-03-12T09:33:27.751Z
 estimatedTokens: 377
-keywords: [ConnectApi.MaintenanceInfo, Information, upcoming, scheduled, maintenance, organization.]
+keywords: [ConnectApi.MaintenanceInfo, upcoming, scheduled, maintenance, organization]
 ---
 
 # ConnectApi.MaintenanceInfo

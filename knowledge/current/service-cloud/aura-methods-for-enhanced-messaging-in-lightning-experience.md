@@ -5,9 +5,9 @@ topic: aura-methods-for-enhanced-messaging-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:58.106Z
+lastCollected: 2026-03-12T09:33:56.187Z
 estimatedTokens: 433
-keywords: [Aura, Enhanced, Messaging, Lightning, Experience, Enable, developers, customize, agent, experience, allowing, custom, components, interact, Conversation, Component., apply, only.]
+keywords: [Aura, Enhanced, Messaging, Lightning, Experience, Enable, developers, customize, agent, allowing, custom, components, interact, Conversation, Component]
 ---
 
 # Aura Methods for Enhanced Messaging in Lightning Experience

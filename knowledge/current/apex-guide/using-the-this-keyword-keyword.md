@@ -5,9 +5,9 @@ topic: using-the-this-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:32.622Z
+lastCollected: 2026-03-12T09:33:32.655Z
 estimatedTokens: 259
-keywords: [Keyword, There, two, different, ways, keyword.]
+keywords: [Keyword, There, two, different, ways]
 ---
 
 # Using the  this Keyword Keyword

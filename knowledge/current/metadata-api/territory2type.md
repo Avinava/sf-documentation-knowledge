@@ -5,9 +5,9 @@ topic: territory2type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:43.157Z
+lastCollected: 2026-03-12T09:33:42.496Z
 estimatedTokens: 688
-keywords: [Territory2Type, Represents, metadata, category, territories, Sales, Territories., Every, Territory2, must, Territory2Type., extends, Metadata, inherits, its, fullName, field., Territories, enabled., File]
+keywords: [Territory2Type, metadata, category, territories, Sales, Every, Territory2, extends, inherits, fullName, enabled, File, Suffix, Directory, Location]
 ---
 
 # Territory2Type

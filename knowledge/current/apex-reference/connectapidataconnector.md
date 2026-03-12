@@ -5,9 +5,9 @@ topic: connectapidataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.925Z
+lastCollected: 2026-03-12T09:33:27.017Z
 estimatedTokens: 62
-keywords: [ConnectApi.DataConnector, Details, data, connector, activation, target.]
+keywords: [ConnectApi.DataConnector, data, connector, activation, target]
 ---
 
 # ConnectApi.DataConnector

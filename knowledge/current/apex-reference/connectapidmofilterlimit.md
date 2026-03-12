@@ -5,9 +5,9 @@ topic: connectapidmofilterlimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:27.070Z
+lastCollected: 2026-03-12T09:33:27.163Z
 estimatedTokens: 108
-keywords: [ConnectApi.DmoFilterLimit, Represents, DMO, filter, limit, output.]
+keywords: [ConnectApi.DmoFilterLimit, DMO, filter, limit, output]
 ---
 
 # ConnectApi.DmoFilterLimit

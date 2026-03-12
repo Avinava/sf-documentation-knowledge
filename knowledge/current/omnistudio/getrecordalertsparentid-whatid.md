@@ -6,9 +6,9 @@ topic: getrecordalertsparentid-whatid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:47.442Z
+lastCollected: 2026-03-12T09:33:46.481Z
 estimatedTokens: 206
-keywords: [getRecordAlerts, parentId, whatId, Retrieve, list, active, record, alerts., API, Version, Requires, Chatter, Example]
+keywords: [getRecordAlerts, parentId, whatId, Retrieve, active, record, alerts, API, Version, Requires, Chatter]
 ---
 
 # getRecordAlerts(parentId,

@@ -5,9 +5,9 @@ topic: connectapiexternalauthidentityprovidercredentialsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.868Z
+lastCollected: 2026-03-12T09:33:25.119Z
 estimatedTokens: 249
-keywords: [ConnectApi.ExternalAuthIdentityProviderCredentialsInput, External, auth, identity, provider, credentials, input.]
+keywords: [External, auth, identity, provider, credentials, input]
 ---
 
 # ConnectApi.ExternalAuthIdentityProviderCredentialsInput

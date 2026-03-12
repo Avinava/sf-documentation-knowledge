@@ -5,9 +5,9 @@ topic: connectapiextensionscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:24.853Z
+lastCollected: 2026-03-12T09:33:25.106Z
 estimatedTokens: 258
-keywords: [ConnectApi.ExtensionsCapabilityInput, Create, update, extensions, associated, feed, element.]
+keywords: [ConnectApi.ExtensionsCapabilityInput, extensions, associated, feed, element]
 ---
 
 # ConnectApi.ExtensionsCapabilityInput

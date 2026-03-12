@@ -5,9 +5,9 @@ topic: calculation-procedure-version-definition-save-as-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.471Z
+lastCollected: 2026-03-12T09:33:48.305Z
 estimatedTokens: 769
-keywords: [Calculation, Procedure, Version, Definition, Save, Update, details, expression, set, known, calculation, procedure, version, record., record, new, Note]
+keywords: [Calculation, Procedure, Version, Definition, Save, expression, known, record, new]
 ---
 
 # Calculation Procedure Version Definition (Save As, Update)

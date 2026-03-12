@@ -5,9 +5,9 @@ topic: simulation-runtime-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:50.765Z
+lastCollected: 2026-03-12T09:33:49.408Z
 estimatedTokens: 140
-keywords: [Simulation, Runtime, Output, representation, results, expression, set, simulation.]
+keywords: [Simulation, Runtime, Output, representation, results, expression]
 ---
 
 # Simulation Runtime Output

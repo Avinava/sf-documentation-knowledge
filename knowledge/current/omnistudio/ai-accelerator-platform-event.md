@@ -5,9 +5,9 @@ topic: ai-accelerator-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.378Z
+lastCollected: 2026-03-12T09:33:46.421Z
 estimatedTokens: 191
-keywords: [Accelerator, Platform, Event, AIScoringStatusEvent, event, notify, subscribers, after, scoring, job, processed.]
+keywords: [Accelerator, Platform, Event, AIScoringStatusEvent, notify, subscribers, scoring, job, processed]
 ---
 
 # AI Accelerator Platform Event

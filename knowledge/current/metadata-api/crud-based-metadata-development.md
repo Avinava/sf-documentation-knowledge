@@ -5,9 +5,9 @@ topic: crud-based-metadata-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:37.514Z
+lastCollected: 2026-03-12T09:33:37.282Z
 estimatedTokens: 1428
-keywords: [CRUD-Based, Metadata, Development, CRUD-based, metadata, calls, create, update, delete, setup, configuration, components, organization, application., include, custom, objects, fields, metadata., mimic]
+keywords: [CRUD-Based, Metadata, Development, calls, setup, configuration, components, organization, application, include, custom, objects, mimic, behavior, Salesforce]
 ---
 
 # CRUD-Based Metadata Development

@@ -5,9 +5,9 @@ topic: connectapiproductvariationinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:28.652Z
+lastCollected: 2026-03-12T09:33:28.689Z
 estimatedTokens: 182
-keywords: [ConnectApi.ProductVariationInfo, Product, variation, attributes, metadata, mappings, attribute, combinations, product, IDs.]
+keywords: [ConnectApi.ProductVariationInfo, Product, variation, attributes, metadata, mappings, attribute, combinations, IDs]
 ---
 
 # ConnectApi.ProductVariationInfo

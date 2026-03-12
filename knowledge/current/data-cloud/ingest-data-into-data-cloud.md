@@ -5,9 +5,9 @@ topic: ingest-data-into-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:12.508Z
+lastCollected: 2026-03-12T09:33:13.432Z
 estimatedTokens: 838
-keywords: [Ingest, Data, Cloud, Ingestion, API, provides, RESTful, supports, both, streaming, bulk, interaction, patterns, loading, data, Cloud., single, connector, performing, uploads.]
+keywords: [Ingest, Data, Cloud, Ingestion, API, RESTful, supports, streaming, bulk, interaction, patterns, loading, connector, performing, uploads]
 ---
 
 # Ingest Data into Data Cloud

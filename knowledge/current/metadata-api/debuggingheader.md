@@ -5,9 +5,9 @@ topic: debuggingheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:38.587Z
+lastCollected: 2026-03-12T09:33:38.282Z
 estimatedTokens: 592
-keywords: [DebuggingHeader, Specifies, deployment, result, contains, debug, log, output, specifies, level, detail, included, log., Apex, tests, executed, part, deployment., Version, Supported]
+keywords: [DebuggingHeader, deployment, result, debug, log, output, level, detail, included, Apex, tests, executed, part, Version, Calls]
 ---
 
 # DebuggingHeader

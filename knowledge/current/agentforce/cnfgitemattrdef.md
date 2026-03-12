@@ -5,9 +5,9 @@ topic: cnfgitemattrdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:15.532Z
+lastCollected: 2026-03-12T09:33:16.184Z
 estimatedTokens: 978
-keywords: [CnfgItemAttrDef, Represents, definition, attribute, configuration, item., example, name, owner, Status, on., API, version, 65.0, later., Supported, SOAP, Calls, REST, Fields]
+keywords: [CnfgItemAttrDef, definition, attribute, configuration, item, owner, Status, API, version, 65.0, later, SOAP, Calls, REST]
 ---
 
 # CnfgItemAttrDef

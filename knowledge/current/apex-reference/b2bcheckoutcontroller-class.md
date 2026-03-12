@@ -5,9 +5,9 @@ topic: b2bcheckoutcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:23.240Z
+lastCollected: 2026-03-12T09:33:23.621Z
 estimatedTokens: 482
-keywords: [B2BCheckoutController, Communicate, simple, checkout, Apex, work, data, related, B2B, Commerce, checkout., Usage, licenseCompliance, cartId, orderId]
+keywords: [B2BCheckoutController, Communicate, simple, checkout, Apex, work, data, B2B, Commerce, Usage, licenseCompliance, cartId, orderId]
 ---
 
 # B2BCheckoutController Class

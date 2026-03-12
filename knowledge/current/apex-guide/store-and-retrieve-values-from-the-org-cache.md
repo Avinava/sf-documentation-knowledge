@@ -5,10 +5,10 @@ topic: store-and-retrieve-values-from-the-org-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.770Z
+lastCollected: 2026-03-12T09:33:33.786Z
 estimatedTokens: 911
 namespace: Cache.OrgPartition
-keywords: [Store, Retrieve, Values, Org, Cache, Cache.Org, Cache.OrgPartition, classes, manage, values, org, cache., any, partition, class., you’re, managing, cache, instead., Note]
+keywords: [Store, Retrieve, Org, Cache, Cache.Org, Cache.OrgPartition, classes, manage, any, partition, you’re, managing, instead]
 ---
 
 # Store and Retrieve Values from the Org Cache

@@ -5,9 +5,9 @@ topic: connectapicartsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:26.396Z
+lastCollected: 2026-03-12T09:33:26.554Z
 estimatedTokens: 1273
-keywords: [ConnectApi.CartSummary, cart, summary.]
+keywords: [ConnectApi.CartSummary, cart, summary]
 ---
 
 # ConnectApi.CartSummary

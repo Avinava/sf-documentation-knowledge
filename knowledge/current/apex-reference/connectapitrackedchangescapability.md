@@ -5,9 +5,9 @@ topic: connectapitrackedchangescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:29.189Z
+lastCollected: 2026-03-12T09:33:29.232Z
 estimatedTokens: 192
-keywords: [ConnectApi.TrackedChangesCapability, feed, element, capability, contains, changes, record, single, tracked, change, event.]
+keywords: [ConnectApi.TrackedChangesCapability, feed, element, capability, changes, record, tracked, change, event]
 ---
 
 # ConnectApi.TrackedChangesCapability

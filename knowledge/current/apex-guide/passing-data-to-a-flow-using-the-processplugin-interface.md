@@ -6,9 +6,9 @@ topic: passing-data-to-a-flow-using-the-processplugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:33.823Z
+lastCollected: 2026-03-12T09:33:33.839Z
 estimatedTokens: 1062
-keywords: [Passing, Data, Flow, Process.Plugin, built-in, lets, process, data, within, org, pass, specified, flow., exposes, Apex, service, which, accepts, input, values]
+keywords: [Passing, Data, Flow, Process.Plugin, built-in, lets, process, org, pass, Apex, service, accepts, input, output, back]
 ---
 
 # Passing Data to a Flow Using the Process.Plugin

@@ -5,10 +5,10 @@ topic: commercepayments-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:31.653Z
+lastCollected: 2026-03-12T09:33:31.708Z
 estimatedTokens: 4372
 namespace: CommercePayments
-keywords: [CommercePayments, provide, safe, customizable, platform, managing, customer, payments, refunds.]
+keywords: [CommercePayments, provide, safe, customizable, platform, managing, customer, payments, refunds]
 ---
 
 # CommercePayments Namespace

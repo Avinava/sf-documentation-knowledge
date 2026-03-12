@@ -5,9 +5,9 @@ topic: forecastingfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T05:14:40.067Z
+lastCollected: 2026-03-12T09:33:39.604Z
 estimatedTokens: 782
-keywords: [ForecastingFilterCondition, Represents, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [ForecastingFilterCondition, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts, Parent, File, Suffix, Directory, Location]
 ---
 
 # ForecastingFilterCondition

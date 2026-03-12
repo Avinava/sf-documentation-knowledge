@@ -5,9 +5,9 @@ topic: connectapi-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:05.349Z
+lastCollected: 2026-03-12T09:33:07.359Z
 estimatedTokens: 1779
-keywords: [ConnectApi, Output, Classes, Billing, includes, Apex, output, classes.]
+keywords: [ConnectApi, Output, Classes, Billing, includes, Apex]
 ---
 
 # ConnectApi Output Classes

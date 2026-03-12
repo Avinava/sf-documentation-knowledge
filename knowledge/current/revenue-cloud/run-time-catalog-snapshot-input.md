@@ -5,9 +5,9 @@ topic: run-time-catalog-snapshot-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:06.443Z
+lastCollected: 2026-03-12T09:33:08.289Z
 estimatedTokens: 141
-keywords: [Run-time, Catalog, Snapshot, Input, representation, details, run-time, catalog, snapshot, deployment.]
+keywords: [Run-time, Catalog, Snapshot, Input, representation, deployment]
 ---
 
 # Run-time Catalog Snapshot Input

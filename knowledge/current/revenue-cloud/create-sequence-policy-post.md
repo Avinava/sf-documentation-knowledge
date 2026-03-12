@@ -5,9 +5,9 @@ topic: create-sequence-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:06.772Z
+lastCollected: 2026-03-12T09:33:08.576Z
 estimatedTokens: 960
-keywords: [Create, Sequence, Policy, POST, sequence, policy, configure, unique, sequential, number, posted, invoices, credit, memos., Special, Access, Rules]
+keywords: [Sequence, Policy, POST, configure, unique, sequential, number, posted, invoices, credit, memos, Special, Access, Rules]
 ---
 
 # Create Sequence Policy (POST)

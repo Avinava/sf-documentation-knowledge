@@ -5,9 +5,9 @@ topic: connectapipromotioncartdeliverygroupinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:24.488Z
+lastCollected: 2026-03-12T09:33:24.763Z
 estimatedTokens: 124
-keywords: [ConnectApi.PromotionCartDeliveryGroupInput, Cart, delivery, group, input., IDs, cart, its, method.]
+keywords: [Cart, delivery, group, input, IDs, cart]
 ---
 
 # ConnectApi.PromotionCartDeliveryGroupInput

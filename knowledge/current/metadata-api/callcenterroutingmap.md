@@ -5,9 +5,9 @@ topic: callcenterroutingmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:37.496Z
+lastCollected: 2026-03-12T09:33:37.265Z
 estimatedTokens: 700
-keywords: [CallCenterRoutingMap, Represents, mapping, between, user, queue, Salesforce, org, external, system’s, call, center., Important, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [CallCenterRoutingMap, mapping, user, queue, Salesforce, org, external, system’s, call, center, Parent, File, Suffix, Directory, Location]
 ---
 
 # CallCenterRoutingMap

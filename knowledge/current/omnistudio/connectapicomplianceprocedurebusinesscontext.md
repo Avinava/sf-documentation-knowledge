@@ -5,9 +5,9 @@ topic: connectapicomplianceprocedurebusinesscontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:47.638Z
+lastCollected: 2026-03-12T09:33:46.675Z
 estimatedTokens: 102
-keywords: [ConnectApi.ComplianceProcedureBusinessContext, Input, representation, business, context, name, value.]
+keywords: [Input, representation, business, context]
 ---
 
 # ConnectApi.ComplianceProcedureBusinessContext

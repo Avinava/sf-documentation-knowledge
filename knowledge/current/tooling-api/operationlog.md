@@ -5,9 +5,9 @@ topic: operationlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:46.187Z
+lastCollected: 2026-03-12T09:33:45.343Z
 estimatedTokens: 1667
-keywords: [OperationLog, Represents, long-running, asynchronous, operations, triggered, tracked, through, Tooling, API., API, version, 37.0, later., Supported, SOAP, Calls, REST, HTTP, Special]
+keywords: [OperationLog, long-running, asynchronous, operations, triggered, tracked, Tooling, API, version, 37.0, later, SOAP, Calls, REST, HTTP]
 ---
 
 # OperationLog

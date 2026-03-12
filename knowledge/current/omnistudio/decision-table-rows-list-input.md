@@ -5,9 +5,9 @@ topic: decision-table-rows-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.300Z
+lastCollected: 2026-03-12T09:33:47.302Z
 estimatedTokens: 88
-keywords: [Decision, Table, Rows, List, Input, representation, request, update, rows, CSV, based, decision, table.]
+keywords: [Decision, Rows, Input, representation, CSV]
 ---
 
 # Decision Table Rows List Input

@@ -5,9 +5,9 @@ topic: reminder-integer-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T05:14:48.760Z
+lastCollected: 2026-03-12T09:33:47.697Z
 estimatedTokens: 214
-keywords: [Reminder, Criteria, Input, representation, criteria, reminder.]
+keywords: [Reminder, Criteria, Input, representation]
 ---
 
 # Reminder Integer Criteria Input

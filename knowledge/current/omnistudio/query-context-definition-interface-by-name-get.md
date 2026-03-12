@@ -5,9 +5,9 @@ topic: query-context-definition-interface-by-name-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T05:14:49.411Z
+lastCollected: 2026-03-12T09:33:48.260Z
 estimatedTokens: 147
-keywords: [Query, Context, Definition, Name, GET, Get, details, context, definition, name.]
+keywords: [Query, Context, Definition]
 ---
 
 # Query Context Definition Interface By Name (GET)
