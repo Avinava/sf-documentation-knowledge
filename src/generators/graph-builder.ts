@@ -125,9 +125,10 @@ export class GraphBuilder {
       label: domainId,
     });
 
-    // Create Service Category node from domain tags
-    for (const tag of documents[0]?.metadata?.keywords?.slice(0, 1) || []) {
-      // We'll use a better approach — extract service from the domain tags
+    // Infer and add service category from domain ID patterns
+    const service = this.inferServiceCategory(domainId);
+    if (service) {
+      this.addServiceCategory(domainId, service);
     }
 
     for (const doc of documents) {
@@ -286,8 +287,41 @@ export class GraphBuilder {
   }
 
   /**
+   * Infer the service category for a domain based on its ID.
+   */
+  private inferServiceCategory(domainId: string): string | null {
+    const id = domainId.toLowerCase();
+
+    // Analytics & BI
+    if (id.includes("bi-dev") || id.includes("analytics") || id === "api-analytics" || id.includes("salesforce-reports")) return "analytics";
+    // Commerce
+    if (id.includes("commerce") || id === "order-management-developer-guide-html") return "commerce";
+    // Industries
+    if (id.includes("health-cloud") || id.includes("financial-services") || id.includes("life-sciences") || id.includes("insurance") || id.includes("nonprofit") || id.includes("edu-cloud") || id.includes("netzero") || id.includes("automotive") || id.includes("psc-api") || id.includes("media-developer") || id.includes("mfg-api") || id.includes("retail-api") || id.includes("eu-developer") || id.includes("comms-developer") || id.includes("loyalty") || id.includes("esm-developer") || id.includes("public-sector")) return "industries";
+    // Service
+    if (id.includes("service-cloud") || id.includes("field-service") || id.includes("live-agent") || id.includes("voice") || id.includes("snapins") || id.includes("omni-channel") || id.includes("workforce") || id.includes("service-connector") || id.includes("case-feed") || id.includes("guided-engagement") || id.includes("chat") || id.includes("knowledge-dev")) return "service";
+    // Sales
+    if (id.includes("cpq") || id.includes("channel-revenue") || id.includes("blng") || id.includes("referral") || id.includes("clm-developer") || id.includes("feedback")) return "sales";
+    // Apex
+    if (id.includes("apex")) return "apex";
+    // API
+    if (id === "rest-api" || id === "api" || id === "api-asynch" || id === "api-streaming" || id === "soql-sosl" || id === "api-action" || id === "api-placeorder" || id === "uiapi") return "api";
+    // Experience
+    if (id.includes("communities") || id.includes("exp-cloud")) return "experience";
+    // Specific products
+    if (id === "agentforce") return "agentforce";
+    if (id === "data-cloud") return "data-cloud";
+    if (id === "revenue-cloud") return "revenue-cloud";
+    if (id === "omnistudio") return "omnistudio";
+    if (id === "lwc" || id === "lightning") return "lwc";
+    if (id.includes("cli") || id.includes("sfdx") || id.includes("devops") || id.includes("pkg")) return "cli";
+    if (id.includes("workdotcom")) return "work.com";
+    // Platform (default for core SF)
+    return "platform";
+  }
+
+  /**
    * Add service category nodes for domain grouping.
-   * Called externally after domain building.
    */
   addServiceCategory(domainId: string, serviceName: string) {
     if (!serviceName || serviceName.length < 2) return;
