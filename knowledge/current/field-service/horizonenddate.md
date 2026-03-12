@@ -5,11 +5,14 @@ topic: horizonenddate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.905Z
-keywords: [horizonEndDate, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.136Z
+estimatedTokens: 72
+keywords: [horizonEndDate, horizon, end, date, calculated, used, operation.]
 ---
 
 # horizonEndDate
+
+> The horizon end date as calculated and used by the operation.
 
 # horizonEndDate
 

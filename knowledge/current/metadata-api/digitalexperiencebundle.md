@@ -5,11 +5,16 @@ topic: digitalexperiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.924Z
-keywords: [DigitalExperienceBundle, Parent, Type, File, Suffix, Directory, Location, Note, Version, Special, Access, Rules, Fields, DigitalExperience, DigitalExperienceFolderShare, SharedWith, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.821Z
+estimatedTokens: 2955
+keywords: [DigitalExperienceBundle, Represents, text-based, code, structure, organization’s, workspaces, organized, workspace, workspace’s, content, items., Parent, File, Suffix, Directory, Location, Note, Version, Special]
 ---
 
 # DigitalExperienceBundle
+
+> Represents a text-based code structure of your
+			organization’s workspaces, organized by workspace type, and each workspace’s content
+			items.
 
 # DigitalExperienceBundle
 
@@ -26,23 +31,23 @@ DigitalExperienceBundle components have the suffix .digitalExperience and are st
 DigitalExperienceBundle uses workspaces and content types to organize your data in a content-focused structure.
 
 -   Workspace: For enhanced Lightning Web Runtime (LWR) sites, a collection of related content items that form the site when combined with data from the [DigitalExperienceConfig](atlas.en-us.api_meta.meta/api_meta/meta_digitalexperienceconfig.htm "Represents details for your organization’s workspaces, such as the site label, site URL path prefix, and workspace type.") metadata type.
-    
+
     For Salesforce CMS, a collection of related content items contained in a general workspace.
-    
+
     For Marketing Cloud, a collection of related content items contained in a marketing or general workspace.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-    
+
     #### Note
-    
+
     The maximum length for a workspace name is 80 characters.
-    
+
 -   Workspace type: A way to categorize different kinds of workspaces. For example, the workspace type for enhanced LWR sites is site, and the workspace type for marketing workspaces in Marketing Cloud is marketing. The workspace type determines which content types are available in the workspace. In the DigitalExperienceBundle folder structure, all workspaces of a given type are under that workspace type. site, marketing, and general are the supported workspace types.
 -   Content types: A way to categorize different kinds of content in a workspace. For example, all routes in an enhanced LWR site are stored under a content type folder called sfdc\_cms\_\_route. Similarly, forms for a marketing workspace are stored under a content type folder called sfdc\_cms\_\_form.
 -   Content items: For enhanced LWR sites, the individual settings and site components that make up an enhanced LWR site. For example, each of the routes in an enhanced LWR site is a single content item.
-    
+
     For marketing workspaces, the content items used in marketing campaigns. For example, each form in a workspace is a single content item.
-    
+
 
 Here’s an example of the DigitalExperienceBundle structure.
 
@@ -153,7 +158,39 @@ To retrieve and deploy DigitalExperienceBundle, use legacy sfdx commands.
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
--   **[DigitalExperienceBundle: Marketing Workspace Bundle and Folders](atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle_marketing.htm)**  
+-   **[DigitalExperienceBundle: Marketing Workspace Bundle and Folders](atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle_marketing.htm)**
     DigitalExperienceBundle uses the marketing workspace type to organize content items used in marketing campaigns in a content-focused, text-based code structure.
--   **[DigitalExperienceBundle: Site Workspace Bundle and Folders](atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle_site.htm)**  
+-   **[DigitalExperienceBundle: Site Workspace Bundle and Folders](atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle_site.htm)**
     DigitalExperienceBundle uses the site workspace type to organize data for enhanced LWR sites in a content-focused, text-based code structure.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>content</description>
+    <label>isv1</label>
+</DigitalExperienceBundle>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>site/isv1</members>
+        <name>DigitalExperienceBundle</name>
+    </types>
+    <version>56.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- DigitalExperienceConfig (atlas.en-us.api_meta.meta/api_meta/meta_digitalexperienceconfig.htm)
+- ExperienceBundle (atlas.en-us.api_meta.meta/api_meta/meta_experiencebundle.htm)
+- SiteDotCom (atlas.en-us.api_meta.meta/api_meta/meta_sitedotcom.htm)
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- DigitalExperienceBundle: Marketing Workspace Bundle and Folders (atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle_marketing.htm)
+- DigitalExperienceBundle: Site Workspace Bundle and Folders (atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle_site.htm)

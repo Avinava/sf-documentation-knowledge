@@ -5,11 +5,14 @@ topic: get-field-values-from-a-standard-object-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:24.903Z
-keywords: [Get, Field, Values, Standard, Object, Record]
+lastCollected: 2026-03-12T05:14:34.980Z
+estimatedTokens: 312
+keywords: [Get, Field, Values, Standard, Record, GET, sObject, Rows, resource, retrieve, field, values, record.]
 ---
 
 # Get Field Values from a Standard Object Record
+
+> You use the GET method of the sObject Rows resource to retrieve field values from a record.
 
 # Get Field Values from a Standard Object Record
 
@@ -36,3 +39,20 @@ Example response body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/001D000000INjVe​?fields=AccountNumber,BillingPostalCode -H "Authorization: Bearer token"
+```
+
+```
+{
+    "AccountNumber" : "CD656092",
+    "BillingPostalCode" : "27215",
+}
+```
+
+## Related Topics
+
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)

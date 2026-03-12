@@ -5,11 +5,15 @@ topic: setpaymentmethodtokenizationresponsepaymentmethodtokenizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.670Z
-keywords: [setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.148Z
+estimatedTokens: 206
+keywords: [setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, information, gateway, tokenized, payment, method.]
 ---
 
 # setPaymentMethodTokenizationResponse(paymentMethodTokenizationResponse)
+
+> Sets information from the gateway about the tokenized payment
+      method.
 
 # setPaymentMethodTokenizationResponse(paymentMethodTokenizationResponse)
 
@@ -30,3 +34,7 @@ Gateway response sent by payment gateway adapters for the payment method tokeniz
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- PaymentMethodTokenizationResponse (atlas.en-us.apexref.meta/apexref/apex_class_commercepayments_PaymentMethodTokenizationResponse.htm)

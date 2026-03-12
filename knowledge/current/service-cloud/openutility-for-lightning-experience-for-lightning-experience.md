@@ -6,12 +6,17 @@ topic: openutility-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.304Z
-keywords: [openUtility, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.865Z
+estimatedTokens: 319
+keywords: [openUtility, Lightning, Experience, Opens, utility., utility, already, open, effect., Only, time., another, minimizes, isn’t, supported, Web, Components, LWC, Arguments, Aura]
 ---
 
 # openUtility() for Lightning Experience for Lightning
             Experience
+
+> Opens a utility. If the utility is already open, this method has no effect. Only one
+        utility can be open at a time. If another utility is already open, openUtility() minimizes the utility. This method isn’t
+        supported for Lightning Web Components (LWC).
 
 # openUtility() for Lightning Experience for Lightning Experience
 
@@ -58,3 +63,49 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Open Utility" onclick="{! c.handleOpenUtility }" />
+</aura:component>
+```
+
+```
+({
+    handleOpenUtility : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.openUtility();
+    }
+})
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Open First Utility" onclick="{! c.openFirstUtility }" />
+</aura:component>
+```
+
+```
+({
+    openFirstUtility : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.getAllUtilityInfo().then(function(response) {
+            var myUtilityInfo = response[0];
+            utilityAPI.openUtility({
+                utilityId: myUtilityInfo.id
+            });
+       })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- open() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_open.htm)

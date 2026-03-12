@@ -5,11 +5,15 @@ topic: getcontentaspdf
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.039Z
-keywords: [getContentAsPDF, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.230Z
+estimatedTokens: 191
+keywords: [getContentAsPDF, page, PDF, regardless, <apex, page>, component’s, renderAs, attribute., Usage]
 ---
 
 # getContentAsPDF()
+
+> Returns the page in PDF, regardless of the <apex:page> component’s renderAs
+    attribute.
 
 # getContentAsPDF()
 
@@ -36,3 +40,13 @@ You also can’t use the method to retrieve the output of a different Visualforc
 ```
 
 ```
+
+## Code Examples
+
+```
+new PageReference(Site.getBaseUrl() + '/apex/VisualforcePageName').getContentAsPDF();
+```
+
+## Related Topics
+
+- Blob (atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm)

@@ -5,11 +5,15 @@ topic: connectapifeedelementcapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:38.782Z
-keywords: [ConnectApi.FeedElementCapabilities, See]
+lastCollected: 2026-03-12T05:14:27.346Z
+estimatedTokens: 1534
+keywords: [ConnectApi.FeedElementCapabilities, container, capabilities, included, feed, element.]
 ---
 
 # ConnectApi.FeedElementCapabilities
+
+> A container for all capabilities that
+can be included with a feed element.
 
 # ConnectApi.FeedElementCapabilities
 
@@ -58,5 +62,18 @@ A container for all capabilities that can be included with a feed element.
 #### See Also
 
 -   [ConnectApi.FeedElement](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element.htm "Feed elements are the top-level items that a feed contains. Feeds are feed element containers.")
-    
+
 -   [ConnectApi.FeedItemSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_summary.htm "A feed item summary.")
+
+## Related Topics
+
+- ConnectApi.​ApprovalCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_approval_capability.htm)
+- ConnectApi.​AssociatedActions​Capability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_associated_actions_capability.htm)
+- ConnectApi.​BannerCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_banner_capability.htm)
+- ConnectApi.​BookmarksCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_bookmarks_capability.htm)
+- ConnectApi.​BundleCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_bundle_capability.htm)
+- ConnectApi.​CallCollaboration​Capability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_call_collaboration_capability.htm)
+- ConnectApi.​CanvasCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_canvas_capability.htm)
+- ConnectApi.​CaseComment​Capability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_case_comment_capability.htm)
+- ConnectApi.​ChatterLikes​Capability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_likes_capability.htm)
+- ConnectApi.​CloseCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_close_capability.htm)

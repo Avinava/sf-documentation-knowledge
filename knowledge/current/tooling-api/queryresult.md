@@ -5,11 +5,17 @@ topic: queryresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:38.575Z
-keywords: [QueryResult, Fields, QueryLocator, Metadata]
+lastCollected: 2026-03-12T05:14:46.542Z
+estimatedTokens: 530
+keywords: [QueryResult, Represents, results, query., example, query, EntityDefinition, layouts, entity, returned, array, objects, Layouts, field., Tooling, API, version, 34.0, later., Fields]
 ---
 
 # QueryResult
+
+> Represents the results of a query. For example, if you query on the object
+        EntityDefinition, all the layouts for that entity are returned as an array of QueryResult
+        objects in the Layouts field. Available in Tooling API version 34.0 and
+        later.
 
 # QueryResult
 

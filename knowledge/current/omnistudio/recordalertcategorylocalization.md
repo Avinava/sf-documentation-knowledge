@@ -5,11 +5,15 @@ topic: recordalertcategorylocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:12.135Z
-keywords: [RecordAlertCategoryLocalization, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:54.233Z
+estimatedTokens: 313
+keywords: [RecordAlertCategoryLocalization, Represents, translated, label, RecordAlertCategory, metadata, type., API, version, 54.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # RecordAlertCategoryLocalization
+
+> Represents the translated label of a RecordAlertCategory metadata type.
+      This object is available in API version 54.0 and later.
 
 # RecordAlertCategoryLocalization
 

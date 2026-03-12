@@ -5,11 +5,14 @@ topic: connectapicommerceaddresscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.351Z
-keywords: [ConnectApi.CommerceAddressCollection]
+lastCollected: 2026-03-12T05:14:26.669Z
+estimatedTokens: 270
+keywords: [ConnectApi.CommerceAddressCollection, collection, Commerce, addresses.]
 ---
 
 # ConnectApi.CommerceAddressCollection
+
+> A collection of Commerce addresses.
 
 # ConnectApi.CommerceAddressCollection
 
@@ -27,3 +30,11 @@ A collection of Commerce addresses.
 | previousPageToken | String | Token to previous page of addresses. | 54.0 |
 | previousPageUrl | String | URL to the previous page of addresses. | 54.0 |
 | sortOrder | ConnectApi.CommerceAddressSort | Sort order for Commerce addresses.CreatedDateAsc—Sort in ascending order of created date.CreatedDateDesc—Sort in descending order of created date.NameAsc—Sort in ascending order of name.NameDesc—Sort in descending order of name. | 54.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.CommerceAddressOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_commerce_address_output.htm)
+- ConnectApi.CommerceAddressSort (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

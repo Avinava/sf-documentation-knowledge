@@ -5,11 +5,16 @@ topic: sobject-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.654Z
-keywords: [sObject, Describe, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:35.984Z
+estimatedTokens: 696
+keywords: [sObject, Describe, Completely, describes, individual, metadata, levels, specified, object., example, used, retrieve, fields, URLs, child, relationships, Account, Syntax, Example]
 ---
 
 # sObject Describe
+
+> Completely describes the individual metadata at all levels for the specified object.
+		For example, this can be used to retrieve the fields, URLs, and child relationships for the
+		Account object.
 
 # sObject Describe
 
@@ -52,5 +57,11 @@ See [Get Field and Other Metadata for an Object](atlas.en-us.api_rest.meta/api_r
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
-    
+
 -   [Conditional Request Headers](atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm "Use a conditional request header to validate resources before accessing them. By setting a precondition in the header, you ensure that your request succeeds only if that precondition is met. This functionality helps you prevent mistakes and reject outdated requests when updating Salesforce data. You can implement a variety of techniques with conditional request headers, such as response caching.")
+
+## Related Topics
+
+- Get Field and Other Metadata for an Object (atlas.en-us.api_rest.meta/api_rest/dome_sobject_describe.htm)
+- Get Object Metadata Changes (atlas.en-us.api_rest.meta/api_rest/sobject_describe_with_ifmodified_header.htm)
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)

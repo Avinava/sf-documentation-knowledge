@@ -4,12 +4,16 @@ domain: apex-reference
 topic: getpartyexpensestatuslabel
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.538Z
-keywords: [GetPartyExpenseStatusLabel, Signature, Return, Value]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.716Z
+estimatedTokens: 65
+keywords: [GetPartyExpenseStatusLabel, picklist, values, party, expense, status, field, entity.]
 ---
 
 # GetPartyExpenseStatusLabel
+
+> Returns the picklist values for the party expense status field on
+            the party expense entity.
 
 # GetPartyExpenseStatusLabel
 

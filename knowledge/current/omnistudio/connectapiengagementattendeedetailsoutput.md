@@ -5,11 +5,15 @@ topic: connectapiengagementattendeedetailsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.823Z
-keywords: [ConnectApi.EngagementAttendeeDetailsOutput]
+lastCollected: 2026-03-12T05:14:47.746Z
+estimatedTokens: 317
+keywords: [ConnectApi.EngagementAttendeeDetailsOutput, Output, representation, create, engagement, attendee, record.]
 ---
 
 # ConnectApi.EngagementAttendeeDetailsOutput
+
+> Output representation to create an engagement attendee
+    record.
 
 # ConnectApi.EngagementAttendeeDetailsOutput
 
@@ -29,3 +33,7 @@ Output representation to create an engagement attendee record.
 | role | String | The role of the EngagementAttendee. | 56.0 |
 | startDateTime | String | The start date and time of an engagement interaction. | 55.0 |
 | verificationTime | String | The value of the VerificationTime field for an EngagementAttendee. | 56.0 |
+
+## Related Topics
+
+- ConnectApi.EngagementCustomFieldsOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_custom_field_output.htm)

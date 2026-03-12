@@ -5,11 +5,15 @@ topic: send-e-sign-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.498Z
-keywords: [Send, e-Sign, Contract, Action, Supported, REST, HTTP, Methods, Inputs, Output, Usage]
+lastCollected: 2026-03-12T05:14:47.345Z
+estimatedTokens: 347
+keywords: [Send, e-Sign, Contract, Action, contract, specified, recipients, e-signature., Supported, REST, HTTP, Inputs, Output, Usage]
 ---
 
 # Send e-Sign Contract Action
+
+> Send a contract to specified recipients for
+  e-signature.
 
 # Send e-Sign Contract Action
 
@@ -67,4 +71,22 @@ This sample response is for the Send e-Sign Contract action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "contractId": "800SG00000HtyxxYAB",
+  "eSignatureVendorName": "SampleVendor",
+  "emailTemplateName": "SampleVendorEmailTemplate",
+  "getDocumentsApexClassName": "GetEsignDocuments",
+  "getRecipientsApexClassName": "GetEsignRecipients"
+}
+```
+
+```
+{
+  "sentContractId": "800SG00000Hty4zYAB"
+}
 ```

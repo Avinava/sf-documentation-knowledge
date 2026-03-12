@@ -5,11 +5,15 @@ topic: switch-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.186Z
-keywords: [Switch, Statements, Note, Blocks, Else, Block, Examples, Literals, Example, sObjects, Enums]
+lastCollected: 2026-03-12T05:14:34.871Z
+estimatedTokens: 848
+keywords: [Switch, Statements, Apex, provides, switch, statement, tests, whether, expression, matches, several, values, branches, accordingly., Note, Blocks, Else, Block, Examples, Literals]
 ---
 
 # Switch Statements
+
+> Apex provides a switch statement that tests
+        whether an expression matches one of several values and branches accordingly.
 
 # Switch Statements
 
@@ -137,4 +141,52 @@ A switch statement that uses enum when values doesn’t require a when else bloc
 
 ```
 
+```
+
+## Code Examples
+
+```
+switch on expression {
+    when value1 {		// when block 1
+        // code block 1
+    }	
+    when value2 {		// when block 2
+        // code block 2
+    }
+    when value3 {		// when block 3
+        // code block 3
+    }
+    when else {		  // default block, optional
+        // code block 4
+    }
+}
+```
+
+```
+when value1 {
+}
+```
+
+```
+when value2, value3 {
+}
+```
+
+```
+when TypeName VariableName {
+}
+```
+
+```apex
+switch on i {
+   when 2 {
+       System.debug('when block 2');
+   }
+   when -3 {
+       System.debug('when block -3');
+   }
+   when else {
+       System.debug('default');
+   }
+}
 ```

@@ -5,11 +5,16 @@ topic: device-application-template-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.333Z
-keywords: [Device, Application, Template, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.902Z
+estimatedTokens: 758
+keywords: [Device, Application, Template, DMO, Data, Cloud, data, model, reusable, standard, format, applications, exchange, information, between, devices., API, Name, Category, Primary]
 ---
 
 # Device Application Template DMO
+
+> The Device Application Template DMO is a Data Cloud data model object
+		(DMO) for a reusable standard format for applications to exchange information between
+		devices.
 
 # Device Application Template DMO
 

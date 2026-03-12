@@ -5,11 +5,16 @@ topic: testsetup-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.504Z
-keywords: [TestSetup, Annotation, Syntax, Note]
+lastCollected: 2026-03-12T05:14:32.498Z
+estimatedTokens: 545
+keywords: [TestSetup, Annotation, defined, @TestSetup, annotation, used, creating, common, test, records, class., Syntax, Note]
 ---
 
 # TestSetup Annotation Annotation
+
+> Methods defined with the @TestSetup annotation
+        are used for creating common test records that are available for all test methods in the
+        class.
 
 # TestSetup Annotation Annotation
 
@@ -37,3 +42,17 @@ For more information, see [Using Test Setup Methods](atlas.en-us.apexcode.meta/a
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_SuppressWarnings.htm "SuppressWarnings Annotation Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testvisible.htm "TestVisible Annotation Annotation")
+
+## Code Examples
+
+```
+@TestSetup static void methodName() {
+
+}
+```
+
+## Related Topics
+
+- Using Test Setup Methods (atlas.en-us.apexcode.meta/apexcode/apex_testing_testsetup_using.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_SuppressWarnings.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testvisible.htm)

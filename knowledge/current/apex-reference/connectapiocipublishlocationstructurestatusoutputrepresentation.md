@@ -5,11 +5,15 @@ topic: connectapiocipublishlocationstructurestatusoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.403Z
-keywords: [ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.142Z
+estimatedTokens: 293
+keywords: [ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation, Detailed, status, publish, location, structure, job.]
 ---
 
 # ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation
+
+> Detailed status of a publish location structure
+    job.
 
 # ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation
 
@@ -28,3 +32,10 @@ Subclass of [ConnectApi.OCIBaseOutputRepresentation](atlas.en-us.apexref.meta/ap
 | uploadId | String | Identifier of the job. | 51.0 |
 | validationErrors | List<String> | List of any validation errors returned by the job. | 51.0 |
 | validationStatus | String | The validation status of the job. | 51.0 |
+
+## Related Topics
+
+- ConnectApi.OCIBaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_base_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

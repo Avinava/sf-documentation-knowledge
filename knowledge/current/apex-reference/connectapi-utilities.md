@@ -5,11 +5,18 @@ topic: connectapi-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:42.454Z
-keywords: [ConnectApi, Utilities, Example]
+lastCollected: 2026-03-12T05:14:32.049Z
+estimatedTokens: 196
+namespace: ConnectApi
+keywords: [ConnectApi, Utilities, contains, utility, class., Example]
 ---
 
 # ConnectApi Utilities
+
+> The ConnectApi namespace contains a
+                utility class.
+
+**Namespace:** `ConnectApi`
 
 # ConnectApi Utilities
 
@@ -26,3 +33,39 @@ This example calls [getManagedContentForSite(siteId, contentKeyOrId, showAbsolut
 ```
 
 ```
+
+## Code Examples
+
+```apex
+ConnectApi.ManagedContentDeliveryDocument res = 
+    ConnectApi.ManagedContentDelivery.getManagedContentForSite ('0DMXXXXXXXXXXXXXXX','MCLXXXXXXXXXXXXXXXXXXXXXXXXX',true);
+
+//before contentBody field ApexWrapper is unwrapped 
+system.debug(res.contentBody); 
+
+//unwrap contentBody field in res
+Map<String,Object> contentBody = (Map<String,Object>)ConnectApi.ConnectUtilities.unwrapApexWrapper(res.contentBody);
+
+//after contentBody field ApexWrapper is unwrapped, but image field still wrapped
+system.debug(contentBody);
+
+//before image field ApexWrapper is unwrapped 
+system.debug(contentBody.get('Image')); 
+
+//unwrap Image field in contentBody
+Map<String,Object> Image = (Map<String,Object>)ConnectApi.ConnectUtilities.unwrapApexWrapper(contentBody.get('Image'));
+
+//after image field ApexWrapper is unwrapped 
+system.debug(Image); 
+
+//replace wrapped primary_image in contentBody with unwrapped version
+contentBody.put('Image', Image);
+
+//after contentBody field ApexWrapper is unwrapped, with image field also unwrapped
+system.debug(contentBody);
+```
+
+## Related Topics
+
+- getManagedContentForSite(siteId, contentKeyOrId,
+                                                showAbsoluteUrl) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentDelivery_static_methods.htm)

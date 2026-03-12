@@ -5,11 +5,15 @@ topic: wildcards
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.953Z
-keywords: [Wildcards]
+lastCollected: 2026-03-12T05:14:34.517Z
+estimatedTokens: 499
+keywords: [Wildcards, wildcard, characters, match, text, patterns, Connect, REST, API, Apex, searches.]
 ---
 
 # Wildcards
+
+> Use wildcard characters to match text patterns in Connect REST API and Connect in Apex
+    searches.
 
 # Wildcards
 
@@ -39,3 +43,13 @@ When using wildcards, consider the following notes:
 -   The more focused your wildcard search, the faster the search results are returned, and the more likely the results will reflect your intention. For example, to search for all occurrences of the word prospect (or prospects, the plural form), it is more efficient to specify prospect\* in the search string than to specify a less restrictive wildcard search (such as prosp\*) that could return extraneous matches (such as prosperity).
 -   Tailor your searches to find all variations of a word. For example, to find property and properties, you would specify propert\*.
 -   Punctuation is indexed. To find \* or ? inside a phrase, you must enclose your search string in quotation marks and you must escape the special character. For example, "where are you\\?" finds the phrase where are you?. The escape character (\\) is required in order for this search to work correctly.
+
+## Code Examples
+
+```
+/chatter/feed-elements?q=chat*
+```
+
+```
+ConnectApi.ChatterFeeds.searchFeedElements(null, 'chat*');
+```

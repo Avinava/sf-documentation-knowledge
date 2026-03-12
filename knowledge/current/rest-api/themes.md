@@ -5,11 +5,17 @@ topic: themes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.795Z
-keywords: [Themes, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.187Z
+estimatedTokens: 689
+keywords: [Themes, list, icons, colors, used, themes, Salesforce, application., Theme, information, provided, objects, organization, UI., resource, REST, API, version, 29.0, later.]
 ---
 
 # Themes
+
+> Gets the list of icons and colors used by themes in the
+            Salesforce application. Theme information is provided for objects in your
+        organization that use icons and colors in the Salesforce UI. This resource is available in
+        REST API version 29.0 and later.
 
 # Themes
 
@@ -75,4 +81,43 @@ Each theme icon contains the following fields:
 
 ```
 
+```
+
+## Code Examples
+
+```
+{ 
+    "themeItems" : [ 
+    { 
+        "name" : "Merchandise__c", 
+        "icons" : [ 
+        { 
+            "contentType" : "image/png", 
+            "width" : 32, 
+            "url" : "https://MyDomainName.my.salesforce.com/img/icon/computer32.png", 
+            "height" : 32, 
+            "theme" : "theme3" 
+        }, 
+        { 
+            "contentType" : "image/png", 
+            "width" : 16, 
+            "url" : "https://MyDomainName.my.salesforce.com/img/icon/computer16.png", 
+            "height" : 16, 
+            "theme" : "theme3" 
+        } ], 
+        "colors" : [ 
+        { 
+            "context" : "primary", 
+            "color" : "6666CC", 
+            "theme" : "theme3" 
+        }, 
+        { 
+            "context" : "primary", 
+            "color" : "66895F", 
+            "theme" : "theme4" 
+        }, 
+    ...
+    }
+...
+}
 ```

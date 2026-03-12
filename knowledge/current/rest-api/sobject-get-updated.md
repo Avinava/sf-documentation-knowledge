@@ -5,11 +5,16 @@ topic: sobject-get-updated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.368Z
-keywords: [sObject, Get, Updated, Syntax, Examples, See]
+lastCollected: 2026-03-12T05:14:35.565Z
+estimatedTokens: 828
+keywords: [sObject, Get, Updated, Retrieves, list, individual, records, updated, added, changed, within, given, timespan, specified, object., resource, REST, API, version, 31.0]
 ---
 
 # sObject Get Updated
+
+> Retrieves the list of individual records that have been updated (added or changed)
+    within the given timespan for the specified object. This resource is available in REST API
+    version 31.0 and later.
 
 # sObject Get Updated
 
@@ -63,3 +68,8 @@ For an example of getting a list of updated deleted items, see [Get a List of Up
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Valid Date and DateTime Formats (atlas.en-us.api_rest.meta/api_rest/intro_valid_date_formats.htm)
+- Get a List of Updated Records Within a Given Timeframe (atlas.en-us.api_rest.meta/api_rest/dome_get_updated.htm)

@@ -5,11 +5,14 @@ topic: searchlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.741Z
-keywords: [SearchLayout, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, SearchLayoutButtonsDisplayed, SearchLayoutButton, SearchLayoutFieldsDisplayed, SearchLayoutField]
+lastCollected: 2026-03-12T05:14:46.781Z
+estimatedTokens: 1087
+keywords: [SearchLayout, Represents, search, layout, defined, object., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields, SearchLayoutButtonsDisplayed, SearchLayoutButton, SearchLayoutFieldsDisplayed, SearchLayoutField]
 ---
 
 # SearchLayout
+
+> Represents a search layout defined for an object.
 
 # SearchLayout
 
@@ -74,3 +77,8 @@ GET
 | apiName | TypestringDescriptionThe API name of the field. |
 | label | TypestringDescriptionThe field’s label text. |
 | sortable | TypebooleanDescriptionIf true, the fields can be sorted. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

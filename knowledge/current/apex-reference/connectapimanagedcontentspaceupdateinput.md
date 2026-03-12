@@ -5,11 +5,14 @@ topic: connectapimanagedcontentspaceupdateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.292Z
-keywords: [ConnectApi.ManagedContentSpaceUpdateInput, See]
+lastCollected: 2026-03-12T05:14:25.119Z
+estimatedTokens: 167
+keywords: [ConnectApi.ManagedContentSpaceUpdateInput, Update, name, description, managed, content, space.]
 ---
 
 # ConnectApi.ManagedContentSpaceUpdateInput
+
+> Update the name or description of a managed content space.
 
 # ConnectApi.ManagedContentSpaceUpdateInput
 
@@ -23,3 +26,8 @@ Update the name or description of a managed content space.
 #### See Also
 
 -   [patchManagedContentSpace(contentSpaceId, ManagedContentSpaceUpdateInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm#apex_ConnectAPI_ManagedContentSpaces_patchManagedContentSpace_3 "Update the name or description of a managed content space.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- patchManagedContentSpace(contentSpaceId, ManagedContentSpaceUpdateInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm)

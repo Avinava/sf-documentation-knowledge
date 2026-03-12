@@ -5,11 +5,14 @@ topic: data-mapper-execution-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.267Z
-keywords: [Data, Mapper, Execution, Details]
+lastCollected: 2026-03-12T05:14:49.931Z
+estimatedTokens: 174
+keywords: [Data, Mapper, Execution, Details, Output, representation, execution, details, data, mapper.]
 ---
 
 # Data Mapper Execution Details
+
+> Output representation of the execution details of a data mapper.
 
 # Data Mapper Execution Details
 
@@ -26,3 +29,26 @@ JSON example
 | error | String | Error message if the execution fails. | Small, 64.0 | 64.0 |
 | response | Data Mapper Execution Response [] | List of responses corresponding to the custom inputs that are provided during the data mapper execution. | Small, 64.0 | 64.0 |
 | status | String | Execution status of the data mapper. Valid values are:Error—Data mapper execution has failed due to an error.Success—Data mapper execution is successful. | Small, 64.0 | 64.0 |
+
+## Code Examples
+
+```
+{
+  "response": [
+    {
+      "error": "Specify a Data Mapper name",
+      "response": [
+        {
+          "status": false
+        }
+      ],
+      "responseType": "JSON"
+    }
+  ],
+  "status": "Success"
+}
+```
+
+## Related Topics
+
+- Data Mapper Execution Response (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_data_mapper_execution_response_output.htm)

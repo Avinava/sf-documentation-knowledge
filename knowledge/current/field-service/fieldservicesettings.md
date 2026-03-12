@@ -5,11 +5,14 @@ topic: fieldservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.389Z
-keywords: [FieldServiceSettings, Version, Fields, ObjectMappingItem, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:55.749Z
+estimatedTokens: 2743
+keywords: [FieldServiceSettings, Represents, organization’s, Field, Service, settings., Version, Fields, ObjectMappingItem, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
 
 # FieldServiceSettings
+
+> Represents an organization’s Field Service settings.
 
 # FieldServiceSettings
 
@@ -104,3 +107,66 @@ This sample file shows a subset of the possible field service settings that you 
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see Settings. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldServiceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+   <doesAllowEditSaForCrew>false</doesAllowEditSaForCrew>
+   <doesShareSaParentWoWithAr>false</doesShareSaParentWoWithAr>
+   <doesShareSaWithAr>false</doesShareSaWithAr>
+   <enableWorkOrders>false</enableWorkOrders>
+   <enableWorkPlansAutoGeneration>true</enableWorkPlansAutoGeneration>
+   <fieldServiceNotificationsOrgPref>false</fieldServiceNotificationsOrgPref>
+   <fieldServiceOrgPref>true</fieldServiceOrgPref>
+   <isGeoCodeSyncEnabled>false</isGeoCodeSyncEnabled>
+   <isLocationHistoryEnabled>false</isLocationHistoryEnabled>
+   <o2EngineEnabled>false</o2EngineEnabled>
+   <objectMappingItem>
+      <mappingType>WorkPlans_WorkPlanTemplate_WorkPlan</mappingType>
+      <objectMapping>
+         <inputObject>WorkPlanTemplate</inputObject>
+         <mappingFields>
+            <inputField>WorkPlanTemplate_CustomNumberField__c</inputField>
+            <outputField>WorkPlan_CustomNumberField__c</outputField>
+         </mappingFields>
+         <mappingFields>
+            <inputField>WorkPlanTemplate_CustomTextField__c</inputField>
+            <outputField>WorkPlan_CustomPicklistField__c</outputField>
+         </mappingFields>
+         <outputObject>WorkPlan</outputObject>
+      </objectMapping>
+   </objectMappingItem>
+   <objectMappingItem>
+      <mappingType>WorkPlans_WorkStepTemplate_WorkStep</mappingType>
+      <objectMapping>
+         <inputObject>WorkStepTemplate</inputObject>
+         <mappingFields>
+            <inputField>WokStepTemplate_CustomNumberField__c</inputField>
+            <outputField>WokStep_CustomNumberField__c</outputField>
+         </mappingFields>
+         <mappingFields>
+            <inputField>WokStepTemplate_CustomTextField__c</inputField>
+            <outputField>WokStep_CustomTextField__c</outputField>
+         </mappingFields>
+         <outputObject>WorkStep</outputObject>
+      </objectMapping>
+   </objectMappingItem>
+   <objectMappingItem>
+      <mappingType>WorkPlans_WorkPlanTemplateEntry_WorkStep</mappingType>
+      <objectMapping>
+         <inputObject>WorkPlanTemplateEntry</inputObject>
+         <mappingFields>
+            <inputField>WorkPlanTemplateEntry_CustomDateField__c</inputField>
+            <outputField>WokStep_CustomDateField__c</outputField>
+         </mappingFields>
+         <outputObject>WorkStep</outputObject>
+      </objectMapping>
+   </objectMappingItem>
+   <optimizationServiceAccess>false</optimizationServiceAccess>
+   <serviceAppointmentsDueDateOffsetOrgValue>7</serviceAppointmentsDueDateOffsetOrgValue>
+   <workOrderLineItemSearchFields>Subject</workOrderLineItemSearchFields>
+   <workOrderSearchFields>Subject</workOrderSearchFields>
+</FieldServiceSettings>
+```

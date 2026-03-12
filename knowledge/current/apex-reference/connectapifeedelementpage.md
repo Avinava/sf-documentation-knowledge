@@ -5,11 +5,14 @@ topic: connectapifeedelementpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.789Z
-keywords: [ConnectApi.FeedElementPage, See]
+lastCollected: 2026-03-12T05:14:27.357Z
+estimatedTokens: 506
+keywords: [ConnectApi.FeedElementPage, paged, collection, ConnectApi.FeedElement, objects.]
 ---
 
 # ConnectApi.FeedElementPage
+
+> A paged collection of ConnectApi.FeedElement objects.
 
 # ConnectApi.FeedElementPage
 
@@ -30,5 +33,13 @@ A paged collection of ConnectApi.FeedElement objects.
 #### See Also
 
 -   [ConnectApi.BundleCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_bundle_capability.htm "If a feed element has this capability, it has a container of feed elements called a bundle.")
-    
+
 -   [ConnectApi.Feed](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed.htm "Chatter feed.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​FeedElement (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element.htm)
+- ConnectApi.BundleCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_bundle_capability.htm)
+- ConnectApi.Feed (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed.htm)

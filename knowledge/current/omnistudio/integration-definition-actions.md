@@ -5,11 +5,17 @@ topic: integration-definition-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.474Z
-keywords: [Integration, Definition, Actions, Supported, REST, HTTP, Methods, Industries, Send, Apex, Async, Request, External]
+lastCollected: 2026-03-12T05:14:47.319Z
+estimatedTokens: 1235
+keywords: [Integration, Definition, Actions, Perform, asynchronous, operation, configured, without, blocking, invoking, flow., results, published, platform, event., calling, flow, wait, Platform, Event]
 ---
 
 # Integration Definition Actions
+
+> Perform the asynchronous operation configured in an Integration
+      Definition without blocking the invoking flow. The results of the asynchronous operation
+    are published in a platform event. The calling flow can wait for the Platform Event using a
+    pause step if required. The asynchronous operation is typically an API call.
 
 # Integration Definition Actions
 

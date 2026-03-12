@@ -5,11 +5,18 @@ topic: rulesappln-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:42.198Z
-keywords: [RulesAppln, Namespace]
+lastCollected: 2026-03-12T05:14:31.716Z
+estimatedTokens: 332
+namespace: RulesAppln
+keywords: [RulesAppln, contains, output, classes, store, details, rules-based, application, payments, credits.]
 ---
 
 # RulesAppln Namespace
+
+> The RulesAppln namespace contains output classes that store details about a
+        rules-based application of payments and credits.
+
+**Namespace:** `RulesAppln`
 
 # RulesAppln Namespace
 

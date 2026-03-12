@@ -5,11 +5,16 @@ topic: authorization-reversal-apex-class-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.716Z
-keywords: [Authorization, Reversal, Apex, Class, Implementation, Note, Implementing, Classes, Gateway, Adapter]
+lastCollected: 2026-03-12T05:14:32.804Z
+estimatedTokens: 495
+keywords: [Authorization, Reversal, Apex, Implementation, Service, uses, AuthorizationReversalRequest, AuthorizationReversalResponse, classes, manage, creation, storage, authorization, reversal, information., Implement, payment, gateway, adapter., Note]
 ---
 
 # Authorization Reversal Apex Class Implementation
+
+> The Authorization Reversal Service uses the AuthorizationReversalRequest and AuthorizationReversalResponse classes to manage the creation and storage of
+  authorization reversal information. Implement these classes in your payment gateway
+  adapter.
 
 # Authorization Reversal Apex Class Implementation
 
@@ -65,4 +70,56 @@ Then, add a class that sets the amount of the authorization reversal request, ga
 
 ```
 
+```
+
+## Code Examples
+
+```
+CommercePayments.AuthorizationReversalRequest arr = new CommercePayments.AuthorizationReversalRequest();
+```
+
+```
+commercepayments.AuthorizationReversalRequest authorizationReversalRequest = 
+new commercepayments.AuthorizationReversalRequest(80, authObj.id);
+```
+
+```
+CommercePayments.AuthorizationReversalResponse arp = new CommercePayments.AuthorizationReversalResponse();
+```
+
+```apex
+global commercepayments.GatewayResponse processRequest(commercepayments.paymentGatewayContext gatewayContext) {
+        commercepayments.RequestType requestType = gatewayContext.getPaymentRequestType();
+        commercepayments.GatewayResponse response;
+        
+        try {
+        //add conditions for other requestType values here
+        //..
+        else if (requestType == commercepayments.RequestType.AuthorizationReversal) {
+                response = createAuthReversalResponse((commercepayments.AuthorizationReversalRequest)gatewayContext.getPaymentRequest());}
+        
+        return response;
+```
+
+```apex
+global commercepayments.GatewayResponse createAuthReversalResponse(commercepayments.AuthorizationReversalRequest authReversalRequest) {
+        commercepayments.AuthorizationReversalResponse authReversalResponse = new commercepayments.AuthorizationReversalResponse();
+        if(authReversalRequest.amount!=null )
+        {
+            authReversalResponse.setAmount(authReversalRequest.amount);
+        }
+        else
+        {
+             throw new SalesforceValidationException('Required Field Missing : Amount');             
+        }
+   
+        system.debug('Response - success');
+        authReversalResponse.setGatewayDate(system.now());
+        authReversalResponse.setGatewayResultCode('00');
+        authReversalResponse.setGatewayResultCodeDescription('Transaction Normal');
+        //Replace 'xxxxx' with the gateway reference number.
+        authReversalResponse.setGatewayReferenceNumber('SF'+xxxxx);
+        authReversalResponse.setSalesforceResultCodeInfo(SUCCESS_SALESFORCE_RESULT_CODE_INFO);
+        return authReversalResponse;
+    }
 ```

@@ -7,13 +7,18 @@ topic: choose-a-salesforce-org-for-apex-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.229Z
-keywords: [Choose, Salesforce, Org, Apex, Development, Sandboxes, Recommended, Scratch, Orgs, Developer, Edition, Trial, Production, Supported]
+lastCollected: 2026-03-12T05:14:33.520Z
+estimatedTokens: 764
+keywords: [Choose, Salesforce, Org, Apex, Development, develop, sandbox, scratch, org, Developer, Edition, directly, production, org., many, choices, here’s, help, determine, which]
 ---
 
 # Choose a Salesforce
         Org for Apex
         Development
+
+> You can develop Apex in a sandbox, scratch org, or Developer Edition org, but not
+        directly in a production org. With so many choices, here’s some help to determine which org
+        type is right for you and how to create it.
 
 # Choose a Salesforce Org for Apex Development
 

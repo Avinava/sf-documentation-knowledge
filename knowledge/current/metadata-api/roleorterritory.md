@@ -5,11 +5,15 @@ topic: roleorterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.469Z
-keywords: [RoleOrTerritory, Version, Note, Fields, Declarative, Metadata, Sample, Definition, See]
+lastCollected: 2026-03-12T05:14:42.532Z
+estimatedTokens: 662
+keywords: [RoleOrTerritory, Represents, common, base, valid, values, role, territory., Version, Note, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # RoleOrTerritory
+
+> Represents the common base type and valid values for
+   role or territory.
 
 # RoleOrTerritory
 
@@ -54,5 +58,38 @@ The following is the definition of a territory.
 #### See Also
 
 -   [Role](atlas.en-us.api_meta.meta/api_meta/meta_role.htm "Represents a role in your organization.")
-    
+
 -   [Territory](atlas.en-us.api_meta.meta/api_meta/meta_territory.htm "Represents a territory.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Role xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseAccessLevel>Edit</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <description>Sample Role</description>
+    <mayForecastManagerShare>false</mayForecastManagerShare>
+    <name>R22</name>
+    <opportunityAccessLevel>Read</opportunityAccessLevel>
+</Role>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accountAccessLevel>Edit</accountAccessLevel>
+    <caseAccessLevel>Edit</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <description>Sample Territory</description>
+    <mayForecastManagerShare>false</mayForecastManagerShare>
+    <name>T22name</name>
+    <opportunityAccessLevel>Read</opportunityAccessLevel>
+</Territory>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Role (atlas.en-us.api_meta.meta/api_meta/meta_role.htm)
+- Territory (atlas.en-us.api_meta.meta/api_meta/meta_territory.htm)

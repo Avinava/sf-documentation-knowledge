@@ -5,11 +5,16 @@ topic: query-customer-profile-information-with-profile-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.405Z
-keywords: [Query, Customer, Profile, Information, API, Note, Key, Properties, Call, Reference, Connected, App, Setup, Important, Acquire, Exchange, Access, Token, Data, Cloud]
+lastCollected: 2026-03-12T05:14:12.411Z
+estimatedTokens: 1702
+keywords: [Query, Customer, Profile, Information, API, Data, Cloud, calls, used, look, search, customer, profile, information., included, external, web, mobile, apps, Note]
 ---
 
 # Query Customer Profile Information with Profile API
+
+> Data Cloud Profile API calls are used to look up and search customer
+    profile information. These API calls can be included in your external web or mobile apps to look
+    up customer profile information.
 
 # Query Customer Profile Information with Profile API
 
@@ -37,11 +42,11 @@ Unified profile objects that are filtered on the index column have accelerated r
 -   There are no limits on the number of filters you can have in your query.
 -   The default return limit is 49,999 rows. A max limit of 49,999 is allowed.
 -   For date and time fields, use the format:
-    
+
     ```
-    
+
     ```
-    
+
 
 ## Call Reference
 
@@ -80,19 +85,36 @@ If you receive the User hasn't approved this consumer yet error message, double-
 -   In the self-authorization URL, set the scope parameter value as api refresh\_token cdpquery cdpprofile.
 -   The first time you call the self-authorization URL, you must respond to a consent page asking for permission for each of the scopes you requested in the URL.
 
--   **[GET /api/v1/profile/metadata](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_meta.htm)**  
+-   **[GET /api/v1/profile/metadata](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_meta.htm)**
     Returns the list of data model objects, their fields, and category.
--   **[GET /api/v1/profile/metadata/{dataModelName}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_meta_dmname.htm)**  
+-   **[GET /api/v1/profile/metadata/{dataModelName}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_meta_dmname.htm)**
     Returns the metadata for the data model object. Metadata includes the list of fields, data types, and indexes available for lookup.
--   **[GET /api/v1/profile/{dataModelName}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname.htm)**  
+-   **[GET /api/v1/profile/{dataModelName}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname.htm)**
     Returns data model objects based on search filters. Use this API call to retrieve the object records after applying the selected filters.
--   **[GET /api/v1/profile/{dataModelName}/{Id}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id.htm)**  
+-   **[GET /api/v1/profile/{dataModelName}/{Id}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id.htm)**
     Returns data model objects based on search indexes and filters. Use this API call to retrieve the object record based on the primary key or secondary keys. Returns an empty list when records aren’t found.
--   **[GET /api/v1/profile/{dataModelName}/{Id}/{childDataModelName}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id_child_dmname.htm)**  
+-   **[GET /api/v1/profile/{dataModelName}/{Id}/{childDataModelName}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id_child_dmname.htm)**
     Returns data model objects and child objects based on indexes and search filters.
--   **[GET /api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id_ci_ci_name.htm)**  
+-   **[GET /api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id_ci_ci_name.htm)**
     Returns data model objects and a computed view based on indexes and search filters.
 
 #### See Also
 
 -   [API Limits for Profile, Query, and Calculated Insights](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_limits.htm "There are three distinct classes of APIs used to extract data from Data Cloud (formerly Customer Data Platform): Profile, Query, and Calculated Insights.")
+
+## Code Examples
+
+```
+Date/DateTime BirthDate__c=1990-07-12 00:00:00
+```
+
+## Related Topics
+
+- GET /api/v1/profile/metadata (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_meta.htm)
+- GET /api/v1/profile/metadata/{dataModelName} (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_meta_dmname.htm)
+- GET /api/v1/profile/{dataModelName} (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname.htm)
+- GET /api/v1/profile/{dataModelName}/{Id} (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id.htm)
+- GET /api/v1/profile/{dataModelName}/{Id}/{childDataModelName} (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id_child_dmname.htm)
+- GET /api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name} (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_profile_dmname_id_ci_ci_name.htm)
+- Getting Started (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm)
+- API Limits for Profile, Query, and Calculated Insights (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_limits.htm)

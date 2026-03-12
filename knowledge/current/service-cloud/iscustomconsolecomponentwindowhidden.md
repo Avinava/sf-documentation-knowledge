@@ -5,11 +5,16 @@ topic: iscustomconsolecomponentwindowhidden
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.078Z
-keywords: [isCustomConsoleComponentWindowHidden, Note, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.541Z
+estimatedTokens: 420
+keywords: [isCustomConsoleComponentWindowHidden, Determines, application-level, custom, console, component, window, hidden., API, versions, 25.0, through, 31.0., Note, Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # isCustomConsoleComponentWindowHidden()
+
+> Determines if the application-level
+            custom console component window is hidden. This method is available in API versions
+        25.0 through 31.0.
 
 # isCustomConsoleComponentWindowHidden()
 
@@ -47,3 +52,38 @@ This method is asynchronous, so it returns its response in an object in a callba
 | --- | --- | --- |
 | hidden | boolean | true if the custom console component window is hidden; false if the custom console component window is visible. |
 | success | boolean | true if returning the custom console component window visibility was successful; false if returning the custom console component window visibility wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.isCustomConsoleComponentWindowHidden((optional) callback:Function)
+```
+
+```
+<apex:page>
+
+     <A HREF="#" onClick="testIsCustomConsoleComponentWindowHidden();return false">
+         Click here to check if the custom console component window is hidden</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testIsCustomConsoleComponentWindowHidden() {
+            sforce.console.isCustomConsoleComponentWindowHidden(checkWindowVisibility);
+        }
+        
+        var checkWindowVisibility = function checkWindowVisibility(result) {
+            //Display the window visibility
+            if (result.success) {
+              alert('Is window hidden: ' + result.hidden);
+            } else {
+              alert('Error!');
+            }
+        }
+  </script>
+
+</apex:page>
+```
+
+## Related Topics
+
+- isCustomConsoleComponentHidden() (atlas.en-us.api_console.meta/api_console/sforce_api_console_iscustomconsolecomponenthidden.htm)

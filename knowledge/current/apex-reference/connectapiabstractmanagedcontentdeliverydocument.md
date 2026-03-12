@@ -5,11 +5,14 @@ topic: connectapiabstractmanagedcontentdeliverydocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.788Z
-keywords: [ConnectApi.AbstractManagedContentDeliveryDocument, See]
+lastCollected: 2026-03-12T05:14:25.877Z
+estimatedTokens: 378
+keywords: [ConnectApi.AbstractManagedContentDeliveryDocument, Managed, content, delivery, document.]
 ---
 
 # ConnectApi.AbstractManagedContentDeliveryDocument
+
+> Managed content delivery document.
 
 # ConnectApi.AbstractManagedContentDeliveryDocument
 
@@ -37,3 +40,12 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.ManagedContentDeliveryDocumentCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm "Managed content delivery document collection.")
+
+## Related Topics
+
+- ConnectApi.ManagedContentDeliveryDocument (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm)
+- ConnectApi.ManagedContentDeliveryDocumentSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​TypeSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_type_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.ManagedContentDeliveryDocumentCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm)

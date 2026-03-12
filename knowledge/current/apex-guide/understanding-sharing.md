@@ -4,12 +4,20 @@ domain: apex-guide
 topic: understanding-sharing
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-11T15:43:46.354Z
-keywords: [Understanding, Sharing, Types, Note, Reason, Field, Access, Levels, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.297Z
+estimatedTokens: 1540
+keywords: [Understanding, Sharing, enables, record-level, access, control, custom, objects, well, many, standard, such, Account, Contact, Opportunity, Case, Administrators, first, set, object’s]
 ---
 
 # Understanding Sharing
+
+> Sharing enables record-level access control for all custom objects, as
+        well as many standard objects (such as Account, Contact, Opportunity and Case).
+        Administrators first set an object’s organization-wide default sharing access level,
+        and then grant additional access based on record ownership, the role hierarchy, sharing
+        rules, and manual sharing. Developers can then use Apex managed sharing to grant additional
+        access programmatically with Apex.
 
 # Understanding Sharing
 
@@ -62,7 +70,7 @@ In the Salesforce user interface, the Reason field on a custom object specifies 
 Each of the following list items is a type of sharing used for records. The tables show Reason field value, and the related rowCause value.
 
 -   Managed Sharing
-    
+
     | Reason Field Value | rowCause Value (Used in Apex or the API) |
     | --- | --- |
     | Account Sharing | ImplicitChild |
@@ -71,20 +79,20 @@ Each of the following list items is a type of sharing used for records. The tabl
     | Opportunity Team | Team |
     | Sharing Rule | Rule |
     | Territory Assignment Rule | TerritoryRule |
-    
+
 -   User Managed Sharing
-    
+
     | Reason Field Value | rowCause Value (Used in Apex or the API) |
     | --- | --- |
     | Manual Sharing | Manual |
     | Territory Manual | TerritoryManualNoteWith Enterprise Territory Management in API version 45.0 and later, Territory2AssociationManual replaces TerritoryManual. |
-    
+
 -   Apex Managed Sharing
-    
+
     | Reason Field Value | rowCause Value (Used in Apex or the API) |
     | --- | --- |
     | Defined by developer | Defined by developer |
-    
+
 
 The displayed reason for Apex managed sharing is defined by the developer.
 

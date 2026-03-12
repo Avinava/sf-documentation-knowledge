@@ -5,11 +5,14 @@ topic: eligibility-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.364Z
-keywords: [Eligibility, Rule]
+lastCollected: 2026-03-12T05:14:50.079Z
+estimatedTokens: 146
+keywords: [Eligibility, Rule, Output, representation, details, eligibility, rule.]
 ---
 
 # Eligibility Rule
+
+> Output representation details of eligibility rule.
 
 # Eligibility Rule
 
@@ -27,3 +30,14 @@ JSON example
 | message | String | Additional information about the API request execution. | Small, 66.0 | 66.0 |
 | sourceObject​RecordId | String | The unique identifier of the source object record. | Small, 66.0 | 66.0 |
 | status | String | Status of the request. | Small, 66.0 | 66.0 |
+
+## Code Examples
+
+```
+{
+  "message": "Rules successfully created or updated",
+  "sourceObjectRecordId": "1234",
+  "createdDateTime": "",
+  "status": "success"
+}
+```

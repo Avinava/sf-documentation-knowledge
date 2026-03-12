@@ -5,11 +5,15 @@ topic: what-is-the-apex-development-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.227Z
-keywords: [Apex, Development, Process?]
+lastCollected: 2026-03-12T05:14:33.517Z
+estimatedTokens: 607
+keywords: [Apex, Development, Process?, develop, get, Developer, Edition, account, write, test, code, then, deploy, code.]
 ---
 
 # What is the Apex Development Process?
+
+> To develop Apex, get a Developer Edition account, write and test your code, then
+        deploy your code.
 
 # What is the Apex Development Process?
 
@@ -25,3 +29,17 @@ We recommend the following process for developing Apex:
 6.  [Deploy your Apex to your Salesforce production organization.](atlas.en-us.apexcode.meta/apexcode/apex_intro_deploying_to_production.htm "After you’ve finished all of your unit tests and verified that your Apex code is executing properly, the final step is deploying Apex to your Salesforce production organization.")
 
 In addition to deploying your Apex, once it is written and tested, you can also [add your classes and triggers to a AppExchange App package](atlas.en-us.apexcode.meta/apexcode/apex_intro_AppExchange.htm "You can include an Apex class or trigger in an app that you’re creating for AppExchange.").
+
+## Related Topics
+
+- Choose a Salesforce Org for Apex development. (atlas.en-us.apexcode.meta/apexcode/apex_intro_get_dev_account.htm)
+- Learn
+                        more about Apex (atlas.en-us.apexcode.meta/apexcode/apex_intro_learning_apex.htm)
+- Write your
+                        Apex. (atlas.en-us.apexcode.meta/apexcode/apex_intro_writing_apex.htm)
+- writing tests (atlas.en-us.apexcode.meta/apexcode/apex_intro_writing_tests.htm)
+- deploy your Apex to a sandbox organization (atlas.en-us.apexcode.meta/apexcode/apex_intro_deploying_to_sandbox.htm)
+- Deploy
+                        your Apex to your Salesforce production organization. (atlas.en-us.apexcode.meta/apexcode/apex_intro_deploying_to_production.htm)
+- add your classes and
+                triggers to a AppExchange App package (atlas.en-us.apexcode.meta/apexcode/apex_intro_AppExchange.htm)

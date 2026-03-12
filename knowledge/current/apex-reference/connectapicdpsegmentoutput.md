@@ -5,11 +5,14 @@ topic: connectapicdpsegmentoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.297Z
-keywords: [ConnectApi.CdpSegmentOutput, See]
+lastCollected: 2026-03-12T05:14:26.589Z
+estimatedTokens: 449
+keywords: [ConnectApi.CdpSegmentOutput, Segment.]
 ---
 
 # ConnectApi.CdpSegmentOutput
+
+> Segment.
 
 # ConnectApi.CdpSegmentOutput
 
@@ -43,3 +46,10 @@ Segment.
 #### See Also
 
 -   [ConnectApi.CdpSegmentContainerOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_container_output.htm "Segment container.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CdpSegment​DbtPipeline (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_dbt_pipeline_output.htm)
+- ConnectApi.​CdpSegmentMembership​TableOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_membership_table_output.htm)
+- ConnectApi.CdpSegmentContainerOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_container_output.htm)

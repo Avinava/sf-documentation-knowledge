@@ -5,11 +5,16 @@ topic: tokenization-service-apex-class-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.732Z
-keywords: [Tokenization, Service, Apex, Class, Implementation, Encryption, Tokenized, Payment, Methods, Implementing, Classes, Gateway, Adapter, Note]
+lastCollected: 2026-03-12T05:14:32.827Z
+estimatedTokens: 1068
+keywords: [Tokenization, Service, Apex, Implementation, tokenization, service, hide, sensitive, customer, payment, data., uses, PaymentMethodTokenizationRequest, PaymentMethodTokenizationResponse, CardPaymentMethodRequest., Implement, classes, gateway, adapter., Encryption]
 ---
 
 # Tokenization Service Apex Class Implementation
+
+> Use the tokenization service to hide sensitive customer payment method data. The
+  Tokenization service uses PaymentMethodTokenizationRequest, PaymentMethodTokenizationResponse, and CardPaymentMethodRequest. Implement these classes in your payment gateway
+  adapter.
 
 # Tokenization Service Apex Class Implementation
 
@@ -17,7 +22,7 @@ Use the tokenization service to hide sensitive customer payment method data. The
 
 | Available in: Salesforce Spring '21 and later |
 | --- |
-  
+
 
 ## Encryption for Tokenized Payment Methods
 
@@ -58,3 +63,51 @@ If the instantiated class already has a gateway token, setGatewayTokenEncrypted 
 #### Note
 
 While the PaymentMethodTokenizationResponse's [setGatewayToken](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_commercepayments_PaymentMethodTokenizationResponse.htm#apex_commercepayments_PaymentMethodTokenizationResponse_setGatewayToken) method (available in API v48.0 and later) also returns a payment method token, the tokenized value isn't encrypted.
+
+## Code Examples
+
+```apex
+global commercepayments.GatewayResponse processRequest(commercepayments.paymentGatewayContext gatewayContext) {
+         commercepayments.RequestType requestType = gatewayContext.getPaymentRequestType();
+         commercepayments.GatewayResponse response;
+         try
+         {
+             if (requestType == commercepayments.RequestType.Tokenize) {
+                     response = createTokenizeResponse((commercepayments.PaymentMethodTokenizationRequest)gatewayContext.getPaymentRequest());
+             }
+             //Add other else if statements for different request types as needed.
+             return response;
+         }
+         catch(SalesforceValidationException e)
+         {
+              commercepayments.GatewayErrorResponse error = new commercepayments.GatewayErrorResponse('400', e.getMessage());
+              return error;
+         }
+     }
+```
+
+```apex
+public commercepayments.GatewayResponse createTokenizeResponse(commercepayments.PaymentMethodTokenizationRequest tokenizeRequest) {
+         commercepayments.PaymentMethodTokenizationResponse tokenizeResponse = new commercepayments.PaymentMethodTokenizationResponse();
+         tokenizeResponse.setGatewayTokenEncrypted(encryptedValue);
+         tokenizeResponse.setGatewayTokenDetails(tokenDetails);
+         tokenizeResponse.setGatewayAvsCode(avsCode);
+         tokenizeResponse.setGatewayMessage(gatewayMessage);
+         tokenizeResponse.setGatewayResultCode(resultcode);
+         tokenizeResponse.setGatewayResultCodeDescription(resultCodeDescription);
+         tokenizeResponse.setSalesforceResultCodeInfo(resultCodeInfo);
+         tokenizeResponse.setGatewayDate(system.now());
+         return tokenizeResponse;
+     }
+```
+
+```apex
+/** @description Method to set Gateway token to persist in Encrypted Text */
+     global void setGatewayTokenEncrypted(String gatewayTokenEncrypted) {
+         if (gatewayTokenSet)  {
+             throwTokenError();
+         }
+         this.delegate.setGatewayTokenEncrypted(gatewayTokenEncrypted);
+         gatewayTokenEncryptedSet = true;
+     }
+```

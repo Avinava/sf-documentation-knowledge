@@ -5,11 +5,14 @@ topic: explainability-action-log-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.250Z
-keywords: [Explainability, Action, Log, Input]
+lastCollected: 2026-03-12T05:14:48.357Z
+estimatedTokens: 346
+keywords: [Explainability, Action, Log, Input, representation, action, logs.]
 ---
 
 # Explainability Action Log Input
+
+> Input representation of Explainability action logs.
 
 # Explainability Action Log Input
 
@@ -38,3 +41,30 @@ Properties
 | primary​Filter | String | The string that’s used as the primary filter criteria to fetch the explainability action logs. | Optional | 57.0 |
 | secondary​Filter | String | The string that’s used as the secondary filter criteria to fetch the explainability action logs. | Optional | 57.0 |
 | specification​Name | String | A unique name that identifies an active explainability action log record. | Required | 54.0 |
+
+## Code Examples
+
+```
+{
+"specificationName" : "EAD1",
+"name" : "testEAL1",
+"actionLog" : "{"input":{"input":{"input":2}},"ruledefinition":{"calculationProcedureId":"0k0xx00000000JNAAY",
+"variables":{"details":[{"apiName":"total","isEditable":true,"defaultValue":null,"displayName":null,"dataType"
+:"Number","precision":2,"calculationMatrixName":null,"name":"total","isUserDefined":true,"uiDisplayOrder":null,
+"id":"0kJxx000000018zEAA"},{"apiName":"input","isEditable":true,"defaultValue":"10","displayName":null,"dataType"
+:"Number","precision":2,"calculationMatrixName":null,"name":"input","isUserDefined":true,"uiDisplayOrder":null,"id"
+:"0kJxx00000001AbEAI"}]},"code":null,"endDate":null,"description":null,"message":null,"enabled":true,"versionNumber":2,
+"versionId":"0k1xx00000000knAAA","root":{"steps":["0mqxx00000001TxAAI"]},"name":"es1 V1 CLONE","rank":2,"step":
+{"details":{"0mqxx00000001TxAAI":{"inputVariablesFormatText":"[{\\"name\\":\\"input\\",\\"dataType\\":\\"Number\\",
+\\"alias\\":\\"input\\"}]","stepType":"Calculation","outputVariablesFormatText":"{\\"name\\":\\"total\\",\\"dataType\\":
+\\"Number\\",\\"alias\\":\\"total\\"}","conditionsUiFormattedText":"{\\"bypass\\":{},\\"stepNumber\\":3}",
+"formulaUiFormattedText":null,"description":null,"outputVariablesMappingText":"{\\"total\\":\\"total\\"}",
+"conditionsExpressionText":null,"calculationMatrixId":null,"isResultIncluded":true,"formulaExpressionText":"10 * input","stage":
+"Calculation","name":"Calculation","childStepIds":[],"referenceCalculationProcedureId":null,"id":"0mqxx00000001TxAAI",
+"returnMessageValueSet":"{\\"true\\":\\"\\",\\"false\\":\\"\\"}"}}},"constants":{"details":[]},"startDate":1637684784000,
+"isSuccess":null},"runtime":{"output":[{"aggregationResults":{},"calculationResults":[{"total":20,"ID":"input"}]}],"simulate"
+:{"0mqxx00000001TxAAI":{"stepInputs":{"input":2},"stepResults":{"total":20}}}}}",
+"actionLogDate" : "2021-09-15T03:18:30.081Z",
+"actionContextCode" : "0f0xx0000000001AAA"
+}
+```

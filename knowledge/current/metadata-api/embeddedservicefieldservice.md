@@ -5,11 +5,17 @@ topic: embeddedservicefieldservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.200Z
-keywords: [EmbeddedServiceFieldService, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Usage, Note]
+lastCollected: 2026-03-12T05:14:39.219Z
+estimatedTokens: 719
+keywords: [EmbeddedServiceFieldService, Represents, setup, node, creating, embedded, Appointment, Management, deployment., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory]
 ---
 
 # EmbeddedServiceFieldService
+
+> Represents a setup node for creating an
+      embedded Appointment Management deployment.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EmbeddedServiceFieldService
 
@@ -60,3 +66,26 @@ The following is an example of an EmbeddedServiceFieldService file.
 #### Note
 
 Any changes you make to the image fields override what you’ve entered in Setup. We recommend setting your image URLs in Setup.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceFieldService xmlns="http://soap.sforce.com/2006/04/metadata">
+    <appointmentBookingFlowName>ESW_FS_BookAppt_Main_Flow</appointmentBookingFlowName>
+    <cancelApptBookingFlowName>ESW_FS_CancelAppt_Flow</cancelApptBookingFlowName>
+    <embeddedServiceConfig>EswFS</embeddedServiceConfig>
+    <enabled>true</enabled>
+    <fieldServiceConfirmCardImg>https://google.com/AppointmentConfirmationImg.png</fieldServiceConfirmCardImg>
+    <fieldServiceHomeImg>https://google.com/HeroImg.png</fieldServiceHomeImg>
+    <fieldServiceLogoImg>https://google.com/logo.png</fieldServiceLogoImg>
+    <masterLabel>EmbeddedServiceFieldService_Parent04IRM000000007p2AA_162d4270834</masterLabel>
+    <modifyApptBookingFlowName>ESW_FS_ModifyAppt_Main_Flow</modifyApptBookingFlowName>
+    <shouldShowExistingAppointment>true</shouldShowExistingAppointment>
+    <shouldShowNewAppointment>true</shouldShowNewAppointment>
+</EmbeddedServiceFieldService>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

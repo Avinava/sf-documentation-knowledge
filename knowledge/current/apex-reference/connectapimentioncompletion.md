@@ -5,11 +5,15 @@ topic: connectapimentioncompletion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.267Z
-keywords: [ConnectApi.MentionCompletion, See]
+lastCollected: 2026-03-12T05:14:27.964Z
+estimatedTokens: 416
+keywords: [ConnectApi.MentionCompletion, Information, record, could, used, @mention, user, group.]
 ---
 
 # ConnectApi.MentionCompletion
+
+> Information about a record that could be used to @mention a user or
+        group.
 
 # ConnectApi.MentionCompletion
 
@@ -28,3 +32,9 @@ Information about a record that could be used to @mention a user or group.
 #### See Also
 
 -   [ConnectApi.MentionCompletionPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mention_completion_page.htm "Paginated list of Mention Completion response bodies.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.OutOfOffice (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_out_of_office.htm)
+- ConnectApi.MentionCompletionPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mention_completion_page.htm)

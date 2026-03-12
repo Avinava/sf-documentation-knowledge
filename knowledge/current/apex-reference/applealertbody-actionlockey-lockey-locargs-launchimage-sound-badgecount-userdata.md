@@ -5,11 +5,15 @@ topic: applealertbody-actionlockey-lockey-locargs-launchimage-sound-badgecount-u
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.949Z
-keywords: [apple, alertBody, actionLocKey, locKey, locArgs, launchImage, sound, badgeCount, userData, Signature, Parameters, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.102Z
+estimatedTokens: 878
+keywords: [apple, alertBody, actionLocKey, locKey, locArgs, launchImage, sound, badgeCount, userData, Helper, creates, valid, Apple, payload, specified, arguments., Usage]
 ---
 
 # apple(alertBody, actionLocKey, locKey, locArgs, launchImage, sound, badgeCount, userData)
+
+> Helper method that creates a valid Apple
+payload from the specified arguments.
 
 # apple(alertBody, actionLocKey, locKey, locArgs, launchImage, sound, badgeCount, userData)
 
@@ -78,3 +82,10 @@ Returns a formatted payload that includes all of the specified arguments.
 ## Usage
 
 To generate a valid payload, you must provide a value for at least one of the following parameters: alert, sound, badgeCount.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)

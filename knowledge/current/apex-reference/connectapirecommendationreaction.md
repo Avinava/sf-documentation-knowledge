@@ -5,11 +5,14 @@ topic: connectapirecommendationreaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.327Z
-keywords: [ConnectApi.RecommendationReaction, See]
+lastCollected: 2026-03-12T05:14:28.037Z
+estimatedTokens: 409
+keywords: [ConnectApi.RecommendationReaction, reaction, recommendation, produced, strategy]
 ---
 
 # ConnectApi.RecommendationReaction
+
+> A reaction to a recommendation produced by a recommendation strategy
 
 # ConnectApi.RecommendationReaction
 
@@ -35,3 +38,14 @@ A reaction to a recommendation produced by a recommendation strategy
 #### See Also
 
 -   [ConnectApi.RecommendationReactions](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_reaction_collection.htm "A list of recommendation reactions.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​RecommendationReaction​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- ConnectApi.​RecordSnapshot (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_record_snapshot.htm)
+- ConnectApi.RecommendationReactions (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_reaction_collection.htm)

@@ -5,11 +5,14 @@ topic: connectapichattermessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.668Z
-keywords: [ConnectApi.ChatterMessage, See]
+lastCollected: 2026-03-12T05:14:25.696Z
+estimatedTokens: 313
+keywords: [ConnectApi.ChatterMessage, Chatter, message.]
 ---
 
 # ConnectApi.ChatterMessage
+
+> Chatter message.
 
 # ConnectApi.ChatterMessage
 
@@ -30,5 +33,16 @@ Chatter message.
 #### See Also
 
 -   [ConnectApi.ChatterConversationSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterConversationSummary.htm "Chatter conversation summary.")
-    
+
 -   [ConnectApi.ChatterMessagePage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterMessagePage.htm "Chatter message page.")
+
+## Related Topics
+
+- ConnectApi.​Message​Body (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_msg_body.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.​​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.ChatterConversationSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterConversationSummary.htm)
+- ConnectApi.ChatterMessagePage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterMessagePage.htm)

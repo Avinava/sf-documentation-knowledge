@@ -5,11 +5,16 @@ topic: loyalty-member-currency-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:43.574Z
-keywords: [Loyalty, Member, Currency, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.302Z
+estimatedTokens: 956
+keywords: [Loyalty, Member, Currency, DMO, Data, Cloud, data, model, representing, loyalty, member, selects, receive, example, airline, miles, points., API, Name, Category]
 ---
 
 # Loyalty Member Currency DMO
+
+> The Loyalty Member Currency DMO is a Data Cloud data model object (DMO)
+      representing the value a loyalty member selects to receive, for example, as airline miles or
+      as points.
 
 # Loyalty Member Currency DMO
 

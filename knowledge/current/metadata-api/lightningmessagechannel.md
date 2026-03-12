@@ -5,11 +5,17 @@ topic: lightningmessagechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.328Z
-keywords: [LightningMessageChannel, Important, Note, File, Suffix, Directory, Location, Version, Fields, LightningMessageField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.858Z
+estimatedTokens: 1118
+keywords: [LightningMessageChannel, Represents, metadata, associated, Lightning, Message, Channel., Channel, represents, secure, channel, communicate, across, technologies, such, Web, Components, Aura, Visualforce., Important]
 ---
 
 # LightningMessageChannel
+
+> Represents the metadata
+   associated with a Lightning Message Channel. A Lightning Message Channel
+   represents a secure channel to communicate across UI technologies, such as
+   Lightning Web Components, Aura Components, and Visualforce.
 
 # LightningMessageChannel
 
@@ -88,6 +94,50 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 -   [*Lightning Web Components Developer Guide*: Communicate Across the DOM with Lightning Message Service](https://developer.salesforce.com/docs/platform/lwc/guide/use-message-channel.html "Lightning Web Components Developer Guide:
     Communicate Across the DOM with Lightning Message
     Service - html (New Window)")
-    
+
 -   [*Second-Generation Managed Packaging Developer Guide*: Components Available in Managed Packages](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/packaging_packageable_components.htm "Second-Generation Managed Packaging Developer
     Guide: Components Available in Managed Packages - html (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>SampleMessageChannel</masterLabel>
+    <isExposed>true</isExposed>
+    <description>This is a sample Lightning Message Channel.</description>
+</LightningMessageChannel>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>SampleMessageChannel</masterLabel>
+    <isExposed>true</isExposed>
+    <description>This is a sample Lightning Message Channel.</description>
+    <lightningMessageFields>
+        <fieldName>recordId</fieldName>
+        <description>This is the record Id that changed</description>
+    </lightningMessageFields>
+    <lightningMessageFields>
+        <fieldName>recordData</fieldName>
+        <description>The current data representing the record that changed</description>
+    </lightningMessageFields>
+</LightningMessageChannel>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>LightningMessageChannel</name>
+    </types>
+    <version>47.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

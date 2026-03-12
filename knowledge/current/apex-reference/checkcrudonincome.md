@@ -4,12 +4,16 @@ domain: apex-reference
 topic: checkcrudonincome
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.545Z
-keywords: [CheckCrudOnIncome, Signature, Return, Value, Examples]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.724Z
+estimatedTokens: 107
+keywords: [CheckCrudOnIncome, Checks, create, update, delete, access, partyIncome, entity., Examples]
 ---
 
 # CheckCrudOnIncome
+
+> Checks create, update and delete access on partyIncome
+            entity.
 
 # CheckCrudOnIncome
 

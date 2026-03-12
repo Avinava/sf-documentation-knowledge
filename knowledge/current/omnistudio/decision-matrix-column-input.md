@@ -6,12 +6,16 @@ topic: decision-matrix-column-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.160Z
-keywords: [Decision, Matrix, Column, Input]
+lastCollected: 2026-03-12T05:14:48.226Z
+estimatedTokens: 303
+keywords: [Decision, Matrix, Column, Input, representation, information, required, add, update, delete, columns, decision, matrix.]
 ---
 
 # Decision Matrix Column
     Input
+
+> Input representation of the information required to add, update, or
+      delete columns in a decision matrix.
 
 # Decision Matrix Column Input
 

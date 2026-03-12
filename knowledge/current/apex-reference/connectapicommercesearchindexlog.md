@@ -5,11 +5,14 @@ topic: connectapicommercesearchindexlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.378Z
-keywords: [ConnectApi.CommerceSearchIndexLog]
+lastCollected: 2026-03-12T05:14:26.713Z
+estimatedTokens: 218
+keywords: [ConnectApi.CommerceSearchIndexLog, Search, index, log, information.]
 ---
 
 # ConnectApi.CommerceSearchIndexLog
+
+> Search index log information.
 
 # ConnectApi.CommerceSearchIndexLog
 
@@ -25,3 +28,11 @@ Search index log information.
 | indexId | String | ID of the index build. | 57.0 |
 | message | String | Detailed message for the index build status. | 57.0 |
 | number​OfProducts | Integer | Number of new or changed products in the index build. | 57.0 |
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CommerceSearch​IndexStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CommerceSearch​IndexBuildType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

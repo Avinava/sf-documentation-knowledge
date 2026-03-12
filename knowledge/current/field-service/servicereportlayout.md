@@ -5,11 +5,15 @@ topic: servicereportlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.921Z
-keywords: [ServiceReportLayout, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.586Z
+estimatedTokens: 413
+keywords: [ServiceReportLayout, Represents, service, report, template, field, service., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # ServiceReportLayout
+
+> Represents a service report template in field
+		service.
 
 # ServiceReportLayout
 

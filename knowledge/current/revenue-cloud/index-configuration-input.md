@@ -5,11 +5,14 @@ topic: index-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.158Z
-keywords: [Index, Configuration, Input]
+lastCollected: 2026-03-12T05:14:06.152Z
+estimatedTokens: 251
+keywords: [Index, Configuration, Input, representation, request, persist, index, configuration.]
 ---
 
 # Index Configuration Input
+
+> Input representation of the request to persist the index configuration.
 
 # Index Configuration Input
 
@@ -32,3 +35,34 @@ Properties
 | is​Searchable | Boolean | Indicates whether the index-configured field is searchable (true) or not (false). | Optional | 62.0 |
 | name | String | Name of the index-configured field. | Required | 62.0 |
 | type | String | Type of the index-configured field. | Required | 62.0 |
+
+## Code Examples
+
+```
+"indexConfigurations": [
+    {
+      "attributeDefinitionId": "0tjT1000000002bIAA",
+      "name": "Color",
+      "type": "ProductDynamicAttribute",
+      "isSearchable": true
+    },
+    {
+      "attributeFieldId": "00Nxx000001FwnABII",
+      "name": "Message__c",
+      "type": "Custom",
+      "isSearchable": true
+    },
+    {
+      "name": "Code",
+      "type": "Standard",
+      "isSearchable": true
+    },
+    {
+      "facetDisplayRank": 1,
+      "isFacetable": false,
+      "isSearchable": true,
+      "name": "Family",
+      "type": "Standard"
+    }
+  ]
+```

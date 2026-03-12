@@ -5,11 +5,15 @@ topic: connectapibasemanagedsocialaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.236Z
-keywords: [ConnectApi.BaseManagedSocialAccount]
+lastCollected: 2026-03-12T05:14:27.920Z
+estimatedTokens: 373
+keywords: [ConnectApi.BaseManagedSocialAccount, Base, information, describing, managed, social, account, fan, page, network.]
 ---
 
 # ConnectApi.BaseManagedSocialAccount
+
+> Base information describing a managed social account or fan page of
+      a social network.
 
 # ConnectApi.BaseManagedSocialAccount
 
@@ -30,3 +34,9 @@ Superclass of [ConnectApi.ManagedSocialAccount](atlas.en-us.apexref.meta/apexref
 | socialNetwork | ConnectApi.​SocialNetworkProvider | Social network that this account belongs to. Values are:FacebookGooglePlusInstagramInstagramBusinessKakaoTalkKikLineLinkedInMessengerOtherPinterestQQRyppleSinaWeiboSMSSnapchatTelegramTwitterVKontakteWeChatWhatsAppYouTube | 44.0 |
 | uniqueName | String | Unique name used for distinguishing same name fan pages; acts like a user name for a fan page. | 44.0 |
 | username | String | Unique user name or handle for this account on the social network. | 44.0 |
+
+## Related Topics
+
+- ConnectApi.ManagedSocialAccount (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_social_account_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​SocialNetworkProvider (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

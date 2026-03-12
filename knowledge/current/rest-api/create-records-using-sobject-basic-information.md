@@ -5,11 +5,15 @@ topic: create-records-using-sobject-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.642Z
-keywords: [Create, Records, sObject, Basic, Information, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:35.968Z
+estimatedTokens: 432
+keywords: [Create, Records, sObject, Basic, Information, Creates, new, record, specified, based, field, values, request, body., Syntax, Example]
 ---
 
 # Create Records Using sObject Basic Information
+
+> Creates a new record for a specified object based on field values in the request
+		body.
 
 # Create Records Using sObject Basic Information
 
@@ -50,3 +54,8 @@ Parameters
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Create a Record (atlas.en-us.api_rest.meta/api_rest/dome_sobject_create.htm)
+- Insert or Update Blob Data (atlas.en-us.api_rest.meta/api_rest/dome_sobject_insert_update_blob.htm)

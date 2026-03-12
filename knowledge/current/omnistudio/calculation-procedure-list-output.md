@@ -5,11 +5,15 @@ topic: calculation-procedure-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.099Z
-keywords: [Calculation, Procedure, List, Output, Note]
+lastCollected: 2026-03-12T05:14:49.646Z
+estimatedTokens: 245
+keywords: [Calculation, Procedure, List, Output, representation, expression, set, result, list., Note]
 ---
 
 # Calculation Procedure List Output
+
+> Output representation of the expression set result
+    list.
 
 # Calculation Procedure List Output
 
@@ -33,3 +37,26 @@ Sample Response
 | code | String | The request response code. | Small, 53.0 | 53.0 |
 | message | String | The request response message. | Small, 53.0 | 53.0 |
 | success | Boolean | Indicates whether the request was successful. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "calculationProcedures" : [ {
+      "id" : "0k0x0000000008ZAAQ",
+      "description" : "Test calculation set",
+      "name" : "Expression_Set_1"
+   },{
+      "id" : "0k0x000000000BQAAY",
+      "description" : "Test procedure set",
+      "name" : "Expression_Set_2"
+   } ],
+   "code" : "200",
+   "isSuccess" : true,
+   "message" : ""
+}
+```
+
+## Related Topics
+
+- Calculation Procedure Output[] (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_output.htm)

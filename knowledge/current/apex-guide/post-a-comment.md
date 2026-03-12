@@ -5,11 +5,14 @@ topic: post-a-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.871Z
-keywords: [Post, Comment]
+lastCollected: 2026-03-12T05:14:34.383Z
+estimatedTokens: 90
+keywords: [Post, Comment, Call, post, comment.]
 ---
 
 # Post a Comment
+
+> Call a method to post a comment.
 
 # Post a Comment
 
@@ -19,4 +22,10 @@ Call [postCommentToFeedElement(communityId, feedElementId, text)](https://develo
 
 ```
 
+```
+
+## Code Examples
+
+```
+ConnectApi.Comment comment = ConnectApi.ChatterFeeds.postCommentToFeedElement(null, '0D5D0000000KuGh', 'I agree with the proposal.' );
 ```

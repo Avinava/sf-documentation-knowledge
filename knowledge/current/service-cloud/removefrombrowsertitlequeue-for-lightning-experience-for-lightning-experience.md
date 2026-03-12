@@ -5,11 +5,18 @@ topic: removefrombrowsertitlequeue-for-lightning-experience-for-lightning-experi
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.337Z
-keywords: [removeFromBrowserTitleQueue, Lightning, Experience, Note, Arguments, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.903Z
+estimatedTokens: 273
+keywords: [removeFromBrowserTitleQueue, Lightning, Experience, Removes, list, titles, rotate, browser, title, bar, every, three, seconds., works, only, console, apps., isn’t, supported, Web]
 ---
 
 # removeFromBrowserTitleQueue() for Lightning Experience for Lightning Experience
+
+> Removes a string from a list of titles that rotate in the browser title bar every
+        three seconds. This method works only in
+   Lightning console apps.
+        This method isn’t supported for Lightning Web Components
+        (LWC).
 
 # removeFromBrowserTitleQueue() for Lightning Experience for Lightning Experience
 
@@ -46,3 +53,29 @@ Controller code:
 ## Response
 
 This method returns a promise that, open success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Remove from Browser Title Queue" onclick="{! c.handleRemoveFromBrowserTitleQueue }" />
+</aura:component>
+```
+
+```
+({
+    handleremoveFromBrowserTitleQueue : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.removeFromBrowserTitleQueue({
+            title: "New Browser Title"
+        })
+        .then(function(result){
+            console.log(result);
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

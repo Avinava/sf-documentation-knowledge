@@ -5,11 +5,14 @@ topic: context-data-record-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.170Z
-keywords: [Context, Data, Record, Status]
+lastCollected: 2026-03-12T05:14:49.747Z
+estimatedTokens: 112
+keywords: [Context, Data, Record, Status, Output, representation, context, data, record, status.]
 ---
 
 # Context Data Record Status
+
+> Output representation of context data record status.
 
 # Context Data Record Status
 
@@ -20,3 +23,7 @@ Output representation of context data record status.
 | contextErrors | Context Error[] | List of context errors. | Small, 59.0 | 59.0 |
 | dataPath | String[] | Path of the data. | Small, 59.0 | 59.0 |
 | processingStatus | String | Processing status of the context data record. | Small, 59.0 | 59.0 |
+
+## Related Topics
+
+- Context Error (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_error.htm)

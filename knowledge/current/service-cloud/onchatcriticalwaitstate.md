@@ -5,11 +5,16 @@ topic: onchatcriticalwaitstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.526Z
-keywords: [onChatCriticalWaitState, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.187Z
+estimatedTokens: 197
+keywords: [onChatCriticalWaitState, Registers, function, call, chat, becomes, critical, answer, waiting, answered., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # onChatCriticalWaitState()
+
+> Registers a function to call when a chat becomes critical to answer or a waiting chat
+        is answered. Available in API version 29.0 or
+            later.
 
 # onChatCriticalWaitState()
 
@@ -41,3 +46,24 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | state | Boolean | Indicates whether the chat is in critical wait state (true) or not (false). |
+
+## Code Examples
+
+```
+sforce.console.chat.onChatCanceled(chatKey:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        var eventHandler = function (result) {
+            alert('This chat has reached a critical wait');
+        }
+        //Get the value for 'myChatKey' from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+        //These values are for example purposes only
+        var chatKey = 'myChatKey';
+        sforce.console.chat.onChatCriticalWaitState(chatKey, eventHandler);
+    </script>
+</apex:page>
+```

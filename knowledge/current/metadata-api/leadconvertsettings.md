@@ -5,11 +5,19 @@ topic: leadconvertsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.281Z
-keywords: [LeadConvertSettings, File, Suffix, Directory, Location, Version, Fields, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.786Z
+estimatedTokens: 1058
+keywords: [LeadConvertSettings, Represents, organization’s, custom, field, mappings, lead, conversion., Custom, fields, mapped, Leads, Accounts, Contacts, Opportunities., Options, creating, opportunities, during, conversion]
 ---
 
 # LeadConvertSettings
+
+> Represents an organization’s custom
+			field mappings for lead conversion. Custom fields can be mapped from Leads to Accounts,
+			Contacts, and Opportunities. Options for creating opportunities during lead conversion
+			can also be specified.
+		This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # LeadConvertSettings
 
@@ -63,3 +71,43 @@ The following is an example of the LeadConvertSettings type:
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LeadConvertSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <allowOwnerChange>false</allowOwnerChange>
+    <objectMapping>
+        <inputObject>Lead</inputObject>
+        <mappingFields>
+            <inputField>custom_lead_field_1</inputField>
+            <outputField>custom_account_field_1</outputField>
+        </mappingFields>
+        <mappingFields>
+            <inputField>custom_lead_field_2</inputField>
+            <outputField>custom_account_field_2</outputField>
+        </mappingFields>
+        <mappingFields>
+            <inputField>custom_lead_field_3</inputField>
+            <outputField>custom_account_field_3</outputField>
+        </mappingFields>
+        <outputObject>Account</outputObject>
+    </objectMapping>
+    <objectMapping>
+        <inputObject>Lead</inputObject>
+        <mappingFields>
+            <inputField>custom_lead_field_4</inputField>
+            <outputField>custom_opportunity_field_1</outputField>
+        </mappingFields>
+        <outputObject>Opportunity</outputObject>
+    </objectMapping>
+    <opportunityCreationOptions>VisibleOptional</opportunityCreationOptions>
+</LeadConvertSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

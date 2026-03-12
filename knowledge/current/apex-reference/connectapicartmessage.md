@@ -5,11 +5,14 @@ topic: connectapicartmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.141Z
-keywords: [ConnectApi.CartMessage, See]
+lastCollected: 2026-03-12T05:14:26.354Z
+estimatedTokens: 221
+keywords: [ConnectApi.CartMessage, Cart, message.]
 ---
 
 # ConnectApi.CartMessage
+
+> Cart message.
 
 # ConnectApi.CartMessage
 
@@ -27,3 +30,10 @@ Cart message.
 #### See Also
 
 -   [ConnectApi.CartMessagesSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_messages_summary.htm "Cart messages summary.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CartMessageSeverity (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.CartMessagesSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_messages_summary.htm)

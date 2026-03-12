@@ -5,11 +5,14 @@ topic: connectapiusermissionactivitystatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.180Z
-keywords: [ConnectApi.UserMissionActivityStatus]
+lastCollected: 2026-03-12T05:14:29.244Z
+estimatedTokens: 72
+keywords: [ConnectApi.UserMissionActivityStatus, Status, mission, activity, user.]
 ---
 
 # ConnectApi.UserMissionActivityStatus
+
+> Status of mission activity for a user.
 
 # ConnectApi.UserMissionActivityStatus
 
@@ -19,3 +22,7 @@ Status of mission activity for a user.
 | --- | --- | --- | --- |
 | message | String | Success or error message. | 45.0 |
 | status | String | Status of mission activity for a user. | 45.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

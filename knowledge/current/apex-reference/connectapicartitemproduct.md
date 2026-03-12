@@ -5,11 +5,14 @@ topic: connectapicartitemproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.152Z
-keywords: [ConnectApi.CartItemProduct, See]
+lastCollected: 2026-03-12T05:14:26.371Z
+estimatedTokens: 314
+keywords: [ConnectApi.CartItemProduct, Product, summary, cart, item.]
 ---
 
 # ConnectApi.CartItemProduct
+
+> Product summary for a cart item.
 
 # ConnectApi.CartItemProduct
 
@@ -31,5 +34,16 @@ Product summary for a cart item.
 #### See Also
 
 -   [ConnectApi.AbstractCartItem](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_cart_item.htm "A cart item.")
-    
+
 -   [ConnectApi.WishlistItem](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_item.htm "Item in a wishlist.")
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ProductClass (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​PurchaseQuantity​Rule (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_purchase_quantity_rule.htm)
+- ConnectApi.​ProductMedia (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media.htm)
+- ConnectApi.​CartProduct​Attribute (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_attribute.htm)
+- ConnectApi.AbstractCartItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_cart_item.htm)
+- ConnectApi.WishlistItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_item.htm)

@@ -5,11 +5,15 @@ topic: renamemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.336Z
-keywords: [renameMetadata, Syntax, Usage, Version, Permissions, Note, Basic, Steps, Renaming, Metadata, Components, Sample, Code—Java, Arguments, Response]
+lastCollected: 2026-03-12T05:14:42.321Z
+estimatedTokens: 715
+keywords: [renameMetadata, Renames, metadata, component, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Basic, Steps, Renaming, Metadata, Components, Sample, Code—Java, Arguments, Response]
 ---
 
 # renameMetadata()
+
+> Renames a metadata component
+in your organization synchronously.
 
 # renameMetadata()
 
@@ -47,9 +51,9 @@ Use this process to rename a metadata component.
 
 1.  Determine the metadata type of the component you want to rename, its current full name, and the new full name. See [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") for more details on the fullName field.
 2.  Invoke the renameMetadata() call. For the first argument, pass in the name of the metadata type. Pass in the old full name as the second argument and the new full name as the last argument.
-    
+
     A SaveResult object that contains information about whether the operation was successful is returned. If successful, the object contains the name of the renamed component, which is the new name. If it wasn’t successful, the object returns any errors.
-    
+
 
 ## Sample Code—Java
 
@@ -68,3 +72,43 @@ Use this process to rename a metadata component.
 ## Response
 
 [SaveResult](atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm "Contains result information for the createMetadata, updateMetadata, or renameMetadata call.")
+
+## Code Examples
+
+```
+SaveResult = metadataConnection.renameMetadata(string metadataType, String oldFullname, String newFullname);
+```
+
+```apex
+public void renameCustomObjectSync() {
+ try {
+    SaveResult[] results = metadataConnection.renameMetadata(
+        "CustomObject", "MyCustomObject1__c","MyCustomObject1New__c");
+    for (SaveResult r : results) {
+    	if (r.isSuccess()) {
+    		System.out.println("Renamed component: " + r.getName());
+    	}
+    	else {
+    		System.out.println("Errors were encountered while renaming " + r.getName());
+    		for(Error e : r.getErrors()) {
+    			System.out.println("Error message: " + e.getMessage());
+    			System.out.println("Status code: " + e.getStatusCode());
+    		}
+    	}
+    }
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  } catch (InterruptedException ie) {
+    ie.printStackTrace();
+  }
+}
+```
+
+## Related Topics
+
+- SaveResult (atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and
+          Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)

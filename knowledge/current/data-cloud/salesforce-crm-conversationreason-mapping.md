@@ -5,11 +5,15 @@ topic: salesforce-crm-conversationreason-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.648Z
-keywords: [Salesforce, CRM, ConversationReason, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:12.838Z
+estimatedTokens: 382
+keywords: [Salesforce, CRM, ConversationReason, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: ConversationReason Mapping
+
+> These data mappings are for the ConversationReason DLO found in the Services bundle of
+  the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: ConversationReason Mapping
 

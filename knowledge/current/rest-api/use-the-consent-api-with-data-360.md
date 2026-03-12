@@ -5,11 +5,16 @@ topic: use-the-consent-api-with-data-360
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.339Z
-keywords: [Consent, API, Data, 360, Note, Required, Permissions, Actions, Supported, Read, Parameters, Syntax, Example, Write]
+lastCollected: 2026-03-12T05:14:35.517Z
+estimatedTokens: 1624
+keywords: [Consent, API, Data, 360, supports, 360., read, write, profile., Contact, Salesforce, Representative, consumer, rights, guidance, within, Note, Required, Permissions, Actions]
 ---
 
 # Use the Consent API with Data 360
+
+> The Consent API supports Data 360. Use the Consent API to read and
+		write to the Data 360 profile. Contact your Salesforce Representative for
+		consumer rights guidance within Data 360.
 
 # Use the Consent API with Data 360
 
@@ -161,4 +166,16 @@ When action is shouldforget
 
 ```
 
+```
+
+## Code Examples
+
+```
+/services/data/v66.0/consent/action/processing?ids=100000695&mode=cdp&status=optout
+body: {}
+```
+
+```
+/services/data/v66.0/consent/action/shouldforget?ids=100000695 &mode=cdp&status=optin
+body: {}
 ```

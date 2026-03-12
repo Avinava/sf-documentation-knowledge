@@ -5,11 +5,14 @@ topic: connectapiactivationtargetinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.742Z
-keywords: [ConnectApi.ActivationTargetInput, See]
+lastCollected: 2026-03-12T05:14:24.259Z
+estimatedTokens: 383
+keywords: [ConnectApi.ActivationTargetInput, Input, details, activation, target.]
 ---
 
 # ConnectApi.ActivationTargetInput
+
+> Input details for the activation target.
 
 # ConnectApi.ActivationTargetInput
 
@@ -28,5 +31,15 @@ Input details for the activation target.
 #### See Also
 
 -   [createActivationTarget(input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm#apex_ConnectAPI_CdpActivationTarget_createActivationTarget_3 "Create an activation target.")
-    
+
 -   [updateActivationTarget(activationTargetId, input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm#apex_ConnectAPI_CdpActivationTarget_updateActivationTarget_2 "Update an activation target.")
+
+## Related Topics
+
+- ConnectApi.DataConnectorInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_data_connector.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.EgressPropertiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_egress_properties.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- DataConnectorTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- createActivationTarget(input) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm)
+- updateActivationTarget(activationTargetId, input) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm)

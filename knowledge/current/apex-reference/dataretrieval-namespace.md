@@ -5,11 +5,19 @@ topic: dataretrieval-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:42.067Z
-keywords: [DataRetrieval, Namespace]
+lastCollected: 2026-03-12T05:14:31.533Z
+estimatedTokens: 570
+namespace: DataRetrieval
+keywords: [DataRetrieval, provides, classes, record, details, customer-agent, engagements, well, transcripts, their, conversations.]
 ---
 
 # DataRetrieval Namespace
+
+> The DataRetrieval namespace provides classes and
+    methods to record details of customer-agent engagements, as well as transcripts of their
+    conversations.
+
+**Namespace:** `DataRetrieval`
 
 # DataRetrieval Namespace
 

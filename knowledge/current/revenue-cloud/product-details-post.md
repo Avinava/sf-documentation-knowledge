@@ -5,11 +5,16 @@ topic: product-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.326Z
-keywords: [Product, Details, POST]
+lastCollected: 2026-03-12T05:14:07.121Z
+estimatedTokens: 1059
+keywords: [Product, Details, POST, Get, product, details, such, attributes, hierarchy, cardinality, specified, ID., API, composite, Discovery.]
 ---
 
 # Product Details (POST)
+
+> Get product details, such as attributes, hierarchy, or cardinality,
+      for a specified product ID. This API is a composite API for Product
+    Discovery.
 
 # Product Details (POST)
 
@@ -65,3 +70,81 @@ Properties
 Response body for POST
 
 [CPQ Base Details](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_details_output.htm "Output representation of the catalog, category, or product details based on the request.")
+
+## Code Examples
+
+```
+/connect/cpq/products/productId
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/01txx0000006j08AAA
+```
+
+```
+{
+  "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
+  "catalogId": "0ZSxx0000000001GAA",
+  "priceBookId": "01s26000002ZT71AAG",
+  "productSellingModelId": "0jP1Q000000CaVFUA0",
+  "userContext": {
+    "accountId": "001xx0000000001AAA",
+    "contactId": "003xx00000000D7AAI"
+  },
+  "enablePricing": true,
+  "enableQualification": true,
+  "qualificationProcedure": "QualificationProcedure",
+  "pricingProcedure": "Preview",
+  "contextDefinition": "TestDefinition",
+  "contextMapping": "TestDefinitionNode",
+  "additionalFields": {
+    "ProductSellingModelOption": {
+      "additionalFields": {
+        "ProrationPolicy": {
+          "fields": [
+            "ArePartialPeriodsAllowed",
+            "ProrationPolicyType"
+          ]
+        }
+      }
+    },
+    "Product2": {
+      "fields": [
+        "field1",
+        "field2"
+      ]
+    },
+    "ProductAttributeDefinition": {
+      "fields": [
+        "field3",
+        "field4"
+      ]
+    }
+  },
+  "additionalContextData": [
+    {
+      "nodeName": "Contract",
+      "nodeData": {
+        "id": "xxxxx231",
+        "name": "Contract1"
+      }
+    },
+    {
+      "nodeName": "Lead",
+      "nodeData": {
+        "id": "lllllll31",
+        "name": "Lead1"
+      }
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_additional_fields_input.htm)
+- User Context
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)
+- CPQ Base Details (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_details_output.htm)

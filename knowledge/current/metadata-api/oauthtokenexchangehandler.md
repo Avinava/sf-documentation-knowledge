@@ -5,11 +5,17 @@ topic: oauthtokenexchangehandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.762Z
-keywords: [OauthTokenExchangeHandler, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OauthTokenExchHandlerApp, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:41.459Z
+estimatedTokens: 1438
+keywords: [OauthTokenExchangeHandler, Represents, token, exchange, handler., handler, consists, Apex, class., During, OAuth, 2.0, flow, used, validate, tokens, external, identity, provider, map]
 ---
 
 # OauthTokenExchangeHandler
+
+> Represents a token exchange handler. The token
+			exchange handler also consists of an Apex class. During the OAuth 2.0 token exchange
+			flow, the token exchange handler is used to validate tokens from an external identity
+			provider and to map users to Salesforce.
 
 # OauthTokenExchangeHandler
 
@@ -84,3 +90,44 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OauthTokenExchangeHandler xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>MyTokenExchangeHandler</developerName>
+    <description>My token exchange handler</description>
+    <isAccessTokenSupported>true</isAccessTokenSupported>
+    <isEnabled>true</isEnabled>
+    <isIdTokenSupported>false</isIdTokenSupported>
+    <isJwtSupported>true</isJwtSupported>
+    <isProtected>false</isProtected>
+    <isRefreshTokenSupported>false</isRefreshTokenSupported>
+    <isSaml2Supported>false</isSaml2Supported>
+    <isUserCreationAllowed>true</isUserCreationAllowed>
+    <masterLabel>MyTokenExchangeHandler</masterLabel>
+    <tokenHandlerApex>MyOauthTokenExchangeHandler</tokenHandlerApex>
+    <enablements>
+        <apexExecutionUser>integrationuser@mycompany.com</apexExecutionUser>
+        <connectedApp>TokenExchangeApp1</conectedApp>
+        <isDefault>true</isDefault>
+    </enablements>
+</OauthTokenExchangeHandler>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>OauthTokenExchangeHandler</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

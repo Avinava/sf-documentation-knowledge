@@ -5,11 +5,14 @@ topic: party-profile-address-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.703Z
-keywords: [Party, Profile, Address, Result]
+lastCollected: 2026-03-12T05:14:50.529Z
+estimatedTokens: 625
+keywords: [Party, Profile, Address, Result, Output, representation, party, profile, address, result.]
 ---
 
 # Party Profile Address Result
+
+> Output representation of the party profile address result.
 
 # Party Profile Address Result
 
@@ -40,3 +43,7 @@ Output representation of the party profile address result.
 | street | String | Street detail for the address. | Small, 61.0 | 61.0 |
 | validityEndDate | String | Date when the party profile address becomes valid. | Small, 61.0 | 61.0 |
 | validityStart​Date | String | Date until when the party profile address is valid. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

@@ -5,11 +5,18 @@ topic: extlclntappsamlconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.610Z
-keywords: [ExtlClntAppSamlConfigurablePolicies, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppSamlConfigurablePoliciesAttribute, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.801Z
+estimatedTokens: 2545
+keywords: [ExtlClntAppSamlConfigurablePolicies, Represents, SAML, configuration, policies, external, client, app., configure, Salesforce, identity, provider, single, sign-on, SSO, users, log, third-party, service, such]
 ---
 
 # ExtlClntAppSamlConfigurablePolicies
+
+> Represents SAML configuration policies for
+			an external client app. Use this type to configure Salesforce as an identity provider
+			for SAML single sign-on (SSO). In this type of SSO configuration, users log in to a
+			third-party service provider, such as Google, using their Salesforce
+		credentials.
 
 # ExtlClntAppSamlConfigurablePolicies
 
@@ -84,3 +91,57 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppSamlConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <acsUrl>https://www.<serviceprovideracsurl>.com</acsUrl>
+    <entityUrl>https://www.<serviceproviderentityid>.com</entityUrl>
+    <externalClientApplication>mySamlEca</externalClientApplication>
+    <issuer>https://mydomainname.my.salesforce.com</issuer>
+    <label>myeca_samlpolicies</label>
+    <nameIdFormat>Unspecified</nameIdFormat>
+    <singleLogoutUrl>https://www.<serviceprovidersinglelogouturl>.com</singleLogoutUrl>
+    <singleLogoutBindingType>RedirectBinding</singleLogoutBindingType>
+    <subjectType>CustomAttribute</subjectType>
+    <subjectCustomAttribute>MyCustomField</subjectCustomAttribute>
+    <certificate>MIIDzDCCArQCCQCFaZKGsGqZ...</certificate>
+    <encryptionCertificate>MIIDzDCCArQCCQCFaZKGsGqZ...</encryptionCertificate>
+    <encryptionType>AES_128</encryptionType>
+    <signingAlgorithmType>SHA1</signingAlgorithmType>
+    <customAttributes>
+        <key>User Firstname</key>
+        <formula>$User.FirstName</formula>
+    </customAttributes>
+    <customAttributes>
+        <key>User Country</key>
+        <formula>$User.Country</formula>
+    </customAttributes>
+</ExtlClntAppSamlConfigurablePolicies>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppSamlConfigurablePolicies</name>
+    </types>
+    <version>63.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

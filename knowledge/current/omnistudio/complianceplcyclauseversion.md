@@ -5,11 +5,15 @@ topic: complianceplcyclauseversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.889Z
-keywords: [CompliancePlcyClauseVersion, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.824Z
+estimatedTokens: 1003
+keywords: [CompliancePlcyClauseVersion, Represents, version, Compliance, Policy, Clause, tracks, amendments., API, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # CompliancePlcyClauseVersion
+
+> Represents the version of the Compliance Policy Clause that tracks
+         amendments. This object is available in API version 65.0 and later.
 
 # CompliancePlcyClauseVersion
 
@@ -50,3 +54,9 @@ Feed tracking is available for the object.
 [CompliancePlcyClauseVersionHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- CompliancePlcyClauseVersionChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CompliancePlcyClauseVersionFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- CompliancePlcyClauseVersionHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

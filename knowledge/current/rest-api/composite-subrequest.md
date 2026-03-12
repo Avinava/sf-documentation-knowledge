@@ -5,11 +5,15 @@ topic: composite-subrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.274Z
-keywords: [Composite, Subrequest, Properties, Examples, Usage, Results]
+lastCollected: 2026-03-12T05:14:35.425Z
+estimatedTokens: 1245
+keywords: [Composite, Subrequest, composite, subrequest, describes, execute, Graph, resource., Examples, Usage, Results]
 ---
 
 # Composite Subrequest
+
+> The composite subrequest describes a subrequest to execute with the Composite Graph
+		resource.
 
 # Composite Subrequest
 
@@ -47,3 +51,34 @@ When processing a composite graph request, if the number of graph failures excee
 ## Results
 
 Results for subrequests are the same as that for other Composite requests. See [Composite Subrequest Result](atlas.en-us.api_rest.meta/api_rest/resources_composite_subrequest_result.htm "The composite subrequest result describes the result for a subrequest.").
+
+## Code Examples
+
+```
+{
+   "body" : {
+     "Name" : "Sample Account"
+   },
+   "method" : "POST",
+   "referenceId" : "refAccount",
+   "url" : "/services/data/v66.0/sobjects/Account"
+}
+```
+
+```
+{
+   "method" : "GET",
+   "referenceId" : "NewAccountFields",
+   "url" : "/services/data/v66.0/sobjects/Account/@{refAccount.id}"
+}
+```
+
+## Related Topics
+
+- sObject Basic
+											Information (atlas.en-us.api_rest.meta/api_rest/resources_sobject_basic_info.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- Insert or Update (Upsert) a Record Using an
+												External ID (atlas.en-us.api_rest.meta/api_rest/dome_upsert.htm)
+- Composite Graph Limits (atlas.en-us.api_rest.meta/api_rest/resources_composite_graph_limits.htm)
+- Composite Subrequest Result (atlas.en-us.api_rest.meta/api_rest/resources_composite_subrequest_result.htm)

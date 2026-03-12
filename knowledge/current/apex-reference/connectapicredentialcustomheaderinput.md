@@ -5,11 +5,14 @@ topic: connectapicredentialcustomheaderinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.050Z
-keywords: [ConnectApi.CredentialCustomHeaderInput, See]
+lastCollected: 2026-03-12T05:14:24.729Z
+estimatedTokens: 194
+keywords: [ConnectApi.CredentialCustomHeaderInput, Credential, custom, header, input.]
 ---
 
 # ConnectApi.CredentialCustomHeaderInput
+
+> Credential custom header input.
 
 # ConnectApi.CredentialCustomHeaderInput
 
@@ -25,5 +28,12 @@ Credential custom header input.
 #### See Also
 
 -   [ConnectApi.ExternalCredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential.htm "Input used to create or update an external credential.")
-    
+
 -   [ConnectApi.NamedCredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm "Input used to create or update a named credential.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ExternalCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential.htm)
+- ConnectApi.NamedCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm)

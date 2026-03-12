@@ -5,11 +5,17 @@ topic: cross-site-request-forgery-csrf
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.196Z
-keywords: [Cross-Site, Request, Forgery, CSRF]
+lastCollected: 2026-03-12T05:14:34.888Z
+estimatedTokens: 799
+keywords: [Cross-Site, Request, Forgery, CSRF, words, attacker's, page, contains, URL, performs, action, website., user, still, logged, web, they, visit, retrieved, actions]
 ---
 
 # Cross-Site Request Forgery (CSRF)
+
+> In other words, the attacker's page contains a URL that performs an action on your
+                website. If the user is still logged into your web page when they visit the
+                attacker's web page, the URL is retrieved and the actions performed. This attack
+                succeeds bec
 
 # Cross-Site Request Forgery (CSRF)
 
@@ -40,3 +46,22 @@ The developer unknowingly bypassed the anti-CSRF controls by developing their ow
 There are no built-in defenses for such situations, and developers must be cautious about writing pages that act based on a user-supplied parameter like the id variable in the previous example. A possible work-around is to insert an intermediate confirmation page to make sure that the user intended to call the page. Other suggestions include shortening the idle session timeout and educating users to log out of their active session and not use their browser to visit other sites while authenticated.
 
 Because of the Salesforce built-in defense against CSRF, your users can encounter an error when multiple Salesforce login pages are open. If the user logs in to Salesforce in one tab and then attempts to log in on another, they see this error: The page you submitted was invalid for your session. Users can successfully log in by refreshing the login page or by attempting to log in a second time.
+
+## Code Examples
+
+```
+<img src="http://www.yourwebpage.com/yourapplication/createuser?email=attacker@attacker.com&type=admin....." height=1 width=1 />
+```
+
+```apex
+<apex:page controller="myClass" action="{!init}"</apex:page>
+
+public class myClass { 
+  public void init() { 
+    Id id = ApexPages.currentPage().getParameters().get('id'); 
+    Account obj = [select id, Name FROM Account WHERE id = :id]; 
+    delete obj; 
+    return ; 
+  }
+}
+```

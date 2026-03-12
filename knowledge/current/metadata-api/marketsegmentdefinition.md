@@ -5,11 +5,18 @@ topic: marketsegmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.463Z
-keywords: [MarketSegmentDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.072Z
+estimatedTokens: 764
+keywords: [MarketSegmentDefinition, Represents, field, values, MarketSegmentDefinition., used, store, exportable, metadata, segment, such, criteria, attributes., Developers, create, definition, packages, pass, form, data]
 ---
 
 # MarketSegmentDefinition
+
+> Represents the field values for MarketSegmentDefinition. MarketSegmentDefinition is
+    used to store the exportable metadata of a segment, such as segment criteria and other
+    attributes. Developers can create segment definition packages, pass segment definition in the
+    form of data build tool (DBT), and publish it on AppExchange for subscriber organizations to
+    install and instantiate these segments.
 
 # MarketSegmentDefinition
 
@@ -61,3 +68,40 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_settings.htm). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketSegmentDefinition>
+    <segmentType>DBT</segmentType>
+    <includeCriteria>
+    <![CDATA[
+        <DbtPipeline>
+            <models>
+                <model>
+                    <name>m1</name>
+                    <sql>select ssot__Individual__dlm.ssot__Id__c from ssot__Individual__dlm</sql>
+                </model>
+            </models>
+        </DbtPipeline>
+        ]]>
+    </includeCriteria>
+    <masterLabel>msd2_simple</masterLabel>
+</MarketSegmentDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Package xmlns:ns2="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>MarketSegmentDefinition</name>
+    </types>
+    <version>55.0</version>
+</ns2:Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

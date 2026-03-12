@@ -5,15 +5,19 @@ topic: productsreturnratepageparam-pagesize
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.434Z
-keywords: [productsReturnRate, pageParam, pageSize, API, Version, Requires, Chatter, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:18.550Z
+estimatedTokens: 357
+keywords: [productsReturnRate, pageParam, pageSize, pages, data, showing, rates, products, calculated, Customer, Data, Platform., paginated, descending, order., API, Version, Requires, Chatter, Example]
 ---
 
 # productsReturnRate(pageParam, pageSize)
 
+> Gets pages of data showing the return rates of products that are calculated by the
+    Customer Data Platform. Return data is paginated in descending order.
+
 # productsReturnRate(pageParam, pageSize)
 
-Get a page of products and their return rates.
+Gets pages of data showing the return rates of products that are calculated by the Customer Data Platform. Return data is paginated in descending order.
 
 ## API Version
 
@@ -29,18 +33,34 @@ public static ConnectApi.ProductReturnRateListOutputRepresentation productsRetur
 
 ## Parameters
 
-pageParam
+page
 
-Type: [Integer](atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm#apex_methods_system_integer "Contains methods for the Integer primitive data type.")
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
 
-Specifies the page token to use to view a page of information. Page tokens are returned as part of the response class, such as currentPageToken or nextPageToken. If you pass in null, the first page is returned.
+The page number for the list of products. Starts at 0.
+
+products
+
+Type: List )[String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type."))
+
+A list of IDs to fetch details for.
 
 pageSize
 
-Type: [Integer](atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm#apex_methods_system_integer "Contains methods for the Integer primitive data type.")
+Type: List )[Integer](atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm#apex_methods_system_integer "Contains methods for the Integer primitive data type."))
 
-Specifies the number of items per page. Valid values are from 1 through 100. If you pass in null, the default size is 25.
+The number of products that are returned on each page.
 
 ## Return Value
 
-Type: ConnectApi.ProductReturnRateListOutputRepresentation
+Type: [ConnectApi.ProductReturnRateListOutputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_return_rate_list_output.htm "Products with corresponding return rates.")
+
+## Example
+
+ConnectApi.ProductReturnRateListOutputRepresentation output = ConnectApi.OMSAnalytics.productsReturnRate(page, pageSize);
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ProductReturnRateListOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_return_rate_list_output.htm)

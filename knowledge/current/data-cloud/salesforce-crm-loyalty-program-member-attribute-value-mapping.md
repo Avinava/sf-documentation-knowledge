@@ -5,11 +5,18 @@ topic: salesforce-crm-loyalty-program-member-attribute-value-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.211Z
-keywords: [Salesforce, CRM, Loyalty, Program, Member, Attribute, Value, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.733Z
+estimatedTokens: 463
+keywords: [Salesforce, CRM, Loyalty, Program, Member, Attribute, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., refers, achieved, loyalty, program]
 ---
 
 # Salesforce CRM: Loyalty Program Member Attribute Value Mapping
+
+> These data mappings are for the Loyalty Program Member Attribute Value DLO found in the
+  Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. This data refers to the
+  value achieved by a loyalty program member for an engagement attribute. A member’s progress
+  towards the target for an engagement attribute is tracked across periods or for individual
+  periods.
 
 # Salesforce CRM: Loyalty Program Member Attribute Value Mapping
 

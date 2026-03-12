@@ -5,11 +5,14 @@ topic: connectapiflowapprovalprocessaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.903Z
-keywords: [ConnectApi.FlowApprovalProcessAction, See]
+lastCollected: 2026-03-12T05:14:27.470Z
+estimatedTokens: 171
+keywords: [ConnectApi.FlowApprovalProcessAction, actions, flow, approval, process.]
 ---
 
 # ConnectApi.FlowApprovalProcessAction
+
+> Available actions for a flow approval process.
 
 # ConnectApi.FlowApprovalProcessAction
 
@@ -25,3 +28,9 @@ Available actions for a flow approval process.
 #### See Also
 
 -   [ConnectApi.FlowApprovalProcess](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_approval_process.htm "Details about a flow approval process, its status, and available actions.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.FlowApprovalProcess (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_approval_process.htm)

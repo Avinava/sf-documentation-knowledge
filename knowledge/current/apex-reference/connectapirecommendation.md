@@ -5,11 +5,14 @@ topic: connectapirecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.799Z
-keywords: [ConnectApi.Recommendation]
+lastCollected: 2026-03-12T05:14:28.692Z
+estimatedTokens: 231
+keywords: [ConnectApi.Recommendation, Next, Best, Action, recommendation, object.]
 ---
 
 # ConnectApi.Recommendation
+
+> A Next Best Action recommendation object.
 
 # ConnectApi.Recommendation
 
@@ -26,3 +29,8 @@ A Next Best Action recommendation object.
 | name | String | Name of the recommendation. | 45.0 |
 | rejectionLabel | String | Text indicating user rejection of the recommendation. | 45.0 |
 | url | String | URL to the recommendation. | 45.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​FileAsset (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file_asset.htm)

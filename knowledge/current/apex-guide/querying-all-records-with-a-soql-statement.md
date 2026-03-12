@@ -5,11 +5,16 @@ topic: querying-all-records-with-a-soql-statement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.978Z
-keywords: [Querying, Records, SOQL, Statement]
+lastCollected: 2026-03-12T05:14:34.554Z
+estimatedTokens: 121
+keywords: [Querying, Records, SOQL, Statement, ROWS, query, records, organization's, Recycle, Bin., cannot, keywords, UPDATE, keywords.]
 ---
 
 # Querying All Records with a SOQL Statement
+
+> You can use ALL ROWS to query records in your
+organization's Recycle Bin. You cannot use the ALL ROWS
+keywords with the FOR UPDATE keywords.
 
 # Querying All Records with a SOQL Statement
 
@@ -22,3 +27,13 @@ SOQL statements can use the ALL ROWS keywords to query all records in an organiz
 You can use ALL ROWS to query records in your organization's Recycle Bin. You cannot use the ALL ROWS keywords with the FOR UPDATE keywords.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm "Using Apex Variables in SOQL and SOSL Queries")
+
+## Code Examples
+
+```apex
+System.assertEquals(2, [SELECT COUNT() FROM Contact WHERE AccountId = a.Id ALL ROWS]);
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm)

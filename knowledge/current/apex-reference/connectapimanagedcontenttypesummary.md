@@ -5,11 +5,14 @@ topic: connectapimanagedcontenttypesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.214Z
-keywords: [ConnectApi.ManagedContentTypeSummary, See]
+lastCollected: 2026-03-12T05:14:27.885Z
+estimatedTokens: 254
+keywords: [ConnectApi.ManagedContentTypeSummary, Managed, content, type.]
 ---
 
 # ConnectApi.ManagedContentTypeSummary
+
+> Managed content type.
 
 # ConnectApi.ManagedContentTypeSummary
 
@@ -23,9 +26,17 @@ Managed content type.
 #### See Also
 
 -   [ConnectApi.ManagedContentDeliveryDocument](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm "Managed content in delivery scope.")
-    
+
 -   [ConnectApi.ManagedContentCollectionItems](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_collection_items.htm "Managed content collection Items.")
-    
+
 -   [ConnectApi.ManagedContentDocument](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_document.htm "Information about a piece of managed content in an authoring space.")
-    
+
 -   [ConnectApi.ManagedContentVariant](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_variant.htm "Managed content variant.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ManagedContentDeliveryDocument (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm)
+- ConnectApi.ManagedContentCollectionItems (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_collection_items.htm)
+- ConnectApi.ManagedContentDocument (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_document.htm)
+- ConnectApi.ManagedContentVariant (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_variant.htm)

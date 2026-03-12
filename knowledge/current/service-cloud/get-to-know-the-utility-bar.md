@@ -5,11 +5,16 @@ topic: get-to-know-the-utility-bar
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.124Z
-keywords: [Get, Know, Utility, Bar, See]
+lastCollected: 2026-03-12T05:14:57.615Z
+estimatedTokens: 596
+keywords: [Get, Know, Utility, Bar, utility, bar, specialized, Lightning, page, gives, users, quick, access, common, productivity, tools., bars, supported, Experience, desktop]
 ---
 
 # Get to Know the Utility Bar
+
+> The utility bar is a specialized type of Lightning page that gives your users quick
+  access to common productivity tools. Utility bars are supported in Lightning Experience for
+  desktop only.
 
 # Get to Know the Utility Bar
 
@@ -28,7 +33,12 @@ To add a utility bar, add at least one utility item that isn’t a background ut
 #### See Also
 
 -   [*Salesforce Help*: Add a Utility Bar to Lightning Apps](https://help.salesforce.com/articleView?id=apps_lightning_utilities.htm&language=en_US "Salesforce Help: Add a Utility Bar to Lightning Apps  - HTML (New Window)")
-    
+
 -   [Methods for the Utility Bar in Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_methods_lightning_utilityBarAPI.htm "The utility bar houses Aura components and Lightning web components, providing users quick access to tools they use often. The utility bar is available in Lightning Experience only. Both Lightning Web Components (LWC) and Aura Components support the utility bar methods, with usage differences noted on each method.")
-    
+
 -   [Using Background Utility Items](atlas.en-us.api_console.meta/api_console/sforce_api_console_js_lightning_background_utility_item.htm "Implement the lightning:backgroundUtilityItem interface to create a component that fires and responds to events without rendering in the utility bar.")
+
+## Related Topics
+
+- Methods for the Utility Bar in Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_methods_lightning_utilityBarAPI.htm)
+- Using Background Utility Items (atlas.en-us.api_console.meta/api_console/sforce_api_console_js_lightning_background_utility_item.htm)

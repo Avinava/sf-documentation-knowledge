@@ -5,11 +5,14 @@ topic: connectapinavigationmenupagereference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.357Z
-keywords: [ConnectApi.NavigationMenuPageReference, See]
+lastCollected: 2026-03-12T05:14:28.078Z
+estimatedTokens: 149
+keywords: [ConnectApi.NavigationMenuPageReference, Navigation, menu, item, page, reference.]
 ---
 
 # ConnectApi.NavigationMenuPageReference
+
+> Navigation menu item page reference.
 
 # ConnectApi.NavigationMenuPageReference
 
@@ -24,3 +27,9 @@ Navigation menu item page reference.
 #### See Also
 
 -   [ConnectApi.NavigationMenuItem](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_navigation_menu_item.htm "Navigation menu item.")
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.NavigationMenuItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_navigation_menu_item.htm)

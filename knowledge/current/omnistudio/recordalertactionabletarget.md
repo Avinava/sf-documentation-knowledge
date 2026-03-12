@@ -5,11 +5,15 @@ topic: recordalertactionabletarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.128Z
-keywords: [RecordAlertActionableTarget, Important, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:54.221Z
+estimatedTokens: 558
+keywords: [RecordAlertActionableTarget, Represents, action, associated, parent, record, alert., API, version, 63.0, later., Important, Supported, Calls, Fields]
 ---
 
 # RecordAlertActionableTarget
+
+> Represents the action associated with the parent record alert. This
+      object is available in API version 63.0 and later.
 
 # RecordAlertActionableTarget
 
@@ -19,7 +23,7 @@ Represents the action associated with the parent record alert. This object is av
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

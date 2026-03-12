@@ -5,13 +5,40 @@ topic: recurringappointmentsmanager-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.055Z
-keywords: [RecurringAppointmentsManager, Class, Returns, list, RecurringSequence, appointments., getRecurringAppointmentsSlots, Signature, Parameters, Important, Return, Value, Usage, Example, Execution, Script, Method]
+lastCollected: 2026-03-12T05:14:55.262Z
+estimatedTokens: 1819
+namespace: FSL
+keywords: [RecurringAppointmentsManager, Represents, result, getRecurringAppointmentSlots, pattern, appointments, recur, weekly., Usage, getRecurringAppointmentsSlots, Important, Example, Execution, Script]
 ---
 
 # RecurringAppointmentsManager Class
 
-> Returns a list of RecurringSequence appointments.
+> Represents the result of using the getRecurringAppointmentSlots method to
+      return a pattern of appointments that recur weekly.
+
+**Namespace:** `FSL`
+
+# RecurringAppointmentsManager Class
+
+Represents the result of using the [getRecurringAppointmentSlots](#apex_FSL_RecurringAppointmentsManager_getRecurringAppointmentsSlots "Returns a list of RecurringSequence appointments.") method to return a pattern of appointments that recur weekly.
+
+## Namespace
+
+[FSL](atlas.en-us.field_service_dev.meta/field_service_dev/apex_namespace_FSL.htm "The Field Service (FSL) namespace contains all classes, methods, Visualforce pages, and custom objects within the Field Service managed package. To allow access to namespace elements, assign the FSL custom permission set that's appropriate for the user's persona. For example, to allow a user to book appointments, assign the FSL Agent custom permission set.")
+
+## Usage
+
+RecurringAppointmentsManager is an Apex class that takes the [RecurringPattern](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringPattern.htm#apex_class_FSL_RecurringPattern "Represents a global sharing class that is a required parameter for RecurringAppointmentsManager to return a pattern of appointments that recur weekly.") class as a required parameter, and returns a list of [RecurringSequence](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringSequence.htm "Represents the result of using the getRecurringAppointmentsSlots method to return a pattern of appointments that recur daily, weekly, or monthly.") appointments that recur weekly.
+
+-   **[RecurringAppointmentsManager Methods](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringAppointmentsManager.htm#apex_FSL_RecurringAppointmentsManager_methods)**
+
+
+## RecurringAppointmentsManager Methods
+
+RecurringAppointmentsManager includes the following static method.
+
+-   **[getRecurringAppointmentsSlots](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringAppointmentsManager.htm#apex_FSL_RecurringAppointmentsManager_getRecurringAppointmentsSlots)**
+    Returns a list of RecurringSequence appointments.
 
 ### getRecurringAppointmentsSlots
 
@@ -90,3 +117,61 @@ This code sample uses a method to create the same recurring pattern.
 ```
 
 ```
+
+## Code Examples
+
+```apex
+//Fill the pattern object
+FSL.RecurringPattern pattern = new FSL.RecurringPattern();
+pattern.DaysOfWeek = new Set<FSL.RecurringPattern.DaysOfWeek>{FSL.RecurringPattern.DaysOfWeek.Monday, FSL.RecurringPattern.DaysOfWeek.Wednesday, FSL.RecurringPattern.DaysOfWeek.Thursday, FSL.RecurringPattern.DaysOfWeek.Friday};
+pattern.FrequencyType = FSL.RecurringPattern.FrequencyType.WEEKLY;
+pattern.Frequency = 2;
+pattern.NumberOfVisits = 6;
+
+Integer schedulingOptionsCount = 3;
+Id policyID = 'a1Lx00000004CUXEA2';
+Id serviceId = '08px000000NzmOeAAJ';
+Id operatingHoursId = '0OHx0000000D3ETGA0';
+
+//Call the API
+FSL.RecurringAppointmentSlots result = FSL.RecurringAppointmentsManager.getRecurringAppointmentsSlots(serviceId , policyID, operatingHoursId, schedulingOptionsCount, pattern);
+
+//Handle the response of the API (example only)
+for (Integer i=1 ; i<= result.recurringSequences.size() ; i++){
+    System.debug('Sequence number: ' + i);
+    System.debug('participatingResources details: /n' + result);
+    System.debug('visitSchedulingOptions details: /n' + result);
+    System.debug('averageObjectivesGrades details: /n' + result);
+    System.debug('sequenceScore details: /n' + result);
+    System.debug('firstPatternOccurrence details: /n' + result);
+}
+```
+
+```apex
+//Using a method (example):
+public callRecurringVisitsAPI(Id serviceID, Id policyID, Id calendarOperatingHoursId, Integer SchedulingOptionsCount) {
+        
+//Fill the pattern object
+RecurringPattern pattern = new FSL.RecurringPattern();
+pattern.DaysOfWeek = new Set<RecurringPattern.DaysOfWeek>{RecurringPattern.DaysOfWeek.Monday, RecurringPattern.DaysOfWeek.Wednesday, RecurringPattern.DaysOfWeek.Thursday, RecurringPattern.DaysOfWeek.Friday};
+
+pattern.FrequencyType = RecurringPattern.FrequencyType.WEEKLY;
+pattern.Frequency = 2;
+pattern.NumberOfVisits = 6;
+
+//Call the API
+FSL.RecurringAppointmentSlots result = RecurringAppointmentsManager.getRecurringAppointmentsSlots(serviceID, policyID, calendarOperatingHoursId, SchedulingOptionsCount, pattern);
+}
+
+}
+```
+
+## Related Topics
+
+- FSL (atlas.en-us.field_service_dev.meta/field_service_dev/apex_namespace_FSL.htm)
+- RecurringPattern (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringPattern.htm)
+- RecurringSequence (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringSequence.htm)
+- RecurringAppointmentsManager Methods (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringAppointmentsManager.htm)
+- getRecurringAppointmentsSlots (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_RecurringAppointmentsManager.htm)
+- AppointmentBookingService (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_AppointmentBookingService.htm)
+- ServiceAppointment (atlas.en-us.field_service_dev.meta/field_service_dev/sforce_api_objects_serviceappointment.htm)

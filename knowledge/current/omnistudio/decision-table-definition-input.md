@@ -5,11 +5,15 @@ topic: decision-table-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.198Z
-keywords: [Decision, Table, Definition, Input]
+lastCollected: 2026-03-12T05:14:48.282Z
+estimatedTokens: 1128
+keywords: [Decision, Table, Definition, Input, representation, decision, table, definition.]
 ---
 
 # Decision Table Definition Input
+
+> Input representation of a decision table
+      definition.
 
 # Decision Table Definition Input
 
@@ -49,3 +53,10 @@ Properties
 | status | String | Status of the decision table. Valid values are:ActivationInProgressActivationInProgressDraftInactive | Required | 58.0 |
 | type | String | Type of the decision table. Valid values are:HighVolumeLowVolume | Optional | 58.0 |
 | usageType | String | Process type that uses the decision table. Valid values are:PricingProductEligibility | Optional | 58.0 |
+
+## Related Topics
+
+- Decision Table Parameter
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_parameter_input.htm)
+- Decision Table Source Criteria
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_source_criteria_input.htm)

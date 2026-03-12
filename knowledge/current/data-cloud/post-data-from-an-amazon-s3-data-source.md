@@ -5,11 +5,14 @@ topic: post-data-from-an-amazon-s3-data-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.401Z
-keywords: [Post, Data, Amazon, Source, Syntax, Note, Example]
+lastCollected: 2026-03-12T05:14:12.405Z
+estimatedTokens: 261
+keywords: [Post, Data, Amazon, Source, POST, stream, data, source., Syntax, Note, Example]
 ---
 
 # Post Data from an Amazon S3 Data Source
+
+> Use the POST method to stream data from an Amazon S3 data source.
 
 # Post Data from an Amazon S3 Data Source
 
@@ -67,4 +70,124 @@ Response
 
 ```
 
+```
+
+## Code Examples
+
+```
+Post /services/data/v51.0/ui-api/records
+```
+
+```
+{
+  "apiName": "DataStream",
+  "fields": {
+    "Name": "{DATA STREAM NAME}",
+    "DataStreamDefinitionId" : "{DATA STREAM DEFINITION ID}",
+    "RefreshFrequency": "Hourly",
+    "RefreshMode" : "Upsert"
+  }
+}
+```
+
+```
+{
+    "apiName": "DataStream",
+    "childRelationships": {},
+    "eTag": "9e9cb5c9a3e9db2e75918fa9b5b20815",
+    "fields": {
+        "CreatedBy": {
+            "displayValue": "Admin User",
+            "value": {
+                "apiName": "User",
+                "childRelationships": {},
+                "eTag": "8941f8da5501cf307f51e59c936e434b",
+                "fields": {
+                    "Id": {
+                        "displayValue": null,
+                        "value": "005R0000000d9SfIAI"
+                    },
+                    "Name": {
+                        "displayValue": null,
+                        "value": "Admin User"
+                    }
+                },
+                "id": "005R0000000d9SfIAI",
+                "lastModifiedById": "005R0000000d9SfIAI",
+                "lastModifiedDate": "2021-03-24T19:03:56.000Z",
+                "recordTypeId": null,
+                "recordTypeInfo": null,
+                "systemModstamp": "2021-03-31T22:47:39.000Z",
+                "weakEtag": 1617230859000
+            }
+        },
+        "CreatedById": {
+            "displayValue": null,
+            "value": "005R0000000d9SfIAI"
+        },
+        "CreatedDate": {
+            "displayValue": "4/2/2021, 2:50 PM",
+            "value": "2021-04-02T21:50:23.000Z"
+        },
+        "DataStreamStatus": {
+            "displayValue": "Processing",
+            "value": "PROCESSING"
+        },
+        "ImportRunStatus": {
+            "displayValue": "None",
+            "value": "NONE"
+        },
+        "IsRefreshDeliveryHourAutomatic": {
+            "displayValue": null,
+            "value": false
+        },
+        "LastNumberOfRowsAddedCount": {
+            "displayValue": null,
+            "value": null
+        },
+        "LastRefreshDate": {
+            "displayValue": null,
+            "value": null
+        },
+        "Name": {
+            "displayValue": null,
+            "value": "s3-ui-api"
+        },
+        "RefreshDayOfMonth": {
+            "displayValue": null,
+            "value": null
+        },
+        "RefreshDayOfWeek": {
+            "displayValue": null,
+            "value": null
+        },
+        "RefreshFrequency": {
+            "displayValue": "Hourly",
+            "value": "HOURLY"
+        },
+        "RefreshHours": {
+            "displayValue": null,
+            "value": null
+        },
+        "RefreshMode": {
+            "displayValue": "Upsert",
+            "value": "UPSERT"
+        },
+        "TotalNumberOfRowsAdded": {
+            "displayValue": null,
+            "value": null
+        },
+        "TotalRowsProcessed": {
+            "displayValue": null,
+            "value": null
+        }
+    },
+    "id": "1dsR000000002zzIAA",
+    "lastModifiedById": "005R0000000d9SfIAI",
+    "lastModifiedDate": "2021-04-02T21:50:23.000Z",
+    "recordTypeId": "012000000000000AAA",
+    "recordTypeInfo": null,
+    "systemModstamp": "2021-04-02T21:50:23.000Z",
+    "weakEtag": 1617400223000
+}
 ```

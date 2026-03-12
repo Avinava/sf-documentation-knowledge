@@ -5,11 +5,17 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.123Z
-keywords: [ApexClass, Note, Supported, Calls, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, PackageVersion, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:37.713Z
+estimatedTokens: 1648
+keywords: [ApexClass, Represents, Apex, class., template, blueprint, which, objects, created., Classes, consist, classes, user-defined, variables, exception, types, initialization, code., Note, Supported]
 ---
 
 # ApexClass
+
+> Represents an Apex class. An Apex class is a template or
+			blueprint from which Apex objects are created. Classes consist of other classes,
+			user-defined methods, variables, exception types, and static initialization
+		code.
 
 # ApexClass
 
@@ -87,3 +93,34 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [ApexTrigger](atlas.en-us.api_meta.meta/api_meta/meta_triggers.htm "Represents an Apex trigger. A trigger is Apex code that executes before or after specific data manipulation language (DML) events occur, such as before object records are inserted into the database, or after records have been deleted.")
+
+## Code Examples
+
+```apex
+public class MyHelloWorld {
+// This method updates the Hello field on a list
+// of accounts.
+public static void addHelloWorld(Account[] accs){
+	for (Account a:accs){
+		if (a.Hello__c != 'World')
+		a.Hello__c = 'World';
+		}
+	}
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>66.0</apiVersion>
+</ApexClass>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- CRUD-Based Calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- ApexTrigger (atlas.en-us.api_meta.meta/api_meta/meta_triggers.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: carebenefitverifysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.000Z
-keywords: [CareBenefitVerifySettings, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.547Z
+estimatedTokens: 656
+keywords: [CareBenefitVerifySettings, Represents, configuration, settings, benefit, verification, requests., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # CareBenefitVerifySettings
+
+> Represents the configuration settings for benefit
+			verification requests.
 
 # CareBenefitVerifySettings
 
@@ -65,3 +69,40 @@ This is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CareBenefitVerifySettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <generalPlanServiceTypeCode>abc</generalPlanServiceTypeCode>
+    <isDefault>true</isDefault>
+    <masterLabel>test</masterLabel>
+    <serviceApexClass>TestApexClass</serviceApexClass>
+    <serviceNamedCredential>test</serviceNamedCredential>
+    <uriPath>efgh</uriPath>
+    <serviceTypeSourceSystem>Lorem ipsum dolor</serviceTypeSourceSystem>
+    <codeSetType>Code set</codeSetType>
+    <defaultNpi>Npi info</defaultNpi>
+    <organizationName>Organization name</organizationName>
+</CareBenefitVerifySettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>CareBenefitVerifySettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>NamedCredential</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```

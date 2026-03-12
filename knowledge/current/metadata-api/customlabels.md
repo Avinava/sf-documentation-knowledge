@@ -5,11 +5,16 @@ topic: customlabels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.529Z
-keywords: [CustomLabels, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, CustomLabel, Usage, Sample, Definition, Wildcard, Support, Manifest, Limitation, See]
+lastCollected: 2026-03-12T05:14:38.257Z
+estimatedTokens: 1228
+keywords: [CustomLabels, metadata, allows, create, custom, labels, localized, different, languages, countries, currencies., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, CustomLabel]
 ---
 
 # CustomLabels
+
+> The CustomLabels metadata type allows you to create
+            custom labels that can be localized for use in different languages, countries, and
+            currencies.
 
 # CustomLabels
 
@@ -80,3 +85,59 @@ Before you use the CustomLabels metadata type, understand the limitations of thi
 #### See Also
 
 -   [Translations](atlas.en-us.api_meta.meta/api_meta/meta_translations.htm "Metadata type that enables work with translations for various supported languages. The ability to translate component labels is part of the Translation Workbench.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>quoteManual</fullName>
+        <value>This is a manual quote.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Manual Quote</shortDescription>
+    </labels>
+    <labels>
+        <fullName>quoteAuto</fullName>
+        <value>This is an automatically generated quote.</value>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Automatic Quote</shortDescription>
+    </labels>
+</CustomLabels>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MyPkg</fullName>
+    <types>
+      <members>*</members>
+      <name>CustomLabels</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MyPkg</fullName>
+    <types>
+      <members>quoteManual</members>
+      <members>quoteAuto</members>
+      <name>CustomLabel</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Translations (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)
+- Language (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

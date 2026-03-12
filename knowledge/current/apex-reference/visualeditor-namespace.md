@@ -5,11 +5,20 @@ topic: visualeditor-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:42.138Z
-keywords: [VisualEditor, Namespace]
+lastCollected: 2026-03-12T05:14:31.635Z
+estimatedTokens: 519
+namespace: VisualEditor
+keywords: [VisualEditor, provides, classes, interacting, Lightning, App, Builder., operate, components, which, include, web, Aura, components.]
 ---
 
 # VisualEditor Namespace
+
+> The VisualEditor namespace provides classes and
+    methods for interacting with the Lightning App Builder. The classes and methods in this
+    namespace operate on Lightning components, which include Lightning web components and Aura
+    components.
+
+**Namespace:** `VisualEditor`
 
 # VisualEditor Namespace
 
@@ -21,11 +30,18 @@ Configure Lightning web components and Aura components to work in Lightning App 
 
 The following are the classes in the VisualEditor namespace.
 
--   **[DataRow Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DataRow.htm#apex_class_VisualEditor_DataRow)**  
+-   **[DataRow Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DataRow.htm#apex_class_VisualEditor_DataRow)**
     Contains information about one item in a picklist used in a Lightning component on a Lightning page.
--   **[DesignTimePageContext Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DesignTimePageContext.htm#apex_class_VisualEditor_DesignTimePageContext)**  
+-   **[DesignTimePageContext Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DesignTimePageContext.htm#apex_class_VisualEditor_DesignTimePageContext)**
     A class that provides context information about a Lightning page. It can be used to help define the values of a picklist in a Lightning component on a Lightning page based on the page’s type and the object with which it’s associated.
--   **[DynamicPickList Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DynamicPickList.htm#apex_class_VisualEditor_DynamicPickList)**  
+-   **[DynamicPickList Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DynamicPickList.htm#apex_class_VisualEditor_DynamicPickList)**
     An abstract class, used to display the values of a picklist in a Lightning component on a Lightning page.
--   **[DynamicPickListRows Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DynamicPickListRows.htm#apex_class_VisualEditor_DynamicPickListRows)**  
+-   **[DynamicPickListRows Class](atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DynamicPickListRows.htm#apex_class_VisualEditor_DynamicPickListRows)**
     Contains a list of picklist items in a Lightning component on a Lightning page.
+
+## Related Topics
+
+- DataRow Class (atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DataRow.htm)
+- DesignTimePageContext Class (atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DesignTimePageContext.htm)
+- DynamicPickList Class (atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DynamicPickList.htm)
+- DynamicPickListRows Class (atlas.en-us.apexref.meta/apexref/apex_class_VisualEditor_DynamicPickListRows.htm)

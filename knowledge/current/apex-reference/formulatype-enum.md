@@ -5,11 +5,15 @@ topic: formulatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.513Z
-keywords: [FormulaType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.680Z
+estimatedTokens: 91
+keywords: [FormulaType, format, numbers, custom, summary, formula., Values]
 ---
 
 # FormulaType Enum
+
+> The format of the numbers in a custom summary
+    formula.
 
 # FormulaType Enum
 

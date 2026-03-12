@@ -5,11 +5,19 @@ topic: formula-evaluation-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.187Z
-keywords: [Formula, Evaluation, Apex, Note, See]
+lastCollected: 2026-03-12T05:14:33.459Z
+estimatedTokens: 653
+keywords: [Formula, Evaluation, Apex, evaluation, helps, avoid, unnecessary, DML, statements, recalculate, formula, field, values, evaluate, dynamic, expressions., Dynamic, formulas, support, SObjects]
 ---
 
 # Formula Evaluation in Apex
+
+> Formula evaluation in Apex helps avoid unnecessary DML statements to recalculate
+        formula field values and evaluate dynamic formula expressions. Dynamic formulas in Apex
+        support SObjects and Apex objects as context objects. The context type that corresponds to
+        the Apex class used in the FormulaBuilder.withType()
+        method must be a global, user-defined Apex class. Any fields, properties, or methods that
+        the formula references must also be global.
 
 # Formula Evaluation in Apex
 

@@ -5,11 +5,14 @@ topic: genaiplugininstructiondef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.952Z
-keywords: [GenAiPluginInstructionDef, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:40.285Z
+estimatedTokens: 419
+keywords: [GenAiPluginInstructionDef, Represents, topic, instruction., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # GenAiPluginInstructionDef
+
+> Represents a topic instruction.
 
 # GenAiPluginInstructionDef
 
@@ -44,3 +47,8 @@ GenAiPluginInstructionDef is available only if Agents is enabled in your org.
 ## Declarative Metadata Sample Definition
 
 See [GenAiPlugin](atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm "Represents an agent topic, which is a category of actions related to a particular job to be done by AI agents.").
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- GenAiPlugin (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm)

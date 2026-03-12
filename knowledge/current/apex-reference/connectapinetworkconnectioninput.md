@@ -5,11 +5,14 @@ topic: connectapinetworkconnectioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.344Z
-keywords: [ConnectApi.NetworkConnectionInput, See]
+lastCollected: 2026-03-12T05:14:25.199Z
+estimatedTokens: 132
+keywords: [ConnectApi.NetworkConnectionInput, Network, connection, input.]
 ---
 
 # ConnectApi.NetworkConnectionInput
+
+> Network connection input.
 
 # ConnectApi.NetworkConnectionInput
 
@@ -23,3 +26,8 @@ Network connection input.
 #### See Also
 
 -   [ConnectApi.NamedCredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm "Input used to create or update a named credential.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.NamedCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm)

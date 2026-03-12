@@ -5,11 +5,17 @@ topic: fireoncalllogsaved
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.927Z
-keywords: [fireOnCallLogSaved, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.315Z
+estimatedTokens: 281
+keywords: [fireOnCallLogSaved, Calls, eventHandler, function, registered, onCallLogSaved, get, information, send, between, interaction, log, custom, console, component.., only, API, version, 31.0, later.]
 ---
 
 # fireOnCallLogSaved()
+
+> Calls the eventHandler function
+            registered with onCallLogSaved(). Use to get information or send
+            information between an interaction log and a custom console component.. This method is
+            only available in API version 31.0 or later.
 
 # fireOnCallLogSaved()
 
@@ -41,3 +47,38 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if firing the event is successful, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.cti.fireOnCallLogSaved( id:String, (optional)callback:Function )
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var MyCallback = function (result) {
+             alert('fireOnCallLogSaved was thrown: ' + result.success);
+        };
+
+        function testFireOnCallLogSaved() {
+             // Simulates that a call log was saved by passing the task object Id as input.
+             sforce.console.cti.fireOnCallLogSaved('00Txx000003qf8u', myCallback);
+        }
+
+        var callback = function (result) {
+            alert('Call Log was saved! Object Id saved is : ' + result.id);
+        };
+
+        sforce.console.cti.onCallLogSaved(callback);
+    </script>
+    <a href="#" onClick="testFireOnCallLogSaved();return false">
+        Test fireOnCallLogSaved API!</a>
+</apex:page>
+```
+
+## Related Topics
+
+- onCallLogSaved() (atlas.en-us.api_console.meta/api_console/sforce_api_console_oncalllogsaved.htm)

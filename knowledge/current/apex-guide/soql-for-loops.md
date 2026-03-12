@@ -5,11 +5,15 @@ topic: soql-for-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.159Z
-keywords: [SOQL, Loops, Versus, Standard, Queries, Loop, Formats, Note]
+lastCollected: 2026-03-12T05:14:34.830Z
+estimatedTokens: 1233
+keywords: [SOQL, Loops, loops, iterate, over, sObject, records, returned, query., Versus, Standard, Queries, Loop, Formats, Note]
 ---
 
 # SOQL For Loops
+
+> SOQL for loops iterate over all of the
+        sObject records returned by a SOQL query.
 
 # SOQL For Loops
 
@@ -67,15 +71,90 @@ For example, the following code illustrates the difference between the two types
 -   The break and continue keywords can be used in both types of inline query for loop formats. When using the sObject list format, continue skips to the next list of sObjects.
 -   DML statements can only process up to 10,000 records at a time, and sObject list for loops process records in batches of 200. Consequently, if you’re inserting, updating, or deleting more than one record per returned record in an sObject list for loop, it’s possible to encounter runtime limit’s errors. See Execution Governors and Limits.
 -   You may get a QueryException in a SOQL for loop with the message Aggregate query has too many rows for direct assignment, use FOR loop. This exception is sometimes thrown when accessing a large set of child records (200 or more) of a retrieved sObject inside the loop, or when getting the size of such a record set. For example, the query in the following SOQL for loop retrieves child contacts for a particular account. If this account contains more than 200 child contacts, the statements in the for loop cause an exception.
-    
+
     ```
-    
+
     ```
-    
+
     To avoid getting this exception, use a for loop to iterate over the child records, as follows.
-    
+
     ```
-    
+
     ```
-    
+
     In this example, if JSON.serialize() is used on acct, only the records that have been retrieved so far will be returned and serialized. Because the Apex SOQL for-loop mechanism is designed to minimize the amount of heap usage by keeping only a subset of the record data in memory, the complete sObject and any subquery sObjects will not be available to obtain complete serialization.
+
+## Code Examples
+
+```
+for (variable : [soql_query]) {
+    code_block
+}
+```
+
+```
+for (variable_list : [soql_query]) {
+    code_block
+}
+```
+
+```
+String s = 'Acme';
+for (Account a : [SELECT Id, Name from Account
+                  where Name LIKE :(s+'%')]) {
+    // Your code
+}
+```
+
+```apex
+// Create a list of account records from a SOQL query
+List<Account> accs = [SELECT Id, Name FROM Account WHERE Name = 'Siebel']; 
+
+// Loop through the list and update the Name field
+for(Account a : accs){
+   a.Name = 'Oracle';
+}
+
+// Update the database
+update accs;
+```
+
+```apex
+// Create a savepoint because the data should not be committed to the database
+Savepoint sp = Database.setSavepoint(); 
+
+insert new Account[]{new Account(Name = 'yyy'), 
+                     new Account(Name = 'yyy'), 
+                     new Account(Name = 'yyy')};
+
+// The single sObject format executes the for loop once per returned record
+Integer i = 0;
+for (Account tmp : [SELECT Id FROM Account WHERE Name = 'yyy']) {
+    i++;
+}
+System.assert(i == 3); // Since there were three accounts named 'yyy' in the
+                       // database, the loop executed three times
+
+// The sObject list format executes the for loop once per returned batch
+// of records
+i = 0;
+Integer j;
+for (Account[] tmp : [SELECT Id FROM Account WHERE Name = 'yyy']) {
+    j = tmp.size();
+    i++;
+}
+System.assert(j == 3); // The lt should have contained the three accounts
+                       // named 'yyy'
+System.assert(i == 1); // Since a single batch can hold up to 200 records and,
+                       // only three records should have been returned, the 
+                       // loop should have executed only once
+
+// Revert the database to the original state
+Database.rollback(sp);
+```
+
+## Related Topics
+
+- SOQL and SOSL Queries (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL.htm)
+- Total heap size (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- aggregate function (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_agg_fns.htm)

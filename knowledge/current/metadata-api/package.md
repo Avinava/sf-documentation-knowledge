@@ -5,11 +5,15 @@ topic: package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.876Z
-keywords: [Package, PackageTypeMembers, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:41.621Z
+estimatedTokens: 1117
+keywords: [Package, Specifies, which, metadata, components, retrieve, part, call, defines, package, components., PackageTypeMembers, Wildcard, Support, Manifest, File]
 ---
 
 # Package
+
+> Specifies which metadata components to retrieve as part of a
+    retrieve() call or defines a package of components.
 
 # Package
 
@@ -45,3 +49,11 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [Sample package.xml Manifest Files](atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm "This section includes sample package.xml manifest files that show you how to work with different subsets of metadata. A manifest file can include multiple <types> elements so you could combine the individual samples into one package.xml manifest file if you want to work with all the metadata in one batch.")
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- ProfileObjectPermissions (atlas.en-us.api_meta.meta/api_meta/meta_profile.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Sample package.xml Manifest Files (atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm)

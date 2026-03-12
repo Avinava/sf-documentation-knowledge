@@ -5,11 +5,15 @@ topic: connectapifeedelementcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:38.785Z
-keywords: [ConnectApi.FeedElementCapability]
+lastCollected: 2026-03-12T05:14:27.350Z
+estimatedTokens: 2364
+keywords: [ConnectApi.FeedElementCapability, feed, element, capability, which, defines, characteristics, element.]
 ---
 
 # ConnectApi.FeedElementCapability
+
+> A feed element capability, which defines
+the characteristics of a feed element.
 
 # ConnectApi.FeedElementCapability
 
@@ -61,3 +65,16 @@ This class is a superclass of:
 -   [ConnectApi.VerifiedCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_verified_capability.htm "If a comment has this capability, users with permission can mark it as verified or unverified.")
 
 This class doesn’t have any properties.
+
+## Related Topics
+
+- ConnectApi.AssociatedActionsCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_associated_actions_capability.htm)
+- ConnectApi.ApprovalCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_approval_capability.htm)
+- ConnectApi.BannerCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_banner_capability.htm)
+- ConnectApi.BookmarksCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_bookmarks_capability.htm)
+- ConnectApi.BundleCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_bundle_capability.htm)
+- ConnectApi.CallCollaborationCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_call_collaboration_capability.htm)
+- ConnectApi.CanvasCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_canvas_capability.htm)
+- ConnectApi.CaseCommentCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_case_comment_capability.htm)
+- ConnectApi.ChatterLikesCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_likes_capability.htm)
+- ConnectApi.CloseCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_close_capability.htm)

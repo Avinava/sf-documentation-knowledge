@@ -5,11 +5,15 @@ topic: regulationversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.188Z
-keywords: [RegulationVersion, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.317Z
+estimatedTokens: 1035
+keywords: [RegulationVersion, Represents, version, Regulation, tracks, amendments., API, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # RegulationVersion
+
+> Represents the version of the Regulation that tracks amendments. This
+      object is available in API version 65.0 and later.
 
 # RegulationVersion
 
@@ -53,3 +57,10 @@ History is available for tracked fields of the object.
 [RegulationVersionShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- RegulationVersionChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- RegulationVersionFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- RegulationVersionHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- RegulationVersionShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

@@ -5,11 +5,14 @@ topic: connectapiabstractpicklistvalueattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.799Z
-keywords: [ConnectApi.AbstractPicklistValueAttributes, See]
+lastCollected: 2026-03-12T05:14:25.890Z
+estimatedTokens: 331
+keywords: [ConnectApi.AbstractPicklistValueAttributes, Picklist, attributes.]
 ---
 
 # ConnectApi.AbstractPicklistValueAttributes
+
+> Picklist value attributes.
 
 # ConnectApi.AbstractPicklistValueAttributes
 
@@ -31,3 +34,12 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.PicklistValue](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_value.htm "Picklist value.")
+
+## Related Topics
+
+- ConnectApi.CaseStatusPicklistValueAttributes (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_case_status_picklist_value_attributes.htm)
+- ConnectApi.LeadStatusPicklistValueAttributes (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_lead_status_picklist_value_attributes.htm)
+- ConnectApi.OpportunityStagePicklistValueAttributes (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_opportunity_stage_picklist_value_attributes.htm)
+- ConnectApi.WorkStepPicklistValueAttribute (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_work_step_picklist_value_attribute.htm)
+- ConnectApi.​PicklistAttributes​ValueType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.PicklistValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_value.htm)

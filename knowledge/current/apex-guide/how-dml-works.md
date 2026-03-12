@@ -4,12 +4,18 @@ domain: apex-guide
 topic: how-dml-works
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-11T15:43:48.063Z
-keywords: [How, DML, Works, Single, vs., Bulk, Operations, System, Context, Sharing, Rules, Note, Best, Practices]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.681Z
+estimatedTokens: 705
+keywords: [How, DML, Works, perform, operations, either, single, sObject, bulk, list, sObjects., Performing, recommended, way, because, helps, avoid, hitting, governor, limits]
 ---
 
 # How DML Works
+
+> You can perform DML operations either on a single sObject, or in bulk
+                on a list of sObjects. Performing bulk DML operations is the recommended way because
+                it helps avoid hitting governor limits, such as the DML limit of 150 statements per
+                Apex transact
 
 # How DML Works
 
@@ -46,3 +52,37 @@ If you execute DML operations within an anonymous block, they execute using the 
 ## Best Practices
 
 With DML on SObjects, it’s best to construct new instances and only update the fields you wish to modify without querying other fields. If you query fields other than the fields you wish to update, you may revert queried field values that could have changed between the query and the DML.
+
+## Code Examples
+
+```apex
+List<Contact> conList = [Select Department , Description from Contact];
+for(Contact badCon : conList) {
+    if (badCon.Department == 'Finance') {
+        badCon.Description = 'New description';
+    }
+    // Not a good practice since governor limits might be hit.
+    update badCon;
+}
+```
+
+```apex
+// List to hold the new contacts to update.
+List<Contact> updatedList = new List<Contact>();
+List<Contact> conList = [Select Department , Description from Contact];
+for(Contact con : conList) {
+    if (con.Department == 'Finance') {
+        con.Description = 'New description';
+        // Add updated contact sObject to the list.
+        updatedList.add(con);
+    }
+}
+
+// Call update on the list of contacts.
+// This results in one DML call for the entire list.
+update updatedList;
+```
+
+## Related Topics
+
+- Enforce Sharing Rules (atlas.en-us.apexcode.meta/apexcode/apex_security_sharing_rules.htm)

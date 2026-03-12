@@ -5,11 +5,16 @@ topic: decisiontabledatasetlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.463Z
-keywords: [DecisionTableDatasetLink, Note, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:52.169Z
+estimatedTokens: 633
+keywords: [DecisionTableDatasetLink, Represents, information, dataset, link, associated, decision, table., select, whose, records, table, must, provide, outcome., extends, Metadata, metadata, inherits, its]
 ---
 
 # DecisionTableDatasetLink
+
+> Represents a dataset link associated with a decision table. Use dataset links
+      in a decision table to select an object whose records the decision table must evaluate and
+      provide outcomes for. This object is available in API version 51.0 and later.
 
 # DecisionTableDatasetLink
 
@@ -51,3 +56,56 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix that is associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values.In Developer Edition orgs, NamespacePrefix is set to the namespace prefix of the org for all objects that support it, unless an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition org of the package developer.In orgs that are not Developer Edition orgs, NamespacePrefix is set only for objects that are part of an installed managed package. All other objects have no namespace prefix. |
 | SetupName | TypestringPropertiesFilter, Group, SortDescriptionRequired. The name of the dataset link, which appears in Setup. |
 | SourceObject | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe name of the dataset link's source object. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionTableDatasetLink xmlns="http://soap.sforce.com/2006/04/metadata">
+   <decisionTableName>Sample_DT</decisionTableName>
+   <decisionTblDatasetParameters>
+      <fieldName>IsDeleted</fieldName>
+      <datasetFieldName>IsDeleted</datasetFieldName>
+   </decisionTblDatasetParameters>
+   <decisionTblDatasetParameters>
+      <fieldName>LimitNumber</fieldName>
+      <datasetFieldName>CallDurationInSeconds</datasetFieldName>
+   </decisionTblDatasetParameters>
+   <decisionTblDatasetParameters>
+      <fieldName>Name</fieldName>
+      <datasetFieldName>Subject</datasetFieldName>
+   </decisionTblDatasetParameters>
+   <description>DSL created for md-common tests</description>
+   <isDefault>false</isDefault>
+   <sourceObject>Task</sourceObject>
+   <setupName>DSL Sample</setupName>
+</DecisionTableDatasetLink>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionTableDatasetLink xmlns="http://soap.sforce.com/2006/04/metadata">
+   <decisionTableName>Sample_DT</decisionTableName>
+   <isDefault>true</isDefault>
+   <sourceObject>WorkBadgeDefinition</sourceObject>
+   <setupName>Default DSL Sample</setupName>
+</DecisionTableDatasetLink>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <fullName>Sample DT Package</fullName>
+   <description>Package created for md-common tests</description>
+   <types>
+      <members>Sample_DT</members>
+      <name>DecisionTable</name>
+   </types>
+   <types>
+      <members>DSL_Sample</members>
+      <members>Sample_DT_Default</members>
+      <name>DecisionTableDatasetLink</name>
+   </types>
+   <version>51.0</version>
+</Package>
+```

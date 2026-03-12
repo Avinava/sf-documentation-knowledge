@@ -5,11 +5,14 @@ topic: connectapisaleresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.969Z
-keywords: [ConnectApi.SaleResponse]
+lastCollected: 2026-03-12T05:14:28.938Z
+estimatedTokens: 202
+keywords: [ConnectApi.SaleResponse, Payment, sale, response.]
 ---
 
 # ConnectApi.SaleResponse
+
+> Payment sale response.
 
 # ConnectApi.SaleResponse
 
@@ -23,3 +26,13 @@ Payment sale response.
 | paymentGateway​Logs | List<ConnectApi.​GatewayLogResponse> | Collection of responses from the gateway following the sale request. | 54.0 |
 | paymentGroup | ConnectApi.​PaymentGroupResponse | Payment group used in the sale request. | 54.0 |
 | paymentMethod | ConnectApi.​PaymentMethodResponse | Payment method used in the sale request. | 54.0 |
+
+## Related Topics
+
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- ConnectApi.​SaleGatewayResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_sale_gateway_response.htm)
+- ConnectApi.​PaymentResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_output.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​GatewayLogResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_gateway_log_output.htm)
+- ConnectApi.​PaymentGroupResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_group.htm)
+- ConnectApi.​PaymentMethodResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_method_output.htm)

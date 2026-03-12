@@ -5,11 +5,18 @@ topic: custom-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.925Z
-keywords: [Custom, Settings, Warning, Note, Accessing, List, Setting, Hierarchy, See]
+lastCollected: 2026-03-12T05:14:33.104Z
+estimatedTokens: 1509
+keywords: [Custom, Settings, settings, similar, custom, objects., Application, developers, create, data, associate, organization, profile, specific, user., exposed, application, cache, which, enables]
 ---
 
 # Custom Settings
+
+> Custom settings are similar to custom objects. Application developers can create custom
+    sets of data and associate custom data for an organization, profile, or specific user. All
+    custom settings data is exposed in the application cache, which enables efficient access without
+    the cost of repeated queries to the database. Formula fields, validation rules, flows, Apex, and
+    SOAP API can then use this data.
 
 # Custom Settings
 
@@ -101,3 +108,21 @@ The following example uses the getInstance method to return the data set values 
 #### See Also
 
 -   [*Apex Reference Guide*: Custom Settings Methods](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_custom_settings.htm "Apex Reference Guide: Custom Settings Methods - HTML (New Window)")
+
+## Code Examples
+
+```apex
+Map<String_dataset_name, CustomSettingName__c> mcs = CustomSettingName__c.getAll();
+```
+
+```
+CustomSettingName__c mc = CustomSettingName__c.getValues(data_set_name);
+```
+
+```
+CustomSettingName__c mc = CustomSettingName__c.getOrgDefaults();
+```
+
+```
+CustomSettingName__c mc = CustomSettingName__c.getInstance(Profile_ID);
+```

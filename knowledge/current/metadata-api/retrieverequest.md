@@ -5,11 +5,16 @@ topic: retrieverequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.454Z
-keywords: [RetrieveRequest]
+lastCollected: 2026-03-12T05:14:42.509Z
+estimatedTokens: 510
+keywords: [RetrieveRequest, specified, retrieve, call, encapsulates, options, determining, which, packages, files, retrieved.]
 ---
 
 # RetrieveRequest
+
+> The RetrieveRequest parameter specified on a 
+  retrieve() call encapsulates options for determining which packages or files are 
+  retrieved.
 
 # RetrieveRequest
 
@@ -25,3 +30,8 @@ The RetrieveRequest object consists of the following properties:
 | singlePackage | boolean | Specifies whether only a single package is being retrieved (true) or not (false). If false, then more than one package is being retrieved. |
 | specificFiles | string[] | A list of file names to be retrieved. If a value is specified for this property, packageNames must be set to null and singlePackage must be set to true. |
 | unpackaged | Package | A list of components to retrieve that aren't in a package. |
+
+## Related Topics
+
+- CustomTab (atlas.en-us.api_meta.meta/api_meta/meta_tab.htm)
+- Package (atlas.en-us.api_meta.meta/api_meta/meta_package.htm)

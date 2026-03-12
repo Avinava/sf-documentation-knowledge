@@ -5,11 +5,16 @@ topic: actionablelistfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.523Z
-keywords: [ActionableListFilterCriteria, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.280Z
+estimatedTokens: 827
+keywords: [ActionableListFilterCriteria, Represents, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, list., API, version, 59.0, later., Supported]
 ---
 
 # ActionableListFilterCriteria
+
+> Represents a logical expression containing filter conditions to
+         include or exclude data from the dataset that's associated with the actionable list.
+      This object is available in API version 59.0 and later.
 
 # ActionableListFilterCriteria
 

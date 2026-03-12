@@ -5,11 +5,16 @@ topic: fieldsrctrgtrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.671Z
-keywords: [FieldSrcTrgtRelationship, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:39.869Z
+estimatedTokens: 724
+keywords: [FieldSrcTrgtRelationship, Stores, relationships, between, data, model, DMO, its, fields., example, Individual.Id, field, one-to-many, relationship, ContactPointEmail.PartyId, field., Important, Parent, File, Suffix]
 ---
 
 # FieldSrcTrgtRelationship
+
+> Stores the relationships between a data model object (DMO) and its fields. For example,
+  the Individual.Id field has a one-to-many relationship (1:M) with the
+   ContactPointEmail.PartyId field.
 
 # FieldSrcTrgtRelationship
 
@@ -49,3 +54,7 @@ To access this metadata type, you must have the Customize Application user permi
 | sourceFieldName | string | Required. Name of the field that represents the source side of the relationship. |
 | targetEntity | string | Optional. Name of the entity that represents the target side of the relationship. The target entity can be a DMO or a standard or custom SObject. The field is needed only when the target entity is an SObject. The system can infer the value when the target entity is a DMO. |
 | targetFieldName | string | Required. Name of the field that represents the target side of the relationship. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

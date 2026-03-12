@@ -5,11 +5,15 @@ topic: field-service-pricing-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.294Z
-keywords: [Field, Service, Pricing, Data, Model, Note, See]
+lastCollected: 2026-03-12T05:14:55.584Z
+estimatedTokens: 605
+keywords: [Field, Service, Pricing, Data, Model, Link, work, orders, products, assets, org, track, product, pricing, being, performed, customers’, installed, products., Note]
 ---
 
 # Field Service Pricing Data Model
+
+> Link work orders to products or assets in your org to track product pricing and work
+  being performed on your customers’ installed products.
 
 # Field Service Pricing Data Model
 
@@ -34,5 +38,5 @@ If an asset is replaced or upgraded, the relationship between the old and new as
 #### See Also
 
 -   [Work Order Pricing Guidelines for Field Service](https://help.salesforce.com/articleView?id=wo_pricing.htm&language=en_US "Work Order Pricing Guidelines for Field Service - HTML (New Window)")
-    
+
 -   [Equal Asset Relationships](https://help.salesforce.com/articleView?id=assets_wo_equal.htm&language=en_US "Equal Asset Relationships - HTML (New Window)")

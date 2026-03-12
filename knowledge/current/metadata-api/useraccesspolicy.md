@@ -5,11 +5,14 @@ topic: useraccesspolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:55.051Z
-keywords: [UserAccessPolicy, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UserAccessPolicyAction, UserAccessPolicyFilter, Declarative, Metadata, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:43.481Z
+estimatedTokens: 1647
+keywords: [UserAccessPolicy, Represents, user, access, policy., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UserAccessPolicyAction, UserAccessPolicyFilter, Declarative, Metadata]
 ---
 
 # UserAccessPolicy
+
+> Represents a user access policy.
 
 # UserAccessPolicy
 
@@ -97,3 +100,73 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<UserAccessPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <booleanFilter>1 AND 2</booleanFilter>
+    <description>Policy to assign Sales Rep PSG to active Sales Reps.</description>
+    <masterLabel>Sales Rep Migration</masterLabel>
+    <order>3</order>
+    <status>Design</status>
+    <triggerType>CreateAndUpdate</triggerType>
+    <userAccessPolicyActions>
+        <action>Grant</action>
+        <target>SalesRepPSG</target>
+        <type>PermissionSetGroup</type>
+    </userAccessPolicyActions>
+    <userAccessPolicyFilters>
+        <operation>equals</operation>
+        <sortOrder>1</sortOrder>
+        <target>SalesRepCustomProfile</target>
+        <type>Profile</type>
+    </userAccessPolicyFilters>
+    <userAccessPolicyFilters>
+        <columnName>IsActive</columnName>
+        <operation>equals</operation>
+        <sortOrder>2</sortOrder>
+        <target>User</target>
+        <type>User</type>
+        <value>true</value>
+    </userAccessPolicyFilters>
+</UserAccessPolicy>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<UserAccessPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <booleanFilter>1</booleanFilter>
+    <description>Policy to remove AMER Sales group from employees with one of two roles</description>
+    <masterLabel>Remove AMER Sales Group</masterLabel>
+    <status>Design</status>
+    <userAccessPolicyActions>
+        <action>Revoke</action>
+        <target>AMERSalesPublicGroup</target>
+        <type>Group</type>
+    </userAccessPolicyActions>
+    <userAccessPolicyFilters>
+        <operation>in</operation>
+        <sortOrder>1</sortOrder>
+        <target>SalesOps,InsideSalesRep</target>
+        <type>UserRole</type>
+    </userAccessPolicyFilters>
+</UserAccessPolicy>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>UserAccessPolicy</name>
+    </types>
+    <version>61.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

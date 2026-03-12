@@ -5,11 +5,18 @@ topic: auth-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:29.911Z
-keywords: [Auth, Exceptions, Examples]
+lastCollected: 2026-03-12T05:14:15.629Z
+estimatedTokens: 980
+namespace: Auth
+keywords: [Auth, Exceptions, contains, exception, classes., Examples]
 ---
 
 # Auth Exceptions
+
+> The Auth namespace contains some exception
+    classes.
+
+**Namespace:** `Auth`
 
 # Auth Exceptions
 
@@ -42,3 +49,41 @@ This example uses Auth.VerificationException to trigger verification if a user a
 ```
 
 ```
+
+## Code Examples
+
+```apex
+global override Auth.OAuthRefreshResult refresh(Map<string,string> authProviderConfiguration,String refreshToken){
+            HttpRequest req = new HttpRequest();
+            String accessToken = null;
+            String error  = null;
+            try {
+            
+            // DEVELOPER TODO: Make a refresh token flow using refreshToken passed 
+            // in as an argument to get the new access token
+            // accessToken = ... 
+            } catch (System.CalloutException e) {
+            error = e.getMessage();
+            }
+            catch(Exception e) {
+            error = e.getMessage();
+            throw new Auth.AuthProviderPluginException('My custom error');
+            }
+            
+            return new Auth.OAuthRefreshResult(accessToken,refreshToken, error);                
+            }
+```
+
+```apex
+trigger testTrigger on Account (before insert) {
+    Map<String, String> sessionMap = auth.SessionManagement.getCurrentSession();
+    if(!sessionMap.get('SessionSecurityLevel').equals('HIGH_ASSURANCE')) {
+        throw new Auth.VerificationException(
+            Auth.VerificationPolicy.HIGH_ASSURANCE, 'Insert Account');
+    }
+}
+```
+
+## Related Topics
+
+- Exception Class and Built-In Exceptions (atlas.en-us.apexref.meta/apexref/apex_classes_exception_methods.htm)

@@ -5,11 +5,14 @@ topic: connectapiactivationtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.891Z
-keywords: [ConnectApi.ActivationTarget, See]
+lastCollected: 2026-03-12T05:14:26.015Z
+estimatedTokens: 606
+keywords: [ConnectApi.ActivationTarget, Represents, activation, target.]
 ---
 
 # ConnectApi.ActivationTarget
+
+> Represents an activation target.
 
 # ConnectApi.ActivationTarget
 
@@ -36,7 +39,19 @@ Represents an activation target.
 #### See Also
 
 -   [createActivationTarget(input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm#apex_ConnectAPI_CdpActivationTarget_createActivationTarget_3 "Create an activation target.")
-    
+
 -   [getActivationTarget(activationTargetId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm#apex_ConnectAPI_CdpActivationTarget_getActivationTarget_1 "Get an activation target by ID.")
-    
+
 -   [updateActivationTarget(activationTargetId, input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm#apex_ConnectAPI_CdpActivationTarget_updateActivationTarget_2 "Update an activation target.")
+
+## Related Topics
+
+- ConnectApi.DataConnector (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_connector.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.EgressPropertiesRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_egress_properties.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- DataConnectorTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ActivationTargetStatusEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- createActivationTarget(input) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm)
+- getActivationTarget(activationTargetId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm)
+- updateActivationTarget(activationTargetId, input) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm)

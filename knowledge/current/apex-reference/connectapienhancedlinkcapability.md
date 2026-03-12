@@ -5,11 +5,15 @@ topic: connectapienhancedlinkcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.685Z
-keywords: [ConnectApi.EnhancedLinkCapability, See]
+lastCollected: 2026-03-12T05:14:27.186Z
+estimatedTokens: 271
+keywords: [ConnectApi.EnhancedLinkCapability, feed, element, capability, link, may, contain, supplemental, information, icon, title, description.]
 ---
 
 # ConnectApi.EnhancedLinkCapability
+
+> If a feed element has this capability, it has a link that may contain
+      supplemental information like an icon, a title, and a description.
 
 # ConnectApi.EnhancedLinkCapability
 
@@ -28,3 +32,10 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Icon (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_icon.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

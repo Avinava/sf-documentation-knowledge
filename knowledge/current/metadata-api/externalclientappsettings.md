@@ -5,11 +5,15 @@ topic: externalclientappsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.457Z
-keywords: [ExternalClientAppSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:39.604Z
+estimatedTokens: 759
+keywords: [ExternalClientAppSettings, Represents, settings, enable, External, Client, App, feature, provide, access, OAuth, consumer, secret., Parent, Manifest, Access, File, Suffix, Directory, Location]
 ---
 
 # ExternalClientAppSettings
+
+> Represents settings to enable the External Client App
+      feature and provide access to the OAuth consumer secret.
 
 # ExternalClientAppSettings
 
@@ -48,3 +52,19 @@ The example shows a settings file component.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_settings.htm). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientAppSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+        <enableClientSecretInRestApiAccess>true</enableClientSecretInRestApiAccess>
+        <enableConsumerSecretApiAccess>true</enableConsumerSecretApiAccess>
+        <enablePackageEcaOauthFromDevOrg>false</enablePackageEcaOauthFromDevOrg>
+</ExternalClientAppSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

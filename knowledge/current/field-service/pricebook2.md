@@ -5,11 +5,15 @@ topic: pricebook2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.706Z
-keywords: [Pricebook2, Note, Supported, Calls, Fields, Usage, PriceBook2, Product2, PricebookEntry, Relationships, Price, Book, Setup, Code, Sample—Java, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.235Z
+estimatedTokens: 1660
+keywords: [Pricebook2, Represents, price, book, contains, list, products, org, sells., Note, Supported, Calls, Fields, Usage, PriceBook2, Product2, PricebookEntry, Relationships, Price, Book]
 ---
 
 # Pricebook2
+
+> Represents a price book that contains the list of products that your
+			org sells.
 
 # Pricebook2
 
@@ -98,3 +102,50 @@ Change events are available for the object.
 [Pricebook2History](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
 
 History is available for tracked fields of the object.
+
+## Code Examples
+
+```apex
+public void pricebookSample() {
+  try {
+    //Create a custom pricebook
+    Pricebook2 pb = new Pricebook2();
+    pb.setName("Custom Pricebok");
+    pb.setIsActive(true);
+    SaveResult[] saveResults = connection.create(new SObject[]{pb});
+    pb.setId(saveResults[0].getId());
+
+    // Create a new product
+    Product2 product = new Product2();
+    product.setIsActive(true);
+    product.setName("Product");
+    saveResults = connection.create(new SObject[]{product});
+    product.setId(saveResults[0].getId());
+    
+    // Add product to standard pricebook
+    QueryResult result = connection.query(
+        "select Id from Pricebook2 where isStandard=true"
+    );
+    SObject[] records = result.getRecords();
+    String stdPbId = records[0].getId();
+    
+    // Create a pricebook entry for standard pricebook
+    PricebookEntry pbe = new PricebookEntry();
+    pbe.setPricebook2Id(stdPbId);
+    pbe.setProduct2Id(product.getId());
+    pbe.setIsActive(true);
+    pbe.setUnitPrice(100.0);
+    saveResults = connection.create(new SObject[]{pbe});
+    
+    // Create a pricebook entry for custom pricebook
+    pbe = new PricebookEntry();
+    pbe.setPricebook2Id(pb.getId());
+    pbe.setProduct2Id(product.getId());
+    pbe.setIsActive(true);
+    pbe.setUnitPrice(100.0);
+    saveResults = connection.create(new SObject[]{pbe});
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  }
+}
+```

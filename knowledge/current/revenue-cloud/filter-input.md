@@ -5,15 +5,18 @@ topic: filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.144Z
-keywords: [Filter, Input]
+lastCollected: 2026-03-12T05:14:06.072Z
+estimatedTokens: 79
+keywords: [Filter, Input, representation, filter, request., request, records.]
 ---
 
 # Filter Input
 
+> Input representation of the filter request.
+
 # Filter Input
 
-Input representation of the request to filter records.
+Input representation of the filter request.
 
 JSON example
 
@@ -25,4 +28,39 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| criteria | Filter Criteria Input[] | Filter criteria to filter the records. | Optional | 60.0 |
+| criteria | Criteria[] | Details of the filter criteria. | Required if the filter property is specified. | 60.0 |
+
+## Code Examples
+
+```
+"filter": 
+{
+"criteria": [ {  
+"property": "name",   
+"operator": "eq",   
+"value": "iPhone"
+},
+{
+"criteriaType": "CustomWhereCondition",
+"value": "(effectiveenddate = null OR effectiveenddate >= 2024-06-25)"
+}
+]
+}
+```
+
+```
+"filter":
+ {"criteria":
+ [ {
+   "attributeType": "ProductStandard",
+   "property": "name",
+   "operator": "eq",
+   "value": "iPhone"
+ }]}
+```
+
+## Related Topics
+
+- Criteria (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_criteria.htm)
+- Filter Criteria
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_filter_criteria_input.htm)

@@ -5,11 +5,14 @@ topic: connectapiproductreturnratelistoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.727Z
-keywords: [ConnectApi.ProductReturnRateListOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.593Z
+estimatedTokens: 77
+keywords: [ConnectApi.ProductReturnRateListOutputRepresentation, Products, corresponding, rates.]
 ---
 
 # ConnectApi.ProductReturnRateListOutputRepresentation
+
+> Products with corresponding return rates.
 
 # ConnectApi.ProductReturnRateListOutputRepresentation
 
@@ -18,3 +21,8 @@ Products with corresponding return rates.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | productReturnRateList | List<ConnectApi.ProductReturnRateOutputRepresentation> | List of product return rates. | 59.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ProductReturnRateOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_return_rate_output.htm)

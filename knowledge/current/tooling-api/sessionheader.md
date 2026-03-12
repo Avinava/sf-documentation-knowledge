@@ -5,11 +5,16 @@ topic: sessionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.087Z
-keywords: [SessionHeader, API, Calls, Fields, Sample, Code]
+lastCollected: 2026-03-12T05:14:44.446Z
+estimatedTokens: 151
+keywords: [SessionHeader, Specifies, session, returned, login, server, after, successful, used, subsequent, calls., API, Calls, Fields, Sample, Code]
 ---
 
 # SessionHeader
+
+> Specifies the session ID returned from the login server
+   after a successful login(). This session ID is used in all
+   subsequent calls.
 
 # SessionHeader
 

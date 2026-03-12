@@ -5,11 +5,16 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.424Z
-keywords: [ObjectHierarchyRelationship, Important, File, Suffix, Directory, Location, Version, Fields, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:44.077Z
+estimatedTokens: 1570
+keywords: [ObjectHierarchyRelationship, Represents, organization’s, custom, field, mappings, sales, agreement, conversion., Fields, mapped, Opportunity, Quotes, SalesAgreement, SalesAgreementProduct., Important, File, Suffix, Directory, Location]
 ---
 
 # ObjectHierarchyRelationship
+
+> Represents an organization’s custom field mappings
+      for sales agreement conversion. Fields can be mapped from Opportunity and Quotes to
+      SalesAgreement and SalesAgreementProduct.
 
 # ObjectHierarchyRelationship
 
@@ -94,3 +99,78 @@ Ensure you map all the required fields for sales agreement conversion.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjectHierarchyRelationship xmlns="http://soap.sforce.com/2006/04/metadata">
+
+  <parentObjectMapping>
+    <inputObject>Opportunity</inputObject>
+    <mappingFields>
+      <inputField>Name</inputField>
+      <outputField>Name</outputField>
+    </mappingFields>
+    <mappingFields>
+      <inputField>CloseDate</inputField>
+      <outputField>StartDate</outputField>
+    </mappingFields>
+    <mappingFields>
+      <inputField>Account</inputField>
+      <outputField>Account</outputField>
+    </mappingFields>
+    <mappingFields>
+      <inputField>Pricebook2</inputField>
+      <outputField>Pricebook</outputField>
+    </mappingFields>
+    <outputObject>SalesAgreement</outputObject>
+  </parentObjectMapping>
+
+  <childObjectMapping>
+    <inputObject>OpportunityLineItem</inputObject>
+    <mappingFields>
+      <inputField>Id</inputField>
+      <outputField>Name</outputField>
+    </mappingFields>
+    <mappingFields>
+      <inputField>UnitPrice</inputField>
+      <outputField>SalesPrice</outputField>
+    </mappingFields>
+    <mappingFields>
+      <inputField>PricebookEntry</inputField>
+      <outputField>PricebookEntry</outputField>
+    </mappingFields>
+    <mappingFields>
+      <inputField>Quantity</inputField>
+      <outputField>InitialPlannedQuantity</outputField>
+    </mappingFields>
+    <outputObject>SalesAgreementProduct</outputObject>
+  </childObjectMapping>
+
+  <masterLabel>ObjectHierarchyRelationship</masterLabel>
+  <usageType>ConvertToSalesAgreement</usageType>
+  <parentRelationshipFieldName>Opportunity</parentRelationshipFieldName>
+  <outputPntRelationshipFieldName>SalesAgreement</outputPntRelationshipFieldName>
+  <parentRecord></parentRecord>
+  <inputObjRecordsGrpFieldName>Account</inputObjRecordsGrpFieldName>
+  <mappingType>ParentToParent</mappingType>
+
+</ObjectHierarchyRelationship>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+      <members>*</members>
+      <name>ObjectHierarchyRelationship</name>
+    </types>
+    <version>51.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

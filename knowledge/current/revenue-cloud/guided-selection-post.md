@@ -5,11 +5,16 @@ topic: guided-selection-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.308Z
-keywords: [Guided, Selection, POST]
+lastCollected: 2026-03-12T05:14:06.956Z
+estimatedTokens: 378
+keywords: [Guided, Selection, POST, Retrieve, list, products, based, response, identifier, search, terms, guided, selection., selection, captures, user, requirements, show, suitable, products.]
 ---
 
 # Guided Selection (POST)
+
+> Retrieve a list of products based on the response identifier or search
+      terms of a guided selection. Guided selection captures user requirements to show suitable
+      products.
 
 # Guided Selection (POST)
 
@@ -57,3 +62,47 @@ If both the guided​Selection​ResponseId and searchTerms properties are speci
 Response body for POST
 
 [Guided Selection](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_guided_selection_output.htm "Output representation of the details of a guided selection.")
+
+## Code Examples
+
+```
+/connect/cpq/products/guided-selection
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/guided-selection
+```
+
+```
+{
+  "correlationId": "corrId",
+  "catalogId": "0ZSxx0000000001GAA",
+  "priceBookId": "pricebookId",
+  "limit": 10,
+  "cursor": "MTAwMDAwMDAwNg==",
+  "userContext": {
+    "accountId": "accId"
+  },
+  "guidedSelectionResponseId": "ABCxx0000000001GAA",
+  "searchTerms": [
+    {
+      "term": "IPhone"
+    },
+    {
+      "term": "4GB"
+    },
+    {
+      "term": "64GB"
+    }
+  ],
+  "enableQualification": true,
+  "enablePricing": true,
+  "includeCatalogDetails": false
+}
+```
+
+## Related Topics
+
+- Guided Selection Search Term Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_guided_selection_search_term_input.htm)
+- Guided
+              Selection (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_guided_selection_output.htm)

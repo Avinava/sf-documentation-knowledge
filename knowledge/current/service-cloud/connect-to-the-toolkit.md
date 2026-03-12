@@ -5,11 +5,19 @@ topic: connect-to-the-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:49.800Z
-keywords: [Connect, Toolkit, Note, See]
+lastCollected: 2026-03-12T05:14:57.155Z
+estimatedTokens: 335
+keywords: [Connect, Toolkit, first, portion, any, JavaScript, code, uses, Salesforce, Console, Integration, must, toolkit, code., syntax, different, depending, whether, embedding, Visualforce]
 ---
 
 # Connect to the Toolkit
+
+> The first portion of any JavaScript code that uses the Salesforce Console Integration
+    Toolkit must make the toolkit available to the JavaScript code. The syntax for this is different
+    depending on whether you are embedding JavaScript in a Visualforce
+    page or
+    in a
+    third-party domain.
 
 # Connect to the Toolkit
 
@@ -24,20 +32,33 @@ Due to third-party cookie restrictions in modern web browsers, Visualforce pages
 The version of the Salesforce Console Integration Toolkit is in the URL.
 
 -   For Visualforce pages or any source other than a custom onclick JavaScript button, specify a <script\> tag that points to the toolkit file.
-    
+
     ```
-    
+
     ```
-    
+
     For Visualforce, a relative path is sufficient to include integration.js, and is recommended.
-    
+
 -   For a third-party domain, insert this <script\> tag.
-    
+
     ```
-    
+
     ```
-    
+
 
 #### See Also
 
 -   [*Salesforce Help*: My Domain URL Formats](https://help.salesforce.com/s/articleView?language=en_US&id=sf.domain_name_app_url_changes.htm)
+
+## Code Examples
+
+```
+<apex:page>
+          <script src="/support/console/66.0/integration.js" type="text/javascript"></script>
+     ...
+</apex:page>
+```
+
+```
+<script src="https://MyDomainName--PackageName.vf.force.com/support/console/66.0/integration.js" type="text/javascript"></script>
+```

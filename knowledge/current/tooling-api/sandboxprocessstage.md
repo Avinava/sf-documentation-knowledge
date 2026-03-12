@@ -5,11 +5,14 @@ topic: sandboxprocessstage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.716Z
-keywords: [SandboxProcessStage, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage, Creating, Sandbox, Refreshing, Deleting, Checking, Progress, Note]
+lastCollected: 2026-03-12T05:14:46.740Z
+estimatedTokens: 1390
+keywords: [SandboxProcessStage, Represents, status, progress, during, spectific, stage, SandboxProcess, record., Supported, SOAP, Calls, REST, HTTP, Fields, Usage, Creating, Sandbox, Refreshing, Deleting]
 ---
 
 # SandboxProcessStage
+
+> Represents the status and progress during a spectific stage for a SandboxProcess record.
 
 # SandboxProcessStage
 
@@ -85,3 +88,8 @@ While the system can't provide a time-based estimate, you can track your place i
 
 -   If IsActualWorkFinal = true, then ActualTotalWork is a better representation of the total work required.
 -   If IsActualWorkFinal = false, then EstimatedTotalWork is a better representation of the total work required.
+
+## Related Topics
+
+- SandboxInfo (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_sandboxinfo.htm)
+- SandboxProcess (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_sandboxprocess.htm)

@@ -5,11 +5,14 @@ topic: operations-that-dont-invoke-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.748Z
-keywords: [Operations, Don't, Invoke, Triggers, Note]
+lastCollected: 2026-03-12T05:14:34.197Z
+estimatedTokens: 866
+keywords: [Operations, Don't, Invoke, Triggers, operations, don’t, invoke, triggers., Note]
 ---
 
 # Operations That Don't Invoke Triggers
+
+> Some operations don’t invoke triggers.
 
 # Operations That Don't Invoke Triggers
 
@@ -63,13 +66,13 @@ The getContent and getContentAsPDF PageReference methods aren't allowed in trigg
 Note the following for the ContentVersion object:
 
 -   Content pack operations involving the ContentVersion object, including slides and slide autorevision, don't invoke triggers.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Content packs are revised when a slide inside the pack is revised.
-    
+
 -   Values for the TagCsv and VersionData fields are only available in triggers if the request to create or update ContentVersion records originates from the API.
 -   You can't use before or after delete triggers with the ContentVersion object.
 
@@ -82,3 +85,8 @@ Triggers fire when the Attachment object is created via Email-to-Case or via the
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm "Triggers and Order of Execution")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated.htm "Entity and Field Considerations in Triggers")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated.htm)

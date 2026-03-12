@@ -5,11 +5,15 @@ topic: embeddedservicemenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:37.730Z
-keywords: [EmbeddedServiceMenuItem, Supported, SOAP, API, Calls, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.309Z
+estimatedTokens: 1023
+keywords: [EmbeddedServiceMenuItem, Represents, information, needed, configure, Channel, Menu, item., API, version, 47.0, later., Supported, SOAP, Calls, Special, Access, Rules, Fields, Usage]
 ---
 
 # EmbeddedServiceMenuItem
+
+> Represents the information needed to configure a Channel Menu item. This
+    object is available in API version 47.0 and later.
 
 # EmbeddedServiceMenuItem
 
@@ -50,3 +54,8 @@ This type is available only if Salesforce Experiences and Salesforce Sites are e
 ## Usage
 
 The EmbeddedServiceMenuItem object provides configuration information for a Channel Menu. A channel menu lists the ways in which customers can contact your business. A channel menu deployment is tied to a [EmbeddedServiceMenuSettings](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedservicemenusettings.htm "Represents a setup node for creating a channel menu deployment. Channel menus list the ways in which customers can contact your business. This object is available in API version 47.0 and later.") record, which can have one or more EmbeddedServiceMenuItem objects associated with it.
+
+## Related Topics
+
+- EmbeddedServiceConfig (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceconfig.htm)
+- EmbeddedServiceMenuSettings (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedservicemenusettings.htm)

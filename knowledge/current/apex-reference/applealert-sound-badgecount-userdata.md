@@ -5,11 +5,15 @@ topic: applealert-sound-badgecount-userdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.946Z
-keywords: [apple, alert, sound, badgeCount, userData, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.097Z
+estimatedTokens: 570
+keywords: [apple, alert, sound, badgeCount, userData, Helper, creates, valid, Apple, payload, specified, arguments., Usage, Example]
 ---
 
 # apple(alert, sound, badgeCount, userData)
+
+> Helper method that creates a valid Apple
+payload from the specified arguments.
 
 # apple(alert, sound, badgeCount, userData)
 
@@ -58,3 +62,11 @@ To generate a valid payload, you must provide a value for at least one of the fo
 ## Example
 
 See the [Push Notification Example](atlas.en-us.apexref.meta/apexref/apex_classes_push_notification.htm#push_notification_example_code).
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- Push Notification
+Example (atlas.en-us.apexref.meta/apexref/apex_classes_push_notification.htm)

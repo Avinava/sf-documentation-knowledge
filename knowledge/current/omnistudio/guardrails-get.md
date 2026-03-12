@@ -5,11 +5,15 @@ topic: guardrails-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.612Z
-keywords: [Guardrails, GET]
+lastCollected: 2026-03-12T05:14:48.904Z
+estimatedTokens: 261
+keywords: [Guardrails, GET, Fetches, guardrails, Business, Rules, Engine, BRE, manage, rate, limits, components.]
 ---
 
 # Guardrails (GET)
+
+> Fetches guardrails from the Business Rules Engine (BRE) to manage rate limits for BRE
+    components.
 
 # Guardrails (GET)
 
@@ -45,3 +49,17 @@ Request parameters for GET
 Response body for GET
 
 [BRE Guardrails](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_bre_guardrails.htm "Output representation of the BRE guardrails for each component.")
+
+## Code Examples
+
+```
+/connect/business-rules/guardrails
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/guardrails
+```
+
+## Related Topics
+
+- BRE Guardrails (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_bre_guardrails.htm)

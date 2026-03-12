@@ -5,11 +5,15 @@ topic: reading-xml-using-streams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.789Z
-keywords: [Reading, XML, Streams, XmlStreamReader, Example, See]
+lastCollected: 2026-03-12T05:14:34.256Z
+estimatedTokens: 426
+keywords: [Reading, XML, Streams, XMLStreamReader, enable, forward, read-only, access, data., XmlStreamReader, Example]
 ---
 
 # Reading XML Using Streams
+
+> The XMLStreamReader class methods enable forward, read-only access to XML
+        data.
 
 # Reading XML Using Streams
 
@@ -51,3 +55,91 @@ The following example processes an XML string.
 #### See Also
 
 -   [*Apex Reference Guide*: XmlStreamReader Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_classes_xml_XmlStream_reader.htm "Apex Reference Guide: XmlStreamReader Class - HTML (New Window)")
+
+## Code Examples
+
+```
+String xmlString = '<books><book>My Book</book><book>Your Book</book></books>';
+XmlStreamReader xsr = new XmlStreamReader(xmlString);
+```
+
+```apex
+public class XmlStreamReaderDemo {
+
+    // Create a class Book for processing
+    public class Book {
+        String name;
+        String author;
+    }
+
+    public Book[] parseBooks(XmlStreamReader reader) {
+        Book[] books = new Book[0];
+        boolean isSafeToGetNextXmlElement = true;
+        while(isSafeToGetNextXmlElement) {
+            // Start at the beginning of the book and make sure that it is a book
+            if (reader.getEventType() == XmlTag.START_ELEMENT) {
+                if ('Book' == reader.getLocalName()) {
+                    // Pass the book to the parseBook method (below) 
+                    Book book = parseBook(reader);
+                    books.add(book);
+                }
+            }
+            // Always use hasNext() before calling next() to confirm 
+            // that we have not reached the end of the stream
+            if (reader.hasNext()) {
+                reader.next();
+            } else {
+                isSafeToGetNextXmlElement = false;
+                break;
+            }
+        }
+        return books;
+    }
+
+    // Parse through the XML, determine the author and the characters
+    Book parseBook(XmlStreamReader reader) {
+        Book book = new Book();
+        book.author = reader.getAttributeValue(null, 'author');
+        boolean isSafeToGetNextXmlElement = true;
+        while(isSafeToGetNextXmlElement) {
+            if (reader.getEventType() == XmlTag.END_ELEMENT) {
+                break;
+            } else if (reader.getEventType() == XmlTag.CHARACTERS) {
+                book.name = reader.getText();
+            }
+            // Always use hasNext() before calling next() to confirm 
+            // that we have not reached the end of the stream
+            if (reader.hasNext()) {
+                reader.next();
+            } else {
+                isSafeToGetNextXmlElement = false;
+                break;
+            }
+        }
+        return book;
+    }
+}
+```
+
+```apex
+@isTest
+private class XmlStreamReaderDemoTest {
+    // Test that the XML string contains specific values
+    static testMethod void testBookParser() {
+
+        XmlStreamReaderDemo demo = new XmlStreamReaderDemo();
+
+        String str = '<books><book author="Chatty">Alpha beta</book>' +
+            '<book author="Sassy">Baz</book></books>';
+
+        XmlStreamReader reader = new XmlStreamReader(str);
+        XmlStreamReaderDemo.Book[] books = demo.parseBooks(reader);
+
+        System.debug(books.size());
+
+        for (XmlStreamReaderDemo.Book book : books) {
+            System.debug(book);
+        }
+    }
+}
+```

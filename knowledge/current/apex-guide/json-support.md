@@ -5,11 +5,15 @@ topic: json-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.366Z
-keywords: [JSON, Support, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:33.726Z
+estimatedTokens: 1317
+keywords: [JSON, Support, JavaScript, Notation, support, Apex, enables, serialization, objects, format, deserialization, serialized, content., Versioned, Behavior, Changes]
 ---
 
 # JSON Support
+
+> JavaScript Object Notation (JSON) support in Apex enables the serialization of Apex
+    objects into JSON format and the deserialization of serialized JSON content.
 
 # JSON Support
 
@@ -54,9 +58,15 @@ In API version 63.0 and later, JSON serialization of custom exceptions and most 
 
 In API version 53.0 and later, DateTime format and processing has been updated. The API correctly handles DateTime values in JSON requests that use more than 3 digits after the decimal point. Requests that use an unsupported DateTime format (such as 123456000) result in an error. Salesforce recommends that you strictly adhere to DateTime formats specified in [Valid Date and DateTime Formats](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/intro_valid_date_formats.htm).
 
--   **[Roundtrip Serialization and Deserialization](atlas.en-us.apexcode.meta/apexcode/apex_json_json.htm)**  
+-   **[Roundtrip Serialization and Deserialization](atlas.en-us.apexcode.meta/apexcode/apex_json_json.htm)**
     Use the JSON class methods to perform roundtrip serialization and deserialization of your JSON content. These methods enable you to serialize objects into JSON-formatted strings and to deserialize JSON strings back into objects.
--   **[JSON Generator](atlas.en-us.apexcode.meta/apexcode/apex_json_jsongenerator.htm)**  
+-   **[JSON Generator](atlas.en-us.apexcode.meta/apexcode/apex_json_jsongenerator.htm)**
     Using the JSONGenerator class methods, you can generate standard JSON-encoded content.
--   **[JSON Parsing](atlas.en-us.apexcode.meta/apexcode/apex_json_jsonparser.htm)**  
+-   **[JSON Parsing](atlas.en-us.apexcode.meta/apexcode/apex_json_jsonparser.htm)**
     Use the JSONParser class methods to parse JSON-encoded content. These methods enable you to parse a JSON-formatted response that's returned from a call to an external service, such as a web service callout.
+
+## Related Topics
+
+- Roundtrip Serialization and Deserialization (atlas.en-us.apexcode.meta/apexcode/apex_json_json.htm)
+- JSON Generator (atlas.en-us.apexcode.meta/apexcode/apex_json_jsongenerator.htm)
+- JSON Parsing (atlas.en-us.apexcode.meta/apexcode/apex_json_jsonparser.htm)

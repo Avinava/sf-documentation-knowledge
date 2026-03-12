@@ -5,11 +5,16 @@ topic: uiformatspecificationset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.995Z
-keywords: [UiFormatSpecificationSet, Important, Parent, Type, Note, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UiFormatSpecification, UiFormulaRule, UiFormulaCriterion, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:43.355Z
+estimatedTokens: 1243
+keywords: [UiFormatSpecificationSet, Represents, set, rules, define, style, visibility, conditional, field, formatting, Dynamic, Forms-enabled, Lightning, page, instances., Important, Parent, Note, File, Suffix]
 ---
 
 # UiFormatSpecificationSet
+
+> Represents a set of rules that define the style and
+			visibility of conditional field formatting on Dynamic Forms-enabled Lightning page field
+			instances.
 
 # UiFormatSpecificationSet
 
@@ -100,3 +105,70 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<UiFormatSpecificationSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <field>Contact.Customer_Sentiment__c</field>
+    <formatType>ICON</formatType>
+    <masterLabel>Sentiment Score</masterLabel>
+    <sobjectType>Contact</sobjectType>
+    <uiFormatSpecifications>
+        <formatProperties>{&quot;icon&quot;:&quot;happy_face&quot;,
+&quot;iconColor&quot;:&quot;green&quot;}</formatProperties>
+        <formatType>ICON</formatType>
+        <order>1</order>
+        <visibilityRule>
+            <criteria>
+                <leftValue>{!Record.Customer_Sentiment__c}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>Happy</rightValue>
+            </criteria>
+        </visibilityRule>
+    </uiFormatSpecifications>
+    <uiFormatSpecifications>
+        <formatProperties>{&quot;icon&quot;:&quot;neutral_face&quot;,
+&quot;iconColor&quot;:&quot;gray&quot;}</formatProperties>
+        <formatType>ICON</formatType>
+        <order>2</order>
+        <visibilityRule>
+            <criteria>
+                <leftValue>{!Record.Customer_Sentiment__c}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>Neutral</rightValue>
+            </criteria>
+        </visibilityRule>
+    </uiFormatSpecifications>
+    <uiFormatSpecifications>
+        <formatProperties>{&quot;icon&quot;:&quot;sad_face&quot;,
+&quot;iconColor&quot;:&quot;red&quot;}</formatProperties>
+        <formatType>ICON</formatType>
+        <order>3</order>
+        <visibilityRule>
+            <criteria>
+                <leftValue>{!Record.Customer_Sentiment__c}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>Unhappy</rightValue>
+            </criteria>
+        </visibilityRule>
+    </uiFormatSpecifications>
+</UiFormatSpecificationSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Sentiment_Score</members>
+        <name>UiFormatSpecificationSet</name>
+    </types>
+    <version>62.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

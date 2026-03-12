@@ -5,11 +5,19 @@ topic: sobjects-that-cant-be-used-together-in-dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.012Z
-keywords: [sObjects, Can’t, Used, Together, DML, Operations, Note, Example, Future, Method, Perform, Mixed]
+lastCollected: 2026-03-12T05:14:33.230Z
+estimatedTokens: 1172
+keywords: [sObjects, Can’t, Used, Together, DML, Operations, operations, certain, sometimes, referred, setup, objects, can’t, mixed, non-setup, same, transaction., restriction, exists, because]
 ---
 
 # sObjects That Can’t Be Used Together in DML Operations
+
+> DML operations on certain sObjects, sometimes referred to as setup objects,
+        can’t be mixed with DML on non-setup sObjects in the same transaction. This
+        restriction exists because some sObjects affect the user’s access to records in the
+        org. You must insert or update these types of sObjects in a different transaction to prevent
+        operations from happening with incorrect access-level permissions. For example, you
+        can’t update an account and a user role in a single transaction.
 
 # sObjects That Can’t Be Used Together in DML Operations
 
@@ -30,17 +38,17 @@ This list includes sObjects that cannot be used together in the same DML transac
 -   FieldPermissions
 -   ForecastingShare
 -   Group
-    
+
     You can only insert and update a group in a transaction with other sObjects. Other DML operations aren’t allowed.
-    
+
 -   GroupMember
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     With legacy Apex code saved using Salesforce API version 14.0 and earlier, you can insert and update a group member with other sObjects in the same transaction.
-    
+
 -   ObjectPermissions
 -   ObjectTerritory2AssignmentRule
 -   ObjectTerritory2AssignmentRuleItem
@@ -53,22 +61,22 @@ This list includes sObjects that cannot be used together in the same DML transac
 -   Territory2
 -   Territory2Model
 -   User
-    
+
     You can insert a user in a transaction with other sObjects in Apex code saved using Salesforce API version 14.0 and earlier.
-    
+
     You can insert a user in a transaction with other sObjects in Apex code saved using Salesforce API version 15.0 and later when UserRoleId is specified as null.
-    
+
     You can update a user in a transaction with other sObjects in Apex code saved using Salesforce API version 14.0 and earlier
-    
+
     You can update a user in a transaction with other sObjects in Apex code saved using Salesforce API version 15.0 and later when the user isn’t included in a [Lightning Sync](https://help.salesforce.com/articleView?id=lightning_sync_admin_overview.htm&language=en_US) or [Einstein Activity Capture](https://help.salesforce.com/s/articleView?id=sales.einstein_sales_aac.htm&type=5&language=en_US) configuration (either active or inactive) and the following fields aren’t updated:
-    
+
     -   UserRoleId
     -   IsActive
     -   ForecastEnabled
     -   IsPortalEnabled
     -   Username
     -   ProfileId
-    
+
 -   UserPackageLicense
 -   UserRole
 -   UserTerritory
@@ -95,5 +103,51 @@ This example shows how to perform mixed DML operations by using a future method 
 
 ```
 
--   **[Mixed DML Operations in Test Methods](atlas.en-us.apexcode.meta/apexcode/apex_dml_non_mix_sobjects_test_methods.htm)**  
+-   **[Mixed DML Operations in Test Methods](atlas.en-us.apexcode.meta/apexcode/apex_dml_non_mix_sobjects_test_methods.htm)**
     Test methods allow for performing mixed Data Manipulation Language (DML) operations that include both setup sObjects and other sObjects if the code that performs the DML operations is enclosed within System.runAs method blocks. You can also perform DML in an asynchronous job that your test method calls. These techniques enable you, for example, to create a user with a role and other sObjects in the same test.
+
+## Code Examples
+
+```apex
+public class MixedDMLFuture {
+    public static void useFutureMethod() {
+        // First DML operation
+        Account a = new Account(Name='Acme');
+        insert a;
+        
+        // This next operation (insert a user with a role) 
+        // can't be mixed with the previous insert unless 
+        // it is within a future method. 
+        // Call future method to insert a user with a role.
+        Util.insertUserWithRole(
+            'mruiz@awcomputing.com', 'mruiz', 
+            'mruiz@awcomputing.com', 'Ruiz');        
+    }
+}
+```
+
+```apex
+public class Util {
+    @future
+    public static void insertUserWithRole(
+        String uname, String al, String em, String lname) {
+
+        Profile p = [SELECT Id FROM Profile WHERE Name='Standard User'];
+        UserRole r = [SELECT Id FROM UserRole WHERE Name='COO'];
+        // Create new user with a non-null user role ID 
+        User u = new User(alias = al, email=em, 
+            emailencodingkey='UTF-8', lastname=lname, 
+            languagelocalekey='en_US', 
+            localesidkey='en_US', profileid = p.Id, userroleid = r.Id,
+            timezonesidkey='America/Los_Angeles', 
+            username=uname);
+        insert u;
+    }
+}
+```
+
+## Related Topics
+
+- @IsTest (IsParallel=true) (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)
+- future (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm)
+- Mixed DML Operations in Test Methods (atlas.en-us.apexcode.meta/apexcode/apex_dml_non_mix_sobjects_test_methods.htm)

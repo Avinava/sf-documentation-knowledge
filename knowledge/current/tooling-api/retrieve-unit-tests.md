@@ -5,11 +5,18 @@ topic: retrieve-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:36.950Z
-keywords: [Retrieve, Unit, Tests, Syntax, Important, Example]
+lastCollected: 2026-03-12T05:14:44.289Z
+estimatedTokens: 1480
+namespace: FlowTesting
+keywords: [Retrieve, Unit, Tests, Test, Discovery, API, details, Apex, automated, flow, tests., resource, Tooling, version, 65.0, later., Syntax, Important, Example]
 ---
 
 # Retrieve Unit Tests
+
+> The Test Discovery API returns details about Apex and automated flow tests. This
+  resource is available in Tooling API version 65.0 and later.
+
+**Namespace:** `FlowTesting`
 
 # Retrieve Unit Tests
 
@@ -87,3 +94,11 @@ Example Request
 Example Response Body
 
 { "apexTestClasses":\[ { "id":"01pxx0000004UVl", "name":"BAAdditionTest", "namespacePrefix":"my\_namespace", "testMethods":\[ {"name":"testNegativeAddition"}, {"name":"testSimpleAddition"} \] }, { "id":"01pxx0000004UXN", "name":"BABitwiseTest", "namespacePrefix":"my\_namespace", "testMethods":\[ {"name":"testBitwiseAND"}, {"name":"testBitwiseOR"} \] } \], "message":null, "nextRecordsUrl":"/services/data/v66.0/tooling/tests?namespacePrefix=my\_namespace&pageSize=2&nextRecord=my\_namespace.BAComparisonTest", "size":10, "testSetSignature":"91a678b54197669171f11eb824d6765a" }
+
+## Code Examples
+
+```
+curl "https://MyDomain.my.salesforce.com/services/data/v66.0/tooling/tests?namespacePrefix=my_namespace&pageSize=2" \ 
+-H "Authorization: Bearer token" \ 
+-H "X-Chatter-Entity-Encoding: false"
+```

@@ -5,11 +5,14 @@ topic: connectapiorchestrationstepinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.923Z
-keywords: [ConnectApi.OrchestrationStepInstance, See]
+lastCollected: 2026-03-12T05:14:27.496Z
+estimatedTokens: 456
+keywords: [ConnectApi.OrchestrationStepInstance, Orchestration, step, instance.]
 ---
 
 # ConnectApi.OrchestrationStepInstance
+
+> Orchestration step instance.
 
 # ConnectApi.OrchestrationStepInstance
 
@@ -33,3 +36,12 @@ Orchestration step instance.
 #### See Also
 
 -   [ConnectApi.OrchestrationStageInstance](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_orchestration_stage_instance.htm "Orchestration stage instance.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​Orchestration​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​Orchestration​StepType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Orchestration​WorkItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_orchestration_work_item.htm)
+- ConnectApi.OrchestrationStageInstance (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_orchestration_stage_instance.htm)

@@ -5,11 +5,19 @@ topic: tokenization-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.738Z
-keywords: [Tokenization, Service, API, Sample, Request, Response]
+lastCollected: 2026-03-12T05:14:32.836Z
+estimatedTokens: 766
+keywords: [Tokenization, Service, API, credit, card, tokenization, process, replaces, sensitive, customer, information, one-time, algorithmically, generated, number, called, token, during, payment, transaction.]
 ---
 
 # Tokenization Service API
+
+> The credit card tokenization process replaces sensitive customer information with a
+  one-time algorithmically generated number, called a token, to use during the payment transaction.
+  Salesforce stores the token and then uses that token as a representation of the credit card used
+  for transactions. The token stores information about the credit card without storing sensitive
+  customer data such as credit card numbers. To add tokenization capabilities to your payment
+  services, implement our Tokenization API.
 
 # Tokenization Service API
 
@@ -53,4 +61,79 @@ A successful tokenization response updates the payment method and provides infor
 
 ```
 
+```
+
+## Code Examples
+
+```
+/commerce/payments/payment-methods
+```
+
+```
+{
+    "cardPaymentMethod": {
+        "cardHolderName":"Carol Smith",
+        "expiryMonth": "05",
+        "expiryYear": "2025", 
+        "startMonth": "",
+        "startYear": "",
+        "cvv": "000",
+        "cardNumber": "4111111111111111",
+        "cardCategory": "Credit",
+        "cardType": "Visa",
+        "nickName": "",
+        "cardHolderFirstName": "Carol",
+        "cardHolderLastName": "Smith",
+        "email" : "csmith@example.com",
+        "comments" : "",
+        "accountId": "000XXXXXXXX"
+    },
+    "address":{
+        "street": "128 1st Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA",
+        "postalCode": "94015",
+        "companyName": "Salesforce"
+    },
+    "paymentGatewayId" : "000XXXXXXXX",
+    "email": ""
+    "ipAddress": "",
+    "macAddress": "",
+    "phone": "",
+   
+    "additionalData":{
+         //add additional information if needed
+        "key1":"value1",
+        "key2":"value2",
+        "key3":"value3",
+        "key4":"value4",
+        "key5":"value5"
+    }
+}
+```
+
+```
+{
+  "paymentMethod": {
+    "id": "03OR0000000xxxxxxx",
+    "accountId" : "001xx000000xxxxxxx",
+    "status" : "Active"
+  },
+  "gatewayResponse" : {
+    "gatewayResultCode": "00",
+    "gatewayResultCodeDescription": "Transaction Normal",
+    "gatewayDate": "2020-12-08T04:03:20.000Z",
+    "gatewayAvsCode" : "7638788018713617",
+    "gatewayMessage" : "8313990738208498",
+    "salesforceResultCode": "Success",
+    "gatewayTokenEncrypted" : "SF701252"
+  }
+  "paymentGatewayLogs" : [ {
+    "createdDate" : "2020-12-08T04:03:20.000Z",
+    "gatewayResultCode" : "00",
+    "id" : "0XtR0000000xxxxxxx",
+    "interactionStatus" : "NoOp"
+  } ],
+}
 ```

@@ -5,11 +5,17 @@ topic: mldatadefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.579Z
-keywords: [MLDataDefinition, File, Suffix, Directory, Location, Version, Fields, MLField, MLFilter, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.194Z
+estimatedTokens: 1319
+keywords: [MLDataDefinition, Represents, modeling, data, definition, which, specifies, used, create, model., Such, include, filters, fields, exclude, on., extends, Metadata, metadata, inherits]
 ---
 
 # MLDataDefinition
+
+> Represents a modeling data definition, which specifies the data used to create a model.
+    Such data can include filters, fields to include, fields to exclude, and so on. This type
+    extends the Metadata metadata type and inherits its fullName
+    field.
 
 # MLDataDefinition
 
@@ -73,3 +79,7 @@ Represents a data filter based on a data comparison. For each comparison, thereâ
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

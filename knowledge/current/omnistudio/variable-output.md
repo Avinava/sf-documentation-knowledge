@@ -5,11 +5,15 @@ topic: variable-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.922Z
-keywords: [Variable, Output]
+lastCollected: 2026-03-12T05:14:50.871Z
+estimatedTokens: 85
+keywords: [Variable, Output, representation, input, variables, expression, set.]
 ---
 
 # Variable Output
+
+> Output representation of the input variables in an expression
+      set.
 
 # Variable Output
 

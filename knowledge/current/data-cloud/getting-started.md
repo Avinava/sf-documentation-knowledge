@@ -5,11 +5,14 @@ topic: getting-started
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.554Z
-keywords: [Getting, Started, Familiarize, Yourself, Data, Cloud, Set, Sources, Create, Connected, App, Important, Acquire, Access, Token, Note, Exchanging, Auto-Generated, Endpoints]
+lastCollected: 2026-03-12T05:14:12.676Z
+estimatedTokens: 1124
+keywords: [Getting, Started, section, understand, prerequisites, required, get, started, Data, Cloud, API, libraries, SDKs., Familiarize, Yourself, Set, Sources, Create, Connected, App]
 ---
 
 # Getting Started
+
+> Use this section to understand the prerequisites required to get started with Data Cloud API libraries and SDKs.
 
 # Getting Started
 
@@ -93,3 +96,40 @@ The Data Cloud application assigns a unique, system-generated endpoint to each o
 After you've acquired your endpoints in Data Cloud, use them for your organization's API calls. No other Data Cloud customer can use your endpoint for their API requests.
 
 You can only use your endpoint with the **c360a.salesforce.com** endpoint structure.
+
+## Code Examples
+
+```
+POST https://login.salesforce.com/services/oauth2/token
+Content-Type : x-www-form-urlencoded
+grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer
+&assertion=<JWT_ASSERTION_TOKEN>
+```
+
+```json
+{
+  "access_token": "<SALESFORCE_ACCESS_TOKEN>",
+  "scope": "cdpquery api cdpprofile",
+  "instance_url": "https://<YOUR_INSTANCE>.salesforce.com",
+  "id": "https://<YOUR_INSTANCE>.salesforce.com/id/<ORG_ID>/<USER_ID>",
+  "token_type": "Bearer"
+}
+```
+
+```
+POST <instance_url>/services/a360/token
+Content-Type : x-www-form-urlencoded
+grant_type=urn:salesforce:grant-type:external:cdp
+&subject_token=<SALESFORCE_ACCESS_TOKEN>
+&subject_token_type=urn:ietf:params:oauth:token-type:access_token
+```
+
+```json
+{
+  "access_token": "<DATA_CLOUD_ACCESS_TOKEN>",
+  "instance_url": "https://<DATA_CLOUD_INSTANCE>",
+  "token_type": "Bearer",
+  "issued_token_type": "urn:ietf:params:oauth:token-type:jwt",
+  "expires_in": 7191
+}
+```

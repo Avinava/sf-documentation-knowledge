@@ -5,11 +5,15 @@ topic: apexclassmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.164Z
-keywords: [ApexClassMember, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:44.563Z
+estimatedTokens: 1177
+keywords: [ApexClassMember, Represents, working, copy, Apex, editing, saving, compiling, MetadataContainer., Supported, SOAP, API, Calls, REST, HTTP, Special, Access, Rules, Fields, Usage]
 ---
 
 # ApexClassMember
+
+> Represents the working copy of an Apex class for editing, saving, or
+   compiling in a MetadataContainer.
 
 # ApexClassMember
 
@@ -53,3 +57,9 @@ Once an ApexClassMember is successfully deployed in a [MetadataContainer](atlas.
 Apex classes are often dependent on each other for functionality. For example, a method in one class can call a method in another class. If source file A is dependent on modified source file B and you try to save and compile source file A before you’ve saved the changes to source file B, the compiler throws an error. To successfully save and compile a group of related source files, put the corresponding ApexClassMember and ApexTriggerMember objects in a single MetadataContainer object.
 
 Each ApexClassMember object can only refer to a single MetadataContainer object. Multiple ApexClassMember objects can refer to the same MetadataContainer object.
+
+## Related Topics
+
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)
+- SymbolTable (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_symboltable.htm)

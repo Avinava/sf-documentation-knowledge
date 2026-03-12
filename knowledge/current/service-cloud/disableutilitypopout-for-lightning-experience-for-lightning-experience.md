@@ -6,12 +6,16 @@ topic: disableutilitypopout-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.177Z
-keywords: [disableUtilityPopOut, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.690Z
+estimatedTokens: 318
+keywords: [disableUtilityPopOut, Lightning, Experience, Disables, pop-out, utility., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # disableUtilityPopOut() for Lightning Experience for
             Lightning Experience
+
+> Disables pop-out for a utility. This method isn’t supported for Lightning Web
+        Components (LWC).
 
 # disableUtilityPopOut() for Lightning Experience for Lightning Experience
 
@@ -46,3 +50,28 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Disable Utility Pop-Out" onclick="{! c.handleDisableUtilityPopOut }" />
+</aura:component>
+```
+
+```
+({
+    handleDisableUtilityPopOut : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.disableUtilityPopOut({
+            disabled: true,
+            disabledText: "Pop-out is disabled"
+        });
+    }
+})
+```
+
+## Related Topics
+
+- enablePopout() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_enablePopout.htm)

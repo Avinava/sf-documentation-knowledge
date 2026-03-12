@@ -5,11 +5,14 @@ topic: context-tag-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.689Z
-keywords: [Context, Tag, GET, DELETE]
+lastCollected: 2026-03-12T05:14:49.025Z
+estimatedTokens: 106
+keywords: [Context, Tag, GET, DELETE, Query, delete, context, tag.]
 ---
 
 # Context Tag ID (GET, DELETE)
+
+> Query and delete a context tag.
 
 # Context Tag ID (GET, DELETE)
 
@@ -48,3 +51,21 @@ GET, DELETE
 Response body for GET
 
 [Context Attribute Tag Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_attribute_tag.htm "Output representation of context attribute tag.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-tags/${contextTagId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-tags/${contextTagId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-tags/${contextTagId}
+```
+
+## Related Topics
+
+- Context Attribute Tag Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_attribute_tag.htm)

@@ -5,11 +5,15 @@ topic: permissionsetassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.479Z
-keywords: [PermissionSetAssignment, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.398Z
+estimatedTokens: 922
+keywords: [PermissionSetAssignment, Represents, user’s, assignment, permission, set, group., API, version, 22.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # PermissionSetAssignment
+
+> Represents a user’s assignment to a permission set or permission set
+         group. This object is available in API version 22.0 and later.
 
 # PermissionSetAssignment
 

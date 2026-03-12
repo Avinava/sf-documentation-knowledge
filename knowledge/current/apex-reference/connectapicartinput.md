@@ -5,11 +5,14 @@ topic: connectapicartinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.874Z
-keywords: [ConnectApi.CartInput]
+lastCollected: 2026-03-12T05:14:24.468Z
+estimatedTokens: 411
+keywords: [ConnectApi.CartInput, cart.]
 ---
 
 # ConnectApi.CartInput
+
+> A cart.
 
 # ConnectApi.CartInput
 
@@ -25,3 +28,11 @@ A cart.
 | orderOwnerId | String | ID of the owner of the order. | Optional | 58.0 |
 | type | ConnectApi.​CartType | Type of cart. Vaues are:Cart—Cart created by a customer.PayNowReadOnly—Clone of a Template cart that the customer can check out with using the Pay Now feature.Template—Cart created by an internal user.If unspecified, defaults to Cart. | Optional | 49.0 |
 | typeAsString | String | Type of the cart provided as a string. | Optional | 59.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- SObject (atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CartType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

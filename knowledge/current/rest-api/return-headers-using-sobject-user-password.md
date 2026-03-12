@@ -5,11 +5,17 @@ topic: return-headers-using-sobject-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.780Z
-keywords: [Return, Headers, sObject, User, Password, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.160Z
+estimatedTokens: 309
+keywords: [Headers, sObject, User, Password, only, headers, returned, sending, GET, request, resource., operation, allows, header, values, before, retrieving, content, itself., resource]
 ---
 
 # Return Headers Using sObject User Password
+
+> Returns only the headers that are returned by sending a GET request to the sObject User
+  Password resource. This operation allows you to see returned header values of the GET request
+  before retrieving the content itself. This resource is available in REST API version 24.0 and
+  later.
 
 # Return Headers Using sObject User Password
 
@@ -46,3 +52,7 @@ For examples of getting password information, setting a password, and resetting 
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Manage User Passwords (atlas.en-us.api_rest.meta/api_rest/dome_sobject_user_password.htm)

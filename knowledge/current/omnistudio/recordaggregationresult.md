@@ -5,11 +5,16 @@ topic: recordaggregationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.110Z
-keywords: [RecordAggregationResult, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.204Z
+estimatedTokens: 830
+keywords: [RecordAggregationResult, Represents, data, aggregation, record, another, based, definition, corresponding, objects., API, version, 59.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # RecordAggregationResult
+
+> Represents a data aggregation from one record to another record based
+         on the record aggregation definition for the corresponding objects. This object is
+      available in API version 59.0 and later.
 
 # RecordAggregationResult
 

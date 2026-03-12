@@ -6,12 +6,16 @@ topic: setutilityicon-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.389Z
-keywords: [setUtilityIcon, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.978Z
+estimatedTokens: 352
+keywords: [setUtilityIcon, Lightning, Experience, icon, utility., displayed, utility, bar., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # setUtilityIcon() for Lightning Experience for Lightning
    Experience
+
+> Sets the icon of a utility. This icon is displayed in the utility bar. This method isn’t
+  supported for Lightning Web Components (LWC).
 
 # setUtilityIcon() for Lightning Experience for Lightning Experience
 
@@ -46,3 +50,30 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Utility Icon" onclick="{! c.handleSetUtilityIcon }" />
+</aura:component>
+```
+
+```
+({
+    handleSetUtilityIcon : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setUtilityIcon({
+            icon: "insert_tag_field",
+            options:{
+                iconVariant:"success"
+            }
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updateUtility() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updateUtility.htm)

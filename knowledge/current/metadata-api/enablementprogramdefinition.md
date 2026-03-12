@@ -5,11 +5,16 @@ topic: enablementprogramdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.260Z
-keywords: [EnablementProgramDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, EnablementProgramSection, EnablementProgramTask, EnablementProgramTaskExercise, EnablementProgramTaskCmsContent, EnablementProgramTaskCustomContent, EnablementProgramTaskExternalContent, EnablementProgramTaskFeedbackContent]
+lastCollected: 2026-03-12T05:14:39.308Z
+estimatedTokens: 3394
+keywords: [EnablementProgramDefinition, Represents, Enablement, program, which, includes, exercises, measurable, milestones, help, users, such, sales, reps, achieve, specific, outcomes, related, company’s, revenue]
 ---
 
 # EnablementProgramDefinition
+
+> Represents an Enablement program, which includes
+			exercises and measurable milestones to help users such as sales reps achieve specific
+			outcomes related to your company’s revenue goals.
 
 # EnablementProgramDefinition
 
@@ -167,3 +172,153 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EnablementProgramDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Get started with sales at Cloud Kicks and close your first deal!</description>
+    <developerName>Get_Started_Close_First_Deal_Program</developerName>
+    <doesAllowSelfEnrollment>false</doesAllowSelfEnrollment>
+    <masterLabel>Welcome to Sales at Cloud Kicks</masterLabel>
+    <name>Welcome to Sales at Cloud Kicks</name>
+    <sections>
+        <developerName>section_0</developerName>
+        <name>Learn the Ropes in Your First Week</name>
+        <sequenceNumber>0</sequenceNumber>
+        <tasks>
+            <day>1</day>
+            <description>Learn the basics of sales at Cloud Kicks.</description>
+            <developerName>task_0</developerName>
+            <exercise>
+                <externalContent>
+                    <externalId>sales-rep-training</externalId>
+                    <providerType>Trailhead</providerType>
+                </externalContent>
+            </exercise>
+            <name>Sales Rep Training</name>
+            <sequenceNumber>0</sequenceNumber>
+            <taskCategory>Exercise</taskCategory>
+            <taskSubCategory>Trailhead</taskSubCategory>
+        </tasks>
+        <tasks>
+            <day>2</day>
+            <description>Watch our CEO explain the company vision.</description>
+            <developerName>task_1</developerName>
+            <exercise>
+                <cmsContent>
+                    <apiName>enablement/sfdcEnablement_EnablementWorkspace.sfdc_enablement__link/company_vision_video</apiName>
+                </cmsContent>
+            </exercise>
+            <name>See Our Company Vision</name>
+            <sequenceNumber>1</sequenceNumber>
+            <taskCategory>Exercise</taskCategory>
+            <taskSubCategory>Video</taskSubCategory>
+        </tasks>
+        <tasks>
+            <day>3</day>
+            <description>Action Item</description>
+            <developerName>task_2</developerName>
+            <name>Action Item</name>
+            <sequenceNumber>2</sequenceNumber>
+            <taskCategory>Exercise</taskCategory>
+            <taskSubCategory>ActionItem</taskSubCategory>
+        </tasks>
+        <tasks>
+            <day>4</day>
+            <description>Try out your first sales patch at Cloud Kicks and get feedback from our in-house experts.</description>
+            <developerName>task_3</developerName>
+            <exercise>
+                <feedbackContent>
+                <inviteeCount>1</inviteeCount>
+                <surveyDeveloperName>discovery_call_assessment</surveyDeveloperName>
+            </feedbackContent>
+            </exercise>
+            <name>Feedback from Peers and Managers</name>
+            <sequenceNumber>3</sequenceNumber>
+            <taskCategory>Exercise</taskCategory>
+            <taskSubCategory>FeedbackRequest</taskSubCategory>
+        </tasks>
+        <tasks>
+            <day>5</day>
+            <description>Complete a discovery calls by day 5.</description>
+            <developerName>task_4</developerName>
+            <isMilestoneAnOutcome>false</isMilestoneAnOutcome>
+            <milestone>
+                <milestoneMeasures>
+                    <measureDefinitionDeveloperName>salesforceTemplate_CallsEmails</measureDefinitionDeveloperName>
+                </milestoneMeasures>
+                <milestoneTarget>1.0</milestoneTarget>
+            </milestone>
+            <name>Log a Discovery Call by Day 5</name>
+            <sequenceNumber>4</sequenceNumber>
+            <taskCategory>Milestone</taskCategory>
+            <taskSubCategory>Other</taskSubCategory>
+        </tasks>
+        <tasks>
+            <day>6</day>
+            <description>Browse our sales leaders blog for more insights.</description>
+            <developerName>task_5</developerName>
+            <exercise>
+                <cmsContent>
+                    <apiName>enablement/sfdcEnablement_EnablementWorkspace.sfdc_enablement__link/sales_blog</apiName>
+                </cmsContent>
+            </exercise>
+            <name>Review Tips from Sales Leaders</name>
+            <sequenceNumber>5</sequenceNumber>
+            <taskCategory>Exercise</taskCategory>
+            <taskSubCategory>OtherExercise</taskSubCategory>
+        </tasks>
+        <tasks>
+            <day>7</day>
+            <description>Follow a screen flow for onboarding to the sales team.</description>
+            <developerName>task_6</developerName>
+            <exercise>
+                <customContent>
+                    <content>flowDeveloperName=OnboardingFlow</content>
+                </customContent>
+            </exercise>
+            <name>Onboarding Flow</name>
+            <sequenceNumber>6</sequenceNumber>
+            <taskCategory>Exercise</taskCategory>
+            <taskSubCategory>CustomExercise</taskSubCategory>
+            <customSubCategoryName>ScreenFlowTaskSubCategory</customSubCategoryName>
+        </tasks>
+    </sections>
+    <tasks>
+        <day>30</day>
+        <description>Close your first opportunity. To make sure it's counted, set the opportunity Stage field to Closed Won.</description>
+        <developerName>task_enablementProgramOutcomeCard</developerName>
+        <isMilestoneAnOutcome>true</isMilestoneAnOutcome>
+        <milestone>
+            <milestoneMeasures>
+                <measureDefinitionDeveloperName>measure_CloseFirstDeal</measureDefinitionDeveloperName>
+            </milestoneMeasures>
+            <milestoneTarget>1.0</milestoneTarget>
+        </milestone>
+        <name>outcome</name>
+        <sequenceNumber>0</sequenceNumber>
+        <taskCategory>Milestone</taskCategory>
+        <taskSubCategory>Other</taskSubCategory>
+    </tasks>        
+    <type>Enablement</type>
+</EnablementProgramDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Get_Started_Close_First_Deal_Program</members>
+        <name>EnablementProgramDefinition</name>
+    </types>
+    <version>61.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- LearningItemType (atlas.en-us.api_meta.meta/api_meta/meta_learningitemtype.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

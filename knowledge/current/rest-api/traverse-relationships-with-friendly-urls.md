@@ -5,11 +5,18 @@ topic: traverse-relationships-with-friendly-urls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:24.967Z
-keywords: [Traverse, Relationships, Friendly, URLs, Important, Traversing, Standard, Objects, Multiple, Records, Filtering, Result, Fields]
+lastCollected: 2026-03-12T05:14:35.042Z
+estimatedTokens: 1905
+keywords: [Traverse, Relationships, Friendly, URLs, traverse, relationship, fields, standard, custom, objects, constructing, friendly, sObject, Relationship, resource., approach, allows, directly, access, records]
 ---
 
 # Traverse Relationships with Friendly URLs
+
+> You can traverse relationship fields in standard and custom objects by constructing
+        friendly URLs using the sObject Relationship resource. This approach allows you to directly
+        access records associated by relationships. Using friendly URLs is an easier alternative to
+        accessing records by obtaining object IDs from relationship fields and then inspecting the
+        associated object ID record.
 
 # Traverse Relationships with Friendly URLs
 
@@ -26,17 +33,17 @@ Relationship names follow certain conventions that depend on the direction (pare
 There are limits to the number of relationship traversals you can make in a single REST API call. These limits are the same as the limits for SOQL, as described in [Understanding Relationship Query Limitations](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_relationships_query_limits.htm "HTML (New Window)") in the SOQL and SOSL Reference. Keep the following limitations in mind when traversing relationships.
 
 -   When specifying child-to-parent relationships, no more than five levels can be traversed. The following traverses two child-to-parent relationships.
-    
+
     ```
-    
+
     ```
-    
+
 -   When specifying parent-to-child relationships, no more than one level can be traversed. The following traverses one parent-to-child relationship.
-    
+
     ```
-    
+
     ```
-    
+
 
 ## Traversing Standard Objects
 
@@ -195,3 +202,47 @@ The response data would look like the following.
 ```
 
 If any field listed in the fields parameter set isn’t visible to the active user, the REST API call fails. In the previous example, if the Units\_Sold\_c field was hidden from the active user by field-level security, the call would return a 400 error response.
+
+## Code Examples
+
+```
+https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/ChildOfChild__c/record id/Child__r/ParentOfChild__r
+```
+
+```
+https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/ParentOfChild__c/record id/Child__r
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Contact/0035e00000PiemmAAB/Account -H "Authorization: Bearer token"
+```
+
+```
+{
+    "attributes": {
+        "type": "Account",
+        "url": "/services/data/v66.0/sobjects/Account/0015e00000TwULCAA3"
+    },
+    "Id": "0015e00000TwULCAA3",
+    "IsDeleted": false,
+    "Name": "relationshipAccountName",
+    "PhotoUrl": "/services/images/photo/0015e00000TwULCAA3",
+    "OwnerId": "0055e000003E8ooAAC",
+    "CreatedDate": "2021-11-06T17:38:40.000+0000",
+    "CreatedById": "0055e000003E8ooAAC",
+    "LastModifiedDate": "2021-11-06T17:38:40.000+0000",
+    "LastModifiedById": "0055e000003E8ooAAC",
+    "SystemModstamp": "2021-11-06T17:38:40.000+0000",
+    "LastActivityDate": null,
+    "LastViewedDate": "2021-11-06T17:40:50.000+0000",
+    "LastReferencedDate": "2021-11-06T17:40:50.000+0000"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Merchandise__c/a01D000000INjVe/Distributor__r -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- Query (atlas.en-us.api_rest.meta/api_rest/resources_query.htm)

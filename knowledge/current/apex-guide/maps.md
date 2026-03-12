@@ -4,12 +4,17 @@ domain: apex-guide
 topic: maps
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:48.026Z
-keywords: [Maps, Map, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.624Z
+estimatedTokens: 1234
+keywords: [Maps, map, collection, key-value, pairs, where, unique, key, maps, single, value., Keys, values, any, data, type—primitive, types, collections, sObjects, user-defined]
 ---
 
 # Maps
+
+> A map is a collection of key-value pairs where each unique key maps to a single value.
+    Keys and values can be any data type—primitive types, collections, sObjects, user-defined
+    types, and built-in Apex types.
 
 # Maps
 
@@ -67,3 +72,24 @@ For more information, including a complete list of all supported Map methods, se
     -   [Long](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_long.htm)
     -   [String](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_string.htm)
     -   [Time](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_time.htm)
+
+## Code Examples
+
+```apex
+Map<String, String> country_currencies = new Map<String, String>();
+Map<ID, Set<String>> m = new Map<ID, Set<String>>();
+```
+
+```apex
+Map<String, String> MyStrings = new Map<String, String>{'a' => 'b', 'c' => 'd'.toUpperCase()};
+```
+
+```apex
+Map<Integer, String> m = new Map<Integer, String>(); // Define a new map
+m.put(1, 'First entry');                  // Insert a new key-value pair in the map
+m.put(2, 'Second entry');                  // Insert a new key-value pair in the map
+System.assert(m.containsKey(1));  // Assert that the map contains a key
+String value = m.get(2);               // Retrieve a value, given a particular key
+System.assertEquals('Second entry', value);
+Set<Integer> s = m.keySet();       // Return a set that contains all of the keys in the map
+```

@@ -5,11 +5,14 @@ topic: autoresponserule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.291Z
-keywords: [AutoResponseRule, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.747Z
+estimatedTokens: 208
+keywords: [AutoResponseRule, Specifies, whether, autoresponse, rule, active, true, Supported, SOAP, API, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # AutoResponseRule
+
+> Specifies whether the autoresponse rule is active (true).
 
 # AutoResponseRule
 
@@ -42,3 +45,10 @@ Use this object to query whether an autoresponse rule is active.
 ```
 
 More information about the autoresponse rule is available by querying the metadata type AutoResponseRules.
+
+## Code Examples
+
+```
+SELECT Name, Active
+FROM AutoResponseRule
+```

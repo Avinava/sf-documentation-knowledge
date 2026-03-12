@@ -5,11 +5,15 @@ topic: communication-subscription-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.975Z
-keywords: [Communication, Subscription, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.333Z
+estimatedTokens: 506
+keywords: [Communication, Subscription, DMO, Data, Cloud, data, model, customer’s, subscription, preferences, specific, communication., API, Name, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Communication Subscription DMO
+
+> The Communication Subscription DMO is a Data Cloud data model object
+      (DMO) for a customer’s subscription preferences for a specific communication.
 
 # Communication Subscription DMO
 

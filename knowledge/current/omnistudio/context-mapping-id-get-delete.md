@@ -5,11 +5,14 @@ topic: context-mapping-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.669Z
-keywords: [Context, Mapping, GET, DELETE]
+lastCollected: 2026-03-12T05:14:48.993Z
+estimatedTokens: 107
+keywords: [Context, Mapping, GET, DELETE, Query, delete, context, mapping, Id.]
 ---
 
 # Context Mapping Id (GET, DELETE)
+
+> Query and delete a context mapping using an Id.
 
 # Context Mapping Id (GET, DELETE)
 
@@ -48,3 +51,21 @@ GET, DELETE
 Response body for GET
 
 [Context Mapping Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_mapping.htm "Output representation of context mapping.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-mappings/${contextMappingId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-mappings/${contextMappingId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-mappings/${contextMappingId}
+```
+
+## Related Topics
+
+- Context Mapping Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_mapping.htm)

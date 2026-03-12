@@ -5,11 +5,16 @@ topic: emailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.169Z
-keywords: [EmailTemplate, Note, File, Suffix, Directory, Location, Retrieving, Email, Templates, Version, Fields, Example, Attachment, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.171Z
+estimatedTokens: 2025
+keywords: [EmailTemplate, Represents, template, email, mass, list, Sales, Engagement, email., Supported, first-generation, managed, packages, only., Note, File, Suffix, Directory, Location, Retrieving]
 ---
 
 # EmailTemplate
+
+> Represents a template for an email, mass email, list
+            email, or Sales Engagement email. Supported in first-generation managed packages
+            only.
 
 # EmailTemplate
 
@@ -97,3 +102,65 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [Letterhead](atlas.en-us.api_meta.meta/api_meta/meta_letterhead.htm "Represents formatting options for the letterhead in an email template. A letterhead defines the logo, page color, and text settings for your HTML email templates. Use letterheads to ensure a consistent look and feel in your company’s emails.")
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyDBFolder/MyDBName</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>MyDocumentFolder/MyDocumentName</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SalesNewCustomerEmail</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>MyReportFolder/MyReportName</members>
+        <name>Report</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<EmailTemplate>
+    <available>true</available>
+    <description>Notification that user has been added to a community.</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>Communities: New Member Welcome Email</name>
+    <style>none</style>
+    <subject>Welcome to {!Community_Name}</subject>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Sample Email Template</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Sample Email Template</name>
+    <style>none</style>
+    <subject>Sample email subject</subject>
+    <textOnly>Your case has been resolved.</textOnly>
+    <type>custom</type>
+</EmailTemplate>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- PackageVersion (atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Letterhead (atlas.en-us.api_meta.meta/api_meta/meta_letterhead.htm)

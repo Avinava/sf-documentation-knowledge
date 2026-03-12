@@ -4,12 +4,17 @@ domain: omnistudio
 topic: expressionsetmessagetoken
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.521Z
-keywords: [ExpressionSetMessageToken, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.271Z
+estimatedTokens: 496
+keywords: [ExpressionSetMessageToken, Represents, retrieve, deploy, create, update, delete, information, Expression, Set, Message, Token., Important, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # ExpressionSetMessageToken
+
+> Represents a token that's used in an explainability message template.
+         The token can be replaced with an expression set version resource that the template is used
+         in. This object is available in API version 59.0 and later.
 
 # ExpressionSetMessageToken
 
@@ -39,3 +44,25 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
 | MasterLabel | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe label for the ExpressionSetMessageToken. In the UI, this field is Expression Set Message Token. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix associated with this object. Each Developer Edition organization that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values:In Developer Edition organizations, the namespace prefix is set to the namespace prefix of the organization for all objects that support it. There is an exception if an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition organization of the package developer.In organizations that are not Developer Edition organizations, NamespacePrefix is only set for objects that are part of an installed managed package. There is no namespace prefix for all other objects. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpressionSetMessageToken xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>token</developerName>
+    <description>Description</description>
+    <masterLabel>token</masterLabel>
+</ExpressionSetMessageToken>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ExpressionSetMessageToken</name>
+    </types>
+    <version>59.0</version>
+</Package>
+```

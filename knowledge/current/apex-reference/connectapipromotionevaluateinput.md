@@ -5,11 +5,14 @@ topic: connectapipromotionevaluateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.472Z
-keywords: [ConnectApi.PromotionEvaluateInput, See]
+lastCollected: 2026-03-12T05:14:25.398Z
+estimatedTokens: 647
+keywords: [ConnectApi.PromotionEvaluateInput, Find, promotions, customer, eligible, compute, their, discounts.]
 ---
 
 # ConnectApi.PromotionEvaluateInput
+
+> Find promotions that the customer is eligible for and compute their discounts.
 
 # ConnectApi.PromotionEvaluateInput
 
@@ -30,3 +33,14 @@ Find promotions that the customer is eligible for and compute their discounts.
 #### See Also
 
 -   [evaluate(salesTransaction)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CommercePromotions_static_methods.htm#apex_ConnectAPI_CommercePromotions_evaluate_1 "Determine which promotions the customer is eligible for based on the store and buyer group, and compute the applicable price adjustments based on the coupons and the items in the cart. This API evaluates only the first 50 active manual promotions and first 50 active automatic promotions, based on priority. This API computes and returns applicable price adjustments, but it does not apply those adjustments to the webcart record. If you want to enable promotions based on shipping, contact Salesforce Customer Support.")
+
+## Related Topics
+
+- ConnectApi.PromotionCart​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_promotion_cart.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.PromotionCartDeliveryGroupInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_promotion_cart_delivery_group.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​PromotionParent​ProductsInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_promotion_parent_products.htm)
+- ConnectApi.​PromotionProduct​CategoriesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_promotion_product_categories.htm)
+- evaluate(salesTransaction) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CommercePromotions_static_methods.htm)

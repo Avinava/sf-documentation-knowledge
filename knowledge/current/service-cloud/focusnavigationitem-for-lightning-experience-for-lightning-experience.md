@@ -6,12 +6,17 @@ topic: focusnavigationitem-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.188Z
-keywords: [focusNavigationItem, Lightning, Experience, Arguments, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.706Z
+estimatedTokens: 259
+keywords: [focusNavigationItem, Lightning, Experience, Focuses, selected, navigation, opens, object's, home, page., Typically, standard, custom, objects, open, list, view., split, view, focus]
 ---
 
 # focusNavigationItem() for Lightning Experience for
       Lightning Experience
+
+> Focuses on the selected navigation object and opens the object's home page. Typically,
+    standard and custom objects open the object's list view. If split view is open, focus remains on
+    the selected navigation object. This method works only in Lightning console apps.
 
 # focusNavigationItem() for Lightning Experience for Lightning Experience
 
@@ -46,3 +51,26 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true. The promise is rejected on error.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <lightning:navigationItemAPI aura:id="navigationItemAPI"/>
+    <lightning:button label="Focus navigation item" onclick="{!c.focusNavigationItem}"/>
+</aura:component>
+```
+
+```
+({
+    focusNavigationItem : function(component, event, helper) {
+        var navigationItemAPI = component.find("navigationItemAPI");
+        navigationItemAPI.focusNavigationItem().then(function(response) {
+            console.log(response);
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

@@ -5,11 +5,14 @@ topic: searchsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.545Z
-keywords: [SearchSettings, File, Suffix, Directory, Location, Version, Fields, SearchSettingsByObject, ObjectSearchSetting, Declarative, Metadata, Sample, Definition, Example, Package, Manifest, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:42.643Z
+estimatedTokens: 2158
+keywords: [SearchSettings, Represents, org's, search, settings., File, Suffix, Directory, Location, Version, Fields, SearchSettingsByObject, ObjectSearchSetting, Declarative, Metadata, Sample, Definition, Example, Package, Manifest]
 ---
 
 # SearchSettings
+
+> Represents an org's search settings.
 
 # SearchSettings
 
@@ -90,3 +93,66 @@ The following is an example package manifest used to deploy or retrieve the Sear
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+    <SearchSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+        <enableSetupSearch>false</enableSetupSearch>
+        <enableAdvancedSearchInAlohaSidebar>false</enableAdvancedSearchInAlohaSidebar>
+        <enableQuerySuggestionPigOn>false</enableQuerySuggestionPigOn>
+        <enableSalesforceGeneratedSynonyms>false</enableSalesforceGeneratedSynonyms>
+        <enableSearchTermHistory>false</enableSearchTermHistory>
+        <enablePublicTagging>false</enablePublicTagging>
+        <enablePersonalTagging>false</enablePersonalTagging>
+        <enableSuggestArticlesLinksOnly>false</enableSuggestArticlesLinksOnly>
+        <enableUseDefaultSearchEntity>false</enableUseDefaultSearchEntity>
+            <documentContentSearchEnabled>true</documentContentSearchEnabled>
+            <optimizeSearchForCJKEnabled>true</optimizeSearchForCJKEnabled>
+            <recentlyViewedUsersForBlankLookupEnabled>true</recentlyViewedUsersForBlankLookupEnabled>
+            <searchSettingsByObject>
+            <searchSettingsByObject>
+                <enhancedLookupEnabled>false</enhancedLookupEnabled>
+                <lookupAutoCompleteEnabled>false</lookupAutoCompleteEnabled>
+                <name>Account</name>
+                <resultsPerPageCount>25</resultsPerPageCount>
+            </searchSettingsByObject>
+            <searchSettingsByObject>
+                <enhancedLookupEnabled>false</enhancedLookupEnabled>
+                <lookupAutoCompleteEnabled>false</lookupAutoCompleteEnabled>
+                <name>Activity</name>
+                <resultsPerPageCount>25</resultsPerPageCount>
+            </searchSettingsByObject>
+            <searchSettingsByObject>
+                <enhancedLookupEnabled>false</enhancedLookupEnabled>
+                <lookupAutoCompleteEnabled>false</lookupAutoCompleteEnabled>
+                <name>Asset</name>
+                <resultsPerPageCount>25</resultsPerPageCount>
+            </searchSettingsByObject>
+            </searchSettingsByObject>
+            <sidebarAutoCompleteEnabled>true</sidebarAutoCompleteEnabled>
+            <sidebarDropDownListEnabled>true</sidebarDropDownListEnabled>
+            <sidebarLimitToItemsIOwnCheckboxEnabled>true</sidebarLimitToItemsIOwnCheckboxEnabled>
+            <singleSearchResultShortcutEnabled>true</singleSearchResultShortcutEnabled>
+            <spellCorrectKnowledgeSearchEnabled>true</spellCorrectKnowledgeSearchEnabled>
+        <enableEinsteinSearchPersonalization>true</enableEinsteinSearchPersonalization>
+    </SearchSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Search</members>
+        <name>Settings</name>
+    </types>
+    <version>37.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

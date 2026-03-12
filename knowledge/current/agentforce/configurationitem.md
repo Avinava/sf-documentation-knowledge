@@ -5,11 +5,16 @@ topic: configurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.899Z
-keywords: [ConfigurationItem, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.428Z
+estimatedTokens: 369
+keywords: [ConfigurationItem, Represents, record, core, Salesforce, system, refers, configuration, item, stored, external, system., API, version, 65.0, later., Supported, Calls, Fields]
 ---
 
 # ConfigurationItem
+
+> Represents a record in the core Salesforce system that refers to a
+         configuration item record stored in an external system. This object is available in
+      API version 65.0 and later.
 
 # ConfigurationItem
 

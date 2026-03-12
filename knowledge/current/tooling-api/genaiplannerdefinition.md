@@ -5,11 +5,17 @@ topic: genaiplannerdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.080Z
-keywords: [GenAiPlannerDefinition, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:45.801Z
+estimatedTokens: 608
+keywords: [GenAiPlannerDefinition, Represents, agent, planner, service, uses, large, language, model, LLM, reasoning, strategy, decompose, given, task, smaller, subtasks, identify, most, suitable]
 ---
 
 # GenAiPlannerDefinition
+
+> Represents an agent planner service that uses a large language model
+         (LLM) and a reasoning strategy to decompose a given task into smaller subtasks, identify
+         the most suitable actions for each subtask, and invoke them. This object is available
+      in API version 60.0 and later.
 
 # GenAiPlannerDefinition
 

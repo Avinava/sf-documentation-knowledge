@@ -5,11 +5,14 @@ topic: decisionmatrixdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.775Z
-keywords: [DecisionMatrixDefinition, Note, File, Suffix, Directory, Location, Version, Fields, DecisionMatrixDefinitionVersion, DecisionMatrixDefinitionVersionColumn​​, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.602Z
+estimatedTokens: 1504
+keywords: [DecisionMatrixDefinition, Represents, definition, decision, matrix., Note, File, Suffix, Directory, Location, Version, Fields, DecisionMatrixDefinitionVersion, DecisionMatrixDefinitionVersionColumn​​, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # DecisionMatrixDefinition
+
+> Represents a definition of a decision matrix.
 
 # DecisionMatrixDefinition
 
@@ -91,3 +94,59 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionMatrixDefinition
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<label>HealthCloudUM_ValidRegions</label>
+	<type>Standard</type>
+	<versions>
+		<fullName>HealthCloudUM_ValidRegions_V1</fullName>
+		<columns>
+			<columnType>Input</columnType>
+			<dataType>Text</dataType>
+			<displaySequence>2</displaySequence>
+			<isWildcardColumn>false</isWildcardColumn>
+			<name>State</name>
+		</columns>
+		<columns>
+			<columnType>Input</columnType>
+			<dataType>Text</dataType>
+			<displaySequence>1</displaySequence>
+			<isWildcardColumn>false</isWildcardColumn>
+			<name>City</name>
+		</columns>
+		<columns>
+			<columnType>Output</columnType>
+			<dataType>Boolean</dataType>
+			<displaySequence>3</displaySequence>
+			<isWildcardColumn>false</isWildcardColumn>
+			<name>IsValid</name>
+		</columns>
+		<decisionMatrixDefinition>HealthCloudUM_ValidRegions</decisionMatrixDefinition>
+		<label>HealthCloudUM_ValidRegions V1</label>
+		<startDate>2022-05-02T13:04:06.000Z</startDate>
+		<status>Draft</status>
+		<versionNumber>1</versionNumber>
+	</versions>
+</DecisionMatrixDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>DecisionMatrixDefinition</name>
+	</types>
+	<version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

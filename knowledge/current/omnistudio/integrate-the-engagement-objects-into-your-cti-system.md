@@ -5,11 +5,19 @@ topic: integrate-the-engagement-objects-into-your-cti-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.304Z
-keywords: [Integrate, Engagement, Objects, CTI, System, Modifications, Adapter, Note]
+lastCollected: 2026-03-12T05:14:51.416Z
+estimatedTokens: 911
+keywords: [Integrate, Engagement, Objects, CTI, System, Modify, adapter, customer, service, representative, CSR, accepts, incoming, call, softphone, engagement, interaction, record, created., Interaction]
 ---
 
 # Integrate the Engagement Objects Into Your CTI System
+
+> Modify your CTI adapter so that when a customer service representative (CSR) accepts an
+        incoming call using the softphone, an engagement interaction record for the call is created.
+        Engagement Interaction is part of the Engagement data model, which has two other objects,
+        Engagement Attendee and Engagement Topic. These objects store details such as the start and
+        end date and time of an interaction, what an interaction is about, and attendee
+        details.
 
 # Integrate the Engagement Objects Into Your CTI System
 
@@ -83,4 +91,99 @@ Alternatively, use the sObject API to perform CRUD operations on the engagement 
 
 ```
 
+```
+
+## Code Examples
+
+```
+<button class="slds-size--1-of-2 slds-button slds-button--brand"
+onclick="{!c.accept}">Accept</button>
+```
+
+```
+accept : function(cmp, event, helper) {
+helper.renderConnectedPanel(cmp);
+},
+```
+
+```
+renderConnectedPanel : function(cmp){
+    var recordId = cmp.get('v.recordId');
+    var account = cmp.get('v.account');
+    var recparam=(recordId)?recordId:'UNKNOWN';
+    sforce.opencti.runApex({
+        apexClass : 'SoftphoneContactSearchController',
+        methodName : 'createEngagementInteraction',
+        methodParams : 'recordId='+recparam ,
+        callback : function(result) {
+            cmp.getEvent('editPanel').setParams({
+                label : 'Open CTI Softphone: ' + cmp.get('v.state')
+            }).fire();
+            if (result.success) {
+                sforce.opencti.screenPop({
+                    type : sforce.opencti.SCREENPOP_TYPE.SOBJECT,
+                    params : { recordId : result.returnValue.runApex }
+                });
+            } else {
+                throw new Error('Unable to make a call. Contact your admin.');
+            }
+            cmp.getEvent('renderPanel').setParams({
+                type : 'c:connectedPanel',
+                attributes : {
+                    showDialPad : false,
+                    recordId : recordId,
+                    engagementId : result.returnValue.runApex,
+                    callType : 'Inbound',
+                    account : account,
+                    recordName: cmp.get('v.recordName'),
+                    presence : cmp.get('v.presence')
+                }
+            }).fire();
+        }
+    });
+}
+```
+
+```
+// Create Engagement Interaction using connect API
+webService static String createEngagementInteraction(String recordId) {
+    system.debug('In create Engagement Interaction');
+    ConnectApi.EngagementInteractionCreateInput interactionInput = new
+ConnectApi.EngagementInteractionCreateInput();
+    interactionInput.communicationChannel = 'Voice Call';
+    interactionInput.attendeeVerified = false;
+    interactionInput.startDateTime =
+datetime.now().formatGMT('yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\'');
+    interactionInput.status = 'New';
+    if(recordId !='UNKNOWN' ){
+        interactionInput.initiatingAttendeeId = recordId;
+        interactionInput.attendeeAuthenticated = true;
+    }
+    ConnectApi.EngagementsCreateInput containerInput = new
+ConnectApi.EngagementsCreateInput();
+    containerInput.engagementInteraction = interactionInput;
+    ConnectApi.EngagementsCreateOutput output =
+ConnectApi.EngagementContainerConnect.createEngagementInteraction(containerInput);
+    return output.engagementInteraction.id;
+}
+```
+
+```apex
+List<ConnectApi.EngagementAttendeeCreateInput> eaList = new
+List<ConnectApi.EngagementAttendeeCreateInput>();
+ConnectApi.EngagementAttendeeCreateInput internalAttendeeInput = new
+ConnectApi.EngagementAttendeeCreateInput();
+internalAttendeeInput.startDateTime =
+datetime.now().formatGMT('yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\'');
+internalAttendeeInput.internalAttendeeId = UserInfo.getUserId();
+eaList.add(internalAttendeeInput);
+if(recordId !='UNKNOWN' ){
+    ConnectApi.EngagementAttendeeCreateInput externalAttendeeInput = new
+ConnectApi.EngagementAttendeeCreateInput();
+    externalAttendeeInput.startDateTime =
+datetime.now().formatGMT('yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\'');
+    externalAttendeeInput.externalAttendeeId = recordId;
+    eaList.add(externalAttendeeInput);
+}
+interactionInput.engagementAttendees = eaList;
 ```

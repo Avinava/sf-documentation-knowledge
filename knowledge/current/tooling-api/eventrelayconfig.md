@@ -5,11 +5,16 @@ topic: eventrelayconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.823Z
-keywords: [EventRelayConfig, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.450Z
+estimatedTokens: 1716
+keywords: [EventRelayConfig, Represents, configuration, event, relay, which, relays, platform, events, change, data, capture, Salesforce, Amazon, EventBridge., API, version, 56.0, later., Important]
 ---
 
 # EventRelayConfig
+
+> Represents the configuration of an event relay, which relays platform events
+         and change data capture events from Salesforce to Amazon EventBridge. This object is
+      available in API version 56.0 and later.
 
 # EventRelayConfig
 
@@ -58,4 +63,19 @@ This JSON example is the body of a REST API POST request that creates an event r
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+    "FullName": "Carbon_Comparison_Relay", 
+    "Metadata": {
+        "destinationResourceName": "callout:AWS_Account",
+        "eventChannel": "Carbon_Comparison_Channel__chn",
+        “label”: “Carbon Comparison Relay”,
+        "relayOption": "{"ReplayRecovery":"LATEST"}",
+        "state": "STOP"
+    }
+}
 ```

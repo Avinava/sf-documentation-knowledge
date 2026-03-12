@@ -5,11 +5,15 @@ topic: batch-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.804Z
-keywords: [Batch, Response, Body, Results, Subrequest, Result]
+lastCollected: 2026-03-12T05:14:36.201Z
+estimatedTokens: 202
+keywords: [Batch, Response, Body, Describes, result, Composite, request., Results, Subrequest, Result]
 ---
 
 # Batch Response Body
+
+> Describes the result of a Composite Batch
+  request.
 
 # Batch Response Body
 
@@ -43,4 +47,39 @@ JSON example
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "hasErrors" : false,
+   "results" : [{
+      "statusCode" : 204,
+      "result" : null
+      },{
+      "statusCode" : 200,
+      "result": {
+         "attributes" : {
+            "type" : "Account",
+            "url" : "/services/data/v66.0/sobjects/Account/001D000000K0fXOIAZ"
+         },
+         "Name" : "NewName",
+         "BillingPostalCode" : "94105",
+         "Id" : "001D000000K0fXOIAZ"
+      }
+   }]
+}
+```
+
+```
+{
+   "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v66.0/sobjects/Account/001D000000K0fXOIAZ"
+   },
+   "Name" : "NewName",
+   "BillingPostalCode" : "94015",
+   "Id" : "001D000000K0fXOIAZ"
+}
 ```

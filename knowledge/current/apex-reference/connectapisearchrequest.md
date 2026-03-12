@@ -5,11 +5,14 @@ topic: connectapisearchrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.569Z
-keywords: [ConnectApi.SearchRequest, See]
+lastCollected: 2026-03-12T05:14:25.546Z
+estimatedTokens: 439
+keywords: [ConnectApi.SearchRequest, Search, request, input, searching, object.]
 ---
 
 # ConnectApi.SearchRequest
+
+> Search request input for searching an object.
 
 # ConnectApi.SearchRequest
 
@@ -31,3 +34,14 @@ Search request input for searching an object.
 #### See Also
 
 -   [find(objectApiName, request)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_find_object_1 "Search an object using keywords and return results.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​SearchData​Category (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_data_category_inpu.htm)
+- ConnectApi.​SearchFilter (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_filter_inpu.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​SearchOrderBy (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_order_by_inpu.htm)
+- find(objectApiName, request) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)

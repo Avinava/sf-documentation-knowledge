@@ -5,11 +5,16 @@ topic: servicecontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.903Z
-keywords: [ServiceContract, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.559Z
+estimatedTokens: 2157
+keywords: [ServiceContract, Represents, customer, support, contract, business, agreement, API, version, 18.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # ServiceContract
+
+> Represents a customer support contract
+				(business agreement).
+		This object is available in API version 18.0 and later.
 
 # ServiceContract
 

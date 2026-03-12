@@ -5,11 +5,15 @@ topic: onchatended
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.532Z
-keywords: [onChatEnded, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.195Z
+estimatedTokens: 176
+keywords: [onChatEnded, Registers, function, call, engaged, chat, ends., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # onChatEnded()
+
+> Registers a function to call when an engaged chat ends. Available in API version 29.0 or
+            later.
 
 # onChatEnded()
 
@@ -41,3 +45,21 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | chatKey | String | The chat key for the engaged chat that has ended. |
 | success | Boolean | true if firing event was successful; false if firing event wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.onChatEnded(eventHandler:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        var eventHandler = function (result) {
+            alert('A chat with this chatKey has ended: ' + result.chatKey);
+        }
+        sforce.console.chat.onChatEnded(eventHandler);
+    </script>
+</apex:page>
+```

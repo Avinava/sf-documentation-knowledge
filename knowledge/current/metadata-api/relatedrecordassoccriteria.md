@@ -5,11 +5,16 @@ topic: relatedrecordassoccriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.323Z
-keywords: [RelatedRecordAssocCriteria, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.301Z
+estimatedTokens: 961
+keywords: [RelatedRecordAssocCriteria, Represents, criteria, automatically, linking, records, accounts, leads, opportunities, cases, branches, work, them., Important, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # RelatedRecordAssocCriteria
+
+> Represents criteria for automatically linking
+			records like accounts, leads, opportunities, and cases with the branches that work with
+			them.
 
 # RelatedRecordAssocCriteria
 
@@ -69,3 +74,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RelatedRecordAssocCriteria xmlns="http://soap.sforce.com/2006/04/metadata">
+   <associationType>BranchManagement</associationType>
+   <eventType>Create</eventType>
+   <masterLabel>RevenueThreeMillion</masterLabel>
+   <preCondition>[Account].AnnualRevenue > 3000000</preCondition>
+   <referenceObject>Account</referenceObject>
+   <status>Active</status>
+</RelatedRecordAssocCriteria>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>RelatedRecordAssocCriteria</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

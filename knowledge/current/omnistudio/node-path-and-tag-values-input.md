@@ -5,11 +5,15 @@ topic: node-path-and-tag-values-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.370Z
-keywords: [Node, Path, Tag, Values, Input]
+lastCollected: 2026-03-12T05:14:48.555Z
+estimatedTokens: 113
+keywords: [Node, Path, Tag, Values, Input, representation, node, path, which, needs, update, tag, details.]
 ---
 
 # Node Path and Tag Values Input
+
+> Input representation of the node path which needs to update with tag
+        details.
 
 # Node Path and Tag Values Input
 
@@ -27,3 +31,29 @@ Properties
 | --- | --- | --- | --- | --- |
 | nodePath | String | Path of Context Data Record. | Required | 63.0 |
 | tagValues | List<Context​TagValueInput​Representation | List of Tag Names to be updated and their values. | Required | 63.0 |
+
+## Code Examples
+
+```
+{
+            "nodePath": {
+                "dataPath": [
+                    "001xx000003GbQSAA0"
+                ]
+            },
+            "tagValues": [
+                {
+                    "tagName": "Name",
+                    "tagValue": "updatedAccount"
+                },
+                {
+                    "tagName": "City",
+                    "tagValue": "Bangalore"
+                }
+            ]
+        }
+```
+
+## Related Topics
+
+- List<Context​TagValueInput​Representation (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_tag_values_input.htm)

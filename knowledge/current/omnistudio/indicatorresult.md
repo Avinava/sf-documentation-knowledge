@@ -5,11 +5,16 @@ topic: indicatorresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:11.271Z
-keywords: [IndicatorResult, Important, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:52.854Z
+estimatedTokens: 1068
+keywords: [IndicatorResult, Represents, result, indicator, assignment, specified, time, period, used, track, performance, indicator., API, version, 59.0, later., Important, Supported, Calls, Special]
 ---
 
 # IndicatorResult
+
+> Represents the result of an indicator assignment for the specified
+         time period that can be used to track the performance of the indicator. This object is
+      available in API version 59.0 and later.
 
 # IndicatorResult
 
@@ -19,7 +24,7 @@ Represents the result of an indicator assignment for the specified time period t
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

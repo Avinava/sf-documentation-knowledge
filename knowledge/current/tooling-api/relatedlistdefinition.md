@@ -5,11 +5,16 @@ topic: relatedlistdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.651Z
-keywords: [RelatedListDefinition, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.646Z
+estimatedTokens: 612
+keywords: [RelatedListDefinition, Represents, information, related, list., list, specifies, set, records, based, specific, criteria., API, version, 55.0, later., Supported, SOAP, Calls, REST]
 ---
 
 # RelatedListDefinition
+
+> Represents information about a related list. A related list specifies a set
+         of records for a related object, based on specific criteria. This object is available
+      in API version 55.0 and later.
 
 # RelatedListDefinition
 
@@ -48,4 +53,10 @@ Find all available related lists for a given entity, for example, an Account rec
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT DurableId, Label, RelatedListName FROM RelatedListDefinition WHERE ParentEntityDefinitionId = 'Account'
 ```

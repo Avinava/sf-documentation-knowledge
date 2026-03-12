@@ -5,11 +5,17 @@ topic: testing-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.911Z
-keywords: [Testing, Asynchronous, Callouts]
+lastCollected: 2026-03-12T05:14:33.082Z
+estimatedTokens: 456
+keywords: [Testing, Asynchronous, Callouts, Write, tests, test, controller, meet, code, coverage, requirements, deploying, packaging, Apex., Because, Apex, don’t, support, making, callouts]
 ---
 
 # Testing Asynchronous Callouts
+
+> Write tests to test your controller and meet code coverage requirements for deploying
+        or packaging Apex. Because Apex tests don’t support making callouts, you can simulate
+        callout requests and responses. When you’re simulating a callout, the request doesn’t get
+        sent to the external service, and a mock response is used.
 
 # Testing Asynchronous Callouts
 
@@ -28,3 +34,81 @@ This example shows the test class corresponding to the controller. This test cla
 ```
 
 ```
+
+## Code Examples
+
+```apex
+public with sharing class ContinuationController {
+    // Unique label corresponding to the continuation request
+    public String requestLabel;
+    // Result of callout
+    public String result {get;set;}
+    // Endpoint of long-running service
+    private static final String LONG_RUNNING_SERVICE_URL = 
+        '<Insert your service URL>';
+   
+   // Action method
+    public Object startRequest() {
+      // Create continuation with a timeout
+      Continuation con = new Continuation(40);
+      // Set callback method
+      con.continuationMethod='processResponse';
+      
+      // Create callout request
+      HttpRequest req = new HttpRequest();
+      req.setMethod('GET');
+      req.setEndpoint(LONG_RUNNING_SERVICE_URL);
+      
+      // Add callout request to continuation
+      this.requestLabel = con.addHttpRequest(req);
+      
+      // Return the continuation
+      return con;  
+    }
+    
+    // Callback method 
+    public Object processResponse() {   
+      // Get the response by using the unique label
+      HttpResponse response = Continuation.getResponse(this.requestLabel);
+      // Set the result variable that is displayed on the Visualforce page
+      this.result = response.getBody();
+      
+      // Return null to re-render the original Visualforce page
+      return null;
+    }
+}
+```
+
+```apex
+@isTest
+public class ContinuationTestingForHttpRequest {
+    public static testmethod void testWebService() {
+        ContinuationController controller = new ContinuationController();
+        // Invoke the continuation by calling the action method
+        Continuation conti = (Continuation)controller.startRequest();
+        
+        // Verify that the continuation has the proper requests
+        Map<String, HttpRequest> requests = conti.getRequests();
+        system.assert(requests.size() == 1);
+        system.assert(requests.get(controller.requestLabel) != null);
+        
+        // Perform mock callout 
+        // (i.e. skip the callout and call the callback method)
+        HttpResponse response = new HttpResponse();
+        response.setBody('Mock response body');   
+        // Set the fake response for the continuation     
+        Test.setContinuationResponse(controller.requestLabel, response);
+        // Invoke callback method
+        Object result = Test.invokeContinuationMethod(controller, conti);
+        // result is the return value of the callback
+        System.assertEquals(null, result);
+        // Verify that the controller's result variable
+        //   is set to the mock response.
+        System.assertEquals('Mock response body', controller.result);
+    }
+}
+```
+
+## Related Topics
+
+- Make Long-Running Callouts with Continuations (atlas.en-us.apexcode.meta/apexcode/apex_continuation_overview.htm)

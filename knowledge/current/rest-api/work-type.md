@@ -5,11 +5,14 @@ topic: work-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.139Z
-keywords: [Work, Type, Note]
+lastCollected: 2026-03-12T05:14:35.237Z
+estimatedTokens: 302
+keywords: [Work, Details, work, performed., Note]
 ---
 
 # Work Type
+
+> Details about the type of work to be performed.
 
 # Work Type
 
@@ -31,3 +34,7 @@ Details about the type of work to be performed.
 #### Note
 
 Provide either Id or durationInMinutes in the request body, but not both.
+
+## Related Topics
+
+- Skill Requirement (atlas.en-us.api_rest.meta/api_rest/request_body_ls_skillrequirement.htm)

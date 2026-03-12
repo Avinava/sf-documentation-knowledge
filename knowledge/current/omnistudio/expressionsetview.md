@@ -5,11 +5,17 @@ topic: expressionsetview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.992Z
-keywords: [ExpressionSetView, Supported, Calls, Fields, Usage]
+lastCollected: 2026-03-12T05:14:53.979Z
+estimatedTokens: 1003
+keywords: [ExpressionSetView, Represents, virtual, provides, consolidated, view, file-based, expression, set., File-based, read-only, templates., able, modify, must, clone, first., API, version, 55.0]
 ---
 
 # ExpressionSetView
+
+> Represents a virtual object that provides a consolidated view of
+         file-based expression set. File-based expression sets are read-only templates. To be able
+         to modify file-based expression sets, you must clone them first.  This object is
+      available in API version 55.0 and later.
 
 # ExpressionSetView
 

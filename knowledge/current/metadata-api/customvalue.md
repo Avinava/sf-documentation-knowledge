@@ -5,11 +5,19 @@ topic: customvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.590Z
-keywords: [CustomValue, Note, File, Suffix, Directory, Location, Version, Fields, StandardValue, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.339Z
+estimatedTokens: 1886
+keywords: [CustomValue, Represents, definition, used, set, local, custom, picklist., Custom, picklist, fields, unique, inherit, their, values, called, API, version, 38.0, extends]
 ---
 
 # CustomValue
+
+> Represents the definition of a value used in a global value
+      set or local custom picklist. Custom picklist fields can be local and unique, or can inherit
+      their values from a global picklist (called a global value set in API version
+      38.0). This type extends the Metadata
+      metadata type and inherits its fullName
+    field.
 
 # CustomValue
 
@@ -65,3 +73,9 @@ When you deploy changes to standard picklist fields, picklist values are added a
 ## Declarative Metadata Sample Definition
 
 For an example of CustomValue components within a GlobalValueSet component that’s referenced by a package.xml, see [GlobalValueSet](atlas.en-us.api_meta.meta/api_meta/meta_globalvalueset.htm "Represents the metadata for a global picklist value set, which is the set of shared values that custom picklist fields can use. A global value set isn’t a field itself. In contrast, the custom picklist fields that are based on a global picklist are of type ValueSet. This type extends the Metadata metadata type and inherits its fullName field.").
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- GlobalValueSet (atlas.en-us.api_meta.meta/api_meta/meta_globalvalueset.htm)

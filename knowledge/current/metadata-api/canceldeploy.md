@@ -5,11 +5,14 @@ topic: canceldeploy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.991Z
-keywords: [cancelDeploy, Syntax, Usage, Version, Permissions, Note, Arguments, Response, Sample, Code—Java]
+lastCollected: 2026-03-12T05:14:37.535Z
+estimatedTokens: 1244
+keywords: [cancelDeploy, Cancels, deployment, hasn’t, completed, yet., Syntax, Usage, Version, Permissions, Note, Arguments, Response, Sample, Code—Java]
 ---
 
 # cancelDeploy()
+
+> Cancels a deployment that hasn’t completed yet.
 
 # cancelDeploy()
 
@@ -82,3 +85,52 @@ This sample shows how to cancel a deployment. The sample calls cancelDeploy() by
 ```
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm "checkDeployStatus()")
+
+## Code Examples
+
+```
+CancelDeployResult = metadatabinding.cancelDeploy(string id)
+```
+
+```apex
+public void cancelDeploy(String asyncId) throws Exception {
+    // Issue the deployment cancellation request  
+    CancelDeployResult result = metadataConnection.cancelDeploy(asyncId);
+    
+    // If the deployment cancellation completed, write a message to the output.
+    if (result.isDone()) {
+        System.out.println("Your deployment was canceled successfully!");
+    }
+    else {
+        // The deployment cancellation is still in progress, so get a new status 
+        DeployResult deployResult = metadataConnection.checkDeployStatus(asyncId, false);
+    
+        // Check whether the deployment is done. If not done, this means 
+        // that the cancellation is still in progress and the status is Canceling.        
+        while (!deployResult.isDone()) {
+            // Assert that the deployment status is Canceling
+            assert deployResult.getStatus() == DeployStatus.Canceling;
+            // Wait 2 seconds
+            Thread.sleep(2000);
+            // Get the deployment status again
+            deployResult = metadataConnection.checkDeployStatus(asyncId, false);
+        }
+        
+        // The deployment is done. Write the status to the output.
+        // (When the deployment is done, the cancellation should have completed
+        // and the status should be Canceled. However, in very rare cases,  
+        // the deployment can complete before it is canceled.) 
+        System.out.println("Final deploy status = >" + deployResult.getStatus());
+    }
+}
+```
+
+## Related Topics
+
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- CancelDeployResult (atlas.en-us.api_meta.meta/api_meta/meta_canceldeployresult.htm)
+- checkDeployStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm)
+- DeployResult (atlas.en-us.api_meta.meta/api_meta/meta_deployresult.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm)

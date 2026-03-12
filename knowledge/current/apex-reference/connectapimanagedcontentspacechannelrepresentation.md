@@ -5,11 +5,14 @@ topic: connectapimanagedcontentspacechannelrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.199Z
-keywords: [ConnectApi.ManagedContentSpaceChannelRepresentation, See]
+lastCollected: 2026-03-12T05:14:27.858Z
+estimatedTokens: 270
+keywords: [ConnectApi.ManagedContentSpaceChannelRepresentation, Managed, content, space, channel.]
 ---
 
 # ConnectApi.ManagedContentSpaceChannelRepresentation
+
+> Managed content space channel.
 
 # ConnectApi.ManagedContentSpaceChannelRepresentation
 
@@ -25,3 +28,11 @@ Managed content space channel.
 #### See Also
 
 -   [ConnectApi.ManagedContentSpaceChannelsRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_space_channels.htm "List of managed content space channels.")
+
+## Related Topics
+
+- ConnectApi.​ManagedContent​ChannelSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_summary.htm)
+- ConnectApi.​ManagedContent​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_user_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​ManagedContent​SpaceChannel​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ManagedContentSpaceChannelsRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_space_channels.htm)

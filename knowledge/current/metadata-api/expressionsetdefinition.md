@@ -5,11 +5,14 @@ topic: expressionsetdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.427Z
-keywords: [ExpressionSetDefinition, Note, Parent, Type, File, Suffix, Directory, Location, Version, Fields, ExpressionSetDefinitionVersion​​, ExpressionSet​​Step, ExpressionSetAdvancedCondition, ExpressionSetConditionCriteria, ExpressionSetAggregation, ExpressionSetAssignment, ExpressionSetConditionExpression, ExpressionSetCustomElement, ExpressionSetElementParameter, ExpressionSetDecisionTable]
+lastCollected: 2026-03-12T05:14:39.556Z
+estimatedTokens: 5654
+keywords: [ExpressionSetDefinition, Represents, expression, set, definition., Note, Parent, File, Suffix, Directory, Location, Version, Fields, ExpressionSetDefinitionVersion​​, ExpressionSet​​Step, ExpressionSetAdvancedCondition, ExpressionSetConditionCriteria, ExpressionSetAggregation, ExpressionSetAssignment, ExpressionSetConditionExpression]
 ---
 
 # ExpressionSetDefinition
+
+> Represents an expression set definition.
 
 # ExpressionSetDefinition
 
@@ -244,3 +247,317 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpressionSetDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>ExpSetWithAllSteps</label>
+    <processType>Bre</processType>
+    <template>false</template>
+    <description></description>
+    <interfaceSourceType>Sample</interfaceSourceType>
+    <executionScale>Low</executionScale>
+    <versions>
+        <fullName>ExpSetWithAllSteps_V1</fullName>
+        <expressionSetDefinition>ExpSetWithAllSteps</expressionSetDefinition>
+        <label>ExpSetWithAllSteps V1</label>
+        <shouldShowExplExternally>false</shouldShowExplExternally>
+        <startDate>2022-08-09T22:04:56.000Z</startDate>
+        <endDate>2023-08-09T22:04:56.000Z</endDate>
+        <status>Draft</status>
+        <uiTier>false</uiTier>
+        <rank>1</rank>
+        <description>ExpSetWithAllSteps_V1</description>
+        <steps>
+            <description>Aggregate</description>
+            <actionType>BreAggregator</actionType>
+            <aggregation>
+                <aggergatedParameter>result</aggergatedParameter>
+                <aggregateFunction>Avg</aggregateFunction>
+                <expression>AVG ( result )</expression>
+            </aggregation>
+            <label>Aggregate</label>
+            <name>Aggregate</name>
+            <resultIncluded>true</resultIncluded>
+            <sequenceNumber>5</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <steps>
+            <label>Branch</label>
+            <name>Branch</name>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>4</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>Branch</stepType>
+        </steps>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>b</assignedParameter>
+                <expression>SUM ( a , 10 )</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation</name>
+            <resultIncluded>true</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>result</assignedParameter>
+                <expression>b * 100</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation10</name>
+            <parentStep>DefaultLane</parentStep>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>result</assignedParameter>
+                <expression>b * 1</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation3</name>
+            <parentStep>Condition</parentStep>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>result</assignedParameter>
+                <expression>SUM ( b , 10 )</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation5</name>
+            <parentStep>Condition4</parentStep>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>result</assignedParameter>
+                <expression>b * 10</expression>
+            </assignment>
+            <label>Calculation</label>
+            <name>Calculation8</name>
+            <parentStep>Condition7</parentStep>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <steps>
+            <conditionExpression>
+                <successMessage>success</successMessage>
+                <errorMessage>error</errorMessage>
+                <expression>IS10 == b</expression>
+                <resultParameter>condition_output__1</resultParameter>
+            </conditionExpression>
+            <label>Condition</label>
+            <name>Condition</name>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>2</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>Condition</stepType>
+        </steps>
+        <steps>
+            <advancedCondition>
+                <successMessage>success</successMessage>
+                <errorMessage>error</errorMessage>
+                <conditionLogic>1</conditionLogic>
+                <criteria>
+                    <operator>Equals</operator>
+                    <sequenceNumber>1</sequenceNumber>
+                    <sourceFieldName>condition_output__1</sourceFieldName>
+                    <value>true</value>
+                    <valueType>Literal</valueType>
+                </criteria>
+                <resultParameter>condition_output__3</resultParameter>
+            </advancedCondition>
+            <label>Condition</label>
+            <name>Condition4</name>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>3</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>AdvancedCondition</stepType>
+        </steps>
+        <steps>
+            <conditionExpression>
+                <expression>IS10 == b</expression>
+                <resultParameter>condition_output__2</resultParameter>
+            </conditionExpression>
+            <label>Condition</label>
+            <name>Condition7</name>
+            <parentStep>Branch</parentStep>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>Condition</stepType>
+        </steps>
+        <steps>
+            <label>Default Lane</label>
+            <name>DefaultLane</name>
+            <parentStep>Branch</parentStep>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>2</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>false</shouldShowExplExternally>
+            <stepType>DefaultPath</stepType>
+        </steps>
+        <steps>
+            <actionType>AssignParameterValues</actionType>
+            <assignment>
+                <assignedParameter>a</assignedParameter>
+                <expression>3</expression>
+            </assignment>
+            <failedExplainerTemplate>CalculationFailure</failedExplainerTemplate>
+            <failedMessageTokenMappings>
+                <expressionSetMessageToken>y2</expressionSetMessageToken>
+                <resourceReference>a</resourceReference>
+            </failedMessageTokenMappings>
+            <label>CalculationStepWithTokensAndMappings</label>
+            <name>CalculationStepWithTokensAndMappings</name>
+            <passedExplainerTemplate>CalculationSuccess</passedExplainerTemplate>
+            <passedMessageTokenMappings>
+                <expressionSetMessageToken>y1</expressionSetMessageToken>
+                <resourceReference>a</resourceReference>
+            </passedMessageTokenMappings>
+            <resultIncluded>false</resultIncluded>
+            <sequenceNumber>1</sequenceNumber>
+            <shouldExposExecPathMsgOnly>true</shouldExposExecPathMsgOnly>
+            <shouldExposeConditionDetails>false</shouldExposeConditionDetails>
+            <shouldShowExplExternally>true</shouldShowExplExternally>
+            <stepType>BusinessKnowledgeModel</stepType>
+        </steps>
+        <variables>
+            <collection>false</collection>
+            <dataType>Boolean</dataType>
+            <description>condition_output__3</description>
+            <input>false</input>
+            <name>condition_output__3</name>
+            <output>false</output>
+            <resultStep>Condition4</resultStep>
+            <type>Variable</type>
+            <value>False</value>
+        </variables>
+        <variables>
+            <collection>false</collection>
+            <dataType>Numeric</dataType>
+            <decimalPlaces>2</decimalPlaces>
+            <description>a</description>
+            <input>true</input>
+            <name>a</name>
+            <output>false</output>
+            <type>Variable</type>
+            <value>10</value>
+        </variables>
+        <variables>
+            <collection>false</collection>
+            <dataType>Boolean</dataType>
+            <description>condition_output__1</description>
+            <input>false</input>
+            <name>condition_output__1</name>
+            <output>false</output>
+            <resultStep>Condition</resultStep>
+            <type>Variable</type>
+            <value>False</value>
+        </variables>
+        <variables>
+            <collection>false</collection>
+            <dataType>Boolean</dataType>
+            <description>condition_output__2</description>
+            <input>false</input>
+            <name>condition_output__2</name>
+            <output>false</output>
+            <resultStep>Condition7</resultStep>
+            <type>Variable</type>
+            <value>False</value>
+        </variables>
+        <variables>
+            <collection>false</collection>
+            <dataType>Numeric</dataType>
+            <decimalPlaces>2</decimalPlaces>
+            <description>IS10</description>
+            <input>false</input>
+            <name>IS10</name>
+            <output>false</output>
+            <type>Constant</type>
+            <value>10</value>
+        </variables>
+        <variables>
+            <collection>false</collection>
+            <dataType>Numeric</dataType>
+            <decimalPlaces>2</decimalPlaces>
+            <description>b</description>
+            <input>false</input>
+            <name>b</name>
+            <output>true</output>
+            <type>Variable</type>
+        </variables>
+        <variables>
+            <collection>false</collection>
+            <dataType>Numeric</dataType>
+            <decimalPlaces>2</decimalPlaces>
+            <description>result</description>
+            <input>false</input>
+            <name>result</name>
+            <output>true</output>
+            <type>Variable</type>
+        </variables>
+        <versionNumber>1</versionNumber>
+    </versions>
+</ExpressionSetDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ExpressionSetDefinition</name>
+	</types>
+	<version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

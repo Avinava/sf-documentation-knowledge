@@ -5,11 +5,14 @@ topic: connectapiaudiencecriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.970Z
-keywords: [ConnectApi.AudienceCriteria, See]
+lastCollected: 2026-03-12T05:14:26.111Z
+estimatedTokens: 264
+keywords: [ConnectApi.AudienceCriteria, Custom, recommendation, audience, criteria.]
 ---
 
 # ConnectApi.AudienceCriteria
+
+> Custom recommendation audience criteria.
 
 # ConnectApi.AudienceCriteria
 
@@ -29,3 +32,10 @@ This class is a superclass of:
 #### See Also
 
 -   [ConnectApi.RecommendationAudience](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_audience.htm "A custom recommendation audience.")
+
+## Related Topics
+
+- ConnectApi.CustomListAudienceCriteria (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_custom_list_audience_criteria.htm)
+- ConnectApi.NewUserAudienceCriteria (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_new_user_audience_criteria.htm)
+- ConnectApi.​RecommendationAudience​CriteriaType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.RecommendationAudience (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_audience.htm)

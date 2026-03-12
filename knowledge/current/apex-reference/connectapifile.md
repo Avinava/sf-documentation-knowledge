@@ -5,11 +5,14 @@ topic: connectapifile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.873Z
-keywords: [ConnectApi.File]
+lastCollected: 2026-03-12T05:14:27.435Z
+estimatedTokens: 1370
+keywords: [ConnectApi.File, File.]
 ---
 
 # ConnectApi.File
+
+> File.
 
 # ConnectApi.File
 
@@ -57,3 +60,16 @@ Superclass of [ConnectApi.FileSummary](atlas.en-us.apexref.meta/apexref/apex_con
 | thumb720By480​RenditionStatus | String | Specifies the rendering status of the 720 x 480 preview image of the file. One of these values:Processing—Image is being rendered.Failed—Rendering process failed.Success—Rendering process was successful.Na—Rendering is not available for this image. | 28.0 |
 | title | String | Title of the file. | 28.0 |
 | versionNumber | String | File’s version number. | 28.0 |
+
+## Related Topics
+
+- ConnectApi.ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.FileSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file_sum.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ModerationFlags (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderationFlags.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.​FileSharingOption (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​FileSharingPrivacy (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

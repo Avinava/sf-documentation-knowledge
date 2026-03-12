@@ -5,11 +5,15 @@ topic: voucher-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:44.065Z
-keywords: [Voucher, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:15.050Z
+estimatedTokens: 1151
+keywords: [Voucher, DMO, Data, Cloud, data, model, loyalty, program’s, voucher., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Voucher DMO
+
+> The Voucher DMO is a Data Cloud data model object (DMO) for a loyalty
+      program’s voucher.
 
 # Voucher DMO
 

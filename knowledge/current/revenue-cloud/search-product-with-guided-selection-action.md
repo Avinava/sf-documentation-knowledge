@@ -5,11 +5,15 @@ topic: search-product-with-guided-selection-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:49.995Z
-keywords: [Search, Product, Guided, Selection, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:04.038Z
+estimatedTokens: 1592
+keywords: [Search, Product, Guided, Selection, Action, guided, product, selection, search, products., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
 ---
 
 # Search Product with Guided Selection Action
+
+> Use guided product selection to search for
+        products.
 
 # Search Product with Guided Selection Action
 
@@ -100,4 +104,184 @@ Here's a sample response when you call this action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "searchTerms": {
+        "searchTerms": [
+          {
+            "term": "Laptop"
+          }
+        ]
+      },
+      "categoryId": "0ZGxx0000000001GAA",
+      "correlationId": "77f9dc6a-8ecc-44a3-8d89-4050179cc846",
+      "additionalContextData": [
+        {
+          "nodeName": "Quote__c",
+          "nodeData": {
+            "id": "0Q0xx0000004CDsCAM",
+            "businessObjectType": "Quote"
+          }
+        }
+      ],
+      "contextDefinition": "CategoryCD",
+      "contextMapping": "ProductDiscoveryMapping",
+      "enableQualification": true,
+      "qualificationProcedure": "CatQual02",
+      "userContext": {
+        "accountId": "001xx000003GYiEAAW"
+      }
+    }
+  ]
+}
+```
+
+```apex
+Invocable.Action action = Invocable.Action.createStandardAction('searchPrdctWithGuidedSelection');
+
+action.setInvocationParameter('correlationId', '77f9dc6a-8ecc-44a3-8d89-4050179cc846');
+//action.setInvocationParameter('catalogId', '0ZSxx000000004sGAA');
+action.setInvocationParameter('guidedSelectionResponseId', '0U3xx0000004CPACA2');
+//action.setInvocationParameter('priceBookId', '01sxx0000005pyfAAA');
+//action.setInvocationParameter('categoryId', '0ZGxx000000004rGAA');
+action.setInvocationParameter('enableQualification', true);
+action.setInvocationParameter('enablePricing', true);
+//action.setInvocationParameter('contextDefinition', 'PDACDCtx');
+//action.setInvocationParameter('contextMapping', 'ProductDiscoveryMapping');
+//action.setInvocationParameter('qualificationProcedure', 'PDQualProceWithQuote');
+//action.setInvocationParameter('pricingProcedure', 'IconpricingProcedure');
+action.setInvocationParameter('includeCatalogDetails', true);
+action.setInvocationParameter('currencyCode', 'USD');
+List<String> orderByInputs = new List<String>();
+orderByInputs.add('name:asc');
+orderByInputs.add('id:desc');
+action.setInvocationParameter('orderBy', orderByInputs);
+List<runtime_industries_cpq.GuidedSelectionSearchTerm> searchTerms = new List<runtime_industries_cpq.GuidedSelectionSearchTerm>();
+runtime_industries_cpq.GuidedSelectionSearchTerm searchTerm = new runtime_industries_cpq.GuidedSelectionSearchTerm();
+searchTerm.term = 'Laptop Basic Bundle';
+List<String> tags = new List<String>();
+tags.add('Laptop');
+tags.add('Desktop');
+searchTerm.tags = tags;
+searchTerms.add(searchTerm);
+
+runtime_industries_cpq.GuidedSelectionSearchTermList searchTermList = new runtime_industries_cpq.GuidedSelectionSearchTermList();
+searchTermList.searchTerms = searchTerms;
+action.setInvocationParameter('searchTerms', searchTermList);
+List<Invocable.Action.Result> results = action.invoke();
+System.debug('Guided Selection result = ' + results);
+```
+
+```
+[
+  {
+    "actionName": "searchPrdctWithGuidedSelection",
+    "errors": null,
+    "invocationId": null,
+    "isSuccess": true,
+    "outcome": null,
+    "outputValues": {
+      "productListOutputRepresentations": [
+        {
+          "unitOfMeasure": null,
+          "status": null,
+          "qualificationContext": {
+            "reason": null,
+            "isQualified": true
+          },
+          "productType": null,
+          "productSpecificationType": {
+            "productSpecificationRecordType": {
+              "isCommercial": null
+            },
+            "name": "Commercial"
+          },
+          "productSellingModelOptions": [
+            {
+              "productSellingModelId": "0jPLT0000000YWL2A2",
+              "productSellingModel": {
+                "status": "Active",
+                "sellingModelType": "OneTime",
+                "pricingTermUnit": null,
+                "pricingTerm": null,
+                "name": "One Time",
+                "id": "0jPLT0000000YWL2A2"
+              },
+              "productId": "01tLT000007DFAiYAO",
+              "id": "0iOLT0000000n4j2AA"
+            }
+          ],
+          "productRelatedComponent": null,
+          "productQuantity": null,
+          "productPricingInformation": null,
+          "productInformation": null,
+          "productComponentGroups": [],
+          "productCode": "LBG001",
+          "productClassification": {
+            "id": null
+          },
+          "prices": [],
+          "nodeType": "simpleProduct",
+          "name": "Laptop Bag",
+          "isSoldOnlyWithOtherProds": false,
+          "isQuantityEditable": null,
+          "isDefaultComponent": null,
+          "isComponentRequired": null,
+          "isAssetizable": true,
+          "isActive": true,
+          "id": "01tLT000007DFAiYAO",
+          "endOfLifeDate": null,
+          "displayUrl": "https://gangslifestyle.com/cdn/shop/files/goldstorm-collegetravel-backpack-513.png?v=1706166408&width=1300",
+          "discontinuedDate": null,
+          "description": "Premium Laptop bag with separate compartments for laptop and accessories.",
+          "configureDuringSale": "NotAllowed",
+          "childProducts": [],
+          "categories": [
+            {
+              "sortOrder": null,
+              "qualificationContext": {
+                "reason": null,
+                "isQualified": true
+              },
+              "parentCategoryId": null,
+              "name": "Accessories",
+              "isNavigational": null,
+              "id": "0ZGLT000000JBsd4AG",
+              "hasSubCategories": false,
+              "description": null,
+              "childCategories": null,
+              "catalogId": "0ZSLT000000DUoI4AW"
+            }
+          ],
+          "catalogs": [],
+          "availabilityDate": null,
+          "attributeCategories": [],
+          "additionalFields": []
+        }
+      ],
+      "searchTerms": [
+        {
+          "term": "Laptop Bag",
+          "tags": []
+        }
+      ],
+      "apiStatusOutputRepresentation": {
+        "statusMessage": null,
+        "statusCode": "FetchedDetailsSuccessfully",
+        "messages": []
+      },
+      "correlationId": "77f9dc6a-8ecc-44a3-8d89-4050179cc846",
+      "contextId": null,
+      "recordOffset": 1
+    },
+    "sortOrder": -1,
+    "version": 1
+  }
+]
 ```

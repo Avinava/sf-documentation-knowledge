@@ -5,11 +5,17 @@ topic: flow-for-identity-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.177Z
-keywords: [Flow, Identity, Verification, FlowActionCall]
+lastCollected: 2026-03-12T05:14:51.249Z
+estimatedTokens: 258
+keywords: [Flow, Identity, Verification, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute, logic]
 ---
 
 # Flow for Identity Verification
+
+> Represents the metadata associated with a flow. With Flow, you can create an
+    application that navigates users through a series of screens to query and update records in the
+    database. You can also execute logic and provide branching capability based on user input to
+    build dynamic applications.
 
 # Flow for Identity Verification
 

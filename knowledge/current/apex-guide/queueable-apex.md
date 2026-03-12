@@ -5,11 +5,18 @@ topic: queueable-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.505Z
-keywords: [Queueable, Apex, Important, Note, Adding, Job, Asynchronous, Execution, Queue, Specified, Minimum, Delay, Warning, Stack, Depth, Testing, Jobs, Chaining, Limits, See]
+lastCollected: 2026-03-12T05:14:33.879Z
+estimatedTokens: 3018
+keywords: [Queueable, Apex, Take, control, asynchronous, processes, interface., Salesforce, recommends, instead, future, methods., Queueables, same, cases, offer, extra, benefits, including, job]
 ---
 
 # Queueable Apex
+
+> Take control of your asynchronous Apex processes by using the
+            Queueable interface. Salesforce recommends that
+        you use Queueable Apex instead of Apex future methods. Queueables have the same use cases as
+        future methods but offer extra benefits, including job IDs, support for non-primitive types,
+        and job chaining.
 
 # Queueable Apex
 
@@ -155,15 +162,96 @@ You can test chained queueable jobs by using appropriate stack depths, but be aw
 -   Because no limit is enforced on the depth of chained jobs, you can chain one job to another. You can repeat this process with each new child job to link it to a new child job. For Developer Edition and Trial organizations, the maximum stack depth for chained jobs is 5, which means that you can chain jobs four times. The maximum number of jobs in the chain is 5, including the initial parent queueable job.
 -   When chaining jobs with System.enqueueJob, you can add only one job from an executing job. Only one child job can exist for each parent queueable job. Starting multiple child jobs from the same queueable job isn’t supported.
 
--   **[Detecting Duplicate Queueable Jobs](atlas.en-us.apexcode.meta/apexcode/apex_dedupe_queueable.htm)**  
+-   **[Detecting Duplicate Queueable Jobs](atlas.en-us.apexcode.meta/apexcode/apex_dedupe_queueable.htm)**
     Reduce resource contention and race conditions by enqueuing only a single instance of your async Queueable job based on its signature. Attempting to add more than one Queueable job to the processing queue with the same signature results in a DuplicateMessageException when you try to enqueue subsequent jobs.
--   **[Transaction Finalizers](atlas.en-us.apexcode.meta/apexcode/apex_transaction_finalizers.htm)**  
+-   **[Transaction Finalizers](atlas.en-us.apexcode.meta/apexcode/apex_transaction_finalizers.htm)**
     The Transaction Finalizers feature enables you to attach actions, using the System.Finalizer interface, to asynchronous Apex jobs that use the Queueable framework. A specific use case is to design recovery actions when a Queueable job fails.
--   **[Transaction Finalizers Error Messages](atlas.en-us.apexcode.meta/apexcode/apex_transaction_finalizers_error_messages.htm)**  
+-   **[Transaction Finalizers Error Messages](atlas.en-us.apexcode.meta/apexcode/apex_transaction_finalizers_error_messages.htm)**
     Troubleshoot both semantic and run-time issues by analyzing these error messages.
 
 #### See Also
 
 -   [*Apex Reference Guide*: Queueable Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_Queueable.htm "Apex Reference Guide: Queueable Interface - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: QueueableContext Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_system_queueablecontext.htm "Apex Reference Guide: QueueableContext Interface - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public with sharing class AsyncExecutionExample implements Queueable {
+    public void execute(QueueableContext context) {
+        Account a = new Account(Name='Acme',Phone='(415) 555-1212');
+        insert as user a;        
+    }
+}
+```
+
+```apex
+ID jobID = System.enqueueJob(new AsyncExecutionExample());
+```
+
+```
+AsyncApexJob jobInfo = [SELECT Status,NumberOfErrors FROM AsyncApexJob WHERE Id = :jobID WITH USER_MODE];
+```
+
+```apex
+Integer delayInMinutes = 5;
+ID jobID = System.enqueueJob(new MyQueueableClass(), delayInMinutes);
+```
+
+```apex
+// Fibonacci
+public with sharing class FibonacciDepthQueueable implements Queueable {
+   
+    private long nMinus1, nMinus2;
+       
+    public static void calculateFibonacciTo(integer depth) {
+        AsyncOptions asyncOptions = new AsyncOptions();
+        asyncOptions.MaximumQueueableStackDepth = depth;
+        System.enqueueJob(new FibonacciDepthQueueable(null, null), asyncOptions);
+    }
+       
+    private FibonacciDepthQueueable(long nMinus1param, long nMinus2param) {
+        nMinus1 = nMinus1param;
+        nMinus2 = nMinus2param;
+    }
+   
+    public void execute(QueueableContext context) {
+       
+        integer depth = AsyncInfo.getCurrentQueueableStackDepth();
+       
+        // Calculate step
+        long fibonacciSequenceStep;
+        switch on (depth) {
+            when 1, 2 {
+                fibonacciSequenceStep = 1;
+            }
+            when else {
+                fibonacciSequenceStep = nMinus1 + nMinus2;
+            }
+        }
+       
+        System.debug('depth: ' + depth + ' fibonacciSequenceStep: ' + fibonacciSequenceStep);
+       
+        if(System.AsyncInfo.hasMaxStackDepth() &&
+           AsyncInfo.getCurrentQueueableStackDepth() >= 
+           AsyncInfo.getMaximumQueueableStackDepth()) {
+            // Reached maximum stack depth
+            Fibonacci__c result = new Fibonacci__c(
+                Depth__c = depth,
+                Result = fibonacciSequenceStep
+                );
+            insert as user result;
+        } else {
+            System.enqueueJob(new FibonacciDepthQueueable(fibonacciSequenceStep, nMinus1));
+        }
+    }
+}
+```
+
+## Related Topics
+
+- Lightning Platform Apex Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Detecting Duplicate Queueable Jobs (atlas.en-us.apexcode.meta/apexcode/apex_dedupe_queueable.htm)
+- Transaction Finalizers (atlas.en-us.apexcode.meta/apexcode/apex_transaction_finalizers.htm)
+- Transaction Finalizers Error Messages (atlas.en-us.apexcode.meta/apexcode/apex_transaction_finalizers_error_messages.htm)

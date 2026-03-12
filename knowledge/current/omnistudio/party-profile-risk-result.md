@@ -5,11 +5,14 @@ topic: party-profile-risk-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.717Z
-keywords: [Party, Profile, Risk, Result]
+lastCollected: 2026-03-12T05:14:50.550Z
+estimatedTokens: 470
+keywords: [Party, Profile, Risk, Result, Output, representation, party, profile, risk, result.]
 ---
 
 # Party Profile Risk Result
+
+> Output representation of the party profile risk result.
 
 # Party Profile Risk Result
 
@@ -33,3 +36,7 @@ Output representation of the party profile risk result.
 | riskOverridden​ById | String | ID of the user who overrode the risk assessment result of the party. | Small, 61.0 | 61.0 |
 | riskOverride​Reason | String | Reason for overriding the risk assessment result of the party. | Small, 61.0 | 61.0 |
 | type | String | Type of risk assessment. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

@@ -5,11 +5,14 @@ topic: service-process-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.539Z
-keywords: [Service, Process, Request]
+lastCollected: 2026-03-12T05:14:48.806Z
+estimatedTokens: 206
+keywords: [Service, Process, Request, Input, creating, updating, service, process.]
 ---
 
 # Service Process Request
+
+> Input for creating or updating a service process.
 
 # Service Process Request
 
@@ -29,3 +32,76 @@ Properties
 | caseInfo | Map<String, Generic Object> | Field name-value pairs for the Case object. | Optional | 57.0 |
 | documentInfo | Document Info Attributes[] | List of documents. | Optional | 57.0 |
 | svcCatalogItem​DefApiName | String | API Name of the related Service Catalog Item Definition. See SvcCatalogItemDef. | Required | 57.0 |
+
+## Code Examples
+
+```
+{
+  "attributes": {
+    "data": {
+      "IncidentDate": {
+        "value": "2023-03-10"
+      },
+      "ProductType": {
+        "value": "ATM / debit card"
+      },
+      "CaseParticipantInfo": {
+        "value": [
+          {
+            "Participant": "003xx000004WhGKAA0",
+            "Status": "Active",
+            "age_of_participant": 30
+          },
+          {
+            "Participant": "003xx000004WhGdAAK",
+            "Status": "Active",
+            "age_of_participant": 20
+          }
+        ]
+      },
+      "accountInfo": {
+        "value": [
+          {
+            "accountId": "001B000001UZDhOIAX",
+            "accountName": "Rachael Adams"
+          },
+          {
+            "accountId": "001B000001Ua331IAB",
+            "accountName": "Robert Williams"
+          }
+        ]
+      },
+      "case_status": {
+        "value": "Active"
+      },
+      "case_description": {
+        "value": "Sample test"
+      },
+      "base_field": {
+        "value": "Value on base field"
+      },
+      "cities": {
+        "value": [
+          "Delhi",
+          "Hyderabad"
+        ]
+      }
+    }
+  },
+  "documentInfo": {
+    "data": [
+      {
+        "id": "069xx0000004C92AAE",
+        "name": "Addhar",
+        "typeId": "2F0dexx0000000001"
+      }
+    ]
+  },
+  "svcCatalogItemDefApiName": "fsc_complaint_management"
+}
+```
+
+## Related Topics
+
+- Generic Object (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_generic_object.htm)
+- Document Info Attributes (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_service_process_doc_info_input.htm)

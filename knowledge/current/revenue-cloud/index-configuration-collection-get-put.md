@@ -5,11 +5,15 @@ topic: index-configuration-collection-get-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.312Z
-keywords: [Index, Configuration, Collection, GET, PUT]
+lastCollected: 2026-03-12T05:14:06.968Z
+estimatedTokens: 527
+keywords: [Index, Configuration, Collection, GET, PUT, Retrieve, saved, index, configurations., Additionally, persist, configuration.]
 ---
 
 # Index Configuration Collection (GET, PUT)
+
+> Retrieve the saved index configurations. Additionally, you can persist
+      the index configuration.
 
 # Index Configuration Collection (GET, PUT)
 
@@ -69,3 +73,57 @@ Properties
 Response body for PUT
 
 [Index Configurations Update](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_index_configurations_update_output.htm "Output representation of the updated index configuration.")
+
+## Code Examples
+
+```
+/connect/pcm/index/configurations
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/index/configurations
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/index/configurations?includeMetadata=false&fieldTypes=Standard,Custom
+```
+
+```
+{
+  "correlationId": "8545b5aa-f3e6-429a-8f21-9cc4ce50b1d7",
+  "indexConfigurations": [
+    {
+      "attributeDefinitionId": "0tjT1000000002bIAA",
+      "name": "Color",
+      "type": "ProductDynamicAttribute",
+      "isSearchable": true
+    },
+    {
+      "attributeFieldId": "00Nxx000001FwnABII",
+      "name": "Message__c",
+      "type": "Custom",
+      "isSearchable": true
+    },
+    {
+      "name": "Code",
+      "type": "Standard",
+      "isSearchable": true
+    },
+    {
+      "facetDisplayRank": 1,
+      "isFacetable": false,
+      "isSearchable": true,
+      "name": "Family",
+      "type": "Standard"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Index Configuration
+              Collection (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_index_configuration_collection_output.htm)
+- Index Configuration Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_index_configuration_input.htm)
+- Index Configurations
+              Update (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_index_configurations_update_output.htm)

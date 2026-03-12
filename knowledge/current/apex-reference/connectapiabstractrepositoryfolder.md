@@ -5,11 +5,14 @@ topic: connectapiabstractrepositoryfolder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.817Z
-keywords: [ConnectApi.AbstractRepositoryFolder]
+lastCollected: 2026-03-12T05:14:25.918Z
+estimatedTokens: 234
+keywords: [ConnectApi.AbstractRepositoryFolder, repository, folder.]
 ---
 
 # ConnectApi.AbstractRepositoryFolder
+
+> A repository folder.
 
 # ConnectApi.AbstractRepositoryFolder
 
@@ -29,3 +32,10 @@ Superclass of:
 | externalFolderUrl | String | URL of this folder in the external system. | 39.0 |
 | folderItemsUrl | String | URL that lists the files and folders in this folder. | 39.0 |
 | path | String | Absolute path of the folder in the external system. | 39.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractRepositoryItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_item.htm)
+- ConnectApi.RepositoryFolderDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_folder_detail.htm)
+- ConnectApi.RepositoryFolderSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_folder_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

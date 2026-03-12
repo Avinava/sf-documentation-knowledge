@@ -5,11 +5,14 @@ topic: connectapimentionvalidation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.260Z
-keywords: [ConnectApi.MentionValidation, See]
+lastCollected: 2026-03-12T05:14:27.956Z
+estimatedTokens: 262
+keywords: [ConnectApi.MentionValidation, Information, whether, proposed, mention, valid, context, user.]
 ---
 
 # ConnectApi.MentionValidation
+
+> Information about whether a proposed mention is valid for the context user.
 
 # ConnectApi.MentionValidation
 
@@ -23,3 +26,8 @@ Information about whether a proposed mention is valid for the context user.
 #### See Also
 
 -   [ConnectApi.MentionValidations](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mentionValidations.htm "Information about whether a set of mentions is valid for the context user.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.MentionValidations (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mentionValidations.htm)

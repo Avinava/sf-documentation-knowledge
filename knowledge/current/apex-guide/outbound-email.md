@@ -5,11 +5,14 @@ topic: outbound-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.139Z
-keywords: [Outbound, Email, Note, Example]
+lastCollected: 2026-03-12T05:14:33.392Z
+estimatedTokens: 1086
+keywords: [Outbound, Email, Apex, work, email, sent, Salesforce., Note, Example]
 ---
 
 # Outbound Email
+
+> Use Apex to work with email sent from Salesforce.
 
 # Outbound Email
 
@@ -94,4 +97,26 @@ For more information, see Organization-Wide Email Addresses in the Salesforce He
 
 ```
 
+```
+
+## Code Examples
+
+```
+Messaging.SingleEmailMessage mail = new Messaging.SingleEmailMessage();
+```
+
+```
+Messaging.MassEmailMessage mail = new Messaging.MassEmailMessage();
+```
+
+```
+Messaging.sendEmail(new Messaging.Email[] { mail } , opt_allOrNone);
+```
+
+```
+Messaging.reserveMassEmailCapacity(count);
+```
+
+```
+Messaging.reserveSingleEmailCapacity(count);
 ```

@@ -5,11 +5,15 @@ topic: recordtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.629Z
-keywords: [RecordType, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.618Z
+estimatedTokens: 552
+keywords: [RecordType, Represents, custom, record, type., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # RecordType
+
+> Represents a custom record
+        type.
 
 # RecordType
 

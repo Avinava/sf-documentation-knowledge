@@ -5,11 +5,14 @@ topic: connectapieinsteinllmgenerationitemoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.631Z
-keywords: [ConnectApi.​EinsteinLLM​GenerationItem​Output]
+lastCollected: 2026-03-12T05:14:27.107Z
+estimatedTokens: 177
+keywords: [ConnectApi.​EinsteinLLM​GenerationItem​Output, Generated, response, LLM, provider.]
 ---
 
 # ConnectApi.​EinsteinLLM​GenerationItem​Output
+
+> Generated response from the LLM provider.
 
 # ConnectApi.​EinsteinLLM​GenerationItem​Output
 
@@ -22,3 +25,9 @@ Generated response from the LLM provider.
 | responseId | String | ID of the generated response. | 60.0 |
 | safetyScore​Representation | ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output | Safety score information related to the generated response. | 60.0 |
 | text | String | Text of generated response. | 60.0 |
+
+## Related Topics
+
+- ConnectApi.​EinsteinLlm​Generations​Content​Quality (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_llm_generations_content_quality.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_llm_generations_safety_score.htm)

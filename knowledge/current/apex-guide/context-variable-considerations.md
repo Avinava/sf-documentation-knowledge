@@ -4,12 +4,15 @@ domain: apex-guide
 topic: context-variable-considerations
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.726Z
-keywords: [Context, Variable, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.168Z
+estimatedTokens: 640
+keywords: [Context, Variable, Considerations, following, table, lists, considerations, certain, actions, different, trigger, events]
 ---
 
 # Context Variable Considerations
+
+> The following table lists considerations about certain actions in different trigger events:
 
 # Context Variable Considerations
 
@@ -34,3 +37,8 @@ The following table lists considerations about certain actions in different trig
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm "Trigger Context Variables")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm "Common Bulk Trigger Idioms")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)

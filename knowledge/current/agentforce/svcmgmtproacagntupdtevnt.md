@@ -5,11 +5,18 @@ topic: svcmgmtproacagntupdtevnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.961Z
-keywords: [SvcMgmtProacAgntUpdtEvnt, Supported, Calls, Subscribers, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:15.521Z
+estimatedTokens: 460
+keywords: [SvcMgmtProacAgntUpdtEvnt, Represents, event, updated, details, response, proactive, agent, action, sends, displayed, record, page, user, refreshes, action., stores, such, source, which]
 ---
 
 # SvcMgmtProacAgntUpdtEvnt
+
+> Represents an event that gets the updated details from the response of a
+         proactive agent action and sends the updated details to be displayed on a record page when
+         the user refreshes the action. The event stores details such as the source record for which
+         the action is triggered, the message type for which detals are stored, and the status of
+         the response. This object is available in API version 65.0 and later.
 
 # SvcMgmtProacAgntUpdtEvnt
 

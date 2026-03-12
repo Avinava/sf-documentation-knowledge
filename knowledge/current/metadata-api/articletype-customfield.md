@@ -5,11 +5,15 @@ topic: articletype-customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.643Z
-keywords: [ArticleType, CustomField, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Custom, Fields, Standard, Objects, Version, Note, Sample, Definition, See]
+lastCollected: 2026-03-12T05:14:37.022Z
+estimatedTokens: 1349
+keywords: [ArticleType, CustomField, Represents, metadata, associated, article, custom, field., create, update, delete, field, definitions., Declarative, Metadata, File, Suffix, Directory, Location, Retrieving]
 ---
 
 # ArticleType CustomField
+
+> Represents the metadata associated with an article type custom field. Use this metadata
+    type to create, update, or delete article type custom field definitions.
 
 # ArticleType CustomField
 
@@ -77,5 +81,45 @@ If you create a knowledge validation rule, the errors always display at the top 
 #### See Also
 
 -   [ArticleType](atlas.en-us.api_meta.meta/api_meta/meta_articletype.htm "Represents the metadata associated with an article type.")
-    
+
 -   [ArticleType Layout](atlas.en-us.api_meta.meta/api_meta/meta_articletype_layout.htm "Represents the metadata associated with an article type page layout. Article type layouts determine which fields users can view and edit when entering data for an article. Article type layouts also determine which sections appear when users view articles.")
+
+## Code Examples
+
+```
+MyArticleType__kav.MyCustomField__c
+```
+
+```
+<types>
+    <members>MyCustomObject__c.MyCustomField__c</members>
+    <members>Account.MyCustomAccountField__c</members>
+    <members>MyArticleType__kav.MyOtherCustomField__c</members>
+    <name>CustomField</name>
+</types>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Comments__c</fullName>
+        <description>add your comments about this object here</description>
+        <label>Comments</label>
+        <length>32000</length>
+        <type>LongTextArea</type>
+        <visibleLines>30</visibleLines>
+    </fields>
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- ArticleType (atlas.en-us.api_meta.meta/api_meta/meta_articletype.htm)
+- Metadata Field Types (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Picklist (Including
+                  Dependent Picklist) (atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
+- ArticleType Layout (atlas.en-us.api_meta.meta/api_meta/meta_articletype_layout.htm)

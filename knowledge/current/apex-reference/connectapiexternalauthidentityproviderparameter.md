@@ -5,11 +5,14 @@ topic: connectapiexternalauthidentityproviderparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.727Z
-keywords: [ConnectApi.ExternalAuthIdentityProviderParameter, See]
+lastCollected: 2026-03-12T05:14:27.251Z
+estimatedTokens: 305
+keywords: [ConnectApi.ExternalAuthIdentityProviderParameter, External, auth, identity, provider, parameter.]
 ---
 
 # ConnectApi.ExternalAuthIdentityProviderParameter
+
+> External auth identity provider parameter.
 
 # ConnectApi.ExternalAuthIdentityProviderParameter
 
@@ -25,3 +28,10 @@ External auth identity provider parameter.
 #### See Also
 
 -   [ConnectApi.ExternalAuthIdentityProvider](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_auth_identity_provider.htm "External auth identity provider.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ExternalAuth​IdentityProvider​ParameterType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ExternalAuthIdentityProvider (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_auth_identity_provider.htm)

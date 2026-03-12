@@ -5,11 +5,15 @@ topic: shift
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.997Z
-keywords: [Shift, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.654Z
+estimatedTokens: 1317
+keywords: [Shift, Represents, shift, service, resource, scheduling., API, versions, 46.0, later., Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
 ---
 
 # Shift
+
+> Represents a shift for service resource scheduling. Available
+		in API versions 46.0 and later.
 
 # Shift
 

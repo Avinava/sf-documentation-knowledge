@@ -5,11 +5,14 @@ topic: connectapiproductsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.753Z
-keywords: [ConnectApi.ProductSummary, See]
+lastCollected: 2026-03-12T05:14:28.634Z
+estimatedTokens: 308
+keywords: [ConnectApi.ProductSummary, Product, summary.]
 ---
 
 # ConnectApi.ProductSummary
+
+> Product summary.
 
 # ConnectApi.ProductSummary
 
@@ -31,3 +34,16 @@ Product summary.
 #### See Also
 
 -   [ConnectApi.ProductSummaryPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary_collection.htm "Page of product summaries.")
+
+## Related Topics
+
+- ConnectApi.​ProductMedia (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​FieldValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_field_value.htm)
+- ConnectApi.​PricingResult​LineItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_pricing_result_line_item.htm)
+- ConnectApi.​ProductClass (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CommerceProduct​SellingModel (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_commerce_product_selling_model.htm)
+- ConnectApi.​PurchaseQuantity​Rule (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_purchase_quantity_rule.htm)
+- ConnectApi.​ProductAttribute​SetSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_summary.htm)
+- ConnectApi.ProductSummaryPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary_collection.htm)

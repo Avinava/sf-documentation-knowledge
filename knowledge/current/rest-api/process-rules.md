@@ -5,11 +5,16 @@ topic: process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.522Z
-keywords: [Process, Rules]
+lastCollected: 2026-03-12T05:14:35.804Z
+estimatedTokens: 558
+keywords: [Process, Rules, Accesses, list, active, workflow, rules., GET, retrieve, records, fields., HEAD, information, HTTP, headers., POST, trigger]
 ---
 
 # Process Rules
+
+> Accesses a list of all active workflow rules. Use the GET
+            method to retrieve records or fields. Use the HEAD method to retrieve information in
+            HTTP headers. Use the POST method to trigger all active workflow rules.
 
 # Process Rules
 
@@ -19,12 +24,22 @@ To access all workflow rules that are associated with a specific sObject, use th
 
 Cross-object workflow rules can’t be invoked using REST API.
 
--   **[Get Process Rules](atlas.en-us.api_rest.meta/api_rest/resources_process_rules_get.htm)**  
+-   **[Get Process Rules](atlas.en-us.api_rest.meta/api_rest/resources_process_rules_get.htm)**
     Gets all active workflow rules. This resource is available in REST API version 30.0 and later.
--   **[Trigger Process Rules](atlas.en-us.api_rest.meta/api_rest/resources_process_rules_post.htm)**  
+-   **[Trigger Process Rules](atlas.en-us.api_rest.meta/api_rest/resources_process_rules_post.htm)**
     Triggers all active workflow rules. All rules associated with the specified ID are evaluated, regardless of the evaluation criteria. All IDs must be for records on the same object. This resource is available in REST API version 30.0 and later.
--   **[Return HTTP Headers for Process Rules](atlas.en-us.api_rest.meta/api_rest/resources_process_rules_head.htm)**  
+-   **[Return HTTP Headers for Process Rules](atlas.en-us.api_rest.meta/api_rest/resources_process_rules_head.htm)**
     Returns only the headers that are returned by sending a GET request to the process rules resource. This gives you a chance to see returned header values of the GET request before retrieving the content. This resource is available in REST API version 30.0 and later.
 
 -   [← Previous](atlas.en-us.api_rest.meta/api_rest/resources_process_approvals.htm "Process Approvals")
 -   [Next →](atlas.en-us.api_rest.meta/api_rest/resources_process_rule_object.htm "Process Rule for an sObject")
+
+## Related Topics
+
+- Process Rule List for an sObject (atlas.en-us.api_rest.meta/api_rest/resources_process_rules_object.htm)
+- Process Rule for an sObject (atlas.en-us.api_rest.meta/api_rest/resources_process_rule_object.htm)
+- Get Process Rules (atlas.en-us.api_rest.meta/api_rest/resources_process_rules_get.htm)
+- Trigger Process Rules (atlas.en-us.api_rest.meta/api_rest/resources_process_rules_post.htm)
+- Return HTTP Headers for Process Rules (atlas.en-us.api_rest.meta/api_rest/resources_process_rules_head.htm)
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/resources_process_approvals.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/resources_process_rule_object.htm)

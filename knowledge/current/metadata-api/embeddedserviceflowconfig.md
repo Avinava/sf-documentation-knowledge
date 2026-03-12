@@ -5,11 +5,17 @@ topic: embeddedserviceflowconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.204Z
-keywords: [EmbeddedServiceFlowConfig, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.223Z
+estimatedTokens: 226
+keywords: [EmbeddedServiceFlowConfig, Represents, setup, node, creating, embedded, flow., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # EmbeddedServiceFlowConfig
+
+> Represents a setup node for creating an
+      embedded flow.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EmbeddedServiceFlowConfig
 
@@ -36,3 +42,16 @@ The following is an example of an EmbeddedServiceFlowConfig file.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceFlowConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enabled>true</enabled>
+</EmbeddedServiceFlowConfig>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

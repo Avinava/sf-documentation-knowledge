@@ -5,11 +5,16 @@ topic: do-while-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.152Z
-keywords: [Do-While, Loops, Note]
+lastCollected: 2026-03-12T05:14:34.816Z
+estimatedTokens: 171
+keywords: [Do-While, Loops, Curly, braces, always, required, around, code_block., Note]
 ---
 
 # Do-While Loops
+
+> Curly braces ({}) are
+            always required around a 
+                code_block.
 
 # Do-While Loops
 
@@ -34,3 +39,24 @@ As an example, the following code outputs the numbers 1 - 10 into the debug log:
 ```
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/langCon_apex_loops_while.htm "While Loops")
+
+## Code Examples
+
+```
+do {
+   code_block
+} while (condition);
+```
+
+```apex
+Integer count = 1;
+
+do {
+    System.debug(count);
+    count++;
+} while (count < 11);
+```
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_loops_while.htm)

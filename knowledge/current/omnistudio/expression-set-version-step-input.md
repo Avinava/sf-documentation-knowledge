@@ -5,11 +5,15 @@ topic: expression-set-version-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.293Z
-keywords: [Expression, Set, Version, Step, Input]
+lastCollected: 2026-03-12T05:14:48.418Z
+estimatedTokens: 1150
+keywords: [Expression, Set, Version, Step, Input, representation, step, expression, set, version.]
 ---
 
 # Expression Set Version Step Input
+
+> Input representation of a step in an expression set
+    version.
 
 # Expression Set Version Step Input
 
@@ -52,3 +56,63 @@ Properties
 | shouldShow​Expl​Externally | Boolean | Indicates whether the decision explanation is exposed to community users for the step (true) or not (false). | Optional | 58.0 |
 | step​Type | String | Step type of the expression set.Valid values are:Advanced​ConditionAdvanced​ListFilter—Available in version 59.0 and later.BranchBusiness​Knowledge​ModelConditionDefaultPathListFilter—Available in version 59.0 and later.ListGroup—Available in version 59.0 and later.SubExpression | Required | 58.0 |
 | sub​Expression | Expression Set Sub Expression Step Input | Details of the subexpression if the step is a subexpression step. | Optional | 58.0 |
+
+## Code Examples
+
+```
+"steps": [
+            {
+              "actionType": null,
+              "advancedCondition": null,
+              "aggregation": null,
+              "assignment": null,
+              "conditionExpression": {
+                "expression": "productName == 'iPhone' && City == 'Los Angeles'",
+                "resultParameter": "condition_output__1"
+              },
+              "customElement": null,
+              "lookupTable": null,
+              "description": "Condition step for conditions w.r.t product",
+              "failedExplainerTemplate": "FailureTemplate",
+              "failedMessageTokenMappings": [
+              {
+              "expressionSetMessageToken": "model",
+              "resourceReference": "Model"
+              }],
+              "name": "Condition1",
+              "noResultExplainerTemplate": "NoResultTemplate",
+              "noResultMessageTokenMappings": [
+              {
+              "expressionSetMessageToken": "year",
+              "resourceReference": "Year"
+              }],
+              "parentStep": null,
+              "passedExplainerTemplate": "SuccessTemplate",
+              "passedMessageTokenMappings": [
+              {
+              "expressionSetMessageToken": "price",
+              "resourceReference": "DM1__Price"
+              }],
+              "resultIncluded": true,
+              "sequenceNumber": 1,
+              "shouldExposeExecPathMsgOnly": false,
+              "shouldExposeConditionDetails": false,
+              "shouldShowExplExternally": false,
+              "stepType": "Condition",
+              "subExpression": null
+            }
+          ]
+```
+
+## Related Topics
+
+- Expression Set Advanced Condition Step
+                      Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_advanced_condition_step.htm)
+- Expression Set Aggregation Step Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_aggregation_step.htm)
+- Expression Set Assignment Step Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_assignment_step.htm)
+- Expression Set Condition Expression Step
+                      Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_condition_expression_step.htm)
+- Expression Set Custom Element Step Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_custom_element_step.htm)
+- Expression Set DES Token Mapping (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_des_token_mapping.htm)
+- Expression Set Lookup Table Step Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_lookup_table_step.htm)
+- Expression Set Sub Expression Step Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_sub_expression_step.htm)

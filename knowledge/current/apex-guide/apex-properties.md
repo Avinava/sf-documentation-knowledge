@@ -5,11 +5,17 @@ topic: apex-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.634Z
-keywords: [Apex, Properties, Automatic, Static, Access, Modifiers, Property, Accessors]
+lastCollected: 2026-03-12T05:14:32.682Z
+estimatedTokens: 1286
+keywords: [Apex, similar, variable, however, additional, things, code, before, it’s, accessed, returned., used, validate, data, change, made, prompt, action, Automatic, Access]
 ---
 
 # Apex Properties
+
+> An Apex property is similar to a variable;
+                however, you can do additional things in your code to a property value before it’s
+                accessed or returned. Properties can be used to validate data before a change is
+                made, to prompt an action when data is change
 
 # Apex Properties
 
@@ -98,3 +104,59 @@ Property accessors can be defined with their own access modifiers. If an accesso
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm "Static and Instance Methods, Variables, and Initialization Code")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_extending.htm "Extending a Class")
+
+## Code Examples
+
+```
+Public class BasicClass {
+
+   // Property declaration
+   access_modifier return_type property_name {
+      get {
+         //Get accessor code block
+      }
+      set {
+         //Set accessor code block
+      }
+   } 
+}
+```
+
+```apex
+public class BasicProperty {
+   public integer prop {
+      get { return prop; }
+      set { prop = value; }
+   }
+}
+```
+
+```apex
+BasicProperty bp = new BasicProperty();
+bp.prop = 5;                   // Calls set accessor
+System.assertEquals(5, bp.prop);   // Calls get accessor
+```
+
+```apex
+public class AutomaticProperty {
+   public integer MyReadOnlyProp { get; }
+   public double MyReadWriteProp { get; set; }
+   public string MyWriteOnlyProp { set; }
+}
+```
+
+```apex
+AutomaticProperty ap = new AutomaticProperty();
+ap.MyReadOnlyProp = 5;                 // This produces a compile error: not writable
+ap.MyReadWriteProp = 5;                // No error
+System.assertEquals(5, ap.MyWriteOnlyProp);   // This produces a compile error: not readable
+```
+
+## Related Topics
+
+- Access
+               Modifiers (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- Data Types (atlas.en-us.apexcode.meta/apexcode/langCon_apex_data_types.htm)
+- interface (atlas.en-us.apexcode.meta/apexcode/apex_classes_interfaces.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_extending.htm)

@@ -5,11 +5,16 @@ topic: productclassification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.679Z
-keywords: [ProductClassification, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:11.077Z
+estimatedTokens: 816
+keywords: [ProductClassification, Represents, template, holds, collection, dynamic, attributes., Product, classification, used, quickly, define, create, multiple, products, similar, yet, different., API, version]
 ---
 
 # ProductClassification
+
+> Represents a template that holds a collection of dynamic attributes. Product
+         classification is used to quickly define and create multiple products that are similar yet
+         different. This object is available in API version 60.0 and later.
 
 # ProductClassification
 
@@ -51,3 +56,9 @@ Sharing rules are available for the object.
 [ProductClassificationShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ProductClassificationFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- ProductClassificationHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- ProductClassificationShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

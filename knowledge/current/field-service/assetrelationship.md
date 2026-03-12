@@ -5,11 +5,17 @@ topic: assetrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.509Z
-keywords: [AssetRelationship, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.937Z
+estimatedTokens: 1782
+keywords: [AssetRelationship, Represents, non-hierarchical, relationship, between, assets, due, asset, modification, example, replacement, upgrade, circumstance., Revenue, Lifecycle, Management, represents, grouped, bundle, set.]
 ---
 
 # AssetRelationship
+
+> Represents a non-hierarchical relationship between assets due to an
+			asset modification; for example, a replacement, upgrade, or other circumstance. In
+			Revenue Lifecycle Management, this object represents an asset or assets grouped in a
+			bundle or set. This object is available in API version 41.0 and later.
 
 # AssetRelationship
 

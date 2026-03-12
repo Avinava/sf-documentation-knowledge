@@ -5,11 +5,14 @@ topic: connectapisearchstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.051Z
-keywords: [ConnectApi.SearchStatus, See]
+lastCollected: 2026-03-12T05:14:29.060Z
+estimatedTokens: 175
+keywords: [ConnectApi.SearchStatus, Provides, status, search.]
 ---
 
 # ConnectApi.SearchStatus
+
+> Provides status on the object search.
 
 # ConnectApi.SearchStatus
 
@@ -23,7 +26,14 @@ Provides status on the object search.
 #### See Also
 
 -   [ConnectApi.QueryInfo](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_query_inf.htm "Query execution information.")
-    
+
 -   [ConnectApi.ObjectQueryInfo](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_query_inf.htm "Search query metadata related to the object.")
-    
+
 -   [ConnectApi.SearchObject](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm "Record results for the keyword search.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.QueryInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_query_inf.htm)
+- ConnectApi.ObjectQueryInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_query_inf.htm)
+- ConnectApi.SearchObject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm)

@@ -4,12 +4,17 @@ domain: apex-guide
 topic: apex-scheduler
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.566Z
-keywords: [Apex, Scheduler, Important, Implementing, Schedulable, Interface, Tip, Tracking, Progress, Scheduled, Job, Queries, Testing, System.schedule, Method, Note, System.scheduleBatch, Batch, Jobs, Limits]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.969Z
+estimatedTokens: 4298
+keywords: [Apex, Scheduler, delay, execution, run, classes, specified, time., ideal, daily, weekly, maintenance, tasks, Batch, Apex., Important, Implementing, Schedulable, Tip, Tracking]
 ---
 
 # Apex Scheduler
+
+> Use the Apex Scheduler to delay execution so that you can run Apex classes at a
+        specified time. This is ideal for daily or weekly maintenance tasks using Batch
+        Apex.
 
 # Apex Scheduler
 
@@ -203,7 +208,7 @@ You can call the System.scheduleBatch method to schedule a batch job to run one 
 ## Apex Scheduler Limits
 
 -   You can only have 100 scheduled Apex jobs at one time. You can evaluate your current count by viewing the Scheduled Jobs page in Salesforce and creating a custom view with a type filter equal to “Scheduled Apex”. You can also programmatically query the CronTrigger and CronJobDetail objects to get the count of Apex scheduled jobs.
-    
+
 -   The maximum number of scheduled Apex executions per a 24-hour period is 250,000 or the number of user licenses in your organization multiplied by 200, whichever is greater. This limit is for your entire org and is shared with all asynchronous Apex: Batch Apex, Queueable Apex, scheduled Apex, and future methods. To check how many asynchronous Apex executions are available, make a request to REST API limits resource. See [List Organization Limits](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/dome_limits.htm "HTML (New Window)") in the REST API Developer Guide. If the number of asynchronous Apex executions needed by a job exceeds the available number that’s calculated using the 24-hour rolling limit, an exception is thrown. For example, if your async job requires 10,000 method executions and the available 24-hour rolling limit is 9,500, you get AsyncApexExecutions Limit exceeded exception. The license types that count toward this limit include full Salesforce and Salesforce Platform user licenses, App Subscription user licenses, Chatter Only users, Identity users, and Company Communities users.
 
 ## Apex Scheduler Notes and Best Practices
@@ -215,12 +220,54 @@ You can call the System.scheduleBatch method to schedule a batch job to run one 
 -   Apex jobs scheduled to run during a Salesforce service maintenance downtime will be scheduled to run after the service comes back up, when system resources become available. If a scheduled Apex job was running when downtime occurred, the job is rolled back and scheduled again after the service comes back up. After major service upgrades, there can be longer delays than usual for starting scheduled Apex jobs because of system usage spikes.
 -   When you refresh a sandbox, scheduled jobs from the source org aren't copied. You must reschedule any jobs that you need in the refreshed sandbox.
 -   Scheduled job objects, along with their member variables and properties, persist from initialization to subsequent scheduled runs. The object state at the time of invocation of System.schedule() persists in subsequent job executions.
-    
+
     With Batch Apex, it’s possible to force a new serialized state for new jobs by usingDatabase.Stateful. With Scheduled Apex, use the transient keyword so that member variables and properties aren’t persisted. See [Using the transient Keyword](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm)..
-    
+
 -   If you attempt to deploy changes to a class or its dependent code when the class is scheduled for execution, you see the error This schedulable class has jobs pending or in progress - CronTrigger IDs (ids). You can also see the message You can bypass this error by allowing deployments with Apex jobs in the Deployment Settings page in Setup. If you enable this setting, be aware that the job can fail. Instead, we recommend that you first delete the scheduled job, and then deploy your changes. After deployment, create a new scheduled job with the updated class.
 -   If you resume a paused scheduled job, the job immediately runs one time. Subsequent executions of the job run according to the established schedule. Any scheduled executions that were missed while the job was paused don’t run.
 
 #### See Also
 
 -   [*Apex Reference Guide*: Schedulable Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_system_schedulable.htm "Apex Reference Guide: Schedulable Interface - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public void execute(SchedulableContext sc){}
+```
+
+```apex
+public with sharing class ScheduledMerge implements Schedulable {
+   public void execute(SchedulableContext SC) {
+      MergeNumbers M = new MergeNumbers(); 
+   }
+}
+```
+
+```apex
+ScheduledMerge m = new ScheduledMerge();
+String sch = '20 30 8 10 2 ?';
+String jobID = System.schedule('Merge Job', sch, m);
+```
+
+```apex
+public with sharing class ScheduledBatchable implements Schedulable {
+   global void execute(SchedulableContext sc) {
+      Batchable b = new Batchable(); 
+      Database.executeBatch(b);
+   }
+}
+```
+
+```
+CronTrigger ct = 
+    [SELECT TimesTriggered, NextFireTime
+    FROM CronTrigger WHERE Id = :jobID WITH USER_MODE];
+```
+
+## Related Topics
+
+- Using the System.scheduleBatch Method (atlas.en-us.apexcode.meta/apexcode/apex_batch_interface.htm)
+- Queueable Apex (atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm)
+- Using Batch Apex (atlas.en-us.apexcode.meta/apexcode/apex_batch_interface.htm)
+- Using the transient Keyword (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm)

@@ -5,11 +5,15 @@ topic: getselectednavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.047Z
-keywords: [getSelectedNavigationTab, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.496Z
+estimatedTokens: 238
+keywords: [getSelectedNavigationTab, selected, navigation, tab., only, API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # getSelectedNavigationTab()
+
+> Returns the selected object in the navigation
+            tab. This method is only available in API version 31.0 or later.
 
 # getSelectedNavigationTab()
 
@@ -44,3 +48,26 @@ This method is asynchronous so it returns its response in an object in a callbac
 | label | object | The label of the selected object. |
 | selected | boolean | true if returning the selected field of the object was successful, false otherwise. |
 | success | boolean | true if returning the object IDs was successful, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.getSelectedNavigationTab((optional)callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var callback = function (result) {}
+            if (result.success) {
+               alert('the navigation tab id is ' + result.navigationTabId + ' and navigation url is ' + result.listViewUrl);
+                           } else {
+               alert('something is wrong!');
+            }
+        };
+        sforce.console.getSelectedNavigationTab(callback);
+    </script>
+</apex:page>
+```

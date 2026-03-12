@@ -5,11 +5,17 @@ topic: platform-cache-partitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.360Z
-keywords: [Platform, Cache, Partitions, Packaging, Note, See]
+lastCollected: 2026-03-12T05:14:32.304Z
+estimatedTokens: 1051
+keywords: [Platform, Cache, Partitions, partitions, improve, performance, applications., allow, distribute, cache, space, way, works, best, Caching, data, designated, ensures, it’s, overwritten]
 ---
 
 # Platform Cache Partitions
+
+> Use Platform Cache partitions to improve the performance of your applications.
+    Partitions allow you to distribute cache space in the way that works best for your applications.
+    Caching data to designated partitions ensures that it’s not overwritten by other applications or
+    less-critical data.
 
 # Platform Cache Partitions
 
@@ -50,9 +56,9 @@ If platform cache code is intended for a package, don’t use the default partit
 #### See Also
 
 -   [*Apex Reference Guide*: Partition Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_Partition.htm "Apex Reference Guide: Partition Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: OrgPartition Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_OrgPartition.htm "Apex Reference Guide: OrgPartition Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: SessionPartition Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_SessionPartition.htm "Apex Reference Guide: SessionPartition Class - HTML (New Window)")
-    
+
 -   [Metadata API Developer’s Guide: Platform Cache Partition Type](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_platformcachepartition.htm "Metadata API Developer’s Guide: Platform Cache Partition Type - HTML (New Window)")

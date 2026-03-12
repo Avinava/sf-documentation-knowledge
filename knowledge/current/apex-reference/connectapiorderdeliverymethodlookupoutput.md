@@ -5,11 +5,14 @@ topic: connectapiorderdeliverymethodlookupoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.458Z
-keywords: [ConnectApi.OrderDeliveryMethodLookupOutput]
+lastCollected: 2026-03-12T05:14:28.212Z
+estimatedTokens: 83
+keywords: [ConnectApi.OrderDeliveryMethodLookupOutput, Order, delivery, lookup, output.]
 ---
 
 # ConnectApi.OrderDeliveryMethodLookupOutput
+
+> Order delivery method lookup output.
 
 # ConnectApi.OrderDeliveryMethodLookupOutput
 
@@ -19,3 +22,9 @@ Order delivery method lookup output.
 | --- | --- | --- | --- |
 | fields | Map<String, ConnectApi.RecordField> | Map of requested order delivery method fields. | 58.0 |
 | id | String | ID of the order delivery method. | 58.0 |
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordField.htm)

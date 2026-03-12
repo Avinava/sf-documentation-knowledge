@@ -5,11 +5,15 @@ topic: managedtopics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.444Z
-keywords: [ManagedTopics, Note, File, Suffix, Directory, Location, Version, Fields, ManagedTopic, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.041Z
+estimatedTokens: 792
+keywords: [ManagedTopics, Represents, navigational, featured, topics, managed, Experience, Cloud, site., Note, File, Suffix, Directory, Location, Version, Fields, ManagedTopic, Declarative, Metadata, Sample]
 ---
 
 # ManagedTopics
+
+> Represents navigational and featured topics managed in
+            an Experience Cloud site.
 
 # ManagedTopics
 
@@ -72,3 +76,79 @@ Managed topic images that are uploaded in API version 50.0 and later are stored 
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ManagedTopics</name>
+    </types>
+    <version>32.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SiteName</members>
+        <name>ManagedTopics</name>
+    </types>
+    <version>32.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedTopics>
+    <ManagedTopic>
+        <name>Running</name>
+        <managedTopicType>Navigational</managedTopicType>
+        <topicDescription>Training advice</topicDescription>
+        <parentName></parentName>
+        <position>0</position>
+    </ManagedTopic>
+    <ManagedTopic>
+        <name>Hiking</name>
+        <managedTopicType>Navigational</managedTopicType>
+        <topicDescription>Routes and gear</topicDescription>
+        <parentName></parentName>
+        <position>1</position>
+    </ManagedTopic>
+        <ManagedTopic>
+            <name>Trails</name>
+            <managedTopicType>Navigational</managedTopicType>
+            <topicDescription>Maps for local favorites</topicDescription>
+            <parentName>Hiking</parentName>
+            <position>0</position>
+        </ManagedTopic>
+        <ManagedTopic>
+            <name>Backpacks</name>
+            <managedTopicType>Navigational</managedTopicType>
+            <topicDescription>Recommended models</topicDescription>
+            <parentName>Hiking</parentName>
+            <position>1</position>
+        </ManagedTopic>
+    <ManagedTopic>
+        <name>Footwear</name>
+        <managedTopicType>Featured</managedTopicType>
+        <topicDescription>Suggested types for each sport</topicDescription>
+        <parentName></parentName>
+        <position>0</position>
+    </ManagedTopic>
+    <ManagedTopic>
+        <name>Conditioning</name>
+        <managedTopicType>Featured</managedTopicType>
+        <topicDescription>How to get fit for any activity</topicDescription>
+        <parentName></parentName>
+        <position>1</position>
+    </ManagedTopic>
+</ManagedTopics>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

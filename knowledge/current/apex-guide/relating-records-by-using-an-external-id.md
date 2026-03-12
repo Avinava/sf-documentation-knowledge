@@ -5,11 +5,17 @@ topic: relating-records-by-using-an-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.098Z
-keywords: [Relating, Records, External, Important]
+lastCollected: 2026-03-12T05:14:34.731Z
+estimatedTokens: 408
+keywords: [Relating, Records, External, Add, related, records, custom, external, field, parent, record., Associating, through, alternative, record, ID., add, another, only, relationship]
 ---
 
 # Relating Records by Using an External ID
+
+> Add related records by using a custom external ID field on the parent record.
+  Associating records through the external ID field is an alternative to using the record ID. You
+  can add a related record to another record only if a relationship (such as master-detail or
+  lookup) has been defined for the objects involved.
 
 # Relating Records by Using an External ID
 
@@ -33,3 +39,29 @@ Before the new opportunity is inserted, the account record is added to this oppo
 ```
 
 The previous example performs an insert operation, but you can also relate sObjects through external ID fields when performing updates or upserts. If the parent record doesn’t exist, you can create it with a separate DML statement or by using the same DML statement as shown in [Creating Parent and Child Records in a Single Statement Using Foreign Keys](atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_foreign_keys.htm).
+
+## Code Examples
+
+```apex
+Opportunity newOpportunity = new Opportunity(
+    Name='OpportunityWithAccountInsert',
+    StageName='Prospecting',
+    CloseDate=Date.today().addDays(7));
+
+// Create the parent record reference.
+// An account with external ID = 'SAP111111' already exists.
+// This sObject is used only for foreign key reference
+// and doesn't contain any other fields.
+Account accountReference = new Account(
+    MyExtID__c='SAP111111');                
+
+// Add the account sObject to the opportunity.
+newOpportunity.Account = accountReference;
+
+// Create the opportunity.
+Database.SaveResult results = Database.insert(newOpportunity);
+```
+
+## Related Topics
+
+- Creating Parent and Child Records in a Single Statement Using Foreign Keys (atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_foreign_keys.htm)

@@ -5,11 +5,14 @@ topic: post-a-feed-element-with-a-new-file-binary-attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.889Z
-keywords: [Post, Feed, Element, New, File, Binary, Attachment, Important]
+lastCollected: 2026-03-12T05:14:34.415Z
+estimatedTokens: 187
+keywords: [Post, Feed, Element, New, File, Binary, Attachment, Call, post, feed, element, new, file., Important]
 ---
 
 # Post a Feed Element with a New File (Binary) Attachment
+
+> Call a method to post a feed element with a new file.
 
 # Post a Feed Element with a New File (Binary) Attachment
 
@@ -25,4 +28,25 @@ This example calls [postFeedElement(communityId, feedElement, feedElementFileUpl
 
 ```
 
+```
+
+## Code Examples
+
+```
+ConnectApi.FeedItemInput input = new ConnectApi.FeedItemInput();
+input.subjectId = 'me';
+
+ConnectApi.ContentCapabilityInput contentInput = new ConnectApi.ContentCapabilityInput();
+contentInput.title = 'Title';
+
+ConnectApi.FeedElementCapabilitiesInput capabilities = new ConnectApi.FeedElementCapabilitiesInput();
+capabilities.content = contentInput;
+
+input.capabilities = capabilities;
+
+String text = 'These are the contents of the new file.';
+Blob myBlob = Blob.valueOf(text);
+ConnectApi.BinaryInput binInput = new ConnectApi.BinaryInput(myBlob, 'text/plain', 'fileName');
+
+ConnectApi.ChatterFeeds.postFeedElement(Network.getNetworkId(), input, binInput);
 ```

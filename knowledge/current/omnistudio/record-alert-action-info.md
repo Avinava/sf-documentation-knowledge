@@ -5,11 +5,15 @@ topic: record-alert-action-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:09.777Z
-keywords: [Record, Alert, Action, Info]
+lastCollected: 2026-03-12T05:14:50.654Z
+estimatedTokens: 114
+keywords: [Record, Alert, Action, Info, Output, representation, information, record, alert, action.]
 ---
 
 # Record Alert Action Info
+
+> Output representation of the information of the record alert
+      action.
 
 # Record Alert Action Info
 

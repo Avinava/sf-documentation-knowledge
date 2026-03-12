@@ -5,11 +5,20 @@ topic: csptrustedsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.485Z
-keywords: [CspTrustedSite, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.970Z
+estimatedTokens: 1519
+keywords: [CspTrustedSite, Represents, trusted, URL., specify, Content, Security, Policy, CSP, directives, permissions, policy, directives., directive, allows, Lightning, components, third-party, APIs, WebSocket]
 ---
 
 # CspTrustedSite
+
+> Represents a trusted URL. For each CspTrustedSite, you can
+        specify Content Security Policy (CSP) directives and permissions policy directives. Each CSP
+        directive allows Lightning components, third-party APIs, and WebSocket connections to access
+        a resource type from the trusted URL. If the Permissions-Policy HTTP header is enabled, each
+        permissions policy directive grants the trusted URL access to a browser feature. In API
+        version 58.0 and earlier, CspTrustedSite included only CSP directives and was referred to as
+        CSP Trusted Sites in Salesforce Setup. Available in API version 39.0 and later.
 
 # CspTrustedSite
 
@@ -54,3 +63,8 @@ For each CSPTrustedSite, at least one field starting with grantAccess or isAppli
 In API versions 50.0 to 58.0, if all isApplicable fields are false, the isApplicableToImgSrc field is set to true. In API version 49.0 and earlier, if all isApplicable fields are false, those fields all default to true.
 
 To ensure smooth integration across Salesforce products, Salesforce includes URLs in each of the CSP directives that correspond to the isApplicable fields, even though those URLs aren’t defined as CspTrustedSite components. Salesforce regularly updates those URLs based on the latest requirements.
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

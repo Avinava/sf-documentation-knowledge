@@ -5,11 +5,16 @@ topic: cnfgitemattrsetattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:17.977Z
-keywords: [CnfgItemAttrSetAttr, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.549Z
+estimatedTokens: 591
+keywords: [CnfgItemAttrSetAttr, Specifies, attribute, set, which, belongs., example, Stakeholders, definition, contains, owner., API, version, 65.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # CnfgItemAttrSetAttr
+
+> Specifies the attribute set to which an attribute belongs. For example,
+         Stakeholders attribute set definition contains the attribute owner. This object is
+      available in API version 65.0 and later.
 
 # CnfgItemAttrSetAttr
 

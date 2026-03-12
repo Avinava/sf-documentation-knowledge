@@ -5,11 +5,16 @@ topic: return-headers-for-all-global-publisher-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.668Z
-keywords: [Return, Headers, Global, Publisher, Layouts, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.005Z
+estimatedTokens: 117
+keywords: [Headers, Publisher, Layouts, only, headers, returned, GET, request, sObject, resources., gives, chance, header, values, ahead, time, before, retrieving, content, resource.]
 ---
 
 # Return Headers for All Global Publisher Layouts
+
+> Returns only the headers that are returned by a GET request to sObject Layouts
+		resources. This gives you a chance to see header values ahead of time before retrieving the
+		content of the resource.
 
 # Return Headers for All Global Publisher Layouts
 
@@ -43,4 +48,10 @@ Example Request
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl -X HEAD https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Global/describe/layouts/ -H "Authorization: Bearer token"
 ```

@@ -5,11 +5,15 @@ topic: identitytype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.350Z
-keywords: [IdentityType, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.448Z
+estimatedTokens: 325
+keywords: [IdentityType, Determines, which, set, credentials, used, authenticate, external, system., Usage, Values]
 ---
 
 # IdentityType Enum
+
+> Determines which set of credentials is used to authenticate to the external
+    system.
 
 # IdentityType Enum
 
@@ -28,3 +32,7 @@ The following are the values of the DataSource.IdentityType enum.
 | ANONYMOUS | No credentials are used to authenticate to the external system. |
 | NAMED_USER | The credentials in the external data source definition are used to authenticate to the external system, regardless of which user is accessing the external data from your organization. |
 | PER_USER | For queries and searches, the credentials are specific to the current user who invokes the query or search. The credentials come from the user’s authentication settings for the external system.For administrative connections, such as syncing the external system’s schema, the credentials come from the external data source definition. |
+
+## Related Topics
+
+- DataSource.Connection (atlas.en-us.apexref.meta/apexref/apex_class_DataSource_Connection.htm)

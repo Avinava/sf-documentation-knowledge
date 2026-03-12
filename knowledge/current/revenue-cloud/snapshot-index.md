@@ -5,11 +5,14 @@ topic: snapshot-index
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.529Z
-keywords: [Snapshot, Index]
+lastCollected: 2026-03-12T05:14:08.532Z
+estimatedTokens: 362
+keywords: [Snapshot, Index, Output, representation, snapshot, index, run-time, catalog.]
 ---
 
 # Snapshot Index
+
+> Output representation of the snapshot index of a run-time catalog.
 
 # Snapshot Index
 
@@ -33,3 +36,71 @@ JSON example
 | lastBuild​Status | String | Last build status of the snapshot index. Valid values are:IN_PROGRESS—Snapshot index build is in progress.FAILED—Snapshot index build failed.COMPLETED—Snapshot index build completed successfully. | Small, 62.0 | 62.0 |
 | numberOf​Records | Integer | Number of indexed records. | Small, 62.0 | 62.0 |
 | venueId | String | Venue ID of the snapshot index. | Small, 63.0 | 63.0 |
+
+## Code Examples
+
+```
+"snapshotIndexes": [
+        {
+          "createdDate": "2024-11-06T06:56:49.000Z",
+          "id": "1D6xx0000004C92CAE",
+          "indexBuildType": "FULL",
+          "indexInfos": [
+            {
+              "buildType": "FULL",
+              "id": "0axxx00000000T3AAI",
+              "isIncrementable": true,
+              "usageType": "LIVE"
+            }
+          ],
+          "indexLogs": [
+            {
+              "catalogSnapshotTime": "2024-11-06T16:14:30.000Z",
+              "completionTime": "2024-11-06T16:16:02.000Z",
+              "createdById": "005xx000001X7x7AAC",
+              "indexBuildStatus": "COMPLETED",
+              "indexBuildType": "FULL",
+              "indexId": "0axxx00000000T3AAI",
+              "numberOfChanges": 7
+            },
+            {
+              "catalogSnapshotTime": "2024-11-06T15:03:32.000Z",
+              "completionTime": "2024-11-06T15:05:02.000Z",
+              "createdById": "005xx000001X7x7AAC",
+              "indexBuildStatus": "COMPLETED_WITH_ERRORS",
+              "indexBuildType": "INCREMENTAL",
+              "indexId": "0axxx00000000RRAAY",
+              "message": "Warning: Product errors found.",
+              "numberOfChanges": 3
+            },
+            {
+              "catalogSnapshotTime": "2024-11-06T12:35:34.000Z",
+              "completionTime": "2024-11-06T12:35:34.000Z",
+              "createdById": "005xx000001X7x7AAC",
+              "indexBuildStatus": "COMPLETED",
+              "indexBuildType": "INCREMENTAL",
+              "indexId": "0axxx00000000RRAAY",
+              "message": "There are no changes for the partial update.",
+              "numberOfChanges": 0
+            },
+            {
+              "catalogSnapshotTime": "2024-11-06T12:07:32.000Z",
+              "completionTime": "2024-11-06T12:09:02.000Z",
+              "createdById": "005xx000001X7x7AAC",
+              "indexBuildStatus": "COMPLETED_WITH_ERRORS",
+              "indexBuildType": "FULL",
+              "message": "Warning: Product errors found.",
+              "numberOfChanges": 1
+            }
+          ],
+          "indexType": "PRODUCT",
+          "lastBuildStatus": "IN_PROGRESS",
+          "venueId": "1D6xx0000004C92CAE"
+        }
+      ]
+```
+
+## Related Topics
+
+- Index Info (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_snapshot_index_info_output.htm)
+- Index Logs (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_snapshot_index_log_output.htm)

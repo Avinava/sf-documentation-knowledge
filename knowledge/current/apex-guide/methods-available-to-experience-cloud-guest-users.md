@@ -5,11 +5,16 @@ topic: methods-available-to-experience-cloud-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.764Z
-keywords: [Methods, Available, Experience, Cloud, Guest, Users, Important, See]
+lastCollected: 2026-03-12T05:14:32.876Z
+estimatedTokens: 6942
+keywords: [Experience, Cloud, Guest, Users, site, allows, access, without, logging, guest, users, many, Apex, methods., information, user, to., Important]
 ---
 
 # Methods Available to Experience Cloud Guest Users
+
+> If your Experience Cloud site allows access without logging in, guest users have access
+        to many Apex methods. These methods return information the guest user has access
+        to.
 
 # Methods Available to Experience Cloud Guest Users
 
@@ -156,13 +161,13 @@ If an overload of a method listed here indicates that Chatter is required, you m
     -   [getTargets()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_Personalization_static_methods.htm#apex_ConnectAPI_Personalization_getTargets_1)
 -   Recommendations methods:
     -   [getRecommendationsForUser()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm#apex_ConnectAPI_Recommendations_getRecommendationsForUser_1a)
-        
+
         ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-        
+
         #### Note
-        
+
         Only article and file recommendations are available to guest users.
-        
+
 -   RecordUi methods.
     -   [getPicklistValuesByRecordType()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_RecordUi_static_methods.htm#apex_ConnectAPI_RecordUi_getPicklistValuesByRecordType_1)
 -   Search methods.

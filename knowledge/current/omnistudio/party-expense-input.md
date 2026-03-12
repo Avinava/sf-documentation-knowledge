@@ -5,11 +5,14 @@ topic: party-expense-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.379Z
-keywords: [Party, Expense, Input]
+lastCollected: 2026-03-12T05:14:48.579Z
+estimatedTokens: 345
+keywords: [Party, Expense, Input, representation, party, expense.]
 ---
 
 # Party Expense Input
+
+> Input representation of the party expense.
 
 # Party Expense Input
 
@@ -31,3 +34,7 @@ Properties
 | type | String | Type of expense. | Required | 61.0 |
 | usageType | String | Usage type of the party expense. | Required | 61.0 |
 | verification​Status | String | Indicates whether the party expense is verified (true) or not (false). | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

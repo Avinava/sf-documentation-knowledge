@@ -5,11 +5,16 @@ topic: customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.539Z
-keywords: [CustomObject, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.051Z
+estimatedTokens: 647
+keywords: [CustomObject, Represents, custom, stores, data, unique, organization., Includes, access, associated, related, fields, Salesforce, Metadata, API., API, version, 31.0, later., Supported]
 ---
 
 # CustomObject
+
+> Represents a custom object that stores data unique to your
+   organization. Includes access to the associated CustomObject object and related fields in
+   Salesforce Metadata API. Available from API version 31.0 or later.
 
 # CustomObject
 

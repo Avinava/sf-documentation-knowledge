@@ -5,11 +5,15 @@ topic: connectapiquestionandanswerscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.493Z
-keywords: [ConnectApi.QuestionAndAnswersCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:25.430Z
+estimatedTokens: 376
+keywords: [ConnectApi.QuestionAndAnswersCapabilityInput, Create, edit, question, feed, element, set, best, answer, existing, element.]
 ---
 
 # ConnectApi.QuestionAndAnswersCapabilityInput
+
+> Create or edit a question feed element or set the best answer of the
+            existing question feed element.
 
 # ConnectApi.QuestionAndAnswersCapabilityInput
 
@@ -25,5 +29,12 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [Edit a Question Title and Post](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_edit_question_title_post.htm "Edit a Question Title and Post - HTML (New Window)")
-    
+
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- updateFeedElement(communityId, feedElementId, feedElement) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

@@ -5,11 +5,17 @@ topic: card-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.767Z
-keywords: [Card, Account, DMO, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.984Z
+estimatedTokens: 339
+keywords: [Card, Account, DMO, Represents, financial, tool, offered, bank, loan, line, revolving, credit, access, via, card, card's, account., Provided, Financial, Services]
 ---
 
 # Card Account DMO
+
+> Represents a financial tool offered by a bank as a type of loan, with a line of
+      revolving credit that you can access via your card and your card's account. Provided in the
+      Financial Services Cloud Data Kit. This DMO is available in API version 58 and
+      later.
 
 # Card Account DMO
 

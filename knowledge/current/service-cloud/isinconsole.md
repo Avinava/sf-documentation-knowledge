@@ -5,11 +5,15 @@ topic: isinconsole
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.080Z
-keywords: [isInConsole, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:57.544Z
+estimatedTokens: 171
+keywords: [isInConsole, Determines, page, Salesforce, console., only, API, version, 22.0, later., Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
 ---
 
 # isInConsole()
+
+> Determines if the page is in the Salesforce console. This
+                method is only available in API version 22.0 or later.
 
 # isInConsole()
 
@@ -40,3 +44,27 @@ To see this example in action, click the custom link on a case. For more informa
 ## Response
 
 Returns true if the page is in the Salesforce console; false if the page is not in the Salesforce console.
+
+## Code Examples
+
+```
+sforce.console.isInConsole()
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testIsInConsole();return false">
+         Click here to check if the page is in the Service Cloud console</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testIsInConsole() {
+            if (sforce.console.isInConsole()) {
+                  alert('in console');
+               } else {
+                  alert('not in console');
+            }
+        }
+    </script>
+</apex:page>
+```

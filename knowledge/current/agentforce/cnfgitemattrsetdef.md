@@ -5,11 +5,17 @@ topic: cnfgitemattrsetdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:17.982Z
-keywords: [CnfgItemAttrSetDef, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.555Z
+estimatedTokens: 663
+keywords: [CnfgItemAttrSetDef, Represents, definition, logical, grouping, configuration, item, attributes, that's, used, display, similar, together., example, Stakeholder, attribute, set, owner, business, escalation]
 ---
 
 # CnfgItemAttrSetDef
+
+> Represents the definition of a logical grouping of configuration item
+         attributes that's used to display similar attributes together. For example, Stakeholder
+         attribute set has the attributes owner, business owner, escalation group, and support
+         group This object is available in API version 65.0 and later.
 
 # CnfgItemAttrSetDef
 

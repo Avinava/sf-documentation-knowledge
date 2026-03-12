@@ -5,11 +5,14 @@ topic: connectapichatterlikepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.034Z
-keywords: [ConnectApi.ChatterLikePage, See]
+lastCollected: 2026-03-12T05:14:27.644Z
+estimatedTokens: 348
+keywords: [ConnectApi.ChatterLikePage, Page, Chatter, likes.]
 ---
 
 # ConnectApi.ChatterLikePage
+
+> Page of Chatter likes.
 
 # ConnectApi.ChatterLikePage
 
@@ -30,5 +33,14 @@ Page of Chatter likes.
 #### See Also
 
 -   [ConnectApi.ChatterLikesCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_likes_capability.htm "If a feed element has this capability, the context user can like it. Exposes information about existing likes.")
-    
+
 -   [ConnectApi.Comment](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm "A comment.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Chatter​Like (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_like.htm)
+- ConnectApi.ChatterLikesCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_likes_capability.htm)
+- ConnectApi.Comment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm)

@@ -5,11 +5,15 @@ topic: calculationmatrixcolumn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.745Z
-keywords: [CalculationMatrixColumn, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:53.652Z
+estimatedTokens: 510
+keywords: [CalculationMatrixColumn, Defines, column, Decision, Matrix., label, Matrix, Column., API, version, 53.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # CalculationMatrixColumn
+
+> Defines a column in a Decision Matrix. The label for this object is Decision
+         Matrix Column. This object is available in API version 53.0 and later.
 
 # CalculationMatrixColumn
 

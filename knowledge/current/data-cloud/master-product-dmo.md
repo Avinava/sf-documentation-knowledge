@@ -5,11 +5,15 @@ topic: master-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.749Z
-keywords: [Master, Product, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields, Note]
+lastCollected: 2026-03-12T05:14:12.959Z
+estimatedTokens: 3038
+keywords: [Master, Product, DMO, Data, Cloud, data, model, company’s, products., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields, Note]
 ---
 
 # Master Product DMO
+
+> The Master Product DMO is a Data Cloud data model object (DMO) for
+          data about a company’s products.
 
 # Master Product DMO
 

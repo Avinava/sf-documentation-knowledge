@@ -5,11 +5,14 @@ topic: logginglevel-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.442Z
-keywords: [LoggingLevel, Enum, Values, Usage]
+lastCollected: 2026-03-12T05:14:29.573Z
+estimatedTokens: 324
+keywords: [LoggingLevel, Specifies, logging, level, System.debug, method., Values, Usage]
 ---
 
 # LoggingLevel Enum
+
+> Specifies the logging level for the System.debug method.
 
 # LoggingLevel Enum
 
@@ -41,3 +44,9 @@ In this example, if the log level is set to ERROR, the string MsgTxt isn’t wri
 ```
 
 For more information on log levels, see [Debug Log Levels](https://help.salesforce.com/s/articleView?id=sf.code_setting_debug_log_levels.htm&language=en_US) in Salesforce Help.
+
+## Code Examples
+
+```apex
+System.debug(logginglevel.INFO, 'MsgTxt');
+```

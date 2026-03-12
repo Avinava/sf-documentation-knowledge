@@ -5,11 +5,14 @@ topic: product
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.480Z
-keywords: [Product]
+lastCollected: 2026-03-12T05:14:08.209Z
+estimatedTokens: 975
+keywords: [Product, Output, representation, product, definition.]
 ---
 
 # Product
+
+> Output representation of the product definition.
 
 # Product
 
@@ -62,3 +65,1399 @@ This example shows a sample of the Product By ID (GET) API response.
 | product​Selling​Model​Options | Product Selling Model Option[] | Details of the product selling model options. | Small, 60.0 | 60.0 |
 | product​Specification​Type | Product Specification Type | Details of the product specification type. | Small, 60.0 | 60.0 |
 | quantity​Scale​Method | String | Method to scale the quantity of the child product in relation to the quantity of the parent. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+{
+  "products": [
+      {
+      "additionalFields": {
+        "code__c": "SWX445"
+      },
+       "attributeCategory": [
+        {
+          "attributes": [
+            {
+              "additionalFields": {
+                "scope": "Order"
+              },
+              "attributeNameOverride": "AD Text",
+              "code": "AD02",
+              "dataType": "Text",
+              "displayType": "Text",
+              "MinimumCharacterCount": "1",
+              "MaximumCharacterCount": "20",
+              "defaultValue": "AD Text DV",
+              "description": "AD Text Desc",
+              "helpText": "AD Text DHT",
+              "id": "0tjT1000000002bIAA",
+              "isHidden": false,
+              "isPriceImpacting": true,
+              "isReadOnly": true,
+              "isRequired": true,
+              "label": "AD Text Label",
+              "name": "AD Text",
+              "sequence": 1,
+              "status": "Active",
+              "valueDescription": "AD Text VD"
+            }
+          ],
+          "code": "AC001",
+          "id": "0v3T1000000000BIAQ",
+          "name": "build and make"
+        }
+      ],
+      "attributes": [
+        {
+          "additionalFields": {
+            "scope": "SWX445"
+          },
+          "attributeNameOverride": "AD Picklist",
+          "code": "AD001",
+          "dataType": "Picklist",
+          "defaultValue": "Red",
+          "description": "AD Picklist Description",
+          "helpText": "AD Picklist DHT",
+          "id": "0tjT1000000002WIAQ",
+          "isHidden": false,
+          "isPriceImpacting": false,
+          "isReadOnly": false,
+          "isRequired": true,
+          "label": "AD Picklist Label",
+          "name": "AD Picklist",
+          "picklist": {
+            "dataType": "Text",
+            "description": "APV Description",
+            "id": "0v5T10000000001IAA",
+            "name": "Color",
+            "values": [
+              {
+                "abbreviation": "Blue Abb",
+                "code": "APV03",
+                "displayValue": "Blue DV",
+                "id": "0v6T10000000006IAA",
+                "name": "Blue",
+                "sequence": "3",
+                "value": "Blue b",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abb",
+                "code": "APV04",
+                "displayValue": "Red",
+                "id": "0v6T10000000001IAA",
+                "name": "Red",
+                "sequence": "4",
+                "value": "Red",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "One Abb",
+                "code": "APV02",
+                "displayValue": "One DV",
+                "id": "0v6T1000000000uIAA",
+                "name": "One",
+                "sequence": "2",
+                "value": "One 1",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abbreviation",
+                "code": "APV01",
+                "displayValue": "Red Display Value",
+                "id": "0v6T1000000001OIAQ",
+                "name": "Red",
+                "sequence": "1",
+                "value": "red12",
+                "status": "Active"
+              }
+            ]
+          },
+          "sequence": 1,
+          "status": "Active",
+          "valueDescription": "AD Picklist VD"
+        }
+      ],
+      "categories": [],
+      "childProducts": [
+        {
+          "attributeCategory": [],
+          "attributes": [],
+          "categories": [],
+          "childProducts": [],
+          "configureDuringSale": "NotAllowed",
+          "id": "01tZ7000000AJkaIAG",
+          "isActive": false,
+          "isAssetizable": true,
+          "isSoldOnlyWithOtherProds": false,
+          "name": "Earphones",
+          "nodeType": "bundleProduct",
+          "productComponentGroups": [],
+          "productRelatedComponent": {
+            "childProductId": "01tZ7000000AJkaIAG",
+            "doesBundlePriceIncludeChild": true,
+            "id": "0dSZ700000000cdMAA",
+            "isComponentRequired": false,
+            "isDefaultComponent": true,
+            "isExcluded": false,
+            "isQuantityEditable": false,
+            "parentProductId": "01tZ7000000AJXOIA4",
+            "productRelationshipTypeId": "0yoZ700000000kPIAQ",
+            "quantity": 1,
+            "quantityScaleMethod": "Proportional"
+          },
+          "productSellingModelOptions": []
+        }
+      ],
+      "description": "Keep your organization connected with seamless collaboration across distributed teams. No matter where employees are located, organizations are seeking stronger employee engagement and customer experiences to enable more productivity and greater business agility. More effective collaboration helps organizations work smarter.",
+      "displayUrl": "https://dispatch.m.io/wp-content/uploads/2023/01/History-of-Webex.png",
+      "id": "01t1Q000008CD2eQAG",
+      "isActive": true,
+      "isAssetizable": true,
+      "isSoldOnlyWithOtherProds": false,
+      "name": "SmartBytes Collaboration Suite",
+      "nodeType": "bundleProduct",
+      "productClassification": {
+        "id": "11B1Q0000008OMGUA2"
+      },
+      "productCode": "P0143",
+      "productComponentGroups": [
+        {
+          "components": [
+            {
+              "attributeCategory": [],
+              "attributes": [],
+              "categories": [],
+              "childProducts": [],
+              "id": "01tZ7000000AJXTIA4",
+              "isActive": false,
+              "isAssetizable": true,
+              "isSoldOnlyWithOtherProds": false,
+              "name": "Charger",
+              "nodeType": "bundleProduct",
+              "productComponentGroups": [],
+              "productRelatedComponent": {
+                "childProductId": "01tZ7000000AJXTIA4",
+                "doesBundlePriceIncludeChild": true,
+                "id": "0dSZ700000000YLMAY",
+                "isComponentRequired": false,
+                "isDefaultComponent": true,
+                "isExcluded": false,
+                "isQuantityEditable": false,
+                "parentProductId": "01tZ7000000AJXOIA4",
+                "productRelationshipTypeId": "0yoZ700000000kPIAQ",
+                "quantity": 1,
+                "quantityScaleMethod": "Proportional"
+              },
+              "productSellingModelOptions": []
+            }
+          ],
+          "id": "0y7Z700000000TtIAI",
+          "isExcluded": false,
+          "name": "Box",
+          "parentProductId": "01tZ7000000AJXOIA4"
+        }
+      ],
+      "productSellingModelOptions": [
+        {
+          "id": "0iO1Q0000008OkeUAE",
+          "productId": "01t1Q000008CD2eQAG",
+          "productSellingModel": {
+            "id": "0jP1Q000000CaVFUA0",
+            "isDefault": true,
+            "name": "One Time",
+            "sellingModelType": "OneTime",
+            "status": "Active"
+          }
+        }
+      ],
+      "productSpecificationType": {
+        "name": "None"
+      }
+    }
+],
+  "status": {
+    "code": "200",
+    "correlationId": "fd158d80-d73c-4a1f-a009-9225db804d70",
+    "errors": [],
+    "message": "Successfully fetched product records."
+  }
+}
+```
+
+```
+{
+  "products": [
+      {
+      "additionalFields": {
+        "code__c": "SWX445"
+      },
+       "attributeCategory": [
+        {
+          "attributes": [
+            {
+              "additionalFields": {
+                "scope": "Order"
+              },
+              "attributeNameOverride": "AD Text",
+              "code": "AD02",
+              "dataType": "Text",
+              "displayType": "Text",
+              "MinimumCharacterCount": "1",
+              "MaximumCharacterCount": "20",
+              "defaultValue": "AD Text DV",
+              "description": "AD Text Desc",
+              "helpText": "AD Text DHT",
+              "id": "0tjT1000000002bIAA",
+              "isHidden": false,
+              "isPriceImpacting": true,
+              "isReadOnly": true,
+              "isRequired": true,
+              "label": "AD Text Label",
+              "name": "AD Text",
+              "sequence": 1,
+              "status": "Active",
+              "valueDescription": "AD Text VD"
+            }
+          ],
+          "code": "AC001",
+          "id": "0v3T1000000000BIAQ",
+          "name": "build and make"
+        }
+      ],
+      "attributes": [
+        {
+          "additionalFields": {
+            "scope": "SWX445"
+          },
+          "attributeNameOverride": "AD Picklist",
+          "code": "AD001",
+          "dataType": "Picklist",
+          "defaultValue": "Red",
+          "description": "AD Picklist Description",
+          "helpText": "AD Picklist DHT",
+          "id": "0tjT1000000002WIAQ",
+          "isHidden": false,
+          "isPriceImpacting": false,
+          "isReadOnly": false,
+          "isRequired": true,
+          "label": "AD Picklist Label",
+          "name": "AD Picklist",
+          "picklist": {
+            "dataType": "Text",
+            "description": "APV Description",
+            "id": "0v5T10000000001IAA",
+            "name": "Color",
+            "values": [
+              {
+                "abbreviation": "Blue Abb",
+                "code": "APV03",
+                "displayValue": "Blue DV",
+                "id": "0v6T10000000006IAA",
+                "name": "Blue",
+                "sequence": "3",
+                "value": "Blue b",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abb",
+                "code": "APV04",
+                "displayValue": "Red",
+                "id": "0v6T10000000001IAA",
+                "name": "Red",
+                "sequence": "4",
+                "value": "Red",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "One Abb",
+                "code": "APV02",
+                "displayValue": "One DV",
+                "id": "0v6T1000000000uIAA",
+                "name": "One",
+                "sequence": "2",
+                "value": "One 1",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abbreviation",
+                "code": "APV01",
+                "displayValue": "Red Display Value",
+                "id": "0v6T1000000001OIAQ",
+                "name": "Red",
+                "sequence": "1",
+                "value": "red12",
+                "status": "Active"
+              }
+            ]
+          },
+          "sequence": 1,
+          "status": "Active",
+          "valueDescription": "AD Picklist VD"
+        }
+      ],
+      "categories": [],
+      "childProducts": [
+        {
+          "attributeCategory": [],
+          "attributes": [],
+          "categories": [],
+          "childProducts": [],
+          "configureDuringSale": "NotAllowed",
+          "id": "01tZ7000000AJkaIAG",
+          "isActive": false,
+          "isAssetizable": true,
+          "isSoldOnlyWithOtherProds": false,
+          "name": "Earphones",
+          "nodeType": "bundleProduct",
+          "productComponentGroups": [],
+          "productRelatedComponent": {
+            "childProductId": "01tZ7000000AJkaIAG",
+            "doesBundlePriceIncludeChild": true,
+            "id": "0dSZ700000000cdMAA",
+            "isComponentRequired": false,
+            "isDefaultComponent": true,
+            "isExcluded": false,
+            "isQuantityEditable": false,
+            "parentProductId": "01tZ7000000AJXOIA4",
+            "productRelationshipTypeId": "0yoZ700000000kPIAQ",
+            "quantity": 1,
+            "quantityScaleMethod": "Proportional"
+          },
+          "productSellingModelOptions": []
+        }
+      ],
+      "description": "Keep your organization connected with seamless collaboration across distributed teams. No matter where employees are located, organizations are seeking stronger employee engagement and customer experiences to enable more productivity and greater business agility. More effective collaboration helps organizations work smarter.",
+      "displayUrl": "https://dispatch.m.io/wp-content/uploads/2023/01/History-of-Webex.png",
+      "id": "01t1Q000008CD2eQAG",
+      "isActive": true,
+      "isAssetizable": true,
+      "isSoldOnlyWithOtherProds": false,
+      "name": "SmartBytes Collaboration Suite",
+      "nodeType": "bundleProduct",
+      "productClassification": {
+        "id": "11B1Q0000008OMGUA2",
+        "name" : "class",
+        "code" : "code",
+        "status" : "Active"
+      },
+      "productCode": "P0143",
+      "productComponentGroups": [
+        {
+          "components": [
+            {
+              "attributeCategory": [],
+              "attributes": [],
+              "categories": [],
+              "childProducts": [],
+              "id": "01tZ7000000AJXTIA4",
+              "isActive": false,
+              "isAssetizable": true,
+              "isSoldOnlyWithOtherProds": false,
+              "name": "Charger",
+              "nodeType": "bundleProduct",
+              "productComponentGroups": [],
+              "productRelatedComponent": {
+                "childProductId": "01tZ7000000AJXTIA4",
+                "doesBundlePriceIncludeChild": true,
+                "id": "0dSZ700000000YLMAY",
+                "isComponentRequired": false,
+                "isDefaultComponent": true,
+                "isExcluded": false,
+                "isQuantityEditable": false,
+                "parentProductId": "01tZ7000000AJXOIA4",
+                "productRelationshipTypeId": "0yoZ700000000kPIAQ",
+                "quantity": 1,
+                "quantityScaleMethod": "Proportional"
+              },
+              "productSellingModelOptions": []
+            }
+          ],
+          "id": "0y7Z700000000TtIAI",
+          "isExcluded": false,
+          "name": "Box",
+          "parentProductId": "01tZ7000000AJXOIA4"
+        }
+      ],
+      "productSellingModelOptions": [
+        {
+          "id": "0iO1Q0000008OkeUAE",
+          "productId": "01t1Q000008CD2eQAG",
+          "productSellingModel": {
+            "id": "0jP1Q000000CaVFUA0",
+            "isDefault": true,
+            "name": "One Time",
+            "sellingModelType": "OneTime",
+            "status": "Active"
+          }
+        }
+      ],
+      "productSpecificationType": {
+        "name": "None"
+      }
+    }
+],
+  "status": {
+    "code": "200",
+    "correlationId": "fd158d80-d73c-4a1f-a009-9225db804d70",
+    "errors": [],
+    "message": "Successfully fetched product records."
+  }
+}
+```
+
+```
+{
+  "products": [
+    {
+      "attributeCategory": [
+        {
+          "attributes": [
+            {
+              "attributeNameOverride": "AD Text",
+              "code": "AD02",
+              "dataType": "Text",
+              "displayType": "Text",
+              "MinimumCharacterCount": "1",
+              "MaximumCharacterCount": "20",
+              "defaultValue": "AD Text DV",
+              "description": "AD Text Desc",
+              "helpText": "AD Text DHT",
+              "id": "0tjT1000000002bIAA",
+              "isHidden": false,
+              "isPriceImpacting": true,
+              "isReadOnly": true,
+              "isRequired": true,
+              "label": "AD Text Label",
+              "name": "AD Text",
+              "sequence": 1,
+              "status": "Active",
+              "valueDescription": "AD Text VD"
+            }
+          ],
+          "code": "AC001",
+          "id": "0v3T1000000000BIAQ",
+          "name": "build and make"
+        }
+      ],
+      "attributes": [
+        {
+          "attributeNameOverride": "AD Picklist",
+          "code": "AD001",
+          "dataType": "Picklist",
+          "defaultValue": "Red",
+          "description": "AD Picklist Description",
+          "helpText": "AD Picklist DHT",
+          "id": "0tjT1000000002WIAQ",
+          "isHidden": false,
+          "isPriceImpacting": false,
+          "isReadOnly": false,
+          "isRequired": true,
+          "label": "AD Picklist Label",
+          "name": "AD Picklist",
+          "picklist": {
+            "dataType": "Text",
+            "description": "APV Description",
+            "id": "0v5T10000000001IAA",
+            "name": "Color",
+            "values": [
+              {
+                "abbreviation": "Blue Abb",
+                "code": "APV03",
+                "displayValue": "Blue DV",
+                "id": "0v6T10000000006IAA",
+                "name": "Blue",
+                "sequence": "3",
+                "value": "Blue b",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abb",
+                "code": "APV04",
+                "displayValue": "Red",
+                "id": "0v6T10000000001IAA",
+                "name": "Red",
+                "sequence": "4",
+                "value": "Red",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "One Abb",
+                "code": "APV02",
+                "displayValue": "One DV",
+                "id": "0v6T1000000000uIAA",
+                "name": "One",
+                "sequence": "2",
+                "value": "One 1",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abbreviation",
+                "code": "APV01",
+                "displayValue": "Red Display Value",
+                "id": "0v6T1000000001OIAQ",
+                "name": "Red",
+                "sequence": "1",
+                "value": "red12",
+                "status": "Active"
+              }
+            ]
+          },
+          "sequence": 1,
+          "status": "Active",
+          "valueDescription": "AD Picklist VD"
+        }
+      ],
+      "availabilityDate": "2023-07-12T19:00:00.000Z",
+      "categories": [],
+      "childProducts": [],
+      "configureDuringSale": "Allowed",
+      "description": "Bundle Product Description",
+      "discontinuedDate": "2023-07-27T19:00:00.000Z",
+      "displayUrl": "www.google.com",
+      "endOfLifeDate": "2023-07-31T19:00:00.000Z",
+      "id": "01tT1000000F0afIAC",
+      "isActive": true,
+      "isAssetizable": true,
+      "isSoldOnlyWithOtherProds": true,
+      "name": "Bundle Product",
+      "nodeType": "bundleProduct",
+      "productClassification": {
+        "id": "11BT10000004C9SMAU",
+        "name" : "class",
+        "code" : "code",
+        "status" : "Active"
+      },
+      "productCode": "P001",
+      "productComponentGroups": [
+        {
+          "code": "PCG002",
+          "components": [
+            {
+              "attributeCategory": [],
+              "attributes": [],
+              "categories": [],
+              "childProducts": [],
+              "nodeType": "productClass",
+              "productClassification": {
+                "id": "11BT10000004C9SMAU",
+                "name" : "class",
+                "code" : "code",
+                "status" : "Active"
+              },
+              "productComponentGroups": [],
+              "productRelatedComponent": {
+                "childSellingModelId": "0jPT10000004CAfMAM",
+                "doesBundlePriceIncludeChild": true,
+                "id": "0dST100000000rlMAA",
+                "isComponentRequired": false,
+                "isDefaultComponent": false,
+                "isQuantityEditable": true,
+                "maxQuantity": 5,
+                "minQuantity": 1,
+                "parentProductId": "01tT1000000F0afIAC",
+                "productClassificationId": "11BT10000004C9SMAU",
+                "productRelationshipTypeId": "0yoT10000004CBEIA2",
+                "quantity": 1,
+                "quantityScaleMethod": "Proportional",
+                "sequence": 2,
+                "isExcluded": false
+              },
+              "productSellingModelOptions": []
+            }
+          ],
+          "description": "PCG002 desc",
+          "id": "0y7T10000004C9IIAU",
+          "maxBundleComponents": 5,
+          "minBundleComponents": 1,
+          "name": "PCG002",
+          "parentProductId": "01tT1000000F0afIAC",
+          "sequence": 2,
+          "isExcluded": false
+        },
+        {
+          "code": "PCG001",
+          "components": [
+            {
+              "attributeCategory": [],
+              "attributes": [
+                {
+                  "attributeNameOverride": "AD Picklist",
+                  "code": "AD001",
+                  "dataType": "Picklist",
+                  "defaultValue": "Red",
+                  "description": "AD Picklist Description",
+                  "helpText": "AD Picklist DHT",
+                  "id": "0tjT1000000002WIAQ",
+                  "isHidden": false,
+                  "isPriceImpacting": false,
+                  "isReadOnly": false,
+                  "isRequired": true,
+                  "label": "AD Picklist Label",
+                  "name": "AD Picklist",
+                  "picklist": {
+                    "dataType": "Text",
+                    "description": "APV Description",
+                    "id": "0v5T10000000001IAA",
+                    "name": "Color",
+                    "values": [
+                      {
+                        "abbreviation": "Blue Abb",
+                        "code": "APV03",
+                        "displayValue": "Blue DV",
+                        "id": "0v6T10000000006IAA",
+                        "name": "Blue",
+                        "sequence": "3",
+                        "value": "Blue b",
+                        "status": "Active"
+                      },
+                      {
+                        "abbreviation": "Red Abb",
+                        "code": "APV04",
+                        "displayValue": "Red",
+                        "id": "0v6T10000000001IAA",
+                        "name": "Red",
+                        "sequence": "4",
+                        "value": "Red",
+                        "status": "Active"
+                      },
+                      {
+                        "abbreviation": "One Abb",
+                        "code": "APV02",
+                        "displayValue": "One DV",
+                        "id": "0v6T1000000000uIAA",
+                        "name": "One",
+                        "sequence": "2",
+                        "value": "One 1",
+                        "status": "Active"
+                      },
+                      {
+                        "abbreviation": "Red Abbreviation",
+                        "code": "APV01",
+                        "displayValue": "Red Display Value",
+                        "id": "0v6T1000000001OIAQ",
+                        "name": "Red",
+                        "sequence": "1",
+                        "value": "red12",
+                        "status": "Active"
+                      }
+                    ]
+                  },
+                  "sequence": 1,
+                  "status": "Active",
+                  "valueDescription": "AD Picklist VD"
+                },
+                {
+                  "attributeNameOverride": "AD Text",
+                  "code": "AD02",
+                  "dataType": "Text",
+                  "displayType": "Text",
+                  "MinimumCharacterCount": "1",
+                  "MaximumCharacterCount": "20",
+                  "defaultValue": "AD Text DV",
+                  "description": "AD Text Desc",
+                  "helpText": "AD Text DHT",
+                  "id": "0tjT1000000002bIAA",
+                  "isHidden": false,
+                  "isPriceImpacting": false,
+                  "isReadOnly": false,
+                  "isRequired": true,
+                  "label": "AD Text Label",
+                  "name": "AD Text",
+                  "status": "Active",
+                  "valueDescription": "AD Text VD"
+                }
+              ],
+              "availabilityDate": "2023-07-17T19:00:00.000Z",
+              "categories": [],
+              "childProducts": [],
+              "configureDuringSale": "Allowed",
+              "description": "P003 desc",
+              "discontinuedDate": "2023-07-19T19:00:00.000Z",
+              "displayUrl": "www.google.com",
+              "endOfLifeDate": "2023-07-28T19:00:00.000Z",
+              "id": "01tT1000000F0YyIAK",
+              "isActive": false,
+              "isAssetizable": true,
+              "isSoldOnlyWithOtherProds": false,
+              "name": "Child1 - Bundle with PCG",
+              "nodeType": "bundleProduct",
+              "productClassification": {
+                "id": "11BT10000004C9SMAU",
+                "name" : "class",
+                "code" : "code",
+                "status" : "Active"
+              },
+              "productCode": "P003",
+              "productComponentGroups": [
+                {
+                  "code": "PCG2",
+                  "components": [
+                    {
+                      "attributeCategory": [],
+                      "attributes": [],
+                      "categories": [],
+                      "childProducts": [],
+                      "id": "01tT1000000F0Z8IAK",
+                      "isActive": false,
+                      "isAssetizable": true,
+                      "isSoldOnlyWithOtherProds": false,
+                      "name": "Super Child2 - Bundle with PCG",
+                      "nodeType": "bundleProduct",
+                      "productComponentGroups": [],
+                      "productRelatedComponent": {
+                        "childProductId": "01tT1000000F0Z8IAK",
+                        "doesBundlePriceIncludeChild": true,
+                        "id": "0dST100000000rWMAQ",
+                        "isComponentRequired": false,
+                        "isDefaultComponent": false,
+                        "isQuantityEditable": false,
+                        "parentProductId": "01tT1000000F0YyIAK",
+                        "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                        "quantity": 1,
+                        "quantityScaleMethod": "Proportional",
+                        "sequence": 2,
+                        "isExcluded": false
+                      },
+                      "productSellingModelOptions": [],
+                      "productSpecificationType": {
+                        "name": "NonCommercialSpecType",
+                        "productSpecificationRecordType": null
+                      }
+                    },
+                    {
+                      "attributeCategory": [],
+                      "attributes": [],
+                      "availabilityDate": "2023-07-15T19:00:00.000Z",
+                      "categories": [],
+                      "childProducts": [],
+                      "configureDuringSale": "Allowed",
+                      "discontinuedDate": "2023-07-16T19:00:00.000Z",
+                      "displayUrl": "Test",
+                      "endOfLifeDate": "2023-07-17T19:00:00.000Z",
+                      "id": "01tT1000000F0YzIAK",
+                      "isActive": false,
+                      "isAssetizable": true,
+                      "isSoldOnlyWithOtherProds": false,
+                      "name": "SuperChild1 - Bundle with PCG",
+                      "nodeType": "bundleProduct",
+                      "productCode": "Test",
+                      "productComponentGroups": [],
+                      "productRelatedComponent": {
+                        "childProductId": "01tT1000000F0YzIAK",
+                        "doesBundlePriceIncludeChild": true,
+                        "id": "0dST100000000rXMAQ",
+                        "isComponentRequired": false,
+                        "isDefaultComponent": false,
+                        "isQuantityEditable": false,
+                        "parentProductId": "01tT1000000F0YyIAK",
+                        "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                        "quantity": 1,
+                        "quantityScaleMethod": "Proportional",
+                        "sequence": 1,
+                        "isExcluded": false
+                      },
+                      "productSellingModelOptions": [],
+                      "productSpecificationType": {
+                        "name": "NonCommercialSpecType",
+                        "productSpecificationRecordType": null
+                      }
+                    },
+                    {
+                      "attributeCategory": [],
+                      "attributes": [],
+                      "categories": [],
+                      "childProducts": [],
+                      "configureDuringSale": "Allowed",
+                      "id": "01tT1000000F0apIAC",
+                      "isActive": false,
+                      "isAssetizable": true,
+                      "isSoldOnlyWithOtherProds": false,
+                      "name": "Bundle2",
+                      "nodeType": "bundleProduct",
+                      "productCode": "PC003",
+                      "productComponentGroups": [],
+                      "productRelatedComponent": {
+                        "childProductId": "01tT1000000F0apIAC",
+                        "doesBundlePriceIncludeChild": true,
+                        "id": "0dST100000000rqMAA",
+                        "isComponentRequired": false,
+                        "isDefaultComponent": false,
+                        "isQuantityEditable": false,
+                        "parentProductId": "01tT1000000F0YyIAK",
+                        "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                        "quantity": 1,
+                        "quantityScaleMethod": "Proportional",
+                        "isExcluded": false
+                      },
+                      "productSellingModelOptions": [],
+                      "productSpecificationType": {
+                        "name": "NonCommercialSpecType",
+                        "productSpecificationRecordType": null
+                      }
+                    }
+                  ],
+                  "description": "Group for components at level 2",
+                  "id": "0y7T10000004C98IAE",
+                  "maxBundleComponents": 5,
+                  "minBundleComponents": 1,
+                  "name": "PCG2",
+                  "parentProductId": "01tT1000000F0YyIAK",
+                  "isExcluded": false
+                }
+              ],
+              "productRelatedComponent": {
+                "childProductId": "01tT1000000F0YyIAK",
+                "childSellingModelId": "0jPT10000004CAfMAM",
+                "doesBundlePriceIncludeChild": true,
+                "id": "0dST100000000rgMAA",
+                "isComponentRequired": false,
+                "isDefaultComponent": false,
+                "isQuantityEditable": true,
+                "maxQuantity": 3,
+                "minQuantity": 1,
+                "parentProductId": "01tT1000000F0afIAC",
+                "parentSellingModelId": "0jPT10000004CAfMAM",
+                "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                "quantity": 1,
+                "quantityScaleMethod": "Proportional",
+                "sequence": 1,
+                "isExcluded": false
+              },
+              "productSellingModelOptions": [
+                {
+                  "id": "0iOT10000004CMrMAM",
+                  "productId": "01tT1000000F0YyIAK",
+                  "isDefault": false,
+                  "productSellingModel": {
+                    "id": "0jPT10000004CAfMAM",
+                    "name": "OneTimePSM",
+                    "sellingModelType": "OneTime",
+                    "status": "Active"
+                  }
+                }
+              ],
+              "productSpecificationType": {
+                "name": "NonCommercialSpecType",
+                "productSpecificationRecordType": null
+              }
+            }
+          ],
+          "description": "PCG001 Description",
+          "id": "0y7T10000004C9DIAU",
+          "maxBundleComponents": 5,
+          "minBundleComponents": 1,
+          "name": "PCG001",
+          "parentProductId": "01tT1000000F0afIAC",
+          "sequence": 1,
+          "isExcluded": false
+        }
+      ],
+      "productSellingModelOptions": [
+        {
+          "id": "0iOT10000004CMmMAM",
+          "productId": "01tT1000000F0afIAC",
+          "productSellingModel": {
+            "id": "0jPT10000004CAfMAM",
+            "name": "OneTimePSM",
+            "sellingModelType": "OneTime",
+            "status": "Active"
+          }
+        }
+      ],
+      "productSpecificationType": {
+        "name": "NonCommercialSpecType",
+        "productSpecificationRecordType": null
+      }
+    },
+    {
+      "attributeCategory": [
+        {
+          "attributes": [
+            {
+              "attributeNameOverride": "AD Text",
+              "code": "AD02",
+              "dataType": "Text",
+              "displayType": "Text",
+              "MinimumCharacterCount": "1",
+              "MaximumCharacterCount": "20",
+              "defaultValue": "AD Text DV",
+              "description": "AD Text Desc",
+              "helpText": "AD Text DHT",
+              "id": "0tjT1000000002bIAA",
+              "isHidden": false,
+              "isPriceImpacting": true,
+              "isReadOnly": true,
+              "isRequired": true,
+              "label": "AD Text Label",
+              "name": "AD Text",
+              "sequence": 1,
+              "status": "Active",
+              "valueDescription": "AD Text VD"
+            }
+          ],
+          "code": "AC001",
+          "id": "0v3T1000000000BIAQ",
+          "name": "build and make"
+        }
+      ],
+      "attributes": [
+        {
+          "attributeNameOverride": "AD Picklist",
+          "code": "AD001",
+          "dataType": "Picklist",
+          "defaultValue": "Red",
+          "description": "AD Picklist Description",
+          "helpText": "AD Picklist DHT",
+          "id": "0tjT1000000002WIAQ",
+          "isHidden": false,
+          "isPriceImpacting": false,
+          "isReadOnly": false,
+          "isRequired": true,
+          "label": "AD Picklist Label",
+          "name": "AD Picklist",
+          "picklist": {
+            "dataType": "Text",
+            "description": "APV Description",
+            "id": "0v5T10000000001IAA",
+            "name": "Color",
+            "values": [
+              {
+                "abbreviation": "Blue Abb",
+                "code": "APV03",
+                "displayValue": "Blue DV",
+                "id": "0v6T10000000006IAA",
+                "name": "Blue",
+                "sequence": "3",
+                "value": "Blue b",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abb",
+                "code": "APV04",
+                "displayValue": "Red",
+                "id": "0v6T10000000001IAA",
+                "name": "Red",
+                "sequence": "4",
+                "value": "Red",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "One Abb",
+                "code": "APV02",
+                "displayValue": "One DV",
+                "id": "0v6T1000000000uIAA",
+                "name": "One",
+                "sequence": "2",
+                "value": "One 1",
+                "status": "Active"
+              },
+              {
+                "abbreviation": "Red Abbreviation",
+                "code": "APV01",
+                "displayValue": "Red Display Value",
+                "id": "0v6T1000000001OIAQ",
+                "name": "Red",
+                "sequence": "1",
+                "value": "red12",
+                "status": "Active"
+              }
+            ]
+          },
+          "sequence": 1,
+          "status": "Active",
+          "valueDescription": "AD Picklist VD"
+        }
+      ],
+      "availabilityDate": "2023-07-12T19:00:00.000Z",
+      "categories": [],
+      "childProducts": [],
+      "configureDuringSale": "Allowed",
+      "description": "Bundle Product Description",
+      "discontinuedDate": "2023-07-27T19:00:00.000Z",
+      "displayUrl": "www.google.com",
+      "endOfLifeDate": "2023-07-31T19:00:00.000Z",
+      "id": "01tT1000000F0afIAC",
+      "isActive": true,
+      "isAssetizable": true,
+      "isSoldOnlyWithOtherProds": true,
+      "name": "Bundle Product",
+      "nodeType": "bundleProduct",
+      "productClassification": {
+        "id": "11BT10000004C9SMAU",
+        "name" : "class",
+        "code" : "code",
+        "status" : "Active"
+      },
+      "productCode": "P001",
+      "productComponentGroups": [
+        {
+          "code": "PCG002",
+          "components": [
+            {
+              "attributeCategory": [],
+              "attributes": [],
+              "categories": [],
+              "childProducts": [],
+              "nodeType": "productClass",
+              "productClassification": {
+                "id": "11BT10000004C9SMAU",
+                "name" : "class",
+                "code" : "code",
+                "status" : "Active"
+              },
+              "productComponentGroups": [],
+              "productRelatedComponent": {
+                "childSellingModelId": "0jPT10000004CAfMAM",
+                "doesBundlePriceIncludeChild": true,
+                "id": "0dST100000000rlMAA",
+                "isComponentRequired": false,
+                "isDefaultComponent": false,
+                "isQuantityEditable": true,
+                "maxQuantity": 5,
+                "minQuantity": 1,
+                "parentProductId": "01tT1000000F0afIAC",
+                "productClassificationId": "11BT10000004C9SMAU",
+                "productRelationshipTypeId": "0yoT10000004CBEIA2",
+                "quantity": 1,
+                "quantityScaleMethod": "Proportional",
+                "sequence": 2,
+                "isExcluded": false
+              },
+              "productSellingModelOptions": []
+            }
+          ],
+          "description": "PCG002 desc",
+          "id": "0y7T10000004C9IIAU",
+          "maxBundleComponents": 5,
+          "minBundleComponents": 1,
+          "name": "PCG002",
+          "parentProductId": "01tT1000000F0afIAC",
+          "sequence": 2,
+          "isExcluded": false
+        },
+        {
+          "code": "PCG001",
+          "components": [
+            {
+              "attributeCategory": [],
+              "attributes": [
+                {
+                  "attributeNameOverride": "AD Picklist",
+                  "code": "AD001",
+                  "dataType": "Picklist",
+                  "defaultValue": "Red",
+                  "description": "AD Picklist Description",
+                  "helpText": "AD Picklist DHT",
+                  "id": "0tjT1000000002WIAQ",
+                  "isHidden": false,
+                  "isPriceImpacting": false,
+                  "isReadOnly": false,
+                  "isRequired": true,
+                  "label": "AD Picklist Label",
+                  "name": "AD Picklist",
+                  "picklist": {
+                    "dataType": "Text",
+                    "description": "APV Description",
+                    "id": "0v5T10000000001IAA",
+                    "name": "Color",
+                    "values": [
+                      {
+                        "abbreviation": "Blue Abb",
+                        "code": "APV03",
+                        "displayValue": "Blue DV",
+                        "id": "0v6T10000000006IAA",
+                        "name": "Blue",
+                        "sequence": "3",
+                        "value": "Blue b",
+                        "status": "Active"
+                      },
+                      {
+                        "abbreviation": "Red Abb",
+                        "code": "APV04",
+                        "displayValue": "Red",
+                        "id": "0v6T10000000001IAA",
+                        "name": "Red",
+                        "sequence": "4",
+                        "value": "Red",
+                        "status": "Active"
+                      },
+                      {
+                        "abbreviation": "One Abb",
+                        "code": "APV02",
+                        "displayValue": "One DV",
+                        "id": "0v6T1000000000uIAA",
+                        "name": "One",
+                        "sequence": "2",
+                        "value": "One 1",
+                        "status": "Active"
+                      },
+                      {
+                        "abbreviation": "Red Abbreviation",
+                        "code": "APV01",
+                        "displayValue": "Red Display Value",
+                        "id": "0v6T1000000001OIAQ",
+                        "name": "Red",
+                        "sequence": "1",
+                        "value": "red12",
+                        "status": "Active"
+                      }
+                    ]
+                  },
+                  "sequence": 1,
+                  "status": "Active",
+                  "valueDescription": "AD Picklist VD"
+                },
+                {
+                  "attributeNameOverride": "AD Text",
+                  "code": "AD02",
+                  "dataType": "Text",
+                  "displayType": "Text",
+                  "MinimumCharacterCount": "1",
+                  "MaximumCharacterCount": "20",
+                  "defaultValue": "AD Text DV",
+                  "description": "AD Text Desc",
+                  "helpText": "AD Text DHT",
+                  "id": "0tjT1000000002bIAA",
+                  "isHidden": false,
+                  "isPriceImpacting": false,
+                  "isReadOnly": false,
+                  "isRequired": true,
+                  "label": "AD Text Label",
+                  "name": "AD Text",
+                  "status": "Active",
+                  "valueDescription": "AD Text VD"
+                }
+              ],
+              "availabilityDate": "2023-07-17T19:00:00.000Z",
+              "categories": [],
+              "childProducts": [],
+              "configureDuringSale": "Allowed",
+              "description": "P003 desc",
+              "discontinuedDate": "2023-07-19T19:00:00.000Z",
+              "displayUrl": "www.google.com",
+              "endOfLifeDate": "2023-07-28T19:00:00.000Z",
+              "id": "01tT1000000F0YyIAK",
+              "isActive": false,
+              "isAssetizable": true,
+              "isSoldOnlyWithOtherProds": false,
+              "name": "Child1 - Bundle with PCG",
+              "nodeType": "bundleProduct",
+              "productClassification": {
+                "id": "11BT10000004C9SMAU",
+                "name" : "class",
+                "code" : "code",
+                "status" : "Active"
+              },
+              "productCode": "P003",
+              "productComponentGroups": [
+                {
+                  "code": "PCG2",
+                  "components": [
+                    {
+                      "attributeCategory": [],
+                      "attributes": [],
+                      "categories": [],
+                      "childProducts": [],
+                      "id": "01tT1000000F0Z8IAK",
+                      "isActive": false,
+                      "isAssetizable": true,
+                      "isSoldOnlyWithOtherProds": false,
+                      "name": "Super Child2 - Bundle with PCG",
+                      "nodeType": "bundleProduct",
+                      "productComponentGroups": [],
+                      "productRelatedComponent": {
+                        "childProductId": "01tT1000000F0Z8IAK",
+                        "doesBundlePriceIncludeChild": true,
+                        "id": "0dST100000000rWMAQ",
+                        "isComponentRequired": false,
+                        "isDefaultComponent": false,
+                        "isQuantityEditable": false,
+                        "parentProductId": "01tT1000000F0YyIAK",
+                        "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                        "quantity": 1,
+                        "quantityScaleMethod": "Proportional",
+                        "sequence": 2,
+                        "isExcluded": false
+                      },
+                      "productSellingModelOptions": [],
+                      "productSpecificationType": {
+                        "name": "NonCommercialSpecType",
+                        "productSpecificationRecordType": null
+                      }
+                    },
+                    {
+                      "attributeCategory": [],
+                      "attributes": [],
+                      "availabilityDate": "2023-07-15T19:00:00.000Z",
+                      "categories": [],
+                      "childProducts": [],
+                      "configureDuringSale": "Allowed",
+                      "discontinuedDate": "2023-07-16T19:00:00.000Z",
+                      "displayUrl": "Test",
+                      "endOfLifeDate": "2023-07-17T19:00:00.000Z",
+                      "id": "01tT1000000F0YzIAK",
+                      "isActive": false,
+                      "isAssetizable": true,
+                      "isSoldOnlyWithOtherProds": false,
+                      "name": "SuperChild1 - Bundle with PCG",
+                      "nodeType": "bundleProduct",
+                      "productCode": "Test",
+                      "productComponentGroups": [],
+                      "productRelatedComponent": {
+                        "childProductId": "01tT1000000F0YzIAK",
+                        "doesBundlePriceIncludeChild": true,
+                        "id": "0dST100000000rXMAQ",
+                        "isComponentRequired": false,
+                        "isDefaultComponent": false,
+                        "isQuantityEditable": false,
+                        "parentProductId": "01tT1000000F0YyIAK",
+                        "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                        "quantity": 1,
+                        "quantityScaleMethod": "Proportional",
+                        "sequence": 1,
+                        "isExcluded": false
+                      },
+                      "productSellingModelOptions": [],
+                      "productSpecificationType": {
+                        "name": "NonCommercialSpecType",
+                        "productSpecificationRecordType": null
+                      }
+                    },
+                    {
+                      "attributeCategory": [],
+                      "attributes": [],
+                      "categories": [],
+                      "childProducts": [],
+                      "configureDuringSale": "Allowed",
+                      "id": "01tT1000000F0apIAC",
+                      "isActive": false,
+                      "isAssetizable": true,
+                      "isSoldOnlyWithOtherProds": false,
+                      "name": "Bundle2",
+                      "nodeType": "bundleProduct",
+                      "productCode": "PC003",
+                      "productComponentGroups": [],
+                      "productRelatedComponent": {
+                        "childProductId": "01tT1000000F0apIAC",
+                        "doesBundlePriceIncludeChild": true,
+                        "id": "0dST100000000rqMAA",
+                        "isComponentRequired": false,
+                        "isDefaultComponent": false,
+                        "isQuantityEditable": false,
+                        "parentProductId": "01tT1000000F0YyIAK",
+                        "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                        "quantity": 1,
+                        "quantityScaleMethod": "Proportional",
+                        "isExcluded": false
+                      },
+                      "productSellingModelOptions": [],
+                      "productSpecificationType": {
+                        "name": "NonCommercialSpecType",
+                        "productSpecificationRecordType": null
+                      }
+                    }
+                  ],
+                  "description": "Group for components at level 2",
+                  "id": "0y7T10000004C98IAE",
+                  "maxBundleComponents": 5,
+                  "minBundleComponents": 1,
+                  "name": "PCG2",
+                  "parentProductId": "01tT1000000F0YyIAK",
+                  "isExcluded": false
+                }
+              ],
+              "productRelatedComponent": {
+                "childProductId": "01tT1000000F0YyIAK",
+                "childSellingModelId": "0jPT10000004CAfMAM",
+                "doesBundlePriceIncludeChild": true,
+                "id": "0dST100000000rgMAA",
+                "isComponentRequired": false,
+                "isDefaultComponent": false,
+                "isQuantityEditable": true,
+                "maxQuantity": 3,
+                "minQuantity": 1,
+                "parentProductId": "01tT1000000F0afIAC",
+                "parentSellingModelId": "0jPT10000004CAfMAM",
+                "productRelationshipTypeId": "0yoT1000000002WIAQ",
+                "quantity": 1,
+                "quantityScaleMethod": "Proportional",
+                "sequence": 1,
+                "isExcluded": false
+              },
+              "productSellingModelOptions": [
+                {
+                  "id": "0iOT10000004CMrMAM",
+                  "productId": "01tT1000000F0YyIAK",
+                  "isDefault": false,
+                  "productSellingModel": {
+                    "id": "0jPT10000004CAfMAM",
+                    "name": "OneTimePSM",
+                    "sellingModelType": "OneTime",
+                    "status": "Active"
+                  }
+                }
+              ],
+              "productSpecificationType": {
+                "name": "NonCommercialSpecType",
+                "productSpecificationRecordType": null
+              }
+            }
+          ],
+          "description": "PCG001 Description",
+          "id": "0y7T10000004C9DIAU",
+          "maxBundleComponents": 5,
+          "minBundleComponents": 1,
+          "name": "PCG001",
+          "parentProductId": "01tT1000000F0afIAC",
+          "sequence": 1,
+          "isExcluded": false
+        }
+      ],
+      "productSellingModelOptions": [
+        {
+          "id": "0iOT10000004CMmMAM",
+          "productId": "01tT1000000F0afIAC",
+          "productSellingModel": {
+            "id": "0jPT10000004CAfMAM",
+            "name": "OneTimePSM",
+            "sellingModelType": "OneTime",
+            "status": "Active"
+          }
+        }
+      ],
+      "productSpecificationType": {
+        "name": "NonCommercialSpecType",
+        "productSpecificationRecordType": null
+      }
+    }
+  ],
+  "status": {
+    "code": "200",
+    "correlationId": "fd158d80-d73c-4a1f-a009-9225db804d70",
+    "errors": [],
+    "message": "Successfully fetched Product records."
+  }
+}
+```
+
+## Related Topics
+
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_catalog_additional_fields_input.htm)
+- Attribute
+                Category (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_attribute_category_output.htm)
+- Attribute
+                  Definition (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_attribute_definition_output.htm)
+- Catalog (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_catalog_output.htm)
+- Category (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_category_output.htm)
+- Product
+                  Classification (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_classification_output.htm)
+- Product Component
+                  Group (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_component_group_output.htm)
+- Product Related
+                  Component (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_related_component_output.htm)
+- Product Selling
+                  Model Option (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_selling_model_option_output.htm)
+- Product
+                  Specification Type (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_specification_type_output.htm)

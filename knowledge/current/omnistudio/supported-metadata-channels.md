@@ -5,11 +5,16 @@ topic: supported-metadata-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:10.046Z
-keywords: [Supported, Metadata, Channels, Usage]
+lastCollected: 2026-03-12T05:14:51.066Z
+estimatedTokens: 1328
+keywords: [Supported, Metadata, Channels, Discovery, Framework, create, questions, question, categorize, move, such, dataset, across, multiple, orgs., metadata, wrapper, automatically, created, objects.]
 ---
 
 # Supported Metadata Channels
+
+> In Discovery Framework, you can create questions and question sets to categorize
+    questions, and you can move such a dataset across multiple orgs. A metadata wrapper is
+    automatically created for these objects.
 
 # Supported Metadata Channels
 
@@ -52,12 +57,30 @@ When importing or exporting the Discovery Framework metadata APIs types across t
 -   Uninstalling the beta version of the managed package deletes the metadata from the target org. Setup objects are deleted for AssessmentQuestion and AssessmentQuestionSets.
 -   When using a scratch org,
     -   Create the scratch org definition with:
-        
+
         ```
-        
+
         ```
-        
+
     -   Enabling Discovery Framework (ASSESSMENTS) enables both AssessmentQuestion and AssessmentQuestionSet and enabling enableDiscoveryFrameworkMetadata enables the metadata for both AssessmentQuestion and AssessmentQuestionSet.
     -   Add the Assessment to the page layout. See [Page Layouts](https://help.salesforce.com/s/articleView?id=platform.customize_layout.htm&type=5&language=en_US "HTML (New Window)") in Salesforce Help for more information.
 -   Deploying or retrieving the OmniScript metadata API for Discovery Framework is supported only in Change Sets, Salesforce CLI, Source Control Integration/Source-Driven Development, and public metadata API channels only.
 -   To avoid deployment errors, do not combine Setup objects and non-setup objects in a single transaction. For example, deploy Apex Class and Platform BPOs, such as AssessmentQuestion and ExpressionSets separately. See [Deploying OmniStudio Components with Other Objects Causes an Exception](https://help.salesforce.com/s/articleView?id=002890891&type=1&language=en_US)
+
+## Code Examples
+
+```
+{
+  "orgName": "Sample Org",
+  "edition": "developer",
+  "features": [
+    "ASSESSMENTS"
+  ],
+  "settings": {
+    "industriesSettings": {
+      "enableIndustriesAssessment": true,
+      "enableDiscoveryFrameworkMetadata": true
+    }
+  }
+}
+```

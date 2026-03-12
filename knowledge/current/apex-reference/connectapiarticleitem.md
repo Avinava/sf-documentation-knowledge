@@ -5,11 +5,15 @@ topic: connectapiarticleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.949Z
-keywords: [ConnectApi.ArticleItem, See]
+lastCollected: 2026-03-12T05:14:26.082Z
+estimatedTokens: 160
+keywords: [ConnectApi.ArticleItem, Article, item, question, answers, suggestions.]
 ---
 
 # ConnectApi.ArticleItem
+
+> Article item in question and answers
+suggestions.
 
 # ConnectApi.ArticleItem
 
@@ -26,3 +30,10 @@ Article item in question and answers suggestions.
 #### See Also
 
 -   [ConnectApi.QuestionAndAnswersSuggestions](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_question_and_answer_suggestion_collection.htm "Question and answers suggestions.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.QuestionAndAnswersSuggestions (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_question_and_answer_suggestion_collection.htm)

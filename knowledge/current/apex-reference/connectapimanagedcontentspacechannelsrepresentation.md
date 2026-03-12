@@ -5,11 +5,14 @@ topic: connectapimanagedcontentspacechannelsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.201Z
-keywords: [ConnectApi.ManagedContentSpaceChannelsRepresentation, See]
+lastCollected: 2026-03-12T05:14:27.862Z
+estimatedTokens: 323
+keywords: [ConnectApi.ManagedContentSpaceChannelsRepresentation, List, managed, content, space, channels.]
 ---
 
 # ConnectApi.ManagedContentSpaceChannelsRepresentation
+
+> List of managed content space channels.
 
 # ConnectApi.ManagedContentSpaceChannelsRepresentation
 
@@ -26,5 +29,14 @@ List of managed content space channels.
 #### See Also
 
 -   [patchManagedContentSpaceChannels(contentSpaceId, spaceChannels)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm#apex_ConnectAPI_ManagedContentSpaces_patchManagedContentSpaceChannels_2 "Add or remove channels from a managed content space.")
-    
+
 -   [getManagedContentSpaceChannels(contentSpaceId, pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm#apex_ConnectAPI_ManagedContentSpaces_getManagedContentSpaceChannels_1 "Get channels for a managed content space.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ManagedContent​SpaceChannel​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_space_channel.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- patchManagedContentSpaceChannels(contentSpaceId, spaceChannels) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm)
+- getManagedContentSpaceChannels(contentSpaceId, pageParam, pageSize) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm)

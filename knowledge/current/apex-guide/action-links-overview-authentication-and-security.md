@@ -4,12 +4,15 @@ domain: apex-guide
 topic: action-links-overview-authentication-and-security
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.926Z
-keywords: [Action, Links, Overview, Authentication, Security, Workflow, Link, Templates, Type, Context, Variables, Versioning, Errors, Localized, Labels, Note, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.482Z
+estimatedTokens: 3084
+keywords: [Action, Links, Overview, Authentication, Security, Apex, action, links, security, authentication, labels, errors., Workflow, Link, Templates, Context, Variables, Versioning, Errors, Localized]
 ---
 
 # Action Links Overview, Authentication, and Security
+
+> Learn about Apex action links security, authentication, labels, and errors.
 
 # Action Links Overview, Authentication, and Security
 
@@ -149,7 +152,13 @@ If none of the label key values make sense for your action link, specify a custo
 #### See Also
 
 -   [Action Links Use Case](atlas.en-us.apexcode.meta/apexcode/connectapi_features_action_links_use_cases.htm "Use action links to integrate Salesforce and third-party services with a feed. An action link can make an HTTP request to a Salesforce or third-party API. An action link can also download a file or open a web page. This topic contains an example use case.")
-    
+
 -   [Define an Action Link and Post with a Feed Element](atlas.en-us.apexcode.meta/apexcode/connectapi_examples_define_post_action_link.htm "Create one action link in an action link group, associate the action link group with a feed item, and post the feed item.")
-    
+
 -   [Define an Action Link in a Template and Post with a Feed Element](atlas.en-us.apexcode.meta/apexcode/connectapi_examples_define_post_action_link_template.htm "Create an action link and action link group and instantiate the action link group from a template.")
+
+## Related Topics
+
+- Action Links Use Case (atlas.en-us.apexcode.meta/apexcode/connectapi_features_action_links_use_cases.htm)
+- Define an Action Link and Post with a Feed Element (atlas.en-us.apexcode.meta/apexcode/connectapi_examples_define_post_action_link.htm)
+- Define an Action Link in a Template and Post with a Feed Element (atlas.en-us.apexcode.meta/apexcode/connectapi_examples_define_post_action_link_template.htm)

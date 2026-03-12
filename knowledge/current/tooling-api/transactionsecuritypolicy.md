@@ -5,11 +5,14 @@ topic: transactionsecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.898Z
-keywords: [TransactionSecurityPolicy, Supported, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.004Z
+estimatedTokens: 2129
+keywords: [TransactionSecurityPolicy, Represents, transaction, security, policy, definition., Supported, Calls, REST, Fields]
 ---
 
 # TransactionSecurityPolicy
+
+> Represents a transaction security policy definition.
 
 # TransactionSecurityPolicy
 

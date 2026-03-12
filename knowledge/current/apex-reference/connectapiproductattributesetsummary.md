@@ -5,11 +5,14 @@ topic: connectapiproductattributesetsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.647Z
-keywords: [ConnectApi.ProductAttributeSetSummary, See]
+lastCollected: 2026-03-12T05:14:28.476Z
+estimatedTokens: 180
+keywords: [ConnectApi.ProductAttributeSetSummary, Summary, product, attribute, set.]
 ---
 
 # ConnectApi.ProductAttributeSetSummary
+
+> Summary of a product attribute set.
 
 # ConnectApi.ProductAttributeSetSummary
 
@@ -24,5 +27,13 @@ Summary of a product attribute set.
 #### See Also
 
 -   [ConnectApi.OrderItemSummaryProduct](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_product.htm "Product item mapped to the order item summary.")
-    
+
 -   [ConnectApi.ProductSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary.htm "Product summary.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductAttribute​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_summary.htm)
+- ConnectApi.OrderItemSummaryProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_product.htm)
+- ConnectApi.ProductSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary.htm)

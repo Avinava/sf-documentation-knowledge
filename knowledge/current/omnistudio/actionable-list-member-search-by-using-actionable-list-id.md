@@ -5,11 +5,14 @@ topic: actionable-list-member-search-by-using-actionable-list-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.814Z
-keywords: [Actionable, List, Member, Search]
+lastCollected: 2026-03-12T05:14:49.226Z
+estimatedTokens: 430
+keywords: [Actionable, List, Member, Search, Retrieves, actionable, list, members, specified, ID.]
 ---
 
 # Actionable List Member Search by Using Actionable List ID
+
+> Retrieves the actionable list members for the specified actionable list ID.
 
 # Actionable List Member Search by Using Actionable List ID
 
@@ -61,3 +64,46 @@ Properties
 Response Body for POST
 
 [Search Actionable List Members](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_search_actionable_list_members.htm "Output representation of the request for searching for actionable list members.")
+
+## Code Examples
+
+```
+/connect/sales-excellence/actionable-list-members/${actionableListId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/sales-excellence/actionable-list-members/${actionableListId}
+```
+
+```
+{
+   "searchTerm" : "Julia Green",
+   "orderBy" : {
+       "orderByList" : [
+          {
+             "fieldName" : "Name",
+             "operator" : "ASC",
+             "nulls" : "First"
+          }
+       ]
+   },
+   "filters" : {
+       "filterList" : [
+          {
+             "fieldName" : "Name",
+             "operator" : "Like",
+             "value" : "AL"
+          }
+       ]
+   },
+   "scope":"ASSIGNEE",
+   "requireHeaders" : true,
+   "after": "djE6OQ=="
+}
+```
+
+## Related Topics
+
+- Filter Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_filter.htm)
+- OrderBy Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_order_by.htm)
+- Search Actionable List Members (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_search_actionable_list_members.htm)

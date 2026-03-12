@@ -5,11 +5,19 @@ topic: searchlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.530Z
-keywords: [SearchLayouts, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:42.622Z
+estimatedTokens: 1511
+keywords: [SearchLayouts, Represents, metadata, associated, search, layouts, object., customize, which, fields, display, users, results, filter, lookup, dialogs, recent, record, lists, tab]
 ---
 
 # SearchLayouts
+
+> Represents the metadata associated with the search
+            layouts for an object. You can customize which fields to display for users in search
+            results, search filter fields, lookup dialogs, and recent record lists on tab home
+            pages.
+        You can access SearchLayouts only by accessing its
+            encompassing CustomObject.
 
 # SearchLayouts
 
@@ -59,5 +67,32 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [ProfileSearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_profilesearchlayouts.htm "Represents a user profile’s search results layouts for an object. ProfileSearchLayouts are similar to SearchLayouts. However, with profile-specific layouts, each user profile can have a different search results layout for an object.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+                <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+                . . .
+                <searchLayouts>
+                <listViewButtons>New</listViewButtons>
+                <listViewButtons>Accept</listViewButtons>
+                <listViewButtons>ChangeOwner</listViewButtons>
+                <lookupDialogsAdditionalFields>firstQuote__c</lookupDialogsAdditionalFields>
+                <lookupDialogsAdditionalFields>finalQuote__c</lookupDialogsAdditionalFields>
+                <massQuickActions>Create_MQA_Contact</massQuickActions>
+                <searchResultsAdditionalFields>CREATEDBY_USER</searchResultsAdditionalFields>
+                </searchLayouts>
+                . . .
+                </CustomObject>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_recordtype.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_apexsharingreason.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- ProfileSearchLayouts (atlas.en-us.api_meta.meta/api_meta/meta_profilesearchlayouts.htm)

@@ -5,11 +5,14 @@ topic: connectapideliveryestimationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.576Z
-keywords: [ConnectApi.DeliveryEstimationErrorOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.024Z
+estimatedTokens: 66
+keywords: [ConnectApi.DeliveryEstimationErrorOutputRepresentation, Delivery, estimation, error.]
 ---
 
 # ConnectApi.DeliveryEstimationErrorOutputRepresentation
+
+> Delivery estimation error.
 
 # ConnectApi.DeliveryEstimationErrorOutputRepresentation
 
@@ -19,3 +22,7 @@ Delivery estimation error.
 | --- | --- | --- | --- |
 | code | String | Error code. | 63.0 |
 | message | String | Error message, if any. | 63.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

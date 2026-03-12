@@ -5,11 +5,14 @@ topic: connectapimanagedcontentvariant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.223Z
-keywords: [ConnectApi.ManagedContentVariant]
+lastCollected: 2026-03-12T05:14:27.898Z
+estimatedTokens: 492
+keywords: [ConnectApi.ManagedContentVariant, Managed, content, variant.]
 ---
 
 # ConnectApi.ManagedContentVariant
+
+> Managed content variant.
 
 # ConnectApi.ManagedContentVariant
 
@@ -37,3 +40,15 @@ Managed content variant.
 | status | ConnectApi.​ManagedContent​VariantStatus​Output | Information about a managed content variant's status in the authoring space. | 60.0 |
 | title | String | Title of the managed content. | 60.0 |
 | urlName | String | URL name of the managed content. | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- ConnectApi.​ManagedContent​SpaceSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_space_summary.htm)
+- ConnectApi.​ManagedContent​TypeSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_type_summary.htm)
+- ConnectApi.​ManagedContent​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_user_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​ManagedContent​FolderSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_folder_summary.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ManagedContent​VariantStatus​Output (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_variant_status.htm)

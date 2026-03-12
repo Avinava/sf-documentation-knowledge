@@ -5,11 +5,14 @@ topic: connectapirangesearchfacet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.836Z
-keywords: [ConnectApi.RangeSearchFacet]
+lastCollected: 2026-03-12T05:14:28.744Z
+estimatedTokens: 246
+keywords: [ConnectApi.RangeSearchFacet, Range, facet, minimum, maximum, values, product, search, results.]
 ---
 
 # ConnectApi.RangeSearchFacet
+
+> Range facet with minimum and maximum values in product search results.
 
 # ConnectApi.RangeSearchFacet
 
@@ -26,3 +29,8 @@ Range facet with minimum and maximum values in product search results.
 | max | String | Maximum value of the facet found in the search result. | 64.0 |
 | min | String | Minimum value of the facet found in the search result. | 64.0 |
 | nameOrId | String | Developer name of the attribute for the refinement. | 64.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.RangeFacetDisplayMetadataRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_range_facet_display_metadata.htm)

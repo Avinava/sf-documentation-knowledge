@@ -5,11 +5,15 @@ topic: pathassistant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.899Z
-keywords: [PathAssistant, Important, File, Suffix, Directory, Location, Version, Fields, PathAssistantStep, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.655Z
+estimatedTokens: 832
+keywords: [PathAssistant, Represents, Path, records.This, extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields, PathAssistantStep, Declarative]
 ---
 
 # PathAssistant
+
+> Represents Path records.This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # PathAssistant
 
@@ -73,3 +77,62 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>Opportunity</entityName>
+    <fieldName>StageName</fieldName>
+    <masterLabel>Test Path</masterLabel>
+    <pathAssistantSteps>
+        <fieldNames>Amount</fieldNames>
+        <fieldNames>CloseDate</fieldNames>
+        <info>Some Text</info>
+        <picklistValueName>Id. Decision Makers</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>Amount</fieldNames>
+        <fieldNames>CloseDate</fieldNames>
+        <info>Some Text</info>
+        <picklistValueName>Proposal/Price Quote</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>Test_Record_Type</recordTypeName>
+</PathAssistant>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+        <members>Opportunity.Test_Busines_Process</members>
+        <name>BusinessProcess</name>
+    </types>
+    <types>
+        <members>Opportunity.StageName</members>
+        <members>Lead.LeadSource</members>
+        <members>Opportunity.Type</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Test_Path</members>
+        <name>PathAssistant</name>
+    </types>
+    <types>
+        <members>Opportunity.Test_Record_Type</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>PathAssistant</members>
+        <name>Settings</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

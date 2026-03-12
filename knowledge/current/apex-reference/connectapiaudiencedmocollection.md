@@ -5,11 +5,14 @@ topic: connectapiaudiencedmocollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.977Z
-keywords: [ConnectApi.AudienceDMOCollection, See]
+lastCollected: 2026-03-12T05:14:26.122Z
+estimatedTokens: 162
+keywords: [ConnectApi.AudienceDMOCollection, Represents, collection, Audience, Data, Model, DMO, records.]
 ---
 
 # ConnectApi.AudienceDMOCollection
+
+> Represents a collection of Audience Data Model Object (DMO) records.
 
 # ConnectApi.AudienceDMOCollection
 
@@ -24,3 +27,10 @@ Represents a collection of Audience Data Model Object (DMO) records.
 #### See Also
 
 -   [getActivationData(activationId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpAudienceDMO_static_methods.htm#apex_ConnectAPI_CdpAudienceDMO_getActivationData_1 "Get a list of all activation records from Audience Data Model Objects (DMOs).")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ActivationData (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_activation_data.htm)
+- getActivationData(activationId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpAudienceDMO_static_methods.htm)

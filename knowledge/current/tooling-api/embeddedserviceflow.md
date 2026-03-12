@@ -5,11 +5,15 @@ topic: embeddedserviceflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.706Z
-keywords: [EmbeddedServiceFlow, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.276Z
+estimatedTokens: 708
+keywords: [EmbeddedServiceFlow, Represents, Flow, Definition, used, Embedded, Service, deployment., API, version, 45.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # EmbeddedServiceFlow
+
+> Represents a Flow Definition used by an Embedded Service deployment. This
+    object is available in API version 45.0 and later.
 
 # EmbeddedServiceFlow
 
@@ -46,3 +50,9 @@ Only certain ProcessType values of the Flow object are supported depending on wh
 -   Appointment Booking features, where the FlowType starts with “FS”, only support FieldServiceWeb and Appointments values for ProcessType.
 -   Chat features, where the FlowType starts with “LA”, only support the Flow value for ProcessType.
 -   Flow features, where the FlowType starts with “FL”, only support the Survey value for ProcessType.
+
+## Related Topics
+
+- EmbeddedServiceConfig (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceconfig.htm)
+- FlowDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_flowdefinition.htm)
+- Flow (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_flow.htm)

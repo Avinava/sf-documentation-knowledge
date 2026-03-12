@@ -5,11 +5,15 @@ topic: connectapiexternalmanagedaccountaddressoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.751Z
-keywords: [ConnectApi.ExternalManagedAccountAddressOutput, See]
+lastCollected: 2026-03-12T05:14:27.285Z
+estimatedTokens: 256
+keywords: [ConnectApi.ExternalManagedAccountAddressOutput, Default, shipping, address, externally, managed, account.]
 ---
 
 # ConnectApi.ExternalManagedAccountAddressOutput
+
+> Default shipping address for an externally managed
+    account.
 
 # ConnectApi.ExternalManagedAccountAddressOutput
 
@@ -29,3 +33,8 @@ Default shipping address for an externally managed account.
 #### See Also
 
 -   [ConnectApi.ExternalManagedAccountOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_managed_account_output.htm "Externally managed account.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ExternalManagedAccountOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_managed_account_output.htm)

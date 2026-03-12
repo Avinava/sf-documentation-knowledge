@@ -5,11 +5,15 @@ topic: advaccountforecastset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.121Z
-keywords: [AdvAccountForecastSet, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.495Z
+estimatedTokens: 1613
+keywords: [AdvAccountForecastSet, Represents, advanced, account, forecast, set., API, version, 56.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # AdvAccountForecastSet
+
+> Represents an advanced account forecast set. This object is available in
+      API version 56.0 and later.
 
 # AdvAccountForecastSet
 

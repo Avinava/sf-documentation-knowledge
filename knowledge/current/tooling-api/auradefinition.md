@@ -5,11 +5,15 @@ topic: auradefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.274Z
-keywords: [AuraDefinition, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.723Z
+estimatedTokens: 549
+keywords: [AuraDefinition, Represents, Aura, component, definition, such, markup, client-side, controller, event., API, version, 32.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # AuraDefinition
+
+> Represents an Aura component definition, such as component markup, a
+			client-side controller, or an event.  Available in API version 32.0 and later.
 
 # AuraDefinition
 

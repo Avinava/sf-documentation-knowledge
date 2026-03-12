@@ -6,12 +6,16 @@ topic: get-a-layout-for-a-single-approval-process-on-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.633Z
-keywords: [Get, Layout, Single, Approval, Process, Specified, Object, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.957Z
+estimatedTokens: 126
+keywords: [Get, Layout, Single, Approval, Process, Specified, Retrieves, approval, layout, named, process, specified, object., resource, REST, API, version, 30.0, later., Syntax]
 ---
 
 # Get a Layout for a Single Approval Process on a Specified
 			Object
+
+> Retrieves an approval layout for a named approval process on a specified object. This
+		resource is available in REST API version 30.0 and later.
 
 # Get a Layout for a Single Approval Process on a Specified Object
 
@@ -51,4 +55,21 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/describe/approvalLayouts/ExampleApprovalProcessName -H "Authorization: Bearer token"
+```
+
+```
+{
+  "approvalLayouts" : [ {
+    "id" : "04aD00000008Py9IAE",
+    "label" : "ExampleApprovalProcessName",
+    "layoutItems" : [...],
+    "name" : "ExampleApprovalProcessName"
+  } ]
+}
 ```

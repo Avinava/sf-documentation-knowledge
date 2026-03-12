@@ -6,12 +6,16 @@ topic: minimize-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.447Z
-keywords: [minimize, Lightning, Experience, Arguments, LWC, Sample, Code, Response, See]
+lastCollected: 2026-03-12T05:14:58.060Z
+estimatedTokens: 227
+keywords: [minimize, Lightning, Experience, Minimizes, utility., Web, Components, LWC, only., Arguments, Sample, Code, Response]
 ---
 
 # minimize() for Lightning Experience for Lightning
             Experience
+
+> Minimizes a utility. This method is available for Lightning Web Components (LWC)
+  only.
 
 # minimize() for Lightning Experience for Lightning Experience
 
@@ -40,3 +44,28 @@ Returns a promise that resolves to true if successful. The promise is rejected o
 #### See Also
 
 -   [*LWC Dev Guide*: Understand the Wire Service](https://developer.salesforce.com/docs/platform/lwc/guide/data-wire-service-about.html "LWC Dev Guide: Understand the Wire Service - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { minimize, EnclosingUtilityId } from 'lightning/platformUtilityBarApi';
+
+export default class MinimizeUtilityExample extends LightningElement {
+    @wire(EnclosingUtilityId) utilityId;
+    
+    async handleMinimize() {
+        try {
+            if (!this.utilityId) {
+                return;
+          }
+        // Minimize the utility bar panel
+        const isMinimized = await minimize(this.utilityId);
+        console.log(`Minimize utility ${isMinimized ? 'successfully' : 'failed'}`);
+        }
+        catch (error) {
+            // handle error
+        }
+    }
+}
+```

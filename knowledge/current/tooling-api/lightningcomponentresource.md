@@ -5,11 +5,16 @@ topic: lightningcomponentresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.178Z
-keywords: [LightningComponentResource, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.940Z
+estimatedTokens: 422
+keywords: [LightningComponentResource, Represents, Lightning, web, component, resource, such, HTML, markup, JavaScript, code, CSS, file, SVG, XML, configuration, file., API, version, 45.0]
 ---
 
 # LightningComponentResource
+
+> Represents a Lightning web component
+            resource, such as HTML markup, JavaScript code, a CSS file, an SVG resource, or an XML
+            configuration file. Available in API version 45.0 and later.
 
 # LightningComponentResource
 

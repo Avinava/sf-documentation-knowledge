@@ -5,11 +5,15 @@ topic: decision-table-source-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.214Z
-keywords: [Decision, Table, Source, Criteria, Input]
+lastCollected: 2026-03-12T05:14:48.304Z
+estimatedTokens: 216
+keywords: [Decision, Table, Source, Criteria, Input, representation, source, criteria, decision, table.]
 ---
 
 # Decision Table Source Criteria Input
+
+> Input representation of source criteria for the decision
+    table.
 
 # Decision Table Source Criteria Input
 

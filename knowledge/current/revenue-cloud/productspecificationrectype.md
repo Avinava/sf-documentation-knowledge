@@ -4,12 +4,18 @@ domain: revenue-cloud
 topic: productspecificationrectype
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T14:37:50.733Z
-keywords: [ProductSpecificationRecType, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:08.854Z
+estimatedTokens: 603
+keywords: [ProductSpecificationRecType, Represents, association, product, specification, record, types, defined, Product, object., determines, sold, commercially, not., Important, Parent, File, Suffix, Directory, Location]
 ---
 
 # ProductSpecificationRecType
+
+> Represents the association of a product specification type with record types
+         defined on the Product object. The product specification record type also determines if the
+         product specification is sold commercially or not. This object is available in API
+      version 60.0 and later.
 
 # ProductSpecificationRecType
 
@@ -46,3 +52,32 @@ Ensure Product Catalog Management is enabled to access this object.
 | ProductSpecificationType | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionRequired.Product specification type that's associated with the record type. This field is unique within your organization.The picklist values that are available to you depend on your industry solution and permission sets. |
 | RecordType | TypesObjectPropertiesNillableDescriptionCustom record type of Product2 object. |
 | RecordTypeId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionRequired. ID of the product record type associated with the product specification type. This field is unique within your organization.This field is a relationship field.Relationship NameRecordTypeRelationship TypeLookupRefers ToRecordType |
+
+## Code Examples
+
+```
+<ProductSpecificationRecType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>sample</masterLabel>
+   <recordType>Product2.Offer</recordType>
+   <productSpecificationType>Placeholder</productSpecificationType>
+   <isCommercial>true</isCommercial>
+</ProductSpecificationRecType>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ProductSpecificationRecType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ProductSpecificationType</name>
+    </types>
+    <types>
+        <members>Product2.Offer</members>
+        <name>RecordType</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

@@ -5,11 +5,15 @@ topic: connectapiwishlistssummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.228Z
-keywords: [ConnectApi.WishlistsSummary]
+lastCollected: 2026-03-12T05:14:29.310Z
+estimatedTokens: 123
+keywords: [ConnectApi.WishlistsSummary, List, wishlist, summaries, displayed, list, context, user.]
 ---
 
 # ConnectApi.WishlistsSummary
+
+> List of wishlist summaries and the displayed list for the context
+      user.
 
 # ConnectApi.WishlistsSummary
 
@@ -20,3 +24,10 @@ List of wishlist summaries and the displayed list for the context user.
 | displayedList | ConnectApi.​Wishlist | Oldest wishlist displayed for the context user. | 49.0 |
 | summaries | List<ConnectApi.​WishlistSummary> | Summary of wishlists belonging to the context user. | 49.0 |
 | wishlistCount | Integer | Total number of wishlists belonging to the context user. | 49.0 |
+
+## Related Topics
+
+- ConnectApi.​Wishlist (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​WishlistSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_summary.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

@@ -5,11 +5,14 @@ topic: connectapideleteintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.567Z
-keywords: [ConnectApi.DeleteIntent, See]
+lastCollected: 2026-03-12T05:14:27.012Z
+estimatedTokens: 114
+keywords: [ConnectApi.DeleteIntent, Delete, intent, social, post.]
 ---
 
 # ConnectApi.DeleteIntent
+
+> Delete intent for a social post.
 
 # ConnectApi.DeleteIntent
 
@@ -22,3 +25,8 @@ Delete intent for a social post.
 #### See Also
 
 -   [ConnectApi.DeleteIntents](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_delete_social_post_intents_output.htm "List of delete intents for a social post.")
+
+## Related Topics
+
+- ConnectApi.​ManagedSocialAccount (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_social_account_output.htm)
+- ConnectApi.DeleteIntents (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_delete_social_post_intents_output.htm)

@@ -5,11 +5,17 @@ topic: embeddedserviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.744Z
-keywords: [EmbeddedServiceResource, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.331Z
+estimatedTokens: 293
+keywords: [EmbeddedServiceResource, Represents, mapping, EmbeddedServiceCustomization, record, parent, set, resources., resource, customizations, applied, via, uploaded, Embedded, Chat., API, version, 50.0, later., Supported]
 ---
 
 # EmbeddedServiceResource
+
+> Represents a mapping from an EmbeddedServiceCustomization record parent to a
+         set of resources. Each resource is a set of customizations applied via an uploaded static
+         resource for your Embedded Chat. This object is available in API version 50.0 and
+      later.
 
 # EmbeddedServiceResource
 

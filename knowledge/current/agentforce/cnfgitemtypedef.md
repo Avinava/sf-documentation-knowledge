@@ -5,11 +5,17 @@ topic: cnfgitemtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:17.992Z
-keywords: [CnfgItemTypeDef, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.571Z
+estimatedTokens: 759
+keywords: [CnfgItemTypeDef, Represents, definition, configuration, item, type., represents, category, used, classify, items., components, share, common, characteristics., example, server, application, network, device.]
 ---
 
 # CnfgItemTypeDef
+
+> Represents the definition of a configuration item type. A configuration item
+         type represents a category that is used to classify configuration items. The components
+         share common characteristics. For example, server, application, and network device.
+      This object is available in API version 65.0 and later.
 
 # CnfgItemTypeDef
 

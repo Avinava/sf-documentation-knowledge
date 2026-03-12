@@ -4,12 +4,16 @@ domain: field-service
 topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:47:13.260Z
-keywords: [TimeSheetTemplate, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Limitations, Fields]
+docType: help-article
+lastCollected: 2026-03-12T05:14:55.765Z
+estimatedTokens: 704
+keywords: [TimeSheetTemplate, Represents, template, creating, time, sheets, Field, Service., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
 ---
 
 # TimeSheetTemplate
+
+> Represents a template for creating time sheets in Field
+        Service. Available in API version 46.0 and later.
 
 # TimeSheetTemplate
 
@@ -49,3 +53,39 @@ SOQL Limitations
 | TimeSheetTemplateAssignments | TypeQueryResultPropertiesNillableDescriptionA list of profiles that the template is assigned to. This field is only visible when the template has been assigned to at least one user profile. Available in API version 48.0 and later. |
 | WorkWeekEndDay | TypepicklistPropertiesDefaulted On Create, Filter, Group, Restricted picklist, SortDescriptionThe end day of the template's work week. One of the following values:MondayTuesdayWednesdayThursdayFridaySaturdaySunday (default) |
 | WorkWeekStartDay | TypepicklistPropertiesDefaulted On Create, Filter, Group, Restricted picklist, SortDescriptionThe start day of the template's work week. One of the following values:MondayTuesdayWednesdayThursdayFridaySaturdaySunday (default) |
+
+## Code Examples
+
+```
+<?xml version=“1.0” encoding=“UTF-8"?>
+<TimeSheetTemplate xmlns=“http://soap.sforce.com/2006/04/metadata“>
+   <active>true</active>
+   <description>Time Sheet Template description</description>
+   <frequency>Daily</frequency>
+   <masterLabel>label</masterLabel>
+   <startDate>2018-10-18</startDate>
+   <timeSheetTemplateAssignments>
+       <assignedTo>admin</assignedTo>
+   </timeSheetTemplateAssignments>
+   <timeSheetTemplateAssignments>
+       <assignedTo>standard</assignedTo>
+   </timeSheetTemplateAssignments>
+   <workWeekEndDay>Tuesday</workWeekEndDay>
+   <workWeekStartDay>Monday</workWeekStartDay>
+</TimeSheetTemplate>
+```
+
+```
+<?xml version=“1.0” encoding=“UTF-8"?>
+<Package xmlns=“http://soap.sforce.com/2006/04/metadata“>
+   <types>
+       <members>*</members>
+       <name>TimeSheetTemplate</name>
+   </types>
+   <version>46.0</version>
+</Package>
+```
+
+## Related Topics
+
+- TimeSheetTemplate (atlas.en-us.field_service_dev.meta/field_service_dev/meta_timesheettemplate.htm)

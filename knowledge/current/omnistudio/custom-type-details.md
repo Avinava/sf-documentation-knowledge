@@ -5,11 +5,14 @@ topic: custom-type-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.264Z
-keywords: [Custom, Type, Details]
+lastCollected: 2026-03-12T05:14:49.927Z
+estimatedTokens: 99
+keywords: [Custom, Details, Output, representation, custom, details, Omniscript, elements.]
 ---
 
 # Custom Type Details
+
+> Output representation of the custom type details of the Omniscript elements.
 
 # Custom Type Details
 
@@ -24,3 +27,17 @@ JSON example
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
 | discovery​Framework | OS Element Discovery Framework[] | Custom type details for the Omniscript element for Discovery framework. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"customTypeDetails" : {
+            "discoveryFramework": {
+                "questionText": "Can you provide more details about the transaction"
+            }
+          }
+```
+
+## Related Topics
+
+- OS Element Discovery Framework (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_os_element_discovery_framework_output.htm)

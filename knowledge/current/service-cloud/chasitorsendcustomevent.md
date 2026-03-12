@@ -5,11 +5,16 @@ topic: chasitorsendcustomevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.782Z
-keywords: [chasitor.sendCustomEvent, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.139Z
+estimatedTokens: 131
+keywords: [chasitor.sendCustomEvent, Sends, custom, event, agent, console, who, currently, chatting, customer., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # chasitor.sendCustomEvent()
+
+> Sends a custom event to the agent console of the agent who is currently chatting with
+        a customer. Available in API version 29.0 or
+            later.
 
 # chasitor.sendCustomEvent()
 
@@ -37,3 +42,22 @@ Sends a custom event to the agent console of the agent who is currently chatting
 ## Response
 
 This method returns no responses.
+
+## Code Examples
+
+```
+liveagent.chasitor.sendCustomEvent(type:String, data:String)
+```
+
+```
+<a href="#" onClick="testSendCustomEvent();">Send Custom Event</a>
+
+<script type="text/javascript">
+        function testSendCustomEvent() {
+            type = 'myCustomEventType';
+            data = 'myCustomEventData';
+            liveagent.chasitor.sendCustomEvent(type, data);
+            alert('The custom event has been sent');
+        };
+</script>
+```

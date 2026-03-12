@@ -4,12 +4,17 @@ domain: apex-guide
 topic: idempotency-guidelines
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.706Z
-keywords: [Idempotency, Guidelines]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.790Z
+estimatedTokens: 245
+keywords: [Idempotency, Guidelines, represents, ability, payment, gateway, recognize, duplicate, requests, submitted, either, error, maliciously, then, process, accordingly., working, idempotent, consider, important]
 ---
 
 # Idempotency Guidelines
+
+> Idempotency represents the ability of a payment gateway to recognize duplicate requests
+    submitted either in error or maliciously, and then process the duplicate requests accordingly.
+    When working with an idempotent gateway, consider these important guidelines.
 
 # Idempotency Guidelines
 
@@ -17,7 +22,7 @@ Idempotency represents the ability of a payment gateway to recognize duplicate r
 
 | Available in: Salesforce Spring ’20 |
 | --- |
-  
+
 
 To access the commercepayments API, you need the PaymentPlatform org permission.
 
@@ -30,3 +35,11 @@ The payment gateway adapter class is linked to a paymentGatewayProvider object r
 The idempotency key can be fetched from the request object.
 
 String idempotencyKey = request.idempotencyKey
+
+## Code Examples
+
+```
+commercepayments.CaptureRequest request = 
+(commercepayments.CaptureRequest)paymentGatewayContext.getPaymentRequest();
+Boolean isDuplicate = requestObject.duplicate
+```

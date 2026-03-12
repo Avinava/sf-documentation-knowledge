@@ -5,11 +5,17 @@ topic: b2c-commerce-goods-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.686Z
-keywords: [B2C, Commerce, Goods, Product, Mapping, DLO, DMO, Note]
+lastCollected: 2026-03-12T05:14:12.902Z
+estimatedTokens: 395
+keywords: [B2C, Commerce, Goods, Product, Mapping, After, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
 ---
 
 # B2C Commerce: Goods Product Mapping
+
+> After a data stream is deployed, the Salesforce B2C Commerce Order
+         starter data bundle automatically maps source objects from B2C Commerce to data model
+         objects (DMO)s in Data Cloud. The Goods Product object represents hard goods that can be
+         purchased.
 
 # B2C Commerce: Goods Product Mapping
 

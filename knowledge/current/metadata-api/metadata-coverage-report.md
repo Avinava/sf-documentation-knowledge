@@ -5,11 +5,17 @@ topic: metadata-coverage-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.413Z
-keywords: [Metadata, Coverage, Report]
+lastCollected: 2026-03-12T05:14:38.120Z
+estimatedTokens: 146
+keywords: [Metadata, Coverage, Report, Launch, report, determine, supported, metadata, components., ultimate, source, truth, coverage, across, several, channels., channels, include, API, scratch]
 ---
 
 # Metadata Coverage Report
+
+> Launch the Metadata Coverage report to determine supported metadata components. The
+  Metadata Coverage report is the ultimate source of truth for metadata coverage across several
+  channels. These channels include Metadata API, scratch org source tracking, unlocked packages,
+  second-generation managed packages, classic managed packages, and more.
 
 # Metadata Coverage Report
 

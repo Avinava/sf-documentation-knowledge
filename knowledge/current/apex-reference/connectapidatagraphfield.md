@@ -5,11 +5,14 @@ topic: connectapidatagraphfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.516Z
-keywords: [ConnectApi.DataGraphField]
+lastCollected: 2026-03-12T05:14:26.930Z
+estimatedTokens: 253
+keywords: [ConnectApi.DataGraphField, Represents, field, data, graph.]
 ---
 
 # ConnectApi.DataGraphField
+
+> Represents a field of a data graph.
 
 # ConnectApi.DataGraphField
 
@@ -27,3 +30,8 @@ Represents a field of a data graph.
 | length | String | Length of the field. | 59.0 |
 | lookupCol | String | Lookup column for the field. | 59.0 |
 | usageTag | String | Indicates whether the field represents a key qualifier field (KEY_QUALIFIER) or not (NONE). | 59.0 |
+
+## Related Topics
+
+- DaoObjectFieldTypeQueryEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

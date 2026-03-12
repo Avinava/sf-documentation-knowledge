@@ -5,11 +5,15 @@ topic: lightningomnichannelworkaccepted
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.883Z
-keywords: [lightning, omniChannelWorkAccepted, Response, Example]
+lastCollected: 2026-03-12T05:14:57.257Z
+estimatedTokens: 176
+keywords: [lightning, omniChannelWorkAccepted, Indicates, agent, accepted, work, assignment, automatically, accepted., Response, Example]
 ---
 
 # lightning:omniChannelWorkAccepted
+
+> Indicates that an agent has accepted a work
+            assignment, or that a work assignment has been automatically accepted.
 
 # lightning:omniChannelWorkAccepted
 
@@ -36,4 +40,25 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelWorkAccepted" action="{! c.onWorkAccepted }"/>
+</aura:component>
+```
+
+```
+({
+    onWorkAccepted : function(component, event, helper) {
+        console.log("Work accepted.");
+        var workItemId = event.getParam('workItemId');
+        var workId = event.getParam('workId');
+        console.log(workItemId);
+        console.log(workId);
+    }, 
+})
 ```

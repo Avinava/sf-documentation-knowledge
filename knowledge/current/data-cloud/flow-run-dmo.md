@@ -5,11 +5,15 @@ topic: flow-run-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.463Z
-keywords: [Flow, Run, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.122Z
+estimatedTokens: 760
+keywords: [Flow, Run, DMO, Data, Cloud, data, model, details, single, execution, flow., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Flow Run DMO
+
+> The Flow Run DMO is a Data Cloud 
+      data model object (DMO) for details about a single execution of a flow.
 
 # Flow Run DMO
 

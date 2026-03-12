@@ -5,11 +5,14 @@ topic: eligibility-rule-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.229Z
-keywords: [Eligibility, Rule, Value, Input]
+lastCollected: 2026-03-12T05:14:48.327Z
+estimatedTokens: 170
+keywords: [Eligibility, Rule, Input, Representation, Values]
 ---
 
 # Eligibility Rule Value Input
+
+> Input Representation for Rule Values
 
 # Eligibility Rule Value Input
 
@@ -30,3 +33,31 @@ Properties
 | fieldName | String | Name of the field in the source object. | Required | 66.0 |
 | fieldValue | String | Value of the field. | Required | 66.0 |
 | operator | String | The operator applied to an associated decision table field to filter the data. | Required | 66.0 |
+
+## Code Examples
+
+```
+[
+    {
+      "fieldName": "Country",
+      "fieldValue": "USA",
+      "operator": "Equals",
+      "domainEntity": "Account",
+      "domainEntityId": "xyz"
+    },
+    {
+      "fieldName": "ProductId",
+      "fieldValue": "123",
+      "operator": "Equals",
+      "domainEntity": "Account",
+      "domainEntityId": "xyz"
+    },
+    {
+      "fieldName": "ParentProductId",
+      "fieldValue": "123",
+      "operator": "Equals",
+      "domainEntity": "Account",
+      "domainEntityId": "xyz"
+    }
+  ]
+```

@@ -5,11 +5,16 @@ topic: externalstring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.905Z
-keywords: [ExternalString, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:45.563Z
+estimatedTokens: 633
+keywords: [ExternalString, Represents, custom, label, translatable, component., Includes, access, associated, Metadata, API., API, version, 38.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # ExternalString
+
+> Represents a custom label for a translatable UI component.
+        Includes access to the associated label in the Metadata API. Available in API version 38.0
+        and later.
 
 # ExternalString
 
@@ -39,3 +44,7 @@ DELETE, GET, PATCH, POST
 | Name | TypestringPropertiesCreate, Filter, Group, SortDescriptionThe name used in Apex and Visualforce pages to reference the custom label. Names must contain only alphanumeric characters, start with a letter, contain no spaces or double underscores, and be unique from all other labels in your org. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace of the package of which the custom label is a part. |
 | Value | TypestringPropertiesCreate, Filter, Sort, UpdateDescriptionThe custom label value, limited to 1,000 characters. This value can be translated into any language that Salesforce supports. |
+
+## Related Topics
+
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

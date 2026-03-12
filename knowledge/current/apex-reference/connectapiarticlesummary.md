@@ -5,11 +5,14 @@ topic: connectapiarticlesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.952Z
-keywords: [ConnectApi.ArticleSummary]
+lastCollected: 2026-03-12T05:14:26.088Z
+estimatedTokens: 215
+keywords: [ConnectApi.ArticleSummary, knowledge, article, summary.]
 ---
 
 # ConnectApi.ArticleSummary
+
+> A knowledge article summary.
 
 # ConnectApi.ArticleSummary
 
@@ -27,3 +30,11 @@ Subclass of [ConnectApi.ActorWithId](atlas.en-us.apexref.meta/apexref/apex_conne
 | title | String | Title of the knowledge article. | 37.0 |
 | urlName | String | URL name of the knowledge article. | 37.0 |
 | viewCount | Integer | Number of times the knowledge article has been viewed. | 38.0 |
+
+## Related Topics
+
+- ConnectApi.ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

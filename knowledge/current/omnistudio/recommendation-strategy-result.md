@@ -5,11 +5,15 @@ topic: recommendation-strategy-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.760Z
-keywords: [Recommendation, Strategy, Result]
+lastCollected: 2026-03-12T05:14:50.624Z
+estimatedTokens: 251
+keywords: [Recommendation, Strategy, Result, Specifies, strategy, result, containing, fetched, recommendation, details, record.]
 ---
 
 # Recommendation Strategy Result
+
+> Specifies the strategy result containing the fetched recommendation
+      details for each record.
 
 # Recommendation Strategy Result
 
@@ -23,3 +27,8 @@ Specifies the strategy result containing the fetched recommendation details for 
 | predictionScore | Double | The prediction score, which is an input to the recommendation request. | Small, 56.0 | 56.0 |
 | recommendations | Recommendation Details | The list of recommendations returned by a recommendation request. | Small, 56.0 | 56.0 |
 | recordId | String | The ID of the record for which the recommendation request is executed. | Small, 56.0 | 56.0 |
+
+## Related Topics
+
+- Error (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_error.htm)
+- Recommendation Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_recommendation.htm)

@@ -5,11 +5,17 @@ topic: safely-cache-values-with-the-cachebuilder-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.379Z
-keywords: [Safely, Cache, Values, CacheBuilder, Interface, Coding, Requirements, See]
+lastCollected: 2026-03-12T05:14:33.743Z
+estimatedTokens: 946
+keywords: [Safely, Cache, Values, CacheBuilder, Platform, best, practice, ensure, Apex, code, handles, cache, misses, testing, requests, null., write, yourself., Cache.CacheBuilder, which]
 ---
 
 # Safely Cache Values with the CacheBuilder Interface
+
+> A Platform Cache best practice is to ensure that your Apex code handles cache misses
+    by testing for cache requests that return null. You can write this code yourself. Or, you can
+    use the Cache.CacheBuilder interface, which makes it
+    easy to safely store and retrieve values to a session or org cache.
 
 # Safely Cache Values with the CacheBuilder Interface
 
@@ -46,3 +52,18 @@ Follow these requirements when you code a class that implements the CacheBuilder
 #### See Also
 
 -   [*Apex Reference Guide*: CacheBuilder Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_cache_CacheBuilder.htm "Apex Reference Guide: CacheBuilder Interface - HTML (New Window)")
+
+## Code Examples
+
+```apex
+class UserInfoCache implements Cache.CacheBuilder {
+    public Object doLoad(String userid) {
+        User u = (User)[SELECT Id, IsActive, username FROM User WHERE id =: userid];
+        return u;
+    }
+}
+```
+
+```
+User batman = (User) Cache.Org.get(UserInfoCache.class, ‘00541000000ek4c');
+```

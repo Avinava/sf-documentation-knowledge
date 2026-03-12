@@ -5,11 +5,15 @@ topic: industriesunifiedinventorysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.149Z
-keywords: [IndustriesUnifiedInventorySettings, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:40.589Z
+estimatedTokens: 471
+keywords: [IndustriesUnifiedInventorySettings, Represents, settings, Industries, Unified, Inventory., Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # IndustriesUnifiedInventorySettings
+
+> Represents the settings for Industries Unified
+			Inventory.
 
 # IndustriesUnifiedInventorySettings
 
@@ -48,3 +52,29 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IndustriesUnifiedInventorySettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableBatchManagement>true</enableBatchManagement>
+    <enableInventoryCount>true</enableInventoryCount>
+    <enableProductInventoryOperations>true</enableProductInventoryOperations>
+</IndustriesUnifiedInventorySettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>IndustriesUnifiedInventory</members>
+        <name>Settings</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

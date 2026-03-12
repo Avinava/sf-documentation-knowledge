@@ -4,12 +4,17 @@ domain: apex-guide
 topic: future-annotation
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.483Z
-keywords: [Future, Annotation, Important, Method, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.467Z
+estimatedTokens: 673
+keywords: [Future, Annotation, annotation, identify, run, asynchronously., future, runs, Salesforce, resources., Important, Considerations]
 ---
 
 # Future Annotation
+
+> Use the Future annotation to identify methods
+    that run asynchronously. A future method runs when Salesforce has available
+    resources.
 
 # Future Annotation
 
@@ -49,3 +54,29 @@ The following snippet shows how to specify that a method executes a callout:
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm "Deprecated Annotation Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "InvocableMethod Annotation")
+
+## Code Examples
+
+```apex
+public with sharing class MyFutureClass {
+
+    @Future 
+    static void myMethod(String a, Integer i) {
+        System.debug('Method called with: ' + a + ' and ' + i);
+        // Perform long-running code
+    }
+}
+```
+
+```apex
+@Future (callout=true)
+public static void doCalloutFromFuture() {
+    //Add code to perform callout
+}
+```
+
+## Related Topics
+
+- Queueable Apex (atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)

@@ -5,11 +5,14 @@ topic: menuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.241Z
-keywords: [MenuItem, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.030Z
+estimatedTokens: 602
+keywords: [MenuItem, Represents, menu, item., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # MenuItem
+
+> Represents a menu item.
 
 # MenuItem
 
@@ -44,4 +47,22 @@ MenuItem can be queried and manipulated to change how menu items appear in Sales
 
 ```
 
+```
+
+## Code Examples
+
+```
+String query = "SELECT AppId, Label, Active, SortOrder FROM MenuItem "
++
+     "WHERE MenuType = 'Salesforce'";
+SObject[] records = sforce.query(query).getRecords();
+
+//Activate all menu items
+for (int i = 0; i < records.length; i++) {
+   MenuItem item = (MenuItem)records[i];
+   item.setOrder(i + 1);
+   item.setActive(true);
+}
+
+sforce.update(records);
 ```

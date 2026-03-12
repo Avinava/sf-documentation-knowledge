@@ -5,11 +5,15 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.761Z
-keywords: [Folder, File, Suffix, Directory, Location, Deploying, Retrieving, Nested, Folders, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.043Z
+estimatedTokens: 1368
+keywords: [Folder, Represents, folder., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Deploying, Retrieving, Nested, Folders, Version, Fields]
 ---
 
 # Folder
+
+> Represents a folder. This type extends the Metadata metadata
+        type and inherits its fullName field.
 
 # Folder
 
@@ -77,15 +81,62 @@ The following is an example of the sampleFolder-meta.xml metadata file for the s
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
-1.  [FolderShare](atlas.en-us.api_meta.meta/api_meta/meta_foldershare.htm)  
+1.  [FolderShare](atlas.en-us.api_meta.meta/api_meta/meta_foldershare.htm)
     Represents the settings for enhanced analytics folder sharing. Users can control access to reports or dashboards by giving others Viewer, Editor, or Manager access to the folder that contains the report or dashboard.
 
 #### See Also
 
 -   [Dashboard](atlas.en-us.api_meta.meta/api_meta/meta_dashboard.htm "Represents a dashboard. Dashboards are visual representations of data that allow you to see key metrics and performance at a glance.")
-    
+
 -   [Document](atlas.en-us.api_meta.meta/api_meta/meta_document.htm "Represents a Document. All documents must be in a document folder, such as sampleFolder/TestDocument.")
-    
+
 -   [EmailTemplate](atlas.en-us.api_meta.meta/api_meta/meta_emailtemplate.htm "Represents a template for an email, mass email, list email, or Sales Engagement email. Supported in first-generation managed packages only.")
-    
+
 -   [Report](atlas.en-us.api_meta.meta/api_meta/meta_report.htm "Represents a custom report. This metadata type only supports custom reports; standard reports aren’t supported.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyTopFolder/MyNestedFolder/</members>
+        <name>DocumentFolder</name>
+    </types>
+    <version>58.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>basic</fullName>
+    <types>
+        <members>sampleFolder</members>
+        <members>sampleFolder/TestDocument.txt</members>
+        <name>Document</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<DocumentFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accessType>Public</accessType>
+    <name>sampleFolder</name>
+    <publicFolderAccess>ReadWrite</publicFolderAccess>
+</DocumentFolder>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- SharedTo (atlas.en-us.api_meta.meta/api_meta/meta_sharedto.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- FolderShare (atlas.en-us.api_meta.meta/api_meta/meta_foldershare.htm)
+- Dashboard (atlas.en-us.api_meta.meta/api_meta/meta_dashboard.htm)
+- Document (atlas.en-us.api_meta.meta/api_meta/meta_document.htm)
+- EmailTemplate (atlas.en-us.api_meta.meta/api_meta/meta_emailtemplate.htm)
+- Report (atlas.en-us.api_meta.meta/api_meta/meta_report.htm)

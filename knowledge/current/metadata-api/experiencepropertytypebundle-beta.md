@@ -5,11 +5,16 @@ topic: experiencepropertytypebundle-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.382Z
-keywords: [ExperiencePropertyTypeBundle, Beta, Note, Important, Parent, Type, File, Structure, Directory, Location, Version, Special, Access, Rules, Fields, ExperiencePropertyTypeBundleResource, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.490Z
+estimatedTokens: 1447
+keywords: [ExperiencePropertyTypeBundle, Beta, Represents, type., Replaced, Spring, ’26, updated, LightningPropertyType., create, custom, Lightning, web, component, LightningPropertyType, instead, deploy, bundle, org., Note]
 ---
 
 # ExperiencePropertyTypeBundle (Beta)
+
+> Represents a property type. Replaced in Spring ’26 by the updated LightningPropertyType.
+		When you create a custom property type for a Lightning web component, use
+		LightningPropertyType instead, and deploy that bundle to your org.
 
 # ExperiencePropertyTypeBundle (Beta)
 
@@ -106,3 +111,36 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [*External Link*: Custom Property Types and Property Editors (Beta)](https://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/custom_property_types_and_editors.pdf)
+
+## Code Examples
+
+```
++--myMetadataPackage
+    +--experiencePropertyTypeBundles (1)
+        +--addressProperty (2)
+            +--schema.json (3)
+            +--design.json (4)
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ExperiencePropertyTypeBundle</name>
+    </types>
+    <version>58.0</version>
+</Package>
+```
+
+```
+experiencePropertyTypeBundles
+    addressProperty
+        schema.json
+        design.json
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

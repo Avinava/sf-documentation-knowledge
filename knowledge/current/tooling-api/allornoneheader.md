@@ -5,11 +5,15 @@ topic: allornoneheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:37.073Z
-keywords: [AllOrNoneHeader, API, Calls, Fields, Sample, Code—Java]
+lastCollected: 2026-03-12T05:14:44.425Z
+estimatedTokens: 424
+keywords: [AllOrNoneHeader, Allows, call, roll, back, changes, unless, records, processed, successfully., API, Calls, Fields, Sample, Code—Java]
 ---
 
 # AllOrNoneHeader
+
+> Allows a call to roll back all changes unless all records
+      are processed successfully.
 
 # AllOrNoneHeader
 
@@ -37,4 +41,49 @@ This sample shows how to use the AllOrNoneHeader. It attempts to create two cont
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+public void allOrNoneHeaderSample() {
+    try {
+      // Create the first contact.
+      SObject[] sObjects = new SObject[2];
+      Contact contact1 = new Contact();
+      contact1.setFirstName("Robin");
+      contact1.setLastName("Van Persie");
+  
+      // Create the second contact. This contact doesn't 
+      // have a value for the required
+      // LastName field so the create will fail.
+      Contact contact2 = new Contact();
+      contact2.setFirstName("Ashley");
+      sObjects[0] = contact1;
+      sObjects[1] = contact2;
+      
+      // Set the SOAP header to roll back the create unless
+      // all contacts are successfully created.
+      connection.setAllOrNoneHeader(true);
+      // Attempt to create the two contacts.
+      SaveResult[] sr = connection.create(sObjects);
+      for (int i = 0; i < sr.length; i++) { 
+        if (sr[i].isSuccess()) {
+          System.out.println("Successfully created contact with id: " + 
+            sr[i].getId() + ".");
+        }
+        else {
+          // Note the error messages as the operation was rolled back 
+          // due to the all or none header.
+          System.out.println("Error creating contact: " + 
+            sr[i].getErrors()[0].getMessage());
+          System.out.println("Error status code: " + 
+            sr[i].getErrors()[0].getStatusCode());
+        }
+      }
+    } catch (ConnectionException ce) {
+      ce.printStackTrace();
+    }
+  }
+}
 ```

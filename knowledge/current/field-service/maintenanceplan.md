@@ -5,11 +5,15 @@ topic: maintenanceplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.685Z
-keywords: [MaintenancePlan, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.205Z
+estimatedTokens: 2686
+keywords: [MaintenancePlan, Represents, preventive, maintenance, schedule, assets, field, service., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # MaintenancePlan
+
+> Represents a preventive maintenance schedule for one or more assets in field
+		service.
 
 # MaintenancePlan
 

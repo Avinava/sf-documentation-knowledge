@@ -5,11 +5,15 @@ topic: interest-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.558Z
-keywords: [Interest, Tag]
+lastCollected: 2026-03-12T05:14:50.327Z
+estimatedTokens: 142
+keywords: [Interest, Tag, Output, representation, details, Tag.]
 ---
 
 # Interest Tag
+
+> Output representation of the details of an Interest
+    Tag.
 
 # Interest Tag
 
@@ -27,3 +31,22 @@ JSON example
 | name | String | The name of an Interest Tag. | Small, 54.0 | 54.0 |
 | recordAssignmentId | String | The record assignment ID of an Interest Tag and a record. | Small, 54.0 | 54.0 |
 | tagId | String | The ID of an Interest Tag. | Small, 54.0 | 54.0 |
+
+## Code Examples
+
+```
+{
+    "categories" : [ {
+      "categoryId" : "0qRxx0000000001EAA",
+      "name" : "life",
+      “icon” : “custom:custom11”,
+    } ],
+    "name" : "school",
+    "tagId" : "0qOxx0000004C92EAE",
+    “recordAssignmentId” : “0qRxx0000004C9mm”
+  }
+```
+
+## Related Topics
+
+- Tag Category (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_tag_category.htm)

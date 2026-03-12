@@ -5,11 +5,15 @@ topic: product-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.288Z
-keywords: [Product, Details, GET, Note]
+lastCollected: 2026-03-12T05:14:06.922Z
+estimatedTokens: 484
+keywords: [Product, Details, GET, Retrieve, details, individual, product, records, bundle, based, ID., Note]
 ---
 
 # Product Details (GET)
+
+> Retrieve details of individual product records or a
+      bundle based on a product ID.
 
 # Product Details (GET)
 
@@ -65,3 +69,26 @@ Request parameters for GET
 Response body for GET
 
 [Products](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_products_output.htm "Output representation of the list of retrieved products.")
+
+## Code Examples
+
+```
+/connect/pcm/products/productId
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products/01tT1000000F0afIAC
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products/01tT1000000F0afIAC?language=spanish
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products/01tT1000000F0afIAC/catalogSystems=epc
+```
+
+## Related Topics
+
+- Products List (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_products.htm)
+- Products (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_products_output.htm)

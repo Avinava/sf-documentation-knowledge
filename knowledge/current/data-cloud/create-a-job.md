@@ -5,11 +5,14 @@ topic: create-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.128Z
-keywords: [Create, Job, Note]
+lastCollected: 2026-03-12T05:14:12.080Z
+estimatedTokens: 436
+keywords: [Create, Job, Creates, job, represents, bulk, operation, loading, data, Data, Cloud, org., Note]
 ---
 
 # Create a Job
+
+> Creates a job that represents the bulk operation for loading data into the Data Cloud org.
 
 # Create a Job
 
@@ -64,3 +67,34 @@ The JSON response body returns a property called id that corresponds to the job 
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+   "object":"my_object",
+   "sourceName":"my_api_connector",
+   "operation":"upsert"
+}
+```
+
+```
+HTTP/1.1 201 Created
+{
+       "id": "4d5a4477-e27f-4bc1-a219-31e79407eade",
+       "operation": "upsert",
+       "object": "my_object",
+       "sourceName": "my_api_connector",
+       "createdById": "005R0000000sJ1hIAE",
+       "createdDate": "2021-04-05T13:35:31.000Z",
+       "systemModstamp": "2021-04-05T13:35:31.000Z",
+       "state": "Open",
+       "contentType": "CSV",
+       "apiVersion": v1,
+       "contentUrl": "api/v1/ingest/jobs/4d5a4477-e27f-4bc1-a219-31e79407eade/batches"
+}
+```
+
+## Related Topics
+
+- Upload Job Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_upload_job_data.htm)

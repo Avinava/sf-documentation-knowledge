@@ -5,11 +5,15 @@ topic: apex-class-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.530Z
-keywords: [Apex, Class, Definition, Note, Versioned, Behavior, Changes, See]
+lastCollected: 2026-03-12T05:14:32.536Z
+estimatedTokens: 1534
+keywords: [Apex, Definition, Avoid, standard, names, names., Doing, causes, unexpected, results., list, objects, Reference, Salesforce., Note, Versioned, Behavior, Changes]
 ---
 
 # Apex Class Definition
+
+> Avoid using standard object names for class names. Doing so
+causes unexpected results. For a list of standard objects, see Object Reference for Salesforce.
 
 # Apex Class Definition
 
@@ -72,7 +76,36 @@ In API version 61.0 and later, private methods are no longer overridden by an in
 #### See Also
 
 -   [Documentation Typographical Conventions](atlas.en-us.apexcode.meta/apexcode/apex_qs_conventions.htm "Apex and Visualforce documentation uses these typographical conventions.")
-    
+
 -   [*Salesforce Help*: Manage Apex Classes](https://help.salesforce.com/articleView?id=code_manage_packages.htm&language=en_US "Salesforce Help: Manage Apex Classes - HTML (New Window)")
-    
+
 -   [*Salesforce Help*: Developer Console Functionality](https://help.salesforce.com/articleView?id=code_system_log.htm&language=en_US "Salesforce Help: Developer Console Functionality - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public class myOuterClass {
+   // Additional myOuterClass code here
+   class myInnerClass {
+     // myInnerClass code here
+   }
+}
+```
+
+```apex
+private | public | global 
+[virtual | abstract | with sharing | without sharing] 
+class ClassName [implements InterfaceNameList] [extends ClassName] 
+{ 
+// The body of the class
+}
+```
+
+## Related Topics
+
+- Use the with sharing, without sharing, and inherited sharing Keywords (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)
+- Managed Package Types (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_dev.htm)
+- Interfaces (atlas.en-us.apexcode.meta/apexcode/apex_classes_interfaces.htm)
+- Access Modifiers (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_declaring_variables.htm)
+- Documentation Typographical Conventions (atlas.en-us.apexcode.meta/apexcode/apex_qs_conventions.htm)

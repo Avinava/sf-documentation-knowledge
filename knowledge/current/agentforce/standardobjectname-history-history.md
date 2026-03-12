@@ -5,11 +5,16 @@ topic: standardobjectname-history-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.821Z
-keywords: [StandardObjectName, History, Supported, Calls, Special, Access, Rules, Fields, Objects, Follow, Model]
+lastCollected: 2026-03-12T05:14:15.314Z
+estimatedTokens: 395
+keywords: [StandardObjectName, History, StandardObjectNameHistory, model, history, objects, associated, standard, objects., represent, changes, values, fields, object., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # StandardObjectName History History
+
+> StandardObjectNameHistory is the model for all
+      history objects associated with standard objects. These objects represent the history of
+      changes to the values in the fields of a standard object.
 
 # StandardObjectName History History
 

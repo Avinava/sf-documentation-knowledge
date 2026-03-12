@@ -5,11 +5,16 @@ topic: compact-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.249Z
-keywords: [Compact, Layouts, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.392Z
+estimatedTokens: 266
+keywords: [Compact, Layouts, list, compact, layouts, multiple, objects., resource, REST, API, version, 31.0, later., Note, Syntax, Example]
 ---
 
 # Compact Layouts
+
+> Returns a list of compact layouts for
+      multiple objects. This resource is available in REST API version 31.0 and
+    later.
 
 # Compact Layouts
 
@@ -59,4 +64,97 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/compactLayouts?q=Account,Contact,CustomObj__c -H "Authorization: Bearer token"
+```
+
+```
+{
+  "Account" : {
+    "actions" : [ {
+      "behavior" : null,
+      "content" : null,
+      "contentSource" : null,
+      "custom" : false,
+      "encoding" : null,
+      "height" : null,
+      "icons" : null,
+      "label" : "Call",
+      "menubar" : false,
+      "name" : "CallHighlightAction",
+      "overridden" : false,
+      "resizeable" : false,
+      "scrollbars" : false,
+      "showsLocation" : false,
+      "showsStatus" : false,
+      "toolbar" : false,
+      "url" : null,
+      "width" : null,
+      "windowPosition" : null
+    },
+    ...
+    "id" : "0AHD000000000AbOAI",
+    "label" : "Custom Account Compact Layout",
+    "name" : "Custom_Account_Compact_Layout"
+  },
+  "Contact" : {
+    "actions" : [ {
+      "behavior" : null,
+      "content" : null,
+      "contentSource" : null,
+      "custom" : false,
+      "encoding" : null,
+      "height" : null,
+      "icons" : null,
+      "label" : "Call",
+      "menubar" : false,
+      "name" : "CallHighlightAction",
+      "overridden" : false,
+      "resizeable" : false,
+      "scrollbars" : false,
+      "showsLocation" : false,
+      "showsStatus" : false,
+      "toolbar" : false,
+      "url" : null,
+      "width" : null,
+      "windowPosition" : null
+    },
+    ...
+    "id" : null,
+    "label" : "System Default",
+    "name" : "SYSTEM"
+  }
+  "CustomObj__c" : {
+    "actions" : [ {
+      "behavior" : null,
+      "content" : null,
+      "contentSource" : null,
+      "custom" : false,
+      "encoding" : null,
+      "height" : null,
+      "icons" : null,
+      "label" : "Call",
+      "menubar" : false,
+      "name" : "CallHighlightAction",
+      "overridden" : false,
+      "resizeable" : false,
+      "scrollbars" : false,
+      "showsLocation" : false,
+      "showsStatus" : false,
+      "toolbar" : false,
+      "url" : null,
+      "width" : null,
+      "windowPosition" : null
+    },
+    ...
+    "id" : null,
+    "imageItems" : null,
+    "label" : "System Default",
+    "name" : "SYSTEM"
+  }
+}
 ```

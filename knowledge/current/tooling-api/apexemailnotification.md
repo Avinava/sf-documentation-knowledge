@@ -5,11 +5,16 @@ topic: apexemailnotification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.184Z
-keywords: [ApexEmailNotification, Note, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage, See]
+lastCollected: 2026-03-12T05:14:44.592Z
+estimatedTokens: 373
+keywords: [ApexEmailNotification, Stores, Salesforce, user, external, email, address, notified, unhandled, Apex, exceptions, occur., API, version, 35.0, later., Note, Supported, SOAP, Calls]
 ---
 
 # ApexEmailNotification
+
+> Stores a Salesforce user ID or external email address to be notified when
+         unhandled Apex exceptions occur. This object is available in API version 35.0 and
+      later.
 
 # ApexEmailNotification
 

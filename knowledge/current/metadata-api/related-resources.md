@@ -5,11 +5,17 @@ topic: related-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.317Z
-keywords: [Related, Resources]
+lastCollected: 2026-03-12T05:14:42.292Z
+estimatedTokens: 271
+keywords: [Related, Resources, Salesforce, developer, website, provides, full, suite, toolkits, sample, code, SOAP, messages, community-based, support, resources, help, development, projects., sure]
 ---
 
 # Related Resources
+
+> The Salesforce developer website provides a full suite of developer toolkits, sample code, sample
+SOAP messages, community-based support, and other resources to help you with your development
+projects. Be sure to visit https://developer.salesforce.com/page/Getting_Started for more
+information, or vi
 
 # Related Resources
 

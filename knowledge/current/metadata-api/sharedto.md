@@ -5,11 +5,15 @@ topic: sharedto
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.640Z
-keywords: [SharedTo, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields]
+lastCollected: 2026-03-12T05:14:42.820Z
+estimatedTokens: 1806
+keywords: [SharedTo, defines, sharing, access, list, view, folder., used, specify, target, source, owner-based, rules., Note, Declarative, Metadata, File, Suffix, Directory, Location]
 ---
 
 # SharedTo
+
+> SharedTo defines the sharing access for a list view or a folder. 
+    It can be used to specify the target and source for owner-based sharing rules.
 
 # SharedTo
 
@@ -57,3 +61,9 @@ See [Sharing Considerations](https://help.salesforce.com/s/articleView?id=platfo
 | territory | string[] | A list of territories with sharing access. Use this field instead of the territories field.If you’re using Sales Territories, use modelName.territoryName for the shared-to and shared-from territory values, where:modelName equals the name of the active territory model in the API.territoryName equals the territory’s name in the API.This field is available in API version 22.0 and later. |
 | territoryAndSubordinates | string[] | A list of territories with sharing access. All territories below each of these territories in the territory hierarchy also have sharing access. Use this field instead of the territoriesAndSubordinates field.If you’re using Sales Territories, use modelName.territoryName for the shared-to and shared-from territoryAndSubordinates values, where:modelName equals the name of the active territory model in the API.territoryName equals the territory’s name in the API.This field is available in API version 22.0 and later. |
 | queue | string[] | A list of queues with sharing access. Applies only to lead, case, and CustomObject sharing rules.This field is available in API version 24.0 and later. |
+
+## Related Topics
+
+- ListView (atlas.en-us.api_meta.meta/api_meta/meta_listview.htm)
+- Folder (atlas.en-us.api_meta.meta/api_meta/meta_folder.htm)
+- SharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)

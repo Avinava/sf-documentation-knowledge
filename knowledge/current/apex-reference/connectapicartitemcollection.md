@@ -5,11 +5,14 @@ topic: connectapicartitemcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.129Z
-keywords: [ConnectApi.CartItemCollection]
+lastCollected: 2026-03-12T05:14:26.339Z
+estimatedTokens: 442
+keywords: [ConnectApi.CartItemCollection, collection, items, cart.]
 ---
 
 # ConnectApi.CartItemCollection
+
+> A collection of items in a cart.
 
 # ConnectApi.CartItemCollection
 
@@ -32,3 +35,14 @@ A collection of items in a cart.
 | previousPageUrl | String | Connect REST API URL identifying the previous page, or null if there isn’t a previous page. | 49.0 |
 | totalItemCount | Integer | Total number of unique products in the cart. | 60.0 |
 | totalNumberOfPages | Integer | Total number of pages for the given page size. | 60.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CartCouponCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_coupon_collection.htm)
+- ConnectApi.​CartItemResult (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item_result.htm)
+- ConnectApi.​CartPromotionCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_promotion_collection.htm)
+- ConnectApi.​CartSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_summary.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

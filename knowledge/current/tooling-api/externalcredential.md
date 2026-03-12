@@ -5,11 +5,18 @@ topic: externalcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.863Z
-keywords: [ExternalCredential, Important, Note, Supported, SOAP, API, Calls, REST, Methods, Fields, ExternalCredentialParameter, See]
+lastCollected: 2026-03-12T05:14:45.504Z
+estimatedTokens: 3183
+namespace: CreatedByNamespace
+keywords: [ExternalCredential, Represents, details, how, Salesforce, authenticates, external, system., API, version, 56.0, later., Important, Note, Supported, SOAP, Calls, REST, Fields, ExternalCredentialParameter]
 ---
 
 # ExternalCredential
+
+> Represents the details of how Salesforce authenticates to the external
+            system. This object is available in API version 56.0 and later.
+
+**Namespace:** `CreatedByNamespace`
 
 # ExternalCredential
 
@@ -19,7 +26,7 @@ Represents the details of how Salesforce authenticates to the external system. T
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_tooling)
 
@@ -72,15 +79,15 @@ These parameters are used internally to provide a flexible architecture and are 
 #### See Also
 
 -   [*Salesforce Help*: Named Credentials](https://help.salesforce.com/HTViewHelpDoc?id=named_credentials_about.htm&language=en_US "Salesforce Help: Named Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Get Started with Named Credentials](https://developer.salesforce.com/docs/platform/named-credentials/guide/get-started.html "Named Credentials Developer Guide: Get Started with Named
     Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Named Credential API Links](https://developer.salesforce.com/docs/platform/named-credentials/references/named-credentials-reference/nc-api-links.html "Named Credentials Developer Guide: Named Credential API
     Links - HTML (New Window)")
-    
+
 -   [*Apex Developer Guide*: Invoking Callouts Using Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts.htm " Apex Developer Guide: Invoking Callouts Using
     Apex - html (New Window)")
-    
+
 -   [*Apex Developer Guide*: Named Credentials as Callout Endpoints](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts_named_credentials.htm " Apex Developer Guide: Named Credentials as Callout
     Endpoints - HTML (New Window)")

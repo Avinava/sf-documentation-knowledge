@@ -5,11 +5,15 @@ topic: product-order-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.907Z
-keywords: [Product, Order, Engagement, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.805Z
+estimatedTokens: 2532
+keywords: [Product, Order, Engagement, DMO, Data, Cloud, data, model, user’s, online, shopping, order, data., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Product Order Engagement DMO
+
+> The Product Order Engagement DMO is a Data Cloud data model object (DMO)
+      for a user’s online shopping order data.
 
 # Product Order Engagement DMO
 

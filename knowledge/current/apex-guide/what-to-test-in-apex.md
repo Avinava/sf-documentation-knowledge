@@ -5,11 +5,15 @@ topic: what-to-test-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.673Z
-keywords: [Test, Apex, Note]
+lastCollected: 2026-03-12T05:14:34.119Z
+estimatedTokens: 351
+keywords: [Test, Apex, Conditional, ternary, operators, considered, executed, unless, both, positive, negative, branches, executed., Note]
 ---
 
 # What to Test in Apex
+
+> Conditional and ternary operators are not considered executed unless both the positive
+    and negative branches are executed.
 
 # What to Test in Apex
 
@@ -42,3 +46,8 @@ Test whether a user with restricted access to the sObjects used in your code see
 Conditional and ternary operators are not considered executed unless both the positive and negative branches are executed.
 
 For examples of these types of tests, see [Testing Example](atlas.en-us.apexcode.meta/apexcode/apex_testing_example.htm).
+
+## Related Topics
+
+- Testing
+    Example (atlas.en-us.apexcode.meta/apexcode/apex_testing_example.htm)

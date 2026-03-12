@@ -4,12 +4,17 @@ domain: rest-api
 topic: delete-lightning-experience-event-series
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:44:24.897Z
-keywords: [Delete, Lightning, Experience, Event, Series, Single, Multiple, Events, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.975Z
+estimatedTokens: 571
+keywords: [Delete, Lightning, Experience, Event, Series, HTTP, DELETE, remove, IsRecurrence2, events, series., single, event, following, including, specific, entire, Single, Multiple, Events]
 ---
 
 # Delete Lightning Experience Event Series
+
+> Use the HTTP DELETE method to remove one or more IsRecurrence2 events in a series. You
+  can remove a single event, all events following and including a specific event, or an entire event
+  series.
 
 # Delete Lightning Experience Event Series
 
@@ -54,3 +59,26 @@ If the event series originated outside of Salesforce and the event ID of the fir
 
 -   [← Previous](atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_records.htm "Working with Records")
 -   [Next →](atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_searches_and_queries.htm "Working with Searches and Queries")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Event/00Uxx0000000000/fromThisEventOnwards -H "Authorization: Bearer token" -X DELETE
+```
+
+```
+None needed
+```
+
+```
+{
+success: We’re deleting the selected events from the series. Wait for all events to be removed. 
+}
+```
+
+## Related Topics
+
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- DELETE method (atlas.en-us.api_rest.meta/api_rest/dome_delete_record.htm)
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_records.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_searches_and_queries.htm)

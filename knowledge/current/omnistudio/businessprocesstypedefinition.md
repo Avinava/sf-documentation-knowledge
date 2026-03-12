@@ -5,11 +5,15 @@ topic: businessprocesstypedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.734Z
-keywords: [BusinessProcessTypeDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:52.070Z
+estimatedTokens: 454
+keywords: [BusinessProcessTypeDefinition, Represents, definition, business, process, within, application, domain., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # BusinessProcessTypeDefinition
+
+> Represents the definition of the business process
+			type within an application domain.
 
 # BusinessProcessTypeDefinition
 
@@ -58,3 +62,29 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BusinessProcessTypeDefinition
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<masterLabel>ProcessType1</masterLabel>
+	<description>Process Type 1</description>
+	<applicationUsageType>ExplainabilityService</applicationUsageType>
+</BusinessProcessTypeDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>BusinessProcessTypeDefinition</name>
+	</types>
+	<version>57.0</version>
+</Package>
+```

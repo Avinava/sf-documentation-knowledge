@@ -5,11 +5,14 @@ topic: connectapiserviceprocessrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.862Z
-keywords: [ConnectApi.ServiceProcessRepresentation]
+lastCollected: 2026-03-12T05:14:47.805Z
+estimatedTokens: 92
+keywords: [ConnectApi.ServiceProcessRepresentation, Output, creating, service, process.]
 ---
 
 # ConnectApi.ServiceProcessRepresentation
+
+> Output for creating a service process.
 
 # ConnectApi.ServiceProcessRepresentation
 

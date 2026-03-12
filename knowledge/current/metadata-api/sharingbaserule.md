@@ -5,11 +5,15 @@ topic: sharingbaserule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.643Z
-keywords: [SharingBaseRule, Note, Version, Fields, AccountSharingRuleSettings, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:42.826Z
+estimatedTokens: 802
+keywords: [SharingBaseRule, Represents, sharing, rule, settings, such, access, level, whom, granted., Note, Version, Fields, AccountSharingRuleSettings, Wildcard, Support, Manifest, File]
 ---
 
 # SharingBaseRule
+
+> Represents sharing rule settings such as access level
+   and to whom access is granted.
 
 # SharingBaseRule
 
@@ -50,3 +54,11 @@ Defines the access level for the case, contact, and opportunity associated with 
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- SharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- BaseSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_basesharingrule.htm)
+- SharedTo (atlas.en-us.api_meta.meta/api_meta/meta_sharedto.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

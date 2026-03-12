@@ -5,11 +5,14 @@ topic: connectapicdpidentityresolutionconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.915Z
-keywords: [ConnectApi.CdpIdentityResolutionConfigInput]
+lastCollected: 2026-03-12T05:14:24.536Z
+estimatedTokens: 323
+keywords: [ConnectApi.CdpIdentityResolutionConfigInput, Input, representation, creating, identity, resolution, ruleset.]
 ---
 
 # ConnectApi.CdpIdentityResolutionConfigInput
+
+> Input representation for creating an identity resolution ruleset.
 
 # ConnectApi.CdpIdentityResolutionConfigInput
 
@@ -24,3 +27,12 @@ Input representation for creating an identity resolution ruleset.
 | matchRules | List<ConnectApi.​CdpIdentityResolution​MatchRule> | List of match rules for the identity resolution ruleset. | Optional | 57.0 |
 | reconciliationRules | List<ConnectApi.​CdpIdentityResolution​ReconciliationRule> | List of reconciliation rules for the identity resolution ruleset. | Required | 57.0 |
 | rulesetId | String | Extended ID of the ruleset used to differentiate between rulesets created for comparison. The ruleset ID must be unique and can't be longer than 4 characters. | Optional | 57.0 |
+
+## Related Topics
+
+- ConnectApi.​CdpIdentityResolution​ConfigurationType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpIdentityResolution​MatchRule (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_match_rul.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationRule (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_reconciliation_rul.htm)

@@ -5,11 +5,15 @@ topic: queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.147Z
-keywords: [Queue, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, QueueMembers, PublicGroups, RoleAndSubordinates, RoleAndSubordinatesInternal, Roles, Users, QueueSobject, Sample]
+lastCollected: 2026-03-12T05:14:42.019Z
+estimatedTokens: 1432
+keywords: [Queue, Represents, holding, area, items, before, they, processed., Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, QueueMembers]
 ---
 
 # Queue
+
+> Represents a holding area for items before they are
+            processed.
 
 # Queue
 
@@ -117,3 +121,60 @@ Here’s another definition of a queue containing queue members added directly o
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <email>member@company.com</email>
+    <fullName>Your Name</fullName>
+    <name>memberQueue</name>
+    <queueSobject>
+        <sobjectType>Case</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>ObjA__c</sobjectType>
+    </queueSobject>
+</Queue>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>queue1</name>
+    <queueMembers>
+        <publicGroups>
+            <publicGroup>All Internal Users</publicGroup>
+        <publicGroups>
+        <queueRoleAndSubordinates>
+            <queueRoleAndSubordinate>role1</queueRoleAndSubordinate>
+            <queueRoleAndSubordinate>role2</queueRoleAndSubordinate>
+            <queueRoleAndSubordinate>role3</queueRoleAndSubordinate>
+        </queueRoleAndSubordinates>
+        <roles>
+            <role>role1</role>
+        </roles>
+        <users>
+            <user>s@sm.com</user>
+            <user>std@sm.com</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>my_omni_routing_config</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>Case</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+</Queue>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

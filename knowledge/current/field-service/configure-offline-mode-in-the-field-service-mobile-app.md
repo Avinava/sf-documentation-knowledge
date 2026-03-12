@@ -5,11 +5,15 @@ topic: configure-offline-mode-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:13.237Z
-keywords: [Configure, Offline, Mode, Field, Service, Mobile, App]
+lastCollected: 2026-03-12T05:14:57.027Z
+estimatedTokens: 670
+keywords: [Configure, Offline, Mode, Field, Service, Mobile, App, expect, Automatic, turned, mobile, app, how, adjust, its, settings.]
 ---
 
 # Configure Offline Mode in the Field Service Mobile App
+
+> Learn what to expect when Automatic Offline Mode is turned on in the Field Service
+  mobile app and how you can adjust its settings.
 
 # Configure Offline Mode in the Field Service Mobile App
 

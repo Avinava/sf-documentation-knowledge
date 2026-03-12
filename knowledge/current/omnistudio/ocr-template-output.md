@@ -5,11 +5,15 @@ topic: ocr-template-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.426Z
-keywords: [OCR, Template, Output]
+lastCollected: 2026-03-12T05:14:50.429Z
+estimatedTokens: 158
+keywords: [OCR, Template, Output, representation, details, template.]
 ---
 
 # OCR Template Output
+
+> Output representation of the details of an OCR
+    template.
 
 # OCR Template Output
 
@@ -22,3 +26,8 @@ Output representation of the details of an OCR template.
 | name | String | Name of the OCR template. | Big, 55.0 | 55.0 |
 | ocrTargetObjects | OCR Target Object Output[] | Details of the target objects. | Big, 55.0 | 55.0 |
 | ocrTemplateId | String | ID of the OCR template record. | Big, 55.0 | 55.0 |
+
+## Related Topics
+
+- OCR Target Object Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_ocr_target_object_output.htm)
+- OCR Target Object Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_ocr_target_object_output.htm)

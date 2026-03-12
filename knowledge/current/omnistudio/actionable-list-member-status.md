@@ -5,11 +5,15 @@ topic: actionable-list-member-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.029Z
-keywords: [Actionable, List, Member, Status]
+lastCollected: 2026-03-12T05:14:49.539Z
+estimatedTokens: 153
+keywords: [Actionable, List, Member, Status, Output, representation, actionable, list, member, status, request.]
 ---
 
 # Actionable List Member Status
+
+> Output representation of the
+      actionable list member status request.
 
 # Actionable List Member Status
 
@@ -27,3 +31,46 @@ JSON Example
 | iconName | String | Name of an actionable list member status icon. | Small, 58.0 | 58.0 |
 | id | String | ID of an actionable list member status. | Small, 58.0 | 58.0 |
 | status | String | Name of an actionable list member status. | Small, 58.0 | 58.0 |
+
+## Code Examples
+
+```
+"statusCountList": [
+    {
+      "count": 0,
+      "iconName": "action:approval",
+      "id": "0x5SG00000000XtYAI",
+      "status": "Closed"
+    },
+    {
+      "count": 0,
+      "iconName": "action:preview",
+      "id": "0x5SG00000000XuYAI",
+      "status": "Triage"
+    },
+    {
+      "count": 3,
+      "iconName": "action:call",
+      "id": "0x5SG00000000XvYAI",
+      "status": "Call"
+    },
+    {
+      "count": 0,
+      "iconName": "action:new_event",
+      "id": "0x5SG00000000XwYAI",
+      "status": "Follow up"
+    },
+    {
+      "count": 64,
+      "iconName": "action:fallback",
+      "id": "0x5SG00000000XxYAI",
+      "status": "Lead"
+    },
+    {
+      "count": 1,
+      "iconName": null,
+      "id": null,
+      "status": null
+    }
+  ]
+```

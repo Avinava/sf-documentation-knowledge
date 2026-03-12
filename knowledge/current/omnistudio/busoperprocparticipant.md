@@ -5,11 +5,16 @@ topic: busoperprocparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.727Z
-keywords: [BusOperProcParticipant, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.622Z
+estimatedTokens: 779
+keywords: [BusOperProcParticipant, Represents, Compliant, Data, Sharing, participant, user, group, whom, business, operations, process, shared., API, version, 66.0, later., Supported, Calls, Fields]
 ---
 
 # BusOperProcParticipant
+
+> Represents a Compliant Data Sharing participant user or group with whom a
+         business operations process is shared. This object is available in API version 66.0
+      and later.
 
 # BusOperProcParticipant
 
@@ -42,3 +47,8 @@ Change events are available for the object.
 [BusOperProcParticipantHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- BusOperProcParticipantChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- BusOperProcParticipantHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

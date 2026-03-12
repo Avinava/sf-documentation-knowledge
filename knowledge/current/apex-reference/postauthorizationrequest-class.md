@@ -6,12 +6,21 @@ topic: postauthorizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:35.081Z
-keywords: [PostAuthorizationRequest, Class, Namespace, Usage]
+lastCollected: 2026-03-12T05:14:22.032Z
+estimatedTokens: 356
+namespace: CommercePayments
+keywords: [PostAuthorizationRequest, Sends, information, postauthorization, request, gateway, adapter, during, service, call., Usage]
 ---
 
 # PostAuthorizationRequest
             Class
+
+> Sends information about
+            a
+            postauthorization request to a gateway adapter during a service
+            call.
+
+**Namespace:** `CommercePayments`
 
 # PostAuthorizationRequest Class
 
@@ -29,7 +38,20 @@ This class extends [BaseRequest](https://developer.salesforce.com/docs/atlas.en-
 
 ```
 
--   **[PostAuthorizationRequest Constructors](atlas.en-us.apexref.meta/apexref/apex_commercepayments_PostAuthorizationRequest_constructors.htm)**  
+-   **[PostAuthorizationRequest Constructors](atlas.en-us.apexref.meta/apexref/apex_commercepayments_PostAuthorizationRequest_constructors.htm)**
     Lists the constructors for postauthorization requests.
--   **[PostAuthorizationRequest Properties](atlas.en-us.apexref.meta/apexref/apex_commercepayments_PostAuthorizationRequest_properties.htm)**  
+-   **[PostAuthorizationRequest Properties](atlas.en-us.apexref.meta/apexref/apex_commercepayments_PostAuthorizationRequest_properties.htm)**
     Lists properties for a postauthorizaiton request.
+
+## Code Examples
+
+```
+((commercepayments.PostAuthorizationRequest)gatewayContext.getPaymentRequest());
+```
+
+## Related Topics
+
+- CommercePayments (atlas.en-us.apexref.meta/apexref/apex_namespace_commercepayments.htm)
+- PaymentGatewayContext Class (atlas.en-us.apexref.meta/apexref/apex_class_commercepayments_PaymentGatewayContext.htm)
+- PostAuthorizationRequest Constructors (atlas.en-us.apexref.meta/apexref/apex_commercepayments_PostAuthorizationRequest_constructors.htm)
+- PostAuthorizationRequest Properties (atlas.en-us.apexref.meta/apexref/apex_commercepayments_PostAuthorizationRequest_properties.htm)

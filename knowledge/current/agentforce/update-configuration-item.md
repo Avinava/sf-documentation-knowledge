@@ -5,11 +5,16 @@ topic: update-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.754Z
-keywords: [Update, Configuration, Item, Special, Access, Rules, Request, Response, UpdatedAttributes, Note]
+lastCollected: 2026-03-12T05:14:15.231Z
+estimatedTokens: 599
+keywords: [Update, Configuration, Item, Updates, attributes, existing, configuration, item, specified, its, unique, identifier., update, subset, single, request., Special, Access, Rules, Request]
 ---
 
 # Update Configuration Item
+
+> Updates one or more attributes of an existing configuration item
+      specified by its unique identifier. You can update a subset of attributes or all attributes in
+      a single request.
 
 # Update Configuration Item
 
@@ -80,3 +85,60 @@ When using the updateCIById operation, you can update any available attribute us
 -   **Custom Attributes**: You can create and include custom attributes using the sObject API.
 
 Add any attribute using its Developer Name (for example, SD\_AsNa—Asset Name) to specify exactly which attributes you want to update for your Configuration Items (CIs).
+
+## Code Examples
+
+```
+mutation UpdateCIById {
+  updateCIById(
+    input: {
+      SD_AsNa: "abc"
+      SD_SeIpAd: "10.10.10.10"
+      id: "6249301"
+    }
+  ) {
+    id
+    lastModifiedOn
+    updatedAttributes {
+      developerName
+      value
+    }
+  }
+}
+```
+
+```
+{
+  "data": {
+    "updateCIById": {
+      "id": 6249301,
+      "lastModifiedOn": "1764831587989",
+      "updatedAttributes": [
+        {
+          "developerName": "SD_AsNa",
+          "value": "abc"
+        },
+        {
+          "developerName": "SD_SeIpAd",
+          "value": "10.10.10.10"
+        }
+      ]
+    }
+  }
+}
+```
+
+```
+{
+  "updatedAttributes": [
+    {
+      "developerName": "SD_AsNa",
+      "value": "abc"
+    },
+    {
+      "developerName": "SD_SeIpAd",
+      "value": "10.10.10.10"
+    }
+  ]
+}
+```

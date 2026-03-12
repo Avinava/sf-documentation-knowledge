@@ -5,11 +5,14 @@ topic: record-alerts-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.854Z
-keywords: [Record, Alerts, GET]
+lastCollected: 2026-03-12T05:14:49.287Z
+estimatedTokens: 334
+keywords: [Record, Alerts, GET, Retrieve, list, active, record, alerts.]
 ---
 
 # Record Alerts (GET)
+
+> Retrieve a list of active record alerts.
 
 # Record Alerts (GET)
 
@@ -63,3 +66,70 @@ JSON example of response body
 ```
 
 ```
+
+## Code Examples
+
+```
+/recordalerts
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X​/recordalerts
+?whatId=a0URO000000Ccbz2AC
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.Xrecordalerts
+?parentId=001RO000002JPkrYAG
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.Xrecordalerts
+?whatId=a0URO000000Ccbz2AC&parentId=001RO000002JPkrYAG
+```
+
+```
+{
+  "recordAlerts" : [ {
+    "actions" : {
+      "actionInfoCollection" : [ {
+        "actionName" : "dismiss",
+        "parameters" : [ ]
+      }, {
+        "actionName" : "snooze",
+        "parameters" : [ "effectiveDate" ]
+      } ]
+    },
+    "active" : true,
+    "description" : "Unauthorized transaction on card ending with -XXXX on Nov. 11, 2021 in Rome, Italy",
+    "effectiveDate" : "2021-11-10T20:00:00.000Z",
+    "id" : "0qZRO000000003o",
+    "recordAlertCategoryName" : "Fraud",
+    "severity" : "Error",
+    "source" : "Internal",
+    "subject" : "Fraud Transaction 3",
+    "validUntilDate" : "2022-11-08T20:00:00.000Z",
+    "whatId" : "a0URO000000Ccbz"
+  }, {
+    "actions" : {
+      "actionInfoCollection" : [ {
+        "actionName" : "dismiss",
+        "parameters" : [ ]
+      }, {
+        "actionName" : "snooze",
+        "parameters" : [ "effectiveDate" ]
+      } ]
+    },
+    "description" : "Apex alert description from an external system",
+    "severity" : "Test",
+    "source" : "External",
+    "sourceSystemId" : "sourceSystemId",
+    "subject" : "Subject",
+    "whatId" : "a0URO000000Ccbz2AC"
+  } ]
+}
+```
+
+## Related Topics
+
+- Record Alert Collection (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_alert_collection.htm)

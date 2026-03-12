@@ -5,11 +5,17 @@ topic: salesforce-crm-loyalty-partner-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.172Z
-keywords: [Salesforce, CRM, Loyalty, Partner, Product, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.671Z
+estimatedTokens: 330
+keywords: [Salesforce, CRM, Loyalty, Partner, Product, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., refers, product, service, offered, partner]
 ---
 
 # Salesforce CRM: Loyalty Partner Product Mapping
+
+> These data mappings are for the Loyalty Partner Product DLO found in the Loyalty
+  Management bundle of the Salesforce CRM Connector for Data Cloud. This data refers to a product or
+  service offered by a partner of the loyalty program to members of the loyalty program. Members can
+  accrue or redeem points by purchasing partner products or services.
 
 # Salesforce CRM: Loyalty Partner Product Mapping
 

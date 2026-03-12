@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchanneldetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.094Z
-keywords: [ConnectApi.ManagedContentChannelDetail]
+lastCollected: 2026-03-12T05:14:27.719Z
+estimatedTokens: 304
+keywords: [ConnectApi.ManagedContentChannelDetail, Managed, content, channel, detail.]
 ---
 
 # ConnectApi.ManagedContentChannelDetail
+
+> Managed content channel detail.
 
 # ConnectApi.ManagedContentChannelDetail
 
@@ -24,3 +27,9 @@ Managed content channel detail.
 | domainName | String | Name of the domain assigned to the managed content channel. | 54.0–61.0 |
 | isChannelSearchable | Boolean | Specifies whether the text of the channel's contents is searchable (true) or not (false). | 54.0–61.0 |
 | isDomainLocked | Boolean | Specifies whether the channel’s domain is locked and can’t be changed (true) or not (false). | 54.0–61.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​ChannelType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

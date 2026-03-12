@@ -5,11 +5,17 @@ topic: fsltimedependencyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.645Z
-keywords: [FSL__Time_Dependency__c, FSL, _Time, _Dependency, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:56.144Z
+estimatedTokens: 693
+keywords: [FSL__Time_Dependency__c, Represents, dependency, between, two, service, appointments., used, define, scheduling, relationships, allows, determine, order, timing, which, dependent, appointments, should, scheduled.]
 ---
 
 # FSL__Time_Dependency__c
+
+> Represents a dependency between two service appointments. This object
+         is used to define scheduling relationships between two appointments. It allows you to
+         determine the order and timing in which dependent appointments should be
+      scheduled.
 
 # FSL\_\_Time\_Dependency\_\_c
 

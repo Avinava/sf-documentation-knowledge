@@ -4,12 +4,16 @@ domain: apex-guide
 topic: entity-and-field-considerations-in-triggers
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.740Z
-keywords: [Entity, Field, Considerations, Triggers, QuestionDataCategorySelection, Available, After, Insert, Fields, Updateable, Before, Event, DateTime, Update, Operations, Supported, Entities, Undelete, Salesforce, Side]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.185Z
+estimatedTokens: 1019
+keywords: [Entity, Field, Considerations, Triggers, create, triggers, consider, behavior, certain, entities, fields, operations., QuestionDataCategorySelection, After, Insert, Fields, Updateable, Before, Event, DateTime]
 ---
 
 # Entity and Field Considerations in Triggers
+
+> When you create triggers, consider the behavior of certain entities, fields, and
+        operations.
 
 # Entity and Field Considerations in Triggers
 
@@ -91,3 +95,16 @@ When an email is associated to a record using the Salesforce Side Panel for Sale
 #### See Also
 
 -   [Triggers for Chatter Objects](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm "You can write triggers for the FeedItem and FeedComment objects.")
+
+## Code Examples
+
+```
+QuestionDataCategorySelection[] dcList = 
+    [select Id,DataCategoryName from QuestionDataCategorySelection where ParentId IN :questions];
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_ignoring_operations.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm)
+- Triggers for Chatter Objects (atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm)

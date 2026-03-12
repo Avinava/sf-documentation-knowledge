@@ -5,11 +5,17 @@ topic: run-unit-tests-synchronously
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:36.985Z
-keywords: [Run, Unit, Tests, Synchronously, Syntax, Example]
+lastCollected: 2026-03-12T05:14:44.317Z
+estimatedTokens: 1922
+keywords: [Run, Unit, Tests, Synchronously, Test, Runner, API, execute, Apex, flow, tests, synchronously., test, synchronous, run, must, same, class., version, 30.0]
 ---
 
 # Run Unit Tests Synchronously
+
+> Use the Test Runner API to execute one or more Apex or flow tests synchronously. All
+  test methods in a synchronous test run must be in the same class. Available for Apex tests in API
+  version 30.0 and later. Available for automated flow tests in API version 65.0 and
+  later.
 
 # Run Unit Tests Synchronously
 
@@ -100,3 +106,19 @@ Example Request Body
 Example Response Body
 
 { "apexLogId": null, "codeCoverage": \[\], "codeCoverageWarnings": \[\], "failures": \[\], "flowCoverage": \[\], "flowCoverageWarnings": \[\], "numFailures": 0, "numTestsRun": 2, "successes": \[ { "id": "07Mxx00000000NuEAI", "methodName": "TestUpdateDescriptionDeleted", "name": "UpdateAccountDescriptionFlow", "namespace": "FlowTesting.PkgNs1", "seeAllData": true, "time": 12 }, { "id": "07Mxx00000000NtEAI", "methodName": "TestAccountDescriptionHasWords", "name": "UpdateAccountDescriptionFlow", "namespace": "FlowTesting.PkgNs1", "seeAllData": true, "time": 129 } \], "totalTime": 12189 }
+
+## Code Examples
+
+```
+{
+  "tests": [
+    {
+      "className": "FlowTesting.pkgNs1.UpdateAccountDescriptionFlow",
+      "testMethods": ["UpdateAccountDescriptionFlow_TestUpdateDescriptionDeleted",
+                      "UpdateAccountDescriptionFlow_TestAccountDescriptionHasWords"]
+    }
+  ],
+  "maxFailedTests": "2",
+  "skipCodeCoverage": "true"
+}
+```

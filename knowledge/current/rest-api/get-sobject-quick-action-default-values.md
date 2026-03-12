@@ -5,11 +5,15 @@ topic: get-sobject-quick-action-default-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.685Z
-keywords: [Get, sObject, Quick, Action, Default, Values, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.028Z
+estimatedTokens: 189
+keywords: [Get, sObject, Quick, Action, Default, Values, specific, action’s, default, values, including, field, values., resource, REST, API, version, 28.0, later., Syntax]
 ---
 
 # Get sObject Quick Action Default Values
+
+> Returns a specific action’s default values, including field values. This resource is
+  available in REST API version 28.0 and later.
 
 # Get sObject Quick Action Default Values
 
@@ -46,3 +50,13 @@ Example Request
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/quickActions/CreateContact/defaultValues/ -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_quickactions.htm)

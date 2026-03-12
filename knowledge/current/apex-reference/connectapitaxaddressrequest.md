@@ -5,11 +5,14 @@ topic: connectapitaxaddressrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.626Z
-keywords: [ConnectApi.TaxAddressRequest]
+lastCollected: 2026-03-12T05:14:25.630Z
+estimatedTokens: 150
+keywords: [ConnectApi.TaxAddressRequest, Address, input, representation, tax, calculation.]
 ---
 
 # ConnectApi.TaxAddressRequest
+
+> Address input representation for tax calculation.
 
 # ConnectApi.TaxAddressRequest
 
@@ -25,3 +28,8 @@ Address input representation for tax calculation.
 | postalCode | String | Postal code. | Optional | 55.0 |
 | state | String | State. | Optional | 55.0 |
 | street | String | Street. | Optional | 55.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

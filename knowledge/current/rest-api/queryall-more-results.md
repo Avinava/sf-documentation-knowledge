@@ -5,11 +5,16 @@ topic: queryall-more-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.555Z
-keywords: [QueryAll, Results, Note, Syntax, Example, Resources, Executing, SOQL, Queries]
+lastCollected: 2026-03-12T05:14:35.846Z
+estimatedTokens: 729
+keywords: [QueryAll, Results, next, batch, results, request, query, locator., API, resource, executes, specified, request., REST, version, 29.0, later., Note, Syntax, Example]
 ---
 
 # QueryAll More Results
+
+> Returns the next batch of results from a QueryAll request using a query locator. This
+		API resource executes the specified QueryAll request. This resource is available in REST API
+		version 29.0 and later.
 
 # QueryAll More Results
 
@@ -67,3 +72,24 @@ Example Response Body
 -   To send a QueryAll request that includes deleted items, see [Execute a SOQL Query that Includes Deleted Items](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/dome_queryall.htm "HTML (New Window)").
 -   To increase the batch size of query results use the [Query Options Header](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/headers_queryoptions.htm "HTML (New Window)").
 -   For more information about SOQL generally, see the [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_sosl_intro.htm).
+
+## Code Examples
+
+```
+{
+  "totalSize": 3222,
+  "done": false,
+  "nextRecordsUrl": "/services/data/v66.0/query/01gRO0000016PIAYA2-500",
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "url": "/services/data/v66.0/sobjects/Contact/003RO0000035WQgYAM"
+      },
+      "Id": "003RO0000035WQgYAM",
+      "Name": "John Smith"
+    },
+    ...
+  ]
+}
+```

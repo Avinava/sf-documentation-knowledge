@@ -5,11 +5,15 @@ topic: lightning-web-components-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:43.305Z
-keywords: [Lightning, Web, Components, Developer, Guide]
+lastCollected: 2026-03-12T05:14:47.211Z
+estimatedTokens: 180
+keywords: [Lightning, Web, Components, Developer, Guide, Build, components, two, programming, models, original, model, Aura, Components.]
 ---
 
 # Lightning Web Components Developer Guide
+
+> Build Lightning components using two programming models: Lightning Web Components, and
+    the original model, Aura Components.
 
 # Lightning Web Components Developer Guide
 

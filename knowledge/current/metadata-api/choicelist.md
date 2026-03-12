@@ -5,11 +5,15 @@ topic: choicelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.112Z
-keywords: [ChoiceList, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ChoiceListValue, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:37.698Z
+estimatedTokens: 613
+keywords: [ChoiceList, Represents, Choicelist, dropdown, field, that’s, used, pre-chat., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ChoiceListValue]
 ---
 
 # ChoiceList
+
+> Represents the Choicelist dropdown
+      field that’s used for pre-chat.
 
 # ChoiceList
 
@@ -73,3 +77,49 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<ChoiceList xmlns="http://soap.sforce.com/2006/04/metadata">
+    <choiceListValue>
+        <embeddedServiceCustomLabels>
+            <customLabel>EM_PreChat_ChoiceList_PrechatCustomFieldLabel_133xx0000004GG1_7741637</customLabel>
+            <labelKey>EM_PreChat_ChoiceList_PrechatCustomFieldLabel</labelKey>
+            <feature>EmbeddedMessaging</feature>
+        </embeddedServiceCustomLabels>
+        <isDefaultValue>true</isDefaultValue>
+        <order>0</order>
+        <valueName>Pizza</valueName>
+    </choiceListValue>
+    <choiceListValue>
+        <embeddedServiceCustomLabels>
+            <customLabel>EM_PreChat_ChoiceList_PrechatCustomFieldLabel_133xx0000004GG2_5523047</customLabel>
+            <labelKey>EM_PreChat_ChoiceList_PrechatCustomFieldLabel</labelKey>
+            <feature>EmbeddedMessaging</feature>
+        </embeddedServiceCustomLabels>
+        <isDefaultValue>false</isDefaultValue>
+        <order>1</order>
+        <valueName>Burger</valueName>
+    </choiceListValue>
+    <masterLabel>Food</masterLabel>
+    <description>Food Choice List</description>
+</ChoiceList>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ChoiceList</name>
+    </types>
+    <version>62.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- EmbeddedServiceCustomLabel[] (atlas.en-us.api_meta.meta/api_meta/meta_embeddedserviceconfig.htm)

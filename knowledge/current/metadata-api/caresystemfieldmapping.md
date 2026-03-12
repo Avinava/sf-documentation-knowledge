@@ -5,11 +5,16 @@ topic: caresystemfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.019Z
-keywords: [CareSystemFieldMapping, Note, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:37.574Z
+estimatedTokens: 741
+keywords: [CareSystemFieldMapping, Represents, mapping, source, system, fields, Salesforce, objects, fields., extends, Metadata, metadata, inherits, its, fullName, field., Note, File, Suffix, Directory]
 ---
 
 # CareSystemFieldMapping
+
+> Represents a mapping from source system fields to Salesforce
+      objects and fields. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # CareSystemFieldMapping
 
@@ -58,3 +63,33 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CareSystemFieldMapping xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalIdField>AccountNumber</externalIdField>
+    <isActive>true</isActive>
+    <isProtected>false</isProtected>
+    <masterLabel>Map1</masterLabel>
+    <role>Patient</role>
+    <sourceSystem>Epic</sourceSystem>
+    <targetObject>Account</targetObject>
+</CareSystemFieldMapping>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>patient</members>
+        <name>CareSystemFieldMapping</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

@@ -5,11 +5,14 @@ topic: custom-field-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.263Z
-keywords: [Custom, Field, Output]
+lastCollected: 2026-03-12T05:14:49.923Z
+estimatedTokens: 110
+keywords: [Custom, Field, Output, representation, creating, engagement, interaction, topic, attendee, record, custom, field.]
 ---
 
 # Custom Field Output
+
+> Output representation for creating an engagement interaction, topic, or attendee record with a custom field.
 
 # Custom Field Output
 

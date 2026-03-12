@@ -5,11 +5,15 @@ topic: actvplatformfieldvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.355Z
-keywords: [ActvPlatformFieldValue, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.637Z
+estimatedTokens: 561
+keywords: [ActvPlatformFieldValue, Represents, field, values, ActivationPlatformFields., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # ActvPlatformFieldValue
+
+> Represents the field values for the
+			ActivationPlatformFields.
 
 # ActvPlatformFieldValue
 
@@ -69,3 +73,49 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<ActvPlatformFieldValue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <activationPlatformField>AccountIdField</activationPlatformField>
+    <isDefault>true</isDefault>
+    <masterLabel>AccountIdValue</masterLabel>
+    <value>null</value>
+</ActvPlatformFieldValue>
+```
+
+```
+<ActvPlatformFieldValue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <activationPlatformField>AccountIdField</activationPlatformField>
+    <isDefault>true</isDefault>
+    <masterLabel>AccountIdValue</masterLabel>
+    <value>1234</value>
+</ActvPlatformFieldValue>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MyActivationPlatform</fullName>
+    <types>
+        <members>APlatform</members>
+        <name>ActivationPlatform</name>
+    </types>
+    <types>
+        <members>AccountIdField</members>
+        <name>ActivationPlatformField</name>
+    </types>
+    <types>
+        <members>AccountIdValue</members>
+        <name>ActvPlatformFieldValue</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip
+					File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

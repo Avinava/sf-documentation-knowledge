@@ -5,11 +5,14 @@ topic: context-tag-get-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.687Z
-keywords: [Context, Tag, GET, POST, PATCH, Note]
+lastCollected: 2026-03-12T05:14:49.022Z
+estimatedTokens: 424
+keywords: [Context, Tag, GET, POST, PATCH, Query, create, update, context, tag., Note]
 ---
 
 # Context Tag (GET, POST, PATCH)
+
+> Query, create, and update context tag.
 
 # Context Tag (GET, POST, PATCH)
 
@@ -93,3 +96,40 @@ JSON example
 Response body for PATCH
 
 [Context Tag List Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_tag_list.htm "Output representation of list of context tags.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-tags
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-tags
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-tags
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-tags
+```
+
+```
+{
+    "contextTags": [
+        {
+            "name": "Attribute_Tag",
+            "contextAttributeId": "11nxx000001hOozAAE"
+        },
+        {
+            "name": "Node_Tag",
+            "contextNodeId": "11oxx000001G9D2AAK"
+        }
+    ]
+}
+```
+
+## Related Topics
+
+- Context Tag List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_tag_list.htm)

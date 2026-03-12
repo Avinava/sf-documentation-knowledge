@@ -5,11 +5,14 @@ topic: connectapirepositoryfolderdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.933Z
-keywords: [ConnectApi.RepositoryFolderDetail]
+lastCollected: 2026-03-12T05:14:28.883Z
+estimatedTokens: 69
+keywords: [ConnectApi.RepositoryFolderDetail, detailed, description, repository, folder.]
 ---
 
 # ConnectApi.RepositoryFolderDetail
+
+> A detailed description of a repository folder.
 
 # ConnectApi.RepositoryFolderDetail
 
@@ -18,3 +21,7 @@ A detailed description of a repository folder.
 Subclass of [ConnectApi.AbstractRepositoryFolder](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_folder.htm "A repository folder.").
 
 No additional properties.
+
+## Related Topics
+
+- ConnectApi.AbstractRepositoryFolder (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_folder.htm)

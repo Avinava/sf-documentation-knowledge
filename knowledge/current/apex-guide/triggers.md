@@ -4,12 +4,17 @@ domain: apex-guide
 topic: triggers
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.700Z
-keywords: [Triggers, Implementation, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.143Z
+estimatedTokens: 1852
+keywords: [Triggers, Apex, invoked, triggers., triggers, enable, perform, custom, actions, before, after, changes, Salesforce, records, such, insertions, updates, deletions., Implementation, Considerations]
 ---
 
 # Triggers
+
+> Apex can be invoked by using triggers. Apex triggers enable you to perform
+    custom actions before or after changes to Salesforce records, such as insertions, updates, or
+    deletions.
 
 # Triggers
 
@@ -51,36 +56,51 @@ Before creating triggers, consider the following:
 -   Callouts must be made asynchronously from a trigger so that the trigger process isn’t blocked while waiting for the external service's response. The asynchronous callout is made in a background process, and the response is received when the external service returns it. To make an asynchronous callout, use asynchronous Apex such as a future method. See [Invoking Callouts Using Apex](atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm) for more information.
 -   In API version 20.0 and earlier, if a Bulk API request causes a trigger to fire, each chunk of 200 records for the trigger to process is split into chunks of 100 records. In Salesforce API version 21.0 and later, no further splits of API chunks occur. If a Bulk API request causes a trigger to fire multiple times for chunks of 200 records, governor limits are reset between these trigger invocations for the same HTTP request.
 
-1.  [Bulk Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk.htm)  
-    
-2.  [Trigger Syntax](atlas.en-us.apexcode.meta/apexcode/apex_triggers_syntax.htm)  
-    
-3.  [Trigger Context Variables](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)  
+1.  [Bulk Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk.htm)
+
+2.  [Trigger Syntax](atlas.en-us.apexcode.meta/apexcode/apex_triggers_syntax.htm)
+
+3.  [Trigger Context Variables](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
     All triggers define implicit variables that allow developers to access run-time context. These variables are contained in the System.Trigger class.
-4.  [Context Variable Considerations](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables_considerations.htm)  
-    
-5.  [Common Bulk Trigger Idioms](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)  
-    
-6.  [Defining Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm)  
+4.  [Context Variable Considerations](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables_considerations.htm)
+
+5.  [Common Bulk Trigger Idioms](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
+
+6.  [Defining Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm)
     Trigger code is stored as metadata under the object with which they are associated.
-7.  [Triggers and Merge Statements](atlas.en-us.apexcode.meta/apexcode/apex_triggers_merge_statements.htm)  
-    
-8.  [Triggers and Recovered Records](atlas.en-us.apexcode.meta/apexcode/apex_triggers_recovered_records.htm)  
-    
-9.  [Triggers and Order of Execution](atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)  
+7.  [Triggers and Merge Statements](atlas.en-us.apexcode.meta/apexcode/apex_triggers_merge_statements.htm)
+
+8.  [Triggers and Recovered Records](atlas.en-us.apexcode.meta/apexcode/apex_triggers_recovered_records.htm)
+
+9.  [Triggers and Order of Execution](atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)
     When you save a record with an insert, update, or upsert statement, Salesforce performs a sequence of events in a certain order.
-10.  [Operations That Don't Invoke Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_ignoring_operations.htm)  
+10.  [Operations That Don't Invoke Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_ignoring_operations.htm)
      Some operations don’t invoke triggers.
-11.  [Entity and Field Considerations in Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated.htm)  
+11.  [Entity and Field Considerations in Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated.htm)
      When you create triggers, consider the behavior of certain entities, fields, and operations.
-12.  [Triggers for Chatter Objects](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm)  
+12.  [Triggers for Chatter Objects](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm)
      You can write triggers for the FeedItem and FeedComment objects.
-13.  [Trigger Considerations for Knowledge Articles](atlas.en-us.apexcode.meta/apexcode/apex_triggers_knowledge_considerations.htm)  
+13.  [Trigger Considerations for Knowledge Articles](atlas.en-us.apexcode.meta/apexcode/apex_triggers_knowledge_considerations.htm)
      You can write triggers for KnowledgeArticleVersion objects. Learn when you can use triggers, and which actions don’t fire triggers, like archiving articles.
-14.  [Trigger Exceptions](atlas.en-us.apexcode.meta/apexcode/apex_triggers_exceptions.htm)  
-     
-15.  [Trigger and Bulk Request Best Practices](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bestpract.htm)  
-     
+14.  [Trigger Exceptions](atlas.en-us.apexcode.meta/apexcode/apex_triggers_exceptions.htm)
+
+15.  [Trigger and Bulk Request Best Practices](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
+
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm "Anonymous Blocks")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_async_overview.htm "Asynchronous Apex")
+
+## Related Topics
+
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Triggers and Merge
+          Statements (atlas.en-us.apexcode.meta/apexcode/apex_triggers_merge_statements.htm)
+- Triggers and Recovered
+          Records (atlas.en-us.apexcode.meta/apexcode/apex_triggers_recovered_records.htm)
+- Invoking Callouts Using Apex (atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm)
+- Bulk Triggers (atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk.htm)
+- Trigger Syntax (atlas.en-us.apexcode.meta/apexcode/apex_triggers_syntax.htm)
+- Trigger Context Variables (atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)
+- Context Variable Considerations (atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables_considerations.htm)
+- Common Bulk Trigger Idioms (atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk_idioms.htm)
+- Defining Triggers (atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm)

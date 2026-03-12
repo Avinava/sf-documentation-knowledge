@@ -5,11 +5,14 @@ topic: interest-tag-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.359Z
-keywords: [Interest, Tag, Item, Input]
+lastCollected: 2026-03-12T05:14:48.531Z
+estimatedTokens: 147
+keywords: [Interest, Tag, Item, Input, representation, details, interest, tags.]
 ---
 
 # Interest Tag Item Input
+
+> Input representation for the details of the interest tags.
 
 # Interest Tag Item Input
 
@@ -29,3 +32,18 @@ Properties
 | tagDescription | String | Description of the interest tag. | Optional | 65.0 |
 | tagId | String | ID of the interest tag. | Required if tagName isn't specified. | 65.0 |
 | tagName | String | Name of the interest tag. | Required if tagId isn't specified. | 65.0 |
+
+## Code Examples
+
+```
+{
+  "tags": [
+    {
+      "tagName": "Budgeting",
+      "tagDescription": "Budgeting description.",
+      "recordId": "001xx000003DGQyAAO",
+      "tagId": "0qOxx0000004CKKEA2"
+    }
+  ]
+}
+```

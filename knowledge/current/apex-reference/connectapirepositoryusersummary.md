@@ -5,11 +5,14 @@ topic: connectapirepositoryusersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.945Z
-keywords: [ConnectApi.RepositoryUserSummary]
+lastCollected: 2026-03-12T05:14:28.899Z
+estimatedTokens: 111
+keywords: [ConnectApi.RepositoryUserSummary, user, summary.]
 ---
 
 # ConnectApi.RepositoryUserSummary
+
+> A user summary.
 
 # ConnectApi.RepositoryUserSummary
 
@@ -21,3 +24,8 @@ Subclass of [ConnectApi.AbstractDirectoryEntrySummary](atlas.en-us.apexref.meta/
 | --- | --- | --- | --- |
 | firstName | String | First name of the user. | 39.0 |
 | lastName | String | Last name of the user. | 39.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractDirectoryEntrySummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_directory_entry_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

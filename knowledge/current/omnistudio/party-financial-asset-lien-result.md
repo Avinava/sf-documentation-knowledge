@@ -5,11 +5,14 @@ topic: party-financial-asset-lien-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.667Z
-keywords: [Party, Financial, Asset, Lien, Result]
+lastCollected: 2026-03-12T05:14:50.476Z
+estimatedTokens: 394
+keywords: [Party, Financial, Asset, Lien, Result, Output, representation, lien, details, party, financial, asset]
 ---
 
 # Party Financial Asset Lien Result
+
+> Output representation of the lien details of the party financial asset .
 
 # Party Financial Asset Lien Result
 
@@ -31,3 +34,7 @@ Output representation of the lien details of the party financial asset .
 | name | String | Name of the lien. | Small, 61.0 | 61.0 |
 | partyFinancial​AssetId | String | Party financial asset associated with the lien. | Small, 61.0 | 61.0 |
 | recordTypeId | String | ID of the record type assigned to this object. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

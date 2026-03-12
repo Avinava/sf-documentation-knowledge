@@ -5,11 +5,14 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.880Z
-keywords: [ApexPage, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:41.627Z
+estimatedTokens: 1003
+keywords: [ApexPage, Represents, Visualforce, page., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # ApexPage
+
+> Represents a Visualforce page.
 
 # ApexPage
 
@@ -65,3 +68,28 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [ApexComponent](atlas.en-us.api_meta.meta/api_meta/meta_component.htm "Represents a Visualforce component.")
+
+## Code Examples
+
+```
+<apex:page>
+<h1>Congratulations</h1>
+This is your new Page.
+</apex:page>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This is a sample Visualforce page.</description>
+    <label>SampleApexPage</label>
+</ApexPage>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- PackageVersion (atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ApexComponent (atlas.en-us.api_meta.meta/api_meta/meta_component.htm)

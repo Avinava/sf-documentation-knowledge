@@ -5,11 +5,14 @@ topic: submittextclassificationsrequesttextclassificationsrequestinput-llmtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.441Z
-keywords: [submitTextClassificationsRequest, textClassificationsRequestInput, llmType, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Example]
+lastCollected: 2026-03-12T05:14:18.562Z
+estimatedTokens: 331
+keywords: [submitTextClassificationsRequest, textClassificationsRequestInput, llmType, Submits, text, classification, request, Einstein, API, Version, Requires, Chatter, Example]
 ---
 
 # submitTextClassificationsRequest(textClassificationsRequestInput, llmType)
+
+> Submits a text classification request to Einstein
 
 # submitTextClassificationsRequest(textClassificationsRequestInput, llmType)
 
@@ -50,3 +53,9 @@ Type: [ConnectApi.TextClassificationsOutputRepresentation](atlas.en-us.apexref.m
 ```
 
 ```
+
+## Related Topics
+
+- ConnectApi.TextClassificationsInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_text_classification_representation.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.TextClassificationsOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_text_classifications.htm)

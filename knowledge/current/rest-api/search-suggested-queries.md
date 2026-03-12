@@ -5,11 +5,17 @@ topic: search-suggested-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.610Z
-keywords: [Search, Suggested, Queries, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.923Z
+estimatedTokens: 781
+keywords: [Search, Suggested, Queries, list, suggested, searches, based, user’s, query, text, matching, users, performed, Salesforce, Knowledge., Provides, way, improve, search, effectiveness]
 ---
 
 # Search Suggested Queries
+
+> Returns a list of suggested searches based on the
+      user’s query string text matching searches that other users have performed in
+      Salesforce Knowledge. Provides a way to improve search effectiveness, before the user performs
+      a search. This resource is available in REST API version 30.0 and later.
 
 # Search Suggested Queries
 
@@ -66,4 +72,21 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/search/suggestSearchQueries?
+q=app&language=en_US -H "Authorization: Bearer token"
+```
+
+```
+{
+  "autoSuggestResults" : [ {
+    "0" : "apple",
+    "1" : "apple banana",
+  } ],
+  "hasMoreResults" : false
+}
 ```

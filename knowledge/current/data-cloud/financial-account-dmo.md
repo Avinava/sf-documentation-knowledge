@@ -5,11 +5,16 @@ topic: financial-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:43.396Z
-keywords: [Financial, Account, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.009Z
+estimatedTokens: 1283
+keywords: [Financial, Account, DMO, Represents, financial, account, held, institution, such, bank., Provided, Services, Cloud, Data, Kit., API, version, later., Name, Category]
 ---
 
 # Financial Account DMO
+
+> Represents a financial account held at a financial institution such as a bank.
+      Provided in the Financial Services Cloud Data Kit. This DMO is available in API version 58 and
+      later.
 
 # Financial Account DMO
 

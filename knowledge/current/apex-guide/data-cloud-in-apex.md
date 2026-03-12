@@ -4,12 +4,18 @@ domain: apex-guide
 topic: data-cloud-in-apex
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.184Z
-keywords: [Data, Cloud, Apex, SOQL, Objects, Warning, Security, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.132Z
+estimatedTokens: 910
+keywords: [Data, Cloud, Apex, objects, constraints, considerations, detailed, topic, Further, mock, SOQL, query, responses, data, model, DMOs, testing, stub, test, class.]
 ---
 
 # Data Cloud In Apex
+
+> You can use Apex with Data Cloud objects, with constraints and considerations that
+        are detailed in this topic . Further, you can mock SOQL query responses for Data Cloud data
+        model objects (DMOs) in Apex testing by using SOQL stub methods and a test
+        class.
 
 # Data Cloud In Apex
 
@@ -39,5 +45,9 @@ This example uses static SOQL with the UnifiedIndividual\_\_dlm Data Cloud objec
 
 //Static SOQL example List<UnifiedIndividual\_\_dlm> unifiedIndividuals = \[ SELECT Id, ssot\_\_FirstName\_\_c, ssot\_\_LastName\_\_c, ssot\_\_Email\_\_c, ssot\_\_SkyMilesBalance\_\_c, ssot\_\_MedallionStatus\_\_c FROM UnifiedIndividual\_\_dlm WHERE ssot\_\_CompanyId\_\_c = :companyId \];
 
--   **[Mock SOQL Tests for Data Cloud Data Model Objects](atlas.en-us.apexcode.meta/apexcode/MockSOQLTestsForDMOs.htm)**  
+-   **[Mock SOQL Tests for Data Cloud Data Model Objects](atlas.en-us.apexcode.meta/apexcode/MockSOQLTestsForDMOs.htm)**
     You can mock SOQL query responses for Data Cloud data model objects (DMOs) in Apex testing by using the new SOQL stub methods and a new test class. Use static or dynamic SOQL queries against DMOs and return mock records in a testing context.
+
+## Related Topics
+
+- Mock SOQL Tests for Data Cloud Data Model Objects (atlas.en-us.apexcode.meta/apexcode/MockSOQLTestsForDMOs.htm)

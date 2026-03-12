@@ -5,11 +5,14 @@ topic: get-feed-elements-from-another-users-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.849Z
-keywords: [Get, Feed, Elements, Another, User’s]
+lastCollected: 2026-03-12T05:14:34.338Z
+estimatedTokens: 249
+keywords: [Get, Feed, Elements, Another, User’s, Call, get, feed, elements, another, user’s, feed.]
 ---
 
 # Get Feed Elements From Another User’s Feed
+
+> Call a method to get feed elements from another user’s feed.
 
 # Get Feed Elements From Another User’s Feed
 
@@ -30,3 +33,13 @@ This example calls the same method to get the first page of feed elements from a
 The getFeedElementsFromFeed method is overloaded, which means that the method name has many different signatures. A signature is the name of the method and its parameters in order.
 
 Each signature lets you send different inputs. For example, one signature can specify the feed type and the subject ID. Another signature could have those parameters and an extra parameter to specify the maximum number of comments to return for each feed element.
+
+## Code Examples
+
+```
+ConnectApi.FeedElementPage fep = ConnectApi.ChatterFeeds.getFeedElementsFromFeed(Network.getNetworkId(), ConnectApi.FeedType.UserProfile, '005R0000000HwMA');
+```
+
+```
+ConnectApi.FeedElementPage fep = ConnectApi.ChatterFeeds.getFeedElementsFromFeed(Network.getNetworkId(), ConnectApi.FeedType.Record, '005R0000000HwMA');
+```

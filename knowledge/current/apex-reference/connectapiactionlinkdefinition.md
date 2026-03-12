@@ -5,11 +5,18 @@ topic: connectapiactionlinkdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.838Z
-keywords: [ConnectApi.ActionLinkDefinition, See]
+lastCollected: 2026-03-12T05:14:25.947Z
+estimatedTokens: 1428
+keywords: [ConnectApi.ActionLinkDefinition, definition, action, link., Action, link, sensitive, third, party, example, OAuth, bearer, token, headers, reason, only, calls, made, Apex, created]
 ---
 
 # ConnectApi.ActionLinkDefinition
+
+> The definition of an action link. Action link definition can be
+      sensitive to a third party (for example, OAuth bearer token headers). For this reason, only
+      calls made from the Apex namespace that created the action link definition can read, modify,
+      or delete the definition. In addition, the user making the call must have created the
+      definition or have View All Data permission.
 
 # ConnectApi.ActionLinkDefinition
 
@@ -36,3 +43,14 @@ The definition of an action link. Action link definition can be sensitive to a t
 #### See Also
 
 -   [ConnectApi.ActionLinkGroupDefinition](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_action_link_group_definition.htm "The definition of an action link group. Information in the action link group definition can be sensitive to a third party (for example, OAuth bearer token headers). For this reason, only calls made from the Apex namespace that created the action link group definition can read, modify, or delete the definition. In addition, the user making the call must have created the definition or have View All Data permission.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​RequestHeader (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_request_header.htm)
+- ConnectApi.​HttpRequestMethod (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​ActionLinkType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ActionLinkGroupDefinition (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_action_link_group_definition.htm)

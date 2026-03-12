@@ -5,11 +5,15 @@ topic: casting-connectapi-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.747Z
-keywords: [Casting, ConnectApi, Objects, Important, See]
+lastCollected: 2026-03-12T05:14:32.851Z
+estimatedTokens: 519
+keywords: [Casting, ConnectApi, Objects, may, useful, downcast, output, objects, specific, type., Important]
 ---
 
 # Casting ConnectApi Objects
+
+> It may be useful to downcast some ConnectApi output objects to a more
+specific type.
 
 # Casting ConnectApi Objects
 
@@ -32,11 +36,19 @@ The composition of a feed can change between releases. Write your code to handle
 #### See Also
 
 -   [*Apex Reference Guide*: ChatterFeeds Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm "Apex Reference Guide: ChatterFeeds Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ConnectApi.FeedElementCapabilities](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "Apex Reference Guide:
     ConnectApi.FeedElementCapabilities - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ConnectApi.MessageSegment](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_output_msg_seg.htm "Apex Reference Guide: ConnectApi.MessageSegment - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ConnectApi.AbstractRecordView](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_output_abstractRecordView.htm "Apex Reference Guide:
     ConnectApi.AbstractRecordView - HTML (New Window)")
+
+## Code Examples
+
+```
+if(segment instanceof ConnectApi.MentionSegment) {
+	ConnectApi.MentionSegment = (ConnectApi.MentionSegment)segment;
+}
+```

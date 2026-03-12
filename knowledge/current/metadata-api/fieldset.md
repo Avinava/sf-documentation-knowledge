@@ -5,11 +5,16 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.666Z
-keywords: [FieldSet, Version, Fields, FieldSetItem, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:39.863Z
+estimatedTokens: 609
+keywords: [FieldSet, Represents, field, set., set, grouping, fields., example, could, contains, fields, describing, user's, first, name, middle, last, business, title., Version]
 ---
 
 # FieldSet
+
+> Represents a field set. A field set is a grouping of
+            fields. For example, you could have a field set that contains fields describing a user's
+            first name, middle name, last name, and business title.
 
 # FieldSet
 
@@ -54,3 +59,34 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/customfield.htm "CustomField")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_historyretentionpolicy.htm "HistoryRetentionPolicy")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <fullName>FieldSetNames</fullName>
+        <availableFields>
+            <field>MiddleName__c</field>
+        </availableFields>
+        <availableFields>
+            <field>Title__c</field>
+        </availableFields>
+        <description>FieldSet containing how to properly address someone</description>
+        <displayedFields>
+            <field>FirstName__c</field>
+        </displayedFields>
+        <displayedFields>
+            <field>LastName__c</field>
+        </displayedFields>
+        <label>FieldSet Names</label>
+    </fieldSets>
+</CustomObject>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_historyretentionpolicy.htm)

@@ -4,12 +4,18 @@ domain: apex-guide
 topic: transaction-finalizers
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.690Z
-keywords: [Transaction, Finalizers, System.Finalizer, Interface, System.FinalizerContext, Implementation, Details, Logging, Finalizer, Example, Retry, Queueable, Considerations, Best, Practices]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.133Z
+estimatedTokens: 1551
+keywords: [Transaction, Finalizers, feature, enables, attach, actions, System.Finalizer, asynchronous, Apex, jobs, Queueable, framework., specific, case, design, recovery, job, fails., System.FinalizerContext, Implementation]
 ---
 
 # Transaction Finalizers
+
+> The Transaction Finalizers feature enables you to attach actions,
+        using the System.Finalizer interface, to
+        asynchronous Apex jobs that use the Queueable framework. A specific use case is to design
+        recovery actions when a Queueable job fails.
 
 # Transaction Finalizers
 
@@ -49,43 +55,43 @@ This method is called on the provided FinalizerContext instance for every enqueu
 The System.FinalizerContext interface contains four methods.
 
 -   getAsyncApexJobId method:
-    
+
     ```
-    
+
     ```
-    
+
     Returns the ID of the Queueable job for which this finalizer is defined.
 -   getRequestId method:
-    
+
     ```
-    
+
     ```
-    
+
     Returns the request ID, a string that uniquely identifies the request, and can be correlated with Event Monitoring logs. To correlate with the AsyncApexJob table, use the getAsyncApexJobId method instead. The Queueable job and the Finalizer execution both share the (same) request ID.
 -   getResult method:
-    
+
     ```
-    
+
     ```
-    
+
     Returns the System.ParentJobResult enum, which represents the result of the parent asynchronous Apex Queueable job to which the finalizer is attached. The enum takes these values: SUCCESS, UNHANDLED\_EXCEPTION.
 -   getException method:
-    
+
     ```
-    
+
     ```
-    
+
     Returns the exception with which the Queueable job failed when getResult is UNHANDLED\_EXCEPTION, null otherwise.
 
 Attach the finalizer to your Queueable jobs using the System.attachFinalizer method.
 
 1.  Define a class that implements the System.Finalizer interface.
 2.  Attach a finalizer within a Queueable job’s execute method. To attach the finalizer, invoke the System.attachFinalizer method, using as argument the instantiated class that implements the System.Finalizer interface.
-    
+
     ```
-    
+
     ```
-    
+
 
 ## Implementation Details
 
@@ -118,3 +124,29 @@ If a job request is terminated unexpectedly, such as a database shutdown during 
 ## Best Practices
 
 We urge ISVs to exercise caution in using global Finalizers with state-mutating methods in packages. If a subscriber org’s implementation invokes such methods in the global Finalizer, it can result in unexpected behavior. Examine all state-mutating methods to see how they affect the finalizer state and overall behavior.
+
+## Code Examples
+
+```apex
+global void execute(System.FinalizerContext ctx) {}
+```
+
+```apex
+global Id getAsyncApexJobId {}
+```
+
+```apex
+global String getRequestId {}
+```
+
+```apex
+global System.ParentJobResult getResult {}
+```
+
+```apex
+global System.Exception getException {}
+```
+
+## Related Topics
+
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)

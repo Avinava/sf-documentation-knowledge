@@ -5,11 +5,15 @@ topic: internal-record-alerts-bulk-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.908Z
-keywords: [Internal, Record, Alerts, Bulk, Actions, POST, Note]
+lastCollected: 2026-03-12T05:14:49.337Z
+estimatedTokens: 246
+keywords: [Internal, Record, Alerts, Bulk, Actions, POST, Snooze, bulk, internal, record, alerts, specified, time, period, dismiss, them., Note]
 ---
 
 # Internal Record Alerts Bulk Actions (POST)
+
+> Snooze bulk internal record alerts for a specified time period or
+      dismiss them.
 
 # Internal Record Alerts Bulk Actions (POST)
 
@@ -66,3 +70,51 @@ Properties
 Response body for POST
 
 [Record Alert Action Collection Map](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_alert_action_collection_map.htm "Output representation of the record alert bulk actions.")
+
+## Code Examples
+
+```
+/recordalerts/ids/actions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/recordalerts
+/ids/actions
+```
+
+```
+{
+  "actions": [
+    {
+      "recordAlertId": "0qZRO00000000B1",
+      "actionParameters": [
+        {
+          "name": "snoozeUntilDate",
+          "value": "2022-03-08T02:16:35.477Z"
+        }
+      ],
+      "actionName": "snooze"
+    },
+    {
+      "recordAlertId": "0qZRO00000000B2",
+      "actionParameters": [],
+      "actionName": "dismiss"
+    },
+    {
+      "recordAlertId": "0qZRO00000000B3",
+      "actionParameters": [
+        {
+          "name": "snoozeUntilDate",
+          "value": "2022-03-08T02:16:35.477Z"
+        }
+      ],
+      "actionName": "snooze"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Record Alert Action Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_record_alert_action_input.htm)
+- Record Alert Action Collection Map (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_alert_action_collection_map.htm)

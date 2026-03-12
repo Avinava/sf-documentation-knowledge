@@ -5,11 +5,15 @@ topic: customfielddisplay
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.502Z
-keywords: [CustomFieldDisplay, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:44.998Z
+estimatedTokens: 728
+keywords: [CustomFieldDisplay, Represents, view, assigned, product, attribute, custom, fields., API, version, 63.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # CustomFieldDisplay
+
+> Represents the view type assigned to product attribute custom fields.
+      This object is available in API version 63.0 and later.
 
 # CustomFieldDisplay
 

@@ -5,11 +5,17 @@ topic: actionoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.019Z
-keywords: [ActionOverride, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ActionOverrideType, Note, Usage, Sample, Definitions, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:36.279Z
+estimatedTokens: 1776
+keywords: [ActionOverride, Represents, action, override, standard, custom, object., create, update, edit, delete, overrides., access, only, accessing, its, encompassing, CustomObject., Declarative, Metadata]
 ---
 
 # ActionOverride
+
+> Represents an action override on a standard or custom object. Use it
+            to create, update, edit, or delete action overrides.
+        You can access ActionOverride only by accessing its
+            encompassing CustomObject.
 
 # ActionOverride
 
@@ -112,3 +118,66 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
+
+## Code Examples
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>edit</actionName>
+        <type>visualforce</type>
+        <content>myEditVFPage</content>
+        <comment>This edit action is a lot safer.</comment>
+     </actionOverrides>
+</CustomObject
+```
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>edit</actionName>
+        <type>lightningcomponent</type>
+        <content>myEditLightningComponent</content>
+        <formFactor>Large</formFactor>
+        <comment>This edit action is a lot safer.</comment>
+     </actionOverrides>
+</CustomObject>
+```
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>edit</actionName>
+        <type>lightningcomponent</type>
+        <content>myEditLightningComponent</content>
+        <formFactor>Small</formFactor>
+        <comment>This edit action is a lot safer.</comment>
+     </actionOverrides>
+</CustomObject>
+```
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>edit</actionName>
+        <type>default</type>
+     </actionOverrides>
+</CustomObject>
+```
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>edit</actionName>
+        <type>standard</type>
+     </actionOverrides>
+</CustomObject>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_businessprocess.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)

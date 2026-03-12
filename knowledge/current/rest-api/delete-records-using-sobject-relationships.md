@@ -5,11 +5,16 @@ topic: delete-records-using-sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.714Z
-keywords: [Delete, Records, sObject, Relationships, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.071Z
+estimatedTokens: 503
+keywords: [Delete, Records, sObject, Relationships, Deletes, parent, record, based, specified, relationship, field, name., Only, child-to-parent, traversed, delete, records., Syntax, Example]
 ---
 
 # Delete Records Using sObject Relationships
+
+> Deletes a parent record based on the specified object, record ID, and relationship field
+		name. Only a child-to-parent relationship can be traversed when you delete
+		records.
 
 # Delete Records Using sObject Relationships
 
@@ -52,3 +57,8 @@ For examples of using sObject Relationships to delete a relationship record, see
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/ "Object Reference for the Salesforce Platform - HTML (New Window)")
+
+## Related Topics
+
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- Traverse Relationships with Friendly URLs (atlas.en-us.api_rest.meta/api_rest/dome_relationship_traversal.htm)

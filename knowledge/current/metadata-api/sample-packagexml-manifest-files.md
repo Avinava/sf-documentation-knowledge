@@ -5,11 +5,17 @@ topic: sample-packagexml-manifest-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.223Z
-keywords: [Sample, package.xml, Manifest, Files, Standard, Objects, Custom, Picklist, Fields, Note, List, Views, Packages, Security, Settings, Assignment, Rules, Auto-Response, Escalation, Sharing]
+lastCollected: 2026-03-12T05:14:36.454Z
+estimatedTokens: 2912
+keywords: [Sample, package.xml, Manifest, Files, section, includes, sample, manifest, files, show, how, work, different, subsets, metadata., file, include, multiple, <types>, elements]
 ---
 
 # Sample package.xml Manifest Files
+
+> This section includes sample package.xml manifest files that show you how to work
+        with different subsets of metadata. A manifest file can include multiple <types> elements
+        so you could combine the individual samples into one package.xml manifest file if you want
+        to work with all the metadata in one batch.
 
 # Sample package.xml Manifest Files
 
@@ -202,3 +208,68 @@ To retrieve:
 ```
 
 When retrieving permission sets and profiles, make sure that you also retrieve any components that are related to the permissions and settings. For example, when retrieving app visibilities, you must also retrieve the associated app, and when retrieving object or field permissions, you must also retrieve the associated object.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Industry</members>
+        <name>StandardValueSet</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.Industry</members>
+        <name>CustomField</name>
+    </types>
+    <version>37.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SalesTeamRole</members>
+        <name>StandardValueSet</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- StandardValueSet Names and Standard Picklist Fields (atlas.en-us.api_meta.meta/api_meta/standardvalueset_names.htm)
+- packageNames (atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm)
+- RetrieveRequest (atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)

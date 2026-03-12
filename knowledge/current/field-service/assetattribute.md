@@ -5,11 +5,15 @@ topic: assetattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.492Z
-keywords: [AssetAttribute, Supported, Calls, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:55.909Z
+estimatedTokens: 468
+keywords: [AssetAttribute, Stores, asset, attributes, track, analyze, conditions, improve, their, uptime., API, version, 57.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # AssetAttribute
+
+> Stores asset attributes to track and analyze asset conditions to improve
+         their uptime. This object is available in API version 57.0 and later.
 
 # AssetAttribute
 

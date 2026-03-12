@@ -5,11 +5,14 @@ topic: get-a-list-of-all-approval-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:24.930Z
-keywords: [Get, List, Approval, Processes]
+lastCollected: 2026-03-12T05:14:35.004Z
+estimatedTokens: 131
+keywords: [Get, List, Approval, Processes, Process, Approvals, resource, get, information, approvals.]
 ---
 
 # Get a List of All Approval Processes
+
+> Use the Process Approvals resource to get information about approvals.
 
 # Get a List of All Approval Processes
 
@@ -30,3 +33,27 @@ Example JSON response body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/process/approvals/ -H "Authorization: Bearer token"
+```
+
+```
+{
+  "approvals" : {
+   "Account" : [ {
+     "description" : null,
+     "id" : "04aD00000008Py9",
+     "name" : "Account Approval Process",
+     "object" : "Account",
+     "sortOrder" : 1
+   } ]
+  }
+}
+```
+
+## Related Topics
+
+- Process Approvals (atlas.en-us.api_rest.meta/api_rest/resources_process_approvals.htm)

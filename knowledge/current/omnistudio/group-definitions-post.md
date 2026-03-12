@@ -5,11 +5,16 @@ topic: group-definitions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.879Z
-keywords: [Group, Definitions, POST]
+lastCollected: 2026-03-12T05:14:49.310Z
+estimatedTokens: 370
+keywords: [Group, Definitions, POST, Define, party, relationship, group, individuals, trusts, deliver, support, services, manage, shared, processes, such, cases, benefits.]
 ---
 
 # Group Definitions (POST)
+
+> Define a party relationship group of individuals or trusts to
+      deliver support services or to manage shared processes, such as cases and
+    benefits.
 
 # Group Definitions (POST)
 
@@ -61,3 +66,96 @@ Properties
 Response body for POST
 
 [Group Definition](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_group_output.htm "Output representation of a party relationship group definition.")
+
+## Code Examples
+
+```
+/connect/group/group-definitions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/group/group-definitions
+```
+
+```
+{
+    "accountDetail":{
+       "name":"prg5",
+       "ownerId":"005xx000001X7tNAAS",
+       "billingAddress":{
+          "street":"",
+          "city":"Los Angeles",
+          "state":"California",
+          "country":"USA",
+          "postalCode":"90042"
+       },
+       "shippingAddress":{
+          "street":"",
+          "city":"Los Angeles",
+          "state":"California",
+          "country":"USA",
+          "postalCode":"90042"
+       },
+       "phone":"0123456789"
+    },
+    "groupDetail":{
+       "name":"prg5",
+       "category":"Staying under the same roof",
+       "type":"Household",
+       "groupSize":"2",
+       "groupIncome":"20000",
+       "primaryAddress":{
+          "street":"",
+          "city":"Los Angeles",
+          "state":"California",
+          "country":"USA",
+          "postalCode":"90042"
+       }
+    },
+    "member":{
+       "records":[
+          {
+             "contactId":"003xx000004WhHQAA0",
+             "roles":"Decision Maker",
+             "relations":[
+                {
+                   "roleRelationId":"0zlxx0000000001AAA",
+                   "relatedContactId":"003xx000004WhJ2AAK",
+                   "startDate":"2023-06-14T00:00:00.000Z"
+                }
+             ]
+          }
+       ]
+    },
+    "externalMember":{
+       "records":[
+          {
+             "contactId":"003xx000004WhJ2AAK",
+             "roles":"Decision Maker"
+          }
+       ]
+    },
+    "relatedGroup":{
+       "relations":[
+          {
+             "type":"Direct",
+             "roleRelationId":"0zlxx000000001dAAA",
+             "relatedAccountId":"001xx000003GYodAAG"
+          }
+       ]
+    },
+    "relatedAccount":{
+       "relations":[
+          
+       ]
+    }
+ }
+```
+
+## Related Topics
+
+- Member Record
+                                    Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_member_record_input.htm)
+- Account Relation
+                                    Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_account_relation_input.htm)
+- Group Definition (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_group_output.htm)

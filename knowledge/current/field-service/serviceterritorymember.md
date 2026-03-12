@@ -5,11 +5,16 @@ topic: serviceterritorymember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.985Z
-keywords: [ServiceTerritoryMember, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.642Z
+estimatedTokens: 1702
+keywords: [ServiceTerritoryMember, Represents, service, resource, who, assigned, territory, Field, Service, Salesforce, Scheduler, Workforce, Engagement., API, version, 38.0, later., Supported, Calls, Special]
 ---
 
 # ServiceTerritoryMember
+
+> Represents a service resource who can be assigned in a service
+			territory in Field Service, Salesforce Scheduler, or Workforce Engagement. This
+		object is available in API version 38.0 and later.
 
 # ServiceTerritoryMember
 

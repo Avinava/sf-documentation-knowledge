@@ -5,46 +5,96 @@ topic: assessmentquestionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.627Z
-keywords: [AssessmentQuestionSet, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:51.967Z
+estimatedTokens: 727
+keywords: [AssessmentQuestionSet, Represents, container, Assessment, Questions., Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
 ---
 
 # AssessmentQuestionSet
 
+> Represents the container object for Assessment
+			Questions.
+
 # AssessmentQuestionSet
 
-Container object for assessment questions. This object is available in API version 55.0 and later.
+Represents the container object for Assessment Questions.
 
-## Supported Calls
+## Parent Type
 
-create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
+This type extends the Metadata metadata type and inherits its fullName field.
+
+## File Suffix and Directory Location
+
+AssessmentQuestionSet components have the suffix .AssessmentQuestionSet and are stored in the AssessmentQuestionSets folder.
+
+## Version
+
+AssessmentQuestionSet components are available in API version 55.0 and later.
 
 ## Fields
 
-| Field | Details |
+| Field Name | Description |
 | --- | --- |
-| DeveloperName | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionRequired. The unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
-| Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionRequired. The question set name. |
-| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who created the relationship record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
+| assessmentQuestionDeveloperNames | Field Typestring[]DescriptionThe developer names for the assessment question. Can contain only underscores and alphanumeric characters and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. |
+| developerName | Field TypestringDescriptionRequired.The developer name for the assessment question set. Can contain only underscores and alphanumeric characters and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. |
+| name | Field TypestringDescriptionRequired.The question set name. |
 
-## Associated Objects
+## Declarative Metadata Sample Definition
 
-This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
+The following is an example of an AssessmentQuestionSet component.
 
-[AssessmentQuestionSetChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+```
 
-Change events are available for the object.
+```
 
-[AssessmentQuestionSetFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm "HTML (New Window)")
+The following is an example package.xml that references the previous definition.
 
-Feed tracking is available for the object.
+```
 
-[AssessmentQuestionSetHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "HTML (New Window)")
+```
 
-History is available for tracked fields of the object.
+## Wildcard Support in the Manifest File
 
-[AssessmentQuestionSetShare](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "HTML (New Window)")
+This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
 
-Sharing is available for the object.
+## Usage
+
+Before you retrieve assessment question sets, we recommend that you review these considerations.
+
+-   When retrieving an assessment question set, if its fields contain values, then the XML definition must contain tags with those values.
+-   When retrieving an assessment question set, if that set is associated with multiple questions, then the XML definition must contain developer names of all the associated questions.
+
+Before you deploy assessment question sets, we recommend that you review these considerations.
+
+-   When deploying an assessment question set, if an assessment question set with the same developer name doesn't exist in the target org, deploying creates one with that name.
+-   If an assessment question set with the same developer name exists in the target org, then deploying the question set updates the values of the other fields in the target org.
+-   If the questions associated with the assessment question set don't exist in the target org, deploying the assessment question set fails.
+-   If the questions associated with the assessment question set don’t exist in the target org but are available in the package, then deploying the assessment question sets inserts the questions in the correct order.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestionSet
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<developerName>QuestionSetDevName</developerName>
+	<name>QuestionSetName</name>
+	<assessmentQuestionDeveloperNames>QuestionDevName</assessmentQuestionDeveloperNames>
+</AssessmentQuestionSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>AssessmentQuestion</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>AssessmentQuestionSet</name>
+	</types>
+	<version>55.0</version>
+</Package>
+```

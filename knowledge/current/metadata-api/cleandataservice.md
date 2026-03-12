@@ -5,11 +5,15 @@ topic: cleandataservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.138Z
-keywords: [CleanDataService, Important, File, Suffix, Directory, Location, Version, Fields, CleanRule, FieldMapping, FieldMappingRow, FieldMappingField, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.735Z
+estimatedTokens: 1906
+keywords: [CleanDataService, Represents, data, service, adds, updates, standard, objects., Important, File, Suffix, Directory, Location, Version, Fields, CleanRule, FieldMapping, FieldMappingRow, FieldMappingField, Declarative]
 ---
 
 # CleanDataService
+
+> Represents a data service that adds and updates data in
+      standard objects.
 
 # CleanDataService
 
@@ -113,3 +117,102 @@ To make small modifications to the CleanDataService component, use the Tooling A
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CleanDataService xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cleanRules>
+        <bulkEnabled>false</bulkEnabled>
+        <bypassTriggers>false</bypassTriggers>
+        <bypassWorkflow>false</bypassWorkflow>
+        <description>Adds data info to leads</description>
+        <developerName>DataService_Leads_Enrichment</developerName>
+        <fieldMappings>
+            <SObjectType>DataServiceCompanyObject</SObjectType>
+            <developerName>DataService_Leads_Enrichment_InputMapping</developerName>
+            <fieldMappingRows>
+                <SObjectType>DataServiceCompanyObject</SObjectType>
+                <fieldMappingFields>
+                    <dataServiceField>Email</dataServiceField>
+                    <dataServiceObjectName>Lead</dataServiceObjectName>
+                    <priority>1</priority>
+                </fieldMappingFields>
+                <fieldName>Email</fieldName>
+                <mappingOperation>Autofill</mappingOperation>
+            </fieldMappingRows>
+            <fieldMappingRows>
+                <SObjectType>DataServiceCompanyObject</SObjectType>
+                <fieldMappingFields>
+                    <dataServiceField>Company</dataServiceField>
+                    <dataServiceObjectName>Lead</dataServiceObjectName>
+                    <priority>1</priority>
+                </fieldMappingFields>
+                <fieldName>Name</fieldName>
+                <mappingOperation>Autofill</mappingOperation>
+            </fieldMappingRows>
+            <masterLabel>DataServiceInputMapping</masterLabel>
+        </fieldMappings>
+        <fieldMappings>
+            <SObjectType>Lead</SObjectType>
+            <developerName>DataService_Leads_Enrichment_OutputMapping</developerName>
+            <fieldMappingRows>
+                <SObjectType>Lead</SObjectType>
+                <fieldMappingFields>
+                    <dataServiceField>EmployeesTotal</dataServiceField>
+                    <dataServiceObjectName>DataServiceCompanyObject</dataServiceObjectName>
+                    <priority>1</priority>
+                </fieldMappingFields>
+                <fieldName>NumberOfEmployees</fieldName>
+                <mappingOperation>Autofill</mappingOperation>
+            </fieldMappingRows>
+            <fieldMappingRows>
+                <SObjectType>Lead</SObjectType>
+                <fieldMappingFields>
+                    <dataServiceField>Revenue</dataServiceField>
+                    <dataServiceObjectName>DataServiceCompanyObject</dataServiceObjectName>
+                    <priority>1</priority>
+                </fieldMappingFields>
+                <fieldName>AnnualRevenue</fieldName>
+                <mappingOperation>Autofill</mappingOperation>
+            </fieldMappingRows>
+            <fieldMappingRows>
+                <SObjectType>Lead</SObjectType>
+                <fieldMappingFields>
+                    <dataServiceField>Industry</dataServiceField>
+                    <dataServiceObjectName>DataServiceCompanyObject</dataServiceObjectName>
+                    <priority>1</priority>
+                </fieldMappingFields>
+                <fieldName>Industry</fieldName>
+                <mappingOperation>Autofill</mappingOperation>
+            </fieldMappingRows>
+            <masterLabel>DataServiceOutputMapping</masterLabel>
+        </fieldMappings>
+        <masterLabel>Data Service Company Info for Leads</masterLabel>
+        <matchRule>DataServiceLeadAppendMatchRule</matchRule>
+        <sourceSobjectType>DataServiceCompanyObject</sourceSobjectType>
+        <status>Active</status>
+        <targetSobjectType>Lead</targetSobjectType>
+    </cleanRules>
+    <description>Data Service Companies for Leads</description>
+    <masterLabel>Data Service Companies for Leads</masterLabel>
+    <matchEngine>LeadEnrichmentMatchEngine</matchEngine>
+</CleanDataService>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>DataService_Leads_Enrichment</members>
+        <name>CleanDataService</name>
+    </types>
+    <version>38.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

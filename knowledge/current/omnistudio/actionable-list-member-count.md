@@ -5,11 +5,14 @@ topic: actionable-list-member-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.569Z
-keywords: [Actionable, List, Member, Count]
+lastCollected: 2026-03-12T05:14:48.848Z
+estimatedTokens: 228
+keywords: [Actionable, List, Member, Count, Update, member, count, actionable, list.]
 ---
 
 # Actionable List Member Count
+
+> Update the member count of an actionable list.
 
 # Actionable List Member Count
 
@@ -53,3 +56,37 @@ Specify either an actionableListId or filters, but not both.
 Response body for POST
 
 [Actionable List Update Member Count Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_actionable_list_update_member_count_output.htm "Actionable List Member Count output.")
+
+## Code Examples
+
+```
+/connect/actionable-list-member-count
+```
+
+```
+{
+  "filters": {
+    "conditions": [
+      {
+        "fieldName": "ObjectName",
+        "operator": "equals",
+        "value": "Account",
+        "index": 1
+      },
+      {
+        "fieldName": "Name",
+        "operator": "equals",
+        "value": "VIPClients",
+        "index": 2
+      }
+    ],
+    "filterLogic": "1 AND 2",
+    "querySize": 2000
+  }
+}
+```
+
+## Related Topics
+
+- Actionable List Update Member Count Filter List Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_actionable_list_update_member_count_filter_input_list.htm)
+- Actionable List Update Member Count Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_actionable_list_update_member_count_output.htm)

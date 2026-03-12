@@ -5,11 +5,15 @@ topic: form-reader-target-object-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.400Z
-keywords: [Form, Reader, Target, Object, Mappings]
+lastCollected: 2026-03-12T05:14:50.265Z
+estimatedTokens: 169
+keywords: [Form, Reader, Target, Mappings, Output, representation, mappings, between, text, extracted, form, reader, Salesforce, object., document]
 ---
 
 # Form Reader Target Object Mappings
+
+> Output representation of the mappings between the text extracted by
+   the document reader and the Salesforce object.
 
 # Form Reader Target Object Mappings
 
@@ -20,3 +24,8 @@ Output representation of the mappings between the text extracted by the document
 | formReaderObject​FieldMapping | Form Reader Object Field Mapping[] | List of mappings between the extracted text values and the fields of the Salesforce object. | Small, 55.0 | 55.0 |
 | targetObjectName | String | Name of the target object to which mappings are done. | Small, 55.0 | 55.0 |
 | targetObject​RecordType | String | Developer name of the record type of the target object. | Small, 57.0 | 57.0 |
+
+## Related Topics
+
+- Form Reader Object Field Mapping (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_form_reader_object_field_mapping.htm)
+- Form Reader Object Field Mapping (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_reader_object_field_mapping.htm)

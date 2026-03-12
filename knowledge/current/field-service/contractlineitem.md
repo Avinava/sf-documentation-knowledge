@@ -5,11 +5,15 @@ topic: contractlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.551Z
-keywords: [ContractLineItem, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.002Z
+estimatedTokens: 1359
+keywords: [ContractLineItem, Represents, product, covered, service, contract, customer, support, agreement, API, version, 18.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # ContractLineItem
+
+> Represents a product covered by a service contract (customer support
+			agreement). This object is available in API version 18.0 and later.
 
 # ContractLineItem
 

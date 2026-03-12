@@ -5,11 +5,16 @@ topic: compile-consent-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.331Z
-keywords: [Compile, Consent, Settings, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.506Z
+estimatedTokens: 2375
+keywords: [Compile, Consent, Settings, consent, details, based, single, action, email, track, across, specific, management, objects, records, lookup, relationship., resource, REST, API]
 ---
 
 # Compile Consent Settings
+
+> Gets consent details based on a single action, like email or track, across specific
+  consent management objects when the records have a lookup relationship. This resource is available
+  in REST API version 45.0 and later.
 
 # Compile Consent Settings
 
@@ -97,3 +102,54 @@ Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/action/track?ids=003xx000004TxyY,00Qxx00000syyO,003zz000004zzZ -H "Authorization: Bearer token"
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/action/email?ids=j0t5t5b2@tkbxp5ia.com,4quxlswo@23wj7pwh.com&datetime=2018-12-12T00:00:00Z -H "Authorization: Bearer token"
+```
+
+```
+{
+  "j0t5t5b2@tkbxp5ia.com" : {
+    "result" : "Success",
+    "proceed" : {
+      "email" : "true"
+      "emailResult" : "Success"
+    },
+    "explanation" : [ {
+      "objectConsulted" : "ContactTypePointConsent",
+      "status" : "opt_in",
+      "purpose" : "billing",
+      "recordId" : "003xx000004TxyY",
+      "value" : "true"
+    },{
+      "objectConsulted" : "Contact",
+      "field" : "HasOptedOutOfTracking",
+      "recordId" : "1",
+      "value" : "true"
+    }]
+  },
+  "4quxlswo@23wj7pwh.com" : {
+    "result" : "Success",
+    "proceed" : {
+      "email" : "false"
+      "emailResult" : "Success"
+    },
+    "explanation" : [ {
+      "objectConsulted" : "Contact",
+      "field" : "HasOptedOutOfEmail",
+      "recordId" : "00Qxx00000skwO",
+      "value" : "true"
+    }  ]
+  }
+}
+```
+
+## Related Topics
+
+- Valid Date and DateTime Formats (atlas.en-us.api_rest.meta/api_rest/intro_valid_date_formats.htm)

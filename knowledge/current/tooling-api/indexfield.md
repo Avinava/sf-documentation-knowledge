@@ -5,11 +5,15 @@ topic: indexfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.140Z
-keywords: [IndexField, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:45.885Z
+estimatedTokens: 448
+keywords: [IndexField, Represents, fields, index, custom, big, object., Tooling, API, version, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields]
 ---
 
 # IndexField
+
+> Represents the fields in the index of a custom big
+            object. Available in Tooling API version 41.0 and later.
 
 # IndexField
 
@@ -39,3 +43,8 @@ GET
 | ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
 | Ordinal | TypeintPropertiesFilter, Group, SortDescriptionThe field’s position in the index. Used to determine the order of the fields in the index. |
 | SortDirection | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe sort direction of the field in the index. Valid values are ASC for ascending order and DESC for descending order. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

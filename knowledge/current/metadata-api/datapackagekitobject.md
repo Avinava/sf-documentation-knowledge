@@ -5,11 +5,15 @@ topic: datapackagekitobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.718Z
-keywords: [DataPackageKitObject, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.516Z
+estimatedTokens: 584
+keywords: [DataPackageKitObject, Represents, Data, Kit, Content, Object., objects, added, inside, data, kit., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # DataPackageKitObject
+
+> Represents the object in Data Kit Content Object.
+      These objects are added inside the data kit.
 
 # DataPackageKitObject
 
@@ -63,3 +67,36 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>CRM</masterLabel>
+    <parentDataPackageKitDefinitionName>CRM</parentDataPackageKitDefinitionName>
+    <referenceObjectName>CRM</referenceObjectName>
+    <referenceObjectType>DLO</referenceObjectType>
+</DataPackageKitObject>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SalesforceDataKit</fullName>
+    <types>
+        <members>CRM</members>
+        <name>DataPackageKitObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <version>53.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

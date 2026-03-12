@@ -5,11 +5,14 @@ topic: connectapiphoto
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.577Z
-keywords: [ConnectApi.Photo, See]
+lastCollected: 2026-03-12T05:14:28.372Z
+estimatedTokens: 574
+keywords: [ConnectApi.Photo, Profile, photo.]
 ---
 
 # ConnectApi.Photo
+
+> Profile photo.
 
 # ConnectApi.Photo
 
@@ -28,7 +31,14 @@ Profile photo.
 #### See Also
 
 -   [ConnectApi.ChatterGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm "Chatter group.")
-    
+
 -   [ConnectApi.RecommendationDefinition](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_definition.htm "Represents a custom recommendation definition.")
-    
+
 -   [ConnectApi.User](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm "User.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ChatterGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm)
+- ConnectApi.RecommendationDefinition (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_definition.htm)
+- ConnectApi.User (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm)

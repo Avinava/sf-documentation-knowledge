@@ -6,12 +6,16 @@ topic: setutilitylabel-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.391Z
-keywords: [setUtilityLabel, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.982Z
+estimatedTokens: 280
+keywords: [setUtilityLabel, Lightning, Experience, label, utility., text, displayed, utility, bar., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # setUtilityLabel() for Lightning Experience for
    Lightning Experience
+
+> Sets the label of a utility. This text is displayed in the utility bar. This method
+  isn’t supported for Lightning Web Components (LWC).
 
 # setUtilityLabel() for Lightning Experience for Lightning Experience
 
@@ -45,3 +49,27 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Utility Label" onclick="{! c.handleSetUtilityLabel }" />
+</aura:component>
+```
+
+```
+({
+    handleSetUtilityLabel : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setUtilityLabel({
+            label: "My Favorite Utility"
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updateUtility() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updateUtility.htm)

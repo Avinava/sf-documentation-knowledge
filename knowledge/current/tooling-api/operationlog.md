@@ -5,11 +5,16 @@ topic: operationlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.356Z
-keywords: [OperationLog, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, changeOwnPassword, OperationParameters, OperationPayload, Territory2RunTerritoryRulesPayload, Territory2RunOppTerrAssignmentApexPayload]
+lastCollected: 2026-03-12T05:14:46.187Z
+estimatedTokens: 1667
+keywords: [OperationLog, Represents, long-running, asynchronous, operations, triggered, tracked, through, Tooling, API., API, version, 37.0, later., Supported, SOAP, Calls, REST, HTTP, Special]
 ---
 
 # OperationLog
+
+> Represents long-running or asynchronous
+            operations triggered and tracked through Tooling API. This object is available in
+        API version 37.0 and later.
 
 # OperationLog
 

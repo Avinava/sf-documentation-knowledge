@@ -5,11 +5,14 @@ topic: connectapichatteractivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.307Z
-keywords: [ConnectApi.ChatterActivity, See]
+lastCollected: 2026-03-12T05:14:26.603Z
+estimatedTokens: 186
+keywords: [ConnectApi.ChatterActivity, Chatter, activity.]
 ---
 
 # ConnectApi.ChatterActivity
+
+> Chatter activity.
 
 # ConnectApi.ChatterActivity
 
@@ -25,3 +28,8 @@ Chatter activity.
 #### See Also
 
 -   [ConnectApi.UserDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm "Details about a user in an org.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.UserDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm)

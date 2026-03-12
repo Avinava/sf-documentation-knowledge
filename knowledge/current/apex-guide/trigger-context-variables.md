@@ -5,11 +5,15 @@ topic: trigger-context-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.722Z
-keywords: [Trigger, Context, Variables, Note, See]
+lastCollected: 2026-03-12T05:14:34.162Z
+estimatedTokens: 987
+keywords: [Trigger, Context, Variables, triggers, define, implicit, variables, allow, developers, access, run-time, context., contained, System.Trigger, class., Note]
 ---
 
 # Trigger Context Variables
+
+> All triggers define implicit variables that allow developers to access run-time
+        context. These variables are contained in the System.Trigger class.
 
 # Trigger Context Variables
 
@@ -62,5 +66,84 @@ This trigger uses Boolean context variables such as Trigger.isBefore and Trigger
 #### See Also
 
 -   [*Apex Reference Guide*: TriggerOperation Enum](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_enum_System_TriggerOperation.htm "Apex Reference Guide: TriggerOperation Enum - HTML (New Window)")
-    
+
 -   [Switch Statements](atlas.en-us.apexcode.meta/apexcode/langCon_apex_switch.htm "Apex provides a switch statement that tests whether an expression matches one of several values and branches accordingly.")
+
+## Code Examples
+
+```
+trigger SimpleTrigger on Account(after insert) {
+  for (Account a : Trigger.new) {
+    // Iterate over each sObject
+  }
+
+  // This single query finds every contact that is associated with any of the
+  // triggering accounts. Note that although Trigger.new is a collection of
+  // records, when used as a bind variable in a SOQL query, Apex automatically
+  // transforms the list of records into a list of corresponding Ids.
+  Contact[] cons = [
+    SELECT LastName
+    FROM Contact
+    WHERE AccountId IN :Trigger.new
+    WITH USER_MODE
+  ];
+}
+```
+
+```apex
+trigger MyAccountTrigger on Account(
+  before delete,
+  before insert,
+  before update,
+  after delete,
+  after insert,
+  after update
+) {
+  if (Trigger.isBefore) {
+    if (Trigger.isDelete) {
+      // In a before delete trigger, the trigger accesses the records that will be
+      // deleted with the Trigger.old list.
+      for (Account a : Trigger.old) {
+        if (a.name != 'okToDelete') {
+          a.addError('You can\'t delete this record!');
+        }
+      }
+    } else {
+      // In before insert or before update triggers, the trigger accesses the new records
+      // with the Trigger.new list.
+      for (Account a : Trigger.new) {
+        if (a.name == 'bad') {
+          a.name.addError('Bad name');
+        }
+      }
+      if (Trigger.isInsert) {
+        for (Account a : Trigger.new) {
+          Assert.areEqual('xxx', a.accountNumber);
+          Assert.areEqual('industry', a.industry);
+          Assert.areEqual(100, a.numberofemployees);
+          Assert.areEqual(100.0, a.annualrevenue);
+          a.accountNumber = 'yyy';
+        }
+
+        // If the trigger is not a before trigger, it must be an after trigger.
+      } else {
+        if (Trigger.isInsert) {
+          List<Contact> contacts = new List<Contact>();
+          for (Account a : Trigger.new) {
+            if (a.Name == 'makeContact') {
+              contacts.add(new Contact(LastName = a.Name, AccountId = a.Id));
+            }
+          }
+          insert as user contacts;
+        }
+      }
+    }
+  }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_syntax.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables_considerations.htm)
+- Switch Statements (atlas.en-us.apexcode.meta/apexcode/langCon_apex_switch.htm)

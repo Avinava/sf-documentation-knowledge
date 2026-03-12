@@ -5,11 +5,14 @@ topic: extlclntappmobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.541Z
-keywords: [ExtlClntAppMobileSettings, Note, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:39.730Z
+estimatedTokens: 425
+keywords: [ExtlClntAppMobileSettings, Represents, external, client, app’s, mobile, app, settings, such, screen, lock, device., Note, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # ExtlClntAppMobileSettings
+
+> Represents an external client app’s mobile app settings, such as screen lock on a mobile device.
 
 # ExtlClntAppMobileSettings
 
@@ -44,3 +47,7 @@ There are no additional access requirements that are specific to this type.
 | externalClientApplication | string | Required. The name of the associated external client app. |
 | isScreenLockEnabled | boolean | Required. Indicates whether the mobile app locks the screen after a specified timeout value. |
 | label | string | Label for the external client app’s mobile app settings configuration. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

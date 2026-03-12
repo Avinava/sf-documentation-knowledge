@@ -5,11 +5,15 @@ topic: assetregclauseversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.663Z
-keywords: [AssetRegClauseVersion, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:53.518Z
+estimatedTokens: 332
+keywords: [AssetRegClauseVersion, "Represents, association, between, Asset, Regulation, Clause, Version., API, version, 66.0, later., Supported, Calls, Fields]
 ---
 
 # AssetRegClauseVersion
+
+> "Represents an association between an Asset and a Regulation Clause Version.
+         " This object is available in API version 66.0 and later.
 
 # AssetRegClauseVersion
 

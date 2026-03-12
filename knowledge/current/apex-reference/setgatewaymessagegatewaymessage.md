@@ -5,11 +5,15 @@ topic: setgatewaymessagegatewaymessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.660Z
-keywords: [setGatewayMessage, gatewayMessage, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.132Z
+estimatedTokens: 110
+keywords: [setGatewayMessage, gatewayMessage, error, messages, gateway, returned, tokenization, request., Maximum, length, 255, characters.]
 ---
 
 # setGatewayMessage(gatewayMessage)
+
+> Sets error messages that the gateway returned for the tokenization request. Maximum
+    length of 255 characters.
 
 # setGatewayMessage(gatewayMessage)
 
@@ -28,3 +32,7 @@ Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#a
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

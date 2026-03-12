@@ -5,11 +5,14 @@ topic: decision-table-definitions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.763Z
-keywords: [Decision, Table, Definitions, POST]
+lastCollected: 2026-03-12T05:14:49.145Z
+estimatedTokens: 1258
+keywords: [Decision, Table, Definitions, POST, Create, decision, table, definition.]
 ---
 
 # Decision Table Definitions (POST)
+
+> Create a decision table definition.
 
 # Decision Table Definitions (POST)
 
@@ -91,3 +94,142 @@ Properties
 Response body for POST
 
 [Decision Table Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_output.htm "Output representation of the decision table details.")
+
+## Code Examples
+
+```
+/connect/business-rules/decision-table/definitions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/decision-table/definitions
+```
+
+```
+{
+   "setupName":"Product Qualificiation eligibility",
+   "fullName":"ProductQualificationEligibility",
+   "description":"Eligiblity of Products using Qualification Rules",
+   "usageType":"ProductEligibility",
+   "sourceType":"SingleSobject",
+   "sourceObject":"AccountFeed",
+   "status":"Draft",
+   "decisionResultPolicy":"FirstMatch",
+   "doesConsiderNullValue": true,
+   "collectOperator":"Count",
+   "conditionType":"Any",
+   "conditionCriteria":"1 OR 2 OR 3",
+   "parameters":[
+      {
+         "fieldName":"IsDeleted",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"1"
+      },
+      {
+         "fieldName":"Id",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"2"
+      },
+      {
+         "fieldName":"Title",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"3"
+      },
+      {
+         "fieldName":"CreatedById",
+         "usage":"OUTPUT"
+      }
+   ]
+}
+```
+
+```
+{
+   "setupName":"Jumbo Pricing Definition",
+   "fullName":"JumboPricingDefinition",
+   "description":"Join all the DT definitions into one jumbo pricing definition",
+   "usageType":"ProductEligibility",
+   "type":"LowVolume",
+   "sourceType":"MultipleSobjects",
+   "sourceObject":"AccountFeed",
+   "status":"Draft",
+   "decisionResultPolicy":"OutputOrder",
+   "doesConsiderNullValue": true,
+   "collectOperator":"Count",
+   "sourceconditionLogic":"1 AND 2 AND 3",
+   "conditionType":"Any",
+   "conditionCriteria":"1 OR 2 OR 3 OR 4 OR 5",
+   "parameters":[
+      {
+         "fieldName":"IsDeleted",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"1",
+         "columnMapping":"IsDeleted"
+      },
+      {
+         "fieldName":"Id",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"2",
+         "columnMapping":"Id"
+      },
+      {
+         "fieldName":"Title",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"3",
+         "columnMapping":"Title"
+      },
+      {
+         "fieldName":"OldvalNumber",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"4",
+         "columnMapping":"AccountHistory.OldvalNumber"
+      },
+      {
+         "fieldName":"OldvalString",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"5",
+         "columnMapping":"AccountHistory.OldvalString"
+      },
+      {
+         "fieldName":"CreatedById",
+         "usage":"OUTPUT",
+         "columnMapping":"CreatedById"
+      },
+      {
+         "fieldName":"NewvalNumber",
+         "usage":"OUTPUT",
+         "columnMapping":"AccountHistory.NewvalNumber"
+      },
+      {
+         "fieldName":"NewvalString",
+         "usage":"OUTPUT",
+         "columnMapping":"AccountHistory.NewvalString"
+      }
+   ]
+   "sourceCriteria":[
+      {
+         "sourceFieldName":"OldvalString",
+         "value":"5",
+         "operator":"Equals",
+         "valueType":"Parameter",
+         "sequenceNumber":"1"
+      }
+   ]
+}
+```
+
+## Related Topics
+
+- Decision Table Parameter
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_parameter_input.htm)
+- Decision Table Source Criteria
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_source_criteria_input.htm)
+- Decision Table Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_output.htm)

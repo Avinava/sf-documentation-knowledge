@@ -5,11 +5,14 @@ topic: context-attribute-hydration-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.151Z
-keywords: [Context, Attribute, Hydration, Detail]
+lastCollected: 2026-03-12T05:14:49.718Z
+estimatedTokens: 239
+keywords: [Context, Attribute, Hydration, Detail, Output, representation, context, attribute, hydration, detail.]
 ---
 
 # Context Attribute Hydration Detail
+
+> Output representation of context attribute hydration detail.
 
 # Context Attribute Hydration Detail
 
@@ -24,3 +27,8 @@ Output representation of context attribute hydration detail.
 | parentMappingAttributeId | String | ID of the parent context attribute mapping record. | Small, 59.0 | 59.0 |
 | queryAttribute | String | Query attribute. | Small, 59.0 | 59.0 |
 | sObjectDomain | String | sObject domain. | Small, 59.0 | 59.0 |
+
+## Related Topics
+
+- Mapped
+                  Attribute Data Type (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_mapped_attribute_data_type_info.htm)

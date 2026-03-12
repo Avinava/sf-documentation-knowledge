@@ -5,11 +5,14 @@ topic: connectapihidesocialpostintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.986Z
-keywords: [ConnectApi.HideSocialPostIntent, See]
+lastCollected: 2026-03-12T05:14:27.578Z
+estimatedTokens: 143
+keywords: [ConnectApi.HideSocialPostIntent, Hide, intent, social, post.]
 ---
 
 # ConnectApi.HideSocialPostIntent
+
+> Hide intent for a social post.
 
 # ConnectApi.HideSocialPostIntent
 
@@ -23,3 +26,9 @@ Hide intent for a social post.
 #### See Also
 
 -   [ConnectApi.SocialPostIntents](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_social_post_intents_output.htm "Intents available for a social post.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ManagedSocialAccount (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_social_account_output.htm)
+- ConnectApi.SocialPostIntents (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_social_post_intents_output.htm)

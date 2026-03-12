@@ -5,11 +5,18 @@ topic: externalservice-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:42.079Z
-keywords: [ExternalService, Namespace, See]
+lastCollected: 2026-03-12T05:14:31.551Z
+estimatedTokens: 169
+namespace: ExternalService
+keywords: [ExternalService, provides, dynamically, generated, Apex, service, interfaces, classes, complex, data, types.]
 ---
 
 # ExternalService Namespace
+
+> The ExternalService namespace provides dynamically
+  generated Apex service interfaces and Apex classes for complex object data types.
+
+**Namespace:** `ExternalService`
 
 # ExternalService Namespace
 

@@ -5,11 +5,15 @@ topic: incidentmgmtsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:08:17.721Z
-keywords: [IncidentMgmtSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:15.197Z
+estimatedTokens: 2200
+keywords: [IncidentMgmtSettings, Represents, settings, Customer, Service, Incident, Management, Broadcast, Communications., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields]
 ---
 
 # IncidentMgmtSettings
+
+> Represents settings for Customer Service Incident
+			Management and Broadcast Communications.
 
 # IncidentMgmtSettings
 
@@ -83,3 +87,50 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see Settings. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IncidentMgmtSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+	<enableAiKnowledgeCreation>true</enableAiKnowledgeCreation>
+	<enableAlertBroadcastType>false</enableAlertBroadcastType>
+	<enableAutoClosureOfChildIncident>true</enableAutoClosureOfChildIncident>
+	<enableAutoCreationOfProblem>false</enableAutoCreationOfProblem>
+	<enableChangePriorityMatrix>true</enableChangePriorityMatrix>
+	<enableChangePriorityOverride>false</enableChangePriorityOverride>
+	<enableChangeRequestValidations>true</enableChangeRequestValidations>
+	<enableChatToIncidentAi>true</enableChatToIncidentAi>
+	<enableCnfgItemCopyForRecords>false</enableCnfgItemCopyForRecords>
+	<enableDedupE2IncidentAttachment>true</enableDedupE2IncidentAttachment>
+	<enableEmailBroadcastType>true</enableEmailBroadcastType>
+	<enableEmailToIncident>true</enableEmailToIncident>
+	<enableEmailToIncidentAi>false</enableEmailToIncidentAi>
+	<enableITSMChangeMgmt>true</enableITSMChangeMgmt>
+	<enableITSMIncidentMgmt>true</enableITSMIncidentMgmt>
+	<enableITSMMajorIncParent>true</enableITSMMajorIncParent>
+	<enableITSMProblemMgmt>false</enableITSMProblemMgmt>
+	<enableIncPriorityMatrix>true</enableIncPriorityMatrix>
+	<enableIncPriorityOverride>false</enableIncPriorityOverride>
+	<enableIncidentMgmt>true</enableIncidentMgmt>
+	<enableIncidentValidations>true</enableIncidentValidations>
+	<enableProbPriorityMatrix>true</enableProbPriorityMatrix>
+	<enableProbPriorityOverride>false</enableProbPriorityOverride>
+	<enableProblemValidations>true</enableProblemValidations>
+	<enableRiskAssessment>true</enableRiskAssessment>
+	<enableSaveE2IncidentAttachment>true</enableSaveE2IncidentAttachment>
+	<enableSiteBannerBroadcastType>false</enableSiteBannerBroadcastType>
+	<enableSlackBroadcastType>true</enableSlackBroadcastType>
+</IncidentMgmtSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>IncidentMgmt</members>
+        <name>Settings</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```

@@ -5,11 +5,16 @@ topic: recentlyviewed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.608Z
-keywords: [RecentlyViewed, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Usage, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.587Z
+estimatedTokens: 1127
+keywords: [RecentlyViewed, Represents, metadata, entities, typically, found, Setup, such, page, layout, definitions, workflow, rule, email, templates, current, user, recently, viewed., Supported]
 ---
 
 # RecentlyViewed
+
+> Represents metadata entities typically found in Setup such as page
+         layout definitions, workflow rule definitions, and email templates that the current user
+         has recently viewed.
 
 # RecentlyViewed
 
@@ -87,4 +92,20 @@ Use this query to retrieve data that was either viewed or referenced, but only f
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT Id, Name
+FROM RecentlyViewed
+WHERE LastViewedDate !=null
+ORDER BY LastViewedDate DESC
+```
+
+```
+SELECT Id, Name
+FROM RecentlyViewed 
+WHERE Type IN ('CustomEntityDefinition', 'CustomFieldDefinition')
+ORDER BY LastViewedDate DESC
 ```

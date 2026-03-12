@@ -5,11 +5,15 @@ topic: schedulingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.505Z
-keywords: [SchedulingRule, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, SchedulingRuleParameter, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.583Z
+estimatedTokens: 858
+keywords: [SchedulingRule, Represents, scheduling, rule, Workforce, Engagement, Management., Scheduling, rules, determine, agents, assigned, shifts., Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # SchedulingRule
+
+> Represents a scheduling rule in Workforce Engagement
+      Management. Scheduling rules determine when agents are assigned to shifts.
 
 # SchedulingRule
 
@@ -67,3 +71,46 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Max Shifts Per Week</masterLabel>
+    <schedulingCategory>B</schedulingCategory>
+    <schedulingRuleParameters>
+        <schedulingParameterKey>C</schedulingParameterKey>
+        <value>MaxShiftsPerWeek</value>
+    </schedulingRuleParameters>
+    <schedulingRuleParameters>
+        <schedulingParameterKey>W</schedulingParameterKey>
+        <value>Shifts</value>
+    </schedulingRuleParameters>
+    <schedulingRuleParameters>
+        <schedulingParameterKey>R</schedulingParameterKey>
+        <value>Week</value>
+    </schedulingRuleParameters>
+    <schedulingRuleParameters>
+        <schedulingParameterKey>L</schedulingParameterKey>
+        <value>Max</value>
+    </schedulingRuleParameters>
+    <schedulingRuleType>W</schedulingRuleType>
+</SchedulingRule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>SchedulingRule</name>
+	<members>MaxShiftsPerWeek</members>
+    </types>
+    <version>53.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

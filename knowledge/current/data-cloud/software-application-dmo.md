@@ -5,11 +5,16 @@ topic: software-application-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:44.008Z
-keywords: [Software, Application, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.959Z
+estimatedTokens: 513
+keywords: [Software, Application, DMO, Data, Cloud, data, model, defining, programs, created, end, user, such, app, Northern, Trail, Outfitters, loyalty, members., API]
 ---
 
 # Software Application DMO
+
+> The Software Application DMO is a Data Cloud data model object (DMO)
+      for defining programs created for the end user, such as an app for Northern Trail Outfitters
+      loyalty members.
 
 # Software Application DMO
 

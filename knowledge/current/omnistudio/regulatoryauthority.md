@@ -5,11 +5,15 @@ topic: regulatoryauthority
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.193Z
-keywords: [RegulatoryAuthority, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.324Z
+estimatedTokens: 789
+keywords: [RegulatoryAuthority, Represents, authority, responsible, issuing, licenses, permits, defining, regulatory, code., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # RegulatoryAuthority
+
+> Represents the authority responsible for issuing licenses, permits, and
+         defining the regulatory code. This object is available in API version 65.0 and later.
 
 # RegulatoryAuthority
 
@@ -48,3 +52,9 @@ History is available for tracked fields of the object.
 [RegulatoryAuthorityShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- RegulatoryAuthorityFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- RegulatoryAuthorityHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- RegulatoryAuthorityShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

@@ -5,11 +5,14 @@ topic: connectapiexternalfilepermissioninformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.747Z
-keywords: [ConnectApi.ExternalFilePermissionInformation, See]
+lastCollected: 2026-03-12T05:14:27.281Z
+estimatedTokens: 383
+keywords: [ConnectApi.ExternalFilePermissionInformation, External, file, permission, information.]
 ---
 
 # ConnectApi.ExternalFilePermissionInformation
+
+> External file permission information.
 
 # ConnectApi.ExternalFilePermissionInformation
 
@@ -26,3 +29,13 @@ External file permission information.
 #### See Also
 
 -   [ConnectApi.AbstractRepositoryFile](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_file.htm "A repository file.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ContentHub​PermissionType (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_permission_type.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ContentHub​ExternalItem​SharingType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​RepositoryGroupSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_group_summary.htm)
+- ConnectApi.AbstractRepositoryFile (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_file.htm)

@@ -5,11 +5,15 @@ topic: activationplatformfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.331Z
-keywords: [ActivationPlatformField, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.599Z
+estimatedTokens: 664
+keywords: [ActivationPlatformField, Represents, information, fields, used, ActivationPlatform., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample]
 ---
 
 # ActivationPlatformField
+
+> Represents the information about the fields used in
+			ActivationPlatform.
 
 # ActivationPlatformField
 
@@ -65,3 +69,37 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ActivationPlatformField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <activationPlatform>APlatform</activationPlatform>
+    <isHidden>false</isHidden>
+    <isRequired>true</isRequired>
+    <masterLabel>AccountId</masterLabel>
+</ActivationPlatformField>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MyActivationPlatform</fullName>
+    <types>
+        <members>APlatform</members>
+        <name>ActivationPlatform</name>
+    </types>
+    <types>
+        <members>AccountIdField</members>
+        <name>ActivationPlatformField</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip
+					File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

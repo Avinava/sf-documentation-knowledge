@@ -5,11 +5,15 @@ topic: connectapisocialpostcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.027Z
-keywords: [ConnectApi.SocialPostCapability, See]
+lastCollected: 2026-03-12T05:14:29.025Z
+estimatedTokens: 569
+keywords: [ConnectApi.SocialPostCapability, feed, element, capability, interact, social, post, network.]
 ---
 
 # ConnectApi.SocialPostCapability
+
+> If a feed element has this capability, it can interact with a social
+      post on a social network.
 
 # ConnectApi.SocialPostCapability
 
@@ -40,3 +44,16 @@ Subclass of [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexre
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)
+- ConnectApi.SocialAccount (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_social_account.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.Icon (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_icon.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​SocialPost​MessageType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​SocialNetwork​Provider (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- ConnectApi.SocialPostStatus (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_social_post_status.htm)

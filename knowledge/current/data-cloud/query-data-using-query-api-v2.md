@@ -5,11 +5,19 @@ topic: query-data-using-query-api-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.457Z
-keywords: [Query, Data, API, Note, Key, Properties, Connected, App, Setup, Important, Acquire, Exchange, Access, Token, Cloud, Qualifiers, Call, Reference, See]
+lastCollected: 2026-03-12T05:14:12.481Z
+estimatedTokens: 1282
+keywords: [Query, Data, API, supports, SQL, query, ANSI, standard., results, array, records., expected, input, calling, free, form, SQL., objects, include, data]
 ---
 
 # Query Data using Query API V2
+
+> Query API V2 supports SQL query in ANSI standard. The results return as an array of
+    records. The expected input when calling this API is free form SQL. The input objects include
+    data stream, profile and engagement data model objects, and unified data model objects. You can
+    use Query API V2 to support a variety of use cases, which includes large volume data reads,
+    external application integration, or interactive on demand querying on the data
+    lake.
 
 # Query Data using Query API V2
 
@@ -70,11 +78,30 @@ We recommend that you include key qualifier fields in all table joins for querie
 
 ## Call Reference
 
--   **[POST /api/v2/query](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query_v2.htm)**  
+-   **[POST /api/v2/query](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query_v2.htm)**
     Use the POST endpoint of Query API V2 to make the first request with the SQL query. The POST endpoint returns data along with batchId for the next batch.
--   **[GET /api/v2/query/{nextBatchId}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_get_query_v2.htm)**  
+-   **[GET /api/v2/query/{nextBatchId}](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_get_query_v2.htm)**
     Returns the next batch of data from the initial POST request.
 
 #### See Also
 
 -   [API Limits for Profile, Query, and Calculated Insights](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_limits.htm "There are three distinct classes of APIs used to extract data from Data Cloud (formerly Customer Data Platform): Profile, Query, and Calculated Insights.")
+
+## Code Examples
+
+```
+SELECT * FROM ssot__ContactPointEmail__dlm email 
+LEFT JOIN ssot__Individual__dlm individual 
+ON email.ssot__PartyId__c = individual.ssot__Id__c 
+AND 
+COALESCE(email.KQ_PartyId__c, '') = COALESCE(individual.KQ_Id__c, '') 
+limit 10
+```
+
+## Related Topics
+
+- Query API V1 (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query_call_overview.htm)
+- Getting Started (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm)
+- POST /api/v2/query (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query_v2.htm)
+- GET /api/v2/query/{nextBatchId} (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_get_query_v2.htm)
+- API Limits for Profile, Query, and Calculated Insights (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_limits.htm)

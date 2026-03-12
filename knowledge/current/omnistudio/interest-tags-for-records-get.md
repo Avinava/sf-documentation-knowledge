@@ -5,11 +5,15 @@ topic: interest-tags-for-records-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.863Z
-keywords: [Interest, Tags, Records, GET]
+lastCollected: 2026-03-12T05:14:49.302Z
+estimatedTokens: 281
+keywords: [Interest, Tags, Records, GET, Retrieve, list, assigned, Salesforce, record.]
 ---
 
 # Interest Tags for Records (GET)
+
+> Retrieve a list of Interest Tags assigned to a Salesforce object
+      record.
 
 # Interest Tags for Records (GET)
 
@@ -51,3 +55,18 @@ Query parameters for GET
 Response body for GET
 
 [Interest Tag List](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_interest_tag_list.htm "Output representation of the list of Interest Tags.")
+
+## Code Examples
+
+```
+/connect/interest-tags/assignments/entity/${recordId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/interest-tags/assignments/entity/0qRxx0000004C9mm
+```
+
+## Related Topics
+
+- Interest Tag List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_interest_tag_list.htm)

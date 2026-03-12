@@ -5,11 +5,14 @@ topic: gettextclassificationsbulkresultsids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.422Z
-keywords: [getTextClassificationsBulkResults, ids, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Example]
+lastCollected: 2026-03-12T05:14:18.538Z
+estimatedTokens: 196
+keywords: [getTextClassificationsBulkResults, ids, text, classification, results, request, IDs., API, Version, Requires, Chatter, Example]
 ---
 
 # getTextClassificationsBulkResults(ids)
+
+> Gets text classification results for request IDs.
 
 # getTextClassificationsBulkResults(ids)
 
@@ -44,3 +47,16 @@ Type: [ConnectApi.TextClassificationsBulkResultsOutputRepresentation](atlas.en-u
 ```
 
 ```
+
+## Code Examples
+
+```
+List <String> requestIds = new List <String> ();
+        requestIds.add(requestId);
+        ConnectApi.TextClassificationsBulkResultsOutputRepresentation output = ConnectApi.OMSAnalytics.getTextClassificationsBulkResults(requestIds);
+```
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.TextClassificationsBulkResultsOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_text_classifications_bulk_results.htm)

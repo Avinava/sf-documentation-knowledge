@@ -5,11 +5,14 @@ topic: search-facet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.506Z
-keywords: [Search, Facet]
+lastCollected: 2026-03-12T05:14:08.437Z
+estimatedTokens: 192
+keywords: [Search, Facet, Output, representation, details, faceted, search.]
 ---
 
 # Search Facet
+
+> Output representation of the details of the faceted search.
 
 # Search Facet
 
@@ -29,3 +32,43 @@ JSON example
 | display​Type | String | Display type of the face. | Small, 63.0 | 63.0 |
 | nameOr​Id | String | Facet name or ID. Reserved for internal use. | Small, 63.0 | 63.0 |
 | values | Facet Value[] | Values of the facet found in the search result. Sorted by display name in alphabetical order. | Small, 63.0 | 63.0 |
+
+## Code Examples
+
+```
+"facets":[
+    {
+      "attributeType": "ProductStandard",
+      "displayName": "Product Type",
+      "displayRank": 1,
+      "displayType": "MultiSelect",
+      "nameOrId": "Type",
+      "values": [
+        {
+          "displayName": "Simple",
+          "nameOrId": "Simple",
+          "productCount": 9
+        }
+      ]
+    },
+    {
+      "attributeType": "ProductStandard",
+      "displayName": "Active",
+      "displayRank": 2,
+      "displayType": "MultiSelect",
+      "nameOrId": "IsActive",
+      "values": [
+        {
+          "displayName": "true",
+          "nameOrId": "true",
+          "productCount": 47
+        }
+      ]
+    }
+  ]
+```
+
+## Related Topics
+
+- Facet
+                  Value (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_facet_value_output.htm)

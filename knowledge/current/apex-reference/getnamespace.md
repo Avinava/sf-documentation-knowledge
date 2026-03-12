@@ -5,24 +5,32 @@ topic: getnamespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.764Z
-keywords: [getNamespace, Gets, namespace, custom, invocable, action., Signature, Return, Value]
+lastCollected: 2026-03-12T05:14:19.313Z
+estimatedTokens: 99
+keywords: [getNamespace, Retrieves, prefix, canvas, app., Usage]
 ---
 
 # getNamespace()
 
-> Gets the namespace of a custom invocable action.
+> Retrieves the namespace prefix of the
+canvas app.
 
-### getNamespace()
+# getNamespace()
 
-Gets the namespace of a custom invocable action.
+Retrieves the namespace prefix of the canvas app.
 
-#### Signature
+## Signature
 
 public String getNamespace()
 
-#### Return Value
+## Return Value
 
 Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
 
-Namespace of the custom invocable action.
+## Usage
+
+Use this method to get the Salesforce namespace prefix that’s associated with the canvas app.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

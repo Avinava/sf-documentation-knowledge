@@ -5,11 +5,17 @@ topic: sobject-platformaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.679Z
-keywords: [sObject, PlatformAction, Syntax, See]
+lastCollected: 2026-03-12T05:14:36.020Z
+estimatedTokens: 219
+keywords: [sObject, PlatformAction, description, PlatformAction., virtual, read-only, object., enables, query, actions, displayed, given, user, context, device, format, record, ID., Examples, include]
 ---
 
 # sObject PlatformAction
+
+> Returns the description of the PlatformAction. PlatformAction is a virtual read-only
+  object. It enables you to query for actions displayed in the UI, given a user, a context, device
+  format, and a record ID. Examples include standard and custom buttons, quick actions, and
+  productivity actions. This resource is available in API version 33.0 and later.
 
 # sObject PlatformAction
 
@@ -42,3 +48,7 @@ None
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Query (atlas.en-us.api_rest.meta/api_rest/resources_query.htm)

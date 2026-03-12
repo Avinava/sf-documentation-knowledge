@@ -6,12 +6,17 @@ topic: return-layout-headers-for-an-object-with-multiple-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.675Z
-keywords: [Return, Layout, Headers, Object, Multiple, Record, Types, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.015Z
+estimatedTokens: 124
+keywords: [Layout, Headers, Multiple, Record, Types, only, headers, returned, GET, request, sObject, Layouts, resources., gives, chance, header, values, ahead, time, before]
 ---
 
 # Return Layout Headers for an Object With Multiple Record
 		Types
+
+> Returns only the headers that are returned by a GET request to sObject Layouts
+		resources. This gives you a chance to see header values ahead of time before retrieving the
+		content of the resource.
 
 # Return Layout Headers for an Object With Multiple Record Types
 
@@ -45,4 +50,10 @@ Example Request
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl -X HEAD https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Chocolate__c/describe/layouts/0125c000000oIN9AAM -H "Authorization: Bearer token"
 ```

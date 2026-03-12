@@ -5,11 +5,15 @@ topic: connectapiproductattributestoproductentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.656Z
-keywords: [ConnectApi.ProductAttributesToProductEntry, See]
+lastCollected: 2026-03-12T05:14:28.488Z
+estimatedTokens: 240
+keywords: [ConnectApi.ProductAttributesToProductEntry, Mapping, attribute, combination, variation, product, ID.]
 ---
 
 # ConnectApi.ProductAttributesToProductEntry
+
+> Mapping of an attribute value combination to a variation product
+      ID.
 
 # ConnectApi.ProductAttributesToProductEntry
 
@@ -25,3 +29,10 @@ Mapping of an attribute value combination to a variation product ID.
 #### See Also
 
 -   [ConnectApi.ProductVariationInfo](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_variation_info.htm "Product variation attributes, metadata, and mappings of attribute combinations to variation product IDs.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductAttribute​SelectionInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_selection_info.htm)
+- ConnectApi.ProductVariationInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_variation_info.htm)

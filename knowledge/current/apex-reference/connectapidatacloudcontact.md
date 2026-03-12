@@ -5,11 +5,14 @@ topic: connectapidatacloudcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.553Z
-keywords: [ConnectApi.DatacloudContact, See]
+lastCollected: 2026-03-12T05:14:26.983Z
+estimatedTokens: 562
+keywords: [ConnectApi.DatacloudContact, Information, Data.com, contact.]
 ---
 
 # ConnectApi.DatacloudContact
+
+> Information about a Data.com contact.
 
 # ConnectApi.DatacloudContact
 
@@ -37,3 +40,12 @@ All contact information is visible for contacts that you purchased. If you have 
 #### See Also
 
 -   [ConnectApi.DatacloudContacts](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_datacloud_contact_collection.htm "Lists all contacts that were purchased in the specific order, page URLs, and the number of contacts in the order.")
+
+## Related Topics
+
+- ConnectApi.Address (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_address.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.PhoneNumber (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_phone_Num.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.DatacloudContacts (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_datacloud_contact_collection.htm)

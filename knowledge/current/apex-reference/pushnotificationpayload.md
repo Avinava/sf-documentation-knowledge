@@ -5,11 +5,16 @@ topic: pushnotificationpayload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.956Z
-keywords: [PushNotification, payload, Signature, Parameters]
+lastCollected: 2026-03-12T05:14:19.115Z
+estimatedTokens: 162
+keywords: [PushNotification, payload, Creates, new, instance, Messaging.PushNotification, specified, key-value, pairs., don’t, need, call, setPayload, set, payload.]
 ---
 
 # PushNotification(payload)
+
+> Creates a new instance of the Messaging.PushNotification class using
+the specified payload parameters as key-value pairs. When you use
+this constructor, you don’t need to call setPayload to set the payload.
 
 # PushNotification(payload)
 
@@ -28,3 +33,14 @@ payload
 Type:[Map](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_methods_system_map "Contains methods for the Map collection type.")<[String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type."), Object>
 
 The payload, expressed as a map of key-value pairs.
+
+## Code Examples
+
+```apex
+public PushNotification(Map<String,Object> payload)
+```
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

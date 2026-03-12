@@ -5,11 +5,14 @@ topic: connectapipromotioncart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.771Z
-keywords: [ConnectApi.PromotionCart, See]
+lastCollected: 2026-03-12T05:14:28.660Z
+estimatedTokens: 404
+keywords: [ConnectApi.PromotionCart, cart, its, items, adjustment, groups.]
 ---
 
 # ConnectApi.PromotionCart
+
+> A cart, its items, and its adjustment groups.
 
 # ConnectApi.PromotionCart
 
@@ -28,5 +31,14 @@ A cart, its items, and its adjustment groups.
 #### See Also
 
 -   [ConnectApi.PromotionEvaluation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_promotion_evaluation.htm "Results of a promotion evaluation.")
-    
+
 -   [evaluate(salesTransaction)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CommercePromotions_static_methods.htm#apex_ConnectAPI_CommercePromotions_evaluate_1 "Determine which promotions the customer is eligible for based on the store and buyer group, and compute the applicable price adjustments based on the coupons and the items in the cart. This API evaluates only the first 50 active manual promotions and first 50 active automatic promotions, based on priority. This API computes and returns applicable price adjustments, but it does not apply those adjustments to the webcart record. If you want to enable promotions based on shipping, contact Salesforce Customer Support.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.PromotionCartAdjustmentGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_promotion_cart_adjustment_group.htm)
+- ConnectApi.PromotionCartItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_promotion_cart_item.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.PromotionEvaluation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_promotion_evaluation.htm)
+- evaluate(salesTransaction) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CommercePromotions_static_methods.htm)

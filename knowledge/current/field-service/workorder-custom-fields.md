@@ -5,11 +5,15 @@ topic: workorder-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.148Z
-keywords: [WorkOrder, Custom, Fields, Supported, Calls, Special, Access, Rules, See]
+lastCollected: 2026-03-12T05:14:55.377Z
+estimatedTokens: 905
+keywords: [WorkOrder, Custom, Fields, fields, associated, field, service, work, performed, customer., Supported, Calls, Special, Access, Rules]
 ---
 
 # WorkOrder Custom Fields
+
+> Custom fields associated with field service work to be performed for a
+         customer.
 
 # WorkOrder Custom Fields
 
@@ -37,9 +41,17 @@ Field Service managed package must be installed.
 #### See Also
 
 -   [Salesforce Object Reference: WorkOrder](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_workorder.htm "Salesforce Object Reference: WorkOrder - HTML (New Window)")
-    
+
 -   [Salesforce Help: Fill Schedule Gaps](https://help.salesforce.com/articleView?id=service.pfs_fill_schedule.htm&type=5&language=en_US "Salesforce Help: Fill Schedule Gaps - HTML (New Window)")
-    
+
 -   [Salesforce Help: Schedule Appointments Using Priorities](https://help.salesforce.com/articleView?id=service.pfs_scheduling_priority.htm&type=5&language=en_US "Salesforce Help: Schedule Appointments Using Priorities - HTML (New Window)")
-    
+
 -   [Salesforce Help: Work Rule Type: Service Appointment Visiting Hours](https://help.salesforce.com/s/articleView?id=service.pfs_optimization_theory_work_rules_visiting_hours.htm&type=5&language=en_US "Salesforce Help: Work Rule Type: Service Appointment Visiting Hours - HTML (New Window)")
+
+## Code Examples
+
+```
+CASE(TEXT(Priority), 'Critical' , 1 ,
+'High' ,2,'Medium' ,3 , 
+'Low', 4, null)
+```

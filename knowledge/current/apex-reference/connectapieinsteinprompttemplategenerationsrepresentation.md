@@ -5,11 +5,14 @@ topic: connectapieinsteinprompttemplategenerationsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.650Z
-keywords: [ConnectApi.​EinsteinPrompt​Template​Generations​Representation]
+lastCollected: 2026-03-12T05:14:27.135Z
+estimatedTokens: 446
+keywords: [ConnectApi.​EinsteinPrompt​Template​Generations​Representation, Generated, response, LLM, provider, resolved, prompt, template, text.]
 ---
 
 # ConnectApi.​EinsteinPrompt​Template​Generations​Representation
+
+> Generated response from the LLM provider and resolved prompt template text.
 
 # ConnectApi.​EinsteinPrompt​Template​Generations​Representation
 
@@ -29,3 +32,16 @@ Generated response from the LLM provider and resolved prompt template text.
 | requestMessages | List<ConnectApi.​​EinsteinPrompt​​TemplateMask​​Content​> | List of resolved prompt templates with masked data and masking information. | 61.0 |
 | responseMessages | List<ConnectApi.​​EinsteinPrompt​​TemplateMask​​Content​> | List of generated responses with masked data and masking information for the specified prompt template. | 61.0 |
 | slotsMasking​Information | List<ConnectApi.​​EinsteinPrompt​​TemplateMaskData> | List of original and placeholder values of the masked data. | 61.0 |
+
+## Related Topics
+
+- ConnectApi.​EinsteinLlmGeneration​CitationOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_llm_generation_citation.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​EinsteinPrompt​TemplateAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_prompt_template_attachment.htm)
+- ConnectApi.​EinsteinPrompt​Template​GenerationsError (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_prompt_template_generations_error.htm)
+- ConnectApi.​EinsteinLlm​GenerationItem​Output (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_llm_generation_item.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​WrappedMapObject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wrapped_ma.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​​EinsteinPrompt​​TemplateMask​​Content​ (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_prompt_template_mask_content.htm)
+- ConnectApi.​​EinsteinPrompt​​TemplateMaskData (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_einstein_prompt_template_mask_data.htm)

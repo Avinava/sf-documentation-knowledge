@@ -5,11 +5,14 @@ topic: connectapideliveryestimateoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.574Z
-keywords: [ConnectApi.DeliveryEstimateOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.022Z
+estimatedTokens: 159
+keywords: [ConnectApi.DeliveryEstimateOutputRepresentation, Delivery, estimation, information, products.]
 ---
 
 # ConnectApi.DeliveryEstimateOutputRepresentation
+
+> Delivery estimation information for products.
 
 # ConnectApi.DeliveryEstimateOutputRepresentation
 
@@ -21,3 +24,10 @@ Delivery estimation information for products.
 | location | String | Location external reference. | 63.0 |
 | productDeliverEstimations | ListConnectApi.ProductDeliverEstimationOutputRepresentation | List of product delivery estimations. | 63.0 |
 | shippingCarrierMethodExternalReference | String | Shipping carrier method external reference. | 63.0 |
+
+## Related Topics
+
+- ConnectApi.DeliveryEstimationErrorOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_delivery_estimation_error_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ProductDeliverEstimationOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_deliver_estimation_output.htm)

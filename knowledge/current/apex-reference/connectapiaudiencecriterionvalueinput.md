@@ -5,11 +5,14 @@ topic: connectapiaudiencecriterionvalueinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.794Z
-keywords: [ConnectApi.AudienceCriterionValueInput, See]
+lastCollected: 2026-03-12T05:14:24.340Z
+estimatedTokens: 484
+keywords: [ConnectApi.AudienceCriterionValueInput, Audience, criterion, value.]
 ---
 
 # ConnectApi.AudienceCriterionValueInput
+
+> Audience criterion value.
 
 # ConnectApi.AudienceCriterionValueInput
 
@@ -32,3 +35,9 @@ Audience criterion value.
 #### See Also
 
 -   [ConnectApi.AudienceCriterionInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_audience_criterion.htm "Personalization audience criterion.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.AudienceCriterionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_audience_criterion.htm)

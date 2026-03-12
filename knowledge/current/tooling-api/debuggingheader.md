@@ -5,11 +5,16 @@ topic: debuggingheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.011Z
-keywords: [DebuggingHeader, Version, Supported, Calls, Fields, LogInfo, Sample, Code—Java]
+lastCollected: 2026-03-12T05:14:44.347Z
+estimatedTokens: 479
+keywords: [DebuggingHeader, Specifies, deployment, result, contains, debug, log, output, specifies, level, detail, included, log., Apex, tests, executed, part, deployment., Version, Supported]
 ---
 
 # DebuggingHeader
+
+> Specifies that the deployment result contains the debug log output, and specifies the
+        level of detail included in the log. The debug log contains the output of Apex tests that
+        are executed as part of a deployment.
 
 # DebuggingHeader
 
@@ -48,3 +53,13 @@ Add the DebuggingHeader to the metadata connection before you perform the deploy
 ```
 
 The result of the deploy() call is obtained by calling checkDeployStatus(). After the deployment finishes, and if tests were run, the response of checkDeployStatus() contains the debug log output in the debugLog field of a DebuggingInfo output header.
+
+## Code Examples
+
+```
+LogInfo[] logs = new LogInfo[1];
+logs[0] = new LogInfo();
+logs[0].setCategory(LogCategory.Apex_code);
+logs[0].setLevel(LogCategoryLevel.Fine);
+metadataConnection.setDebuggingHeader(logs);
+```

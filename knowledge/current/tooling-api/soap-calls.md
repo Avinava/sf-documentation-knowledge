@@ -5,11 +5,16 @@ topic: soap-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:36.998Z
-keywords: [SOAP, Calls, Headers, Examples, Note, See]
+lastCollected: 2026-03-12T05:14:44.332Z
+estimatedTokens: 2780
+keywords: [SOAP, Calls, you’re, strongly, typed, language, Java, generates, Web, service, client, code., details, usage, syntax, authentication, API, Developer, Guide., Headers]
 ---
 
 # SOAP Calls
+
+> Use SOAP if you’re using a strongly typed language like Java that
+            generates Web service client code. For details about usage, syntax, and
+         authentication, see the SOAP API Developer Guide.
 
 # SOAP Calls
 
@@ -90,23 +95,23 @@ All parameters are mandatory. To provide values for only some parameters, specif
 -   The classids, suiteids, classNames, and suiteNames parameters must all be specified. To provide values for only some of these parameters, specify the others as null. To use TestLevel.RunLocalTests or TestLevel.RunAllTestsInOrg, specify all class- and suite-related parameters as null.
 -   A value for maxFailedTests is mandatory. To allow all tests in your org to run, regardless of how many tests fail, set maxFailedTests to \-1. To stop the test run from executing new tests after a given number of tests fail, set maxFailedTests to an integer value from 0 to 1,000,000. This integer value sets the maximum allowable test failures. A value of 0 causes the test run to stop if any failure occurs. A value of 1 causes the test run to stop on the second failure, and so on. Keep in mind that high values can cause slow performance. Each 1,000 tests that you add to your maxFailedTests value adds about 3 seconds to your test run, not including the time that the tests take to execute.
 -   The testLevel parameter is available and required in API version 37.0 and later, but its value can be null. Other permissible values include:
-    
+
     RunSpecifiedTests
-    
+
     Only the tests that you specify are run.
-    
+
     RunLocalTests
-    
+
     All tests in your org are run, except the ones that originate from installed managed packages.
-    
+
     Omit identifiers for specific tests when you use this value.
-    
+
     RunAllTestsInOrg
-    
+
     All tests are run. The tests include all tests in your org, including tests of managed packages.
-    
+
     Omit identifiers for specific tests when you use this value.
-    
+
 -   The tests parameter is available and required in API version 41.0 and later, but its value can be null. This property is an array of type [TestsNode](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_runtests_request.htm "HTML (New Window)").
 -   The skipCodeCoverage parameter is available in API version 43.0 and later, but its value can be null. This property is a boolean that indicates whether to opt out of collecting code coverage information during the test run.
 
@@ -181,5 +186,238 @@ This sample adds a checkpoint to the class from the previous samples:
 #### See Also
 
 -   [Tooling API Objects](atlas.en-us.api_tooling.meta/api_tooling/reference_objects_list.htm)
-    
+
 -   [SOAP API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/ "SOAP API Developer Guide - HTML (New Window)")
+
+## Code Examples
+
+```
+conn.runTestsAsynchronous(classids, suiteids, maxFailedTests, testLevel.value,
+   classNames, suiteNames, tests, skipCodeCoverage)
+```
+
+```apex
+String classBody = "public class Messages {
+"
+      + "public string SayHello() {
+"
+      + " return 'Hello';
+" + "}
+"
+      + "}";
+
+   // create an ApexClass object and set the body 
+   ApexClass apexClass = new ApexClass();
+   apexClass.Body = classBody;
+   ApexClass[] classes = { apexClass };
+
+   // call create() to add the class
+   SaveResult[] saveResults = sforce.create(classes);
+   for (int i = 0; i < saveResults.Length; i++)
+      {
+      if (saveResults[i].success)
+         {
+           Console.WriteLine("Successfully created Class: " +
+            saveResults[i].id);
+         }
+      else
+         {
+            Console.WriteLine("Error: could not create Class ");
+            Console.WriteLine("   The error reported was: " +
+            saveResults[i].errors[0].message + "
+");
+         }
+      }
+```
+
+```apex
+String updatedClassBody = "public class Messages {
+"
+    + "public string SayHello(string fName, string lName) {
+"
+    + " return 'Hello ' + fName + ' ' + lName;
+" + "}
+"
+    + "}";
+
+ //create the metadata container object
+ MetadataContainer Container = new MetadataContainer();
+ Container.Name = "SampleContainer";
+
+ MetadataContainer[] Containers = { Container };
+ SaveResult[] containerResults = sforce.create(Containers);
+ if (containerResults[0].success)
+ {
+    String containerId = containerResults[0].id;
+
+    //create the ApexClassMember object
+    ApexClassMember classMember = new ApexClassMember();
+    //pass in the class ID from the first example
+    classMember.ContentEntityId = classId;
+    classMember.Body = updatedClassBody;
+    //pass the ID of the container created in the first step
+    classMember.MetadataContainerId = containerId;
+    ApexClassMember[] classMembers = { classMember };
+
+    SaveResult[] MembersResults = sforce.create(classMembers);
+    if (MembersResults[0].success)
+    {
+       //create the ContainerAsyncRequest object
+       ContainerAsyncRequest request = new ContainerAsyncRequest();
+       //if the code compiled successfully, save the updated class to the server
+       //change to IsCheckOnly = true to compile without saving 
+       request.IsCheckOnly = false;
+       request.MetadataContainerId = containerId;
+       ContainerAsyncRequest[] requests = { request };
+       SaveResult[] RequestResults = sforce.create(requests);
+       if (RequestResults[0].success)
+       {
+          string requestId = RequestResults[0].id;
+
+          //poll the server until the process completes
+          QueryResult queryResult = null;
+          String soql = "SELECT Id, State, ErrorMsg 
+                         FROM ContainerAsyncRequest 
+                         Where id = '" + requestId + "'";
+          queryResult = sforce.query(soql);
+          if (queryResult.size > 0)
+          {
+             ContainerAsyncRequest _request = (ContainerAsyncRequest)queryResult.records[0];
+             while (_request.State.ToLower() == "queued")
+             {
+                //pause the process for 2 seconds
+                Thread.Sleep(2000);
+
+                //poll the server again for completion
+                queryResult = sforce.query(soql);
+                _request = (ContainerAsyncRequest)queryResult.records[0];
+             }
+
+             //now process the result
+             switch (_request.State)
+             {
+                case "Invalidated":
+                   break;
+
+                case "Completed":
+                //class compiled successfully
+                //see the next example on how to process the SymbolTable 
+                   break;
+
+                case "Failed":
+             . .   break;
+
+                case "Error":
+                   break;
+
+                case "Aborted":
+                   break;
+
+                }
+             }
+             else
+             {
+                //no rows returned
+             }
+          }
+          else
+          {
+             Console.WriteLine("Error: could not create ContainerAsyncRequest object");
+             Console.WriteLine("   The error reported was: " +
+             RequestResults[0].errors[0].message + "
+");
+          }
+       }
+       else
+       {
+          Console.WriteLine("Error: could not create Class Member ");
+          Console.WriteLine("   The error reported was: " +
+          MembersResults[0].errors[0].message + "
+");
+       }
+    }
+    else
+    {
+    .. Console.WriteLine("Error: could not create MetadataContainer ");
+       Console.WriteLine("   The error reported was: " +
+       containerResults[0].errors[0].message + "
+");
+    }
+ }
+```
+
+```apex
+//use the ID of the class from the previous step
+   string classId = "01pA00000036itIIAQ";
+   QueryResult queryResult = null;
+   String soql = "SELECT ContentEntityId, SymbolTable FROM ApexClassMember where ContentEntityId = '" + classId + "'";
+
+   queryResult = sforce.query(soql);
+   if (queryResult.size > 0)
+   {
+      ApexClassMember apexClass = (ApexClassMember)queryResult.records[0];
+      SymbolTable symbolTable = apexClass.SymbolTable;
+
+      foreach (Method _method in symbolTable.methods)
+      {
+         //here's the SayHello method
+         String _methodName = _method.name;
+
+         //report the modifiers on the method such as global, public, private, or static
+         String _methodVisibility = _method.modifiers;
+
+         //get the method's return type
+         string _methodReturnType = _method.returnType;
+
+         //get the fName & lName parameters
+         foreach (Parameter _parameter in _method.parameters)
+         {
+            string _paramName = _parameter.name;
+            string _parmType = _parameter.type;
+         }
+      }
+   }
+   else
+   {
+      //unable to locate class
+   }
+```
+
+```
+//use the ID of the class from the first sample.
+   string classId = "01pA00000036itIIAQ";
+
+   ApexExecutionOverlayAction action = new ApexExecutionOverlayAction();
+   action.ExecutableEntityId = classId;
+   action.Line = 3;
+   action.LineSpecified = true;
+   action.Iteration = 1;
+   action.IterationSpecified = true;
+   ApexExecutionOverlayAction[] actions = { action };
+
+   SaveResult[] actionResults = sforce.create(actions);
+   if (actionResults[0].success)
+   {
+      // checkpoint created successfully
+   }
+   else
+   {
+      Console.WriteLine("Error: could not create Checkpoint ");
+      Console.WriteLine("   The error reported was: " +
+      actionResults[0].errors[0].message + "
+");
+   }
+```
+
+## Related Topics
+
+- ApexTestQueueItem (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextestqueueitem.htm)
+- SOAP Headers for Tooling API (atlas.en-us.api_tooling.meta/api_tooling/intro_api_tooling_soap_headers.htm)
+- ApexClass (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclass.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- ApexClassMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm)
+- ApexTriggerMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm)
+- ApexComponentMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcomponentmember.htm)
+- ApexPageMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm)
+- SymbolTable (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_symboltable.htm)

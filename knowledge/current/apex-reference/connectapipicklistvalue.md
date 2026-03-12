@@ -5,11 +5,14 @@ topic: connectapipicklistvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.582Z
-keywords: [ConnectApi.PicklistValue, See]
+lastCollected: 2026-03-12T05:14:28.377Z
+estimatedTokens: 226
+keywords: [ConnectApi.PicklistValue, Picklist, value.]
 ---
 
 # ConnectApi.PicklistValue
+
+> Picklist value.
 
 # ConnectApi.PicklistValue
 
@@ -25,3 +28,11 @@ Picklist value.
 #### See Also
 
 -   [ConnectApi.PicklistValues](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_values.htm "Picklist values for a field, scoped to a record type. If a picklist is dependent, this response includes the values of its immediate controlling field and how they map to the picklist.")
+
+## Related Topics
+
+- ConnectApi.​AbstractPicklist​ValueAttributes (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_picklist_value_attributes.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.PicklistValues (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_values.htm)

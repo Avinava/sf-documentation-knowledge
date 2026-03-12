@@ -5,11 +5,15 @@ topic: decision-matrix-lookup-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.082Z
-keywords: [Decision, Matrix, Lookup, Result]
+lastCollected: 2026-03-12T05:14:49.620Z
+estimatedTokens: 106
+keywords: [Decision, Matrix, Lookup, Result, Output, representation, individual, output, decision, matrix, version, lookup.]
 ---
 
 # Decision Matrix Lookup Result
+
+> Output representation of the individual output of a decision matrix
+      version lookup.
 
 # Decision Matrix Lookup Result
 
@@ -24,3 +28,36 @@ JSON example
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
 | outputs | Decision Matrix Lookup Basic Result[] | List of outputs returned by a decision matrix. An output may contain multiple variables. | Small, 55.0 | 55.0 |
+
+## Code Examples
+
+```
+{
+  "outputs": [
+    {
+      "results": [],
+      "error": "Input Data is Missing"
+    },
+    {
+      "results": [
+        {
+          "name": "premium",
+          "value": "2400"
+        },
+        {
+          "name": "tax",
+          "value": "300"
+        }
+      ]
+    },
+    {
+      "results": [],
+      "error": "There is no output for the given input data"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Decision Matrix Lookup Basic Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_lookup_basic_result.htm)

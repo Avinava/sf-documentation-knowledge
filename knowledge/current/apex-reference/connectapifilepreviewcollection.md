@@ -5,11 +5,14 @@ topic: connectapifilepreviewcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.885Z
-keywords: [ConnectApi.FilePreviewCollection, See]
+lastCollected: 2026-03-12T05:14:27.449Z
+estimatedTokens: 149
+keywords: [ConnectApi.FilePreviewCollection, collection, file, previews.]
 ---
 
 # ConnectApi.FilePreviewCollection
+
+> A collection of file previews.
 
 # ConnectApi.FilePreviewCollection
 
@@ -25,3 +28,10 @@ A collection of file previews.
 #### See Also
 
 -   [ConnectApi.InlineImageSegment](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_inline_image_message_segment.htm "An inline image in the feed body.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​FilePreview (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file_preview.htm)
+- ConnectApi.InlineImageSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_inline_image_message_segment.htm)

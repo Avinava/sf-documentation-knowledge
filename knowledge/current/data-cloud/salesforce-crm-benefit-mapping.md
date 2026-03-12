@@ -5,11 +5,17 @@ topic: salesforce-crm-benefit-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.063Z
-keywords: [Salesforce, CRM, Benefit, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.476Z
+estimatedTokens: 305
+keywords: [Salesforce, CRM, Benefit, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., Benefits, offered, members, loyalty, program., based]
 ---
 
 # Salesforce CRM: Benefit Mapping
+
+> These data mappings are for the Benefit DLO found in the Loyalty Management bundle of
+  the Salesforce CRM Connector for Data Cloud. Benefits are offered to members of a loyalty program.
+  Benefits can be offered to members based on their assigned tier or based on their
+  engagement.
 
 # Salesforce CRM: Benefit Mapping
 

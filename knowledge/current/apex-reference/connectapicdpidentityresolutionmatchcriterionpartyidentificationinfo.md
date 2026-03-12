@@ -5,11 +5,15 @@ topic: connectapicdpidentityresolutionmatchcriterionpartyidentificationinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.924Z
-keywords: [ConnectApi.CdpIdentityResolutionMatchCriterionPartyIdentificationInfo, See]
+lastCollected: 2026-03-12T05:14:24.551Z
+estimatedTokens: 192
+keywords: [ConnectApi.CdpIdentityResolutionMatchCriterionPartyIdentificationInfo, Input, representation, information, party, identification, used, identity, resolution, ruleset's, match, rule, criterion.]
 ---
 
 # ConnectApi.CdpIdentityResolutionMatchCriterionPartyIdentificationInfo
+
+> Input representation for information when party identification is used
+      in an identity resolution ruleset's match rule criterion.
 
 # ConnectApi.CdpIdentityResolutionMatchCriterionPartyIdentificationInfo
 
@@ -23,3 +27,8 @@ Input representation for information when party identification is used in an ide
 #### See Also
 
 -   [ConnectApi.CdpIdentityResolutionMatchCriterion](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_match_criteri.htm "Input representation for an identity resolution ruleset's match rule criterion.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.CdpIdentityResolutionMatchCriterion (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_match_criteri.htm)

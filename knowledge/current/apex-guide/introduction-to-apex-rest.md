@@ -5,11 +5,17 @@ topic: introduction-to-apex-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.533Z
-keywords: [Introduction, Apex, REST, Governor, Limits, Authentication]
+lastCollected: 2026-03-12T05:14:33.921Z
+estimatedTokens: 500
+keywords: [Introduction, Apex, REST, expose, external, applications, access, code, application, through, architecture., done, defining, @RestResource, annotation, resource., Similarly, add, annotations, Governor]
 ---
 
 # Introduction to Apex REST
+
+> You can expose your Apex class and methods so that external applications can access your code
+      and your application through the REST architecture. This is done by defining your Apex class
+      with the @RestResource annotation to expose it as a
+      REST resource. Similarly, add annotations t
 
 # Introduction to Apex REST
 
@@ -35,3 +41,9 @@ Apex REST supports these authentication mechanisms:
 -   Session ID
 
 See [Step Two: Set Up Authorization](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/quickstart_oauth.htm "HTML (New Window)") in the REST API Developer Guide.
+
+## Related Topics
+
+- Apex REST
+        Annotations (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotations_rest.htm)
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)

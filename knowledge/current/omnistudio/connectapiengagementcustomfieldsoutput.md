@@ -5,11 +5,14 @@ topic: connectapiengagementcustomfieldsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.814Z
-keywords: [ConnectApi.EngagementCustomFieldsOutput]
+lastCollected: 2026-03-12T05:14:47.733Z
+estimatedTokens: 100
+keywords: [ConnectApi.EngagementCustomFieldsOutput, Output, representation, creating, engagement, interaction, topic, attendee, record, custom, field.]
 ---
 
 # ConnectApi.EngagementCustomFieldsOutput
+
+> Output representation for creating an engagement interaction, topic, or attendee record with a custom field.
 
 # ConnectApi.EngagementCustomFieldsOutput
 

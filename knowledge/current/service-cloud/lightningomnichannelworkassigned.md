@@ -5,11 +5,15 @@ topic: lightningomnichannelworkassigned
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.888Z
-keywords: [lightning, omniChannelWorkAssigned, Response, Example]
+lastCollected: 2026-03-12T05:14:57.261Z
+estimatedTokens: 149
+keywords: [lightning, omniChannelWorkAssigned, Indicates, agent, assigned, new, work, item., Response, Example]
 ---
 
 # lightning:omniChannelWorkAssigned
+
+> Indicates that an agent has been assigned a new work
+            item.
 
 # lightning:omniChannelWorkAssigned
 
@@ -36,4 +40,25 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelWorkAssigned" action="{! c.onWorkAssigned }"/>
+</aura:component>
+```
+
+```
+({
+    onWorkAssigned : function(component, event, helper) {
+        console.log("Work assigned.");
+        var workItemId = event.getParam('workItemId');
+        var workId = event.getParam('workId');
+        console.log(workItemId);
+        console.log(workId);
+    }, 
+})
 ```

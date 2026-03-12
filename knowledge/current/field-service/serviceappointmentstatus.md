@@ -5,11 +5,15 @@ topic: serviceappointmentstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.891Z
-keywords: [ServiceAppointmentStatus, Supported, Calls, Special, Access, Rules, Fields, Usage, Important, Note]
+lastCollected: 2026-03-12T05:14:56.538Z
+estimatedTokens: 676
+keywords: [ServiceAppointmentStatus, Represents, possible, status, service, appointment, field, service., Supported, Calls, Special, Access, Rules, Fields, Usage, Important, Note]
 ---
 
 # ServiceAppointmentStatus
+
+> Represents a possible status of a service appointment in field
+			service.
 
 # ServiceAppointmentStatus
 

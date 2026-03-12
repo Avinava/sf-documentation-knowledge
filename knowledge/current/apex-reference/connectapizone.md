@@ -5,11 +5,14 @@ topic: connectapizone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.242Z
-keywords: [ConnectApi.Zone, See]
+lastCollected: 2026-03-12T05:14:29.328Z
+estimatedTokens: 255
+keywords: [ConnectApi.Zone, Information, Chatter, Answers, zone.]
 ---
 
 # ConnectApi.Zone
+
+> Information about a Chatter Answers zone.
 
 # ConnectApi.Zone
 
@@ -29,3 +32,9 @@ Information about a Chatter Answers zone.
 #### See Also
 
 -   [ConnectApi.ZonePage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_zonePage.htm "Page of zones.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.ZonePage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_zonePage.htm)

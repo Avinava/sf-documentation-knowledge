@@ -6,12 +6,17 @@ topic: using-page-references-to-open-console-workspace-tabs-and-subtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.315Z
-keywords: [Page, References, Open, Console, Workspace, Tabs, Subtabs, LWC, Navigate, URL, Addressable, Component, Aura, Components, See]
+lastCollected: 2026-03-12T05:14:57.877Z
+estimatedTokens: 1306
+keywords: [Page, References, Open, Console, Workspace, Tabs, Subtabs, navigate, different, page, types, including, URL, addressable, custom, component., component, LWC, lightning__UrlAddressable, target.]
 ---
 
 # Using Page References to Open Console Workspace Tabs and
             Subtabs
+
+> You can navigate to different page types, including a URL addressable custom
+        component. To make a custom component URL addressable using LWC, use the lightning__UrlAddressable target. To make an Aura component
+        URL addressable, implement the lightning:isUrlAddressable interface on your custom component.
 
 # Using Page References to Open Console Workspace Tabs and Subtabs
 
@@ -33,13 +38,13 @@ Making a component URL addressable provides the following benefits for console a
 -   Generates a user-friendly URL for your tabs.
 -   Opens an Aura component as a subtab, even if called from a utility, a hover, or another page.
 -   Allows a mechanism to conditionally open a given component more than once or redirect to an already open workspace or subtab using the uid parameter.
-    
+
     ![Warning](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_warning.png&folder=api_console)
-    
+
     #### Warning
-    
+
     Other uses for the uid parameter that are not explicitly outlined in this document are not supported.
-    
+
 
 For example, you have a URL addressable myComponent component, and a workspaceOpenTab component that navigates to the addressable component.
 
@@ -104,8 +109,94 @@ Now that we have everything set up, we can test our components by creating a cus
 #### See Also
 
 -   [*Lightning Web Components Developer Guide*: Basic Navigation](https://developer.salesforce.com/docs/platform/lwc/guide/use-navigate-basic.html)
-    
+
 -   [*Lightning Web Components Developer Guide*: pageReference Types](https://developer.salesforce.com/docs/platform/lwc/guide/reference-page-reference-type.html "Lightning Web Components Developer Guide: pageReference Types - HTML (New Window)")
-    
+
 -   [*Aura Components Developer Guide*: Navigate Across Your Apps with Page References](https://developer.salesforce.com/docs/atlas.en-us.260.0.lightning.meta/lightning/components_navigation.htm "Aura Components Developer Guide: Navigate Across Your Apps with Page
     References - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { EnclosingTabId, openSubtab } from 'lightning/platformWorkspaceApi';
+
+export default class MyComponent extends LightningElement {
+   @wire(EnclosingTabId) enclosingTabId;
+   
+   openAnotherSubTab() {
+     if (!this.enclosingTabId) {
+        return;
+     }
+     openSubtab(this.enclosingTabId, {
+         pageReference: {
+            type: 'standard__objectPage',
+            attributes: {
+                recordId: '001xx000003DGg0AAG',
+                objectApiName: 'PersonAccount',
+                actionName: 'view'
+            }
+         }
+      });
+   }
+}
+```
+
+```
+<!-- myComponent.js-meta.xml -->
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>61.0</apiVersion>
+    <isExposed>true</isExposed>
+    <targets>
+        <target>lightning__UrlAddressable</target>
+    </targets>
+</LightningComponentBundle>
+```
+
+```
+<!-- myComponent.html -->
+<template>
+  <div class="slds-var-m-around_medium">
+    <p>Component URL: {connectedCallbackUrl}</p>
+    <p>Current page reference:</p>
+    <pre><code>{currentPageRefFormatted}</code></pre>
+  </div>
+</template>
+```
+
+```
+// myComponent.js
+import { LightningElement, wire } from 'lwc';
+import { CurrentPageReference } from 'lightning/navigation';
+
+export default class MyComponent extends LightningElement {
+  @wire(CurrentPageReference)
+  currentPageRef;
+
+  connectedCallbackUrl;
+
+  connectedCallback() {
+    this.connectedCallbackUrl = window.location.href;
+  }
+
+  get currentPageRefFormatted() {
+    return JSON.stringify(this.currentPageRef, undefined, 2);
+  }
+}
+```
+
+```
+<!-- workspaceOpenTab.html -->
+<template>
+  <div class="slds-m-around_medium">
+      <lightning-button label="Open Tab" onclick={handleOpen}>
+      </lightning-button>
+  </div>
+</template>
+```
+
+## Related Topics
+
+- openTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_opentab.htm)
+- openSubtab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_openSubtab.htm)

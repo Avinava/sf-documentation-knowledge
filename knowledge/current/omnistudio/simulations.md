@@ -5,11 +5,15 @@ topic: simulations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.998Z
-keywords: [Simulations, Note]
+lastCollected: 2026-03-12T05:14:49.491Z
+estimatedTokens: 509
+keywords: [Simulations, Retrieve, input, variables, expression, set, required, run, simulation., Run, Note]
 ---
 
 # Simulations
+
+> Retrieve the input variables of an expression set that are required to
+      run a simulation. Run a simulation.
 
 # Simulations
 
@@ -84,3 +88,79 @@ Properties
 Response body for PATCH
 
 [Simulation Eval Service Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_simulation_eval_service_output.htm "Output representation of the simulation run on an expression set.")
+
+## Code Examples
+
+```
+/connect/omnistudio/evaluation-services/version-definitions/${id}/simulation
+```
+
+```
+/services/data/v53.0/connect/omnistudio/evaluation-services/version-definitions/a1o5w000002EJPPAA4/simulation
+```
+
+```
+/services/data/v53.0/connect/omnistudio/evaluation-services/version-definitions/a1o5w000002EJPPAA4/simulation
+```
+
+```
+{
+   "input":{
+      "variables":[
+         {
+            "name":"artEstimatedValue",
+            "value":"301",
+            "datatype":"number"
+         },
+         {
+            "name":"quantity",
+            "value":"301",
+            "datatype":"number"
+         }
+      ]
+   },
+   "contextInput":{
+      "name":"PensionFunds",
+      "value":{
+         "PolicyDetails":[
+            {
+               "PolicyName":"Policy1",
+               "TotalMember":"100",
+               "PrincipalAmout":"500",
+               "Status":"Active",
+               "TotalPremium":"0"
+            },
+            {
+               "PolicyName":"Policy2",
+               "TotalMember":"200",
+               "PrincipalAmout":"100",
+               "Status":"Inactive",
+               "TotalPremium":"0"
+            },
+            {
+               "PolicyName":"Policy3",
+               "TotalMember":"300",
+               "PrincipalAmout":"400",
+               "Status":"Active",
+               "TotalPremium":"0"
+            }
+         ]
+      }
+   },
+   "config":{
+      "versionInfo":{
+         "configurationVersionId":"a1o5w000002EJPPAA4",
+         "effectiveDate":"2019-02-13 00:00:00"
+      }
+   }
+}
+```
+
+## Related Topics
+
+- Simulation Input Variables Result List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_simulation_input_variables_result_list.htm)
+- Simulation Config Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_config_input.htm)
+- Simulation Context Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_context_input.htm)
+- Simulation Variable Input[] (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_variable_input.htm)
+- Simulation Eval
+              Service Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_simulation_eval_service_output.htm)

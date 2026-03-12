@@ -5,11 +5,16 @@ topic: openprimarytab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.596Z
-keywords: [openPrimaryTab, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:58.290Z
+estimatedTokens: 776
+keywords: [openPrimaryTab, Opens, new, primary, tab, display, content, specified, URL, which, relative, absolute., override, existing, tab., only, API, version, 20.0, later.]
 ---
 
 # openPrimaryTab()
+
+> Opens a new primary tab to display the content of the
+            specified URL, which can be relative or absolute. You can also override an existing tab.
+                This method is only available in API version 20.0 or later.
 
 # openPrimaryTab()
 
@@ -57,3 +62,37 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | success | boolean | true if the tab successfully opened; false if the tab didn't open. |
 | id | string | ID of the primary tab. IDs are only valid during a user session; IDs become invalid when a user leaves the Salesforce console. |
+
+## Code Examples
+
+```
+sforce.console.openPrimaryTab(id:String, url:URL, active:Boolean, (optional)tabLabel:String, (optional)callback:Function, (optional)name)
+```
+
+```
+<apex:page standardController="Case">
+
+     <A HREF="#" onClick="testOpenPrimaryTab();return false">
+         Click here to open a new primary tab</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testOpenPrimaryTab() {
+            //Open a new primary tab with the salesforce.com home page in it
+            sforce.console.openPrimaryTab(null, 'https://salesforce.com', false, 
+                'salesforce', openSuccess, 'salesforceTab');
+        }
+        
+        var openSuccess = function openSuccess(result) {
+            //Report whether opening the new tab was successful
+            if (result.success == true) {
+                alert('Primary tab successfully opened');
+            } else {
+                alert('Primary tab cannot be opened');
+            }
+        };
+        
+  </script>
+
+</apex:page>
+```

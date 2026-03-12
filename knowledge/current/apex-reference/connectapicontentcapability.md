@@ -5,11 +5,15 @@ topic: connectapicontentcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.439Z
-keywords: [ConnectApi.ContentCapability, See]
+lastCollected: 2026-03-12T05:14:26.809Z
+estimatedTokens: 882
+keywords: [ConnectApi.ContentCapability, comment, capability, file, attachment.]
 ---
 
 # ConnectApi.ContentCapability
+
+> If a comment has this capability, it has a file
+        attachment.
 
 # ConnectApi.ContentCapability
 
@@ -48,3 +52,12 @@ If content is deleted from a feed element after it’s posted or if the access t
 #### See Also
 
 -   [ConnectApi.CommentCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm "A set of capabilities on a comment.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- ConnectApi.FilesCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_multiple_content_capability.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​FileSharingOption (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.CommentCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm)

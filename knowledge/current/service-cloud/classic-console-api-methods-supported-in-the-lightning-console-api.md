@@ -5,11 +5,19 @@ topic: classic-console-api-methods-supported-in-the-lightning-console-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.160Z
-keywords: [Classic, Console, API, Methods, Supported, Lightning, Important, Primary, Tabs, Subtabs, Note, Application-Level, Custom, Components, Navigation, Live, Agent, Omni-Channel, Events]
+lastCollected: 2026-03-12T05:14:57.667Z
+estimatedTokens: 2289
+keywords: [Classic, Console, API, Supported, Lightning, Visualforce, pages, third-party, web, tabs, Salesforce, Integration, Toolkit, work, Experience, as-is., Just, point, latest, version]
 ---
 
 # Classic Console API Methods Supported in the Lightning Console API
+
+> Visualforce pages and third-party web tabs that use some Salesforce Console Integration
+    Toolkit methods work in Lightning Experience as-is. Just point to the latest version of the
+    toolkit script in your Visualforce pages or third-party web tabs. Third-party content must be
+    allowlisted with CSP directives via Trusted URLs. This table lists the Salesforce Console Integration
+    Toolkit methods that you can use in Lightning Console JavaScript API starting with API version
+    42.0.
 
 # Classic Console API Methods Supported in the Lightning Console API
 
@@ -201,3 +209,16 @@ LWC doesn’t currently support working with these methods.
 | addEventListener() |  | sforce.console.ConsoleEvent.CONSOLE_LOGOUT isn’t supported in the Lightning API.sforce.console.ConsoleEvent.CLOSE_TAB returns the ID of the closed tab only. The Lightning API doesn’t return the objectId or the tabObjectId.The Lightning API doesn’t return special message responses from custom keyboard shortcuts. However, if the response is from a console event, the message includes payload details. |
 | fireEvent() | See notes | fireEvent() returns success true even when eventListeners for the given eventType are removed. |
 | removeEventListener() |  |  |
+
+## Related Topics
+
+- closeTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_closetab.htm)
+- disableTabClose() (atlas.en-us.api_console.meta/api_console/sforce_api_console_disabletabclose.htm)
+- focusPrimaryTabById() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focusprimarytabbyid.htm)
+- focusPrimaryTabByName() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focusprimarytabbyname.htm)
+- focusSidebarComponent() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focussidebarcomponent.htm)
+- focusSubtabById() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focussubtabbyid.htm)
+- focusSubtabByNameAndPrimaryTabId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focussubtabbynameandprimarytabid.htm)
+- focusSubtabByNameAndPrimaryTabName() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focussubtabbynameandprimarytabname.htm)
+- generateConsoleUrl() (atlas.en-us.api_console.meta/api_console/sforce_api_console_generateconsoleurl.htm)
+- getEnclosingPrimaryTabId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_getenclosingprimarytabid.htm)

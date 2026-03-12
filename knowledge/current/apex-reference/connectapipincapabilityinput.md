@@ -5,11 +5,14 @@ topic: connectapipincapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.430Z
-keywords: [ConnectApi.PinCapabilityInput]
+lastCollected: 2026-03-12T05:14:25.328Z
+estimatedTokens: 139
+keywords: [ConnectApi.PinCapabilityInput, Pin, unpin, feed, element, feed.]
 ---
 
 # ConnectApi.PinCapabilityInput
+
+> Pin or unpin a feed element to a feed.
 
 # ConnectApi.PinCapabilityInput
 
@@ -19,3 +22,8 @@ Pin or unpin a feed element to a feed.
 | --- | --- | --- | --- | --- |
 | entityId | String | ID of the entity to pin or unpin. In version 41.0 and later, entityId must be a feed item ID. In version 41.0–42.0, only one feed item can be pinned per feed. In version 43.0 and later, three feed items can be pinned per feed. | Required | 41.0 |
 | isPinned | Boolean | Specifies whether to pin (true) or unpin (false) the entity. | Required | 41.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

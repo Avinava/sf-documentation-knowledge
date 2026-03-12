@@ -5,11 +5,16 @@ topic: dataintegrationrecordpurchasepermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.552Z
-keywords: [DataIntegrationRecordPurchasePermission, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.070Z
+estimatedTokens: 291
+keywords: [DataIntegrationRecordPurchasePermission, Represents, Lightning, Data, purchase, credits, Salesforce, admin, granted, users., Tooling, API, version, 42.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # DataIntegrationRecordPurchasePermission
+
+> Represents Lightning Data purchase credits
+        that a Salesforce admin has granted to users. Available in Tooling API version 42.0 and
+            later.
 
 # DataIntegrationRecordPurchasePermission
 
@@ -43,4 +48,25 @@ Sample GET response:
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "attributes" : {
+    "type" : "DataIntegrationRecordPurchasePermission",
+    "url" : "/services/data/v42.0/tooling/sobjects/DataIntegrationRecordPurchasePermission/0GyR0000000009xKAA"
+  },
+  "Id" : "0GyR0000000009xKAA",
+  "IsDeleted" : false,
+  "CreatedDate" : "2017-11-02T22:02:36.000+0000",
+  "CreatedById" : "005R0000000F4ItIAK",
+  "LastModifiedDate" : "2017-12-12T18:22:35.000+0000",
+  "LastModifiedById" : "005R0000000F4ItIAK",
+  "SystemModstamp" : "2017-12-12T18:22:35.000+0000",
+  "UserId" : "005R0000000F4ItIAK",
+  "ExternalObject" : "managedPackageNamespace__CustomObject__x",
+  "UserRecordPurchaseLimit" : 300
+}
 ```

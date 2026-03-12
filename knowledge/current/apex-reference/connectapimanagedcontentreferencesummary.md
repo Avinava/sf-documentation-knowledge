@@ -5,11 +5,14 @@ topic: connectapimanagedcontentreferencesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.189Z
-keywords: [ConnectApi.ManagedContentReferenceSummary]
+lastCollected: 2026-03-12T05:14:27.844Z
+estimatedTokens: 106
+keywords: [ConnectApi.ManagedContentReferenceSummary, Summary, managed, content, reference.]
 ---
 
 # ConnectApi.ManagedContentReferenceSummary
+
+> Summary of the managed content reference.
 
 # ConnectApi.ManagedContentReferenceSummary
 
@@ -20,3 +23,8 @@ Subclass of [ConnectApi.AbstractManagedContentReference](atlas.en-us.apexref.met
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | title | String | Title of the managed content reference. | 54.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractManagedContentReference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_managed_content_reference.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

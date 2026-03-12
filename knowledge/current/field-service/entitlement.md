@@ -5,11 +5,17 @@ topic: entitlement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.577Z
-keywords: [Entitlement, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.046Z
+estimatedTokens: 1217
+keywords: [Entitlement, Represents, customer, support, account, contact, eligible, receive., API, version, 18.0, later., Entitlements, may, based, asset, product, service, contract., Supported]
 ---
 
 # Entitlement
+
+> Represents the customer support an account
+				or contact is eligible to receive. This object is available in API version 18.0
+			and later. Entitlements may be based on an asset, product, or service
+		contract.
 
 # Entitlement
 

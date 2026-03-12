@@ -4,25 +4,35 @@ domain: apex-reference
 topic: requesttype-enum
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:42:40.484Z
-keywords: [RequestType, Enum, Usage, Values]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:29.618Z
+estimatedTokens: 148
+keywords: [RequestType, Defines, payment, transaction, request, made, gateway., Values, Shows, tax, engine., Usage]
 ---
 
 # RequestType Enum
 
+> Defines the type of payment transaction request made to the payment
+      gateway.
+
 # RequestType Enum
 
-Shows the type of tax request made to the tax engine.
-
-## Usage
-
-Used by the [TaxEngineContext](atlas.en-us.apexref.meta/apexref/apex_class_commercetax_TaxEngineContext.htm#apex_class_commercetax_TaxEngineContext "Wrapper class that stores details about the type of a tax calculation request.") class method.
+Defines the type of payment transaction request made to the payment gateway.
 
 ## Enum Values
 
-The commercetax.RequestType enum includes these values.
+The following are the values of the commercepayments.RequestType enum.
 
 | Value | Description |
 | --- | --- |
-| CalculateTax | Represents a request to calculate tax on a list of taxable line items. |
+| Authorize | Payment authorization request |
+| PostAuth | Post authorization request |
+| Capture | Payment capture request |
+| AuthorizationReversal | Authorization Reversal request |
+| ReferencedRefund | Payment refund request |
+| Salecommercepayments.RequestType, Sale | Sale request |
+| Tokenizecommercepayments.RequestType, Tokenize | Payment tokenize request |
+
+## Related Topics
+
+- TaxEngineContext (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_TaxEngineContext.htm)

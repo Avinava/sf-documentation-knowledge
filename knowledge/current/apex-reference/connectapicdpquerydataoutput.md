@@ -5,11 +5,14 @@ topic: connectapicdpquerydataoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.258Z
-keywords: [ConnectApi.CdpQueryDataOutput, See]
+lastCollected: 2026-03-12T05:14:26.529Z
+estimatedTokens: 191
+keywords: [ConnectApi.CdpQueryDataOutput, Query, data, output.]
 ---
 
 # ConnectApi.CdpQueryDataOutput
+
+> Query data output.
 
 # ConnectApi.CdpQueryDataOutput
 
@@ -22,5 +25,11 @@ Query data output.
 #### See Also
 
 -   [universalIdLookupBySourceId(entityName, dataSourceId, dataSourceObjectId, sourceRecordId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_universalIdLookupBySourceId_1 "Look up objects by source ID.")
-    
+
 -   [universalIdLookupBySourceId(entityName, dataSourceId, dataSourceObjectId, sourceRecordId, dataspace)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_universalIdLookupBySourceId_2 "Look up objects by source ID and specify the data space.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- universalIdLookupBySourceId(entityName, dataSourceId, dataSourceObjectId, sourceRecordId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- universalIdLookupBySourceId(entityName, dataSourceId, dataSourceObjectId, sourceRecordId, dataspace) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)

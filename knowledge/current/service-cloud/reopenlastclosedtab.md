@@ -5,11 +5,16 @@ topic: reopenlastclosedtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.640Z
-keywords: [reopenLastClosedTab, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.354Z
+estimatedTokens: 167
+keywords: [reopenLastClosedTab, Reopens, last, closed, primary, tab, any, its, subtabs, were, open, moment, closed., only, API, version, 35.0, later., Syntax, Arguments]
 ---
 
 # reopenLastClosedTab()
+
+> Reopens the last closed primary tab, and any of its
+            subtabs that were open, the moment it was closed. This method is only available in API
+            version 35.0 or later.
 
 # reopenLastClosedTab()
 
@@ -40,3 +45,31 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if the tab was reopened, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.reopenLastClosedTab()
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        
+        var  = callback = function (result) {
+            if (result.success) {
+                alert('Last tab was re-opened!');
+            } else {
+                alert('No tab was re-opened.');
+            }
+        };
+
+        function reopenLastClosedTabTest() { 
+               sforce.console.reopenLastClosedTab(callback);
+        }
+        
+  </script>
+  <A HREF="#" onClick="reopenLastClosedTabTest(); return false">Re-open Last Closed Tab</A>
+</apex:page>
+```

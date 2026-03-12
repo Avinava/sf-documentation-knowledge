@@ -5,11 +5,17 @@ topic: error-handling-for-session-expiration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.303Z
-keywords: [Error, Handling, Session, Expiration]
+lastCollected: 2026-03-12T05:14:39.363Z
+estimatedTokens: 154
+keywords: [Error, Handling, Session, Expiration, sign, via, login, call, new, client, session, begins, corresponding, unique, generated., Sessions, automatically, expire, after, amount]
 ---
 
 # Error Handling for Session Expiration
+
+> When you sign on via the login() call, a new client session
+         begins and a corresponding unique session ID is generated. Sessions automatically expire
+         after the amount of time specified in the Security Controls setup area of the
+         Salesforce application (default two hours). Wh
 
 # Error Handling for Session Expiration
 

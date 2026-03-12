@@ -5,11 +5,15 @@ topic: connectapibatchinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.823Z
-keywords: [ConnectApi.BatchInput, See]
+lastCollected: 2026-03-12T05:14:24.385Z
+estimatedTokens: 324
+keywords: [ConnectApi.BatchInput, Construct, set, inputs, passed, same, time.]
 ---
 
 # ConnectApi.BatchInput
+
+> Construct a set of inputs to be passed into a method at the same
+      time.
 
 # ConnectApi.BatchInput
 
@@ -44,5 +48,24 @@ The constructors takes these parameters:
 #### See Also
 
 -   [Post a Batch of Feed Elements](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_feed_element_batch.htm "Post a Batch of Feed Elements - HTML (New Window)")
-    
+
 -   [Post a Batch of Feed Elements with a New (Binary) File](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_feed_element_batch_binary.htm "Post a Batch of Feed Elements with a New (Binary) File - HTML (New Window)")
+
+## Code Examples
+
+```
+ConnectApi.BatchInput(Object input)
+```
+
+```
+ConnectApi.BatchInput(Object input, ConnectApi.BinaryInput binary)
+```
+
+```apex
+ConnectApi.BatchInput(Object input, List<ConnectApi.BinaryInput> binaries)
+```
+
+## Related Topics
+
+- ConnectApi.BinaryInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_binary.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

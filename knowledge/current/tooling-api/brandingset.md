@@ -5,11 +5,16 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.300Z
-keywords: [BrandingSet, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.758Z
+estimatedTokens: 1070
+keywords: [BrandingSet, Represents, set, branding, Experience, Builder, site, defined, Theme, panel, Builder., API, version, 40.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # BrandingSet
+
+> Represents a set of branding properties for an Experience Builder site, as
+      defined in the Theme panel in Experience Builder. This object is available in API version
+    40.0 and later.
 
 # BrandingSet
 
@@ -40,3 +45,7 @@ DELETE, GET, HEAD, PATCH, POST, Query
 ## Usage
 
 To work with branding set properties, use [BrandingSetProperty](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_brandingsetproperty.htm "Represents a branding set property in the Theme panel in Experience Builder. This object is available in API version 40.0 and later.").
+
+## Related Topics
+
+- BrandingSetProperty (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_brandingsetproperty.htm)

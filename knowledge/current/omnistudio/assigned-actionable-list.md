@@ -5,11 +5,15 @@ topic: assigned-actionable-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.073Z
-keywords: [Assigned, Actionable, List]
+lastCollected: 2026-03-12T05:14:49.610Z
+estimatedTokens: 229
+keywords: [Assigned, Actionable, List, Output, representation, assigned, actionable, list, request.]
 ---
 
 # Assigned Actionable List
+
+> Output representation of the assigned actionable list
+    request.
 
 # Assigned Actionable List
 
@@ -29,3 +33,16 @@ JSON Example
 | name | String | Name of an actionable list. | Small, 58.0 | 58.0 |
 | objectName | String | Name of the object configured in an actionable list, such as Account, Contact, or Lead. | Small, 58.0 | 58.0 |
 | priority | String | Priority of an actionable list.Possible values are:HighMediumLow | Small, 58.0 | 58.0 |
+
+## Code Examples
+
+```
+{
+      "id": "0woSG00000000knYAA",
+      "memberSortBy": "ReferenceRecord.Industry",
+      "memberSortOrder": "Ascending",
+      "name": "Sales List",
+      "objectName": "Account",
+      "priority": "High"
+    }
+```

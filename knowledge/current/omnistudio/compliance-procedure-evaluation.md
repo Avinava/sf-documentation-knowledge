@@ -5,11 +5,14 @@ topic: compliance-procedure-evaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.145Z
-keywords: [Compliance, Procedure, Evaluation]
+lastCollected: 2026-03-12T05:14:49.710Z
+estimatedTokens: 253
+keywords: [Compliance, Procedure, Evaluation, Represents, single, compliance, procedure, evaluation, result.]
 ---
 
 # Compliance Procedure Evaluation
+
+> Represents a single compliance procedure evaluation result.
 
 # Compliance Procedure Evaluation
 
@@ -30,3 +33,33 @@ JSON example
 | status | String | Specifies the status of the compliance check. Valid values are:ErrorSuccess | Big, 64.0 | 64.0 |
 | transactionId | String | Transaction ID that's generated during the API call. | Big, 64.0 | 64.0 |
 | transactionKey | String | Transaction key for the evaluation request. | Big, 64.0 | 64.0 |
+
+## Code Examples
+
+```
+[
+  {
+    "status": "SUCCESS",
+    "transactionId": "ZZ9123456789012345",
+    "transactionKey": "uuid-1234-5678-9012-eu",
+    "isCompliant": true,
+    "errorId": [],
+    "errorMessage": [],
+    "controls": [
+      {
+        "complianceControlId": "18QXX0001234501",
+        "complianceControlVersionId": "18tXX0001234501",
+        "status": "SUCCESS",
+        "isCompliant": true,
+        "complianceMessage": "Control A passed",
+        "errorId": [],
+        "errorMessage": []
+      }
+    ]
+  }
+]
+```
+
+## Related Topics
+
+- Compliance Control Evaluation (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_control_evaluation_output.htm)

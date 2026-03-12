@@ -5,11 +5,15 @@ topic: customfieldmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.506Z
-keywords: [CustomFieldMember, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:45.003Z
+estimatedTokens: 474
+keywords: [CustomFieldMember, Represents, working, copy, field, editing, saving, MetadataContainer., API, version, 33.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access, Rules]
 ---
 
 # CustomFieldMember
+
+> Represents the working copy of a field for editing or saving in a
+   MetadataContainer. This object is available in API version 33.0 and later.
 
 # CustomFieldMember
 

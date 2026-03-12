@@ -5,11 +5,15 @@ topic: connectapifeedentitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:38.804Z
-keywords: [ConnectApi.FeedEntitySummary, See]
+lastCollected: 2026-03-12T05:14:27.378Z
+estimatedTokens: 564
+keywords: [ConnectApi.FeedEntitySummary, summary, feed, entity, shared, element.]
 ---
 
 # ConnectApi.FeedEntitySummary
+
+> The summary of a feed entity that is shared with a feed
+    element.
 
 # ConnectApi.FeedEntitySummary
 
@@ -37,3 +41,16 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.FeedEntityShareCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_entity_share_capability.htm "If a feed element or comment has this capability, a feed entity is shared with it.")
+
+## Related Topics
+
+- ConnectApi.FeedItemSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_summary.htm)
+- ConnectApi.FeedEntityNotAvailableSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_entity_not_available_summary.htm)
+- ConnectApi.Actor (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actor.htm)
+- ConnectApi.​FeedBody (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_body.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​FeedElementType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.FeedEntityShareCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_entity_share_capability.htm)

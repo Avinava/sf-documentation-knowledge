@@ -5,11 +5,17 @@ topic: translation-of-sdk-events-to-web-connector-schemas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.520Z
-keywords: [Translation, SDK, Events, Web, Connector, Schemas, Automatic, Population, Required, Data, Cloud, Fields, Salesforce, Cart, Interaction, Mapping, Note, Catalog, Order, Consent]
+lastCollected: 2026-03-12T05:14:12.618Z
+estimatedTokens: 7065
+keywords: [Translation, SDK, Events, Web, Connector, Schemas, Understanding, how, Event, Structure, Salesforce, Interactions, converted, data, ingested, Data, Cloud, useful, troubleshooting, instrumentation]
 ---
 
 # Translation of SDK Events to Web Connector Schemas
+
+> Understanding how the Event Structure from the Salesforce Interactions SDK is converted
+  into data that can be ingested into Data Cloud can be useful for troubleshooting
+  instrumentation code. Knowing this can extend your schema to capture extra data not covered by the
+  recommended schema.
 
 # Translation of SDK Events to Web Connector Schemas
 
@@ -295,3 +301,15 @@ Properties added to the user.attributes.eventType field are required.
 | user.attributes.IDNameWeb | IDNameWeb | text | Required. The party identification name. |
 | user.attributes.IDType | IDType | text | Required. The party identification type. |
 | user.attributes.userId | userId | text | Required. The user identifier in the party. |
+
+## Related Topics
+
+- Event Structure (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_event_structure.htm)
+- Cart
+     Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_cart_interaction.htm)
+- Line Item Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_line_item_data.htm)
+- Cart Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_cart_interaction.htm)
+- Catalog Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_catalog_interaction.htm)
+- Order Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_order_interaction.htm)
+- Consent Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_consent_data.htm)
+- User Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_user_data.htm)

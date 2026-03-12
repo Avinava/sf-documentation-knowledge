@@ -5,11 +5,14 @@ topic: connectapiproductattributeselectioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:39.639Z
-keywords: [ConnectApi.ProductAttributeSelectionInfo, See]
+lastCollected: 2026-03-12T05:14:28.465Z
+estimatedTokens: 171
+keywords: [ConnectApi.ProductAttributeSelectionInfo, Product, attribute.]
 ---
 
 # ConnectApi.ProductAttributeSelectionInfo
+
+> Product attribute.
 
 # ConnectApi.ProductAttributeSelectionInfo
 
@@ -25,3 +28,9 @@ Product attribute.
 #### See Also
 
 -   [ConnectApi.ProductAttributesToProductEntry](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attributes_to_product_entry.htm "Mapping of an attribute value combination to a variation product ID.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ProductAttributesToProductEntry (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attributes_to_product_entry.htm)

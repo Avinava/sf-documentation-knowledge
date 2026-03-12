@@ -5,11 +5,16 @@ topic: package2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.382Z
-keywords: [Package2, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.225Z
+estimatedTokens: 1194
+keywords: [Package2, Represents, second-generation, managed, package, unlocked, Dev, Hub, org., Values, fields, visible, subscriber., API, version, 41.0, later., Supported, SOAP, Calls]
 ---
 
 # Package2
+
+> Represents a second-generation
+            managed package or an unlocked package in a Dev Hub org. Values for all fields are
+            visible to the subscriber. Available in API version 41.0 and later.
 
 # Package2
 
@@ -43,3 +48,7 @@ Query, GET, POST
 ## Usage
 
 Subscribers install package versions ([Package2Version](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_package2version.htm#tooling_api_objects_package2version "Represents a second-generation package version in a Dev Hub org. Values for all fields except for Tag and Branch are visible to the subscriber. Available in API version 41.0 and later.")s) in their orgs.
+
+## Related Topics
+
+- Package2Version (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_package2version.htm)

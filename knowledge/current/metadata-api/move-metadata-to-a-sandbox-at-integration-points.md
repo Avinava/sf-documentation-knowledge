@@ -5,11 +5,15 @@ topic: move-metadata-to-a-sandbox-at-integration-points
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:55.033Z
-keywords: [Move, Metadata, Sandbox, Integration, Points, See]
+lastCollected: 2026-03-12T05:14:43.443Z
+estimatedTokens: 433
+keywords: [Move, Metadata, Sandbox, Integration, Points, During, development, API, move, metadata, sandboxes, integrating, changes, testing, collaborating, team.]
 ---
 
 # Move Metadata to a Sandbox at Integration Points
+
+> During development, use Metadata API to move metadata to sandboxes for
+   integrating changes, testing, and collaborating with your team.
 
 # Move Metadata to a Sandbox at Integration Points
 
@@ -24,7 +28,7 @@ Outside of Metadata API, admins typically use change sets to send customizations
 #### See Also
 
 -   [Sandbox Types and Templates](https://help.salesforce.com/s/articleView?id=platform.create_test_instance.htm&type=5&language=en_US)
-    
+
 -   [Change Sets](https://help.salesforce.com/s/articleView?id=platform.changesets.htm&type=5&language=en_US)
-    
+
 -   [Continuous Integration](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_ci.htm)

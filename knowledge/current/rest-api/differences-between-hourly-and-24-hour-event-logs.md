@@ -5,11 +5,16 @@ topic: differences-between-hourly-and-24-hour-event-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.039Z
-keywords: [Differences, Between, Hourly, 24-Hour, Event, Logs, Note]
+lastCollected: 2026-03-12T05:14:35.123Z
+estimatedTokens: 523
+keywords: [Differences, Between, Hourly, 24-Hour, Event, Logs, receive, event, log, files, approximately, every, hour, addition, 24-hour, files., Review, differences, between, two]
 ---
 
 # Differences Between Hourly and 24-Hour Event Logs
+
+> You receive event log files approximately every hour in addition to 24-hour log files.
+  Review the differences between the two logs so that you can filter your files to analyze the event
+  data you want.
 
 # Differences Between Hourly and 24-Hour Event Logs
 
@@ -27,3 +32,7 @@ You receive event log files approximately every hour in addition to 24-hour log 
 #### Note
 
 Like with 24-hour event monitoring, hourly event log data is available for the past 30 days.
+
+## Related Topics
+
+- Considerations (atlas.en-us.api_rest.meta/api_rest/event_log_file_hourly_overview.htm)

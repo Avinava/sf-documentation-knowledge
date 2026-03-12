@@ -5,11 +5,14 @@ topic: connectapiproductcartitemcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.662Z
-keywords: [ConnectApi.ProductCartItemCollection]
+lastCollected: 2026-03-12T05:14:28.499Z
+estimatedTokens: 218
+keywords: [ConnectApi.ProductCartItemCollection, Items, cart, grouped, product, type.]
 ---
 
 # ConnectApi.ProductCartItemCollection
+
+> Items in the cart, grouped by product type.
 
 # ConnectApi.ProductCartItemCollection
 
@@ -23,3 +26,10 @@ Items in the cart, grouped by product type.
 | products | List<ConnectApi.​ProductCartItem> | Products in the cart. | 60.0 |
 | totalItemCount | Integer | Total number of unique products in the cart. | 60.0 |
 | totalNumberOfPages | Integer | Total number of pages for the given page size. | 60.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductCartItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_cart_item.htm)

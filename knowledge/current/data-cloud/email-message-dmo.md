@@ -5,11 +5,16 @@ topic: email-message-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.356Z
-keywords: [Email, Message, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.941Z
+estimatedTokens: 1359
+keywords: [Email, Message, DMO, Data, Cloud, data, model, email, message, usually, text, possibly, HTML, including, attachments, sent, received, over, network., API]
 ---
 
 # Email Message DMO
+
+> The Email Message DMO is a Data Cloud data model object (DMO) for an
+      email message, usually text, but possibly HTML, including attachments sent or received over
+      the network.
 
 # Email Message DMO
 

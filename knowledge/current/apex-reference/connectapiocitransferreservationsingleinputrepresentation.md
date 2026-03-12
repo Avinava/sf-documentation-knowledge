@@ -5,11 +5,14 @@ topic: connectapiocitransferreservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.377Z
-keywords: [ConnectApi.OCITransferReservationSingleInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.253Z
+estimatedTokens: 430
+keywords: [ConnectApi.OCITransferReservationSingleInputRepresentation, inventory, reservation, transfer.]
 ---
 
 # ConnectApi.OCITransferReservationSingleInputRepresentation
+
+> An inventory reservation transfer.
 
 # ConnectApi.OCITransferReservationSingleInputRepresentation
 
@@ -27,3 +30,9 @@ An inventory reservation transfer.
 | stockKeepingUnit | String | The SKU of the product being transferred. | Required | 51.0 |
 | toLocationGroupIdentifier | String | The identifier of the location group receiving the reservation. | The identifier for a receiving location or location group, but not both, is required | 51.0 |
 | toLocationIdentifier | String | The identifier of the location receiving the reservation. | The identifier for a receiving location or location group, but not both, is required | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

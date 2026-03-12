@@ -6,12 +6,16 @@ topic: common-test-utility-classes-for-test-data-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.669Z
-keywords: [Common, Test, Utility, Classes, Data, Creation]
+lastCollected: 2026-03-12T05:14:34.114Z
+estimatedTokens: 339
+keywords: [Common, Test, Utility, Classes, Data, Creation, test, utility, classes, contain, reusable, code, data, creation.]
 ---
 
 # Common Test Utility Classes for Test Data
 Creation
+
+> Common test utility classes are public test classes that
+contain reusable code for test data creation.
 
 # Common Test Utility Classes for Test Data Creation
 
@@ -31,4 +35,44 @@ The test method in this class calls the test utility method, createTestRecords, 
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+@IsTest
+public class TestDataFactory {
+    public static void createTestRecords(Integer numAccts, Integer numContactsPerAcct) {
+        List<Account> accts = new List<Account>();
+        
+        for(Integer i=0;i<numAccts;i++) {
+            Account a = new Account(Name='TestAccount' + i);
+            accts.add(a);
+        }
+        insert accts;
+        
+        List<Contact> cons = new List<Contact>();
+        for (Integer j=0;j<numAccts;j++) {
+            Account acct = accts[j];            
+            // For each account just inserted, add contacts
+            for (Integer k=numContactsPerAcct*j;k<numContactsPerAcct*(j+1);k++) {
+                cons.add(new Contact(firstname='Test'+k,
+                                     lastname='Test'+k,
+                                     AccountId=acct.Id));
+            }
+        }
+        // Insert all contacts for all accounts
+        insert cons;
+    }
+}
+```
+
+```apex
+@IsTest
+private class MyTestClass {
+    static testmethod void test1() {
+        TestDataFactory.createTestRecords(5,3);
+        // Run some tests
+    }
+}
 ```

@@ -5,11 +5,17 @@ topic: objectlinkingsettings-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.764Z
-keywords: [ObjectLinkingSettings, Beta, Note, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:41.464Z
+estimatedTokens: 637
+keywords: [ObjectLinkingSettings, Beta, Represents, channel-object, linking, settings, org., extends, Metadata, metadata, inherits, its, fullName, field., Note, File, Suffix, Directory, Location, Version]
 ---
 
 # ObjectLinkingSettings (Beta)
+
+> Represents the channel-object linking settings for an
+      org.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # ObjectLinkingSettings (Beta)
 
@@ -50,3 +56,28 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjectLinkingSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableObjectLinking>true</enableObjectLinking>
+</ObjectLinkingSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ObjectLinking</members>
+        <name>Settings</name>
+    </types>
+    <version>47.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

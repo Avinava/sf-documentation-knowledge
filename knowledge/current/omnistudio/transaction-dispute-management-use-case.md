@@ -5,11 +5,16 @@ topic: transaction-dispute-management-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:11.411Z
-keywords: [Transaction, Dispute, Management, Case, Note, Configure, Objects, Permissions, Mulesoft, Integration, Review, Fields, Set, Service, Process, Request, Payload, Invoke, Resource]
+lastCollected: 2026-03-12T05:14:53.109Z
+estimatedTokens: 1705
+keywords: [Transaction, Dispute, Management, Case, dispute, management, provides, streamlined, process, users, capture, submit, customer, disputes, related, financial, transactions., Service, Process, connect]
 ---
 
 # Transaction Dispute Management Use Case
+
+> Transaction dispute management provides a streamlined process for users to capture and
+    submit customer disputes related to financial transactions. You can use the Service Process
+    connect API resource to create all the records related to a transaction dispute.
 
 # Transaction Dispute Management Use Case
 
@@ -83,3 +88,117 @@ After you assemble the payload, you’re ready to invoke the [Service Process](a
 ```
 
 All records related to the transaction dispute directly or indirectly reference the Case record or the SvcCatalogRequest record.
+
+## Code Examples
+
+```
+{
+  "attributes": {
+    "data": {
+      "dispute_info": {
+        "data": {
+          "dispute_type": {
+            "value": "Consumer Dispute"
+          },
+          "dispute_subtype": {
+            "value": "Undelivered Product or Service"
+          },
+          "description": {
+            "value": "Order from acmemerchant.com not delivered but credit card charged."
+          },
+          "received_date": {
+            "value": "2023-07-14"
+          },
+          "account_id": {
+            "value": "001DI000001o10QYAQ"
+          },
+          "assessment_id": {
+            "value": "0U3DI000000018m0AA"
+          },
+          "financial_account_id": {
+            "value": "a0EDI000000Ce6W2AS"
+          },
+          "actual_amount": {
+            "value": 593.63
+          },
+          "disputed_amount": {
+            "value": 400
+          },
+          "approved_amount": {
+            "value": 100
+          },
+          "status": {
+            "value": "Submitted"
+          }
+        }
+      },
+      "disputed_transactions_info": {
+        "value": [
+          {
+            "transaction_date": "2023-01-01",
+            "transaction_identifier": "1",
+            "transaction_amount": 213.1,
+            "transaction_description": "t1"
+          },
+          {
+            "transaction_date": "2023-01-01",
+            "transaction_identifier": "2",
+            "transaction_amount": 150.94,
+            "transaction_description": "t2"
+          },
+          {
+            "transaction_date": "2023-01-01",
+            "transaction_identifier": "3",
+            "transaction_amount": 199.0,
+            "transaction_description": "t3"
+          },
+          {
+            "transaction_date": "2023-01-01",
+            "transaction_identifier": "4",
+            "transaction_amount": 30.59,
+            "transaction_description": "t4"
+          }
+        ]
+      }
+    }
+  },
+  "caseInfo": {
+    "data": {
+      "Subject": {
+        "value": "Julia Green Transaction Dispute Request"
+      },
+      "Origin": {
+        "value": "Phone"
+      },
+      "AccountId": {
+        "value": "001DI000001o10QYAQ"
+      }
+    }
+  },
+  "documentInfo": {
+    "data": [
+      {
+        "id": "content document id-1",
+        "name": "Julia Green credit card statement"
+      },
+      {
+        "id": "content document id-2",
+        "name": "acmemerchant.com receipt"
+      }
+    ]
+  },
+  "svcCatalogItemDefApiName": "Dispute_Management"
+}
+```
+
+```
+{
+  "caseId": "500SM000000ecOLYAY",
+  "caseNumber": "00001035",
+  "svcCatalogRequestId": "946SM00000000CvYAI"
+}
+```
+
+## Related Topics
+
+- Service Process (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_service_process_create.htm)

@@ -5,11 +5,16 @@ topic: managed-package-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.313Z
-keywords: [Managed, Package, Types, See]
+lastCollected: 2026-03-12T05:14:33.647Z
+estimatedTokens: 873
+keywords: [Managed, Package, Types, Salesforce, supports, creation, distribution, Apex, through, different, types, packages., Understand, distinctions, between, package, recognize, behavior, vary, across]
 ---
 
 # Managed Package Types
+
+> Salesforce supports the creation and distribution of Apex through different types of
+  packages. Understand the distinctions between package types, and recognize that Apex behavior can
+  vary across them.
 
 # Managed Package Types
 
@@ -30,7 +35,7 @@ Apex classes and triggers from 1GP, 2GP, and migrated 2GP managed packages can b
 #### See Also
 
 -   [*ISVforce Guide*](https://developer.salesforce.com/docs/atlas.en-us.260.0.packagingGuide.meta/packagingGuide/packaging_intro.htm)
-    
+
 -   [*First-Generation Managed Packaging Developer Guide*: Move to 2GP](https://developer.salesforce.com/docs/atlas.en-us.pkg1_dev.meta/pkg1_dev/move_to_second_gen_pkg.htm)
-    
+
 -   [*Second-Generation Managed Packaging Developer Guide*: Components Available in Second-Generation Managed Packages–Apex Class](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/packaging_packageable_components.htm#mdc_apex_class)

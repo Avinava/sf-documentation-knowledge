@@ -5,11 +5,14 @@ topic: connectapiordersummaryadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.501Z
-keywords: [ConnectApi.OrderSummaryAdjustment, See]
+lastCollected: 2026-03-12T05:14:28.272Z
+estimatedTokens: 340
+keywords: [ConnectApi.OrderSummaryAdjustment, Adjustment, associated, order, summary.]
 ---
 
 # ConnectApi.OrderSummaryAdjustment
+
+> Adjustment associated with an order summary.
 
 # ConnectApi.OrderSummaryAdjustment
 
@@ -27,5 +30,12 @@ Adjustment associated with an order summary.
 #### See Also
 
 -   [ConnectApi.OrderSummaryAdjustmentCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary_adjustment_collection.htm "Collection of adjustments for an order summary.")
-    
+
 -   [ConnectApi.OrderItemSummaryAdjustmentList](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_adjustment_list.htm "Representation for list of adjustments for an Order Item Summary.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​OrderSummary​AdjustmentTarget​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.OrderSummaryAdjustmentCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary_adjustment_collection.htm)
+- ConnectApi.OrderItemSummaryAdjustmentList (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_adjustment_list.htm)

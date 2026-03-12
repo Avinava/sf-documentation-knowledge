@@ -5,11 +5,19 @@ topic: what-is-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.238Z
-keywords: [Apex?]
+lastCollected: 2026-03-12T05:14:33.533Z
+estimatedTokens: 916
+keywords: [Apex?, Apex, strongly, typed, object-oriented, programming, language, allows, developers, execute, flow, transaction, control, statements, Salesforce, servers, conjunction, calls, API., syntax]
 ---
 
 # What is Apex?
+
+> Apex is a strongly typed, object-oriented programming language that allows developers
+        to execute flow and transaction control statements on Salesforce servers in conjunction with
+        calls to the API. Using syntax that looks like Java and acts like database stored
+        procedures, Apex enables developers to add business logic to most system events, including
+        button clicks, related record updates, and Visualforce pages. Apex code can be initiated by
+        Web service requests and from triggers on objects.
 
 # What is Apex?
 
@@ -61,3 +69,7 @@ You can save your Apex code against different versions of the API. This enables 
 Apex is included in Performance Edition, Unlimited Edition, Developer Edition, Enterprise Edition, and Database.com.
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_qs_core_concepts.htm "Understanding Apex Core Concepts")
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_qs_core_concepts.htm)

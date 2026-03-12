@@ -5,11 +5,15 @@ topic: setsidebarvisible
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.710Z
-keywords: [setSidebarVisible, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.463Z
+estimatedTokens: 272
+keywords: [setSidebarVisible, Shows, hides, console, sidebar, based, tabId, region., API, version, 33.0, later., isn’t, supported, Lightning, Console., Syntax, Arguments, Sample, Code–Visualforce]
 ---
 
 # setSidebarVisible()
+
+> Shows or hides a console sidebar based on tabId and region. This method is available in API version
+      33.0 or later. This method isn’t supported in Lightning Console.
 
 # setSidebarVisible()
 
@@ -43,3 +47,30 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if the method call was successful; false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.setSidebarVisible( visible:Boolean, (optional)tabId:String, (optional)region:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+   <apex:includeScript value="/support/console/66.0/integration.js"/>        
+   <script type="text/javascript">
+     
+      var callback = function (result) { 
+         if (result.success) { 
+      alert('Congratulations!');
+         }else { 
+      alert('something is wrong!');
+         }
+      };
+         function setSidebarVisible() {
+           sforce.console.setSidebarVisible(true,'scc-st-1',sforce.console.Region.LEFT,callback);
+      }
+        
+   </script>
+    <A HREF="#" onClick="setSidebarVisible(); return false">SetSidebarToExpand</A>
+</apex:page>
+```

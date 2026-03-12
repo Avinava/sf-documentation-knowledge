@@ -5,11 +5,17 @@ topic: intelligent-form-reader-field-on-documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.182Z
-keywords: [Intelligent, Form, Reader, Field, DocumentType, Supported, Calls, Fields, See]
+lastCollected: 2026-03-12T05:14:51.257Z
+estimatedTokens: 300
+keywords: [Intelligent, Form, Reader, Field, DocumentType, Standard, custom, fields, extend, standard, represent, information, document, types, identity, documents, want, extract., field, API]
 ---
 
 # Intelligent Form Reader Field on DocumentType
+
+> Standard and custom fields extend the standard DocumentType object for use in
+   Intelligent Form Reader to represent information about document types for identity documents or
+   other documents with information that you want to extract. This field is available in API
+  version 57.0 and later.
 
 # Intelligent Form Reader Field on DocumentType
 

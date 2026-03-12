@@ -5,11 +5,17 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.492Z
-keywords: [CustomApplication, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.981Z
+estimatedTokens: 732
+keywords: [CustomApplication, Represents, custom, standard, application., application, list, tab, references, description, logo., includes, access, associated, related, fields, Metadata, API., Tooling, API]
 ---
 
 # CustomApplication
+
+> Represents a custom or standard application. An application is
+        a list of tab references, a description, and a logo. It also includes access to the
+        associated CustomApplication type and related fields in Metadata API. Available in Tooling
+        API version 42.0 or later.
 
 # CustomApplication
 
@@ -41,3 +47,7 @@ Query, GET, POST, PATCH
 | UiType | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe type of user interface that the application uses. Valid values are:AlohaLightning |
 | UtilityBar | TypeFlexiPagePropertiesFilter, Group, Nillable, SortDescriptionThe Lightning page used as the utility bar for the application. |
 | UtilityBarId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe ID of the utility bar associated with this application. |
+
+## Related Topics
+
+- FlexiPage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_flexipage.htm)

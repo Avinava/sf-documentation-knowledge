@@ -5,11 +5,16 @@ topic: unbundle-multiple
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.360Z
-keywords: [Unbundle, Multiple, Add, Remote, Site, Request, Body, Example, Response]
+lastCollected: 2026-03-12T05:14:55.698Z
+estimatedTokens: 1934
+keywords: [Unbundle, Multiple, bundles, service, appointments., resource, accepts, bundle, IDs., API, supported, Gov, Cloud., endpoint, version, 54.0, later, Salesforce, API., Add]
 ---
 
 # Unbundle Multiple
+
+> Unbundle one or more bundles of service appointments. This resource accepts one or more
+  bundle IDs. This API is not supported in Gov Cloud. This endpoint is available in version 54.0 and
+  later of the Salesforce API.
 
 # Unbundle Multiple
 
@@ -168,3 +173,72 @@ This example shows the output of a request where the user entered a service appo
 | 44 | ERROR_UNBUNDLING | We couldn’t unbundle the service appointment. |
 | 58 | ERROR_IN_MSW_VALIDATIONS | We can’t bundle service appointments with dependencies. Remove the dependencies and try again. |
 | -500 | http error | Hmm… Something went wrong. Try again. |
+
+## Code Examples
+
+```
+{
+   "user":"Misha",
+   "initiate":"manual",
+   "saRequestPayloads":[
+      {
+         "serviceAppointmentId":"08px000000NzdLFAAZ"
+      },
+      {
+         "serviceAppointmentId":"08px000000NzdH8AAJ"
+      }
+   ]
+}
+```
+
+```
+{
+    "httpStatus": 200,
+    "statusDescription": "OK",
+    "responsePayload": "[ {
+  "headers" : { },
+  "body" : {
+    "bundleId" : "08px000000OAph4AAD",
+    "responsePayloads" : null,
+    "status" : "SUCCESS",
+    "messageCode" : "NONE",
+    "message" : "Success"
+  },
+  "statusCode" : "OK",
+  "statusCodeValue" : 200
+} ]",
+    "messageCode": "NONE"
+}
+```
+
+```
+[
+  {
+    "httpStatus": 200,
+    "statusDescription": "OK",
+    "responsePayload": "[ {
+  "headers" : { },
+  "body" : {
+    "bundleId" : null,
+    "responsePayloads" : [ {
+      "status" : "FAIL",
+      "messageCode" : "GET_BUNDLE_INFO_FAILURE",
+      "message" : "Try again later.",
+      "messageParams" : [ ]
+    } ],
+    "status" : "FAIL",
+    "messageCode" : "ERROR_UNBUNDLING",
+    "message" : "We couldn't unbundle the service appointment.",
+    "messageAdditionalInfo" : "(bundleSaRef)\
+  errorCode: NOT_FOUND\
+  message:   Provided external ID field does not exist or is not accessible: 123"
+  },
+  "statusCode" : "OK",
+  "statusCodeValue" : 200
+} ]",
+    "messageCode": "NONE"
+    "messageAdditionalInfo": "(bundleSaRef)
+  errorCode: NOT_FOUND
+  message:   Provided external ID field does not exist or is not accessible: 123"
+}
+```

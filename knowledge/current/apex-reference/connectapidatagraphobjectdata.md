@@ -5,11 +5,14 @@ topic: connectapidatagraphobjectdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.525Z
-keywords: [ConnectApi.DataGraphObjectData]
+lastCollected: 2026-03-12T05:14:26.943Z
+estimatedTokens: 332
+keywords: [ConnectApi.DataGraphObjectData, Represents, metadata, data, graph.]
 ---
 
 # ConnectApi.DataGraphObjectData
+
+> Represents object metadata for a data graph.
 
 # ConnectApi.DataGraphObjectData
 
@@ -26,3 +29,12 @@ Represents object metadata for a data graph.
 | recencyCriteria | List<ConnectApi.RecencyCriteria> | List of recency criteria for the object data of the data graph. | 59.0 |
 | relatedObjects | List<ConnectApi.DataGraphObjectData> | Recursive list of related data objects for the data graph. | 59.0 |
 | type | DataGraphObjectTypeEnum | Data type of the data object for the data graph.AdgAdgActivationAudienceAdgExternalBridgeCalculatedCalculatedRealTimeCalculatedStreamingCuratedCustomDerivedMlPredictionObjectTypeUnspecifiedPackageSegmentMembershipStandardSystemTransform | 59.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.DataGraphField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_graph_field.htm)
+- ConnectApi.DataGraphRelationship (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_graph_relationship.htm)
+- ConnectApi.RecencyCriteria (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recency_criteria.htm)
+- DataGraphObjectTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

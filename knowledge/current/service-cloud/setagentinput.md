@@ -5,11 +5,16 @@ topic: setagentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.668Z
-keywords: [setAgentInput, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.399Z
+estimatedTokens: 224
+keywords: [setAgentInput, text, agent’s, input, area, chat, log, specific, key.Available, API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # setAgentInput()
+
+> Sets the string of text in the agent’s text input area in the chat log of a
+        chat with a specific chat key.Available in API version 29.0 or
+            later.
 
 # setAgentInput()
 
@@ -42,3 +47,38 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | success | Boolean | true if setting the agent’s input was successful; false if setting the agent’s input wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.setAgentInput(chatKey:String, text:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testSetAgentInput();">Set Agent Input</a> 
+
+    <script type="text/javascript">
+
+        function testSetAgentInput() {
+            //Get the value for 'myChatKey'from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+            //These values are for example purposes only
+            var chatKey = 'myChatKey';
+            var text = 'This is example text to set the agent input'
+            sforce.console.chat.setAgentInput(chatKey, text, setAgentInputSuccess);
+        }
+        
+        function setAgentInputSuccess(result) {
+            //Report whether setting the agent's input was succesful
+            if (result.success == true) {
+                alert('The text in the agent input has been updated');
+            } else {
+                alert('Setting the agent input was not Succesful');
+            }
+        };
+    
+
+    </script>
+</apex:page>
+```

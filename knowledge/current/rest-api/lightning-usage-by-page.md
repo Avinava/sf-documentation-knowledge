@@ -4,12 +4,17 @@ domain: rest-api
 topic: lightning-usage-by-page
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:44:25.409Z
-keywords: [Lightning, Usage, Page, Syntax, Example, Considerations, Note]
+docType: concept
+lastCollected: 2026-03-12T05:14:35.628Z
+estimatedTokens: 536
+keywords: [Lightning, Usage, Page, Represents, standard, pages, users, viewed, most, frequently, Experience., resource, REST, API, version, 44.0, later., Syntax, Example, Considerations]
 ---
 
 # Lightning Usage by Page
+
+> Represents standard pages users viewed most
+  frequently in Lightning Experience. This resource is available in REST API version 44.0
+  and later.
 
 # Lightning Usage by Page
 
@@ -76,3 +81,13 @@ A raw EPT value is considered valid if it falls within the following range:
 ```
 
 If a raw EPT value is outside of this range, it's treated as invalid and gets aggregated as ept = 0.
+
+## Code Examples
+
+```
+SELECT TotalCount FROM LightningUsageByPageMetrics ORDER BY PageName ASC NULLS FIRST LIMIT 10
+```
+
+```
+150 ms ≤ orig_ept ≤ 90,000 ms
+```

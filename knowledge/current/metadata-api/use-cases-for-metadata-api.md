@@ -5,11 +5,16 @@ topic: use-cases-for-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:55.028Z
-keywords: [Cases, Metadata, API, Development, Process]
+lastCollected: 2026-03-12T05:14:43.429Z
+estimatedTokens: 1461
+keywords: [Cases, Metadata, API, move, metadata, between, orgs, during, development, cycle., used, deploying, large, configuration, changes, development., Development, Process]
 ---
 
 # Use Cases for Metadata API
+
+> Use Metadata API to move metadata between orgs during the development
+   cycle. Metadata API is also used for deploying large metadata configuration changes from
+   development.
 
 # Use Cases for Metadata API
 
@@ -62,3 +67,12 @@ You can use Metadata API to make configuration changes during the development pr
 [Make Large Metadata Configuration Changes](atlas.en-us.api_meta.meta/api_meta/meta_use_cases_large_config_changes.htm "Metadata API is better suited than other APIs for deploying large changes to your Salesforce org.")
 
 Metadata is better suited than other APIs for deploying large changes to your org.
+
+## Related Topics
+
+- Move Metadata from Production to Your Local File System (atlas.en-us.api_meta.meta/api_meta/meta_use_cases_prod_to_local.htm)
+- Move Metadata Changes to and from a Scratch Org (atlas.en-us.api_meta.meta/api_meta/meta_use_cases_to_from_scratch_org.htm)
+- Move Metadata to a Sandbox at Integration Points (atlas.en-us.api_meta.meta/api_meta/meta_use_cases_move_to_sandbox.htm)
+- Deploy Metadata to Production (atlas.en-us.api_meta.meta/api_meta/meta_use_cases_deploy_prod.htm)
+- Move Metadata for Production-Level Changes (atlas.en-us.api_meta.meta/api_meta/meta_use_cases_prod_level_changes.htm)
+- Make Large Metadata Configuration Changes (atlas.en-us.api_meta.meta/api_meta/meta_use_cases_large_config_changes.htm)

@@ -5,11 +5,16 @@ topic: javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.259Z
-keywords: [JavaScript, Remoting, Warning]
+lastCollected: 2026-03-12T05:14:33.564Z
+estimatedTokens: 660
+keywords: [JavaScript, Remoting, remoting, Visualforce, call, Apex, controllers, JavaScript., Create, pages, complex, dynamic, behavior, isn’t, possible, standard, AJAX, components., Warning]
 ---
 
 # JavaScript Remoting
+
+> Use JavaScript remoting in Visualforce to call methods in Apex controllers from
+        JavaScript. Create pages with complex, dynamic behavior that isn’t possible with the
+        standard Visualforce AJAX components.
 
 # JavaScript Remoting
 
@@ -60,3 +65,27 @@ For more information, see JavaScript Remoting for Apex Controllers in the Visual
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_pages.htm "Visualforce Classes")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_and_ajax.htm "Apex in AJAX")
+
+## Code Examples
+
+```apex
+@RemoteAction
+global static String getItemId(String objectName) { ... }
+```
+
+```
+<apex:page controller="MyController" extension="MyExtension">
+```
+
+```
+[namespace.]MyController.method(
+    [parameters...,]
+    callbackFunction,
+    [configuration]
+);
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_pages.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_and_ajax.htm)

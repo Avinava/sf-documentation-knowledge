@@ -5,11 +5,20 @@ topic: recordactiondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.276Z
-keywords: [RecordActionDeployment, Important, File, Suffix, Directory, Location, Note, Version, Fields, RecordActionDefaultItem, RecordActionDeploymentChannel, RecordActionDeploymentContext, RecordActionRecommendation, RecordActionSelectableItem, Wildcard, Support, Manifest, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:42.224Z
+estimatedTokens: 2344
+keywords: [RecordActionDeployment, Represents, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, components., example, deployment, specifies, which, types, actions, display, default, channels]
 ---
 
 # RecordActionDeployment
+
+> Represents configuration settings for the Actions
+      & Recommendations, Action Launcher, and Bulk Action Panel components. For example, you can
+      have a deployment that specifies which types of actions to display, default actions for
+      channels, and the actions that users can add at runtime. If the component shows Next Best
+      Action recommendations, the deployment configures which strategies to use and how
+      recommendations appear. This type extends the Metadata metadata type and inherits its
+        fullName field.
 
 # RecordActionDeployment
 
@@ -134,3 +143,84 @@ The following is an example package.xml that references the previous definition.
 #### See Also
 
 -   [RecommendationStrategy](atlas.en-us.api_meta.meta/api_meta/meta_recommendationstrategy.htm "Represents a recommendation strategy. Recommendation strategies are applications, similar to data flows, that determine a set of recommendations to be delivered to the client through data retrieval, branching, and logic operations.")
+
+## Code Examples
+
+```
+<RecordActionDeployment xmlns="http://soap.sforce.com/2006/04/metadata">
+    <channelConfigurations>
+        <channel>Phone</channel>
+        <channelItems>
+            <action>Sample_Flow</action>
+            <isMandatory>false</isMandatory>
+            <isUiRemoveHidden>false</isUiRemoveHidden>
+            <position>1</position>
+            <pinned>Top</pinned>
+            <type>Flow</type>
+        </channelItems>
+        <channelItems>
+            <action>Another_Sample_Flow</action>
+            <isMandatory>false</isMandatory>
+            <isUiRemoveHidden>true</isUiRemoveHidden>
+            <position>2</position>
+            <pinned>Top</pinned>
+            <type>Flow</type>
+        </channelItems>
+        <isAutopopEnabled>true</isAutopopEnabled>
+    </channelConfigurations>
+    <masterLabel>Sample Deployment</masterLabel>
+    <selectableItems>
+        <action>Sample_Flow</action>
+        <type>Flow</type>
+        <isFrequentAction>true</isFrequentAction>
+        <frequentActionSequenceNbr>1</frequentActionSequenceNbr>
+    </selectableItems>
+    <selectableItems>
+        <action>Sample_Flow_2</action>
+        <type>Flow</type>
+        <isFrequentAction>false</isFrequentAction>
+    </selectableItems>
+    <hasGuidedActions>true</hasGuidedActions>
+    <hasRecommendations>true</hasRecommendations>
+    <recommendation>
+        <defaultStrategy>Sample_Global_Strategy</defaultStrategy>
+        <maxDisplayRecommendations>4</maxDisplayRecommendations>
+        <hasImage>true</hasImage>
+        <hasDescription>true</hasDescription>
+        <hasRejectAction>true</hasRejectAction>
+        <hasTitle>true</hasTitle>
+    </recommendation>
+    <deploymentContexts>
+        <entityName>Case</entityName>
+        <recommendationStrategy>Sample_Case_Strategy</recommendationStrategy>
+    </deploymentContexts>
+    <deploymentContexts>
+        <entityName>Account</entityName>
+        <recommendationStrategy>Sample_Acc_Strategy</recommendationStrategy>
+    </deploymentContexts>
+</RecordActionDeployment>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SecondTest</fullName>
+    <types>
+        <members>Sample_Flow</members>
+        <members>Another_Sample_Flow</members>
+        <members>Sample_Flow_2</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>SampleDeployment</members>
+        <name>RecordActionDeployment</name>
+    </types>
+    <version>45.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- RecommendationStrategy (atlas.en-us.api_meta.meta/api_meta/meta_recommendationstrategy.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

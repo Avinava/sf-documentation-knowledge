@@ -5,11 +5,16 @@ topic: get-an-image-from-a-rich-text-area-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.003Z
-keywords: [Get, Image, Rich, Text, Area, Field, Note, Obtain, Reference, Retrieve]
+lastCollected: 2026-03-12T05:14:35.082Z
+estimatedTokens: 530
+keywords: [Get, Image, Rich, Text, Area, Field, sObject, resource, retrieve, image, rich, text, area, field., example, custom, field, Lead, record, called]
 ---
 
 # Get an Image from a Rich Text Area Field
+
+> Use the sObject Rich Text Image Get resource to retrieve an image from a rich text area field. In
+  this example, we retrieve an image from a custom rich text field of a Lead record called LeadPhotoRichText__c. We assume that an image has already been
+  uploaded to this field.
 
 # Get an Image from a Rich Text Area Field
 
@@ -47,3 +52,38 @@ Use the Lead record ID, rich text field name, and image refid to retrieve the im
 
 -   [← Previous](atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_searches_and_queries.htm "Working with Searches and Queries")
 -   [Next →](atlas.en-us.api_rest.meta/api_rest/dome_sobject_insert_update_blob.htm "Insert or Update Blob Data")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Lead/00Q112222233333 -H "Authorization: Bearer token"
+```
+
+```
+{
+    "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v51.0/sobjects/Lead/00Q112222233333"
+    },
+    "Id": "00Q112222233333",
+    "IsDeleted": false,
+    "MasterRecordId": null,
+    "LastName": "Smith",
+    "FirstName": "John",
+
+    ...
+
+    "LeadPhotoRichText__c": "<img alt="johnSmithPhoto" src="https://MyDomainName.documentforce.com/servlet/rtaImage?eid=a005e000007Dksm&amp;feoid=00N5e00000djU6Y&amp;refid=0EM5e000000B9LQ"></img>"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Lead/00Q112222233333/richTextImageFields/LeadPhotoRichText__c/0EMR00000000A8V -H "Authorization: Bearer token" --output "LeadPhoto.jpeg"
+```
+
+## Related Topics
+
+- sObject Rich Text Image Get (atlas.en-us.api_rest.meta/api_rest/resources_sobject_rich_text_image_retrieve.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_searches_and_queries.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/dome_sobject_insert_update_blob.htm)

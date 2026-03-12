@@ -5,11 +5,15 @@ topic: ocrdocumentscanresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.480Z
-keywords: [OcrDocumentScanResult, Supported, Calls, Sharing, Rule, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:51.266Z
+estimatedTokens: 1036
+keywords: [OcrDocumentScanResult, Represents, details, information, extracted, document., API, version, 50.0, later., Supported, Calls, Sharing, Rule, Fields, Associated, Objects, 55.0]
 ---
 
 # OcrDocumentScanResult
+
+> Represents the details of the information extracted from the
+         document. This object is available in API version 55.0 and later.
 
 # OcrDocumentScanResult
 
@@ -55,3 +59,8 @@ Feed tracking is available for the object.
 [OcrDocumentScanResultHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "HTML (New Window)")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- OcrDocumentScanResultFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- OcrDocumentScanResultHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

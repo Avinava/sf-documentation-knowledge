@@ -5,11 +5,14 @@ topic: mktdatatranobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.571Z
-keywords: [MktDataTranObject, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, MktDataTranField]
+lastCollected: 2026-03-12T05:14:41.181Z
+estimatedTokens: 832
+keywords: [MktDataTranObject, entity, used, deliver, aka, transport, information, source, target, called, landing, .This, schema, file, API, Event, means, transporting, data, such]
 ---
 
 # MktDataTranObject
+
+> An entity that is used to deliver (aka transport) information from the source to a target (target will be called a landing entity).This can be the schema of a file, API, Event, or other means of transporting data, such as SubscriberFile1.csv, or SubscriberCDCEvent.
 
 # MktDataTranObject
 

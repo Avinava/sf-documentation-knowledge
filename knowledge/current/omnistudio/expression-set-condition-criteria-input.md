@@ -5,11 +5,15 @@ topic: expression-set-condition-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.261Z
-keywords: [Expression, Set, Condition, Criteria, Input]
+lastCollected: 2026-03-12T05:14:48.372Z
+estimatedTokens: 247
+keywords: [Expression, Set, Condition, Criteria, Input, representation, condition, criteria, expression, set.]
 ---
 
 # Expression Set Condition Criteria Input
+
+> Input representation of a condition criteria in an expression
+      set.
 
 # Expression Set Condition Criteria Input
 
@@ -34,3 +38,15 @@ Properties
 | sourceField​Name | String | The expression set version variable associated with the condition criteria. | Required | 58.0 |
 | value | String | The right-hand side of the condition is specified in this field. | Required | 58.0 |
 | valueType | String | Criteria value type of the expression set.Valid values are:FormulaLiteralParameter | Required | 58.0 |
+
+## Code Examples
+
+```
+"criteria" : [ {
+                "operator" : "Equals",
+                "sequenceNumber" : 1,
+                "sourceFieldName" : "a",
+                "value" : "0",
+                "valueType" : "Literal"
+              } ]
+```

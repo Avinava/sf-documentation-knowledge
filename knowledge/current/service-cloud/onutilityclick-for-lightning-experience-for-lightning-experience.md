@@ -5,11 +5,16 @@ topic: onutilityclick-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.281Z
-keywords: [onUtilityClick, Lightning, Experience, Arguments, LWC, Sample, Code, Response, Aura, Components]
+lastCollected: 2026-03-12T05:14:57.849Z
+estimatedTokens: 538
+keywords: [onUtilityClick, Lightning, Experience, Registers, eventHandler, utility., called, utility, clicked., Arguments, LWC, Sample, Code, Response, Aura, Components]
 ---
 
 # onUtilityClick() for Lightning Experience for Lightning Experience
+
+> Registers an eventHandler for the utility. This
+   eventHandler is called when the utility is
+  clicked.
 
 # onUtilityClick() for Lightning Experience for Lightning Experience
 
@@ -70,3 +75,49 @@ This method returns a promise that, upon success, resolves to true, and is rejec
 | --- | --- | --- |
 | utilityId | string | The ID of the utilityBar item button that was clicked. |
 | panelVisible | boolean | False if the utility item panel is hidden after the button is clicked. True if the utility item panel is visible after the button is clicked. |
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { onUtilityClick, EnclosingUtilityId } from 'lightning/platformUtilityBarApi';
+
+export default class UtilityClickExample extends LightningElement {
+    @wire(EnclosingUtilityId) utilityId;
+
+    handleUtilityClick() {
+        if (!this.utilityId) {
+            return;
+        }
+        onUtilityClick(this.utilityId, () => {
+            console.log(`Utility ${this.utilityId} clicked!`);
+        });
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Register Event Handler" onclick="{!c.handleOnUtilityClick}"/>
+</aura:component>
+```
+
+```
+({
+  handleOnUtilityClick: function(component, event, helper){
+        var utilityBarAPI = component.find("utilitybar");
+	  var eventHandler = function(response){
+            console.log(response);
+        };
+        
+        utilityBarAPI.onUtilityClick({ 
+               eventHandler: eventHandler 
+        }).then(function(result){
+            console.log(result);
+        }).catch(function(error){
+        	console.log(error);
+        });
+    }
+})
+```

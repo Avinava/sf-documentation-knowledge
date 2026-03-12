@@ -5,11 +5,15 @@ topic: chatterextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.085Z
-keywords: [ChatterExtension, Important, Retrieving, Version, Fields, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:37.663Z
+estimatedTokens: 780
+keywords: [ChatterExtension, Represents, metadata, used, describe, Rich, Publisher, App, that’s, integrated, Chatter, publisher., Important, Retrieving, Version, Fields, Wildcard, Support, Manifest, File]
 ---
 
 # ChatterExtension
+
+> Represents the metadata used to describe a Rich
+            Publisher App that’s integrated with the Chatter publisher.
 
 # ChatterExtension
 
@@ -64,3 +68,36 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 -   [Integrate Your Custom Apps into the Chatter Publisher](https://developer.salesforce.com/docs/atlas.en-us.260.0.lightning.meta/lightning/components_integrate_customapps_to_publisher.htm "Integrate Your Custom Apps into the Chatter
     Publisher - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+ <types>
+  <members>xw1</members>
+  <name>ChatterExtension</name>
+ </types>
+ <version>41.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ChatterExtension xmlns="http://soap.sforce.com/2006/04/metadata">
+  <compositionComponent>xwComp</compositionComponent>
+  <description>des</description>
+  <extensionName>xw1</extensionName>
+  <headerText>h1</headerText>
+  <hoverText>h2</hoverText>
+  <icon>tiger</icon>
+  <masterLabel>primary</masterLabel>  
+  <renderComponent>xwRend</renderComponent>
+  <type>Lightning</type>
+</ChatterExtension>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,16 @@ topic: sobject-get-deleted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.365Z
-keywords: [sObject, Get, Deleted, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:35.560Z
+estimatedTokens: 993
+keywords: [sObject, Get, Deleted, Retrieves, list, individual, records, deleted, within, given, timespan, specified, object., resource, REST, API, version, 29.0, later., Syntax]
 ---
 
 # sObject Get Deleted
+
+> Retrieves the list of individual records that have been deleted within the given
+  timespan for the specified object. This resource is available in REST API version 29.0 and
+  later.
 
 # sObject Get Deleted
 
@@ -64,3 +69,8 @@ For an example of getting a list of deleted items, see [Get a List of Deleted Re
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Valid Date and DateTime Formats (atlas.en-us.api_rest.meta/api_rest/intro_valid_date_formats.htm)
+- Get a List of Deleted Records Within a Given Timeframe (atlas.en-us.api_rest.meta/api_rest/dome_get_deleted.htm)

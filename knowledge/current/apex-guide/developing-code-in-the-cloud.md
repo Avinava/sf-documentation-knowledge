@@ -5,11 +5,18 @@ topic: developing-code-in-the-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.222Z
-keywords: [Developing, Code, Cloud, Tip, See]
+lastCollected: 2026-03-12T05:14:33.510Z
+estimatedTokens: 425
+keywords: [Developing, Code, Cloud, Apex, programming, language, saved, runs, cloud—the, multitenant, platform., tailored, data, access, manipulation, platform, enables, add, custom, business]
 ---
 
 # Developing Code in the Cloud
+
+> The Apex programming language is saved and runs in the cloud—the multitenant
+        platform. Apex is tailored for data access and data manipulation on the platform, and it
+        enables you to add custom business logic to system events. While it provides many benefits
+        for automating business processes on the platform, it is not a general purpose programming
+        language.
 
 # Developing Code in the Cloud
 
@@ -35,3 +42,8 @@ All Apex requests return a collection that contains from 1 to 50,000 records. Yo
 #### See Also
 
 -   [Trigger and Bulk Request Best Practices](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_intro_how_does_apex_work.htm)
+- Trigger and Bulk Request Best Practices (atlas.en-us.apexcode.meta/apexcode/apex_triggers_bestpract.htm)

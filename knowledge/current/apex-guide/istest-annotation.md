@@ -6,12 +6,16 @@ topic: istest-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.500Z
-keywords: [IsTest, Annotation, Note, @IsTest, SeeAllData=true, OnInstall=true, IsParallel=true, critical=true, Beta, Important, testFor='...']
+lastCollected: 2026-03-12T05:14:32.492Z
+estimatedTokens: 2469
+keywords: [IsTest, Annotation, @IsTest, IsParallel=true, annotation, indicate, test, classes, run, parallel., Note, SeeAllData=true, OnInstall=true, critical=true, Beta, Important, testFor='...']
 ---
 
 # IsTest
         Annotation
+
+> Use the @IsTest(IsParallel=true) annotation to indicate test classes that
+                    can run in parallel.
 
 # IsTest Annotation
 
@@ -138,3 +142,123 @@ This example code shows a test class marked with the @IsTest(testFor='...') anno
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm "InvocableVariable Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_JsonAccess.htm "JsonAccess Annotation")
+
+## Code Examples
+
+```apex
+@IsTest
+private class MyTestClass {
+
+   // Methods for testing
+   @IsTest
+   static void test1() {
+      // Implement test code
+   }
+
+   @IsTest
+   static void test2() {
+      // Implement test code
+   }
+
+}
+```
+
+```apex
+@IsTest 
+public class TestUtil {
+
+   public static void createTestAccounts() { 
+      // Create some test accounts
+   }
+
+   public static void createTestContacts() {
+      // Create some test contacts
+   }
+
+}
+```
+
+```apex
+// All test methods in this class can access all data.
+@IsTest(SeeAllData=true)
+public class TestDataAccessClass {
+
+    // This test accesses an existing account. 
+    // It also creates and accesses a new test account.
+    @IsTest
+    static void myTestMethod1() {
+        // Query an existing account in the organization. 
+        Account a = [SELECT Id, Name FROM Account WHERE Name='Acme' LIMIT 1];
+        System.assert(a != null);
+        
+        // Create a test account based on the queried account.
+        Account testAccount = a.clone();
+        testAccount.Name = 'Acme Test';
+        insert testAccount;
+        
+        // Query the test account that was inserted.
+        Account testAccount2 = [SELECT Id, Name FROM Account 
+                                WHERE Name='Acme Test' LIMIT 1];
+        System.assert(testAccount2 != null);
+    }
+       
+    
+    // Like the previous method, this test method can also access all data
+    // because the containing class is annotated with @IsTest(SeeAllData=true).
+    @IsTest
+    static void myTestMethod2() {
+        // Can access all data in the organization.
+   }
+  
+}
+```
+
+```apex
+// This class contains test methods with different data access levels.
+@IsTest
+private class ClassWithDifferentDataAccess {
+
+    // Test method that has access to all data.
+    @IsTest(SeeAllData=true)
+    static void testWithAllDataAccess() {
+        // Can query all data in the organization.      
+    }
+    
+    // Test method that has access to only the data it creates
+    // and organization setup and metadata objects.
+    @IsTest
+    static void testWithOwnDataAccess() {
+        // This method can still access the User object.
+        // This query returns the first user object.
+        User u = [SELECT UserName,Email FROM User LIMIT 1]; 
+        System.debug('UserName: ' + u.UserName);
+        System.debug('Email: ' + u.Email);
+        
+        // Can access the test account that is created here.
+        Account a = new Account(Name='Test Account');
+        insert a;      
+        // Access the account that was just created.
+        Account insertedAcct = [SELECT Id,Name FROM Account 
+                                WHERE Name='Test Account'];
+        System.assert(insertedAcct != null);
+    }
+}
+```
+
+```apex
+public class OnInstallClass {
+   // Implement logic for the class.
+   public void method1(){
+      // Some code
+   }
+}
+```
+
+## Related Topics
+
+- Run Unit Test Methods (atlas.en-us.apexcode.meta/apexcode/apex_testing_unit_tests_running.htm)
+- Isolation of Test Data from Organization Data in Unit Tests (atlas.en-us.apexcode.meta/apexcode/apex_testing_data_access.htm)
+- sObjects That Can't Be
+                                        Used Together in DML Operations (atlas.en-us.apexcode.meta/apexcode/apex_dml_non_mix_sobjects.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_JsonAccess.htm)

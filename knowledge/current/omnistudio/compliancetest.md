@@ -5,11 +5,15 @@ topic: compliancetest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.914Z
-keywords: [ComplianceTest, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.861Z
+estimatedTokens: 1011
+keywords: [ComplianceTest, Represents, test, designed, validate, compliance, regulatory, requirements., API, version, 66.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # ComplianceTest
+
+> Represents a test designed to validate compliance with regulatory
+         requirements. This object is available in API version 66.0 and later.
 
 # ComplianceTest
 
@@ -52,3 +56,10 @@ Sharing rules are available for the object.
 [ComplianceTestShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ComplianceTestChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- ComplianceTestHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- ComplianceTestOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- ComplianceTestShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

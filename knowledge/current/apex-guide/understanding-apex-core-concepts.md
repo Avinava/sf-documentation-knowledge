@@ -4,12 +4,16 @@ domain: apex-guide
 topic: understanding-apex-core-concepts
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.483Z
-keywords: [Understanding, Apex, Core, Concepts, Version, Settings, Naming, Variables, Methods, Classes, Expressions, Tip, Statements, Collections, Branching, Loops]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.844Z
+estimatedTokens: 2111
+keywords: [Understanding, Apex, Core, Concepts, code, typically, contains, many, things, you're, familiar, programming, languages., Version, Settings, Naming, Variables, Classes, Expressions, Tip]
 ---
 
 # Understanding Apex Core Concepts
+
+> Apex code typically contains many things that you're familiar with from other
+        programming languages.
 
 # Understanding Apex Core Concepts
 
@@ -190,3 +194,56 @@ For more information, see [Loops](atlas.en-us.apexcode.meta/apexcode/langCon_ape
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm "What is Apex?")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_intro_when_use_apex.htm "When Should I Use Apex?")
+
+## Code Examples
+
+```
+datatype​ variable_name [ = value];
+```
+
+```
+// The following variable has the data type of Integer with the name Count, 
+// and has the value of 0.
+Integer Count = 0;
+// The following variable has the data type of Decimal with the name Total. Note 
+// that no value has been assigned to it.
+Decimal Total;
+// The following variable is an account, which is also referred to as an sObject.
+Account MyAcct = new Account();
+```
+
+```apex
+if (true) {
+    System.debug(1);
+    System.debug(2);
+} else {
+    System.debug(3);
+    System.debug(4);
+}
+```
+
+```apex
+if (true) 
+    System.debug(1);
+else 
+    System.debug(2);
+```
+
+```apex
+List <datatype> list_name
+   [= new List<datatype>();] |
+   [=new List<datatype>{value [, value2. . .]};] |
+   ;
+```
+
+## Related Topics
+
+- reserved
+                    keywords (atlas.en-us.apexcode.meta/apexcode/apex_reserved_words.htm)
+- Lists (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists.htm)
+- Sets (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_sets.htm)
+- Maps (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_maps.htm)
+- Conditional (If-Else) Statements (atlas.en-us.apexcode.meta/apexcode/langCon_apex_if_else.htm)
+- Loops (atlas.en-us.apexcode.meta/apexcode/langCon_apex_loops.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_intro_when_use_apex.htm)

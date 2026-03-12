@@ -5,11 +5,14 @@ topic: application-form-account-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.016Z
-keywords: [Application, Form, Account, Input]
+lastCollected: 2026-03-12T05:14:48.027Z
+estimatedTokens: 864
+keywords: [Application, Form, Account, Input, representation, account, related, application, form.]
 ---
 
 # Application Form Account Input
+
+> Input representation of the account related to the application form.
 
 # Application Form Account Input
 
@@ -58,3 +61,10 @@ Properties
 | tickerSymbol | String | Stock market symbol for the account. | Optional | 61.0 |
 | type | String | Type of account. | Optional | 61.0 |
 | website | String | Website of the account. | Optional | 61.0 |
+
+## Related Topics
+
+- Address
+                        Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_application_form_address_input.htm)
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)
+- Address Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_address_input.htm)

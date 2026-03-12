@@ -5,11 +5,18 @@ topic: compliancemgmt-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:42.157Z
-keywords: [ComplianceMgmt, Namespace]
+lastCollected: 2026-03-12T05:14:31.661Z
+estimatedTokens: 361
+namespace: ComplianceMgmt
+keywords: [ComplianceMgmt, provides, classes, implement, rule, processors, compliance, control.]
 ---
 
 # ComplianceMgmt Namespace
+
+> The ComplianceMgmt namespace provides classes and
+        methods to implement rule processors for compliance control.
+
+**Namespace:** `ComplianceMgmt`
 
 # ComplianceMgmt Namespace
 

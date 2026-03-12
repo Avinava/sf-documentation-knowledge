@@ -5,11 +5,17 @@ topic: b2c-commerce-master-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.691Z
-keywords: [B2C, Commerce, Master, Product, Mapping, DLO, DMO, Note]
+lastCollected: 2026-03-12T05:14:12.908Z
+estimatedTokens: 396
+keywords: [B2C, Commerce, Master, Product, Mapping, After, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
 ---
 
 # B2C Commerce: Master Product Mapping
+
+> After a data stream is deployed, the Salesforce B2C Commerce Order
+         starter data bundle automatically maps source objects from B2C Commerce to data model
+         objects (DMO)s in Data Cloud. The Master Product object is a container for some types of
+         products. Master products don’t have inventory records.
 
 # B2C Commerce: Master Product Mapping
 

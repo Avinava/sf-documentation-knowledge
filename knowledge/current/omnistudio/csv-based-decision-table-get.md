@@ -5,11 +5,15 @@ topic: csv-based-decision-table-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.739Z
-keywords: [CSV, Based, Decision, Table, GET]
+lastCollected: 2026-03-12T05:14:49.107Z
+estimatedTokens: 446
+keywords: [CSV, Based, Decision, Table, GET, Fetch, paginated, data, based, decision, table., resource, responsible, managing, rows, Table.]
 ---
 
 # CSV Based Decision Table (GET)
+
+> Fetch paginated data from a CSV based decision table. This resource is responsible for
+    managing rows in a Decision Table.
 
 # CSV Based Decision Table (GET)
 
@@ -76,3 +80,38 @@ Request parameters for POST
 Response body for POST
 
 [Decision Table Data](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_data_output.htm "Output representation of the status of an action performed.")
+
+## Code Examples
+
+```
+/connect/business-rules/decision-table/${decisionTableId}/data
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/decision-table/0lDxx0000000001EAA/data?filter=AssetLevel:101
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/decision-table/0lDxx0000000001EAA/data
+```
+
+```
+{
+  "rows": [
+    {
+      "id": "1FIxx0000004CSOGA2",
+      "rowData": {
+        "City": "City3",
+        "AssetLevel": "300"
+      },
+      "action": "update"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Decision Table Rows List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_rows_list_output.htm)
+- Decision Table Row Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_row_list_input.htm)
+- Decision Table Data (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_data_output.htm)

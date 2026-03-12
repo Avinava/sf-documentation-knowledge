@@ -5,11 +5,14 @@ topic: operator-precedence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.116Z
-keywords: [Operator, Precedence]
+lastCollected: 2026-03-12T05:14:34.759Z
+estimatedTokens: 213
+keywords: [Operator, Precedence, Operators, interpreted, order, according, rules.]
 ---
 
 # Operator Precedence
+
+> Operators are interpreted in order, according to rules.
 
 # Operator Precedence
 

@@ -7,13 +7,17 @@ topic: record-update-with-content-documents-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:09.006Z
-keywords: [Record, Update, Content, Documents, PATCH]
+lastCollected: 2026-03-12T05:14:49.504Z
+estimatedTokens: 558
+keywords: [Record, Update, Content, Documents, PATCH, existing, record, Salesforce, document, based, content, record.]
 ---
 
 # Record Update with Content
     Documents
     (PATCH)
+
+> Update an existing record in a Salesforce object using a document
+      based on a content document record.
 
 # Record Update with Content Documents (PATCH)
 
@@ -73,3 +77,39 @@ Properties
 Response body for PATCH
 
 [Document Process Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_document_process_output.htm "Output representation of the document process creation or update request.")
+
+## Code Examples
+
+```
+/connect/form-reader/contentDocuments/${contentDocumentId}/record/${targetRecordId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect​/form-reader/contentDocuments/${contentDocumentId}/record/${targetRecordId}
+```
+
+```
+{
+  "documentTypeId": "0dexx0000000001",
+  "overrideConfidenceScoreThreshold": 100,
+  "ignoreFieldValueConflict": false,
+  "attachDocument": true,
+  "fieldsWithoutConflictList": {
+    "noConflictFields": [
+      {
+        "field": "name"
+      },
+      {
+        "field": "accountnumber"
+      }
+    ]
+  }
+  "templateApiName": "sample_template"
+}
+```
+
+## Related Topics
+
+- Fields Without Conflict Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_fields_without_conflict.htm)
+- Document Process
+              Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_document_process_output.htm)

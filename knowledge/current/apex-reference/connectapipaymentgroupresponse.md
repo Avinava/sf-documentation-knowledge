@@ -5,11 +5,14 @@ topic: connectapipaymentgroupresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.555Z
-keywords: [ConnectApi.PaymentGroupResponse]
+lastCollected: 2026-03-12T05:14:28.343Z
+estimatedTokens: 104
+keywords: [ConnectApi.PaymentGroupResponse, Payment, group.]
 ---
 
 # ConnectApi.PaymentGroupResponse
+
+> Payment group.
 
 # ConnectApi.PaymentGroupResponse
 
@@ -20,3 +23,7 @@ Payment group.
 | currencyIsoCode | String | Three-letter ISO 4217 currency code associated with the payment group record. | 50.0 |
 | id | String | ID of the payment group record. | 50.0 |
 | sourceObjectId | String | Source object ID of the payment group record. Supports only OrderId. | 50.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -5,11 +5,15 @@ topic: describe-global
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.348Z
-keywords: [Describe, Global, Note, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:35.530Z
+estimatedTokens: 645
+keywords: [Describe, Lists, objects, associated, metadata., resource, both, custom, standard, objects., Note, Syntax, Example]
 ---
 
 # Describe Global
+
+> Lists the available objects and the associated metadata. This resource returns both
+		custom and standard objects.
 
 # Describe Global
 
@@ -57,3 +61,8 @@ See [Get a List of Objects](atlas.en-us.api_rest.meta/api_rest/dome_describeGlob
 #### See Also
 
 -   [Conditional Request Headers](atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm "Use a conditional request header to validate resources before accessing them. By setting a precondition in the header, you ensure that your request succeeds only if that precondition is met. This functionality helps you prevent mistakes and reject outdated requests when updating Salesforce data. You can implement a variety of techniques with conditional request headers, such as response caching.")
+
+## Related Topics
+
+- Get a List of Objects (atlas.en-us.api_rest.meta/api_rest/dome_describeGlobal.htm)
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)

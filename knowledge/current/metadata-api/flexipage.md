@@ -5,11 +5,16 @@ topic: flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.723Z
-keywords: [FlexiPage, Important, Note, File, Suffix, Directory, Location, Version, Fields, FlexiPageEvent, FlexiPageEventSourceProperty, FlexiPageEventTarget, FlexiPageEventPropertyMapping, FlexiPageEventTargetProperty, FlexiPageRegion, ItemInstance, ComponentInstance, ComponentInstanceProperty, ComponentInstancePropertyList, ComponentInstancePropertyListItem]
+lastCollected: 2026-03-12T05:14:39.948Z
+estimatedTokens: 7801
+keywords: [FlexiPage, Represents, metadata, associated, Lightning, page., page, represents, customizable, screen, made, regions, containing, components., Important, Note, File, Suffix, Directory, Location]
 ---
 
 # FlexiPage
+
+> Represents the metadata associated with a Lightning page. A
+         Lightning page represents a customizable screen made up of regions containing Lightning
+         components.
 
 # FlexiPage
 
@@ -354,3 +359,285 @@ And, here’s the sample package.xml file that references the FlexiPage componen
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<componentInstances>
+  <componentInstanceProperties>
+    <name>title</name>
+    <value>Standard.Tab.activity</value>
+  </componentInstanceProperties>
+    <componentName>flexipage:tab</componentName>
+</componentInstances>
+```
+
+```
+saveOptions = [{"name":"UseDefaultAssignmentRule","value":"APPLY_OPTION_WITHOUT_CHECKBOX_DISPLAY"}, {"name":"triggerOtherEmail","value":"SHOW_CHECKBOX_WITH_DEFAULT_ON"}]
+```
+
+```
+<componentInstances>
+  <componentInstanceProperties> 
+    <name>actionApiName</name>
+    <valueList>
+      <valueListItems>
+        <value>Clone</value>
+      </valueListItems>
+      <valueListItems>
+        <value>Edit</value>
+      </valueListItems>
+    </valueList>
+  </componentInstanceProperties>
+</componentInstances>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>collapsed</name>
+                    <value>false</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>hideChatterActions</name>
+                    <value>false</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>numVisibleActions</name>
+                    <value>3</value>
+                </componentInstanceProperties>
+                <componentName>force:highlightsPanel</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>header</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>hideUpdateButton</name>
+                    <value>false</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>variant</name>
+                    <value>linear</value>
+                </componentInstanceProperties>
+                <componentName>runtime_sales_pathassistant:pathAssistant</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>subheader</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>entityNames</name>
+                    <valueList>
+                        <valueListItems>
+                            <value>Opportunity</value>
+                        </valueListItems>
+                    </valueList>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>maxRecords</name>
+                    <value>3</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:recentItems</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>Facet-afbed70e-277a-41f5-9919-34651ff97773</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>relatedListComponentOverride</name>
+                    <value>NONE</value>
+                </componentInstanceProperties>
+                <componentName>force:relatedListContainer</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>facet-77f21b6f-ad73-4d79-838a-79e0df27cc63</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>force:detailPanel</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>facet-c22fcfa7-d6f2-46ab-ac03-6c92e7398da1</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>runtime_sales_activities:activityPanel</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>Facet-u9v2x6h8u4k</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>Facet-afbed70e-277a-41f5-9919-34651ff97773</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>title</name>
+                    <value>Recent Items</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tab</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>active</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>facet-77f21b6f-ad73-4d79-838a-79e0df27cc63</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>title</name>
+                    <value>Standard.Tab.relatedLists</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tab</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>facet-c22fcfa7-d6f2-46ab-ac03-6c92e7398da1</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>title</name>
+                    <value>Standard.Tab.detail</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tab</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>Facet-u9v2x6h8u4k</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>title</name>
+                    <value>Standard.Tab.activity</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tab</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>facet-27334405-c871-463f-bc20-b3713bbb4884</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>tabs</name>
+                    <value>facet-27334405-c871-463f-bc20-b3713bbb4884</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tabset</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>main</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 18px; color: rgb(11, 11, 11);&quot;&gt;A million dollar opportunity closed! Oh yeah!&lt;/span&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <visibilityRule>
+                    <booleanFilter>1 AND 2</booleanFilter>
+                    <criteria>
+                        <leftValue>{!Record.Amount}</leftValue>
+                        <operator>GE</operator>
+                        <rightValue>1000000</rightValue>
+                    </criteria>
+                    <criteria>
+                        <leftValue>{!Record.StageName}</leftValue>
+                        <operator>EQUAL</operator>
+                        <rightValue>Closed Won</rightValue>
+                    </criteria>
+                </visibilityRule>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>decorate</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>richTextValue</name>
+                    <value>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 16px; color: rgb(244, 0, 0);&quot;&gt;This component is for mobile users only.&lt;/span&gt;&lt;/p&gt;</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:richText</componentName>
+                <visibilityRule>
+                    <criteria>
+                        <leftValue>{!$Client.formFactor}</leftValue>
+                        <operator>EQUAL</operator>
+                        <rightValue>Small</rightValue>
+                    </criteria>
+                </visibilityRule>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>forceChatter:recordFeedContainer</componentName>
+            </componentInstance>
+        </itemInstances>
+        <name>sidebar</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>New Opportunity Page</masterLabel>
+    <sobjectType>Opportunity</sobjectType>
+    <template>
+        <name>flexipage:recordHomeWithSubheaderTemplateDesktop</name>
+    </template>
+    <type>RecordPage</type>
+</FlexiPage>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New Opportunity Page</fullName>
+    <types>
+        <members>New_Opportunity_Page</members>
+        <name>FlexiPage</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- QuickActionList (atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip
+            File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

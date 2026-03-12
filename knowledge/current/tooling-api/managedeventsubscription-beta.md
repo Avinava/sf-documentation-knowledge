@@ -5,11 +5,17 @@ topic: managedeventsubscription-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.208Z
-keywords: [ManagedEventSubscription, Beta, Note, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.985Z
+estimatedTokens: 1338
+keywords: [ManagedEventSubscription, Beta, Represents, managed, event, subscription, Pub, Sub, API., track, events, subscriber, client, consumed, resume, where, left, off., API, version]
 ---
 
 # ManagedEventSubscription (Beta)
+
+> Represents a managed event subscription in Pub/Sub API. Use a managed event
+         subscription to track the events that a subscriber client consumed and resume a
+         subscription where it left off. This object is available in API version 60.0 and
+      later.
 
 # ManagedEventSubscription (Beta)
 
@@ -59,4 +65,20 @@ This JSON example is the body of a REST API POST request that creates a managed 
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "FullName": "My_Managed_Subscription",
+  "Metadata": 
+  {
+      "label" : "My Managed Subscription",
+      "topicName" : "/event/Order_Event__e",
+      "defaultReplay": "LATEST",
+      "state" : "RUN",
+      "errorRecoveryReplay" : "LATEST"
+  }
+}
 ```

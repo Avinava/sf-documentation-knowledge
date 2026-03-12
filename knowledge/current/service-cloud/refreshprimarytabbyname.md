@@ -5,11 +5,17 @@ topic: refreshprimarytabbyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.618Z
-keywords: [refreshPrimaryTabByName, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:58.319Z
+estimatedTokens: 350
+keywords: [refreshPrimaryTabByName, Refreshes, primary, tab, specified, name, including, its, subtabs., can't, refresh, subtabs, URLs, external, pages, Visualforce, pages., only, API, version]
 ---
 
 # refreshPrimaryTabByName()
+
+> Refreshes a primary tab specified by name,
+            including its subtabs. This method can't refresh subtabs with URLs to external pages or
+            Visualforce pages. This
+                method is only available in API version 22.0 or later.
 
 # refreshPrimaryTabByName()
 
@@ -49,3 +55,38 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if the primary tab refreshed successfully; false if the primary tab didn't refresh. |
+
+## Code Examples
+
+```
+sforce.console.refreshPrimaryTabByName(name:String, active:Boolean, (optional)callback:Function), (optional)fullRefresh:Boolean)
+```
+
+```
+<apex:page standardController="Case">
+
+     <A HREF="#" onClick="testRefreshPrimaryTabByName();return false">
+         Click here to refresh a primary tab by name</A>
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testRefreshPrimaryTabByName() {
+            //Set the name of the tab by using the openPrimaryTab method
+            //This value is for example purposes only
+            var primaryTabName = 'myPrimaryTab';
+            sforce.console.refreshPrimaryTabByName(primaryTabName, true, refreshSuccess);
+        }
+        
+        var refreshSuccess = function refreshSuccess(result) {
+            //Report whether refreshing the primary tab was successful
+            if (result.success == true) {
+                alert('Primary tab refreshed successfully');
+            } else {
+                alert('Primary tab did not refresh');
+            }
+        };
+        
+  </script>
+
+</apex:page>
+```

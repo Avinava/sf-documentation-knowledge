@@ -5,11 +5,14 @@ topic: interest-tag-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.357Z
-keywords: [Interest, Tag, Create, Input]
+lastCollected: 2026-03-12T05:14:48.526Z
+estimatedTokens: 137
+keywords: [Interest, Tag, Create, Input, representation, creating, Tags.]
 ---
 
 # Interest Tag Create Input
+
+> Input representation for creating Interest Tags.
 
 # Interest Tag Create Input
 
@@ -29,3 +32,18 @@ Properties
 | recordId | String | ID of the record to assign an Interest Tag. | Optional | 54.0 |
 | tagDescription | String | The description of an Interest Tag. | Optional | 54.0 |
 | tagName | String | The unique name of an Interest Tag. | Required | 54.0 |
+
+## Code Examples
+
+```
+{
+   "interestTagList":[
+      {
+         "tagDescription":"Golf",
+         "tagName":"Golf",
+         "categoryId":"0qRxx0000000001EAA",
+         "recordId" : "001xx000003DGQyAAO"
+      }
+   ]
+}
+```

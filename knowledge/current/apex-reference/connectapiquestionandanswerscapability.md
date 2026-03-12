@@ -5,11 +5,15 @@ topic: connectapiquestionandanswerscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.830Z
-keywords: [ConnectApi.QuestionAndAnswersCapability, See]
+lastCollected: 2026-03-12T05:14:28.737Z
+estimatedTokens: 339
+keywords: [ConnectApi.QuestionAndAnswersCapability, feed, element, capability, question, comments, answers, question.]
 ---
 
 # ConnectApi.QuestionAndAnswersCapability
+
+> If a feed element has this capability, it has a question and comments
+      on the feed element are answers to the question.
 
 # ConnectApi.QuestionAndAnswersCapability
 
@@ -29,3 +33,14 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- ConnectApi.​Comment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm)
+- ConnectApi.​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.CandidateAnswersStatus (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_candidate_answers_status.htm)
+- ConnectApi.​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

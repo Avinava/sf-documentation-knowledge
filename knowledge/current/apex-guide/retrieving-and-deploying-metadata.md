@@ -5,11 +5,14 @@ topic: retrieving-and-deploying-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.357Z
-keywords: [Retrieving, Deploying, Metadata]
+lastCollected: 2026-03-12T05:14:33.713Z
+estimatedTokens: 542
+keywords: [Retrieving, Deploying, Metadata, Retrieve, deploy, metadata, Metadata.Operations, class.]
 ---
 
 # Retrieving and Deploying Metadata
+
+> Retrieve and deploy metadata by using the Metadata.Operations class.
 
 # Retrieving and Deploying Metadata
 
@@ -24,3 +27,7 @@ Use the full name of the metadata component when retrieving and deploying metada
 You can retrieve and deploy metadata in post install scripts. In uninstall scripts, you can only retrieve, not deploy, metadata from Apex code.
 
 See [Metadata.Operations](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Metadata_Operations.htm) for code examples for retrieving and deploying metadata.
+
+## Related Topics
+
+- Security Considerations (atlas.en-us.apexcode.meta/apexcode/apex_metadata_security.htm)

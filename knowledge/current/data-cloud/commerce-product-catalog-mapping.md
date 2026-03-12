@@ -5,11 +5,16 @@ topic: commerce-product-catalog-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.927Z
-keywords: [Commerce, Product, Catalog, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.262Z
+estimatedTokens: 186
+keywords: [Commerce, Product, Catalog, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., catalog, used]
 ---
 
 # Commerce: Product Catalog Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Product Catalog data is a catalog used for a
+         business process. For example, inventory or merchandising.
 
 # Commerce: Product Catalog Mapping
 

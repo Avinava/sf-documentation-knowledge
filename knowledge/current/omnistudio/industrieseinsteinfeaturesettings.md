@@ -5,11 +5,15 @@ topic: industrieseinsteinfeaturesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:10.301Z
-keywords: [IndustriesEinsteinFeatureSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:51.408Z
+estimatedTokens: 513
+keywords: [IndustriesEinsteinFeatureSettings, Represents, settings, enabling, Industries, Einstein, feature., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # IndustriesEinsteinFeatureSettings
+
+> Represents the settings for enabling the
+      Industries Einstein feature.
 
 # IndustriesEinsteinFeatureSettings
 
@@ -54,3 +58,23 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 #### See Also
 
 -   [*Extend Your Industries Cloud with Common Features*: Configure Global Content Extraction Settings](https://help.salesforce.com/s/articleView?id=ind.intelligent_document_reader_configure_settings.htm&type=5&language=en_US "Extend Your Industries Cloud with Common Features: Configure Global Content Extraction Settings - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IndustriesEinsteinFeatureSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+   <documentReaderConfidenceOrgValue>61</documentReaderConfidenceOrgValue>
+</IndustriesEinsteinFeatureSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>IndustriesEinsteinFeature</members>
+    <name>Settings</name>
+  </types>
+  <version>66.0</version>
+</Package>
+```

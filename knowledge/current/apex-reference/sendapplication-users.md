@@ -5,11 +5,15 @@ topic: sendapplication-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.962Z
-keywords: [send, application, users, Signature, Parameters, Example]
+lastCollected: 2026-03-12T05:14:19.120Z
+estimatedTokens: 217
+keywords: [send, application, users, Sends, push, notification, message, specified, users., Example]
 ---
 
 # send(application, users)
+
+> Sends a push notification message to the specified
+  users.
 
 # send(application, users)
 
@@ -36,3 +40,9 @@ A set of user IDs that correspond to the users the notification should be sent t
 ## Example
 
 See the [Push Notification Example](atlas.en-us.apexref.meta/apexref/apex_classes_push_notification.htm#push_notification_example_code).
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Set (atlas.en-us.apexref.meta/apexref/apex_methods_system_set.htm)
+- Push Notification Example (atlas.en-us.apexref.meta/apexref/apex_classes_push_notification.htm)

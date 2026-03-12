@@ -5,11 +5,18 @@ topic: exposing-data-with-apex-rest-web-service-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.530Z
-keywords: [Exposing, Data, Apex, REST, Web, Service, Methods, See]
+lastCollected: 2026-03-12T05:14:33.917Z
+estimatedTokens: 791
+keywords: [Exposing, Data, Apex, REST, Web, Service, Invoking, custom, service, always, uses, system, context., Consequently, current, user's, credentials, used, any, user]
 ---
 
 # Exposing Data with Apex REST Web Service Methods
+
+> Invoking a custom Apex REST Web service method always uses system context.
+		Consequently, the current user's credentials are not used, and any user who has access to
+		these methods can use their full power, regardless of permissions, field-level security, or
+		sharing rules. Developers who expose methods using the Apex REST annotations should
+		therefore take care that they are not inadvertently exposing any sensitive data.
 
 # Exposing Data with Apex REST Web Service Methods
 
@@ -22,3 +29,10 @@ Also, sharing rules (record-level access) are enforced only when declaring a cla
 #### See Also
 
 -   [Apex Security and Sharing](atlas.en-us.apexcode.meta/apexcode/apex_security_sharing_chapter.htm "When you use Apex, the security of your code is critical. You'll need to add user permissions for Apex classes and enforce sharing rules. Read on to learn about Apex managed sharing and get some security tips.")
+
+## Related Topics
+
+- WITH USER_MODE (atlas.en-us.apexcode.meta/apexcode/apex_classes_enforce_usermode.htm)
+- Security.stripInaccessible (atlas.en-us.apexcode.meta/apexcode/apex_classes_with_security_stripInaccessible.htm)
+- Using the with sharing or without sharing Keywords (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)
+- Apex Security and Sharing (atlas.en-us.apexcode.meta/apexcode/apex_security_sharing_chapter.htm)

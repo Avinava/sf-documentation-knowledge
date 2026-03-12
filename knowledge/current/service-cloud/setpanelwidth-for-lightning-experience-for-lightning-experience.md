@@ -6,12 +6,16 @@ topic: setpanelwidth-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.368Z
-keywords: [setPanelWidth, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.948Z
+estimatedTokens: 255
+keywords: [setPanelWidth, Lightning, Experience, utility, panel’s, width., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # setPanelWidth() for Lightning Experience for Lightning
    Experience
+
+> Sets a utility panel’s width. This method isn’t supported for Lightning Web Components
+  (LWC).
 
 # setPanelWidth() for Lightning Experience for Lightning Experience
 
@@ -45,3 +49,27 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Panel Width" onclick="{! c.handleSetPanelWidth }" />
+</aura:component>
+```
+
+```
+({
+    handleSetPanelWidth : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setPanelWidth({
+            widthPX: 800
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updatePanel() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updatePanel.htm)

@@ -5,11 +5,14 @@ topic: omnicomponenterrorlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.030Z
-keywords: [OmniComponentErrorLog]
+lastCollected: 2026-03-12T05:14:54.063Z
+estimatedTokens: 68
+keywords: [OmniComponentErrorLog, internal, only.]
 ---
 
 # OmniComponentErrorLog
+
+> For internal use only.
 
 # OmniComponentErrorLog
 

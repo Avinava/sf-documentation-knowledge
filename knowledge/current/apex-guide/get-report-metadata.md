@@ -5,11 +5,15 @@ topic: get-report-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.254Z
-keywords: [Get, Report, Metadata, Example]
+lastCollected: 2026-03-12T05:14:32.186Z
+estimatedTokens: 198
+keywords: [Get, Report, Metadata, retrieve, report, metadata, get, information, its, type., Example]
 ---
 
 # Get Report Metadata
+
+> You can retrieve report metadata to get information about
+a report and its report type.
 
 # Get Report Metadata
 
@@ -29,4 +33,39 @@ The following example retrieves metadata for a report.
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+// Get the report ID
+List <Report> reportList = [SELECT Id,DeveloperName FROM Report where 
+    DeveloperName = 'Closed_Sales_This_Quarter'];
+String reportId = (String)reportList.get(0).get('Id');
+
+// Run a report
+Reports.ReportResults results = Reports.ReportManager.runReport(reportId);
+
+// Get the report metadata
+Reports.ReportMetadata rm = results.getReportMetadata();
+System.debug('Name: ' + rm.getName());
+System.debug('ID: ' + rm.getId());
+System.debug('Currency code: ' + rm.getCurrencyCode());
+System.debug('Developer name: ' + rm.getDeveloperName());
+
+// Get grouping info for first grouping
+Reports.GroupingInfo gInfo = rm.getGroupingsDown()[0];
+System.debug('Grouping name: ' + gInfo.getName());
+System.debug('Grouping sort order: ' + gInfo.getSortOrder());
+System.debug('Grouping date granularity: ' + gInfo.getDateGranularity());
+
+// Get aggregates
+System.debug('First aggregate: ' + rm.getAggregates()[0]);
+System.debug('Second aggregate: ' + rm.getAggregates()[1]);
+
+// Get detail columns
+System.debug('Detail columns: ' + rm.getDetailColumns());
+
+// Get report format
+System.debug('Report format: ' + rm.getReportFormat());
 ```

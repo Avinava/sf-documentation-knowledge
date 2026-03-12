@@ -5,11 +5,15 @@ topic: callcenter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.960Z
-keywords: [CallCenter, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, CallCenterSection, CallCenterItem, ContactCenterChannel, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:37.489Z
+estimatedTokens: 1279
+keywords: [CallCenter, Represents, Call, Center, definition, used, integrate, Salesforce, third-party, computer-telephony, integration, CTI, system, partner, telephony, Contact, Service, CCaaS, system., Parent]
 ---
 
 # CallCenter
+
+> Represents the Call Center definition used to integrate Salesforce with
+            a third-party computer-telephony integration (CTI) system, a partner telephony system, or partner Contact Center as a Service (CCaaS) system.
 
 # CallCenter
 
@@ -81,3 +85,63 @@ The following is an example of a CallCenter component:
 ```
 
 For information about the CallCenter definition file, see [Call Center Definition Files](https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_call_def_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCenter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <adapterUrl>http://localhost:11000</adapterUrl>
+    <displayName>Demo Call Center Adapter</displayName>
+    <displayNameLabel>Display Name</displayNameLabel>
+    <internalNameLabel>Internal Name</internalNameLabel>
+    <sections>
+        <items>
+            <label>Description</label>
+            <name>reqDescription</name>
+            <value>Demo Call Center Adapter</value>
+        </items>
+        <items>
+            <label>CTI Connector ProgId</label>
+            <name>reqProgId</name>
+            <value>DemoAdapter.DemoAdapter.1</value>
+        </items>
+        <items>
+            <label>Version</label>
+            <name>reqVersion</name>
+            <value>3.0</value>
+        </items>
+        <items>
+            <label>CTI Adapter URL</label>
+            <name>reqAdapterUrl</name>
+            <value>http://localhost:11000</value>
+        </items>
+        <label>General Information</label>
+        <name>reqGeneralInfo</name>
+    </sections>
+    <sections>
+        <items>
+            <label>Outside Prefix</label>
+            <name>reqOutsidePrefix</name>
+            <value>1</value>
+        </items>
+        <items>
+            <label>Long Distance Prefix</label>
+            <name>reqLongDistPrefix</name>
+            <value>1</value>
+        </items>
+        <items>
+            <label>International Prefix</label>
+            <name>reqInternationalPrefix</name>
+            <value>01</value>
+        </items>
+        <label>Dialing Options</label>
+        <name>reqDialingOptions</name>
+    </sections>
+    <version>4</version>
+</CallCenter>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

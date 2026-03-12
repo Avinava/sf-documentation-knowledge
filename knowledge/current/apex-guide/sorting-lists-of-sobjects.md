@@ -5,11 +5,15 @@ topic: sorting-lists-of-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.289Z
-keywords: [Sorting, Lists, sObjects, Default, Sort, Order, Custom, Example, See]
+lastCollected: 2026-03-12T05:14:33.610Z
+estimatedTokens: 1364
+keywords: [Sorting, Lists, sObjects, List.sort, sort, lists, sObjects., Default, Sort, Order, Custom, Example]
 ---
 
 # Sorting Lists of sObjects
+
+> Using the List.sort method, you can sort
+        lists of sObjects.
 
 # Sorting Lists of sObjects
 
@@ -22,21 +26,21 @@ For sObjects, sorting is in ascending order and uses a sequence of comparison st
 The List.sort method sorts sObjects in ascending order and compares sObjects using an ordered sequence of steps that specify the labels or fields used. The comparison starts with the first step in the sequence and ends when two sObjects are sorted using specified labels or fields. The following is the comparison sequence used:
 
 1.  The label of the sObject type.
-    
+
     For example, an Account sObject appears before a Contact.
-    
+
 2.  The Name field, if applicable.
-    
+
     For example, if the list contains two accounts named Alpha and Beta, account Alpha comes before account Beta.
-    
+
 3.  Standard fields, starting with the fields that come first in alphabetical order, except for the Id and Name fields.
-    
+
     For example, if two accounts have the same name, the first standard field used for sorting is AccountNumber.
-    
+
 4.  Custom fields, starting with the fields that come first in alphabetical order.
-    
+
     For example, suppose two accounts have the same name and identical standard fields, and there are two custom fields, FieldA and FieldB, the value of FieldA is used first for sorting.
-    
+
 
 Not all steps in this sequence are necessarily carried out. For example, a list containing two sObjects of the same type and with unique Name values is sorted based on the Name field and sorting stops at step 2. Otherwise, if the names are identical or the sObject doesn’t have a Name field, sorting proceeds to step 3 to sort by standard fields.
 
@@ -89,7 +93,187 @@ This test sorts a list of OpportunityWrapper objects and verifies that the list 
 #### See Also
 
 -   [*Apex Reference Guide*: Collator Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_Collator.htm)
-    
+
 -   [*Apex Reference Guide*: Comparable Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_comparable.htm)
-    
+
 -   [*Apex Reference Guide*: Comparator Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_System_Comparator.htm)
+
+## Code Examples
+
+```apex
+Account[] acctList = new List<Account>();        
+acctList.add( new Account(
+    Name='sForce',
+    Industry='Biotechnology',
+    Site='Austin'));
+acctList.add(new Account(
+    Name='sForce',
+    Industry='Agriculture',
+    Site='New York'));
+acctList.add(new Account(
+    Name='Acme'));
+System.debug(acctList);
+
+acctList.sort();
+Assert.areEqual('Acme', acctList[0].Name);
+Assert.areEqual('sForce', acctList[1].Name);
+Assert.areEqual('Agriculture', acctList[1].Industry);
+Assert.areEqual('sForce', acctList[2].Name);
+Assert.areEqual('Biotechnology', acctList[2].Industry);
+System.debug(acctList);
+```
+
+```apex
+Merchandise__c[] merchList = new List<Merchandise__c>();        
+merchList.add( new Merchandise__c(
+    Name='Pens',
+    Description__c='Red pens',
+    Price__c=2,
+    Total_Inventory__c=1000));
+merchList.add( new Merchandise__c(
+    Name='Notebooks',
+    Description__c='Cool notebooks',
+    Price__c=3.50,
+    Total_Inventory__c=2000));
+merchList.add( new Merchandise__c(
+    Name='Pens',
+    Description__c='Blue pens',
+    Price__c=1.75,
+    Total_Inventory__c=800));
+System.debug(merchList);
+
+merchList.sort();
+Assert.areEqual('Notebooks', merchList[0].Name);
+Assert.areEqual('Pens', merchList[1].Name);
+Assert.areEqual('Blue pens', merchList[1].Description__c);
+Assert.areEqual('Pens', merchList[2].Name);
+Assert.areEqual('Red pens', merchList[2].Description__c);
+System.debug(merchList);
+```
+
+```apex
+@isTest
+private class OpportunityComparator_Test {
+ 
+    @isTest
+    static void sortViaComparator() {
+        // Add the opportunity wrapper objects to a list.
+        List<Opportunity> oppyList = new List<Opportunity>();
+        Date closeDate = Date.today().addDays(10);
+        oppyList.add( new Opportunity(
+            Name='Edge Installation',
+            CloseDate=closeDate,
+            StageName='Prospecting',
+            Amount=50000));
+        oppyList.add( new Opportunity(
+            Name='United Oil Installations',
+            CloseDate=closeDate,
+            StageName='Needs Analysis',
+            Amount=100000));
+        oppyList.add( new Opportunity(
+            Name='Grand Hotels SLA',
+            CloseDate=closeDate,
+            StageName='Prospecting',
+            Amount=25000));
+        oppyList.add(null);
+        
+        // Sort the objects using the Comparator implementation
+        oppyList.sort(new OpportunityComparator());
+        // Verify the sort order
+        Assert.isNull(oppyList[0]);
+        Assert.areEqual('Grand Hotels SLA', oppyList[1].Name);
+        Assert.areEqual(25000, oppyList[1].Amount);
+        Assert.areEqual('Edge Installation', oppyList[2].Name);
+        Assert.areEqual(50000, oppyList[2].Amount);
+        Assert.areEqual('United Oil Installations', oppyList[3].Name);
+        Assert.areEqual(100000, oppyList[3].Amount);
+        // Write the sorted list contents to the debug log.
+        System.debug(oppyList);
+    }
+}
+```
+
+```apex
+public class OpportunityWrapper implements Comparable {
+
+    public Opportunity oppy;
+    
+    // Constructor
+    public OpportunityWrapper(Opportunity op) {
+    	// Guard against wrapping a null 
+    	if(op == null) {
+    		Exception ex = new NullPointerException();
+    		ex.setMessage('Opportunity argument cannot be null'); 
+    		throw ex;
+    	}
+        oppy = op;
+    }
+    
+    // Compare opportunities based on the opportunity amount.
+    public Integer compareTo(Object compareTo) {
+        // Cast argument to OpportunityWrapper
+        OpportunityWrapper compareToOppy = (OpportunityWrapper)compareTo;
+        
+        // The return value of 0 indicates that both elements are equal.
+        Integer returnValue = 0;
+        if ((oppy.Amount == null) && (compareToOppy.oppy.Amount == null)) {
+            // both wrappers have null Amounts
+            returnValue = 0;
+        } else if ((oppy.Amount == null) && (compareToOppy.oppy.Amount != null)){
+            // nulls-first implementation
+            returnValue = -1;
+        } else if ((oppy.Amount != null) && (compareToOppy.oppy.Amount == null)){
+            // nulls-first implementation
+            returnValue = 1;
+        } else if (oppy.Amount > compareToOppy.oppy.Amount) {
+            // Set return value to a positive value.
+            returnValue = 1;
+        } else if (oppy.Amount < compareToOppy.oppy.Amount) {
+            // Set return value to a negative value.
+            returnValue = -1;
+        } 
+        return returnValue;
+    }
+}
+```
+
+```apex
+@isTest 
+private class OpportunityWrapperTest {
+    static testmethod void test1() {
+        // Add the opportunity wrapper objects to a list.
+        OpportunityWrapper[] oppyList = new List<OpportunityWrapper>();
+        Date closeDate = Date.today().addDays(10);
+        oppyList.add( new OpportunityWrapper(new Opportunity(
+            Name='Edge Installation',
+            CloseDate=closeDate,
+            StageName='Prospecting',
+            Amount=50000)));
+        oppyList.add( new OpportunityWrapper(new Opportunity(
+            Name='United Oil Installations',
+            CloseDate=closeDate,
+            StageName='Needs Analysis',
+            Amount=100000)));
+        oppyList.add( new OpportunityWrapper(new Opportunity(
+            Name='Grand Hotels SLA',
+            CloseDate=closeDate,
+            StageName='Prospecting',
+            Amount=25000)));
+        
+        // Sort the wrapper objects using the implementation of the 
+        // compareTo method.
+        oppyList.sort();
+        
+        // Verify the sort order
+        Assert.areEqual('Grand Hotels SLA', oppyList[0].oppy.Name);
+        Assert.areEqual(25000, oppyList[0].oppy.Amount);
+        Assert.areEqual('Edge Installation', oppyList[1].oppy.Name);
+        Assert.areEqual(50000, oppyList[1].oppy.Amount);
+        Assert.areEqual('United Oil Installations', oppyList[2].oppy.Name);
+        Assert.areEqual(100000, oppyList[2].oppy.Amount);
+        
+        // Write the sorted list contents to the debug log.
+        System.debug(oppyList);
+    }
+}
+```

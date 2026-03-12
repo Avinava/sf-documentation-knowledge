@@ -5,11 +5,15 @@ topic: connectapiemailmessagecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.677Z
-keywords: [ConnectApi.EmailMessageCapability, See]
+lastCollected: 2026-03-12T05:14:27.176Z
+estimatedTokens: 634
+keywords: [ConnectApi.EmailMessageCapability, feed, element, capability, email, message, case.]
 ---
 
 # ConnectApi.EmailMessageCapability
+
+> If a feed element has this capability, it has an email message from a
+      case.
 
 # ConnectApi.EmailMessageCapability
 
@@ -39,3 +43,16 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​EmailAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_email_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​EmailAddress (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_emailAddress.htm)
+- ConnectApi.​EmailMessageDirection (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​EmailMessageSize (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.EmailAddress (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_emailAddress.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

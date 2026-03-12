@@ -5,11 +5,16 @@ topic: livechatdeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.384Z
-keywords: [LiveChatDeployment, File, Suffix, Directory, Location, Version, Fields, LiveChatDeploymentDomainWhiteList, Declarative, Metadata, Sample, Definition, Note, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.941Z
+estimatedTokens: 848
+keywords: [LiveChatDeployment, Represents, configuration, settings, specific, Chat, deployment, such, branding, image, whether, chat, transcripts, automatically, saved., File, Suffix, Directory, Location, Version]
 ---
 
 # LiveChatDeployment
+
+> Represents the configuration settings for a
+            specific Chat deployment, such as the branding image for the deployment and whether or
+            not chat transcripts are automatically saved.
 
 # LiveChatDeployment
 
@@ -68,3 +73,26 @@ If you update your deployment through the Metadata API, be sure to update all We
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatDeployment xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>My Deployment 1</label>
+    <brandingImage>pkb_image_bannerBg</brandingImage>
+    <mobileBrandingImage>pkb_image_bgBottom</mobileBrandingImage>
+    <domainWhiteList>
+        <domain>mydomain</domain>
+        <domain>test</domain>
+    </domainWhiteList>
+    <enableTranscriptSave>true</enableTranscriptSave>
+    <site>GL_Knowledge_Base</site>
+    <windowTitle>My window title</windowTitle>
+</LiveChatDeployment>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

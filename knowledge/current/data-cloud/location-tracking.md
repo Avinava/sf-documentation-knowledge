@@ -5,11 +5,17 @@ topic: location-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.257Z
-keywords: [Location, Tracking, Note]
+lastCollected: 2026-03-12T05:14:12.218Z
+estimatedTokens: 249
+keywords: [Location, Tracking, Data, Cloud, Module, Engagement, Mobile, SDK, supports, location, tracking, events., Enable, functionality, setLocation, set, coordinates, expiresIn., Note]
 ---
 
 # Location Tracking
+
+> The Data Cloud Module for the Engagement Mobile SDK supports location tracking for
+        all events. Enable this functionality using the   setLocation method on
+        the Data Cloud Module to set coordinates and
+            expiresIn.
 
 # Location Tracking
 
@@ -36,3 +42,23 @@ When the expiration interval has been exceeded, the SDK location coordinates are
 #### Note
 
 You’re responsible for handling location tracking permission from the customer, requesting location permission, fetching the location, and ensuring the desired accuracy range.
+
+## Code Examples
+
+```
+// prepare the coordinates, use the CdpCoordinates wrapper
+let coordinates = CdpCoordinates(latitude: 54.187738, longitude: 15.554440)
+          
+// set the location coordinates and expiration time in seconds
+CdpModule.shared.setLocation(coordinates: coordinates, expiresIn: 60)
+```
+
+```
+CdpSdk.requestSdk { sdk >
+    // prepare the coordinates, use the Coordinates wrapper
+    val coordinates = Coordinates(latitude = 54.187738, longitude = 15.554440)
+    
+    // set the location coordinates and expiration time in seconds
+    sdk.setLocation(coordinates = coordinates, expiresIn = 60) 
+}
+```

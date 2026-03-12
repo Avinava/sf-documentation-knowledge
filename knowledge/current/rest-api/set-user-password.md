@@ -5,11 +5,16 @@ topic: set-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.782Z
-keywords: [Set, User, Password, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.164Z
+estimatedTokens: 326
+keywords: [Set, User, Password, user’s, password, based, specified, user, ID., provided, request, body, replaces, existing, password., resource, REST, API, version, 24.0]
 ---
 
 # Set User Password
+
+> Sets a user’s password based on the specified user ID. The password provided in the
+  request body replaces the user’s existing password. This resource is available in REST API version
+  24.0 and later.
 
 # Set User Password
 
@@ -48,3 +53,7 @@ For examples of getting password information, setting a password, and resetting 
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Manage User Passwords (atlas.en-us.api_rest.meta/api_rest/dome_sobject_user_password.htm)

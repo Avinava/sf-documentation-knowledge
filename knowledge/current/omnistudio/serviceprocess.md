@@ -5,11 +5,15 @@ topic: serviceprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.160Z
-keywords: [ServiceProcess, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ServiceProcessAttribute, ServiceProcessDependency, ServiceProcessItemGroup, Declarative, Metadata, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:52.690Z
+estimatedTokens: 1709
+keywords: [ServiceProcess, Represents, process, created, Service, Process, Studio, its, associated, attributes., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # ServiceProcess
+
+> Represents a process created in Service Process Studio and its
+			associated attributes.
 
 # ServiceProcess
 
@@ -108,3 +112,39 @@ We recommend that you review these considerations before you retrieve or deploy 
     -   If a service process definition contains service catalog requests and service catalog request extended attribute values and you deploy metadata with the same name as the definition, you get an error message. You can’t delete or change a service process that has service catalog requests with attribute values in it. Make sure that all records are deleted in service catalog requests and service catalog request extended attribute values before you deploy the metadata.
     -   If a service process definition contains service catalog requests but doesn’t contain service catalog request extended attribute values and you deploy the metadata with the same name, the deployment works as expected.
     -   If a service process definition doesn’t contain service catalog requests and you deploy the metadata with the same name, the deployment works as expected.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+   <processLabel>EmailUpdate</processLabel>
+   <usageType>FinancialServices</usageType>
+   <serviceProcessAttributes>
+      <label>EmailAddress</label>
+      <developerName>EmailAddress</developerName>
+      <dataType>Text</dataType>
+      <groupApiName>Info</groupApiName>
+   </serviceProcessAttributes>
+   <serviceProcessDependencies>
+      <dependencyReference>EmailPreprocessor</dependencyReference>
+      <type>PreprocessorApexClass</type>
+   </serviceProcessDependencies>
+   <serviceProcessItemGroups>
+        <apiName>Info</apiName>
+        <groupName>Info</groupName>
+        <sortOrder>1</sortOrder>
+    </serviceProcessItemGroups>
+</ServiceProcess>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ServiceProcess</name>
+    </types>
+    <version>57.0</version>
+</Package>
+```

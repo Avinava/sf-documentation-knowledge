@@ -5,11 +5,15 @@ topic: interest-tagging-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.567Z
-keywords: [Interest, Tagging, Business, APIs, Note]
+lastCollected: 2026-03-12T05:14:51.816Z
+estimatedTokens: 668
+keywords: [Interest, Tagging, Business, APIs, give, users, seamless, API, experience, Tags., Note]
 ---
 
 # Interest Tagging Business APIs
+
+> Use the Interest Tagging Business APIs to give users a seamless API
+      experience for Interest Tags.
 
 # Interest Tagging Business APIs
 
@@ -18,7 +22,7 @@ Use the Interest Tagging Business APIs to give users a seamless API experience f
 | Available in: Lightning Experience |
 | --- |
 | Available in: Interest Tagging is available with Enterprise, Unlimited, and Performance Editions with the Financial Services Cloud. |
-  
+
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
 
@@ -41,5 +45,17 @@ Following are the available Interest Tags resources as numbered in the Salesforc
 | 7 | /connect/interest-tags/assignments/entity/${recordId} | Retrieve a list of interest tags grouped by tag categories that are assigned to a Salesforce object record. |
 | 8 | /connect/interest-tags/assignments | Create assignments for Interest Tags and the Salesforce object record. |
 
--   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/interest_tagging_apis_rest_references.htm)**  
+-   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/interest_tagging_apis_rest_references.htm)**
     You can access Interest Tags APIs using REST endpoints. These REST APIs follow similar conventions as Connect REST APIs.
+
+## Related Topics
+
+- /connect/interest-tags/tags (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_delete_get_create_tags.htm)
+- /connect/interest-tags/tags/${tagId} (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_update_tags.htm)
+- /connect/interest-tags/tags?tagId=tagId1 (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_delete_get_create_tags.htm)
+- /connect/interest-tags/categories (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_get_tag-categories.htm)
+- /connect/interest-tags/assignments/tag/${tagId} (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_get_record_assignments_for_tag.htm)
+- /connect/interest-tags/tags?categoryId={categoryId} (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_delete_get_create_tags.htm)
+- /connect/interest-tags/assignments/entity/${recordId} (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_get_tags_assigned_to_entity.htm)
+- /connect/interest-tags/assignments (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_post_record_assignments_for_tag.htm)
+- REST Reference (atlas.en-us.industries_reference.meta/industries_reference/interest_tagging_apis_rest_references.htm)

@@ -5,11 +5,15 @@ topic: salesforce-crm-financial-goal-party-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.108Z
-keywords: [Salesforce, CRM, Financial, Goal, Party, Mappings, Usage, Data, Bundle, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.553Z
+estimatedTokens: 195
+keywords: [Salesforce, CRM, Financial, Goal, Party, Mappings, data, mappings, FinancialGoalParty, DLO, found, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Financial Goal Party Mappings
+
+> These data mappings are for the FinancialGoalParty DLO found in the Financial Services
+  Cloud bundle of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Financial Goal Party Mappings
 

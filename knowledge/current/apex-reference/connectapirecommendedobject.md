@@ -5,11 +5,15 @@ topic: connectapirecommendedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.877Z
-keywords: [ConnectApi.RecommendedObject]
+lastCollected: 2026-03-12T05:14:28.805Z
+estimatedTokens: 139
+keywords: [ConnectApi.RecommendedObject, recommended, such, custom, recommendation.]
 ---
 
 # ConnectApi.RecommendedObject
+
+> A recommended object, such as a custom or static
+    recommendation.
 
 # ConnectApi.RecommendedObject
 
@@ -21,3 +25,9 @@ Subclass of [ConnectApi.Actor](atlas.en-us.apexref.meta/apexref/apex_connectapi_
 | --- | --- | --- | --- |
 | idOrEnum | String | ID of a recommendation definition for a custom recommendation or the enum value Today for static recommendations that don’t have an ID (version 35.0 and later). | 34.0 |
 | motif | ConnectApi.Motif | Motif of the recommended object. | 34.0 |
+
+## Related Topics
+
+- ConnectApi.Actor (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actor.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Motif (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_motif.htm)

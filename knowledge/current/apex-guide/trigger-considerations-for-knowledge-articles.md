@@ -4,12 +4,16 @@ domain: apex-guide
 topic: trigger-considerations-for-knowledge-articles
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.752Z
-keywords: [Trigger, Considerations, Knowledge, Articles, Actions, Apex, Triggers, Don’t, Fire, Impact, Lightning, Migration, Sample]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.202Z
+estimatedTokens: 1049
+keywords: [Trigger, Considerations, Knowledge, Articles, write, triggers, KnowledgeArticleVersion, objects., which, actions, don’t, fire, archiving, articles., Actions, Apex, Triggers, Don’t, Fire, Impact]
 ---
 
 # Trigger Considerations for Knowledge Articles
+
+> You can write triggers for KnowledgeArticleVersion objects. Learn when you can use
+    triggers, and which actions don’t fire triggers, like archiving articles.
 
 # Trigger Considerations for Knowledge Articles
 
@@ -21,7 +25,7 @@ In general, KnowledgeArticleVersion (KAV) records can use these triggers:
 -   Editing an existing KAV record calls the before update and after update triggers.
 -   Deleting a KAV record calls the before delete and after delete triggers.
 -   Importing articles calls the before insert and after insert triggers. Importing articles with translations also calls the before update and after update triggers.
-    
+
 
 Actions that change the publication status of a KAV record, such as Publish and Archive, do not fire Apex or flow triggers. However, sometimes publishing an article from the UI causes the article to be saved, and in these instances the before update and after update triggers are called.
 
@@ -76,3 +80,18 @@ For example, you can define a trigger that enters summary text when an article i
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm "Triggers for Chatter Objects")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_exceptions.htm "Trigger Exceptions")
+
+## Code Examples
+
+```
+trigger KAVTrigger on KAV_Type__kav (before insert) {
+    for (KAV_Type__kav kav : Trigger.New) {
+        kav.Summary__c = 'Updated article summary before insert';
+    }  
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_fields_not_updated_chatter.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_exceptions.htm)

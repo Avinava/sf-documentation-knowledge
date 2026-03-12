@@ -5,11 +5,15 @@ topic: platform-event-schema-by-event-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.659Z
-keywords: [Platform, Event, Schema, Name, Syntax, Examples, API, Version, 43.0, Later, Note, 42.0, Earlier, Apache, Avro, Format]
+lastCollected: 2026-03-12T05:14:35.993Z
+estimatedTokens: 1107
+keywords: [Platform, Event, Schema, Name, definition, platform, event, JSON, format, name., Syntax, Examples, API, Version, 43.0, Later, Note, 42.0, Earlier, Apache]
 ---
 
 # Platform Event Schema by Event Name
+
+> Gets the definition of a platform event in JSON format for an event
+      name.
 
 # Platform Event Schema by Event Name
 
@@ -122,3 +126,153 @@ The fields in the returned response adhere to the open-source Apache Avro specif
     -   doc describes the field data type and includes the field ID for custom fields. This field is intended for internal use. For example, Salesforce uses the data type information to convert DateTime fields from long to DateTime. We recommend that you don't rely on this field's value because it might change in the future.
 
 The response also includes the uuid field, which contains the schema’s ID. The ID is the MD5 fingerprint of the normalized Avro schema encoded as a base-64 URL variant. You can append this ID to the /vXX.X/event/eventSchema/ URI to retrieve the schema.
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Low_Ink__e/eventSchema -H "Authorization: Bearer token"
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Low_Ink__e/eventSchema?payloadFormat=EXPANDED -H "Authorization: Bearer token"
+```
+
+```
+{
+  "name": "Low_Ink__e",
+  "namespace": "com.sforce.eventbus",
+  "type": "expanded-record",
+  "fields": [
+    {
+      "name": "data",
+      "type": {
+        "type": "record",
+        "name": "Data",
+        "namespace": "",
+        "fields": [
+          {
+            "name": "schema",
+            "type": "string"
+          },
+          {
+            "name": "payload",
+            "type": {
+              "type": "record",
+              "name": "Payload",
+              "doc": "",
+              "fields": [
+                {
+                  "name": "CreatedDate",
+                  "type": "string",
+                  "doc": "CreatedDate:DateTime"
+                },
+                {
+                  "name": "CreatedById",
+                  "type": "string",
+                  "doc": "CreatedBy:EntityId"
+                },
+                {
+                  "name": "Printer_Model__c",
+                  "type": [
+                    "null",
+                    "string"
+                  ],
+                  "doc": "Data:Text:00NRM000001krnv",
+                  "default": null
+                },
+                {
+                  "name": "Serial_Number__c",
+                  "type": [
+                    "null",
+                    "string"
+                  ],
+                  "doc": "Data:Text:00NRM000001kro0",
+                  "default": null
+                },
+                {
+                  "name": "Ink_Percentage__c",
+                  "type": [
+                    "null",
+                    "double"
+                  ],
+                  "doc": "Data:Double:00NRM000001kro5",
+                  "default": null
+                }
+              ]
+            }
+          },
+          {
+            "name": "event",
+            "type": {
+              "type": "record",
+              "name": "Event",
+              "fields": [
+                {
+                  "name": "replayId",
+                  "type": "long"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "channel",
+      "type": "string"
+    }
+  ]
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Low_Ink__e/eventSchema?payloadFormat=COMPACT -H "Authorization: Bearer token"
+```
+
+```
+{
+  "name": "Low_Ink__e",
+  "namespace": "com.sforce.eventbus",
+  "type": "record",
+  "fields": [
+    {
+      "name": "CreatedDate",
+      "type": "long",
+      "doc": "CreatedDate:DateTime"
+    },
+    {
+      "name": "CreatedById",
+      "type": "string",
+      "doc": "CreatedBy:EntityId"
+    },
+    {
+      "name": "Printer_Model__c",
+      "type": [
+        "null",
+        "string"
+      ],
+      "doc": "Data:Text:00NRM000001krnv",
+      "default": null
+    },
+    {
+      "name": "Serial_Number__c",
+      "type": [
+        "null",
+        "string"
+      ],
+      "doc": "Data:Text:00NRM000001kro0",
+      "default": null
+    },
+    {
+      "name": "Ink_Percentage__c",
+      "type": [
+        "null",
+        "double"
+      ],
+      "doc": "Data:Double:00NRM000001kro5",
+      "default": null
+    }
+  ],
+  "uuid": "5E5OtZj5_Gm6Vax9XMXH9A"
+}
+```

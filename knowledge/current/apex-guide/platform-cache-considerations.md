@@ -4,12 +4,15 @@ domain: apex-guide
 topic: platform-cache-considerations
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.401Z
-keywords: [Platform, Cache, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.758Z
+estimatedTokens: 630
+keywords: [Platform, Cache, Considerations, Review, considerations, working, Cache.]
 ---
 
 # Platform Cache Considerations
+
+> Review these considerations when working with Platform Cache.
 
 # Platform Cache Considerations
 

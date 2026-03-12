@@ -5,11 +5,15 @@ topic: connectapiverifiedcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.204Z
-keywords: [ConnectApi.VerifiedCapability, See]
+lastCollected: 2026-03-12T05:14:29.279Z
+estimatedTokens: 408
+keywords: [ConnectApi.VerifiedCapability, comment, capability, users, permission, mark, verified, unverified.]
 ---
 
 # ConnectApi.VerifiedCapability
+
+> If a comment has this capability, users with permission can mark it as
+      verified or unverified.
 
 # ConnectApi.VerifiedCapability
 
@@ -28,3 +32,11 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.CommentCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm "A set of capabilities on a comment.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.CommentCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm)

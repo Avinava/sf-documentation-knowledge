@@ -5,11 +5,16 @@ topic: setmessagingcomponent-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.356Z
-keywords: [setMessagingComponent, LWC, Lightning, Experience, Arguments, Response, Sample, Code]
+lastCollected: 2026-03-12T05:14:57.929Z
+estimatedTokens: 293
+keywords: [setMessagingComponent, LWC, Lightning, Experience, Inserts, specified, messaging, component, service, rep’s, text, box., insert, works, only, console, apps., Arguments, Response, Sample]
 ---
 
 # setMessagingComponent() for LWC for Lightning Experience
+
+> Inserts a specified messaging component into the service rep’s text box. You can also
+  use this method to insert text into the service rep’s text box. This method works only in
+  Lightning console apps.
 
 # setMessagingComponent() for LWC for Lightning Experience
 
@@ -35,4 +40,24 @@ This example inserts a static content message into the service rep’s text box.
 
 ```
 
+```
+
+## Code Examples
+
+```
+import { LightningElement, api } from 'lwc';
+import { setMessagingComponent } from 'lightning/conversationToolkitApi';
+
+export default class MyComponent extends LightningElement {
+    @api recordId;
+
+    async handleButtonClick(event) {
+        const result = await setMessagingComponent(
+            this.recordId, {
+                messageType: "StaticContentMessage",
+                nameOrId: "1mdxx0000000001AAA"
+            });
+        console.log(result);
+    }
+}
 ```

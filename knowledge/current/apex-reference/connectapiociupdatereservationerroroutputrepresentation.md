@@ -5,11 +5,14 @@ topic: connectapiociupdatereservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.421Z
-keywords: [ConnectApi.OCIUpdateReservationErrorOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.163Z
+estimatedTokens: 82
+keywords: [ConnectApi.OCIUpdateReservationErrorOutputRepresentation, Error, output, representation, update, inventory, reservation.]
 ---
 
 # ConnectApi.OCIUpdateReservationErrorOutputRepresentation
+
+> Error output representation for the update inventory reservation.
 
 # ConnectApi.OCIUpdateReservationErrorOutputRepresentation
 
@@ -19,3 +22,7 @@ Error output representation for the update inventory reservation.
 | --- | --- | --- | --- |
 | errorCode | String | The error code. | 61.0 |
 | message | String | Details of the error, if available. | 61.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

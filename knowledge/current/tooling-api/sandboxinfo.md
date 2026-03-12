@@ -5,11 +5,14 @@ topic: sandboxinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.696Z
-keywords: [SandboxInfo, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage, Creating, Sandbox, Refreshing, Deleting, Checking, Progress, Note]
+lastCollected: 2026-03-12T05:14:46.711Z
+estimatedTokens: 1890
+keywords: [SandboxInfo, Represents, sandbox., Supported, SOAP, Calls, REST, HTTP, Fields, Usage, Creating, Sandbox, Refreshing, Deleting, Checking, Progress, Note]
 ---
 
 # SandboxInfo
+
+> Represents a sandbox.
 
 # SandboxInfo
 
@@ -84,3 +87,7 @@ While the system can't provide a time-based estimate, you can track your place i
 
 -   If IsActualWorkFinal = true, then ActualTotalWork is a better representation of the total work required.
 -   If IsActualWorkFinal = false, then EstimatedTotalWork is a better representation of the total work required.
+
+## Related Topics
+
+- SandboxProcess (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_sandboxprocess.htm)

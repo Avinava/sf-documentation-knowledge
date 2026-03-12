@@ -5,11 +5,15 @@ topic: connectapimoderationflagscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.283Z
-keywords: [ConnectApi.ModerationFlagsCollection, See]
+lastCollected: 2026-03-12T05:14:27.989Z
+estimatedTokens: 229
+keywords: [ConnectApi.ModerationFlagsCollection, collection, flags, feed, item, comment, file.]
 ---
 
 # ConnectApi.ModerationFlagsCollection
+
+> A collection of flags on a feed item, comment, or
+    file.
 
 # ConnectApi.ModerationFlagsCollection
 
@@ -27,3 +31,11 @@ A collection of flags on a feed item, comment, or file.
 #### See Also
 
 -   [ConnectApi.ModerationFlags](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderationFlags.htm "Information about the moderation flags on a feed item, comment, or file.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ModerationFlag​ItemDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderation_flag_item.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ModerationFlags (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderationFlags.htm)

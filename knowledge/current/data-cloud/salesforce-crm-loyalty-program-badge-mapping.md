@@ -5,11 +5,17 @@ topic: salesforce-crm-loyalty-program-badge-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.178Z
-keywords: [Salesforce, CRM, Loyalty, Program, Badge, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.683Z
+estimatedTokens: 376
+keywords: [Salesforce, CRM, Loyalty, Program, Badge, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., refers, badge, assigned, member, reward]
 ---
 
 # Salesforce CRM: Loyalty Program Badge Mapping
+
+> These data mappings are for the Loyalty Program Badge DLO found in the Loyalty
+  Management bundle of the Salesforce CRM Connector for Data Cloud. Data refers to a badge assigned
+  to a member as a reward for engaging with the loyalty
+  program.
 
 # Salesforce CRM: Loyalty Program Badge Mapping
 

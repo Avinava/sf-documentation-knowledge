@@ -5,11 +5,15 @@ topic: customize-invocable-action-input-order-in-flow-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.151Z
-keywords: [Customize, Invocable, Action, Input, Order, Flow, Builder, Example, Sorting, Booking, Request, Inputs, Create, Apex, Note, Define, Extension, Important, See]
+lastCollected: 2026-03-12T05:14:33.403Z
+estimatedTokens: 1352
+keywords: [Customize, Invocable, Action, Input, Order, Flow, Builder, Control, display, order, grouping, input, Apex, invocable, actions, InvocableActionExtension, metadata, file., Example, Sorting]
 ---
 
 # Customize Invocable Action Input Order in Flow Builder
+
+> Control the display order and grouping of input parameters for your Apex invocable
+  actions in Flow Builder using the InvocableActionExtension metadata file.
 
 # Customize Invocable Action Input Order in Flow Builder
 
@@ -62,7 +66,45 @@ The <targets\> elements identify the specific input parameters to be customized.
 #### See Also
 
 -   [InvocableMethod Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "Use the InvocableMethod annotation to identify methods that can be run as invocable actions.")
-    
+
 -   [InvocableVariable Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm "To identify variables used by invocable methods in custom classes, use the InvocableVariable annotation.")
-    
+
 -   [*Metadata API Developer Guide*: InvocableActionExtension](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_invocableactionextension.htm "Metadata API Developer Guide: InvocableActionExtension - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<InvocableActionExtension xmlns="http://soap.sforce.com/2006/04/metadata">
+    <targets>
+        <targetType>ActionParameter</targetType>
+        <targetName>BookingAction.BookingRequest.startDate</targetName>
+        <attributes>
+            <key>Order</key>
+            <dataType>Integer</dataType>
+            <value>1</value> </attributes>
+        <attributes>
+            <key>Group</key>
+            <dataType>String</dataType>
+            <value>Booking Dates</value> </attributes>
+    </targets>
+
+    <targets>
+        <targetType>ActionParameter</targetType>
+        <targetName>BookingAction.BookingRequest.endDate</targetName>
+        <attributes>
+            <key>Order</key>
+            <dataType>Integer</dataType>
+            <value>2</value> </attributes>
+        <attributes>
+            <key>Group</key>
+            <dataType>String</dataType>
+            <value>Booking Dates</value> </attributes>
+    </targets>
+</InvocableActionExtension>
+```
+
+## Related Topics
+
+- InvocableMethod Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
+- InvocableVariable Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm)

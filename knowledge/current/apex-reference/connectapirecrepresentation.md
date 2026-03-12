@@ -5,11 +5,14 @@ topic: connectapirecrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.852Z
-keywords: [ConnectApi.RecRepresentation]
+lastCollected: 2026-03-12T05:14:28.768Z
+estimatedTokens: 555
+keywords: [ConnectApi.RecRepresentation, Recommended, action.]
 ---
 
 # ConnectApi.RecRepresentation
+
+> Recommended action.
 
 # ConnectApi.RecRepresentation
 
@@ -38,3 +41,10 @@ Recommended action.
 | secondaryState | String | Optional state field for additional filtering of recommended action states. | 62.0 |
 | state | String | Primary state of the recommended action (e.g., "ACTIVE", "INACTIVE", "ACCEPTED", "NOT_EXPIRING"). | 59.0 |
 | tertiaryState | String | Optional state field for additional filtering of recommended action states. | 62.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ActionInfo​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_action_info_output.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

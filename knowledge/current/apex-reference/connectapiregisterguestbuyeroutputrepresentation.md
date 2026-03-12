@@ -5,11 +5,14 @@ topic: connectapiregisterguestbuyeroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.919Z
-keywords: [ConnectApi.RegisterGuestBuyerOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.863Z
+estimatedTokens: 133
+keywords: [ConnectApi.RegisterGuestBuyerOutputRepresentation, Indicates, success, failure, register, guest, buyer, action.]
 ---
 
 # ConnectApi.RegisterGuestBuyerOutputRepresentation
+
+> Indicates success or failure of a register guest buyer action.
 
 # ConnectApi.RegisterGuestBuyerOutputRepresentation
 
@@ -21,3 +24,10 @@ Subclass of [ConnectApi.BaseOutputRepresentation](atlas.en-us.apexref.meta/apexr
 | --- | --- | --- | --- |
 | errors | List<ConnectApi.​ErrorResponse> | Any errors that were returned. | 48.0 |
 | success | Boolean | Indicates whether the transaction was successful. | 48.0 |
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

@@ -5,11 +5,15 @@ topic: lightningomnichannelloginsuccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.874Z
-keywords: [lightning, omniChannelLoginSuccess, Response, Example]
+lastCollected: 2026-03-12T05:14:57.243Z
+estimatedTokens: 109
+keywords: [lightning, omniChannelLoginSuccess, Indicates, agent, logged, Omni-Channel, successfully., Response, Example]
 ---
 
 # lightning:omniChannelLoginSuccess
+
+> Indicates that an agent has been logged into
+            Omni-Channel successfully.
 
 # lightning:omniChannelLoginSuccess
 
@@ -35,4 +39,23 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelLoginSuccess" action="{! c.onLoginSuccess }"/>
+</aura:component>
+```
+
+```
+({
+    onLoginSuccess : function(component, event, helper) {
+        console.log("Login success.");
+        var statusId = event.getParam('statusId');
+        console.log(statusId);
+    }, 
+})
 ```

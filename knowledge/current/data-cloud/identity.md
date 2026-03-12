@@ -5,11 +5,17 @@ topic: identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.342Z
-keywords: [Identity, Sharing, Cookie, Across, Multiple, Domains, Methods, Note]
+lastCollected: 2026-03-12T05:14:12.325Z
+estimatedTokens: 521
+keywords: [Identity, Salesforce, Interactions, SDK, supports, identification, new, returning, customer, first-party, cookie, _sfid_$, domainHash, produced, running, website’s, domain, through, hashing, function.]
 ---
 
 # Identity
+
+> The Salesforce Interactions SDK supports identification of new and returning customer
+  using the first-party cookie _sfid_${domainHash}. Also, the
+   domainHash is produced by running the website’s domain through a hashing
+  function.
 
 # Identity
 
@@ -91,4 +97,29 @@ Removes the first-party cookie and generates a brand new cookie with a newly gen
 
 ```
 
+```
+
+## Code Examples
+
+```
+SalesforceInteractions.init({
+  cookieDomain: 'domain.com'
+  })
+```
+
+```
+getCookieDomain(): string
+```
+
+```
+SalesforceInteractions.getCookieDomain()
+     // => "domain.com"
+```
+
+```
+setCookieDomain(newDomain:string): void
+```
+
+```
+SalesforceInteractions.setCookieDomain('domain.com')
 ```

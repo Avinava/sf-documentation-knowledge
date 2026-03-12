@@ -6,12 +6,16 @@ topic: enclosingtabid-context-wire-adapter-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.434Z
-keywords: [EnclosingTabId, Context, Wire, Adapter, Lightning, Experience, Tip, LWC, Sample, Code, Response, See]
+lastCollected: 2026-03-12T05:14:58.041Z
+estimatedTokens: 601
+keywords: [EnclosingTabId, Context, Wire, Adapter, Lightning, Experience, enclosing, tab, subtab., wire, adapter, Web, Components, LWC, only., Tip, Sample, Code, Response]
 ---
 
 # EnclosingTabId Context Wire
             Adapter for Lightning Experience
+
+> Returns the ID of the enclosing tab or subtab. This wire adapter is available for
+        Lightning Web Components (LWC) only.
 
 # EnclosingTabId Context Wire Adapter for Lightning Experience
 
@@ -46,3 +50,28 @@ This method returns a promise that, upon success, resolves to the tabId of the e
 #### See Also
 
 -   [*LWC Dev Guide*: Understand the Wire Service](https://developer.salesforce.com/docs/platform/lwc/guide/data-wire-service-about.html "LWC Dev Guide: Understand the Wire Service - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { EnclosingTabId, closeTab } from 'lightning/platformWorkspaceApi';
+
+export class CloseEnclosingTabExample  extends LightningElement {
+    @wire(EnclosingTabId) enclosingTabId;
+
+    handleClick() {
+        // Ensure that we have a tab open
+        if (!this.enclosingTabId) {
+            return;
+        }
+        closeTab(this.enclosingTabId);
+    }
+}
+```
+
+## Related Topics
+
+- getFocusedTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getFocusedTabInfo.htm)
+- getTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getTabInfo.htm)
+- openSubtab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_openSubtab.htm)

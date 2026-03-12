@@ -5,11 +5,15 @@ topic: step-2-build-a-packagexml-manifest
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.197Z
-keywords: [Step, Build, Package.xml, Manifest, Structure, Retrieve, Custom, Objects, See]
+lastCollected: 2026-03-12T05:14:42.101Z
+estimatedTokens: 746
+keywords: [Step, Build, Package.xml, Manifest, package.xml, manifest, file, lists, components, retrieve, org., Structure, Retrieve, Custom, Objects]
 ---
 
 # Step 2: Build a Package.xml Manifest
+
+> The package.xml manifest file lists the components to retrieve from your
+  org.
 
 # Step 2: Build a Package.xml Manifest
 
@@ -34,9 +38,9 @@ To retrieve all components of a metadata type, you don’t specify the fullName 
 To retrieve all custom objects from your org:
 
 1.  (Optional) If you do not have a project folder, use Salesforce CLI to create a new directory that organizes your project. Run this command with your specified project name:
-    
+
     sf project generate --name YourProjectName
-    
+
 2.  Create a file called package.xml in your project.
 3.  In your text editor, open the file and paste in this script:
 
@@ -52,5 +56,36 @@ Now you have a package.xml file that we can use to retrieve all custom objects. 
 #### See Also
 
 -   [Sample package.xml Manifest Files](atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm "This section includes sample package.xml manifest files that show you how to work with different subsets of metadata. A manifest file can include multiple <types> elements so you could combine the individual samples into one package.xml manifest file if you want to work with all the metadata in one batch.")
-    
+
 -   [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_retrieve_add_components.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_retrieve_use_retrieve.htm)
+- Sample package.xml Manifest Files (atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

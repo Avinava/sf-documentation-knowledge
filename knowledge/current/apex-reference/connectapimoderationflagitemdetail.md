@@ -5,11 +5,14 @@ topic: connectapimoderationflagitemdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.280Z
-keywords: [ConnectApi.ModerationFlagItemDetail, See]
+lastCollected: 2026-03-12T05:14:27.985Z
+estimatedTokens: 295
+keywords: [ConnectApi.ModerationFlagItemDetail, Flag, details, feed, item, comment, file.]
 ---
 
 # ConnectApi.ModerationFlagItemDetail
+
+> Flag details on a feed item, comment, or file.
 
 # ConnectApi.ModerationFlagItemDetail
 
@@ -27,3 +30,11 @@ Flag details on a feed item, comment, or file.
 #### See Also
 
 -   [ConnectApi.ModerationFlagsCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderation_flags_collection.htm "A collection of flags on a feed item, comment, or file.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​CommunityFlagType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CommunityFlag​Visibility (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ModerationFlagsCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderation_flags_collection.htm)

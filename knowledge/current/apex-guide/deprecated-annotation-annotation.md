@@ -5,11 +5,18 @@ topic: deprecated-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.480Z
-keywords: [Deprecated, Annotation]
+lastCollected: 2026-03-12T05:14:32.463Z
+estimatedTokens: 647
+keywords: [Deprecated, Annotation, annotation, identify, classes, exceptions, enums, interfaces, variables, longer, referenced, subsequent, releases, managed, package, which, they, reside., useful, you’re]
 ---
 
 # Deprecated Annotation Annotation
+
+> Use the Deprecated annotation to identify methods, classes, exceptions, enums,
+                interfaces, or variables that can no longer be referenced in subsequent releases of
+                the managed
+                    package in which they reside. This annotation is useful when you’re
+     
 
 # Deprecated Annotation Annotation
 
@@ -35,3 +42,22 @@ For more information about package versions, see [Managed Package Types](atlas.e
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_AuraEnabled.htm "AuraEnabled Annotation Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm "Future Annotation")
+
+## Code Examples
+
+```apex
+@Deprecated
+  // This method is deprecated. Use myOptimizedMethod(String a, String b) instead.
+  global void myMethod(String a) {
+   
+}
+```
+
+## Related Topics
+
+- managed
+                    package (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_dev.htm)
+- global (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- Managed Package Types (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_dev.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_AuraEnabled.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm)

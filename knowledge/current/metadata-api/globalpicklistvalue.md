@@ -5,11 +5,16 @@ topic: globalpicklistvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.987Z
-keywords: [GlobalPicklistValue, Note, Version, Fields, PicklistValue, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:40.335Z
+estimatedTokens: 2209
+keywords: [GlobalPicklistValue, Represents, definition, used, picklist., Custom, picklist, fields, inherit, set, Note, Version, Fields, PicklistValue, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # GlobalPicklistValue
+
+> Represents the definition of a value used in a
+      global picklist. Custom picklist fields can inherit the picklist value set from a global
+      picklist.
 
 # GlobalPicklistValue
 
@@ -68,3 +73,11 @@ For an example of GlobalPicklistValue components with a package.xml that referen
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- CustomValue (atlas.en-us.api_meta.meta/api_meta/meta_customvalue.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- GlobalPicklist (atlas.en-us.api_meta.meta/api_meta/meta_globalpicklist.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

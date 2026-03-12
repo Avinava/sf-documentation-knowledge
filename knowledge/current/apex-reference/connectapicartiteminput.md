@@ -5,11 +5,14 @@ topic: connectapicartiteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.896Z
-keywords: [ConnectApi.CartItemInput]
+lastCollected: 2026-03-12T05:14:24.505Z
+estimatedTokens: 441
+keywords: [ConnectApi.CartItemInput, item, cart.]
 ---
 
 # ConnectApi.CartItemInput
+
+> An item in a cart.
 
 # ConnectApi.CartItemInput
 
@@ -25,3 +28,12 @@ An item in a cart.
 | subscriptionTerm | Integer | The total number of terms in the subscription period. | Optional | 59.0 |
 | subType | ConnectApi.​CartItemSubType | Subtype of item in a cart.Possible values are:Bonus—A bonus product.Gift—A gift product. | Optional | 64.0 |
 | type | ConnectApi.​CartItemType | Type of item in a cart. Value is Product.DeliveryChargeProduct | Required when adding an item to a cartNot supported when updating a cart item | 49.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- SObject (atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​CartItemSubType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CartItemType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

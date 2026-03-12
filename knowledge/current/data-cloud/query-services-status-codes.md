@@ -5,11 +5,14 @@ topic: query-services-status-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.459Z
-keywords: [Query, Services, Status, Codes, HTTP, Responses]
+lastCollected: 2026-03-12T05:14:12.486Z
+estimatedTokens: 155
+keywords: [Query, Services, Status, Codes, codes, API, V2., HTTP, Responses]
 ---
 
 # Query Services Status Codes
+
+> Status codes for Query API V1 and Query API V2.
 
 # Query Services Status Codes
 

@@ -5,11 +5,16 @@ topic: document
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.634Z
-keywords: [Document, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:45.187Z
+estimatedTokens: 1527
+keywords: [Document, Represents, file, user, uploaded., Unlike, Attachment, records, documents, attached, parent, object., Tooling, API, version, 38.0, later., Supported, SOAP, Calls]
 ---
 
 # Document
+
+> Represents a file that a user has uploaded. Unlike Attachment
+            records, documents are not attached to a parent object. Available in Tooling API
+        version 38.0 and later.
 
 # Document
 
@@ -51,3 +56,7 @@ GET
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix that is associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values.In Developer Edition orgs, NamespacePrefix is set to the namespace prefix of the org for all objects that support it, unless an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition org of the package developer.In orgs that are not Developer Edition orgs, NamespacePrefix is set only for objects that are part of an installed managed package. All other objects have no namespace prefix. |
 | Type | TypestringPropertiesFilter, Group, Nillable, SortDescriptionFile type of the document. In general, the values match the file extension for the type of document (such as pdf or jpg). Label is File Extension. |
 | Url | TypestringPropertiesFilter, Group, Nillable, SortDescriptionURL reference to the file (used instead of storing it in the database). If specified, do not specify the Body or BodyLength. |
+
+## Related Topics
+
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

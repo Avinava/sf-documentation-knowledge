@@ -5,11 +5,18 @@ topic: lightningomnichannelworkloadchanged
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.897Z
-keywords: [lightning, omniChannelWorkloadChanged, Response, Example]
+lastCollected: 2026-03-12T05:14:57.274Z
+estimatedTokens: 280
+keywords: [lightning, omniChannelWorkloadChanged, Indicates, agent’s, workload, changed., includes, receiving, new, work, items, declining, closing, console., indicates, there, change, capacity, presence, configuration]
 ---
 
 # lightning:omniChannelWorkloadChanged
+
+> Indicates that an agent’s workload has changed.
+            This includes receiving new work items, declining work items, and closing items in the
+            console. It also indicates that there has been a change to an agent’s capacity or
+            presence configuration, or that the agent has gone offline in the Omni-Channel
+            utility.
 
 # lightning:omniChannelWorkloadChanged
 
@@ -40,4 +47,27 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelWorkloadChanged" action="{! c.onWorkloadChanged }"/>
+</aura:component>
+```
+
+```
+({
+    onWorkloadChanged : function(component, event, helper) {
+        console.log("Workload changed.");
+        var configuredCapacity = event.getParam('configuredCapacity');
+        var previousWorkload = event.getParam('previousWorkload');
+        var newWorkload = event.getParam('newWorkload');
+        console.log(configuredCapacity);
+        console.log(previousWorkload);
+        console.log(newWorkload);
+    }, 
+})
 ```

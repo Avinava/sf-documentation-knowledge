@@ -5,11 +5,17 @@ topic: fireoncallbegin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.920Z
-keywords: [fireOnCallBegin, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.307Z
+estimatedTokens: 260
+keywords: [fireOnCallBegin, Fires, event, notifies, call, begun., get, information, send, between, interaction, log, custom, console, component., only, API, version, 31.0, later.]
 ---
 
 # fireOnCallBegin()
+
+> Fires an event that notifies a call has begun. Use to get information or send information between an interaction
+                log and a custom console component.
+            This method is only available in API version 31.0 or
+        later.
 
 # fireOnCallBegin()
 
@@ -43,3 +49,25 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if firing the event is successful, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.cti.fireOnCallBegin( callObjectId:String, callType:String, callLabel:String, (optional)callback:Function )
+```
+
+```
+<apex:page>
+    <A HREF="#" onClick="testFireOnCallBegin();return false">
+             Click here to start a call</A>
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        function testFireOnCallBegin() {
+            sforce.console.cti.fireOnCallBegin('call.794937' , 'outbound' , 'label 1');
+        }
+
+    </script>
+</apex:page>
+```

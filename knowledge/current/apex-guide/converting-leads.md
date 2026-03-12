@@ -4,12 +4,20 @@ domain: apex-guide
 topic: converting-leads
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:48.067Z
-keywords: [Converting, Leads, Example, Convert, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.685Z
+estimatedTokens: 1100
+keywords: [Converting, Leads, convertLead, DML, operation, converts, lead, account, contact, well, optionally, opportunity., only, Database, statement., Example, Convert, Considerations]
 ---
 
 # Converting Leads
+
+> The convertLead DML operation
+                converts a lead into an account and contact, as well as (optionally) an
+                opportunity.
+            convertLead is available only as a method on
+            the Database class; it is not available as a DML
+            statement.
 
 # Converting Leads
 
@@ -19,17 +27,17 @@ Converting leads involves the following basic steps:
 
 1.  Your application determines the IDs of any lead(s) to be converted.
 2.  Optionally, your application determines the IDs of any account(s) into which to merge the lead. Your application can use SOQL to search for accounts that match the lead name, as in the following example:
-    
+
     ```
-    
+
     ```
-    
+
 3.  Optionally, your application determines the IDs of the contact or contacts into which to merge the lead. The application can use SOQL to search for contacts that match the lead contact name, as in the following example:
-    
+
     ```
-    
+
     ```
-    
+
 4.  Optionally, the application determines whether opportunities should be created from the leads.
 5.  The application uses the query (SELECT ... FROM LeadStatus WHERE IsConverted=true) to obtain the leads with converted status.
 6.  The application calls convertLead.
@@ -55,3 +63,27 @@ This example shows how to use the Database.convertLead method to convert a lead.
 #### See Also
 
 -   [*Apex Reference Guide*: Database Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_database.htm)
+
+## Code Examples
+
+```
+SELECT Id, Name FROM Account WHERE Name='CompanyNameOfLeadBeingMerged'
+```
+
+```
+SELECT Id, Name FROM Contact WHERE FirstName='FirstName' AND LastName='LastName' AND AccountId = '001...'
+```
+
+```apex
+Lead myLead = new Lead(LastName = 'Fry', Company='Fry And Sons');
+insert myLead;
+
+Database.LeadConvert lc = new database.LeadConvert();
+lc.setLeadId(myLead.id);
+
+LeadStatus convertStatus = [SELECT Id, ApiName FROM LeadStatus WHERE IsConverted=true LIMIT 1];
+lc.setConvertedStatus(convertStatus.ApiName);
+
+Database.LeadConvertResult lcr = Database.convertLead(lc);
+System.assert(lcr.isSuccess());
+```

@@ -5,11 +5,14 @@ topic: connectapitarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.082Z
-keywords: [ConnectApi.Target, See]
+lastCollected: 2026-03-12T05:14:29.104Z
+estimatedTokens: 312
+keywords: [ConnectApi.Target, Personalization, target, information.]
 ---
 
 # ConnectApi.Target
+
+> Personalization target information.
 
 # ConnectApi.Target
 
@@ -31,3 +34,14 @@ Personalization target information.
 #### See Also
 
 -   [ConnectApi.TargetCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target_collection.htm "List of personalization targets.")
+
+## Related Topics
+
+- ConnectApi.​AudienceTarget (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_audience_target.htm)
+- ConnectApi.​FormulaScope (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_formula_scope.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​PublishStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Scope (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scope.htm)
+- ConnectApi.TargetCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target_collection.htm)

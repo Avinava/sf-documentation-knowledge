@@ -5,11 +5,16 @@ topic: relatedlistcolumndefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.645Z
-keywords: [RelatedListColumnDefinition, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.640Z
+estimatedTokens: 589
+keywords: [RelatedListColumnDefinition, Represents, information, column, related, list., list, specifies, set, records, based, specific, criteria., API, version, 55.0, later., Supported, SOAP, Calls]
 ---
 
 # RelatedListColumnDefinition
+
+> Represents information about a column in a related list. A related list
+         specifies a set of records for a related object, based on specific criteria. This
+      object is available in API version 55.0 and later.
 
 # RelatedListColumnDefinition
 
@@ -48,4 +53,10 @@ Find all available columns on a related list definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT Alias, ColumnSoql, DurableId FROM RelatedListColumnDefinition WHERE RelatedListDefinitionId = 'Account.Opportunities'
 ```

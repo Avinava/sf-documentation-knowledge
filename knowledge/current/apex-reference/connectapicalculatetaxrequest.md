@@ -5,11 +5,17 @@ topic: connectapicalculatetaxrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.851Z
-keywords: [ConnectApi.CalculateTaxRequest]
+lastCollected: 2026-03-12T05:14:24.431Z
+estimatedTokens: 704
+keywords: [ConnectApi.CalculateTaxRequest, Request, sent, through, tax, adapter, external, engine., Inputs, TaxTransactionType, Debit, represent, calculation, request., Credit, cancellation]
 ---
 
 # ConnectApi.CalculateTaxRequest
+
+> Request to sent through the tax adapter to the external tax engine.
+      Inputs with a TaxTransactionType of Debit represent a tax
+      calculation request. Inputs with a TaxTransactionType of
+      Credit represent a tax cancellation request.
 
 # ConnectApi.CalculateTaxRequest
 
@@ -25,3 +31,12 @@ Subclass of [ConnectApi.TaxTransactionRequest](atlas.en-us.apexref.meta/apexref/
 | taxEngineId | String | ID of the Salesforce tax engine entity used to represent the external tax engine. | Required | 55.0 |
 | taxTransactionType | ConnectApi.​TaxTransaction​Type | Type of tax transaction. Values are:Credit—Transaction is a credit transaction.Debit—Transaction is a debit transaction.Void—Reserved for internal use in case of input. In case of output, this value specifies that the tax engine has voided the document that's mentioned as the referenceDocumentCode property value. | Required | 55.0 |
 | taxType | ConnectApi.​CalculateTax​Type | Type of tax calculation. Values are:Actual—Calculated tax represents the final taxed amount for the transaction.Estimated—Calculated tax represents only an estimated value before the transaction is finalized. | Required | 55.0 |
+
+## Related Topics
+
+- ConnectApi.TaxTransactionRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_tax_transaction.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ResultCode (atlas.en-us.apexref.meta/apexref/apex_enum_commercetax_ResultCode.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​TaxTransaction​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CalculateTax​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

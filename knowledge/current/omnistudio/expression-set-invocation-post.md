@@ -5,11 +5,14 @@ topic: expression-set-invocation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.603Z
-keywords: [Expression, Set, Invocation, POST, Note]
+lastCollected: 2026-03-12T05:14:48.890Z
+estimatedTokens: 347
+keywords: [Expression, Set, Invocation, POST, Invokes, expression, Business, Rule, Engine., Note]
 ---
 
 # Expression Set Invocation (POST)
+
+> Invokes expression sets in Business Rule Engine.
 
 # Expression Set Invocation (POST)
 
@@ -69,3 +72,54 @@ Properties
 Response body for POST
 
 [Business Rules Result](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_business_rules_result.htm "Output representation of executing an expression set.")
+
+## Code Examples
+
+```
+/connect/business-rules/expressionSet/${expressionSetName}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/business-rules/expressionSet/${expressionSetName}
+```
+
+```
+{
+  "inputs": [
+    {
+      "age": "25",
+      "state": "CA",
+      "PatientId": "001xx000003GYjnAAG"
+    }
+  ],
+  "options": {
+    "effectiveDate": "2022-12-03T10:15:30Z",
+    "useDatesOnly": "true",
+    "actionContextCode": "9QLxx0000004C92GAE",
+    "explainabilitySpecName": "ES_One_Explainability"
+  }
+}
+```
+
+```
+{
+  "inputs": [
+    {
+      "age": "25",
+      "state": "CA",
+      "PatientId":"001xx000003GYjnAAG",
+      "__actionContextCode":"001xx000003GYjnAAG"
+    }
+  ],
+  "options": {
+    "effectiveDate": "2022-12-03T10:15:30Z",
+    "useDatesOnly": "true"
+  }
+}
+```
+
+## Related Topics
+
+- Expression Set Options Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_options.htm)
+- Business Rules Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_business_rules_result.htm)

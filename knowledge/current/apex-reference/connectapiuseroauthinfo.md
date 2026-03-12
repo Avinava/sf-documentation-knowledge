@@ -5,11 +5,14 @@ topic: connectapiuseroauthinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.436Z
-keywords: [ConnectApi.UserOauthInfo]
+lastCollected: 2026-03-12T05:14:28.184Z
+estimatedTokens: 87
+keywords: [ConnectApi.UserOauthInfo, User, OAuth, information.]
 ---
 
 # ConnectApi.UserOauthInfo
+
+> User OAuth information.
 
 # ConnectApi.UserOauthInfo
 
@@ -19,3 +22,7 @@ User OAuth information.
 | --- | --- | --- | --- |
 | availableExternal​EmailService | Connect.Oauth​ProviderInfo | The available OAuth service provider. | 37.0 |
 | isAuthenticated | Boolean | Specifies whether the user is authenticated (true) or not (false). | 37.0 |
+
+## Related Topics
+
+- Connect.Oauth​ProviderInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_oauth_provider.htm)

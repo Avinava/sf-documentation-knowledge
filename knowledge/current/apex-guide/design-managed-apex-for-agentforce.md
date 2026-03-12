@@ -5,11 +5,17 @@ topic: design-managed-apex-for-agentforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.295Z
-keywords: [Design, Managed, Apex, Agentforce, Global, Important, @InvocableMethod, Define, Action, Note, Structure, Inputs, Outputs, Wrapper, Classes, Example, Code, Agent, See]
+lastCollected: 2026-03-12T05:14:33.621Z
+estimatedTokens: 2623
+keywords: [Design, Managed, Apex, Agentforce, independent, software, vendor, ISV, developer, build, custom, agent, actions, distribute, managed, packages., ensure, subscriber, admins, declaratively]
 ---
 
 # Design Managed Apex for Agentforce
+
+> As an independent software vendor (ISV) developer, you can build custom agent actions
+  using Apex and distribute them in managed packages. To ensure that subscriber admins can
+  declaratively configure your Apex agent actions and that Agentforce can invoke the actions at run
+  time, follow these requirements and recommendations.
 
 # Design Managed Apex for Agentforce
 
@@ -76,15 +82,128 @@ In this example, the getCoordinates method is defined as an @InvocableMethod so 
 #### See Also
 
 -   [Best Practices for Using Global Apex in Managed Packages](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm "As an independent software vendor (ISV) developer, understand when and how to use global Apex in managed packages. Learn design patterns that maximize flexibility and comply with the strict manageability rules applied to global Apex after your managed package’s release. By following these best practices, you can improve the stability and maintainability of your API.")
-    
+
 -   [Access Modifiers](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
-    
+
 -   [InvocableMethod Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "Use the InvocableMethod annotation to identify methods that can be run as invocable actions.")
-    
+
 -   [InvocableVariable Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm "To identify variables used by invocable methods in custom classes, use the InvocableVariable annotation.")
-    
+
 -   [Use the with sharing, without sharing, and inherited sharing Keywords](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm "Use the with sharing or without sharing keywords on a class to specify whether sharing rules must be enforced. Use the inherited sharing keyword on a class to run the class in the sharing mode of the class that called it.")
-    
+
 -   [Enforce User Mode for Database Operations](atlas.en-us.apexcode.meta/apexcode/apex_classes_enforce_usermode.htm "You can run database operations in user mode rather than in the default system mode by using SOQL or SOSL queries with special keywords or by using DML method overloads.")
-    
+
 -   [*Salesforce Developers Blog*: Build Custom Agent Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)
+
+## Code Examples
+
+```apex
+// --- ISV's Managed Package Code ---
+// --- 1. The Global Entrypoint Class ---
+// This class contains the @InvocableMethod and the input/output wrapper classes.
+global with sharing class GeocodingAction {
+    // This method is the thin, global entry point that delegates any business logic to a separate public class.
+        @InvocableMethod(
+            label='Get Coordinates for Address'
+            description='Retrieves the latitude and longitude for a given street address.'
+            category='My ISV App Name'
+        )
+        global static List<GeocodingResponse> getCoordinates(List<GeocodingRequest> requests) {
+            // Delegate the entire list to the internal logic class to ensure
+            // any callouts or DML can be performed in bulk.
+                GeocodingLogic logic = new GeocodingLogic();
+                return logic.performGeocoding(requests);
+        }
+    
+        // --- Input Wrapper Inner Class ---
+        // Defines the parameters an admin can configure for this action.
+        @JsonAccess(serializable='always' deserializable='always')
+        global with sharing class GeocodingRequest {
+            @InvocableVariable(label='Street' required=true)
+            global String street;
+    
+            @InvocableVariable(label='City' required=true)
+            global String city;
+    
+            @InvocableVariable(label='State/Province' required=true)
+            global String state;
+    
+            @InvocableVariable(label='Postal Code' required=true)
+            global String postalCode;
+        }
+    
+        // --- Output Wrapper Inner Class ---
+        // Defines the structured result returned to Agentforce.
+        @JsonAccess(serializable='always' deserializable='always')
+        global with sharing class GeocodingResponse {
+            @InvocableVariable(label='Was Successful')
+            global Boolean isSuccess;
+    
+            @InvocableVariable(label='Latitude')
+            global Decimal latitude;
+    
+            @InvocableVariable(label='Longitude')
+            global Decimal longitude;
+    
+            @InvocableVariable(label='Error Message')
+            global String errorMessage;
+        }
+    
+    // Static factory methods for creating consistent results.
+        public static GeocodingResponse success(Decimal lat, Decimal lon) {
+            GeocodingResponse result = new GeocodingResponse();
+            result.isSuccess = true;
+            result.latitude = lat;
+            result.longitude = lon;
+            return result;
+        }
+
+        public static GeocodingResponse error(String message) {
+            GeocodingResponse result = new GeocodingResponse();
+            result.isSuccess = false;
+            result.errorMessage = message;
+            return result;
+        }
+}
+
+
+// --- 2. The Internal Logic Class (Public, not Global) ---
+// This is where the actual business logic lives.
+// It's separate from the global entry point class for better organization and testing.
+public with sharing class GeocodingLogic {
+    // Since we defined the inputs and outputs as inner classes, we use dot notation to reference them.
+    public List<GeocodingAction.GeocodingResponse> performGeocoding(List<GeocodingAction.GeocodingRequest> requests) {
+        List<GeocodingAction.GeocodingResponse> results = new List<GeocodingAction.GeocodingResponse>();
+
+        // This method would contain your complex, bulkified business logic.
+        // For example, you can aggregate all requests into a single callout
+        // to an external geocoding service.
+
+        // For this simplified example, we loop and return mock results.
+        for (GeocodingAction.GeocodingRequest req : requests) {
+            // In a real implementation, you would perform a callout and handle errors.
+            if (req.postalCode == '94105') {
+                results.add(GeocodingAction.success(37.7749, -122.4194));
+            } else {
+                results.add(GeocodingAction.error('Address could not be found.'));
+            }
+        }
+        return results;
+    }
+}
+```
+
+## Related Topics
+
+- global access modifier (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- @InvocableMethod (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
+- @InvocableVariable (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm)
+- Global Apex Manageability Rules (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)
+- Best Practices for Using Global Apex in Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)
+- Delegate from Thin Global Entry Points (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)
+- Best Practices for Using Global
+                    Apex in Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)
+- Use Parameter Objects for Global Method Inputs and
+                    Return Types (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)
+- @JsonAccess annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_JsonAccess.htm)
+- Access Modifiers (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)

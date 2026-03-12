@@ -5,11 +5,16 @@ topic: productcomponentgrpoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.693Z
-keywords: [ProductComponentGrpOverride, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:11.110Z
+estimatedTokens: 609
+keywords: [ProductComponentGrpOverride, Represents, override, information, Product, Component, Group., cardinality, product, component, group, overridden, context, bundle., API, version, 60.0, later., Supported, Calls]
 ---
 
 # ProductComponentGrpOverride
+
+> Represents override information for a Product Component Group. The
+         cardinality of the product component group can be overridden in the context of a product
+         bundle. This object is available in API version 60.0 and later.
 
 # ProductComponentGrpOverride
 

@@ -5,11 +5,15 @@ topic: traceflag
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.888Z
-keywords: [TraceFlag, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.990Z
+estimatedTokens: 1686
+keywords: [TraceFlag, Represents, trace, flag, triggers, Apex, debug, log, specified, logging, level., Supported, SOAP, API, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # TraceFlag
+
+> Represents a trace flag that triggers an Apex debug log at the
+         specified logging level.
 
 # TraceFlag
 
@@ -48,3 +52,7 @@ To diagnose a functional issue or a performance problem, use the TraceFlag objec
 
 -   To set up logging for a specific user, set LogType to USER\_DEBUG and TracedEntityId to the ID of the user. This option can be configured only for a user, not for an Apex class or Apex trigger.
 -   To set up logging level overrides for an Apex class or trigger, set LogType to CLASS\_TRACING and TracedEntityId to the ID of the Apex class or trigger. CLASS\_TRACING trace flags override other logging levels, but don’t cause logs to be generated or persisted.
+
+## Related Topics
+
+- ApexLog (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexlog.htm)

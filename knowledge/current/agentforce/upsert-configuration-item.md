@@ -5,11 +5,16 @@ topic: upsert-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.760Z
-keywords: [Upsert, Configuration, Item, Request, Response, Note]
+lastCollected: 2026-03-12T05:14:15.238Z
+estimatedTokens: 661
+keywords: [Upsert, Configuration, Item, Submit, bulk, operation, create, update, configuration, items., asynchronous, job, which, getStatus, query, check, progress., Request, Response, Note]
 ---
 
 # Upsert Configuration Item
+
+> Submit a bulk operation to create or update one or more
+      configuration items. This is an asynchronous operation that returns a job ID, which you can
+      use with the getStatus query to check the operation progress.
 
 # Upsert Configuration Item
 
@@ -59,3 +64,64 @@ Properties
     -   Standard Attributes: Many attributes are available out-of-the-box.
     -   Custom Attributes: You can create and include custom attributes using the sObject API.
 -   Add any attribute using its Developer Name (for example, SD\_AsNa—Asset Name) to specify exactly which information you want to receive for your Configuration Items (CIs).
+
+## Code Examples
+
+```
+mutation UpsertCI {
+  upsertCI(
+    input: {
+      payload: [
+        {
+          cnfgItemType: "F5 Load Balancer"
+          SD_AsNa: "LB-PROD-F5-01"
+          SD_Ty: "Application Delivery Controller"
+          SD_De: "Production load balancer for web tier"
+          SD_St: "Active"
+          SD_BuCr: "Critical"
+          SD_Co: "Network Infrastructure"
+          SD_HoNa: "lb-prod-f5-01.corp.local"
+          SD_CiOw: "network.team@company.com"
+          SD_CiLo: "Data Center 1 - DMZ"
+          SD_Ma: "F5 Networks"
+          SD_MoNu: "BIG-IP 4000s"
+          SD_SeNu: "f5-4000s-2021-12345"
+          SD_IpAd: "10.0.2.10"
+          SD_ViIpAd: "10.0.100.10, 10.0.100.11"
+          SD_LoBaPo: "443"
+          SD_LoBaSt: "Available"
+          SD_LoBaMe: "Round Robin"
+          SD_DePo: "web-pool-01"
+          SD_SsPo: "TLS-1.2"
+          SD_SoVe: "16.1.2"
+        }
+      ]
+    }
+  ) {
+    id
+    status
+    updatedAt
+    details
+    totalRecordCount
+    successRecordCount
+    failureRecordCount
+  }
+}
+```
+
+```
+{
+  "data": {
+    "upsertCI": {
+      "id": 108,
+      "status": "Processing",
+      "updatedAt": "2025-11-14T10:15:00.123456Z",
+      "details": "Job queued - Upsert CI - Canonical API (1 items)"
+    }
+  }
+}
+```
+
+## Related Topics
+
+- getStatus (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm)

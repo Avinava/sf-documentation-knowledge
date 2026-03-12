@@ -5,11 +5,15 @@ topic: context-definition-interface-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.194Z
-keywords: [Context, Definition, Interface, Metadata]
+lastCollected: 2026-03-12T05:14:49.805Z
+estimatedTokens: 287
+keywords: [Context, Definition, Metadata, Output, representation, metadata, associated, context, definition, interface.]
 ---
 
 # Context Definition Interface Metadata
+
+> Output representation of the metadata associated with the context definition
+    interface.
 
 # Context Definition Interface Metadata
 
@@ -31,3 +35,21 @@ JSON example
 | lastModifiedBy | String | User, system, or object that last updated the context definition interface. | Small, 62.0 | 62.0 |
 | parentInterfaces | String[] | List of parent context definition interfaces that this interface is inherited from. | Small, 62.0 | 62.0 |
 | version | String | Version number of the context definition interface. | Small, 62.0 | 62.0 |
+
+## Code Examples
+
+```
+{
+  "contextDefinitionInterfaceMetadata": {
+    "createdBy": "Automated Process",
+    "createdDate": "2024-05-15T00:00:00.000Z",
+    "description": "Test Interface",
+    "developerName": "TestBaseInterface",
+    "interfaceName": "TestBaseInterface",
+    "lastModifiedBy": "Automated Process",
+    "parentInterfaces": [
+      "TestBaseInterface1"
+    ],
+    "version": "62.1"
+  }
+```

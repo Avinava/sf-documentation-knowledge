@@ -5,11 +5,15 @@ topic: portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.000Z
-keywords: [Portal, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:41.805Z
+estimatedTokens: 1328
+keywords: [Portal, metadata, represents, partner, portal., Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Sample, Definition, Wildcard, Support]
 ---
 
 # Portal
+
+> The Portal metadata type represents a partner
+        portal.
 
 # Portal
 
@@ -75,3 +79,30 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [CustomSite](atlas.en-us.api_meta.meta/api_meta/meta_sites.htm "Represents a Salesforce site. Create public websites and applications that are directly integrated with your Salesforce organization, but don't require users to log in with a username and password.")
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Portal xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>Customer Portal</description>
+    <emailSenderName>rguest@albany.com</emailSenderName>
+    <enableSelfCloseCase>false</enableSelfCloseCase>
+    <forgotPassTemplate>unfiled$public/ChangePwdEmail</forgotPassTemplate>
+    <isSelfRegistrationActivated>false</isSelfRegistrationActivated>
+    <newPassTemplate>unfiled$public/ChangePwdEmail</newPassTemplate>
+    <newUserTemplate>unfiled$public/NewUserEmail</newUserTemplate>
+    <selfRegUserTemplate>unfiled$public/SelfRegUserEmail</selfRegUserTemplate>
+    <showActionConfirmation>false</showActionConfirmation>
+    <type>CustomerSuccess</type>
+</Portal>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- CustomSite (atlas.en-us.api_meta.meta/api_meta/meta_sites.htm)

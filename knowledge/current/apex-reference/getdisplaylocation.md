@@ -5,11 +5,15 @@ topic: getdisplaylocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.114Z
-keywords: [getDisplayLocation, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.350Z
+estimatedTokens: 306
+keywords: [getDisplayLocation, Retrieves, display, location, where, canvas, app, being, called, from., example, Visualforce, page., Usage]
 ---
 
 # getDisplayLocation()
+
+> Retrieves the display location where
+the canvas app is being called from. For example, a value of Visualforce page.
 
 # getDisplayLocation()
 
@@ -38,3 +42,7 @@ The return value can be one of the following strings:
 ## Usage
 
 Use this method to obtain the display location for the canvas app.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

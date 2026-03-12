@@ -5,11 +5,19 @@ topic: lightning-usage-by-flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.406Z
-keywords: [Lightning, Usage, FlexiPage, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.623Z
+estimatedTokens: 248
+namespace: FlexiPage
+keywords: [Lightning, Usage, FlexiPage, details, custom, pages, viewed, most, frequently, Experience., resource, REST, API, version, 44.0, later., Syntax, Example]
 ---
 
 # Lightning Usage by FlexiPage
+
+> Returns details about the custom pages viewed most
+   frequently in Lightning Experience. This resource is available in REST API version 44.0 and
+  later.
+
+**Namespace:** `FlexiPage`
 
 # Lightning Usage by FlexiPage
 
@@ -62,4 +70,14 @@ Example Request Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/LightningUsageByFlexiPageMetrics -H "Authorization: Bearer token"
+```
+
+```
+SELECT FlexiPageNameOrId FlexiPageNameOrId, SUM(TotalCount) Total FROM LightningUsageByFlexiPageMetrics WHERE MetricsDate = Last_N_DAYS:7 AND (NOT FlexiPageNameOrId = 'unknown unknown') AND (NOT FlexiPageNameOrId = 'unknown | unknown') GROUP BY FlexiPageNameOrId ORDER BY SUM(TotalCount) Desc Limit 10
 ```

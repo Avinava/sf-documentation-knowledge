@@ -5,11 +5,15 @@ topic: using-patterns-and-matchers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.626Z
-keywords: [Patterns, Matchers, Note]
+lastCollected: 2026-03-12T05:14:32.670Z
+estimatedTokens: 721
+keywords: [Patterns, Matchers, Apex, provides, patterns, matchers, enable, search, text, regular, expressions., Note]
 ---
 
 # Using Patterns and Matchers
+
+> Apex provides patterns and matchers that enable you to search text using
+regular expressions.
 
 # Using Patterns and Matchers
 
@@ -51,12 +55,37 @@ If you are only going to use a regular expression once, use the Pattern class ma
 
 ```
 
--   **[Using Regions](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_regions.htm)**  
-    
--   **[Using Match Operations](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_matching.htm)**  
-    
--   **[Using Bounds](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_bounds.htm)**  
-    
--   **[Understanding Capturing Groups](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_capturing_groups.htm)**  
-    
+-   **[Using Regions](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_regions.htm)**
+
+-   **[Using Match Operations](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_matching.htm)**
+
+-   **[Using Bounds](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_bounds.htm)**
+
+-   **[Understanding Capturing Groups](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_capturing_groups.htm)**
+
 -   **[Pattern and Matcher Example](atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_example.htm)**
+
+## Code Examples
+
+```apex
+// First, instantiate a new Pattern object "MyPattern"
+Pattern MyPattern = Pattern.compile('a*b');
+
+// Then instantiate a new Matcher object "MyMatcher"
+Matcher MyMatcher = MyPattern.matcher('aaaaab');
+
+// You can use the system static method assert to verify the match
+System.assert(MyMatcher.matches());
+```
+
+```
+Boolean Test = Pattern.matches('a*b', 'aaaaab');
+```
+
+## Related Topics
+
+- Using Regions (atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_regions.htm)
+- Using Match Operations (atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_matching.htm)
+- Using Bounds (atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_bounds.htm)
+- Understanding Capturing Groups (atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_capturing_groups.htm)
+- Pattern and Matcher Example (atlas.en-us.apexcode.meta/apexcode/apex_classes_pattern_and_matcher_example.htm)

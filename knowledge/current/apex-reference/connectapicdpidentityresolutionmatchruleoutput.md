@@ -5,11 +5,14 @@ topic: connectapicdpidentityresolutionmatchruleoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.219Z
-keywords: [ConnectApi.CdpIdentityResolutionMatchRuleOutput, See]
+lastCollected: 2026-03-12T05:14:26.471Z
+estimatedTokens: 152
+keywords: [ConnectApi.CdpIdentityResolutionMatchRuleOutput, Identity, resolution, ruleset’s, match, rule.]
 ---
 
 # ConnectApi.CdpIdentityResolutionMatchRuleOutput
+
+> Identity resolution ruleset’s match rule.
 
 # ConnectApi.CdpIdentityResolutionMatchRuleOutput
 
@@ -23,3 +26,10 @@ Identity resolution ruleset’s match rule.
 #### See Also
 
 -   [ConnectApi.CdpIdentityResolutionOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_output.htm "Identity resolution ruleset.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpIdentityResolution​MatchCriterionOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_match_criteria_outpu.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.CdpIdentityResolutionOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_output.htm)

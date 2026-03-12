@@ -5,11 +5,16 @@ topic: sobjects-suggested-articles-by-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.750Z
-keywords: [sObjects, Suggested, Articles, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.123Z
+estimatedTokens: 693
+keywords: [sObjects, Suggested, Articles, enter, article, retrieve, records, offer, similar, information, entered., resource, REST, API, version, 30.0, later., Syntax, Example]
 ---
 
 # sObjects Suggested Articles by ID
+
+> When
+    you enter an article ID, you can retrieve records that offer similar information as the ID you
+    entered. This resource is available in REST API version 30.0 and later.
 
 # sObjects Suggested Articles by ID
 
@@ -61,4 +66,26 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+categories=%7B%22Regions%22%3A%22Asia%22%2C%22
+Products%22%3A%22Laptops%22%7D
+```
+
+```
+[ {
+  "attributes" : {
+    "type" : "KnowledgeArticleVersion",
+    "url" : "/services/data/v66.0/sobjects/KnowledgeArticleVersion/ka0D00000004CcQ"
+  "Id" : "ka0D00000004CcQ"
+}, {
+  "attributes" : {
+    "type" : "KnowledgeArticleVersion",
+    "url" : "/services/data/v66.0/sobjects/KnowledgeArticleVersion/ka0D00000004CXo"
+  },
+  "Id" : "ka0D00000004CXo"
+} ]
 ```

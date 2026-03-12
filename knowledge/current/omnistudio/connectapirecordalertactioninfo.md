@@ -5,11 +5,15 @@ topic: connectapirecordalertactioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.850Z
-keywords: [ConnectApi.RecordAlertActionInfo]
+lastCollected: 2026-03-12T05:14:47.787Z
+estimatedTokens: 100
+keywords: [ConnectApi.RecordAlertActionInfo, Representation, information, record, alert, action.]
 ---
 
 # ConnectApi.RecordAlertActionInfo
+
+> Representation of the information of the record alert
+    action.
 
 # ConnectApi.RecordAlertActionInfo
 

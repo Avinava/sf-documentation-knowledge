@@ -5,11 +5,17 @@ topic: commerce-order-delivery-group-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.909Z
-keywords: [Commerce, Order, Delivery, Group, Summary, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.231Z
+estimatedTokens: 587
+keywords: [Commerce, Order, Delivery, Group, Summary, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud.]
 ---
 
 # Commerce: Order Delivery Group Summary Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Delivery Group Summary data is information
+         about the method that the buyer uses to compensate a seller for a service or product
+         purchased.
 
 # Commerce: Order Delivery Group Summary Mapping
 

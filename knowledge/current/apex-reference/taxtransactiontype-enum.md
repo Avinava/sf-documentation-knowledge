@@ -5,11 +5,15 @@ topic: taxtransactiontype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.490Z
-keywords: [TaxTransactionType, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.646Z
+estimatedTokens: 273
+keywords: [TaxTransactionType, Shows, whether, tax, transaction, credit, debit, transaction., Usage, Values]
 ---
 
 # TaxTransactionType Enum
+
+> Shows whether the tax transaction is for a credit or debit
+      transaction.
 
 # TaxTransactionType Enum
 
@@ -28,3 +32,8 @@ The commercetax.TaxTransactionType enum includes these values.
 | Credit | Represents a credit transaction. |
 | Debit | Represents a debit transaction. |
 | Void | Specifies that the tax engine has voided the document that's mentioned in the referenceDocumentCode property value. |
+
+## Related Topics
+
+- CalculateTaxResponse (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_CalculateTaxResponse.htm)
+- CalculateTaxRequest (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_CalculateTaxRequest.htm)

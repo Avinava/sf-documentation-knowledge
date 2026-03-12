@@ -5,11 +5,15 @@ topic: connectapicommentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.985Z
-keywords: [ConnectApi.CommentInput, See]
+lastCollected: 2026-03-12T05:14:24.636Z
+estimatedTokens: 820
+keywords: [ConnectApi.CommentInput, Comment, input, used, add, rich, comments, example, include, mentions, file, attachments.]
 ---
 
 # ConnectApi.CommentInput
+
+> Comment input used to add rich comments, for example, comments that include mentions or
+  file attachments.
 
 # ConnectApi.CommentInput
 
@@ -25,15 +29,24 @@ Comment input used to add rich comments, for example, comments that include ment
 #### See Also
 
 -   [Post a Comment with a Mention](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_comment_feed_element_2.htm "Post a Comment with a Mention - HTML (New Window)")
-    
+
 -   [Post a Comment with a New File](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_comment_feed_element_3.htm "Post a Comment with a New File - HTML (New Window)")
-    
+
 -   [Post a Comment with an Existing File](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_comment_feed_element_4.htm "Post a Comment with an Existing File - HTML (New Window)")
-    
+
 -   [Post a Rich-Text Comment with Inline Image](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_comment_richtext_inlineimage.htm "Post a Rich-Text Comment with Inline Image - HTML (New Window)")
-    
+
 -   [Post a Rich-Text Feed Comment with a Code Block](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_comment_richtext_code_snippet.htm "Post a Rich-Text Feed Comment with a Code Block - HTML (New Window)")
-    
+
 -   [Edit a Comment](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_edit_comment.htm "Edit a Comment - HTML (New Window)")
-    
+
 -   [postCommentToFeedElement(communityId, feedElementId, comment, feedElementFileUpload)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm#apex_ConnectAPI_ChatterFeeds_postCommentToFeedElement_2 "Post a rich-text comment to a feed element. Use this method to include mentions and to attach a file.")
+
+## Related Topics
+
+- ConnectApi.​FeedItem​AttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_FeedItemAtt.htm)
+- ConnectApi.​MessageBody​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm)
+- updateComment(communityId, commentId, comment) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm)
+- ConnectApi.​CommentCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_comment_capability_set.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- postCommentToFeedElement(communityId, feedElementId, comment, feedElementFileUpload) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm)

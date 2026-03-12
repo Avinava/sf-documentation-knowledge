@@ -6,12 +6,18 @@ topic: static-and-instance-methods-variables-and-initialization-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.662Z
-keywords: [Static, Instance, Methods, Variables, Initialization, Code, Characteristics, Note, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.724Z
+estimatedTokens: 1919
+keywords: [Instance, Variables, Initialization, Code, Apex, variables, initialization, code., However, classes, can't, static., instance, member, code, which, modifiers, local, variables., Characteristics]
 ---
 
 # Static and Instance Methods, Variables, and Initialization
         Code
+
+> In Apex, you can have static methods, variables, and initialization
+        code. However, Apex classes can't be static. You can also have instance
+        methods, member variables, and initialization code, which have no modifiers, and
+            local variables.
 
 # Static and Instance Methods, Variables, and Initialization Code
 
@@ -131,3 +137,78 @@ In API version 50.0 and later, scope and accessibility rules are enforced on Ape
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm "Access Modifiers")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm "Apex Properties")
+
+## Code Examples
+
+```
+Boolean myCondition = true;
+if (myCondition) {
+    integer localVariable = 10;
+}
+```
+
+```apex
+public class P { 
+   public static boolean firstRun = true; 
+}
+```
+
+```
+trigger T1 on Account (before delete, after delete, after undelete) { 
+       if(Trigger.isBefore){
+          if(Trigger.isDelete){
+             if(p.firstRun){
+                 Trigger.old[0].addError('Before Account Delete Error');
+                  p.firstRun=false;
+              } 
+           }
+        }
+}
+```
+
+```apex
+public static void method() {
+String Database = '';
+Database.insert(new Account());
+}
+```
+
+```apex
+public class Plotter {
+
+    // This inner class manages the points
+    class Point {
+        Double x;
+        Double y;
+
+        Point(Double x, Double y) {
+             this.x = x;
+             this.y = y;
+        }
+        Double getXCoordinate() {
+             return x;
+        }
+
+        Double getYCoordinate() {
+             return y;
+        }
+    }
+
+    List<Point> points = new List<Point>();
+
+    public void plot(Double x, Double y) {
+        points.add(new Point(x, y));
+    }
+    
+    // The following method takes the list of points and does something with them
+    public void render() {
+    }
+}
+```
+
+## Related Topics
+
+- NamespaceAccessible
+                    Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm)

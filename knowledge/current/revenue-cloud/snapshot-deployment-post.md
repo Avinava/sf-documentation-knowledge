@@ -5,11 +5,15 @@ topic: snapshot-deployment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.342Z
-keywords: [Snapshot, Deployment, POST]
+lastCollected: 2026-03-12T05:14:07.219Z
+estimatedTokens: 288
+keywords: [Snapshot, Deployment, POST, Create, indexes, snapshot., Indexes, improve, search, results, easier, find, products, run, time, through, terms.]
 ---
 
 # Snapshot Deployment (POST)
+
+> Create indexes for a snapshot. Indexes improve search results and make
+      it easier to find products at run time through search terms.
 
 # Snapshot Deployment (POST)
 
@@ -61,3 +65,38 @@ Properties
 Response body for POST
 
 [Snapshot Deployment](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_snapshot_deployment_output.htm "Output representation of the snapshot deployment.")
+
+## Code Examples
+
+```
+/connect/pcm/index/deploy
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/index/deploy
+```
+
+```
+{
+  "snapshot": {
+    "activationType": "IMMEDIATE"
+  },
+  "buildType": "FULL"
+}
+```
+
+```
+{
+  "snapshot": {
+    "activationType": "IMMEDIATE",
+    "id": "1Avxx0000005DFe1AM"
+  },
+  "buildType": "FULL"
+}
+```
+
+## Related Topics
+
+- Run-time Catalog Snapshot Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_runtime_catalog_snapshot_input.htm)
+- Snapshot
+              Deployment (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_snapshot_deployment_output.htm)

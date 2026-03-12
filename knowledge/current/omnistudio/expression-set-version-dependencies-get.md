@@ -5,11 +5,14 @@ topic: expression-set-version-dependencies-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.788Z
-keywords: [Expression, Set, Version, Dependencies, GET]
+lastCollected: 2026-03-12T05:14:49.184Z
+estimatedTokens: 114
+keywords: [Expression, Set, Version, Dependencies, GET, Retrieve, expression, set, version, dependencies.]
 ---
 
 # Expression Set Version Dependencies (GET)
+
+> Retrieve expression set version dependencies.
 
 # Expression Set Version Dependencies (GET)
 
@@ -42,3 +45,17 @@ GET
 Response body for GET
 
 [Expression Set Version Dependency](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_version_dependency_output.htm "Output representation for the expression set version dependency.")
+
+## Code Examples
+
+```
+/connect/business-rules/expression-set/version/${expressionSetVersionId}/dependencies
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v58.0/connect/business-rules/expression-set/version/9QARN000000016v4AA/dependencies
+```
+
+## Related Topics
+
+- Expression Set Version Dependency (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_version_dependency_output.htm)

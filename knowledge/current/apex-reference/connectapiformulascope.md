@@ -5,11 +5,14 @@ topic: connectapiformulascope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.952Z
-keywords: [ConnectApi.FormulaScope, See]
+lastCollected: 2026-03-12T05:14:27.535Z
+estimatedTokens: 162
+keywords: [ConnectApi.FormulaScope, Formula, scope, target.]
 ---
 
 # ConnectApi.FormulaScope
+
+> Formula scope for a target.
 
 # ConnectApi.FormulaScope
 
@@ -25,3 +28,10 @@ Formula scope for a target.
 #### See Also
 
 -   [ConnectApi.Target](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target.htm "Personalization target information.")
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.Target (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target.htm)

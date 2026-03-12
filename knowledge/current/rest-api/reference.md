@@ -5,11 +5,15 @@ topic: reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.444Z
-keywords: [Reference, Note]
+lastCollected: 2026-03-12T05:14:35.693Z
+estimatedTokens: 5027
+keywords: [Reference, following, table, lists, supported, REST, resources, API, provides, brief, description, each., Note]
 ---
 
 # Reference
+
+> The following table lists supported REST resources in the API and provides a brief
+		description for each.
 
 # Reference
 
@@ -128,3 +132,16 @@ Some parts of request URIs are case-sensitive, such as IDs. Other parts of URIs 
 | Tooling API | /services/data/vXX.X/toolingAccesses features in the Tooling API. See the Tooling API Developer Guide. |
 | UI API | /services/data/vXX.X/ui-apiAccesses features in the UI API. See the User Interface API Developer Guide. |
 | Wave(Analytics REST API) | /services/data/vXX.X/waveAccesses features in the Analytics REST API. See the Analytics REST API Developer Guide. |
+
+## Related Topics
+
+- Versions (atlas.en-us.api_rest.meta/api_rest/resources_versions.htm)
+- Resources by Version (atlas.en-us.api_rest.meta/api_rest/resources_discoveryresource.htm)
+- Invocable Actions (atlas.en-us.api_rest.meta/api_rest/resources_actions_invocable.htm)
+- Get AppMenu Types (atlas.en-us.api_rest.meta/api_rest/resources_appmenu_get.htm)
+- AppMenu Items (atlas.en-us.api_rest.meta/api_rest/resources_appmenu.htm)
+- AppMenu Mobile Items (atlas.en-us.api_rest.meta/api_rest/resources_appmenu_mobile_web.htm)
+- Compact Layouts (atlas.en-us.api_rest.meta/api_rest/resources_compact_layouts.htm)
+- Composite (atlas.en-us.api_rest.meta/api_rest/resources_composite_composite.htm)
+- Composite Batch (atlas.en-us.api_rest.meta/api_rest/resources_composite_batch.htm)
+- Using Composite Graphs (atlas.en-us.api_rest.meta/api_rest/resources_composite_graph_introduction.htm)

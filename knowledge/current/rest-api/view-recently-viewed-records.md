@@ -5,11 +5,15 @@ topic: view-recently-viewed-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:24.979Z
-keywords: [View, Recently, Viewed, Records]
+lastCollected: 2026-03-12T05:14:35.056Z
+estimatedTokens: 157
+keywords: [View, Recently, Viewed, Records, Items, resource, get, list, recently, viewed, records.]
 ---
 
 # View Recently Viewed Records
+
+> Use the Recently Viewed Items resource to get a list of
+            recently viewed records.
 
 # View Recently Viewed Records
 
@@ -30,3 +34,34 @@ Example response body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/recent/?limit=2 -H "Authorization: Bearer token"
+```
+
+```
+{ 
+    "attributes" : 
+    { 
+        "type" : "Account", 
+        "url" : "/services/data/v66.0/sobjects/Account/a06U000000CelH0IAJ" 
+    }, 
+    "Id" : "a06U000000CelH0IAJ", 
+    "Name" : "Acme" 
+}, 
+{ 
+    "attributes" : 
+    { 
+        "type" : "Opportunity", 
+        "url" : "/services/data/v66.0/sobjects/Opportunity/a06U000000CelGvIAJ" 
+    }, 
+    "Id" : "a06U000000CelGvIAJ", 
+    "Name" : "Acme - 600 Widgets" 
+}
+```
+
+## Related Topics
+
+- Recently Viewed Items (atlas.en-us.api_rest.meta/api_rest/resources_recent_items.htm)

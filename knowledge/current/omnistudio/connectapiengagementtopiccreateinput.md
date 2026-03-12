@@ -5,11 +5,15 @@ topic: connectapiengagementtopiccreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.838Z
-keywords: [ConnectApi.EngagementTopicCreateInput]
+lastCollected: 2026-03-12T05:14:47.677Z
+estimatedTokens: 436
+keywords: [ConnectApi.EngagementTopicCreateInput, Input, representation, create, engagement, topic, record.]
 ---
 
 # ConnectApi.EngagementTopicCreateInput
+
+> Input representation to create an engagement topic
+    record.
 
 # ConnectApi.EngagementTopicCreateInput
 
@@ -30,3 +34,8 @@ Input representation to create an engagement topic record.
 | processType | String | The type of the process executed during the engagement interaction. | Optional | 55.0 |
 | relatedPersonId | String | The person for whom an engagement interaction was initiated. | Optional | 55.0 |
 | topicId | String | The engagement topic record that’s associated with the parent engagement topic. | Optional | 55.0 |
+
+## Related Topics
+
+- ConnectApi.EngagementCustomFieldsInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_custom_fields.htm)
+- ConnectApi.EngagementCustomFieldsOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_custom_field_output.htm)

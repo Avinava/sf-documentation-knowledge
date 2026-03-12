@@ -5,11 +5,15 @@ topic: workorderlineitem-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.153Z
-keywords: [WorkOrderLineItem, Custom, Fields, Supported, Calls, Special, Access, Rules, See]
+lastCollected: 2026-03-12T05:14:55.382Z
+estimatedTokens: 662
+keywords: [WorkOrderLineItem, Custom, Fields, fields, associated, subtask, work, order, field, service., Supported, Calls, Special, Access, Rules]
 ---
 
 # WorkOrderLineItem Custom Fields
+
+> Custom fields associated with a subtask on a work order in field
+         service.
 
 # WorkOrderLineItem Custom Fields
 
@@ -35,7 +39,7 @@ Field Service managed package must be installed.
 #### See Also
 
 -   [Salesforce Object Reference: WorkOrderLineItem](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_workorderlineitem.htm "Salesforce Object Reference: WorkOrderLineItem - HTML (New Window)")
-    
+
 -   [Salesforce Help: Fill Schedule Gaps](https://help.salesforce.com/articleView?id=service.pfs_fill_schedule.htm&type=5&language=en_US "Salesforce Help: Fill Schedule Gaps - HTML (New Window)")
-    
+
 -   [Salesforce Help: Work Rule Type: Service Appointment Visiting Hours](https://help.salesforce.com/s/articleView?id=service.pfs_optimization_theory_work_rules_visiting_hours.htm&type=5&language=en_US "Salesforce Help: Work Rule Type: Service Appointment Visiting Hours - HTML (New Window)")

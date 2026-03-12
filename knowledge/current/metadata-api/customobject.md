@@ -5,11 +5,16 @@ topic: customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.112Z
-keywords: [CustomObject, Declarative, Metadata, File, Suffix, Directory, Location, Note, Version, Fields, MktDataModelAttributes, MktDataLakeAttributes, Special, Access, Rules, Additional, Components, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:36.360Z
+estimatedTokens: 8068
+keywords: [CustomObject, Represents, custom, stores, data, unique, org, external, maps, stored, outside, org., Declarative, Metadata, File, Suffix, Directory, Location, Note, Version]
 ---
 
 # CustomObject
+
+> Represents a custom object that stores data unique to
+            your org or an external object that maps to data stored outside your
+        org.
 
 # CustomObject
 
@@ -182,57 +187,260 @@ The following is the metadata definition of an external object for Salesforce Co
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file for Field Sets and Record Types but not for other components. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
-1.  [ActionOverride](atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)  
+1.  [ActionOverride](atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
     Represents an action override on a standard or custom object. Use it to create, update, edit, or delete action overrides. You can access ActionOverride only by accessing its encompassing CustomObject.
-2.  [BusinessProcess](atlas.en-us.api_meta.meta/api_meta/meta_businessprocess.htm)  
+2.  [BusinessProcess](atlas.en-us.api_meta.meta/api_meta/meta_businessprocess.htm)
     The BusinessProcess metadata type enables you to display different picklist values for users based on their profile.
-3.  [CompactLayout](atlas.en-us.api_meta.meta/api_meta/meta_compactlayout.htm)  
+3.  [CompactLayout](atlas.en-us.api_meta.meta/api_meta/meta_compactlayout.htm)
     Represents the metadata associated with a compact layout. This type extends the Metadata metadata type and inherits its fullName field.
-4.  [CustomField](atlas.en-us.api_meta.meta/api_meta/customfield.htm)  
+4.  [CustomField](atlas.en-us.api_meta.meta/api_meta/customfield.htm)
     Represents the metadata associated with a field. Use this metadata type to create, update, or delete custom field definitions on standard, custom, and external objects or standard field definitions on standard objects.
-5.  [FieldSet](atlas.en-us.api_meta.meta/api_meta/meta_fieldset.htm)  
+5.  [FieldSet](atlas.en-us.api_meta.meta/api_meta/meta_fieldset.htm)
     Represents a field set. A field set is a grouping of fields. For example, you could have a field set that contains fields describing a user's first name, middle name, last name, and business title.
-6.  [HistoryRetentionPolicy](atlas.en-us.api_meta.meta/api_meta/meta_historyretentionpolicy.htm)  
+6.  [HistoryRetentionPolicy](atlas.en-us.api_meta.meta/api_meta/meta_historyretentionpolicy.htm)
     Represents the policy for archiving field history data. When you set a policy, you specify the number of months that you want to keep field history in Salesforce before archiving it. By default, when Field Audit Trail is enabled, all field history is retained.
-7.  [Index](atlas.en-us.api_meta.meta/api_meta/meta_index.htm)  
+7.  [Index](atlas.en-us.api_meta.meta/api_meta/meta_index.htm)
     Represents an index defined within a custom [big object](https://developer.salesforce.com/docs/atlas.en-us.260.0.bigobjects.meta/bigobjects/big_object.htm). Use this metadata type to define the composite primary key (index) for a custom big object. This type extends the Metadata metadata type and inherits its fullName field.
-8.  [ListView](atlas.en-us.api_meta.meta/api_meta/meta_listview.htm)  
+8.  [ListView](atlas.en-us.api_meta.meta/api_meta/meta_listview.htm)
     ListView allows you to see a filtered list of records, such as contacts, accounts, or custom objects.
-9.  [NamedFilter](atlas.en-us.api_meta.meta/api_meta/namedfilter.htm)  
+9.  [NamedFilter](atlas.en-us.api_meta.meta/api_meta/namedfilter.htm)
     Represents the metadata associated with a lookup filter. This metadata type is used to create, update, or delete lookup filter definitions. This component has been removed as of API version 30.0 and is only available in previous API versions. The metadata associated with a lookup filter is now represented by the lookupFilter field in the CustomField component.
-10.  [Picklist (Including Dependent Picklist)](atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)  
+10.  [Picklist (Including Dependent Picklist)](atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
      Deprecated. Represents a picklist (or dependent picklist) definition for a custom field in a custom object or a custom or standard field in a standard object, such as an account.
-11.  [ProfileSearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_profilesearchlayouts.htm)  
+11.  [ProfileSearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_profilesearchlayouts.htm)
      Represents a user profile’s search results layouts for an object. ProfileSearchLayouts are similar to SearchLayouts. However, with profile-specific layouts, each user profile can have a different search results layout for an object.
-12.  [RecordType](atlas.en-us.api_meta.meta/api_meta/meta_recordtype.htm)  
+12.  [RecordType](atlas.en-us.api_meta.meta/api_meta/meta_recordtype.htm)
      Represents the metadata associated with a record type. Record types let you offer different business processes, picklist values, and page layouts to different users. Use this metadata type to create, update, or delete record type definitions for a custom object.
-13.  [SearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm)  
+13.  [SearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm)
      Represents the metadata associated with the search layouts for an object. You can customize which fields to display for users in search results, search filter fields, lookup dialogs, and recent record lists on tab home pages. You can access SearchLayouts only by accessing its encompassing CustomObject.
-14.  [SharingReason](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingreason.htm)  
+14.  [SharingReason](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingreason.htm)
      Represents an Apex sharing reason, which is used to indicate why sharing was implemented for a custom object. Apex managed sharing allows developers to use Apex to programmatically share custom objects. When you use Apex managed sharing to share a custom object, only users with the “Modify All Data” permission can add or change the sharing on the custom object's record, and the sharing access is maintained across record owner changes.
-15.  [SharingRecalculation](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingrecalculation.htm)  
+15.  [SharingRecalculation](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingrecalculation.htm)
      Represents Apex classes that recalculate the Apex managed sharing for a specific custom object.
-16.  [ValidationRule](atlas.en-us.api_meta.meta/api_meta/meta_validationformulas.htm)  
+16.  [ValidationRule](atlas.en-us.api_meta.meta/api_meta/meta_validationformulas.htm)
      Represents a validation rule, which is used to verify that the data a user enters in a record is valid and can be saved. A validation rule contains a formula or expression that evaluates the data in one or more fields and returns a value of true or false. Validation rules also include an error message that your client application can display to the user when the rule returns a value of true due to invalid data.
-17.  [WebLink](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)  
+17.  [WebLink](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)
      Represents a custom button or link defined in a custom object.
-18.  [Metadata Field Types](atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)  
+18.  [Metadata Field Types](atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
      These field types extend the field types described in the *Salesforce Object Reference*.
 
 #### See Also
 
 -   [CustomField](atlas.en-us.api_meta.meta/api_meta/customfield.htm "Represents the metadata associated with a field. Use this metadata type to create, update, or delete custom field definitions on standard, custom, and external objects or standard field definitions on standard objects.")
-    
+
 -   [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.")
-    
+
 -   [Picklist (Including Dependent Picklist)](atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm "Deprecated. Represents a picklist (or dependent picklist) definition for a custom field in a custom object or a custom or standard field in a standard object, such as an account.")
-    
+
 -   [SearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm "Represents the metadata associated with the search layouts for an object. You can customize which fields to display for users in search results, search filter fields, lookup dialogs, and recent record lists on tab home pages. You can access SearchLayouts only by accessing its encompassing CustomObject.")
-    
+
 -   [WebLink](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm "Represents a custom button or link defined in a custom object.")
-    
+
 -   [CustomObjectTranslation](atlas.en-us.api_meta.meta/api_meta/meta_customobjecttranslation.htm "This metadata type allows you to translate custom objects for a variety of languages.")
-    
+
 -   [ListView](atlas.en-us.api_meta.meta/api_meta/meta_listview.htm "ListView allows you to see a filtered list of records, such as contacts, accounts, or custom objects.")
-    
+
 -   [CompactLayout](atlas.en-us.api_meta.meta/api_meta/meta_compactlayout.htm "Represents the metadata associated with a compact layout. This type extends the Metadata metadata type and inherits its fullName field.")
+
+## Code Examples
+
+```
+Account
+MyCustomObject__c
+```
+
+```
+MyExternalObject__x
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>test object with one field for eclipse ide testing</description>
+    <fields>
+        <fullName>Comments__c</fullName>
+        <description>add your comments about this object here</description>
+        <inlineHelpText>This field contains comments made about this object</inlineHelpText>
+        <label>Comments</label>
+        <length>32000</length>
+        <type>LongTextArea</type>
+        <visibleLines>30</visibleLines>
+    </fields>
+    <label>MyFirstObject</label>
+    <nameField>
+        <label>MyFirstObject Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>MyFirstObjects</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <deploymentStatus>InDevelopment</deploymentStatus>
+    <description>Products</description>
+    <enableFeeds>false</enableFeeds>
+    <externalDataSource>OData</externalDataSource>
+    <externalIndexAvailable>false</externalIndexAvailable>
+    <externalName>Products</externalName>
+    <fields>
+        <fullName>DiscontinuedDate__c</fullName>
+        <description>DiscontinuedDate</description>
+        <externalDeveloperName>DiscontinuedDate</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>DiscontinuedDate</label>
+        <required>false</required>
+        <type>DateTime</type>
+    </fields>
+    <fields>
+        <fullName>ID__c</fullName>
+        <description>ID</description>
+        <externalDeveloperName>ID</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>ID</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Name__c</fullName>
+        <description>Name</description>
+        <externalDeveloperName>Name</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Name</label>
+        <length>128</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Price__c</fullName>
+        <description>Price</description>
+        <externalDeveloperName>Price</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Price</label>
+        <precision>16</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Products__c</fullName>
+        <externalDeveloperName>Products</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Products</label>
+        <length>20</length>
+        <referenceTo>Products__x</referenceTo>
+        <relationshipLabel>Products</relationshipLabel>
+        <relationshipName>Products</relationshipName>
+        <type>ExternalLookup</type>
+    </fields>
+    <fields>
+        <fullName>Rating__c</fullName>
+        <description>Rating</description>
+        <externalDeveloperName>Rating</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>Rating</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>ReleaseDate__c</fullName>
+        <description>ReleaseDate</description>
+        <externalDeveloperName>ReleaseDate</externalDeveloperName>
+        <externalId>false</externalId>
+        <isFilteringDisabled>false</isFilteringDisabled>
+        <isNameField>false</isNameField>
+        <isSortingDisabled>false</isSortingDisabled>
+        <label>ReleaseDate</label>
+        <required>false</required>
+        <type>DateTime</type>
+    </fields>
+    <label>Products</label>
+    <pluralLabel>Products</pluralLabel>
+    <searchLayouts>
+        <customTabListAdditionalFields>ExternalId</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>ExternalId</lookupDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>ExternalId</lookupPhoneDialogsAdditionalFields>
+        <searchResultsAdditionalFields>ExternalId</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>DisplayUrl</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ID__c</searchResultsAdditionalFields>
+    </searchLayouts>
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- fullName (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Step 3: Walk Through the Java Sample Code (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_java_sample.htm)
+- ActionOverride (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- BusinessProcess (atlas.en-us.api_meta.meta/api_meta/meta_businessprocess.htm)
+- CompactLayout (atlas.en-us.api_meta.meta/api_meta/meta_compactlayout.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- CustomField[] (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- FieldSet (atlas.en-us.api_meta.meta/api_meta/meta_fieldset.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)

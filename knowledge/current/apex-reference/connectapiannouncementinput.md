@@ -5,11 +5,14 @@ topic: connectapiannouncementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.768Z
-keywords: [ConnectApi.AnnouncementInput, See]
+lastCollected: 2026-03-12T05:14:24.298Z
+estimatedTokens: 521
+keywords: [ConnectApi.AnnouncementInput, announcement.]
 ---
 
 # ConnectApi.AnnouncementInput
+
+> An announcement.
 
 # ConnectApi.AnnouncementInput
 
@@ -27,5 +30,14 @@ An announcement.
 #### See Also
 
 -   [postAnnouncement(communityId, groupId, announcement)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterGroups_static_methods.htm#apex_ConnectAPI_ChatterGroups_postAnnouncement_2 "Post an announcement to a group.")
-    
+
 -   [postAnnouncement(communityId, announcement)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Announcements_static_methods.htm#apex_ConnectAPI_Announcements_postAnnouncement_3 "Post an announcement.")
+
+## Related Topics
+
+- ConnectApi.MessageBodyInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- postAnnouncement(communityId, groupId, announcement) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterGroups_static_methods.htm)
+- postAnnouncement(communityId, announcement) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Announcements_static_methods.htm)

@@ -5,11 +5,14 @@ topic: connectapistreamsubscriptioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.595Z
-keywords: [ConnectApi.StreamSubscriptionInput, See]
+lastCollected: 2026-03-12T05:14:25.584Z
+estimatedTokens: 141
+keywords: [ConnectApi.StreamSubscriptionInput, entity, subscribe, Chatter, feed, stream.]
 ---
 
 # ConnectApi.StreamSubscriptionInput
+
+> An entity to subscribe to for a Chatter feed stream.
 
 # ConnectApi.StreamSubscriptionInput
 
@@ -22,3 +25,8 @@ An entity to subscribe to for a Chatter feed stream.
 #### See Also
 
 -   [ConnectApi.ChatterStreamInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_stream.htm "A Chatter feed stream.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ChatterStreamInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_stream.htm)

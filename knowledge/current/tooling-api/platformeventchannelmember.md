@@ -5,11 +5,16 @@ topic: platformeventchannelmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.515Z
-keywords: [PlatformEventChannelMember, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage, Note, See]
+lastCollected: 2026-03-12T05:14:46.451Z
+estimatedTokens: 2158
+keywords: [PlatformEventChannelMember, Represents, entity, selected, Change, Data, Capture, notifications, standard, custom, channel, platform, event, channel., Supported, SOAP, Calls, REST, HTTP, Special]
 ---
 
 # PlatformEventChannelMember
+
+> Represents an entity selected for Change
+            Data Capture notifications on a standard or custom channel, or a platform event selected
+            on a custom channel.
 
 # PlatformEventChannelMember
 
@@ -76,14 +81,44 @@ You can configure a channel member to include extra fields in change events as p
 #### See Also
 
 -   [*Change Data Capture Developer Guide*: Filter Your Stream of Change Events with Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_filter_section.htm "Change Data Capture Developer Guide: Filter Your Stream of Change Events with Channels - HTML (New Window)")
-    
+
 -   [*Platform Events Developer Guide*: Filter Your Stream of Platform Events with Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/platform_events_filter_section.htm "Platform Events Developer Guide: Filter Your Stream of
     Platform Events with Channels - HTML (New Window)")
-    
+
 -   [*Change Data Capture Developer Guide*: Example Diagrams for Channels and Channel Members](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_channel_examples.htm "Change Data Capture Developer Guide: Example Diagrams for
     Channels and Channel Members - HTML (New Window)")
-    
+
 -   [*Platform Events Developer Guide*: Filter Your Stream of Platform Events with Channels (Beta)](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/platform_events_filter_section.htm "Platform Events Developer Guide: Filter Your Stream of
     Platform Events with Channels (Beta) - HTML (New Window)")
-    
+
 -   [PlatformEventChannel](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_platformeventchannel.htm "Represents a custom channel that you can subscribe to in order to receive a stream of change data capture events.")
+
+## Code Examples
+
+```
+{
+  "FullName": "SalesEvents_chn_AccountChangeEvent",
+  "Metadata": {
+    "eventChannel": "SalesEvents__chn",
+    "selectedEntity": "AccountChangeEvent"
+  }
+}
+```
+
+```
+{
+  "FullName": "ChangeEvents_AccountChangeEvent",
+  "Metadata": {
+    "eventChannel": "ChangeEvents",
+    "selectedEntity": "AccountChangeEvent"
+  }
+}
+```
+
+```
+SELECT Id,DeveloperName,EventChannel,SelectedEntity FROM PlatformEventChannelMember
+```
+
+## Related Topics
+
+- PlatformEventChannel (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_platformeventchannel.htm)

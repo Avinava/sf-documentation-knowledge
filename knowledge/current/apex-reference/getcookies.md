@@ -5,11 +5,15 @@ topic: getcookies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.043Z
-keywords: [getCookies, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.232Z
+estimatedTokens: 219
+keywords: [getCookies, map, cookie, names, objects, where, key, name, contains, name., Usage]
 ---
 
 # getCookies()
+
+> Returns a map of cookie names and cookie objects, where the key is a String of the cookie
+  name and the the value contains the cookie object with that name.
 
 # getCookies()
 
@@ -26,3 +30,9 @@ Type: [Map](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_me
 ## Usage
 
 Used in conjunction with the Cookie class. Only returns cookies with the “apex\_\_” prefix set by the setCookies method.
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- System.Cookie (atlas.en-us.apexref.meta/apexref/apex_classes_sites_cookie.htm)

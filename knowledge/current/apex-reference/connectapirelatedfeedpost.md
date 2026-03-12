@@ -5,11 +5,14 @@ topic: connectapirelatedfeedpost
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.808Z
-keywords: [ConnectApi.RelatedFeedPost, See]
+lastCollected: 2026-03-12T05:14:25.904Z
+estimatedTokens: 199
+keywords: [ConnectApi.RelatedFeedPost, abstract.]
 ---
 
 # ConnectApi.RelatedFeedPost
+
+> This class is abstract.
 
 # ConnectApi.RelatedFeedPost
 
@@ -27,3 +30,11 @@ Superclass of: [ConnectApi.RelatedQuestion](atlas.en-us.apexref.meta/apexref/ape
 #### See Also
 
 -   [ConnectApi.RelatedFeedPosts](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_related_feed_post_collection.htm "A collection of related feed posts.")
+
+## Related Topics
+
+- ConnectApi.ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.RelatedQuestion (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_related_question.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.RelatedFeedPosts (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_related_feed_post_collection.htm)

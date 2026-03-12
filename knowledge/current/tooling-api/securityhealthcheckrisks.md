@@ -5,11 +5,17 @@ topic: securityhealthcheckrisks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.749Z
-keywords: [SecurityHealthCheckRisks, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.796Z
+estimatedTokens: 792
+keywords: [SecurityHealthCheckRisks, Represents, org’s, security, setting, values, risks, Salesforce-recommended, values., Only, users, "View, Setup, Configuration", user, permission, retrieve, data, object., Tooling]
 ---
 
 # SecurityHealthCheckRisks
+
+> Represents your org’s security setting values,
+            risks, and Salesforce-recommended setting values. Only users with the "View Setup and Configuration" user
+            permission can retrieve data from this object. Available in Tooling API version 37.0 and
+        later.
 
 # SecurityHealthCheckRisks
 
@@ -64,4 +70,22 @@ This query lists all the values in the Salesforce baseline standard.
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT RiskType, Setting, SettingGroup, OrgValue, StandardValue FROM SecurityHealthCheckRisks where RiskType=’HIGH_RISK’
+```
+
+```
+SELECT Score, (SELECT RiskType, Setting, SettingGroup, OrgValue, StandardValue FROM SecurityHealthCheckRisks where RiskType=’HIGH_RISK’) FROM SecurityHealthCheck
+```
+
+```
+SELECT Score, (SELECT RiskType, Setting, SettingGroup, OrgValue, StandardValue FROM SecurityHealthCheckRisks where RiskType=’MEETS_STANDARD’) FROM SecurityHealthCheck
+```
+
+```
+SELECT Setting, SettingGroup, StandardValue FROM SecurityHealthCheckRisks
 ```

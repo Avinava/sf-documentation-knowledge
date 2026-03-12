@@ -5,11 +5,15 @@ topic: asyncresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.679Z
-keywords: [AsyncResult, API, Version, 31.0, Later, Versions, 29.0, 30.0, 28.0, Earlier]
+lastCollected: 2026-03-12T05:14:37.075Z
+estimatedTokens: 2688
+keywords: [AsyncResult, Contains, deployment, retrieval., API, version, 28.0, earlier, contains, status, information, any, asynchronous, metadata, call., Version, 31.0, Later, Versions, 29.0]
 ---
 
 # AsyncResult
+
+> Contains the ID of a deployment or retrieval. In API version 28.0 and earlier,
+        contains status information of any asynchronous metadata call.
 
 # AsyncResult
 
@@ -84,3 +88,16 @@ AsyncResult has the following fields.
 | stateDetail | string | Indicates which component is being deployed or which Apex test class is running. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
 | stateDetailLastModifiedDate | dateTime | The date and time when the stateDetail field was last modified. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
 | statusCode | StatusCode (enumeration of type string) | If an error occurred during the create(), update(), delete(), or deploy() call, a status code is returned, and the message that corresponds to the status code is returned in the message field.For a description of each StatusCode value, see StatusCode in the SOAP API Developer Guide. |
+
+## Related Topics
+
+- RetrieveResult (atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- update() (atlas.en-us.api_meta.meta/api_meta/meta_update.htm)
+- delete() (atlas.en-us.api_meta.meta/api_meta/meta_delete.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- DeployResult (atlas.en-us.api_meta.meta/api_meta/meta_deployresult.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- checkStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm)
+- checkDeployStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm)

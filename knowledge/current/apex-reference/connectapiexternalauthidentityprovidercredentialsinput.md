@@ -5,11 +5,14 @@ topic: connectapiexternalauthidentityprovidercredentialsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.140Z
-keywords: [ConnectApi.ExternalAuthIdentityProviderCredentialsInput, See]
+lastCollected: 2026-03-12T05:14:24.868Z
+estimatedTokens: 249
+keywords: [ConnectApi.ExternalAuthIdentityProviderCredentialsInput, External, auth, identity, provider, credentials, input.]
 ---
 
 # ConnectApi.ExternalAuthIdentityProviderCredentialsInput
+
+> External auth identity provider credentials input.
 
 # ConnectApi.ExternalAuthIdentityProviderCredentialsInput
 
@@ -22,5 +25,12 @@ External auth identity provider credentials input.
 #### See Also
 
 -   [createExternalAuthIdentityProviderCredentials(fullName, requestBody)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm#apex_ConnectAPI_NamedCredentials_createExternalAuthIdentityProviderCredentials_2 "Create external auth identity provider credentials.")
-    
+
 -   [updateExternalAuthIdentityProviderCredentials(fullName, requestBody)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm#apex_ConnectAPI_NamedCredentials_updateExternalAuthIdentityProviderCredentials_3 "Replace external auth identity provider credentials.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ExternalAuthIdentity​ProviderCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_auth_identity_provider_credential.htm)
+- createExternalAuthIdentityProviderCredentials(fullName, requestBody) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm)
+- updateExternalAuthIdentityProviderCredentials(fullName, requestBody) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm)

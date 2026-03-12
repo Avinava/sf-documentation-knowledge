@@ -5,11 +5,16 @@ topic: loyalty-benefit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.552Z
-keywords: [Loyalty, Benefit, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.265Z
+estimatedTokens: 904
+keywords: [Loyalty, Benefit, DMO, Data, Cloud, data, model, perk, betterment, members, Program., Examples, include, waived, airline, baggage, fees, complimentary, hotel, stays]
 ---
 
 # Loyalty Benefit DMO
+
+> The Loyalty Benefit DMO is a Data Cloud data model object (DMO) for a perk or
+      betterment that is available to the members of a Loyalty Program. Examples include waived
+      airline baggage fees, complimentary hotel stays, or a rental car upgrade.
 
 # Loyalty Benefit DMO
 

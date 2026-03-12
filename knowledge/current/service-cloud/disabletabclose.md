@@ -5,11 +5,17 @@ topic: disabletabclose
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.819Z
-keywords: [disableTabClose, Note, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.173Z
+estimatedTokens: 477
+keywords: [disableTabClose, Prevents, user, closing, tab, subtab., doesn’t, specify, enclosing, used., re-enable, disabled., API, version, 36.0, later., Note, Syntax, Arguments, Sample]
 ---
 
 # disableTabClose()
+
+> Prevents a user from closing a tab or a subtab.
+            If the ID parameter doesn’t specify a tab, the enclosing tab is used. You can also use
+            this method to re-enable a tab that has been disabled. Available in API version
+        36.0 or later.
 
 # disableTabClose()
 
@@ -51,3 +57,93 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | success | boolean | true if the action completed successfully, false otherwise. |
 | message | string | If the action completed successfully, message contains the affected tabId. If the action failed, message contains the error message. |
+
+## Code Examples
+
+```
+sforce.console.disableTabClose(disable:boolean, (optional) tabId:String, (optional) callback:Function)
+```
+
+```
+<apex:page >
+<html>
+  <head>
+    <title>Disable close Tab on Load</title>
+
+    <!-- Service Console integration API library -->
+    <script src="/support/console/66.0/integration.js"></script>
+
+    <!-- Callback functions to handle tab events -->
+    <script type="text/javascript">
+
+      function displayResultsCallback(result){
+        var resDiv = document.getElementById("eventResults");
+        resDiv.innerHTML = JSON.stringify(result);
+      }
+
+      // For use within a tab's sidebar (you don't need tab ID)
+
+      function testDisableTabCloseTrueWithoutId() {
+        sforce.console.disableTabClose(true, false, displayResultsCallback);
+      }
+
+      function testDisableTabCloseFalseWithoutId() {
+        sforce.console.disableTabClose(false, false, displayResultsCallback);
+      }
+
+      // For use anywhere (you need the tab ID)
+
+      // Note: Your tab ID might be different than the one used here. 
+      //       You can get the tab ID many different ways,
+      //       including sforce.console.getEnclosingTabId().
+      //       See the documentation for details.
+      function testDisableTabCloseTrueWithId() {
+        var tabId = window.prompt("Enter the tab ID","scc-pt-0");
+        sforce.console.disableTabClose(true, tabId, displayResultsCallback);
+      }
+
+      function testDisableTabCloseFalseWithId() {
+        var tabId = window.prompt("Enter the tab ID","scc-pt-0");
+        sforce.console.disableTabClose(false, tabId, displayResultsCallback);
+      }
+     
+    </script>
+  </head>
+
+  <body>
+    <h1>Disable Tab Close Examples</h1>
+    <br/><br/>
+     
+    <h2>API Callback Result</h2>
+    <br/>
+    
+    <code><div id="eventResults" /></code>
+    <br/>
+
+    <h2>With No Tab ID</h2>
+    <p>The tab ID will be auto-detected by context, or the event will fail.</p>
+
+    <ul>
+    <li><a href="#" onClick="testDisableTabCloseTrueWithoutId();return false;">
+    Disable closing for the enclosing tab</a></li>
+
+    <li><a href="#" onClick="testDisableTabCloseFalseWithoutId();return false;">
+    Re-enable closing for the enclosing tab</a></li>
+    </ul>
+     
+    <h2>With Tab ID Provided</h2>
+    <p>When the event context doesn't have a detectable tab ID, you can 
+    supply it yourself.</p>
+
+    <ul>
+    <li><a href="#" onClick="testDisableTabCloseTrueWithId();return false;">
+    Disable closing for a specific tab (via tab ID)</a></li>
+
+    <li><a href="#" onClick="testDisableTabCloseFalseWithId();return false;">
+    Re-enable closing for a specific tab (via tab ID)</a></li>
+    </ul>
+
+  </body>
+</html>
+</apex:page>
+```

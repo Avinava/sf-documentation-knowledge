@@ -5,11 +5,14 @@ topic: connectapicardpaymentmethodoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.092Z
-keywords: [ConnectApi.CardPaymentMethodOutput]
+lastCollected: 2026-03-12T05:14:26.286Z
+estimatedTokens: 392
+keywords: [ConnectApi.CardPaymentMethodOutput, Card, payment, details, output.]
 ---
 
 # ConnectApi.CardPaymentMethodOutput
+
+> Card payment method details output.
 
 # ConnectApi.CardPaymentMethodOutput
 
@@ -34,3 +37,11 @@ Card payment method details output.
 | nickName | String | Optional card nickname | 56.0 |
 | startMonth | Integer | Month when card becomes active | 56.0 |
 | startYear | Integer | Year when card becomes active | 56.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CardCategory (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CardType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

@@ -5,11 +5,14 @@ topic: connectapiproductsearchresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.745Z
-keywords: [ConnectApi.ProductSearchResults]
+lastCollected: 2026-03-12T05:14:28.620Z
+estimatedTokens: 135
+keywords: [ConnectApi.ProductSearchResults, Product, search, results.]
 ---
 
 # ConnectApi.ProductSearchResults
+
+> Product search results.
 
 # ConnectApi.ProductSearchResults
 
@@ -22,3 +25,11 @@ Product search results.
 | facets | List<ConnectApi.​SearchFacet> | Facets from the search results. | 52.0 |
 | locale | String | Locale of the search results. | 52.0 |
 | productsPage | ConnectApi.​ProductSummaryPage | Page of products from the search results. | 52.0 |
+
+## Related Topics
+
+- ConnectApi.​SearchCategory (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_category.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​SearchFacet (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_facet.htm)
+- ConnectApi.​ProductSummaryPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary_collection.htm)

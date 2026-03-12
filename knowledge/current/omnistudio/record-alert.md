@@ -5,11 +5,15 @@ topic: record-alert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.773Z
-keywords: [Record, Alert]
+lastCollected: 2026-03-12T05:14:50.646Z
+estimatedTokens: 393
+keywords: [Record, Alert, Output, representation, details, record, alert.]
 ---
 
 # Record Alert
+
+> Output representation of the details of a record
+  alert.
 
 # Record Alert
 
@@ -30,3 +34,7 @@ Output representation of the details of a record alert.
 | subject | String | The subject line of a record alert. | Small, 54.0 | 54.0 |
 | validUntilDate | String | The date and time from when a record alert is no longer valid. | Small, 54.0 | 54.0 |
 | whatId | String | The Salesforce object record ID on which a record alert is created. | Small, 54.0 | 54.0 |
+
+## Related Topics
+
+- Record Alert Action Info Collection (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_alert_action_info_collection.htm)

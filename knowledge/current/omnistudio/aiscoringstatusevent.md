@@ -5,11 +5,17 @@ topic: aiscoringstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.554Z
-keywords: [AIScoringStatusEvent, Supported, Calls, Subscribers, Streaming, API, Subscription, Channel, Special, Access, Rules]
+lastCollected: 2026-03-12T05:14:53.328Z
+estimatedTokens: 539
+keywords: [AIScoringStatusEvent, Notifies, subscribers, scoring, job, started, services, data, release, version, connect, aiaccelerator, predictions, REST, request, executed, asynchronous, mode, complete., API]
 ---
 
 # AIScoringStatusEvent
+
+> Notifies subscribers when the scoring job started by the
+			/services/data/{release version}/connect/aiaccelerator/predictions REST request,
+			executed in asynchronous mode, is complete. This object is available in API version
+		55.0 and later.
 
 # AIScoringStatusEvent
 

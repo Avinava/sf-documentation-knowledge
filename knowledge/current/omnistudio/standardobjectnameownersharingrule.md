@@ -5,11 +5,16 @@ topic: standardobjectnameownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.450Z
-keywords: [StandardObjectNameOwnerSharingRule, Note, Supported, Calls, Special, Access, Rules, Fields, Objects, Follow, Model]
+lastCollected: 2026-03-12T05:14:53.172Z
+estimatedTokens: 4168
+keywords: [StandardObjectNameOwnerSharingRule, model, owner, sharing, rule, objects, associated, standard, objects., represent, users, owner., Note, Supported, Calls, Special, Access, Rules, Fields, Objects]
 ---
 
 # StandardObjectNameOwnerSharingRule
+
+> StandardObjectNameOwnerSharingRule is the model for
+      all owner sharing rule objects associated with standard objects. These objects represent a
+      rule for sharing a standard object with users other than the owner.
 
 # StandardObjectNameOwnerSharingRule
 
@@ -131,3 +136,10 @@ These objects follow the standard pattern for associated feed objects.
 -   Vehicle
 -   VehicleDefinition
 -   Visit
+
+## Related Topics
+
+- ActionableListDtastClmnUsr (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_actionablelistdtastclmnusr.htm)
+- ComplianceTest (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_compliancetest.htm)
+- ExpressionSetVersion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_expressionsetversion.htm)
+- PartyRelationshipGroup (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_partyrelationshipgroup.htm)

@@ -5,11 +5,16 @@ topic: apexexecutionoverlayresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.195Z
-keywords: [ApexExecutionOverlayResult, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.609Z
+estimatedTokens: 674
+keywords: [ApexExecutionOverlayResult, Represents, result, Apex, code, snippet, SOQL, query, defined, associated, ApexExecutionOverlayAction, resulting, heap, dump, returned., API, version, 28.0, later., Supported]
 ---
 
 # ApexExecutionOverlayResult
+
+> Represents the result from the Apex code snippet or SOQL query defined
+   in the associated ApexExecutionOverlayAction, and the resulting heap dump if one was returned.
+  Available from API version 28.0 or later.
 
 # ApexExecutionOverlayResult
 
@@ -41,3 +46,10 @@ Query, GET, DELETE
 ## Usage
 
 When you are troubleshooting a runtime issue, you often want to find out more about the state of a variable or the state of the database, or create a specific condition to test your code. Use [ApexExecutionOverlayAction](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexexecutionoverlayaction.htm "Specifies an Apex code snippet or SOQL query to execute at a specific line of code in an Apex class or trigger. Optionally, generates a heap dump.") to overlay a diagnostic output on an Apex class or trigger without compromising production code, and use ApexExecutionOverlayResult to navigate the results.
+
+## Related Topics
+
+- ApexResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexresult.htm)
+- HeapDump (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_heapdump.htm)
+- SOQLResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_soqlresult.htm)
+- ApexExecutionOverlayAction (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexexecutionoverlayaction.htm)

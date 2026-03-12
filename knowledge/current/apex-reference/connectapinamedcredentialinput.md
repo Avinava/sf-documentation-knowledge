@@ -5,11 +5,14 @@ topic: connectapinamedcredentialinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.336Z
-keywords: [ConnectApi.NamedCredentialInput]
+lastCollected: 2026-03-12T05:14:25.188Z
+estimatedTokens: 350
+keywords: [ConnectApi.NamedCredentialInput, Input, used, create, update, named, credential.]
 ---
 
 # ConnectApi.NamedCredentialInput
+
+> Input used to create or update a named credential.
 
 # ConnectApi.NamedCredentialInput
 
@@ -27,3 +30,14 @@ Input used to create or update a named credential.
 | network​Connection | ConnectApi.​NetworkConnection​Input | PrivateConnect outbound network connection. | Optional depending on type | 58.0 |
 | parameters | List<ConnectApi.​NamedCredential​ParameterInput> | Named credential parameters. | Optional | 58.0 |
 | type | ConnectApi.​NamedCredential​Type | Type of named credential. Values are:PrivateEndpointSecuredEndpoint | Required | 58.0 |
+
+## Related Topics
+
+- ConnectApi.​NamedCredential​CalloutOptionsInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential_callout_options.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CredentialCustom​HeaderInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_credential_custom_header.htm)
+- ConnectApi.​ExternalCredential​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential.htm)
+- ConnectApi.​NetworkConnection​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_network_connection.htm)
+- ConnectApi.​NamedCredential​ParameterInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential_parameter.htm)
+- ConnectApi.​NamedCredential​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

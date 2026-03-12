@@ -5,11 +5,14 @@ topic: connectapirecordalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.847Z
-keywords: [ConnectApi.RecordAlert]
+lastCollected: 2026-03-12T05:14:47.783Z
+estimatedTokens: 357
+keywords: [ConnectApi.RecordAlert, Representation, details, record, alert.]
 ---
 
 # ConnectApi.RecordAlert
+
+> Representation of the details of a record alert.
 
 # ConnectApi.RecordAlert
 
@@ -30,3 +33,7 @@ Representation of the details of a record alert.
 | subject | String | The subject line of a record alert. | 54.0 |
 | validUntilDate | Datetime | The date and time from when a record alert is no longer valid. | 54.0 |
 | whatId | String | The Salesforce object record ID on which a record alert is created. | 54.0 |
+
+## Related Topics
+
+- ConnectApi.RecordAlert​ActionInfoCollection (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_record_alert_action_info_collection.htm)

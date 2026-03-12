@@ -5,11 +5,14 @@ topic: orderdirection-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:40.352Z
-keywords: [OrderDirection, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.450Z
+estimatedTokens: 190
+keywords: [OrderDirection, Specifies, direction, sorting, rows, based, column, values., Usage, Values]
 ---
 
 # OrderDirection Enum
+
+> Specifies the direction for sorting rows based on column values.
 
 # OrderDirection Enum
 
@@ -27,3 +30,8 @@ The following are the values of the DataSource.OrderDirection enum.
 | --- | --- |
 | ASCENDING | Sort rows in ascending order (A–Z). |
 | DESCENDING | Sort rows in descending order (Z–A). |
+
+## Related Topics
+
+- direction (atlas.en-us.apexref.meta/apexref/apex_class_DataSource_Order.htm)
+- DataSource.Order (atlas.en-us.apexref.meta/apexref/apex_class_DataSource_Order.htm)

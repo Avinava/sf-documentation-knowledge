@@ -5,11 +5,20 @@ topic: query-data-using-query-api-v1
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.449Z
-keywords: [Query, Data, API, Note, Key, Properties, Connected, App, Setup, Important, Acquire, Exchange, Access, Token, Cloud, Qualifiers, Call, Reference, See]
+lastCollected: 2026-03-12T05:14:12.472Z
+estimatedTokens: 1045
+keywords: [Query, Data, API, supports, SQL, query, ANSI, standard., free, form, objects, include, data, streams, profile, engagement, model, unified, objects., only]
 ---
 
 # Query Data using Query API V1
+
+> The Query API V1 supports SQL query in ANSI standard. The SQL can be a free form SQL
+    with objects that include data streams, profile or engagement data model objects, and unified
+    data model objects. The Query API V1 supports only synchronous calls. You can use the API to
+    support a variety of use cases that include data extraction, external application integration or
+    interactive querying on the data lake. If you don't want to fetch the entire data like in case
+    of browser-based clients then you can make a call to the API with limit and
+      offset.
 
 # Query Data using Query API V1
 
@@ -57,9 +66,27 @@ We recommend that you include key qualifier fields in all table joins for querie
 
 ## Call Reference
 
--   **[POST /api/v1/query](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query.htm)**  
+-   **[POST /api/v1/query](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query.htm)**
     Use Query API V1 to query Data Cloud data lake across data model, data lake, unified, and linked objects.
 
 #### See Also
 
 -   [API Limits for Profile, Query, and Calculated Insights](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_limits.htm "There are three distinct classes of APIs used to extract data from Data Cloud (formerly Customer Data Platform): Profile, Query, and Calculated Insights.")
+
+## Code Examples
+
+```
+SELECT * FROM ssot__ContactPointEmail__dlm email 
+LEFT JOIN ssot__Individual__dlm individual 
+ON email.ssot__PartyId__c = individual.ssot__Id__c 
+AND 
+COALESCE(email.KQ_PartyId__c, '') = COALESCE(individual.KQ_Id__c, '') 
+limit 10
+```
+
+## Related Topics
+
+- Query V2 API (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query_v2_call_overview.htm)
+- Getting Started (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm)
+- POST /api/v1/query (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_query.htm)
+- API Limits for Profile, Query, and Calculated Insights (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_limits.htm)

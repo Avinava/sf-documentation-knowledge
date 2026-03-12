@@ -5,11 +5,16 @@ topic: indicatorperformanceperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.264Z
-keywords: [IndicatorPerformancePeriod, Important, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:52.846Z
+estimatedTokens: 1048
+keywords: [IndicatorPerformancePeriod, Represents, information, specified, time, period, including, frequency, which, indicator, results, should, calculated, baseline, indicator., API, version, 59.0, later., Important]
 ---
 
 # IndicatorPerformancePeriod
+
+> Represents information about a specified time period including the
+         frequency at which indicator results should be calculated and the baseline value of the
+         indicator. This object is available in API version 59.0 and later.
 
 # IndicatorPerformancePeriod
 
@@ -19,7 +24,7 @@ Represents information about a specified time period including the frequency at 
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

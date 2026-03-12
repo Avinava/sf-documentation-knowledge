@@ -5,11 +5,15 @@ topic: fieldmappingfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.966Z
-keywords: [FieldMappingField, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.643Z
+estimatedTokens: 323
+keywords: [FieldMappingField, Represents, field, org, maps, data, service., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # FieldMappingField
+
+> Represents a field in an object in the org
+            that maps to a field in a data service.
 
 # FieldMappingField
 

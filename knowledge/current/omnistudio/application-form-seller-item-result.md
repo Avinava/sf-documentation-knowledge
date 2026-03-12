@@ -5,11 +5,14 @@ topic: application-form-seller-item-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.066Z
-keywords: [Application, Form, Seller, Item, Result]
+lastCollected: 2026-03-12T05:14:49.598Z
+estimatedTokens: 689
+keywords: [Application, Form, Seller, Item, Result, Output, representation, application, form, seller, item, result.]
 ---
 
 # Application Form Seller Item Result
+
+> Output representation of the application form seller item result.
 
 # Application Form Seller Item Result
 
@@ -44,3 +47,9 @@ Output representation of the application form seller item result.
 | vehicle​Identification​Number | String | Unique identifier for the vehicle. | Small, 61.0 | 61.0 |
 | vehicle​Registration​Number | String | Registration number of the vehicle. | Small, 61.0 | 61.0 |
 | year | Integer | Manufacture date of the seller item. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Address
+                Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_address_result.htm)

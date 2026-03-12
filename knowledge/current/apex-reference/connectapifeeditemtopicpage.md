@@ -5,11 +5,14 @@ topic: connectapifeeditemtopicpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:37.712Z
-keywords: [ConnectApi.FeedItemTopicPage, Important]
+lastCollected: 2026-03-12T05:14:25.763Z
+estimatedTokens: 191
+keywords: [ConnectApi.FeedItemTopicPage, Feed, item, topic, page., Important]
 ---
 
 # ConnectApi.FeedItemTopicPage
+
+> Feed item topic page.
 
 # ConnectApi.FeedItemTopicPage
 
@@ -25,3 +28,10 @@ This class isn’t available in version 32.0 and later. In version 32.0 and late
 | --- | --- | --- | --- |
 | canAssignTopics | Boolean | true if a topic can be assigned to the feed item, false otherwise. | 28.0–31.0 |
 | topics | List<ConnectApi.​Topic> | List of topics. | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.TopicsCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topics_capability.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Topic (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topic.htm)

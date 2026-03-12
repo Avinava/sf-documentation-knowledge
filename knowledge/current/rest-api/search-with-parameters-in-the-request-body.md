@@ -5,11 +5,17 @@ topic: search-with-parameters-in-the-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.602Z
-keywords: [Search, Parameters, Request, Body, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.913Z
+estimatedTokens: 2257
+keywords: [Search, Request, Body, defining, request, body, Access, advanced, search, offers, control, over, how, query, executes., allows, filter, several, DataCategories, networks]
 ---
 
 # Search with Parameters in the Request Body
+
+> Search by defining parameters in the request body Access advanced search that offers
+    more control over how the search query executes. It also allows you to filter using several
+    DataCategories, networks (sites), orderBy constraints, and filters. This resource is available
+    in REST API version 36.0 and later.
 
 # Search with Parameters in the Request Body
 
@@ -85,4 +91,51 @@ Example Request Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "q":"Acme",
+  "fields":["id", "title"],
+  "sobjects":[{"name":"KnowledgeArticleVersion", "where":"language='en_US' and publishstatus='draft'"}],
+  "dataCategories":[
+    {"groupName" : "location__c", "operator":"below", "categories":["North_America__c"]}
+                 ]
+}
+```
+
+```
+{
+  "q":"Acme",
+  "fields":["Id", "Name", "Phone"],
+  "sobjects":[{"name": "Account"},
+              {"name": "Contact", "fields":["Id", "FirstName", "LastName"]},
+              {"name": "Lead"}]
+}
+```
+
+```
+{
+...
+  "sobjects":[ {"name": "Lead", "fields":["Id", "toLabel(Status)"]},
+...
+}
+```
+
+```
+{
+...
+  "sobjects":[ {"name": "Opportunity", "fields":["Id", "convertCurrency(Amount)"]}]
+...
+}
+```
+
+```
+{
+...
+  "sobjects":[ {"name": "Opportunity", "fields":["Id", "format(Amount)"]}]
+...
+}
 ```

@@ -5,11 +5,17 @@ topic: aireplyrecommendationssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.422Z
-keywords: [AIReplyRecommendationsSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Example, Package, Manifest, Wildcard, Support, Copyright]
+lastCollected: 2026-03-12T05:14:36.731Z
+estimatedTokens: 763
+keywords: [AIReplyRecommendationsSettings, Represents, metadata, used, manage, settings, Einstein, Reply, Recommendations., extends, Metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
 ---
 
 # AIReplyRecommendationsSettings
+
+> Represents the metadata used to manage settings
+			for Einstein Reply Recommendations.
+		This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # AIReplyRecommendationsSettings
 
@@ -56,3 +62,29 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 ## Copyright
 
 Rights of ALBERT EINSTEIN are used with permission of The Hebrew University of Jerusalem. Represented exclusively by Greenlight.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AIReplyRecommendationsSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+	<enableAIReplyRecommendations>true</enableAIReplyRecommendations>
+</AIReplyRecommendationsSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AIReplyRecommendations</members>
+		<name>Settings</name>
+	</types>
+	<version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

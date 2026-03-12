@@ -5,11 +5,14 @@ topic: analyticsvisualization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.527Z
-keywords: [AnalyticsVisualization, Parent, Type, File, Suffix, Directory, Location, Version, Limits, Fields, AnalyticsVizField, AnalyticsVizViewDef, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.880Z
+estimatedTokens: 1551
+keywords: [AnalyticsVisualization, Represents, Tableau, Next, visualization., Parent, File, Suffix, Directory, Location, Version, Limits, Fields, AnalyticsVizField, AnalyticsVizViewDef, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # AnalyticsVisualization
+
+> Represents a Tableau Next visualization.
 
 # AnalyticsVisualization
 
@@ -105,3 +108,66 @@ The following is an example package.xml that references the metadata definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticsVisualization xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <analyticsWorkspace>My_Workspace</analyticsWorkspace>
+  <description>A visualization</description>
+  <dataSource>My_Semantic_Model</dataSource>
+  <fields>
+    <displayCategory>Discrete</displayCategory>
+    <fieldKey>Field1</fieldKey>
+    <fieldName>Lead_Source18</fieldName>
+    <objectName>Opportunity_Home</objectName>
+    <role>Dimension</role>
+     <type>Field</type>
+  </fields>
+  <fields>
+    <fieldKey>Field2</fieldKey>
+    <displayCategory>Continuous</displayCategory>
+    <fieldName>Amount</fieldName>
+    <function>Sum</function>
+    <objectName>Opportunity_Home</objectName>
+    <role>Measure</role>
+    <type>Field</type>
+  </fields>
+  <views>
+    <fullName>default</fullName>
+    <masterLabel>My_Visualization_default</masterLabel>
+    <viewSpecification>
+      {&quot;filters&quot;:[{&quot;fieldKey&quot;:&quot;Field1&quot;,&quot;filterInfos&quot;:[{&quot;isCustom&quot;:false,&quot;isExcludes&quot;:false,&quot;type&quot;:&quot;In&quot;,&quot;useAll&quot;:false,&quot;values&quot;:[&quot;NewBusiness&quot;]},{&quot;includeAllValuesWhenEmpty&quot;:true,&quot;isExcludes&quot;:false,&quot;operator&quot;:&quot;Contains&quot;,&quot;type&quot;:&quot;WildCard&quot;,&quot;value&quot;:&quot;&quot;}],&quot;isContext&quot;:false}],&quot;sorts&quot;:[{&quot;byField&quot;:&quot;Field2&quot;,&quot;fieldKey&quot;:&quot;Field1&quot;,&quot;order&quot;:&quot;Ascending&quot;,&quot;type&quot;:&quot;Nested&quot;}]}</viewSpecification>
+    <isOriginal>true</isOriginal>
+  </views>
+  <masterLabel>My_Visualization</masterLabel>
+  <version>64.0</version>
+  <templateSource></templateSource>
+  <templateAssetSourceName></templateAssetSourceName>
+  <workspaceAssetRelationships>
+    <asset xsi:nil="true"/>
+    <assetType>AnalyticVisualization</assetType>
+    <assetUsageType>Created</assetUsageType>
+    <workspace>My_Workspace</workspace>
+  </workspaceAssetRelationships>
+</AnalyticsVisualization>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+	<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+	<members>My_Visualization</members>
+	<name>AnalyticsVisualization</name>
+	</types>
+	<version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- AnalyticsAssetAction[] (atlas.en-us.api_meta.meta/api_meta/meta_analyticsdashboard.htm)
+- AnalyticsWorkspaceAsset[] (atlas.en-us.api_meta.meta/api_meta/meta_analyticsworkspace.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

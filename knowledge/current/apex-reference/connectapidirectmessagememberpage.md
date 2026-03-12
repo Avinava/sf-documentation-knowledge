@@ -5,11 +5,14 @@ topic: connectapidirectmessagememberpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.584Z
-keywords: [ConnectApi.DirectMessageMemberPage, See]
+lastCollected: 2026-03-12T05:14:27.037Z
+estimatedTokens: 252
+keywords: [ConnectApi.DirectMessageMemberPage, collection, direct, message, members.]
 ---
 
 # ConnectApi.DirectMessageMemberPage
+
+> A collection of direct message members.
 
 # ConnectApi.DirectMessageMemberPage
 
@@ -26,5 +29,13 @@ A collection of direct message members.
 #### See Also
 
 -   [ConnectApi.DirectMessageCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_capability.htm "If a feed element has this capability, it’s a direct message.")
-    
+
 -   [ConnectApi.DirectMessageMemberActivity](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_membership_activity.htm "Direct message member activity.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.DirectMessageCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_capability.htm)
+- ConnectApi.DirectMessageMemberActivity (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_membership_activity.htm)

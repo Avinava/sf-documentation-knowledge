@@ -5,23 +5,35 @@ topic: methods-for-navigation-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.502Z
-keywords: [Methods, Navigation, Tabs]
+lastCollected: 2026-03-12T05:14:58.148Z
+estimatedTokens: 343
+keywords: [Navigation, Tabs, Salesforce, console, displays, navigation, tab, which, users, select, objects, view, lists, home, pages., Administrators, choose, access, tab.]
 ---
 
 # Methods for Navigation Tabs
+
+> A Salesforce console displays a navigation tab from which users can select objects to view lists
+   or home pages. Administrators choose the objects that users can access from a navigation tab.
 
 # Methods for Navigation Tabs
 
 A Salesforce console displays a navigation tab from which users can select objects to view lists or home pages. Administrators choose the objects that users can access from a navigation tab.
 
--   **[focusNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_focusnavigatortab.htm)**  
+-   **[focusNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_focusnavigatortab.htm)**
     Focuses the browser on the navigation tab. This method is only available in API version 31.0 or later.
--   **[getNavigationTabs()](atlas.en-us.api_console.meta/api_console/sforce_api_console_getnavigatortabs.htm)**  
+-   **[getNavigationTabs()](atlas.en-us.api_console.meta/api_console/sforce_api_console_getnavigatortabs.htm)**
     Returns all of the objects in the navigation tab. This method is only available in API version 31.0 or later.
--   **[getSelectedNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_getselectednavigatortab.htm)**  
+-   **[getSelectedNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_getselectednavigatortab.htm)**
     Returns the selected object in the navigation tab. This method is only available in API version 31.0 or later.
--   **[refreshNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_refreshnavigatortab.htm)**  
+-   **[refreshNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_refreshnavigatortab.htm)**
     Refreshes the selected navigation tab. This method is only available in API version 31.0 or later.
--   **[setSelectedNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_setselectednavigatortab.htm)**  
+-   **[setSelectedNavigationTab()](atlas.en-us.api_console.meta/api_console/sforce_api_console_setselectednavigatortab.htm)**
     Sets the navigation tab with a specific ID or URL. This method is only available in API version 31.0 or later.
+
+## Related Topics
+
+- focusNavigationTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focusnavigatortab.htm)
+- getNavigationTabs() (atlas.en-us.api_console.meta/api_console/sforce_api_console_getnavigatortabs.htm)
+- getSelectedNavigationTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_getselectednavigatortab.htm)
+- refreshNavigationTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_refreshnavigatortab.htm)
+- setSelectedNavigationTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_setselectednavigatortab.htm)

@@ -4,12 +4,16 @@ domain: omnistudio
 topic: ai-accelerator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-11T15:25:07.511Z
-keywords: [Accelerator, Business, APIs, Overview]
+docType: concept
+lastCollected: 2026-03-12T05:14:47.364Z
+estimatedTokens: 372
+keywords: [Accelerator, Business, APIs, get, real-time, score, predictions, machine, learning, case, model., Overview]
 ---
 
 # AI Accelerator Business APIs
+
+> Use the AI Accelerator Business APIs to get real-time score predictions for a machine
+    learning use case model.
 
 # AI Accelerator Business APIs
 
@@ -32,5 +36,9 @@ Available resources are:
 | /connect/aiaccelerator/predictions | Retrieve real-time scores prediction for a machine learning use case. |
 | /connect/aiaccelerator/recommendations | Get recommendations with Einstein Next Best Action. You can now work on actionable next steps with a unified, synchronized view of real-time score predictions and recommendations. |
 
--   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/ai_accelerator_apis_rest_references.htm)**  
+-   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/ai_accelerator_apis_rest_references.htm)**
     You can access AI Accelerator APIs using REST endpoints. These REST APIs follow similar conventions as Connect REST APIs.
+
+## Related Topics
+
+- REST Reference (atlas.en-us.industries_reference.meta/industries_reference/ai_accelerator_apis_rest_references.htm)

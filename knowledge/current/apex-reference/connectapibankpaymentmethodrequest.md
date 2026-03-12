@@ -5,11 +5,14 @@ topic: connectapibankpaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.810Z
-keywords: [ConnectApi.BankPaymentMethodRequest]
+lastCollected: 2026-03-12T05:14:24.365Z
+estimatedTokens: 564
+keywords: [ConnectApi.BankPaymentMethodRequest, Bank, payment, input, representation.]
 ---
 
 # ConnectApi.BankPaymentMethodRequest
+
+> Bank payment method input representation.
 
 # ConnectApi.BankPaymentMethodRequest
 
@@ -32,3 +35,12 @@ Bank payment method input representation.
 | mandate | String | Authorization from the account holder to debit their payment method. | Optional | 65.0 |
 | nickName | String | Nick name of the bank account holder. | Optional | 65.0 |
 | standardEntry​ClassCode | ConnectApi.​StandardEntryClassCode | Three-letter code that identifies the type of electronic payment transaction being processed within the Automated Clearing House (ACH) network. Valid values are:CCD—Corporate Credit or DebitPPD—Prearranged Payment and DepositTEL—Telephone-Initiated EntryWEB—Internet Initiated/Mobile | Optional | 65.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​AccountHolderType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​AccountType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​BankType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​StandardEntryClassCode (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

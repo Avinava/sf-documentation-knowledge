@@ -5,11 +5,14 @@ topic: decision-table-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.076Z
-keywords: [Decision, Table, Actions, Supported, REST, HTTP, Methods, Without, Dataset, Link, Inputs, Note, Outputs, Usage]
+lastCollected: 2026-03-12T05:14:51.109Z
+estimatedTokens: 985
+keywords: [Decision, Table, Actions, Invoke, decision, table., Supported, REST, HTTP, Without, Dataset, Link, Inputs, Note, Outputs, Usage]
 ---
 
 # Decision Table Actions
+
+> Invoke a decision table.
 
 # Decision Table Actions
 
@@ -105,4 +108,61 @@ When you invoke a decisionTableAction with a dataset link, the input objects in 
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "inputs" : [
+      {
+        "Product__c": "Cloud Kicks",
+        "Price__c": 1000
+      }
+   ]
+}
+```
+
+```
+{
+   "inputs" : [
+      {
+         "Transaction__c" : {
+            "Product__c": "Cloud Kicks",
+            "Price__c": 1000
+         }
+      }
+   ]
+}
+```
+
+```
+{
+   "inputs" : [
+      {
+         "Transaction__c" : {
+            "Product__c": "Cloud Kicks",
+            "Price__c": 1000
+         }
+      }
+      {
+         "Catalog__c" : {
+            "name": "Highest_Price_Point_c",
+            "value": "500",
+         }
+      }
+   ]
+}
+```
+
+```
+[{
+   “outcomeType” : “SINGLE MATCH”,
+   “singleOutcome”: { “Points”: 100 },
+   "outcomeList" : [
+      {
+         “Points”: 100
+      }
+   ]
+}]
 ```

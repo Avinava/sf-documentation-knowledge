@@ -5,11 +5,15 @@ topic: enum-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:41.309Z
-keywords: [Enum, Methods, Example]
+lastCollected: 2026-03-12T05:14:30.675Z
+estimatedTokens: 257
+keywords: [abstract, data, values, take, exactly, finite, set, identifiers, specify., Apex, provides, built-in, enums, such, LoggingLevel, define, own, enum., Example]
 ---
 
 # Enum Methods
+
+> An enum is an abstract data type with values that each take on exactly one of a finite
+  set of identifiers that you specify. Apex provides built-in enums, such as LoggingLevel, and you can define your own enum.
 
 # Enum Methods
 
@@ -43,4 +47,16 @@ For more information about Enum, see [Enums](https://developer.salesforce.com/do
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+Integer i = StatusCode.DELETE_FAILED.ordinal();
+
+String s = StatusCode.DELETE_FAILED.name();
+
+List<StatusCode> values = StatusCode.values();
+
+StatusCode statusCodeValue = StatusCode.valueOf('delete_failed');
 ```

@@ -5,11 +5,14 @@ topic: party-profile-risk-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.439Z
-keywords: [Party, Profile, Risk, Input]
+lastCollected: 2026-03-12T05:14:48.661Z
+estimatedTokens: 295
+keywords: [Party, Profile, Risk, Input, representation, details, party, profile, risk.]
 ---
 
 # Party Profile Risk Input
+
+> Input representation of the details of the party profile risk.
 
 # Party Profile Risk Input
 
@@ -28,3 +31,7 @@ Properties
 | riskOverridden​ById | String | User who overrode the risk assessment result of the party. | Optional | 61.0 |
 | riskOverride​Reason | String | Reason for overriding the risk assessment result. | Optional | 61.0 |
 | type | String | Type of risk assessment. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

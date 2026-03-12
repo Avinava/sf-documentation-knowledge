@@ -5,11 +5,14 @@ topic: connectapicdpcalculatedinsightmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.207Z
-keywords: [ConnectApi.CdpCalculatedInsightMeasure, See]
+lastCollected: 2026-03-12T05:14:26.454Z
+estimatedTokens: 214
+keywords: [ConnectApi.CdpCalculatedInsightMeasure, Calculated, insight, measure.]
 ---
 
 # ConnectApi.CdpCalculatedInsightMeasure
+
+> Calculated insight measure.
 
 # ConnectApi.CdpCalculatedInsightMeasure
 
@@ -29,3 +32,9 @@ Calculated insight measure.
 #### See Also
 
 -   [ConnectApi.CdpCalculatedInsightOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight.htm "Calculated insight.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CdpCalculated​InsightDataSource (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight_data_source.htm)
+- ConnectApi.CdpCalculatedInsightOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight.htm)

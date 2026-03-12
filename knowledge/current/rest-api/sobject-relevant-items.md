@@ -5,11 +5,16 @@ topic: sobject-relevant-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.575Z
-keywords: [sObject, Relevant, Items, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.875Z
+estimatedTokens: 812
+keywords: [sObject, Relevant, Items, current, user’s, most, relevant, items., items, include, records, objects, search, scope, recently, used, MRU, objects., Note, Syntax]
 ---
 
 # sObject Relevant Items
+
+> Gets the current user’s most relevant items. Relevant items
+   include records for objects in the user’s global search scope and also most recently used (MRU)
+   objects.
 
 # sObject Relevant Items
 
@@ -80,3 +85,7 @@ The response contains an array of records for each object returned, including th
 ## Example
 
 See [View Relevant Items](atlas.en-us.api_rest.meta/api_rest/dome_get_relevant_items.htm#dome_get_relevant_items "Use the Relevant Items resource to get a list of relevant records.").
+
+## Related Topics
+
+- View Relevant Items (atlas.en-us.api_rest.meta/api_rest/dome_get_relevant_items.htm)

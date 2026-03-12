@@ -5,11 +5,14 @@ topic: reportfiltertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.512Z
-keywords: [ReportFilterType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.677Z
+estimatedTokens: 71
+keywords: [ReportFilterType, types, values, included, report, filter, type., Values]
 ---
 
 # ReportFilterType Enum
+
+> The types of values included in a report filter type.
 
 # ReportFilterType Enum
 

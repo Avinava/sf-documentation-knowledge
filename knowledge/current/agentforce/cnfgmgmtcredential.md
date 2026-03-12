@@ -5,11 +5,16 @@ topic: cnfgmgmtcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.853Z
-keywords: [CnfgMgmtCredential, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.360Z
+estimatedTokens: 613
+keywords: [CnfgMgmtCredential, Represents, authentication, information, needed, access, interact, various, devices, systems, during, discovery, processes., example, SSH, key., API, version, 65.0, later.]
 ---
 
 # CnfgMgmtCredential
+
+> Represents authentication information needed to access and interact with
+         various IT devices and systems during the discovery processes. For example, SSH key.
+      This object is available in API version 65.0 and later.
 
 # CnfgMgmtCredential
 

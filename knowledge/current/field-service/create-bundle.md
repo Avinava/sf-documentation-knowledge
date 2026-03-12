@@ -5,11 +5,18 @@ topic: create-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.314Z
-keywords: [Create, Bundle, Add, Remote, Site, Request, Body, Example, Response, **Code, Sample, Apex**]
+lastCollected: 2026-03-12T05:14:55.610Z
+estimatedTokens: 1972
+keywords: [Create, Bundle, Creates, bundle, service, appointments, manually., resource, accepts, appointment, IDs, manual, bundling, policy, ID., specifies, rules, marked, bundling., appointment.]
 ---
 
 # Create Bundle
+
+> Creates a bundle of service appointments manually. This resource accepts service
+    appointment IDs and a manual bundling policy ID. The manual bundling policy specifies the
+    bundling rules and has to be marked for manual bundling. This resource returns the ID of the
+    bundle service appointment. This API is not supported in Gov Cloud. This endpoint is available
+    in version 54.0 and later of the Salesforce API.
 
 # Create Bundle
 
@@ -173,4 +180,150 @@ This example shows the output of a request that’s trying to bundle a service a
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+    "user": "Misha1",
+    "initiate": "manual",
+    "bundlePolicyId": "7sTx00000000006EAA",
+    "saRequestPayloads": [
+        {
+            "serviceAppointmentId": "08px000000NzbmsAAB",
+            "action": "add"
+        },
+        {
+            "serviceAppointmentId": "08pT300000006LLIAY",
+            "action": "add"
+        }
+    ]
+}
+```
+
+```
+{
+  "bundleId": "08px000000NzdH8AAJ",
+  "responsePayloads": [
+    {
+      "objectName": "ServiceAppointment",
+      "objectId": "08px000000NzbmsAAB",
+      "action": "add",
+      "status": "SUCCESS",
+      "messageCode": "NONE",
+      "message": "Success",
+      "messageParams": [
+        
+      ]
+    },
+    {
+      "objectName": "ServiceAppointment",
+      "objectId": "08pT300000006LLIAY",
+      "action": "add",
+      "status": "SUCCESS",
+      "messageCode": "NONE",
+      "message": "Success",
+      "messageParams": [
+        
+      ]
+    }
+  ],
+  "status": "SUCCESS",
+  "messageCode": "NONE",
+  "message": "Success"
+}
+```
+
+```
+{
+   "bundleId":null,
+   "responsePayloads":[
+      {
+         "objectName":"ServiceAppointment",
+         "objectId":"08px000000NzdH8AAJ",
+         "action":"add",
+         "status":"FAIL",
+         "messageCode":"SA_ALREADY_BUNDLED",
+         "message":"Is already a bundle service appointment.",
+         "messageParams":[
+            
+         ]
+      }
+   ],
+   "status":"FAIL",
+   "messageCode":"ERROR_CREATING_BUNDLE",
+   "message":"We couldn't bundle the service appointment.",
+   "messageAdditionalInfo": ""
+}
+```
+
+```apex
+public static Map<String, String> createSABundle() {
+    String apiVersion = '54.0'; // Spring '22
+    String bundleApi = '/bundleflow/api/v1.0/bundle';
+    String host = {Namespace}.BundleLogic.getBundlerFalconEnvironment();
+    String ref = URL.getOrgDomainUrl().toExternalForm();
+
+    String bundleService = host + bundleApi;
+    
+    // Create HTTP request
+    HttpRequest request = new HttpRequest();
+    request.setEndpoint(bundleService);
+    request.setMethod('POST');
+    request.setHeader('sf_api_version', apiVersion);
+    request.setHeader('Content-Type', 'application/json' );
+    // NOTE: This user must have 'Field Service Integration' permissions.
+    request.setHeader('Authorization', 'Bearer ' + UserInfo.getSessionId()); 
+    request.setHeader('Referer', ref);
+    request.setHeader('x-sfdc-tenant-id', 'core/prod/ORG-ID_18_Characters');
+    request.setTimeout(120000);
+    
+    // Create the body
+    Map<String, Object> body = new Map<String, Object>();
+    body.put('initiate','manual');
+    body.put('bundlePolicyId','7sT9A0000004DX6UAM'); // NOTE: Use a real bundle policy ID.
+
+    Map<String, Object> saList = new Map<String, Object>(); 
+    saList.put('serviceAppointmentId', '08p9A0000005LEGQA2'); // NOTE: Use a real Service Appointment ID.
+    saList.put('action', 'add');
+
+    List<Object> objectsList =  new List<Object>();
+    objectsList.add(saList);
+
+    body.put('saRequestPayloads', objectsList);
+
+    String reqBody = JSON.serialize(body);
+    System.debug(body);
+    request.setBody(reqBody);
+
+    HttpResponse response = new Http().send(request);
+
+    // Parse the JSON response
+    
+    // Handle a redirect message
+    while (response.getStatusCode() == 302) {
+        request.setEndpoint(response.getHeader('Location'));
+        response = new Http().send(request);
+    }
+
+    Map<String, String> returnValue = new Map<String, String>();
+    returnValue.put('statusCode', String.valueOf(response.getStatusCode()));
+
+    // Return value when we don't get a success response
+    if (response.getStatusCode() != 200) {
+        returnValue.put('message', 'The status code returned was not expected: ' + response.getStatusCode() + ' ' + response.getStatus());
+        System.debug(returnValue.get('message'));
+        return (returnValue);
+        
+    // Return value when we do get a success response
+    } else {
+        returnValue.put('message', response.getBody());
+        System.debug(response.getBody());
+        return (returnValue);
+    }
+}
+
+Map<String, String> response = createSABundle();
+System.debug(response);
 ```

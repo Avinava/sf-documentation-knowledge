@@ -5,11 +5,14 @@ topic: party-identity-verification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.404Z
-keywords: [Party, Identity, Verification, Input]
+lastCollected: 2026-03-12T05:14:48.624Z
+estimatedTokens: 601
+keywords: [Party, Identity, Verification, Input, representation, details, party, identity, verification.]
 ---
 
 # Party Identity Verification Input
+
+> Input representation of the details of the party identity verification.
 
 # Party Identity Verification Input
 
@@ -37,3 +40,8 @@ Properties
 | thirdParty​Verification​RunUrl | String | Third-party URL to view details of the verification run on the party profile. | Optional | 61.0 |
 | verification​RequestDate | String | Date when the party identity verification request was submitted. | Optional | 61.0 |
 | verifiedBy | String | Name of the third-party that conducted the identity verification. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)
+- Identity Verification Step Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_identity_verification_step_input.htm)

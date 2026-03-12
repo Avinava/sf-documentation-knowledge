@@ -5,11 +5,14 @@ topic: using-the-this-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.594Z
-keywords: [Keyword]
+lastCollected: 2026-03-12T05:14:32.622Z
+estimatedTokens: 259
+keywords: [Keyword, There, two, different, ways, keyword.]
 ---
 
 # Using the  this Keyword Keyword
+
+> There are two different ways of using the this keyword.
 
 # Using the this Keyword Keyword
 
@@ -33,3 +36,35 @@ When you use the this keyword in a constructor to do constructor chaining, it mu
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_super.htm "Using the super Keyword Keyword")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm "Using the transient Keyword Keyword")
+
+## Code Examples
+
+```apex
+public class myTestThis {
+
+string s;
+  {
+      this.s = 'TestString';
+  }
+}
+```
+
+```apex
+public class testThis {
+
+// First constructor for the class. It requires a string parameter.
+   public testThis(string s2) {
+   }
+
+// Second constructor for the class. It does not require a parameter.
+// This constructor calls the first constructor using the this keyword.
+   public testThis() {
+       this('None');
+   }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_super.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm)

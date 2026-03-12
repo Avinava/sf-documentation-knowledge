@@ -5,11 +5,14 @@ topic: extlclntapppushconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.581Z
-keywords: [ExtlClntAppPushConfigurablePolicies, Note, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:39.776Z
+estimatedTokens: 534
+keywords: [ExtlClntAppPushConfigurablePolicies, Represents, external, client, app’s, push, notification, policies, configuration., Note, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # ExtlClntAppPushConfigurablePolicies
+
+> Represents an external client app’s push notification policies configuration.
 
 # ExtlClntAppPushConfigurablePolicies
 
@@ -46,3 +49,7 @@ There are no additional access requirements that are specific to this type.
 | externalClientApplication | string | Required. The name of the associated external client app. |
 | isFullContent | boolean | Required. Indicates if push notifications display the full notification title and body text (true). When set to false, standard notifications display a generic message and custom notifications display only the notification title. |
 | label | string | Label for the external client app’s push notification policies configuration. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

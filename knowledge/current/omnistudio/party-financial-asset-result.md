@@ -5,11 +5,14 @@ topic: party-financial-asset-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.674Z
-keywords: [Party, Financial, Asset, Result]
+lastCollected: 2026-03-12T05:14:50.486Z
+estimatedTokens: 906
+keywords: [Party, Financial, Asset, Result, Output, representation, party, financial, asset, result.]
 ---
 
 # Party Financial Asset Result
+
+> Output representation of the party financial asset result.
 
 # Party Financial Asset Result
 
@@ -51,3 +54,9 @@ Output representation of the party financial asset result.
 | valuationAmount | Double | Worth of the asset after valuation. | Small, 61.0 | 61.0 |
 | valuation​DateTime | String | Date and time of the valuation. | Small, 61.0 | 61.0 |
 | verification​Status | String | Verification status of the party financial asset. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Party Financial Asset Additional Owner Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_financial_asset_additional_owner_result.htm)
+- Party Financial Asset Lien Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_financial_asset_lien_result.htm)

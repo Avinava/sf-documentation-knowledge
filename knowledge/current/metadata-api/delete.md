@@ -4,12 +4,16 @@ domain: metadata-api
 topic: delete
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.811Z
-keywords: [delete, Syntax, Usage, Version, Permissions, Note, Rules, Guidelines, Basic, Steps, Deleting, Metadata, Components, Sample, Code—Java, Arguments, Response, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:38.653Z
+estimatedTokens: 1596
+keywords: [delete, Deprecated., Deletes, components, organization, asynchronously., call, removed, API, version, 31.0, earlier, versions, only., deleteMetadata, instead., Syntax, Usage, Version, Permissions]
 ---
 
 # delete()
+
+> Deprecated. Deletes one or more components from your organization asynchronously. This
+    call is removed as of API version 31.0 and is available in earlier versions only. Use deleteMetadata() instead.
 
 # delete()
 
@@ -76,9 +80,53 @@ Use the following process to delete metadata components:
 #### See Also
 
 -   [deleteMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm "Deletes one or more metadata components from your organization synchronously.")
-    
+
 -   [create()](atlas.en-us.api_meta.meta/api_meta/meta_create.htm "Deprecated. Adds one or more new metadata components to your organization asynchronously. This call is removed as of API version 31.0 and is available in earlier versions only. Use createMetadata() instead.")
-    
+
 -   [update()](atlas.en-us.api_meta.meta/api_meta/meta_update.htm "Deprecated. Updates one or more components in your organization asynchronously. This call is removed as of API version 31.0 and is available in earlier versions only. Use updateMetadata() or renameMetadata() instead.")
-    
+
 -   [checkStatus()](atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm "Deprecated. Checks the status of asynchronous metadata calls create(), update(), or delete(), or the declarative metadata call retrieve(). This call is removed as of API version 31.0 and is available only in earlier versions.")
+
+## Code Examples
+
+```
+AsyncResult[] = metadataConnection.delete(Metadata[] metadata);
+```
+
+```apex
+public void deleteCustomObject() {
+  try {
+    CustomObject co = new CustomObject();
+    co.setFullName("MyCustomObject__c");
+    AsyncResult[] ars = metadataConnection.create(new Metadata[]
+       {co});
+    AsyncResult asyncResult = ars[0];
+    long waitTimeMilliSecs = 1000;
+    while (!asyncResult.isDone()) {
+      Thread.sleep(waitTimeMilliSecs);
+      // double the wait time for the next iteration
+      waitTimeMilliSecs *= 2;
+      asyncResult = mdConnection.checkStatus(
+        new String[] {asyncResult.getId()})[0];
+      System.out.println("Status is: " + asyncResult.getState());
+    }
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  } catch (InterruptedException ie) {
+    ie.printStackTrace();
+  }
+}
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- deleteMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- fullName (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- checkStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- update() (atlas.en-us.api_meta.meta/api_meta/meta_update.htm)

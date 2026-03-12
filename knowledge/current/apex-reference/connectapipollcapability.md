@@ -5,11 +5,15 @@ topic: connectapipollcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.604Z
-keywords: [ConnectApi.PollCapability, See]
+lastCollected: 2026-03-12T05:14:28.409Z
+estimatedTokens: 244
+keywords: [ConnectApi.PollCapability, feed, element, capability, includes, poll.]
 ---
 
 # ConnectApi.PollCapability
+
+> If a feed element has this capability, it includes a
+    poll.
 
 # ConnectApi.PollCapability
 
@@ -26,3 +30,12 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​FeedPollChoice (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_FeedPollChoice.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

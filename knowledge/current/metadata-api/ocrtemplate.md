@@ -5,11 +5,17 @@ topic: ocrtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.793Z
-keywords: [OcrTemplate, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OcrTargetObject, OcrTargetObjFieldMapping, OcrSampleDocumentField, OcrSampleDocumentPageItem, OcrTemplateSampleDocument, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:41.505Z
+estimatedTokens: 1761
+keywords: [OcrTemplate, Represents, details, mapping, between, form, Salesforce, Intelligent, Form, Reader., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix]
 ---
 
 # OcrTemplate
+
+> Represents the details of the mapping between a form and a
+      Salesforce object using Intelligent Form Reader. This type
+      extends the Metadata metadata type and inherits its fullName
+    field.
 
 # OcrTemplate
 
@@ -123,3 +129,61 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OcrTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+   <active>false</active>
+   <documentType>Form</documentType>
+   <masterLabel>Form Test 222</masterLabel>
+   <ocrTargetObjects>
+      <ocrTargetObjFieldMappings>
+         <ocrSampleDocField>
+            <cellColumnNumber>1</cellColumnNumber>
+            <cellColumnSpanValue>1</cellColumnSpanValue>
+            <cellRowNumber>1</cellRowNumber>
+            <cellRowSpanValue>1</cellRowSpanValue>
+             <fieldLabelMaxX>0.5975854</fieldLabelMaxX>
+             <fieldLabelMaxY>0.46625894</fieldLabelMaxY>
+             <fieldLabelMinX>0.5065626</fieldLabelMinX>
+             <fieldLabelMinY>0.39605626</fieldLabelMinY>
+             <keyContent>Last Name</keyContent>
+             <ocrSampleDocument>image240</ocrSampleDocument>
+             <ocrSampleDocumentPage>1</ocrSampleDocumentPage>
+             <ocrSampleDocumentPageItem>
+                <hasHeader>false</hasHeader>
+                <sequenceNumber>1</sequenceNumber>
+                <title>Table1</title>
+                <type>TABLE</type>
+            </ocrSampleDocumentPageItem>
+        </ocrSampleDocField>
+      <targetField>Account.Name</targetField>
+      <type>TableColumn</type>
+      </ocrTargetObjFieldMappings>
+      <targetObject>Account</targetObject>
+      <targetObjectRecordType>Account.X240</targetObjectRecordType>
+   </ocrTargetObjects>
+   <ocrTemplateSampleDocuments>
+      <ocrSampleDocument>Form</ocrSampleDocument>
+   </ocrTemplateSampleDocuments>
+   <pageCount>10</pageCount>
+   <templateName>Form Test</templateName>
+</OcrTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>OcrTemplate</name>
+   </types>
+   <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

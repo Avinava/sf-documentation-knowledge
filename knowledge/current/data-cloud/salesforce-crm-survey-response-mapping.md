@@ -5,11 +5,15 @@ topic: salesforce-crm-survey-response-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.837Z
-keywords: [Salesforce, CRM, Survey, Response, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.094Z
+estimatedTokens: 356
+keywords: [Salesforce, CRM, Survey, Response, Mapping, data, mappings, SurveyResponse, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Survey Response Mapping
+
+> These data mappings are for the SurveyResponse DLO found in the Services bundle of the
+  Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Survey Response Mapping
 

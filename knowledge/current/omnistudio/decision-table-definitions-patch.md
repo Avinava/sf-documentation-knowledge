@@ -5,11 +5,15 @@ topic: decision-table-definitions-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.752Z
-keywords: [Decision, Table, Definitions, PATCH]
+lastCollected: 2026-03-12T05:14:49.128Z
+estimatedTokens: 1226
+keywords: [Decision, Table, Definitions, PATCH, Update, decision, table, definition, associated, table.]
 ---
 
 # Decision Table Definitions (PATCH)
+
+> Update a decision table definition associated with a decision
+      table.
 
 # Decision Table Definitions (PATCH)
 
@@ -85,3 +89,62 @@ Properties
 Response body for PATCH
 
 [Decision Table Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_output.htm "Output representation of the decision table details.")
+
+## Code Examples
+
+```
+/connect/business-rules/decision-table/definitions/${decisionTableId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/decision-table/definitions/0lDxx00000002Ur
+```
+
+```
+{
+   "setupName":"Product Qualificiation eligibility",
+   "fullName":"ProductQualificationEligibility",
+   "description":"Eligiblity of Products using Qualification Rules",
+   "usageType":"ProductEligibility",
+   "sourceType":"SingleSobject",
+   "sourceObject":"AccountFeed",
+   "status":"Draft",
+   "decisionResultPolicy":"UniqueValues",
+   "doesConsiderNullValue": true,
+   "collectOperator":"Count",
+   "conditionType":"Any",
+   "conditionCriteria":"1 OR 2 OR 3",
+   "parameters":[
+      {
+         "fieldName":"IsDeleted",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"1"
+      },
+      {
+         "fieldName":"Id",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"2"
+      },
+      {
+         "fieldName":"Title",
+         "usage":"INPUT",
+         "operator":"Equals",
+         "sequence":"3"
+      },
+      {
+         "fieldName":"CreatedById",
+         "usage":"OUTPUT"
+      }
+   ]
+}
+```
+
+## Related Topics
+
+- Decision Table Parameter
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_parameter_input.htm)
+- Decision Table Source Criteria
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_table_source_criteria_input.htm)
+- Decision Table Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_output.htm)

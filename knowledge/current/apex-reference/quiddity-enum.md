@@ -5,11 +5,14 @@ topic: quiddity-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.447Z
-keywords: [Quiddity, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.580Z
+estimatedTokens: 603
+keywords: [Quiddity, Specifies, used, System.Request, Values]
 ---
 
 # Quiddity Enum
+
+> Specifies a Quiddity value used by the methods in the System.Request class
 
 # Quiddity Enum
 
@@ -49,3 +52,7 @@ The following are the values of the System.Quiddity enum.
 | SYNCHRONOUS | Execution event is a synchronous Apex operation. |
 | TRANSACTION_FINALIZER_QUEUEABLE | Execution event is a queueable job with transaction finalizers attached. |
 | VF | Execution event is triggered by a Visualforce page. |
+
+## Related Topics
+
+- System.Request (atlas.en-us.apexref.meta/apexref/apex_class_System_Request.htm)

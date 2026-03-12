@@ -5,11 +5,17 @@ topic: recommendationstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.614Z
-keywords: [RecommendationStrategy, Supported, SOAP, Calls, REST, API, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.598Z
+estimatedTokens: 1211
+keywords: [RecommendationStrategy, Represents, recommendation, strategy., Recommendation, strategies, applications, similar, data, flows, determine, set, recommendations, delivered, client, through, retrieval, branching, filtering, logic]
 ---
 
 # RecommendationStrategy
+
+> Represents a recommendation strategy.
+            Recommendation strategies are applications, similar to data flows, that determine a set
+            of recommendations to be delivered to the client through data retrieval, branching,
+            filtering, and logic operations. Available in API 45.0 and later.
 
 # RecommendationStrategy
 

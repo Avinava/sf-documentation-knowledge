@@ -5,11 +5,14 @@ topic: working-with-soql-aggregate-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.970Z
-keywords: [Working, SOQL, Aggregate, Functions, Note]
+lastCollected: 2026-03-12T05:14:34.541Z
+estimatedTokens: 641
+keywords: [Working, SOQL, Aggregate, Functions, functions, such, SUM, MAX, allow, roll, summarize, data, query., Note]
 ---
 
 # Working with SOQL Aggregate Functions
+
+> Aggregate functions in SOQL, such as SUM() and MAX(), allow you to roll up and summarize your data in a query.
 
 # Working with SOQL Aggregate Functions
 
@@ -45,3 +48,28 @@ For information about the limits that apply to queries with for loop, see [SOQL 
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm "Understanding Foreign Key and Parent-Child Relationship SOQL Queries")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm "Working with Very Large SOQL Queries")
+
+## Code Examples
+
+```
+AggregateResult[] groupedResults
+  = [SELECT AVG(Amount)aver FROM Opportunity];
+Object avgAmount = groupedResults[0].get('aver');
+```
+
+```apex
+AggregateResult[] groupedResults
+  = [SELECT CampaignId, AVG(Amount)
+      FROM Opportunity
+      GROUP BY CampaignId];
+for (AggregateResult ar : groupedResults)  {
+    System.debug('Campaign ID' + ar.get('CampaignId'));
+    System.debug('Average amount' + ar.get('expr0'));
+}
+```
+
+## Related Topics
+
+- SOQL For Loops (atlas.en-us.apexcode.meta/apexcode/langCon_apex_loops_for_SOQL.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm)

@@ -4,12 +4,15 @@ domain: apex-guide
 topic: considerations-using-wsdls
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.410Z
-keywords: [Considerations, WSDLs, SOAP, Web, Service, Callout, Mapping, Headers, Understanding, Runtime, Events, Unsupported, Characters, Variable, Names, Debugging, Classes, Generated, WSDL, Files]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.366Z
+estimatedTokens: 741
+keywords: [Considerations, WSDLs, aware, following, generating, Apex, classes, WSDL., SOAP, Web, Service, Callout, Mapping, Headers, Understanding, Runtime, Events, Unsupported, Characters, Variable]
 ---
 
 # Considerations Using WSDLs
+
+> Be aware of the following when generating Apex classes from a WSDL.
 
 # Considerations Using WSDLs
 
@@ -50,3 +53,8 @@ Salesforce tests code with SOAP API, .NET, and Axis. If you use other tools, you
 You can use the debugging header to return the XML in request and response SOAP messages to help you diagnose problems. For more information, see SOAP API Developer Guide: [DebuggingHeader](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_header_debuggingheader.htm).
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing_dml.htm "Performing DML Operations and Mock Callouts")
+
+## Related Topics
+
+- Callout Limits and Limitations (atlas.en-us.apexcode.meta/apexcode/apex_callouts_timeouts.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing_dml.htm)

@@ -5,11 +5,14 @@ topic: connectapiactivationdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.880Z
-keywords: [ConnectApi.ActivationData]
+lastCollected: 2026-03-12T05:14:26.001Z
+estimatedTokens: 238
+keywords: [ConnectApi.ActivationData, Represents, activation, data, Audience, Data, Model, DMO]
 ---
 
 # ConnectApi.ActivationData
+
+> Represents the activation data for an Audience Data Model Object (DMO).
 
 # ConnectApi.ActivationData
 
@@ -25,3 +28,8 @@ Represents the activation data for an Audience Data Model Object (DMO).
 | segmentId | String | Unique ID for each segment. | 60.0 |
 | segmentOnId | String | Key identifier based on the SegmentOn enity. Same as Activated-entity-id when ActivateOn = SegmentOn. | 60.0 |
 | segmentedEntityFqk | String | Fully Qualified Key (FQK) of the segmented entity. | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- AudienceDMODeltaTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

@@ -5,11 +5,17 @@ topic: basesharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.728Z
-keywords: [BaseSharingRule, Note, Version, Fields, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:37.149Z
+estimatedTokens: 708
+keywords: [BaseSharingRule, component, removed, API, version, 33.0, earlier, versions, only., SharingBaseRule, instead., Represents, base, container, criteria-based, owner-based, sharing, rules., Note, Version]
 ---
 
 # BaseSharingRule
+
+> This component is
+                removed as of API version 33.0 and is available in earlier versions only. Use
+            SharingBaseRule instead. Represents the base container for criteria-based and
+            owner-based sharing rules.
 
 # BaseSharingRule
 
@@ -39,3 +45,12 @@ You can’t create a BaseSharingRule component directly. Use the components unde
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm "CriteriaBasedSharingRule")
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- CriteriaBasedSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)
+- OwnerSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm)
+- SharedTo (atlas.en-us.api_meta.meta/api_meta/meta_sharedto.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)

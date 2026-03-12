@@ -5,11 +5,16 @@ topic: unbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.349Z
-keywords: [Unbundle, Add, Remote, Site, Response, Body, Example]
+lastCollected: 2026-03-12T05:14:55.681Z
+estimatedTokens: 1710
+keywords: [Unbundle, bundle, service, appointments., resource, accepts, ID., API, supported, Gov, Cloud., endpoint, version, 54.0, later, Salesforce, API., Add, Remote, Site]
 ---
 
 # Unbundle
+
+> Unbundle a bundle of service appointments. This resource accepts a bundle ID. This API
+  is not supported in Gov Cloud. This endpoint is available in version 54.0 and later of the
+  Salesforce API.
 
 # Unbundle
 
@@ -148,3 +153,35 @@ This example shows the output of a request where the user entered a service appo
 | 44 | ERROR_UNBUNDLING | We couldn’t unbundle the service appointment. |
 | 58 | ERROR_IN_MSW_VALIDATIONS | We can’t bundle service appointments with dependencies. Remove the dependencies and try again. |
 | -500 | http error | Hmm… Something went wrong. Try again. |
+
+## Code Examples
+
+```
+{
+   "bundleId":"08px000000NzdMXAAZ",
+   "responsePayloads":null,
+   "status":"SUCCESS",
+   "messageCode":"NONE",
+   "message":"Success"
+}
+```
+
+```
+{
+   "bundleId":null,
+   "responsePayloads":[
+      {
+         "status":"FAIL",
+         "messageCode":"GET_BUNDLE_INFO_FAILURE",
+         "message":"Replace the service appointment with a bundle service appointment.",
+         "messageParams":[
+            
+         ]
+      }
+   ],
+   "status":"FAIL",
+   "messageCode":"ERROR_UNBUNDLING",
+   "message":"We couldn’t unbundle the service appointment.",
+   "messageAdditionalInfo": ""
+}
+```

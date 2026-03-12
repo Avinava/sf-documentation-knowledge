@@ -5,11 +5,16 @@ topic: capturing-behavior-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.179Z
-keywords: [Capturing, Behavior, Data, Lifecycle, Events, Screen, Send]
+lastCollected: 2026-03-12T05:14:12.123Z
+estimatedTokens: 695
+keywords: [Capturing, Behavior, Data, Cloud, Module, Engagement, Mobile, SDK, enables, collection, granular, data, customer’s, mobile, app, interactions, through, event, tracking., Lifecycle]
 ---
 
 # Capturing Behavior Data
+
+> The Data Cloud Module for the Engagement Mobile SDK enables the
+    collection of granular data about a customer’s mobile app interactions through event
+    tracking.
 
 # Capturing Behavior Data
 
@@ -69,3 +74,56 @@ For example, when a customer is navigating through Activity views in an Android 
 ## Send Behavior Data
 
 After you’ve configured the Data Cloud Module and enabled the desired behavioral events, the SDK automatically sends those events to Data Cloud as they occur in your app. You don't need to manually send these events.
+
+## Code Examples
+
+```
+{
+  "behaviorType": "AppLaunch",
+  "appName": "MyAppName",
+  "appVersion": "1.0.0",
+  "eventType": "appEvents",
+  "category": "Engagement",
+  // + all automatically assigned fields like deviceId, sessionId, dateTime, etc.
+}
+```
+
+```
+{
+  "behaviorType": "AppBackgrounded",
+  "appName": "MyAppName",
+  "appVersion": "1.0.0",
+  "eventType": "appEvents",
+  "category": "Engagement",
+  // + all automatically assigned fields like deviceId, sessionId, dateTime, etc.
+}
+```
+
+```
+{
+  "behaviorType": "AppUpdate",
+  "previousAppVersion": "1.0.0",
+  "appName": "MyAppName",
+  "appVersion": "1.2.3",
+  "eventType": "appEvents",
+  "category": "Engagement",
+  // + all automatically assigned fields like deviceId, sessionId, dateTime, etc.
+}
+```
+
+```
+{
+  "behaviorType": "ScreenView",
+  "screenName": "MyScreenName",
+  "appName": "MyAppName",
+  "appVersion": "1.0.0",
+  "eventType": "appEvents",
+  "category": "Engagement",
+  // + all automatically assigned fields like deviceId, sessionId, dateTime, etc.
+}
+```
+
+## Related Topics
+
+- initialized (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_initialization.htm)
+- Consent (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_consent_management.htm)

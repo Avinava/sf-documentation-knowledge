@@ -5,11 +5,15 @@ topic: group-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.538Z
-keywords: [Group, Definition]
+lastCollected: 2026-03-12T05:14:50.297Z
+estimatedTokens: 171
+keywords: [Group, Definition, Output, representation, party, relationship, group, definition.]
 ---
 
 # Group Definition
+
+> Output representation of a party relationship group
+    definition.
 
 # Group Definition
 
@@ -28,3 +32,15 @@ JSON example
 | isSuccess | Boolean | Indicates whether the create request is successful (true) or not (false). | Small, 58.0 | 58.0 |
 | message | String | Message of the API request. | Small, 58.0 | 58.0 |
 | partyRelationshipId | String | Record ID of the PartyRelationshipGroup object. | Small, 58.0 | 58.0 |
+
+## Code Examples
+
+```
+{
+   "accountId": "001RM000005mkcuYAA",
+   "code": "200",
+   "isSuccess": true,
+   "message": "",
+   "partyRelationshipId": "0wKRM00000000BT2AY"
+}
+```

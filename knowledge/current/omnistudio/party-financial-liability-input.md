@@ -5,11 +5,14 @@ topic: party-financial-liability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.399Z
-keywords: [Party, Financial, Liability, Input]
+lastCollected: 2026-03-12T05:14:48.616Z
+estimatedTokens: 634
+keywords: [Party, Financial, Liability, Input, representation, details, party, financial, liability.]
 ---
 
 # Party Financial Liability Input
+
+> Input representation of the details of the party financial liability.
 
 # Party Financial Liability Input
 
@@ -41,3 +44,9 @@ Properties
 | type | String | Type of the party financial liability. | Optional | 61.0 |
 | usageType | String | Usage type of the party financial liability. | Required | 61.0 |
 | verification​Status | String | Verification status of the party financial liability. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)
+- Party Financial Liability Borrower
+                      Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_financial_liability_borrower_input.htm)

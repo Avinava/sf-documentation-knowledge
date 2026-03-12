@@ -5,11 +5,17 @@ topic: fielddefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.956Z
-keywords: [FieldDefinition, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, Note, Usage, CustomField, Metadata, Picklist, PicklistValue, RelationshipReferenceTo, Type, WorkflowFieldUpdate]
+lastCollected: 2026-03-12T05:14:45.630Z
+estimatedTokens: 9058
+keywords: [FieldDefinition, Represents, standard, custom, field, providing, row-based, access, metadata., Contrast, EntityParticle, which, represents, element, presented, user, interface., parity, metadata, Field.]
 ---
 
 # FieldDefinition
+
+> Represents a standard or custom
+            field, providing row-based access to field metadata. Contrast FieldDefinition with
+            EntityParticle, which represents each element of a field that can be presented in a user
+            interface. FieldDefinition has parity with metadata type Field.
 
 # FieldDefinition
 
@@ -226,3 +232,22 @@ Note the following when working with picklist values:
 ## WorkflowFieldUpdate Metadata
 
 For more information about WorkflowFieldUpdate, see the [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/metadata.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+SELECT DurableId, QualifiedApiName, Label, DataType, ValueTypeId, PublisherId, Length, Precision, Scale, EntityDefinitionId, RelationshipName
+    FROM FieldDefinition
+    WHERE EntityDefinition.QualifiedApiName = 'Customer_Sat_Survey__c' ORDER BY Label ASC NULLS FIRST
+```
+
+## Related Topics
+
+- SOQL
+                    Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL
+                    Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- QueryResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_queryresult.htm)
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)
+- Publisher (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_publisher.htm)
+- DataType (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_datatype.htm)

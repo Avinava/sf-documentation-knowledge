@@ -5,11 +5,16 @@ topic: objectsourcetargetmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.773Z
-keywords: [ObjectSourceTargetMap, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, FieldSourceTargetMap]
+lastCollected: 2026-03-12T05:14:41.477Z
+estimatedTokens: 971
+keywords: [ObjectSourceTargetMap, Contains, object-level, mappings, between, source, target, objects., objects, MktDataLakeObject, MktDataModelObject., example, Email, mapped, ContactPointEmail, object., Important, Parent, File, Suffix]
 ---
 
 # ObjectSourceTargetMap
+
+> Contains the object-level mappings between the source and the target objects. The source
+  and target objects can be an MktDataLakeObject or an MktDataModelObject. For example, an Email
+  source object can be mapped to the ContactPointEmail object.
 
 # ObjectSourceTargetMap
 
@@ -66,3 +71,7 @@ For example, you can map a Person source object’s field called emailAddress to
 | sourceField | string | Required. The source object field that’s mapped, such as EmailAddr or SfmcEnt1_Subscriber.FName. |
 | sourceFormula | string | A formula, such as concatenation, date function, or constant value. |
 | targetField | string | Required. The target object field that’s mapped, such as SfmcEnt1_Email.EmailAddr or Individual.FirstName. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

@@ -5,11 +5,17 @@ topic: workskillroutingattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:39.005Z
-keywords: [WorkSkillRoutingAttribute, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:47.165Z
+estimatedTokens: 786
+keywords: [WorkSkillRoutingAttribute, Represents, setup, stores, metadata, related, routing, assignments, between, field, values, skills., Field, used, route, work, item, agent, who, skills]
 ---
 
 # WorkSkillRoutingAttribute
+
+> Represents a setup object that stores metadata related to
+        the routing assignments between object field values and skills. Field values are used to
+        route a work item to an agent who has the skills necessary to take the work. Available in
+        API version 46.0 and later.
 
 # WorkSkillRoutingAttribute
 
@@ -40,3 +46,9 @@ DELETE, GET, PATCH, POST
 | SkillPriority | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionFor additional skills, specify the order in which a skill is dropped if after the Drop Additional Skills Timeout on the routing configuration, no agent with that skill is available. Skills with a lower priority rank (9 or 10) are dropped first. Skills with a higher priority rank (0 or 1) are dropped last. Skills with the same priority value are dropped as a group. You can set skill priority using skills-based routing rules or Apex code. Available in API version 49.0 and later. |
 | Value | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe field value that is mapped to the selected skill. |
 | WorkSkillRoutingId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the WorkSkillRouting object with which this field value is associated. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- WorkSkillRouting (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_workskillrouting.htm)

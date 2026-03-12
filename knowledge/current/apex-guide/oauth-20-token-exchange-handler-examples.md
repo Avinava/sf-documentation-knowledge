@@ -5,11 +5,19 @@ topic: oauth-20-token-exchange-handler-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.217Z
-keywords: [OAuth, 2.0, Token, Exchange, Handler, Examples, Abstract, Class, Important, Example, Implementation, Validating, Different, Types, Finding, Creating, User, See]
+lastCollected: 2026-03-12T05:14:34.918Z
+estimatedTokens: 4425
+keywords: [OAuth, 2.0, Token, Exchange, Handler, Examples, Sometimes, want, integrate, Salesforce, complex, system, where, primary, app, central, identity, provider, multiple, apps]
 ---
 
 # OAuth 2.0 Token Exchange Handler Examples
+
+> Sometimes you want to integrate Salesforce into a complex system where you have a primary
+        app, a central identity provider, and multiple other apps and microservices. In this model,
+        users log in to the primary app via the identity provider and access data provided by the
+        other apps and microservices. To fit Salesforce into this model as one of the apps providing
+        data, use the OAuth 2.0 token exchange flow, which implements an Apex token exchange
+        handler.
 
 # OAuth 2.0 Token Exchange Handler Examples
 
@@ -17,7 +25,7 @@ Sometimes you want to integrate Salesforce into a complex system where you have 
 
 | Available in: Enterprise, Unlimited, Performance, and Developer Editions |
 | --- |
-  
+
 
 During the OAuth 2.0 token exchange flow, when a user logs in to the primary app via the identity provider, the identity provider issues a token to the primary app. The primary app can’t use this token to directly access Salesforce data, but it can exchange the token for a Salesforce access token. To complete this exchange, the primary app uses an Apex token exchange handler. With the token exchange handler, Salesforce can issue its own access token by validating the identity provider’s token and mapping the token’s subject, which identifies the end user, to a Salesforce user.
 
@@ -80,13 +88,13 @@ global class MyTokenExchangeHandler extends Auth.Oauth2TokenExchangeHandler { gl
 #### See Also
 
 -   [*Salesforce Help:* OAuth 2.0 Token Exchange Flow](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_token_exchange_overview.htm&type=5&language=en_US "Salesforce Help: OAuth 2.0 Token Exchange Flow - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide:* Oauth2TokenExchangeHandler Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Auth_Oauth2TokenExchangeHandler.htm "Apex Reference Guide: Oauth2TokenExchangeHandler Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide:* TokenValidationResult Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Auth_TokenValidationResult.htm "Apex Reference Guide: TokenValidationResult Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide:* OAuth2TokenExchangeType Enum](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_enum_Auth_OAuth2TokenExchangeType.htm "Apex Reference Guide: OAuth2TokenExchangeType Enum - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide:* IntegratingAppType Enum](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_enum_Auth_IntegratingAppType.htm "Apex Reference Guide: IntegratingAppType Enum - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide:* JWTUtil Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Auth_JWTUtil.htm "Apex Reference Guide: JWTUtil Class - HTML (New Window)")

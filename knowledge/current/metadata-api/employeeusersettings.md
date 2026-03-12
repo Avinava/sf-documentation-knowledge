@@ -5,11 +5,17 @@ topic: employeeusersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.227Z
-keywords: [EmployeeUserSettings, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.257Z
+estimatedTokens: 660
+keywords: [EmployeeUserSettings, Represents, employee-user, settings, used, automatically, creating, syncing, employee, user, data, work.com, orgs., extends, Metadata, metadata, inherits, its, fullName, field.]
 ---
 
 # EmployeeUserSettings
+
+> Represents the employee-user settings used for
+      automatically creating or syncing employee and user data in work.com orgs.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EmployeeUserSettings
 
@@ -51,3 +57,31 @@ The following example of package.xml file retrieves the EmployeeUserSettings met
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeUserSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+<emailEncoding>ISO-8859-1</emailEncoding>
+<enableEmployeeAutoCreateUser>true</enableEmployeeAutoCreateUser>
+<enableEmployeeIsSourceOfTruth>false</enableEmployeeIsSourceOfTruth>
+<profile>MarketingProfile</profile>
+<usernameSuffix>example.com</usernameSuffix>
+</EmployeeUserSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<name>Settings</name>
+<members>EmployeeUser</members>
+</types>
+<version>50.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

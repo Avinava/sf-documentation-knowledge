@@ -5,11 +5,14 @@ topic: context-node-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.675Z
-keywords: [Context, Node, GET, DELETE]
+lastCollected: 2026-03-12T05:14:49.004Z
+estimatedTokens: 106
+keywords: [Context, Node, GET, DELETE, Query, delete, context, node, Id.]
 ---
 
 # Context Node Id (GET, DELETE)
+
+> Query and delete a context node using an Id.
 
 # Context Node Id (GET, DELETE)
 
@@ -48,3 +51,22 @@ GET, DELETE
 Response body for GET
 
 [Context Node Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node.htm "Output representation of the details of context nodes.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-nodes/${contextNodeId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-nodes/${contextNodeId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-nodes/${contextNodeId}
+```
+
+## Related Topics
+
+- Context Node
+              Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node.htm)

@@ -5,11 +5,16 @@ topic: linkedarticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.655Z
-keywords: [LinkedArticle, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.160Z
+estimatedTokens: 856
+keywords: [LinkedArticle, Represents, knowledge, article, attached, work, order, line, item, type., API, version, 37.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # LinkedArticle
+
+> Represents a knowledge article that is attached to a work order,
+			work order line item, or work type. This object is available in API version 37.0
+		and later.
 
 # LinkedArticle
 

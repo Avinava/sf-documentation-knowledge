@@ -5,11 +5,17 @@ topic: class-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.526Z
-keywords: [Class, Variables, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.528Z
+estimatedTokens: 305
+keywords: [Variables, API, version, 50.0, later, scope, accessibility, rules, enforced, Apex, variables, inner, classes, interfaces, annotated, @namespaceAccessible., considerations, NamespaceAcc, Versioned, Behavior]
 ---
 
 # Class Variables
+
+> In API version 50.0 and later, scope and accessibility rules are enforced on
+                        Apex variables, methods, inner classes, and interfaces that are annotated
+                        with @namespaceAccessible. For
+                        accessibility considerations, see NamespaceAcc
 
 # Class Variables
 
@@ -38,3 +44,22 @@ In API version 50.0 and later, scope and accessibility rules are enforced on Ape
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm "Apex Class Definition")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm "Class Methods")
+
+## Code Examples
+
+```apex
+[public | private | protected | global] [final] [static] data_type variable_name 
+[= value]
+```
+
+```apex
+private static final Integer MY_INT; 
+      private final Integer i = 1;
+```
+
+## Related Topics
+
+- NamespaceAccessible
+                              Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)

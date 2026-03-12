@@ -5,11 +5,14 @@ topic: service-catalog-item-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.832Z
-keywords: [Service, Catalog, Item, Group]
+lastCollected: 2026-03-12T05:14:50.738Z
+estimatedTokens: 145
+keywords: [Service, Catalog, Item, Group, process, layout, data, group, output.]
 ---
 
 # Service Catalog Item Group
+
+> Service process layout data group output.
 
 # Service Catalog Item Group
 

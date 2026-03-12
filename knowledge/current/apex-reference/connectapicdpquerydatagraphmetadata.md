@@ -5,11 +5,14 @@ topic: connectapicdpquerydatagraphmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.255Z
-keywords: [ConnectApi.CdpQueryDataGraphMetadata]
+lastCollected: 2026-03-12T05:14:26.526Z
+estimatedTokens: 418
+keywords: [ConnectApi.CdpQueryDataGraphMetadata, Represents, metadata, data, graph.]
 ---
 
 # ConnectApi.CdpQueryDataGraphMetadata
+
+> Represents metadata for a data graph.
 
 # ConnectApi.CdpQueryDataGraphMetadata
 
@@ -30,3 +33,12 @@ Represents metadata for a data graph.
 | valuesDmo | ConnectApi.DataGraphValuesDmo | Data about the Data Model Object (DMO) that contains the JSON records for the data graph. | 61.0 |
 | valuesDmoName | String | API name of the DMO that contains the JSON records for the data graph. | 59.0 |
 | version | String | Version of the data graph metadata. | 59.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.DataGraphObjectData (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_graph_object_data.htm)
+- ConnectApi.DataGraphIdsDmo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_graph_ids_dmo.htm)
+- DataGraphObjectTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- DataGraphStatusEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.DataGraphValuesDmo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_graph_values_dmo.htm)

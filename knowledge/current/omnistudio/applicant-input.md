@@ -5,11 +5,14 @@ topic: applicant-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.005Z
-keywords: [Applicant, Input]
+lastCollected: 2026-03-12T05:14:48.010Z
+estimatedTokens: 439
+keywords: [Applicant, Input, representation, applicant, details.]
 ---
 
 # Applicant Input
+
+> Input representation of the applicant details.
 
 # Applicant Input
 
@@ -37,3 +40,7 @@ Properties
 | stage | String | Stage of the application for a product that’s submitted by the applicant. | Optional | 61.0 |
 | suffix | String | Suffix of the applicant. | Optional | 61.0 |
 | uniqueReference​Number | String | Customer reference number of the applicant. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

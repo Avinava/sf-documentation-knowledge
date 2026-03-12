@@ -5,11 +5,15 @@ topic: connectapiorigincapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.533Z
-keywords: [ConnectApi.OriginCapability, See]
+lastCollected: 2026-03-12T05:14:28.316Z
+estimatedTokens: 205
+keywords: [ConnectApi.OriginCapability, feed, element, capability, created, action.]
 ---
 
 # ConnectApi.OriginCapability
+
+> If a feed element has this capability, it was created by a feed
+      action.
 
 # ConnectApi.OriginCapability
 
@@ -25,3 +29,10 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- ConnectApi.UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

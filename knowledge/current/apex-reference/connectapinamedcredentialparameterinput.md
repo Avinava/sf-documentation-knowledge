@@ -5,11 +5,17 @@ topic: connectapinamedcredentialparameterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.342Z
-keywords: [ConnectApi.NamedCredentialParameterInput, See]
+lastCollected: 2026-03-12T05:14:25.196Z
+estimatedTokens: 213
+namespace: AllowedManagedPackageNamespaces
+keywords: [ConnectApi.NamedCredentialParameterInput, Named, credential, input.]
 ---
 
 # ConnectApi.NamedCredentialParameterInput
+
+> Named credential parameter input.
+
+**Namespace:** `AllowedManagedPackageNamespaces`
 
 # ConnectApi.NamedCredentialParameterInput
 
@@ -26,3 +32,9 @@ Named credential parameter input.
 #### See Also
 
 -   [ConnectApi.NamedCredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm "Input used to create or update a named credential.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​NamedCredential​ParameterType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.NamedCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm)

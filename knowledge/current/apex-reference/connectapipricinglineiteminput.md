@@ -5,11 +5,14 @@ topic: connectapipricinglineiteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.445Z
-keywords: [ConnectApi.PricingLineItemInput, See]
+lastCollected: 2026-03-12T05:14:25.354Z
+estimatedTokens: 96
+keywords: [ConnectApi.PricingLineItemInput, Pricing, line, item.]
 ---
 
 # ConnectApi.PricingLineItemInput
+
+> Pricing line item.
 
 # ConnectApi.PricingLineItemInput
 
@@ -22,3 +25,8 @@ Pricing line item.
 #### See Also
 
 -   [ConnectApi.PricingInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_pricing.htm "Pricing for multiple products.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.PricingInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_pricing.htm)

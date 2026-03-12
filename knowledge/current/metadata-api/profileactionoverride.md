@@ -5,11 +5,21 @@ topic: profileactionoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.094Z
-keywords: [ProfileActionOverride, Note, File, Suffix, Directory, Location, Version, Fields, Usage, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.942Z
+estimatedTokens: 1468
+keywords: [ProfileActionOverride, Represents, override, ActionOverride, user, profile., standard, Home, tab, record, page, Lightning, Experience., logs, profile, matching, assignment, takes, precedence, over]
 ---
 
 # ProfileActionOverride
+
+> Represents an override of an ActionOverride by a
+      user profile. You can use it to override an ActionOverride on a standard Home tab or object
+      record page in Lightning Experience. When a user logs in with a profile, a matching
+      ProfileActionOverride assignment takes precedence over existing overrides for the Home tab or
+      record page specified in ActionOverride.
+    In API versions 39.0 to 44.0, you can access
+      ProfileActionOverride by accessing its encompassing CustomApplication or Profile metadata types. In API version 45.0 and
+      later, you can access ProfileActionOverride only by accessing its encompassing CustomApplication.
 
 # ProfileActionOverride
 
@@ -67,3 +77,44 @@ Here’s an example package.xml.
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>CustomObjectFlexiPage</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>TestObj__c</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>standard</profile>
+        <recordType>TestObj__c.TestRecordType</recordType>
+    </profileActionOverrides>
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <formFactors>Large</formFactors>
+    <label>My Custom App</label>
+    <tab>standard-Account</tab>
+    <tab>standard-Opportunity</tab>
+    <uiType>Lightning</uiType>
+    <navType>Standard</navType>
+</CustomApplication>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyCustomApp</members>
+        <name>CustomApplication</name>
+    </types>
+    <version>39.0</version>
+</Package>
+```
+
+## Related Topics
+
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)
+- Profile (atlas.en-us.api_meta.meta/api_meta/meta_profile.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

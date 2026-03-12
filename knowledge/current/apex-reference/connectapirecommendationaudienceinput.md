@@ -5,11 +5,14 @@ topic: connectapirecommendationaudienceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.504Z
-keywords: [ConnectApi.RecommendationAudienceInput, See]
+lastCollected: 2026-03-12T05:14:25.448Z
+estimatedTokens: 459
+keywords: [ConnectApi.RecommendationAudienceInput, custom, recommendation, audience.]
 ---
 
 # ConnectApi.RecommendationAudienceInput
+
+> A custom recommendation audience.
 
 # ConnectApi.RecommendationAudienceInput
 
@@ -25,3 +28,12 @@ A custom recommendation audience.
 #### See Also
 
 -   [createRecommendationAudience(communityId, recommendationAudience)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm#apex_ConnectAPI_Recommendations_createRecommendationAudience_3 "Create an audience for a custom recommendation.")
+
+## Related Topics
+
+- ConnectApi.AudienceCriteriaInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_audience_criteria.htm)
+- ConnectApi.​Recommendation​AudienceMember​OperationType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.CustomListAudienceCriteriaInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_custom_list_audience_criteria.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createRecommendationAudience(communityId, recommendationAudience) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm)

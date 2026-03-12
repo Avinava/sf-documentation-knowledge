@@ -5,11 +5,14 @@ topic: connectapipageinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.538Z
-keywords: [ConnectApi.PageInfo, See]
+lastCollected: 2026-03-12T05:14:28.323Z
+estimatedTokens: 138
+keywords: [ConnectApi.PageInfo, Page, position, information, search.]
 ---
 
 # ConnectApi.PageInfo
+
+> Page position information for the object search.
 
 # ConnectApi.PageInfo
 
@@ -24,3 +27,9 @@ Page position information for the object search.
 #### See Also
 
 -   [ConnectApi.SearchObject](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm "Record results for the keyword search.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.SearchObject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm)

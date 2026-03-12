@@ -5,11 +5,14 @@ topic: connectapiocifulfillreservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.363Z
-keywords: [ConnectApi.OCIFulfillReservationSingleInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.229Z
+estimatedTokens: 218
+keywords: [ConnectApi.OCIFulfillReservationSingleInputRepresentation, inventory, reservation, fulfill.]
 ---
 
 # ConnectApi.OCIFulfillReservationSingleInputRepresentation
+
+> An inventory reservation to fulfill.
 
 # ConnectApi.OCIFulfillReservationSingleInputRepresentation
 
@@ -23,3 +26,8 @@ An inventory reservation to fulfill.
 | quantity | Double | The quantity being fulfilled. | Required | 51.0 |
 | reservationId | String | The ID of the inventory reservation. | Optional | 58.0 |
 | stockKeepingUnit | String | The SKU of the product being fulfilled. | Required | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

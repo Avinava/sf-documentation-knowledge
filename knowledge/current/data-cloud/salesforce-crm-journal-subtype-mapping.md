@@ -5,11 +5,16 @@ topic: salesforce-crm-journal-subtype-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:43.139Z
-keywords: [Salesforce, CRM, Journal, Subtype, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.605Z
+estimatedTokens: 257
+keywords: [Salesforce, CRM, Journal, Subtype, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., subtypes, help, categorize, types, member]
 ---
 
 # Salesforce CRM: Journal Subtype Mapping
+
+> These data mappings are for the Journal Subtype DLO found in the Loyalty Management
+  bundle of the Salesforce CRM Connector for Data Cloud. Journal subtypes help categorize the types
+  of member activities for which transaction journals are created.
 
 # Salesforce CRM: Journal Subtype Mapping
 

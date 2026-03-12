@@ -5,11 +5,14 @@ topic: connectapiusersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.201Z
-keywords: [ConnectApi.UserSettings, See]
+lastCollected: 2026-03-12T05:14:29.274Z
+estimatedTokens: 679
+keywords: [ConnectApi.UserSettings, Settings, specific, user.]
 ---
 
 # ConnectApi.UserSettings
+
+> Settings specific to a user.
 
 # ConnectApi.UserSettings
 
@@ -48,3 +51,11 @@ Settings specific to a user.
 #### See Also
 
 -   [ConnectApi.OrganizationSettings](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_organization.htm "Org settings.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​TimeZone (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_timezone.htm)
+- ConnectApi.OrganizationSettings (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_organization.htm)

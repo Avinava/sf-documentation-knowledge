@@ -5,11 +5,21 @@ topic: flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:55.288Z
-keywords: [Flow, Important, Warning, Declarative, Metadata, File, Suffix, Directory, Location, Version, FlowActionCall, InvocableActionType, FlowActionCallInputParameter, FlowActionCallOutputParameter, FlowActionCallPath, FlowApexPluginCall, FlowApexPluginCallInputParameter, FlowApexPluginCallOutputParameter, FlowAssignment, FlowAssignmentItem]
+lastCollected: 2026-03-12T05:14:43.847Z
+estimatedTokens: 49198
+keywords: [Flow, Represents, metadata, associated, flow, encompasses, flow's, structure, logic, run-time, behavior., allows, build, dynamic, applications, guide, users, through, interactive, screens]
 ---
 
 # Flow
+
+> Represents the metadata associated with a flow that encompasses the flow's structure,
+        logic, and run-time behavior. It allows you to build dynamic applications that guide users
+        through interactive screens, automate processes, and connect with various Salesforce and
+        external services. This includes managing data operations like creating, updating, or
+        deleting records, handling complex decisions, looping through collections, and invoking
+        actions like Apex or external services to extend functionality. A flow contains options for
+        API versioning, various execution environments, and detailed configuration of elements to
+        design powerful automation solutions.
 
 # Flow
 
@@ -1799,3 +1809,546 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [*Salesforce Help*: Deploy Processes and Flows as Active](https://help.salesforce.com/s/articleView?id=platform.flow_distribute_deploy_active.htm&type=5&language=en_US)
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <name>Get_Info</name>
+        <label>Get Info</label>
+        <locationX>380</locationX>
+        <locationY>242</locationY>
+        <actionName>GetFirstFromCollection</actionName>
+        <actionType>apex</actionType>
+        <connector>
+            <targetReference>Update_If_Existing</targetReference>
+        </connector>
+        <dataTypeMappings>
+            <typeName>T__inputCollection</typeName>
+            <typeValue>Account</typeValue>
+        </dataTypeMappings>
+        <dataTypeMappings>
+            <typeName>U__outputMember</typeName>
+            <typeValue>Account</typeValue>
+        </dataTypeMappings>
+        <flowTransactionModel>CurrentTransaction</flowTransactionModel>
+        <inputParameters>
+            <name>inputCollection</name>
+            <value>
+                <elementReference>accts.accounts</elementReference>
+            </value>
+        </inputParameters>
+        <nameSegment>GetFirstFromCollection</nameSegment>
+        <storeOutputAutomatically>true</storeOutputAutomatically>
+        <versionSegment>1</versionSegment>
+    </actionCalls>
+    <actionCalls>
+        <name>Post_to_Contact_s_Feed</name>
+        <label>Post to Contact&apos;s Feed</label>
+        <locationX>50</locationX>
+        <locationY>890</locationY>
+        <actionName>chatterPost</actionName>
+        <actionType>chatterPost</actionType>
+        <connector>
+            <targetReference>Confirm</targetReference>
+        </connector>
+        <flowTransactionModel>CurrentTransaction</flowTransactionModel>
+        <inputParameters>
+            <name>text</name>
+            <value>
+                <elementReference>chatterMessage</elementReference>
+            </value>
+        </inputParameters>
+        <inputParameters>
+            <name>subjectNameOrId</name>
+            <value>
+                <elementReference>contact.Id</elementReference>
+            </value>
+        </inputParameters>
+        <nameSegment>chatterPost</nameSegment>
+        <storeOutputAutomatically>true</storeOutputAutomatically>
+        <versionSegment>1</versionSegment>
+    </actionCalls>
+    <apiVersion>49.0</apiVersion>
+    <assignments>
+        <name>Set_Contact_ID</name>
+        <label>Set Contact ID</label>
+        <locationX>50</locationX>
+        <locationY>674</locationY>
+        <assignmentItems>
+            <assignToReference>contact.Id</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <elementReference>existingId</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Update_Contact</targetReference>
+        </connector>
+    </assignments>
+    <decisions>
+        <name>Update_If_Existing</name>
+        <label>Update If Existing?</label>
+        <locationX>380</locationX>
+        <locationY>350</locationY>
+        <defaultConnector>
+            <isGoTo>true</isGoTo>
+            <targetReference>Create_Contact</targetReference>
+        </defaultConnector>
+        <defaultConnectorLabel>No</defaultConnectorLabel>
+        <rules>
+            <name>Update_Yes</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>updateExisting</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <booleanValue>true</booleanValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Find_a_Match</targetReference>
+            </connector>
+            <label>Yes</label>
+        </rules>
+    </decisions>
+    <decisions>
+        <name>Update_or_Create</name>
+        <label>Update or Create?</label>
+        <locationX>182</locationX>
+        <locationY>566</locationY>
+        <defaultConnector>
+            <targetReference>Create_Contact</targetReference>
+        </defaultConnector>
+        <defaultConnectorLabel>Create New</defaultConnectorLabel>
+        <rules>
+            <name>Update_Existing</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>existingId</leftValueReference>
+                <operator>IsNull</operator>
+                <rightValue>
+                    <booleanValue>false</booleanValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Set_Contact_ID</targetReference>
+            </connector>
+            <label>Update Existing</label>
+        </rules>
+    </decisions>
+    <dynamicChoiceSets>
+        <name>accounts</name>
+        <dataType>String</dataType>
+        <displayField>Name</displayField>
+        <object>Account</object>
+        <outputAssignments>
+            <assignToReference>contact.AccountId</assignToReference>
+            <field>Id</field>
+        </outputAssignments>
+        <valueField>Id</valueField>
+    </dynamicChoiceSets>
+    <environments>Default</environments>
+    <formulas>
+        <name>created_or_updated</name>
+        <dataType>String</dataType>
+        <expression>IF({!Create_Contact}, &quot;created&quot;, &quot;updated&quot;)</expression>
+    </formulas>
+    <interviewLabel>New Contact {!$Flow.CurrentDateTime}</interviewLabel>
+    <isAdditionalPermissionRequiredToRun>true</isAdditionalPermissionRequiredToRun>
+    <isTemplate>true</isTemplate>
+    <label>New Contact</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>Flow</processType>
+    <recordCreates>
+        <name>Create_Contact</name>
+        <label>Create Contact</label>
+        <locationX>314</locationX>
+        <locationY>674</locationY>
+        <connector>
+            <isGoTo>true</isGoTo>
+            <targetReference>Post_to_Contact_s_Feed</targetReference>
+        </connector>
+        <inputReference>contact</inputReference>
+    </recordCreates>
+    <recordLookups>
+        <name>Find_a_Match</name>
+        <label>Find a Match</label>
+        <locationX>182</locationX>
+        <locationY>458</locationY>
+        <assignNullValuesIfNoRecordsFound>true</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Update_or_Create</targetReference>
+        </connector>
+        <filterLogic>and</filterLogic>
+        <filters>
+            <field>FirstName</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>contact.FirstName</elementReference>
+            </value>
+        </filters>
+        <filters>
+            <field>LastName</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>contact.LastName</elementReference>
+            </value>
+        </filters>
+        <object>Contact</object>
+        <outputAssignments>
+            <assignToReference>existingId</assignToReference>
+            <field>Id</field>
+        </outputAssignments>
+    </recordLookups>
+    <recordUpdates>
+        <name>Update_Contact</name>
+        <label>Update Contact</label>
+        <locationX>50</locationX>
+        <locationY>782</locationY>
+        <connector>
+            <targetReference>Post_to_Contact_s_Feed</targetReference>
+        </connector>
+        <inputReference>contact</inputReference>
+    </recordUpdates>
+    <screens>
+        <name>Confirm</name>
+        <label>Confirm</label>
+        <locationX>50</locationX>
+        <locationY>998</locationY>
+        <allowBack>false</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>confirmation_message</name>
+            <fieldText>Thanks! &lt;a href=&quot;/{!contact.Id}&quot;&gt;The contact&lt;/a&gt; was {!created_or_updated}.</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>Contact_Info</name>
+        <label>Contact Info</label>
+        <locationX>380</locationX>
+        <locationY>134</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>Get_Info</targetReference>
+        </connector>
+        <fields>
+            <name>contactName</name>
+            <extensionName>flowruntime:name</extensionName>
+            <fieldType>ComponentInstance</fieldType>
+            <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
+            <isRequired>true</isRequired>
+            <outputParameters>
+                <assignToReference>contact.FirstName</assignToReference>
+                <name>firstName</name>
+            </outputParameters>
+            <outputParameters>
+                <assignToReference>contact.LastName</assignToReference>
+                <name>lastName</name>
+            </outputParameters>
+        </fields>
+        <fields>
+            <name>Account</name>
+            <choiceReferences>accounts</choiceReferences>
+            <dataType>String</dataType>
+            <fieldText>Account</fieldText>
+            <fieldType>DropdownBox</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <fields>
+            <name>update_toggle</name>
+            <extensionName>flowruntime:toggle</extensionName>
+            <fieldType>ComponentInstance</fieldType>
+            <inputParameters>
+                <name>label</name>
+                <value>
+                    <stringValue>If this contact already exists, update the existing record.</stringValue>
+                </value>
+            </inputParameters>
+            <inputParameters>
+                <name>messageToggleActive</name>
+                <value>
+                    <stringValue>Update existing</stringValue>
+                </value>
+            </inputParameters>
+            <inputParameters>
+                <name>messageToggleInactive</name>
+                <value>
+                    <stringValue>Create other contact</stringValue>
+                </value>
+            </inputParameters>
+            <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
+            <isRequired>true</isRequired>
+            <outputParameters>
+                <assignToReference>updateExisting</assignToReference>
+                <name>value</name>
+            </outputParameters>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <start>
+        <locationX>254</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Contact_Info</targetReference>
+        </connector>
+    </start>
+    <status>Draft</status>
+    <textTemplates>
+        <name>chatterMessage</name>
+        <isViewedAsPlainText>false</isViewedAsPlainText>
+        <text>The contact was {!created_or_updated}.</text>
+    </textTemplates>
+    <variables>
+        <name>accts</name>
+        <apexClass>ComplexObjectExample</apexClass>
+        <dataType>Apex</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+    <variables>
+        <name>contact</name>
+        <dataType>SObject</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <objectType>Contact</objectType>
+    </variables>
+    <variables>
+        <name>existingId</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+    <variables>
+        <name>updateExisting</name>
+        <dataType>Boolean</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>65.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
+    <assignments>
+        <name>Assign_Value</name>
+        <label>Assign Value</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <assignmentItems>
+            <assignToReference>Counter_Value</assignToReference>
+            <operator>Assign</operator>
+        </assignmentItems>
+    </assignments>
+    <customProperties>
+        <name>ScreenProgressIndicator</name>
+        <value>
+            <stringValue>{&quot;location&quot;:&quot;top&quot;,&quot;type&quot;:&quot;simple&quot;}</stringValue>
+        </value>
+    </customProperties>
+    <environments>Default</environments>
+    <interviewLabel>Sample Definition Screen 1 {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Sample Definition Screen 1</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>Flow</processType>
+    <start>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Call_My_Subflow</targetReference>
+        </connector>
+    </start>
+    <status>Draft</status>
+    <subflows>
+        <name>Call_My_Subflow</name>
+        <label>Call My Subflow</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Assign_Value</targetReference>
+        </connector>
+        <flowName>Sample_Definition_Autolaunched</flowName>
+        <inputAssignments>
+            <name>Counter</name>
+        </inputAssignments>
+        <inputAssignments>
+            <name>Counter_Value2</name>
+        </inputAssignments>
+    </subflows>
+    <variables>
+        <name>Counter_Value</name>
+        <dataType>Number</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <scale>0</scale>
+        <value>
+            <numberValue>1.0</numberValue>
+        </value>
+    </variables>
+</Flow>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>65.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
+    <assignments>
+        <name>Assign_Counter</name>
+        <label>Assign Counter</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <assignmentItems>
+            <assignToReference>Counter</assignToReference>
+            <operator>Add</operator>
+            <value>
+                <numberValue>1.0</numberValue>
+            </value>
+        </assignmentItems>
+        <assignmentItems>
+            <assignToReference>Loop_Accounts.NumberOfEmployees</assignToReference>
+            <operator>Add</operator>
+            <value>
+                <elementReference>Counter</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Loop_Accounts</targetReference>
+        </connector>
+    </assignments>
+    <environments>Default</environments>
+    <interviewLabel>Sample Definition Autolaunched {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Sample Definition Autolaunched</label>
+    <loops>
+        <name>Loop_Accounts</name>
+        <label>Loop Accounts</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <collectionReference>Get_Accounts</collectionReference>
+        <iterationOrder>Asc</iterationOrder>
+        <nextValueConnector>
+            <targetReference>Assign_Counter</targetReference>
+        </nextValueConnector>
+    </loops>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <recordLookups>
+        <name>Get_Accounts</name>
+        <label>Get Accounts</label>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Loop_Accounts</targetReference>
+        </connector>
+        <getFirstRecordOnly>false</getFirstRecordOnly>
+        <limit>
+            <numberValue>10.0</numberValue>
+        </limit>
+        <object>Account</object>
+        <storeOutputAutomatically>true</storeOutputAutomatically>
+    </recordLookups>
+    <runInMode>SystemModeWithoutSharing</runInMode>
+    <start>
+        <locationX>0</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Get_Accounts</targetReference>
+        </connector>
+    </start>
+    <status>Draft</status>
+    <variables>
+        <name>AccountCollection</name>
+        <dataType>SObject</dataType>
+        <isCollection>true</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <objectType>Account</objectType>
+    </variables>
+    <variables>
+        <name>Counter</name>
+        <dataType>Number</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <scale>0</scale>
+    </variables>
+</Flow>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- update() (atlas.en-us.api_meta.meta/api_meta/meta_update.htm)
+- delete() (atlas.en-us.api_meta.meta/api_meta/meta_delete.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

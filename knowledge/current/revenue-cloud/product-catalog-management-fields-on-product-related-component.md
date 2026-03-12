@@ -5,11 +5,15 @@ topic: product-catalog-management-fields-on-product-related-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.611Z
-keywords: [Product, Catalog, Management, Fields, Related, Component, See]
+lastCollected: 2026-03-12T05:14:09.017Z
+estimatedTokens: 282
+keywords: [Product, Catalog, Management, Fields, Related, Component, Standard, custom, fields, extend, standard, Management.]
 ---
 
 # Product Catalog Management Fields on Product Related Component
+
+> Standard and custom fields extend the standard Product Related Component
+         object for use in Product Catalog Management.
 
 # Product Catalog Management Fields on Product Related Component
 

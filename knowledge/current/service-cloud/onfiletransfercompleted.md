@@ -5,11 +5,15 @@ topic: onfiletransfercompleted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.553Z
-keywords: [onFileTransferCompleted, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.221Z
+estimatedTokens: 210
+keywords: [onFileTransferCompleted, Registers, function, call, file, transferred, customer, agent., API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # onFileTransferCompleted()
+
+> Registers a function to call when a file is transferred from a customer to an agent.
+        Available in API version 31.0 or later.
 
 # onFileTransferCompleted()
 
@@ -42,3 +46,34 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | attachmentId | String | The ID of the object created for the transferred file. |
 | success | Boolean | true if firing event was successful; false if firing event was unsuccessful. |
+
+## Code Examples
+
+```
+sforce.console.chat.onFileTransferCompleted(chatKey:String, callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testOnFileComplete();return false;">test on file transfer complete</a> 
+
+    <script type="text/javascript">
+        function testOnFileComplete() {
+            //Gets the value for 'myChatKey'from the getChatRequests() or onChatRequested() methods. 
+            //These values are for example purposes only.
+            var chatKey = 'myChatKey'; 
+            sforce.console.chat.onFileTransferCompleted(chatKey, fileSuccess);
+        }
+        
+        function fileSuccess(result) {
+            //Reports status of the file transfer.
+            if (result.success == true) {
+                alert('File transfer was successful.');
+            } else {
+                alert('File transfer was not successful.');
+            }
+        };
+    </script>
+</apex:page>
+```

@@ -5,11 +5,14 @@ topic: party-financial-asset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.389Z
-keywords: [Party, Financial, Asset, Input]
+lastCollected: 2026-03-12T05:14:48.597Z
+estimatedTokens: 686
+keywords: [Party, Financial, Asset, Input, representation, details, party, financial, asset.]
 ---
 
 # Party Financial Asset Input
+
+> Input representation of the details of the party financial asset.
 
 # Party Financial Asset Input
 
@@ -44,3 +47,11 @@ Properties
 | valuationAmount | Double | Worth of the asset after valuation. | Required | 61.0 |
 | valuationDate​Time | String | Date and time when the asset valuation was done. | Optional | 61.0 |
 | verification​Status | String | Verification status of the party financial asset. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)
+- Party Financial Asset Additional Owner
+                      Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_financial_asset_additional_owner_input.htm)
+- Party
+                        Financial Asset Lien (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_financial_asset_lien_input.htm)

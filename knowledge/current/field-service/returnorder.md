@@ -5,11 +5,16 @@ topic: returnorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.851Z
-keywords: [ReturnOrder, Supported, Calls, Special, Access, Rules, Fields, Usage, Example, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.467Z
+estimatedTokens: 4995
+keywords: [ReturnOrder, Represents, repair, inventory, products, Field, Service, order, Order, Management., API, version, 42.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # ReturnOrder
+
+> Represents the return or repair of inventory or products in Field
+			Service, or the return of order products in Order Management. This object is
+		available in API version 42.0 and later.
 
 # ReturnOrder
 

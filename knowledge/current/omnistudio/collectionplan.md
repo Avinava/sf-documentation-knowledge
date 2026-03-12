@@ -5,11 +5,16 @@ topic: collectionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.856Z
-keywords: [CollectionPlan, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.784Z
+estimatedTokens: 2406
+keywords: [CollectionPlan, Represents, details, outstanding, amounts, linked, financial, accounts, billing, contacts, cases, associated, individuals, organization., API, version, 63.0, later., Supported, Calls]
 ---
 
 # CollectionPlan
+
+> Represents details about the outstanding amounts linked to financial
+         accounts, billing accounts, contacts, accounts, or cases associated with individuals or an
+         organization. This object is available in API version 63.0 and later.
 
 # CollectionPlan
 
@@ -75,3 +80,10 @@ Sharing rules are available for the object.
 [CollectionPlanShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- CollectionPlanChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CollectionPlanHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- CollectionPlanOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- CollectionPlanShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

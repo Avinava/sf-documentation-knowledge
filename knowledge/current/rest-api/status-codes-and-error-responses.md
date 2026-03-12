@@ -5,11 +5,15 @@ topic: status-codes-and-error-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.032Z
-keywords: [Status, Codes, Error, Responses]
+lastCollected: 2026-03-12T05:14:35.114Z
+estimatedTokens: 886
+keywords: [Status, Codes, Error, Responses, Either, error, occurs, response, successful, header, contains, HTTP, code, body, usually]
 ---
 
 # Status Codes and Error Responses
+
+> Either when an error occurs or when a response is successful, the response header
+			contains an HTTP code, and the response body usually contains:
 
 # Status Codes and Error Responses
 
@@ -60,3 +64,31 @@ Requesting a resource that doesn’t exist, for example, you try to create a rec
 ```
 
 For extended error codes, see [Core Data Types Used in API Calls](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_concepts_core_data_objects.htm).
+
+## Code Examples
+
+```
+[
+{
+  "fields" : [ "Id" ],
+  "message" : "Account ID: id value of incorrect type: 001900K0001pPuOAAU",
+  "errorCode" : "MALFORMED_ID"
+}
+]
+```
+
+```
+[
+{
+  "message" : "The requested resource does not exist",
+  "errorCode" : "NOT_FOUND"
+}
+]
+```
+
+## Related Topics
+
+- Get Object
+								Metatdata Changes (atlas.en-us.api_rest.meta/api_rest/sobject_describe_with_ifmodified_header.htm)
+- If-Unmodified-Since (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)

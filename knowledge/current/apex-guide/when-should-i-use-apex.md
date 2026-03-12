@@ -5,11 +5,17 @@ topic: when-should-i-use-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.241Z
-keywords: [Should, Apex?, Apex, Lightning, Components, Visualforce, SOAP, API]
+lastCollected: 2026-03-12T05:14:33.537Z
+estimatedTokens: 822
+keywords: [Should, Apex?, Salesforce, provides, ability, customize, prebuilt, apps, fit, organization., complex, business, processes, implement, custom, functionality, user, interfaces, variety, tools]
 ---
 
 # When Should I Use Apex?
+
+> Salesforce provides the ability to customize prebuilt apps to
+            fit your organization. For complex business processes, you can implement custom
+            functionality and user interfaces with a variety of tools, including Apex and Lightning
+            Components.
 
 # When Should I Use Apex?
 
@@ -54,3 +60,8 @@ For more information, see the [SOAP API Developer Guide](https://developer.sales
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_qs_core_concepts.htm "Understanding Apex Core Concepts")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_intro_how_does_apex_work.htm "How Does Apex Work?")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_qs_core_concepts.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_intro_how_does_apex_work.htm)

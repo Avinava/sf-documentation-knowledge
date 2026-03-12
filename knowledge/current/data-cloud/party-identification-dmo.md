@@ -5,11 +5,15 @@ topic: party-identification-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.838Z
-keywords: [Party, Identification, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.689Z
+estimatedTokens: 842
+keywords: [Party, Identification, DMO, Data, Cloud, data, model, ways, identify, party, such, driver’s, license, birth, certificate., API, Name, Category, Primary, Subject]
 ---
 
 # Party Identification DMO
+
+> The Party Identification DMO is a Data Cloud data model object for the
+		ways to identify a party, such as a driver’s license or a birth certificate.
 
 # Party Identification DMO
 

@@ -5,11 +5,15 @@ topic: affiliation-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.620Z
-keywords: [Affiliation, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.793Z
+estimatedTokens: 517
+keywords: [Affiliation, DMO, Data, Cloud, data, model, affiliation, how, map, Marketing, Engagement, business, unit, cases., API, Name, Category, Primary, Subject, Area]
 ---
 
 # Affiliation DMO
+
+> The Affiliation DMO is a Data Cloud data model object for affiliation or
+		how to map data Marketing Cloud Engagement business unit use cases.
 
 # Affiliation DMO
 

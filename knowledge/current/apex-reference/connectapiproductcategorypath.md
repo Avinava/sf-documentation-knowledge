@@ -5,11 +5,14 @@ topic: connectapiproductcategorypath
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.678Z
-keywords: [ConnectApi.ProductCategoryPath, See]
+lastCollected: 2026-03-12T05:14:28.520Z
+estimatedTokens: 100
+keywords: [ConnectApi.ProductCategoryPath, List, product, categories, path.]
 ---
 
 # ConnectApi.ProductCategoryPath
+
+> List of product categories in a path.
 
 # ConnectApi.ProductCategoryPath
 
@@ -22,3 +25,9 @@ List of product categories in a path.
 #### See Also
 
 -   [ConnectApi.ProductDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm "Details of a product.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductCategoryData (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category.htm)
+- ConnectApi.ProductDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm)

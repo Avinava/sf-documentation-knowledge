@@ -5,11 +5,14 @@ topic: connectapichattermessagepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.670Z
-keywords: [ConnectApi.ChatterMessagePage, See]
+lastCollected: 2026-03-12T05:14:25.699Z
+estimatedTokens: 191
+keywords: [ConnectApi.ChatterMessagePage, Chatter, message, page.]
 ---
 
 # ConnectApi.ChatterMessagePage
+
+> Chatter message page.
 
 # ConnectApi.ChatterMessagePage
 
@@ -26,3 +29,10 @@ Chatter message page.
 #### See Also
 
 -   [ConnectApi.ChatterConversation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterConversation.htm "Chatter conversation.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ChatterMessage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterMessage.htm)
+- ConnectApi.ChatterConversation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ChatterConversation.htm)

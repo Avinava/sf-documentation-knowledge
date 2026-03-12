@@ -6,12 +6,16 @@ topic: getfieldisreadonlymapentityname-fieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.883Z
-keywords: [getFieldIsReadOnlyMap, entityName, fieldNames, Signature, Parameters, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:47.835Z
+estimatedTokens: 189
+keywords: [getFieldIsReadOnlyMap, entityName, fieldNames, Accepts, entity's, name, list, its, fields, input, indicating, whether, read-only., Usage]
 ---
 
 # getFieldIsReadOnlyMap(entityName,
         fieldNames)
+
+> Accepts an entity's name and a list of its fields as input, and returns a value
+        indicating whether the fields are read-only.
 
 # getFieldIsReadOnlyMap(entityName, fieldNames)
 
@@ -47,4 +51,11 @@ Create a set of field names to identify the Field Level Security (FLS) for, and 
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+Set<String> applicantFieldsForFLS = new Set<String> {'birthdate', 'email', 'phone', 'firstname', 'lastname'};
+Map<String, Boolean> flsInfo = DigitalLendingUtils.getFieldIsReadOnlyMap('Applicant', applicantFieldsForFLS);
 ```

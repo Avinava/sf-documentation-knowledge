@@ -5,11 +5,16 @@ topic: approval-processing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.445Z
-keywords: [Approval, Processing, Note]
+lastCollected: 2026-03-12T05:14:33.797Z
+estimatedTokens: 483
+keywords: [Approval, Processing, approval, process, automates, how, records, approved, Salesforce., specifies, step, including, whom, request, point, process., Note]
 ---
 
 # Approval Processing
+
+> An approval process automates how records are approved in Salesforce. An approval
+    process specifies each step of approval, including from whom to request approval and what to do
+    at each point of the process.
 
 # Approval Processing
 
@@ -31,3 +36,8 @@ The process method counts against the DML limits for your organization. See [Exe
 For more information about approval processes, see “Set Up an Approval Process” in the Salesforce online help.
 
 -   **[Apex Approval Processing Example](atlas.en-us.apexcode.meta/apexcode/apex_process_example.htm)**
+
+## Related Topics
+
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Apex Approval Processing Example (atlas.en-us.apexcode.meta/apexcode/apex_process_example.htm)

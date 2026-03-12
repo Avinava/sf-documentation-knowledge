@@ -5,11 +5,17 @@ topic: create-product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.491Z
-keywords: [Create, Product, Schedules, Syntax, Examples]
+lastCollected: 2026-03-12T05:14:35.763Z
+estimatedTokens: 582
+keywords: [Create, Product, Schedules, Establish, reestablish, product, schedule, multiple, installments, opportunity, product., resource, REST, API, version, 43.0, later., 46.0, later, established]
 ---
 
 # Create Product Schedules
+
+> Establish or reestablish a product schedule with multiple installments for an
+  opportunity product. This resource is available in REST API version 43.0 and later. In API version
+  46.0 and later, established and re-established schedules support custom fields, validation rules,
+  and Apex triggers.
 
 # Create Product Schedules
 
@@ -85,4 +91,45 @@ JSON Request body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/OpportunityLineItem/00kR0000001WJJAIA4/OpportunityLineItemSchedules -H "Authorization: Bearer token"
+```
+
+```
+{
+"type": "Both",
+"quantity": 100,
+"quantityScheduleType": "Repeat",
+"quantityScheduleInstallmentPeriod": "Monthly",
+"quantityScheduleInstallmentsNumber": 12,
+"quantityScheduleStartDate": "2018-09-15",
+"revenue": 100,
+"revenueScheduleType": "Repeat",
+"revenueScheduleInstallmentPeriod": "Monthly",
+"revenueScheduleInstallmentsNumber": 12,
+"revenueScheduleStartDate": "2018-09-15"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/OpportunityLineItem/00kR0000001WJJAIA4/OpportunityLineItemSchedules -H "Authorization: Bearer token"
+```
+
+```
+{
+"type": “Revenue”,
+"revenue": 100,
+"revenueScheduleType": “Divide”,
+"revenueScheduleInstallmentPeriod": “Quarterly”,
+"revenueScheduleInstallmentsNumber": 10,
+"revenueScheduleStartDate": "2018-09-15"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/OpportunityLineItem/00kR0000001WJJAIA4/OpportunityLineItemSchedules -H "Authorization: Bearer token"
 ```

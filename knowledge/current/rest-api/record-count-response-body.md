@@ -5,11 +5,14 @@ topic: record-count-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.818Z
-keywords: [Record, Count, Response, Body, Results, sObject, Result]
+lastCollected: 2026-03-12T05:14:36.219Z
+estimatedTokens: 176
+keywords: [Record, Count, Response, Body, Describes, result, request., Results, sObject, Result]
 ---
 
 # Record Count Response Body
+
+> Describes the result of a Record Count request.
 
 # Record Count Response Body
 
@@ -42,4 +45,25 @@ JSON example
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "sObjects" : [ {
+     "count" : 3,
+     "name" : "Account"
+   }, {
+     "count" : 10,
+     "name" : "Contact"
+   } ]
+}
+```
+
+```
+{
+   "count" : 10,
+   "name" : "Contact"
+}
 ```

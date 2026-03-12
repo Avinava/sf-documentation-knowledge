@@ -5,11 +5,18 @@ topic: connectapi-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:42.451Z
-keywords: [ConnectApi, Exceptions]
+lastCollected: 2026-03-12T05:14:32.046Z
+estimatedTokens: 265
+namespace: ConnectApi
+keywords: [ConnectApi, Exceptions, contains, exception, classes.]
 ---
 
 # ConnectApi Exceptions
+
+> The ConnectApi namespace
+contains exception classes.
+
+**Namespace:** `ConnectApi`
 
 # ConnectApi Exceptions
 
@@ -24,3 +31,8 @@ The ConnectApi namespace contains these exceptions:
 | ConnectApi.ConnectApiException | Any logic error in the way your application is utilizing ConnectApi code. This is equivalent to receiving a 400 error from Connect REST API. |
 | ConnectApi.NotFoundException | Any issues with the specified resource being found. This is equivalent to receiving a 404 error from Connect REST API. |
 | ConnectApi.RateLimitException | When you exceed the rate limit. This is equivalent to receiving a 503 Service Unavailable error from Connect REST API. |
+
+## Related Topics
+
+- Exception Class and Built-In
+                                        Exceptions (atlas.en-us.apexref.meta/apexref/apex_classes_exception_methods.htm)

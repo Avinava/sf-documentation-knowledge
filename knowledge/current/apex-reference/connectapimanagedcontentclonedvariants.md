@@ -5,11 +5,14 @@ topic: connectapimanagedcontentclonedvariants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.110Z
-keywords: [ConnectApi.ManagedContentClonedVariants, See]
+lastCollected: 2026-03-12T05:14:27.740Z
+estimatedTokens: 141
+keywords: [ConnectApi.ManagedContentClonedVariants, Information, clone, variants.]
 ---
 
 # ConnectApi.ManagedContentClonedVariants
+
+> Information about clone variants.
 
 # ConnectApi.ManagedContentClonedVariants
 
@@ -24,3 +27,8 @@ Information about clone variants.
 #### See Also
 
 -   [ConnectApi.ManagedContentDocumentClone](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_document_clone.htm "Managed content document clone.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ManagedContentDocumentClone (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_document_clone.htm)

@@ -5,11 +5,15 @@ topic: connectapipaymentmethodtokenizationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.425Z
-keywords: [ConnectApi.PaymentMethodTokenizationRequest]
+lastCollected: 2026-03-12T05:14:25.322Z
+estimatedTokens: 285
+keywords: [ConnectApi.PaymentMethodTokenizationRequest, Payment, tokenization, input, consumed, payment, service.]
 ---
 
 # ConnectApi.PaymentMethodTokenizationRequest
+
+> Payment method tokenization input consumed by the payment tokenization
+      service.
 
 # ConnectApi.PaymentMethodTokenizationRequest
 
@@ -24,3 +28,12 @@ Subclass of [ConnectApi.BaseRequest](atlas.en-us.apexref.meta/apexref/apex_conne
 | cardPayment​Method | ConnectApi.​CardPayment​MethodRequest | Object representation of the card payment method. | Required, if bankPaymentMethod isn't provided. | 52.0 |
 | paymentGatewayId | String | ID of the card payment method's payment gateway. | Required | 52.0 |
 | savedByMerchant | Boolean | Indicates whether the payment method tokenization is configured to be saved by merchant (true) or not (false). Default value is false. | Optional | 62.0 |
+
+## Related Topics
+
+- ConnectApi.BaseRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_gateway_callable_base.htm)
+- ConnectApi.​AddressRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_address.htm)
+- ConnectApi.​BankPayment​MethodRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_bank_payment_method.htm)
+- ConnectApi.​CardPayment​MethodRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_card_payment_method.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

@@ -5,11 +5,15 @@ topic: batchprocessjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.790Z
-keywords: [BatchProcessJobDefinition, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, BatchDataSource, BatchDataSrcFilterCriteria, BatchDataSourceOrderField, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:37.240Z
+estimatedTokens: 2089
+keywords: [BatchProcessJobDefinition, Represents, details, Batch, Management, job, definition., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, BatchDataSource, BatchDataSrcFilterCriteria, BatchDataSourceOrderField]
 ---
 
 # BatchProcessJobDefinition
+
+> Represents the details of a Batch Management job
+      definition.
 
 # BatchProcessJobDefinition
 
@@ -120,3 +124,114 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<BatchProcessJobDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+   <batchSize>10</batchSize>
+   <dataSource>
+      <condition>1</condition>
+      <criteria>all</criteria>
+      <filters>
+         <dynamicValue>false</dynamicValue>
+         <dynamicValueType>string</dynamicValueType>
+         <fieldName>Name</fieldName>
+         <fieldValue>abcd</fieldValue>
+         <operator>equals</operator>
+         <sequenceNo>1</sequenceNo>
+      </filters>
+      <sourceObject>Account</sourceObject>
+   </dataSource>
+   <flowApiName>Flow1</flowApiName>
+   <flowInputVariable>recordId</flowInputVariable>
+   <masterLabel>BatchJob1</masterLabel>
+   <processGroup>Loyalty</processGroup>
+   <retryCount>2</retryCount>
+   <retryInterval>1000</retryInterval>
+   <status>Inactive</status>
+   <description>test</description>
+   <type>Flow</type>
+   <executionProcessApiName>testFlow</executionProcessApiName>
+</BatchProcessJobDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   ~ Copyright 2020 Salesforce, Inc.
+   ~ All Rights Reserved
+   ~ Company Confidential
+-->
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+   <apiVersion>51.0</apiVersion>
+   <interviewLabel>Flow1 {!$Flow.CurrentDateTime}</interviewLabel>
+   <label>Flow1</label>
+   <processMetadataValues>
+      <name>BuilderType</name>
+      <value>
+         <stringValue>LightningFlowBuilder</stringValue>
+      </value>
+   </processMetadataValues>
+   <processMetadataValues>
+      <name>OriginBuilderType</name>
+      <value>
+         <stringValue>LightningFlowBuilder</stringValue>
+      </value>
+   </processMetadataValues>
+   <processType>AutoLaunchedFlow</processType>
+   <recordLookups>
+      <name>getAcc</name>
+      <label>getAcc</label>
+      <locationX>614</locationX>
+      <locationY>465</locationY>
+      <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+      <filterLogic>and</filterLogic>
+      <filters>
+         <field>Id</field>
+         <operator>EqualTo</operator>
+         <value>
+            <elementReference>recordId</elementReference>
+         </value>
+      </filters>
+      <getFirstRecordOnly>true</getFirstRecordOnly>
+      <object>Account</object>
+      <storeOutputAutomatically>true</storeOutputAutomatically>
+   </recordLookups>
+   <start>
+      <locationX>73</locationX>
+      <locationY>213</locationY>
+      <connector>
+         <targetReference>getAcc</targetReference>
+      </connector>
+   </start>
+   <status>Draft</status>
+   <variables>
+      <name>recordId</name>
+      <dataType>String</dataType>
+      <isCollection>false</isCollection>
+      <isInput>true</isInput>
+      <isOutput>false</isOutput>
+   </variables>
+</Flow>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>BatchProcessJobDefinition</name>
+   </types>
+   <types>
+      <members>Flow1</members>
+      <name>Flow</name>
+   </types>
+   <version>51.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

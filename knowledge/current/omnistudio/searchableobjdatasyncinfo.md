@@ -4,39 +4,158 @@ domain: omnistudio
 topic: searchableobjdatasyncinfo
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.638Z
-keywords: [SearchableObjDataSyncInfo, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.648Z
+estimatedTokens: 933
+keywords: [SearchableObjDataSyncInfo, Retrieve, deploy, update, create, view, searchable, data, sync, information, criteria-based, search, filter., Important, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # SearchableObjDataSyncInfo
 
+> Retrieve, deploy, update , create, and view searchable
+			object data sync information for criteria-based search and filter.
+
 # SearchableObjDataSyncInfo
 
-Represents information about the data synchronization for a search object, such as frequency of synchronization, status, and the date and time of the last synchronization. This object is available in API version 58.0 and later.
+Retrieve, deploy, update , create, and view searchable object data sync information for criteria-based search and filter.
 
-## Supported SOAP API Calls
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=industries_reference)
 
-create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
+#### Important
 
-## Supported REST API Methods
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
-DELETE, GET, HEAD, PATCH, POST, Query
+## Parent Type
+
+This type extends the [Metadata](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/metadata.htm "HTML (New Window)") metadata type and inherits its fullName field.
+
+## File Suffix and Directory Location
+
+SearchableObjDataSyncInfo components have the suffix SearchableObjDataSyncInfo.settings and are stored in the SearchableObjDataSyncInfo folder.
+
+## Version
+
+SearchableObjDataSyncInfo components are available in API version 58.0 and later.
 
 ## Special Access Rules
 
-Automotive and Criteria-Based Search and Filter must be enabled.
+There are no additional access requirements that are specific to this type.
 
 ## Fields
 
-| Field | Details |
+| Field Name | Description |
 | --- | --- |
-| Description | TypetextareaPropertiesFilter, Group, Nillable, SortDescriptionThe description of a searchable object data sync information record. Maximum length allowed is 255 characters. |
-| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionThe developer name of the record. |
-| FullName | TypestringPropertiesCreate, Group, NillableDescriptionThe full name of the associated metadata object in Metadata API. Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| IsDataSyncActive | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the data synchronization operation for the search object is active (true) or not (false). This value does not indicate the status of a Data Processing Engine (DPE) definition, but the system job that executes that DPE definition.The default value is false. |
-| LastDataSyncRunDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe last date and time at which the data synchronization job ran. This field does not indicate the date and time when the Data Processing Engine (DPE) last ran, but rather when the system job that executes the DPE definition last ran. |
-| MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionMaster label for SearchableObjDataSyncInfo. This internal label doesn’t get translated. |
-| Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionMetadata that defines search criteria configurations. Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| ScheduleFrequencyInHours | TypeintPropertiesFilter, Group, Nillable, SortDescriptionThe frequency at which the data synchronization job is run to refresh data in the searchable object. |
-| SearchableObject | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe object that's used for criteria-based search and filter.Possible values are:VehicleSearchableField—This value is applicable for Automotive Cloud. |
+| dataSyncActive | Field TypebooleanDescriptionIndicates whether the data synchronization operation for the search object is active (true) or not (false). This value does not indicate the status of a Data Processing Engine (DPE) definition, but instead indicates the system job that executes that DPE definition. |
+| dataSyncJob | Field TypestringDescriptionThe data synchronization job that updates data in the searchable object at regular intervals. |
+| description | Field TypestringDescriptionThe description of a searchable object data sync information record.NoteDescription length should not exceed 255 characters. |
+| displayFieldSet | Field TypeFieldSetDescriptionThe fieldset that determines how fields are displayed in the filter panel. |
+| lastDataSyncRunDate | Field TypestringDescriptionThe last date and time at which the data synchronization job ran. This field does not indicate the date and time when the Data Processing Engine (DPE) last ran, but rather it indicates when the system job that executes the DPE definition last ran. |
+| lookupMappings | Field TypeObject MappingDescriptionThe mappings for inputObject to outputObject for lookup type fields. |
+| masterLabel | Field TypestringDescriptionRequired.A user-friendly name for the use case definition, which is defined when the use case definition is created. |
+| parsingFieldSet | Field TypeFieldSetDescriptionThe fieldset that determines how fields are parsed for criteria-based search and filter. |
+| picklistMappings | Field TypeObject MappingDescriptionThe mappings for inputObject to outputObject for picklist type fields. |
+| scheduleFrequencyInHours | Field TypestringDescriptionThe frequency at which the data synchronization job is run to refresh data in the searchable object. |
+| searchableObject | Field TypestringDescriptionRequired.The object that's used for criteria-based search and filter. |
+| typeAheadMappings | Field TypeObject MappingDescriptionThe mappings for inputObject to outputObject for type-ahead fields. Available in API version 63.0 and later. |
+
+## Declarative Metadata Sample Definition
+
+The following is an example of a SearchableObjDataSyncInfo component.
+
+```
+
+```
+
+The following is an example package.xml that references the previous definition.
+
+```
+
+```
+
+## Wildcard Support in the Manifest File
+
+This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchableObjDataSyncInfo xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataSyncActive>false</dataSyncActive>
+    <displayFieldSet>
+        <fullName>DisplayAssetSearch</fullName>
+        <availableFields>
+            <alternativeDisplayFormat>Picklist</alternativeDisplayFormat>
+            <field>Country</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <alternativeDisplayFormat>Picklist</alternativeDisplayFormat>
+            <field>City</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>DisplayTypes</description>
+        <displayedFields>
+            <alternativeDisplayFormat>Picklist</alternativeDisplayFormat>
+            <field>Country</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <alternativeDisplayFormat>Picklist</alternativeDisplayFormat>
+            <field>City</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <label>DisplayTypes</label>
+    </displayFieldSet>
+    <parsingFieldSet>
+        <fullName>ParsingAssetSearch</fullName>
+        <availableFields>
+            <field>SerialNumber</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>ParsingTypes</description>
+        <displayedFields>
+            <field>SerialNumber</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <label>ParsingTypes</label>
+    </parsingFieldSet>
+    <lookupMappings>
+        <inputObject>Asset</inputObject>
+        <mappingFields>
+            <inputField>RootAssetId</inputField>
+            <outputField>SerialNumber</outputField>
+        </mappingFields>
+        <outputObject>Asset</outputObject>
+    </lookupMappings>
+    <masterLabel>AssetSearch</masterLabel>
+    <picklistMappings>
+        <inputObject>Account</inputObject>
+        <mappingFields>
+            <inputField>AccountSource</inputField>
+            <outputField>Name</outputField>
+        </mappingFields>
+        <outputObject>Asset</outputObject>
+    </picklistMappings>
+    <searchableObject>Asset</searchableObject>
+    <typeAheadMappings>
+        <inputObject>Product2</inputObject>
+        <mappingFields>
+            <inputField>ProductCode</inputField>
+            <outputField>ProductCode</outputField>
+        </mappingFields>
+        <outputObject>Asset</outputObject>
+    </typeAheadMappings>
+</SearchableObjDataSyncInfo>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>SearchableObjDataSyncInfo</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

@@ -5,11 +5,14 @@ topic: connectapitargetupdateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.624Z
-keywords: [ConnectApi.TargetUpdateInput, See]
+lastCollected: 2026-03-12T05:14:25.626Z
+estimatedTokens: 193
+keywords: [ConnectApi.TargetUpdateInput, Target, update.]
 ---
 
 # ConnectApi.TargetUpdateInput
+
+> Target to update.
 
 # ConnectApi.TargetUpdateInput
 
@@ -24,3 +27,9 @@ Target to update.
 #### See Also
 
 -   [ConnectApi.TargetCollectionUpdateInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_target_collection_update.htm "Collection of targets to update.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.TargetCollectionUpdateInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_target_collection_update.htm)

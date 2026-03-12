@@ -5,11 +5,16 @@ topic: naming-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.613Z
-keywords: [Naming, Conventions, See]
+lastCollected: 2026-03-12T05:14:32.649Z
+estimatedTokens: 212
+keywords: [Naming, Conventions, recommend, following, Java, standards, naming, classes, start, capital, letter, lowercase, verb, variable, names, should, meaningful.]
 ---
 
 # Naming Conventions
+
+> We recommend following Java standards for
+naming, that is, classes start with a capital letter, methods start
+with a lowercase verb, and variable names should be meaningful.
 
 # Naming Conventions
 
@@ -22,3 +27,8 @@ It is not legal to define a class and interface with the same name in the same c
 #### See Also
 
 -   [Variables](atlas.en-us.apexcode.meta/apexcode/langCon_apex_variables.htm "Local variables are declared with Java-style syntax.")
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_name_shadowing.htm)
+- Variables (atlas.en-us.apexcode.meta/apexcode/langCon_apex_variables.htm)

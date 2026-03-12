@@ -5,11 +5,14 @@ topic: connectapicredentialcustomheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.490Z
-keywords: [ConnectApi.CredentialCustomHeader, See]
+lastCollected: 2026-03-12T05:14:26.891Z
+estimatedTokens: 223
+keywords: [ConnectApi.CredentialCustomHeader, Credential, custom, header.]
 ---
 
 # ConnectApi.CredentialCustomHeader
+
+> Credential custom header.
 
 # ConnectApi.CredentialCustomHeader
 
@@ -25,5 +28,12 @@ Credential custom header.
 #### See Also
 
 -   [ConnectApi.ExternalCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm "External credential, including the named credentials and principals associated with it and the type and status of each principal.")
-    
+
 -   [ConnectApi.NamedCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm "Named credential associated with an external credential.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ExternalCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm)
+- ConnectApi.NamedCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm)

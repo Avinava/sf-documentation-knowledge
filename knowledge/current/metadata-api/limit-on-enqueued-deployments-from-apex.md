@@ -5,11 +5,18 @@ topic: limit-on-enqueued-deployments-from-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.165Z
-keywords: [Limit, Enqueued, Deployments, Apex]
+lastCollected: 2026-03-12T05:14:36.395Z
+estimatedTokens: 279
+keywords: [Limit, Enqueued, Deployments, Apex, limit, number, Metadata, API, deployments, originating, enqueued, time., helps, preserve, service, function, resources, customers, server., Because]
 ---
 
 # Limit on Enqueued Deployments from Apex
+
+> We limit the number of Metadata API deployments originating from Apex that can be
+    enqueued at a time. This limit helps preserve service function and resources for all customers
+    on a server. Because this limit is a queue-depth limit, as long as the server can keep
+    dequeuing, you can keep enqueuing deploys through Apex. This limit is based on analysis to make
+    sure that it doesn’t affect your day-to-day operations.
 
 # Limit on Enqueued Deployments from Apex
 

@@ -5,11 +5,17 @@ topic: authprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.715Z
-keywords: [AuthProvider, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AuthProvParamFwdAllowlist, Declarative, Metadata, Sample, Definition, Note, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.131Z
+estimatedTokens: 3982
+keywords: [AuthProvider, Represents, authentication, provider, auth, lets, users, log, Salesforce, external, service, such, Facebook, Google, GitHub., extends, Metadata, metadata, inherits, its]
 ---
 
 # AuthProvider
+
+> Represents an authentication provider (auth
+			provider). An auth provider lets users log in to Salesforce from an external service
+			provider such as Facebook, Google, or GitHub. This type extends the Metadata metadata
+			type and inherits its fullName field.
 
 # AuthProvider
 
@@ -127,3 +133,34 @@ If you provide a value for one of these fields, you must also provide a value fo
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <consumerKey>yourappkey</consumerKey>
+    <consumerSecret>PwdVxXjzu3NCZ3MD4He+wA==</consumerSecret>
+    <executionUser>admin@your.org</executionUser>
+    <friendlyName>FacebookAuthProvider</friendlyName>
+    <providerType>Facebook</providerType>
+    <registrationHandler>RegistrationHandler</registrationHandler>
+    <sendSecretInApis>true</sendSecretInApis>     
+</AuthProvider>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>FacebookAuthProvider</members>
+        <name>AuthProvider</name>
+    </types>
+    <version>28.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

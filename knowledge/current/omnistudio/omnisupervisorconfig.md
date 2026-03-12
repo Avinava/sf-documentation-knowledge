@@ -5,11 +5,15 @@ topic: omnisupervisorconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:11.066Z
-keywords: [OmniSupervisorConfig, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OmniSpvsrConfigAIAgent, OmniSupervisorConfigAction, OmniSupervisorConfigGroup, OmniSupervisorConfigProfile, OmniSupervisorConfigQueue, OmniSupervisorConfigSkill, OmniSupervisorConfigTab]
+lastCollected: 2026-03-12T05:14:52.571Z
+estimatedTokens: 1957
+keywords: [OmniSupervisorConfig, Represents, Omni-Channel, supervisor, configuration, assigned, group, supervisors., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OmniSpvsrConfigAIAgent]
 ---
 
 # OmniSupervisorConfig
+
+> Represents the Omni-Channel supervisor configuration
+      for an assigned group of supervisors.
 
 # OmniSupervisorConfig
 
@@ -139,3 +143,42 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniSupervisorConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isTimelineHidden>true</isTimelineHidden>
+    <masterLabel>Supervisor Config</masterLabel>
+    <skillVisibility>AllSkills</skillVisibility>
+    <omniSupervisorConfigAction>
+        <actionName>ChangeQueues</actionName>
+        <actionTab>AllAgents</actionTab>
+        <displayOrder>0</displayOrder>
+    </omniSupervisorConfigAction>
+    <omniSupervisorConfigGroup>
+        <group>Agent_Group</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigProfile>
+        <profile>contractmanager</profile>
+    </omniSupervisorConfigProfile>
+    <omniSupervisorConfigQueue>
+        <queue>CaseQueue</queue>
+    </omniSupervisorConfigQueue>
+    <omniSupervisorConfigSkill>
+        <skill>English</skill>
+    </omniSupervisorConfigSkill>
+</OmniSupervisorConfig>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>OmniSupervisorConfig</name>
+    </types>
+    <version>57.0</version>
+</Package>
+```

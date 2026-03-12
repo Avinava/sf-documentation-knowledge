@@ -5,11 +5,14 @@ topic: connectapilocationcapacityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.060Z
-keywords: [ConnectApi.LocationCapacityOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.678Z
+estimatedTokens: 167
+keywords: [ConnectApi.LocationCapacityOutputRepresentation, Fulfillment, order, capacity, values, location.]
 ---
 
 # ConnectApi.LocationCapacityOutputRepresentation
+
+> Fulfillment order capacity values for a location.
 
 # ConnectApi.LocationCapacityOutputRepresentation
 
@@ -22,3 +25,9 @@ Fulfillment order capacity values for a location.
 | error | ConnectApi.​ErrorResponse | Error returned by the request, if any. | 55.0 |
 | heldCapacity | Integer | Number of fulfillment orders that the location is holding capacity for. | 55.0 |
 | locationId | String | ID of the location. | 55.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -7,13 +7,19 @@ topic: conversation-reason-report-segment-def-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.053Z
-keywords: [Conversation, Reason, Report, Segment, Def, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.460Z
+estimatedTokens: 495
+keywords: [Conversation, Reason, Report, Segment, Def, DMO, Data, Cloud, data, model, segment, definition, conversation, reason, report., API, Name, Category, Primary, Subject]
 ---
 
 # Conversation Reason Report Segment
       Def
       DMO
+
+> The Conversation Reason Report Segment
+      Def
+      DMO is a Data Cloud data model object for a segment definition of a
+      conversation reason report.
 
 # Conversation Reason Report Segment Def DMO
 

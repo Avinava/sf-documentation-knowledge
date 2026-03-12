@@ -5,11 +5,15 @@ topic: onchatstarted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.537Z
-keywords: [onChatStarted, Usage, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.204Z
+estimatedTokens: 197
+keywords: [onChatStarted, Registers, function, call, agent, starts, new, chat, customer., API, version, 29.0, later., Usage, Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # onChatStarted()
+
+> Registers a function to call when an agent starts a new chat with a customer. Available in API version 29.0 or
+            later.
 
 # onChatStarted()
 
@@ -43,3 +47,21 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | chatKey | String | The chat key for the chat request that has become an engaged chat. |
 | success | Boolean | true if firing event was successful; false if firing event wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.onChatStarted(eventHandler:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        var eventHandler = function (result) {
+            alert('A new engaged chat has started for this chatKey: ' + result.chatKey);
+        }
+        sforce.console.chat.onChatStarted(eventHandler);
+    </script>
+</apex:page>
+```

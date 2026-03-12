@@ -5,11 +5,22 @@ topic: discoveryframeworkprefill-integration-procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.059Z
-keywords: [DiscoveryFramework_Prefill, Integration, Procedure, DiscoveryFramework, _Prefill, Note, Steps, GetAssessmentId, Omnistudio, Data, Mapper, PreFillAssessment, Apex, Class, call, action, args, omniScriptPreFill, input, output]
+lastCollected: 2026-03-12T05:14:51.085Z
+estimatedTokens: 1031
+namespace: DiscoveryFrmwrk
+keywords: [DiscoveryFramework_Prefill, Integration, Procedure, calls, Omnistudio, Data, Mapper, Apex, class., customize, prefill, flow, edit, steps, Procedure., Open, OmniStudio, app, Procedures, page]
 ---
 
 # DiscoveryFramework_Prefill Integration Procedure
+
+> The DiscoveryFramework_Prefill Integration Procedure calls a
+  Omnistudio
+  Data Mapper and an Apex class. To customize the prefill flow, edit the steps of
+  the DiscoveryFramework_Prefill Integration Procedure. Open the OmniStudio app, go to the
+  Integration Procedures page, expand the DiscoveryFramework/Prefill Integration Procedure, and open
+  the highest version.
+
+**Namespace:** `DiscoveryFrmwrk`
 
 # DiscoveryFramework\_Prefill Integration Procedure
 
@@ -17,7 +28,7 @@ The DiscoveryFramework\_Prefill Integration Procedure calls a Omnistudio Data Ma
 
 | Available in: Lightning Experience in Enterprise, Professional, and Unlimited editions where a Financial Services Cloud Growth license is enabled or in Enterprise and Unlimited editions where the Health Cloud license is enabled. |
 | --- |
-  
+
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
 
@@ -144,4 +155,16 @@ The data passed to the AssessmentDataReturned variable includes questions and th
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "AssessmentDataReturned": {
+    "RespondentName": "Arthur, King of the Britons.",
+    "RespondentGoal": "To seek the Holy Grail.",
+    "SwallowAirspeed": "An African or European swallow?"
+  }
+}
 ```

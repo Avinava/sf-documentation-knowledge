@@ -5,11 +5,14 @@ topic: connectapicdpsegmentmemberoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.286Z
-keywords: [ConnectApi.CdpSegmentMemberOutput]
+lastCollected: 2026-03-12T05:14:26.573Z
+estimatedTokens: 180
+keywords: [ConnectApi.CdpSegmentMemberOutput, Data, 360, segment, member, output.]
 ---
 
 # ConnectApi.CdpSegmentMemberOutput
+
+> Data 360 segment member output.
 
 # ConnectApi.CdpSegmentMemberOutput
 
@@ -27,3 +30,11 @@ Data 360 segment member output.
 | rowCount | Integer | Total row count. | 58.0 |
 | startTime | Datetime | Query start time. | 58.0 |
 | totalCount | Integer | Total count of records. | 58.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpSegment​MemberRowOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_member_row_output.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

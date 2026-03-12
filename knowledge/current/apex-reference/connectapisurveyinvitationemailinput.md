@@ -5,11 +5,14 @@ topic: connectapisurveyinvitationemailinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.606Z
-keywords: [ConnectApi.SurveyInvitationEmailInput]
+lastCollected: 2026-03-12T05:14:25.600Z
+estimatedTokens: 822
+keywords: [ConnectApi.SurveyInvitationEmailInput, Survey, invitation, email.]
 ---
 
 # ConnectApi.SurveyInvitationEmailInput
+
+> Survey invitation email.
 
 # ConnectApi.SurveyInvitationEmailInput
 
@@ -34,3 +37,12 @@ Survey invitation email.
 | shareInvitations​With | List<String> | IDs of the users with whom the survey invitation records must be shared. The invitation records are shared with Read access. | Optional | 50.0 |
 | subject | String | Subject of the email. Specify the subject in case you don't specify an email template. | Optional | 50.0 |
 | surveyQuestion​Ids | List<String> | IDs of the questions that are embedded in the email. You can send an email invitation for questions of these types: Net Promoter Score (NPS), rating, and score. | Optional | 50.0 |
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​AssociateRecordsWith​RecipientInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_survey_recipient_survey_subjects.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​RecipientEngagement​ContextInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_survey_recipient_engagement_context.htm)

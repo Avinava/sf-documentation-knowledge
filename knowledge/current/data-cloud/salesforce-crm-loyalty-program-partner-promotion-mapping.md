@@ -5,11 +5,17 @@ topic: salesforce-crm-loyalty-program-partner-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.228Z
-keywords: [Salesforce, CRM, Loyalty, Program, Partner, Promotion, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.752Z
+estimatedTokens: 316
+keywords: [Salesforce, CRM, Loyalty, Program, Partner, Promotion, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., refers, promotion, loyalty, program]
 ---
 
 # Salesforce CRM: Loyalty Program Partner Promotion Mapping
+
+> These data mappings are for the Loyalty Program Partner Promotion DLO found in the
+  Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. Data refers to a
+  promotion that a loyalty program runs in collaboration with a loyalty program
+  partner.
 
 # Salesforce CRM: Loyalty Program Partner Promotion Mapping
 

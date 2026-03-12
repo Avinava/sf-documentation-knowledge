@@ -5,11 +5,14 @@ topic: connectapimanagedcontentprovidercollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.179Z
-keywords: [ConnectApi.ManagedContentProviderCollection, See]
+lastCollected: 2026-03-12T05:14:27.831Z
+estimatedTokens: 286
+keywords: [ConnectApi.ManagedContentProviderCollection, Collection, managed, content, providers.]
 ---
 
 # ConnectApi.ManagedContentProviderCollection
+
+> Collection of managed content providers.
 
 # ConnectApi.ManagedContentProviderCollection
 
@@ -26,5 +29,14 @@ Collection of managed content providers.
 #### See Also
 
 -   [getManagedContentProviders()](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_getManagedContentProviders_1 "Get digital asset management (DAM) providers.")
-    
+
 -   [getManagedContentProvidersForSpace(contentSpaceId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_getManagedContentProvidersForSpace_2 "Get digital asset management (DAM) providers for a managed content space.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ManagedContent​Provider (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_provider.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- getManagedContentProviders() (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)
+- getManagedContentProvidersForSpace(contentSpaceId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)

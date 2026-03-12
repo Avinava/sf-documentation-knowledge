@@ -4,9 +4,10 @@ domain: apex-guide
 topic: testing-best-practices
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.610Z
-keywords: [Testing, Best, Practices, Note, Parallel, Test, Execution, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.036Z
+estimatedTokens: 1353
+keywords: [Testing, Best, Practices, Note, Parallel, Test, Execution]
 ---
 
 # Testing Best Practices
@@ -16,24 +17,24 @@ keywords: [Testing, Best, Practices, Note, Parallel, Test, Execution, See]
 Good tests do the following:
 
 -   Cover as many lines of code as possible. Before you can deploy Apex or package it for AppExchange, the following must be true.
-    
+
     ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexcode)
-    
+
     #### Important
-    
+
     -   Unit tests must cover at least 75% of your Apex code, and all of those tests must complete successfully.
-        
+
         Note the following.
-        
+
         -   When deploying Apex to a production organization, each unit test in your organization namespace is executed by default.
         -   Calls to System.debug aren’t counted as part of Apex code coverage.
         -   Test methods and test classes aren’t counted as part of Apex code coverage.
         -   While only 75% of your Apex code must be covered by tests, don’t focus on the percentage of code that is covered. Instead, make sure that every use case of your application is covered, including positive and negative cases, as well as bulk and single records. This approach ensures that 75% or more of your code is covered by unit tests.
         -   Tests don’t run in parallel in metadata deployments, package installations, or change set deployments.
-        
+
     -   Every trigger must have some test coverage.
     -   All classes and triggers must compile successfully.
-    
+
 -   If code uses conditional logic (including ternary operators), execute each branch.
 -   Make calls to methods using both valid and invalid inputs.
 -   Complete successfully without throwing any exceptions, unless those errors are expected and caught in a try…catch block.
@@ -43,9 +44,9 @@ Good tests do the following:
 -   Exercise bulk trigger functionality—use at least 20 records in your tests.
 -   Use the ORDER BY keywords to ensure that the records are returned in the expected order.
 -   Not assume that record IDs are in sequential order.
-    
+
     Record IDs aren’t created in ascending order unless you insert multiple records with the same request. For example, if you create an account A, and receive the ID 001D000000IEEmT, then create account B, the ID of account B need not be sequentially higher.
-    
+
 -   Set up test data:
     -   Create the necessary data in test classes, so the tests don’t have to rely on data in a particular organization.
     -   Create all test data before calling the Test.startTest method.
@@ -79,3 +80,7 @@ Test classes annotated with IsTest(IsParallel=true) indicate that the test class
 #### See Also
 
 -   [Code Coverage Best Practices](atlas.en-us.apexcode.meta/apexcode/apex_code_coverage_best_pract.htm "Consider the following code coverage tips and best practices.")
+
+## Related Topics
+
+- Code Coverage Best Practices (atlas.en-us.apexcode.meta/apexcode/apex_code_coverage_best_pract.htm)

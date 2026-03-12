@@ -5,11 +5,14 @@ topic: share-a-feed-element-prior-to-version-390
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.903Z
-keywords: [Share, Feed, Element, prior, Version, 39.0, Important]
+lastCollected: 2026-03-12T05:14:34.443Z
+estimatedTokens: 215
+keywords: [Share, Feed, Element, prior, Version, 39.0, Call, share, feed, element., Important]
 ---
 
 # Share a Feed Element (prior to Version 39.0)
+
+> Call a method to share a feed element.
 
 # Share a Feed Element (prior to Version 39.0)
 
@@ -26,3 +29,13 @@ Call [shareFeedElement(communityId, subjectId, feedElementType, originalFeedElem
 ```
 
 ```
+
+## Code Examples
+
+```
+ConnectApi.ChatterLike chatterLike = ConnectApi.ChatterFeeds.likeFeedElement(null, '0D5D0000000KuGh');
+```
+
+## Related Topics
+
+- Share a Feed Element (in Version 39.0 and Later) (atlas.en-us.apexcode.meta/apexcode/connectapi_examples_share_feed_element_comment.htm)

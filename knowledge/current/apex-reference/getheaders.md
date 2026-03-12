@@ -5,11 +5,15 @@ topic: getheaders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.045Z
-keywords: [getHeaders, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.235Z
+estimatedTokens: 243
+keywords: [getHeaders, map, request, headers, where, key, contains, name, header, header., Usage]
 ---
 
 # getHeaders()
+
+> Returns a map of the request headers, where the key string contains the name of the
+  header, and the value string contains the value of the header.
 
 # getHeaders()
 
@@ -32,3 +36,15 @@ This map can be modified and remains in scope for the PageReference object. For 
 ```
 
 For a description of request headers, see [Request Headers](atlas.en-us.apexref.meta/apexref/apex_system_pagereference.htm#RequestHeadersSection).
+
+## Code Examples
+
+```
+PageReference.getHeaders().put('Date', '9/9/99');
+```
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Request Headers (atlas.en-us.apexref.meta/apexref/apex_system_pagereference.htm)

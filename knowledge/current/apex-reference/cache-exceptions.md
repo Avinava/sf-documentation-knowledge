@@ -5,11 +5,18 @@ topic: cache-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.087Z
-keywords: [Cache, Exceptions]
+lastCollected: 2026-03-12T05:14:19.299Z
+estimatedTokens: 632
+namespace: Cache
+keywords: [Cache, Exceptions, contains, exception, classes.]
 ---
 
 # Cache Exceptions
+
+> The Cache namespace contains exception
+  classes.
+
+**Namespace:** `Cache`
 
 # Cache Exceptions
 
@@ -30,3 +37,7 @@ The Cache namespace contains these exceptions.
 | Cache.PlatformCacheInvalidOperationException | A cache put or remove call is made that is not allowed. For example, when calling put or remove inside a Visualforce constructor. |
 | Cache.CacheBuilderExecutionException | This error occurs when the execution of the CacheBuilder fails; this could be due to an error in parsing, a permissions error while accessing records, or an issue with Apex callouts. |
 | Cache.InvalidCacheBuilderException | A get(CacheBuilder cb, String key), remove(CacheBuilder cb, String key), or validateCacheBuilder(CacheBuilder cb) method is called but the cb parameter is a class that does not implement the Cache.CacheBuilder interface. |
+
+## Related Topics
+
+- Exception Class and Built-In Exceptions (atlas.en-us.apexref.meta/apexref/apex_classes_exception_methods.htm)

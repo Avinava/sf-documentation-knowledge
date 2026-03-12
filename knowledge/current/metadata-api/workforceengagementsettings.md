@@ -5,11 +5,15 @@ topic: workforceengagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.400Z
-keywords: [WorkforceEngagementSettings, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Usage]
+lastCollected: 2026-03-12T05:14:44.039Z
+estimatedTokens: 611
+keywords: [WorkforceEngagementSettings, Represents, settings, Workforce, Engagement, Management., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Usage]
 ---
 
 # WorkforceEngagementSettings
+
+> Represents settings for Workforce
+      Engagement Management.
 
 # WorkforceEngagementSettings
 
@@ -58,3 +62,29 @@ The following is an example package.xml that references the previous definition.
 ## Usage
 
 When enableMachineLearningForecasting is set to false, we clean up data from our Ofek forecasting platform. The original copy of the same set of data is stored in the Core app, so no data is lost.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkforceEngagementSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+   <enableMachineLearningForecasting>true</enableMachineLearningForecasting>
+   <enableWorkforceEngagement>true</enableWorkforceEngagement>
+   <enableWorkforceEngagementConfiguration>true</enableWorkforceEngagementConfiguration>
+   <enableHistoricalAdherence>true</enableHistoricalAdherence>
+   <enableenableIndividualAdherence>true</enableIndividualAdherence>
+   <enableIntradayManagement>true</enableIntradayManagement>
+   <enableRealTimeAdherence>true</enableRealTimeAdherence>
+</WorkforceEngagementSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+2 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+3     <types>
+4         <members>WorkforceEngagement</members>
+5         <name>Settings</name>
+6     </types>
+7     <55.0>[ftest]</55.0>
+8 </Package>
+```

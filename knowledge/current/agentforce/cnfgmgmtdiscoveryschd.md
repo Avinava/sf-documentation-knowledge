@@ -5,11 +5,16 @@ topic: cnfgmgmtdiscoveryschd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.878Z
-keywords: [CnfgMgmtDiscoverySchd, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.396Z
+estimatedTokens: 578
+keywords: [CnfgMgmtDiscoverySchd, Represents, definition, schedule, controls, discovery, scan, should, run., example, daily, weekly, cron-based, scanning, cloud, infrastructure., API, version, 65.0, later.]
 ---
 
 # CnfgMgmtDiscoverySchd
+
+> Represents the definition of a schedule that controls when a discovery scan
+         should run. For example, a daily or weekly cron-based schedule for scanning cloud
+         infrastructure. This object is available in API version 65.0 and later.
 
 # CnfgMgmtDiscoverySchd
 

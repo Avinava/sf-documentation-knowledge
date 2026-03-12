@@ -5,11 +5,19 @@ topic: entityparticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.807Z
-keywords: [EntityParticle, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, Note, RelationshipReferenceTo, Type, Usage]
+lastCollected: 2026-03-12T05:14:45.422Z
+estimatedTokens: 3877
+keywords: [EntityParticle, Represents, element, field, presented, user, interface., Contrast, FieldDefinition, which, represents, defined, Metadata, API., parity, describe, API, accessible, fields, only]
 ---
 
 # EntityParticle
+
+> Represents each element of a field
+            that can be presented in a user interface. Contrast EntityParticle with FieldDefinition,
+            which represents each element of a field defined in the Metadata API.
+        EntityParticle has parity with describe, which returns
+        API accessible fields only for an entity. Available in Tooling API version 34.0 and
+        later.
 
 # EntityParticle
 
@@ -129,3 +137,16 @@ Some fields can have more than one type of object in a relationship (polymorphic
 Use this query to retrieve a list of objects that can have a relationship with Event.WhoId (represented by EntityParticle).
 
 SELECT QualifiedApiName, RelationshipName, ReferenceTo, ReferenceTargetField FROM EntityParticle WHERE EntityDefinition.QualifiedApiName = 'Event' AND QualifiedApiName = 'WhoId'
+
+## Code Examples
+
+```
+SELECT EntityDefinitionId, QualifiedAPIName, FieldDefinitionId 
+FROM EntityParticle 
+WHERE EntityDefinition.QualifiedApiName ='Case'
+```
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

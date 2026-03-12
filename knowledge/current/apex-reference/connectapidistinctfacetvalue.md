@@ -5,11 +5,14 @@ topic: connectapidistinctfacetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.594Z
-keywords: [ConnectApi.DistinctFacetValue, See]
+lastCollected: 2026-03-12T05:14:27.052Z
+estimatedTokens: 217
+keywords: [ConnectApi.DistinctFacetValue, Distinct, facet, value.]
 ---
 
 # ConnectApi.DistinctFacetValue
+
+> Distinct facet value.
 
 # ConnectApi.DistinctFacetValue
 
@@ -27,3 +30,11 @@ This class is a subclass of [ConnectApi.FacetValue](atlas.en-us.apexref.meta/ape
 #### See Also
 
 -   [ConnectApi.DistinctValueSearchFacet](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_distinct_value_search_facet.htm "Facet with distinct values in product search results.")
+
+## Related Topics
+
+- ConnectApi.FacetValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_facet_value.htm)
+- ConnectApi.DistinctFacetValue​DisplayMetadata​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_distinct_facet_value_display_metadata.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- ConnectApi.DistinctValueSearchFacet (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_distinct_value_search_facet.htm)

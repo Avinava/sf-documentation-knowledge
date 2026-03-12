@@ -5,11 +5,19 @@ topic: metadatacomponentdependency-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.249Z
-keywords: [MetadataComponentDependency, Beta, Note, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:46.040Z
+estimatedTokens: 1730
+namespace: Type
+keywords: [MetadataComponentDependency, Beta, Represents, dependency, relationships, between, metadata, components, org., query, Tooling, API, version, 43.0, later, Bulk, 2.0, 49.0, later., Note]
 ---
 
 # MetadataComponentDependency (Beta)
+
+> Represents dependency relationships between the metadata components in
+            your org. You can query MetadataComponentDependency using Tooling API in API
+        version 43.0 and later or using Bulk API 2.0 in API 49.0 and later.
+
+**Namespace:** `Type`
 
 # MetadataComponentDependency (Beta)
 
@@ -71,7 +79,14 @@ The following SOQL queries are not supported in both Tooling API and Bulk API 2.
 | RefMetadataComponentNamespace | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace of a metadata component that another component depends on.The component with the namespace listed in the output as RefMetadataComponentNamespace is referenced by the component with its namespace listed as MetadataComponentNamespace. |
 | RefMetadataComponentType | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe type of a metadata component that another component depends on.The component with the type listed in the output as RefMetadataComponentType is referenced by the component with its type listed as MetadataComponentType. |
 
--   **[Tooling API Usage](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacomponentdependency_tooling_usage.htm)**  
+-   **[Tooling API Usage](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacomponentdependency_tooling_usage.htm)**
     Use SOQL queries to list the relationships between the metadata components in your org. The query results include one row for each relationship. Each relationship is a directional dependency between two metadata components.
--   **[Bulk API 2.0 Usage](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacomponentdependency_bulk2_usage.htm)**  
+-   **[Bulk API 2.0 Usage](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacomponentdependency_bulk2_usage.htm)**
     Using Bulk API 2.0, you can query the MetadataComponentDependency Tooling API object and retrieve up to 100,000 records in a single query. Use SOQL queries to list the relationships between the metadata components in your org.
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- Tooling API Usage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacomponentdependency_tooling_usage.htm)
+- Bulk API 2.0 Usage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacomponentdependency_bulk2_usage.htm)

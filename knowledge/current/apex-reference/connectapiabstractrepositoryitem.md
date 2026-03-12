@@ -5,11 +5,14 @@ topic: connectapiabstractrepositoryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.821Z
-keywords: [ConnectApi.AbstractRepositoryItem]
+lastCollected: 2026-03-12T05:14:25.923Z
+estimatedTokens: 303
+keywords: [ConnectApi.AbstractRepositoryItem, repository, item.]
 ---
 
 # ConnectApi.AbstractRepositoryItem
+
+> A repository item.
 
 # ConnectApi.AbstractRepositoryItem
 
@@ -36,3 +39,12 @@ Superclass of:
 | repository | ConnectApi.​Reference | Item external repository. | 39.0 |
 | type | String | Item type, file or folder. | 39.0 |
 | url | String | The URL to the item. | 39.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractRepositoryFile (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_file.htm)
+- ConnectApi.AbstractRepositoryFolder (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_repository_folder.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​Motif (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_motif.htm)
+- ConnectApi.​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)

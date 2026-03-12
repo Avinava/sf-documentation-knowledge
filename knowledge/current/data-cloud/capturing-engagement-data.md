@@ -5,11 +5,15 @@ topic: capturing-engagement-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.182Z
-keywords: [Capturing, Engagement, Data, iOS, Example, Android]
+lastCollected: 2026-03-12T05:14:12.128Z
+estimatedTokens: 526
+keywords: [Capturing, Engagement, Data, Cloud, Module, Mobile, SDK, enables, collection, granular, data, customer’s, mobile, app, interactions, through, event, tracking., iOS, Example]
 ---
 
 # Capturing Engagement Data
+
+> The Data Cloud Module for the Engagement Mobile SDK enables collection of granular
+        data about the customer’s mobile app interactions through event tracking.
 
 # Capturing Engagement Data
 
@@ -46,3 +50,75 @@ Both event types are collected by calling the SFMCSdk.track(event) function.
 ```
 
 ```
+
+## Code Examples
+
+```
+import SFMCSDK
+import Cdp
+
+...
+
+// collecting the structured AddToCartEvent
+SFMCSdk.track(AddToCartEvent(
+    lineItem: LineItem(
+        catalogObjectType: "Product", 
+        catalogObjectId: "product-1",
+        quantity: 1,
+        price: 20.0,
+        currency: "USD",
+        // attributes can contain any custom field data
+        // as long as the schema is modified to define them
+        attributes: [
+            "gift_wrap": false
+        ]
+    )
+))
+
+// collecting an unstructured CustomEvent
+SFMCSdk.track(CustomEvent(
+    name: "CartAbandonment",
+    attributes: [
+        "sku": "COFFEE-NTR-06",
+        "price": 19.99
+    ]
+))
+```
+
+```
+import com.salesforce.marketingcloud.sfmcsdk.components.events.CartEvent
+import com.salesforce.marketingcloud.sfmcsdk.components.events.EventManager
+import com.salesforce.marketingcloud.sfmcsdk.SFMCSdk
+
+...
+
+// collecting the structured AddToCartEvent
+SFMCSdk.track(CartEvent.add(
+    lineItem = LineItem(
+        catalogObjectId = "product-1",
+        catalogObjectType = "Product",
+        quantity = 1,
+        price = 20.0,
+        currency = "USD",
+        // attributes can contain any custom field data
+        // as long as the schema is modified to define them
+        attributes = mapOf(
+            "gift_wrap" to false
+        )
+    )
+))
+
+// collecting an unstructured CustomEvent
+SFMCSdk.track(EventManager.customEvent(
+    "CartAbandonment",   
+    mapOf(
+        "sku" to "COFFEE-NTR-06",    
+        "price" to 19.99  
+    )
+))
+```
+
+## Related Topics
+
+- initialized. (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_initialization.htm)
+- Consent (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_consent_management.htm)

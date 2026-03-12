@@ -5,11 +5,14 @@ topic: connectapireputationlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.951Z
-keywords: [ConnectApi.ReputationLevel, See]
+lastCollected: 2026-03-12T05:14:28.907Z
+estimatedTokens: 152
+keywords: [ConnectApi.ReputationLevel, Reputation, level, user.]
 ---
 
 # ConnectApi.ReputationLevel
+
+> Reputation level for a user.
 
 # ConnectApi.ReputationLevel
 
@@ -24,3 +27,9 @@ Reputation level for a user.
 #### See Also
 
 -   [ConnectApi.Reputation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reputation.htm "Reputation for a user.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.Reputation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reputation.htm)

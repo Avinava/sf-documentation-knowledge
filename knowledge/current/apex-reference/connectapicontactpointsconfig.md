@@ -5,11 +5,14 @@ topic: connectapicontactpointsconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.419Z
-keywords: [ConnectApi.ContactPointsConfig]
+lastCollected: 2026-03-12T05:14:26.778Z
+estimatedTokens: 69
+keywords: [ConnectApi.ContactPointsConfig, Represents, activation, contact, points, configuration, output.]
 ---
 
 # ConnectApi.ContactPointsConfig
+
+> Represents the activation contact points configuration output.
 
 # ConnectApi.ContactPointsConfig
 
@@ -18,3 +21,8 @@ Represents the activation contact points configuration output.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | contactPoints | List<ConnectApi.ContactPointConfig> | Activation contact points. | 60.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ContactPointConfig> (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_contact_point_config.htm)

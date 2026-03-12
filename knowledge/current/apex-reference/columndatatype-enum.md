@@ -5,11 +5,17 @@ topic: columndatatype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.519Z
-keywords: [ColumnDataType, Enum, Namespace, Values]
+lastCollected: 2026-03-12T05:14:29.688Z
+estimatedTokens: 406
+namespace: Reports
+keywords: [ColumnDataType, Reports.ColumnDataType, describes, data, column., returned, getDataType, method., Values]
 ---
 
 # ColumnDataType Enum
+
+> The Reports.ColumnDataType enum describes the type of data in a column. It is returned by the getDataType method.
+
+**Namespace:** `Reports`
 
 # ColumnDataType Enum
 
@@ -43,3 +49,7 @@ The following are the values of the Reports.ColumnDataType enum.
 | TEXTAREA_DATA | String values that are displayed as multiline text fields |
 | TIME_DATA | Time values |
 | URL_DATA | URL values that are displayed as hyperlinks |
+
+## Related Topics
+
+- Reports (atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm)

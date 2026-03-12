@@ -5,11 +5,16 @@ topic: serviceterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.964Z
-keywords: [ServiceTerritory, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.624Z
+estimatedTokens: 1828
+keywords: [ServiceTerritory, Represents, geographic, functional, region, which, work, performed, Field, Service, Salesforce, Scheduler, Workforce, Engagement., API, version, 38.0, later., Supported, Calls]
 ---
 
 # ServiceTerritory
+
+> Represents a geographic or functional region in which work can be
+			performed in Field Service, Salesforce Scheduler, or Workforce Engagement. This
+		object is available in API version 38.0 and later.
 
 # ServiceTerritory
 

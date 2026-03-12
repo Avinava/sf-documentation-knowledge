@@ -5,11 +5,16 @@ topic: aiscoringstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.294Z
-keywords: [AIScoringStep, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:54.493Z
+estimatedTokens: 514
+keywords: [AIScoringStep, Represents, information, step, associated, scoring, model, version, that’s, used, Scoring, Framework, Industries, Cloud, Einstein., API, 57.0, later., Important, Supported]
 ---
 
 # AIScoringStep
+
+> Represents information about a step associated with an AI scoring
+         model version that’s used by the Scoring Framework for Industries Cloud Einstein. This
+      object is available in API version 57.0 and later.
 
 # AIScoringStep
 

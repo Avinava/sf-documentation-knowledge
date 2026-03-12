@@ -4,12 +4,19 @@ domain: apex-guide
 topic: platform-cache-best-practices
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.376Z
-keywords: [Platform, Cache, Best, Practices, Evaluate, Performance, Impact, Handle, Misses, Gracefully, Group, Requests, Larger, Items, Aware, Limits, Diagnostics, Page, Sparingly, Note]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.739Z
+estimatedTokens: 1464
+keywords: [Platform, Cache, Best, Practices, greatly, improve, performance, applications., However, it’s, important, follow, guidelines, get, best, cache, performance., general, efficient, few]
 ---
 
 # Platform Cache Best Practices
+
+> Platform Cache can greatly improve performance in your applications.
+      However, it’s important to follow these guidelines to get the best cache performance. In
+      general, it’s more efficient to cache a few large items than to cache many small items
+      separately. Also be mindful of cache limits to prevent unexpected cache
+    evictions.
 
 # Platform Cache Best Practices
 
@@ -92,18 +99,98 @@ Generating the diagnostics page gathers all partition-related information and is
 Consider the following guidelines to minimize expensive operations.
 
 -   Use Cache.Org.getKeys() and Cache.Org.getCapacity() sparingly. Both methods are expensive, because they traverse all partition-related information looking for or making calculations for a given partition.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Cache.Session usage is not expensive.
-    
+
 -   Avoid calling the contains(key) method followed by the get(key) method. If you intend to use the key value, simply call the get(key) method and make sure that the value is not equal to null.
 -   Clear the cache only when necessary. Clearing the cache traverses all partition-related cache space, which is expensive. After clearing the cache, your application will likely regenerate the cache by invoking database queries and computations. This regeneration can be complex and extensive and impact your application’s performance.
 
 #### See Also
 
 -   [Platform Cache Limits](atlas.en-us.apexcode.meta/apexcode/apex_platform_cache_limits.htm "These limits apply when using Platform Cache.")
-    
+
 -   [*Apex Reference Guide*: CacheBuilder Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_cache_CacheBuilder.htm "Apex Reference Guide: CacheBuilder Interface - HTML (New Window)")
+
+## Code Examples
+
+```apex
+long startTime = System.currentTimeMillis();
+// Your code here
+long elapsedTime = System.currentTimeMillis() - startTime;
+System.debug(elapsedTime);
+```
+
+```apex
+public class CacheManager {
+    private Boolean cacheEnabled;
+        
+    public void CacheManager() {
+        cacheEnabled = true;
+    }
+    
+    public Boolean toggleEnabled() { // Use for testing misses
+        cacheEnabled = !cacheEnabled;
+        return cacheEnabled;
+    }
+
+    public Object get(String key) {
+        if (!cacheEnabled) return null;
+        Object value = Cache.Session.get(key);
+        if (value != null) System.debug(LoggingLevel.DEBUG, 'Hit for key ' + key);
+        return value;
+    }
+
+    public void put(String key, Object value, Integer ttl) {
+        if (!cacheEnabled) return;
+        Cache.Session.put(key, value, ttl);
+        // for redundancy, save to DB
+        System.debug(LoggingLevel.DEBUG, 'put() for key ' + key);
+    }
+
+    public Boolean remove(String key) {
+        if (!cacheEnabled) return false;
+        Boolean removed = Cache.Session.remove(key);
+        if (removed) { 
+            System.debug(LoggingLevel.DEBUG, 'Removed key ' + key);
+            return true;
+        } else return false;
+    }
+
+}
+```
+
+```apex
+// Don't do this!
+
+public class MyController {
+
+    public void initCache() {
+        List<Account> accts = [SELECT Id, Name, Phone, Industry, Description FROM 
+            Account limit 1000];
+        for (Integer i=0; i<accts.size(); i++) {
+            Cache.Org.put('acct' + i, accts.get(i));    
+        }
+    }
+}
+```
+
+```apex
+// Do this instead.
+        
+public class MyController {
+
+public void initCache() {
+    List<Account> accts = [SELECT Id, Name, Phone, Industry, Description FROM 
+        Account limit 1000];
+    Cache.Org.put('accts', accts);    
+    }
+}
+```
+
+## Related Topics
+
+- Platform Cache Limits (atlas.en-us.apexcode.meta/apexcode/apex_platform_cache_limits.htm)

@@ -5,11 +5,16 @@ topic: pass-data-to-an-lwc-with-deep-linking
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.211Z
-keywords: [Pass, Data, LWC, Deep, Linking]
+lastCollected: 2026-03-12T05:14:55.467Z
+estimatedTokens: 216
+keywords: [Pass, Data, LWC, Deep, Linking, data, between, Lightning, web, components, external, apps, deep, linking., linking, Field, Service, mobile, app, both]
 ---
 
 # Pass Data to an LWC with Deep Linking
+
+> Pass data between Lightning web components (LWC) or from external apps to an LWC with
+    deep linking. LWC with deep linking is available for the Field Service mobile app on both
+    Android and iOS devices.
 
 # Pass Data to an LWC with Deep Linking
 
@@ -31,4 +36,29 @@ To pass the data, also update the LWC source code of the current page reference,
 
 ```
 
+```
+
+## Code Examples
+
+```
+com.salesforce.fieldservice://v1/sObject/<id>/quickaction/<api_name>?<parameterKey1>=<parameterValue1>&<parameterKey2>=<parameterValue2>&...
+```
+
+```
+/quickaction/LWC_Pass_Fields?FirstName=Jane&LastName=Doe
+```
+
+```
+import {CurrentPageReference} from 'lightning/navigation';
+
+// Declare the variable for the parameter value.
+parameterValue;
+
+// Call the page reference that describes the current LWC page.
+@wire(CurrentPageReference)
+setCurrentPageReference(currentPageReference) {
+  // Pass parameter values using the currentPageReference state attribute.
+  // Replace <parameterKey> with the parameter key name used in the deep link URL.
+  this.parameterValue = currentPageReference.state.<parameterKey>;
+}
 ```

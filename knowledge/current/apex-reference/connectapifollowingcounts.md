@@ -5,11 +5,14 @@ topic: connectapifollowingcounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.936Z
-keywords: [ConnectApi.FollowingCounts, See]
+lastCollected: 2026-03-12T05:14:27.512Z
+estimatedTokens: 137
+keywords: [ConnectApi.FollowingCounts, Following, counts.]
 ---
 
 # ConnectApi.FollowingCounts
+
+> Following counts.
 
 # ConnectApi.FollowingCounts
 
@@ -24,3 +27,8 @@ Following counts.
 #### See Also
 
 -   [ConnectApi.UserDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm "Details about a user in an org.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.UserDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm)

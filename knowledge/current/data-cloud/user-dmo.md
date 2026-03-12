@@ -5,11 +5,15 @@ topic: user-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:44.050Z
-keywords: [User, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:15.025Z
+estimatedTokens: 1247
+keywords: [User, DMO, Data, Cloud, data, model, account, person, machine, log, deployed, software, system., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # User DMO
+
+> The User DMO is a Data Cloud data model object (DMO) for an account, a
+      person or a machine, that can log in to use the deployed software system.
 
 # User DMO
 

@@ -5,11 +5,16 @@ topic: outcomeactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.282Z
-keywords: [OutcomeActivity, Important, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:52.871Z
+estimatedTokens: 1007
+keywords: [OutcomeActivity, Represents, junction, between, Outcome, that's, related, activity, undertaken, organization, achieve, outcome., API, version, 59.0, later., Important, Supported, Calls, Special]
 ---
 
 # OutcomeActivity
+
+> Represents a junction between Outcome and the object that's related
+         to the activity undertaken by an organization to achieve that outcome. This object is
+      available in API version 59.0 and later.
 
 # OutcomeActivity
 
@@ -19,7 +24,7 @@ Represents a junction between Outcome and the object that's related to the activ
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

@@ -5,11 +5,15 @@ topic: getanchor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.035Z
-keywords: [getAnchor, Signature, Return, Value, Note]
+lastCollected: 2026-03-12T05:14:19.220Z
+estimatedTokens: 155
+keywords: [getAnchor, name, anchor, referenced, page’s, URL., part, URL, after, hashtag, Note]
 ---
 
 # getAnchor()
+
+> Returns the name of the anchor referenced in the page’s
+URL. That is, the part of the URL after the hashtag (#).
 
 # getAnchor()
 
@@ -28,3 +32,7 @@ Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#a
 #### Note
 
 Instances of PageReference returned by ApexPages.currentPage() have a null anchor attribute, because URL fragments are not sent to the Salesforce server during a request.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

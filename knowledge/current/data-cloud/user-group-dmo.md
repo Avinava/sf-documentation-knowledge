@@ -5,11 +5,16 @@ topic: user-group-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:44.053Z
-keywords: [User, Group, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:15.032Z
+estimatedTokens: 545
+keywords: [User, Group, DMO, Data, Cloud, data, model, set, system, users, common, characteristics., Groups, often, created, simplify, granting, privileges, access, resources.]
 ---
 
 # User Group DMO
+
+> The User Group DMO is a Data Cloud data model object (DMO) for a set
+      of system users with common characteristics. User Groups are often created to simplify the
+      granting of system privileges and granting access to resources.
 
 # User Group DMO
 

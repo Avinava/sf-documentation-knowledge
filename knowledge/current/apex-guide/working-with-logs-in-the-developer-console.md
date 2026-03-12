@@ -5,11 +5,17 @@ topic: working-with-logs-in-the-developer-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.983Z
-keywords: [Working, Logs, Developer, Console, Debug, Log, Categories, Levels, Note, Important, Event, Types, See]
+lastCollected: 2026-03-12T05:14:33.189Z
+estimatedTokens: 7993
+namespace: YourClass
+keywords: [Working, Logs, Developer, Console, tab, open, debug, logs., Debug, Log, Categories, Levels, Note, Important, Event, Types]
 ---
 
 # Working with Logs in the Developer Console
+
+> Use the Logs tab in the Developer Console to open debug logs.
+
+**Namespace:** `YourClass`
 
 # Working with Logs in the Developer Console
 
@@ -83,42 +89,42 @@ Debug Log Line Example ![Debug Log Line Example](/docs/resources/img/en-us/260.0
 
 -   timestamp: Consists of the time when the event occurred and a value between parentheses. The time is in the user’s time zone and in the format HH:mm:ss.SSS. The value in parentheses represents the time elapsed in nanoseconds since the start of the request. The elapsed time value is excluded from logs reviewed in the Developer Console when you use the Execution Log view. However, you can see the elapsed time when you use the Raw Log view. To open the Raw Log view, from the Developer Console’s Logs tab, right-click the name of a log and select **Open Raw Log**.
 -   event identifier: Specifies the event that triggered the debug log entry, such as SAVEPOINT\_RESET or VALIDATION\_RULE.
-    
+
     Also includes additional information logged with that event, such as the method name or the line and character number where the code was executed. If a line number can’t be located, \[EXTERNAL\] is logged instead. For example, \[EXTERNAL\] is logged for built-in Apex classes or code that’s in a managed package.
-    
+
     For some events, such as CODE\_UNIT\_STARTED, CODE\_UNIT\_FINISHED, VF\_APEX\_CALL\_START, VF\_APEX\_CALL\_END, CONSTRUCTOR\_ENTRY, and CONSTRUCTOR\_EXIT, the end of the event identifier includes a pipe (|) followed by a typeRef for an Apex class or trigger.
-    
+
     For a trigger, the typeRef begins with the SFDC trigger prefix \_\_sfdc\_trigger/. For example, \_\_sfdc\_trigger/YourTriggerName or \_\_sfdc\_trigger/YourNamespace/YourTriggerName.
-    
+
     For a class, the typeRef uses the format YourClass, YourClass$YourInnerClass, or YourNamespace/YourClass$YourInnerClass.
-    
+
 
 In this example, the event identifier consists of:
 
 -   Event name:
-    
+
     ```
-    
+
     ```
-    
+
 -   Line number of the event in the code:
-    
+
     ```
-    
+
     ```
-    
+
 -   Logging level the System.Debug method was set to:
-    
+
     ```
-    
+
     ```
-    
+
 -   User-supplied string for the System.Debug method:
-    
+
     ```
-    
+
     ```
-    
+
 
 This code snippet triggers this example log line.
 
@@ -133,35 +139,35 @@ This log line is recorded when the test reaches line 5 in the code.
 In this example, the event identifier consists of:
 
 -   Event name:
-    
+
     ```
-    
+
     ```
-    
+
 -   Line number of the event in the code:
-    
+
     ```
-    
+
     ```
-    
+
 -   DML operation type—Insert:
-    
+
     ```
-    
+
     ```
-    
+
 -   Object name:
-    
+
     ```
-    
+
     ```
-    
+
 -   Number of rows passed into the DML operation:
-    
+
     ```
-    
+
     ```
-    
+
 
 These event types are logged. The table lists which fields or other information are logged with each event, and which combination of log level and category causes an event to be logged.
 
@@ -362,7 +368,51 @@ These event types are logged. The table lists which fields or other information 
 #### See Also
 
 -   [*Salesforce Help*: Debug Log Levels](https://help.salesforce.com/HTViewHelpDoc?id=code_setting_debug_log_levels.htm&language=en_US)
-    
+
 -   [*Salesforce Help*: Partition Your Data with Enhanced Security Data Spaces](https://help.salesforce.com/s/articleView?id=data.c360_a_data_spaces_secure_data.htm&type=5&language=en_US)
-    
+
 -   [*Salesforce Help*: User Access Policies](https://help.salesforce.com/s/articleView?id=platform.perm_user_access_policies.htm&type=5&language=en_US)
+
+## Code Examples
+
+```
+Hello world!
+```
+
+```
+15:51:01.071 (55856000)|DML_BEGIN|[5]|Op:Insert|Type:Invoice_Statement__c|Rows:1
+```
+
+```
+Type:Invoice_Statement__c
+```
+
+```
+SOQL queries
+SOQL query rows
+SOSL queries
+DML statements
+DML rows
+CPU time in ms
+Heap size in bytes
+Callouts
+Email invocations
+Future calls
+Jobs in queue
+Push notifications
+```
+
+```
+SOQL queries
+SOQL query rows
+SOSL queries
+DML statements
+DML rows
+CPU time in ms
+Heap size in bytes
+Callouts
+Email invocations
+Future calls
+Jobs in queue
+Push notifications
+```

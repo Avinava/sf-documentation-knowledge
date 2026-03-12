@@ -5,11 +5,16 @@ topic: clausecatgconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.127Z
-keywords: [ClauseCatgConfiguration, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.718Z
+estimatedTokens: 524
+keywords: [ClauseCatgConfiguration, Represents, configuration, clause, category, used, categorize, disclosure, compliance, reports, standardized, templates, response, document., Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # ClauseCatgConfiguration
+
+> Represents the configuration about the clause category
+			that can be used to categorize your disclosure and compliance reports from standardized
+			disclosure templates in a response document.
 
 # ClauseCatgConfiguration
 
@@ -57,3 +62,28 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ClauseCatgConfiguration
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<description>This is to add description for Contract Clause Category.</description>
+	<usageType>ContractClauseCategory</usageType>
+	<isProtected>false</isProtected>
+	<masterLabel>Contract Clause Cat</masterLabel>
+</ClauseCatgConfiguration>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>Pkg</fullName>
+	<types>
+		<name>ClauseCatgConfiguration</name>
+	</types>
+	<version>57.0</version>
+</Package>
+```

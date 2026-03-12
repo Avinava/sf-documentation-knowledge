@@ -5,11 +5,14 @@ topic: connectapiexternalcredentialparameterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.151Z
-keywords: [ConnectApi.ExternalCredentialParameterInput, See]
+lastCollected: 2026-03-12T05:14:24.884Z
+estimatedTokens: 298
+keywords: [ConnectApi.ExternalCredentialParameterInput, External, credential, input.]
 ---
 
 # ConnectApi.ExternalCredentialParameterInput
+
+> External credential parameter input.
 
 # ConnectApi.ExternalCredentialParameterInput
 
@@ -26,5 +29,12 @@ External credential parameter input.
 #### See Also
 
 -   [ConnectApi.ExternalCredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential.htm "Input used to create or update an external credential.")
-    
+
 -   [ConnectApi.ExternalCredentialPrincipalInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential_principal.htm "External credential principal input.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ExternalCredential​ParameterType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ExternalCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential.htm)
+- ConnectApi.ExternalCredentialPrincipalInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential_principal.htm)

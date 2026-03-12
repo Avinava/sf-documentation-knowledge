@@ -5,11 +5,15 @@ topic: get-ready-to-develop-with-field-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.269Z
-keywords: [Get, Ready, Develop, Field, Service]
+lastCollected: 2026-03-12T05:14:55.550Z
+estimatedTokens: 177
+keywords: [Get, Ready, Develop, Field, Service, prepare, work, programmatically, field, service, features, verify, enabled, org.]
 ---
 
 # Get Ready to Develop with Field Service
+
+> To prepare to work programmatically with field service features, verify that Field
+  Service is enabled in your org.
 
 # Get Ready to Develop with Field Service
 

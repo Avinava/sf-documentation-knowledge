@@ -5,11 +5,14 @@ topic: limit-info-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:36.876Z
-keywords: [Limit, Info, Header, Field, Name, Values]
+lastCollected: 2026-03-12T05:14:44.230Z
+estimatedTokens: 195
+keywords: [Limit, Info, Header, response, header, returned, request, REST, API, except, calls, Versions, URI, which, count, towards, org’s, limit, information, monitor]
 ---
 
 # Limit Info Header
+
+> This response header is returned in each request to REST API (except for calls to the Versions URI, /, which do not count towards your org’s limit). You can use the information to monitor API limits.
 
 # Limit Info Header
 

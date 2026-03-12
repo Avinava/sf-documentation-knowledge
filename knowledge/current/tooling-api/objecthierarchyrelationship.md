@@ -5,11 +5,16 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.342Z
-keywords: [ObjectHierarchyRelationship, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.168Z
+estimatedTokens: 1066
+keywords: [ObjectHierarchyRelationship, Represents, mapping, between, input, source, output, target, object., example, details, transform, sales, quote, agreement., API, version, 56.0, later., Important]
 ---
 
 # ObjectHierarchyRelationship
+
+> Represents the mapping between an input source object and an output
+         target object. For example, mapping details to transform a sales quote into a sales
+         agreement. This object is available in API version 56.0 and later.
 
 # ObjectHierarchyRelationship
 

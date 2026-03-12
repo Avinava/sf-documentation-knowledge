@@ -5,11 +5,23 @@ topic: writable-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.844Z
-keywords: [Writable, External, Objects, Note, See]
+lastCollected: 2026-03-12T05:14:32.983Z
+estimatedTokens: 739
+namespace: DataSource
+keywords: [Writable, External, Objects, default, external, objects, read, only, writable., Doing, lets, Salesforce, users, APIs, create, update, delete, data, that’s, stored]
 ---
 
 # Writable External Objects
+
+> By default, external objects are read only, but you can make them writable. Doing so
+        lets Salesforce users and APIs create, update, and delete data that’s stored outside the org
+        by interacting with external objects within the org. For example, users can see all the
+        orders that reside in an SAP system that are associated with an account in Salesforce. Then,
+        without leaving the Salesforce user interface, they can place a new order or route an
+        existing order. The relevant data is automatically created or updated in the SAP
+        system.
+
+**Namespace:** `DataSource`
 
 # Writable External Objects
 
@@ -40,3 +52,16 @@ For usage information and examples, see [Database Namespace](https://developer.s
 #### See Also
 
 -   [*Salesforce Help*: Writable External Objects Considerations for Salesforce Connect—All Adapters](https://help.salesforce.com/HTViewHelpDoc?id=platform_connect_considerations_writable_external_objects.htm&language=en_US)
+
+## Code Examples
+
+```apex
+​public void createOrder () {​   
+    SalesOrder__x order = new SalesOrder__x ();​   
+    Database.SaveResult sr = Database.insertAsync (order);​   
+    if (! sr.isSuccess ()) {
+        String locator =  Database.getAsyncLocator ( sr );​     
+        completeOrderCreation(locator);
+    }
+​}
+```

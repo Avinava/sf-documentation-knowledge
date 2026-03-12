@@ -5,11 +5,14 @@ topic: connectapifollowingpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.939Z
-keywords: [ConnectApi.FollowingPage]
+lastCollected: 2026-03-12T05:14:27.517Z
+estimatedTokens: 160
+keywords: [ConnectApi.FollowingPage, Page, following, subscriptions.]
 ---
 
 # ConnectApi.FollowingPage
+
+> Page of following subscriptions.
 
 # ConnectApi.FollowingPage
 
@@ -22,3 +25,10 @@ Page of following subscriptions.
 | nextPageUrl | String | Connect REST API URL identifying the next page, or null if there isn’t a next page. | 28.0 |
 | previousPageUrl | String | Connect REST API URL identifying the previous page, or null if there isn’t a previous page. | 28.0 |
 | total | Integer | Total number of records being followed across all pages. | 28.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Subscription (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_subscription.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

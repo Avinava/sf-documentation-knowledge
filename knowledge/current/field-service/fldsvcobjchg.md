@@ -5,11 +5,15 @@ topic: fldsvcobjchg
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.632Z
-keywords: [FldSvcObjChg, Supported, Calls, Special, Access, Rules, Fields, See]
+lastCollected: 2026-03-12T05:14:56.126Z
+estimatedTokens: 991
+keywords: [FldSvcObjChg, Represents, change, made, service, appointment’s, tracked, fields., API, version, 63.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # FldSvcObjChg
+
+> Represents a change made to one of a service appointment’s tracked fields.
+       This object is available in API version 63.0 and later.
 
 # FldSvcObjChg
 
@@ -44,3 +48,7 @@ describeLayout(), describeSObjects(), query(), retrieve()
 #### See Also
 
 -   [FldSvcObjChgDtl](atlas.en-us.field_service_dev.meta/field_service_dev/sforce_api_objects_fldsvcobjchgdtl.htm "Represents the details of a change made to one of a service appointment’s tracked fields. This object is available in API version 63.0 and later.")
+
+## Related Topics
+
+- FldSvcObjChgDtl (atlas.en-us.field_service_dev.meta/field_service_dev/sforce_api_objects_fldsvcobjchgdtl.htm)

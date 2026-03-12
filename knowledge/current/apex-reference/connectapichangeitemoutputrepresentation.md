@@ -5,11 +5,18 @@ topic: connectapichangeitemoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.303Z
-keywords: [ConnectApi.ChangeItemOutputRepresentation, See]
+lastCollected: 2026-03-12T05:14:26.597Z
+estimatedTokens: 930
+keywords: [ConnectApi.ChangeItemOutputRepresentation, financial, changes, resulting, change, OrderItemSummaries., Most, values, represent, deltas, associated, OrderSummary., sign, opposite, corresponding, order, record., example, discount, positive]
 ---
 
 # ConnectApi.ChangeItemOutputRepresentation
+
+> The financial changes resulting from a change to one or more
+      OrderItemSummaries. Most of the values represent the deltas of the values on the associated
+      OrderSummary. The sign of each value is the opposite of the corresponding value on a change
+      order record. For example, a discount is a positive value here and a negative value on a
+      change order record.
 
 # ConnectApi.ChangeItemOutputRepresentation
 
@@ -38,9 +45,17 @@ The financial changes resulting from a change to one or more OrderItemSummaries.
 #### See Also
 
 -   [ConnectApi.PreviewCancelOutputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_preview_cancel_output.htm "Expected financial values for a proposed cancel action.")
-    
+
 -   [ConnectApi.PreviewReturnOutputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_preview_return_output.htm "Expected financial values for a proposed return action.")
-    
+
 -   [ConnectApi.SubmitCancelOutputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_submit_cancel_output.htm "ID of the change order created for a cancel action, and a set of its financial values.")
-    
+
 -   [ConnectApi.SubmitReturnOutputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_submit_return_output.htm "ID of the change order created for a return action, and a set of its financial values.")
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- ConnectApi.PreviewCancelOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_preview_cancel_output.htm)
+- ConnectApi.PreviewReturnOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_preview_return_output.htm)
+- ConnectApi.SubmitCancelOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_submit_cancel_output.htm)
+- ConnectApi.SubmitReturnOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_submit_return_output.htm)

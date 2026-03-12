@@ -5,11 +5,14 @@ topic: connectapicartinventoryreservationoutputrepresentation-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.113Z
-keywords: [ConnectApi.CartInventoryReservationOutputRepresentation, Pilot, Note]
+lastCollected: 2026-03-12T05:14:26.317Z
+estimatedTokens: 313
+keywords: [ConnectApi.CartInventoryReservationOutputRepresentation, Pilot, Inventory, Reservation, Note]
 ---
 
 # ConnectApi.CartInventoryReservationOutputRepresentation (Pilot)
+
+> Inventory Reservation
 
 # ConnectApi.CartInventoryReservationOutputRepresentation (Pilot)
 
@@ -28,3 +31,10 @@ This feature is not generally available and is being piloted with certain Custom
 | inventoryItem​Reservations | List<ConnectApi.​CartInventory​ItemReservation​OutputRepresentation> | Collection of inventory item reservations. | 58.0 |
 | reservation​Identifier | String | Reservation identifier. | 58.0 |
 | success | Boolean | Indicates whether the transaction was successful. | 58.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CartInventory​ItemReservation​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_inventory_item_reservation_output.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

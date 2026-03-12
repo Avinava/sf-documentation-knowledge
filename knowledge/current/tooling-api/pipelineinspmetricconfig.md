@@ -5,11 +5,15 @@ topic: pipelineinspmetricconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.498Z
-keywords: [PipelineInspMetricConfig, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.428Z
+estimatedTokens: 394
+keywords: [PipelineInspMetricConfig, Represents, configuration, forecast, category, metric, appears, Pipeline, Inspection, view., API, version, 55.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # PipelineInspMetricConfig
+
+> Represents the configuration of a forecast category metric that appears in
+         the Pipeline Inspection view. This object is available in API version 55.0 and later.
 
 # PipelineInspMetricConfig
 

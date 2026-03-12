@@ -5,11 +5,15 @@ topic: decision-matrix-basic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.276Z
-keywords: [Decision, Matrix, Basic]
+lastCollected: 2026-03-12T05:14:49.945Z
+estimatedTokens: 117
+keywords: [Decision, Matrix, Basic, Output, representation, decision, matrices, details.]
 ---
 
 # Decision Matrix Basic
+
+> Output representation of the decision matrices
+    details.
 
 # Decision Matrix Basic
 
@@ -26,3 +30,14 @@ Sample Response
 | description | String | The description of the decision matrix. | Small, 53.0 | 53.0 |
 | id | String | The ID of the decision matrix record. | Small, 53.0 | 53.0 |
 | name | String | The name of the decision matrix. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "decisionMatrices" : [ {
+      "id" : "0lIx0000000001TEAQ",
+      "name" : "Decision_Matrix_Test1"
+   } ],
+}
+```

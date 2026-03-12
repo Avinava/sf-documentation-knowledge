@@ -5,11 +5,14 @@ topic: connectapilightningextensioninformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.028Z
-keywords: [ConnectApi.LightningExtensionInformation, See]
+lastCollected: 2026-03-12T05:14:27.635Z
+estimatedTokens: 202
+keywords: [ConnectApi.LightningExtensionInformation, Lightning, extension, information.]
 ---
 
 # ConnectApi.LightningExtensionInformation
+
+> Lightning extension information.
 
 # ConnectApi.LightningExtensionInformation
 
@@ -27,3 +30,9 @@ Subclass of [ConnectApi.AbstractExtensionInformation](atlas.en-us.apexref.meta/a
 #### See Also
 
 -   [ConnectApi.ExtensionDefinition](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_extension_definition.htm "An extension's definition.")
+
+## Related Topics
+
+- ConnectApi.AbstractExtensionInformation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_extension_information.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ExtensionDefinition (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_extension_definition.htm)

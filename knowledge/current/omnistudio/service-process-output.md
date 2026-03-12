@@ -5,11 +5,14 @@ topic: service-process-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.829Z
-keywords: [Service, Process, Output]
+lastCollected: 2026-03-12T05:14:50.734Z
+estimatedTokens: 108
+keywords: [Service, Process, Output, creating, service, process.]
 ---
 
 # Service Process Output
+
+> Output for creating a service process.
 
 # Service Process Output
 

@@ -5,11 +5,16 @@ topic: serviceterritoryid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.929Z
-keywords: [serviceTerritoryId, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.152Z
+estimatedTokens: 113
+keywords: [serviceTerritoryId, service, territory, associated, appointment., there, appointment, keep, field, empty., optional.]
 ---
 
 # serviceTerritoryId
+
+> The service territory associated with the service appointment. If
+      there is no territory for the service appointment, keep this field empty. This property is
+      optional.
 
 # serviceTerritoryId
 

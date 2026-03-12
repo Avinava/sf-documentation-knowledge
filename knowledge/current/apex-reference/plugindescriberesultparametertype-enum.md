@@ -5,11 +5,14 @@ topic: plugindescriberesultparametertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.402Z
-keywords: [PluginDescribeResult.ParameterType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.520Z
+estimatedTokens: 251
+keywords: [PluginDescribeResult.ParameterType, Specifies, data, types, input, output, Process.PluginDescribeResult, class., Values]
 ---
 
 # PluginDescribeResult.ParameterType Enum
+
+> Specifies the data types of input and output parameters of the Process.PluginDescribeResult class.
 
 # PluginDescribeResult.ParameterType Enum
 

@@ -6,12 +6,17 @@ topic: support-querymore-by-using-client-driven-paging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.864Z
-keywords: [Support, queryMore, Client-Driven, Paging, See]
+lastCollected: 2026-03-12T05:14:33.012Z
+estimatedTokens: 512
+keywords: [Support, queryMore, Client-Driven, Paging, client-driven, paging, LIMIT, OFFSET, clauses, page, through, result, sets.]
 ---
 
 # Support queryMore by Using Client-Driven
         Paging
+
+> With client-driven paging, you use LIMIT and
+            OFFSET clauses to page through result
+        sets.
 
 # Support queryMore by Using Client-Driven Paging
 
@@ -26,3 +31,7 @@ Ultimately, accessing external data works most efficiently when you retrieve sma
 #### See Also
 
 -   [queryMore with the Apex Connector Framework with the Apex Connector Framework](atlas.en-us.apexcode.meta/apexcode/apex_connector_querymore.htm "Custom adapters for Salesforce Connect don’t automatically support the queryMore method in API queries. However, your implementation must be able to break up large result sets into batches and iterate over them by using the queryMore method in the SOAP API. The default batch size is 500 records, but the query developer can adjust that value programmatically in the query call.")
+
+## Related Topics
+
+- queryMore with the Apex Connector Framework with the Apex Connector Framework (atlas.en-us.apexcode.meta/apexcode/apex_connector_querymore.htm)

@@ -5,11 +5,14 @@ topic: connectapiuserprofiletab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.190Z
-keywords: [ConnectApi.UserProfileTab, See]
+lastCollected: 2026-03-12T05:14:29.257Z
+estimatedTokens: 240
+keywords: [ConnectApi.UserProfileTab, Information, profile, tab.]
 ---
 
 # ConnectApi.UserProfileTab
+
+> Information about a profile tab.
 
 # ConnectApi.UserProfileTab
 
@@ -25,3 +28,9 @@ Information about a profile tab.
 #### See Also
 
 -   [ConnectApi.UserProfile](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_profile.htm "Details necessary to render a view of a user profile.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.UserProfile (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_profile.htm)

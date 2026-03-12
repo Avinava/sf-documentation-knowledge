@@ -5,11 +5,16 @@ topic: recordactiondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.623Z
-keywords: [RecordActionDeployment, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.611Z
+estimatedTokens: 1462
+keywords: [RecordActionDeployment, Represents, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, components., API, version, 45.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # RecordActionDeployment
+
+> Represents configuration settings for the Actions &
+        Recommendations, Action Launcher, and Bulk Action Panel components. RecordActionDeployment
+        is available in API version 45.0 and later.
 
 # RecordActionDeployment
 

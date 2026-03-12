@@ -5,11 +5,15 @@ topic: operating-hours-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.788Z
-keywords: [Operating, Hours, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.612Z
+estimatedTokens: 829
+keywords: [Operating, Hours, DMO, Data, Cloud, data, model, business, function, use., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Operating Hours DMO
+
+> The Operating Hours DMO is a Data Cloud data model object (DMO) for
+      when a business or business function is available for use.
 
 # Operating Hours DMO
 

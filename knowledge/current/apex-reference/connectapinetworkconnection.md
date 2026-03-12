@@ -5,11 +5,14 @@ topic: connectapinetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.361Z
-keywords: [ConnectApi.NetworkConnection, Important, See]
+lastCollected: 2026-03-12T05:14:28.081Z
+estimatedTokens: 223
+keywords: [ConnectApi.NetworkConnection, External, network, connection., Important]
 ---
 
 # ConnectApi.NetworkConnection
+
+> External network connection.
 
 # ConnectApi.NetworkConnection
 
@@ -31,3 +34,8 @@ Where possible, we changed noninclusive terms to align with our company value of
 #### See Also
 
 -   [ConnectApi.NamedCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm "Named credential associated with an external credential.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.NamedCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm)

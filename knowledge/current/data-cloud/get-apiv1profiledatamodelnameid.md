@@ -5,11 +5,16 @@ topic: get-apiv1profiledatamodelnameid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.415Z
-keywords: [GET, api, profile, dataModelName, Syntax, Request, Parameters, Examples, HTTP, Responses]
+lastCollected: 2026-03-12T05:14:12.425Z
+estimatedTokens: 547
+keywords: [GET, api, profile, dataModelName, data, model, objects, based, search, indexes, filters., API, call, retrieve, record, primary, key, secondary, keys., empty]
 ---
 
 # GET /api/v1/profile/{dataModelName}/{Id}
+
+> Returns data model objects based on search indexes and filters. Use this API call to
+  retrieve the object record based on the primary key or secondary keys. Returns an empty list when
+  records aren’t found.
 
 # GET /api/v1/profile/{dataModelName}/{Id}
 
@@ -70,3 +75,35 @@ Response
 | 404 Not Found | Incorrect callback ID, verification key, or both. |
 | 422 Unprocessable Entity | The attribute name used in the fields or filters parameter doesn’t exist. |
 | 500 Server Error | Internal error. |
+
+## Code Examples
+
+```
+https://{TSE}.360a.salesforce.com/api/v1/profile/{dataModelName}/{Id}
+```
+
+```
+{
+  "data": [
+    {
+      "GenderId__c": "F",
+      "Id__c": "05d01a06-0c61-3990-808d-2aa602dd3e7f",
+      "Occupation__c": "Staffing",
+      "FirstName__c": "Don"
+    },
+    {
+      "GenderId__c": "M",
+      "Id__c": "11bcc846-1a80-3293-8cc4-3449835d8d4c",
+      "Occupation__c": "Operational",
+      "FirstName__c": "Don"
+    },
+    {
+      "GenderId__c": "M",
+      "Id__c": "18213566-df86-34a8-97aa-2cb75b70ae3b",
+      "Occupation__c": "Organizational",
+      "FirstName__c": "Don"
+    }
+  ],
+  "done": false
+}
+```

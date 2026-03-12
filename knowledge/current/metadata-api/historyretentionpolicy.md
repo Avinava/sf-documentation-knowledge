@@ -5,11 +5,17 @@ topic: historyretentionpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.017Z
-keywords: [HistoryRetentionPolicy, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition]
+lastCollected: 2026-03-12T05:14:40.377Z
+estimatedTokens: 625
+keywords: [HistoryRetentionPolicy, Represents, policy, archiving, field, history, data., set, specify, number, months, want, keep, Salesforce, before, it., default, Field, Audit, Trail]
 ---
 
 # HistoryRetentionPolicy
+
+> Represents the policy for archiving field history
+            data. When you set a policy, you specify the number of months that you want to keep
+            field history in Salesforce before archiving it. By default, when Field Audit Trail is
+            enabled, all field history is retained.
 
 # HistoryRetentionPolicy
 
@@ -44,3 +50,24 @@ This sample shows the definition of a history retention policy for a custom obje
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_fieldset.htm "FieldSet")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_index.htm "Index")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+   <historyRetentionPolicy>
+       <archiveAfterMonths>6</archiveAfterMonths>
+       <archiveRetentionYears>5</archiveRetentionYears>
+       <description>My field history retention</description>
+   </historyRetentionPolicy>
+
+...
+</CustomObject>
+```
+
+## Related Topics
+
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_fieldset.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_index.htm)

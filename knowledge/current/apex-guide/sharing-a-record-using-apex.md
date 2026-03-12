@@ -5,11 +5,16 @@ topic: sharing-a-record-using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.337Z
-keywords: [Sharing, Record, Apex, Important, Creating, User, Managed, Note, Example, Customer, Community, Plus, users, Warning]
+lastCollected: 2026-03-12T05:14:32.276Z
+estimatedTokens: 2826
+keywords: [Sharing, Record, Apex, Where, possible, changed, noninclusive, terms, align, company, Equality., maintained, certain, avoid, any, effect, customer, implementations., Important, Creating]
 ---
 
 # Sharing a Record Using Apex
+
+> Where possible, we changed noninclusive terms to align with our
+            company value of Equality. We maintained certain terms to avoid any effect on
+            customer implementations.
 
 # Sharing a Record Using Apex
 
@@ -142,3 +147,114 @@ Granting visibility via manual or apex shares written to the share objects is su
 #### Warning
 
 After enabling digital experiences, records accessible to Roles and Subordinates via Apex managed sharing are automatically made accessible to Roles, Internal, and Portal Subordinates. To secure external users’ access, update your Apex code so that it creates shares to the Role and Internal Subordinates group. Because this conversion is a large-scale operation, consider using [batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch.htm).
+
+## Code Examples
+
+```apex
+public class JobSharing {
+   
+   public static boolean manualShareRead(Id recordId, Id userOrGroupId){
+      // Create new sharing object for the custom object Job.
+      Job__Share jobShr  = new Job__Share();
+   
+      // Set the ID of record being shared.
+      jobShr.ParentId = recordId;
+        
+      // Set the ID of user or group being granted access.
+      jobShr.UserOrGroupId = userOrGroupId;
+        
+      // Set the access level.
+      jobShr.AccessLevel = 'Read';
+        
+      // Set rowCause to 'manual' for manual sharing.
+      // This line can be omitted as 'manual' is the default value for sharing objects.
+      jobShr.RowCause = Schema.Job__Share.RowCause.Manual;
+        
+      // Insert the sharing record and capture the save result. 
+      // The false parameter allows for partial processing if multiple records passed 
+      // into the operation.
+      Database.SaveResult sr = Database.insert(jobShr,false);
+
+      // Process the save results.
+      if(sr.isSuccess()){
+         // Indicates success
+         return true;
+      }
+      else {
+         // Get first save result error.
+         Database.Error err = sr.getErrors()[0];
+         
+         // Check if the error is related to trival access level.
+         // Access level must be more permissive than the object's default.
+         // These sharing records are not required and thus an insert exception is acceptable. 
+         if(err.getStatusCode() == StatusCode.FIELD_FILTER_VALIDATION_EXCEPTION  &&  
+                  err.getMessage().contains('AccessLevel')){
+            // Indicates success.
+            return true;
+         }
+         else{
+            // Indicates failure.
+            return false;
+         }
+       }
+   }
+   
+}
+```
+
+```apex
+@isTest
+private class JobSharingTest {
+   // Test for the manualShareRead method
+   static testMethod void testManualShareRead(){
+      // Select users for the test.
+      List<User> users = [SELECT Id FROM User WHERE IsActive = true LIMIT 2];
+      Id User1Id = users[0].Id;
+      Id User2Id = users[1].Id;
+   
+      // Create new job.
+      Job__c j = new Job__c();
+      j.Name = 'Test Job';
+      j.OwnerId = user1Id;
+      insert j;    
+                
+      // Insert manual share for user who is not record owner.
+      System.assertEquals(JobSharing.manualShareRead(j.Id, user2Id), true);
+   
+      // Query job sharing records.
+      List<Job__Share> jShrs = [SELECT Id, UserOrGroupId, AccessLevel, 
+         RowCause FROM job__share WHERE ParentId = :j.Id AND UserOrGroupId= :user2Id];
+      
+      // Test for only one manual share on job.
+      System.assertEquals(jShrs.size(), 1, 'Set the object\'s sharing model to Private.');
+      
+      // Test attributes of manual share.
+      System.assertEquals(jShrs[0].AccessLevel, 'Read');
+      System.assertEquals(jShrs[0].RowCause, 'Manual');
+      System.assertEquals(jShrs[0].UserOrGroupId, user2Id);
+      
+      // Test invalid job Id.
+      delete j;   
+   
+      // Insert manual share for deleted job id. 
+      System.assertEquals(JobSharing.manualShareRead(j.Id, user2Id), false);
+   }  
+}
+```
+
+```
+MyReasonName__c
+```
+
+```
+Schema.CustomObject__Share.rowCause.SharingReason__c
+```
+
+```
+Schema.Job__Share.rowCause.Recruiter__c
+```
+
+## Related Topics
+
+- Understanding Sharing (atlas.en-us.apexcode.meta/apexcode/apex_bulk_sharing_understanding.htm)
+- batch Apex (atlas.en-us.apexcode.meta/apexcode/apex_batch.htm)

@@ -5,11 +5,15 @@ topic: productattributedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T14:37:50.662Z
-keywords: [ProductAttributeDefinition, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:11.050Z
+estimatedTokens: 2047
+keywords: [ProductAttributeDefinition, Represents, relationship, between, product, its, attributes., API, version, 60.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # ProductAttributeDefinition
+
+> Represents the relationship between a product and its attributes. This
+      object is available in API version 60.0 and later.
 
 # ProductAttributeDefinition
 
@@ -70,3 +74,9 @@ History is available for tracked fields of the object.
 [ProductAttributeDefinitionShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ProductAttributeDefinitionFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- ProductAttributeDefinitionHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- ProductAttributeDefinitionShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

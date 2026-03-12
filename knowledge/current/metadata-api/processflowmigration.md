@@ -5,11 +5,15 @@ topic: processflowmigration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.049Z
-keywords: [ProcessFlowMigration, Important, Parent, Type, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:41.875Z
+estimatedTokens: 559
+keywords: [ProcessFlowMigration, Represents, process's, migrated, criteria, resulting, flow., Important, Parent, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # ProcessFlowMigration
+
+> Represents a process's migrated criteria and the resulting
+      migrated flow.
 
 # ProcessFlowMigration
 
@@ -60,3 +64,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ProcessFlowMigration xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <destinationFlowDefinition>Migration_1</destinationFlowDefinition>
+    <destinationFlowVersion>Migration_1-1</destinationFlowVersion>
+    <developerName>Migration</developerName>
+    <masterLabel>Migration_1</masterLabel>
+    <migratedCriteriaLabel>myCriteria_1</migratedCriteriaLabel>
+    <migratedCriteriaName>myDecision</migratedCriteriaName>
+    <processVersion>Migration-1</processVersion>
+</ProcessFlowMigration>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ProcessFlowMigration</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+    <version>58.0</version>
+</Package>
+```

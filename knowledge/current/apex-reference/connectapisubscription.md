@@ -5,11 +5,14 @@ topic: connectapisubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.071Z
-keywords: [ConnectApi.Subscription, See]
+lastCollected: 2026-03-12T05:14:29.090Z
+estimatedTokens: 224
+keywords: [ConnectApi.Subscription, Subscription.]
 ---
 
 # ConnectApi.Subscription
+
+> Subscription.
 
 # ConnectApi.Subscription
 
@@ -26,5 +29,13 @@ Subscription.
 #### See Also
 
 -   [ConnectApi.FollowerPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Follower_Page.htm "Page of followers.")
-    
+
 -   [ConnectApi.FollowingPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_following_page.htm "Page of following subscriptions.")
+
+## Related Topics
+
+- ConnectApi.​​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Actor (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actor.htm)
+- ConnectApi.FollowerPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Follower_Page.htm)
+- ConnectApi.FollowingPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_following_page.htm)

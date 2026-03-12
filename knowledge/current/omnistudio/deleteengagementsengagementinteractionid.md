@@ -5,11 +5,14 @@ topic: deleteengagementsengagementinteractionid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.540Z
-keywords: [deleteEngagements, engagementInteractionId, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Example]
+lastCollected: 2026-03-12T05:14:47.401Z
+estimatedTokens: 116
+keywords: [deleteEngagements, engagementInteractionId, Delete, engagement, interaction, record., API, Version, Requires, Chatter, Example]
 ---
 
 # deleteEngagements(engagementInteractionId)
+
+> Delete an engagement interaction record.
 
 # deleteEngagements(engagementInteractionId)
 

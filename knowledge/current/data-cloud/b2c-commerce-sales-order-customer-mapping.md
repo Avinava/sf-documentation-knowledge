@@ -5,15 +5,21 @@ topic: b2c-commerce-sales-order-customer-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.723Z
-keywords: [B2C, Commerce, Sales, Order, Customer, Mapping, DLO, DMO, Note]
+lastCollected: 2026-03-12T05:14:12.932Z
+estimatedTokens: 641
+keywords: [B2C, Commerce, Sales, Order, Customer, Mapping, After, data, stream, deployed, Salesforce, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
 ---
 
 # B2C Commerce: Sales Order Customer Mapping
 
+> After a data stream is deployed, the Salesforce B2C Commerce Order
+         starter data bundle automatically maps source objects from B2C Commerce to data model
+         objects (DMO)s in Data Cloud. The Sales Order Customer object represents a customer making
+         an order.
+
 # B2C Commerce: Sales Order Customer Mapping
 
-After a data stream is deployed, the Salesforce B2C Commerce Order starter data bundle automatically maps source objects from B2C Commerce to data model objects (DMO)s in Data Cloud. The Sales Order Customer object represents a customer making an order. 
+After a data stream is deployed, the Salesforce B2C Commerce Order starter data bundle automatically maps source objects from B2C Commerce to data model objects (DMO)s in Data Cloud. The Sales Order Customer object represents a customer making an order.
 
 ## DLO to DMO Mapping
 

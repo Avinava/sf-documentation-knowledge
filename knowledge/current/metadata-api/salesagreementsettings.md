@@ -5,11 +5,17 @@ topic: salesagreementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:55.433Z
-keywords: [SalesAgreementSettings, File, Suffix, Directory, Location, Version, Fields, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, AdvAcctForecastMeasureDef, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:44.091Z
+estimatedTokens: 2102
+keywords: [SalesAgreementSettings, Represents, settings, control, display, agreement, terms, metrics, sales, agreements, calculation, actual, quantity, products, agreements., approval, File, Suffix, Directory, Location]
 ---
 
 # SalesAgreementSettings
+
+> Represents settings that control the
+      display of agreement terms metrics in sales agreements and the calculation of the actual
+      quantity of products in sales agreements. These settings also control the approval of sales
+      agreements.
 
 # SalesAgreementSettings
 
@@ -116,3 +122,72 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesAgreementSettings
+	xmlns="http://soap.sforce.com/2006/04/metadata"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<actualsCalculationMode>Orders</actualsCalculationMode>
+      <decimalScale>0.2</decimalScale>
+	<displayGroups>
+		<advAcctFrcstDisplayGroupName>Test Measure Group</advAcctFrcstDisplayGroupName>
+		<displayGroupItems>
+			<advAcctFrcstDplyGroupItemName>PlannedQuantity</advAcctFrcstDplyGroupItemName>
+			<displayOrder>1</displayOrder>
+			<measureReferenceName>PlannedQuantity</measureReferenceName>
+		</displayGroupItems>
+		<displayGroupType>MEASURE</displayGroupType>
+		<isDefault>false</isDefault>
+		<userProfileName xsi:nil="true"/>
+	</displayGroups>
+	<displayedAgreementTermsMetrics>PlannedQuantity,ActualQuantity,SalesPrice,DiscountPercentage,DerivedPlannedAmount</displayedAgreementTermsMetrics>
+      <futureActCalcSchedules>10</futureActCalcSchedules>
+	<isOnlyApprovalProcessUsed>false</isOnlyApprovalProcessUsed>
+	<measureDefinitions>
+		<advAcctForecastMeasureDefName>PlannedQuantity</advAcctForecastMeasureDefName>
+		<aggregationType>MINIMUM</aggregationType>
+		<computationMethod>DATA_PROCESSING_ENGINE_DEFINITION</computationMethod>
+		<forecastDataMeasureName>PlannedQuantity</forecastDataMeasureName>
+		<forecastMeasureName>PlannedQuantity</forecastMeasureName>
+		<forecastMeasureType>QUANTITY</forecastMeasureType>
+		<isAdjustmentTracked>true</isAdjustmentTracked>
+	</measureDefinitions>
+	<secondaryNotifEmailAddress>abc@salesforce.com</secondaryNotifEmailAddress>
+	<primaryNotifEmailAddress>abc@salesforce.com</primaryNotifEmailAddress>
+	<renewalPeriodDayCount>50</renewalPeriodDayCount>
+	<objectMapping>
+		<inputObject>SalesAgreementProductSchedule</inputObject>
+		<mappingFields>
+			<inputField>SAPS1__c</inputField>
+			<outputField>SAP1__c</outputField>
+		</mappingFields>
+		<outputObject>SalesAgreementProduct</outputObject>
+	</objectMapping>
+</SalesAgreementSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>   
+         <members>SalesAgreementProduct.SAP1__c</members>
+         <members>SalesAgreementProductSchedule.SAPS1__c</members>
+         <name>CustomField</name>
+     </types>
+     <types>
+         <members>*</members>
+         <name>SalesAgreementSettings</name>
+     </types>
+     <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

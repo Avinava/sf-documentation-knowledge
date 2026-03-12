@@ -5,11 +5,15 @@ topic: connectapiocicreatereservationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.355Z
-keywords: [ConnectApi.OCICreateReservationInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.217Z
+estimatedTokens: 345
+keywords: [ConnectApi.OCICreateReservationInputRepresentation, Data, reserve, inventory, Omnichannel, Inventory, locations, location, groups.]
 ---
 
 # ConnectApi.OCICreateReservationInputRepresentation
+
+> Data to reserve inventory at one or more Omnichannel Inventory locations or
+      location groups.
 
 # ConnectApi.OCICreateReservationInputRepresentation
 
@@ -23,3 +27,11 @@ Data to reserve inventory at one or more Omnichannel Inventory locations or loca
 | expirationSeconds | Integer | A length of time in seconds. If the reservation isn’t fulfilled within this amount of time after the reservationTime, then it expires. The maximum value is 14400. | Optional | 51.0 |
 | externalRefId | String | External reference ID. | Optional | 51.0 |
 | reservationTime | String | The time at which to record the reservation. Example: 2020-07-24T21:13:00Z | Optional | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​OCICreateReservation​SingleInput​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_o_c_i_create_reservation_single.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

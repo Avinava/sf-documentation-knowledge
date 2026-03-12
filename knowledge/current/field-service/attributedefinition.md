@@ -5,11 +5,16 @@ topic: attributedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.532Z
-keywords: [AttributeDefinition, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.973Z
+estimatedTokens: 1100
+keywords: [AttributeDefinition, Represents, product, asset, attribute, example, hardward, specification, software, detail., API, version, 57.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # AttributeDefinition
+
+> Represents a product, asset, or object attribute, for example, a hardward
+         specification or software detail. This object is available in API version 57.0 and
+      later.
 
 # AttributeDefinition
 

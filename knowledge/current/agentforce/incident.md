@@ -5,11 +5,15 @@ topic: incident
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.908Z
-keywords: [Incident, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.438Z
+estimatedTokens: 948
+keywords: [Incident, Standard, fields, extend, Agentforce, Service, represent, issue., API, version, 65.0, later., Supported, Calls, Fields]
 ---
 
 # Incident
+
+> Standard fields extend the Incident object for use in Agentforce IT Service
+         to represent an issue. This object is available in API version 65.0 and later.
 
 # Incident
 

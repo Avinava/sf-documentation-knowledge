@@ -5,11 +5,16 @@ topic: standardobjectname-feed-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.817Z
-keywords: [StandardObjectName, Feed, Supported, Calls, Special, Access, Rules, Fields, Usage, Object, Follows, Model]
+lastCollected: 2026-03-12T05:14:15.309Z
+estimatedTokens: 2132
+keywords: [StandardObjectName, Feed, StandardObjectNameFeed, model, feed, objects, associated, standard, objects., represent, posts, feed-tracked, changes, object., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # StandardObjectName Feed Feed
+
+> StandardObjectNameFeed is the model for all feed
+      objects associated with standard objects. These objects represent the posts and feed-tracked
+      changes of a standard object.
 
 # StandardObjectName Feed Feed
 
@@ -30,15 +35,15 @@ To delete feed items they didn’t create, users must have one of these permissi
 -   Modify All Data
 -   Modify All Records on the parent object, like Account for AccountFeed
 -   Moderate Chatter
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=agentforce_it_service_dev_guide)
-    
+
     #### Note
-    
+
     Users with the Moderate Chatter permission can delete only the feed items and comments they can see.
-    
+
     Only users with this permission can delete items in unlisted groups.
-    
+
 
 For more special access rules, if any, see the documentation for the standard object. For example, for AccountFeed, see the special access rules for Account.
 

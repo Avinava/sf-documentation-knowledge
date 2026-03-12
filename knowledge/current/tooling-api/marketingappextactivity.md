@@ -5,11 +5,16 @@ topic: marketingappextactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.220Z
-keywords: [MarketingAppExtActivity, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.003Z
+estimatedTokens: 1060
+keywords: [MarketingAppExtActivity, Represents, Activity, which, prospect, activity, occurs, third-party, app, used, Account, Engagement, automations., API, version, 53.0, later., Important, Supported, SOAP]
 ---
 
 # MarketingAppExtActivity
+
+> Represents an Activity Type, which is a
+            prospect activity that occurs in a third-party app and can be used in Account Engagement
+            automations. . Available in API version 53.0 and later.
 
 # MarketingAppExtActivity
 

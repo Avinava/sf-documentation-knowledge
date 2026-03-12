@@ -5,11 +5,18 @@ topic: srvcmgmtobjcollabappcnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:18.018Z
-keywords: [SrvcMgmtObjCollabAppCnfg, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.611Z
+estimatedTokens: 708
+keywords: [SrvcMgmtObjCollabAppCnfg, Represents, configuration, specific, service, management, types, collaboration, apps, supported, such, whether, swarming, enabled, record, page, layout, that's, app, within]
 ---
 
 # SrvcMgmtObjCollabAppCnfg
+
+> Represents the configuration for a specific service management object and the
+         types of collaboration apps supported for that object, such as whether swarming is enabled
+         or not, the record type and page layout of the object that's supported for a specific app
+         within the collaboration app, and more. This object is available in API version 65.0
+      and later.
 
 # SrvcMgmtObjCollabAppCnfg
 

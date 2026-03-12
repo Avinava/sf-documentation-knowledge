@@ -5,11 +5,15 @@ topic: error-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.301Z
-keywords: [Error, Handling]
+lastCollected: 2026-03-12T05:14:39.361Z
+estimatedTokens: 839
+keywords: [Error, Handling, Metadata, API, calls, error, information, client, application, identify, resolve, runtime, errors.]
 ---
 
 # Error Handling
+
+> Metadata API calls return error information that your client application
+  can use to identify and resolve runtime errors.
 
 # Error Handling
 
@@ -24,3 +28,16 @@ Metadata API provides these types of error handling.
 -   For errors with [retrieve()](atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm "The retrieve() call retrieves XML file representations of components in an organization."), see the problem field in the [RetrieveMessage](atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm#retrieveresult_retrievemessage) object for the associated component.
 
 For sample code, see [Step 3: Walk Through the Java Sample Code](atlas.en-us.api_meta.meta/api_meta/meta_quickstart_java_sample.htm#meta_quickstart_java_sample).
+
+## Related Topics
+
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- update() (atlas.en-us.api_meta.meta/api_meta/meta_update.htm)
+- delete() (atlas.en-us.api_meta.meta/api_meta/meta_delete.htm)
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- Error (atlas.en-us.api_meta.meta/api_meta/meta_error.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- SaveResult (atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- DeployMessage (atlas.en-us.api_meta.meta/api_meta/meta_deployresult.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)

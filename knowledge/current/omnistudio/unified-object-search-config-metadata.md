@@ -5,11 +5,15 @@ topic: unified-object-search-config-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.894Z
-keywords: [Unified, Object, Search, Config, Metadata]
+lastCollected: 2026-03-12T05:14:50.832Z
+estimatedTokens: 457
+keywords: [Unified, Search, Config, Metadata, Output, representation, unified, search, configuration, metadata.]
 ---
 
 # Unified Object Search Config Metadata
+
+> Output representation of the unified search configuration
+      metadata.
 
 # Unified Object Search Config Metadata
 
@@ -29,3 +33,11 @@ Output representation of the unified search configuration metadata.
 | searchCriteriaConfigurationLabel | String | User-friendly name for the SearchConfig object, which is defined when the search configuration is created. | Small, 58.0 | 58.0 |
 | searchCriteriaConfigurationName | String | Name of the search criteria configuration. | Small, 58.0 | 58.0 |
 | sortFields | Field Representation | Set of fields within SearchConfig that can be used to sort search results. | Small, 58.0 | 58.0 |
+
+## Related Topics
+
+- Action (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_action.htm)
+- Field
+                  Representation (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_field.htm)
+- Searchable Criteria (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_searchable_criteria.htm)
+- Field Representation (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_field.htm)

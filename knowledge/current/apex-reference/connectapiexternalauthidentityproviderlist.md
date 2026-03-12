@@ -5,11 +5,14 @@ topic: connectapiexternalauthidentityproviderlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.724Z
-keywords: [ConnectApi.ExternalAuthIdentityProviderList, See]
+lastCollected: 2026-03-12T05:14:27.247Z
+estimatedTokens: 148
+keywords: [ConnectApi.ExternalAuthIdentityProviderList, List, external, auth, identity, providers, org.]
 ---
 
 # ConnectApi.ExternalAuthIdentityProviderList
+
+> List of external auth identity providers in the org.
 
 # ConnectApi.ExternalAuthIdentityProviderList
 
@@ -22,3 +25,9 @@ List of external auth identity providers in the org.
 #### See Also
 
 -   [getExternalAuthIdentityProviders()](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm#apex_ConnectAPI_NamedCredentials_getExternalAuthIdentityProviders_1 "Get a list of external auth identity providers in the org.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ExternalAuthIdentityProvider (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_auth_identity_provider.htm)
+- getExternalAuthIdentityProviders() (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm)

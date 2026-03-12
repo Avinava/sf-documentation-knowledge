@@ -5,11 +5,15 @@ topic: digitalexperienceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.983Z
-keywords: [DigitalExperienceConfig, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Site, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:38.894Z
+estimatedTokens: 602
+keywords: [DigitalExperienceConfig, Represents, details, organization’s, workspaces, such, site, label, URL, path, prefix, workspace, type., Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # DigitalExperienceConfig
+
+> Represents details for your organization’s workspaces, such
+			as the site label, site URL path prefix, and workspace type.
 
 # DigitalExperienceConfig
 
@@ -68,3 +72,32 @@ To retrieve and deploy DigitalExperienceConfig, use legacy sfdx commands.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalExperienceConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Capricorn_Coffee</label>
+    <site>
+        <urlPathPrefix>CapricornCoffee</urlPathPrefix>
+    </site>
+    <space>site/Capricorn_Coffee1</space>
+</DigitalExperienceConfig>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Capricorn_Coffee1</members>
+        <name>DigitalExperienceConfig</name>
+    </types>
+    <version>56.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

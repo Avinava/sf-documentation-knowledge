@@ -5,11 +5,14 @@ topic: connectapiexternalcredentialparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.738Z
-keywords: [ConnectApi.ExternalCredentialParameter, See]
+lastCollected: 2026-03-12T05:14:27.267Z
+estimatedTokens: 397
+keywords: [ConnectApi.ExternalCredentialParameter, External, credential, parameter.]
 ---
 
 # ConnectApi.ExternalCredentialParameter
+
+> External credential parameter.
 
 # ConnectApi.ExternalCredentialParameter
 
@@ -26,3 +29,9 @@ External credential parameter.
 #### See Also
 
 -   [ConnectApi.ExternalCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm "External credential, including the named credentials and principals associated with it and the type and status of each principal.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ExternalCredential​ParameterType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ExternalCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm)

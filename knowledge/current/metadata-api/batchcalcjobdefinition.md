@@ -5,11 +5,14 @@ topic: batchcalcjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.778Z
-keywords: [BatchCalcJobDefinition, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, BatchCalcJob​​​Aggregate, BatchCalcJob​AggregateField, BatchCalcJobAtomicWriteback, BatchCalcJobAtomicWritebackRelationship, BatchCalcJob​​​CustomNode, BatchCalcJob​​​CustomNodeParameter, BatchCalcJob​Datasource, BatchCalcJob​DatasourceField]
+lastCollected: 2026-03-12T05:14:37.222Z
+estimatedTokens: 7693
+keywords: [BatchCalcJobDefinition, Represents, Data, Processing, Engine, definition., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, BatchCalcJob​​​Aggregate, BatchCalcJob​AggregateField, BatchCalcJobAtomicWriteback, BatchCalcJobAtomicWritebackRelationship]
 ---
 
 # BatchCalcJobDefinition
+
+> Represents a Data Processing Engine definition.
 
 # BatchCalcJobDefinition
 
@@ -449,3 +452,325 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<BatchCalcJobDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aggregates>
+        <description>Aggregate Description</description>
+        <fields>
+            <aggregateFunction>Count</aggregateFunction>
+            <alias>NameCount</alias>
+            <sourceFieldName>Name</sourceFieldName>
+        </fields>
+        <groupBy>ContactId</groupBy>
+        <groupBy>Name</groupBy>
+        <label>AggregateOpportunities</label>
+        <name>AggregateOpportunities</name>
+        <sourceName>Opportunity</sourceName>
+    </aggregates>
+    <forecasts>
+        <description>ForecastNode Description</description>
+        <label>ContactForecast</label>
+        <name>ContactForecast</name>
+        <sourceName>Contact</sourceName>
+        <dateFieldName>CreatedDate</dateFieldName>
+        <forecastPeriodType>YearMonth</forecastPeriodType>
+        <shouldExcludeLastPeriod>false</shouldExcludeLastPeriod>
+        <forecastPeriodCount>12</forecastPeriodCount>
+        <periodStartDateName>CreatedDateYM</periodStartDateName>
+        <forecastModelType>Auto</forecastModelType>
+        <seasonality>None</seasonality>
+        <accuracyPercent>None</accuracyPercent>
+        <aggregationFields>
+            <aggregateFunction>Count</aggregateFunction>
+            <aggregationResultLabel>CountOfLastName</aggregationResultLabel>
+            <fieldName>LastName</fieldName>
+        </aggregationFields>
+        <groupFields>
+            <fieldName>LastModifiedDate</fieldName>
+            <groupBy>Week</groupBy>
+        </groupFields>
+    </forecasts>
+    <appends>
+        <description>Append desc</description>
+        <isDisjointedSchema>true</isDisjointedSchema>
+        <label>AppendAllAccounts</label>
+        <name>AppendAllAccounts</name>
+        <sources>AccountsOfManufacturingIndustry</sources>
+        <sources>ComputeRelativeManufacturingIndustry</sources>
+    </appends>
+    <datasources>
+        <description>Desc Contact</description>
+        <fields>
+            <alias>Id</alias>
+            <name>Id</name>
+            <isPrimaryKey>false</isPrimaryKey>
+            <dataType>Text</dataType>
+        </fields>
+        <fields>
+            <alias>LastName</alias>
+            <name>LastName</name>
+            <isPrimaryKey>false</isPrimaryKey>
+            <dataType>Text</dataType>
+        </fields>
+        <fields>
+            <alias>CreatedDate</alias>
+            <name>CreatedDate</name>
+            <isPrimaryKey>false</isPrimaryKey>
+            <dataType>Date</dataType>
+        </fields>
+        <fields>
+            <alias>LastModifiedDate</alias>
+            <name>LastModifiedDate</name>
+            <isPrimaryKey>false</isPrimaryKey>
+            <dataType>Date</dataType>
+        </fields>
+        <label>Contact</label>
+        <name>Contact</name>
+        <sourceName>Contact</sourceName>
+        <type>StandardObject</type>
+        <fileSource>ContentManagement</fileSource>
+        <fileIdentifier>069xx0000004CAeAAM</fileIdentifier>
+        <CSVDelimiter>COMMA</CSVDelimiter>
+        <filePath>parentFolder/childFolder</filePath>
+    </datasources>
+    <datasources>
+        <fields>
+            <alias>Name</alias>
+            <name>Name</name>
+            <isPrimaryKey>false</isPrimaryKey>
+            <dataType>Text</dataType>
+        </fields>
+        <fields>
+            <alias>ContactId</alias>
+            <name>ContactId</name>
+            <isPrimaryKey>false</isPrimaryKey>
+            <dataType>Text</dataType>
+        </fields>
+        <label>Opportunity</label>
+        <name>Opportunity</name>
+        <sourceName>Opportunity</sourceName>
+        <type>StandardObject</type>
+        <fileSource>ContentManagement</fileSource>
+        <fileIdentifier>069xx0000004CAeAAM</fileIdentifier>
+        <CSVDelimiter>COMMA</CSVDelimiter>
+        <filePath>parentFolder/childFolder</filePath>
+    </datasources>
+    <description>Calculates and creates transaction journal records based on the orders placed by the loyalty program members. The transaction journals are used to accrue points to the member.</description>
+    <filters>
+        <criteria>
+            <operator>Equals</operator>
+            <sequence>1</sequence>
+            <sourceFieldName>LastName</sourceFieldName>
+            <value>Salesforce</value>
+        </criteria>
+        <description>Filter Desc</description>
+        <filterCondition>1</filterCondition>
+        <isDynamicFilter>false</isDynamicFilter>
+        <label>AccountsOfManufacturingIndustry</label>
+        <name>AccountsOfManufacturingIndustry</name>
+        <sourceName>AccountOpportunities</sourceName>
+    </filters>
+    <hierarchyPaths>
+        <description>Hierarchy Path Node</description>
+        <hierarchyFieldName>Hierarchy_Path</hierarchyFieldName>
+        <isAggregationRequired>true</isAggregationRequired>
+        <isSelfFieldValueIncluded>true</isSelfFieldValueIncluded>
+        <label>Get Hierarchy</label>
+        <name>Get_Hierarchy</name>
+        <parentFieldName>ContactId</parentFieldName>
+        <selfFieldName>LastName</selfFieldName>
+        <sourceName>AppendAllAccounts</sourceName>
+        <aggregateFields>
+            <aggregateFunction>Count</aggregateFunction>
+            <aggregationFieldName>*</aggregationFieldName>
+            <aggregateFieldAliasName>CountOfLastName</aggregateFieldAliasName>
+        </aggregateFields>
+    </hierarchyPaths>
+    <isTemplate>false</isTemplate>
+    <executionPlatformObjectType>None</executionPlatformObjectType>
+    <joins>
+        <description>Left Outer Join</description>
+        <fields>
+            <alias>ContactId</alias>
+            <sourceFieldName>Id</sourceFieldName>
+            <sourceName>Contact</sourceName>
+        </fields>
+        <fields>
+            <alias>LastName</alias>
+            <sourceFieldName>LastName</sourceFieldName>
+            <sourceName>Contact</sourceName>
+        </fields>
+        <fields>
+            <alias>NameCount</alias>
+            <sourceFieldName>NameCount</sourceFieldName>
+            <sourceName>AggregateOpportunities</sourceName>
+        </fields>
+        <fields>
+            <alias>OpportunityName</alias>
+            <sourceFieldName>Name</sourceFieldName>
+            <sourceName>AggregateOpportunities</sourceName>
+        </fields>
+        <joinKeys>
+            <primarySourceFieldName>Id</primarySourceFieldName>
+            <secondarySourceFieldName>ContactId</secondarySourceFieldName>
+        </joinKeys>
+        <label>AccountOpportunities</label>
+        <name>AccountOpportunities</name>
+        <primarySourceName>Contact</primarySourceName>
+        <secondarySourceName>AggregateOpportunities</secondarySourceName>
+        <type>LeftOuter</type>
+    </joins>
+    <label>Create Transaction Journals Based on Orders</label>
+    <parameters>
+        <dataType>Date</dataType>
+        <defaultValue>2020-01-01</defaultValue>
+        <description>Desc TextParameter</description>
+        <isMultiValue>false</isMultiValue>
+        <label>DateParameter</label>
+        <name>DateParameter</name>
+    </parameters>
+    <parameters>
+        <dataType>Filter</dataType>
+        <defaultValue>{&quot;filterCondition&quot;: &quot;1 AND 2&quot;, &quot;criteria&quot;: [{&quot;sourceFieldName&quot;: &quot;NameCount&quot;,&quot;operator&quot;: &quot;GreaterThan&quot;,&quot;value&quot;: &quot;20&quot;,&quot;sequence&quot;: &quot;1&quot;}, {&quot;sourceFieldName&quot;: &quot;Name&quot;,&quot;operator&quot;: &quot;Equals&quot;,&quot;value&quot;: &quot;Salesforce&quot;,&quot;sequence&quot;: &quot;2&quot;}]}</defaultValue>
+        <isMultiValue>false</isMultiValue>
+        <label>FilterParameter</label>
+        <name>FilterParameter</name>
+    </parameters>
+    <parameters>
+        <dataType>Numeric</dataType>
+        <defaultValue>5000</defaultValue>
+        <description>Desc TextParameter</description>
+        <isMultiValue>false</isMultiValue>
+        <label>NumericParameter</label>
+        <name>NumericParameter</name>
+    </parameters>
+    <parameters>
+        <dataType>Text</dataType>
+        <defaultValue>@salesforce.com</defaultValue>
+        <description>Desc TextParameter</description>
+        <isMultiValue>false</isMultiValue>
+        <label>TextParameter</label>
+        <name>TextParameter</name>
+    </parameters>
+    <processType>Rebates</processType>
+    <definitionRunMode>Batch</definitionRunMode>
+    <status>Inactive</status>
+    <transforms>
+        <description>transforms Desc</description>
+        <expressionFields>
+            <alias>NewLastName</alias>
+            <dataType>Text</dataType>
+            <expression>TODAY()</expression>
+            <length>80</length>
+        </expressionFields>
+        <label>ManufacturingIndustry</label>
+        <name>ManufacturingIndustry</name>
+        <sourceName>AccountsOfManufacturingIndustry</sourceName>
+        <transformationType>Expression</transformationType>
+    </transforms>
+    <transforms>
+        <droppedFields>
+            <sourceFieldName>NewLastName</sourceFieldName>
+        </droppedFields>
+        <label>MediaIndustry</label>
+        <name>MediaIndustry</name>
+        <sourceName>ManufacturingIndustry</sourceName>
+        <transformationType>Slice</transformationType>
+    </transforms>
+    <transforms>
+        <description>compute relative transforms Desc</description>
+        <expressionFields>
+            <alias>NewLastName</alias>
+            <dataType>Text</dataType>
+            <expression>rank()</expression>
+            <length>80</length>
+        </expressionFields>
+        <label>ComputeRelativeManufacturingIndustry</label>
+        <name>ComputeRelativeManufacturingIndustry</name>
+        <orderBy>
+            <name>LastName</name>
+            <orderType>Ascending</orderType>
+        </orderBy>
+        <partitionBy>LastName</partitionBy>
+        <sourceName>MediaIndustry</sourceName>
+        <transformationType>ComputeRelative</transformationType>
+    </transforms>
+    <customNodes>
+        <name>RebatesCustomNode</name>
+        <label>Rebates Custom Node</label>
+        <description>customNodes Desc</description>
+        <sources>Get_Hierarchy</sources>
+        <extensionName>RebatesExpression</extensionName>
+        <extensionNamespace>industries_mfg</extensionNamespace>
+        <parameters>
+            <name>inputColumn</name>
+            <value>LastName</value>
+        </parameters>
+        <parameters>
+            <name>isFilterCriteria</name>
+            <value>true</value>
+        </parameters>
+        <parameters>
+            <name>outputColumn</name>
+            <value>GenName</value>
+        </parameters>
+    </customNodes>
+    <writebacks>
+        <fields>
+            <sourceFieldName>GenName</sourceFieldName>
+            <targetFieldName>LastName</targetFieldName>
+        </fields>
+        <isChangedRow>false</isChangedRow>
+        <label>exportToContact</label>
+        <name>exportToContact</name>
+        <description>Export To Contact</description>
+        <operationType>Insert</operationType>
+        <sourceName>RebatesCustomNode</sourceName>
+        <targetObjectName>Contact</targetObjectName>
+        <writebackSequence>1</writebackSequence>
+        <canWrtbckToNonEditableFields>false</canWrtbckToNonEditableFields>
+    </writebacks>
+    <writebacks>
+        <fields>
+            <sourceFieldName>CreatedDateYM</sourceFieldName>
+            <targetFieldName>CreatedDate</targetFieldName>
+        </fields>
+        <isChangedRow>false</isChangedRow>
+        <isExistingDataset>false</isExistingDataset>
+        <label>exportToContactFC</label>
+        <name>exportToContactFC</name>
+        <description>Export To Contact</description>
+        <operationType>Insert</operationType>
+        <sourceName>ContactForecast</sourceName>
+        <targetObjectName>Contact</targetObjectName>
+        <writebackSequence>2</writebackSequence>
+        <canWrtbckToNonEditableFields>false</canWrtbckToNonEditableFields>
+    </writebacks>
+</BatchCalcJobDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   ~ Copyright 2020 Salesforce, Inc.
+   ~ All Rights Reserved
+   ~ Company Confidential
+-->
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>BatchCalcJobDefinition</name>
+   </types>
+   <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

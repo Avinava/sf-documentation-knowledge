@@ -5,11 +5,14 @@ topic: connectapiproductdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.691Z
-keywords: [ConnectApi.ProductDetail]
+lastCollected: 2026-03-12T05:14:28.541Z
+estimatedTokens: 426
+keywords: [ConnectApi.ProductDetail, Details, product.]
 ---
 
 # ConnectApi.ProductDetail
+
+> Details of a product.
 
 # ConnectApi.ProductDetail
 
@@ -31,3 +34,16 @@ Details of a product.
 | variationAttribute​Set | ConnectApi.​ProductAttributeSet | Variation attribute set for the product. | 50.0 |
 | variationInfo | ConnectApi.​ProductVariationInfo | Available and allowable values for variation attributes and a map to resolve variation product IDs from attribute value combinations. | 50.0 |
 | variationParentId | String | ID of the variation parent. | 50.0 |
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ProductAttribute​SetInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_info.htm)
+- ConnectApi.​ProductMedia (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media.htm)
+- ConnectApi.​ProductEntitlement (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_entitlement.htm)
+- CommerceStorePricing Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CommerceStorePricing_static_methods.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductMediaGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media_group.htm)
+- ConnectApi.​ProductCategoryPath (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category_path.htm)
+- ConnectApi.​ProductClass (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

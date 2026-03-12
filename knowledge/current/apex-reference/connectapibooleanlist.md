@@ -5,11 +5,14 @@ topic: connectapibooleanlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.831Z
-keywords: [ConnectApi.BooleanList]
+lastCollected: 2026-03-12T05:14:24.397Z
+estimatedTokens: 104
+keywords: [ConnectApi.BooleanList, List, values.]
 ---
 
 # ConnectApi.BooleanList
+
+> List of Boolean values.
 
 # ConnectApi.BooleanList
 
@@ -20,3 +23,9 @@ Subclass of [ConnectApi.AbstractList](atlas.en-us.apexref.meta/apexref/apex_conn
 | Property | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | values | List<Boolean> | List of Boolean values to filter on, for example, [true, false]. | Optional | 63.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractList (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_abstract_list_inpu.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

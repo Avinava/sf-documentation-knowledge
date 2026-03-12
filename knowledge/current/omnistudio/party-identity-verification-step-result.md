@@ -5,11 +5,14 @@ topic: party-identity-verification-step-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.695Z
-keywords: [Party, Identity, Verification, Step, Result]
+lastCollected: 2026-03-12T05:14:50.513Z
+estimatedTokens: 461
+keywords: [Party, Identity, Verification, Step, Result, Output, representation, party, identity, verification, step, result.]
 ---
 
 # Party Identity Verification Step Result
+
+> Output representation of the party identity verification step result.
 
 # Party Identity Verification Step Result
 
@@ -32,3 +35,7 @@ Output representation of the party identity verification step result.
 | status | String | Status of the third-party identity verification. | Small, 61.0 | 61.0 |
 | type | String | Type of the third-party identity verification. | Small, 61.0 | 61.0 |
 | verification​Decision | String | Decision taken after the third-party identity verification is completed. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

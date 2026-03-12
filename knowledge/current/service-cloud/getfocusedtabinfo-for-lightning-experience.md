@@ -5,11 +5,15 @@ topic: getfocusedtabinfo-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.223Z
-keywords: [getFocusedTabInfo, Lightning, Experience, Note, Arguments, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.761Z
+estimatedTokens: 787
+keywords: [getFocusedTabInfo, Lightning, Experience, information, focused, workspace, tab, subtab., works, only, console, apps., Note, Arguments, LWC, Sample, Code, Aura, Components, Response]
 ---
 
 # getFocusedTabInfo() for Lightning Experience
+
+> Returns information about the focused workspace tab or subtab. This method works only in
+        Lightning console apps.
 
 # getFocusedTabInfo() for Lightning Experience
 
@@ -64,3 +68,98 @@ This method returns a promise that, upon success, resolves to a tabInfo object t
 ```
 
 ```
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { IsConsoleNavigation, getFocusedTabInfo, setTabHighlighted } from 'lightning/platformWorkspaceApi';
+
+export class FocusedTabInfoExample extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async handleFocusToggleHighlight() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        try {
+            let { tabId, highlighted } = await getFocusedTabInfo();
+            highlighted = highlighted ? false : true;
+            setTabHighlighted(tabId, highlighted);
+        } catch (error) {
+            console.log(error);
+        }
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Close Focused Tab" onclick="{! c.closeFocusedTab }" />
+</aura:component>
+```
+
+```
+({
+    closeFocusedTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getFocusedTabInfo().then(function(response) {
+            var focusedTabId = response.tabId;
+            workspaceAPI.closeTab({tabId: focusedTabId});
+       })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+```
+{
+     tabId: string,
+     url: string (URL),
+     pinned: boolean,
+     closeable: boolean,
+     title: string,
+     icon: string (SLDS iconKey),
+     iconAlt: string,
+     customTitle: string (optional),
+     customIcon: string (optional),
+     customIconAlt: string (optional),
+     highlighted: boolean,
+     pageReference: object,
+     isSubtab: boolean,
+     parentTabId: string,
+     subtabs: [
+         {
+             tabId: string,
+             url: string (URL),
+             pinned: boolean,
+             closeable: boolean,
+             title: string,
+             icon: string (SLDS iconKey),
+             iconAlt: string,
+             customTitle: string (optional),
+             customIcon: string (optional),
+             customIconAlt: string (optional),
+             highlighted: boolean,
+             pageReference: object,
+             isSubtab: boolean,
+             parentTabId: string,
+             focused: boolean,
+             recordId: string,
+          },
+           ... 
+     ],
+     focused: boolean,
+     recordId: string
+}
+```
+
+## Related Topics
+
+- getEnclosingTabId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getEnclosingTabId.htm)
+- EnclosingTabId (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_enclosingTabId.htm)
+- getTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getTabInfo.htm)
+- closeTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_closeTab.htm)

@@ -5,11 +5,14 @@ topic: category-create-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.120Z
-keywords: [Category, Create, Details]
+lastCollected: 2026-03-12T05:14:49.678Z
+estimatedTokens: 94
+keywords: [Category, Create, Details, Output, representation, category, creation, results.]
 ---
 
 # Category Create Details
+
+> Output representation for category creation results.
 
 # Category Create Details
 
@@ -25,3 +28,16 @@ JSON example
 | --- | --- | --- | --- | --- |
 | id | String | ID of the category that's created. | Small, 65.0 | 65.0 |
 | name | String | Name of the category that's created. | Small, 65.0 | 65.0 |
+
+## Code Examples
+
+```
+{
+  "categories": [
+    {
+      "id": "0qRxx00000001tlEAA",
+      "name": "Insurance"
+    }
+  ]
+}
+```

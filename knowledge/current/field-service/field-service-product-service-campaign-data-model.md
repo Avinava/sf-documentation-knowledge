@@ -5,11 +5,18 @@ topic: field-service-product-service-campaign-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.296Z
-keywords: [Field, Service, Product, Campaign, Data, Model, Note]
+lastCollected: 2026-03-12T05:14:55.586Z
+estimatedTokens: 193
+keywords: [Field, Service, Product, Campaign, Data, Model, product, service, campaign, record, actions, address, situations, such, recalls, manual, firmware, upgrades, safety, compliance]
 ---
 
 # Field Service Product Service Campaign Data Model
+
+> Use product service campaign to record the actions to address situations such as
+  product recalls, manual firmware upgrades, safety or compliance audits, or end-of-life
+  communications. Assets affected are associated with a campaign using product service campaign
+  items. Campaign and campaign items can then be associated with work orders and return orders as
+  needed to complete the work.
 
 # Field Service Product Service Campaign Data Model
 

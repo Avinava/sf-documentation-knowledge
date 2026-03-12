@@ -5,11 +5,14 @@ topic: connectapilinkattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.047Z
-keywords: [ConnectApi.LinkAttachment, Important]
+lastCollected: 2026-03-12T05:14:27.660Z
+estimatedTokens: 198
+keywords: [ConnectApi.LinkAttachment, Link, attached, feed, item., Important]
 ---
 
 # ConnectApi.LinkAttachment
+
+> Link attached to a feed item.
 
 # ConnectApi.LinkAttachment
 
@@ -27,3 +30,9 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | --- | --- | --- | --- |
 | title | String | Title given to the link if available, otherwise, null. | 28.0–31.0 |
 | url | String | The link URL. | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.LinkCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_link_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

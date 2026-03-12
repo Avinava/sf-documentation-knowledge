@@ -5,11 +5,16 @@ topic: soql-and-sosl-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.960Z
-keywords: [SOQL, SOSL, Queries, Statements, Note]
+lastCollected: 2026-03-12T05:14:34.529Z
+estimatedTokens: 1351
+keywords: [SOQL, SOSL, Queries, evaluate, Salesforce, Query, Language, Search, statements, on-the-fly, Apex, surrounding, statement, square, brackets., Statements, Note]
 ---
 
 # SOQL and SOSL Queries
+
+> You can evaluate Salesforce Object Query Language (SOQL) or Salesforce Object Search
+        Language (SOSL) statements on-the-fly in Apex by surrounding the statement in square
+        brackets.
 
 # SOQL and SOSL Queries
 
@@ -72,23 +77,23 @@ For example, you can return a list of accounts, contacts, opportunities, and lea
 The syntax of the FIND clause in Apex differs from the syntax of the FIND clause in SOAP API and REST API:
 
 -   In Apex, the value of the FIND clause is demarcated with single quotes. For example:
-    
+
     ```
-    
+
     ```
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Apex that is running in system mode ignores field-level security while scanning for a match using IN ALL FIELDS.
-    
+
 -   In the API, the value of the FIND clause is demarcated with braces. For example:
-    
+
     ```
-    
+
     ```
-    
+
 
 From searchList, you can create arrays for each object returned:
 
@@ -106,22 +111,62 @@ The 4,000 characters limit for WHERE clause strings doesn’t apply to SOQL quer
 
 For a full description of SOSL query syntax, see the [Salesforce SOQL and SOSL Reference Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/ "HTML (New Window)").
 
-1.  [Working with SOQL and SOSL Query Results](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_working_with_results.htm)  
-    
-2.  [Accessing sObject Fields Through Relationships](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SObjects_field_relationships.htm)  
-    
-3.  [Understanding Foreign Key and Parent-Child Relationship SOQL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm)  
-    
-4.  [Working with SOQL Aggregate Functions](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_agg_fns.htm)  
+1.  [Working with SOQL and SOSL Query Results](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_working_with_results.htm)
+
+2.  [Accessing sObject Fields Through Relationships](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SObjects_field_relationships.htm)
+
+3.  [Understanding Foreign Key and Parent-Child Relationship SOQL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm)
+
+4.  [Working with SOQL Aggregate Functions](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_agg_fns.htm)
     Aggregate functions in SOQL, such as SUM() and MAX(), allow you to roll up and summarize your data in a query.
-5.  [Working with Very Large SOQL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm)  
-    
-6.  [Using SOQL Queries That Return One Record](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm)  
+5.  [Working with Very Large SOQL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm)
+
+6.  [Using SOQL Queries That Return One Record](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm)
     SOQL queries can be used to assign a single sObject value when the result list contains only one element.
-7.  [Improve Performance by Avoiding Null Values](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_filtering_nulls.htm)  
-    
-8.  [Working with Polymorphic Relationships in SOQL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_polymorphic_relationships.htm)  
+7.  [Improve Performance by Avoiding Null Values](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_filtering_nulls.htm)
+
+8.  [Working with Polymorphic Relationships in SOQL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_polymorphic_relationships.htm)
     A polymorphic relationship is a relationship between objects where a referenced object can be one of several different types. For example, the Who relationship field of a Task can be a Contact or a Lead.
-9.  [Using Apex Variables in SOQL and SOSL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm)  
-    
+9.  [Using Apex Variables in SOQL and SOSL Queries](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm)
+
 10.  [Querying All Records with a SOQL Statement](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_query_all_rows.htm)
+
+## Code Examples
+
+```apex
+List<Account> aa = [SELECT Id, Name FROM Account WHERE Name = 'Acme'];
+```
+
+```
+if (!aa.isEmpty()) {
+   // Execute commands
+}
+```
+
+```
+Contact c = new Contact(Account = [SELECT Name FROM Account 
+    WHERE NumberOfEmployees > 10 LIMIT 1]);
+c.FirstName = 'James';
+c.LastName = 'Yoyce';
+```
+
+```
+Integer i = [SELECT COUNT() FROM Contact WHERE LastName = 'Weissman'];
+```
+
+```
+Integer j = 5 * [SELECT COUNT() FROM Account];
+```
+
+## Related Topics
+
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Working with SOQL and SOSL Query Results (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_working_with_results.htm)
+- Accessing sObject Fields Through Relationships (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SObjects_field_relationships.htm)
+- Understanding Foreign Key and Parent-Child Relationship SOQL Queries (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm)
+- Working with SOQL Aggregate Functions (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_agg_fns.htm)
+- Working with Very Large SOQL Queries (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_VLSQ.htm)
+- Using SOQL Queries That Return One Record (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm)
+- Improve Performance by Avoiding Null Values (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_filtering_nulls.htm)
+- Working with Polymorphic Relationships in SOQL Queries (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_polymorphic_relationships.htm)
+- Using Apex Variables in SOQL and SOSL Queries (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm)

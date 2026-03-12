@@ -5,11 +5,14 @@ topic: accountplanobjmeascalccond
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.097Z
-keywords: [AccountPlanObjMeasCalcCond, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:44.458Z
+estimatedTokens: 403
+keywords: [AccountPlanObjMeasCalcCond, Represents, field, combination, filtering, records, include, calculation, sales, account, plan, objective, measure’s, current, value., API, version, 63.0, later., Supported]
 ---
 
 # AccountPlanObjMeasCalcCond
+
+> Represents a field and value combination for filtering records to include in the calculation of a sales account plan objective measure’s current value. This object is available in API version 63.0 and later.
 
 # AccountPlanObjMeasCalcCond
 

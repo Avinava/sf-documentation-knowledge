@@ -5,11 +5,15 @@ topic: userentityaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.929Z
-keywords: [UserEntityAccess, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, Usage]
+lastCollected: 2026-03-12T05:14:47.047Z
+estimatedTokens: 1071
+keywords: [UserEntityAccess, Represents, access, current, user, object., Tooling, API, version, 34.0, later., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields, Usage]
 ---
 
 # UserEntityAccess
+
+> Represents the access that the current user has to an object. Available in Tooling API version 34.0 and
+        later.
 
 # UserEntityAccess
 
@@ -59,3 +63,8 @@ SELECT EntityDefinition.QualifiedApiName, EntityDefinition.MasterLabel FROM User
 Example: User Side
 
 UserId={current\_user\_id}
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

@@ -5,11 +5,15 @@ topic: simulation-input-variables-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.848Z
-keywords: [Simulation, Input, Variables, Result, List, Note]
+lastCollected: 2026-03-12T05:14:50.761Z
+estimatedTokens: 252
+keywords: [Simulation, Input, Variables, Result, List, Output, representation, list, input, variables, simulation., Note]
 ---
 
 # Simulation Input Variables Result List
+
+> Output representation of the list of input variables of a
+      simulation.
 
 # Simulation Input Variables Result List
 
@@ -33,3 +37,34 @@ Sample Response
 | inputVariables | Simulation Input Variables Basic[] | The list of input variables of a simulation. | Small, 53.0 | 53.0 |
 | isSuccess | Boolean | Indicates whether the request is successful. | Small, 53.0 | 53.0 |
 | message | String | The request response message. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "code": "200",
+   "message": "",
+   "isSuccess": true
+   "inputVariables": [
+     {
+         "DataType": "Number",
+         "Name": "medicalPayment",
+         "ApiName": "medicalPayment",
+         "DefaultValue": "10",
+         "LastSimulatedValue": "10",
+         "Precision": "1"
+      }, {
+         "DataType": "Number",
+         "ApiName": "dedWaiverFactor",
+         "Name": "dedWaiverFactor",
+         "DefaultValue": "10",
+         "LastSimulatedValue": "15",
+         "Precision": "1"
+      }
+   ]
+}
+```
+
+## Related Topics
+
+- Simulation Input Variables Basic (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_simulation_input_variable_basic.htm)

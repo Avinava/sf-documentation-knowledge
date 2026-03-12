@@ -5,11 +5,14 @@ topic: attribute-picklist-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.369Z
-keywords: [Attribute, Picklist, Value]
+lastCollected: 2026-03-12T05:14:07.354Z
+estimatedTokens: 274
+keywords: [Attribute, Picklist, Output, representation, attribute, picklist, value.]
 ---
 
 # Attribute Picklist Value
+
+> Output representation of the attribute picklist value.
 
 # Attribute Picklist Value
 
@@ -31,3 +34,20 @@ JSON example
 | sequence | String | Order in which the picklist value appears in the picklist. | Small, 60.0 | 60.0 |
 | status | String | Status of the attribute picklist value. | Small, 62.0 | 62.0 |
 | value | String | Value of the picklist item. Value must be unique within the picklist. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"values": [
+      {
+        "abbreviation": "IFM1"
+        "code": "PV0051",
+        "displayValue": "25G Intelligent Fabric Module with 8x 25G SFP28 ports",
+        "id": "0v61Q0000008OMYQA2",
+        "name": "25G Intelligent Fabric Module with 8x 25G SFP28 ports",
+        "sequence": "1",
+        "value": "25G Intelligent Fabric Module with 8x 25G SFP28 ports",
+        "status" : "Active"
+      }
+     ]
+```

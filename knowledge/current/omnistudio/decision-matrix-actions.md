@@ -5,11 +5,16 @@ topic: decision-matrix-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.426Z
-keywords: [Decision, Matrix, Actions, Supported, REST, HTTP, Methods, Note, Inputs, Outputs, Usage]
+lastCollected: 2026-03-12T05:14:47.275Z
+estimatedTokens: 304
+keywords: [Decision, Matrix, Actions, Invoke, decision, matrix, flow, Actions., user-defined, table, where, look, output, based, inputs, provide., Supported, REST, HTTP, Note]
 ---
 
 # Decision Matrix Actions
+
+> Invoke a decision matrix in a flow with the Decision Matrix
+      Actions. A decision matrix is a user-defined table where you can look up an output based
+    on the inputs you provide.
 
 # Decision Matrix Actions
 
@@ -67,4 +72,61 @@ Here’s an example response that has the premium and tax values based on the in
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "inputs":[
+      {
+         "age":"25",
+         "state":"NY"
+      },
+      {
+         "age":"25",
+         "state":"CA"
+      },
+      {
+         "age":"",
+         "state":"WA"
+      }
+   ]
+}
+```
+
+```
+[
+   {
+      "actionName":"premiumTaxLookup",
+      "errors":null,
+      "isSuccess":true,
+      "outputValues":{
+         "premium":2400.0,
+         "tax":200.0
+      }
+   },
+   {
+      "actionName":"premiumTaxLookup",
+      "errors":null,
+      "isSuccess":true,
+      "outputValues":{
+         "premium":2400.0,
+         "tax":200.0
+      }
+   },
+   {
+      "actionName":"premiumTaxLookup",
+      "errors":[
+         {
+            "statusCode":"REQUIRED_FIELD_MISSING",
+            "message":"Missing required input parameter: age",
+            "fields":[
+            ]
+         }
+      ],
+      "isSuccess":false,
+      "outputValues":null
+   }
+]
 ```

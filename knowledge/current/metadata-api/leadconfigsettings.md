@@ -5,11 +5,16 @@ topic: leadconfigsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.275Z
-keywords: [LeadConfigSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Example, Package, Manifest]
+lastCollected: 2026-03-12T05:14:40.776Z
+estimatedTokens: 878
+keywords: [LeadConfigSettings, Represents, configuration, settings, Leads, control, how, they, converted, displayed, actions, available., extends, Metadata, metadata, inherits, its, fullName, field., File]
 ---
 
 # LeadConfigSettings
+
+> Represents configuration settings for Leads that control how they are converted and
+		displayed, and what actions are available. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # LeadConfigSettings
 
@@ -54,3 +59,38 @@ The following is an example package manifest used to deploy or retrieve the Lead
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LeadConfigSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+<doesEnableLeadConvertDefaultSubjectBlankTaskCreation>false</doesEnableLeadConvertDefaultSubjectBlankTaskCreation>
+<doesHideOpportunityInConvertLeadWindow>false</doesHideOpportunityInConvertLeadWindow>
+<doesPreserveLeadStatus>true</doesPreserveLeadStatus>
+<doesSelectNoOpportunityOnConvertLead>false</doesSelectNoOpportunityOnConvertLead>
+<doesTrackHistory>false</doesTrackHistory>
+<enableConversionsOnMobile>true</enableConversionsOnMobile>
+<enableOrgWideMergeAndDelete>false</enableOrgWideMergeAndDelete>
+<shouldLeadConvertRequireValidation>true</shouldLeadConvertRequireValidation>
+<shouldSendNotificationEmailWhenLeadOwnerUpdatesViaApexInLEX>false</shouldSendNotificationEmailWhenLeadOwnerUpdatesViaApexInLEX>
+</LeadConfigSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LeadConfig</members>
+        <name>Settings</name>
+    </types>
+    <version>61.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

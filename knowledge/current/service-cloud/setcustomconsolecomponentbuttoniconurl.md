@@ -5,11 +5,16 @@ topic: setcustomconsolecomponentbuttoniconurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.680Z
-keywords: [setCustomConsoleComponentButtonIconUrl, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.417Z
+estimatedTokens: 216
+keywords: [setCustomConsoleComponentButtonIconUrl, button, icon, URL, application-level, custom, console, component, that’s, page., only, API, version, 25.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # setCustomConsoleComponentButtonIconUrl()
+
+> Sets the button icon URL of an
+            application-level custom console component that’s on a page. This method is only available in API version 25.0 or
+                later.
 
 # setCustomConsoleComponentButtonIconUrl()
 
@@ -41,3 +46,24 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if setting the button icon URL was successful; false if setting the button icon URL wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.setCustomConsoleComponentButtonIconUrl(iconURL:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+
+    <A HREF="#" onClick="testSetCustomConsoleComponentButtonIconUrl();return false">
+         Click here to set the custom console component button icon</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testSetCustomConsoleComponentButtonIconUrl() {
+            sforce.console.setCustomConsoleComponentButtonIconUrl('http://imageserver/img.png');
+        }
+    </script>
+</apex:page>
+```

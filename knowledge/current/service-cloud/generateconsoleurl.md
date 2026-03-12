@@ -5,11 +5,17 @@ topic: generateconsoleurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.955Z
-keywords: [generateConsoleUrl, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.358Z
+estimatedTokens: 303
+keywords: [generateConsoleUrl, Generates, URL, tab, group, related, tabs, Salesforce, console., any, include, external, URLs, then, add, console’s, allowlist, they, display, correctly.This]
 ---
 
 # generateConsoleUrl()
+
+> Generates a URL to a tab, or group of related tabs,
+            in the Salesforce console. If any tabs include external URLs, then add the external URLs
+            to the console’s allowlist so that they can display correctly.This method is only
+            available in API version 28.0 or later.
 
 # generateConsoleUrl()
 
@@ -43,3 +49,25 @@ This method is asynchronous so it returns its response in an object in a callbac
 | consoleUrl | string | Console URL that represents the array of URLs passed into Salesforce. |
 | success | boolean | true if the URL was generated successfully, false if otherwise. |
 | callback | function | JavaScript method that’s called upon completion of the method. |
+
+## Code Examples
+
+```
+sforce.console.generateConsoleUrl(urls:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <A HREF="#" onClick="testGenerateConsoleURL();return false">
+        Click here to generate a console URL</A> 
+
+    <script type="text/javascript">
+        function showConsoleUrl(result) {
+            alert(result.consoleUrl);
+         }
+        function testGenerateConsoleURL() {
+            sforce.console.generateConsoleUrl([/apex/pagename, /entityId, www.externalUrl.com, Standard Salesforce Url/entityId], showConsoleUrl);        }
+    </script>
+</apex:page>
+```

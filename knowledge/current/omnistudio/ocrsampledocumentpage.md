@@ -4,16 +4,20 @@ domain: omnistudio
 topic: ocrsampledocumentpage
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.571Z
-keywords: [OcrSampleDocumentPage, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:51.287Z
+estimatedTokens: 215
+keywords: [OcrSampleDocumentPage, Represents, details, fields, define, page, OCR, sample, document., API, version, 52.0, later., Supported, Calls, Fields, 55.0, collection, SOAP, REST]
 ---
 
 # OcrSampleDocumentPage
 
+> Represents a collection of fields that define a page in the OCR sample
+            document. This object is available in API version 55.0 and later.
+
 # OcrSampleDocumentPage
 
-Represents a collection of fields that define a page in the OCR sample document. This object is available in API version 52.0 and later.
+Represents a collection of fields that define a page in the OCR sample document. This object is available in API version 55.0 and later.
 
 ## Supported SOAP API Calls
 

@@ -5,11 +5,15 @@ topic: discoverystory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.059Z
-keywords: [DiscoveryStory, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, DiscoveryStoryOutcome, Sample, Definitions, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.988Z
+estimatedTokens: 833
+keywords: [DiscoveryStory, Represents, metadata, associated, story, used, Einstein, Discovery., Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, DiscoveryStoryOutcome, Sample, Definitions]
 ---
 
 # DiscoveryStory
+
+> Represents the metadata associated with a story used in Einstein
+   Discovery.
 
 # DiscoveryStory
 
@@ -77,3 +81,39 @@ Here is a sample DiscoveryStory:
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Subscriber_Changes</members>
+        <name>DiscoveryStory</name>
+    </types>
+    <version>55.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DiscoverStory xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <application>MyStoryApp</application>
+    <autopilot>Enabled</autopilot>
+    <classificationThreshold>0.7383</classificationThreshold>
+    <label>SubscriberChanges</label>
+    <outcome>
+        <field>Subscriber</field>
+        <goal>Minimize</goal>
+        <label>SubscriberChangeOutcome</label>
+        <successValue>Success</successValue>
+        <type>Numerical</type>
+    </outcome>
+    <sourceContainer>01X00000000xxxx1AB</sourceContainer>
+    <sourceType>AnalyticsDataset</sourceType>
+</DiscoveryStory>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

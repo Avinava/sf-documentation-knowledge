@@ -5,11 +5,14 @@ topic: connectapicdpsegmentactionoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.276Z
-keywords: [ConnectApi.CdpSegmentActionOutput]
+lastCollected: 2026-03-12T05:14:26.556Z
+estimatedTokens: 199
+keywords: [ConnectApi.CdpSegmentActionOutput, Segment, action.]
 ---
 
 # ConnectApi.CdpSegmentActionOutput
+
+> Segment action.
 
 # ConnectApi.CdpSegmentActionOutput
 
@@ -26,3 +29,8 @@ Subclass of [ConnectApi.CdpActionResponse](atlas.en-us.apexref.meta/apexref/apex
 | publishStatus | String | Publish status of the segment. | 57.0 |
 | segmentApiName | String | API name of the segment. | 59.0 |
 | segmentId | String | ID of the segment. | 56.0 |
+
+## Related Topics
+
+- ConnectApi.CdpActionResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_action_response_base.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

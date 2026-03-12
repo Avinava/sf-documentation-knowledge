@@ -5,11 +5,18 @@ topic: apex-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.677Z
-keywords: [Apex, Transactions, Note, How, Useful?, Example]
+lastCollected: 2026-03-12T05:14:34.123Z
+estimatedTokens: 870
+keywords: [Apex, Transactions, transaction, represents, set, operations, executed, single, unit., DML, must, complete, successfully., error, occurs, operation, entire, rolled, back, data]
 ---
 
 # Apex Transactions
+
+> An Apex transaction represents a set of operations that are executed as a
+        single unit. All DML operations in a transaction must complete successfully. If an error
+        occurs in one operation, the entire transaction is rolled back and no data is committed to
+        the database. The boundary of a transaction can be a trigger, a class method, an anonymous
+        block of code, a Visualforce page, or a custom Web service method.
 
 # Apex Transactions
 
@@ -45,4 +52,45 @@ This definition is the invoice method. The update of total inventory causes an e
 
 ```
 
+```
+
+## Code Examples
+
+```
+// Only 1,000 pencils are in stock.
+// Purchasing 5,000 pencils cause the validation rule to fail,
+// which results in an exception in the invoice method.
+Id invoice = MerchandiseOperations.invoice('Pencils', 5000, 'test 1');
+```
+
+```apex
+public class MerchandiseOperations {
+    public static Id invoice( String pName, Integer pSold, String pDesc) {
+        // Retrieve the pencils sample merchandise
+        Merchandise__c m = [SELECT Price__c,Total_Inventory__c
+            FROM Merchandise__c WHERE Name = :pName LIMIT 1];
+        // break if no merchandise is found
+        System.assertNotEquals(null, m);
+        // Add a new invoice
+        Invoice_Statement__c i = new Invoice_Statement__c(
+            Description__c = pDesc);
+        insert i;
+
+        // Add a new line item to the invoice
+        Line_Item__c li = new Line_Item__c(
+            Name = '1',
+            Invoice_Statement__c = i.Id,
+            Merchandise__c = m.Id,
+            Unit_Price__c = m.Price__c,
+            Units_Sold__c = pSold);
+        insert li;
+
+        // Update the inventory of the merchandise item 
+        m.Total_Inventory__c -= pSold;
+        // This causes an exception due to the validation rule
+        // if there is not enough inventory.
+        update m;
+        return i.Id;
+    }
+}
 ```

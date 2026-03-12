@@ -5,11 +5,14 @@ topic: connectapirecommendationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:39.872Z
-keywords: [ConnectApi.RecommendationDefinition, See]
+lastCollected: 2026-03-12T05:14:28.797Z
+estimatedTokens: 317
+keywords: [ConnectApi.RecommendationDefinition, Represents, custom, recommendation, definition.]
 ---
 
 # ConnectApi.RecommendationDefinition
+
+> Represents a custom recommendation definition.
 
 # ConnectApi.RecommendationDefinition
 
@@ -29,5 +32,12 @@ Represents a custom recommendation definition.
 #### See Also
 
 -   [ConnectApi.RecommendationDefinitionPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_definition_collection.htm "A list of custom recommendation definitions.")
-    
+
 -   [ConnectApi.ScheduledRecommendation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scheduled_recommendation.htm "Represents a scheduled custom recommendation.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Photo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_photo.htm)
+- ConnectApi.RecommendationDefinitionPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_definition_collection.htm)
+- ConnectApi.ScheduledRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scheduled_recommendation.htm)

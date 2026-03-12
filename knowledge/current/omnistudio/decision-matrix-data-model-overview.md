@@ -4,12 +4,16 @@ domain: omnistudio
 topic: decision-matrix-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.582Z
-keywords: [Decision, Matrix, Data, Model, Overview]
+docType: concept
+lastCollected: 2026-03-12T05:14:51.841Z
+estimatedTokens: 155
+keywords: [Decision, Matrix, Data, Model, Overview, objects, relationships, within, data, model.]
 ---
 
 # Decision Matrix Data Model Overview
+
+> Learn about the objects and relationships within the Decision Matrix data
+    model.
 
 # Decision Matrix Data Model Overview
 

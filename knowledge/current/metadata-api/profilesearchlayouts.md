@@ -5,11 +5,17 @@ topic: profilesearchlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.105Z
-keywords: [ProfileSearchLayouts, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Note, See]
+lastCollected: 2026-03-12T05:14:41.956Z
+estimatedTokens: 665
+keywords: [ProfileSearchLayouts, Represents, user, profile’s, search, results, layouts, object., similar, SearchLayouts., However, profile-specific, profile, different, layout, File, Suffix, Directory, Location, Version]
 ---
 
 # ProfileSearchLayouts
+
+> Represents a user profile’s search results layouts
+            for an object. ProfileSearchLayouts are similar to
+                SearchLayouts. However, with profile-specific layouts, each
+            user profile can have a different search results layout for an object.
 
 # ProfileSearchLayouts
 
@@ -50,3 +56,33 @@ To deploy a profile-specific search results layout, the profile must be defined 
 #### See Also
 
 -   [SearchLayouts](atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm "Represents the metadata associated with the search layouts for an object. You can customize which fields to display for users in search results, search filter fields, lookup dialogs, and recent record lists on tab home pages. You can access SearchLayouts only by accessing its encompassing CustomObject.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+                <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+                . . .
+                <profileSearchLayouts>
+                <fields>ACCOUNT.NAME</fields>
+                <fields>ACCOUNT.SITE</fields>
+                <fields>ACCOUNT.PHONE1</fields>
+                <fields>CORE.USERS.ALIAS</fields>
+                <fields>ACCOUNT.ADDRESS2_CITY</fields>
+                <profileName>System Administrator</profileName>
+                </profileSearchLayouts>
+                <profileSearchLayouts>
+                <fields>ACCOUNT.NAME</fields>
+                <fields>ACCOUNT.SITE</fields>
+                <profileName>WDC Only User</profileName>
+                </profileSearchLayouts>
+                . . .
+                </CustomObject>
+```
+
+## Related Topics
+
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_recordtype.htm)
+- SearchLayouts (atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm)

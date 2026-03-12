@@ -5,11 +5,14 @@ topic: query-context-record-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.956Z
-keywords: [Query, Context, Record, POST]
+lastCollected: 2026-03-12T05:14:49.422Z
+estimatedTokens: 296
+keywords: [Query, Context, Record, POST, context, record, option, retrieve, child, records.]
 ---
 
 # Query Context Record (POST)
+
+> Query a context record, with the option to retrieve child records.
 
 # Query Context Record (POST)
 
@@ -69,3 +72,28 @@ Properties
 Response body for POST
 
 [Query Context Record Result](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_query_context_record_result.htm "Output representation of query result context record.")
+
+## Code Examples
+
+```
+/connect/contexts/query-record
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/contexts/query-record
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/contexts/query-record?children=false
+```
+
+```
+{
+  "contextId": "7bc695bc-f38b-4a94-8a95-0caa50f3da53"
+}
+```
+
+## Related Topics
+
+- Query
+              Context Record Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_query_context_record_result.htm)

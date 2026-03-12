@@ -5,11 +5,15 @@ topic: assessmentquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.655Z
-keywords: [AssessmentQuestion, Parent, Type, File, Suffix, Directory, Location, Version, Fields, AssessmentQuestionVersion​​, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+lastCollected: 2026-03-12T05:14:37.040Z
+estimatedTokens: 1511
+keywords: [AssessmentQuestion, Represents, container, stores, questions, required, assessment., Parent, File, Suffix, Directory, Location, Version, Fields, AssessmentQuestionVersion​​, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # AssessmentQuestion
+
+> Represents the container object that stores the questions
+			required for an assessment.
 
 # AssessmentQuestion
 
@@ -81,13 +85,13 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 Before you retrieve assessment questions, we recommend that you review these considerations.
 
 -   When you retrieve an assessment question, you also get the related assessment question version with the status Active..
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-    
+
     #### Note
-    
+
     If an active assessment question version doesn’t exist for the assessment question, then the latest assessment question version with Status as Draft is retrieved.
-    
+
 -   The value for the <status> tag in the XML definition must match the status of the related assessment question version.
 -   If an assessment question has a related assessment question (parent question), the XML definition must include the developer name of the related assessment question.
 -   If the fields of an assessment question contain values, the XML definition must contain tags with those values when retrieving it.
@@ -99,3 +103,44 @@ Before you deploy assessment questions, we recommend that you review these consi
 -   If the <versionNumber> tag is present in the XML definition of an assessment question, deploying creates a version for that question in the target org.
 -   If the Related Questions aren’t available in target org but available in the package, then deploying the questions inserts the Related Questions in the correct order.
 -   If the assessment questions are associated with flows of type Discovery Framework Data Capture Flow, then deploy the assessment questions first. After deploying the assessment questions, deploy the flows.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<assessmentQuestionVersion>
+		<additionalInformation>ParentQuestionDevName AI</additionalInformation>
+		<description>ParentQuestionDevName Desc</description>
+		<helpText>ParentQuestionDevName HT</helpText>
+		<isActive>true</isActive>
+		<name>ParentQuestionDevName</name>
+		<optionSourceResponseValue>true</optionSourceResponseValue>
+		<questionText>ParentQuestionDevName Text</questionText>
+		<status>Active</status>
+		<versionNumber>1</versionNumber>
+	</assessmentQuestionVersion>
+	<dataType>DateTime</dataType>
+	<developerName>ParentQuestionDevName</developerName>
+	<name>ParentQuestionDevName</name>
+	<questionCategory>Demographic</questionCategory>
+</AssessmentQuestion>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>AssessmentQuestion</name>
+	</types>
+	<version>55.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

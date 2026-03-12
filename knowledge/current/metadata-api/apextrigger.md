@@ -5,11 +5,17 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.950Z
-keywords: [ApexTrigger, Supported, Calls, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:43.282Z
+estimatedTokens: 952
+keywords: [ApexTrigger, Represents, Apex, trigger., trigger, code, executes, before, after, specific, data, manipulation, language, DML, events, occur, such, records, inserted, database]
 ---
 
 # ApexTrigger
+
+> Represents an Apex trigger. A trigger is Apex code that
+      executes before or after specific data manipulation language (DML) events occur, such as
+      before object records are inserted into the database, or after records have been
+    deleted.
 
 # ApexTrigger
 
@@ -66,3 +72,31 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [ApexClass](atlas.en-us.api_meta.meta/api_meta/meta_classes.htm "Represents an Apex class. An Apex class is a template or blueprint from which Apex objects are created. Classes consist of other classes, user-defined methods, variables, exception types, and static initialization code.")
+
+## Code Examples
+
+```
+trigger helloWorldAccountTrigger on Account (before insert) {
+
+  Account[] accs = Trigger.new;
+
+   MyHelloWorld.addHelloWorld(accs);
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>66.0</apiVersion>
+</ApexTrigger>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- CRUD-Based Calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- PackageVersion (atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ApexClass (atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)

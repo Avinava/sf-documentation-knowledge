@@ -5,11 +5,15 @@ topic: engagement-attendee-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.233Z
-keywords: [Engagement, Attendee, Create, Input]
+lastCollected: 2026-03-12T05:14:48.332Z
+estimatedTokens: 431
+keywords: [Engagement, Attendee, Create, Input, representation, create, engagement, attendee, record.]
 ---
 
 # Engagement Attendee Create Input
+
+> Input representation to create an engagement attendee
+    record.
 
 # Engagement Attendee Create Input
 
@@ -41,3 +45,48 @@ Properties
 | role | String | The role of an engagement attendee. | Optional | 55.0 |
 | startDateTime | String | The date and time when an engagement with an attendee started. | Required | 55.0 |
 | verificationTime | String | The time when an attendee was verified for an engagement interaction. | Optional | 55.0 |
+
+## Code Examples
+
+```
+{
+  "engagementAttendees": [
+    {
+      "startDateTime": "2022-04-17T12:00:00.000Z",
+      "endDateTime": "2022-04-17T12:04:00.000Z",
+      "externalAttendeeId": "TEST_EXTERNAL_ATTENDEE_ID",
+      "internalAttendeeId": "TEST_INTERNAL_ATTENDEE_ID",
+      "role": "Self",
+      "verificationTime": "2022-04-17T12:02:00.000Z",
+      "isAuthenticated": true,
+      "isVerified": true,
+      "customFieldsList": [
+        {
+          "key": "sampleCheckBox__c",
+          "value": true
+        },
+        {
+          "key": "sampleDateTime__c",
+          "value": "2022-04-17T12:00:00.000Z"
+        },
+        {
+          "key": "sampleEmail__c",
+          "value": "sample@email.com"
+        },
+        {
+          "key": "sampleLocation__c",
+          "value": {
+            "latitude": 12,
+            "longitude": 17
+          }
+        }
+      ]
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Engagement Custom Fields
+                        Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_custom_fields_input.htm)

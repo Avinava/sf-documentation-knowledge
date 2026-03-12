@@ -5,11 +5,15 @@ topic: connectapilocationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.253Z
-keywords: [ConnectApi.LocationInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.052Z
+estimatedTokens: 113
+keywords: [ConnectApi.LocationInputRepresentation, Inventory, location, data, used, calculate, shipping, distance.]
 ---
 
 # ConnectApi.LocationInputRepresentation
+
+> Inventory location data used to calculate shipping
+    distance.
 
 # ConnectApi.LocationInputRepresentation
 
@@ -20,3 +24,7 @@ Inventory location data used to calculate shipping distance.
 | countryCode | String | The country code of the location. | Required | 51.0 |
 | locationIdentifier | String | The identifier of the location. | Required | 51.0 |
 | postalCode | String | The postal code of the location. | Required | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

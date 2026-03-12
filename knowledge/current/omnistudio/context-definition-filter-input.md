@@ -5,11 +5,14 @@ topic: context-definition-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.106Z
-keywords: [Context, Definition, Filter, Input]
+lastCollected: 2026-03-12T05:14:48.149Z
+estimatedTokens: 362
+keywords: [Context, Definition, Filter, Input, representation, details, context, definition, filter.]
 ---
 
 # Context Definition Filter Input
+
+> Input representation details of context definition filter.
 
 # Context Definition Filter Input
 
@@ -31,3 +34,15 @@ Properties
 | filterName | String | Display name for the context definition filter. | Required | 65.0 |
 | filtersPerNode | String | A JSON string representation of the filter condition logic that defines the filter criteria. This field contains the structured query conditions that's evaluated to determine which records match the filter. The JSON structure typically includes field names, operators, and values that form the filter expression. | Required | 65.0 |
 | inheritedFrom | String | Source context definition if filter is inherited in the GET request. This field is not applicable for POST request. | Optional | 65.0 |
+
+## Code Examples
+
+```
+{
+      "description": "Updated",
+      "filterApiName": "FilterAccount",
+      "filterName":"FilterAccount",
+      "filtersPerNode": "{"Account":{"filterCondition":{"attribute":"City","operator":"EQUALS","operands":[{"value":"Bengaluru","type":"STRING"}],"composite":false},"orderByConditions":[{"orderByAttribute":"Name","ascending":false,"nullsFirst":false}],"limit":5}}",
+      "contextDefinitionVersionId": "11pxx0000004VmmAAE"
+    }
+```

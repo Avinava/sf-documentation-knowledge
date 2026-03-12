@@ -5,11 +5,14 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.214Z
-keywords: [ApexComponent, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:37.846Z
+estimatedTokens: 738
+keywords: [ApexComponent, Represents, Visualforce, component., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Wildcard, Support, Manifest]
 ---
 
 # ApexComponent
+
+> Represents a Visualforce component.
 
 # ApexComponent
 
@@ -47,3 +50,13 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [ApexPage](atlas.en-us.api_meta.meta/api_meta/meta_pages.htm "Represents a Visualforce page.")
+
+## Related Topics
+
+- StaticResource:
+     MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_staticresource.htm)
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- PackageVersion (atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ApexPage (atlas.en-us.api_meta.meta/api_meta/meta_pages.htm)

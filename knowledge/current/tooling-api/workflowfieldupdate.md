@@ -5,11 +5,15 @@ topic: workflowfieldupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.984Z
-keywords: [WorkflowFieldUpdate, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.131Z
+estimatedTokens: 656
+keywords: [WorkflowFieldUpdate, Represents, workflow, field, update., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # WorkflowFieldUpdate
+
+> Represents a workflow field
+            update.
 
 # WorkflowFieldUpdate
 
@@ -41,3 +45,8 @@ DELETE, GET, PATCH, POST
 | Name | TypestringPropertiesFilter, Group, idLookup, SortDescriptionThe name of the workflow field update. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace of the package containing the workflow field update object. |
 | SourceTableEnumOrId | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe enum (for example, Account) or ID of the object this workflow field update is on. |
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)
+- FieldDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm)

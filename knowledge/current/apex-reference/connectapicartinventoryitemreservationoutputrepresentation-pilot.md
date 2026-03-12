@@ -5,11 +5,14 @@ topic: connectapicartinventoryitemreservationoutputrepresentation-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.109Z
-keywords: [ConnectApi.CartInventoryItemReservationOutputRepresentation, Pilot, Note]
+lastCollected: 2026-03-12T05:14:26.313Z
+estimatedTokens: 341
+keywords: [ConnectApi.CartInventoryItemReservationOutputRepresentation, Pilot, Inventory, item, reservation., Note]
 ---
 
 # ConnectApi.CartInventoryItemReservationOutputRepresentation (Pilot)
+
+> Inventory item reservation.
 
 # ConnectApi.CartInventoryItemReservationOutputRepresentation (Pilot)
 
@@ -30,3 +33,8 @@ This feature is not generally available and is being piloted with certain Custom
 | productId | String | Product ID for this reservation item. | 58.0 |
 | quantity | Double | Quantity for this reservation item. | 58.0 |
 | reservedAt​LocationId | String | Reserved at location or group ID for this reservation item. | 58.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

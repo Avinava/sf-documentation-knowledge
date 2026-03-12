@@ -5,11 +5,14 @@ topic: get-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.761Z
-keywords: [Get, Records, sObject, Rows, External, Note, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.138Z
+estimatedTokens: 416
+keywords: [Get, Records, sObject, Rows, External, Retrieves, record, based, specified, external, field., Note, Syntax, Example]
 ---
 
 # Get Records Using sObject Rows by External ID
+
+> Retrieves a record based on the value of the specified external ID field.
 
 # Get Records Using sObject Rows by External ID
 
@@ -60,3 +63,7 @@ For an example of retrieving a record based on an external ID, see [Get a Record
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Get a Record Using an External ID (atlas.en-us.api_rest.meta/api_rest/using_resources_retrieve_with_externalid.htm)

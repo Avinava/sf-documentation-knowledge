@@ -5,11 +5,14 @@ topic: connectapicartpromotionoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.160Z
-keywords: [ConnectApi.CartPromotionOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.383Z
+estimatedTokens: 216
+keywords: [ConnectApi.CartPromotionOutputRepresentation, promotion, associated, cart.]
 ---
 
 # ConnectApi.CartPromotionOutputRepresentation
+
+> A promotion associated with a cart.
 
 # ConnectApi.CartPromotionOutputRepresentation
 
@@ -24,3 +27,8 @@ A promotion associated with a cart.
 | promotionId | String | ID of the promotion. | 53.0 |
 | targetType | ConnectApi.​CartPromotion​Type | Promotion target type. Values are:Cart—Promotion targets a cart.Item—Promotion targets an item in a cart. | 53.0 |
 | termsAndConditions | String | Localized terms and conditions for the promotion. | 53.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CartPromotion​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

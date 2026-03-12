@@ -5,11 +5,16 @@ topic: contextattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.380Z
-keywords: [ContextAttribute, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.643Z
+estimatedTokens: 746
+keywords: [ContextAttribute, Represents, information, attribute, used, describe, context, node., node, many, attributes, associated, it., API, version, 59.0, later., Supported, SOAP, Calls]
 ---
 
 # ContextAttribute
+
+> Represents information about an attribute used to describe a context node.
+         Each node can have one or many attributes associated with it.  This object is
+      available in API version 59.0 and later.
 
 # ContextAttribute
 

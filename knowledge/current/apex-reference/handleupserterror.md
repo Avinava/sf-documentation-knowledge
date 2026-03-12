@@ -5,11 +5,15 @@ topic: handleupserterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.558Z
-keywords: [HandleUpsertError, Signature, Return, Value, Examples]
+lastCollected: 2026-03-12T05:14:29.743Z
+estimatedTokens: 173
+keywords: [HandleUpsertError, Helper, constructs, error, response, upsert, partyIncome, partyExpense, record., Examples]
 ---
 
 # HandleUpsertError
+
+> Helper method that constructs the error response for upsert of a
+            partyIncome or partyExpense record.
 
 # HandleUpsertError
 

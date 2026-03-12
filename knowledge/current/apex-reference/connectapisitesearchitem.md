@@ -5,11 +5,14 @@ topic: connectapisitesearchitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.011Z
-keywords: [ConnectApi.SiteSearchItem, See]
+lastCollected: 2026-03-12T05:14:28.997Z
+estimatedTokens: 222
+keywords: [ConnectApi.SiteSearchItem, Site, search, result, item.]
 ---
 
 # ConnectApi.SiteSearchItem
+
+> Site search result item.
 
 # ConnectApi.SiteSearchItem
 
@@ -27,3 +30,9 @@ Site search result item.
 #### See Also
 
 -   [ConnectApi.SiteSearchResult](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_site_search_result.htm "Site search result.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​SitesPageType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.SiteSearchResult (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_site_search_result.htm)

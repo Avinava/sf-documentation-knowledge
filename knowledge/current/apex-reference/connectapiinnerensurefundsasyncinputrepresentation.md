@@ -5,11 +5,15 @@ topic: connectapiinnerensurefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.231Z
-keywords: [ConnectApi.InnerEnsureFundsAsyncInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.016Z
+estimatedTokens: 473
+keywords: [ConnectApi.InnerEnsureFundsAsyncInputRepresentation, Invoice, associated, OrderSummary.]
 ---
 
 # ConnectApi.InnerEnsureFundsAsyncInputRepresentation
+
+> ID of an Invoice and ID of the associated
+    OrderSummary.
 
 # ConnectApi.InnerEnsureFundsAsyncInputRepresentation
 
@@ -26,5 +30,12 @@ ID of an Invoice and ID of the associated OrderSummary.
 #### See Also
 
 -   [multipleEnsureFundsAsync(multipleEnsureFundsInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm#apex_ConnectAPI_OrderSummary_multipleEnsureFundsAsync_1 "Ensure and apply funds for one or more Invoices. If needed, capture authorized funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and do not affect the background operation status.")
-    
+
 -   [ConnectApi.MultipleEnsureFundsAsyncInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_multiple_ensure_funds_async.htm "List of Invoices and the associated OrderSummaries.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- multipleEnsureFundsAsync(multipleEnsureFundsInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm)
+- ConnectApi.MultipleEnsureFundsAsyncInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_multiple_ensure_funds_async.htm)

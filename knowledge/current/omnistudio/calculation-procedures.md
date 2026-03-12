@@ -5,11 +5,16 @@ topic: calculation-procedures
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.620Z
-keywords: [Calculation, Procedures, Note]
+lastCollected: 2026-03-12T05:14:48.919Z
+estimatedTokens: 301
+keywords: [Calculation, Procedures, Get, list, expression, known, calculation, procedure, based, search, text., API, maximum, ten, set, records, contain, specified, keyword., Note]
 ---
 
 # Calculation Procedures
+
+> Get a list of expression sets (also known as calculation procedure)
+      based on a search text. The API returns a maximum of ten expression set records that contain
+      the specified keyword.
 
 # Calculation Procedures
 
@@ -54,3 +59,17 @@ Request parameters for GET
 Response body for GET
 
 [Calculation Procedure List Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_list_output.htm "Output representation of the expression set result list.")
+
+## Code Examples
+
+```
+/connect/omnistudio/evaluation-services
+```
+
+```
+/services/data/v53.0/connect/omnistudio/evaluation-services?searchKey=Expression
+```
+
+## Related Topics
+
+- Calculation Procedure List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_list_output.htm)

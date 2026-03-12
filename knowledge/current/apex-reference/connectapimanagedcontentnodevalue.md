@@ -5,11 +5,14 @@ topic: connectapimanagedcontentnodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.174Z
-keywords: [ConnectApi.ManagedContentNodeValue, See]
+lastCollected: 2026-03-12T05:14:27.824Z
+estimatedTokens: 360
+keywords: [ConnectApi.ManagedContentNodeValue, Managed, content, node.]
 ---
 
 # ConnectApi.ManagedContentNodeValue
+
+> Managed content node.
 
 # ConnectApi.ManagedContentNodeValue
 
@@ -32,3 +35,13 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.ManagedContentVersion](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_version.htm "Managed content version.")
+
+## Related Topics
+
+- ConnectApi.ManagedContentDateAndTimeNodeValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_date_and_time_node_value.htm)
+- ConnectApi.ManagedContentDateNodeValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_date_node_value.htm)
+- ConnectApi.ManagedContentMediaNodeValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_media_node_value.htm)
+- ConnectApi.ManagedContentMediaSourceNodeValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_media_source_node_value.htm)
+- ConnectApi.ManagedContentTextNodeValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_text_node_value.htm)
+- ConnectApi.​ManagedContent​NodeType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ManagedContentVersion (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_version.htm)

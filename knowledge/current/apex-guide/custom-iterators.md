@@ -5,11 +5,17 @@ topic: custom-iterators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.573Z
-keywords: [Custom, Iterators, Iterable]
+lastCollected: 2026-03-12T05:14:32.591Z
+estimatedTokens: 500
+keywords: [Custom, Iterators, Iterator, create, custom, set, instructions, traversing, List, through, loop., iterator, useful, data, exists, sources, outside, Salesforce, would, normally]
 ---
 
 # Custom Iterators
+
+> Using the Iterator interface you can create a custom set
+            of instructions for traversing a List through a loop. The iterator is useful for data
+            that exists in sources outside of Salesforce that you would normally define the scope of
+            using a SELECT statement. Iterat
 
 # Custom Iterators
 
@@ -66,4 +72,79 @@ The following is a batch job that uses an iterator:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+while (count < 11) {
+   System.debug(count);
+      count++;
+   }
+```
+
+```
+IterableString x = new IterableString('This is a really cool test.');
+
+while(x.hasNext()){
+   system.debug(x.next());
+}
+```
+
+```apex
+public class CustomIterator
+   implements Iterator<Account>{ 
+ 
+   private List<Account> accounts;
+   private Integer currentIndex;
+ 
+   public CustomIterator(List<Account> accounts){
+       this.accounts = accounts;
+       this.currentIndex = 0;
+   }
+ 
+   public Boolean hasNext(){ 
+       return currentIndex < accounts.size();
+   }    
+ 
+   public Account next(){
+       if(hasNext()) {
+           return accounts[currentIndex++];
+       } else {
+           throw new NoSuchElementException('Iterator has no more elements.');
+       }
+   } 
+}
+```
+
+```apex
+public class CustomIterable implements Iterable<Account> {
+   public Iterator<Account> iterator(){
+      List<Account> accounts =
+      [SELECT Id, Name,
+       NumberOfEmployees 
+       FROM Account
+       LIMIT 10];
+      return new CustomIterator(accounts);
+   }
+}
+```
+
+```apex
+public class BatchClass implements Database.Batchable<Account>{
+   public Iterable<Account> start(Database.BatchableContext info){
+       return new CustomIterable();
+   }
+   public void execute(Database.BatchableContext info, List<Account> scope){
+       List<Account> accsToUpdate = new List<Account>();
+       for(Account acc : scope){
+           acc.Name = 'changed';
+           acc.NumberOfEmployees = 69;
+           accsToUpdate.add(acc);
+       }
+       update accsToUpdate;
+   }
+   public void finish(Database.BatchableContext info){
+   }
+}
 ```

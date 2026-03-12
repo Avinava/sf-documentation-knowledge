@@ -5,11 +5,14 @@ topic: connectapibaseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.018Z
-keywords: [ConnectApi.BaseOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.177Z
+estimatedTokens: 2217
+keywords: [ConnectApi.BaseOutputRepresentation, Base, Order, Management, output, class.]
 ---
 
 # ConnectApi.BaseOutputRepresentation
+
+> Base Order Management output class.
 
 # ConnectApi.BaseOutputRepresentation
 
@@ -57,3 +60,16 @@ Superclass of:
 | --- | --- | --- | --- |
 | errors | List<ConnectApi.​ErrorResponse> | Any errors that were returned. | 48.0 |
 | success | Boolean | Indicates whether the transaction was successful. | 48.0 |
+
+## Related Topics
+
+- ConnectApi.AdjustOrderSummaryOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_adjust_order_summary_output.htm)
+- ConnectApi.BaseAsyncOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_async_output.htm)
+- ConnectApi.BaseInvoiceOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_invoice_output.htm)
+- ConnectApi.ConfirmHeldFOCapacityOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_confirm_held_f_o_capacity_output.htm)
+- ConnectApi.CreateCreditMemoOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_create_credit_memo_output.htm)
+- ConnectApi.CreateMultipleInvoicesFromChangeOrdersOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_create_multiple_invoices_from_change_orders_output.htm)
+- ConnectApi.CreateOrderPaymentSummaryOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_create_order_payment_summary_output.htm)
+- ConnectApi.EnsureFundsAsyncOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ensure_funds_async_output.htm)
+- ConnectApi.EnsureRefundsAsyncOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ensure_refunds_async_output.htm)
+- ConnectApi.FindRoutesWithFewestSplitsOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_find_routes_with_fewest_splits_output.htm)

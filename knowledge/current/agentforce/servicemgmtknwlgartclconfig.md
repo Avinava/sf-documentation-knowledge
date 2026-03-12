@@ -4,12 +4,16 @@ domain: agentforce
 topic: servicemgmtknwlgartclconfig
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:08:18.004Z
-keywords: [ServiceMgmtKnwlgArtclConfig, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:15.220Z
+estimatedTokens: 441
+keywords: [ServiceMgmtKnwlgArtclConfig, Represents, collection, settings, configure, Service, Management, Knowledge., Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # ServiceMgmtKnwlgArtclConfig
+
+> Represents a collection of settings to configure Service Management
+         Knowledge. This object is available in API version 65.0 and later.
 
 # ServiceMgmtKnwlgArtclConfig
 
@@ -33,3 +37,27 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | MasterLabel | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe UI label of the record. |
 | RootCauseField | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe developer name of the field where the root cause details are stored for Service Management Knowledge. |
 | WorkAroundField | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe developer name of the field where the workaround details are stored for Service Management Knowledge. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceMgmtKnwlgArtclConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+	<isProtected>false</isProtected>
+	<knowledgeArticleRecordType>012al000002z0wPAAQ</knowledgeArticleRecordType>
+	<masterLabel>ITSM Knowledge Config</masterLabel>
+	<rootCauseField>RootCause__c</rootCauseField>
+	<workAroundField>Workaround__c</workAroundField>
+</ServiceMgmtKnwlgArtclConfig>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>
+         <members>*</members>
+         <name>ServiceMgmtKnwlgArtclConfig</name>
+     </types>
+     <version>64.0</version>
+</Package>
+```

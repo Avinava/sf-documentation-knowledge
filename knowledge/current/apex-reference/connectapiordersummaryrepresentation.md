@@ -5,11 +5,14 @@ topic: connectapiordersummaryrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.498Z
-keywords: [ConnectApi.OrderSummaryRepresentation, See]
+lastCollected: 2026-03-12T05:14:28.268Z
+estimatedTokens: 260
+keywords: [ConnectApi.OrderSummaryRepresentation, Order, summary.]
 ---
 
 # ConnectApi.OrderSummaryRepresentation
+
+> Order summary.
 
 # ConnectApi.OrderSummaryRepresentation
 
@@ -30,3 +33,12 @@ Order summary.
 #### See Also
 
 -   [ConnectApi.OrderSummaryCollectionRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary_collection.htm "Collection of order summaries.")
+
+## Related Topics
+
+- ConnectApi.​OrderSummary​AdjustmentAggregates (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary_adjustment_aggregates.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordField.htm)
+- ConnectApi.OrderSummaryCollectionRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary_collection.htm)

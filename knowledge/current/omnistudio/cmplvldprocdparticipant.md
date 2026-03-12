@@ -5,11 +5,16 @@ topic: cmplvldprocdparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.836Z
-keywords: [CmplVldProcdParticipant, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.766Z
+estimatedTokens: 773
+keywords: [CmplVldProcdParticipant, Represents, Compliant, Data, Sharing, participant, user, group, whom, validation, procedure, shared., API, version, 66.0, later., Supported, Calls, Fields, Associated]
 ---
 
 # CmplVldProcdParticipant
+
+> Represents a Compliant Data Sharing participant user or group with whom a
+         validation procedure is shared. This object is available in API version 66.0 and
+      later.
 
 # CmplVldProcdParticipant
 
@@ -42,3 +47,8 @@ Change events are available for the object.
 [CmplVldProcdParticipantHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- CmplVldProcdParticipantChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CmplVldProcdParticipantHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

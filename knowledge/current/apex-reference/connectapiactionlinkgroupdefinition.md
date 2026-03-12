@@ -5,11 +5,18 @@ topic: connectapiactionlinkgroupdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.844Z
-keywords: [ConnectApi.ActionLinkGroupDefinition]
+lastCollected: 2026-03-12T05:14:25.955Z
+estimatedTokens: 631
+keywords: [ConnectApi.ActionLinkGroupDefinition, definition, action, link, group., Information, group, sensitive, third, party, example, OAuth, bearer, token, headers, reason, only, calls, made, Apex]
 ---
 
 # ConnectApi.ActionLinkGroupDefinition
+
+> The definition of an action link group. Information in the action link
+      group definition can be sensitive to a third party (for example, OAuth bearer token headers).
+      For this reason, only calls made from the Apex namespace that created the action link group
+      definition can read, modify, or delete the definition. In addition, the user making the call
+      must have created the definition or have View All Data permission.
 
 # ConnectApi.ActionLinkGroupDefinition
 
@@ -26,3 +33,12 @@ The definition of an action link group. Information in the action link group def
 | modifiedDate | Datetime | ISO 8601 date string, for example, 2011-02-25T18:24:31.000Z. | 33.0 |
 | templateId | String | The ID of the action link group template from which to instantiate this action link group, or null if this group isn’t associated with a template. | 33.0 |
 | url | String | The URL for this action link group definition. | 33.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ActionLinkDefinition (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_action_link_definition.htm)
+- ConnectApi.​PlatformAction​GroupCategory (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​ActionLink​ExecutionsAllowed (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

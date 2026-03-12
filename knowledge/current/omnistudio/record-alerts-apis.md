@@ -5,11 +5,15 @@ topic: record-alerts-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.330Z
-keywords: [Record, Alerts, APIs, Note]
+lastCollected: 2026-03-12T05:14:52.947Z
+estimatedTokens: 350
+keywords: [Record, Alerts, APIs, Business, give, users, seamless, API, experience, Alerts., Note]
 ---
 
 # Record Alerts APIs
+
+> Use the Record Alerts Business APIs to give users a seamless API
+      experience for Record Alerts.
 
 # Record Alerts APIs
 
@@ -34,5 +38,15 @@ Available resources are:
 | /recordalerts/ids/actions | Snooze bulk internal record alerts for a specified time period or dismiss them. |
 | /recordalerts/externalIds/actions | Snooze bulk external record alerts for a specified time period or dismiss them. |
 
--   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/record_alerts_apis_rest_references.htm)**  
+-   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/record_alerts_apis_rest_references.htm)**
     You can access Record Alerts APIs using REST endpoints. These REST APIs follow similar conventions as Connect REST APIs.
+
+## Related Topics
+
+- /recordalerts (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_get_record_alerts.htm)
+- /recordalerts/id/${alertId}/actions (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_internal_record_alerts_actions.htm)
+- /recordalerts/externalId/${sourceSystemId}/actions (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_external_record_alerts_actions.htm)
+- /recordalerts/batch (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_get_bulk_record_alerts.htm)
+- /recordalerts/ids/actions (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_internal_bulk_alerts_actions.htm)
+- /recordalerts/externalIds/actions (atlas.en-us.industries_reference.meta/industries_reference/connect_resources_external_bulk_alerts_actions.htm)
+- REST Reference (atlas.en-us.industries_reference.meta/industries_reference/record_alerts_apis_rest_references.htm)

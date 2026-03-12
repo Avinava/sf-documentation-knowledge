@@ -5,11 +5,14 @@ topic: connectapiorderitemsummaryproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.480Z
-keywords: [ConnectApi.OrderItemSummaryProduct, See]
+lastCollected: 2026-03-12T05:14:28.242Z
+estimatedTokens: 229
+keywords: [ConnectApi.OrderItemSummaryProduct, Product, item, mapped, order, summary.]
 ---
 
 # ConnectApi.OrderItemSummaryProduct
+
+> Product item mapped to the order item summary.
 
 # ConnectApi.OrderItemSummaryProduct
 
@@ -28,3 +31,13 @@ Product item mapped to the order item summary.
 #### See Also
 
 -   [ConnectApi.OrderItemSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary.htm "Order item summary.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- ConnectApi.​RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordField.htm)
+- ConnectApi.​ProductMedia (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media.htm)
+- ConnectApi.​ProductAttributeSet​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_summary.htm)
+- ConnectApi.OrderItemSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary.htm)

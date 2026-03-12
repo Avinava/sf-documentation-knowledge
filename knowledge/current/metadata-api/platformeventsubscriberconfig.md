@@ -5,11 +5,15 @@ topic: platformeventsubscriberconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.994Z
-keywords: [PlatformEventSubscriberConfig, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.794Z
+estimatedTokens: 1412
+keywords: [PlatformEventSubscriberConfig, Represents, configuration, settings, platform, event, Apex, trigger, including, batch, size, trigger’s, running, user., Important, File, Suffix, Directory, Location, Version]
 ---
 
 # PlatformEventSubscriberConfig
+
+> Represents configuration settings for a platform event Apex
+      trigger, including the batch size and the trigger’s running user.
 
 # PlatformEventSubscriberConfig
 
@@ -77,3 +81,66 @@ To specify all PlatformEventSubscriberConfig components, use the wildcard charac
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventSubscriberConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <platformEventConsumer>OrderEventTrigger</platformEventConsumer>
+    <batchSize>200</batchSize>
+    <masterLabel>OrderEventTriggerConfig</masterLabel>
+    <user>user@example.com</user>
+    <isProtected>false</isProtected>
+</PlatformEventSubscriberConfig>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>PlatformEventSubscriberConfig</name>
+        <members>OrderEventTriggerConfig</members>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>CustomObject</name>
+        <members>PlatformEvent__e</members>
+    </types>
+    <types>
+        <name>CustomField</name>
+        <members>PlatformEvent__e.Message__c</members>
+    </types>
+    <types>
+        <name>ApexTrigger</name>
+        <members>OrderEventTrigger</members>
+    </types>
+    <types>
+        <name>PlatformEventSubscriberConfig</name>
+        <members>OrderEventTriggerConfig</members>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>PlatformEventSubscriberConfig</name>
+        <members>*</members>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: connectapicapacityrequestinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.863Z
-keywords: [ConnectApi.CapacityRequestInputRepresentation]
+lastCollected: 2026-03-12T05:14:24.449Z
+estimatedTokens: 128
+keywords: [ConnectApi.CapacityRequestInputRepresentation, Request, related, location’s, fulfillment, order, capacity.]
 ---
 
 # ConnectApi.CapacityRequestInputRepresentation
+
+> Request related to a location’s fulfillment order
+    capacity.
 
 # ConnectApi.CapacityRequestInputRepresentation
 
@@ -19,3 +23,7 @@ Request related to a location’s fulfillment order capacity.
 | --- | --- | --- | --- | --- |
 | actionRequestId | String | Unique string that identifies the request. Can be a UUID. Use the action request IDs in response data to identify which requests succeeded or failed. | Required | 55.0 |
 | locationId | String | ID of the location associated with the request. | Required | 55.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

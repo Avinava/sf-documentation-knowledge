@@ -5,11 +5,15 @@ topic: batch-job-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.955Z
-keywords: [Batch, Job, Actions, Supported, REST, HTTP, Methods, Inputs, Outputs, Usage]
+lastCollected: 2026-03-12T05:14:47.941Z
+estimatedTokens: 343
+keywords: [Batch, Job, Actions, Run, active, Management, job, definition., action, executes, defined, asynchronously., Supported, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Batch Job Actions
+
+> Run an active Batch Management job definition. This action executes a
+   defined Batch Management job asynchronously.
 
 # Batch Job Actions
 
@@ -65,4 +69,26 @@ A request body is always required. The input values vary according to the input 
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [{}]
+}
+```
+
+```
+{
+   "noOfEmployees" : 900,
+   "accountIndustry" : "Technology"
+}
+```
+
+```
+{
+   "batchJobId": "0lMxx0000A000001EAA"
+   "accepted": "true"
+}
 ```

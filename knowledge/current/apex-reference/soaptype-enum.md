@@ -5,11 +5,18 @@ topic: soaptype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.423Z
-keywords: [SOAPType, Enum, Namespace, Usage]
+lastCollected: 2026-03-12T05:14:29.549Z
+estimatedTokens: 401
+namespace: Schema
+keywords: [SOAPType, Schema.SOAPType, returned, field, describe, result, getSoapType, method., Usage]
 ---
 
 # SOAPType Enum
+
+> A Schema.SOAPType enum value is returned by the
+  field describe result getSoapType method.
+
+**Namespace:** `Schema`
 
 # SOAPType Enum
 
@@ -39,3 +46,8 @@ To programmatically retrieve the list of valid SOAPType enum values, use this co
 system.debug(SoapType.values().size()); //Gets the number of supported values for (SoapType st : SoapType.values()) system.debug(st);
 
 For more information, see [SOAPTypes](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_describesobjects_describesobjectresult.htm#soaptype_topic "HTML (New Window)") in the SOAP API Developer Guide. For more information about the methods shared by all enums, see [Enum Methods](atlas.en-us.apexref.meta/apexref/apex_methods_system_enum.htm "An enum is an abstract data type with values that each take on exactly one of a finite set of identifiers that you specify. Apex provides built-in enums, such as LoggingLevel, and you can define your own enum.").
+
+## Related Topics
+
+- Schema (atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm)
+- Enum Methods (atlas.en-us.apexref.meta/apexref/apex_methods_system_enum.htm)

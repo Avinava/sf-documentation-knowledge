@@ -5,11 +5,15 @@ topic: knowledgesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.220Z
-keywords: [KnowledgeSettings, File, Suffix, Directory, Location, Version, Fields, KnowledgeAnswerSettings, KnowledgeCaseSettings, KnowledgeSitesSettings, KnowledgeLanguageSettings, KnowledgeLanguage, KnowledgeSuggestedArticlesSettings, KnowledgeCaseFieldsSettings, KnowledgeCaseField, KnowledgeWorkOrderFieldsSettings, KnowledgeWorkOrderField, KnowledgeWorkOrderLineItemFieldsSettings, KnowledgeWorkOrderLineItemField, Declarative]
+lastCollected: 2026-03-12T05:14:40.694Z
+estimatedTokens: 3191
+keywords: [KnowledgeSettings, Represents, metadata, used, manage, settings, Salesforce, Knowledge., File, Suffix, Directory, Location, Version, Fields, KnowledgeAnswerSettings, KnowledgeCaseSettings, KnowledgeSitesSettings, KnowledgeLanguageSettings, KnowledgeLanguage, KnowledgeSuggestedArticlesSettings]
 ---
 
 # KnowledgeSettings
+
+> Represents the metadata used to manage settings for
+      Salesforce Knowledge.
 
 # KnowledgeSettings
 
@@ -183,3 +187,57 @@ This is a sample Knowledge settings file.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<KnowledgeSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <answers>
+        <enableArticleCreation>false</enableArticleCreation>
+    </answers>
+    <cases>
+        <articlePDFCreationProfile>partner portal knowledge profile</articlePDFCreationProfile>
+        <articlePublicSharingSites>
+            <site>KnowledgeSite</site>
+            <site>PKB2Site</site>
+            <site>ChatterAnswersSite</site>
+        </articlePublicSharingSites>
+        <articlePublicSharingSitesChatterAnswers>
+            <site>ChatterAnswersSite</site>
+        </articlePublicSharingSitesChatterAnswers>
+        <assignTo>testall@kb.org</assignTo>
+        <defaultContributionArticleType>Support</defaultContributionArticleType>
+        <editor>simple</editor>
+        <enableArticleCreation>true</enableArticleCreation>
+        <enableArticlePublicSharingSites>true</enableArticlePublicSharingSites>
+        <useProfileForPDFCreation>true</useProfileForPDFCreation>
+    </cases>
+    <defaultLanguage>ja</defaultLanguage>
+    <enableCreateEditOnArticlesTab>true</enableCreateEditOnArticlesTab>
+    <enableExternalMediaContent>true</enableExternalMediaContent>
+    <enableKnowledge>true</enableKnowledge>
+    <showArticleSummariesCustomerPortal>true</showArticleSummariesCustomerPortal>
+    <showArticleSummariesInternalApp>true</showArticleSummariesInternalApp>
+    <showArticleSummariesPartnerPortal>true</showArticleSummariesPartnerPortal>
+    <showValidationStatusField>true</showValidationStatusField>
+    <suggestedArticles>
+      <caseFields>
+         <field>
+            <name>Subject</name>
+         </field>
+         <field>
+            <name>SuppliedEmail</name>
+         </field>
+      </caseFields>
+      <useSuggestedArticlesForCase>true</useSuggestedArticlesForCase>
+    </suggestedArticles>
+</KnowledgeSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

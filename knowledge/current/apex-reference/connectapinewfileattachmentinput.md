@@ -5,11 +5,14 @@ topic: connectapinewfileattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.685Z
-keywords: [ConnectApi.NewFileAttachmentInput, Important]
+lastCollected: 2026-03-12T05:14:24.168Z
+estimatedTokens: 372
+keywords: [ConnectApi.NewFileAttachmentInput, Attach, new, file, feed, item., Important]
 ---
 
 # ConnectApi.NewFileAttachmentInput
+
+> Attach a new file to a feed item.
 
 # ConnectApi.NewFileAttachmentInput
 
@@ -29,3 +32,10 @@ Subclass of [ConnectApi.FeedItemAttachmentInput](atlas.en-us.apexref.meta/apexre
 | --- | --- | --- | --- |
 | description | String | Description of the file to be uploaded. | 28.0–31.0 |
 | title | String | The title of the file. This value is required and is also used as the file name. For example, if the title is My Title, and the file is a .txt file, the file name is My Title.txt. | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.ContentCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_content_capability.htm)
+- BinaryInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_binary.htm)
+- ConnectApi.FeedItemAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_FeedItemAtt.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

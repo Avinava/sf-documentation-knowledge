@@ -5,11 +5,15 @@ topic: sustnuomconversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.781Z
-keywords: [SustnUomConversion, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.045Z
+estimatedTokens: 667
+keywords: [SustnUomConversion, Represents, information, unit, measure, UOM, conversion, custom, fuel, types, defined, customer, org., Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # SustnUomConversion
+
+> Represents information about the unit of measure (UOM)
+			conversion for the custom fuel types defined by a customer in an org.
 
 # SustnUomConversion
 
@@ -60,3 +64,36 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SustnUomConversion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <conversionFactor>0.9</conversionFactor>
+    <fuelType>Diesel</fuelType>
+    <isProtected>false</isProtected>
+    <masterLabel>KG_Liters</masterLabel>
+    <sourceUom>KG</sourceUom>
+    <targetUom>Liters</targetUom>
+    <uomsKey>uomsKey</uomsKey>
+</SustnUomConversion>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pkg</fullName>
+    <types>
+        <members>US_UK_Gallons</members>
+        <members>Therms_kWh</members>
+        <members>KG_Liters</members>
+        <name>SustnUomConversion</name>
+    </types>
+    <version>57.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

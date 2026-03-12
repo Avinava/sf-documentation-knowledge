@@ -5,11 +5,16 @@ topic: rotation-of-s3-credentials-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.559Z
-keywords: [Rotation, Credentials, Metadata, API, Familiarize, Yourself, Salesforce, CLI, Define, Connector, Note, Retrieve, Data, Update, Access, Key, Secret, Create, Connectors, Package]
+lastCollected: 2026-03-12T05:14:12.686Z
+estimatedTokens: 954
+keywords: [Rotation, Credentials, Metadata, API, rotate, credentials, enable, access, AWS., update, must, retrieve, metadata, connectors, modify, deploy, metadata., Familiarize, Yourself, Salesforce]
 ---
 
 # Rotation of S3 Credentials with Metadata API
+
+> Use the Metadata API to rotate the S3 credentials and enable access to AWS. To update
+    the S3 credentials you must retrieve the metadata of S3 connectors, modify the S3 credentials,
+    and deploy the metadata.
 
 # Rotation of S3 Credentials with Metadata API
 
@@ -40,21 +45,21 @@ Refer to [Retrieve S3 Connector Metadata with Salesforce CLI](atlas.en-us.252.0.
 ## Update the S3 Access Key and Secret Key
 
 1.  Extract the contents of the metadata file.
-    
+
     ```
-    
+
     ```
-    
+
     Here’s how the extracted folder structure looks like.
-    
+
     ![S3 data connectore metadata folder structure](/docs/resources/img/en-us/252.0?doc_id=dev_guides%2Fapi_c360a%2Fimages%2Fc360a_s3dataconnector_folderstructure.png&folder=c360a_api)
-    
+
 2.  Edit the files referenced in the s3DataConnectors directory. Update the attributes s3AccessKey and s3SecretKey. Here's a sample of the contents of the files for S3 connectors metadata.
-    
+
     ```
-    
+
     ```
-    
+
 
 ## Create the S3 Connectors Package for Deployment
 
@@ -80,7 +85,65 @@ To verify if the metadata is deployed, refresh an impacted data stream where the
 
 ![Refresh a CDP data stream to check S3 credential update](/docs/resources/img/en-us/252.0?doc_id=dev_guides%2Fapi_c360a%2Fimages%2Fc360a_s3dataconnector_verify.png&folder=c360a_api)
 
--   **[Retrieve S3 Connector Metadata with Salesforce CLI](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_retrieve_s3_connector_metadata_using_salesforce_cli.htm)**  
+-   **[Retrieve S3 Connector Metadata with Salesforce CLI](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_retrieve_s3_connector_metadata_using_salesforce_cli.htm)**
     You can retrieve the metadata of an S3 Connector by using Salesforce CLI.
--   **[Deploy S3 Connector Metadata with Salesforce CLI](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_deploy_s3_connector_metadata_using_salesforce_cli.htm)**  
+-   **[Deploy S3 Connector Metadata with Salesforce CLI](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_deploy_s3_connector_metadata_using_salesforce_cli.htm)**
     Use Salesforce CLI to deploy the metadata package.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Contact_Point_Addr</members>
+        <name>DataConnectorS3</name>
+    </types>
+    <types>
+        <members>Contact_Point_Phone</members>
+        <name>DataConnectorS3</name>
+    </types>
+    <types>
+        <members>Contact_Point_Email</members>
+        <name>DataConnectorS3</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```
+
+```
+mkdir <location to unzip>
+cd <location to unzip>
+unzip <filename.zip to unzip> (the default filename will be unpackaged.xml)
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DataConnectorS3 xmlns="http://soap.sforce.com/2006/04/metadata">
+    <delimiter>,</delimiter>
+    <fileNameWildcard>ContactPointEmail_*.csv</fileNameWildcard>
+    <importFromDirectory>DTX_2020_01/ContactPointEmail/</importFromDirectory>
+    <masterLabel>Contact_Contact_Point_Email_DTX_01</masterLabel>
+    <s3AccessKey>*</s3AccessKey>
+    <s3BucketName>asd-aws-s3-bucket-01</s3BucketName>
+    <s3SecretKey>*</s3SecretKey>
+</DataConnectorS3>
+```
+
+```
+cd <location of unzipped files>
+zip -r -X s3Connectors.zip *
+```
+
+```
+adding: package.xml (deflated 60%)
+  adding: s3DataConnectors/ (stored 0%)
+  adding: s3DataConnectors/Contact_Contact_Point_Addr_DTX_01.s3DataConnector (deflated 43%)
+  adding: s3DataConnectors/Contact_Contact_Point_Phone_DTX_01.s3DataConnector (deflated 43%)
+  adding: s3DataConnectors/Contact_Contact_Point_Email_DTX_01.s3DataConnector (deflated 43%)
+```
+
+## Related Topics
+
+- Retrieve S3 Connector Metadata with Salesforce CLI (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_retrieve_s3_connector_metadata_using_salesforce_cli.htm)
+- Deploy S3 Connector Metadata with Salesforce CLI (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_deploy_s3_connector_metadata_using_salesforce_cli.htm)

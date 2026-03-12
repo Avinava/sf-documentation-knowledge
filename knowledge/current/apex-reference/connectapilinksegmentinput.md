@@ -5,11 +5,14 @@ topic: connectapilinksegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.248Z
-keywords: [ConnectApi.LinkSegmentInput, See]
+lastCollected: 2026-03-12T05:14:25.046Z
+estimatedTokens: 143
+keywords: [ConnectApi.LinkSegmentInput, Include, link, segment, feed, item, comment.]
 ---
 
 # ConnectApi.LinkSegmentInput
+
+> Include a link segment in a feed item or comment.
 
 # ConnectApi.LinkSegmentInput
 
@@ -24,3 +27,9 @@ Subclass of [ConnectApi.MessageSegmentInput](atlas.en-us.apexref.meta/apexref/ap
 #### See Also
 
 -   [ConnectApi.MessageBodyInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm "Add rich messages to feed items and comments.")
+
+## Related Topics
+
+- ConnectApi.MessageSegmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_messageSegmentInput.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.MessageBodyInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm)

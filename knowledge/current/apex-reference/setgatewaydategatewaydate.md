@@ -5,11 +5,15 @@ topic: setgatewaydategatewaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.659Z
-keywords: [setGatewayDate, gatewayDate, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.129Z
+estimatedTokens: 102
+keywords: [setGatewayDate, gatewayDate, date, authorization, occurred., gateways, don’t, send, value.]
 ---
 
 # setGatewayDate(gatewayDate)
+
+> Sets the date that the authorization occurred. Some gateways don’t send this
+    value.
 
 # setGatewayDate(gatewayDate)
 
@@ -28,3 +32,7 @@ Type: [Datetime](atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.h
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

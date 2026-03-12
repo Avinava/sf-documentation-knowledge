@@ -5,11 +5,17 @@ topic: slack-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:42.119Z
-keywords: [Slack, Namespace]
+lastCollected: 2026-03-12T05:14:31.607Z
+estimatedTokens: 1309
+namespace: Slack
+keywords: [Slack, provides, tools, designed, accelerate, ease, process, developing, apps, Salesforce, platform.]
 ---
 
 # Slack Namespace
+
+> The Slack Namespace provides tools designed to accelerate and ease the process of developing Slack apps on the Salesforce platform.
+
+**Namespace:** `Slack`
 
 # Slack Namespace
 

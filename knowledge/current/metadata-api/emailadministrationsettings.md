@@ -5,11 +5,18 @@ topic: emailadministrationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.141Z
-keywords: [EmailAdministrationSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:39.129Z
+estimatedTokens: 1865
+keywords: [EmailAdministrationSettings, Represents, organization’s, email, administration, settings, including, deliverability, security, compliance, relay, configurations, system, notifications., extends, Metadata, metadata, inherits, its, fullName]
 ---
 
 # EmailAdministrationSettings
+
+> Represents an organization’s email
+        administration settings, including email deliverability, security compliance, relay
+        configurations, and system notifications.
+        This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EmailAdministrationSettings
 
@@ -71,3 +78,46 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 -   [*Salesforce Help*: Email Address Internationalization](https://help.salesforce.com/articleView?id=emailadmin_eai.htm&language=en_US "Salesforce Help: Email Address
     Internationalization - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+                <EmailAdministrationSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+                <enableEmailWorkflowApproval>false</enableEmailWorkflowApproval>
+                <enableComplianceBcc>false</enableComplianceBcc>
+                <enableEmailSenderIdCompliance>false</enableEmailSenderIdCompliance>
+                <enableEmailSpfCompliance>true</enableEmailSpfCompliance>
+                <enableEmailToSalesforce>false</enableEmailToSalesforce>
+                <enableHandleBouncedEmails>true</enableHandleBouncedEmails>
+                <enableHtmlEmail>true</enableHtmlEmail>
+                <enableInternationalEmailAddresses>true</enableInternationalEmailAddresses>
+                <enableResendBouncedEmails>false</enableResendBouncedEmails>
+                <enableRestrictTlsToDomains>false</enableRestrictTlsToDomains>
+                <sendMassEmailNotification>true</sendMassEmailNotification>
+                <sendTextOnlySystemEmails>false</sendTextOnlySystemEmails>
+                <enableUseOrgFootersForExtTrans>false</enableUseOrgFootersForExtTrans>
+                <enableSendViaGmailPref>false</enableSendViaGmailPref>
+                <enableSendViaExchangePref>true</enableSendViaExchangePref>
+                <enableListEmailLogActivities>false</enableListEmailLogActivities>
+                <enableEnhancedEmailEnabled>false</enableEnhancedEmailEnabled>
+                <enableEmailConsentManagement>false</enableEmailConsentManagement>
+                </EmailAdministrationSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+                <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+                <types>
+                <members>EmailAdministration</members>
+                <name>Settings</name>
+                </types>   
+                <version>49.0</version>
+                </Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

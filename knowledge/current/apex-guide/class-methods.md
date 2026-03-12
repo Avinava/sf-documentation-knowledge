@@ -5,11 +5,15 @@ topic: class-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.536Z
-keywords: [Class, Methods, Note, Passing, Method, Arguments, Value, Versioned, Behavior, Changes, See]
+lastCollected: 2026-03-12T05:14:32.544Z
+estimatedTokens: 1887
+keywords: [how, define, Apex, methods., Understand, differences, between, passing, arguments, reference., Note, Passing, Arguments, Versioned, Behavior, Changes]
 ---
 
 # Class Methods
+
+> Learn how to define Apex methods. Understand the differences between passing method
+        arguments by value and passing method arguments by reference.
 
 # Class Methods
 
@@ -55,19 +59,19 @@ User-defined methods:
 -   Can have side effects, such as DML insert statements that initialize sObject record IDs. See [Apex DML Statements](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_dml_section.htm#apex_dml).
 -   Can refer to themselves or to methods defined later in the same class or anonymous block. Apex parses methods in two phases, so forward declarations aren’t needed.
 -   Can be overloaded. For example, a method named example can be implemented in two ways, one with a single Integer parameter and one with two Integer parameters. Depending on whether the method is called with one or two Integers, the Apex parser selects the appropriate implementation to execute. If the parser can’t find an exact match, it then seeks an approximate match using type coercion rules. For more information on data conversion, see [Rules of Conversion](atlas.en-us.apexcode.meta/apexcode/langCon_apex_rules_of_conversion.htm "In general, Apex requires you to explicitly convert one data type to another. For example, a variable of the Integer data type cannot be implicitly converted to a String. You must use the string.format method. However, a few data types can be implicitly converted, without using a method.").
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     If the parser finds multiple approximate matches, a parse-time exception is generated.
-    
+
 -   Methods with a void return type are typically invoked as a standalone statement in Apex code. For example:
-    
+
     ```
-    
+
     ```
-    
+
 -   Can have statements where the return values are run as a statement if their results aren’t assigned to another variable. This rule is the same in Java.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
@@ -114,3 +118,82 @@ In API version 50.0 and later, scope and accessibility rules are enforced on Ape
 #### See Also
 
 -   [Primitive Data Types](atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm "Apex uses the same primitive data types as SOAP API, except for higher-precision Decimal type in certain cases.")
+
+## Code Examples
+
+```apex
+[public | private | protected | global] [override] [static] data_type method_name (input parameters) { 
+    // The body of the method
+}
+```
+
+```apex
+public static Integer getInt() { 
+    return MY_INT; 
+}
+```
+
+```apex
+System.debug('Here is a note for the log.');
+```
+
+```apex
+public class PassPrimitiveTypeExample {
+    public static void debugStatusMessage() {
+        String msg = 'Original value';
+        processString(msg);
+        // The value of the msg variable didn't
+        // change; it is still the old value.
+        System.assertEquals(msg, 'Original value');
+    }
+    
+    public static void processString(String s) {
+        s = 'Modified value';
+    }
+}
+```
+
+```apex
+public class PassNonPrimitiveTypeExample {
+    
+    public static void createTemperatureHistory() {
+        List<Integer> fillMe = new List<Integer>();        
+        reference(fillMe);
+        // The list is modified and contains five items
+        // as expected.
+        System.assertEquals(fillMe.size(),5);        
+        
+        List<Integer> createMe = new List<Integer>();
+        referenceNew(createMe);
+        // The list is not modified because it still points
+        // to the original list, not the new list 
+        // that the method created.
+        System.assertEquals(createMe.size(),0);     
+    }
+            
+    public static void reference(List<Integer> m) {
+        // Add rounded temperatures for the last five days.
+        m.add(70);
+        m.add(68);
+        m.add(75);
+        m.add(80);
+        m.add(82);
+    }    
+        
+    public static void referenceNew(List<Integer> m) {
+        // Assign argument to a new List of
+        // five temperature values.
+        m = new List<Integer>{55, 59, 62, 60, 63};
+    }    
+}
+```
+
+## Related Topics
+
+- Rules of
+                    Conversion (atlas.en-us.apexcode.meta/apexcode/langCon_apex_rules_of_conversion.htm)
+- NamespaceAccessible
+                    Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_declaring_variables.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)
+- Primitive Data Types (atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm)

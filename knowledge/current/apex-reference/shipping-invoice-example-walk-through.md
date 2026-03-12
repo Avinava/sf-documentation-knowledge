@@ -5,11 +5,16 @@ topic: shipping-invoice-example-walk-through
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:42.332Z
-keywords: [Shipping, Invoice, Example, Walk-Through, Note, Scenario, Data, Code, Models, Testing, Application]
+lastCollected: 2026-03-12T05:14:31.877Z
+estimatedTokens: 1124
+keywords: [Shipping, Invoice, Example, Walk-Through, sample, application, section, includes, traditional, Salesforce, functionality, blended, Apex., Many, syntactic, semantic, features, Apex, along, common]
 ---
 
 # Shipping Invoice Example Walk-Through
+
+> The sample application in this section includes traditional Salesforce functionality blended
+   with Apex. Many of the syntactic and semantic features of Apex, along with common idioms, are
+   illustrated in this application.
 
 # Shipping Invoice Example Walk-Through
 
@@ -90,3 +95,8 @@ The test class verifies the following actions are completed successfully:
 -   Negative test for bad input
 
 -   [Next →](atlas.en-us.apexref.meta/apexref/apex_shopping_cart_example_code.htm "Shipping Invoice Example Code")
+
+## Related Topics
+
+- Shipping Invoice Example Code (atlas.en-us.apexref.meta/apexref/apex_shopping_cart_example_code.htm)
+- Next → (atlas.en-us.apexref.meta/apexref/apex_shopping_cart_example_code.htm)

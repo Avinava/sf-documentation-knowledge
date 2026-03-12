@@ -5,11 +5,15 @@ topic: connectapinonentityrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.367Z
-keywords: [ConnectApi.NonEntityRecommendation, Important]
+lastCollected: 2026-03-12T05:14:28.092Z
+estimatedTokens: 235
+keywords: [ConnectApi.NonEntityRecommendation, recommendation, non-Salesforce, entity, such, application., Important]
 ---
 
 # ConnectApi.NonEntityRecommendation
+
+> A recommendation for a non-Salesforce entity, such as an
+      application.
 
 # ConnectApi.NonEntityRecommendation
 
@@ -27,3 +31,10 @@ ConnectApi.NonEntityRecommendation isn’t used in version 34.0 and later. In ve
 | --- | --- | --- | --- |
 | displayLabel | String | Localized label of the non-entity object. | 32.0 |
 | motif | ConnectApi.Motif | Motif for the non-entity object. | 32.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_recommendation.htm)
+- ConnectApi.EntityRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_entity_recommendation.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Motif (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_motif.htm)

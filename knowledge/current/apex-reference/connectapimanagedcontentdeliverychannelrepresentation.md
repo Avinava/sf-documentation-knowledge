@@ -5,11 +5,14 @@ topic: connectapimanagedcontentdeliverychannelrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.127Z
-keywords: [ConnectApi.ManagedContentDeliveryChannelRepresentation, See]
+lastCollected: 2026-03-12T05:14:27.765Z
+estimatedTokens: 435
+keywords: [ConnectApi.ManagedContentDeliveryChannelRepresentation, Managed, content, delivery, channel.]
 ---
 
 # ConnectApi.ManagedContentDeliveryChannelRepresentation
+
+> Managed content delivery channel.
 
 # ConnectApi.ManagedContentDeliveryChannelRepresentation
 
@@ -29,3 +32,10 @@ Managed content delivery channel.
 #### See Also
 
 -   [getManagedContentDeliveryChannel(channelId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentDelivery_static_methods.htm#apex_ConnectAPI_ManagedContentDelivery_getManagedContentDeliveryChannel_1 "Get a managed content delivery channel.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ManagedContent​ChannelType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- getManagedContentDeliveryChannel(channelId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentDelivery_static_methods.htm)

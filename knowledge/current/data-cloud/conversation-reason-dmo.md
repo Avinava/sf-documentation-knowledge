@@ -5,11 +5,16 @@ topic: conversation-reason-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.046Z
-keywords: [Conversation, Reason, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.449Z
+estimatedTokens: 537
+keywords: [Conversation, Reason, DMO, Data, Clouddata, model, reason, conversation, started., contains, aggregated, metrics, excerpts., Example, values, include, cancel, order, update, check]
 ---
 
 # Conversation Reason DMO
+
+> The Conversation Reason DMO is a Data Clouddata model object for the
+      reason a conversation started. It contains aggregated metrics for excerpts. Example values
+      include cancel order, update order, and check on order status.
 
 # Conversation Reason DMO
 

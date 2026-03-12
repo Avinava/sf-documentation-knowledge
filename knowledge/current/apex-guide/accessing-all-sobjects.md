@@ -5,11 +5,15 @@ topic: accessing-all-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.071Z
-keywords: [Accessing, sObjects, Note]
+lastCollected: 2026-03-12T05:14:33.315Z
+estimatedTokens: 532
+keywords: [Accessing, sObjects, Schema, getGlobalDescribe, map, represents, relationship, between, sObject, names, keys, tokens, values, example, Note]
 ---
 
 # Accessing All sObjects
+
+> Use the Schema getGlobalDescribe method to return a map that represents the relationship between
+all sObject names (keys) to sObject tokens (values). For example:
 
 # Accessing All sObjects
 
@@ -38,3 +42,14 @@ If the getGlobalDescribe method is called from an installed managed package, it 
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_describeTabs.htm "Describing Tabs Using Schema Methods")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_data_categories.htm "Accessing All Data Categories Associated with an sObject")
+
+## Code Examples
+
+```apex
+Map<String, Schema.SObjectType> gd = Schema.getGlobalDescribe();
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_describeTabs.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_data_categories.htm)

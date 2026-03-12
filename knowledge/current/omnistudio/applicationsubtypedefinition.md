@@ -4,12 +4,16 @@ domain: omnistudio
 topic: applicationsubtypedefinition
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.320Z
-keywords: [ApplicationSubtypeDefinition, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:51.948Z
+estimatedTokens: 406
+keywords: [ApplicationSubtypeDefinition, Represents, subtype, application., Create, application, definitions, define, types, applications, used, Decision, Explainer, entities., Important, Parent, File, Suffix, Directory, Location]
 ---
 
 # ApplicationSubtypeDefinition
+
+> Represents a subtype of an application within an application domain.
+      Available in API version 54.0 and later.
 
 # ApplicationSubtypeDefinition
 
@@ -40,3 +44,28 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | ManageableState | TypestringPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package.Possible values are:beta—Managed-Betadeleted—Managed-Proposed-Deleteddeprecated—Managed-Proposed-DeprecateddeprecatedEditable—SecondGen-Installed-Deprecatedinstalled—Managed-InstalledinstalledEditable—SecondGen-Installed-Editablereleased—Managed-Releasedunmanaged—Unmanaged |
 | MasterLabel | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe UI label of the application subtype definition. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix that is associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ApplicationSubtypeDefinition
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<masterLabel>ApplicationSubtype1</masterLabel>
+	<description>Application Subtype 1</description>
+	<applicationUsageType>ExplainabilityService</applicationUsageType>
+</ApplicationSubtypeDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ApplicationSubtypeDefinition</name>
+	</types>
+	<version>57.0</version>
+</Package>
+```

@@ -5,11 +5,17 @@ topic: einsteingptsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.132Z
-keywords: [EinsteinGptSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.115Z
+estimatedTokens: 668
+keywords: [EinsteinGptSettings, Represents, settings, Einstein, Generative, features, org., extends, Metadata, metadata, inherits, its, fullName, field, File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # EinsteinGptSettings
+
+> Represents settings for Einstein Generative
+      AI features in an org.
+    This type extends the Metadata metadata
+      type and inherits its fullName field
 
 # EinsteinGptSettings
 
@@ -52,3 +58,29 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EinsteinGptSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableEinsteinGptGlobalLangSupport>true</einsteinAgentRecommendations>
+    <enableEinsteinGptPlatform>true</reRunAttributeBasedRules>
+</EinsteinGptSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>EinsteinGpt</members>
+        <name>Settings</name>
+    </types>
+    <version>63.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

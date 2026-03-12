@@ -5,11 +5,14 @@ topic: query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.539Z
-keywords: [Query, Syntax, Example, Resources, Running, SOQL, Queries]
+lastCollected: 2026-03-12T05:14:35.825Z
+estimatedTokens: 581
+keywords: [Query, Runs, specified, SOQL, query., Syntax, Example, Resources, Running, Queries]
 ---
 
 # Query
+
+> Runs the specified SOQL query.
 
 # Query
 
@@ -57,3 +60,28 @@ Example Response Body
 -   To change the batch size, see [Query Options Header](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/headers_queryoptions.htm "HTML (New Window)").
 -   To get feedback on a query and a report by using the explain parameter, see [Get Feedback on Query Performance](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/dome_query_explain.htm "HTML (New Window)").
 -   For more information on SOQL in general, see the [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_sosl_intro.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+{
+  "totalSize": 3222,
+  "done": false,
+  "nextRecordsUrl": "/services/data/v66.0/query/01gRO0000016PIAYA2-500",
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "url": "/services/data/v66.0/sobjects/Contact/003RO0000035WQgYAM"
+      },
+      "Id": "003RO0000035WQgYAM",
+      "Name": "John Smith"
+    },
+    ...
+  ]
+}
+```
+
+## Related Topics
+
+- Query More Results (atlas.en-us.api_rest.meta/api_rest/resources_query_more_results.htm)

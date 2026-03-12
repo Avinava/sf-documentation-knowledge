@@ -1,15 +1,22 @@
 ---
-title: "lightning__conversationAgentSend"
+title: "lightning:conversationAgentSend"
 domain: service-cloud
 topic: lightningconversationagentsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.856Z
-keywords: [lightning__conversationAgentSend, lightning, _conversationAgentSend, Response, LWC, Sample, Code, Aura, Components]
+lastCollected: 2026-03-12T05:14:57.189Z
+estimatedTokens: 218
+keywords: [lightning, conversationAgentSend, Event, triggered, agent, sends, chat, message, through, Salesforce, console., does, intercept, before, it’s, sent, visitor., event, Enhanced, Messaging]
 ---
 
-# lightning__conversationAgentSend
+# lightning:conversationAgentSend
+
+> Messaging event triggered when an agent
+            sends a message through the Salesforce console. This method intercepts the message
+            before it’s sent to the chat visitor. This event is also triggered when using Enhanced
+            Messaging channels. To work with Enhanced Messaging channels, the session must be active
+            and the Enhanced Conversation Component must be visible on the page.
 
 # lightning\_\_conversationAgentSend
 
@@ -44,4 +51,89 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" description="Conversation toolkit api sample">
+  <lightning:conversationToolkitAPI aura:id="conversationKit" />
+  <aura:handler event="lightning:conversationAgentSend" action="{! c.onAgentSend}" />
+</aura:component>
+```
+
+```
+({
+    onAgentSend: function(cmp, evt, helper) {
+        var recordId = evt.getParam("recordId");
+        var content = evt.getParam("content");
+        var name = evt.getParam("name");
+        var type = evt.getParam("type");
+        var timestamp = evt.getParam("timestamp");
+
+        console.log("recordId:" + recordId + " content:" + content + " name:" + name + " timestamp:" + timestamp);
+    }
+})
+```
+
+```
+import { LightningElement, wire } from 'lwc';
+
+import {
+    subscribe,
+    unsubscribe,
+    APPLICATION_SCOPE,
+    MessageContext
+} from 'lightning/messageService';
+
+import ConversationAgentSendChannel from '@salesforce/messageChannel/lightning__conversationAgentSend';
+
+export default class ConversationAgentSendExample extends LightningElement {
+    subscription = null;
+    recordId;
+
+    // To pass scope, you must get a message context.
+    @wire(MessageContext)
+    messageContext;
+
+    // Standard lifecycle hook used to subscribe to the message channel
+    connectedCallback() {
+        this.subscribeToMessageChannel();
+    }
+
+    // Pass scope to the subscribe() method.
+    subscribeToMessageChannel() {
+        if (!this.subscription) {
+            this.subscription = subscribe(
+                this.messageContext,
+                ConversationAgentSendChannel,
+                (message) => this.handleMessage(message),
+                { scope: APPLICATION_SCOPE }
+            );
+        }
+    }
+
+    // Handler for message received by component
+    handleMessage(message) {
+        this.recordId = message.recordId;
+    }
+}
+```
+
+```
+<lightning:messageChannel type="lightning__conversationAgentSend" scope="APPLICATION" 
+                          onMessage="{!c.onConversationAgentSend}" />
+```
+
+```
+({
+    onConversationAgentSend: function(cmp, evt, helper) {
+        var recordId = evt.getParam("recordId");
+        var content = evt.getParam("content");
+        var name = evt.getParam("name");
+        var timestamp = evt.getParam("timestamp");
+
+        console.log("recordId:" + recordId + " content:" + content + " name:" + name + " timestamp:" + timestamp);
+    }
+})
 ```

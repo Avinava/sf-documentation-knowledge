@@ -5,11 +5,15 @@ topic: web-search-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:44.077Z
-keywords: [Web, Search, Engagement, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:15.070Z
+estimatedTokens: 2604
+keywords: [Web, Search, Engagement, DMO, Data, Cloud, data, model, web, search, engagement, data., API, Name, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Web Search Engagement DMO
+
+> The Web Search Engagement DMO is a Data Cloud data model object (DMO)
+      for web search engagement data.
 
 # Web Search Engagement DMO
 

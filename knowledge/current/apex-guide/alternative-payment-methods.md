@@ -5,11 +5,17 @@ topic: alternative-payment-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.694Z
-keywords: [Alternative, Payment, Methods, Example]
+lastCollected: 2026-03-12T05:14:32.771Z
+estimatedTokens: 401
+keywords: [Alternative, Payment, alternative, payment, allows, customers, store, represent, information, represented, another, pre-defined, such, CardPaymentMethod, DigitalWallet., Common, examples, include, CashOnDeliver, Klarna]
 ---
 
 # Alternative Payment  Methods
+
+> An alternative payment method allows customers to store and represent payment method
+  information not represented by another pre-defined payment method such as CardPaymentMethod or DigitalWallet. Common examples of alternative payment methods include CashOnDeliver,
+  Klarna, and Direct Debit. Alternative payment methods are available in API v51.0 and
+  later.
 
 # Alternative Payment Methods
 
@@ -17,7 +23,7 @@ An alternative payment method allows customers to store and represent payment me
 
 | Available in: Salesforce Spring '21 and later |
 | --- |
-  
+
 
 Create a unique record type for each type of alternative payment method in your org. This way, each of your alternative payment methods can show different picklist values and page layouts based on the method provider and gateway provider’s requirements. For example, you could have one alternative payment method record type for direct debit and a different record type for cash on deliver.
 
@@ -57,4 +63,43 @@ You can also create a gateway provider payment method type.
 
 ```
 
+```
+
+## Code Examples
+
+```
+/services/data/v51.0/sobjects/RecordType
+```
+
+```
+{
+ "Name" : "Giro Pay",
+ "DeveloperName" : "GiroPay",
+ "SobjectType" : "AlternativePaymentMethod"
+}
+```
+
+```
+/services/data/v51.0/sobjects/AlternativePaymentMethod
+```
+
+```
+{
+ "ProcessingMode": "External",
+ "status":"Active",
+ "GatewayToken":"mHkDsh0oIA3mnWjo9UL",
+"NickName" : "MyGiroPay",
+"RecordTypeId" : "{record_type_id}"
+}
+```
+
+```
+{
+ "PaymentGatewayProviderId": "XXXXXXXXXXXXXXX",
+ "PaymentMethodType":"AlternativePaymentMethod",
+ "GtwyProviderPaymentMethodType" : "PM_Giro",
+ "DeveloperName" : "DevName",
+ "MasterLabel" : "MasterLabel",
+ "RecordTypeId" : "{record_type_id}"
+}
 ```

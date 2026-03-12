@@ -5,11 +5,16 @@ topic: partyrelationshipgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.082Z
-keywords: [PartyRelationshipGroup, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.160Z
+estimatedTokens: 1499
+keywords: [PartyRelationshipGroup, Represents, group, people, living, together, such, household, affiliated, other., API, version, 56.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # PartyRelationshipGroup
+
+> Represents a group of people living together such as a household, or
+         a group of people affiliated with each other. This object is available in API version
+      56.0 and later.
 
 # PartyRelationshipGroup
 

@@ -5,11 +5,14 @@ topic: connectapiproductvariantoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.759Z
-keywords: [ConnectApi.ProductVariantOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.641Z
+estimatedTokens: 126
+keywords: [ConnectApi.ProductVariantOutputRepresentation, Details, product, variation.]
 ---
 
 # ConnectApi.ProductVariantOutputRepresentation
+
+> Details about a product variation.
 
 # ConnectApi.ProductVariantOutputRepresentation
 
@@ -23,3 +26,9 @@ Details about a product variation.
 | stockKeepingUnit | String | Stock Keeping Unit. | 55.0 |
 | unitPrice | Double | Unit price. | 55.0 |
 | variationValues | Map<String, String> | The variation attribute values that define the variation. | 55.0 |
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)

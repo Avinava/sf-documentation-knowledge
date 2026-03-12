@@ -5,11 +5,14 @@ topic: connectapiproductdeliverestimationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.686Z
-keywords: [ConnectApi.ProductDeliverEstimationOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.533Z
+estimatedTokens: 144
+keywords: [ConnectApi.ProductDeliverEstimationOutputRepresentation, Delivery, estimation, information, product.]
 ---
 
 # ConnectApi.ProductDeliverEstimationOutputRepresentation
+
+> Delivery estimation information for each product.
 
 # ConnectApi.ProductDeliverEstimationOutputRepresentation
 
@@ -22,3 +25,10 @@ Delivery estimation information for each product.
 | quantity | Double | Product quantity. | 63.0 |
 | routingCalculationType | String | Routing calculation type. | 63.0 |
 | stockKeepingUnit | String | Product stock keeping unit (SKU). | 63.0 |
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.EstimateDeliveryDateOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_estimate_delivery_date_output.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

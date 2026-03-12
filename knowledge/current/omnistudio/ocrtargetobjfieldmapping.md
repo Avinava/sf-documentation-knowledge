@@ -4,12 +4,17 @@ domain: omnistudio
 topic: ocrtargetobjfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.583Z
-keywords: [OcrTargetObjFieldMapping, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:51.302Z
+estimatedTokens: 408
+keywords: [OcrTargetObjFieldMapping, Represents, details, how, information, document, field, mapped, fields, object., API, version, 50.0, later., Supported, Calls, Fields, documentdocument, 55.0, SOAP]
 ---
 
 # OcrTargetObjFieldMapping
+
+> Represents the details of how information from a document field is mapped to
+         fields in an object. This object is available in API version 52.0 and
+      later.
 
 # OcrTargetObjFieldMapping
 

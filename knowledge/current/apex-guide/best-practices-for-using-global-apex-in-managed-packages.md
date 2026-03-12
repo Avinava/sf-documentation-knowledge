@@ -4,12 +4,19 @@ domain: apex-guide
 topic: best-practices-for-using-global-apex-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.326Z
-keywords: [Best, Practices, Global, Apex, Managed, Packages, Important, Manageability, Rules, Only, Necessary, Delegate, Thin, Entry, Points, Example, Parameter, Objects, Method, Inputs]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.667Z
+estimatedTokens: 4376
+keywords: [Best, Practices, Apex, Managed, Packages, independent, software, vendor, ISV, developer, understand, how, managed, packages., design, patterns, maximize, flexibility, comply, strict]
 ---
 
 # Best Practices for Using Global Apex in Managed Packages
+
+> As an independent software vendor (ISV) developer, understand when and how to use
+      global Apex in managed packages. Learn design patterns
+   that maximize flexibility and comply with the strict manageability rules applied to global Apex
+    after your managed package’s release. By following these best practices, you can improve the
+    stability and maintainability of your API.
 
 # Best Practices for Using Global Apex in Managed Packages
 
@@ -163,13 +170,13 @@ Here’s some recommendations for effectively retiring a global Apex member.
 -   Implement soft deprecation with non-breaking warnings.
     -   Add the @Deprecated annotation to the global member. This annotation generates compile-time warnings in developer tools, but doesn’t alter run-time behavior.
     -   Consider run-time logging when the deprecated member is invoked, guiding subscribers to the new alternative.
-        
+
         ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-        
+
         #### Note
-        
+
         You can’t remove the @Deprecated annotation to undeprecate something in Apex after you’ve released a package version where that item in Apex is deprecated. You also can’t add new global access modifiers to a @Deprecated type.
-        
+
 -   Enforce non-operation with exceptions. Change the code to throw an informative exception, such as FeatureDeprecatedException('Method X is retired. Use Method Y.'). This breaking change at run time stops the old logic from running and forces attention to the deprecation. However, any breaking change requires extensive prior communication.
 -   Retire code for obsolete global Apex. After ample time and communication, confirm that subscribers are no longer using the deprecated global member. Then minimize the member’s internal code. Although the global signature must remain, its logic can become non-operational (no-op), return a safe default, or throw a specific Feature Retired exception. Implementing these changes reduces the risk and effort of maintaining the old code.
 
@@ -178,17 +185,178 @@ Always thoroughly test changes related to deprecating global Apex, including tes
 #### See Also
 
 -   [Access Modifiers](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
-    
+
 -   [Apex Class Definition](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)
-    
+
 -   [Exposing Apex Classes as REST Web Services](atlas.en-us.apexcode.meta/apexcode/apex_rest.htm "You can expose your Apex classes and methods so that external applications can access your code and your application through the REST architecture.")
-    
+
 -   [Exposing Apex Methods as SOAP Web Services](atlas.en-us.apexcode.meta/apexcode/apex_web_services.htm "You can expose your Apex methods as SOAP web services so that external applications can access your code and your application.")
-    
+
 -   [NamespaceAccessible Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
-    
+
 -   [Deprecate Managed Apex](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_deprecated.htm "Use the @Deprecated annotation to specify Apex identifiers that can subscribers can no longer reference in subsequent releases of the managed package. Deprecation is useful when you’re refactoring code in managed packages as the requirements evolve.")
-    
+
 -   [*Apex Reference Guide*: Callable Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_System_Callable.htm)
-    
+
 -   [*Second-Generation Managed Packaging Developer Guide*: Components Available in Second-Generation Managed Packages–Apex Class](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/packaging_packageable_components.htm#mdc_apex_class)
+
+## Code Examples
+
+```apex
+// --- ISV's Managed Package Code ---
+// Global Entry Point
+global with sharing class MyPackageApi {
+    // Note: This is a simplified example using a primitive data type. For a 
+    // more flexible and future-proof design, we recommend using parameter 
+    // objects for global method signatures, as explained in the next section.
+    global static List<String> greetUsers(List<String> userNames) {
+            // Delegate directly to a public class to do the actual work.
+            // GreetingService is a 'public' class within your package.
+        GreetingService service = new GreetingService();
+            return service.createGreetings(userNames);
+    }
+}
+
+// Public Class (Lives inside your package)
+// This class can be updated easily in future package versions.
+public with sharing class GreetingService {
+    // This public method contains all the business logic to process a list of names.
+    public List<String> createGreetings(List<String> names) {
+        List<String> greetings = new List<String>(); 
+        // Input validation and error handling, e.g. Return an empty list if input is null or empty.
+        // Process each name in the list.
+        for (String name : names) {
+            greetings.add('Hello, ' + name + '!');
+        }
+        return greetings;
+    }
+    
+    // If needed, you can freely add private methods here
+    private void someHelperMethod() {
+        // ...
+    }
+}
+
+
+// --- Subscriber Code ---
+// Subscriber creates a list and calls the global method
+List<String> welcomeMessages = TheIsvNamespace.MyPackageApi.greetUsers(
+    new List<String>{'Jane Doe', 'Rose Gonzalez'});
+// The output is a corresponding list of greetings.
+// welcomeMessages will be: ['Hello, Jane Doe!', 'Hello, Rose Gonzalez!']
+```
+
+```apex
+// --- ISV's Managed Package Code ---
+// The global entry point class contains the global method and input & output wrapper inner classes.
+global with sharing class GeocodingService {
+    // 1. The Global Method
+    // The signature is clean, using the inner classes for its input parameter and return type.
+    global static GeolocationResponse getCoordinates(AddressRequest location) { 
+        // --- Internal logic to process the request ---
+        // We recommend calling a public method to delegate all business logic. Skipping this for brevity in this example
+        // This could involve callouts to an external geocoding service.
+        // For this example, we will return mock data.
+        if (location.postalCode == '94105') {
+            return new GeolocationResponse(37.7749, -122.4194);
+        } else {
+			return new GeolocationResponse(0, 0);
+		}
+    }
+   
+    // 2. The Input Parameter Object (as an inner class)
+    // A simple inner class with global properties to bundle input parameters.
+    global with sharing class AddressRequest {
+        global String street;
+        global String city;
+        global String state;
+        global String postalCode;
+    
+        // A constructor helps ensure required fields are provided.
+        global AddressRequest(String street, String city, String state, String postalCode) {
+            this.street = street;
+            this.city = city;
+            this.state = state;
+            this.postalCode = postalCode;
+        }
+    }
+    
+    // 3. The Output Parameter Object (as an inner class)
+    // A simple inner class to provide a structured result.
+    global with sharing class GeolocationResponse {
+        // Using 'private set' makes these properties read-only for subscribers.
+        // @AuraEnabled makes these properties visible to Lightning web components, if necessary.
+        @AuraEnabled global Decimal latitude { get; private set; }
+        @AuraEnabled global Decimal longitude { get; private set; }
+        
+        // This constructor is public, not global, so subscribers can't create their own response objects.
+        public GeolocationResponse(Decimal lat, Decimal lon) {
+            this.latitude = lat;
+            this.longitude = lon;
+        }
+    }
+}
+
+// --- Subscriber Code --- 
+// The subscriber's experience is clean and type-safe.
+// 1. Create an instance of the input object, referencing it via the outer class.
+TheIsvNamespace.GeocodingService.AddressRequest sfAddress = new TheIsvNamespace.GeocodingService.AddressRequest(
+    '415 Mission St',
+    'San Francisco',
+    'CA',
+    '94105'
+);
+
+// 2. Call the global method with the single parameter object.
+TheIsvNamespace.GeocodingService.GeolocationResponse coordinates = TheIsvNamespace.GeocodingService.getCoordinates(sfAddress);
+
+// 3. Process the structured, strongly-typed result. 
+// For this example we will just log the results.
+    System.debug('Coordinates found: ' + coordinates.latitude + ', ' + coordinates.longitude);
+```
+
+```apex
+// --- ISV's Managed Package Code ---
+// Global Interface - Defines a capability
+global interface Notifier {
+    global void send(String message);
+}
+
+// Global Factory Class - Provides instances
+global with sharing class NotificationFactory {
+    global static Notifier getEmailNotifier() {
+        return new EmailNotifierImpl(); // EmailNotifierImpl is public
+    }
+}
+
+// Public Implementation (Lives inside your package)
+public with sharing class EmailNotifierImpl implements Notifier {
+    public void send(String message) {
+        // Logic to send an email (simplified here)
+        System.debug('Emailing: ' + message);
+    }
+}
+
+// --- Subscriber Code ---
+// Subscriber gets an instance of a Notifier
+Notifier myEmailer = NotificationFactory.getEmailNotifier();
+
+// Subscriber uses the interface method
+myEmailer.send('Welcome to our service!'); // Outputs: Emailing: Welcome to our service!
+```
+
+## Related Topics
+
+- global modifier (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- access
+            modifiers (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- @NamespaceAccessible
+            annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- @AuraEnabled (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_AuraEnabled.htm)
+- Apex REST
+            annotation (atlas.en-us.apexcode.meta/apexcode/apex_rest_annotations_list.htm)
+- deprecating Apex (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_deprecated.htm)
+- Access Modifiers (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- Apex Class Definition (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)
+- Exposing Apex Classes as REST Web Services (atlas.en-us.apexcode.meta/apexcode/apex_rest.htm)
+- Exposing Apex Methods as SOAP Web Services (atlas.en-us.apexcode.meta/apexcode/apex_web_services.htm)

@@ -5,11 +5,15 @@ topic: lightningomnichannelworkdeclined
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.893Z
-keywords: [lightning, omniChannelWorkDeclined, Response, Example]
+lastCollected: 2026-03-12T05:14:57.269Z
+estimatedTokens: 148
+keywords: [lightning, omniChannelWorkDeclined, Indicates, agent, declined, work, assignment., Response, Example]
 ---
 
 # lightning:omniChannelWorkDeclined
+
+> Indicates that an agent has declined a work
+            assignment.
 
 # lightning:omniChannelWorkDeclined
 
@@ -36,4 +40,25 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelWorkDeclined" action="{! c.onWorkDeclined }"/>
+</aura:component>
+```
+
+```
+({
+    onWorkDeclined : function(component, event, helper) {
+        console.log("Work declined.");
+        var workItemId = event.getParam('workItemId');
+        var workId = event.getParam('workId');
+        console.log(workItemId);
+        console.log(workId);
+    }, 
+})
 ```

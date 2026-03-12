@@ -5,11 +5,15 @@ topic: get-object-metadata-using-sobject-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.639Z
-keywords: [Get, Object, Metadata, sObject, Basic, Information, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:35.964Z
+estimatedTokens: 325
+keywords: [Get, Metadata, sObject, Basic, Information, basic, metadata, specified, including, recent, items, URIs, resources, related, object., Syntax, Example]
 ---
 
 # Get Object Metadata Using sObject Basic Information
+
+> Gets basic metadata for a specified object, including some object properties, recent
+		items, and URIs for other resources related to the object.
 
 # Get Object Metadata Using sObject Basic Information
 
@@ -48,3 +52,8 @@ For an example of retrieving metadata for an object, see [Get Metadata for an Ob
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/ "Object Reference for the Salesforce Platform - HTML (New Window)")
+
+## Related Topics
+
+- sObject Describe (atlas.en-us.api_rest.meta/api_rest/resources_sobject_describe.htm)
+- Get Metadata for an Object (atlas.en-us.api_rest.meta/api_rest/dome_sobject_basic_info.htm)

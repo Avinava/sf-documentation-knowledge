@@ -5,11 +5,15 @@ topic: connectapichatterlikescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.320Z
-keywords: [ConnectApi.ChatterLikesCapability, See]
+lastCollected: 2026-03-12T05:14:26.623Z
+estimatedTokens: 290
+keywords: [ConnectApi.ChatterLikesCapability, feed, element, capability, context, user, it., Exposes, information, existing, likes.]
 ---
 
 # ConnectApi.ChatterLikesCapability
+
+> If a feed element has this capability, the context user can like it.
+      Exposes information about existing likes.
 
 # ConnectApi.ChatterLikesCapability
 
@@ -27,3 +31,12 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ChatterLikePage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_like_page.htm)
+- ConnectApi.​MessageBody (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_msg_body.htm)
+- ConnectApi.​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

@@ -5,11 +5,15 @@ topic: callcenterroutingmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.964Z
-keywords: [CallCenterRoutingMap, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.496Z
+estimatedTokens: 700
+keywords: [CallCenterRoutingMap, Represents, mapping, between, user, queue, Salesforce, org, external, system’s, call, center., Important, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # CallCenterRoutingMap
+
+> Represents the mapping between a user or queue in a Salesforce
+			org to a user or queue in an external system’s call center.
 
 # CallCenterRoutingMap
 
@@ -65,3 +69,32 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCenterRoutingMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <callCenter>ExampleCallCenter</callCenter>
+<developerName>User_001ABC00000FjYIIA0_04vZ6000000Cagl</developerName>
+<externalId>arn:aws:connect:ap-northeast-1:484907484500:instance/examplestring-9c18-4aa5-b5fe-cda6f34d99a0/agent/a69f7afe-5b04-4aa8-b5ee-108a84d0f504</externalId>
+    <masterLabel>001ABC00000FjYIIA0</masterLabel>
+    <referenceRecord>example.d2b87b8182fa@salesforce.com</referenceRecord>
+</CallCenterRoutingMap>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>User_001ABC00000FjYIIA0_04vZ6000000Cagl</members>
+        <name>CallCenterRoutingMap</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

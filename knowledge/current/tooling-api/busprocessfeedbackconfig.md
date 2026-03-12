@@ -5,11 +5,16 @@ topic: busprocessfeedbackconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.380Z
-keywords: [BusProcessFeedbackConfig, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.832Z
+estimatedTokens: 1333
+keywords: [BusProcessFeedbackConfig, Represents, information, configuration, feedback, collection., collection, triggers, against, pre-determined, conditions, gather, feedback., API, version, 51.0, later., Supported, SOAP, Calls]
 ---
 
 # BusProcessFeedbackConfig
+
+> Represents information about the configuration for feedback collection. The
+      feedback collection method triggers against pre-determined conditions on object to gather
+      feedback. This object is available in API version 51.0 and later.
 
 # BusProcessFeedbackConfig
 

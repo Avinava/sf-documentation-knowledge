@@ -5,11 +5,15 @@ topic: checkstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.106Z
-keywords: [checkStatus, Note, Syntax, Usage, Version, Sample, Code—Java, Arguments, Response]
+lastCollected: 2026-03-12T05:14:37.691Z
+estimatedTokens: 754
+keywords: [checkStatus, Deprecated., Checks, status, asynchronous, metadata, calls, create, update, delete, declarative, call, retrieve, removed, API, version, 31.0, only, earlier, versions.]
 ---
 
 # checkStatus()
+
+> Deprecated. Checks the status of asynchronous metadata calls create(), update(), or delete(), or the declarative metadata call retrieve(). This call is removed as of API version 31.0 and is available only in
+  earlier versions.
 
 # checkStatus()
 
@@ -48,3 +52,18 @@ See [Step 3: Walk Through the Java Sample Code](atlas.en-us.api_meta.meta/api_me
 ## Response
 
 [AsyncResult](atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm "Contains the ID of a deployment or retrieval. In API version 28.0 and earlier, contains status information of any asynchronous metadata call.")\[\]
+
+## Code Examples
+
+```
+AsyncResult[] = metadatabinding.checkStatus(ID[] ids);
+```
+
+## Related Topics
+
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- checkDeployStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm)
+- checkRetrieveStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkretrievestatus.htm)
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- Step 3: Walk Through the Java Sample Code (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_java_sample.htm)

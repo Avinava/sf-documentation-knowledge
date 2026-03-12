@@ -5,11 +5,15 @@ topic: describemetadataresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.898Z
-keywords: [DescribeMetadataResult, DescribeMetadataObject]
+lastCollected: 2026-03-12T05:14:38.782Z
+estimatedTokens: 567
+keywords: [DescribeMetadataResult, Contains, information, organization, useful, developers, working, declarative, metadata., DescribeMetadataObject]
 ---
 
 # DescribeMetadataResult
+
+> Contains information about the organization that is useful
+for developers working with declarative metadata.
 
 # DescribeMetadataResult
 
@@ -38,3 +42,8 @@ This object is returned as part of the DescribeMetadataResult. Each DescribeMeta
 | metaFile | boolean | Indicates whether the component requires an accompanying metadata file. For example, documents, classes, and s-controls are components that require an additional metadata file. |
 | suffix | string | The file suffix for this component. |
 | xmlName | string | The name of the root element in the metadata file for this component. This name also appears in the Packages > types > name field in the manifest file package.xml. |
+
+## Related Topics
+
+- describeMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_describe.htm)
+- rollbackOnError (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)

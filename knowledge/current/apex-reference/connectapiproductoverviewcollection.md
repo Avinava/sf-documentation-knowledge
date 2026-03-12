@@ -4,12 +4,15 @@ domain: apex-reference
 topic: connectapiproductoverviewcollection
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.719Z
-keywords: [ConnectApi.ProductOverviewCollection]
+docType: concept
+lastCollected: 2026-03-12T05:14:28.580Z
+estimatedTokens: 78
+keywords: [ConnectApi.ProductOverviewCollection, Collection, product, overviews.]
 ---
 
 # ConnectApi.ProductOverviewCollection
+
+> Collection of product overviews.
 
 # ConnectApi.ProductOverviewCollection
 
@@ -19,3 +22,9 @@ Collection of product overviews.
 | --- | --- | --- | --- |
 | products | List<ConnectApi.​ProductOverview> | Collection of product overview. | 54.0 |
 | total | Integer | Total number of products returned. | 54.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductOverview (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_overview.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

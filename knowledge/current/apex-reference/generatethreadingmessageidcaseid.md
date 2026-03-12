@@ -5,11 +5,15 @@ topic: generatethreadingmessageidcaseid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.002Z
-keywords: [generateThreadingMessageId, caseId, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.174Z
+estimatedTokens: 462
+keywords: [generateThreadingMessageId, caseId, RFC, 2822-compliant, message, identifier, contains, information, used, match, email, its, replies, case., Usage, Example]
 ---
 
 # generateThreadingMessageId(caseId)
+
+> Returns an RFC 2822-compliant message identifier that contains
+   information used to match the email and its replies to a case.
 
 # generateThreadingMessageId(caseId)
 
@@ -40,3 +44,7 @@ Use the returned message identifier when sending case-related emails in Apex. Th
 In this sample, we create an email with a message identifier so that the email and any responses can be associated with the related case.
 
 //Get your Case ID. Here we use a dummy ID ID caseId = Id.valueOf('500xx000000bpkTAAQ'); //Create a SingleEmailMessage object Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage(); //Set recipients and other fields email.setToAddresses(new String\[\] {'test@salesforce.com'}); email.setPlainTextBody('Test Email Notification'); //........... more fields ........... //Get the threading message identifier String messageId = Cases.generateThreadingMessageId(caseId); //Insert the message identifier into the References header email.setReferences(messageId); //Send out the email Messaging.sendEmail(new Messaging.SingleEmailMessage\[\]{email});
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

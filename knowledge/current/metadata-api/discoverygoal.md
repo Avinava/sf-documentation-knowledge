@@ -5,11 +5,15 @@ topic: discoverygoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.053Z
-keywords: [DiscoveryGoal, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, DiscoveryDeployedModel, DiscoveryFieldMap, DiscoveryFieldMapSourceType, DiscoveryFilter, DiscoveryFilterOperator, DiscoveryFilterFieldType, DiscoveryFilterValue, DiscoveryFilterValueType, DiscoveryPrescribableField, DiscoveryCustomPrescribableFieldDefinition, DiscoveryModelCard]
+lastCollected: 2026-03-12T05:14:38.964Z
+estimatedTokens: 2392
+keywords: [DiscoveryGoal, Represents, metadata, associated, Einstein, Discovery, prediction, definition., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, DiscoveryDeployedModel, DiscoveryFieldMap, DiscoveryFieldMapSourceType, DiscoveryFilter]
 ---
 
 # DiscoveryGoal
+
+> Represents the metadata associated with an Einstein Discovery
+            prediction definition.
 
 # DiscoveryGoal
 
@@ -225,3 +229,147 @@ Here is a sample DiscoveryGoal:
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>employees_Tenure</members>
+        <name>DiscoveryGoal</name>
+    </types>
+    <version>53.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DiscoveryGoal xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <active>true</active>
+   <deployedModels>
+      <active>true</active>
+      <aiModel>Maximize_Tenure</aiModel>
+      <fieldMappings>
+         <mappedField>Opportunity.Amount</mappedField>
+         <modelField>PTO</modelField>
+         <sourceType>SalesforceField</sourceType>
+      </fieldMappings>
+      <fieldMappings>
+         <mappedField>Opportunity.ExpectedRevenue</mappedField>
+         <modelField>Salary</modelField>
+         <sourceType>SalesforceField</sourceType>
+      </fieldMappings>
+      <fieldMappings>
+         <mappedField>Level</mappedField>
+         <modelField>Level</modelField>
+         <sobjectFieldJoinKey>Opportunity.Name</sobjectFieldJoinKey>
+         <source>employees</source>
+         <sourceFieldJoinKey>Name</sourceFieldJoinKey>
+         <sourceType>AnalyticsDatasetField</sourceType>
+      </fieldMappings>
+      <fieldMappings>
+         <mappedField>Opportunity.StageName</mappedField>
+         <modelField>Field</modelField>
+         <sourceType>SalesforceField</sourceType>
+      </fieldMappings>
+      <filters>
+         <field>Opportunity.StageName</field>
+         <operator>Equal</operator>
+         <values>
+            <type>Constant</type>
+            <value>Qualification</value>
+         </values>
+      </filters>
+      <label>employees</label>
+      <name>employees</name>
+      <prescribableFields>
+         <customDefinitions>
+           <filters>
+              <field>Salary</field>
+              <operator>LessThan</operator>
+              <type>Number</type>
+              <values>
+                 <type>PlaceHolder</type>
+                 <value>[value_low]</value>
+              </values>
+           </filters>
+           <template>Increase [field_name] by [diff]</template>
+         </customDefinitions>
+         <customDefinitions>
+            <filters>
+               <field>Salary</field>
+               <operator>GreaterThan</operator>
+               <type>Number</type>
+               <values>
+                   <type>PlaceHolder</type>
+                   <value>[value_low]</value>
+                </values>
+             </filters>
+             <template xsi:nil="true"/>
+          </customDefinitions>
+          <name>Salary</name>
+      </prescribableFields>
+      <prescribableFields>
+          <customDefinitions>
+             <filters>
+                <field>Level</field>
+                <operator>LessThan</operator>
+                <type>Number</type>
+                <values>
+                   <type>PlaceHolder</type>
+                   <value>[value_low]</value>
+                </values>
+            </filters>
+            <template xsi:nil="true"/>
+          </customDefinitions>
+          <customDefinitions>
+             <filters>
+                <field>Level</field>
+                <operator>GreaterThan</operator>
+                <type>Number</type>
+                <values>
+                   <type>PlaceHolder</type>
+                   <value>[value_low]</value>
+                 </values>
+              </filters>
+              <template xsi:nil="true"/>
+          </customDefinitions>
+          <name>Level</name>
+      </prescribableFields>
+      <prescribableFields>
+         <name>Field</name>
+      </prescribableFields>
+   </deployedModels>
+   <label>employees_Tenure</label>
+   <outcome>
+      <field>Tenure</field>
+      <fieldLabel>Tenure</fieldLabel>
+      <goal>Maximize</goal>
+      <mappedField>Opportunity.Amount</mappedField>
+   </outcome>
+   <predictionType>Regression</predictionType>
+   <pushbackField>My_Pushback_Field__c</pushbackField>
+   <subscribedEntity>Opportunity</subscribedEntity>
+   <terminalStateFilters>
+      <field>Opportunity.Amount</field>
+      <operator>GreaterThan</operator>
+      <values>
+         <type>Constant</type>
+         <value>5</value>
+      </values>
+   </terminalStateFilters>
+   <terminalStateFilters>
+      <field>Opportunity.Amount</field>
+      <operator>LessThan</operator>
+      <values>
+         <type>Constant</type>
+         <value>10</value>
+      </values>
+   </terminalStateFilters>
+</DiscoveryGoal>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

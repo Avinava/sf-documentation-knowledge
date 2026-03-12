@@ -5,11 +5,14 @@ topic: connectapidirectmessagememberactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.586Z
-keywords: [ConnectApi.DirectMessageMemberActivity, See]
+lastCollected: 2026-03-12T05:14:27.041Z
+estimatedTokens: 201
+keywords: [ConnectApi.DirectMessageMemberActivity, Direct, message, member, activity.]
 ---
 
 # ConnectApi.DirectMessageMemberActivity
+
+> Direct message member activity.
 
 # ConnectApi.DirectMessageMemberActivity
 
@@ -25,3 +28,10 @@ Direct message member activity.
 #### See Also
 
 -   [ConnectApi.DirectMessageMemberActivityPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_membership_activity_collection.htm "A page of direct message member activities.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.​DirectMessage​MemberPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_member_collection.htm)
+- ConnectApi.DirectMessageMemberActivityPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_direct_message_membership_activity_collection.htm)

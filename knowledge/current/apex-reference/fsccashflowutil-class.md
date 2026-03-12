@@ -5,11 +5,19 @@ topic: fsccashflowutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:35.492Z
-keywords: [FSCCashFlowUtil, Class, Namespace, Usage]
+lastCollected: 2026-03-12T05:14:22.564Z
+estimatedTokens: 189
+namespace: Usage
+keywords: [FSCCashFlowUtil, callable, manage, validate, data, party, income, expense, entities, passing, action, corresponding, arguments., provides, utility, used, FSCCashFlow, Flexcard, its, child]
 ---
 
 # FSCCashFlowUtil Class
+
+> Use the callable FSCCashFlowUtil class to manage and validate data for party income
+        and expense entities by passing in the action and the corresponding arguments. This class
+        provides utility methods used in FSCCashFlow Flexcard and its child Flexcards.
+
+**Namespace:** `Usage`
 
 # FSCCashFlowUtil Class
 
@@ -24,3 +32,8 @@ Use the callable FSCCashFlowUtil class to manage and validate data for party inc
 The Financial Goals FlexCards use Integration Procedures that call the FSCHouseholdService class. These FlexCards display information about Financial Goals.
 
 -   **[FSCCashFlowUtil Methods](atlas.en-us.apexref.meta/apexref/apex_fsccashflowutil_methods.htm)**
+
+## Related Topics
+
+- fsccashflow Namespace (atlas.en-us.apexref.meta/apexref/apex_namespace_fsccashflow.htm)
+- FSCCashFlowUtil Methods (atlas.en-us.apexref.meta/apexref/apex_fsccashflowutil_methods.htm)

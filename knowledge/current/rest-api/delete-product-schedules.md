@@ -5,11 +5,16 @@ topic: delete-product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.484Z
-keywords: [Delete, Product, Schedules, Syntax]
+lastCollected: 2026-03-12T05:14:35.755Z
+estimatedTokens: 119
+keywords: [Delete, Product, Schedules, installments, revenue, quantity, schedule, opportunity, products., Deleting, schedules, fires, delete, triggers., resource, REST, API, version, 43.0, later.]
 ---
 
 # Delete Product Schedules
+
+> Delete all installments in a revenue or quantity schedule for opportunity products.
+  Deleting all schedules also fires delete triggers. This resource is available in REST API version
+  43.0 and later.
 
 # Delete Product Schedules
 

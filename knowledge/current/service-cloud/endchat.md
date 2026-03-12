@@ -5,11 +5,15 @@ topic: endchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.823Z
-keywords: [endChat, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.177Z
+estimatedTokens: 176
+keywords: [endChat, Ends, chat, which, agent, currently, engaged., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # endChat()
+
+> Ends a chat in which an agent is currently engaged. Available in API version 29.0 or
+            later.
 
 # endChat()
 
@@ -41,3 +45,34 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | success | Boolean | true if ending the chat was successful; false if ending the chat wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.endChat(chatKey:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testEndChat();return false;">End Chat</a> 
+
+    <script type="text/javascript">
+        function testEndChat() {
+            //Get the value for 'myChatKey'from the getEngagedChats() or onChatStarted() methods. 
+            //These values are for example purposes only
+            var chatKey = 'myChatKey';
+            sforce.console.chat.endChat(chatKey, endSuccess);
+        }
+    
+        function endSuccess(result) {
+            //Report whether ending the chat was succesful
+            if (result.success == true) {
+                alert('Ending the chat was successful');
+            } else {
+                alert('Ending the chat was not successful');
+            }
+        };
+    </script>
+</apex:page>
+```

@@ -5,11 +5,15 @@ topic: oauth-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.859Z
-keywords: [OAuth, Salesforce, Connect, Custom, Adapters, See]
+lastCollected: 2026-03-12T05:14:33.005Z
+estimatedTokens: 554
+keywords: [OAuth, Salesforce, Connect, Custom, Adapters, 2.0, access, external, data, how, avoid, interruptions, caused, expired, tokens.]
 ---
 
 # OAuth for Salesforce Connect Custom Adapters
+
+> If you use OAuth 2.0 to access external data, learn how to avoid access interruptions
+        caused by expired access tokens.
 
 # OAuth for Salesforce Connect Custom Adapters
 
@@ -31,3 +35,7 @@ For other authentication providers, you must request offline access in the authe
 #### See Also
 
 -   [Authentication for Salesforce Connect Custom Adapters](atlas.en-us.apexcode.meta/apexcode/apex_connector_authentication.htm "Your DataSource.Provider class declares what types of credentials can be used to authenticate to the external system.")
+
+## Related Topics
+
+- Authentication for Salesforce Connect Custom Adapters (atlas.en-us.apexcode.meta/apexcode/apex_connector_authentication.htm)

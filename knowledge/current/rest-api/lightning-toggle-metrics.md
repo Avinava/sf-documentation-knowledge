@@ -5,11 +5,16 @@ topic: lightning-toggle-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.396Z
-keywords: [Lightning, Toggle, Metrics, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.609Z
+estimatedTokens: 180
+keywords: [Lightning, Toggle, Metrics, details, users, who, switched, between, Salesforce, Classic, Experience., resource, REST, API, version, 44.0, later., Syntax, Example]
 ---
 
 # Lightning Toggle Metrics
+
+> Returns details about users who switched between
+   Salesforce Classic and Lightning Experience. This resource is available in REST API version
+  44.0 and later.
 
 # Lightning Toggle Metrics
 
@@ -52,4 +57,10 @@ Request parameters
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT sum(RecordCount) Total FROM LightningToggleMetrics WHERE MetricsDate = LAST_MONTH AND Action = 'switchToAloha'
 ```

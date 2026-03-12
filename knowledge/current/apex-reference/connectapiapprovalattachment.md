@@ -5,11 +5,14 @@ topic: connectapiapprovalattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.938Z
-keywords: [ConnectApi.ApprovalAttachment, Important]
+lastCollected: 2026-03-12T05:14:26.068Z
+estimatedTokens: 289
+keywords: [ConnectApi.ApprovalAttachment, Attach, approval, feed, item., Important]
 ---
 
 # ConnectApi.ApprovalAttachment
+
+> Attach an approval to a feed item.
 
 # ConnectApi.ApprovalAttachment
 
@@ -29,3 +32,11 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | postTemplateFields | List <ConnectApi.​Approval​Post​Template​Field> | Collection of approval post template fields | 28.0–31.0 |
 | process​InstanceStepId | String | An approval step ID. | 30.0–31.0 |
 | status | ConnectApi.​WorkflowProcess​Status Enum | Status of a workflow process.ApprovedFaultHeldNoResponsePendingReassignedRejectedRemovedStarted | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.ApprovalCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_approval_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Approval​Post​Template​Field (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_approval_post.htm)

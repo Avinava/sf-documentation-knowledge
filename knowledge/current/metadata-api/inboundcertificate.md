@@ -5,11 +5,15 @@ topic: inboundcertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.075Z
-keywords: [InboundCertificate, Important, File, Suffix, Directory, Location, Special, Access, Rules, Version, Fields, Declarative, Metadata, Sample, Definition, Usage]
+lastCollected: 2026-03-12T05:14:40.478Z
+estimatedTokens: 404
+keywords: [InboundCertificate, Represents, mutual, authentication, certificate, imported, Salesforce, org., Important, File, Suffix, Directory, Location, Special, Access, Rules, Version, Fields, Declarative, Metadata]
 ---
 
 # InboundCertificate
+
+> Represents a mutual authentication certificate that is imported to
+      your Salesforce org.
 
 # InboundCertificate
 
@@ -61,3 +65,25 @@ The following is an example package.xml that references the previous definition.
 ## Usage
 
 To prevent simple impersonation from compromising security, you can require clients and servers to prove their identity to each other with a mutual authentication certificate.
+
+## Code Examples
+
+```
+<InboundCertificate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <expirationDate>2021-02-04</expirationDate>
+    <issuer>C=USA,ST=CA,L=San Francisco,O=Salesforce.com,OU=00Dxx0000006Jm7,CN=newTestCert</issuer>
+    <masterLabel>TestMutualAuthCert2</masterLabel>
+    <serialId>29161320252531323757470546071624</serialId>
+</InboundCertificate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>InboundCertificate</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```

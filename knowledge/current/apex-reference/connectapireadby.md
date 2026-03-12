@@ -5,11 +5,14 @@ topic: connectapireadby
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.840Z
-keywords: [ConnectApi.ReadBy, See]
+lastCollected: 2026-03-12T05:14:28.751Z
+estimatedTokens: 140
+keywords: [ConnectApi.ReadBy, Information, who, read, feed, element, when.]
 ---
 
 # ConnectApi.ReadBy
+
+> Information about who read the feed element and when.
 
 # ConnectApi.ReadBy
 
@@ -23,3 +26,9 @@ Information about who read the feed element and when.
 #### See Also
 
 -   [ConnectApi.ReadByPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_read_by_collection.htm "A collection of information about who read the feed element and when.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.ReadByPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_read_by_collection.htm)

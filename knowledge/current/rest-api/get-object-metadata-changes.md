@@ -5,11 +5,14 @@ topic: get-object-metadata-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.821Z
-keywords: [Get, Object, Metadata, Changes]
+lastCollected: 2026-03-12T05:14:36.223Z
+estimatedTokens: 368
+keywords: [Get, Metadata, Changes, sObject, Describe, resource, If-Modified-Since, HTTP, header, determine, metadata, changed.]
 ---
 
 # Get Object Metadata Changes
+
+> Use the sObject Describe resource and the If-Modified-Since HTTP header to determine if object metadata has changed.
 
 # Get Object Metadata Changes
 
@@ -36,3 +39,19 @@ Example response status code
 ```
 
 If there were changes to Merchandise\_\_c made after July 3rd, 2013, the response body would contain the metadata for Merchandise\_\_c. See [Get Field and Other Metadata for an Object](atlas.en-us.api_rest.meta/api_rest/dome_sobject_describe.htm "Use the *** resource to retrieve all the metadata for an object, including information about each field, URLs, and child relationships.") for an example.
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Merchandise__c/describe -H "Authorization: Bearer token" -H "If-Modified-Since: Wed, 3 Jul 2013 19:43:31 GMT"
+```
+
+```
+HTTP/1.1 304 Not Modified
+Date: Fri, 12 Jul 2013 05:03:24 GMT
+```
+
+## Related Topics
+
+- sObject Describe (atlas.en-us.api_rest.meta/api_rest/resources_sobject_describe.htm)
+- Get Field and Other Metadata for an Object (atlas.en-us.api_rest.meta/api_rest/dome_sobject_describe.htm)

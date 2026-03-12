@@ -5,11 +5,15 @@ topic: deployproblemtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.362Z
-keywords: [DeployProblemType, Enum, Values, See]
+lastCollected: 2026-03-12T05:14:29.464Z
+estimatedTokens: 132
+keywords: [DeployProblemType, Describes, problem, unsuccessful, component, deploy., Values]
 ---
 
 # DeployProblemType Enum
+
+> Describes the problem type for an unsuccessful component
+    deploy.
 
 # DeployProblemType Enum
 
@@ -28,3 +32,7 @@ The following are the values of the Metadata.DeployProblemType enum.
 #### See Also
 
 -   [StatusCode Enum](atlas.en-us.apexref.meta/apexref/apex_enum_Metadata_StatusCode.htm "Describes the status code for an unsuccessful component deploy.")
+
+## Related Topics
+
+- StatusCode Enum (atlas.en-us.apexref.meta/apexref/apex_enum_Metadata_StatusCode.htm)

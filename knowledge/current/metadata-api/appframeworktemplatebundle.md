@@ -5,11 +5,15 @@ topic: appframeworktemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.589Z
-keywords: [AppFrameworkTemplateBundle, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.948Z
+estimatedTokens: 733
+keywords: [AppFrameworkTemplateBundle, Represents, app, framework, template, bundle., templates, Data, 360, Tableau, Next, assets., Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # AppFrameworkTemplateBundle
+
+> Represents the app framework template bundle. Use these
+      templates for Data 360 and Tableau Next assets.
 
 # AppFrameworkTemplateBundle
 
@@ -66,3 +70,34 @@ This is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+appTemplates
+  myTemplate
+    template-info.json
+    create-chain.json
+    rules.json
+    variables.json 
+    layout.json
+    workspaces
+      myWorkspace.json
+    dashboards
+      myDashboard.json
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+    <members>myTemplate</members>
+    <name>AppFrameworkTemplateBundle</name>
+</types>
+<version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

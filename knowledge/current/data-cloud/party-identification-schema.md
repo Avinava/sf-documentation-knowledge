@@ -5,11 +5,15 @@ topic: party-identification-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.288Z
-keywords: [Party, Identification, Schema]
+lastCollected: 2026-03-12T05:14:12.260Z
+estimatedTokens: 492
+keywords: [Party, Identification, Schema, party, identification, schema, capture, profile, data, map, individual, streams.]
 ---
 
 # Party Identification Schema
+
+> Use the party identification schema to capture profile data to map to individual data
+    streams.
 
 # Party Identification Schema
 

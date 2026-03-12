@@ -5,11 +5,15 @@ topic: connectapireadbypage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.846Z
-keywords: [ConnectApi.ReadByPage, See]
+lastCollected: 2026-03-12T05:14:28.759Z
+estimatedTokens: 324
+keywords: [ConnectApi.ReadByPage, collection, information, who, read, feed, element, when.]
 ---
 
 # ConnectApi.ReadByPage
+
+> A collection of information about who read the feed element and
+      when.
 
 # ConnectApi.ReadByPage
 
@@ -29,3 +33,11 @@ A collection of information about who read the feed element and when.
 #### See Also
 
 -   [ConnectApi.ReadByCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_read_by_capability.htm "If a feed element has this capability, the context user can mark it as read.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ReadBy (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_read_by.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ReadByCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_read_by_capability.htm)

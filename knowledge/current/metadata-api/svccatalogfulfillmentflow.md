@@ -5,11 +5,15 @@ topic: svccatalogfulfillmentflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.794Z
-keywords: [SvcCatalogFulfillmentFlow, File, Suffix, Directory, Location, Version, Fields, SvcCatalogFulfillFlowItem, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.063Z
+estimatedTokens: 986
+keywords: [SvcCatalogFulfillmentFlow, Represents, flow, associated, specific, catalog, item, Service, Catalog., File, Suffix, Directory, Location, Version, Fields, SvcCatalogFulfillFlowItem, Declarative, Metadata, Sample, Definition]
 ---
 
 # SvcCatalogFulfillmentFlow
+
+> Represents the flow associated with a specific catalog item in the Service
+    Catalog.
 
 # SvcCatalogFulfillmentFlow
 
@@ -61,3 +65,77 @@ The following is an example of a SvcCatalogFulfillmentFlow component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SvcCatalogFulfillmentFlow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Creates a Case record related to the Contact belonging to the current User. If this will be used by Users without related Contacts, provide an Account Id below. This Account Id will be used instead of a Contact.</description>
+    <flow>Create_Case_by_Record_Type</flow>
+    <isProtected>false</isProtected>
+    <items>
+        <catalogInputVariable>Input_RecordTypeApiName</catalogInputVariable>
+        <displayType>Text</displayType>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>true</isRequired>
+        <masterLabel>Record Type Developer Name</masterLabel>
+    </items>
+    <items>
+        <catalogInputVariable>Input_AccountId</catalogInputVariable>
+        <displayType>Lookup</displayType>
+        <fieldDefinition>AccountId</fieldDefinition>
+        <fieldLookupDomain>Account</fieldLookupDomain>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>false</isRequired>
+        <masterLabel>(Optional) Related Account</masterLabel>
+        <objectLookupDomain>Contact</objectLookupDomain>
+    </items>
+    <items>
+        <catalogInputVariable>Input_Origin</catalogInputVariable>
+        <displayType>Picklist</displayType>
+        <fieldDefinition>Origin</fieldDefinition>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>true</isRequired>
+        <masterLabel>Case Origin</masterLabel>
+        <objectLookupDomain>Case</objectLookupDomain>
+    </items>
+    <items>
+        <catalogInputVariable>Input_Priority</catalogInputVariable>
+        <displayType>Picklist</displayType>
+        <fieldDefinition>Priority</fieldDefinition>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>false</isRequired>
+        <masterLabel>Case Priority</masterLabel>
+        <objectLookupDomain>Case</objectLookupDomain>
+    </items>
+    <items>
+        <catalogInputVariable>Input_Status</catalogInputVariable>
+        <displayType>Picklist</displayType>
+        <fieldDefinition>Status</fieldDefinition>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>true</isRequired>
+        <masterLabel>Case Status</masterLabel>
+        <objectLookupDomain>Case</objectLookupDomain>
+    </items>
+    <items>
+        <catalogInputVariable>Input_Subject</catalogInputVariable>
+        <displayType>Text</displayType>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>true</isRequired>
+        <masterLabel>Case Subject</masterLabel>
+    </items>
+    <items>
+        <catalogInputVariable>Input_Description</catalogInputVariable>
+        <displayType>Text</displayType>
+        <isAdditionalQuestionsInputVariable>true</isAdditionalQuestionsInputVariable>
+        <isRequired>false</isRequired>
+        <masterLabel>Case Description</masterLabel>
+    </items>
+    <masterLabel>Create Case by Record Type</masterLabel>
+</SvcCatalogFulfillmentFlow>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

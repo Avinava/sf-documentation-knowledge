@@ -5,11 +5,16 @@ topic: introduction-to-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.083Z
-keywords: [Introduction, REST, API, Tip, See]
+lastCollected: 2026-03-12T05:14:35.169Z
+estimatedTokens: 336
+keywords: [Introduction, REST, API, provides, programmatic, access, data, Salesforce., flexibility, scalability, excellent, choice, integrating, Salesforce, applications, performing, complex, operations, large, scale.]
 ---
 
 # Introduction to REST API
+
+> REST API provides you with programmatic access to your data in Salesforce. The
+  flexibility and scalability of REST API make it an excellent choice for integrating Salesforce
+  into your applications and for performing complex operations on a large scale.
 
 # Introduction to REST API
 

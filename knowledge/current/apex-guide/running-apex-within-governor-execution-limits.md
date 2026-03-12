@@ -5,11 +5,17 @@ topic: running-apex-within-governor-execution-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.277Z
-keywords: [Running, Apex, within, Governor, Execution, Limits, Bulkifying, DML, Calls, Efficient, SOQL, Queries, Loops]
+lastCollected: 2026-03-12T05:14:33.588Z
+estimatedTokens: 1143
+keywords: [Running, Apex, within, Governor, Execution, Limits, develop, software, multitenant, cloud, environment, such, Lightning, platform, don’t, scale, code, because, does, you.]
 ---
 
 # Running Apex within Governor Execution Limits
+
+> When you develop software in a multitenant cloud environment such as the Lightning
+        platform, you don’t have to scale your code, because the Lightning platform does it for you.
+        Because resources are shared in a multitenant platform, the Apex runtime engine enforces
+        some limits to ensure that no one transaction monopolizes shared resources.
 
 # Running Apex within Governor Execution Limits
 
@@ -79,4 +85,65 @@ To prevent this from happening, this second version uses a SOQL for loop, which 
 
 ```
 
+```
+
+## Code Examples
+
+```
+for(Line_Item__c li : liList) {
+    if (li.Units_Sold__c > 10) {
+        li.Description__c = 'New description';
+    }
+    // Not a good practice since governor limits might be hit.
+    update li;
+}
+```
+
+```apex
+List<Line_Item__c> updatedList = new List<Line_Item__c>();
+
+for(Line_Item__c li : liList) {
+    if (li.Units_Sold__c > 10) {
+        li.Description__c = 'New description';
+        updatedList.add(li);
+    }
+}
+
+// Once DML call for the entire list of line items
+update updatedList;
+```
+
+```apex
+trigger LimitExample on Invoice_Statement__c (before insert, before update) {
+    for(Invoice_Statement__c inv : Trigger.new) {
+        // This SOQL query executes once for each item in Trigger.new.
+        // It gets the line items for each invoice statement.
+        List<Line_Item__c> liList = [SELECT Id,Units_Sold__c,Merchandise__c 
+                                     FROM Line_Item__c 
+                                     WHERE Invoice_Statement__c = :inv.Id];
+        for(Line_Item__c li : liList) {
+            // Do something
+        }
+    }
+}
+```
+
+```apex
+trigger EnhancedLimitExample on Invoice_Statement__c (before insert, before update) {
+    // Perform SOQL query outside of the for loop.
+    // This SOQL query runs once for all items in Trigger.new.
+    List<Invoice_Statement__c> invoicesWithLineItems = 
+        [SELECT Id,Description__c,(SELECT Id,Units_Sold__c,Merchandise__c from Line_Items__r)
+         FROM Invoice_Statement__c WHERE Id IN :Trigger.newMap.KeySet()];
+    
+    for(Invoice_Statement__c inv : invoicesWithLineItems) {
+        for(Line_Item__c li : inv.Line_Items__r) {
+            // Do something
+        }
+    }
+}
+```
+
+```apex
+List<Merchandise__c> ml = [SELECT Id,Name FROM Merchandise__c];
 ```

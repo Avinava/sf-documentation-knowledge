@@ -5,11 +5,15 @@ topic: metadata-field-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.642Z
-keywords: [Metadata, Field, Types, Important, ValueSet, ValueSetValuesDefinition, ValueSettings]
+lastCollected: 2026-03-12T05:14:39.833Z
+estimatedTokens: 1375
+keywords: [Metadata, Field, Types, field, types, extend, described, Salesforce, Reference., Important, ValueSet, ValueSetValuesDefinition, ValueSettings]
 ---
 
 # Metadata Field Types
+
+> These field types extend the field types described in the Salesforce Object
+        Reference.
 
 # Metadata Field Types
 
@@ -61,3 +65,9 @@ Represents a set of values that can be selected from a custom picklist field. De
 | valueName | string | Defines the values in the custom dependent picklist. |
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm "WebLink")
+
+## Related Topics
+
+- Picklist (Including Dependent
+                Picklist) (atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)

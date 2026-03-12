@@ -5,11 +5,15 @@ topic: device-application-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.329Z
-keywords: [Device, Application, Engagement, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.895Z
+estimatedTokens: 2382
+keywords: [Device, Application, Engagement, DMO, Data, Cloud, data, model, device, engagement, example, mobile, app, usage., API, Name, Category, Primary, Subject, Area]
 ---
 
 # Device Application Engagement DMO
+
+> The Device Application Engagement DMO is a Data Cloud data model object
+		(DMO) for data about device engagement, for example mobile app usage.
 
 # Device Application Engagement DMO
 

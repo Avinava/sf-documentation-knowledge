@@ -5,11 +5,15 @@ topic: service-report-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.267Z
-keywords: [Service, Report, Template, Response, Body, Example]
+lastCollected: 2026-03-12T05:14:55.548Z
+estimatedTokens: 915
+keywords: [Service, Report, Template, information, corresponding, service, report, templates, field, service., resource, REST, API, version, 40.0, later., Response, Body, Example]
 ---
 
 # Service Report Template
+
+> Returns information corresponding to one or more service report templates in field
+  service. This resource is available in REST API version 40.0 and later.
 
 # Service Report Template
 
@@ -100,4 +104,199 @@ Response
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "serviceReportTemplates": [
+    {
+      "defaultTemplate": false,
+      "error": {
+        "errorCode": "INVALID_TEMPLATE_ID",
+        "errorMessage": "The Service Report Template ID is invalid."
+      },
+      "subTemplates": [],
+      "templateId": "0SLxx0000000ABC"
+    },
+    {
+      "defaultTemplate": false,
+      "error": null,
+      "subTemplates": [
+        {
+          "regions": [
+            {
+              "sections": [
+                {
+                  "columns": 2,
+                  "hideFieldLabels": false,
+                  "hideTitle": false,
+                  "items": [
+                    {
+                      "position": {
+                        "column": 0,
+                        "row": 0
+                      },
+                      "richText": "<img alt="User-added image" src="https://mobile1.file.force.com/servlet/rtaImage?eid=0QRR000000008oZ&amp;feoid=Data&amp;refid=0EMR00000000DGK"></img>",
+                      "type": "rta"
+                    },
+                    {
+                      "position": {
+                        "column": 1,
+                        "row": 0
+                      },
+                      "richText": "<u><i>Salesforce.com</i></u>",
+                      "type": "rta"
+                    }
+                  ],
+                  "position": 0,
+                  "rightAlign": false,
+                  "title": "Service Report",
+                  "type": "section"
+                }
+              ],
+              "type": "HEADER"
+            },
+            {
+              "sections": [
+                {
+                  "columns": 2,
+                  "hideFieldLabels": false,
+                  "hideTitle": true,
+                  "items": [],
+                  "position": 0,
+                  "rightAlign": false,
+                  "showPageNumber": false,
+                  "title": "Footer Section",
+                  "type": "section"
+                }
+              ],
+              "type": "FOOTER"
+            },
+            {
+              "sections": [
+                {
+                  "columns": 2,
+                  "hideFieldLabels": false,
+                  "hideTitle": false,
+                  "items": [
+                    {
+                      "entityName": "ServiceAppointment",
+                      "label": "Account",
+                      "name": "AccountId",
+                      "position": {
+                        "column": 0,
+                        "row": 0
+                      },
+                      "type": "entityField"
+                    },
+                    ...
+                    {
+                      "position": {
+                        "column": 1,
+                        "row": 0
+                      },
+                      "richText": "Prepared By:",
+                      "type": "rta"
+                    }
+                  ],
+                  "position": 0,
+                  "rightAlign": false,
+                  "title": "Account & Contact Information",
+                  "type": "section"
+                },
+                {
+                  "entityName": "WorkOrder",
+                  "filterCriteria": {
+                    "conditions": [
+                      {
+                        "field": "Status",
+                        "operation": "includes",
+                        "position": 0,
+                        "values": [
+                          "In Progress",
+                          "Completed"
+                        ]
+                      }
+                    ]
+                  },
+                  "hideTitle": false,
+                  "items": [
+                    {
+                      "column": 0,
+                      "label": "Work Order Line Item Number",
+                      "name": "LineItemNumber"
+                    },
+                    ...
+                    {
+                      "column": 6,
+                      "label": "Unit Price",
+                      "name": "UnitPrice"
+                    }
+                  ],
+                  "position": 5,
+                  "relatedEntityName": "WorkOrderLineItem",
+                  "relatedListName": "WorkOrderLineItems",
+                  "title": "Work Order Line Items",
+                  "type": "relatedList"
+                },
+                {
+                  "columns": 1,
+                  "hideFieldLabels": false,
+                  "hideTitle": false,
+                  "items": [
+                    {
+                      "entityName": "DigitalSignature",
+                      "label": "Signature",
+                      "name": "Document",
+                      "position": {
+                        "column": 0,
+                        "row": 0
+                      },
+                      "type": "entityField"
+                    },
+                    {
+                      "entityName": "DigitalSignature",
+                      "label": "Signed By",
+                      "name": "SignedBy",
+                      "position": {
+                        "column": 0,
+                        "row": 1
+                      },
+                      "type": "entityField"
+                    },
+                    {
+                      "entityName": "DigitalSignature",
+                      "label": "Date",
+                      "name": "SignedDate",
+                      "position": {
+                        "column": 0,
+                        "row": 2
+                      },
+                      "type": "entityField"
+                    }
+                  ],
+                  "position": 9,
+                  "rightAlign": false,
+                  "signatureType": "Default",
+                  "signatureTypeLabel": "Default",
+                  "title": "Customer Signature",
+                  "type": "signature"
+                }
+              ],
+              "type": "BODY"
+            }
+          ],
+          "subTemplateType": "WO_SA"
+        },
+        {
+          ...
+          "subTemplateType": "WOLI_SA"
+        }
+      ],
+      "templateId": "0SLR000000001QtOAI"
+    }
+  ]
+}
 ```

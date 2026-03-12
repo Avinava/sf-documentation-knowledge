@@ -5,11 +5,14 @@ topic: catalog-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.375Z
-keywords: [Catalog, Output]
+lastCollected: 2026-03-12T05:14:07.443Z
+estimatedTokens: 313
+keywords: [Catalog, Output, representation, catalog, definition.]
 ---
 
 # Catalog Output
+
+> Output representation of the catalog definition.
 
 # Catalog Output
 
@@ -31,3 +34,20 @@ JSON example
 | id | String | ID of the catalog. | Small, 60.0 | 60.0 |
 | name | String | Name of the catalog. If data translation is set up and specified in the org, the translated description is available. | Small, 60.0 | 60.0 |
 | numberOf​Categories | Integer | Number of categories in the catalog. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+catalogs": [
+    {
+      "catalogType": "Sales",
+      "code": "CAT009",
+      "description": "SmartBytes B2B Catalog",
+      "effectiveEndDate": "31-07-2023",
+      "effectiveStartDate": "24-07-2023",
+      "id": "0ZS1Q000000XbZAWA0",
+      "name": "SmartBytes B2B Catalog",
+      "numberOfCategories": 8
+    }
+]
+```

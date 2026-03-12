@@ -5,11 +5,18 @@ topic: rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:36.935Z
-keywords: [REST, Resources, Supported, Tooling, API]
+lastCollected: 2026-03-12T05:14:44.275Z
+estimatedTokens: 1406
+keywords: [REST, Resources, resources, give, access, Tooling, API, objects., querying, objects, keep, mind, user, permissions, needed, vary, endpoint, object., Check, description]
 ---
 
 # REST Resources
+
+> REST resources give you access to Tooling API objects. When querying
+      Tooling API objects using REST resources, keep in mind that the user permissions needed for
+      access vary from endpoint to endpoint and from object to object. Check the description of the
+      endpoint and object you want to use to determine user permission requirements for
+    access.
 
 # REST Resources
 
@@ -115,3 +122,15 @@ Supported methods: GET
 Retrieves Apex and automated flow tests. Available in API version 65.0 and later.
 
 For more information, see [Retrieve Unit Tests](atlas.en-us.api_tooling.meta/api_tooling/intro_rest_resources_testing_discovery.htm "The Test Discovery API returns details about Apex and automated flow tests. This resource is available in Tooling API version 65.0 and later.").
+
+## Related Topics
+
+- REST Resource Examples (atlas.en-us.api_tooling.meta/api_tooling/intro_rest_resource_examples.htm)
+- Improve Performance with
+          the Composite Resource (atlas.en-us.api_tooling.meta/api_tooling/tooling_resources_composite_composite.htm)
+- Run Unit Tests
+              Asynchronously (atlas.en-us.api_tooling.meta/api_tooling/intro_rest_resources_testing_runner_async.htm)
+- Run Unit Tests
+              Synchronously (atlas.en-us.api_tooling.meta/api_tooling/intro_rest_resources_testing_runner_sync.htm)
+- Retrieve Unit
+              Tests (atlas.en-us.api_tooling.meta/api_tooling/intro_rest_resources_testing_discovery.htm)

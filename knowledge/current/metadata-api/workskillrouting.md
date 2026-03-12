@@ -5,11 +5,18 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:55.405Z
-keywords: [WorkSkillRouting, Important, File, Suffix, Directory, Location, Version, Fields, WorkSkillRoutingAttribute, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:44.046Z
+estimatedTokens: 899
+keywords: [WorkSkillRouting, Represents, setup, stores, set, WorkSkillRoutingAttribute, objects., objects, used, route, work, item, agent, who, skills, necessary, take, work., extends, Metadata]
 ---
 
 # WorkSkillRouting
+
+> Represents a setup object that stores a set of
+      WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who
+      has the skills necessary to take the work.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # WorkSkillRouting
 
@@ -65,3 +72,27 @@ The following is an example of a WorkSkillRouting component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkSkillRouting xmlns="http://soap.sforce.com/2006/04/metadata">
+  <isActive>true</isActive>
+  <masterLabel>Attribute setup for skills-based routing for Case object</masterLabel>
+  <relatedEntity>Case</relatedEntity>
+  <workSkillRoutingAttributes>
+    <field>Case.Origin</field>
+    <isAdditionalSkill>false</isAdditionalSkill>
+    <skill>Technical_Skill</skill>
+    <skillLevel>3</skillLevel>
+    <skillPriority>2</skillPriority>
+    <value>Web</value>
+  </workSkillRoutingAttributes>
+</WorkSkillRouting>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

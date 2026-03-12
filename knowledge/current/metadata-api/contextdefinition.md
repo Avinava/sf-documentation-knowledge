@@ -5,11 +5,15 @@ topic: contextdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.294Z
-keywords: [ContextDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ContextDefinitionReference, ContextDefinitionVersion, ContextMapping, ContextMappingIntent, ContextNodeMapping, ContextAttributeMapping, ContextAttrHydrationDetail]
+lastCollected: 2026-03-12T05:14:37.983Z
+estimatedTokens: 3230
+keywords: [ContextDefinition, Represents, details, context, definition, describe, relationship, between, node, structures, within, context., Important, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # ContextDefinition
+
+> Represents the details of a context definition that
+			describe the relationship between the node structures within a context.
 
 # ContextDefinition
 
@@ -210,3 +214,177 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Test</fullName>
+    <contextDefinitionVersions>
+        <contextMappings>
+            <contextNodeMappings>
+                <contextNodeAttrDictionaries>
+                    <contextAttrDictIdentifier>Context Attribute Dictionary Name</contextAttrDictIdentifier>
+                    <contextNodeTagPrefix>Context Node Tag Prefix</contextNodeTagPrefix>
+                </contextNodeAttrDictionaries>
+                <contextAttributeMappings>
+                    <contextAttrHydrationDetails>
+                        <objectName>CustomAccount__c</objectName>
+                        <queryAttribute>Name</queryAttribute>
+                        <inheritedFrom>StandardDefinition/version/CustomAccountMapping/Praneeth/AccountName/hydrationInfo-1</inheritedFrom>
+                    </contextAttrHydrationDetails>
+                    <ctxAttrHydrationCtxs>
+                        <contextQueryAttribute>StandardDefinition</contextQueryAttribute>
+                        <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/AccountName/ctxToCtxhydrationInfo-1</inheritedFrom>
+                    </ctxAttrHydrationCtxs>
+                    <contextAttribute>AccountName</contextAttribute>
+                    <contextInputAttributeName>AccountName</contextInputAttributeName>
+                    <inheritedFrom>StandardDefinition/version/CustomAccountMapping/Praneeth/AccountName</inheritedFrom>
+                </contextAttributeMappings>
+                <contextAttributeMappings>
+                    <contextAttrHydrationDetails>
+                        <objectName>CustomAccount__c</objectName>
+                        <queryAttribute>CustomAccountName__c</queryAttribute>
+                        <inheritedFrom>StandardDefinition/version/CustomAccountMapping/Praneeth/CustomAccountName/hydrationInfo-1</inheritedFrom>
+                    </contextAttrHydrationDetails>
+                    <ctxAttrHydrationCtxs>
+                        <contextQueryAttribute>StandardDefinition</contextQueryAttribute>
+                        <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/AccountName/ctxToCtxhydrationInfo-1</inheritedFrom>
+                    </ctxAttrHydrationCtxs>
+                    <contextAttribute>CustomAccountName</contextAttribute>
+                    <contextInputAttributeName>CustomAccountName</contextInputAttributeName>
+                    <inheritedFrom>StandardDefinition/version/CustomAccountMapping/Praneeth/CustomAccountName</inheritedFrom>
+                </contextAttributeMappings>
+                <contextNode>Praneeth</contextNode>
+                <object>CustomAccount__c</object>
+                <inheritedFrom>StandardDefinition/version/CustomAccountMapping/Praneeth</inheritedFrom>
+                <mappedContextDefinition>CustomContextDefinition</mappedContextDefinition>
+            </contextNodeMappings>
+            <contextMappingIntents>
+                <mappingIntent>hydration</mappingIntent>
+            </contextMappingIntents>
+            <default>true</default>
+            <title>CustomAccountMapping</title>
+            <inheritedFrom>StandardDefinition/version/CustomAccountMapping</inheritedFrom>
+        </contextMappings>
+        <contextMappings>
+            <contextNodeMappings>
+                <contextNodeAttrDictionaries>
+                    <contextAttrDictIdentifier>Context Attribute Dictionary Name</contextAttrDictIdentifier>
+                    <contextNodeTagPrefix>Context Node Tag Prefix</contextNodeTagPrefix>
+                </contextNodeAttrDictionaries>
+                <contextAttributeMappings>
+                    <contextAttrHydrationDetails>
+                        <objectName>Account</objectName>
+                        <queryAttribute>Name</queryAttribute>
+                        <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/CustomAccountName/AccountName/hydrationInfo-1</inheritedFrom>
+                    </contextAttrHydrationDetails>
+                    <ctxAttrHydrationCtxs>
+                        <contextQueryAttribute>StandardDefinition</contextQueryAttribute>
+                        <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/AccountName/ctxToCtxhydrationInfo-1</inheritedFrom>
+                    </ctxAttrHydrationCtxs>
+                    <contextAttribute>AccountName</contextAttribute>
+                    <contextInputAttributeName>AccountName</contextInputAttributeName>
+                    <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/CustomAccountName/AccountName</inheritedFrom>
+                </contextAttributeMappings>
+                <contextAttributeMappings>
+                    <contextAttrHydrationDetails>
+                        <objectName>Account</objectName>
+                        <queryAttribute>CustomAccountName__c</queryAttribute>
+                        <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/CustomAccountName/hydrationInfo-1</inheritedFrom>
+                    </contextAttrHydrationDetails>
+                    <ctxAttrHydrationCtxs>
+                        <contextQueryAttribute>StandardDefinition</contextQueryAttribute>
+                        <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/AccountName/ctxToCtxhydrationInfo-1</inheritedFrom>
+                    </ctxAttrHydrationCtxs>
+                    <contextAttribute>CustomAccountName</contextAttribute>
+                    <contextInputAttributeName>CustomAccountName</contextInputAttributeName>
+                    <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth/CustomAccountName</inheritedFrom>
+                </contextAttributeMappings>
+                <contextNode>Praneeth</contextNode>
+                <object>Account</object>
+                <inheritedFrom>StandardDefinition/version/AccountMapping/Praneeth</inheritedFrom>
+                <mappedContextDefinition>CustomContextDefinition</mappedContextDefinition>
+            </contextNodeMappings>
+             <contextMappingIntents>
+                <mappingIntent>persistence</mappingIntent>
+             </contextMappingIntents>
+            <description>Account Mapping</description>
+            <default>false</default>
+            <title>AccountMapping</title>
+            <inheritedFrom>StandardDefinition/version/AccountMapping</inheritedFrom>
+        </contextMappings>
+        <contextNodes>
+            <contextNodeAttrDictionaries>
+                <contextAttrDictIdentifier>Context Attribute Dictionary Name</contextAttrDictIdentifier>
+                <contextNodeTagPrefix>Context Node Tag Prefix</contextNodeTagPrefix>
+            </contextNodeAttrDictionaries>
+            <contextAttributes>
+                <contextTags>
+                    <title>AccountName</title>
+                    <inheritedFrom>StandardDefinition/version/Praneeth/AccountName/AccountName</inheritedFrom>
+                </contextTags>
+                <dataType>string</dataType>
+                <fieldType>inputoutput</fieldType>
+                <key>false</key>
+                <title>AccountName</title>
+                <displayName>AccountName</displayName>
+                <description>Test Description</description>
+                <value>false</value>
+                <inheritedFrom>StandardDefinition/version/Praneeth/AccountName</inheritedFrom>
+            </contextAttributes>
+            <contextAttributes>
+                <dataType>string</dataType>
+                <fieldType>inputoutput</fieldType>
+                <key>false</key>
+                <title>CustomAccountName</title>
+                <value>false</value>
+                <displayName>CustomAccountName</displayName>
+                <description>Test Description</description>
+                <inheritedFrom>StandardDefinition/version/Praneeth/CustomAccountName</inheritedFrom>
+            </contextAttributes>
+            <contextTags>
+                <title>Praneeth</title>
+                <inheritedFrom>StandardDefinition/version/Praneeth/Praneeth</inheritedFrom>
+            </contextTags>
+            <title>Praneeth</title>
+            <transposable>false</transposable>
+            <inheritedFrom>StandardDefinition/version/Praneeth</inheritedFrom>
+            <canonicalNode></canonicalNode>
+            <displayName>Praneeth</displayName>
+        </contextNodes>
+        <endDate>2097-05-10 00:00:00</endDate>
+        <startDate>2023-05-10 00:00:00</startDate>
+        <versionNumber>1</versionNumber>
+        <isActive>true</isActive>
+    </contextDefinitionVersions>
+    <description>Test Description</description>
+    <contextTtl>10</contextTtl>
+    <inheritedFrom>StandardDefinition</inheritedFrom>
+    <inheritedFromVersion>1.0</inheritedFromVersion>
+    <clonedFrom>OriginalDefinition</clonedFrom>
+    <isProtected>false</isProtected>
+    <masterLabel>Test Label</masterLabel>
+    <title>TestTitle</title>
+    <displayName>TestTitle</displayName>
+</ContextDefinition>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Test</members>
+        <name>ContextDefinition</name>
+    </types>
+    <types>
+        <members>Account.CustomAccountName__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>CustomAccount__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```

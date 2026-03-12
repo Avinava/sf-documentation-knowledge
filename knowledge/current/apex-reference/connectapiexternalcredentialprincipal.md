@@ -5,11 +5,14 @@ topic: connectapiexternalcredentialprincipal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.742Z
-keywords: [ConnectApi.ExternalCredentialPrincipal, See]
+lastCollected: 2026-03-12T05:14:27.273Z
+estimatedTokens: 389
+keywords: [ConnectApi.ExternalCredentialPrincipal, External, credential, principal.]
 ---
 
 # ConnectApi.ExternalCredentialPrincipal
+
+> External credential principal.
 
 # ConnectApi.ExternalCredentialPrincipal
 
@@ -30,3 +33,14 @@ If you don’t have the View Setup and Configuration permission, some properties
 #### See Also
 
 -   [ConnectApi.ExternalCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm "External credential, including the named credentials and principals associated with it and the type and status of each principal.")
+
+## Related Topics
+
+- ConnectApi.​CredentialAuthentication​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ExternalCredential​Parameter (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_parameter.htm)
+- ConnectApi.​ExternalCredential​PrincipalAccess (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_principal_access.htm)
+- ConnectApi.​CredentialPrincipal​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ExternalCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm)

@@ -5,11 +5,15 @@ topic: products-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.335Z
-keywords: [Products, List, POST]
+lastCollected: 2026-03-12T05:14:06.934Z
+estimatedTokens: 1278
+keywords: [Products, List, POST, Retrieve, products., search, filter, sort, Note, Get, list, products, specified, catalog, category, subcategory., API, composite, Product, Discovery.]
 ---
 
 # Products List (POST)
+
+> Get a list of products for a specified catalog, category, or
+      subcategory. This API is a composite API for Product Discovery.
 
 # Products List (POST)
 
@@ -75,3 +79,80 @@ Properties
 Response body for POST
 
 [CPQ Base List](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_list_output.htm "Output representation of the list of catalogs, categories, or products based on the request.")
+
+## Code Examples
+
+```
+/connect/pcm/products
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products?productClassificationId=11BT10000004C9SMAU
+```
+
+```
+{
+  "catalogIds": [
+    "0ZST10000004D03OAE"
+  ],
+  "language": "spanish",
+  "filter": {
+    "criteria": [
+      {
+        "property": "name",
+        "operator": "contains",
+        "value": "Bundle Product"
+      }
+    ]
+  },
+  "relatedObjectFilters": [
+    {
+      "objectName": "ProductSpecificationRecType",
+      "criteria": [
+        {
+          "property": "IsCommercial",
+          "operator": "eq",
+          "value": false
+        }
+      ],
+      "additionalFields": {
+        "Product2": {
+          "fields": [
+            "code__c"
+          ]
+        }
+      }
+    }
+  ]
+}
+```
+
+```
+{
+  "catalogIds": [
+    "0ZSDU0000002Og54AE"
+  ],
+  "searchTerm": "Slack"
+}
+```
+
+```
+/connect/cpq/products
+```
+
+## Related Topics
+
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_catalog_additional_fields_input.htm)
+- Criteria Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_criteria.htm)
+- Related
+                        Object Filter (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filters_input.htm)
+- Sort (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_order.htm)
+- Products Output (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_products_output.htm)
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_additional_fields_input.htm)
+- Filter
+                      Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_filter_input.htm)
+- Related
+                        Object Filter Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filter_input.htm)
+- User Context Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)

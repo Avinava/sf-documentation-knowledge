@@ -5,11 +5,15 @@ topic: getagentstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.962Z
-keywords: [getAgentState, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.369Z
+estimatedTokens: 199
+keywords: [getAgentState, agent's, current, Chat, status, such, Online, Away, Offline., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # getAgentState()
+
+> Returns the agent's current Chat status, such as Online, Away, or Offline. Available in API version 29.0 or
+            later.
 
 # getAgentState()
 
@@ -41,3 +45,28 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | state | String | String representing the current agent state—for example, Online, Away, or Offline. |
 | success | Boolean | true if getting the agent’s Chat status was successful; false if getting the agent’s Chat status wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.getAgentState(callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testGetAgentState();return false;">Get Agent State</a> 
+
+    <script type="text/javascript">
+        function testGetAgentState() {
+            sforce.console.chat.getAgentState(function(result) {
+                if (result.success) {
+                    alert('Agent State:' + result.state);
+                } else {
+                    alert('getAgentState has failed');
+                }
+            });
+        }
+    </script>
+</apex:page>
+```

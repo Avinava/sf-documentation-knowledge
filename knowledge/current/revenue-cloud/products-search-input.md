@@ -5,11 +5,14 @@ topic: products-search-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T14:37:50.225Z
-keywords: [Products, Search, Input]
+lastCollected: 2026-03-12T05:14:06.458Z
+estimatedTokens: 1439
+keywords: [Products, Search, Input, representation, request, search, products.]
 ---
 
 # Products Search Input
+
+> Input representation of the request to search products.
 
 # Products Search Input
 
@@ -59,3 +62,61 @@ Properties
 | related​Object​Filter | Related Object Filter Input[] | Filter records based on supported criteria for related objects.The supported object is ProductSpecificationRecType.The supported property is IsCommerical.The supported operator is eq.The supported values are true and false. | Optional | 60.0 |
 | searchTerm | String | String used to get products with the product name containing the search term. See Search Considerations When Using Indexed Data. | Optional | 62.0 |
 | user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
+
+## Code Examples
+
+```
+{
+    "query": {
+        "textQuery": {
+            "searchPhrase": "firstproduct"
+        }
+    },
+    "catalogId": "0ZSxx0000000001GAA",
+    "categoryId": "0ZGT100000000qlOAA",
+    "correlationId":"9cbb9650-48c5-11ed-96d1-0afcf185843b",
+    "limit":10,
+    "cursor": "MTAwMDAwMDAwNg==",
+    "orderBy":["name:asc","id:desc"],
+    "userContext": {
+      "accountId": "001xx0000000001AAA",
+      "contactId": "003xx00000000D7AAI"
+    },
+  "additionalFields": {
+    "Product2": {
+       "fields" : [
+            "CustomField1__c",
+            "CustomField2__c",
+            "StandardField1"
+        ]
+    }
+  }
+}
+```
+
+```
+{
+    "searchTerm": "Laptop",
+    "catalogId": "0ZSDU0000002Og64AE",
+    "categoryId": "0ZGDU0000002P0A4AU",
+    "correlationId":"d9d8f898-19f5-464a-ba2b-6a070783f6c4",
+    "limit":10,
+    "cursor": "MTAwMDAwMDAwNw==",
+    "orderBy":["name:asc","id:desc"],
+    "userContext": {
+        "accountId": "001DU000001o2V0YAI"
+    }
+}
+```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_additional_fields_input.htm)
+- Filter
+                      Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_filter_input.htm)
+- Related
+                        Object Filter Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filter_input.htm)
+- User Context
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)

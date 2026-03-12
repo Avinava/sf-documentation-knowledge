@@ -5,11 +5,14 @@ topic: connectapicomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.333Z
-keywords: [ConnectApi.Comment, See]
+lastCollected: 2026-03-12T05:14:26.643Z
+estimatedTokens: 828
+keywords: [ConnectApi.Comment, comment.]
 ---
 
 # ConnectApi.Comment
+
+> A comment.
 
 # ConnectApi.Comment
 
@@ -41,5 +44,18 @@ A comment.
 #### See Also
 
 -   [ConnectApi.CommentPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_page.htm "A page of comments.")
-    
+
 -   [ConnectApi.QuestionAndAnswersCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_question_and_answers_capability.htm "If a feed element has this capability, it has a question and comments on the feed element are answers to the question.")
+
+## Related Topics
+
+- ConnectApi.​FeedItem​Attachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- ConnectApi.​FeedBody (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_body.htm)
+- ConnectApi.​CommentCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm)
+- ConnectApi.​ClientInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_client_info.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​Chatter​Like​Page (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_like_page.htm)
+- ConnectApi.​Message​Body (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_msg_body.htm)

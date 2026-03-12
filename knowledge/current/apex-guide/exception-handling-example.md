@@ -5,11 +5,14 @@ topic: exception-handling-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.112Z
-keywords: [Exception, Handling, Example, See]
+lastCollected: 2026-03-12T05:14:33.365Z
+estimatedTokens: 726
+keywords: [Exception, Handling, Example, how, exception, handling, works, Apex.]
 ---
 
 # Exception Handling Example
+
+> Learn how exception handling works in Apex.
 
 # Exception Handling Example
 
@@ -62,6 +65,65 @@ The previous code snippet creates an XML stream writer and adds some XML element
 #### See Also
 
 -   [Create Custom Exceptions](atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm)
-    
+
 -   [*Salesforce Developers Blog*: Error Handling Best Practices for Lightning and Apex](https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex "Salesforce Developers Blog: Error Handling Best Practices
     for Lightning and Apex - HTML (New Window)")
+
+## Code Examples
+
+```
+Merchandise__c m = new Merchandise__c();
+insert m;
+```
+
+```apex
+try {
+    Merchandise__c m = new Merchandise__c();
+    insert m;
+} catch(DmlException e) {
+    System.debug('The following exception has occurred: ' + e.getMessage());
+}
+```
+
+```apex
+try {
+    Merchandise__c m = new Merchandise__c();
+    insert m;
+    // This doesn't execute since insert causes an exception
+    System.debug('Statement after insert.');
+} catch(DmlException e) {
+    System.debug('The following exception has occurred: ' + e.getMessage());
+}
+```
+
+```apex
+try {
+    Merchandise__c m = new Merchandise__c();
+    insert m;
+} catch(DmlException e) {
+    System.debug('The following exception has occurred: ' + e.getMessage());
+}
+// This will get executed
+System.debug('Statement after insert.');
+```
+
+```apex
+try {
+    Merchandise__c m = new Merchandise__c();
+    insert m;
+} catch(DmlException e) {
+    System.debug('The following exception has occurred: ' + e.getMessage());
+}
+
+try {
+    System.debug('Statement after insert.');
+    // Insert other records
+}
+catch (Exception e) {
+    // Handle this exception here
+}
+```
+
+## Related Topics
+
+- Create Custom Exceptions (atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm)

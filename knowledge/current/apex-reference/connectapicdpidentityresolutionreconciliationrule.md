@@ -5,11 +5,15 @@ topic: connectapicdpidentityresolutionreconciliationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.934Z
-keywords: [ConnectApi.CdpIdentityResolutionReconciliationRule, See]
+lastCollected: 2026-03-12T05:14:24.563Z
+estimatedTokens: 396
+keywords: [ConnectApi.CdpIdentityResolutionReconciliationRule, Input, representation, identity, resolution, ruleset's, default, reconciliation, rule, object.]
 ---
 
 # ConnectApi.CdpIdentityResolutionReconciliationRule
+
+> Input representation for an identity resolution ruleset's default
+      reconciliation rule for an object.
 
 # ConnectApi.CdpIdentityResolutionReconciliationRule
 
@@ -26,5 +30,16 @@ Input representation for an identity resolution ruleset's default reconciliation
 #### See Also
 
 -   [ConnectApi.CdpIdentityResolutionConfigInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_config_inpu.htm "Input representation for creating an identity resolution ruleset.")
-    
+
 -   [ConnectApi.CdpIdentityResolutionConfigPatchInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_config_patch_inpu.htm "Input representation for updating an identity resolution ruleset.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationField​Rule (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_reconciliation_field_rul.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationRuleType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationSource (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_reconciliation_sourc.htm)
+- ConnectApi.CdpIdentityResolutionConfigInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_config_inpu.htm)
+- ConnectApi.CdpIdentityResolutionConfigPatchInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_config_patch_inpu.htm)

@@ -5,11 +5,14 @@ topic: formulaglobal-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.498Z
-keywords: [FormulaGlobal, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.656Z
+estimatedTokens: 346
+keywords: [FormulaGlobal, Specifies, variable, references, data, organization, withGlobalVariables, formulaGlobals, method., Values]
 ---
 
 # FormulaGlobal Enum
+
+> Specifies a global variable that references data in your organization in the withGlobalVariables(formulaGlobals) method.
 
 # FormulaGlobal Enum
 

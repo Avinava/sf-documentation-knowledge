@@ -5,11 +5,18 @@ topic: readmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.209Z
-keywords: [readMetadata, Syntax, Usage, Version, Permissions, Note, Basic, Steps, Reading, Metadata, Components, Sample, Code—Java, Arguments, Response]
+lastCollected: 2026-03-12T05:14:42.119Z
+estimatedTokens: 925
+namespace: MyNS
+keywords: [readMetadata, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Basic, Steps, Reading, Metadata, Components, Sample, Code—Java, Arguments, Response]
 ---
 
 # readMetadata()
+
+> Returns one or more metadata
+components from your organization synchronously.
+
+**Namespace:** `MyNS`
 
 # readMetadata()
 
@@ -46,11 +53,11 @@ If a user requires access to metadata but not to data, enable the [Modify Metada
 Use the following process to read metadata components:
 
 1.  Determine the metadata type of the components you want to read and the [fullName](atlas.en-us.api_meta.meta/api_meta/metadata.htm#meta_fullname) of each component to read.
-    
+
     The full names must match one or more full names returned by the listMetadata() call, which includes namespace prefixes. If you obtain the fullName from a package manifest file, and the component has a namespace prefix, prepend the namespace prefix to the fullName. Use this syntax: namespacePrefix\_\_ComponentName. For example, for the custom object component MyCustomObject\_\_c and the namespace MyNS, the fullName is MyNS\_\_MyCustomObject\_\_c. For more information about the [fullName](atlas.en-us.api_meta.meta/api_meta/metadata.htm#meta_fullname) field, see [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.").
-    
+
     You can read only components of the same type in a single call.
-    
+
 2.  Invoke the readMetadata() call. For the first argument, pass in the name of the metadata type. The metadata type must match one of the values returned by the describeMetadata() call. For the second argument, pass in an array of full names corresponding to the components you wish to get.
 3.  A ReadResult is returned that contains an array of Metadata components. Cast each returned Metadata object to the metadata type you specified in the call to get the component’s properties.
 
@@ -70,3 +77,49 @@ Use the following process to read metadata components:
 ## Response
 
 [ReadResult](atlas.en-us.api_meta.meta/api_meta/meta_readResult.htm "Contains result information for the readMetadata call.")
+
+## Code Examples
+
+```
+ReadResult = metadataConnection.readMetadata(string metadataType, string[] fullNames);
+```
+
+```apex
+public void readCustomObjectSync() {
+    try {
+        ReadResult readResult = metadataConnection
+                .readMetadata("CustomObject", new String[] {
+                        "MyCustomObject1__c", "MyCustomObject2__c" });
+        Metadata[] mdInfo = readResult.getRecords();
+        System.out.println("Number of component info returned: "
+                + mdInfo.length);
+        for (Metadata md : mdInfo) {
+            if (md != null) {
+                CustomObject obj = (CustomObject) md;
+                System.out.println("Custom object full name: "
+                        + obj.getFullName());
+                System.out.println("Label: " + obj.getLabel());
+                System.out.println("Number of custom fields: "
+                        + obj.getFields().length);
+                System.out.println("Sharing model: "
+                        + obj.getSharingModel());
+            } else {
+                System.out.println("Empty metadata.");
+            }
+        }
+    } catch (ConnectionException ce) {
+        ce.printStackTrace();
+    }
+}
+```
+
+## Related Topics
+
+- ReadResult (atlas.en-us.api_meta.meta/api_meta/meta_readResult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- fullName (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- CustomMetadata (atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)

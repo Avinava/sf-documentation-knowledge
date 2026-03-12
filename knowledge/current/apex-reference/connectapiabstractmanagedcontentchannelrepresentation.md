@@ -5,11 +5,14 @@ topic: connectapiabstractmanagedcontentchannelrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.785Z
-keywords: [ConnectApi.AbstractManagedContentChannelRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.872Z
+estimatedTokens: 167
+keywords: [ConnectApi.AbstractManagedContentChannelRepresentation, Managed, content, channel.]
 ---
 
 # ConnectApi.AbstractManagedContentChannelRepresentation
+
+> Managed content channel.
 
 # ConnectApi.AbstractManagedContentChannelRepresentation
 
@@ -27,3 +30,9 @@ No additional properties.
 #### See Also
 
 -   [ConnectApi.ManagedContentChannelsRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channels.htm "Collection of managed content channels.")
+
+## Related Topics
+
+- ConnectApi.ManagedContentChannel (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel.htm)
+- ConnectApi.ManagedContentChannelSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_summary.htm)
+- ConnectApi.ManagedContentChannelsRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channels.htm)

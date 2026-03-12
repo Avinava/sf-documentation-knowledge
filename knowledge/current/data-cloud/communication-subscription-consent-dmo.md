@@ -5,11 +5,16 @@ topic: communication-subscription-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.972Z
-keywords: [Communication, Subscription, Consent, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.328Z
+estimatedTokens: 898
+keywords: [Communication, Subscription, Consent, DMO, Data, Cloud, data, model, engagement, communication, channel, preferences, customer., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Communication Subscription Consent DMO
+
+> The Communication Subscription Consent DMO is a Data Cloud data model
+      object (DMO) for the engagement or communication channel preferences of a
+      customer.
 
 # Communication Subscription Consent DMO
 

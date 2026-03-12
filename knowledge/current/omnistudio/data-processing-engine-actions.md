@@ -5,11 +5,15 @@ topic: data-processing-engine-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.065Z
-keywords: [Data, Processing, Engine, Actions, Supported, REST, HTTP, Methods, Inputs, Note, Outputs, Usage, Example]
+lastCollected: 2026-03-12T05:14:51.092Z
+estimatedTokens: 465
+keywords: [Data, Processing, Engine, Actions, Run, active, definition., action, executes, definition, asynchronously., Supported, REST, HTTP, Inputs, Note, Outputs, Usage, Example]
 ---
 
 # Data Processing Engine Actions
+
+> Run an active Data Processing Engine definition. This action executes a
+   Data Processing Engine definition asynchronously.
 
 # Data Processing Engine Actions
 
@@ -89,4 +93,62 @@ Here’s a response for this action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "PointsAccrual" : {
+      "memberTier" : "Gold",
+      "minimumPointBalanceRequired" : "50000",
+      "pointType" : "non-qualifying"
+   }
+}
+```
+
+```
+{
+   "actionName":"PointsAccrual",
+      "errors":null,
+      "isSuccess":true,
+      "outputValues":{ 
+        "batchJobId":"0lMxx0000A000001EAA"
+      }
+}
+```
+
+```
+curl --include --request GET \
+--header "Authorization: Authorization: Bearer 00DR...xyz" \
+--header "Content-Type: application/json" \
+"https://instance.salesforce.com/services/data/v60.0/actions/custom/dataProcessingEngineAction/newinputvardefn"
+```
+
+```
+{
+  "inputs": [
+    {
+      "start_date": "26-09-2023",
+      "end_date": "12-12-2023",
+      "randomkey": "069SM0000001SgbYAE"
+    }
+  ]
+}
+```
+
+```
+[
+  {
+    "actionName": "newinputvardefn",
+    "errors": null,
+    "invocationID": null,
+    "isSuccess": true,
+    "outputValues": {
+      "batchJobId": "0mdSM0000006EJdYAM",
+      "accepted": true
+    },
+    "version": 1
+  }
+]
 ```

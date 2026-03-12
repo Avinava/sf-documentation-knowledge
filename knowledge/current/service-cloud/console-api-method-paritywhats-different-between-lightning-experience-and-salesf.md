@@ -6,12 +6,16 @@ topic: console-api-method-paritywhats-different-between-lightning-experience-and
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.109Z
-keywords: [Console, API, Method, Parity—What’s, Different, Between, Lightning, Experience, Salesforce, Classic?, Important, Methods, Primary, Tabs, Subtabs, Navigation, Note, Application-Level, Custom, Components]
+lastCollected: 2026-03-12T05:14:57.591Z
+estimatedTokens: 1924
+keywords: [Console, API, Parity—What’s, Different, Between, Lightning, Experience, Salesforce, Classic?, JavaScript, provides, similar, those, Integration, Toolkit., Important, Primary, Tabs, Subtabs, Navigation]
 ---
 
 # Console API Method Parity—What’s Different Between Lightning
             Experience and Salesforce Classic?
+
+> The Lightning Console JavaScript API provides methods similar to those methods in the
+        Salesforce Console Integration Toolkit.
 
 # Console API Method Parity—What’s Different Between Lightning Experience and Salesforce Classic?
 
@@ -138,3 +142,16 @@ LWC doesn’t currently support working with CTI.
 | onCallBegin() | Not supported for both Aura and LWC. |
 | onCallEnd() | Not supported for both Aura and LWC. |
 | onCallLogSaved() | Not supported for both Aura and LWC.. |
+
+## Related Topics
+
+- closeTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_closetab.htm)
+- closeTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_closeTab.htm)
+- focusPrimaryTabById() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focusprimarytabbyid.htm)
+- focusTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_focusTab.htm)
+- focusSubtabById() (atlas.en-us.api_console.meta/api_console/sforce_api_console_focussubtabbyid.htm)
+- getEnclosingPrimaryTabId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_getenclosingprimarytabid.htm)
+- getEnclosingTabId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getEnclosingTabId.htm)
+- EnclosingTabId (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_enclosingTabId.htm)
+- getEnclosingPrimaryTabObjectId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_getenclosingprimarytabobjectid.htm)
+- getEnclosingTabId() (atlas.en-us.api_console.meta/api_console/sforce_api_console_getenclosingtabid.htm)

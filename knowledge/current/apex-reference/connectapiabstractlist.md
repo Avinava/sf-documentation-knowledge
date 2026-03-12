@@ -5,11 +5,14 @@ topic: connectapiabstractlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.705Z
-keywords: [ConnectApi.AbstractList, See]
+lastCollected: 2026-03-12T05:14:24.200Z
+estimatedTokens: 197
+keywords: [ConnectApi.AbstractList, Primitive, list, input.]
 ---
 
 # ConnectApi.AbstractList
+
+> Primitive list input.
 
 # ConnectApi.AbstractList
 
@@ -29,3 +32,11 @@ No additional properties.
 #### See Also
 
 -   [ConnectApi.SearchFilter](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_filter_inpu.htm "Filter input for object search.")
+
+## Related Topics
+
+- ConnectApi.BooleanList (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_boolean_list_inpu.htm)
+- ConnectApi.DoubleList (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_double_list_inpu.htm)
+- ConnectApi.LongList (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_long_list_inpu.htm)
+- ConnectApi.StringList (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_string_list_inpu.htm)
+- ConnectApi.SearchFilter (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_filter_inpu.htm)

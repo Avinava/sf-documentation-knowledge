@@ -5,11 +5,16 @@ topic: run-relevant-apex-tests-in-a-deployment-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.849Z
-keywords: [Run, Relevant, Apex, Tests, Deployment, Beta, Important, Why, RunRelevantTests, Set, Test, Level, Apply, Class, Overrides, See]
+lastCollected: 2026-03-12T05:14:38.708Z
+estimatedTokens: 1093
+keywords: [Run, Relevant, Apex, Tests, Deployment, Beta, RunRelevantTests, beta, test, level, run, only, tests, relevant, deployment., Salesforce, automatically, identifies, based, analysis]
 ---
 
 # Run Relevant Apex Tests in a Deployment (Beta)
+
+> Use the RunRelevantTests (beta) test level to run only the Apex tests that are relevant
+  to your deployment. Salesforce automatically identifies the relevant tests based on an analysis of
+  the deployment payload and the payload dependencies.
 
 # Run Relevant Apex Tests in a Deployment (Beta)
 
@@ -52,3 +57,21 @@ For implementation instructions, see [@IsTest(critical=true)](https://developer.
 #### See Also
 
 -   [*Apex Developer Guide*: @IsTest Annotation](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)
+
+## Code Examples
+
+```
+// Create the DeployOptions object.
+DeployOptions deployOptions = new DeployOptions();
+
+// Set the appropriate test level.
+deployOptions.setTestLevel(TestLevel.RunRelevantTests);
+
+// Call deploy() by passing the deployment options object as an argument. 
+AsyncResult asyncResult = metadatabinding.deploy(zipBytes,deployOptions);
+```
+
+## Related Topics
+
+- Deploy Metadata
+     with Apex Testing Using REST (atlas.en-us.api_meta.meta/api_meta/meta_rest_deploy.htm)

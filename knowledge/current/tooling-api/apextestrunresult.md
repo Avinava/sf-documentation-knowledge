@@ -5,11 +5,15 @@ topic: apextestrunresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.250Z
-keywords: [ApexTestRunResult, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.690Z
+estimatedTokens: 658
+keywords: [ApexTestRunResult, Contains, summary, information, test, were, run, particular, Apex, job., API, version, 37.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # ApexTestRunResult
+
+> Contains summary information about all the test methods that were run
+   in a particular Apex job. Available from API version 37.0 or later.
 
 # ApexTestRunResult
 

@@ -5,11 +5,15 @@ topic: test-constants
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.139Z
-keywords: [Test, Constants]
+lastCollected: 2026-03-12T05:14:19.390Z
+estimatedTokens: 360
+keywords: [Test, Constants, provides, constants, used, keys, set, mock, application, environment, context, data.]
 ---
 
 # Test Constants
+
+> The Test class provides constants that are used as keys when you set
+   mock application and environment context data.
 
 # Test Constants
 
@@ -27,3 +31,10 @@ When you call [Canvas.Test.mockRenderContext(applicationContextTestValues, envir
 | KEY_NAMESPACE | Represents the canvas app namespace key in the ApplicationContext. |
 | KEY_SUB_LOCATION | Represents the canvas app sublocation key in the EnvironmentContext. |
 | KEY_VERSION | Represents the canvas app version key in the ApplicationContext. |
+
+## Related Topics
+
+- Canvas.Test.mockRenderContext(applicationContextTestValues,
+    environmentContextTestValues) (atlas.en-us.apexref.meta/apexref/apex_canvas_Test_mockRenderContext.htm)
+- ApplicationContext (atlas.en-us.apexref.meta/apexref/apex_interface_canvas_ApplicationContext.htm)
+- EnvironmentContext (atlas.en-us.apexref.meta/apexref/apex_interface_canvas_EnvironmentContext.htm)

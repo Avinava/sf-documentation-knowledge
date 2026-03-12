@@ -5,11 +5,16 @@ topic: dataobjectsearchindexconf
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.708Z
-keywords: [DataObjectSearchIndexConf, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.501Z
+estimatedTokens: 693
+keywords: [DataObjectSearchIndexConf, Represents, source, Data, 360, data, model, DMO, Search, Answers, holds, search, index, uses, searching, records., Important, Parent, File, Suffix]
 ---
 
 # DataObjectSearchIndexConf
+
+> Represents the source Data 360 data model object (DMO)
+			for Search Answers and holds the search index that Search Answers uses when searching
+			DMO records.
 
 # DataObjectSearchIndexConf
 
@@ -66,3 +71,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DataObjectSearchIndexConf xmlns="http://soap.sforce.com/2006/04/metadata">
+	<application>SearchAnswers</application>
+	<channel>SharedIndex</channel>
+	<masterLabel>SearchAnswers</masterLabel>
+	<nameFieldReference>Name__c</nameFieldReference>
+	<objectReference>Account__dlm</objectReference>
+	<searchIndex>searchAnswersIndex</searchIndex>
+</DataObjectSearchIndexConf>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+       <members>*</members>
+       <name>DataObjectSearchIndexConf</name>
+   </types>
+   <version>63.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

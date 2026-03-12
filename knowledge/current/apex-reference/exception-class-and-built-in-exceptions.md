@@ -5,11 +5,19 @@ topic: exception-class-and-built-in-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.298Z
-keywords: [Exception, Class, Built-In, Exceptions, Common, Method, DMLException, EmailException, Methods, QueryException]
+lastCollected: 2026-03-12T05:14:23.561Z
+estimatedTokens: 2923
+namespace: System
+keywords: [Exception, Built-In, Exceptions, exception, denotes, error, disrupts, normal, flow, code, execution., Apex, built-in, exceptions, create, custom, exceptions., common, methods., Common]
 ---
 
 # Exception Class and Built-In Exceptions
+
+> An exception denotes an error that disrupts the normal flow of code execution. You
+        can use Apex built-in exceptions or create custom exceptions. All exceptions have common
+        methods.
+
+**Namespace:** `System`
 
 # Exception Class and Built-In Exceptions
 
@@ -112,3 +120,60 @@ In addition to the common exception methods, QueryException has this method.
 | Name | Arguments | Return Type | Description |
 | --- | --- | --- | --- |
 | getInaccessibleFields |  | Map<String,Set<String>> | Returns a map in which each key is an sObjectType and its corresponding value is the set of inaccessible field names in fully qualified format (Namespace__FieldName__c).Use this method to determine the cause of the QueryException. The returned map contains data only if the method that threw the QueryException is running in user mode (as opposed to the default system mode).In this code sample, it's assumed that the user doesn’t have field level security access to the Contact.Email and Account.Website fields.try {     List<Account> accounts = [SELECT Website, (SELECT Email FROM Contacts) FROM Account WITH USER_MODE]; } catch (QueryException qe) {     // Handle inaccessible fields     Map<String, Set<String>> inaccessible = qe.getInaccessibleFields();     Set<String> accountFields = inaccessible.get('Account');         Set<String> contactFields = inaccessible.get('Contact'); } |
+
+## Code Examples
+
+```
+String s;
+s.toLowerCase(); // Since s is null, this call causes
+                 // a NullPointerException
+```
+
+```apex
+Account[] accts = new Account[]{new Account(billingcity = 'San Jose')};
+try {
+    insert as user accts;
+} catch (System.DmlException e) {
+    for (Integer i = 0; i < e.getNumDml(); i++) {
+        // Process exception here
+        System.debug(e.getDmlMessage(i)); 
+    }
+}
+```
+
+```apex
+try {
+  insert as user new Account();
+}   catch (System.DmlException ex) {
+      Assert.areEqual(
+         StatusCode.REQUIRED_FIELD_MISSING,
+         ex.getDmlType(0));
+}
+```
+
+```apex
+try {
+    List<Account> accounts = [SELECT Website, (SELECT Email FROM Contacts) FROM Account WITH USER_MODE];
+} catch (QueryException qe) {
+    // Handle inaccessible fields
+    Map<String, Set<String>> inaccessible = qe.getInaccessibleFields();
+    Set<String> accountFields = inaccessible.get('Account');    
+    Set<String> contactFields = inaccessible.get('Contact');
+}
+```
+
+## Related Topics
+
+- System.JSON (atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm)
+- System.JSONParser (atlas.en-us.apexref.meta/apexref/apex_class_System_JsonParser.htm)
+- System.JSONGenerator (atlas.en-us.apexref.meta/apexref/apex_class_System_JsonGenerator.htm)
+- Crypto Class (atlas.en-us.apexref.meta/apexref/apex_classes_restful_crypto.htm)
+- Cache Exceptions (atlas.en-us.apexref.meta/apexref/apex_cache_exceptions.htm)
+- Canvas Exceptions (atlas.en-us.apexref.meta/apexref/apex_exceptions_canvas.htm)
+- Compression
+                Exceptions (atlas.en-us.apexref.meta/apexref/apex_exceptions_compression.htm)
+- ConnectApi Exceptions (atlas.en-us.apexref.meta/apexref/connectAPI_exceptions.htm)
+- DataSource
+                Exceptions (atlas.en-us.apexref.meta/apexref/apex_DataSource_exceptions.htm)
+- Reports
+                Exceptions (atlas.en-us.apexref.meta/apexref/apex_Reports_exceptions.htm)

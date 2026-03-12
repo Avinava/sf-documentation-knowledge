@@ -5,11 +5,14 @@ topic: connectapireturnorderoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.965Z
-keywords: [ConnectApi.ReturnOrderOutputRepresentation, See]
+lastCollected: 2026-03-12T05:14:28.932Z
+estimatedTokens: 167
+keywords: [ConnectApi.ReturnOrderOutputRepresentation, created, ReturnOrder.]
 ---
 
 # ConnectApi.ReturnOrderOutputRepresentation
+
+> ID of the created ReturnOrder.
 
 # ConnectApi.ReturnOrderOutputRepresentation
 
@@ -24,3 +27,9 @@ Subclass of [ConnectApi.BaseOutputRepresentation](atlas.en-us.apexref.meta/apexr
 #### See Also
 
 -   [createReturnOrder(returnOrderInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm#apex_ConnectAPI_ReturnOrder_createReturnOrder_1 "Create a ReturnOrder and ReturnOrderLineItems for items belonging to an OrderSummary.")
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createReturnOrder(returnOrderInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm)

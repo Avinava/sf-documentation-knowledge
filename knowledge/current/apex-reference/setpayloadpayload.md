@@ -5,11 +5,15 @@ topic: setpayloadpayload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.964Z
-keywords: [setPayload, payload, Signature, Parameters, Example]
+lastCollected: 2026-03-12T05:14:19.123Z
+estimatedTokens: 306
+keywords: [setPayload, payload, push, notification, message., Example]
 ---
 
 # setPayload(payload)
+
+> Sets the payload of the push notification
+message.
 
 # setPayload(payload)
 
@@ -34,3 +38,12 @@ To create the payload for an Apple device, see the [PushNotificationPayload Clas
 ## Example
 
 See the [Push Notification Example](atlas.en-us.apexref.meta/apexref/apex_classes_push_notification.htm#push_notification_example_code).
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- PushNotificationPayload
+Class (atlas.en-us.apexref.meta/apexref/apex_classes_push_notification_payload.htm)
+- Push Notification
+Example (atlas.en-us.apexref.meta/apexref/apex_classes_push_notification.htm)

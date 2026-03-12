@@ -5,11 +5,14 @@ topic: getredirect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.049Z
-keywords: [getRedirect, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.245Z
+estimatedTokens: 134
+keywords: [getRedirect, current, PageReference, object's, redirect, attribute., Usage]
 ---
 
 # getRedirect()
+
+> Returns the current value of the PageReference object's redirect attribute.
 
 # getRedirect()
 
@@ -26,3 +29,7 @@ Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm
 ## Usage
 
 Note that if the URL of the PageReference object is set to a website outside of the salesforce.com domain, the redirect always occurs, regardless of whether the redirect attribute is set to true or false.
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

@@ -5,11 +5,16 @@ topic: commerce-return-order-item-adjustment-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.945Z
-keywords: [Commerce, Return, Order, Item, Adjustment, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.287Z
+estimatedTokens: 333
+keywords: [Commerce, Order, Item, Adjustment, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., information]
 ---
 
 # Commerce: Return Order Item Adjustment Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Return Order Item Adjustment data is information
+         about the change in price of the item in the return order product.
 
 # Commerce: Return Order Item Adjustment Mapping
 

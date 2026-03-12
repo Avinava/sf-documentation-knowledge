@@ -5,11 +5,15 @@ topic: setauthorizationexpirationdateauthexpdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.654Z
-keywords: [setAuthorizationExpirationDate, authExpDate, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.121Z
+estimatedTokens: 103
+keywords: [setAuthorizationExpirationDate, authExpDate, expiration, date, authorization, request.]
 ---
 
 # setAuthorizationExpirationDate(authExpDate)
+
+> Sets the expiration date of the authorization
+    request.
 
 # setAuthorizationExpirationDate(authExpDate)
 
@@ -28,3 +32,7 @@ Type: [Datetime](atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.h
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

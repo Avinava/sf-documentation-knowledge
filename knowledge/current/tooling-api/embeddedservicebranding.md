@@ -5,11 +5,15 @@ topic: embeddedservicebranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.660Z
-keywords: [EmbeddedServiceBranding, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.222Z
+estimatedTokens: 1309
+keywords: [EmbeddedServiceBranding, Represents, branding, Embedded, Service, deployment., Tooling, API, version, 39.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # EmbeddedServiceBranding
+
+> Represents branding for each Embedded Service deployment. Available in Tooling API
+        version 39.0 and later.
 
 # EmbeddedServiceBranding
 

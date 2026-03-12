@@ -5,11 +5,14 @@ topic: connectapiorchestrationworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.927Z
-keywords: [ConnectApi.OrchestrationWorkItem, See]
+lastCollected: 2026-03-12T05:14:27.504Z
+estimatedTokens: 367
+keywords: [ConnectApi.OrchestrationWorkItem, Orchestration, work, item.]
 ---
 
 # ConnectApi.OrchestrationWorkItem
+
+> Orchestration work item.
 
 # ConnectApi.OrchestrationWorkItem
 
@@ -33,3 +36,10 @@ Orchestration work item.
 #### See Also
 
 -   [ConnectApi.OrchestrationStepInstance](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_orchestration_step_instance.htm "Orchestration step instance.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​OrchestrationWork​ItemStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.OrchestrationStepInstance (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_orchestration_step_instance.htm)

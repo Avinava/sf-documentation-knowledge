@@ -5,11 +5,14 @@ topic: create-a-sample-datasourceprovider-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.879Z
-keywords: [Create, Sample, DataSource.Provider, Class, Warning, See]
+lastCollected: 2026-03-12T05:14:33.034Z
+estimatedTokens: 741
+keywords: [Create, Sample, DataSource.Provider, Now, need, extends, overrides, few, DataSource.Provider., Warning]
 ---
 
 # Create a Sample  DataSource.Provider Class Class
+
+> Now you need a class that extends and overrides a few methods in DataSource.Provider.
 
 # Create a Sample DataSource.Provider Class Class
 
@@ -60,3 +63,50 @@ Lastly, the example identifies the SampleDataSourceConnection class that obtains
 #### See Also
 
 -   [*Apex Reference Guide*: Provider Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_DataSource_Provider.htm "Apex Reference Guide: Provider Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+global class SampleDataSourceProvider extends DataSource.Provider {
+```
+
+```apex
+global override List<DataSource.AuthenticationCapability>
+        getAuthenticationCapabilities() {
+        // Best Practice: Always return a static list of authentication types
+        // Don't query the database, make callouts, or use dynamic logic
+        List<DataSource.AuthenticationCapability> capabilities =
+            new List<DataSource.AuthenticationCapability>();
+        capabilities.add(DataSource.AuthenticationCapability.ANONYMOUS);
+        capabilities.add(DataSource.AuthenticationCapability.OAUTH);
+        return capabilities;
+    }
+```
+
+```apex
+global override List<DataSource.Capability> getCapabilities() {
+        // Best Practice: Return a static list of functional capabilities
+        // Don't query the database, make callouts, or use dynamic logic
+        List<DataSource.Capability> capabilities = new
+        List<DataSource.Capability>();
+        capabilities.add(DataSource.Capability.ROW_QUERY);
+        capabilities.add(DataSource.Capability.SEARCH);
+        capabilities.add(DataSource.Capability.ROW_CREATE);
+        capabilities.add(DataSource.Capability.ROW_UPDATE);
+        capabilities.add(DataSource.Capability.ROW_DELETE);
+        return capabilities;
+    }
+```
+
+```apex
+global override DataSource.Connection getConnection(
+        DataSource.ConnectionParams connectionParams) {
+        return new SampleDataSourceConnection(connectionParams);
+    }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_connector_start_connection_class.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_connector_start_setup.htm)

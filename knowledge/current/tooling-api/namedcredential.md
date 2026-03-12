@@ -5,11 +5,20 @@ topic: namedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.335Z
-keywords: [NamedCredential, Important, Note, Supported, SOAP, API, Calls, REST, Methods, Fields, NamedCredentialParameter, See]
+lastCollected: 2026-03-12T05:14:46.158Z
+estimatedTokens: 4818
+namespace: AllowedManagedPackageNamespaces
+keywords: [NamedCredential, Represents, named, credential, which, specifies, URL, callout, endpoint, its, required, authentication, definition., specified, simplify, setup, authenticated, callouts., API, version]
 ---
 
 # NamedCredential
+
+> Represents a named credential, which specifies the URL of a callout endpoint and its
+    required authentication parameters in one definition. A named credential can be specified as an
+    endpoint to simplify the setup of authenticated callouts. This object is available in API
+    version 51.0 and later.
+
+**Namespace:** `AllowedManagedPackageNamespaces`
 
 # NamedCredential
 
@@ -99,15 +108,15 @@ These parameters are used internally to provide a flexible architecture and are 
 #### See Also
 
 -   [*Salesforce Help*: Named Credentials](https://help.salesforce.com/HTViewHelpDoc?id=named_credentials_about.htm&language=en_US "Salesforce Help: Named Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Get Started with Named Credentials](https://developer.salesforce.com/docs/platform/named-credentials/guide/get-started.html "Named Credentials Developer Guide: Get Started with Named
     Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Named Credential API Links](https://developer.salesforce.com/docs/platform/named-credentials/references/named-credentials-reference/nc-api-links.html "Named Credentials Developer Guide: Named Credential API
     Links - HTML (New Window)")
-    
+
 -   [*Apex Developer Guide*: Invoking Callouts Using Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts.htm " Apex Developer Guide: Invoking Callouts Using
     Apex - html (New Window)")
-    
+
 -   [*Apex Developer Guide*: Named Credentials as Callout Endpoints](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts_named_credentials.htm " Apex Developer Guide: Named Credentials as Callout
     Endpoints - HTML (New Window)")

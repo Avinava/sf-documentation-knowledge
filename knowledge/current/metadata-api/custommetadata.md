@@ -5,11 +5,15 @@ topic: custommetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.541Z
-keywords: [CustomMetadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, CustomMetadataValue, Declarative, Metadata, Sample, Definitions, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.273Z
+estimatedTokens: 2125
+keywords: [CustomMetadata, Represents, record, custom, metadata, type., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, CustomMetadataValue, Declarative, Metadata, Sample, Definitions]
 ---
 
 # CustomMetadata
+
+> Represents a record of a custom metadata
+    type.
 
 # CustomMetadata
 
@@ -136,3 +140,97 @@ Custom number fields are stored as double values. When you retrieve a value from
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" 
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                   xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <description>All the planets in the solar system. Does not 
+                 include asteroids.</description>
+    <label>Planets</label>
+    <values>
+        <field>picklist1234__AlphaSort__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+</CustomMetadata>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>Picklist</label>
+        <length>40</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>SortOrder__c</fullName>
+        <externalId>false</externalId>
+        <label>Non-Alphabetical Sort Order</label>
+        <precision>3</precision>
+        <scale>0</scale>
+        <required>false</required>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <label>Reusable Picklist Option</label>
+    <pluralLabel>Reusable Picklist Options</pluralLabel>
+</CustomObject>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Mars</label>
+    <values>
+        <field>picklist1234__Picklist__c</field>
+        <value xsi:type="xsd:string">Planets</value>
+    </values>
+    <values>
+        <field>picklist1234__SortOrder__c</field>
+        <value xsi:type="xsd:int">4</value>
+    </values>
+</CustomMetadata>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Motel 6</label>
+    <values>
+        <field>picklist1234__Picklist__c</field>
+        <value xsi:type="xsd:string">Hotels</value>
+    </values>
+</CustomMetadata>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Motel 6</label>
+    <values>
+        <field>picklist1234__Picklist__c</field>
+        <value xsi:type="xsd:string">Hotels</value>
+    </values>
+    <values>
+        <field>picklist1234__SortOrder__c</field>
+        <value xsi:nil="true" />
+    </values>
+</CustomMetadata>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

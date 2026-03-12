@@ -5,13 +5,54 @@ topic: connectortestutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:34.614Z
-keywords: [ConnectorTestUtil, Class, Creates, instance, connected, app, simulate, provisioning., createConnectedApp, connectedAppName, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:21.443Z
+estimatedTokens: 504
+namespace: UserProvisioning
+keywords: [ConnectorTestUtil, Enables, developers, write, Apex, test, classes, connectors, used, connected, app, provisioning, solution., simulates, associated, app., Usage, Example, createConnectedApp, connectedAppName]
 ---
 
 # ConnectorTestUtil Class
 
-> Creates an instance of a connected app to simulate provisioning.
+> Enables developers to write Apex test classes for connectors used by
+      the connected app provisioning solution. This class simulates provisioning for the associated
+      app.
+
+**Namespace:** `UserProvisioning`
+
+# ConnectorTestUtil Class
+
+Enables developers to write Apex test classes for connectors used by the connected app provisioning solution. This class simulates provisioning for the associated app.
+
+## Namespace
+
+[UserProvisioning](atlas.en-us.apexref.meta/apexref/apex_namespace_UserProvisioning.htm "The UserProvisioning namespace provides methods for monitoring outbound user provisioning requests.")
+
+## Usage
+
+Use this class for connector-based test accelerators. You can invoke it only from within an Apex test.
+
+## Example
+
+This example creates an instance of a connected app, gets a value, and checks whether the value is correct. The test is simply a row inserted in the database table.
+
+```
+
+```
+
+-   **[ConnectorTestUtil Method](atlas.en-us.apexref.meta/apexref/apex_class_UserProvisioning_ConnectorTestUtil.htm#apex_UserProvisioning_ConnectorTestUtil_methods)**
+
+
+#### See Also
+
+-   [*Salesforce Help*: User Provisioning for Connected Apps](https://help.salesforce.com/articleView?id=connected_app_user_provisioning.htm&language=en_US "Salesforce Help: User Provisioning for Connected Apps - html (New Window)")
+
+
+## ConnectorTestUtil Method
+
+The ConnectorTestUtil class has 1 method.
+
+-   **[createConnectedApp(connectedAppName)](atlas.en-us.apexref.meta/apexref/apex_class_UserProvisioning_ConnectorTestUtil.htm#apex_UserProvisioning_ConnectorTestUtil_createConnectedApp)**
+    Creates an instance of a connected app to simulate provisioning.
 
 ### createConnectedApp(connectedAppName)
 
@@ -34,3 +75,35 @@ Name of the connected app to test for provisioning.
 Type: ConnectedApplication
 
 The instance of the connected app to test for provisioning.
+
+## Code Examples
+
+```apex
+@isTest 
+        private class SCIMCreateUserPluginTest {
+        public static void callPlugin(Boolean validInputParams) {
+        
+        //Create an instance of a connected app
+        ConnectedApplication capp =UserProvisioning.ConnectorTestUtil.createConnectedApp('TestApp');
+        Profile p = [SELECT Id FROM Profile WHERE Name='Standard User'];
+        //Create a user
+        User user = new User(username='testuser1@scimuserprov.test', Firstname= 'Test', Lastname='User1', email='testuser1@testemail.com',
+        FederationIdentifier='testuser1@testemail.com', profileId= p.Id, communityNickName='tuser1', alias='tuser', TimeZoneSidKey='GMT', 
+        LocaleSidKey='en_US', EmailEncodingKey='ISO-8859-1', LanguageLocaleKey='en_US');
+        //insert user into a row in the database table
+        insert user;
+        //Create a UPR
+        UserProvisioningRequest upr = new UserProvisioningRequest(appname = capp.name, connectedAppId=capp.id, operation='Create', 
+        state='New', approvalStatus='NotRequired',salesforceUserId=user.id);
+        
+        //Insert the UPR to test the flow end to end
+        insert upr;
+       }}
+```
+
+## Related Topics
+
+- UserProvisioning (atlas.en-us.apexref.meta/apexref/apex_namespace_UserProvisioning.htm)
+- ConnectorTestUtil Method (atlas.en-us.apexref.meta/apexref/apex_class_UserProvisioning_ConnectorTestUtil.htm)
+- createConnectedApp(connectedAppName) (atlas.en-us.apexref.meta/apexref/apex_class_UserProvisioning_ConnectorTestUtil.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

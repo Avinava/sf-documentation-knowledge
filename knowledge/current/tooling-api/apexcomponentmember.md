@@ -5,11 +5,15 @@ topic: apexcomponentmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.180Z
-keywords: [ApexComponentMember, Supported, SOAP, API, Calls, Special, Access, Rules, REST, HTTP, Methods, Fields, Usage, Note, See]
+lastCollected: 2026-03-12T05:14:44.587Z
+estimatedTokens: 1108
+keywords: [ApexComponentMember, Represents, working, copy, Visualforce, component, editing, saving, compiling, MetadataContainer., Supported, SOAP, API, Calls, Special, Access, Rules, REST, HTTP, Fields]
 ---
 
 # ApexComponentMember
+
+> Represents the working copy of a Visualforce component for editing,
+   saving, or compiling in a MetadataContainer.
 
 # ApexComponentMember
 
@@ -56,5 +60,10 @@ Each ApexComponentMember object can only refer to a single MetadataContainer obj
 #### See Also
 
 -   [REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/ "REST API Developer Guide - HTML (New Window)")
-    
+
 -   [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/ "Metadata API Developer Guide - HTML (New Window)")
+
+## Related Topics
+
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)

@@ -5,11 +5,14 @@ topic: collection-casting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.514Z
-keywords: [Collection, Casting, Note]
+lastCollected: 2026-03-12T05:14:32.511Z
+estimatedTokens: 407
+keywords: [Collection, Casting, Because, collections, Apex, declared, runtime, allows, collection, casting., Note]
 ---
 
 # Collection Casting
+
+> Because collections in Apex have a declared type at runtime, Apex allows collection casting.
 
 # Collection Casting
 
@@ -32,3 +35,23 @@ If the user of a PurchaseOrder list that only includes CustomerPurchaseOrders ob
 Maps behave in the same way as lists with regards to the value side of the Map. If the value side of map A can be cast to the value side of map B, and they have the same key type, then map A can be cast to map B. A runtime error results if the casting is not valid with the particular map at runtime.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_collections.htm "Classes and Collections")
+
+## Code Examples
+
+```apex
+public virtual class PurchaseOrder {
+
+    Public class CustomerPurchaseOrder extends PurchaseOrder {
+
+    }
+    {
+        List<PurchaseOrder> POs = new PurchaseOrder[] {};
+        List<CustomerPurchaseOrder> CPOs = new CustomerPurchaseOrder[]{};
+        POs = CPOs;
+    }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_collections.htm)

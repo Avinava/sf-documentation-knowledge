@@ -5,11 +5,15 @@ topic: connectapiapprovalcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.941Z
-keywords: [ConnectApi.ApprovalCapability, See]
+lastCollected: 2026-03-12T05:14:26.073Z
+estimatedTokens: 283
+keywords: [ConnectApi.ApprovalCapability, feed, element, capability, includes, information, approval.]
 ---
 
 # ConnectApi.ApprovalCapability
+
+> If a feed element has this capability, it includes information about
+      an approval.
 
 # ConnectApi.ApprovalCapability
 
@@ -27,3 +31,12 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ApprovalPost​TemplateField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_approval_post.htm)
+- ConnectApi.​WorkflowProcess​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

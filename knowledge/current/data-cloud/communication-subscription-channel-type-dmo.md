@@ -5,11 +5,16 @@ topic: communication-subscription-channel-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.966Z
-keywords: [Communication, Subscription, Channel, Type, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.320Z
+estimatedTokens: 534
+keywords: [Communication, Subscription, Channel, DMO, Data, Cloud, data, model, engagement, channel, through, which, customer, reached, communication, subscription., API, Name, Category, Primary]
 ---
 
 # Communication Subscription Channel Type DMO
+
+> The Communication Subscription Channel Type DMO is a Data Cloud data model
+      object (DMO) for the engagement channel through which a customer is reached for a
+      communication subscription.
 
 # Communication Subscription Channel Type DMO
 

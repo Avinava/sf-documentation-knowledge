@@ -5,11 +5,15 @@ topic: global-search-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.305Z
-keywords: [Global, Search, POST]
+lastCollected: 2026-03-12T05:14:06.951Z
+estimatedTokens: 1552
+keywords: [Search, POST, Retrieves, list, products, based, search, query, term., API, composite, Product, Discovery.]
 ---
 
 # Global Search (POST)
+
+> Retrieves a list of products based on a search query or search term.
+      This API is a composite API for Product Discovery.
 
 # Global Search (POST)
 
@@ -85,3 +89,70 @@ Properties
 Response body for POST
 
 [CPQ Base List](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_list_output.htm "Output representation of the list of catalogs, categories, or products based on the request.")
+
+## Code Examples
+
+```
+/connect/cpq/products/search
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/search
+```
+
+```
+{
+    "query": {
+        "textQuery": {
+            "searchPhrase": "firstproduct"
+        }
+    },
+    "catalogId": "0ZSxx0000000001GAA",
+    "categoryId": "0ZGT100000000qlOAA",
+    "correlationId":"9cbb9650-48c5-11ed-96d1-0afcf185843b",
+    "limit":10,
+    "cursor": "MTAwMDAwMDAwNg==",
+    "orderBy":["name:asc","id:desc"],
+    "userContext": {
+      "accountId": "001xx0000000001AAA",
+      "contactId": "003xx00000000D7AAI"
+    },
+  "additionalFields": {
+    "Product2": {
+       "fields" : [
+            "CustomField1__c",
+            "CustomField2__c",
+            "StandardField1"
+        ]
+    }
+  }
+}
+```
+
+```
+{
+    "searchTerm": "Laptop",
+    "catalogId": "0ZSDU0000002Og64AE",
+    "categoryId": "0ZGDU0000002P0A4AU",
+    "correlationId":"d9d8f898-19f5-464a-ba2b-6a070783f6c4",
+    "limit":10,
+    "cursor": "MTAwMDAwMDAwNw==",
+    "orderBy":["name:asc","id:desc"],
+    "userContext": {
+        "accountId": "001DU000001o2V0YAI"
+    }
+}
+```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_additional_fields_input.htm)
+- Filter
+                      Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_filter_input.htm)
+- Related
+                        Object Filter Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filter_input.htm)
+- User Context
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)
+- CPQ Base List (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_list_output.htm)

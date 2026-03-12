@@ -6,12 +6,16 @@ topic: setpanelheight-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.363Z
-keywords: [setPanelHeight, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.938Z
+estimatedTokens: 255
+keywords: [setPanelHeight, Lightning, Experience, utility, panel’s, height., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # setPanelHeight() for Lightning Experience for Lightning
    Experience
+
+> Sets a utility panel’s height. This method isn’t supported for Lightning Web Components
+  (LWC).
 
 # setPanelHeight() for Lightning Experience for Lightning Experience
 
@@ -45,3 +49,27 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Panel Height" onclick="{! c.handleSetPanelHeight }" />
+</aura:component>
+```
+
+```
+({
+    handleSetPanelHeight : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setPanelHeight({
+            heightPX: 500
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updatePanel() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updatePanel.htm)

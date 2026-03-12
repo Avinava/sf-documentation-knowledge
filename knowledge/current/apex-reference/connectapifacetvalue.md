@@ -5,11 +5,14 @@ topic: connectapifacetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.758Z
-keywords: [ConnectApi.FacetValue]
+lastCollected: 2026-03-12T05:14:27.308Z
+estimatedTokens: 104
+keywords: [ConnectApi.FacetValue, Facet, value.]
 ---
 
 # ConnectApi.FacetValue
+
+> Facet value.
 
 # ConnectApi.FacetValue
 
@@ -20,3 +23,8 @@ This class is abstract and is a superclass of [ConnectApi.DistinctFacetValue](at
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | type | ConnectApi.​CommerceSearch​FacetType | Search facet type. Value is:DistinctValueRange | 52.0 |
+
+## Related Topics
+
+- ConnectApi.DistinctFacetValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_distinct_facet_value.htm)
+- ConnectApi.​CommerceSearch​FacetType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

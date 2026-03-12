@@ -5,11 +5,17 @@ topic: interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.566Z
-keywords: [Interfaces, Note, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.584Z
+estimatedTokens: 1024
+keywords: [Interfaces, which, none, implemented—the, signatures, there, body, empty., another, must, implement, providing, contained, interface., Note, Versioned, Behavior, Changes]
 ---
 
 # Interfaces
+
+> An interface is like a class in which none of the methods have been
+        implemented—the method signatures are there, but the body of each method is empty. To
+        use an interface, another class must implement it by providing a body for all of the methods
+        contained in the interface.
 
 # Interfaces
 
@@ -60,8 +66,45 @@ In API version 50.0 and later, scope and accessibility rules are enforced on Ape
 
 In API version 61.0 and later, private methods are no longer overridden by an instance method with the same signature in a subclass. This change is versioned, so to prevent the override, update your abstract or virtual classes that contain private methods to API version 61.0 or later. In API version 60.0 and earlier, if a subclass declares an instance method with the same signature as a private method in one of its superclasses, the subclass method overrides the private method.
 
-1.  [Custom Iterators](atlas.en-us.apexcode.meta/apexcode/apex_classes_iterable.htm)  
-    
+1.  [Custom Iterators](atlas.en-us.apexcode.meta/apexcode/apex_classes_iterable.htm)
+
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_understanding.htm "Classes")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords.htm "Keywords")
+
+## Code Examples
+
+```apex
+// An interface that defines what a purchase order looks like in general
+public interface PurchaseOrder {
+    // All other functionality excluded
+    Double discount();
+}
+```
+
+```apex
+// One implementation of the interface for customers
+public class CustomerPurchaseOrder implements PurchaseOrder {
+    public Double discount() {
+        return .05;  // Flat 5% discount
+    }
+}
+```
+
+```apex
+// Another implementation of the interface for employees
+public class EmployeePurchaseOrder implements PurchaseOrder {
+      public Double discount() {
+        return .10;  // It’s worth it being an employee! 10% discount
+      } 
+}
+```
+
+## Related Topics
+
+- Classes and Casting (atlas.en-us.apexcode.meta/apexcode/apex_classes_casting.htm)
+- NamespaceAccessible
+                    Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- Custom Iterators (atlas.en-us.apexcode.meta/apexcode/apex_classes_iterable.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_understanding.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords.htm)

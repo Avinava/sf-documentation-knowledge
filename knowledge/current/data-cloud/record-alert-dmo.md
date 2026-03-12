@@ -5,11 +5,15 @@ topic: record-alert-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.923Z
-keywords: [Record, Alert, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.833Z
+estimatedTokens: 456
+keywords: [Record, Alert, DMO, Represents, record, alerts, account., Provided, Financial, Services, Cloud, Data, Kit., API, version, later., Name, Category, Primary, Subject]
 ---
 
 # Record Alert DMO
+
+> Represents record alerts for an account. Provided in the Financial Services Cloud Data
+      Kit. This DMO is available in API version 58 and later.
 
 # Record Alert DMO
 

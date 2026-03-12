@@ -5,11 +5,14 @@ topic: service-process-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.834Z
-keywords: [Service, Process, Record]
+lastCollected: 2026-03-12T05:14:50.741Z
+estimatedTokens: 185
+keywords: [Service, Process, Record, process, record, output.]
 ---
 
 # Service Process Record
+
+> Service process record output.
 
 # Service Process Record
 
@@ -22,3 +25,7 @@ Service process record output.
 | caseNumber | String | Case number. | Big, 57.0 | 57.0 |
 | svcCatalogItem​DefApiName | String | API Name of the related Service Catalog Item Definition. | Big, 57.0 | 57.0 |
 | svcCatalog​RequestId | String | ID of the related Service Catalog Request. See SvcCatalogRequest. | Big, 57.0 | 57.0 |
+
+## Related Topics
+
+- Service Catalog Item Attributes (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_service_catalog_item_attribute.htm)

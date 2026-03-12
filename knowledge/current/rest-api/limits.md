@@ -5,11 +5,17 @@ topic: limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.421Z
-keywords: [Limits, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.644Z
+estimatedTokens: 3160
+keywords: [Limits, List, information, limits, org., limit, resource, maximum, allocation, remaining, based, usage., Tabulated, returned, API, accurate, within, five, minutes, consumption.]
 ---
 
 # Limits
+
+> List information about limits in your org. For each limit, this resource returns the
+		maximum allocation and the remaining allocation based on usage. Tabulated limits returned by
+		the API are accurate within five minutes of resource consumption. For consistent values from
+		this resource, avoid concurrent or rapid requests.
 
 # Limits
 
@@ -128,3 +134,7 @@ Response Body
 ## Example
 
 See [List Org Limits](atlas.en-us.api_rest.meta/api_rest/dome_limits.htm "Use the *** resource to list your org limits.").
+
+## Related Topics
+
+- List Org Limits (atlas.en-us.api_rest.meta/api_rest/dome_limits.htm)

@@ -5,11 +5,15 @@ topic: connectapicommentscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.344Z
-keywords: [ConnectApi.CommentsCapability, See]
+lastCollected: 2026-03-12T05:14:26.659Z
+estimatedTokens: 202
+keywords: [ConnectApi.CommentsCapability, feed, element, comment, capability, context, user, add, it.]
 ---
 
 # ConnectApi.CommentsCapability
+
+> If a feed element or comment has this capability, the context user can
+   add a comment to it.
 
 # ConnectApi.CommentsCapability
 
@@ -24,3 +28,9 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- ConnectApi.CommentPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_page.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

@@ -5,11 +5,14 @@ topic: maintaining-user-references
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.038Z
-keywords: [Maintaining, User, References]
+lastCollected: 2026-03-12T05:14:43.454Z
+estimatedTokens: 321
+keywords: [Maintaining, User, References, fields, preserved, during, metadata, deployment.]
 ---
 
 # Maintaining User References
+
+> User fields are preserved during a metadata deployment.
 
 # Maintaining User References
 

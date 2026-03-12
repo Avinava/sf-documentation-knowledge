@@ -5,11 +5,15 @@ topic: member-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.368Z
-keywords: [Member, Record, Input]
+lastCollected: 2026-03-12T05:14:48.550Z
+estimatedTokens: 308
+keywords: [Member, Record, Input, representation, member, records, party, relationship, group.]
 ---
 
 # Member Record Input
+
+> Input representation of the member records of a party relationship
+      group.
 
 # Member Record Input
 
@@ -34,3 +38,27 @@ Properties
 | relations | Relationships Input | Details of the member record relationship. | Optional | 58.0 |
 | roles | String | Role of the member in the party relationship group. For example, a decision maker role or a caregiver role. | Required | 58.0 |
 | startDate | Date | Date when the member relationship starts. | Optional | 58.0 |
+
+## Code Examples
+
+```
+{
+       "records":[
+          {
+             "contactId":"003xx000004WhHQAA0",
+             "roles":"Decision Maker",
+             "relations":[
+                {
+                   "roleRelationId":"0zlxx0000000001AAA",
+                   "relatedContactId":"003xx000004WhJ2AAK",
+                   "startDate":"2023-06-14T00:00:00.000Z"
+                }
+             ]
+          }
+       ]
+    }
+```
+
+## Related Topics
+
+- Relationships Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_relationships_input.htm)

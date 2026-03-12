@@ -5,11 +5,15 @@ topic: salesforce-crm-knowledge-data-category-selection-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.155Z
-keywords: [Salesforce, CRM, Knowledge, Data, Category, Selection, Mapping, Usage, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.632Z
+estimatedTokens: 257
+keywords: [Salesforce, CRM, Knowledge, Data, Category, Selection, Mapping, data, mappings, Knowledge_DataCategorySelection, DLO, found, bundle, Connector, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Knowledge Data Category Selection Mapping
+
+> These data mappings are for the Knowledge_DataCategorySelection DLO found in the
+  Knowledge bundle of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Knowledge Data Category Selection Mapping
 

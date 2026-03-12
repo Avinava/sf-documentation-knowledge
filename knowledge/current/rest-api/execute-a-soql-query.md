@@ -5,11 +5,16 @@ topic: execute-a-soql-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:24.950Z
-keywords: [Execute, SOQL, Query, Retrieving, Remaining, Results]
+lastCollected: 2026-03-12T05:14:35.027Z
+estimatedTokens: 258
+keywords: [Execute, SOQL, Query, resource, execute, query, results, single, response, needed, part, locator, used, retrieve, remaining, results., Retrieving, Remaining, Results]
 ---
 
 # Execute a SOQL Query
+
+> Use the Query resource to execute a SOQL query that returns all the results in a
+			single response, or if needed, returns part of the results and a locator used to
+			retrieve the remaining results.
 
 # Execute a SOQL Query
 
@@ -57,4 +62,55 @@ Example response body for retrieving the remaining query results
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/query/?q=SELECT+name,id+from+Account -H "Authorization: Bearer token"
+```
+
+```
+{
+    "done" : true,
+    "totalSize" : 14,
+    "records" : 
+    [ 
+        {  
+            "attributes" : 
+            {    
+                "type" : "Account",    
+                "url" : "/services/data/v66.0/sobjects/Account/001D000000IRFmaIAH"  
+            },  
+            "Name" : "Test 1"
+        }, 
+        {  
+            "attributes" : 
+            {    
+                "type" : "Account",    
+                "url" : "/services/data/v66.0/sobjects/Account/001D000000IomazIAB"  
+            },  
+            "Name" : "Test 2"
+        }, 
+
+        ...
+
+    ]
+}
+```
+
+```
+"nextRecordsUrl" : "/services/data/v66.0/query/01gD0000002HU6KIAW-2000"
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/query/01gD0000002HU6KIAW-2000 -H "Authorization: Bearer token"
+```
+
+```
+{
+    "done" : true,
+    "totalSize" : 3214,
+    "records" : [...]
+}
 ```

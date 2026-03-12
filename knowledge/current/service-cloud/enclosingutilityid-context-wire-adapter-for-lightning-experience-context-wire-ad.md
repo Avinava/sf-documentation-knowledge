@@ -6,12 +6,16 @@ topic: enclosingutilityid-context-wire-adapter-for-lightning-experience-context-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.436Z
-keywords: [EnclosingUtilityId, Context, Wire, Adapter, Lightning, Experience, LWC, Sample, Code, Response, See]
+lastCollected: 2026-03-12T05:14:58.044Z
+estimatedTokens: 320
+keywords: [EnclosingUtilityId, Context, Wire, Adapter, Lightning, Experience, Determines, component, within, utility., wire, adapter, Web, Components, LWC, only., Sample, Code, Response]
 ---
 
 # EnclosingUtilityId Context Wire Adapter for Lightning Experience Context
             Wire Adapter for Lightning Experience
+
+> Determines if the component is within a utility. This wire adapter is available for
+        Lightning Web Components (LWC) only.
 
 # EnclosingUtilityId Context Wire Adapter for Lightning Experience Context Wire Adapter for Lightning Experience
 
@@ -36,3 +40,26 @@ Returns the enclosing utility ID if the caller component is within a utility,  
 #### See Also
 
 -   [*LWC Dev Guide*: Understand the Wire Service](https://developer.salesforce.com/docs/platform/lwc/guide/data-wire-service-about.html "LWC Dev Guide: Understand the Wire Service - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { EnclosingUtilityId, minimizeUtility } from 'lightning/platformUtilityBarApi';
+
+export default class MinimizeUtilityExample extends LightningElement {
+  @wire(EnclosingUtilityId) utilityId;
+
+  handleClick() {
+    if (!this.utilityId) {
+      return;
+    }
+    // Minimize the utility bar panel
+    minimize(this.utilityId);
+  }
+}
+```
+
+## Related Topics
+
+- minimize() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_minimize.htm)

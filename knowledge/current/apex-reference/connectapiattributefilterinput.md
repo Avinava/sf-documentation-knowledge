@@ -5,11 +5,14 @@ topic: connectapiattributefilterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.776Z
-keywords: [ConnectApi.AttributeFilterInput]
+lastCollected: 2026-03-12T05:14:24.312Z
+estimatedTokens: 190
+keywords: [ConnectApi.AttributeFilterInput, Represents, attribute, filter, input.]
 ---
 
 # ConnectApi.AttributeFilterInput
+
+> Represents the attribute filter input.
 
 # ConnectApi.AttributeFilterInput
 
@@ -23,3 +26,10 @@ Represents the attribute filter input.
 | operator | String | Operator of the attribute. |  | 60.0 |
 | type | FilterOperatorDataTypeEnum | Type of attribute.FilterOperatorDataTypeBooleanFilterOperatorDataTypeDateFilterOperatorDataTypeDateOnlyFilterOperatorDataTypeExactlyRelativeDateFilterOperatorDataTypeNumberFilterOperatorDataTypeRelateToNowDateFilterOperatorDataTypeText |  | 60.0 |
 | value | List<String> | Filter values. |  | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- FilterOperatorDataTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

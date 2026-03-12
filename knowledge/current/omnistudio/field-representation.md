@@ -5,11 +5,15 @@ topic: field-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.508Z
-keywords: [Field, Representation]
+lastCollected: 2026-03-12T05:14:50.253Z
+estimatedTokens: 115
+keywords: [Field, Representation, Output, representation, field, returned, part, search, configuration, metadata.]
 ---
 
 # Field Representation
+
+> Output representation of the field that is returned as part of the
+      search configuration metadata.
 
 # Field Representation
 

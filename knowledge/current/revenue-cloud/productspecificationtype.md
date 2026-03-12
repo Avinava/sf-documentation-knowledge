@@ -4,12 +4,17 @@ domain: revenue-cloud
 topic: productspecificationtype
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T14:37:50.739Z
-keywords: [ProductSpecificationType, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:08.863Z
+estimatedTokens: 490
+keywords: [ProductSpecificationType, Represents, specification, types, org, define, products, unique, terminology, specific, industry., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # ProductSpecificationType
+
+> Represents the specification types in your org that define products with
+         unique terminology specific to the industry. This object is available in API version
+      60.0 and later.
 
 # ProductSpecificationType
 
@@ -43,3 +48,22 @@ Ensure Product Catalog Management is enabled to access this object.
 | ManageableState | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionTypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
 | MasterLabel | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionLabel assigned to the ProductSpecificationType object. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix associated with this object. Each Developer Edition organization that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values:In Developer Edition organizations, the namespace prefix is set to the namespace prefix of the organization for all objects that support it. There is an exception if an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition organization of the package developer.In organizations that are not Developer Edition organizations, NamespacePrefix is only set for objects that are part of an installed managed package. There is no namespace prefix for all other objects. |
+
+## Code Examples
+
+```
+<ProductSpecificationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>sample</masterLabel>
+    <description>Sample Description</description>
+</ProductSpecificationType>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ProductSpecificationType</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

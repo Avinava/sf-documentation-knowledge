@@ -5,11 +5,15 @@ topic: data-category-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.387Z
-keywords: [Data, Category, Detail, Syntax, Note, Example]
+lastCollected: 2026-03-12T05:14:35.593Z
+estimatedTokens: 384
+keywords: [Data, Category, Detail, data, category, details, child, categories, given, category., resource, used, API, version, 38.0, later., Syntax, Note, Example]
 ---
 
 # Data Category Detail
+
+> Gets data category details and the child categories by a given category. This resource
+  can be used in API version 38.0 and later.
 
 # Data Category Detail
 
@@ -50,13 +54,13 @@ Output:
 Details of the category and a list of child categories (name, label, etc.).
 
 -   **Data Category Detail**
-    
+
     Used for situations where the hierarchical representation of data categories is important. The child property contains a list of child data categories.
-    
+
     ```
-    
+
     ```
-    
+
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
 
@@ -77,3 +81,41 @@ Example Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+    "name": String, // the unique name of the category
+    "label":  String, // returns the translated version if it is available
+    "url":  URL,
+    "childCategories": [ Data Category Summary, ....],
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/support/dataCategoryGroups/Doc/dataCategories/All?sObjectName=KnowledgeArticleVersion -H "Authorization: Bearer token"
+```
+
+```
+{
+  "childCategories" : [ {
+    "childCategories" : null,
+    "label" : "Help",
+    "name" : "Help",
+    "url" : "/services/data/v66.0/support/dataCategoryGroups/Doc/dataCategories/Help?sObjectName=KnowledgeArticleVersion"
+  }, {
+    "childCategories" : null,
+    "label" : "QA",
+    "name" : "QA",
+    "url" : "/services/data/v66.0/support/dataCategoryGroups/Doc/dataCategories/QA?sObjectName=KnowledgeArticleVersion"
+  } ],
+  "label" : "All",
+  "name" : "All",
+  "url" : "/services/data/v66.0/support/dataCategoryGroups/Doc/dataCategories/All?sObjectName=KnowledgeArticleVersion"
+}
+```
+
+## Related Topics
+
+- Data Category Summary (atlas.en-us.api_rest.meta/api_rest/resources_knowledge_support_dcgroups.htm)

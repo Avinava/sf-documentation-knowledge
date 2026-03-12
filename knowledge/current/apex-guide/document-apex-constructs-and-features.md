@@ -5,11 +5,16 @@ topic: document-apex-constructs-and-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.022Z
-keywords: [Document, Apex, Constructs, Features, Classes, Interfaces, Enums, Methods, Constructors, Properties, Variables, Triggers, Annotations, See]
+lastCollected: 2026-03-12T05:14:33.244Z
+estimatedTokens: 2447
+keywords: [Document, Apex, Constructs, Features, unique, constructs, platform-specific, features, require, particular, attention, documentation., guidelines, document, elements, ApexDoc., Classes, Interfaces, Enums, Variables]
 ---
 
 # Document Apex Constructs and Features
+
+> Apex has unique constructs and platform-specific features that require particular
+  attention in documentation. Use these guidelines to document these elements with
+  ApexDoc.
 
 # Document Apex Constructs and Features
 
@@ -107,5 +112,78 @@ Refer to this table as you write ApexDoc comments for elements with Apex annotat
 #### See Also
 
 -   [ApexDoc Comment Structure and Tags](atlas.en-us.apexcode.meta/apexcode/apex_doc_format.htm "To promote consistency and parsability, ApexDoc comments have a defined structure and syntax. Each ApexDoc comment consists of a main description and a set of block and inline tags that provide information about the documented code element.")
-    
+
 -   [ApexDoc Examples](atlas.en-us.apexcode.meta/apexcode/apex_doc_examples.htm "See practical examples of ApexDoc comments applied to various Apex constructs.")
+
+## Code Examples
+
+```apex
+/**
+ * This service class handles critical data aggregation tasks.
+ * It operates using 'without sharing' to ensure access to all necessary
+ * records for calculation, irrespective of the running user's sharing rules.
+ * Care must be taken when calling methods from this class.
+ * @author Jane Doe
+ * @since 0.1.0
+ */
+public without sharing class DataAggregationService {
+    //...
+}
+```
+
+```apex
+/**
+ * Potential seasons of the year
+ */
+public enum Season {
+  WINTER,
+  SPRING,
+  SUMMER,
+  FALL
+}
+```
+
+```apex
+/**
+ * Stores the maximum number of retry attempts for an operation.
+ * Defaults to 3 if not explicitly set.
+ * @since 0.1.1
+ */
+public Integer maxRetries {
+  get {
+    return maxRetries ?? 3;
+  }
+  set { maxRetries = value; }
+}
+```
+
+```
+/**
+ * @since 1.3.2
+ */
+trigger OpportunityTrigger on Opportunity (
+  before insert,
+  after insert,
+  before update,
+  after update,
+  before delete,
+  after delete,
+  after undelete
+) {
+  new OpportunityTriggerHandler().run();
+}
+```
+
+## Related Topics
+
+- Apex class (atlas.en-us.apexcode.meta/apexcode/apex_classes_understanding.htm)
+- sharing
+     model (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)
+- Apex interfaces (atlas.en-us.apexcode.meta/apexcode/apex_classes_interfaces.htm)
+- ApexDoc Examples (atlas.en-us.apexcode.meta/apexcode/apex_doc_examples.htm)
+- Enums (atlas.en-us.apexcode.meta/apexcode/langCon_apex_enums.htm)
+- Method (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)
+- constructor (atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)
+- Apex triggers (atlas.en-us.apexcode.meta/apexcode/apex_triggers.htm)
+- Apex annotations (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation.htm)
+- @AuraEnabled (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_AuraEnabled.htm)

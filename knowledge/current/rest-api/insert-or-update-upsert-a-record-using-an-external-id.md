@@ -5,11 +5,16 @@ topic: insert-or-update-upsert-a-record-using-an-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.019Z
-keywords: [Insert, Update, Upsert, Record, External, Important, Upserting, New, Records, Note, Inserting, Existing, Associating, See]
+lastCollected: 2026-03-12T05:14:35.100Z
+estimatedTokens: 1755
+keywords: [Insert, Update, Upsert, Record, External, sObject, Rows, resource, create, records, update, existing, upsert, based, specified, external, field., Important, Upserting, New]
 ---
 
 # Insert or Update (Upsert) a Record Using an External ID
+
+> You can use the sObject Rows by External ID resource to
+            create records or update existing records (upsert) based on the value of a specified
+            external ID field.
 
 # Insert or Update (Upsert) a Record Using an External ID
 
@@ -221,3 +226,41 @@ If the relationship type is master-detail and the relationship is set to not all
 #### See Also
 
 -   [sObject Rows by External ID](atlas.en-us.api_rest.meta/api_rest/resources_sobject_upsert.htm "Creates, retrieves, upserts, or deletes records based on the value of a specified external ID field. By using the PATCH method with this resource, you can send upsert requests to Salesforce.")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/customExtIdField__c/11999 -H "Authorization: Bearer token" -H "Content-Type: application/json" -d @newrecord.json -X PATCH
+```
+
+```
+{
+    "Name" : "California Wheat Corporation",
+    "Type" : "New Customer"
+}
+```
+
+```
+{
+    "id" : "00190000001pPvHAAU",
+    "errors" : [ ],
+    "success" : true,
+    "created": true
+}
+```
+
+```
+{
+    "message" : "The requested resource does not exist",
+    "errorCode" : "NOT_FOUND"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/Id -H "Authorization: Bearer token" -H "Content-Type: application/json" -d @newrecord.json -X POST
+```
+
+## Related Topics
+
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- sObject Rows by External ID (atlas.en-us.api_rest.meta/api_rest/resources_sobject_upsert.htm)

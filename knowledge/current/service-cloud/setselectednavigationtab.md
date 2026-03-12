@@ -5,11 +5,15 @@ topic: setselectednavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.703Z
-keywords: [setSelectedNavigationTab, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.452Z
+estimatedTokens: 205
+keywords: [setSelectedNavigationTab, navigation, tab, specific, URL., only, API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # setSelectedNavigationTab()
+
+> Sets the navigation tab with a specific ID or
+            URL. This method is only available in API version 31.0 or later.
 
 # setSelectedNavigationTab()
 
@@ -42,3 +46,25 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if setting the navigation tab with a specific ID or URL was successful, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.setSelectedNavigationTab((optional)callback, navigatorTabId:(optional)string, url:(optional)string)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        var callback = function (result) {} 
+            if (result.success) {
+              alert('Successful');
+            } else {
+              alert('something is wrong!');
+            }
+        };
+        sforce.console.setSelectedNavigationTab(callback,'nav-tab-4');
+    </script>
+</apex:page>
+```

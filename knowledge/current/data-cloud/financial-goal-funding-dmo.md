@@ -5,11 +5,15 @@ topic: financial-goal-funding-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.430Z
-keywords: [Financial, Goal, Funding, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.071Z
+estimatedTokens: 380
+keywords: [Financial, Goal, Funding, DMO, Represents, financial, goal, individual, person, account, requires, funding., API, version, later., Name, Category, Primary, Subject, Area]
 ---
 
 # Financial Goal Funding DMO
+
+> Represents a financial goal of an individual or person account that requires funding.
+      This DMO is available in API version 61 and later.
 
 # Financial Goal Funding DMO
 

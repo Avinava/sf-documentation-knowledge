@@ -5,11 +5,15 @@ topic: product-data-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.173Z
-keywords: [Product, Data, Input]
+lastCollected: 2026-03-12T05:14:06.349Z
+estimatedTokens: 103
+keywords: [Product, Data, Input, representation, product, details, such, selling, model, ID.]
 ---
 
 # Product Data Input
+
+> Input representation of the product details such as the product ID and product selling
+    model ID.
 
 # Product Data Input
 
@@ -27,3 +31,18 @@ Properties
 | --- | --- | --- | --- | --- |
 | productId | String | ID of the product. | Required | 61.0 |
 | product​Selling​ModelId | String | ID of the product selling model. | Optional | 61.0 |
+
+## Code Examples
+
+```
+"productData": [
+    {
+      "productId": "01txx0000006ivJAAQ",
+      "productSellingModelId": "0jPxx000000009hEAA"
+    },
+    {
+      "productId": "01txx0000006ivLAAQ",
+      "productSellingModelId": "0jPxx000000009iEAABB"
+    }
+  ]
+```

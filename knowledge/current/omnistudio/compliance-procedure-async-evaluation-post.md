@@ -5,11 +5,15 @@ topic: compliance-procedure-async-evaluation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.632Z
-keywords: [Compliance, Procedure, Async, Evaluation, POST]
+lastCollected: 2026-03-12T05:14:48.936Z
+estimatedTokens: 468
+keywords: [Compliance, Procedure, Async, Evaluation, POST, Asynchronously, evaluate, compliance, procedure, business, context., asynchronous, results, stored, maximum, months.]
 ---
 
 # Compliance Procedure Async Evaluation (POST)
+
+> Asynchronously evaluate a compliance procedure with the business context. The
+    asynchronous results are stored for a maximum of 3 months.
 
 # Compliance Procedure Async Evaluation (POST)
 
@@ -64,3 +68,42 @@ Properties
 Response body for POST
 
 [Compliance Procedure Async Evaluation](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_procedure_async_evaluation.htm "Output representation for the async evaluation results of the compliance procedure.")
+
+## Code Examples
+
+```
+/connect/compliance/procedure/procedureName/evaluation-async
+```
+
+```
+https://yourInstance.salesforce.com/services/data/66.0/connect/compliance/procedure/ComplianceValidationProcedure/evaluation-async
+```
+
+```
+{
+  "businessOperationsProcess": "businessOperationsProcess1234",
+  "evaluations": [
+    {
+      "businessContext": [
+        {
+          "paramName": "accountId",
+          "paramValue": "00100000000AA1"
+        },
+        {
+          "paramName": "clientKycContext",
+          "paramValue": "0000000n04dn09g002517551181966037068d70d64004d6d9f83d6629a3135ab"
+        }
+      ],
+      "transactionKey": "uuid-1234-5678-9012-eu",
+      "inContextOf": "abc"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Compliance Procedure Evaluation
+                                                Info Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_compliance_procedure_evaluation_info_input.htm)
+- Compliance Procedure
+              Async Evaluation (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_procedure_async_evaluation.htm)

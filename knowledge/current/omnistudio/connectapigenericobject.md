@@ -5,11 +5,14 @@ topic: connectapigenericobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.781Z
-keywords: [ConnectApi.GenericObject]
+lastCollected: 2026-03-12T05:14:47.683Z
+estimatedTokens: 71
+keywords: [ConnectApi.GenericObject, Input, generic, attributes.]
 ---
 
 # ConnectApi.GenericObject
+
+> Input for generic object attributes.
 
 # ConnectApi.GenericObject
 

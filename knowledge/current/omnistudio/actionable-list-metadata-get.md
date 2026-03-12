@@ -5,11 +5,16 @@ topic: actionable-list-metadata-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.816Z
-keywords: [Actionable, List, Metadata, GET]
+lastCollected: 2026-03-12T05:14:49.230Z
+estimatedTokens: 322
+keywords: [Actionable, List, Metadata, GET, Retrieve, actionable, list, member, statuses, count, members, status, quick, action, metadata, specified, ID.]
 ---
 
 # Actionable List Metadata (GET)
+
+> Retrieve the actionable list member statuses, the count of
+      actionable list members in each status, and the quick action metadata for a specified
+      actionable list ID.
 
 # Actionable List Metadata (GET)
 
@@ -50,3 +55,18 @@ Request parameters for GET
 Response body for GET
 
 [Actionable List Metadata](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_actionable_list_metadata.htm "Output representation of the actionable list metadata request.")
+
+## Code Examples
+
+```
+/connect/sales-excellence/actionable-lists/metadata/${actionableListId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/sales-excellence/actionable-lists/metadata/0woSG00000000knYAA?searchTerm=”Fran”&hasMemberStatus=true&hasQuickActions=true
+```
+
+## Related Topics
+
+- Actionable
+              List Metadata (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_actionable_list_metadata.htm)

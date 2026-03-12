@@ -5,11 +5,14 @@ topic: connectapiproductsearchoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.739Z
-keywords: [ConnectApi.ProductSearchOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.612Z
+estimatedTokens: 246
+keywords: [ConnectApi.ProductSearchOutputRepresentation, Output, representation, product, search, response]
 ---
 
 # ConnectApi.ProductSearchOutputRepresentation
+
+> Output representation of the product search response
 
 # ConnectApi.ProductSearchOutputRepresentation
 
@@ -24,3 +27,11 @@ Output representation of the product search response
 | pageSize | Integer | Number of items per page. Valid values are from 1 through 100. If you don’t specify a value, the default size is 20. | 59.0 |
 | products | List<ConnectApi.ProductSearchProductOutputRepresentation> | List of products found by the search. | 59.0 |
 | totalRecordsFound | Integer | Total products found. | 59.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ProductSearchFacetOutputRepresentation> (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_search_facet_output.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ProductSearchProductOutputRepresentation> (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_search_product_output.htm)

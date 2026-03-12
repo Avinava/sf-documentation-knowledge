@@ -5,11 +5,14 @@ topic: connectapischeduledrecommendationinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.564Z
-keywords: [ConnectApi.ScheduledRecommendationInput, See]
+lastCollected: 2026-03-12T05:14:25.539Z
+estimatedTokens: 1080
+keywords: [ConnectApi.ScheduledRecommendationInput, scheduled, custom, recommendation.]
 ---
 
 # ConnectApi.ScheduledRecommendationInput
+
+> A scheduled custom recommendation.
 
 # ConnectApi.ScheduledRecommendationInput
 
@@ -51,3 +54,11 @@ The result is:
 #### See Also
 
 -   [createScheduledRecommendation(communityId, scheduledRecommendation)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm#apex_ConnectAPI_Recommendations_createScheduledRecommendation_2 "Create a scheduled custom recommendation.")
+
+## Related Topics
+
+- ConnectApi.​Recommendation​Channel (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createScheduledRecommendation(communityId, scheduledRecommendation) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm)

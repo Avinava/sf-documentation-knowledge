@@ -5,11 +5,19 @@ topic: compile-data-for-a-portability-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.498Z
-keywords: [Compile, Data, Portability, Request, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.774Z
+estimatedTokens: 333
+keywords: [Compile, Data, Portability, Request, Aggregate, data, subject's, personally, identifiable, information, PII, file, POST, resource., includes, found, Account, Contact, Individual, Lead]
 ---
 
 # Compile Data for a Portability Request
+
+> Aggregate your data subject's personally identifiable information (PII) into one file
+  using the POST method of the Portability resource. The PII includes data found in the Account,
+  Contact, Individual, Lead, Person, and User objects. You receive a response with a URL to download
+  the file, a policy file ID, and information on the objects and fields you selected when creating
+  the policy. Use the policy file ID to execute the Portability resource with the GET method. This
+  resource is available in REST API version 50.0 and later.
 
 # Compile Data for a Portability Request
 
@@ -60,4 +68,29 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   “dataSubjectId”:”<root ID>”,
+   “policyName”:”<policyName>”
+}
+```
+
+```
+curl -X POST https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/dsr/rtp/execute -H "Authorization: Bearer token" -H "Content-Type: application/json" -d "@exampleRequestBody.json"
+```
+
+```
+{ 
+   “status" : "SUCCESS",
+   "warnings" : [ ], 
+   "result" : { 
+       "policyFileStatus" : "In Progress", 
+       "policyFileUrl" : "https://MyDomainName.my.salesforce.com/servlet/policyFileDownload?file=0jeS70000004CBO", 
+       "policyFileId" : "0jeS70000004CBO" 
+   } 
+}
 ```

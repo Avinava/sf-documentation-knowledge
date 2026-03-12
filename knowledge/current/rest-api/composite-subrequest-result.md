@@ -5,11 +5,14 @@ topic: composite-subrequest-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.319Z
-keywords: [Composite, Subrequest, Result, Properties, Example, Behavior, Responses, There, Illegal, Characters, Reference, IDs, References, Null, Fields, Note, Aren’t, Specified, Parent, Request]
+lastCollected: 2026-03-12T05:14:35.489Z
+estimatedTokens: 1627
+keywords: [Composite, Subrequest, Result, composite, subrequest, result, describes, subrequest., Example, Behavior, Responses, There, Illegal, Characters, Reference, IDs, References, Null, Fields, Note]
 ---
 
 # Composite Subrequest Result
+
+> The composite subrequest result describes the result for a subrequest.
 
 # Composite Subrequest Result
 
@@ -160,3 +163,135 @@ To make such a request work, you must explicitly obtain the AccountId in the par
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+   "body": {
+      "id": "001R00000064wdtIAA",
+      "success": true,
+      "errors": []
+   },
+   "httpHeaders": {
+      "Location": "/services/data/v66.0/sobjects/Account/001R00000064wdtIAA"
+   },
+   "httpStatusCode": 201,
+   "referenceId": "refAccount"
+}
+```
+
+```
+{
+  "body" : [ {
+    "message" : "Email: invalid email address: Not a real email address",
+    "errorCode" : "INVALID_EMAIL_ADDRESS",
+    "fields" : [ "Email" ]
+  } ],
+  "httpHeaders" : { },
+  "httpStatusCode" : 400,
+  "referenceId" : "badContact"
+}
+```
+
+```
+{
+  "allOrNone": false,
+  "compositeRequest": [
+    {
+      "method": "POST",
+      "body": {
+        "name": "Cloudy Consulting"
+      },
+      "url": "/services/data/vXX.X/sobjects/Account/",
+      "referenceId": "refNewAccount[1]"
+    },
+    {
+      "method": "POST",
+      "body": {
+        "AccountId": "@{refNewAccount[1].id}",
+        "FirstName": "Mary",
+        "LastName": "Smith”
+      },
+      "url": "/services/data/vXX.X/sobjects/Contact",
+      "referenceId": "refNewContact"
+    },
+    {
+      "method": "POST",
+      "body": {
+        "name": "Easy Spaces"
+      },
+      "url": "/services/data/vXX.X/sobjects/Account/",
+      "referenceId": "refNewAccount2"
+    }
+  ]
+}
+```
+
+```
+HTTP/1.1 200 OK
+{
+   "compositeResponse" : [
+      {
+         "body" : {
+            "id" : "001R0000006hfeZIAQ",
+            "success" : true,
+            "errors" : [ ]
+         },
+         "httpHeaders" : {
+            "Location" : "/services/data/v51.0/sobjects/Account/001R0000006hfeZIAQ"
+         },
+         "httpStatusCode" : 201,
+         "referenceId" : "refNewAccount[1]"
+      },
+      {
+         "body" : [
+            {
+               "errorCode" : "PROCESSING_HALTED",
+               "message" : "Invalid reference specified. No value for refNewAccount[1].id found in refNewAccount.
+            }
+         ],
+         "httpHeaders" : { },
+         "httpStatusCode" : 400,
+         "referenceId" : "refNewContact"
+      },
+      {
+         "body" : {
+            "id" : "001R0000006hfeeIAA",
+            "success" : true,
+            "errors" : [ ]
+         },
+         "httpHeaders" : {
+            "Location" : "/services/data/v51.0/sobjects/Account/001R0000006hfeeIAA"
+         },
+         "httpStatusCode" : 201,
+         "referenceId" : "refNewAccount2"
+      }
+   ]
+}
+```
+
+```
+{
+   "compositeResponse" : [
+      {
+         "body" : {
+            "id" : "001R0000006hfeZIAQ",
+            "success" : true,
+            "errors" : [ ]
+         },
+         "httpHeaders" : {
+            "Location" : "/services/data/v51.0/sobjects/Account/001R0000006hfeZIAQ"
+         },
+         "httpStatusCode" : 201,
+         "referenceId" : "refNewAccount"
+      },
+     ...
+}
+```
+
+## Related Topics
+
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- allOrNone Parameters in Composite and Collections Requests (atlas.en-us.api_rest.meta/api_rest/resources_composite_allornone.htm)

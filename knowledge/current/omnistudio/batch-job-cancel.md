@@ -5,11 +5,16 @@ topic: batch-job-cancel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.580Z
-keywords: [Batch, Job, Cancel, Note]
+lastCollected: 2026-03-12T05:14:48.867Z
+estimatedTokens: 260
+keywords: [Batch, Job, Cancel, batch, job, data, processing, engine, calc, management., only, status, Submitted, Progress, canceled., Note]
 ---
 
 # Batch Job Cancel
+
+> Cancel a batch job of type data processing engine (calc job) and batch
+      management. A batch job with only the status Submitted or In Progress can be
+    canceled.
 
 # Batch Job Cancel
 
@@ -57,3 +62,17 @@ Response body for POST
 Returns HTTP 201 on success.
 
 See [Batch Job Cancel Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_batch_job_cancel.htm "Output representation of the batch job cancel request.") for HTTP code descriptions that are unique to this resource in case of failure of the batch job cancel request.
+
+## Code Examples
+
+```
+/connect/batch-job/batchJobId/cancel-job
+```
+
+```
+/connect/batch-job/0mdxx00000000fxAAA/cancel-job
+```
+
+## Related Topics
+
+- Batch Job Cancel Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_batch_job_cancel.htm)

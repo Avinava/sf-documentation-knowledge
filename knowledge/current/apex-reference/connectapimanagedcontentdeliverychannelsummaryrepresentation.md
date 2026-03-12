@@ -5,11 +5,14 @@ topic: connectapimanagedcontentdeliverychannelsummaryrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.130Z
-keywords: [ConnectApi.ManagedContentDeliveryChannelSummaryRepresentation, See]
+lastCollected: 2026-03-12T05:14:27.769Z
+estimatedTokens: 408
+keywords: [ConnectApi.ManagedContentDeliveryChannelSummaryRepresentation, Summary, information, managed, content, delivery, channel.]
 ---
 
 # ConnectApi.ManagedContentDeliveryChannelSummaryRepresentation
+
+> Summary information of a managed content delivery channel.
 
 # ConnectApi.ManagedContentDeliveryChannelSummaryRepresentation
 
@@ -27,7 +30,16 @@ Summary information of a managed content delivery channel.
 #### See Also
 
 -   [ConnectApi.ManagedContentDeliveryDocumentCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm "Managed content delivery document collection.")
-    
+
 -   [ConnectApi.ManagedContentDeliveryDocument](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm "Managed content in delivery scope.")
-    
+
 -   [ConnectApi.ManagedContentCollectionItems](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_collection_items.htm "Managed content collection Items.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​ChannelTarget​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_target_entity_summary.htm)
+- ConnectApi.​ManagedContent​ChannelType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ManagedContentDeliveryDocumentCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm)
+- ConnectApi.ManagedContentDeliveryDocument (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm)
+- ConnectApi.ManagedContentCollectionItems (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_collection_items.htm)

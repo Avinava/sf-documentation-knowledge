@@ -5,11 +5,14 @@ topic: product-classification-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.321Z
-keywords: [Product, Classification, Details, POST]
+lastCollected: 2026-03-12T05:14:07.104Z
+estimatedTokens: 299
+keywords: [Product, Classification, Details, POST, Retrieve, details, list, product, classification, records.]
 ---
 
 # Product Classification Details (POST)
+
+> Retrieve the details for a list of product classification records.
 
 # Product Classification Details (POST)
 
@@ -55,3 +58,30 @@ Properties
 Response body for POST
 
 [Product Classification Details Collection](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_classification_details_collection_output.htm "Output representation that contains a collection of product classification details along with any processing errors.")
+
+## Code Examples
+
+```
+/revenue/product-catalog-management/product-classifications/details
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/revenue/product-catalog-management/product-classifications/details
+```
+
+```
+{
+  "productClassificationIds": [
+    "01txx0000006iFMAAY",
+    "01txx0000006iGxAAY"
+  ],
+  "catalogSystems": [
+    "epc"
+  ]
+}
+```
+
+## Related Topics
+
+- Product Classification Details
+              Collection (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_classification_details_collection_output.htm)

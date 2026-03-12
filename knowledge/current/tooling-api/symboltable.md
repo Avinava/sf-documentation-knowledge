@@ -5,11 +5,16 @@ topic: symboltable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.858Z
-keywords: [SymbolTable, Fields, Annotations, Modifiers, Usage]
+lastCollected: 2026-03-12T05:14:46.944Z
+estimatedTokens: 1080
+keywords: [SymbolTable, complex, represents, user-defined, tokens, Body, ApexClass, ApexClassMember, ApexTriggerMember, their, associated, line, column, locations, within, Body., Fields, Annotations, Modifiers, Usage]
 ---
 
 # SymbolTable
+
+> A complex type that represents all user-defined tokens in the
+    Body of an ApexClass, ApexClassMember, or ApexTriggerMember and their
+   associated line and column locations within the Body.
 
 # SymbolTable
 
@@ -80,3 +85,7 @@ Available values for modifiers fields include:
 Use symbol tables instead of building a parser or compiler. Symbol tables allow you to do symbol highlighting, code navigation, code completion, symbol searches, and more.
 
 A symbol table can’t be created if the content referenced by the ContentEntityId field doesn’t use a symbol table. Compiler errors for the last deployment of the [MetadataContainer](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm "Manages working copies of ApexClassMember, ApexTriggerMember, ApexPageMember, and ApexComponentMember objects, including collections of objects to be deployed together.") in the MetadataContainerId field also prevent a symbol table from being created.
+
+## Related Topics
+
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)

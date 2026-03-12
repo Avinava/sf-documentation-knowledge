@@ -5,11 +5,14 @@ topic: connectapireplyintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.927Z
-keywords: [ConnectApi.ReplyIntent, See]
+lastCollected: 2026-03-12T05:14:28.875Z
+estimatedTokens: 113
+keywords: [ConnectApi.ReplyIntent, Reply, intent, social, post.]
 ---
 
 # ConnectApi.ReplyIntent
+
+> Reply intent for a social post.
 
 # ConnectApi.ReplyIntent
 
@@ -22,3 +25,8 @@ Reply intent for a social post.
 #### See Also
 
 -   [ConnectApi.ReplyIntents](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reply_social_post_intents_output.htm "List of reply intents for a social post.")
+
+## Related Topics
+
+- ConnectApi.ManagedSocialAccount (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_social_account_output.htm)
+- ConnectApi.ReplyIntents (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reply_social_post_intents_output.htm)

@@ -5,11 +5,17 @@ topic: null-coalescing-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.956Z
-keywords: [Null, Coalescing, Operator, Warning, Usage, See]
+lastCollected: 2026-03-12T05:14:34.522Z
+estimatedTokens: 904
+keywords: [Null, Coalescing, Operator, operator, its, right-hand, side, operand, left-hand, null., Similar, safe, navigation, null, coalescing, replaces, verbose, explicit, checks, references]
 ---
 
 # Null Coalescing Operator
+
+> The ?? operator returns its right-hand side
+        operand when its left-hand side operand is null. Similar to the safe navigation operator
+            (?.), the null coalescing operator (??) replaces verbose and explicit checks for null references
+        in code.
 
 # Null Coalescing Operator
 
@@ -51,12 +57,17 @@ There are some restrictions on using the null coalescing operator.
     -   foo??bar = 42;// This is not a valid assignment
     -   foo??bar++; // This is not a valid assignment
 -   SOQL bind expressions don’t support the null coalescing operator.
-    
+
     class X { public String query = 'xyz';} X x = new X(); List<Account> accounts = \[SELECT Name FROM Account WHERE Name = :X??query\] List<List<SObject>> moreAccounts = \[FIND :X??query IN ALL FIELDS RETURNING Account(Name)\];
-    
+
 
 #### See Also
 
 -   [Operator Precedence](atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_operators_precedence.htm "Operators are interpreted in order, according to rules.")
-    
+
 -   [Using SOQL Queries That Return One Record](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm "SOQL queries can be used to assign a single sObject value when the result list contains only one element.")
+
+## Related Topics
+
+- Operator Precedence (atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_operators_precedence.htm)
+- Using SOQL Queries That Return One Record (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm)

@@ -5,11 +5,14 @@ topic: connectapibannerphoto
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.008Z
-keywords: [ConnectApi.BannerPhoto, See]
+lastCollected: 2026-03-12T05:14:26.165Z
+estimatedTokens: 168
+keywords: [ConnectApi.BannerPhoto, banner, photo.]
 ---
 
 # ConnectApi.BannerPhoto
+
+> A banner photo.
 
 # ConnectApi.BannerPhoto
 
@@ -24,5 +27,11 @@ A banner photo.
 #### See Also
 
 -   [ConnectApi.ChatterGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm "Chatter group.")
-    
+
 -   [ConnectApi.UserDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm "Details about a user in an org.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ChatterGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm)
+- ConnectApi.UserDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm)

@@ -5,11 +5,15 @@ topic: declineagentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.809Z
-keywords: [declineAgentWork, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.164Z
+estimatedTokens: 213
+keywords: [declineAgentWork, Declines, work, item, that’s, assigned, agent., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # declineAgentWork
+
+> Declines a work item that’s assigned to an agent. Available in API versions 32.0 and
+        later.
 
 # declineAgentWork
 
@@ -42,3 +46,35 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | success | Boolean | true if declining the work item was successful; false if declining the work item wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.presence.declineAgentWork(workId:String, (optional) declineReason:String, (optional) callback:function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testDeclineWork();return false;">Decline Assigned Work Item</a>
+
+    <script type="text/javascript">
+        function testDeclineWork() {
+            //First, get the ID of the assigned work item to accept it
+            sforce.console.presence.getAgentWorks(function(result) {
+                if (result.success) {
+                    var works = JSON.parse(result.works);
+                    var work = works[0];
+                    sforce.console.presence.declineAgentWork(work.workId, function(result) { 
+                            if (result.success) {
+                                alert('Declined work successfully');
+                            } else {
+                                alert('Decline work failed');
+                            }
+                        });
+                     }
+                });
+            }
+    </script>
+</apex:page>
+```

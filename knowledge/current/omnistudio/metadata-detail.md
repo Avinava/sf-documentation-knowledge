@@ -5,11 +5,14 @@ topic: metadata-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.596Z
-keywords: [Metadata, Detail]
+lastCollected: 2026-03-12T05:14:50.384Z
+estimatedTokens: 121
+keywords: [Metadata, Detail, Output, representation, metadata, detail, request.]
 ---
 
 # Metadata Detail
+
+> Output representation of the metadata detail request.
 
 # Metadata Detail
 
@@ -25,3 +28,18 @@ JSON Example
 | --- | --- | --- | --- | --- |
 | column | String | Developer name or API name of the configured object's column on which a quick action is performed. | Small, 58.0 | 58.0 |
 | label | String | Label name of the configured object's column on which a quick action is performed. | Small, 58.0 | 58.0 |
+
+## Code Examples
+
+```
+"metadataDetailRepresentation": [
+        {
+          "column": "Phone",
+          "label": "Account Phone"
+        }
+        {
+          "column": "Home_Phone",
+          "label": "Home Phone"
+        }
+      ]
+```

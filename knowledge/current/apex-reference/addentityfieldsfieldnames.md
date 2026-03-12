@@ -5,11 +5,16 @@ topic: addentityfieldsfieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.113Z
-keywords: [addEntityFields, fieldNames, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.342Z
+estimatedTokens: 552
+keywords: [addEntityFields, fieldNames, Adds, set, fields, list, returned, signed, request, Record, component, appears, Visualforce, page, that’s, placed, object., Usage, Example]
 ---
 
 # addEntityFields(fieldNames)
+
+> Adds a set of fields to the list of object fields that are returned in the signed
+  request Record object when the component appears on a Visualforce page that’s placed on an
+  object.
 
 # addEntityFields(fieldNames)
 
@@ -46,3 +51,19 @@ This example adds the Name, BillingAddress, and YearStarted fields to the list o
 ```
 
 ```
+
+## Code Examples
+
+```
+Canvas.EnvironmentContext env = renderContext.getEnvironmentContext();
+
+// Add Name, BillingAddress and YearStarted to fields (assumes we'll run from the Account detail page)
+Set<String> fields = new Set<String>{'Name','BillingAddress','YearStarted'};
+env.addEntityFields(fields);
+```
+
+## Related Topics
+
+- SET (atlas.en-us.apexref.meta/apexref/apex_methods_system_set.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Canvas.EnvironmentContext.getEntityFields() (atlas.en-us.apexref.meta/apexref/apex_canvas_EnvironmentContext_getEntityFields.htm)

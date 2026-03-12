@@ -5,11 +5,15 @@ topic: reportchartcomponentsize-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.390Z
-keywords: [ReportChartComponentSize, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.502Z
+estimatedTokens: 79
+keywords: [ReportChartComponentSize, Describes, size, displayed, report, chart, component., Values]
 ---
 
 # ReportChartComponentSize Enum
+
+> Describes the size of the displayed report chart
+    component.
 
 # ReportChartComponentSize Enum
 

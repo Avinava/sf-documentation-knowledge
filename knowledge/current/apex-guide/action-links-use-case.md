@@ -5,11 +5,16 @@ topic: action-links-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.931Z
-keywords: [Action, Links, Case, Start, Video, Chat, Feed, See]
+lastCollected: 2026-03-12T05:14:34.486Z
+estimatedTokens: 919
+keywords: [Action, Links, Case, action, links, integrate, Salesforce, third-party, services, feed., link, HTTP, request, API., download, file, open, web, page., topic]
 ---
 
 # Action Links Use Case
+
+> Use action links to integrate Salesforce and third-party services with a feed. An
+    action link can make an HTTP request to a Salesforce or third-party API. An action link can also
+    download a file or open a web page. This topic contains an example use case.
 
 # Action Links Use Case
 
@@ -47,3 +52,7 @@ Every action link must be associated with an action link group. The group define
 #### See Also
 
 -   [Action Links Overview, Authentication, and Security](atlas.en-us.apexcode.meta/apexcode/connectapi_features_action_links_overview.htm "Learn about Apex action links security, authentication, labels, and errors.")
+
+## Related Topics
+
+- Action Links Overview, Authentication, and Security (atlas.en-us.apexcode.meta/apexcode/connectapi_features_action_links_overview.htm)

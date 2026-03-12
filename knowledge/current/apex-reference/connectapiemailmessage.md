@@ -5,11 +5,14 @@ topic: connectapiemailmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.665Z
-keywords: [ConnectApi.EmailMessage, Important]
+lastCollected: 2026-03-12T05:14:27.157Z
+estimatedTokens: 308
+keywords: [ConnectApi.EmailMessage, Email, message, case., Important]
 ---
 
 # ConnectApi.EmailMessage
+
+> Email message from a case.
 
 # ConnectApi.EmailMessage
 
@@ -30,3 +33,11 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | subject | String | The subject of the email message. | 29.0–31.0 |
 | textBody | String | The body of the email message. | 29.0–31.0 |
 | toAddresses | List<ConnectApi.EmailAddress> | A list of email addresses to send the message to. | 29.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.EmailMessageCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_email_message_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.EmailAddress (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_emailAddress.htm)

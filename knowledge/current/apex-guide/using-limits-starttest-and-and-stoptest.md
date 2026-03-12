@@ -5,11 +5,15 @@ topic: using-limits-starttest-and-and-stoptest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.647Z
-keywords: [Limits, startTest, stopTest, See]
+lastCollected: 2026-03-12T05:14:34.093Z
+estimatedTokens: 699
+keywords: [Limits, startTest, stopTest, specific, limit, particular, governor, such, number, calls, amount, heap, size, remaining.]
 ---
 
 # Using Limits,  startTest , and , and stopTest
+
+> The Limits methods return the specific limit for the particular governor, such as the number
+      of calls of a method or the amount of heap size remaining.
 
 # Using Limits, startTest , and , and stopTest
 
@@ -31,3 +35,8 @@ The stopTest method marks the point in your test code when your test ends. Use t
 #### See Also
 
 -   [Test Apex Triggers](https://trailhead.salesforce.com/content/learn/modules/apex_testing/apex_testing_triggers "Test Apex Triggers - HTML (New Window)")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_testing_SOSL.htm)

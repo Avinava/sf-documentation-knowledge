@@ -5,11 +5,17 @@ topic: run-the-same-tests-in-sandbox-and-production-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.846Z
-keywords: [Run, Same, Tests, Sandbox, Production, Deployments, Note]
+lastCollected: 2026-03-12T05:14:38.704Z
+estimatedTokens: 314
+keywords: [Run, Same, Tests, Sandbox, Production, Deployments, Starting, API, version, 34.0, choose, which, tests, run, development, environment, such, only, local, match]
 ---
 
 # Run the Same Tests in Sandbox and Production Deployments
+
+> Starting in API version 34.0, you can choose which tests to run in your development
+  environment, such as only local tests, to match the tests run in production. In earlier versions,
+  if you enabled tests in your sandbox deployment, you couldn’t exclude managed package
+  tests.
 
 # Run the Same Tests in Sandbox and Production Deployments
 
@@ -26,3 +32,21 @@ By default, no tests are run in a deployment to a non-production organization, s
 #### Note
 
 The RunLocalTests test level is enforced regardless of the contents of the deployment package. In contrast, tests are executed by default in production only if your deployment package contains Apex classes or triggers. You can use RunLocalTests for sandbox and production deployments.
+
+## Code Examples
+
+```
+// Create the DeployOptions object.
+DeployOptions deployOptions = new DeployOptions();
+
+// Set the appropriate test level.
+deployOptions.setTestLevel(TestLevel.RunLocalTests);
+
+// Call deploy() by passing the deployment options object as an argument. 
+AsyncResult asyncResult = metadatabinding.deploy(zipBytes,deployOptions);
+```
+
+## Related Topics
+
+- testLevel deployment
+    option (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)

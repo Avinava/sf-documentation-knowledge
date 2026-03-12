@@ -5,11 +5,15 @@ topic: forecastingtypesource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.057Z
-keywords: [ForecastingTypeSource, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.768Z
+estimatedTokens: 686
+keywords: [ForecastingTypeSource, Represents, mapping, forecasting, source, definition, forecast, type., API, version, 52.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ForecastingTypeSource
+
+> Represents the mapping of a forecasting source definition to a forecast
+         type. This object is available in API version 52.0 and later.
 
 # ForecastingTypeSource
 

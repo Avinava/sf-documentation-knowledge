@@ -5,11 +5,14 @@ topic: accountplanobjmeascalcdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.264Z
-keywords: [AccountPlanObjMeasCalcDef, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AccountPlanObjMeasCalcCond, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:36.509Z
+estimatedTokens: 1024
+keywords: [AccountPlanObjMeasCalcDef, Represents, metadata, associated, account, plan, objective, measure, calculation, definition., definition, contains, target, rollup, field, logic, calculating, current, sales, measure.]
 ---
 
 # AccountPlanObjMeasCalcDef
+
+> Represents the metadata associated with an account plan objective measure calculation definition. An account plan objective measure calculation definition contains a target object, rollup field, and logic for calculating the current value of a sales account plan objective measure.
 
 # AccountPlanObjMeasCalcDef
 
@@ -73,3 +76,41 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountPlanObjMeasCalcDef xmlns="http://soap.sforce.com/2006/04/metadata">
+	<conditions>
+		<fieldName>StageName</fieldName>
+		<operation>Equals</operation>
+		<value>ClosedWon</value>
+	</conditions>
+	<description>Define sales revenue goals. Current Value will be 
+		auto-calculated as the sum of your selected Opportunities 
+		Amount with 'Closed Won' Stage.
+	</description>
+	<developerName>Opportunity_Revenue_Targets</developerName>
+	<masterLabel>Opportunity Revenue Targets</masterLabel>
+	<rollupType>Sum</rollupType>
+	<status>Active</status>
+	<targetField>Amount</targetField>
+	<targetObject>Opportunity</targetObject>
+</AccountPlanObjMeasCalcDef>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>
+         <members>Opportunity_Revenue_Targets</members>
+         <name>AccountPlanObjMeasCalcDef</name>
+     </types>
+     <version>63.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

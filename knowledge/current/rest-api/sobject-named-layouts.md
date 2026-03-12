@@ -5,11 +5,15 @@ topic: sobject-named-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.677Z
-keywords: [sObject, Named, Layouts, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.018Z
+estimatedTokens: 279
+keywords: [sObject, Named, Layouts, Retrieves, information, alternate, named, layouts, given, object., resource, REST, API, version, 31.0, later., Syntax, Example]
 ---
 
 # sObject Named Layouts
+
+> Retrieves information about alternate named layouts for a given
+			object. This resource is available in REST API version 31.0 and later.
 
 # sObject Named Layouts
 
@@ -52,3 +56,13 @@ Example Request
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/User/describe/namedLayouts/UserAlt -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- sObject Describe (atlas.en-us.api_rest.meta/api_rest/resources_sobject_describe.htm)

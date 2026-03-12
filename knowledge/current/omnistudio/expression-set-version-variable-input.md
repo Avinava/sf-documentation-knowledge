@@ -5,11 +5,15 @@ topic: expression-set-version-variable-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.298Z
-keywords: [Expression, Set, Version, Variable, Input]
+lastCollected: 2026-03-12T05:14:48.427Z
+estimatedTokens: 476
+keywords: [Expression, Set, Version, Variable, Input, representation, variable, expression, set, version.]
 ---
 
 # Expression Set Version Variable Input
+
+> Input representation of a variable in an expression set
+    version.
 
 # Expression Set Version Variable Input
 
@@ -42,3 +46,70 @@ Properties
 | result​Step | String | Name of the step that’s assigning the value to this variable. | Optional | 58.0 |
 | type | String | Type of the variable in an expression set.Valid values are:ConstantFormulaVariable | Required | 58.0 |
 | value | String | Represents a value for a constant variable type and represents a formula for a formula variable type. | Optional | 58.0 |
+
+## Code Examples
+
+```
+"variables": [
+            {
+              "collection": false,
+              "dataType": "Text",
+              "decimalPlaces": 2,
+              "description": null,
+              "input": true,
+              "lookupName": "DM_for_test",
+              "lookupType": "DecisionMatrix",
+              "name": "City",
+              "objectName": null,
+              "output": false,
+              "resultStep": null,
+              "type": "Variable",
+              "value": null
+            },
+            {
+              "collection": false,
+              "dataType": "Text",
+              "decimalPlaces": null,
+              "description": null,
+              "input": false,
+              "lookupName": "DM_for_test",
+              "lookupType": "DecisionMatrix",
+              "name": "DM_for_test__State",
+              "objectName": null,
+              "output": true,
+              "resultStep": null,
+              "type": "Variable",
+              "value": null
+            },
+            {
+              "collection": false,
+              "dataType": "Text",
+              "decimalPlaces": null,
+              "description": "productName",
+              "input": true,
+              "lookupName": null,
+              "lookupType": null,
+              "name": "productName",
+              "objectName": null,
+              "output": false,
+              "resultStep": null,
+              "type": "Variable",
+              "value": null
+            },
+            {
+              "collection": false,
+              "dataType": "Boolean",
+              "decimalPlaces": null,
+              "description": "condition_output__1",
+              "input": false,
+              "lookupName": null,
+              "lookupType": null,
+              "name": "condition_output__1",
+              "objectName": null,
+              "output": true,
+              "resultStep": "Condition1",
+              "type": "Variable",
+              "value": null
+            }
+          ]
+```

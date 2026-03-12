@@ -5,11 +5,14 @@ topic: connectapiproductmedia
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.711Z
-keywords: [ConnectApi.ProductMedia, See]
+lastCollected: 2026-03-12T05:14:28.568Z
+estimatedTokens: 451
+keywords: [ConnectApi.ProductMedia, Media, associated, product.]
 ---
 
 # ConnectApi.ProductMedia
+
+> Media associated with a product.
 
 # ConnectApi.ProductMedia
 
@@ -29,11 +32,22 @@ Media associated with a product.
 #### See Also
 
 -   [ConnectApi.CartItemProduct](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_summary.htm "Product summary for a cart item.")
-    
+
 -   [ConnectApi.ProductDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm "Details of a product.")
-    
+
 -   [ConnectApi.ProductMediaGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media_group.htm "Media group associated with a product.")
-    
+
 -   [ConnectApi.OrderItemSummaryProduct](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_product.htm "Product item mapped to the order item summary.")
-    
+
 -   [ConnectApi.ProductSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary.htm "Product summary.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ProductMediaType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.CartItemProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_summary.htm)
+- ConnectApi.ProductDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm)
+- ConnectApi.ProductMediaGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_media_group.htm)
+- ConnectApi.OrderItemSummaryProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_product.htm)
+- ConnectApi.ProductSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary.htm)

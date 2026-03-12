@@ -5,11 +5,14 @@ topic: connectapisearchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.995Z
-keywords: [ConnectApi.SearchResult, See]
+lastCollected: 2026-03-12T05:14:28.975Z
+estimatedTokens: 265
+keywords: [ConnectApi.SearchResult, Results, searching, keywords.]
 ---
 
 # ConnectApi.SearchResult
+
+> Results from searching an object using keywords.
 
 # ConnectApi.SearchResult
 
@@ -27,7 +30,19 @@ Results from searching an object using keywords.
 #### See Also
 
 -   [ConnectApi.SearchResultGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result_grou.htm "Search result group.")
-    
+
 -   [ConnectApi.ScopedSearchResults](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scoped_search_result.htm "Keyword search results for an object.")
-    
+
 -   [ConnectApi.SearchObject](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm "Record results for the keyword search.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Chunk (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chun.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- ConnectApi.​RecordFieldValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_field_valu.htm)
+- ConnectApi.​MatchInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_match_inf.htm)
+- ConnectApi.SearchResultGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result_grou.htm)
+- ConnectApi.ScopedSearchResults (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scoped_search_result.htm)
+- ConnectApi.SearchObject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm)

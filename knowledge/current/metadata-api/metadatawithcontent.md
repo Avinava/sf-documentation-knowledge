@@ -5,11 +5,16 @@ topic: metadatawithcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.544Z
-keywords: [MetadataWithContent, Version, Fields, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:41.148Z
+estimatedTokens: 472
+keywords: [MetadataWithContent, base, metadata, types, contain, content, such, documents, email, templates., extends, Metadata., can’t, edit, object., Version, Fields, Wildcard, Support, Manifest]
 ---
 
 # MetadataWithContent
+
+> MetadataWithContent is the base type for all
+   metadata types that contain content, such as documents or email templates. It extends
+  Metadata. You can’t edit this object.
 
 # MetadataWithContent
 
@@ -33,3 +38,9 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.")
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

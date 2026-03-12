@@ -5,11 +5,16 @@ topic: briefcasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.313Z
-keywords: [BriefcaseDefinition, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:44.772Z
+estimatedTokens: 1201
+keywords: [BriefcaseDefinition, Represents, briefcase, definition., makes, selected, records, users, groups, view, they’re, offline, Salesforce, Field, Service, mobile, app, iOS, Android., API]
 ---
 
 # BriefcaseDefinition
+
+> Represents a briefcase definition. A briefcase makes selected records available
+      for users and groups to view when they’re offline in the Salesforce Field Service mobile app
+      for iOS and Android. This object is available in API version 50.0 and later.
 
 # BriefcaseDefinition
 

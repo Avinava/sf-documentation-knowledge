@@ -5,11 +5,15 @@ topic: explainability-message-templates-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.977Z
-keywords: [Explainability, Message, Templates, GET, Note]
+lastCollected: 2026-03-12T05:14:49.456Z
+estimatedTokens: 360
+keywords: [Explainability, Message, Templates, GET, Retrieves, list, explainability, message, templates, matches, given, search, parameters., Note]
 ---
 
 # Explainability Message Templates (GET)
+
+> Retrieves a list of explainability message templates that matches
+      the given search parameters.
 
 # Explainability Message Templates (GET)
 
@@ -57,3 +61,18 @@ You must specify at least one parameter as part of the GET request.
 Response body for GET
 
 [Message Templates List](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_message_templates_list_output.htm "Output representation of the list of explainability message templates.")
+
+## Code Examples
+
+```
+/connect/business-rules/explainability/message-templates
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect
+/business-rules/explainability/message-templates?messageType=Passed
+```
+
+## Related Topics
+
+- Message Templates List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_message_templates_list_output.htm)

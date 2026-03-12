@@ -5,11 +5,16 @@ topic: datadotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.683Z
-keywords: [DataDotComSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.467Z
+estimatedTokens: 463
+keywords: [DataDotComSettings, Represents, org's, Data.com, settings., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample]
 ---
 
 # DataDotComSettings
+
+> Represents the org's Data.com settings.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # DataDotComSettings
 
@@ -48,3 +53,32 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DataDotComSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+	<enableAccountExportButtonOff>true</enableAccountExportButtonOff>
+	<enableAccountImportButtonOff>true</enableAccountImportButtonOff>
+	<enableAllowDupeContactFromLead>true</enableAllowDupeContactFromLead>
+	<enableAllowDupeLeadFromContact>true</enableAllowDupeLeadFromContact>
+	<enableContactExportButtonOff>true</enableContactExportButtonOff>
+	<enableContactImportButtonOff>true</enableContactImportButtonOff>
+</DataDotComSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>DataDotCom</members>
+		<name>Settings</name>
+	</types>
+	<version>29.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

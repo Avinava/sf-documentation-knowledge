@@ -5,11 +5,14 @@ topic: context-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.103Z
-keywords: [Context, Attributes, Input]
+lastCollected: 2026-03-12T05:14:48.145Z
+estimatedTokens: 223
+keywords: [Context, Attributes, Input, representation, context, attribute.]
 ---
 
 # Context Attributes Input
+
+> Input representation of context attribute.
 
 # Context Attributes Input
 
@@ -33,3 +36,34 @@ Properties
 | isValue | Boolean | Specifies if it used for transposable feature (true) or not (false). | Optional | 59.0 |
 | name | String | Name of the attribute. | Required | 59.0 |
 | tags | Context Tag Input[] | List of tags for the attribute. | Optional | 59.0 |
+
+## Code Examples
+
+```
+{
+    "contextAttributes": [
+        {
+            "dataType": "STRING",
+            "fieldType": "INPUT",
+            "name": "Attribute_5",
+            "tags": {
+                "contextTags": [
+                    {
+                        "name": "Attribute_5_Tag"
+                    }
+                ]
+            }
+        },
+        {
+            "dataType": "NUMBER",
+            "fieldType": "OUTPUT",
+            "name": "Attribute_6"
+        }
+    ]
+}
+```
+
+## Related Topics
+
+- Context Tag
+                                                Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_tag_input.htm)

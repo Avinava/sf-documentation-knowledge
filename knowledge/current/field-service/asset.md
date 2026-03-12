@@ -5,11 +5,14 @@ topic: asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.482Z
-keywords: [Asset, Supported, Calls, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.893Z
+estimatedTokens: 5020
+keywords: [Asset, Represents, item, commercial, such, product, sold, company, competitor, customer, purchased., Supported, Calls, Fields, Usage, Associated, Objects]
 ---
 
 # Asset
+
+> Represents an item of commercial value, such as a product sold by your company or a competitor, that a customer has purchased.
 
 # Asset
 

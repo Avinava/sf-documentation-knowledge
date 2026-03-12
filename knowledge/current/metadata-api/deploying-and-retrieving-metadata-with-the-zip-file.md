@@ -5,11 +5,16 @@ topic: deploying-and-retrieving-metadata-with-the-zip-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.178Z
-keywords: [Deploying, Retrieving, Metadata, Zip, File, Note, See]
+lastCollected: 2026-03-12T05:14:36.405Z
+estimatedTokens: 1794
+keywords: [Deploying, Retrieving, Metadata, Zip, File, deploy, retrieve, calls, used, .zip, file., Within, file, project, manifest, package.xml, lists, XML, components, organized]
 ---
 
 # Deploying and Retrieving Metadata with the Zip File
+
+> The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the
+            .zip file is a project manifest (package.xml) that lists what to
+            retrieve or deploy, and one or more XML components that are organized into folders.
 
 # Deploying and Retrieving Metadata with the Zip File
 
@@ -60,13 +65,13 @@ The following elements can be defined in package.xml.
 -   <fullName\> contains the name of the server-side package. If no <fullName\> exists, the package.xml defines a client-side unpackaged package.
 -   <types\> contains the name of the metadata type (for example, CustomObject) and the named members (for example, myCustomObject\_\_c) to be retrieved or deployed. You can add multiple <types\> elements in a manifest file.
 -   <members\> contains the fullName of the component, for example MyCustomObject\_\_c. The [listMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_listmetadata.htm "This call retrieves property information about metadata components in your organization. Data is returned for the components that match the criteria specified in the queries parameter. The queries array can contain up to three ListMetadataQuery queries for each call. This call supports every metadata type: both top-level, such as CustomObject and ApexClass, and child types, such as CustomField and RecordType.") call is useful for determining the fullName for components of a particular metadata type if you want to retrieve an individual component. For many metadata types, you can replace the value in members with the wildcard character \* (asterisk) instead of listing each member separately. See the reference topic for a specific type to determine whether that type supports wildcards.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-    
+
     #### Note
-    
+
     You specify Security in the <members\> element and Settings in the name element when retrieving the SecuritySettings component type.
-    
+
 -   <name\> contains the metadata type, for example CustomObject or Profile. There is one name defined for each metadata type in the directory. Any metadata type that extends [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") is a valid value. The name that’s entered must match a metadata type that’s defined in the Metadata API WSDL. See [Metadata Types](atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm "Metadata API enables you to access some entities and feature settings that you can customize in the user interface.") for a list.
 -   <version\> is the API version number that’s used when the .zip file is deployed or retrieved. Currently the valid value is 66.0.
 
@@ -77,3 +82,34 @@ To delete components, see [Deleting Components from an Organization](atlas.en-us
 #### See Also
 
 -   [Metadata Types](atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm "Metadata API enables you to access some entities and feature settings that you can customize in the user interface.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyCustomObject__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Standard</members>
+        <name>Profile</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- listMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_listmetadata.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Types (atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm)
+- Sample package.xml Manifest
+            Files (atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm)
+- Deleting Components from an
+                Organization (atlas.en-us.api_meta.meta/api_meta/meta_deploy_deleting_files.htm)

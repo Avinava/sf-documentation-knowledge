@@ -5,11 +5,15 @@ topic: supplementary-field-service-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.374Z
-keywords: [Supplementary, Field, Service, Objects, Note]
+lastCollected: 2026-03-12T05:14:55.726Z
+estimatedTokens: 2788
+keywords: [Supplementary, Field, Service, Objects, list, objects, support, history, tracking, sharing., Note]
 ---
 
 # Supplementary Field Service Objects
+
+> A list of Field Service objects that support history tracking or
+                sharing.
 
 # Supplementary Field Service Objects
 

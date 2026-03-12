@@ -5,11 +5,14 @@ topic: connectapitargetinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.615Z
-keywords: [ConnectApi.TargetInput, See]
+lastCollected: 2026-03-12T05:14:25.613Z
+estimatedTokens: 553
+keywords: [ConnectApi.TargetInput, Target, create.]
 ---
 
 # ConnectApi.TargetInput
+
+> Target to create.
 
 # ConnectApi.TargetInput
 
@@ -27,3 +30,10 @@ Target to create.
 #### See Also
 
 -   [ConnectApi.TargetCollectionInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_target_collection.htm "Collection of targets to create.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​PublishStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.TargetCollectionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_target_collection.htm)

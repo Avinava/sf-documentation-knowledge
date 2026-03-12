@@ -5,11 +5,16 @@ topic: access-industries-features-deployed-using-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:11.357Z
-keywords: [Access, Industries, Features, Deployed, Managed, Packages]
+lastCollected: 2026-03-12T05:14:53.000Z
+estimatedTokens: 263
+keywords: [Access, Industries, Features, Deployed, Managed, Packages, features, deployed, org, managed, packages., access, records, packages, must, Apex, REST, methods.]
 ---
 
 # Access Industries Features Deployed Using Managed Packages
+
+> Some of the features of Industries are deployed in your org using managed packages. To
+  access records of features that are deployed using managed packages, you must use Apex REST
+  methods.
 
 # Access Industries Features Deployed Using Managed Packages
 
@@ -18,7 +23,7 @@ Some of the features of Industries are deployed in your org using managed packag
 | Health Cloud and Financial Services Cloud are available in Salesforce Classic and Lightning Experience |
 | --- |
 | Available in: Enterprise, Performance, and Unlimited Editions with Health Cloud and Financial Services Cloud |
-  
+
 
 When trying to access records of features deployed using a managed package, the REST call URL must contain the namespace of the managed package.
 

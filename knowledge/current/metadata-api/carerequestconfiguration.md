@@ -5,11 +5,17 @@ topic: carerequestconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.014Z
-keywords: [CareRequestConfiguration, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, CareRequestRecords, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.568Z
+estimatedTokens: 648
+keywords: [CareRequestConfiguration, Represents, details, record, such, service, request, drug, admission, request., types, associated, care, Important, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # CareRequestConfiguration
+
+> Represents
+			the details for a record type such as service request, drug request, or admission
+			request. One or more record types can be associated with a care
+			request.
 
 # CareRequestConfiguration
 
@@ -69,3 +75,44 @@ This is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CareRequestConfiguration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <careRequestRecordType>DrugRequest</careRequestRecordType>
+    <careRequestRecords>
+        <careRequestRecord>CareRequestItem</careRequestRecord>
+    </careRequestRecords>
+    <careRequestRecords>
+        <careRequestRecord>CareRequestDrug</careRequestRecord>
+    </careRequestRecords>
+    <careRequestType>Drug Request</careRequestType>
+    <isActive>false</isActive>
+    <isDefaultRecordType>false</isDefaultRecordType>
+    <masterLabel>DrugRequest</masterLabel>
+</CareRequestConfiguration>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Case.DrugRequest</members>
+        <name>BusinessProcess</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CareRequestConfiguration</name>
+    </types>
+    <types>
+        <members>CareRequest.DrugRequest</members>
+        <members>CareRequestDrug.DrugRequest</members>
+        <members>CareRequestItem.DrugRequest</members>
+        <members>Case.DrugRequest</members>
+        <name>RecordType</name>
+    </types>
+    <version>44.0</version>
+</Package>
+```

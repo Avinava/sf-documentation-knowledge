@@ -5,11 +5,15 @@ topic: simulation-input-variable-basic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.844Z
-keywords: [Simulation, Input, Variable, Basic, Note]
+lastCollected: 2026-03-12T05:14:50.757Z
+estimatedTokens: 303
+keywords: [Simulation, Input, Variable, Basic, Output, representation, details, input, variable, simulation., Note]
 ---
 
 # Simulation Input Variable Basic
+
+> Output representation of the details of an input variable of a
+      simulation.
 
 # Simulation Input Variable Basic
 

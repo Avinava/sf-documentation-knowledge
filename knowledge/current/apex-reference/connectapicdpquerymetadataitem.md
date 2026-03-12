@@ -5,11 +5,14 @@ topic: connectapicdpquerymetadataitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.260Z
-keywords: [ConnectApi.CdpQueryMetadataItem, See]
+lastCollected: 2026-03-12T05:14:26.534Z
+estimatedTokens: 119
+keywords: [ConnectApi.CdpQueryMetadataItem, Metadata, item.]
 ---
 
 # ConnectApi.CdpQueryMetadataItem
+
+> Metadata item.
 
 # ConnectApi.CdpQueryMetadataItem
 
@@ -24,3 +27,9 @@ Metadata item.
 #### See Also
 
 -   [ConnectApi.CdpQueryOutputV2](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_query_output_v2.htm "Query output for the V2 API.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.CdpQueryOutputV2 (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_query_output_v2.htm)

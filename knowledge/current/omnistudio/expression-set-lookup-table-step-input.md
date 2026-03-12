@@ -5,11 +5,15 @@ topic: expression-set-lookup-table-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.278Z
-keywords: [Expression, Set, Lookup, Table, Step, Input]
+lastCollected: 2026-03-12T05:14:48.397Z
+estimatedTokens: 138
+keywords: [Expression, Set, Lookup, Table, Step, Input, representation, lookup, table, step, expression, set.]
 ---
 
 # Expression Set Lookup Table Step Input
+
+> Input representation of a lookup table step in an expression
+    set.
 
 # Expression Set Lookup Table Step Input
 
@@ -31,3 +35,12 @@ Properties
 | --- | --- | --- | --- | --- |
 | lookup​TableName | String | Decision matrix or decision table name that’s used in the lookup table step. | Required | 58.0 |
 | type | String | Lookup table type of the expression set.Valid values are:DecisionMatrixDecisionTable | Required | 58.0 |
+
+## Code Examples
+
+```
+"lookupTable": {
+                "lookupTableName": "DM_for_test",
+                "type": "DecisionMatrix"
+              }
+```

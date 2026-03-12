@@ -5,11 +5,16 @@ topic: getentityfields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.116Z
-keywords: [getEntityFields, Signature, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.353Z
+estimatedTokens: 508
+keywords: [getEntityFields, Retrieves, list, fields, returned, signed, request, Record, component, appears, Visualforce, page, that’s, placed, object., Usage, Example]
 ---
 
 # getEntityFields()
+
+> Retrieves the list of object fields that are returned in the signed request Record
+        object when the component appears on a Visualforce page that’s placed on an
+        object.
 
 # getEntityFields()
 
@@ -42,3 +47,24 @@ If the canvas app that’s using this lifecycle code was run from the detail pag
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Canvas.EnvironmentContext env = renderContext.getEnvironmentContext();
+
+List<String> entityFields = env.getEntityFields();
+for (String fieldVal : entityFields) {
+    System.debug('Environment Context entityField: ' + fieldVal);
+}
+```
+
+```
+Environment Context entityField: Id
+```
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Canvas.EnvironmentContext.addEntityField(fieldName) (atlas.en-us.apexref.meta/apexref/apex_canvas_EnvironmentContext_addEntityField.htm)
+- Canvas.EnvironmentContext.addEntityFields(fieldNames) (atlas.en-us.apexref.meta/apexref/apex_canvas_EnvironmentContext_addEntityFields.htm)

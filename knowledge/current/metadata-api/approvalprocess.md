@@ -5,11 +5,17 @@ topic: approvalprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.624Z
-keywords: [ApprovalProcess, Note, File, Suffix, Directory, Location, Version, Fields, ApprovalSubmitter, ApprovalPageField, ApprovalStep, ApprovalAction, ApprovalStepApprover, Approver, ApprovalEntryCriteria, ApprovalStepRejectBehavior, NextAutomatedApprover, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:36.994Z
+estimatedTokens: 4084
+keywords: [ApprovalProcess, Represents, metadata, associated, approval, process., process, automates, how, records, approved, Salesforce., specifies, step, including, who, request, point, Note, File]
 ---
 
 # ApprovalProcess
+
+> Represents the metadata associated with an approval
+            process. An approval process automates how records are approved in Salesforce. An
+            approval process specifies each step of approval, including who to request approval from
+            and what to do at each point of the process.
 
 # ApprovalProcess
 
@@ -164,3 +170,181 @@ The following is an example of an ApprovalProcess component:
 ## Wildcard Support in the Manifest File
 
 Use the wildcard character \* (asterisk) in the package.xml manifest file to retrieve all approval processes for all objects. You can’t use it to retrieve a subset of approval processes. Syntax such as Lead.\* isn’t supported. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<allowedSubmitters> 
+    <type>allInternalUsers</type>
+</allowedSubmitters>  
+<allowedSubmitters>
+    <submitter>myGroup</submitter>
+    <type>group</type>
+</allowedSubmitters>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ApprovalProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>false</active>
+    <allowRecall>false</allowRecall>
+    <allowedSubmitters>
+        <type>owner</type>
+    </allowedSubmitters>
+    <allowedSubmitters>
+        <submitter>USSalesRep</submitter>
+        <type>role</type>
+    </allowedSubmitters>
+    <allowedSubmitters>
+        <submitter>MarketingGroup</submitter>
+        <type>group</type>
+    </allowedSubmitters>
+    <allowedSubmitters>
+        <submitter>kcooper@example.com</submitter>
+        <type>user</type>
+    </allowedSubmitters>
+    <approvalPageFields>
+        <field>Name</field>
+        <field>Owner</field>
+        <field>MyLeadCustomField__c</field>
+        <field>Address</field>
+    </approvalPageFields>
+    <approvalStep>
+        <allowDelegate>false</allowDelegate>
+        <approvalActions>
+            <action>
+                <name>LeadApprovedTask1</name>
+                <type>Task</type>
+            </action>
+            <action>
+                <name>LeadApprovedTask2</name>
+                <type>Task</type>
+            </action>
+        </approvalActions>
+        <assignedApprover>
+            <approver>
+                <type>adhoc</type>
+            </approver>
+        </assignedApprover>
+        <label>Step1</label>
+        <name>Step1</name>
+        <rejectionActions>
+            <action>
+                <name>LeadRejectedTask</name>
+                <type>Task</type>
+            </action>
+        </rejectionActions>
+    </approvalStep>
+    <approvalStep>
+        <allowDelegate>false</allowDelegate>
+        <assignedApprover>
+            <approver>
+                <type>userHierarchyField</type>
+            </approver>
+        </assignedApprover>
+        <entryCriteria>
+            <criteriaItems>
+                <field>Lead.CreatedDate</field>
+                <operation>greaterThan</operation>
+                <value>3/25/2013</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>User.IsActive</field>
+                <operation>notEqual</operation>
+                <value>true</value>
+            </criteriaItems>
+        </entryCriteria>
+        <ifCriteriaNotMet>ApproveRecord</ifCriteriaNotMet>
+        <label>Step2</label>
+        <name>Step2</name>
+        <rejectBehavior>
+            <type>RejectRequest</type>
+        </rejectBehavior>
+    </approvalStep>
+    <approvalStep>
+        <allowDelegate>true</allowDelegate>
+        <assignedApprover>
+            <approver>
+                <name>MarketingTeamQueue</name>
+                <type>queue</type>
+            </approver>
+            <approver>
+                <name>LastModifiedBy</name>
+                <type>relatedUserField</type>
+            </approver>
+            <approver>
+                <name>awheeler@example.com</name>
+                <type>user</type>
+            </approver>
+            <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
+        </assignedApprover>
+        <entryCriteria>
+            <formula>CONTAINS( MyLeadCustomField__c , 'Salesforce')</formula>
+        </entryCriteria>
+        <label>Step3</label>
+        <name>Step3</name>
+        <rejectBehavior>
+            <type>BackToPrevious</type>
+        </rejectBehavior>
+    </approvalStep>
+    <emailTemplate>MyFolder/LeadsNewassignmentnotification</emailTemplate>
+    <enableMobileDeviceAccess>false</enableMobileDeviceAccess>
+    <entryCriteria>
+        <criteriaItems>
+            <field>Lead.AnnualRevenue</field>
+            <operation>greaterThan</operation>
+            <value>10500</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Lead.MyLeadCustomField__c</field>
+            <operation>equals</operation>
+            <value>Salesforce</value>
+        </criteriaItems>
+    </entryCriteria>
+    <finalApprovalActions>
+        <action>
+            <name>LeadEmailContacted</name>
+            <type>Alert</type>
+        </action>
+    </finalApprovalActions>
+    <finalApprovalRecordLock>true</finalApprovalRecordLock>
+    <finalRejectionActions>
+        <action>
+            <name>ProcessRejectedMessageAction</name>
+            <type>OutboundMessage</type>
+        </action>
+    </finalRejectionActions>
+    <finalRejectionRecordLock>false</finalRejectionRecordLock>
+    <initialSubmissionActions>
+        <action>
+            <name>LeadFieldUpdate</name>
+            <type>FieldUpdate</type>
+        </action>
+        <action>
+            <name>NewLeadEmail</name>
+            <type>Alert</type>
+        </action>
+    </initialSubmissionActions>
+    <label>SampleProcess</label>
+    <nextAutomatedApprover>
+        <useApproverFieldOfRecordOwner>false</useApproverFieldOfRecordOwner>
+        <userHierarchyField>customlookupuserfield__c</userHierarchyField>
+    </nextAutomatedApprover>
+    <postTemplate>MyPostTemplate</postTemplate>
+    <recallActions>
+        <action>
+            <name>ProcessRecalledMessageAction</name>
+            <type>OutboundMessage</type>
+        </action>
+    </recallActions>
+    <recordEditability>AdminOnly</recordEditability>
+    <showApprovalHistory>false</showApprovalHistory>
+</ApprovalProcess>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- WorkflowActionReference (atlas.en-us.api_meta.meta/api_meta/meta_workflow.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

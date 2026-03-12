@@ -5,11 +5,17 @@ topic: getenclosingprimarytabobjectid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.016Z
-keywords: [getEnclosingPrimaryTabObjectId, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:57.452Z
+estimatedTokens: 315
+keywords: [getEnclosingPrimaryTabObjectId, current, primary, tab, which, contains, subtab., example, case, account, ID., works, within, only, API, version, 24.0, later., Syntax, Arguments]
 ---
 
 # getEnclosingPrimaryTabObjectId()
+
+> Returns the object ID of the current
+            primary tab, which contains a subtab. For example, a case ID or account ID. This method
+            works within a primary tab or subtab. This method is only available in API version 24.0
+            or later.
 
 # getEnclosingPrimaryTabObjectId()
 
@@ -47,3 +53,27 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | id | string | The ID of the current primary tab that contains this subtab. |
 | success | boolean | true if returning the enclosing primary tab was successful; false if returning the enclosing primary tab wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.getEnclosingPrimaryTabObjectId((optional)callback:Function)
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testGetEnclosingPrimaryTabObjectId();">
+           Click here to get enclosing primary tab object ID</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testGetEnclosingPrimaryTabObjectId() {
+            sforce.console.getEnclosingPrimaryTabObjectId(showObjectId);
+        }
+            var showObjectId = function showObjectId(result) {
+                // Display the object ID
+            alert ('Object ID: ' + result.id);
+        };
+    </script>
+</apex:page>
+```

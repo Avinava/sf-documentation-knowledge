@@ -5,11 +5,15 @@ topic: sobject-tree-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.806Z
-keywords: [sObject, Tree, Response, Body]
+lastCollected: 2026-03-12T05:14:36.205Z
+estimatedTokens: 191
+keywords: [sObject, Tree, Response, Body, Describes, result, request.]
 ---
 
 # sObject Tree Response Body
+
+> Describes the result of an sObject Tree
+  request.
 
 # sObject Tree Response Body
 
@@ -44,4 +48,76 @@ XML example upon failure
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+    "hasErrors" : false,
+    "results" : [{
+     "referenceId" : "ref1",
+     "id" : "001D000000K0fXOIAZ"
+     },{
+     "referenceId" : "ref4",
+     "id" : "001D000000K0fXPIAZ"
+     },{
+     "referenceId" : "ref2",
+     "id" : "003D000000QV9n2IAD"
+     },{
+     "referenceId" : "ref3",
+     "id" : "003D000000QV9n3IAD"
+     }]
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SObjectTreeResponse>
+    <hasErrors>false</hasErrors>
+    <results>
+        <id>001D000000K0fXOIAZ</id>
+        <referenceId>ref1</referenceId>
+    </results>
+    <results>
+        <id>001D000000K0fXPIAZ</id>
+        <referenceId>ref4</referenceId>
+    </results>
+    <results>
+        <id>003D000000QV9n2IAD</id>
+        <referenceId>ref2</referenceId>
+    </results>
+    <results>
+        <id>003D000000QV9n3IAD</id>
+        <referenceId>ref3</referenceId>
+    </results>
+</SObjectTreeResponse>
+```
+
+```
+{
+   "hasErrors" : true,
+   "results" : [{
+     "referenceId" : "ref2",
+     "errors" : [{
+       "statusCode" : "INVALID_EMAIL_ADDRESS",
+       "message" : "Email: invalid email address: 123",
+       "fields" : [ "Email" ]
+       }]
+     }]
+}
+```
+
+```
+<SObjectTreeResponse>
+    <hasErrors>true</hasErrors>
+    <results>
+        <errors>
+            <fields>Email</fields>
+            <message>Email: invalid email address: 123</message>
+            <statusCode>INVALID_EMAIL_ADDRESS</statusCode>
+        </errors>
+        <referenceId>ref2</referenceId>
+    </results>
+</SObjectTreeResponse>
 ```

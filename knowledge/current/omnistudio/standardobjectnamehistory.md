@@ -5,11 +5,16 @@ topic: standardobjectnamehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.440Z
-keywords: [StandardObjectNameHistory, Supported, Calls, Special, Access, Rules, Fields, Objects, Follow, Model]
+lastCollected: 2026-03-12T05:14:53.159Z
+estimatedTokens: 6446
+keywords: [StandardObjectNameHistory, model, history, objects, associated, standard, objects., represent, changes, values, fields, object., Supported, Calls, Special, Access, Rules, Fields, Objects, Follow]
 ---
 
 # StandardObjectNameHistory
+
+> StandardObjectNameHistory is the model for all
+      history objects associated with standard objects. These objects represent the history of
+      changes to the values in the fields of a standard object.
 
 # StandardObjectNameHistory
 
@@ -176,3 +181,16 @@ These objects follow the standard pattern for associated feed objects.
 -   Vehicle
 -   VehicleDefinition
 -   Visit
+
+## Related Topics
+
+- Assessment (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessment.htm)
+- AssessmentQuestion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestion.htm)
+- AssessmentQuestionAssignment (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionassignment.htm)
+- AssessmentQuestionResponse (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionresponse.htm)
+- AssessmentQuestionSet (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionset.htm)
+- AssessmentQuestionVersion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionversion.htm)
+- AssessmentSignature (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentsignature.htm)
+- BatchJob (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_batchjob.htm)
+- BatchJobPartFailedRecord (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_batchjobpartfailedrecord.htm)
+- BatchJobPart (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_batchjobpart.htm)

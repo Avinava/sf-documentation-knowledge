@@ -5,11 +5,17 @@ topic: decisiontbldatasetparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.484Z
-keywords: [DecisionTblDatasetParameter, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.789Z
+estimatedTokens: 472
+keywords: [DecisionTblDatasetParameter, Represents, mapping, between, decision, table, field, selected, dataset, link., allows, know, which, fields, link, must, evaluated, input, table., API]
 ---
 
 # DecisionTblDatasetParameter
+
+> Represents the mapping between a decision table parameter and a field of the
+      object selected in the dataset link. This mapping allows the decision table to know which
+      object fields from the dataset link must be evaluated by the input fields of the decision
+      table. This object is available in API version 51.0 and later.
 
 # DecisionTblDatasetParameter
 

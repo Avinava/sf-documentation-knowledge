@@ -5,11 +5,16 @@ topic: service-presence-status-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.964Z
-keywords: [Service, Presence, Status, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.885Z
+estimatedTokens: 393
+keywords: [Service, Presence, Status, DMO, Data, Cloud, data, model, presence, status, assigned, service, channel., example, Leads, Lunch, Busy., API, Name, Category]
 ---
 
 # Service Presence Status DMO
+
+> The Service Presence Status DMO is a Data Cloud data model object
+      (DMO) for a presence status that can be assigned to a service channel. For example, Available
+      for Leads, Out for Lunch, or Busy.
 
 # Service Presence Status DMO
 

@@ -5,11 +5,15 @@ topic: connectapistatuscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.053Z
-keywords: [ConnectApi.StatusCapability, See]
+lastCollected: 2026-03-12T05:14:29.064Z
+estimatedTokens: 356
+keywords: [ConnectApi.StatusCapability, feed, post, comment, capability, status, determines, its, visibility.]
 ---
 
 # ConnectApi.StatusCapability
+
+> If a feed post or comment has this capability, it has a status that
+      determines its visibility.
 
 # ConnectApi.StatusCapability
 
@@ -25,5 +29,13 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.CommentCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm "A set of capabilities on a comment.")
-    
+
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- ConnectApi.​FeedEntityStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.CommentCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

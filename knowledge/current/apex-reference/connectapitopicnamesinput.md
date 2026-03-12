@@ -5,11 +5,15 @@ topic: connectapitopicnamesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.635Z
-keywords: [ConnectApi.TopicNamesInput, See]
+lastCollected: 2026-03-12T05:14:25.643Z
+estimatedTokens: 289
+keywords: [ConnectApi.TopicNamesInput, list, topic, names, replace, currently, assigned, topics., suggested, topics, assign.]
 ---
 
 # ConnectApi.TopicNamesInput
+
+> A list of topic names to replace currently assigned topics. Also a
+      list of suggested topics to assign.
 
 # ConnectApi.TopicNamesInput
 
@@ -23,5 +27,12 @@ A list of topic names to replace currently assigned topics. Also a list of sugge
 #### See Also
 
 -   [reassignTopicsByName(communityId, recordId, topicNames)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Topics_static_methods.htm#apex_ConnectAPI_Topics_reassignTopicsByName "Reassign all the topics on a record or feed item, that is, remove all the assigned topics on a record or feed item and add topics. Optionally, provide a list of suggested topics to assign to a record or feed item to improve future topic suggestions.")
-    
+
 -   [ConnectApi.ArticleTopicAssignmentJobInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_article_topic_assignment_job.htm "An article and topic assignment job.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- reassignTopicsByName(communityId, recordId, topicNames) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Topics_static_methods.htm)
+- ConnectApi.ArticleTopicAssignmentJobInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_article_topic_assignment_job.htm)

@@ -5,11 +5,18 @@ topic: conditional-request-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.097Z
-keywords: [Conditional, Request, Headers, ETag, If-Match, If-None-Match, If-Modified-Since, If-Unmodified-Since]
+lastCollected: 2026-03-12T05:14:35.188Z
+estimatedTokens: 1996
+keywords: [Conditional, Request, Headers, conditional, request, header, validate, resources, before, accessing, them., setting, precondition, ensure, succeeds, only, met., functionality, helps, prevent]
 ---
 
 # Conditional Request Headers
+
+> Use a conditional request header to validate resources before accessing them. By
+    setting a precondition in the header, you ensure that your request succeeds only if that
+    precondition is met. This functionality helps you prevent mistakes and reject outdated requests
+    when updating Salesforce data. You can implement a variety of techniques with conditional
+    request headers, such as response caching.
 
 # Conditional Request Headers
 
@@ -94,3 +101,34 @@ In this example, an If-Unmodified-Since header is included in a request.
 ```
 
 You can find the HTTP 1.1 specification for the If-Unmodified-Since header at [www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.28](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.28) .
+
+## Code Examples
+
+```
+ETag: "U5iWijwWbQD18jeiXwsqxeGpZQk=-gzip"
+```
+
+```
+If-Match: "Jbjuzw7dbhaEG3fd90kJbx6A0ow=-gzip", "U5iWijwWbQD18jeiXwsqxeGpZQk=-gzip"
+```
+
+```
+If-None-Match: "Jbjuzw7dbhaEG3fd90kJbx6A0ow=-gzip", "U5iWijwWbQD18jeiXwsqxeGpZQk=-gzip"
+```
+
+```
+If-Modified-Since: Tue, 10 Aug 2015 00:00:00 GMT
+```
+
+```
+If-Unmodified-Since: Tue, 10 Aug 2015 00:00:00 GMT
+```
+
+## Related Topics
+
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- sObject
+          Describe (atlas.en-us.api_rest.meta/api_rest/resources_sobject_describe.htm)
+- Describe Global (atlas.en-us.api_rest.meta/api_rest/resources_describeGlobal.htm)
+- Invocable
+          Actions (atlas.en-us.api_rest.meta/api_rest/resources_actions_invocable.htm)

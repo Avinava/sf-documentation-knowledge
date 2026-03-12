@@ -5,11 +5,15 @@ topic: connectapiengagementtopicoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.842Z
-keywords: [ConnectApi.EngagementTopicOutput]
+lastCollected: 2026-03-12T05:14:47.774Z
+estimatedTokens: 307
+keywords: [ConnectApi.EngagementTopicOutput, Output, representation, create, engagement, topic, record.]
 ---
 
 # ConnectApi.EngagementTopicOutput
+
+> Output representation to create an engagement topic
+    record.
 
 # ConnectApi.EngagementTopicOutput
 
@@ -30,3 +34,7 @@ Output representation to create an engagement topic record.
 | processType | String | The process type. | 55.0 |
 | relatedPersonId | String | The related person ID. | 55.0 |
 | topicId | String | The engagement topic record ID that’s associated with the parent engagement topic record. | 55.0 |
+
+## Related Topics
+
+- ConnectApi.EngagementCustomFieldsOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_custom_field_output.htm)

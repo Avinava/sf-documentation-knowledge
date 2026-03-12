@@ -5,11 +5,15 @@ topic: expanding-sobject-and-list-expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.113Z
-keywords: [Expanding, sObject, List, Expressions]
+lastCollected: 2026-03-12T05:14:34.753Z
+estimatedTokens: 237
+keywords: [Expanding, sObject, List, Expressions, Java, list, expressions, expanded, references, respectively, form, new, expressions.]
 ---
 
 # Expanding sObject and List Expressions
+
+> As in Java, sObject and list expressions can be expanded with method
+references and list expressions, respectively, to form new expressions.
 
 # Expanding sObject and List Expressions
 
@@ -33,4 +37,14 @@ In the following example, a name that has been shifted to lower case is returned
 
 ```
 
+```
+
+## Code Examples
+
+```
+Integer acctNameLength = new Account[]{new Account(Name='Acme')}[0].Name.length();
+```
+
+```
+String nameChange = [SELECT Name FROM Account][0].Name.toLowerCase();
 ```

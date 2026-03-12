@@ -5,11 +5,14 @@ topic: connectapibaseasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.010Z
-keywords: [ConnectApi.BaseAsyncOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.168Z
+estimatedTokens: 331
+keywords: [ConnectApi.BaseAsyncOutputRepresentation, Base, Order, Management, async, output, class.]
 ---
 
 # ConnectApi.BaseAsyncOutputRepresentation
+
+> Base Order Management async output class.
 
 # ConnectApi.BaseAsyncOutputRepresentation
 
@@ -28,3 +31,11 @@ Superclass of:
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | background​OperationId | String | ID of the background operation. | 48.0 |
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- ConnectApi.AsyncOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_async_output.htm)
+- ConnectApi.EnsureFundsAsyncOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ensure_funds_async_output.htm)
+- ConnectApi.EnsureRefundsAsyncOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_ensure_refunds_async_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

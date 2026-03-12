@@ -5,11 +5,15 @@ topic: assessmentreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.640Z
-keywords: [AssessmentReason, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.468Z
+estimatedTokens: 604
+keywords: [AssessmentReason, Represents, reasons, assessment, such, associated, coverage, information., API, version, 63.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # AssessmentReason
+
+> Represents the reasons for an assessment such as the associated coverage
+         information. This object is available in API version 63.0 and later.
 
 # AssessmentReason
 

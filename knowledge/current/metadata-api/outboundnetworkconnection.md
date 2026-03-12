@@ -5,11 +5,17 @@ topic: outboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.858Z
-keywords: [OutboundNetworkConnection, File, Suffix, Directory, Location, Version, Fields, OutboundNetworkConnProperty, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.593Z
+estimatedTokens: 841
+keywords: [OutboundNetworkConnection, Represents, connection, between, Salesforce, org, third-party, data, service., outbound, because, callouts, going, Salesforce., extends, Metadata, metadata, inherits, its, fullName]
 ---
 
 # OutboundNetworkConnection
+
+> Represents a private connection between
+      a Salesforce org and a third-party data service. The connection is outbound because the callouts are 
+      going out of Salesforce. This type extends the Metadata metadata type and inherits its 
+    fullName field.
 
 # OutboundNetworkConnection
 
@@ -60,3 +66,41 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>Outbound Connection to make a callout to a Service deployed in AWS VPC</description>
+    <isActive>true</isActive>
+    <label>MyOutboundConnection</label>
+    <outboundNetworkConnProperties>
+        <propertyName>Region</propertyName>
+        <propertyValue>us-west-2</propertyValue>
+    </outboundNetworkConnProperties>
+    <outboundNetworkConnProperties>
+        <propertyName>AwsVpcEndpointServiceName</propertyName>
+        <propertyValue>com.amazonaws.vpce.us-west-2.vpce-svc-00d7bd6285c123b4c</propertyValue>
+    </outboundNetworkConnProperties>
+    <status>Unprovisioned</status>
+</OutboundNetworkConnection>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>sampleOutboundConnection</fullName>
+    <types>
+        <members>MyOutboundConnection</members>
+        <name>OutboundNetworkConnection</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,14 @@ topic: connectapifeedpollchoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.682Z
-keywords: [ConnectApi.FeedPollChoice, See]
+lastCollected: 2026-03-12T05:14:25.718Z
+estimatedTokens: 208
+keywords: [ConnectApi.FeedPollChoice, Feed, poll, choice.]
 ---
 
 # ConnectApi.FeedPollChoice
+
+> Feed poll choice.
 
 # ConnectApi.FeedPollChoice
 
@@ -26,3 +29,10 @@ Feed poll choice.
 #### See Also
 
 -   [ConnectApi.PollCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_poll_capability.htm "If a feed element has this capability, it includes a poll.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- ConnectApi.PollCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_poll_capability.htm)

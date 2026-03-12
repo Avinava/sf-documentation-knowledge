@@ -5,11 +5,14 @@ topic: get-a-list-of-process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:24.942Z
-keywords: [Get, List, Process, Rules]
+lastCollected: 2026-03-12T05:14:35.017Z
+estimatedTokens: 121
+keywords: [Get, List, Process, Rules, resource, get, information, process, rules.]
 ---
 
 # Get a List of Process Rules
+
+> Use the Process Rules resource to get information about process rules.
 
 # Get a List of Process Rules
 
@@ -30,3 +33,32 @@ Example JSON response body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/process/rules/ -H "Authorization: Bearer token"
+```
+
+```
+{
+  "rules" : {
+    "Account" : [ {
+      "actions" : [ {
+        "id" : "01VD0000000D2w7",
+        "name" : "ApprovalProcessTask",
+        "type" : "Task"
+      } ],
+      "description" : null,
+      "id" : "01QD0000000APli",
+      "name" : "My Rule",
+      "namespacePrefix" : null,
+      "object" : "Account"
+    } ]
+  }
+}
+```
+
+## Related Topics
+
+- Process Rules (atlas.en-us.api_rest.meta/api_rest/resources_process_rules.htm)

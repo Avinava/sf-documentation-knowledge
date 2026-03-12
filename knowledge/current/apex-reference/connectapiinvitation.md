@@ -5,11 +5,14 @@ topic: connectapiinvitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.011Z
-keywords: [ConnectApi.Invitation, See]
+lastCollected: 2026-03-12T05:14:27.613Z
+estimatedTokens: 254
+keywords: [ConnectApi.Invitation, invitation.]
 ---
 
 # ConnectApi.Invitation
+
+> An invitation.
 
 # ConnectApi.Invitation
 
@@ -24,3 +27,9 @@ An invitation.
 #### See Also
 
 -   [ConnectApi.Invitations](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_invite_collection.htm "A collection of invitations.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​GroupViral​InvitationsStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.Invitations (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_invite_collection.htm)

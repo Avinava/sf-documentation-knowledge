@@ -4,12 +4,17 @@ domain: apex-guide
 topic: trigger-and-bulk-request-best-practices
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.705Z
-keywords: [Trigger, Bulk, Request, Best, Practices, Designing, Programs, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.147Z
+estimatedTokens: 651
+keywords: [Trigger, Bulk, Request, Best, Practices, common, development, pitfall, assumption, trigger, invocations, never, include, record., Apex, triggers, optimized, operate, bulk, which]
 ---
 
 # Trigger and Bulk Request Best Practices
+
+> A common development pitfall is the assumption that trigger invocations never include more
+         than one record. Apex triggers are optimized to operate in bulk, which, by definition,
+         requires developers to write logic that supports bulk operations.
 
 # Trigger and Bulk Request Best Practices
 
@@ -49,3 +54,33 @@ The following are the best practices for this design pattern:
 #### See Also
 
 -   [Developing Code in the Cloud](atlas.en-us.apexcode.meta/apexcode/apex_intro_apex_limitation.htm "The Apex programming language is saved and runs in the cloud—the multitenant platform. Apex is tailored for data access and data manipulation on the platform, and it enables you to add custom business logic to system events. While it provides many benefits for automating business processes on the platform, it is not a general purpose programming language.")
+
+## Code Examples
+
+```
+trigger MileageTrigger on Mileage__c (before insert, before update) {
+   User c = [SELECT Id FROM User WHERE mileageid__c = :Trigger.new[0].id];
+}
+```
+
+```
+trigger MileageTrigger on Mileage__c (before insert, before update) {
+   for(mileage__c m : Trigger.new){ 
+      User c = [SELECT Id FROM user WHERE mileageid__c = :m.Id];
+   }
+}
+```
+
+```apex
+Trigger MileageTrigger on Mileage__c (before update) {
+   Set<ID> ids = Trigger.newMap.keySet();
+   List<User> c = [SELECT Id FROM user WHERE mileageid__c in :ids];
+}
+```
+
+## Related Topics
+
+- Execution Governors and
+            Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_exceptions.htm)
+- Developing Code in the Cloud (atlas.en-us.apexcode.meta/apexcode/apex_intro_apex_limitation.htm)

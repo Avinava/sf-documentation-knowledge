@@ -5,11 +5,15 @@ topic: create-records-using-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.563Z
-keywords: [Create, Records, Quick, Actions, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.857Z
+estimatedTokens: 263
+keywords: [Create, Records, Quick, Actions, Creates, record, via, quick, action., resource, REST, API, version, 28.0, later., Syntax, Example]
 ---
 
 # Create Records Using Quick Actions
+
+> Creates a record via a quick action. This resource is available in REST API version 28.0
+  and later.
 
 # Create Records Using Quick Actions
 
@@ -54,3 +58,21 @@ Example Request Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl -X POST https://MyDomainName.my.salesforce.com/services/data/v66.0/quickActions/CreateContact -H "Authorization: Bearer token" -H "Content-Type: application/json" -d @exampleRequestBody.json
+```
+
+```
+{
+
+   "record" : { "LastName" : "Smith" }
+
+}
+```
+
+## Related Topics
+
+- sObject Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_sobject_quickactions.htm)

@@ -5,11 +5,15 @@ topic: create-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.771Z
-keywords: [Create, Records, sObject, Rows, External, Note, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.150Z
+estimatedTokens: 302
+keywords: [Create, Records, sObject, Rows, External, Creates, new, record, based, field, values, included, request, body., resource, does, require, external, field., Note]
 ---
 
 # Create Records Using sObject Rows by External ID
+
+> Creates a new record based on the field values included in the request body. This
+		resource does not require the use of an external ID field.
 
 # Create Records Using sObject Rows by External ID
 
@@ -56,3 +60,9 @@ Example Request
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Code Examples
+
+```
+curl -X POST https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/Id -H "Authorization: Bearer token" -H "Content-Type: application/json" -d "@newaccount.json"
+```

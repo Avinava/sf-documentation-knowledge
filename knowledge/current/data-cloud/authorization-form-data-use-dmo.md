@@ -5,11 +5,14 @@ topic: authorization-form-data-use-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.669Z
-keywords: [Authorization, Form, Data, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.874Z
+estimatedTokens: 541
+keywords: [Authorization, Form, Data, DMO, data, model, Cloud, uses, consented, authorization, form., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Authorization Form Data Use DMO
+
+> The Authorization Form Data Use data model object (DMO) is a Data Cloud DMO for the data uses consented to in an authorization form.
 
 # Authorization Form Data Use DMO
 

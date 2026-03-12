@@ -5,11 +5,16 @@ topic: homepagelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.026Z
-keywords: [HomePageLayout, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.391Z
+estimatedTokens: 740
+keywords: [HomePageLayout, Represents, metadata, associated, home, page, layout., customize, layouts, assign, users, based, their, user, profile., File, Suffix, Directory, Location, Version]
 ---
 
 # HomePageLayout
+
+> Represents the metadata associated with a home page
+            layout. You can customize home page layouts and assign the layouts to users based on
+            their user profile.
 
 # HomePageLayout
 
@@ -48,5 +53,24 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [HomePageComponent](atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm "Represents the metadata associated with a home page component. You can customize the Home tab in Salesforce Classic to include components such as sidebar links, a company logo, a dashboard snapshot, or custom components that you create. Use to create, update, or delete home page component definitions.")
-    
+
 -   [WebLink](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm "Represents a custom button or link defined in a custom object.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <narrowComponents>google</narrowComponents>
+</HomePageLayout>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- Declarative Metadata Sample Definition (atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm)
+- Declarative Metadata Sample Definition (atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- HomePageComponent (atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm)
+- WebLink (atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)

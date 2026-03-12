@@ -5,11 +5,14 @@ topic: connectapicontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.426Z
-keywords: [ConnectApi.Content, See]
+lastCollected: 2026-03-12T05:14:26.789Z
+estimatedTokens: 869
+keywords: [ConnectApi.Content, file, attached, feed, item.]
 ---
 
 # ConnectApi.Content
+
+> A file attached to a feed item.
 
 # ConnectApi.Content
 
@@ -43,3 +46,11 @@ A file attached to a feed item.
 #### See Also
 
 -   [ConnectApi.FilesCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_multiple_content_capability.htm "If a feed element has this capability, it has one or more file attachments.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.ContentImageFileDetails (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_image_file_detail.htm)
+- ConnectApi.​FileSharingOption (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.FilesCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_multiple_content_capability.htm)

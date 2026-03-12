@@ -5,11 +5,14 @@ topic: oauthtokentype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.321Z
-keywords: [OauthTokenType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.411Z
+estimatedTokens: 242
+keywords: [OauthTokenType, Specifies, Salesforce-issued, OAuth, 2.0, token, being, revoked, OauthToken.revokeToken, method., Values]
 ---
 
 # OauthTokenType Enum
+
+> Specifies the type of Salesforce-issued OAuth 2.0 token being revoked in the OauthToken.revokeToken method.
 
 # OauthTokenType Enum
 

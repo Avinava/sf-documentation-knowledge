@@ -5,11 +5,15 @@ topic: platform-event-schema-by-schema-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.360Z
-keywords: [Platform, Event, Schema, Syntax, Examples, API, Version, 43.0, Later, Note, Example, 42.0, Earlier, Apache, Avro, Format]
+lastCollected: 2026-03-12T05:14:35.554Z
+estimatedTokens: 1274
+keywords: [Platform, Event, Schema, definition, platform, event, JSON, format, schema, ID., resource, REST, API, version, 40.0, later., Syntax, Examples, Version, 43.0]
 ---
 
 # Platform Event Schema by Schema ID
+
+> Gets the definition of a platform event in JSON format for a schema
+			ID. This resource is available in REST API version 40.0 and later.
 
 # Platform Event Schema by Schema ID
 
@@ -126,3 +130,157 @@ The fields in the returned response adhere to the open-source Apache Avro specif
     -   doc describes the field data type and includes the field ID for custom fields. This field is intended for internal use. For example, Salesforce uses the data type information to convert DateTime fields from long to DateTime. We recommend that you don't rely on this field's value because it might change in the future.
 
 The response also includes the uuid field, which contains the schema’s ID. The ID is the MD5 fingerprint of the normalized Avro schema encoded as a base-64 URL variant. You can append this ID to the /vXX.X/event/eventSchema/ URI to retrieve the schema.
+
+## Code Examples
+
+```
+/services/data/v66.0/event/eventSchema/5E5OtZj5_Gm6Vax9XMXH9A
+```
+
+```
+/services/data/v66.0/event/eventSchema/5E5OtZj5_Gm6Vax9XMXH9A?payloadFormat=EXPANDED
+```
+
+```
+{
+  "name": "Low_Ink__e",
+  "namespace": "com.sforce.eventbus",
+  "type": "expanded-record",
+  "fields": [
+    {
+      "name": "data",
+      "type": {
+        "type": "record",
+        "name": "Data",
+        "namespace": "",
+        "fields": [
+          {
+            "name": "schema",
+            "type": "string"
+          },
+          {
+            "name": "payload",
+            "type": {
+              "type": "record",
+              "name": "Payload",
+              "doc": "",
+              "fields": [
+                {
+                  "name": "CreatedDate",
+                  "type": "string",
+                  "doc": "CreatedDate:DateTime"
+                },
+                {
+                  "name": "CreatedById",
+                  "type": "string",
+                  "doc": "CreatedBy:EntityId"
+                },
+                {
+                  "name": "Printer_Model__c",
+                  "type": [
+                    "null",
+                    "string"
+                  ],
+                  "doc": "Data:Text:00NRM000001krnv",
+                  "default": null
+                },
+                {
+                  "name": "Serial_Number__c",
+                  "type": [
+                    "null",
+                    "string"
+                  ],
+                  "doc": "Data:Text:00NRM000001kro0",
+                  "default": null
+                },
+                {
+                  "name": "Ink_Percentage__c",
+                  "type": [
+                    "null",
+                    "double"
+                  ],
+                  "doc": "Data:Double:00NRM000001kro5",
+                  "default": null
+                }
+              ]
+            }
+          },
+          {
+            "name": "event",
+            "type": {
+              "type": "record",
+              "name": "Event",
+              "fields": [
+                {
+                  "name": "replayId",
+                  "type": "long"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "channel",
+      "type": "string"
+    }
+  ]
+}
+```
+
+```
+/services/data/v66.0/event/eventSchema/5E5OtZj5_Gm6Vax9XMXH9A?payloadFormat=COMPACT
+```
+
+```
+{
+  "name": "Low_Ink__e",
+  "namespace": "com.sforce.eventbus",
+  "type": "record",
+  "fields": [
+    {
+      "name": "CreatedDate",
+      "type": "long",
+      "doc": "CreatedDate:DateTime"
+    },
+    {
+      "name": "CreatedById",
+      "type": "string",
+      "doc": "CreatedBy:EntityId"
+    },
+    {
+      "name": "Printer_Model__c",
+      "type": [
+        "null",
+        "string"
+      ],
+      "doc": "Data:Text:00NRM000001krnv",
+      "default": null
+    },
+    {
+      "name": "Serial_Number__c",
+      "type": [
+        "null",
+        "string"
+      ],
+      "doc": "Data:Text:00NRM000001kro0",
+      "default": null
+    },
+    {
+      "name": "Ink_Percentage__c",
+      "type": [
+        "null",
+        "double"
+      ],
+      "doc": "Data:Double:00NRM000001kro5",
+      "default": null
+    }
+  ],
+  "uuid": "5E5OtZj5_Gm6Vax9XMXH9A"
+}
+```
+
+## Related Topics
+
+- Platform Event Schema by Event Name (atlas.en-us.api_rest.meta/api_rest/resources_sobject_eventschema.htm)

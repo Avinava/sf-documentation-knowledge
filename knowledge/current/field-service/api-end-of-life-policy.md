@@ -5,11 +5,16 @@ topic: api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.102Z
-keywords: [API, End-of-Life, Policy, Note]
+lastCollected: 2026-03-12T05:14:55.316Z
+estimatedTokens: 349
+keywords: [API, End-of-Life, Policy, Salesforce, committed, supporting, version, minimum, years, date, first, release., improve, quality, performance, versions, over, old, sometimes, longer]
 ---
 
 # API End-of-Life Policy
+
+> Salesforce is committed to supporting each API version for a minimum of 3
+				years from the date of first release. To improve the quality and performance of the
+				API, versions that are over 3 years old sometimes are no longer supported.
 
 # API End-of-Life Policy
 

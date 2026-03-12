@@ -5,11 +5,15 @@ topic: integration-procedure-service-run-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.347Z
-keywords: [Integration, Procedure, Service, Run, Options]
+lastCollected: 2026-03-12T05:14:48.495Z
+estimatedTokens: 828
+keywords: [Integration, Procedure, Service, Run, Options, Input, representation, optional, customize, refine, execution, integration, procedure.]
 ---
 
 # Integration Procedure Service Run Options
+
+> Input representation of the optional parameters to customize and refine the execution of
+    the integration procedure.
 
 # Integration Procedure Service Run Options
 
@@ -38,3 +42,14 @@ Properties
 | vlcIPData | String | Unique key that represents the saved execution state of a chainable integration procedure.This key is included in the subsequent calls to resume processing from where the execution of the integration procedure left off. | Optional | 64.0 |
 | vlcMessage | String | Contains error messages or additional information that's returned by the integration procedure.The value is null if there are no messages returned by the integration procedure. | Optional | 64.0 |
 | vlcStatus | String | Current status of the execution process of the integration procedure. | Optional | 64.0 |
+
+## Code Examples
+
+```
+{
+  "options": {
+    "ignoreCache": false,
+    "resetCache": true
+  }
+}
+```

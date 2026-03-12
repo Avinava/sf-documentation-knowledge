@@ -6,12 +6,18 @@ topic: creating-parent-and-child-records-in-a-single-statement-using-foreign-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:48.090Z
-keywords: [Creating, Parent, Child, Records, Single, Statement, Foreign, Keys]
+lastCollected: 2026-03-12T05:14:34.718Z
+estimatedTokens: 599
+keywords: [Creating, Parent, Child, Records, Single, Statement, Foreign, Keys, create, related, records, levels, deep., created, single, call, must, different, sObject, types.]
 ---
 
 # Creating Parent and Child Records in a Single Statement Using
             Foreign Keys
+
+> You can create related records that are up to 10 levels deep. Also, the related
+                records created in a single call must have different sObject types. For more
+                information, see Creating Records for Different Object
+                    Types in the SOAP API Developer Guid
 
 # Creating Parent and Child Records in a Single Statement Using Foreign Keys
 
@@ -29,4 +35,51 @@ The following example shows how to create an opportunity with a parent account u
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+public class ParentChildSample {
+    public static void InsertParentChild() {
+        Date dt = Date.today();
+        dt = dt.addDays(7);
+        Opportunity newOpportunity = new Opportunity(
+            Name='OpportunityWithAccountInsert',
+            StageName='Prospecting',
+            CloseDate=dt);
+        
+        // Create the parent reference.
+        // Used only for foreign key reference
+        // and doesn't contain any other fields.
+        Account accountReference = new Account(
+            MyExtID__c='SAP111111');                
+        newOpportunity.Account = accountReference;
+        
+        // Create the Account object to insert.
+        // Same as above but has Name field.
+        // Used for the insert.
+        Account parentAccount = new Account(
+            Name='Hallie',
+            MyExtID__c='SAP111111');      
+        
+        // Create the account and the opportunity.
+        Database.SaveResult[] results = Database.insert(new SObject[] {
+            parentAccount, newOpportunity });
+        
+        // Check results.
+        for (Integer i = 0; i < results.size(); i++) {
+            if (results[i].isSuccess()) {
+            System.debug('Successfully created ID: '
+                  + results[i].getId());
+            } else {
+            System.debug('Error: could not create sobject '
+                  + 'for array element ' + i + '.');
+            System.debug('   The error reported was: '
+                  + results[i].getErrors()[0].getMessage() + '
+');
+            }
+        }
+    }
+}
 ```

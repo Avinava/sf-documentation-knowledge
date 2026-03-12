@@ -5,11 +5,16 @@ topic: platformeventchannelmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.984Z
-keywords: [PlatformEventChannelMember, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, EnrichedField, Usage, Declarative, Metadata, Sample, Definition, Note, Underscores, Channel, Member]
+lastCollected: 2026-03-12T05:14:41.781Z
+estimatedTokens: 1884
+keywords: [PlatformEventChannelMember, Represents, entity, selected, Change, Data, Capture, notifications, standard, custom, channel, platform, event, channel., File, Suffix, Directory, Location, Version, Special]
 ---
 
 # PlatformEventChannelMember
+
+> Represents an entity selected for Change Data Capture
+      notifications on a standard or custom channel, or a platform event selected on a custom
+      channel.
 
 # PlatformEventChannelMember
 
@@ -122,10 +127,64 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 -   [*Change Data Capture Developer Guide*: Example Diagrams for Channels and Channel Members](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_channel_examples.htm "Change Data Capture Developer Guide: Example
     Diagrams for Channels and Channel Members - HTML (New Window)")
-    
+
 -   [*Change Data Capture Developer Guide*: Filter Your Stream of Change Events with Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_filter_section.htm "Change Data Capture Developer Guide: Filter Your Stream of Change Events with Channels - HTML (New Window)")
-    
+
 -   [*Platform Events Developer Guide*: Filter Your Stream of Platform Events with Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/platform_events_filter_section.htm "Platform Events Developer Guide: Filter Your Stream of
     Platform Events with Channels - HTML (New Window)")
-    
+
 -   [PlatformEventChannel](atlas.en-us.api_meta.meta/api_meta/meta_platformeventchannel.htm "Represents a channel that you can subscribe to in order to receive a stream of events. In API version 46.0 and earlier, it is the default standard channel for change data capture events. In API version 47.0 and later, it is a custom channel for change data capture events.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <eventChannel>ChangeEvents</eventChannel>
+    <selectedEntity>LeadChangeEvent</selectedEntity>
+</PlatformEventChannelMember>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <eventChannel>ChangeEvents</eventChannel>
+    <selectedEntity>ContactChangeEvent</selectedEntity>
+</PlatformEventChannelMember>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <eventChannel>SalesEvents__chn</eventChannel>
+    <selectedEntity>ContactChangeEvent</selectedEntity>
+</PlatformEventChannelMember>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enrichedFields>
+        <name>Phone</name>
+    </enrichedFields>
+    <eventChannel>SalesEvents__chn</eventChannel>
+    <selectedEntity>ContactChangeEvent</selectedEntity>
+</PlatformEventChannelMember>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <eventChannel>SalesEvents__chn</eventChannel>
+    <filterExpression><![CDATA[(Region__c='AMER')]]></filterExpression>
+    <selectedEntity>ContactChangeEvent</selectedEntity>
+</PlatformEventChannelMember>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- deleteMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- PlatformEventChannel (atlas.en-us.api_meta.meta/api_meta/meta_platformeventchannel.htm)

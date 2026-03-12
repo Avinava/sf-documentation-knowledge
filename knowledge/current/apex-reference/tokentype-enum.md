@@ -5,11 +5,14 @@ topic: tokentype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.506Z
-keywords: [TokenType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.669Z
+estimatedTokens: 132
+keywords: [TokenType, Defines, types, values, supported, TokenUtility, methods., Values]
 ---
 
 # TokenType Enum
+
+> Defines the types of values supported by the TokenUtility methods.
 
 # TokenType Enum
 
@@ -23,3 +26,7 @@ The following are the values of the pref\_center.TokenType enum.
 | --- | --- |
 | EMAIL | Identifies the token as an email address. |
 | STANDARD | Identifies the token as a Salesforce record ID. This is the default token type. |
+
+## Related Topics
+
+- TokenUtility (atlas.en-us.apexref.meta/apexref/apex_class_pref_center_TokenUtility.htm)

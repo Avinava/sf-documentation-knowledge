@@ -5,11 +5,15 @@ topic: gettabinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.233Z
-keywords: [getTabInfo, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Note, Response]
+lastCollected: 2026-03-12T05:14:57.776Z
+estimatedTokens: 378
+keywords: [getTabInfo, Lightning, Experience, information, specified, tab., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Note, Response]
 ---
 
 # getTabInfo() for Lightning Experience for Lightning Experience
+
+> Returns information about the specified tab. This method works only in
+   Lightning console apps.
 
 # getTabInfo() for Lightning Experience for Lightning Experience
 
@@ -61,4 +65,94 @@ This method returns a promise that, upon success, resolves to a tabInfo object r
 
 ```
 
+```
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { EnclosingTabId, getTabInfo } from 'lightning/platformWorkspaceApi';
+
+export default class ConsoleNavExample extends LightningElement {
+    @wire(EnclosingTabId) enclosingTabId;
+    handleClick() {
+        if (this.enclosingTabId) {
+            getTabInfo(this.enclosingTabId).then((tabInfo) => {
+                // do something with it
+            }).catch((error) => {
+                console.log(error);
+            });
+        }
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Get Opened Tab Info" onclick="{! c.getOpenedTabInfo }" />
+ </aura:component>
+```
+
+```
+({
+    getOpenedTabInfo : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.openTab({
+            url: '/lightning/r/Account/001xx000003DI05AAG/view',
+            focus: true
+        }).then(function(response) {
+            workspaceAPI.getTabInfo({
+                tabId: response
+            }).then(function(response) {
+                console.log(response);
+            });
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+```
+{
+     tabId: string,
+     url: string (URL),
+     pinned: boolean,
+     closeable: boolean,
+     title: string,
+     icon: string (SLDS iconKey),
+     iconAlt: string,
+     customTitle: string (optional),
+     customIcon: string (optional),
+     customIconAlt: string (optional),
+     highlighted: boolean,
+     pageReference: object,
+     isSubtab: boolean,
+     parentTabId: string,
+     subtabs: [
+         {
+             tabId: string,
+             url: string (URL),
+             pinned: boolean,
+             closeable: boolean,
+             title: string,
+             icon: string (SLDS iconKey),
+             iconAlt: string,
+             customTitle: string (optional),
+             customIcon: string (optional),
+             customIconAlt: string (optional),
+             highlighted: boolean,
+             pageReference: object,
+             isSubtab: boolean,
+             parentTabId: string,
+             focused: boolean,
+             recordId: string,
+          },
+           ... 
+     ],
+     focused: boolean,
+     recordId: string
+}
 ```

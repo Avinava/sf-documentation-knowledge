@@ -5,14 +5,166 @@ topic: encodingutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.449Z
-keywords: [EncodingUtil, Class, Encodes, string, application, x-www-form-urlencoded, format, specific, encoding, scheme, example, “UTF-8.”, urlEncode, inputString, encodingScheme, Signature, Parameters, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:23.750Z
+estimatedTokens: 1935
+namespace: System
+keywords: [EncodingUtil, encode, decode, URL, strings, convert, hexadecimal, format., Usage, Note, base64Decode, inputString, base64Encode, inputBlob, convertFromHex, Example, convertToHex, urlDecode, encodingScheme, urlEncode]
 ---
 
 # EncodingUtil Class
 
-> Encodes a string into the application/x-www-form-urlencoded format using a specific
-encoding scheme, for example “UTF-8.”
+> Use the methods in the EncodingUtil class to encode and decode URL strings, and convert strings to hexadecimal
+   format.
+
+**Namespace:** `System`
+
+# EncodingUtil Class
+
+Use the methods in the EncodingUtil class to encode and decode URL strings, and convert strings to hexadecimal format.
+
+## Namespace
+
+[System](atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm "The System namespace provides classes and methods for core Apex functionality.")
+
+## Usage
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexref)
+
+#### Note
+
+You cannot use the EncodingUtil methods to move documents with non-ASCII characters to Salesforce. You can, however, download a document from Salesforce. To do so, query the ID of the document using the API query call, then request it by ID.
+
+## EncodingUtil Methods
+
+The following are methods for EncodingUtil. All methods are static.
+
+-   **[base64Decode(inputString)](atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm#apex_System_EncodingUtil_base64Decode)**
+    Converts a Base64-encoded String to a Blob representing its normal form.
+-   **[base64Encode(inputBlob)](atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm#apex_System_EncodingUtil_base64Encode)**
+    Converts a Blob to an unencoded String representing its normal form.
+-   **[convertFromHex(inputString)](atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm#apex_System_EncodingUtil_convertFromHex)**
+    Converts the specified hexadecimal (base 16) string to a Blob value and returns this Blob value.
+-   **[convertToHex(inputBlob)](atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm#apex_System_EncodingUtil_convertToHex)**
+    Returns a hexadecimal (base 16) representation of the inputBlob. This method can be used to compute the client response (for example, HA1 or HA2) for HTTP Digest Authentication (RFC2617).
+-   **[urlDecode(inputString, encodingScheme)](atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm#apex_System_EncodingUtil_urlDecode)**
+    Decodes a string in application/x-www-form-urlencoded format using a specific encoding scheme, for example “UTF-8.”
+-   **[urlEncode(inputString, encodingScheme)](atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm#apex_System_EncodingUtil_urlEncode)**
+    Encodes a string into the application/x-www-form-urlencoded format using a specific encoding scheme, for example “UTF-8.”
+
+### base64Decode(inputString)
+
+Converts a Base64-encoded String to a Blob representing its normal form.
+
+#### Signature
+
+public static Blob base64Decode(String inputString)
+
+#### Parameters
+
+inputString
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+#### Return Value
+
+Type: [Blob](atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm#apex_methods_system_blob "Contains methods for the Blob primitive data type.")
+
+### base64Encode(inputBlob)
+
+Converts a Blob to an unencoded String representing its normal form.
+
+#### Signature
+
+public static String base64Encode(Blob inputBlob)
+
+#### Parameters
+
+inputBlob
+
+Type: [Blob](atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm#apex_methods_system_blob "Contains methods for the Blob primitive data type.")
+
+#### Return Value
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+### convertFromHex(inputString)
+
+Converts the specified hexadecimal (base 16) string to a Blob value and returns this Blob value.
+
+#### Signature
+
+public static Blob convertFromHex(String inputString)
+
+#### Parameters
+
+inputString
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+The hexadecimal string to convert. The string can contain only valid hexadecimal characters (0-9, a-f, A-F) and must have an even number of characters.
+
+#### Return Value
+
+Type: [Blob](atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm#apex_methods_system_blob "Contains methods for the Blob primitive data type.")
+
+#### Usage
+
+Each byte in the Blob is constructed from two hexadecimal characters in the input string.
+
+The convertFromHex method throws the following exceptions.
+
+-   NullPointerException — the inputString is null.
+-   InvalidParameterValueException — the inputString contains invalid hexadecimal characters or doesn’t contain an even number of characters.
+
+#### Example
+
+```
+
+```
+
+### convertToHex(inputBlob)
+
+Returns a hexadecimal (base 16) representation of the inputBlob. This method can be used to compute the client response (for example, HA1 or HA2) for HTTP Digest Authentication (RFC2617).
+
+#### Signature
+
+public static String convertToHex(Blob inputBlob)
+
+#### Parameters
+
+inputBlob
+
+Type: [Blob](atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm#apex_methods_system_blob "Contains methods for the Blob primitive data type.")
+
+#### Return Value
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+### urlDecode(inputString, encodingScheme)
+
+Decodes a string in application/x-www-form-urlencoded format using a specific encoding scheme, for example “UTF-8.”
+
+#### Signature
+
+public static String urlDecode(String inputString, String encodingScheme)
+
+#### Parameters
+
+inputString
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+encodingScheme
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+#### Return Value
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+#### Usage
+
+This method uses the supplied encoding scheme to determine which characters are represented by any consecutive sequence of the form \\"%xy". For more information about the format, see [The form-urlencoded Media Type](http://www.w3.org/MarkUp/html-spec/html-spec_8.html#SEC8.2.1) in Hypertext Markup Language - 2.0.
 
 ### urlEncode(inputString, encodingScheme)
 
@@ -51,3 +203,26 @@ The rules that apply when the method encodes a string:
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Blob blobValue = EncodingUtil.convertFromHex('4A4B4C');
+System.assertEquals('JKL', blobValue.toString());
+```
+
+```
+String encoded = EncodingUtil.urlEncode(url, 'UTF-8');
+```
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+- base64Decode(inputString) (atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm)
+- base64Encode(inputBlob) (atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm)
+- convertFromHex(inputString) (atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm)
+- convertToHex(inputBlob) (atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm)
+- urlDecode(inputString, encodingScheme) (atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm)
+- urlEncode(inputString, encodingScheme) (atlas.en-us.apexref.meta/apexref/apex_classes_restful_encodingUtil.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Blob (atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm)

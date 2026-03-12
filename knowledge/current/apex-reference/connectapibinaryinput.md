@@ -5,11 +5,16 @@ topic: connectapibinaryinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.825Z
-keywords: [ConnectApi.BinaryInput, See]
+lastCollected: 2026-03-12T05:14:24.389Z
+estimatedTokens: 319
+keywords: [ConnectApi.BinaryInput, Create, attach, files, feed, items, comments, add, repository, create, managed, content, replace, variants.]
 ---
 
 # ConnectApi.BinaryInput
+
+> Create a ConnectApi.BinaryInput object to attach
+    files to feed items and comments, to add repository files, to create managed content, and to
+    replace managed content variants.
 
 # ConnectApi.BinaryInput
 
@@ -32,7 +37,19 @@ The constructor takes these arguments:
 #### See Also
 
 -   [Post a Feed Element with a New File (Binary) Attachment](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_feed_element_binary.htm "Post a Feed Element with a New File (Binary) Attachment - HTML (New Window)")
-    
+
 -   [Post a Comment with a New File](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_comment_feed_element_3.htm "Post a Comment with a New File - HTML (New Window)")
-    
+
 -   [ConnectApi.BatchInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_batch.htm "Construct a set of inputs to be passed into a method at the same time.")
+
+## Code Examples
+
+```
+ConnectApi.BinaryInput(blob, contentType, filename)
+```
+
+## Related Topics
+
+- Blob (atlas.en-us.apexref.meta/apexref/apex_methods_system_blob.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.BatchInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_batch.htm)

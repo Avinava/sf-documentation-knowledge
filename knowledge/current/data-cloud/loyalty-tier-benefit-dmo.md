@@ -5,11 +5,15 @@ topic: loyalty-tier-benefit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.612Z
-keywords: [Loyalty, Tier, Benefit, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.365Z
+estimatedTokens: 528
+keywords: [Loyalty, Tier, Benefit, DMO, Data, Cloud, data, model, benefit, specific, loyalty, member, tier., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Loyalty Tier Benefit DMO
+
+> The Loyalty Tier Benefit DMO is a Data Cloud data model object
+      (DMO) for a benefit that is available in a specific loyalty member tier.
 
 # Loyalty Tier Benefit DMO
 

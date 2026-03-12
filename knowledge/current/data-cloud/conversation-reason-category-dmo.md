@@ -5,11 +5,17 @@ topic: conversation-reason-category-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.043Z
-keywords: [Conversation, Reason, Category, DMO, Object, API, Name, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.443Z
+estimatedTokens: 610
+keywords: [Conversation, Reason, Category, DMO, Data, Cloud, data, model, grouping, conversation, reasons, same, overall, topic., contains, aggregated, metrics, associated, reasons., Example]
 ---
 
 # Conversation Reason Category DMO
+
+> The Conversation Reason Category DMO is a Data Cloud data model object
+      for a grouping of conversation reasons that have the same overall topic. It contains
+      aggregated metrics for the associated conversation reasons. Example values include Order
+      Management, Payments, and Account Management.
 
 # Conversation Reason Category DMO
 

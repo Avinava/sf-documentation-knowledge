@@ -4,12 +4,16 @@ domain: omnistudio
 topic: record-stage-overview-get
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:08.959Z
-keywords: [Record, Stage, Overview, GET]
+docType: concept
+lastCollected: 2026-03-12T05:14:49.425Z
+estimatedTokens: 137
+keywords: [Record, Stage, Overview, GET, Get, list, stages, their, associated, fulfillment, steps, specific, record.]
 ---
 
 # Record Stage Overview (GET)
+
+> Get the list of stages and their associated fulfillment steps for
+      a specific record.
 
 # Record Stage Overview (GET)
 
@@ -40,3 +44,18 @@ GET
 Response body for GET
 
 [Stage Management Details](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_stage_overview_output.htm "Output representation of the details of stage management.")
+
+## Code Examples
+
+```
+/connect/stage-management/kanban-view/recordId
+```
+
+```
+https://yourInstances.salesforce.com/services/data/v66.0/connect/stage-management/kanban-view/13Xxx0000004DjQEAU
+```
+
+## Related Topics
+
+- Stage Management
+              Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_stage_overview_output.htm)

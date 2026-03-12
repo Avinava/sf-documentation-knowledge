@@ -5,11 +5,21 @@ topic: get-feedback-on-query-performance-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:24.953Z
-keywords: [Get, Feedback, Query, Performance, Beta, Note, Example]
+lastCollected: 2026-03-12T05:14:35.030Z
+estimatedTokens: 606
+keywords: [Get, Feedback, Query, Performance, Beta, get, feedback, how, Salesforce, executes, query, report, list, view, resource, along, explain, parameter., analyzes, find]
 ---
 
 # Get Feedback on Query Performance (Beta)
+
+> To get feedback on how Salesforce executes your query, report, or list view, use
+      the Query resource along with the
+        explain parameter. Salesforce analyzes each query to find the optimal
+      approach to obtain the query results. Depending on the query and query filters, Salesforce
+      uses an index or internal optimization. To return details on how Salesforce optimizes your
+      query, without actually running the query, use the explain parameter.
+      Based on the response, decide whether to fine-tune the performance of your query, like adding
+      filters to make the query more selective.
 
 # Get Feedback on Query Performance (Beta)
 
@@ -40,3 +50,40 @@ The response body for a performance feedback query looks like this:
 ```
 
 This response indicates that Salesforce found two possible execution plans for this query. The first plan uses the CreatedDate index field to improve the performance of this query. The second plan scans all records without using an index. If the query is executed, the first plan is used. Both plans note that there’s no secondary optimization for filtering out records marked as deleted because the IsDeleted field isn’t indexed.
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/query/?explain=
+SELECT+Name+FROM+Merchandise__c+WHERE+CreatedDate+=+TODAY+AND+Price__c+>+10.0
+```
+
+```
+{
+  "plans" : [ {
+    "cardinality" : 1,
+    "fields" : [ "CreatedDate" ],
+    "leadingOperationType" : "Index",
+    "notes" :  [ {
+      "description" : "Not considering filter for optimization because unindexed",
+      "fields" : [ "IsDeleted" ],
+      "tableEnumOrId" : "Merchandise__c"
+    } ],
+    "relativeCost" : 0.0,
+    "sobjectCardinality" : 3,
+    "sobjectType" : "Merchandise__c"
+  }, {
+    "cardinality" : 1,
+    "fields" : [ ],
+    "leadingOperationType" : "TableScan",
+    "notes" :  [ {
+      "description" : "Not considering filter for optimization because unindexed",
+      "fields" : [ "IsDeleted" ],
+      "tableEnumOrId" : "Merchandise__c"
+    } ],
+    "relativeCost" : 0.65,
+    "sobjectCardinality" : 3,
+    "sobjectType" : "Merchandise__c"
+  } ]
+}
+```

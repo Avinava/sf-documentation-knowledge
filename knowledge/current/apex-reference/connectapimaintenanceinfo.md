@@ -5,11 +5,15 @@ topic: connectapimaintenanceinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.075Z
-keywords: [ConnectApi.MaintenanceInfo, See]
+lastCollected: 2026-03-12T05:14:27.699Z
+estimatedTokens: 377
+keywords: [ConnectApi.MaintenanceInfo, Information, upcoming, scheduled, maintenance, organization.]
 ---
 
 # ConnectApi.MaintenanceInfo
+
+> Information about the upcoming scheduled maintenance for the
+      organization.
 
 # ConnectApi.MaintenanceInfo
 
@@ -30,3 +34,10 @@ Information about the upcoming scheduled maintenance for the organization.
 #### See Also
 
 -   [ConnectApi.OrganizationSettings](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_organization.htm "Org settings.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​MaintenanceType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.OrganizationSettings (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_organization.htm)

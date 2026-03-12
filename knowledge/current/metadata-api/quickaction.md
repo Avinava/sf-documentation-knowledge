@@ -5,11 +5,20 @@ topic: quickaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.168Z
-keywords: [QuickAction, File, Suffix, Directory, Location, Version, Fields, FieldOverride, QuickActionLayout, QuickActionLayoutColumn, QuickActionLayoutItem, QuickActionParameter, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.048Z
+estimatedTokens: 2376
+namespace: Canvas
+keywords: [QuickAction, Represents, specified, create, update, quick, action, then, becomes, Chatter, publisher., example, detail, page, account, allows, user, contact, related, feed]
 ---
 
 # QuickAction
+
+> Represents a specified create or update quick action for an
+        object that then becomes available in the Chatter publisher. For example, you can create an action that, on the detail page of an account, allows a
+            user to create a contact related to that account from the Chatter feed on that page.
+            QuickAction can be created on objects that permit custom fields.
+
+**Namespace:** `Canvas`
 
 # QuickAction
 
@@ -118,3 +127,64 @@ The following is an example of a [QuickAction](#meta_quickaction "Represents a s
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>testActionDefinitionTypesCreateTask</description>
+    <label>testActionDefinitionTypesCreateTask</label>
+    <optionsCreateFeedItem>true</optionsCreateFeedItem>
+    <quickActionLayout>
+        <layoutSectionStyle>TwoColumnsLeftToRight</layoutSectionStyle>
+        <quickActionLayoutColumns>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>OwnerId</field>
+                <uiBehavior>Required</uiBehavior>
+            </quickActionLayoutItems>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>WhoId</field>
+                <uiBehavior>Edit</uiBehavior>
+            </quickActionLayoutItems>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>WhatId</field>
+                <uiBehavior>Edit</uiBehavior>
+            </quickActionLayoutItems>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>ActivityDate</field>
+                <uiBehavior>Edit</uiBehavior>
+            </quickActionLayoutItems>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>Subject</field>
+                <uiBehavior>Edit</uiBehavior>
+            </quickActionLayoutItems>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>Status</field>
+                <uiBehavior>Required</uiBehavior>
+            </quickActionLayoutItems>
+            <quickActionLayoutItems>
+                <emptySpace>false</emptySpace>
+                <field>Priority</field>
+                <uiBehavior>Required</uiBehavior>
+            </quickActionLayoutItems>
+        </quickActionLayoutColumns>
+        <quickActionLayoutColumns/>
+    </quickActionLayout>
+    <successMessage>This is a success message</successMessage>
+    <targetObject>Task</targetObject>
+    <targetParentField>What</targetParentField>
+    <type>Create</type>
+</QuickAction>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

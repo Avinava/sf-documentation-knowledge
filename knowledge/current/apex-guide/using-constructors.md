@@ -5,11 +5,17 @@ topic: using-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.518Z
-keywords: [Constructors]
+lastCollected: 2026-03-12T05:14:32.518Z
+estimatedTokens: 580
+keywords: [code, invoked, created, blueprint., need, write, every, class., doesn't, user-defined, default, no-argument, same, visibility, containing]
 ---
 
 # Using Constructors
+
+> A constructor is code that is invoked when an object is created from the class
+      blueprint. You do not need to write a constructor for every class. If a class doesn't have a
+      user-defined constructor, a default, no-argument constructor with the same visibility as the
+      containing class 
 
 # Using Constructors
 
@@ -55,3 +61,66 @@ When you define a new class, you are defining a new data type. You can use class
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm "Class Methods")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm "Access Modifiers")
+
+## Code Examples
+
+```apex
+public class TestObject {
+
+   // The no argument constructor 
+   public TestObject() {
+      // more code here
+  }
+}
+```
+
+```
+TestObject myTest = new TestObject();
+```
+
+```apex
+public class TestObject2 {
+
+private static final Integer DEFAULT_SIZE = 10;
+
+Integer size;
+
+   //Constructor with no arguments
+   public TestObject2() {
+       this(DEFAULT_SIZE); // Using this(...) calls the one argument constructor    
+   }
+
+   // Constructor with one argument 
+   public TestObject2(Integer ObjectSize) {
+     size = ObjectSize;  
+   }
+}
+```
+
+```
+TestObject2 myObject1 = new TestObject2(42);
+  TestObject2 myObject2 = new TestObject2();
+```
+
+```apex
+public class Leads {
+
+  // First a no-argument constructor 
+  public Leads () {}
+
+  // A constructor with one argument
+  public Leads (Boolean call) {}
+
+  // A constructor with two arguments
+  public Leads (String email, Boolean call) {}
+
+  // Though this constructor has the same arguments as the 
+  // one above, they are in a different order, so this is legal
+  public Leads (Boolean call, String email) {}
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)

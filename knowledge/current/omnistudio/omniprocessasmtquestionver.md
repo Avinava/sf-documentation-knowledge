@@ -5,11 +5,15 @@ topic: omniprocessasmtquestionver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.055Z
-keywords: [OmniProcessAsmtQuestionVer, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.112Z
+estimatedTokens: 1045
+keywords: [OmniProcessAsmtQuestionVer, Represents, junction, between, OmniScript, process, assessment, question, version., API, version, 55.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # OmniProcessAsmtQuestionVer
+
+> Represents a junction between an OmniScript process and an assessment
+         question version. This object is available in API version 55.0 and later.
 
 # OmniProcessAsmtQuestionVer
 

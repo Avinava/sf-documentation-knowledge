@@ -5,11 +5,16 @@ topic: using-bounds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.615Z
-keywords: [Bounds]
+lastCollected: 2026-03-12T05:14:32.653Z
+estimatedTokens: 269
+keywords: [Bounds, default, region, delimited, anchoring, bounds, which, means, line, anchors, such, match, boundaries, even, moved, start, end, input, string., specify]
 ---
 
 # Using Bounds
+
+> By default, a region is delimited by anchoring bounds, which means that the line anchors (such as ^ or $) match at the region boundaries, even if the region boundaries
+have been moved from the start and end of the input string. You can
+specify whether a region uses anchoring bounds with the useAncho
 
 # Using Bounds
 
@@ -24,3 +29,9 @@ Suppose you were searching the following string, and your region was only the wo
 ```
 
 If you searched for the word “cat”, you wouldn't receive a match unless you had transparent bounds set.
+
+## Code Examples
+
+```
+This is a concatenated STRING of cats and dogs.
+```

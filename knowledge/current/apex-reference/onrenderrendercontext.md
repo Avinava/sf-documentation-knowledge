@@ -5,11 +5,16 @@ topic: onrenderrendercontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.106Z
-keywords: [onRender, renderContext, Signature, Parameters, Return, Value, Usage, Example, See]
+lastCollected: 2026-03-12T05:14:19.335Z
+estimatedTokens: 360
+keywords: [onRender, renderContext, Invoked, canvas, app, rendered., Provides, ability, set, retrieve, application, environment, context, information, during, render, phase., Usage, Example]
 ---
 
 # onRender(renderContext)
+
+> Invoked when a canvas app is rendered. Provides the ability to set and retrieve
+        canvas application and environment context information during the application render
+        phase.
 
 # onRender(renderContext)
 
@@ -47,3 +52,7 @@ This example implementation prints ‘Canvas lifecycle called.’ to the debug l
 
 -   [*Canvas Developer Guide*: Controlling App Behavior](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_connect.meta/platform_connect/canvas_controlling_app_behavior.htm "Canvas Developer Guide: Controlling App
     Behavior - HTML (New Window)")
+
+## Related Topics
+
+- Canvas.RenderContext (atlas.en-us.apexref.meta/apexref/apex_interface_canvas_RenderContext.htm)

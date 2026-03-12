@@ -5,11 +5,14 @@ topic: connectapipromotioncartdeliverygroupmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.101Z
-keywords: [ConnectApi.PromotionCartDeliveryGroupMethod]
+lastCollected: 2026-03-12T05:14:26.301Z
+estimatedTokens: 166
+keywords: [ConnectApi.PromotionCartDeliveryGroupMethod, Cart, delivery, group, promotion.]
 ---
 
 # ConnectApi.PromotionCartDeliveryGroupMethod
+
+> Cart delivery group method for a promotion.
 
 # ConnectApi.PromotionCartDeliveryGroupMethod
 
@@ -23,3 +26,9 @@ Cart delivery group method for a promotion.
 | shippingRateId | String | ID of the shipping rate. | 62.0 |
 | totalAdjustment​BaseAmount | String | Total amount of the adjustment. | 60.0 |
 | totalNetAmount | String | Final price of the cart item after all adjustments. | 60.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​PromotionCart​DeliveryMethod​Adjustment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_delivery_method_adjustment_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

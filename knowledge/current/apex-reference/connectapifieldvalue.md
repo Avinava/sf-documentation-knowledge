@@ -5,11 +5,14 @@ topic: connectapifieldvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.856Z
-keywords: [ConnectApi.FieldValue, See]
+lastCollected: 2026-03-12T05:14:27.421Z
+estimatedTokens: 86
+keywords: [ConnectApi.FieldValue, Field's, product, search, results.]
 ---
 
 # ConnectApi.FieldValue
+
+> Field's value in product search results.
 
 # ConnectApi.FieldValue
 
@@ -22,3 +25,8 @@ Field's value in product search results.
 #### See Also
 
 -   [ConnectApi.ProductSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary.htm "Product summary.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ProductSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_summary.htm)

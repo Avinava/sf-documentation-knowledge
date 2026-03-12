@@ -5,11 +5,20 @@ topic: samlssoconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.485Z
-keywords: [SamlSsoConfig, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.557Z
+estimatedTokens: 1862
+keywords: [SamlSsoConfig, Represents, SAML, Single, Sign-On, configuration., extends, Metadata, metadata, inherits, its, fullName, field., sign-on, SSO, authentication, enables, users, access, multiple]
 ---
 
 # SamlSsoConfig
+
+> Represents a SAML Single Sign-On configuration. This type extends the Metadata metadata
+    type and inherits its fullName field. Single sign-on (SSO) is an
+    authentication method that enables users to access multiple applications with one login and one
+    set of credentials. For example, after users log in to your org, they can automatically access
+    all apps from the App Launcher. You can set up your Salesforce org to trust a third-party
+    identity provider to authenticate users. Or you can configure a third-party app to rely on your
+    org for authentication.
 
 # SamlSsoConfig
 
@@ -68,3 +77,40 @@ The following is an example of a SamlSsoConfig component. The validation certifi
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SamlSsoConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+  <identityLocation>SubjectNameId</identityLocation>
+  <identityMapping>FederationId</identityMapping>
+  <issuer>https://my-idp.my.salesforce.com</issuer>
+  <loginUrl>
+    https://my-idp.my.salesforce.com/idp/endpoint/HttpRedirect
+  </loginUrl>
+  <logoutUrl>https://www.salesforce.com</logoutUrl>
+  <name>SomeCompany</name>
+  <oauthTokenEndpoint>
+    https://login.salesforce.com/services/oauth2/token?so=00DD0000000
+  </oauthTokenEndpoint>
+  <redirectBinding>true</redirectBinding>
+  <requestSignatureMethod>RSA-SHA1</requestSignatureMethod>
+  <salesforceLoginUrl>
+    https://login.salesforce.com?so=00DD0000000JxeI
+  </salesforceLoginUrl>
+  <samlEntityId>
+    https://saml.salesforce.com/customPath
+  </samlEntityId>
+  <samlVersion>SAML2_0</samlVersion>
+  <useConfigRequestMethod>true</useConfigRequestMethod>
+  <userProvisioning>false</userProvisioning>
+  <validationCert>
+    MIIEojCCA4qgAwIBAgIOATtxsoBFAAAAAD4...
+  </validationCert>
+</SamlSsoConfig>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,16 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.951Z
-keywords: [BusinessProcessGroup, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, BusinessProcessDefinition, BusinessProcessFeedback, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.475Z
+estimatedTokens: 853
+keywords: [BusinessProcessGroup, Represents, surveys, used, track, customers’, experiences, across, different, stages, their, lifecycle., extends, Metadata, metadata, inherits, its, fullName, field., Important]
 ---
 
 # BusinessProcessGroup
+
+> Represents the surveys used to track customers’ experiences
+    across different stages in their lifecycle. This type extends the Metadata metadata type and inherits its 
+    fullName field.
 
 # BusinessProcessGroup
 
@@ -77,3 +82,41 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessProcessGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <businessProcessDefinitions>
+        <developerName>Customer_Onboarding</developerName>
+        <masterLabel>Customer Onboarding</masterLabel>
+        <description>A stage in a customer's lifecycle.</description>
+        <sequenceNumber>0</sequenceNumber>
+        <businessProcessFeedbacks>
+            <actionType>Survey</actionType>
+            <actionName>New Customer CSAT</actionName>
+            <actionParam>How would you rate our service?</actionParam>
+        </businessProcessFeedbacks>
+    </businessProcessDefinitions>
+    <customerSatisfactionMetric>NPS</customerSatisfactionMetric>
+    <masterLabel>Customer Lifecycle</masterLabel>
+    <description>This map tracks the feedback provided by customers' at different stages during their lifecycle.</description>
+</BusinessProcessGroup>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>policyholder</members>
+        <name>BusinessProcessGroup</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -6,12 +6,17 @@ topic: custom-headers-and-bodies-of-apex-callouts-that-use-named-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.384Z
-keywords: [Custom, Headers, Bodies, Apex, Callouts, Named, Credentials, See]
+lastCollected: 2026-03-12T05:14:32.331Z
+estimatedTokens: 650
+keywords: [Custom, Headers, Bodies, Apex, Callouts, Named, Credentials, Salesforce, generates, standard, authorization, header, callout, named-credential-defined, endpoint, disable, option., code, merge, fields]
 ---
 
 # Custom Headers and Bodies of Apex Callouts That Use Named
    Credentials
+
+> Salesforce generates a standard authorization header for each callout to a
+  named-credential-defined endpoint, but you can disable this option. Your Apex code can also use
+  merge fields to construct each callout’s HTTP header and body.
 
 # Custom Headers and Bodies of Apex Callouts That Use Named Credentials
 
@@ -31,5 +36,10 @@ The Salesforce admin must set up the named credential to allow Apex code to cons
 #### See Also
 
 -   [Merge Fields for Apex Callouts That Use Named Credentials](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_merge_fields.htm "To construct the HTTP headers and request bodies of callouts to endpoints that are specified as named credentials, use these merge fields in your Apex code.")
-    
+
 -   [*Salesforce Help*: Named Credentials](https://help.salesforce.com/HTViewHelpDoc?id=named_credentials_about.htm&language=en_US "Salesforce Help: Named Credentials - HTML (New Window)")
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_merge_fields.htm)
+- Merge Fields for Apex Callouts That Use Named Credentials (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_merge_fields.htm)

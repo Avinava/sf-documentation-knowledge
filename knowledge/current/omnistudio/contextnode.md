@@ -5,11 +5,17 @@ topic: contextnode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.414Z
-keywords: [ContextNode, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.696Z
+estimatedTokens: 621
+keywords: [ContextNode, Represents, information, structure, nodes, within, context., Within, node, related, attributes, describe, object., hierarchy, defined, here., API, version, 59.0, later.]
 ---
 
 # ContextNode
+
+> Represents information about the structure of the nodes within the context.
+         Within a structure, each node can have other nodes related to them and attributes to
+         describe the object. A hierarchy for the nodes can also be defined here. This object
+      is available in API version 59.0 and later.
 
 # ContextNode
 

@@ -5,11 +5,17 @@ topic: running-tests-in-a-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.853Z
-keywords: [Running, Tests, Deployment, Default, Test, Execution, Production, API, Version, 33.0, Earlier, See]
+lastCollected: 2026-03-12T05:14:38.716Z
+estimatedTokens: 826
+keywords: [Running, Tests, Deployment, test, level, specified, deployment, options, default, execution, behavior, depends, contents, package., deploying, production, tests, except, those, originate]
 ---
 
 # Running Tests in a Deployment
+
+> When no test level is specified in the deployment options, the
+        default test execution behavior depends on the contents of your deployment package. When
+        deploying to production, all tests, except those that originate from managed packages, are
+        executed if your deployment packa
 
 # Running Tests in a Deployment
 
@@ -67,5 +73,10 @@ But all local tests are run for any of the following example deployments, becaus
 #### See Also
 
 -   [deploy()](atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm "Uses file representations of components to create, update, or delete those components in a Salesforce org.")
-    
+
 -   [Run Relevant Apex Tests in a Deployment (Beta)](atlas.en-us.api_meta.meta/api_meta/meta_deploy_run_relevant_tests.htm "Use the RunRelevantTests (beta) test level to run only the Apex tests that are relevant to your deployment. Salesforce automatically identifies the relevant tests based on an analysis of the deployment payload and the payload dependencies.")
+
+## Related Topics
+
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- Run Relevant Apex Tests in a Deployment (Beta) (atlas.en-us.api_meta.meta/api_meta/meta_deploy_run_relevant_tests.htm)

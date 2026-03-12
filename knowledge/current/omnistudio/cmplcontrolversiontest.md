@@ -5,11 +5,15 @@ topic: cmplcontrolversiontest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.776Z
-keywords: [CmplControlVersionTest, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.703Z
+estimatedTokens: 598
+keywords: [CmplControlVersionTest, Represents, association, between, Compliance, Control, Version, Test., API, version, 66.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # CmplControlVersionTest
+
+> Represents the association between a Compliance Control Version and
+         Compliance Control Test. This object is available in API version 66.0 and later.
 
 # CmplControlVersionTest
 
@@ -38,3 +42,8 @@ Change events are available for the object.
 [CmplControlVersionTestHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- CmplControlVersionTestChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CmplControlVersionTestHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

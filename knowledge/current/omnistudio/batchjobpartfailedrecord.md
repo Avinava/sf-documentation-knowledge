@@ -5,11 +5,15 @@ topic: batchjobpartfailedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.694Z
-keywords: [BatchJobPartFailedRecord, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.569Z
+estimatedTokens: 583
+keywords: [BatchJobPartFailedRecord, Represents, records, batch, job, part, couldn't, successfully, process., API, version, 51.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # BatchJobPartFailedRecord
+
+> Represents records that a batch job part couldn't successfully process.
+    This object is available in API version 51.0 and later.
 
 # BatchJobPartFailedRecord
 

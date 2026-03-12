@@ -5,11 +5,16 @@ topic: customsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.693Z
-keywords: [CustomSite, Important, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, SiteIframeWhiteListUrl, SiteRedirectMapping, SiteWebAddress, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:42.907Z
+estimatedTokens: 4055
+keywords: [CustomSite, Represents, Salesforce, site., Create, websites, applications, directly, integrated, organization, don't, require, users, log, username, password., Important, Note, Declarative, Metadata]
 ---
 
 # CustomSite
+
+> Represents a Salesforce site. Create public websites and
+      applications that are directly integrated with your Salesforce organization, but don't require
+      users to log in with a username and password.
 
 # CustomSite
 
@@ -144,3 +149,68 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [Portal](atlas.en-us.api_meta.meta/api_meta/meta_portal.htm "The Portal metadata type represents a partner portal.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <allowHomePage>true</allowHomePage>
+    <allowStandardAnswersPages>true</allowStandardAnswersPages>
+    <allowStandardIdeasPages>true</allowStandardIdeasPages>
+    <allowStandardLookups>true</allowStandardLookups>
+    <allowStandardPortalPages>true</allowStandardPortalPages>
+    <allowStandardSearch>true</allowStandardSearch>
+    <analyticsTrackingCode>UA-000000-2</analyticsTrackingCode>
+    <authorizationRequiredPage>Unauthorized</authorizationRequiredPage>
+    <bandwidthExceededPage>BandwidthExceeded</bandwidthExceededPage>
+    <browserXssProtection>true</browserXssProtection>
+    <cachePublicVisualforcePagesInProxyServers>false</cachePublicVisualforcePagesInProxyServers>
+    <changePasswordPage>ChangePassword</changePasswordPage>
+    <chatterAnswersForgotPasswordConfirmPage>ChatterAnswersForgotPasswordConfirm</chatterAnswersForgotPasswordConfirmPage>
+    <chatterAnswersForgotPasswordPage>ChatterAnswersForgotPassword</chatterAnswersForgotPasswordPage>
+    <chatterAnswersHelpPage>ChatterAnswersHelp</chatterAnswersHelpPage>
+    <chatterAnswersLoginPage>ChatterAnswersLogin</chatterAnswersLoginPage>
+    <chatterAnswersRegistrationPage>ChatterAnswersRegistration</chatterAnswersRegistrationPage>
+    <clickjackProtectionLevel>SameOriginOnly</clickjackProtectionLevel>
+    <contentSniffingProtection>true</contentSniffingProtection>
+    <customWebAddresses>
+      <domainName>www.testing123.com</domainName>
+      <primary>true</primary>
+    </customWebAddresses>
+    <description>Partners portal for My Company</description>
+    <enableAuraRequests>true</enableAuraRequests>
+    <favoriteIcon>favicon</favoriteIcon>
+    <fileNotFoundPage>FileNotFound</fileNotFoundPage>
+    <forgotPasswordPage>ForgotPassword</forgotPasswordPage>
+    <genericErrorPage>Exception</genericErrorPage>
+    <guestProfile>Guest</guestProfile>
+    <inMaintenancePage>InMaintenance</inMaintenancePage>
+    <inactiveIndexPage>Inactive</inactiveIndexPage>
+    <indexPage>UnderConstruction</indexPage>
+    <masterLabel>customSite</masterLabel>
+    <myProfilePage>UserProfile</myProfilePage>
+    <portal>Customer Portal</portal>
+    <redirectToCustomDomain>true</redirectToCustomDomain>
+    <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
+    <robotsTxtPage>RobotsTxt</robotsTxtPage>
+    <selfRegPage>SelfReg</selfRegPage>
+    <serverIsDown>MyServerDownResource</serverIsDown>
+    <siteAdmin>admin@myco.org</siteAdmin>
+    <siteGuestRecordDefaultOwner>admin@myco.org</siteGuestRecordDefaultOwner>
+    <siteIframeWhiteListUrl>
+      <url>example.com</url>
+    </siteIframeWhiteListUrl>
+    <siteTemplate>SiteTemplate</siteTemplate>
+    <siteType>Siteforce</siteType>
+    <subdomain>myco</subdomain>
+    <urlPathPrefix>partners</urlPathPrefix>
+</CustomSite>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Portal (atlas.en-us.api_meta.meta/api_meta/meta_portal.htm)

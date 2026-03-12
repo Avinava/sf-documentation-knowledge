@@ -5,11 +5,15 @@ topic: calculation-procedure-version-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.118Z
-keywords: [Calculation, Procedure, Version, Definition, Output, Note]
+lastCollected: 2026-03-12T05:14:49.675Z
+estimatedTokens: 634
+keywords: [Calculation, Procedure, Version, Definition, Output, representation, expression, set, version, definition., Note]
 ---
 
 # Calculation Procedure Version Definition Output
+
+> Output representation of the expression set version
+    definition.
 
 # Calculation Procedure Version Definition Output
 
@@ -45,3 +49,86 @@ JSON Response
 | variables | Resource List Output | The variable definition of the expression set version record. | Small, 53.0 | 53.0 |
 | versionId | String | The ID of the expression set version record. | Small, 53.0 | 53.0 |
 | versionNumber | Integer | The number of the expression set version record. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "calculationProcedureId":"0k0xx00000000HlAAI",
+   "code":"200",
+   "constants":{
+      "details":[
+         {
+            "apiName":"SENIOR_CITIZEN_AGE",
+            "dataType":"Number",
+            "defaultValue":"60",
+            "isEditable":true,
+            "isUserDefined":true,
+            "name":"SENIOR_CITIZEN_AGE",
+            "precision":2
+         }
+      ]
+   },
+   "enabled":false,
+   "isSuccess":true,
+   "message":"",
+   "name":"rule3 V1",
+   "rank":1,
+   "root":{
+      "steps":[
+         "0mqxx00000000UfAAI"
+      ]
+   },
+   "startDate":"2021-08-04T08:57:23.000Z",
+   "step":{
+      "details":{
+         "0mqxx00000000UfAAI":{
+            "childStepIds":[
+            ],
+            "conditionsExpressionText":"age == SENIOR_CITIZEN_AGE",
+            "conditionsUiFormattedText":"{"bypass":[]}",
+            "id":"0mqxx00000000UfAAI",
+            "inputVariablesFormatText":"[{"name":"age","dataType":"Number","alias":"age"}]",
+            "isResultIncluded":false,
+            "name":"Condition",
+            "outputVariablesFormatText":"{"name":"condition_output__1","dataType":"Boolean","alias":"condition_output__1"}",
+            "outputVariablesMappingText":"{"condition_output__1":"condition_output__1"}",
+            "returnMessageValueSet":"{"true":"","false":""}",
+            "stage":"Calculation",
+            "stepType":"Condition"
+         }
+      }
+   },
+   "variables":{
+      "details":[
+         {
+            "apiName":"condition_output__1",
+            "dataType":"Boolean",
+            "defaultValue":"False",
+            "id":"0kJxx00000000KzEAI",
+            "isEditable":false,
+            "isUserDefined":false,
+            "name":"condition_output__1"
+         },
+         {
+            "apiName":"age",
+            "dataType":"Number",
+            "defaultValue":"60",
+            "id":"0kJxx00000000L0EAI",
+            "isEditable":true,
+            "isUserDefined":true,
+            "name":"age",
+            "precision":2
+         }
+      ]
+   },
+   "versionId":"0k1xx00000000KzAAI",
+   "versionNumber":1
+}
+```
+
+## Related Topics
+
+- Resource List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_resource_list_output.htm)
+- Root Step List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_root_step_list_output.htm)
+- Calculation Procedure Step Map Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_step_map_output.htm)

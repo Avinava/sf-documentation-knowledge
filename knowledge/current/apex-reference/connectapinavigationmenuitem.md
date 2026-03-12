@@ -5,11 +5,14 @@ topic: connectapinavigationmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.352Z
-keywords: [ConnectApi.NavigationMenuItem, See]
+lastCollected: 2026-03-12T05:14:28.071Z
+estimatedTokens: 417
+keywords: [ConnectApi.NavigationMenuItem, Navigation, menu, item.]
 ---
 
 # ConnectApi.NavigationMenuItem
+
+> Navigation menu item.
 
 # ConnectApi.NavigationMenuItem
 
@@ -28,3 +31,12 @@ Navigation menu item.
 #### See Also
 
 -   [ConnectApi.NavigationMenuItemCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_navigation_menu_item_collection.htm "Collection of navigation menu items.")
+
+## Related Topics
+
+- ConnectApi.​NavigationMenuItem​ActionType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​NavigationMenuPage​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_navigation_menu_page_reference.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​NavigationMenuItem​OpenTarget (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.NavigationMenuItemCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_navigation_menu_item_collection.htm)

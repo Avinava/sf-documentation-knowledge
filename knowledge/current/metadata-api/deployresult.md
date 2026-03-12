@@ -5,11 +5,14 @@ topic: deployresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.880Z
-keywords: [DeployResult, DeployDetails, Note, DeployMessage, RunTestsResult, CodeCoverageResult, CodeCoverageWarning, RunTestFailure, FlowCoverageResult, FlowCoverageWarning, RunTestSuccess, CodeLocation]
+lastCollected: 2026-03-12T05:14:38.758Z
+estimatedTokens: 4584
+keywords: [DeployResult, Contains, information, success, failure, associated, deploy, call., DeployDetails, Note, DeployMessage, RunTestsResult, CodeCoverageResult, CodeCoverageWarning, RunTestFailure, FlowCoverageResult, FlowCoverageWarning, RunTestSuccess, CodeLocation]
 ---
 
 # DeployResult
+
+> Contains information about the success or failure of the associated deploy() call.
 
 # DeployResult
 
@@ -218,3 +221,16 @@ This object has these properties.
 | line | int | The line location of the Apex tested. |
 | numExecutions | int | The number of times the Apex was executed in the test run. |
 | time | double | The total cumulative time spent at this location. This can be helpful for performance monitoring. |
+
+## Related Topics
+
+- checkDeployStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm)
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- numberComponentsTotal (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- numberComponentsDeployed (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- numberTestsTotal (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- numberTestsCompleted (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- DeployOptions (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- Running Tests in a Deployment (atlas.en-us.api_meta.meta/api_meta/meta_deploy_running_tests.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)

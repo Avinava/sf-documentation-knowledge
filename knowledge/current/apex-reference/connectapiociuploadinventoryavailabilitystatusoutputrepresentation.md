@@ -5,11 +5,15 @@ topic: connectapiociuploadinventoryavailabilitystatusoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.432Z
-keywords: [ConnectApi.OCIUploadInventoryAvailabilityStatusOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.177Z
+estimatedTokens: 302
+keywords: [ConnectApi.OCIUploadInventoryAvailabilityStatusOutputRepresentation, Detailed, status, upload, inventory, availability, job.]
 ---
 
 # ConnectApi.OCIUploadInventoryAvailabilityStatusOutputRepresentation
+
+> Detailed status of an upload inventory availability
+    job.
 
 # ConnectApi.OCIUploadInventoryAvailabilityStatusOutputRepresentation
 
@@ -28,3 +32,10 @@ Subclass of [ConnectApi.OCIBaseOutputRepresentation](atlas.en-us.apexref.meta/ap
 | uploadId | String | Identifier of the job. | 51.0 |
 | validationErrors | List<String> | List of any validation errors returned by the job. | 51.0 |
 | validationStatus | String | The validation status of the job. | 51.0 |
+
+## Related Topics
+
+- ConnectApi.OCIBaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_base_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

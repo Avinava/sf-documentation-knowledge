@@ -5,11 +5,16 @@ topic: authorization-through-external-client-apps-or-connected-apps-and-oauth-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:44:25.077Z
-keywords: [Authorization, Through, External, Client, Apps, Connected, OAuth, 2.0, Important, Configure, App, Apply, Flow, Resources]
+lastCollected: 2026-03-12T05:14:35.167Z
+estimatedTokens: 932
+keywords: [Authorization, Through, External, Client, Apps, Connected, OAuth, 2.0, client, application, access, REST, API, resources, must, authorized, safe, visitor., implement, authorization]
 ---
 
 # Authorization Through External Client Apps or Connected Apps and OAuth 2.0
+
+> For a client application to access REST API resources, it must be authorized as a safe
+    visitor. To implement this authorization, use either an external client app or a connected app
+    and an OAuth 2.0 authorization flow.
 
 # Authorization Through External Client Apps or Connected Apps and OAuth 2.0
 

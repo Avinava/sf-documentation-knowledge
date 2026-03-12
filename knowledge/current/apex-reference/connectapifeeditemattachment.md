@@ -5,11 +5,14 @@ topic: connectapifeeditemattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.807Z
-keywords: [ConnectApi.FeedItemAttachment, Important]
+lastCollected: 2026-03-12T05:14:27.381Z
+estimatedTokens: 759
+keywords: [ConnectApi.FeedItemAttachment, Feed, item, attachment., Important]
 ---
 
 # ConnectApi.FeedItemAttachment
+
+> Feed item attachment.
 
 # ConnectApi.FeedItemAttachment
 
@@ -44,3 +47,16 @@ Message segments in a feed item are typed as ConnectApi.MessageSegment. Feed ite
 #### Important
 
 The composition of a feed can change between releases. Write your code to handle instances of unknown subclasses.
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- ConnectApi.ApprovalAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_approval_attach.htm)
+- ConnectApi.BasicTemplateAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_basic_template.htm)
+- ConnectApi.CanvasTemplateAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_canvas_template.htm)
+- Connectapi.EmailMessage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_emailMessage.htm)
+- ConnectApi.CaseComment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_case_comment.htm)
+- ConnectApi.ContentAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_attachment.htm)
+- ConnectApi.DashboardComponentAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_dashboard.htm)
+- ConnectApi.FeedPoll (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_FeedPoll.htm)
+- ConnectApi.LinkAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_link_attachment.htm)

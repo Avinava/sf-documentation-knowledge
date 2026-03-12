@@ -5,11 +5,15 @@ topic: entitlementprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.286Z
-keywords: [EntitlementProcess, File, Suffix, Directory, Location, Version, Fields, EntitlementProcessMilestoneItem, EntitlementProcessMilestoneTimeTrigger, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.341Z
+estimatedTokens: 1692
+keywords: [EntitlementProcess, Represents, settings, entitlement, process., File, Suffix, Directory, Location, Version, Fields, EntitlementProcessMilestoneItem, EntitlementProcessMilestoneTimeTrigger, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # EntitlementProcess
+
+> Represents the settings for an entitlement
+            process.
 
 # EntitlementProcess
 
@@ -89,3 +93,76 @@ Here’s a sample entitlement process.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EntitlementProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>eppersone</description>
+    <entryStartDateField>SlaStartDate</entryStartDateField>
+    <exitCriteriaBooleanFilter>1 OR 2</exitCriteriaBooleanFilter>
+    <exitCriteriaFilterItems>
+        <field>Case.IsClosed</field>
+        <operation>equals</operation>
+        <value>true</value>
+    </exitCriteriaFilterItems>
+    <exitCriteriaFilterItems>
+        <field>Case.Description</field>
+        <operation>startsWith</operation>
+        <value>foo</value>
+    </exitCriteriaFilterItems>
+    <milestones>
+        <milestoneName>m1</milestoneName>
+        <minutesToComplete>1</minutesToComplete>
+        <successActions>
+            <name>emailBob</name>
+            <type>Alert</type>
+        </successActions>
+        <timeTriggers>
+            <actions>
+                <name>emailAlice</name>
+                <type>Alert</type>
+            </actions>
+            <actions>
+                <name>setEscalateToTrue</name>
+                <type>FieldUpdate</type>
+            </actions>
+            <timeLength>1</timeLength>
+            <workflowTimeTriggerUnit>Minutes</workflowTimeTriggerUnit>
+        </timeTriggers>
+        <timeTriggers>
+            <actions>
+                <name>setStopToTrue</name>
+                <type>FieldUpdate</type>
+            </actions>
+            <timeLength>2</timeLength>
+            <workflowTimeTriggerUnit>Minutes</workflowTimeTriggerUnit>
+        </timeTriggers>
+        <useCriteriaStartTime>false</useCriteriaStartTime>
+    </milestones>
+    <milestones>
+        <milestoneCriteriaFilterItems>
+            <field>Case.Priority</field>
+            <operation>equals</operation>
+            <value>High</value>
+        </milestoneCriteriaFilterItems>
+        <milestoneName>m2</milestoneName>
+        <minutesToComplete>120</minutesToComplete>
+        <useCriteriaStartTime>true</useCriteriaStartTime>
+        <successActions>
+            <name>emailBob</name>
+            <type>Alert</type>
+        </successActions>
+    </milestones>
+</EntitlementProcess>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- WorkflowActionReference (atlas.en-us.api_meta.meta/api_meta/meta_workflow.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

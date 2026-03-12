@@ -5,11 +5,16 @@ topic: focusprimarytabbyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.938Z
-keywords: [focusPrimaryTabByName, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:57.329Z
+estimatedTokens: 281
+keywords: [focusPrimaryTabByName, Focuses, browser, primary, tab, already, open, specified, name., only, API, version, 22.0, later., Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
 ---
 
 # focusPrimaryTabByName()
+
+> Focuses the browser on a primary tab that is
+            already open with the specified name. This
+                method is only available in API version 22.0 or later.
 
 # focusPrimaryTabByName()
 
@@ -47,3 +52,38 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if going to the primary tab was successful; false if going to the primary tab wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.focusPrimaryTabByName(name:String, (optional)callback:Function)
+```
+
+```
+<apex:page standardController="Case">
+
+     <A HREF="#" onClick="testFocusPrimaryTabByName();return false">
+         Click here to go to a primary tab by name</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testFocusPrimaryTabByName() {
+            //Get the value for 'myPrimaryTab' from the openPrimaryTab method
+            //This value is for example purposes only
+            var primaryTabName = 'myPrimaryTab';
+            sforce.console.focusPrimaryTabByName(primaryTabName, focusSuccess);
+        }
+        
+        var focusSuccess = function focusSuccess(result) {
+            //Report whether going to the primary tab was successful
+            if (result.success == true) {
+                alert('Going to the primary tab was successful');
+            } else {
+                alert('Going to the Primary tab was not successful');
+            }
+        };
+        
+  </script>
+
+</apex:page>
+```

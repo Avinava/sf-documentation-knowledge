@@ -5,11 +5,14 @@ topic: omniprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.049Z
-keywords: [OmniProcess]
+lastCollected: 2026-03-12T05:14:54.101Z
+estimatedTokens: 65
+keywords: [OmniProcess, internal, only.]
 ---
 
 # OmniProcess
+
+> For internal use only.
 
 # OmniProcess
 

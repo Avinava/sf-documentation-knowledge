@@ -5,11 +5,14 @@ topic: connectapicommerceaddressinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.994Z
-keywords: [ConnectApi.CommerceAddressInput]
+lastCollected: 2026-03-12T05:14:24.649Z
+estimatedTokens: 444
+keywords: [ConnectApi.CommerceAddressInput, Commerce, address, input.]
 ---
 
 # ConnectApi.CommerceAddressInput
+
+> Commerce address input.
 
 # ConnectApi.CommerceAddressInput
 
@@ -33,3 +36,10 @@ Commerce address input.
 | region | String | The address state, specified using the ISO state code. For example, CA for California state. | Optional | 54.0 |
 | regionCode | String | The address state code. For example, CA for California state. | Optional | 54.0–58.0 |
 | street | String | The address street. | Optional | 54.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CommerceAddress​FieldInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_commerce_address_field.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

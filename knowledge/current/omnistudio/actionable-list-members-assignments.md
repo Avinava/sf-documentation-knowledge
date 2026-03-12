@@ -5,11 +5,15 @@ topic: actionable-list-members-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.934Z
-keywords: [Actionable, List, Members, Assignments]
+lastCollected: 2026-03-12T05:14:49.386Z
+estimatedTokens: 270
+keywords: [Actionable, List, Members, Assignments, Update, priority, OmniScript, key, update, assignee, Member, object.]
 ---
 
 # Actionable List Members Assignments
+
+> Update the priority and OmniScript key in the Actionable List object and update the
+    assignee in the Actionable List Member object.
 
 # Actionable List Members Assignments
 
@@ -58,3 +62,44 @@ Properties
 Response Body for POST
 
 [Assign Actionable List](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_assign_actionable_list.htm "Output representation of the actionable list assignment request.")
+
+## Code Examples
+
+```
+/connect/sales-excellence/actionable-list/assignment/${actionableListId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/sales-excellence/actionable-list/assignment/${actionableListId}
+```
+
+```
+{
+  "actionableListFields": {
+    "priority": "medium",
+    "omniScriptKey": "type/subtype/English",
+    "sortField": "Phone",
+    "sortOrder": "Ascending",
+    "isAutoAssignmentAllowed": true
+  },
+  "actionableListMemberFields": {
+    "assignee": {
+      "type": "User",
+      "name": "User1"
+    }
+  },
+  "autoAssignee": {
+    "type": "RecordOwner",
+    "name": "RecordOwnerName"
+  }
+}
+```
+
+## Related Topics
+
+- Actionable
+                        List Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_actionable_list_fields_input.htm)
+- Actionable List Member Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_actionable_list_member_fields_input.htm)
+- Auto Assignee Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_auto_assignee_input.htm)
+- Assign
+              Actionable List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_assign_actionable_list.htm)

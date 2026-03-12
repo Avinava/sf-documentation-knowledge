@@ -5,11 +5,15 @@ topic: connectapirecipientengagementcontextinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.608Z
-keywords: [ConnectApi.RecipientEngagementContextInput, See]
+lastCollected: 2026-03-12T05:14:25.605Z
+estimatedTokens: 166
+keywords: [ConnectApi.RecipientEngagementContextInput, Context, based, which, survey, invitation, sent, participant.]
 ---
 
 # ConnectApi.RecipientEngagementContextInput
+
+> Context based on which the survey invitation is sent to a
+      participant.
 
 # ConnectApi.RecipientEngagementContextInput
 
@@ -23,3 +27,9 @@ Context based on which the survey invitation is sent to a participant.
 #### See Also
 
 -   [ConnectApi.SurveyInvitationEmailInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_survey_email.htm "Survey invitation email.")
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.SurveyInvitationEmailInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_survey_email.htm)

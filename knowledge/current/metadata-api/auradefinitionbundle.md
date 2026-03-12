@@ -5,11 +5,17 @@ topic: auradefinitionbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.702Z
-keywords: [AuraDefinitionBundle, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.109Z
+estimatedTokens: 1111
+keywords: [AuraDefinitionBundle, Represents, Aura, definition, bundle., bundle, contains, such, component, its, related, resources, JavaScript, controller., application, event, tokens, collection., File, Suffix]
 ---
 
 # AuraDefinitionBundle
+
+> Represents an Aura definition bundle. A bundle contains an Aura
+      definition, such as an Aura component, and its related resources, such as a JavaScript
+      controller. The definition can be a component, application, event, interface, or a tokens
+      collection.
 
 # AuraDefinitionBundle
 
@@ -105,3 +111,59 @@ This package.xml references the definitions of all Lightning components that are
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+aura
+    bundle1
+        bundle1.cmp
+        bundle1Controller.js
+    bundle2
+        bundle2.app
+        bundle2Controller.js
+        bundle2.auradoc
+```
+
+```
+aura
+    sampleCmp
+        sampleCmp.cmp
+        sampleCmpController.js
+```
+
+```
+<aura:component>
+    <aura:attribute name="val1" type="String" default="Value"/>
+    <aura:attribute name="val2" type="String" />
+    <aura:handler name="init" value="{!this}" action="{!c.myAction}"/>
+        <ui:outputText value='Hello world!'/>
+        <ui:outputText value='{!v.val1}'/>
+        <ui:outputText value='{!v.val2}'/>
+</aura:component>
+```
+
+```
+({  
+  myAction : function(component) {
+    component.set('v.val1','Value1');
+    component.set('v.val2','Value2');
+  }
+})
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>sampleCmp</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- PackageVersion (atlas.en-us.api_meta.meta/api_meta/meta_classes.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

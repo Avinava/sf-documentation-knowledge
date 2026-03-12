@@ -5,11 +5,14 @@ topic: compliance-job-results-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.628Z
-keywords: [Compliance, Job, Results, GET]
+lastCollected: 2026-03-12T05:14:48.931Z
+estimatedTokens: 230
+keywords: [Compliance, Job, Results, GET, Get, compliance, job, results.]
 ---
 
 # Compliance Job Results (GET)
+
+> Get the compliance job results.
 
 # Compliance Job Results (GET)
 
@@ -51,3 +54,17 @@ Request parameters for GET
 Response body for GET
 
 [Compliance Job Status](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_job_status.htm "Output representation for the details of the compliance job.")
+
+## Code Examples
+
+```
+/connect/compliance/jobs/jobId
+```
+
+```
+https://yourInstance.salesforce.com/services/data/66.0/connect/compliance/jobs/YYx123456789012345
+```
+
+## Related Topics
+
+- Compliance Job Status (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_job_status.htm)

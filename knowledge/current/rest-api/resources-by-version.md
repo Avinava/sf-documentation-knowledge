@@ -5,11 +5,15 @@ topic: resources-by-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.350Z
-keywords: [Resources, Version, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.533Z
+estimatedTokens: 128
+keywords: [Resources, Version, Lists, resources, specified, API, version, including, resource, name, URI., Syntax, Example]
 ---
 
 # Resources by Version
+
+> Lists available resources for the specified API version, including resource name and
+  URI.
 
 # Resources by Version
 
@@ -40,3 +44,7 @@ none
 ## Example
 
 See [List Available REST Resources.](atlas.en-us.api_rest.meta/api_rest/dome_discoveryresource.htm "Use the *** resource to list the resources available for the specified API version. This provides the name and URI of each additional resource.")
+
+## Related Topics
+
+- List Available REST Resources. (atlas.en-us.api_rest.meta/api_rest/dome_discoveryresource.htm)

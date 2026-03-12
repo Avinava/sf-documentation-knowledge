@@ -5,11 +5,20 @@ topic: deleting-components-from-an-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.844Z
-keywords: [Deleting, Components, Organization, Deployment, Note, Adding, Single]
+lastCollected: 2026-03-12T05:14:38.700Z
+estimatedTokens: 1124
+keywords: [Deleting, Components, Organization, delete, components, perform, deployment, deploy, call, destructive, changes, manifest, file, lists, remove, organization., only, deletes, adds, components.]
 ---
 
 # Deleting Components from an Organization
+
+> To delete components, perform a deployment with the deploy() call by using a destructive changes manifest file that lists the
+        components to remove from your organization. You can perform a deployment that only deletes
+        components, or a deployment that deletes and adds components. In API version 33.0 and later,
+        you can specify components to delete before and after other components are added or updated.
+        In earlier API versions, if deletions and additions are specified for the same deployment,
+        the deploy() call performs the deletions
+        first.
 
 # Deleting Components from an Organization
 
@@ -79,3 +88,48 @@ When deleting Apex classes or triggers, Salesforce recommends that as part of th
 The API version that the deployment uses is the API version that’s specified in package.xml.
 
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm "checkDeployStatus()")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyCustomObject__c</members>
+        <name>CustomObject</name>
+    </types>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SampleClass</members>
+        <name>ApexClass</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyCustomObject__c</members>
+        <name>CustomObject</name>
+    </types>
+</Package>
+```
+
+## Related Topics
+
+- purgeOnDelete (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_checkdeploystatus.htm)

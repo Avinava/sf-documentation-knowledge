@@ -5,11 +5,16 @@ topic: connectapireturnorderlineiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.550Z
-keywords: [ConnectApi.ReturnOrderLineItemInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.517Z
+estimatedTokens: 481
+keywords: [ConnectApi.ReturnOrderLineItemInputRepresentation, Data, creating, ReturnOrderLineItem, order, item, being, returned, including, data, create, ReturnOrderLineItems, representing, any, fees, associated, it.]
 ---
 
 # ConnectApi.ReturnOrderLineItemInputRepresentation
+
+> Data for creating a ReturnOrderLineItem for an order item being
+      returned, including data to create ReturnOrderLineItems representing any return fees
+      associated with it.
 
 # ConnectApi.ReturnOrderLineItemInputRepresentation
 
@@ -27,5 +32,15 @@ Data for creating a ReturnOrderLineItem for an order item being returned, includ
 #### See Also
 
 -   [ConnectApi.ReturnOrderInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order.htm "Data for creating a ReturnOrder and ReturnOrderLineItems.")
-    
+
 -   [createReturnOrder(returnOrderInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm#apex_ConnectAPI_ReturnOrder_createReturnOrder_1 "Create a ReturnOrder and ReturnOrderLineItems for items belonging to an OrderSummary.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ReturnOrder​LineItemFee​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order_line_item_fee.htm)
+- ConnectApi.ReturnOrderInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order.htm)
+- createReturnOrder(returnOrderInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm)

@@ -5,11 +5,15 @@ topic: calculatetaxtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.481Z
-keywords: [CalculateTaxType, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.633Z
+estimatedTokens: 278
+keywords: [CalculateTaxType, Shows, whether, tax, calculation, request, estimated, actual, tax., Usage, Values]
 ---
 
 # CalculateTaxType Enum
+
+> Shows whether a tax calculation request is for estimated or actual
+      tax.
 
 # CalculateTaxType Enum
 
@@ -27,3 +31,8 @@ The commercetax.CalculateTaxType enum includes these values.
 | --- | --- |
 | Actual | Specifies that the tax calculation service should calculate the finalized (actual) tax for the requested line items. |
 | Estimated | Specifies that the tax calculation service should estimate the tax for the requested line items. |
+
+## Related Topics
+
+- CalculateTaxRequest (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_CalculateTaxRequest.htm)
+- CalculateTaxResponse (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_CalculateTaxResponse.htm)

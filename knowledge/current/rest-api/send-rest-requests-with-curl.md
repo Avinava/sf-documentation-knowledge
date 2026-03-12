@@ -5,11 +5,16 @@ topic: send-rest-requests-with-curl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.074Z
-keywords: [Send, REST, Requests, cURL, Note, Attaching, Request, Bodies, Handling, Exclamation, Marks, Access, Tokens, See]
+lastCollected: 2026-03-12T05:14:35.162Z
+estimatedTokens: 462
+keywords: [Send, REST, Requests, cURL, examples, guide, tool, send, HTTP, requests, access, create, manipulate, resources, Salesforce., different, same, elements, requests., Note]
 ---
 
 # Send REST Requests with cURL
+
+> The examples in this guide use the cURL tool to send HTTP requests that access,
+        create, and manipulate resources in Salesforce. If you use a different tool to send
+        requests, you can use the same elements from the cURL examples to send requests.
 
 # Send REST Requests with cURL
 
@@ -52,3 +57,17 @@ Or, you can enclose the access token within single quotes.
 #### See Also
 
 -   [Setting Up Your Java Developer Environment](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm)
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/ -H "Authorization: Bearer access-token" -H “Content-Type: application/json” —data-binary @new-account.json -X POST
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H "Authorization: Bearer <SALESFORCE_ACCESS_TOKEN>"
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H 'Authorization: Bearer <SALESFORCE_ACCESS_TOKEN>'
+```

@@ -5,11 +5,17 @@ topic: deprecate-managed-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.311Z
-keywords: [Deprecate, Managed, Apex, Note, See]
+lastCollected: 2026-03-12T05:14:33.643Z
+estimatedTokens: 481
+keywords: [Deprecate, Managed, Apex, @Deprecated, annotation, specify, identifiers, subscribers, longer, reference, subsequent, releases, managed, package., Deprecation, useful, you’re, refactoring, code, packages]
 ---
 
 # Deprecate Managed Apex
+
+> Use the @Deprecated annotation to specify Apex
+  identifiers that can subscribers can no longer reference in subsequent releases of the managed
+  package. Deprecation is useful when you’re refactoring code in managed packages as the
+  requirements evolve.
 
 # Deprecate Managed Apex
 
@@ -28,3 +34,7 @@ You can use Managed — Beta package versions for evaluation and feedback with a
 #### See Also
 
 -   [Best Practices for Using Global Apex in Managed Packages](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm "As an independent software vendor (ISV) developer, understand when and how to use global Apex in managed packages. Learn design patterns that maximize flexibility and comply with the strict manageability rules applied to global Apex after your managed package’s release. By following these best practices, you can improve the stability and maintainability of your API.")
+
+## Related Topics
+
+- Best Practices for Using Global Apex in Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)

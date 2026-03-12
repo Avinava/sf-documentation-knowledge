@@ -5,11 +5,16 @@ topic: connectapiactionlinkgroupdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.720Z
-keywords: [ConnectApi.ActionLinkGroupDefinitionInput, See]
+lastCollected: 2026-03-12T05:14:24.224Z
+estimatedTokens: 1243
+keywords: [ConnectApi.ActionLinkGroupDefinitionInput, definition, action, link, group., links, must, belong, Action, group, mutually, exclusive, share, properties., Define, standalone, actions, their, own]
 ---
 
 # ConnectApi.ActionLinkGroupDefinitionInput
+
+> The definition of an action link group. All action links must belong
+      to a group. Action links in a group are mutually exclusive and share some properties. Define
+      standalone actions in their own action group.
 
 # ConnectApi.ActionLinkGroupDefinitionInput
 
@@ -29,7 +34,18 @@ Action link definition can be sensitive to a third party (for example, OAuth bea
 #### See Also
 
 -   [Define an Action Link and Post with a Feed Element](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_define_post_action_link.htm "Define an Action Link and Post with a Feed Element - HTML (New Window)")
-    
+
 -   [Define an Action Link in a Template and Post with a Feed Element](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_define_post_action_link_template.htm "Define an Action Link in a Template and Post with a Feed Element - HTML (New Window)")
-    
+
 -   [createActionLinkGroupDefinition​(communityId, actionLinkGroup)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ActionLinks_static_methods.htm#apex_ConnectAPI_ActionLinks_createActionLinkGroupDefinition_1 "Create an action link group definition. To associate an action link group with a feed element, first create an action link group definition. Then post a feed element with an associated actions capability.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ActionLink​DefinitionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_link_definition.htm)
+- ConnectApi.​PlatformAction​GroupCategory (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​ActionLink​ExecutionsAllowed (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.ActionLinkTemplateBindingInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_link_template_binding.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createActionLinkGroupDefinition​(communityId, actionLinkGroup) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ActionLinks_static_methods.htm)

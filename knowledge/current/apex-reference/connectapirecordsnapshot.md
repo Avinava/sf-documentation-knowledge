@@ -5,11 +5,14 @@ topic: connectapirecordsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.892Z
-keywords: [ConnectApi.RecordSnapshot, See]
+lastCollected: 2026-03-12T05:14:28.825Z
+estimatedTokens: 123
+keywords: [ConnectApi.RecordSnapshot, record, snapshot, recommendation, reaction.]
 ---
 
 # ConnectApi.RecordSnapshot
+
+> A record snapshot in a recommendation reaction.
 
 # ConnectApi.RecordSnapshot
 
@@ -23,3 +26,8 @@ A record snapshot in a recommendation reaction.
 #### See Also
 
 -   [ConnectApi.RecommendationReaction](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_reaction.htm "A reaction to a recommendation produced by a recommendation strategy")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.RecommendationReaction (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_reaction.htm)

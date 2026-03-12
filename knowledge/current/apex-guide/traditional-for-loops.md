@@ -5,7 +5,8 @@ topic: traditional-for-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.164Z
+lastCollected: 2026-03-12T05:14:34.838Z
+estimatedTokens: 196
 keywords: [Traditional, Loops]
 ---
 
@@ -31,4 +32,18 @@ As an example, the following code outputs the numbers 1 - 10 into the debug log.
 
 ```
 
+```
+
+## Code Examples
+
+```
+for (init_stmt; exit_condition; increment_stmt) {
+    code_block
+}
+```
+
+```apex
+for (Integer i = 0, j = 0; i < 10; i++) {
+    System.debug(i+1);
+}
 ```

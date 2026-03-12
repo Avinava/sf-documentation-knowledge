@@ -5,11 +5,19 @@ topic: standardfiltertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.515Z
-keywords: [StandardFilterType, Enum, Namespace, Values]
+lastCollected: 2026-03-12T05:14:29.682Z
+estimatedTokens: 151
+namespace: Reports
+keywords: [StandardFilterType, describes, standard, filters, report., getType, Reports.StandardFilterType, value., Values]
 ---
 
 # StandardFilterType Enum
+
+> The StandardFilterType enum describes the type of
+    standard filters in a report. The getType() method returns
+    a Reports.StandardFilterType enum value.
+
+**Namespace:** `Reports`
 
 # StandardFilterType Enum
 
@@ -27,3 +35,7 @@ The following are the values of the Reports.StandardFilterType enum.
 | --- | --- |
 | PICKLIST | Values for the standard filter type. |
 | STRING | String values. |
+
+## Related Topics
+
+- Reports (atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm)

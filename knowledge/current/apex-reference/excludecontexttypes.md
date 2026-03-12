@@ -5,11 +5,15 @@ topic: excludecontexttypes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.103Z
-keywords: [excludeContextTypes, Signature, Return, Value, Usage, Example, See]
+lastCollected: 2026-03-12T05:14:19.329Z
+estimatedTokens: 562
+keywords: [excludeContextTypes, Lets, implementation, exclude, parts, CanvasRequest, context, application, does, need, it., Usage, Example]
 ---
 
 # excludeContextTypes()
+
+> Lets the implementation exclude parts of the CanvasRequest
+            context, if the application does not need it.
 
 # excludeContextTypes()
 
@@ -51,3 +55,8 @@ This example implementation specifies that the organization information will be 
 
 -   [*Canvas Developer Guide*: Filtering CanvasRequest Context Data](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_connect.meta/platform_connect/canvas_filtering_context_data.htm "Canvas Developer Guide: Filtering CanvasRequest Context
     Data - HTML (New Window)")
+
+## Related Topics
+
+- Canvas.ContextTypeEnum (atlas.en-us.apexref.meta/apexref/apex_enum_canvas_ContextTypeEnum.htm)
+- ContextTypeEnum (atlas.en-us.apexref.meta/apexref/apex_enum_canvas_ContextTypeEnum.htm)

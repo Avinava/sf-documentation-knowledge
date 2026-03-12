@@ -5,11 +5,17 @@ topic: commerce-process-exception-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.922Z
-keywords: [Commerce, Process, Exception, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.252Z
+estimatedTokens: 375
+keywords: [Commerce, Process, Exception, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., events, related]
 ---
 
 # Commerce: Process Exception Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Process Exception data is about events related to
+         a business process or data that affects normal order processing. Errors in programs or
+         communication aren’t process exceptions, but can cause process exceptions.
 
 # Commerce: Process Exception Mapping
 

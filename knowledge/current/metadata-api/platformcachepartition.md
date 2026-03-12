@@ -5,11 +5,15 @@ topic: platformcachepartition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.965Z
-keywords: [PlatformCachePartition, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, PlatformCachePartitionType, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.753Z
+estimatedTokens: 881
+keywords: [PlatformCachePartition, Represents, partition, Platform, Cache., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # PlatformCachePartition
+
+> Represents a partition in the Platform Cache. This type extends 
+    the Metadata metadata type and inherits its fullName field.
 
 # PlatformCachePartition
 
@@ -83,3 +87,55 @@ To retrieve all cache partitions from your organization, use the wildcard charac
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformCachePartition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Custom partition and marked as default.</description>
+    <isDefaultPartition>true</isDefaultPartition>
+    <masterLabel>myPartition</masterLabel>
+    <platformCachePartitionTypes>
+   ​​     <​allocatedCapacity>10</​allocatedCapacity>
+​​        <​​allo​ca​tedPurchasedCapacity>5</​​allo​ca​tedPurchasedCapacity>
+        <cacheType>Session</cacheType>
+    </platformCachePartitionTypes>
+    <platformCachePartitionTypes>
+    ​​    <​allocatedCapacity>5</​allocatedCapacity>
+​​        <​​allo​ca​tedPurchasedCapacity>5</​​allo​ca​tedPurchasedCapacity>
+        <cacheType>Organization</cacheType>
+    </platformCachePartitionTypes>​
+</PlatformCachePartition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>myPartition</members>
+        <name>PlatformCachePartition</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<members>Namespace.myPartition</members>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>PlatformCachePartition</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

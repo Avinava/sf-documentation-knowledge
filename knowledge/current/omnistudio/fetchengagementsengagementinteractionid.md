@@ -5,11 +5,14 @@ topic: fetchengagementsengagementinteractionid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.543Z
-keywords: [fetchEngagements, engagementInteractionId, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Example]
+lastCollected: 2026-03-12T05:14:47.404Z
+estimatedTokens: 171
+keywords: [fetchEngagements, engagementInteractionId, Get, engagement, interaction, record., API, Version, Requires, Chatter, Example]
 ---
 
 # fetchEngagements(engagementInteractionId)
+
+> Get an engagement interaction record.
 
 # fetchEngagements(engagementInteractionId)
 
@@ -44,3 +47,13 @@ Type: [ConnectApi.EngagementInteractionFetchOutput](atlas.en-us.industries_refer
 ```
 
 ```
+
+## Code Examples
+
+```
+ConnectApi.EngagementInteractionFetchOutput  output = ConnectApi.EngagementContainerConnect.fetchEngagements('<EngagementInteractionId>');
+```
+
+## Related Topics
+
+- ConnectApi.EngagementInteractionFetchOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_engagement_interaction_fetch_output.htm)

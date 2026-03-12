@@ -5,11 +5,15 @@ topic: create-records-using-specific-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.709Z
-keywords: [Create, Records, Specific, sObject, Quick, Actions, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.063Z
+estimatedTokens: 206
+keywords: [Create, Records, Specific, sObject, Quick, Actions, Creates, record, via, specified, quick, action, based, field, values, included, request, body., resource, REST]
 ---
 
 # Create Records Using Specific sObject Quick Actions
+
+> Creates a record via the specified quick action based on the field values included in the
+  request body. This resource is available in REST API version 28.0 and later.
 
 # Create Records Using Specific sObject Quick Actions
 
@@ -52,3 +56,22 @@ Example Request Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl -X POST https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/quickActions/CreateContact -H 'Authorization: Bearer token -H "Content-Type: application/json" -d @newcontact.json'
+```
+
+```
+{
+
+   "contextId" : "001D000000JRSGf",
+   "record" : { "LastName" : "Smith" }
+
+}
+```
+
+## Related Topics
+
+- Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_quickactions.htm)

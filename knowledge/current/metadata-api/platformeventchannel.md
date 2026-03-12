@@ -5,11 +5,17 @@ topic: platformeventchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.976Z
-keywords: [PlatformEventChannel, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, PlatformEventChannelSelectedEntity, Note, Usage, Declarative, Metadata, Sample, Definition, Custom, Channel, Wildcard]
+lastCollected: 2026-03-12T05:14:41.769Z
+estimatedTokens: 1890
+keywords: [PlatformEventChannel, Represents, channel, subscribe, order, receive, stream, events., API, version, 46.0, earlier, default, standard, change, data, capture, 47.0, later, custom]
 ---
 
 # PlatformEventChannel
+
+> Represents a channel that you can subscribe to in order
+            to receive a stream of events. In API version 46.0 and earlier, it is the default
+            standard channel for change data capture events. In API version 47.0 and later, it is a
+            custom channel for change data capture events.
 
 # PlatformEventChannel
 
@@ -118,9 +124,70 @@ For an example of a custom channel that holds custom platform events and Real-Ti
 
 -   [*Change Data Capture Developer Guide*: Subscription Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_subscribe_channels.htm "Change Data Capture Developer Guide: Subscription
     Channels - HTML (New Window)")
-    
+
 -   [*Change Data Capture Developer Guide*: Compose Streams of Change Data Capture Notifications with Custom Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_custom_channel.htm "Change Data Capture Developer Guide: Compose
     Streams of Change Data Capture Notifications with Custom
     Channels - HTML (New Window)")
-    
+
 -   [PlatformEventChannelMember](atlas.en-us.api_meta.meta/api_meta/meta_platformeventchannelmember.htm "Represents an entity selected for Change Data Capture notifications on a standard or custom channel, or a platform event selected on a custom channel.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <channelType>data</channelType>
+    <label>Custom Channel for Sales Events</label>
+</PlatformEventChannel>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SalesEvents__chn</members>
+        <name>PlatformEventChannel</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>PlatformEventChannel</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <channelMembers>
+        <selectedEntity>AccountChangeEvent</selectedEntity>
+    </channelMembers>
+    <channelMembers>
+        <selectedEntity>ContactChangeEvent</selectedEntity>
+    </channelMembers>
+    <channelType>data</channelType>
+    <label>Sales Events</label>
+</PlatformEventChannel>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <channelType>data</channelType>
+    <label>SalesEvents__chn</label>
+</PlatformEventChannel>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- deleteMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm)
+- PlatformEventChannelMember (atlas.en-us.api_meta.meta/api_meta/meta_platformeventchannelmember.htm)

@@ -5,11 +5,14 @@ topic: service-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.993Z
-keywords: [Service, Process]
+lastCollected: 2026-03-12T05:14:49.483Z
+estimatedTokens: 334
+keywords: [Service, Process, Create, service, process.]
 ---
 
 # Service Process
+
+> Create a service process.
 
 # Service Process
 
@@ -59,3 +62,81 @@ Request parameters for POST
 Response body for POST
 
 [Service Process Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_service_process2.htm "Output for creating a service process.")
+
+## Code Examples
+
+```
+/connect/service-excellence/service-catalog-request
+```
+
+```
+{
+  "attributes": {
+    "data": {
+      "IncidentDate": {
+        "value": "2023-03-10"
+      },
+      "ProductType": {
+        "value": "ATM / debit card"
+      },
+      "CaseParticipantInfo": {
+        "value": [
+          {
+            "Participant": "003xx000004WhGKAA0",
+            "Status": "Active",
+            "age_of_participant": 30
+          },
+          {
+            "Participant": "003xx000004WhGdAAK",
+            "Status": "Active",
+            "age_of_participant": 20
+          }
+        ]
+      },
+      "accountInfo": {
+        "value": [
+          {
+            "accountId": "001B000001UZDhOIAX",
+            "accountName": "Rachael Adams"
+          },
+          {
+            "accountId": "001B000001Ua331IAB",
+            "accountName": "Robert Williams"
+          }
+        ]
+      },
+      "case_status": {
+        "value": "Active"
+      },
+      "case_description": {
+        "value": "Sample test"
+      },
+      "base_field": {
+        "value": "Value on base field"
+      },
+      "cities": {
+        "value": [
+          "Delhi",
+          "Hyderabad"
+        ]
+      }
+    }
+  },
+  "documentInfo": {
+    "data": [
+      {
+        "id": "069xx0000004C92AAE",
+        "name": "Addhar",
+        "typeId": "2F0dexx0000000001"
+      }
+    ]
+  },
+  "svcCatalogItemDefApiName": "fsc_complaint_management"
+}
+```
+
+## Related Topics
+
+- Generic Object (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_generic_object.htm)
+- Document Info Attributes (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_service_process_doc_info_input.htm)
+- Service Process Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_service_process2.htm)

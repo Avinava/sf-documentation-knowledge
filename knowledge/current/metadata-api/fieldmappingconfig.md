@@ -5,11 +5,16 @@ topic: fieldmappingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.445Z
-keywords: [FieldMappingConfig, Important, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:44.111Z
+estimatedTokens: 796
+keywords: [FieldMappingConfig, Represents, configuration, fields, mapped, between, source, destination, objects, fields., API, version, 63.0, later., Important, Supported, Calls, Special, Access, Rules]
 ---
 
 # FieldMappingConfig
+
+> Represents the configuration for fields mapped between a source object and
+         one or more destination objects and fields.  This object is available in API version
+      63.0 and later.
 
 # FieldMappingConfig
 
@@ -19,7 +24,7 @@ Represents the configuration for fields mapped between a source object and one o
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

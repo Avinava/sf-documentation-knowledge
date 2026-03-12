@@ -5,11 +5,17 @@ topic: namespaceaccessible-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.469Z
-keywords: [NamespaceAccessible, Annotation, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.447Z
+estimatedTokens: 902
+keywords: [NamespaceAccessible, Annotation, @NamespaceAccessible, makes, Apex, package, packages, same, namespace., Without, annotation, classes, interfaces, abstract, defined, 2GP, aren’t, accessible, Versioned, Behavior]
 ---
 
 # NamespaceAccessible Annotation Annotation
+
+> The @NamespaceAccessible makes public Apex in a
+            package available to other packages that use the same namespace. Without this
+            annotation, Apex classes, methods, interfaces, properties, and abstract classes defined
+            in a 2GP package aren’t accessible to the other pa
 
 # NamespaceAccessible Annotation Annotation
 
@@ -52,3 +58,65 @@ In API version 50.0 and later, scope and accessibility rules are enforced on Ape
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_JsonAccess.htm "JsonAccess Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm "ReadOnly Annotation Annotation")
+
+## Code Examples
+
+```apex
+// A namespace-visible Apex class
+@NamespaceAccessible
+public class MyClass {
+    private Boolean bypassFLS;
+
+    // A namespace-visible constructor that only allows secure use
+    @NamespaceAccessible
+    public MyClass() {
+        bypassFLS = false;
+    }
+
+    // A package private constructor that allows use in trusted contexts,
+    // but only internal to the package
+    public MyClass (Boolean bypassFLS) {
+        this.bypassFLS = bypassFLS;
+    }
+    @NamespaceAccessible
+    protected Boolean getBypassFLS() {
+       return bypassFLS;
+    }
+}
+```
+
+```apex
+// In Package1 in the Acme namespace
+public with sharing class MyController {
+    // Stacking these annotations isn't allowed
+    @AuraEnabled
+    @NamespaceAccessible
+    public static void myMethod( ){
+        // ...
+    }
+}
+```
+
+```apex
+// In Package1 in the Acme namespace
+public with sharing class Service {
+    @NamespaceAccessible
+    public static void doSomething() {
+        // ...
+    }
+}
+
+// In Package2 in the Acme namespace
+public with sharing class MyController {
+    // Can call the @NamespaceAccessible method
+    @AuraEnabled
+    public static void myMethod( ){
+        Service.doSomething();
+    }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_JsonAccess.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm)

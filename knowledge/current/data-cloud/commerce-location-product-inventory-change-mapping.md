@@ -5,11 +5,16 @@ topic: commerce-location-product-inventory-change-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.782Z
-keywords: [Commerce, Location, Product, Inventory, Change, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:14.602Z
+estimatedTokens: 422
+keywords: [Commerce, Location, Product, Inventory, Change, Mapping, Omnichannel, connector, Data, Cloud, automatically, maps, data, source, objects, model, DMO, establishes, relationships., represents]
 ---
 
 # Commerce: Location Product Inventory Change Mapping
+
+> The Omnichannel Inventory connector for Data Cloud automatically maps the data source
+  objects to the data model objects (DMO) and establishes DMO relationships. The Location Product
+  Inventory Change object represents a change to product inventory at a location.
 
 # Commerce: Location Product Inventory Change Mapping
 

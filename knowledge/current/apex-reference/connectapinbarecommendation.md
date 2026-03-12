@@ -5,11 +5,15 @@ topic: connectapinbarecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.333Z
-keywords: [ConnectApi.NBARecommendation, See]
+lastCollected: 2026-03-12T05:14:28.046Z
+estimatedTokens: 303
+keywords: [ConnectApi.NBARecommendation, recommendation, returned, strategy.]
 ---
 
 # ConnectApi.NBARecommendation
+
+> A recommendation returned by a recommendation
+    strategy.
 
 # ConnectApi.NBARecommendation
 
@@ -31,3 +35,11 @@ A recommendation returned by a recommendation strategy.
 #### See Also
 
 -   [ConnectApi.NBARecommendations](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_recommendations.htm "Recommendations returned by a recommendation strategy.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- ConnectApi.​AbstractNBATarget (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_n_b_a_target.htm)
+- ConnectApi.​AbstractNBAAction (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_n_b_a_action.htm)
+- ConnectApi.NBARecommendations (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_recommendations.htm)

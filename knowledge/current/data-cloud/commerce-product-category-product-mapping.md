@@ -5,11 +5,17 @@ topic: commerce-product-category-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.932Z
-keywords: [Commerce, Product, Category, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.269Z
+estimatedTokens: 232
+keywords: [Commerce, Product, Category, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., assignment, product]
 ---
 
 # Commerce: Product Category Product Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Product Category Product data is the assignment of
+         a product to categories. For example, ShoeXYZ is assigned to the Shoes and Running
+         categories.
 
 # Commerce: Product Category Product Mapping
 

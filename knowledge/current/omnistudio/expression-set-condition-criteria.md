@@ -5,11 +5,15 @@ topic: expression-set-condition-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.462Z
-keywords: [Expression, Set, Condition, Criteria]
+lastCollected: 2026-03-12T05:14:50.192Z
+estimatedTokens: 226
+keywords: [Expression, Set, Condition, Criteria, Output, representation, condition, criteria, expression, set.]
 ---
 
 # Expression Set Condition Criteria
+
+> Output representation of a condition criteria in an expression
+      set.
 
 # Expression Set Condition Criteria
 

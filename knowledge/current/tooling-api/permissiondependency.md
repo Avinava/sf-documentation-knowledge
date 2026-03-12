@@ -5,11 +5,16 @@ topic: permissiondependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.465Z
-keywords: [PermissionDependency, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.377Z
+estimatedTokens: 334
+keywords: [PermissionDependency, Represents, permission, dependencies, specified, permission., example, child, Modify, Data, Tooling, API, version, 46.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # PermissionDependency
+
+> Represents permission dependencies for a specified permission. For
+            example, return all child dependencies for the Modify All Data permission.
+        Available in Tooling API version 46.0 and later.
 
 # PermissionDependency
 

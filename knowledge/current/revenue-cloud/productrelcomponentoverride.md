@@ -5,11 +5,15 @@ topic: productrelcomponentoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.717Z
-keywords: [ProductRelComponentOverride, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:11.219Z
+estimatedTokens: 1291
+keywords: [ProductRelComponentOverride, Represents, cardinality, overrides, product, components, bundle., API, version, 60.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # ProductRelComponentOverride
+
+> Represents the cardinality overrides for product components in a bundle.
+      This object is available in API version 60.0 and later.
 
 # ProductRelComponentOverride
 
@@ -58,3 +62,9 @@ History is available for tracked fields of the object.
 [ProductRelComponentOverrideShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ProductRelComponentOverrideFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- ProductRelComponentOverrideHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- ProductRelComponentOverrideShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

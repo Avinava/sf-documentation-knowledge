@@ -5,11 +5,15 @@ topic: extlclntappconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.525Z
-keywords: [ExtlClntAppConfigurablePolicies, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.706Z
+estimatedTokens: 935
+keywords: [ExtlClntAppConfigurablePolicies, Represents, policies, external, client, app, disable, enable, plugins., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
 ---
 
 # ExtlClntAppConfigurablePolicies
+
+> Represents the policies for an external client
+			app to disable or enable plugins.
 
 # ExtlClntAppConfigurablePolicies
 
@@ -64,3 +68,54 @@ This example package.xml references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalClientApplication>myeca</externalClientApplication>
+    <isEnabled>true</isEnabled>
+....<isCanvasPluginEnabled>true</isCanvasPluginEnabled>
+    <isMobilePluginEnabled>true</isMobilePluginEnabled>
+    <isNotificationPluginEnabled>true</isNotificationPluginEnabled>    
+    <isOauthPluginEnabled>true</isOauthPluginEnabled>
+    <isPushPluginEnabled>true</isPushPluginEnabled>
+    <isSamlPluginEnabled>true</isSamlPluginEnabled>
+    <label>myecapolicy</label>
+    <startPage>OAuth</startPage>
+    <startUrl>https://example.org</startUrl>
+</ExtlClntAppConfigurablePolicies>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppGlobalOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppConfigurablePolicies</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

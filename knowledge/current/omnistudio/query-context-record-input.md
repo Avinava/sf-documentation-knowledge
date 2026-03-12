@@ -5,11 +5,14 @@ topic: query-context-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.465Z
-keywords: [Query, Context, Record, Input]
+lastCollected: 2026-03-12T05:14:48.695Z
+estimatedTokens: 137
+keywords: [Query, Context, Record, Input, representation, query, context, record.]
 ---
 
 # Query Context Record Input
+
+> Input representation of query context record.
 
 # Query Context Record Input
 
@@ -29,3 +32,11 @@ Properties
 | businessObjectTypeFilter | String | Filter based on a business object type. | Optional | 58.0 |
 | contextId | String | The ID of the context to be queried. | Required | 58.0 |
 | queryPath | String[] | Path to the parent node. | Optional | 58.0 |
+
+## Code Examples
+
+```
+{
+  "contextId": "7bc695bc-f38b-4a94-8a95-0caa50f3da53"
+}
+```

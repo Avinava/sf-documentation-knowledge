@@ -5,11 +5,16 @@ topic: cnfgitemattrpicklistdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:17.974Z
-keywords: [CnfgItemAttrPicklistDef, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.543Z
+estimatedTokens: 560
+keywords: [CnfgItemAttrPicklistDef, Represents, definition, configuration, item, attribute, allows, multiple, possible, values., example, Business, Criticality, API, version, 65.0, later., Supported, SOAP, Calls]
 ---
 
 # CnfgItemAttrPicklistDef
+
+> Represents a definition for a configuration item attribute that allows
+         multiple possible values. For example, the attribute Business Criticality can have multiple
+         values. This object is available in API version 65.0 and later.
 
 # CnfgItemAttrPicklistDef
 

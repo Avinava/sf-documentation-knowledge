@@ -5,11 +5,15 @@ topic: connectapirangerefinementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.495Z
-keywords: [ConnectApi.RangeRefinementInput]
+lastCollected: 2026-03-12T05:14:25.434Z
+estimatedTokens: 182
+keywords: [ConnectApi.RangeRefinementInput, Attribute-based, refinement, minimum, maximum, numeric, values, product, search.]
 ---
 
 # ConnectApi.RangeRefinementInput
+
+> Attribute-based refinement with minimum or maximum numeric values for product
+    search.
 
 # ConnectApi.RangeRefinementInput
 
@@ -22,3 +26,7 @@ Attribute-based refinement with minimum or maximum numeric values for product se
 | min | String | Minimum value for range refinement. | Required if max isn't specified | 64.0 |
 | nameOrId | String | Developer name of the attribute for the refinement. | Required | 64.0 |
 | type | String | Type of the refinement. Values is:Range | Required | 64.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

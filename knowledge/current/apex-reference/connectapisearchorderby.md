@@ -5,11 +5,14 @@ topic: connectapisearchorderby
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.386Z
-keywords: [ConnectApi.SearchOrderBy, See]
+lastCollected: 2026-03-12T05:14:25.267Z
+estimatedTokens: 182
+keywords: [ConnectApi.SearchOrderBy, Order, search.]
 ---
 
 # ConnectApi.SearchOrderBy
+
+> Order by parameter for object search.
 
 # ConnectApi.SearchOrderBy
 
@@ -24,3 +27,10 @@ Order by parameter for object search.
 #### See Also
 
 -   [ConnectApi.SearchRequest](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_search_reques.htm "Search request input for searching an object.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​SearchOrder (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​OrderNulls (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.SearchRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_search_reques.htm)

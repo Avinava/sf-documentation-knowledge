@@ -5,11 +5,16 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.637Z
-keywords: [Dashboard, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Dashboards, Version, Fields, DashboardFilter, DashboardFilterOption, DashboardGridLayout, DashboardGridComponent, DashboardComponent, DashboardComponentContent, DashboardDynamicValue, DashboardFilterColumn, DashboardTableColumn]
+lastCollected: 2026-03-12T05:14:38.407Z
+estimatedTokens: 7034
+keywords: [Dashboard, Represents, dashboard., Dashboards, visual, representations, data, allow, key, metrics, performance, glance., Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Version]
 ---
 
 # Dashboard
+
+> Represents a dashboard. Dashboards are visual
+            representations of data that allow you to see key metrics and performance at a
+            glance.
 
 # Dashboard
 
@@ -309,5 +314,447 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [Folder](atlas.en-us.api_meta.meta/api_meta/meta_folder.htm "Represents a folder. This type extends the Metadata metadata type and inherits its fullName field.")
-    
+
 -   [Report](atlas.en-us.api_meta.meta/api_meta/meta_report.htm "Represents a custom report. This metadata type only supports custom reports; standard reports aren’t supported.")
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyDBFolder/MyDBName</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>MyDocumentFolder/MyDocumentName</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SalesNewCustomerEmail</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>MyReportFolder/MyReportName</members>
+        <name>Report</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Dashboard xmlns="http://soap.sforce.com/2006/04/metadata">
+    <backgroundEndColor>#FFFFFF</backgroundEndColor>
+    <backgroundFadeDirection>Diagonal</backgroundFadeDirection>
+    <backgroundStartColor>#FFFFFF</backgroundStartColor>
+    <dashboardFilters>
+        <dashboardFilterOptions>
+            <operator>equals</operator>
+            <values>Media</values>
+        </dashboardFilterOptions>
+        <dashboardFilterOptions>
+            <operator>lessThan</operator>
+            <values>Working</values>
+        </dashboardFilterOptions>
+        <dashboardFilterOptions>
+            <operator>between</operator>
+            <values>ABC</values>
+            <values>XYZ</values>
+        </dashboardFilterOptions>
+        <name>Industry</name>
+    </dashboardFilters>
+    <dashboardFilters>
+        <dashboardFilterOptions>
+            <operator>equals</operator>
+            <values>Analyst,Partner</values>
+        </dashboardFilterOptions>
+        <dashboardFilterOptions>
+            <operator>startsWith</operator>
+            <values>Integrator</values>
+        </dashboardFilterOptions>
+        <name>Account Type</name>
+    </dashboardFilters>
+    <dashboardType>SpecifiedUser</dashboardType>
+    <leftSection>
+        <columnSize>Medium</columnSize>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Bar</componentType>
+            <dashboardFilterColumns>
+                <column>INDUSTRY</column>
+            </dashboardFilterColumns>
+            <dashboardFilterColumns>
+                <column>TYPE</column>
+            </dashboardFilterColumns>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>false</drillEnabled>
+            <drillToDetailEnabled>false</drillToDetailEnabled>
+            <enableHover>false</enableHover>
+            <expandOthers>false</expandOthers>
+            <legendPosition>Bottom</legendPosition>
+            <report>unfiled$public/SampleReportofAccounts</report>
+            <showPercentage>false</showPercentage>
+            <showPicturesOnCharts>false</showPicturesOnCharts>
+            <showValues>false</showValues>
+            <sortBy>RowLabelAscending</sortBy>
+            <useReportChart>false</useReportChart>
+        </components>
+    </leftSection>
+    <middleSection>
+        <columnSize>Medium</columnSize>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Funnel</componentType>
+            <dashboardFilterColumns>
+                <column>ACCOUNT_INDUSTRY</column>
+            </dashboardFilterColumns>
+            <dashboardFilterColumns>
+                <column>ACCOUNT.TYPE</column>
+            </dashboardFilterColumns>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>false</drillEnabled>
+            <drillToDetailEnabled>false</drillToDetailEnabled>
+            <enableHover>false</enableHover>
+            <expandOthers>false</expandOthers>
+            <legendPosition>Bottom</legendPosition>
+            <report>unfiled$public/SampleReportofCases</report>
+            <showPercentage>false</showPercentage>
+            <showValues>true</showValues>
+            <sortBy>RowLabelAscending</sortBy>
+            <useReportChart>false</useReportChart>
+        </components>
+    </middleSection>
+    <rightSection>
+        <columnSize>Medium</columnSize>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Column</componentType>
+            <dashboardFilterColumns>
+                <column>INDUSTRY</column>
+            </dashboardFilterColumns>
+            <dashboardFilterColumns>
+                <column>ACCOUNT_TYPE</column>
+            </dashboardFilterColumns>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>false</drillEnabled>
+            <drillToDetailEnabled>false</drillToDetailEnabled>
+            <enableHover>false</enableHover>
+            <expandOthers>false</expandOthers>
+            <legendPosition>Bottom</legendPosition>
+            <report>unfiled$public/SampleReportofOpportunities</report>
+            <showPercentage>false</showPercentage>
+            <showValues>false</showValues>
+            <sortBy>RowLabelAscending</sortBy>
+            <useReportChart>false</useReportChart>
+        </components>
+    </rightSection>
+    <runningUser>admin@TESTORGNUM</runningUser>
+    <textColor>#000000</textColor>
+    <title>My Dashboard</title>
+    <titleColor>#000000</titleColor>
+    <titleSize>12</titleSize>
+</Dashboard>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Dashboard xmlns="http://soap.sforce.com/2006/04/metadata">
+    <backgroundEndColor>#FFFFFF</backgroundEndColor>
+    <backgroundFadeDirection>LeftToRight</backgroundFadeDirection>
+    <backgroundStartColor>#FFFFFF</backgroundStartColor>
+    <description>Dashboard with all possible chart types</description>
+    <leftSection>
+        <columnSize>Medium</columnSize>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>BarStacked100</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <componentType>Table</componentType>
+            <dashboardTableColumn>
+                <column>CLOSE_DATE</column>
+                <sortBy>RowLabelAscending</sortBy>
+            </dashboardTableColumn>
+            <dashboardTableColumn>
+                <aggregateType>Sum</aggregateType>
+                <column>AMOUNT</column>
+                <showTotal>true</showTotal>
+            </dashboardTableColumn>
+            <dashboardTableColumn>
+                <column>STAGE_NAME</column>
+            </dashboardTableColumn>
+            <dashboardTableColumn>
+                <column>PROBABILITY</column>
+                <aggregateType>Maximum</aggregateType>
+            </dashboardTableColumn>
+            <displayUnits>Integer</displayUnits>
+            <header>Opportunities Table</header>
+            <indicatorHighColor>#54C254</indicatorHighColor>
+            <indicatorLowColor>#C25454</indicatorLowColor>
+            <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
+            <maxValuesDisplayed>10</maxValuesDisplayed>
+            <report>testFolder/sourceRep</report>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Bar</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Column</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <legendPosition>Bottom</legendPosition>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+            <useReportChart>true</useReportChart>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Funnel</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <expandOthers>true</expandOthers>
+            <legendPosition>Bottom</legendPosition>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+    </leftSection>
+    <middleSection>
+        <columnSize>Medium</columnSize>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>ColumnStacked100</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>ColumnStacked</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>ColumnStacked</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>ColumnGrouped</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Column</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+    </middleSection>
+    <rightSection>
+        <columnSize>Medium</columnSize>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Bar</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Pie</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <expandOthers>true</expandOthers>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>LineGroupedCumulative</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>LineGrouped</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>LineCumulative</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+        <components>
+            <chartAxisRange>Auto</chartAxisRange>
+            <componentType>Donut</componentType>
+            <displayUnits>Auto</displayUnits>
+            <drillEnabled>true</drillEnabled>
+            <enableHover>true</enableHover>
+            <expandOthers>true</expandOthers>
+            <report>testFolder/sourceRep</report>
+            <sortBy>RowLabelAscending</sortBy>
+        </components>
+    </rightSection>
+    <runningUser>admin@TESTORGNUM</runningUser>
+    <textColor>#000000</textColor>
+    <title>Db Title</title>
+    <titleColor>#000000</titleColor>
+    <titleSize>12</titleSize>
+</Dashboard>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Dashboard xmlns="http://soap.sforce.com/2006/04/metadata">
+    <backgroundEndColor>#FFFFFF</backgroundEndColor>
+    <backgroundFadeDirection>Diagonal</backgroundFadeDirection>
+    <backgroundStartColor>#FFFFFF</backgroundStartColor>
+    <dashboardType>SpecifiedUser</dashboardType>
+    <gridLayout>
+        <dashboardGridComponents>
+            <colSpan>3</colSpan>
+            <columnIndex>0</columnIndex>
+            <dashboardComponent>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
+                <chartAxisRange>Auto</chartAxisRange>
+                <chartSummary>
+                    <axisBinding>y</axisBinding>
+                    <column>RowCount</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
+                <drillEnabled>false</drillEnabled>
+                <drillToDetailEnabled>false</drillToDetailEnabled>
+                <enableHover>false</enableHover>
+                <expandOthers>false</expandOthers>
+                <groupingColumn>TITLE</groupingColumn>
+                <legendPosition>Bottom</legendPosition>
+                <report>unfiled$public/lead_rpt</report>
+                <showPercentage>false</showPercentage>
+                <showTotal>false</showTotal>
+                <showValues>true</showValues>
+                <sortBy>RowLabelAscending</sortBy>
+                <useReportChart>false</useReportChart>
+            </dashboardComponent>
+            <rowIndex>0</rowIndex>
+            <rowSpan>3</rowSpan>
+        </dashboardGridComponents>
+        <dashboardGridComponents>
+            <colSpan>3</colSpan>
+            <columnIndex>0</columnIndex>
+            <dashboardComponent>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
+                <chartAxisRange>Auto</chartAxisRange>
+                <chartSummary>
+                    <axisBinding>y</axisBinding>
+                    <column>RowCount</column>
+                </chartSummary>
+                <componentType>Pie</componentType>
+                <drillEnabled>false</drillEnabled>
+                <drillToDetailEnabled>false</drillToDetailEnabled>
+                <enableHover>false</enableHover>
+                <expandOthers>false</expandOthers>
+                <groupingColumn>TITLE</groupingColumn>
+                <legendPosition>Bottom</legendPosition>
+                <report>unfiled$public/lead_rpt</report>
+                <showPercentage>false</showPercentage>
+                <showValues>true</showValues>
+                <sortBy>RowLabelAscending</sortBy>
+                <useReportChart>false</useReportChart>
+            </dashboardComponent>
+            <rowIndex>3</rowIndex>
+            <rowSpan>3</rowSpan>
+        </dashboardGridComponents>
+        <dashboardGridComponents>
+            <colSpan>3</colSpan>
+            <columnIndex>0</columnIndex>
+            <dashboardComponent>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
+                <chartAxisRange>Auto</chartAxisRange>
+                <chartSummary>
+                    <axisBinding>y</axisBinding>
+                    <column>RowCount</column>
+                </chartSummary>
+                <componentType>Column</componentType>
+                <drillEnabled>false</drillEnabled>
+                <drillToDetailEnabled>false</drillToDetailEnabled>
+                <enableHover>false</enableHover>
+                <expandOthers>false</expandOthers>
+                <groupingColumn>TITLE</groupingColumn>
+                <legendPosition>Bottom</legendPosition>
+                <report>unfiled$public/lead_rpt</report>
+                <showPercentage>false</showPercentage>
+                <showValues>false</showValues>
+                <sortBy>RowLabelAscending</sortBy>
+                <useReportChart>false</useReportChart>
+            </dashboardComponent>
+            <rowIndex>9</rowIndex>
+            <rowSpan>3</rowSpan>
+        </dashboardGridComponents>
+        <numberOfColumns>9</numberOfColumns>
+        <rowHeight>90</rowHeight>
+    </gridLayout>
+    <isGridLayout>true</isGridLayout>
+    <runningUser>admin@s1.com</runningUser>
+    <textColor>#000000</textColor>
+    <title>sfx</title>
+    <titleColor>#000000</titleColor>
+    <titleSize>12</titleSize>
+</Dashboard>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- CustomField (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- ChartSummary (atlas.en-us.api_meta.meta/api_meta/meta_report.htm)
+- ReportSummaryType (atlas.en-us.api_meta.meta/api_meta/meta_report.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Folder (atlas.en-us.api_meta.meta/api_meta/meta_folder.htm)
+- Report (atlas.en-us.api_meta.meta/api_meta/meta_report.htm)

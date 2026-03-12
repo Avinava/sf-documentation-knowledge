@@ -5,11 +5,15 @@ topic: packageversionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.084Z
-keywords: [PackageVersionHeader, Associated, API, Calls, Fields, PackageVersion, Sample, Code—Java]
+lastCollected: 2026-03-12T05:14:44.442Z
+estimatedTokens: 426
+keywords: [PackageVersionHeader, Specifies, package, version, installed, managed, package., Associated, API, Calls, Fields, PackageVersion, Sample, Code—Java]
 ---
 
 # PackageVersionHeader
+
+> Specifies the package version for each installed
+            managed package.
 
 # PackageVersionHeader
 
@@ -49,4 +53,60 @@ This sample sets the package version for one installed package in the PackageVer
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+import com.sforce.soap.apex.SoapConnection;
+
+import com.sforce.soap.apex.PackageVersion;
+
+import com.sforce.soap.apex.ExecuteAnonymousResult;
+
+
+
+public void PackageVersionHeaderSample(SoapConnection connection, String code) throws Exception {
+
+  com.sforce.soap.apex.PackageVersion pv = new com.sforce.soap.apex.PackageVersion();
+
+  pv.setNamespace("installedPackageNamespaceHere");
+
+  pv.setMajorNumber(1);
+
+  pv.setMinorNumber(5);
+
+
+
+  PackageVersion[] pvs = new PackageVersion[]{pv};
+
+  connection.setPackageVersionHeader(pvs);
+
+
+
+  ExecuteAnonymousResult result = connection.executeAnonymous(apexCode);
+
+
+
+  if (result.isCompiled()) {
+
+    System.out.println("Compiled successfully.");
+
+    System.out.println("Execution result: " + (result.isSuccess() ? "SUCCESS" : "FAILED!"));
+
+    if (!result.isSuccess()) {
+
+      System.out.println("Cause: " + result.getExceptionMessage());
+
+      System.out.println(result.getExceptionStackTrace());
+
+    }
+
+  } else {
+
+    System.out.println("Failed to compile: " + result.getCompileProblem());
+
+  }
+
+}
 ```

@@ -5,11 +5,16 @@ topic: run-unit-test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.659Z
-keywords: [Run, Unit, Test, Methods, Note, Running, Tests, Through, Salesforce, User, Interface, Extensions, Visual, Studio, Code, Developer, Console, API, ApexTestQueueItem, See]
+lastCollected: 2026-03-12T05:14:34.110Z
+estimatedTokens: 2604
+keywords: [Run, Unit, Test, verify, functionality, Apex, code, execute, unit, tests., run, test, Developer, Console, Setup, Salesforce, extensions, Visual, Studio, Code]
 ---
 
 # Run Unit Test Methods
+
+> To verify the functionality of your Apex code, execute unit tests. You can run Apex
+        test methods in the Developer Console, in Setup, in the Salesforce extensions for Visual
+        Studio Code, or using the API.
 
 # Run Unit Test Methods
 
@@ -45,25 +50,25 @@ You can run unit tests on the Application Test Execution page. Tests started on 
 
 1.  From Setup, enter Application Test Execution in the Quick Find box, then select **Application Test Execution**.
 2.  Click **Select Tests...**.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     If you have Apex classes that are installed from a managed package, you must compile these classes first by clicking **Compile all classes** on the Apex Classes page so that they appear in the list.
-    
+
 3.  Select the tests to run. The list of tests includes only classes that contain test methods.
-    
+
     -   To select tests from an installed managed package, select the managed package’s corresponding namespace from the dropdown list. Only the classes of the managed package with the selected namespace appear in the list.
     -   To select tests that exist locally in your organization, select **\[My Namespace\]** from the dropdown list. Only local classes that aren't from managed packages appear in the list.
     -   To select any test, select **\[All Namespaces\]** from the dropdown list. All the classes in the organization appear, even those in a managed package.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Classes with tests currently running don't appear in the list.
-    
+
 4.  To opt out of collecting code coverage information during test runs, select **Skip Code Coverage**.
 5.  Click **Run**.
 
@@ -129,15 +134,85 @@ This example uses DML operations to insert and query the ApexTestQueueItem and A
 
 ```
 
-1.  [Using the runAs Method Method](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)  
+1.  [Using the runAs Method Method](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
     Generally, all Apex code runs in system mode, where the object-level and field-level permissions of the current user aren’t taken into account. With the System method runAs, you can write test methods that change the user context to an existing user or a new user. Then the user’s sharing rules and object-level and field-level permissions are enforced.
-2.  [Using Limits, startTest , and , and stopTest](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)  
-    
-3.  [Adding SOSL Queries to Unit Tests](atlas.en-us.apexcode.meta/apexcode/apex_testing_SOSL.htm)  
-    
+2.  [Using Limits, startTest , and , and stopTest](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)
+
+3.  [Adding SOSL Queries to Unit Tests](atlas.en-us.apexcode.meta/apexcode/apex_testing_SOSL.htm)
+
 
 #### See Also
 
 -   [Testing and Code Coverage](atlas.en-us.apexcode.meta/apexcode/apex_code_coverage_intro.htm "The Apex testing framework generates code coverage numbers for your Apex classes and triggers every time you run one or more tests. Code coverage indicates how many executable lines of code in your classes and triggers have been exercised by test methods. Write test methods to test your triggers and classes, and then run those tests to generate code coverage information.")
-    
+
 -   [*Salesforce Help*: Open the Developer Console](https://help.salesforce.com/HTViewHelpDoc?id=code_dev_console_opening.htm&language=en_US)
+
+## Code Examples
+
+```
+RunTestsResult[] runTests(RunTestsRequest ri)
+```
+
+```apex
+public class TestUtil {
+
+    // Enqueue all classes ending in "Test". 
+    public static ID enqueueTests() {
+        ApexClass[] testClasses = 
+           [SELECT Id FROM ApexClass 
+            WHERE Name LIKE '%Test'];
+        if (testClasses.size() > 0) {
+            ApexTestQueueItem[] queueItems = new List<ApexTestQueueItem>();
+            for (ApexClass cls : testClasses) {
+                queueItems.add(new ApexTestQueueItem(ApexClassId=cls.Id));
+            }
+
+            insert queueItems;
+
+            // Get the job ID of the first queue item returned.
+            ApexTestQueueItem item = 
+               [SELECT ParentJobId FROM ApexTestQueueItem 
+                WHERE Id=:queueItems[0].Id LIMIT 1];
+            return item.parentjobid;
+        }
+        return null;
+    }
+
+    // Get the status and pass rate for each class
+    // whose tests were run by the job.
+    // that correspond to the specified job ID.
+    public static void checkClassStatus(ID jobId) {
+        ApexTestQueueItem[] items = 
+           [SELECT ApexClass.Name, Status, ExtendedStatus 
+            FROM ApexTestQueueItem 
+            WHERE ParentJobId=:jobId];
+        for (ApexTestQueueItem item : items) {
+            String extStatus = item.extendedstatus == null ? '' : item.extendedStatus;
+            System.debug(item.ApexClass.Name + ': ' + item.Status + extStatus);
+        }
+    }
+
+    // Get the result for each test method that was executed.
+    public static void checkMethodStatus(ID jobId) {
+        ApexTestResult[] results = 
+           [SELECT Outcome, ApexClass.Name, MethodName, Message, StackTrace 
+            FROM ApexTestResult 
+            WHERE AsyncApexJobId=:jobId];
+        for (ApexTestResult atr : results) {
+            System.debug(atr.ApexClass.Name + '.' + atr.MethodName + ': ' + atr.Outcome);
+            if (atr.message != null) {
+                System.debug(atr.Message + '
+ at ' + atr.StackTrace);
+            }
+        }
+    }
+}
+```
+
+## Related Topics
+
+- Apex Scheduler (atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm)
+- Using the runAs Method Method (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
+- Using Limits, startTest , and , and stopTest (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)
+- Adding SOSL Queries to Unit Tests (atlas.en-us.apexcode.meta/apexcode/apex_testing_SOSL.htm)
+- Testing and Code Coverage (atlas.en-us.apexcode.meta/apexcode/apex_code_coverage_intro.htm)

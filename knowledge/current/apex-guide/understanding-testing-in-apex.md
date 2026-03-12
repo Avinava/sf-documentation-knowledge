@@ -4,12 +4,18 @@ domain: apex-guide
 topic: understanding-testing-in-apex
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.624Z
-keywords: [Understanding, Testing, Apex, Why, Test, Apex?]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.056Z
+estimatedTokens: 580
+keywords: [Understanding, Testing, Apex, key, successful, long-term, development, critical, component, process., strongly, recommend, test-driven, process, test, occurs, same, time, code, development.]
 ---
 
 # Understanding Testing in Apex
+
+> Testing is the key to successful long-term development and is a
+    critical component of the development process. We strongly recommend that you use a
+     test-driven development process, that is, test development that occurs at the same
+    time as code development.
 
 # Understanding Testing in Apex
 
@@ -26,9 +32,9 @@ An application is seldom finished. You will have additional releases of it, wher
 Before you can deploy your code or package it for the Salesforce AppExchange, the following must be true.
 
 -   Unit tests must cover at least 75% of your Apex code, and all of those tests must complete successfully.
-    
+
     Note the following.
-    
+
     -   When deploying Apex to a production organization, each unit test in your organization namespace is executed by default.
     -   Calls to System.debug aren’t counted as part of Apex code coverage.
     -   Test methods and test classes aren’t counted as part of Apex code coverage.

@@ -35,7 +35,7 @@ npm run build
 
 ## 2. Using the Pre-Compiled Knowledge Base
 
-The repository comes pre-loaded with **8,900+ curated markdown files** and a **Knowledge Graph** covering 13 domains of Salesforce documentation.
+The repository comes pre-loaded with **10,100+ curated markdown files** and a **Knowledge Graph** (19,600+ nodes, 120,000+ edges) covering 13 domains of Salesforce documentation.
 
 If you just want to use the existing data, you can point your AI agent directly at the `knowledge/current/` directory, or use the MCP Server.
 
@@ -111,21 +111,19 @@ Copyright © 2026. All rights reserved.
 ## Documentation
 
 <!-- INVENTORY:START -->
-
-| Domain                                            | Description                                                               | Status       | Files |
-| ------------------------------------------------- | ------------------------------------------------------------------------- | ------------ | ----- |
-| **Agentforce**                                    | AI agents, actions, topics, prompt templates, agent builder               | ✅ Available | 66    |
-| **Data Cloud**                                    | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400   |
-| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator           | ✅ Available | 217   |
-| **SF CLI Commands**                               | Salesforce CLI (sf) command reference — all commands across plugins       | ✅ Available | 196   |
-| **Apex Developer Guide**                          | Apex language guide — syntax, triggers, testing, best practices           | ✅ Available | 541   |
-| **Apex Reference**                                | Apex class library reference — all system classes and methods             | ✅ Available | 4388  |
-| **Lightning Web Components**                      | LWC developer guide — components, lifecycle, wire service, events         | ✅ Available | 1     |
-| **Metadata API**                                  | Metadata API — deployment, retrieval, metadata types                      | ✅ Available | 681   |
-| **REST API**                                      | Salesforce REST API — resources, methods, composite, batch                | ✅ Available | 307   |
-| **Tooling API**                                   | Tooling API — code coverage, debug logs, custom fields                    | ✅ Available | 338   |
-| **Field Service**                                 | Field Service — work orders, scheduling, mobile, territories              | ✅ Available | 242   |
-| **OmniStudio**                                    | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures  | ✅ Available | 1259  |
-| **Service Cloud**                                 | Service Cloud — cases, knowledge, omni-channel, entitlements              | ✅ Available | 282   |
-
+| Domain | Description | Status | Files |
+|---|---|---|---|
+| **Agentforce** | AI agents, actions, topics, prompt templates, agent builder | ✅ Available | 66 |
+| **Data Cloud** | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400 |
+| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1209 |
+| **SF CLI Commands** | Salesforce CLI (sf) command reference — all commands across plugins | ✅ Available | 219 |
+| **Apex Developer Guide** | Apex language guide — syntax, triggers, testing, best practices | ✅ Available | 542 |
+| **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4604 |
+| **Lightning Web Components** | LWC developer guide — components, lifecycle, wire service, events | ✅ Available | 1 |
+| **Metadata API** | Metadata API — deployment, retrieval, metadata types | ✅ Available | 683 |
+| **REST API** | Salesforce REST API — resources, methods, composite, batch | ✅ Available | 307 |
+| **Tooling API** | Tooling API — code coverage, debug logs, custom fields | ✅ Available | 338 |
+| **Field Service** | Field Service — work orders, scheduling, mobile, territories | ✅ Available | 247 |
+| **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1295 |
+| **Service Cloud** | Service Cloud — cases, knowledge, omni-channel, entitlements | ✅ Available | 282 |
 <!-- INVENTORY:END -->

@@ -5,11 +5,17 @@ topic: jsontoken-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.439Z
-keywords: [JSONToken, Enum, Namespace]
+lastCollected: 2026-03-12T05:14:29.570Z
+estimatedTokens: 316
+namespace: System
+keywords: [JSONToken, Contains, token, values, used, parsing, JSON, content.]
 ---
 
 # JSONToken Enum
+
+> Contains all token values used for parsing JSON content.
+
+**Namespace:** `System`
 
 # JSONToken Enum
 
@@ -34,3 +40,7 @@ Contains all token values used for parsing JSON content.
 | VALUE_NUMBER_INT | An integer value. |
 | VALUE_STRING | A string value. |
 | VALUE_TRUE | A value that corresponds to the “true” string literal. |
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)

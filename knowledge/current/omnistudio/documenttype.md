@@ -5,11 +5,14 @@ topic: documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.814Z
-keywords: [DocumentType, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:52.185Z
+estimatedTokens: 301
+keywords: [DocumentType, Represents, document, type., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # DocumentType
+
+> Represents a document type.
 
 # DocumentType
 
@@ -54,3 +57,25 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DocumentType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Utility_Bill</description>
+    <isActive>true</isActive>
+    <masterLabel>Utility_Bill</masterLabel>
+</DocumentType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>DocumentType</name>
+    </types>
+    <version>59.0</version>
+</Package>
+```

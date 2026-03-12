@@ -5,11 +5,15 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.051Z
-keywords: [ProductAttributeSet, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:41.879Z
+estimatedTokens: 150
+keywords: [ProductAttributeSet, Represents, ProductAttribute, information, being, used, attribute, such, color_c, size_c, Version, Special, Access, Rules, Fields]
 ---
 
 # ProductAttributeSet
+
+> Represents the ProductAttribute information being used as
+      and attribute such as color_c, size_c .
 
 # ProductAttributeSet
 

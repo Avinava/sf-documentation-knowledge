@@ -5,11 +5,17 @@ topic: mfgprogramtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.555Z
-keywords: [MfgProgramTemplate, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, MfgProgramTemplateItem, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.163Z
+estimatedTokens: 1004
+keywords: [MfgProgramTemplate, Represents, definition, program, create, program-based, business., business, known, Manufacturing, Program, enables, manufacturers, drive, their, models, forecasting, tools, manage, end-to-end]
 ---
 
 # MfgProgramTemplate
+
+> Represents a definition of a program to create a
+			program-based business. A program-based business, also known as a Manufacturing Program,
+			enables manufacturers to drive their business models with forecasting tools and manage
+			the end-to-end sales process efficiently.
 
 # MfgProgramTemplate
 
@@ -72,3 +78,36 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MfgProgramTemplate xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+     <description>Program Template</description>
+     <programTemplateItems>
+         <templateItemName>Template Item #1</templateItemName>
+         <transformationDisplayOrder>1</transformationDisplayOrder>
+         <transformationType>BusinessTransformation</transformationType>
+         <description>Program Template Item</description>
+     </programTemplateItems>
+     <programTemplateName>Sample Program Template</programTemplateName>
+     <status>Draft</status>
+</MfgProgramTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>
+         <members>*</members>
+         <name>MfgProgramTemplate</name>
+     </types>
+     <version>54.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

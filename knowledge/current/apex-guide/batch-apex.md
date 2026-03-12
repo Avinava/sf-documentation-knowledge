@@ -5,11 +5,17 @@ topic: batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.285Z
-keywords: [Batch, Apex, Warning]
+lastCollected: 2026-03-12T05:14:32.216Z
+estimatedTokens: 1112
+keywords: [Batch, Apex, developer, now, employ, batch, build, complex, long-running, processes, run, thousands, records, Lightning, Platform., operates, over, small, batches, covering]
 ---
 
 # Batch Apex
+
+> A developer can now employ batch Apex to build complex, long-running processes that run
+            on thousands of records on the Lightning Platform. Batch Apex operates over small
+            batches of records, covering your entire record set and breaking the processing down to
+            manage
 
 # Batch Apex
 
@@ -35,7 +41,16 @@ For more information on Apex managed sharing, see [Understanding Apex Managed Sh
 
 For more information on firing platform events from batch Apex, see [Firing Platform Events from Batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch_platformevents.htm#apex_batch_platformevents "Batch Apex classes can fire platform events when encountering an error or exception. Clients listening on an event can obtain actionable information, such as how often the event failed and which records were in scope at the time of failure. Events are also fired for Salesforce Platform internal errors and other uncatchable Apex exceptions such as LimitExceptions, which are caused by reaching governor limits.")
 
--   **[Use Batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch_interface.htm)**  
+-   **[Use Batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch_interface.htm)**
     To use batch Apex, write an Apex class that implements the Salesforce-provided interface Database.Batchable and then invoke the class programmatically. To monitor or stop the execution of the batch Apex job, from Setup, enter Apex Jobs in the Quick Find box and then select **Apex Jobs**.
--   **[Firing Platform Events from Batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch_platformevents.htm)**  
+-   **[Firing Platform Events from Batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch_platformevents.htm)**
     Batch Apex classes can fire platform events when encountering an error or exception. Clients listening on an event can obtain actionable information, such as how often the event failed and which records were in scope at the time of failure. Events are also fired for Salesforce Platform internal errors and other uncatchable Apex exceptions such as LimitExceptions, which are caused by reaching governor limits.
+
+## Related Topics
+
+- Apex scheduler (atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm)
+- Apex managed sharing recalculations (atlas.en-us.apexcode.meta/apexcode/apex_bulk_sharing_recalc.htm)
+- Using Batch Apex (atlas.en-us.apexcode.meta/apexcode/apex_batch_interface.htm)
+- Understanding Apex Managed Sharing (atlas.en-us.apexcode.meta/apexcode/apex_bulk_sharing.htm)
+- Firing Platform Events from Batch Apex (atlas.en-us.apexcode.meta/apexcode/apex_batch_platformevents.htm)
+- Use Batch Apex (atlas.en-us.apexcode.meta/apexcode/apex_batch_interface.htm)

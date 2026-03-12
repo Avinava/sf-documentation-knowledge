@@ -5,11 +5,14 @@ topic: homepagecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.111Z
-keywords: [HomePageComponent, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.843Z
+estimatedTokens: 335
+keywords: [HomePageComponent, Represents, home, page, component., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # HomePageComponent
+
+> Represents a home page component.
 
 # HomePageComponent
 

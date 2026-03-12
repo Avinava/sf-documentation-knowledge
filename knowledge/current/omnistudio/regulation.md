@@ -5,11 +5,16 @@ topic: regulation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.162Z
-keywords: [Regulation, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.275Z
+estimatedTokens: 1115
+keywords: [Regulation, Represents, information, laws, regulations, specified, regulatory, agencies, authorities., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # Regulation
+
+> Represents the information on laws and regulations as specified by the
+         regulatory agencies and authorities. This object is available in API version 65.0 and
+      later.
 
 # Regulation
 
@@ -54,3 +59,10 @@ History is available for tracked fields of the object.
 [RegulationShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- RegulationChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- RegulationFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- RegulationHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- RegulationShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

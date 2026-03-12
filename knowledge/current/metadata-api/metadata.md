@@ -5,11 +5,18 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.408Z
-keywords: [Metadata, Version, Fields, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:44.050Z
+estimatedTokens: 757
+namespace: Account.FirstName
+keywords: [Metadata, base, metadata, types., can’t, edit, object., component, instance, type., Version, Fields, Wildcard, Support, Manifest, File]
 ---
 
 # Metadata
+
+> The base class for all metadata types. You can’t edit this
+      object. A component is an instance of a metadata type.
+
+**Namespace:** `Account.FirstName`
 
 # Metadata
 
@@ -34,7 +41,14 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [CustomField](atlas.en-us.api_meta.meta/api_meta/customfield.htm "Represents the metadata associated with a field. Use this metadata type to create, update, or delete custom field definitions on standard, custom, and external objects or standard field definitions on standard objects.")
-    
+
 -   [MetadataWithContent](atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm "MetadataWithContent is the base type for all metadata types that contain content, such as documents or email templates. It extends Metadata. You can’t edit this object.")
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- CustomField (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)

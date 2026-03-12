@@ -5,11 +5,14 @@ topic: platformactiontypeenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.388Z
-keywords: [PlatformActionTypeEnum, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.500Z
+estimatedTokens: 210
+keywords: [PlatformActionTypeEnum, action, PlatformActionListItem., Values]
 ---
 
 # PlatformActionTypeEnum Enum
+
+> The type of action for a PlatformActionListItem.
 
 # PlatformActionTypeEnum Enum
 

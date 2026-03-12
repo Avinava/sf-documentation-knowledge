@@ -5,11 +5,15 @@ topic: capability-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:40.341Z
-keywords: [Capability, Enum, Usage, Values, See]
+lastCollected: 2026-03-12T05:14:29.437Z
+estimatedTokens: 791
+keywords: [Capability, Declares, which, functional, operations, external, system, supports., specifies, required, endpoint, settings, data, source, definition., Usage, Values]
 ---
 
 # Capability Enum
+
+> Declares which functional operations the external system supports. Also specifies
+    required endpoint settings for the external data source definition.
 
 # Capability Enum
 

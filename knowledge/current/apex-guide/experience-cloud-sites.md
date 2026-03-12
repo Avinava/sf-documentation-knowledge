@@ -5,11 +5,19 @@ topic: experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.130Z
-keywords: [Experience, Cloud, Sites, See]
+lastCollected: 2026-03-12T05:14:33.383Z
+estimatedTokens: 253
+namespace: Network
+keywords: [Experience, Cloud, Sites, sites, branded, spaces, employees, customers, partners, connect., customize, create, meet, business, needs, then, transition, seamlessly, between, them.]
 ---
 
 # Experience Cloud Sites
+
+> Experience Cloud sites are branded spaces for your employees, customers, and partners to
+  connect. You can customize and create sites to meet your business needs, then transition
+  seamlessly between them.
+
+**Namespace:** `Network`
 
 # Experience Cloud Sites
 
@@ -22,5 +30,5 @@ Connect in Apex has a ConnectApi.Communities class with methods that return info
 #### See Also
 
 -   [*Apex Reference Guide*: Network Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_classes_network.htm "Apex Reference Guide: Network Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Connect in Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_classes_connect_api.htm "Apex Reference Guide: Connect in Apex - HTML (New Window)")

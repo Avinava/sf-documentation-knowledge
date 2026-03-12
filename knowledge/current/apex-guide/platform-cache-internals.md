@@ -5,11 +5,15 @@ topic: platform-cache-internals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.398Z
-keywords: [Platform, Cache, Internals, Local, Note, Atomic, Transactions, Eviction, Algorithm, See]
+lastCollected: 2026-03-12T05:14:33.755Z
+estimatedTokens: 560
+keywords: [Platform, Cache, Internals, uses, local, cache, least, recently, used, LRU, algorithm, improve, performance., Local, Note, Atomic, Transactions, Eviction, Algorithm]
 ---
 
 # Platform Cache Internals
+
+> Platform Cache uses local cache and a least recently used (LRU) algorithm to improve
+    performance.
 
 # Platform Cache Internals
 
@@ -38,3 +42,7 @@ When possible, Platform Cache uses an LRU algorithm to evict keys from the cache
 #### See Also
 
 -   [Platform Cache Limits](atlas.en-us.apexcode.meta/apexcode/apex_platform_cache_limits.htm "These limits apply when using Platform Cache.")
+
+## Related Topics
+
+- Platform Cache Limits (atlas.en-us.apexcode.meta/apexcode/apex_platform_cache_limits.htm)

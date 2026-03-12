@@ -5,11 +5,16 @@ topic: cnfgmgmtdiscoverytgtcrdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.889Z
-keywords: [CnfgMgmtDiscoveryTgtCrdl, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.412Z
+estimatedTokens: 400
+keywords: [CnfgMgmtDiscoveryTgtCrdl, Represents, credentials, associated, specific, discovery, target., Credentials, used, authenticate, execute, commands, during, scan., API, version, 65.0, later., Supported, Calls]
 ---
 
 # CnfgMgmtDiscoveryTgtCrdl
+
+> Represents the credentials associated with a specific discovery target.
+         Credentials are used to authenticate and execute commands during the scan. This object
+      is available in API version 65.0 and later.
 
 # CnfgMgmtDiscoveryTgtCrdl
 

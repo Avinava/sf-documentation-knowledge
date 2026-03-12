@@ -5,11 +5,15 @@ topic: connectapicompliancebulkupdateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.736Z
-keywords: [ConnectApi.ComplianceBulkUpdateInput]
+lastCollected: 2026-03-12T05:14:47.625Z
+estimatedTokens: 211
+keywords: [ConnectApi.ComplianceBulkUpdateInput, Input, representation, asynchronously, bulk, update, status, clause, version, records.]
 ---
 
 # ConnectApi.ComplianceBulkUpdateInput
+
+> Input representation to asynchronously bulk update the status of the clause version
+    records.
 
 # ConnectApi.ComplianceBulkUpdateInput
 

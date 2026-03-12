@@ -5,11 +5,16 @@ topic: metadatacontainer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.261Z
-keywords: [MetadataContainer, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage, Note, See]
+lastCollected: 2026-03-12T05:14:46.056Z
+estimatedTokens: 840
+keywords: [MetadataContainer, Manages, working, copies, ApexClassMember, ApexTriggerMember, ApexPageMember, ApexComponentMember, objects, including, collections, deployed, together., Supported, SOAP, API, Calls, REST, HTTP, Special]
 ---
 
 # MetadataContainer
+
+> Manages working copies of ApexClassMember, ApexTriggerMember,
+			ApexPageMember, and ApexComponentMember objects, including collections of objects to be
+			deployed together.
 
 # MetadataContainer
 
@@ -51,3 +56,11 @@ Deleting a MetadataContainer deletes all objects that reference it.
 #### See Also
 
 -   [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/ "Metadata API Developer Guide - HTML (New Window)")
+
+## Related Topics
+
+- ApexClassMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm)
+- ApexTriggerMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm)
+- ApexPageMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm)
+- ApexComponentMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcomponentmember.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)

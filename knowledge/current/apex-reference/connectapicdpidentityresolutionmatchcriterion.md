@@ -5,11 +5,15 @@ topic: connectapicdpidentityresolutionmatchcriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.922Z
-keywords: [ConnectApi.CdpIdentityResolutionMatchCriterion, See]
+lastCollected: 2026-03-12T05:14:24.545Z
+estimatedTokens: 367
+keywords: [ConnectApi.CdpIdentityResolutionMatchCriterion, Input, representation, identity, resolution, ruleset's, match, rule, criterion.]
 ---
 
 # ConnectApi.CdpIdentityResolutionMatchCriterion
+
+> Input representation for an identity resolution ruleset's match rule
+      criterion.
 
 # ConnectApi.CdpIdentityResolutionMatchCriterion
 
@@ -27,3 +31,11 @@ Input representation for an identity resolution ruleset's match rule criterion.
 #### See Also
 
 -   [ConnectApi.CdpIdentityResolutionMatchRule](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_match_rul.htm "Input representation for an identity resolution ruleset’s match rule.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CdpIdentityResolution​MatchMethodType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CdpIdentityResolution​MatchCriterionParty​IdentificationInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_match_criteria_party_identification_inf.htm)
+- ConnectApi.CdpIdentityResolutionMatchRule (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_identity_resolution_match_rul.htm)

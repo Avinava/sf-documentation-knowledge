@@ -5,11 +5,14 @@ topic: connectapicontentimagefiledetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.996Z
-keywords: [ConnectApi.ContentImageFileDetails, See]
+lastCollected: 2026-03-12T05:14:27.593Z
+estimatedTokens: 140
+keywords: [ConnectApi.ContentImageFileDetails, Image, file, details.]
 ---
 
 # ConnectApi.ContentImageFileDetails
+
+> Image file details.
 
 # ConnectApi.ContentImageFileDetails
 
@@ -25,3 +28,9 @@ Image file details.
 #### See Also
 
 -   [ConnectApi.InlineImageSegment](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_inline_image_message_segment.htm "An inline image in the feed body.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.InlineImageSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_inline_image_message_segment.htm)

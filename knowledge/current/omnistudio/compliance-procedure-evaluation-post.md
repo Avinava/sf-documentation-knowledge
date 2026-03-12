@@ -5,11 +5,14 @@ topic: compliance-procedure-evaluation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.635Z
-keywords: [Compliance, Procedure, Evaluation, POST]
+lastCollected: 2026-03-12T05:14:48.940Z
+estimatedTokens: 279
+keywords: [Compliance, Procedure, Evaluation, POST, Evaluate, compliance, procedure, business, context.]
 ---
 
 # Compliance Procedure Evaluation (POST)
+
+> Evaluate a compliance procedure with a business context.
 
 # Compliance Procedure Evaluation (POST)
 
@@ -53,3 +56,42 @@ Properties
 Response body for POST
 
 [Compliance Procedure Evaluation Response](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_procedure_evaluation_response_output.htm "Output representation of compliance procedure evaluation results.")
+
+## Code Examples
+
+```
+/connect/compliance/procedure/procedureName/evaluate
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/compliance/procedure/ValidationProcedure/evaluate
+```
+
+```
+{
+  "businessOperationsProcess": "businessOperationsProcess1234",
+  "evaluations": [
+    {
+      "businessContext": [
+        {
+          "paramName": "accountId",
+          "paramValue": "00100000000AA1"
+        },
+        {
+          "paramName": "clientKycContext",
+          "paramValue": "0000000n04dn09g002517551181966037068d70d64004d6d9f83d6629a3135ab"
+        }
+      ],
+      "transactionKey": "uuid-1234-5678-9012-eu",
+      "inContextOf": "abc"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Compliance Procedure Evaluation
+                                                Info Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_compliance_procedure_evaluation_info_input.htm)
+- Compliance Procedure
+              Evaluation Response (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_compliance_procedure_evaluation_response_output.htm)

@@ -6,12 +6,15 @@ topic: opentab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.322Z
-keywords: [openTab, Lightning, Experience, Arguments, Note, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.885Z
+estimatedTokens: 824
+keywords: [openTab, Lightning, Experience, Opens, new, workspace, tab., tab, already, open, focused., Arguments, Note, LWC, Sample, Code, Aura, Components, Response]
 ---
 
 # openTab() for Lightning Experience for Lightning
             Experience
+
+> Opens a new workspace tab. If the tab is already open, the tab is focused.
 
 # openTab() for Lightning Experience for Lightning Experience
 
@@ -87,3 +90,107 @@ The relative URL used in this example is a placeholder. To try this example your
 ## Response
 
 This method returns a promise that, upon success, resolves to the tabId of the new tab.
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { IsConsoleNavigation, openTab } from 'lightning/platformWorkspaceApi';
+
+export default class OpenTabExample extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async openTab() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        await openTab({
+            pageReference: {
+                type: 'standard__objectPage',
+                attributes: {
+                    objectApiName: 'Account',
+                    actionName: 'home'
+                }
+            },
+            icon: 'utility:bookmark',
+            focus: true,
+            label: 'Account List'
+        });
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+        <lightning:workspaceAPI aura:id="workspace"/>
+        <lightning:button label="Open Tab" onclick="{!c.handleOpenTab}"/>
+</aura:component>
+```
+
+```
+({
+    handleOpenTab: function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.openTab({
+            pageReference: {
+                "type": "standard__recordPage",
+                "attributes": {
+                    "recordId":"500xx000000Ykt2AAC",
+                    "actionName":"view"
+                },
+                "state": {}
+            },
+            focus: true
+        }).then(function(response) {
+            workspaceAPI.getTabInfo({
+                tabId: response
+        }).then(function(tabInfo) {
+            console.log("The recordId for this tab is: " + tabInfo.recordId);
+        });
+        }).catch(function(error) {
+            console.log(error);
+        });
+    }
+)}
+```
+
+```
+({
+    handleOpenTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.openTab({
+            recordId: '001xx000003DIkeAAG',
+            focus: true
+        }).then(function(response) {
+            workspaceAPI.getTabInfo({
+                  tabId: response
+            }).then(function(tabInfo) {
+            console.log("The url for this tab is: " + tabInfo.url);
+            });
+        })
+        .catch(function(error) {
+               console.log(error);
+        });
+    }
+})
+```
+
+```
+({
+    handleOpenTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.openTab({
+            url: '/lightning/r/Account/001xx000003DI05AAG/view',
+            focus: true
+        }).then(function(response) {
+            workspaceAPI.getTabInfo({
+                tabId: response
+            }).then(function(tabInfo) {
+            console.log("The recordId for this tab is: " + tabInfo.recordId);
+            });
+        }).catch(function(error) {
+                console.log(error);
+        });
+    }
+})
+```

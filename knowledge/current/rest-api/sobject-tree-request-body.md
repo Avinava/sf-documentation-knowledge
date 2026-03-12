@@ -5,11 +5,14 @@ topic: sobject-tree-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.180Z
-keywords: [sObject, Tree, Request, Body, Important, Collection, Input]
+lastCollected: 2026-03-12T05:14:35.301Z
+estimatedTokens: 567
+keywords: [sObject, Tree, Request, Body, Describes, collection, trees, create, resource., Important, Collection, Input]
 ---
 
 # sObject Tree Request Body
+
+> Describes a collection of sObject trees to create with the sObject Tree resource.
 
 # sObject Tree Request Body
 
@@ -74,4 +77,116 @@ XML example
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+"records" :[{
+    "attributes" : {"type" : "Account", "referenceId" : "ref1"},
+    "name" : "SampleAccount",
+    "phone" : "1234567890",
+    "website" : "www.salesforce.com",
+    "numberOfEmployees" : "100",
+    "industry" : "Banking",
+    "Contacts" : {
+      "records" : [{
+         "attributes" : {"type" : "Contact", "referenceId" : "ref2"},
+         "lastname" : "Smith",
+         "title" : "President",
+         "email" : "sample@salesforce.com"
+         },{         
+         "attributes" : {"type" : "Contact", "referenceId" : "ref3"},
+         "lastname" : "Evans",
+         "title" : "Vice President",
+         "email" : "sample@salesforce.com"
+         }]
+      }
+    },{
+    "attributes" : {"type" : "Account", "referenceId" : "ref4"},
+    "name" : "SampleAccount2",
+    "phone" : "1234567890",
+    "website" : "www.salesforce2.com",
+    "numberOfEmployees" : "100",
+    "industry" : "Banking"
+     }]
+}
+```
+
+```
+<SObjectTreeRequest>
+    <records type="Account" referenceId="ref1">
+        <name>SampleAccount</name>
+        <phone>1234567890</phone>
+	       <website>www.salesforce.com</website>
+	       <numberOfEmployees>100</numberOfEmployees>
+	       <industry>Banking</industry>
+	       <Contacts>
+	           <records type="Contact" referenceId="ref2">
+	               <lastname>Smith</lastname>
+		              <title>President</title>
+		              <email>sample@salesforce.com</email>
+	           </records>
+	           <records type="Contact" referenceId="ref3">
+	  	            <lastname>Evans</lastname>
+	  	            <title>Vice President</title>
+	  	            <email>sample@salesforce.com</email>
+	           </records>
+	       </Contacts>
+    </records>
+    <records type="Account" referenceId="ref4">
+        <name>SampleAccount2</name>
+	       <phone>1234567890</phone>
+	       <website>www.salesforce2.com</website>
+	       <numberOfEmployees>100</numberOfEmployees>
+	       <industry>Banking</industry>
+    </records>
+</SObjectTreeRequest>
+```
+
+```
+{
+"attributes" : {"type" : "Account", "referenceId" : "ref1"},
+"name" : "SampleAccount",
+"phone" : "1234567890",
+"website" : "www.salesforce.com",
+"NumberOfEmployees" : "100",
+"industry" : "Banking",
+"Contacts" : {
+  "records" : [{
+     "attributes" : {"type" : "Contact", "referenceId" : "ref2"},
+     "lastname" : "Smith",
+     "title" : "President",
+     "email" : "sample@salesforce.com"
+      },{         
+     "attributes" : {"type" : "Contact", "referenceId" : "ref3"},
+     "lastname" : "Evans",
+     "title" : "Vice President",
+     "email" : "sample@salesforce.com"
+     }]
+  }
+}
+```
+
+```
+<records type="Account" referenceId="ref1">
+    <name>SampleAccount</name>
+    <phone>1234567890</phone>
+    <website>www.salesforce.com</website>
+    <numberOfEmployees>100</numberOfEmployees>
+    <industry>Banking</industry>
+    <Contacts>
+        <records type="Contact" referenceId="ref2">
+	           <lastname>Smith</lastname>
+	           <title>President</title>
+	           <email>sample@salesforce.com</email>
+	       </records>
+	       <records type="Contact" referenceId="ref3">
+     	      <lastname>Evans</lastname>
+     	      <title>Vice President</title>
+     	      <email>sample@salesforce.com</email>
+	       </records>
+    </Contacts>
+</records>
 ```

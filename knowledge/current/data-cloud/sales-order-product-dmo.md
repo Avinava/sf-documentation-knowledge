@@ -5,11 +5,16 @@ topic: sales-order-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.956Z
-keywords: [Sales, Order, Product, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.875Z
+estimatedTokens: 2818
+keywords: [Sales, Order, Product, DMO, Data, Cloud, data, model, component, sales, order, identifies, product, service, sold, customer., API, Name, Category, Primary]
 ---
 
 # Sales Order Product DMO
+
+> The Sales Order Product DMO is a Data Cloud data model object (DMO)
+      for the component of a sales order that identifies a product or service to be sold to the
+      customer.
 
 # Sales Order Product DMO
 

@@ -5,11 +5,15 @@ topic: delegategroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.611Z
-keywords: [DelegateGroupMember, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.156Z
+estimatedTokens: 219
+keywords: [DelegateGroupMember, Represents, users, assigned, delegate, group, Tooling, API, version, 57.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # DelegateGroupMember
+
+> Represents users assigned to the delegate group This object is available
+      in Tooling API version 57.0 and later.
 
 # DelegateGroupMember
 

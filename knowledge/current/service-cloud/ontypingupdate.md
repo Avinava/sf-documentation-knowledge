@@ -5,11 +5,18 @@ topic: ontypingupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.559Z
-keywords: [onTypingUpdate, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.237Z
+estimatedTokens: 324
+keywords: [onTypingUpdate, Registers, function, call, customer’s, text, chat, window, changes., Sneak, Peek, enabled, called, whenever, customer, edits, window., starts, stops, typing]
 ---
 
 # onTypingUpdate()
+
+> Registers a function to call when the customer’s text in the chat window
+        changes. If Sneak Peek is enabled, this function is called whenever the customer edits the
+        text in the chat window. If Sneak Peek is not enabled, this function is called whenever a
+        customer starts or stops typing in the chat window. Available in API version 29.0 or
+            later.
 
 # onTypingUpdate()
 
@@ -43,3 +50,24 @@ This method is asynchronous so it returns its response in an object in a callbac
 | isTyping | Boolean | Indicates whether a chat visitor is typing (true) or not (false). |
 | sneakPeek | String | The text the chat visitor is currently typing into their input box in the chat window. This is visible only if Sneak Peek is enabled for the agent. |
 | success | Boolean | true if firing event was successful; false if firing event wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.onTypingUpdate(chatKey:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        var eventHandler = function (result) {
+            alert('There is a new typing update in this chat');
+        }
+        //Get the value for 'myChatKey'from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+        //These values are for example purposes only
+        var chatKey = 'myChatKey';
+        sforce.console.chat.onTypingUpdate(chatKey, eventHandler);
+    </script>
+</apex:page>
+```

@@ -5,11 +5,15 @@ topic: readresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.211Z
-keywords: [ReadResult, Version, Properties]
+lastCollected: 2026-03-12T05:14:42.124Z
+estimatedTokens: 70
+keywords: [ReadResult, Contains, result, information, readMetadata, call., Version]
 ---
 
 # ReadResult
+
+> Contains result information for
+the readMetadata call.
 
 # ReadResult
 
@@ -24,3 +28,7 @@ Available in API version 30.0 and later.
 | Name | Type | Description |
 | --- | --- | --- |
 | records | Metadata[] | An array of metadata components returned from readMetadata(). |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

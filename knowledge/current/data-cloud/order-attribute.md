@@ -5,11 +5,17 @@ topic: order-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.270Z
-keywords: [Order, Attribute, Example]
+lastCollected: 2026-03-12T05:14:12.235Z
+estimatedTokens: 195
+keywords: [Order, Attribute, order, attribute, contained, within, event, structure, Event, mapped, accordance, schema., Example]
 ---
 
 # Order Attribute
+
+> An order attribute is contained within the event structure of Order Event and mapped in
+        accordance with the
+        order
+        schema.
 
 # Order Attribute
 
@@ -37,3 +43,77 @@ An order attribute is contained within the event structure of Order Event and ma
 ```
 
 ```
+
+## Code Examples
+
+```
+Order(
+    id: "order-1",
+    totalValue: 9.99,
+    currency: "USD",
+    attributes: [
+        "PROMO_CODE": "HELLO"
+    ]
+    lineItems: [
+        LineItem(
+            catalogObjectType: "Product",
+            catalogObjectId: "product-1",
+            quantity: 1,
+            price: 20,
+            currency: "USD",
+            attributes: [
+                "gift_wrap": true,
+                "gift card": "Dearly Beloved"
+            ]
+        ),
+        LineItem(
+            catalogObjectType: "Product",
+            catalogObjectId: "product-2",
+            quantity: 2,
+            price: 5,
+            currency: "USD",
+            attributes: [
+                "gift_wrap": false
+            ]
+        )
+    ]
+)
+```
+
+```
+Order(
+    id = "order-1",
+    totalValue = 30.00,
+    currency = "USD",
+    attributes = mapOf(
+        "PROMO_CODE" to "HELLO"
+    ),
+    lineItems = listOf(
+        LineItem(
+            catalogObjectId = "product-1",
+            catalogObjectType = "Product",
+            quantity = 1,
+            price = 20.00,
+            currency = "USD",
+            attributes = mapOf(
+                "gift_wrap" to true,
+                "gift card" to "Dearly Beloved"
+            )
+        ),
+        LineItem(
+            catalogObjectId = "product-2",
+            catalogObjectType = "Product",
+            quantity = 2,
+            price = 5.00,
+            currency = "USD",
+            attributes = mapOf(
+                "gift_wrap" to false
+            )
+        )
+    )
+    )
+```
+
+## Related Topics
+
+- Line Item Attribute (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_line_item_attribute.htm)

@@ -5,11 +5,15 @@ topic: lookupfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.191Z
-keywords: [LookupFilter, Important, Note, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Example, Metadata, FilterItem]
+lastCollected: 2026-03-12T05:14:45.959Z
+estimatedTokens: 1328
+keywords: [LookupFilter, Represents, lookup, filter, which, restricts, valid, values, dialog, results, master-detail, hierarchical, relationship, fields., Important, Note, Supported, SOAP, Calls, REST]
 ---
 
 # LookupFilter
+
+> Represents a lookup filter, which restricts the valid values and lookup dialog
+  results for lookup, master-detail, and hierarchical relationship fields.
 
 # LookupFilter
 

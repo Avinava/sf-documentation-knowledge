@@ -5,11 +5,14 @@ topic: connectapipreviewcarttoexchangeorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.440Z
-keywords: [ConnectApi.PreviewCartToExchangeOrderInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.347Z
+estimatedTokens: 136
+keywords: [ConnectApi.PreviewCartToExchangeOrderInputRepresentation, Information, required, preview, cart, exchange, order.]
 ---
 
 # ConnectApi.PreviewCartToExchangeOrderInputRepresentation
+
+> Information required to preview a cart to exchange order.
 
 # ConnectApi.PreviewCartToExchangeOrderInputRepresentation
 
@@ -21,3 +24,7 @@ Information required to preview a cart to exchange order.
 | orderSummaryId | String | Order summary ID. | Required | 60.0 |
 | referenceId | String | Return order ID. | Required | 60.0 |
 | reservationType | String | The type of the reservation. | Optional | 61.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

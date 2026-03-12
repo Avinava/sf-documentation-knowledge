@@ -5,11 +5,14 @@ topic: connectapifeeditempage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.702Z
-keywords: [ConnectApi.FeedItemPage, Important]
+lastCollected: 2026-03-12T05:14:25.749Z
+estimatedTokens: 532
+keywords: [ConnectApi.FeedItemPage, paged, collection, ConnectApi.FeedItem, objects., Important]
 ---
 
 # ConnectApi.FeedItemPage
+
+> A paged collection of ConnectApi.FeedItem objects.
 
 # ConnectApi.FeedItemPage
 
@@ -32,3 +35,10 @@ This class isn’t available in version 32.0 and later. In version 32.0 and late
 | nextPageUrl | String | Connect REST API URL identifying the next page, or null if there isn’t a next page. | 28.0–31.0 |
 | updatesToken | String | Token to use in an updatedSince parameter, or null if not available. | 30.0–31.0 |
 | updatesUrl | String | A Connect REST API resource with a query string containing the value of the updatesToken property. The resource returns the feed items that have been updated since the last request. Use the URL as it is—do not modify it. Property is null if not available. | 30.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.FeedElementPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_page.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.FeedItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_Item.htm)

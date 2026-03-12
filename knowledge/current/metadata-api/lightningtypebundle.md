@@ -5,11 +5,17 @@ topic: lightningtypebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.340Z
-keywords: [LightningTypeBundle, Important, Parent, Type, File, Structure, Directory, Location, Version, Fields, LightningTypeBundleResource, Declarative, Metadata, Sample, Definition, Note, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.874Z
+estimatedTokens: 1456
+keywords: [LightningTypeBundle, Represents, custom, Lightning, type., override, default, user, create, customized, appearance, based, business, requirements., Deploy, bundle, organization, implement, overrides., Important]
 ---
 
 # LightningTypeBundle
+
+> Represents a custom Lightning type. Use this type to
+			override the default user interface to create a customized appearance based on your
+			business requirements. Deploy this bundle to your organization to implement the
+			overrides.
 
 # LightningTypeBundle
 
@@ -40,22 +46,22 @@ The bundle includes these resources.
 -   The lightningTypes folder (1) contains a folder for each created custom Lightning type in the format {typeName} (2).
 -   Each custom lightning type folder contains a schema.json file (3) that defines the JSON schema that drives the custom Lightning type validation.
 -   Optional channel-specific folders (4). To override the default UI for a specific Salesforce application, the bundle contains a folder named after that channel. The supported channel folders are:
-    
+
     -   lightningDesktopGenAi (Agentforce Employee agent in Lightning Experience)
     -   enhancedWebChat (Agentforce Service agent via Enhanced Chat v2)
     -   experienceBuilder (Experience Builder)
-    
+
     Inside the {channelName} folder, you can configure:
-    
+
     -   The editor.json file (5) containing custom user interface and editor information
     -   The renderer.json file (6) containing custom user interface and renderer information
-        
+
         ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-        
+
         #### Note
-        
+
         This file isn’t supported in experienceBuilder.
-        
+
 
 ## Version
 
@@ -160,5 +166,89 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [Lightning Types Developer Guide](https://developer.salesforce.com/docs/platform/lightning-types/guide/lightning-types.html "Lightning Types Developer Guide - html (New Window)")
-    
+
 -   [Custom Lightning Type Examples](https://developer.salesforce.com/docs/einstein/genai/guide/lightning-types-examples.html "Custom Lightning Type Examples - html (New Window)")
+
+## Code Examples
+
+```
++--myMetadataPackage
+    +--lightningTypes (1)
+        +--TYPE_NAME (2)
+           +--schema.json (3)
+           +--CHANNEL_NAME (4)
+              +--editor.json (5) OR +--renderer.json (6)
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>LightningTypeBundle</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```
+
+```
++--lightningTypes
+    +--flightResponse
+        +--schema.json
+        +--lightningDesktopGenAi
+            +--renderer.json
+```
+
+```apex
+global class Flight {
+
+    @AuraEnabled
+    global String flightId;
+
+    @AuraEnabled
+    global Integer numLayovers;
+
+    @AuraEnabled
+    global Boolean isPetAllowed;
+
+    @AuraEnabled
+    global Long price;
+
+    @AuraEnabled
+    global Double discountPercentage;
+
+    @AuraEnabled
+    global Integer durationInMin;
+
+    global Flight(String flightId, Integer numLayovers, Boolean isPetAllowed,
+                  Long price, Double discountPercentage, Integer durationInMin) {
+        this.flightId = flightId;
+        this.numLayovers = numLayovers;
+        this.isPetAllowed = isPetAllowed;
+        this.price = price;
+        this.discountPercentage = discountPercentage;
+        this.durationInMin = durationInMin;
+     }
+}
+global class FlightRequestFilter {
+
+    @AuraEnabled
+    global Long price;
+
+    @AuraEnabled
+    global Double discountPercentage;
+}
+```
+
+```
+{
+  "title": "My Flight Response",
+  "description": "My Flight Response",
+  "lightning:type": "@apexClassType/c__Flight"
+}
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

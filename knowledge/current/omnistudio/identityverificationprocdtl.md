@@ -4,12 +4,17 @@ domain: omnistudio
 topic: identityverificationprocdtl
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.545Z
-keywords: [IdentityVerificationProcDtl, Important, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:54.035Z
+estimatedTokens: 1381
+keywords: [IdentityVerificationProcDtl, Used, configure, search, function, well, minimum, number, verifiers, identity, verification, process., API, version, 54.0, later., Supported, Calls, Fields, Important]
 ---
 
 # IdentityVerificationProcDtl
+
+> Used to configure the search function as well as the minimum number
+         of verifiers for the identity verification process. This object is available in API
+      version 54.0 and later.
 
 # IdentityVerificationProcDtl
 

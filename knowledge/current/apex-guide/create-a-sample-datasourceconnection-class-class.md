@@ -5,11 +5,16 @@ topic: create-a-sample-datasourceconnection-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.875Z
-keywords: [Create, Sample, DataSource.Connection, Class, sync, Note, query, search, upsertRows, deleteRows, See]
+lastCollected: 2026-03-12T05:14:33.030Z
+estimatedTokens: 1488
+keywords: [Create, Sample, DataSource.Connection, First, create, enable, Salesforce, obtain, external, system’s, schema, handle, queries, searches, data., sync, Note, query, search, upsertRows]
 ---
 
 # Create a Sample  DataSource.Connection Class Class
+
+> First, create a DataSource.Connection class
+        to enable Salesforce to obtain the external system’s schema and to handle queries and
+        searches of the external data.
 
 # Create a Sample DataSource.Connection Class Class
 
@@ -93,7 +98,120 @@ The deleteRows method is invoked when external object records are deleted. You c
 #### See Also
 
 -   [Execution Governors and Limits](atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm "Because Apex runs in a multitenant environment, the Apex runtime engine strictly enforces limits so that runaway Apex code or processes don’t monopolize shared resources. If some Apex code exceeds a limit, the associated governor issues a runtime exception that can’t be handled.")
-    
+
 -   [*Apex Reference Guide*: Connection Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_DataSource_Connection.htm "Apex Reference Guide: Connection Class - HTML (New Window)")
-    
+
 -   [Filters in the Apex Connector Framework](atlas.en-us.apexcode.meta/apexcode/apex_connector_filters.htm "The DataSource.QueryContext contains one DataSource.TableSelection. The DataSource.SearchContext can have more than one TableSelection. Each TableSelection has a filter property that represents the WHERE clause in a SOQL or SOSL query.")
+
+## Code Examples
+
+```apex
+global class SampleDataSourceConnection
+    extends DataSource.Connection {
+    global SampleDataSourceConnection(DataSource.ConnectionParams
+        connectionParams) {
+    }
+// Add implementation of abstract methods
+// ...
+```
+
+```apex
+// ...
+    override global List<DataSource.Table> sync() {
+        List<DataSource.Table> tables =
+            new List<DataSource.Table>();
+        List<DataSource.Column> columns;
+        columns = new List<DataSource.Column>();
+        columns.add(DataSource.Column.text('Name', 255));
+        columns.add(DataSource.Column.text('ExternalId', 255));
+        columns.add(DataSource.Column.url('DisplayUrl'));
+        tables.add(DataSource.Table.get('Sample', 'Title',
+            columns));
+        return tables;
+    }
+// ...
+```
+
+```apex
+// ...
+    override global DataSource.TableResult query(
+        DataSource.QueryContext context) {
+        if (context.tableSelection.columnsSelected.size() == 1 &&
+            context.tableSelection.columnsSelected.get(0).aggregation ==
+                DataSource.QueryAggregation.COUNT) {
+                List<Map<String,Object>> rows = getRows(context);
+                List<Map<String,Object>> response =
+                    DataSource.QueryUtils.filter(context, getRows(context));
+                List<Map<String, Object>> countResponse =
+                    new List<Map<String, Object>>();
+                Map<String, Object> countRow =
+                    new Map<String, Object>();
+                countRow.put(
+                    context.tableSelection.columnsSelected.get(0).columnName,
+                    response.size());
+                countResponse.add(countRow);
+                return DataSource.TableResult.get(context,
+                    countResponse);
+        } else {
+            List<Map<String,Object>> filteredRows =
+                DataSource.QueryUtils.filter(context, getRows(context));
+            List<Map<String,Object>> sortedRows =
+                DataSource.QueryUtils.sort(context, filteredRows);
+            List<Map<String,Object>> limitedRows =
+                DataSource.QueryUtils.applyLimitAndOffset(context,
+                    sortedRows);
+            return DataSource.TableResult.get(context, limitedRows);
+        }
+    }
+// ...
+```
+
+```apex
+// ...
+    override global List<DataSource.TableResult> search(
+            DataSource.SearchContext context) {
+        List<DataSource.TableResult> results =
+            new List<DataSource.TableResult>();
+        for (DataSource.TableSelection tableSelection :
+            context.tableSelections) {
+            results.add(DataSource.TableResult.get(tableSelection,
+                getRows(context)));
+        }
+        return results;
+    }
+// ...
+```
+
+```apex
+// ...
+    // Helper method to get record values from the external system for the Sample table.
+    private List<Map<String, Object>> getRows () {
+        // Get row field values for the Sample table from the external system via a callout.
+        HttpResponse response = makeGetCallout();
+        // Parse the JSON response and populate the rows.
+        Map<String, Object> m = (Map<String, Object>)JSON.deserializeUntyped(
+                response.getBody());
+        Map<String, Object> error = (Map<String, Object>)m.get('error');
+        if (error != null) {
+            throwException(string.valueOf(error.get('message')));
+        }
+        List<Map<String,Object>> rows = new List<Map<String,Object>>();
+        List<Object> jsonRows = (List<Object>)m.get('value');
+        if (jsonRows == null) {
+            rows.add(foundRow(m));
+        } else {
+            for (Object jsonRow : jsonRows) {
+                Map<String,Object> row = (Map<String,Object>)jsonRow;
+                rows.add(foundRow(row));
+            }
+        }
+        return rows;
+    }
+// ...
+```
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_connector_start_provider_class.htm)
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Filters in the Apex Connector Framework (atlas.en-us.apexcode.meta/apexcode/apex_connector_filters.htm)

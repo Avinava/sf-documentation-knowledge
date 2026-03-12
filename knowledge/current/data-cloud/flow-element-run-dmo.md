@@ -5,11 +5,15 @@ topic: flow-element-run-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.459Z
-keywords: [Flow, Element, Run, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.112Z
+estimatedTokens: 544
+keywords: [Flow, Element, Run, DMO, Data, Cloud, data, model, status, single, element, executed, within, flow, run., API, Name, Category, Primary, Subject]
 ---
 
 # Flow Element Run DMO
+
+> The Flow Element Run DMO is a Data Cloud 
+      data model object (DMO) for the status of a single element executed within a flow run.
 
 # Flow Element Run DMO
 

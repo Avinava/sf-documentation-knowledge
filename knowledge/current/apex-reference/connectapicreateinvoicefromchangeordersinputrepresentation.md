@@ -5,11 +5,15 @@ topic: connectapicreateinvoicefromchangeordersinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.033Z
-keywords: [ConnectApi.CreateInvoiceFromChangeOrdersInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:24.706Z
+estimatedTokens: 283
+keywords: [ConnectApi.CreateInvoiceFromChangeOrdersInputRepresentation, OrderSummary, associated, change, orders, create, Invoices, for.]
 ---
 
 # ConnectApi.CreateInvoiceFromChangeOrdersInputRepresentation
+
+> OrderSummary and associated change orders to create Invoices
+      for.
 
 # ConnectApi.CreateInvoiceFromChangeOrdersInputRepresentation
 
@@ -23,5 +27,12 @@ OrderSummary and associated change orders to create Invoices for.
 #### See Also
 
 -   [createMultipleInvoices(invoicesInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm#apex_ConnectAPI_OrderSummary_createMultipleInvoices_1 "Create Invoices to represent the charges for one or more change orders. Create Invoices for change orders that increase order amounts, such as for return fees. When you ensure the refund for a return, include the invoices for any associated return fees in the request.")
-    
+
 -   [ConnectApi.CreateMultipleInvoicesFromChangeOrdersInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_create_multiple_invoices_from_change_orders.htm "Data about the change orders to create Invoices for.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createMultipleInvoices(invoicesInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm)
+- ConnectApi.CreateMultipleInvoicesFromChangeOrdersInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_create_multiple_invoices_from_change_orders.htm)

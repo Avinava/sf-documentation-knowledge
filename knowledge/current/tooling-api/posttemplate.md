@@ -5,11 +5,15 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.527Z
-keywords: [PostTemplate, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.469Z
+estimatedTokens: 234
+keywords: [PostTemplate, Represents, approval, post, template, Approvals, Chatter., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # PostTemplate
+
+> Represents an approval post template for
+            Approvals in Chatter.
 
 # PostTemplate
 
@@ -33,3 +37,7 @@ GET, PATCH
 | EntityDefinition | TypeEntityDefinitionPropertiesFilter, Group, SortDescriptionA relationship lookup to the object type associated with this PostTemplate. You can’t interact directly with this field. Instead, use it in queries. |
 | EntityDefinitionId | TypestringPropertiesFilter, Group, SortDescriptionThe durable ID for the object defined in the EntityDefinition field. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe template name. |
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)

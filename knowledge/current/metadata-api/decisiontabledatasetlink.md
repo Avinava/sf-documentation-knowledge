@@ -5,11 +5,17 @@ topic: decisiontabledatasetlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.802Z
-keywords: [DecisionTableDatasetLink, Note, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, DecisionTblDatasetParameters, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.640Z
+estimatedTokens: 630
+keywords: [DecisionTableDatasetLink, Represents, information, dataset, link, associated, decision, table., select, whose, records, table, must, provide, outcome., extends, Metadata, metadata, inherits, its]
 ---
 
 # DecisionTableDatasetLink
+
+> Represents the information about a dataset link
+      associated with a decision table. In a dataset link, select an object for whose records, the
+      decision table must provide an outcome. This type extends the
+      Metadata metadata type and inherits its fullName field.
 
 # DecisionTableDatasetLink
 
@@ -75,4 +81,57 @@ The following is an example package.xml that references the previous definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionTableDatasetLink xmlns="http://soap.sforce.com/2006/04/metadata">
+   <decisionTableName>Sample_DT</decisionTableName>
+   <decisionTblDatasetParameters>
+      <fieldName>IsDeleted</fieldName>
+      <datasetFieldName>IsDeleted</datasetFieldName>
+   </decisionTblDatasetParameters>
+   <decisionTblDatasetParameters>
+      <fieldName>LimitNumber</fieldName>
+      <datasetFieldName>CallDurationInSeconds</datasetFieldName>
+   </decisionTblDatasetParameters>
+   <decisionTblDatasetParameters>
+      <fieldName>Name</fieldName>
+      <datasetFieldName>Subject</datasetFieldName>
+   </decisionTblDatasetParameters>
+   <description>DSL created for md-common tests</description>
+   <isDefault>false</isDefault>
+   <sourceObject>Task</sourceObject>
+   <setupName>DSL Sample</setupName>
+</DecisionTableDatasetLink>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionTableDatasetLink xmlns="http://soap.sforce.com/2006/04/metadata">
+   <decisionTableName>Sample_DT</decisionTableName>
+   <isDefault>true</isDefault>
+   <sourceObject>WorkBadgeDefinition</sourceObject>
+   <setupName>Default DSL Sample</setupName>
+</DecisionTableDatasetLink>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <fullName>Sample DT Package</fullName>
+   <description>Package created for md-common tests</description>
+   <types>
+      <members>Sample_DT</members>
+      <name>DecisionTable</name>
+   </types>
+   <types>
+      <members>DSL_Sample</members>
+      <members>Sample_DT_Default</members>
+      <name>DecisionTableDatasetLink</name>
+   </types>
+   <version>51.0</version>
+</Package>
 ```

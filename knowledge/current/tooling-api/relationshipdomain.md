@@ -5,11 +5,18 @@ topic: relationshipdomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.656Z
-keywords: [RelationshipDomain, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:46.655Z
+estimatedTokens: 806
+keywords: [RelationshipDomain, Represents, relationship, objects., allows, write, simpler, queries., example, “which, objects, child, defined, ParentSobject”, easier, RelationshipDomain., Tooling, API, version, 34.0]
 ---
 
 # RelationshipDomain
+
+> Represents the relationship an object has with other objects. RelationshipDomain
+        allows you to write simpler queries. For example, “which objects are the child objects for
+        the object defined in ParentSobject” is easier using
+        RelationshipDomain. Available in Tooling API version 34.0 and
+        later.
 
 # RelationshipDomain
 
@@ -47,3 +54,11 @@ GET
 | RelationshipInfo | TypeRelationshipInfoPropertiesFilter, Group, SortDescriptionProperties about the relationship. |
 | RelationshipInfoId | TypestringPropertiesFilter, Group, Nillable, SortDescriptionID of RelationshipInfo for this relationship domain. |
 | RelationshipName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionName of this relationship. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)
+- FieldDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm)
+- RelationshipInfo (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_relationshipinfo.htm)

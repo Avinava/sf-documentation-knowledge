@@ -5,11 +5,14 @@ topic: connectapiactivationattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.861Z
-keywords: [ConnectApi.ActivationAttribute]
+lastCollected: 2026-03-12T05:14:25.975Z
+estimatedTokens: 319
+keywords: [ConnectApi.ActivationAttribute, Represents, activation, attribute, output.]
 ---
 
 # ConnectApi.ActivationAttribute
+
+> Represents the activation attribute output.
 
 # ConnectApi.ActivationAttribute
 
@@ -29,3 +32,12 @@ Represents the activation attribute output.
 | refAttrDeveloperName | String | Developer name of the referrence attribute. | 60.0 |
 | source | DataExportAttributeSourceEnum | Activation attribute source.DirectRelated | 60.0 |
 | type | DataExportAttributeTypeEnum | Type of activation attribute.Computed_DimensionComputed_MeasureModelModel_RelatedNon_Aggregatable_Computed_Measure | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.AttributeFilterExpression (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_attribute_filter_expression.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​QueryPathConfigList (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_query_path_config_list.htm)
+- DataExportAttributeSourceEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- DataExportAttributeTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

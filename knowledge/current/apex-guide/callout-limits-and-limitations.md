@@ -5,11 +5,16 @@ topic: callout-limits-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.395Z
-keywords: [Callout, Limits, Limitations, Apex, Callouts, Read-Only, Mode, Note, Setting, Timeouts]
+lastCollected: 2026-03-12T05:14:32.346Z
+estimatedTokens: 1323
+keywords: [Callout, Limits, Limitations, following, limits, limitations, apply, Apex, code, makes, callout, HTTP, request, web, services, call., call, SOAP, API, any]
 ---
 
 # Callout Limits and Limitations
+
+> The following limits and limitations apply when Apex code makes a callout to an HTTP request
+      or a web services call. The web services call can be a SOAP API call or any external web
+      services call.
 
 # Callout Limits and Limitations
 
@@ -60,3 +65,57 @@ The following is an example of setting a custom timeout for HTTP callouts:
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs.htm "Using Certificates")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_continuation_overview.htm "Make Long-Running Callouts with Continuations")
+
+## Code Examples
+
+```apex
+public class HttpCalloutSampleReadOnly {
+    public class MyReadOnlyException extends Exception {}
+
+    // Pass in the endpoint to be used using the string url
+    public String getCalloutResponseContents(String url) {
+        
+        // Get Read-only mode status
+        ApplicationReadWriteMode mode = System.getApplicationReadWriteMode();
+        String returnValue = '';
+        
+        if (mode == ApplicationReadWriteMode.READ_ONLY) {
+            // Prevent the callout
+            throw new MyReadOnlyException('Read-only mode. Skipping callouts!');
+        } else if (mode == ApplicationReadWriteMode.DEFAULT) {
+            // Instantiate a new http object
+            Http h = new Http();
+            
+            // Instantiate a new HTTP request, specify the method (GET) 
+            // as well as the endpoint.
+            HttpRequest req = new HttpRequest();
+            req.setEndpoint(url);
+            req.setMethod('GET');
+            
+            // Send the request, and return a response
+            HttpResponse res = h.send(req);
+            returnValue = res.getBody();                        
+        }
+        return returnValue;
+    }
+}
+```
+
+```
+docSample.DocSamplePort stub = new docSample.DocSamplePort();
+stub.timeout_x = 2000; // timeout in milliseconds
+```
+
+```
+HttpRequest req = new HttpRequest();
+req.setTimeout(2000); // timeout in milliseconds
+```
+
+## Related Topics
+
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Performing DML Operations and Mock Callouts (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing_dml.htm)
+- Performing DML Operations and Mock Callouts (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_dml.htm)
+- Generated WSDL2Apex Code (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_gen_code.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_continuation_overview.htm)

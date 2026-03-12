@@ -5,11 +5,15 @@ topic: closetab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.164Z
-keywords: [closeTab, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.673Z
+estimatedTokens: 442
+keywords: [closeTab, Lightning, Experience, Closes, workspace, tab, subtab., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Response]
 ---
 
 # closeTab() for Lightning Experience for Lightning Experience
+
+> Closes a workspace tab or subtab. This method works only in
+   Lightning console apps.
 
 # closeTab() for Lightning Experience for Lightning Experience
 
@@ -54,3 +58,48 @@ Controller code:
 ## Response
 
 This method returns a promise that resolves to true if successful. The promise is rejected on error.
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { IsConsoleNavigation, getFocusedTabInfo, closeTab } from 'lightning/platformWorkspaceApi';
+
+export class WorkspaceAPICloseTab extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async closeTab() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        const { tabId } = await getFocusedTabInfo();
+        await closeTab(tabId);
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <lightning:workspaceAPI aura:id="workspace"/>
+    <lightning:button label="Close Focused Tab" onclick="{!c.closeFocusedTab}"/>
+</aura:component>
+```
+
+```
+({
+    closeFocusedTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getFocusedTabInfo().then(function(response) {
+            var focusedTabId = response.tabId;
+            workspaceAPI.closeTab({tabId: focusedTabId});
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- getFocusedTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getFocusedTabInfo.htm)

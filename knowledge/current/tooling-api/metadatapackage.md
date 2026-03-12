@@ -5,11 +5,17 @@ topic: metadatapackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.264Z
-keywords: [MetadataPackage, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.060Z
+estimatedTokens: 315
+keywords: [MetadataPackage, Represents, package, developed, org, you’re, logged, to., Applies, unlocked, unmanaged, first-generation, second-generation, managed, packages., Tooling, API, version, 38.0, later.]
 ---
 
 # MetadataPackage
+
+> Represents a  package that has been
+            developed in the org you’re logged in to. Applies to unlocked, unmanaged,
+            first-generation, and second-generation managed packages. Available in Tooling API
+        version 38.0 and later.
 
 # MetadataPackage
 

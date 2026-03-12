@@ -5,11 +5,18 @@ topic: advaccountforecastset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.382Z
-keywords: [AdvAccountForecastSet, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AdvAccountForecastFormula, AdvAcctForecastAdjPeriod, AdvAcctForecastDimension, AdvAcctForecastMeasureDef, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, Declarative, Metadata]
+lastCollected: 2026-03-12T05:14:36.678Z
+estimatedTokens: 2676
+keywords: [AdvAccountForecastSet, Represents, forecast, define, configurations, business, unit, different, groups, accounts., separate, account, level, focus, account-specific, data, manage, configuration, updates, without]
 ---
 
 # AdvAccountForecastSet
+
+> Represents the forecast sets that define the forecast
+			configurations for each business unit or different groups of accounts. With separate
+			forecast sets at account or business unit level, you can focus on account-specific data
+			and manage configuration updates for one business unit without impacting any other
+			business unit’s data.
 
 # AdvAccountForecastSet
 
@@ -144,3 +151,82 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AdvAccountForecastSet xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <calculationFrequency>Quarterly</calculationFrequency>
+    <forecastAdjPeriods>
+        <adjustmentDayCount>5</adjustmentDayCount>
+        <frequency>Quarter</frequency>
+        <profileName xsi:nil="true"/>
+        <startDay>1</startDay>
+    </forecastAdjPeriods>
+    <forecastFormulas>
+        <endPeriod>12</endPeriod>
+        <formulaExpression>6</formulaExpression>
+        <startPeriod>2</startPeriod>
+        <formulaType>QUANTITY</formulaType>
+    </forecastFormulas>
+    <forecastPeriodGroupName>PeriodGroup1</forecastPeriodGroupName>
+    <accountFieldName>Account</accountFieldName>
+    <periodFieldName>Period</periodFieldName>
+    <forecastQuantityFieldName>ForecastedQuantity</forecastQuantityFieldName>
+    <forecastRevenueFieldName>ForecastedRevenue</forecastRevenueFieldName>
+    <forecastFactObjectName>AdvAccountForecastFact</forecastFactObjectName>
+    <forecastSetFieldName>AdvAcctForecastSetPartner</forecastSetFieldName>
+    <rolloverFrequency>Monthly</rolloverFrequency>
+    <forecastStatusFieldName>Status</forecastStatusFieldName>
+    <description>sample forecast set</description>
+    <regenerationDpeDefName xsi:nil="true"/>
+    <rolloverDpeDefName xsi:nil="true"/>
+    <recalculateDpeDefName xsi:nil="true"/>
+    <generationDpeDefName xsi:nil="true"/>
+    <status>Inactive</status>
+    <forecastSetName>Forecast Set 1</forecastSetName>
+    <dimensions>
+        <dimensionFieldName>Account</dimensionFieldName>
+        <dimensionSourceName>DimSource1</dimensionSourceName>
+        <hierarchySequenceNumber>1</hierarchySequenceNumber>
+        <advAcctForecastDimName>DimensionName</advAcctForecastDimName>
+    </dimensions>
+    <measureDefinitions>
+        <forecastDataMeasureName>MeasureName</forecastDataMeasureName>
+        <advAcctForecastMeasureDefName>Sample Def Name</advAcctForecastMeasureDefName>
+        <isAdjustmentTracked>true</isAdjustmentTracked>
+        <forecastMeasureName>Samplemeasure name</forecastMeasureName>
+        <aggregationType>MINIMUM</aggregationType>
+        <computationMethod>DATA_PROCESSING_ENGINE_DEFINITION</computationMethod>
+        <forecastMeasureType>QUANTITY</forecastMeasureType>
+    </measureDefinitions>
+    <displayGroups>
+        <advAcctFrcstDisplayGroupName>Sample Measure Group</advAcctFrcstDisplayGroupName>
+        <displayGroupType>MEASURE</displayGroupType>
+        <isDefault>false</isDefault>
+        <userProfileName xsi:nil="true"/>
+        <displayGroupItems>
+            <advAcctFrcstDplyGroupItemName>Sample Quantity</advAcctFrcstDplyGroupItemName>
+            <measureReferenceName>Sample Def Name</measureReferenceName>
+            <displayOrder>1</displayOrder>
+        </displayGroupItems>
+    </displayGroups>
+</AdvAccountForecastSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+       <members>*</members>
+       <name>AdvAccountForecastSet</name>
+    </types>
+   <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

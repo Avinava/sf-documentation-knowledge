@@ -5,11 +5,14 @@ topic: extending-a-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.561Z
-keywords: [Extending, Class, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.580Z
+estimatedTokens: 978
+keywords: [Extending, extend, provide, specialized, behavior., Versioned, Behavior, Changes]
 ---
 
 # Extending a Class
+
+> You can extend a class to provide more specialized behavior.
 
 # Extending a Class
 
@@ -61,3 +64,67 @@ In API version 50.0 and later, scope and accessibility rules are enforced on Ape
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm "Apex Properties")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm "Extended Class Example")
+
+## Code Examples
+
+```apex
+public virtual class Marker {
+    public virtual void write() {
+        System.debug('Writing some text.');
+    }
+
+    public virtual Double discount() {
+        return .05;
+    }
+}
+```
+
+```apex
+// Extension for the Marker class
+public class YellowMarker extends Marker {
+    public override void write() {
+        System.debug('Writing some text using the yellow marker.');
+    } 
+}
+```
+
+```
+Marker obj1, obj2;
+obj1 = new Marker();
+// This outputs 'Writing some text.'
+obj1.write();
+
+obj2 = new YellowMarker();
+// This outputs 'Writing some text using the yellow marker.'
+obj2.write();
+// We get the discount method for free
+// and can call it from the YellowMarker instance.
+Double d = obj2.discount();
+```
+
+```apex
+// Extension for the Marker class
+public class RedMarker extends Marker {
+    public override void write() {
+        System.debug('Writing some text in red.');
+    } 
+
+    // Method only in this class
+    public Double computePrice() {
+        return 1.5;
+    }
+}
+```
+
+```
+RedMarker obj = new RedMarker();
+// Call method specific to RedMarker only
+Double price = obj.computePrice();
+```
+
+## Related Topics
+
+- NamespaceAccessible
+                    Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm)

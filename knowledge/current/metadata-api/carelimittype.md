@@ -5,11 +5,14 @@ topic: carelimittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.004Z
-keywords: [CareLimitType, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.553Z
+estimatedTokens: 503
+keywords: [CareLimitType, Defines, characteristics, limits, benefit, provision., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # CareLimitType
+
+> Defines the characteristics of limits on benefit provision.
 
 # CareLimitType
 
@@ -59,3 +62,26 @@ This is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CareLimitType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <limitType>test</limitType>
+    <masterLabel>test</masterLabel>
+    <metricType>Money</metricType>
+    <isProtected>false</isProtected>
+</CareLimitType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>CareLimitType</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```

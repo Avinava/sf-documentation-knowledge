@@ -5,11 +5,18 @@ topic: canvas-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.535Z
-keywords: [Canvas, Exceptions, Example]
+lastCollected: 2026-03-12T05:14:29.711Z
+estimatedTokens: 352
+namespace: Canvas
+keywords: [Canvas, Exceptions, contains, exception, classes., Example]
 ---
 
 # Canvas Exceptions
+
+> The Canvas namespace contains exception
+        classes.
+
+**Namespace:** `Canvas`
 
 # Canvas Exceptions
 
@@ -32,3 +39,33 @@ The following example implementation of onRender() catches a CanvasException tha
 ```
 
 See the [Canvas Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_connect.meta/platform_connect/ "HTML (New Window)") for additional examples that use CanvasRenderException.
+
+## Code Examples
+
+```apex
+public class MyCanvasListener 
+implements Canvas.CanvasLifecycleHandler {
+    
+    public void onRender(Canvas.RenderContext renderContext) {
+        Canvas.ApplicationContext app = renderContext.getApplicationContext();
+
+        // Code to generate a URL string that is too long
+
+        // ...
+
+        // Try to set the canvas app URL using the invalid URL string
+        try {
+            app.setCanvasUrlPath(aUrlPathThatIsTooLong);
+        } catch (CanvasException e) {
+            // Display error to user by throwing a new CanvasRenderException
+            throw new Canvas.CanvasRenderException(e.getMessage());
+        }
+    }
+}
+```
+
+## Related Topics
+
+- Exception Class and Built-In
+                    Exceptions (atlas.en-us.apexref.meta/apexref/apex_classes_exception_methods.htm)
+- Canvas.CanvasLifecycleHandler.onRender(renderContext) (atlas.en-us.apexref.meta/apexref/apex_canvas_CanvasLifecycleHandler_onRender.htm)

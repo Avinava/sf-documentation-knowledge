@@ -5,11 +5,14 @@ topic: api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.300Z
-keywords: [API, End-of-Life, Policy]
+lastCollected: 2026-03-12T05:14:12.275Z
+estimatedTokens: 349
+keywords: [API, End-of-Life, Policy, which, REST, versions, supported, unsupported, unavailable.]
 ---
 
 # API End-of-Life Policy
+
+> See which REST API versions are supported, unsupported, or unavailable.
 
 # API End-of-Life Policy
 

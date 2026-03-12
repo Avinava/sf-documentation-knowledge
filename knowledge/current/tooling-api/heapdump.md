@@ -5,11 +5,15 @@ topic: heapdump
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:38.103Z
-keywords: [HeapDump, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.831Z
+estimatedTokens: 183
+keywords: [HeapDump, complex, represents, heap, dump, ApexExecutionOverlayResult, object., API, version, 28.0, later., Fields, Usage]
 ---
 
 # HeapDump
+
+> A complex type that represents a heap dump in an
+   ApexExecutionOverlayResult object. Available from API version 28.0 or later.
 
 # HeapDump
 

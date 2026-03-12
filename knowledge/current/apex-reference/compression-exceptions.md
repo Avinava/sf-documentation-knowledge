@@ -5,11 +5,18 @@ topic: compression-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.537Z
-keywords: [Compression, Exceptions]
+lastCollected: 2026-03-12T05:14:29.713Z
+estimatedTokens: 170
+namespace: Compression
+keywords: [Compression, Exceptions, contains, exception, classes.]
 ---
 
 # Compression Exceptions
+
+> The Compression namespace contains exception
+        classes.
+
+**Namespace:** `Compression`
 
 # Compression Exceptions
 
@@ -22,3 +29,8 @@ The Compression namespace contains this exception:
 | Exception | Description |
 | --- | --- |
 | Compression.ZipException | Any problem with the zip operations, such as a zip entry name isn’t found. |
+
+## Related Topics
+
+- Exception Class and Built-In
+                    Exceptions (atlas.en-us.apexref.meta/apexref/apex_classes_exception_methods.htm)

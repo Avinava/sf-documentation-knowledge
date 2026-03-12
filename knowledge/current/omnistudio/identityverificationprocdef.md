@@ -4,16 +4,20 @@ domain: omnistudio
 topic: identityverificationprocdef
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.535Z
-keywords: [IdentityVerificationProcDef, Important, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.301Z
+estimatedTokens: 1717
+keywords: [IdentityVerificationProcDef, Represents, definition, identity, verification, process., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, IdentityVerificationProcDtl, IdentityVerificationProcFld, Declarative]
 ---
 
 # IdentityVerificationProcDef
 
+> Represents the definition of the identity
+			verification process.
+
 # IdentityVerificationProcDef
 
-Represents the definition of the identity verification process. This object is available in API version 54.0 and later.
+Represents the definition of the identity verification process.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=industries_reference)
 
@@ -21,27 +25,170 @@ Represents the definition of the identity verification process. This object is a
 
 Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
-## Supported SOAP API Calls
+## Parent Type
 
-create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
+This type extends the Metadata metadata type and inherits its fullName field.
 
-## Supported REST API Methods
+## File Suffix and Directory Location
 
-DELETE, GET, HEAD, PATCH, POST, Query
+IdentityVerificationProcDef components have the suffix .IdentityVerificationProcDef and are stored in the IdentityVerificationProcDefs folder.
+
+## Version
+
+IdentityVerificationProcDef components are available in API version 54.0 and later.
+
+## Special Access Rules
+
+The Health Cloud permission set license is required to use this metadata type.
 
 ## Fields
 
-| Field | Details |
+| Field Name | Description |
 | --- | --- |
-| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization. Label is Record Type Name.This field is automatically generated, but you can supply your own value if you create the record using the API.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance may slow while Salesforce generates one for each record. |
-| FullName | TypestringPropertiesCreate, Group, NillableDescriptionThe full name of the associated IdentityVerificationProcDef in Metadata API. The full name can include a namespaceprefix.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| Language | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe languages of the IdentityVerificationProcDef.Possible values are:da—Danishde—Germanen_US—Englishes—Spanishes_MX—Spanish (Mexico)fi—Finnishfr—Frenchit—Italianja—Japaneseko—Koreannl_NL—Dutchno—Norwegianpt_BR—Portuguese (Brazil)ru—Russiansv—Swedishth—Thaizh_CN—Chinese (Simplified)zh_TW—Chinese (Traditional) |
-| ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
-| MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionThe label for IdentityVerificationProcDef. |
-| Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionThe IdentityVerificationProcDef’s metadata.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix associated with this object. Each Developer Edition organization that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values:In Developer Edition organizations, the namespace prefix is set to the namespace prefix of the organization for all objects that support it. There is an exception if an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition organization of the package developer.In organizations that are not Developer Edition organizations, NamespacePrefix is only set for objects that are part of an installed managed package. There is no namespace prefix for all other objects. |
-| SearchLayoutType | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe display layout of the search component.Possible values are:StackTabNoteAs of API version 56.0, Tab isn't supported. |
+| identityVerificationProcDtls | Field TypeIdentityVerificationProcDtl[]DescriptionA list of Identity Verification Process Detail elements. |
+| masterLabel | Field TypestringDescriptionRequired.The label of the Identity Verification Process Definition record. |
+| searchLayoutType | Field TypeIdentityVerificationSearchLayoutType (enumeration of type string)DescriptionRequired.The display layout of the search component.Valid values are:StackTab |
 
-## Usage
+## IdentityVerificationProcDtl
 
-This object is used to build the verification context required to run the identity verification flows.
+Represents the verification-related details such as search criteria, verification criteria, or the custom apex class.
+
+| Field Name | Description |
+| --- | --- |
+| apexClass | Field TypestringDescriptionThe Apex class that is used to search and verify data in an external system. |
+| dataSourceType | Field TypeIdentityVerificationDataSourceType (enumeration of type string)DescriptionRequired.The source type of the data.Valid values are:ExternalSalesforce |
+| developerName | Field TypestringDescriptionRequired.The developer name of Identity verification process detail. Can contain only underscores and alphanumeric characters and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. |
+| displayRecordFieldName | Field TypestringDescriptionThe name of the field that contains information about the record that's shown to the user after identity verification is successful. Available in API version 58.0 and later. |
+| identityVerificationProcFlds | Field TypeIdentityVerificationProcFld[]DescriptionA list of Identity Verification Process Field elements. |
+| isActive | Field TypebooleanDescriptionIndicates whether the record is active (true) or not (false). |
+| isRetryAllowedAfterLimit | Field TypebooleanDescriptionFor internal use only. |
+| linkedIdVerfProcessDet | Field TypestringDescriptionThe record containing the details of the linked identity verification process. Available in API version 58.0 and later. |
+| masterLabel | Field TypestringDescriptionRequired.The label of the Identity Verification Process Detail record. |
+| objectName | Field TypestringDescriptionThe name of the object on which the search is performed and data is verified. |
+| optionalVerifiersMinVerfCount | Field TypeintDescriptionThe number of optional verifiers that must be checked. |
+| retryLimit | Field TypeintDescriptionFor internal use only. |
+| searchFilter | Field TypestringDescriptionA comma-separated list of predefined filter conditions that are used to refine the scope of the search. |
+| searchRecordUniqueIdField | Field TypestringDescriptionThe field storing the unique identifier of a record displayed in the search results. |
+| searchResultSortBy | Field TypestringDescriptionThe values that are used to sort the search results. |
+| searchSequenceNumber | Field TypeintDescriptionRequired.The sequence in which the search is performed and the search result is displayed. |
+| searchType | Field TypeIdentityVerificationSearchType (enumeration of type string)DescriptionRequired.The type of search being performed.Valid values are:Object-BasedText-Based |
+
+## IdentityVerificationProcFld
+
+Represents a set of fields necessary to configure the questions that CCA asks the caller before providing them with the information they need.
+
+| Field Name | Description |
+| --- | --- |
+| customFieldLabel | Field TypestringDescriptionThe custom label for the field that contains the verification data. |
+| dataSourceType | Field TypeIdentityVerificationProcFldDataSourceType (enumeration of type string)DescriptionRequired.The source type of the data.Valid values are:ExternalSalesforce |
+| developerName | Field TypestringDescriptionRequired.The developer name of Identity Verification Process Field. Can contain only underscores and alphanumeric characters and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores.Available in API version 58.0 and later. |
+| fieldDataType | Field TypeIdentityVerificationProcFldFieldDataType (enumeration of type string)DescriptionThe data type of the field in the external data source that's defined in the identity verification process detail. Available in API version 58.0 and later.Valid values are:addresscheckboxcurrencydateonlydatetimeemailnumberotherpercentphonepicklistreferencetexttimeonlyurl |
+| fieldName | Field TypestringDescriptionRequired.The label of the field that contains the verification data based on the selected field type. Available in API version 58.0 and later. |
+| fieldType | Field TypeIdentityVerificationProcFldFieldType (enumeration of type string)DescriptionRequired.Indicates the type of field.Valid values are:additionalResultFieldoptionalVerifierrequiredVerifierresultFieldsearchFieldsearchFilter |
+| fieldValueFormula | Field TypestringDescriptionStores the formula that is applied to the field value. |
+| isActive | Field TypebooleanDescriptionIndicates whether the record is active (true) or not (false). |
+| isManualInput | Field TypebooleanDescriptionIndicates whether the user can manually enter the identity verification details (true) or not (false).The default value of this field is false.Available in API version 58.0 and later. |
+| masterLabel | Field TypestringDescriptionRequired.A user-friendly name for Identity Verification Process Field. |
+| sequenceNumber | Field TypeintDescriptionRequired.The sequence number of the field. |
+
+## Declarative Metadata Sample Definition
+
+This is an example of an IdentityVerificationProcDef component.
+
+```
+
+```
+
+This is an example package.xml that references the previous definition.
+
+```
+
+```
+
+## Wildcard Support in the Manifest File
+
+This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IdentityVerificationProcDef xmlns="http://soap.sforce.com/2006/04/metadata">
+   <identityVerificationProcDtls>
+      <fullName>Sample93AccountSearch</fullName>
+      <dataSourceType>Salesforce</dataSourceType>
+      <developerName>Sample93AccountSearch</developerName>
+      <identityVerificationProcFlds>
+         <fullName>Sample93AccountName</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93AccountName</developerName>
+         <fieldName>Name</fieldName>
+         <fieldType>requiredVerifier</fieldType>
+         <isActive>false</isActive>
+         <masterLabel>Sample93 Account Name</masterLabel>
+         <fieldValueFormula>abcd</fieldValueFormula>
+         <customFieldLabel>Name</customFieldLabel>
+         <sequenceNumber>1</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <identityVerificationProcFlds>
+         <fullName>Sample93Phone</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93Phone</developerName>
+         <fieldName>phone</fieldName>
+         <fieldType>optionalVerifier</fieldType>
+         <isActive>false</isActive>
+         <masterLabel>Sample93 Phone</masterLabel>
+         <sequenceNumber>93</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <identityVerificationProcFlds>
+         <fullName>Sample93PostalCode</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93PostalCode</developerName>
+         <fieldName>BillingPostalCode</fieldName>
+         <fieldType>optionalVerifier</fieldType>
+         <isActive>true</isActive>
+         <masterLabel>Sample93 Postal Code</masterLabel>
+         <sequenceNumber>4</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <identityVerificationProcFlds>
+         <fullName>Sample93Account</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93Account</developerName>
+         <fieldName>Name</fieldName>
+         <fieldType>resultField</fieldType>
+         <isActive>false</isActive>
+         <masterLabel>Sample93 Account</masterLabel>
+         <sequenceNumber>1</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <isActive>true</isActive>
+      <masterLabel>Sample93 Account Search</masterLabel>
+      <objectName>Account</objectName>
+      <searchRecordUniqueIdField>Id</searchRecordUniqueIdField>
+      <searchSequenceNumber>1</searchSequenceNumber>
+      <searchType>Text-Based</searchType>
+      <searchResultSortBy>Name</searchResultSortBy>
+      <optionalVerifiersMinVerfCount>1</optionalVerifiersMinVerfCount>
+      <isRetryAllowedAfterLimit>false</isRetryAllowedAfterLimit>
+      <retryLimit>5</retryLimit>
+      <searchFilter></searchFilter>
+      <displayRecordFieldName>LastModifiedById</displayRecordFieldName>
+   </identityVerificationProcDtls>
+   <masterLabel>Sample93 Verification Flow</masterLabel>
+   <searchLayoutType>Tab</searchLayoutType>
+</IdentityVerificationProcDef>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>IdentityVerificationProcDef</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```

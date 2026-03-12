@@ -5,11 +5,15 @@ topic: recommendation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.476Z
-keywords: [Recommendation, Input]
+lastCollected: 2026-03-12T05:14:48.710Z
+estimatedTokens: 367
+keywords: [Recommendation, Input, representation, recommendation, request, Einstein, Next, Best, Action.]
 ---
 
 # Recommendation Input
+
+> Input representation of the recommendation request with Einstein Next
+      Best Action.
 
 # Recommendation Input
 
@@ -33,3 +37,20 @@ Properties
 | recommendation​FieldMapping | Map<String, String> | The field mapping that’s used to store the recommendations when the canPersist​Recommendations property is set to true. | Optional | 56.0 |
 | strategyName | String | The name of the strategy. | Required | 56.0 |
 | usecase​Definition​Name | String | The API name of the use case definition. | Required | 56.0 |
+
+## Code Examples
+
+```
+{
+    "usecaseDefinitionName": "ChurnPredictionRealTime",
+    "strategyName": "flow_sample",
+    "rcmdStrategyParameters": [
+      {
+       "recordId": "a02xx000001nd0RAAQ",
+       "predictionScore": 96
+      }
+    ],
+    "maxRecommendationsCount": 1,
+    "recommendationFieldMapping": {}
+}
+```

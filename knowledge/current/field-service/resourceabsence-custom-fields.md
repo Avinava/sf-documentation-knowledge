@@ -5,11 +5,15 @@ topic: resourceabsence-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.117Z
-keywords: [ResourceAbsence, Custom, Fields, Supported, Calls, Special, Access, Rules, Internal, See]
+lastCollected: 2026-03-12T05:14:55.333Z
+estimatedTokens: 1562
+keywords: [ResourceAbsence, Custom, Fields, fields, associated, time, period, which, service, resource, unavailable, work, Field, Service., Supported, Calls, Special, Access, Rules, Internal]
 ---
 
 # ResourceAbsence Custom Fields
+
+> Custom fields associated with a time period in which a service resource is
+         unavailable to work in Field Service.
 
 # ResourceAbsence Custom Fields
 
@@ -52,5 +56,5 @@ These internal fields are used by the Field Service managed package for Street L
 #### See Also
 
 -   [Salesforce Object Reference: ResourceAbsence](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_resourceabsence.htm "Salesforce Object Reference: ResourceAbsence - HTML (New Window)")
-    
+
 -   [Salesforce Help: View Resource Absences on the Gantt and Map](https://help.salesforce.com/articleView?id=service.pfs_approved_absences.htm&type=5&language=en_US "Salesforce Help: View Resource Absences on the Gantt and Map - HTML (New Window)")

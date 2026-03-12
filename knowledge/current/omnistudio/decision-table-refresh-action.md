@@ -5,11 +5,14 @@ topic: decision-table-refresh-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.071Z
-keywords: [Decision, Table, Refresh, Action, Supported, REST, HTTP, Methods, Inputs, Outputs, Usage]
+lastCollected: 2026-03-12T05:14:51.103Z
+estimatedTokens: 413
+keywords: [Decision, Table, Refresh, Action, business, rules, active, decision, table., Supported, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Decision Table Refresh Action
+
+> Refresh business rules for an active decision table.
 
 # Decision Table Refresh Action
 
@@ -61,4 +64,24 @@ Authorization: Bearer token
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "decisionTableApiName": "Points_to_Redeem_Based_on_Product_and_Order_Channel",
+      "isIncremental": true
+    }
+  ]
+}
+```
+
+```
+{
+   "status":"Queued",//Queued or Failed
+   "errorMessage":"" //in case any failure
+}
 ```

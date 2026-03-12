@@ -5,15 +5,363 @@ topic: oaas-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.033Z
-keywords: [OAAS, Class, Returns, optimization, request, details, call., method, runs, resource, schedule, optimization—the, single, service, resource’s, schedule—using, parameters, provided., resourceDayOptimization, resourceId]
+lastCollected: 2026-03-12T05:14:55.236Z
+estimatedTokens: 6955
+namespace: FSL
+keywords: [OAAS, Contains, used, optimization, services, such, in-day, optimizations, reshuffle, operations, resource, schedule, optimizations., Usage, optimize, request, Example, serviceId, policyId, resourceDayOptimization]
 ---
 
 # OAAS Class
 
-> Returns the optimization request ID with the details of the
-      optimization call. This method runs resource schedule optimization—the optimization of
-      a single service resource’s schedule—using the parameters provided.
+> Contains all the methods used in the available optimization services,
+      such as global or in-day optimizations, reshuffle operations, and resource schedule
+      optimizations.
+
+**Namespace:** `FSL`
+
+# OAAS Class
+
+Contains all the methods used in the available optimization services, such as global or in-day optimizations, reshuffle operations, and resource schedule optimizations.
+
+## Namespace
+
+[FSL](atlas.en-us.field_service_dev.meta/field_service_dev/apex_namespace_FSL.htm "The Field Service (FSL) namespace contains all classes, methods, Visualforce pages, and custom objects within the Field Service managed package. To allow access to namespace elements, assign the FSL custom permission set that's appropriate for the user's persona. For example, to allow a user to book appointments, assign the FSL Agent custom permission set.")
+
+## Usage
+
+If you call OAAS APIs, running asynchronously, from the following methods, you receive a Database.executeBatch exception error message.
+
+-   start batch Apex method
+-   execute batch Apex method
+-   future methods
+
+The limitation doesn't apply if you're using Enhanced Scheduling and Optimization. See [Using Batch Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_batch_interface.htm) & [Future Methods](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_invoking_future_methods.htm) in the Apex Developer Guide.
+
+-   **[OAAS Methods](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_methods)**
+
+
+## OAAS Methods
+
+OAAS includes the following methods.
+
+-   **[optimize(request)](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_optimize)**
+    Returns the optimization request ID of the global optimization process that was triggered. If the scheduling policy includes an in-day optimization Boolean that’s set to true, the request triggers an in-day optimization.
+-   **[reshuffle(serviceId, policyId)](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_reshuffle)**
+    Returns the optimization request ID of a reshuffle operation that has begun on a given service appointment.
+-   **[resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime)](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_resourceDayOptimization)**
+    Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+-   **[resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime, nowTimeOnSchedule)](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_resourceDayOptimization_2)**
+    Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+-   **[resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSas, unschedulableServices, maxOptRuntime)](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_resourceDayOptimization_3)**
+    Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+-   **[resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSas, unschedulableServices, maxOptRuntime, nowTimeOnSchedule)](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm#apex_FSL_OAAS_resourceDayOptimization_4)**
+    Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+
+### optimize(request)
+
+Returns the optimization request ID of the global optimization process that was triggered. If the scheduling policy includes an in-day optimization Boolean that’s set to true, the request triggers an in-day optimization.
+
+#### Signature
+
+public static Id optimize(FSL.OAASRequest request)
+
+#### Parameters
+
+request
+
+Type: [FSL.OAASRequest](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAASRequest.htm#apex_class_FSL_OAASRequest "Represents the request sent in the OAAS.Optimize() method. This class contains all the details of a global optimization call.")
+
+The optimization request.
+
+#### Return Value
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+Record ID of the optimization request.
+
+#### Example
+
+This example creates an instance of the OAASRequest class that holds all the details of the optimization call being initiated. Next, the example calls the optimize method and passes in the request.
+
+```
+
+```
+
+### reshuffle(serviceId, policyId)
+
+Returns the optimization request ID of a reshuffle operation that has begun on a given service appointment.
+
+#### Signature
+
+public static Id reshuffle(Id serviceId, Id policyId)
+
+#### Parameters
+
+serviceId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the service appointment that must be scheduled.
+
+policyId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the scheduling policy being used to schedule the service appointment.
+
+#### Return Value
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+Record ID of the optimization request.
+
+#### Usage
+
+The Reshuffle action is used when a high-priority service appointment must be scheduled within a full schedule. It runs a “mini-optimization” that attempts to reshuffle the schedule to accommodate the appointment.
+
+To learn more about the Reshuffle action, see [Reschedule Service Appointments](https://help.salesforce.com/articleView?id=pfs_rescheduling.htm&language=en_US "HTML (New Window)").
+
+#### Example
+
+```
+
+```
+
+### resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime)
+
+Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+
+#### Signature
+
+public static Id resourceDayOptimization(Id resourceId, Id policyId, FSL.TimeInterval horizon, Boolean includeAllTasks, Boolean includeOnlyResourceFutureSA, Decimal radius, String candidateSasFields, String unschedulableServicesField, Decimal maxOptRuntime)
+
+#### Parameters
+
+resourceId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the service resource whose schedule is being optimized.
+
+policyId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the scheduling policy being used to schedule the service appointment.
+
+horizon
+
+Type: [FSL.TimeInterval](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_TimeInterval.htm#apex_class_FSL_TimeInterval "Holds an interval’s start and end times. An instance of this class is used when capturing the start and end times of a scheduling horizon, during which a scheduling process runs. It considers scheduled jobs and is also used to represent the start and end times of an appointment slot or window.")
+
+The time frame used to run resource schedule optimization.
+
+includeAllTasks
+
+Type: [Boolean](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_boolean.htm#apex_methods_system_boolean "HTML (New Window)")
+
+If true, all relevant service appointments within the time frame are considered during optimization. If false, only unscheduled service appointments are considered, and all scheduled service appointments are pinned (unmovable).
+
+includeOnlyResourceFutureSA
+
+Type: [Boolean](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_boolean.htm#apex_methods_system_boolean "HTML (New Window)")
+
+If true, only service appointments that are already assigned to the service resource are considered during optimization. If false, service appointments assigned to other service resources are also considered.
+
+radius
+
+Type: [Decimal](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_decimal.htm#apex_methods_system_decimal "HTML (New Window)")
+
+The suggested distance between required service appointments and adjacent appointments. Required appointments are defined by the unschedulableServicesField parameter. Resource schedule optimization tries to group service appointments so that their distance from a required appointment is less than this radius. Appointments that are further from a required appointment can still be scheduled, but are deprioritized. If null, the data is not filtered based on the radius.
+
+candidateSasFields
+
+Type: [String](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_string.htm#apex_methods_system_string "HTML (New Window)")
+
+Boolean service appointment field that indicates which appointments are candidates to be scheduled.
+
+unschedulableServicesField
+
+Type: [String](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_string.htm#apex_methods_system_string "HTML (New Window)")
+
+Boolean service appointment field that indicates whether a service appointment is required (pinned), meaning it must remain on the schedule during resource schedule optimization.
+
+maxOptRuntime
+
+Type: [Decimal](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_decimal.htm#apex_methods_system_decimal "HTML (New Window)")
+
+Total time in seconds during which the optimization results must be returned. This parameter only enforces the optimization time, and does not include optimization queue or Apex job queue times. If null, the default value of 30 seconds is used.
+
+#### Usage
+
+To learn more about resource schedule optimization, see [Optimize a Single Resource’s Schedule](https://help.salesforce.com/articleView?id=pfs_resource_optimization_user.htm&language=en_US "HTML (New Window)").
+
+#### Return Value
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+Record ID of the optimization request.
+
+### resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime, nowTimeOnSchedule)
+
+Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+
+#### Signature
+
+public static Id resourceDayOptimization(Id resourceId, Id policyId, FSL.TimeInterval horizon, Boolean includeAllTasks, Boolean includeOnlyResourceFutureSA, Decimal radius, String candidateSasFields, String unschedulableServicesField, Decimal maxOptRuntime, Datetime nowTimeOnSchedule)
+
+#### Parameters
+
+resourceId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the service resource whose schedule is being optimized.
+
+policyId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the scheduling policy being used to schedule the service appointment.
+
+horizon
+
+Type: [FSL.TimeInterval](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_TimeInterval.htm#apex_class_FSL_TimeInterval "Holds an interval’s start and end times. An instance of this class is used when capturing the start and end times of a scheduling horizon, during which a scheduling process runs. It considers scheduled jobs and is also used to represent the start and end times of an appointment slot or window.")
+
+The time frame used to run resource schedule optimization.
+
+includeAllTasks
+
+Type: [Boolean](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_boolean.htm#apex_methods_system_boolean "HTML (New Window)")
+
+If true, all relevant service appointments within the time frame are considered during optimization. If false, only unscheduled service appointments are considered, and all scheduled service appointments are pinned (unmovable).
+
+includeOnlyResourceFutureSA
+
+Type: [Boolean](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_boolean.htm#apex_methods_system_boolean "HTML (New Window)")
+
+If true, only service appointments that are already assigned to the service resource are considered during optimization. If false, service appointments assigned to other service resources are also considered.
+
+radius
+
+Type: [Decimal](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_decimal.htm#apex_methods_system_decimal "HTML (New Window)")
+
+The suggested distance between required service appointments and adjacent appointments. Required appointments are defined by the unschedulableServicesField and nowTimeOnSchedule parameters. Resource schedule optimization tries to group service appointments so that their distance from a required appointment is less than this radius. Appointments that are further from a required appointment can still be scheduled, but are deprioritized. If null, the data is not filtered based on the radius.
+
+candidateSasFields
+
+Type: [String](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_string.htm#apex_methods_system_string "HTML (New Window)")
+
+Boolean service appointment field that indicates which appointments are candidates to be scheduled.
+
+unschedulableServicesField
+
+Type: [String](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_string.htm#apex_methods_system_string "HTML (New Window)")
+
+Boolean service appointment field that indicates whether a service appointment is required (pinned), meaning it must it must remain on the schedule during resource schedule optimization.
+
+maxOptRuntime
+
+Type: [Decimal](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_decimal.htm#apex_methods_system_decimal "HTML (New Window)")
+
+Total time in seconds during which the optimization results must be returned. This parameter only enforces the optimization time, and does not include optimization queue or Apex job queue times. If null, the default value of 30 seconds is used.
+
+nowTimeOnSchedule
+
+Type: [Datetime](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_datetime.htm#apex_methods_system_datetime "HTML (New Window)")
+
+An appointment whose scheduled start time is earlier than this time is considered required and isn’t updated during resource schedule optimization. Because resource schedule optimization is asynchronous, this parameter indicates when optimization was initiated. For example, if nowTimeOnSchedule is set to April 17, 2018, 10:30, appointments with an earlier scheduled start time are considered required and excluded from resource schedule optimization.
+
+#### Return Value
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+Record ID of the optimization request.
+
+#### Usage
+
+To learn more about resource schedule optimization, see [Optimize a Single Resource’s Schedule](https://help.salesforce.com/articleView?id=pfs_resource_optimization_user.htm&language=en_US "HTML (New Window)").
+
+#### Example
+
+To use this code sample, replace the ID placeholders—for example, Service Appointment ID—with record IDs from your org. Surround the IDs with single quotes: '08p4E00000017Gq'.
+
+```
+
+```
+
+### resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSas, unschedulableServices, maxOptRuntime)
+
+Returns the optimization request ID with the details of the optimization call. This method runs resource schedule optimization—the optimization of a single service resource’s schedule—using the parameters provided.
+
+#### Signature
+
+public static Id resourceDayOptimization(Id resourceId, Id policyId, FSL.TimeInterval horizon, Boolean includeAllTasks, Boolean includeOnlyResourceFutureSA, Decimal radius, Set<String\> candidateSas, Set<String\> unschedulableServices, Decimal maxOptRuntime)
+
+#### Parameters
+
+resourceId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the service resource whose schedule is being optimized.
+
+policyId
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+The record ID of the scheduling policy being used to schedule the service appointment.
+
+horizon
+
+Type: [FSL.TimeInterval](atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_TimeInterval.htm#apex_class_FSL_TimeInterval "Holds an interval’s start and end times. An instance of this class is used when capturing the start and end times of a scheduling horizon, during which a scheduling process runs. It considers scheduled jobs and is also used to represent the start and end times of an appointment slot or window.")
+
+The time frame used to run resource schedule optimization.
+
+includeAllTasks
+
+Type: [Boolean](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_boolean.htm#apex_methods_system_boolean "HTML (New Window)")
+
+If true, all relevant service appointments within the time frame are considered during optimization. If false, only unscheduled service appointments are considered, and all scheduled service appointments are pinned (unmovable).
+
+includeOnlyResourceFutureSA
+
+Type: [Boolean](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_boolean.htm#apex_methods_system_boolean "HTML (New Window)")
+
+If true, only service appointments that are already assigned to the service resource are considered during optimization. If false, service appointments assigned to other service resources are also considered.
+
+radius
+
+Type: [Decimal](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_decimal.htm#apex_methods_system_decimal "HTML (New Window)")
+
+The suggested distance between required service appointments and adjacent appointments. Required appointments are defined by the unschedulableServices parameter. Resource schedule optimization tries to group service appointments so that their distance from a required appointment is less than this radius. Appointments that are further from a required appointment can still be scheduled, but are deprioritized. If null, the data is not filtered based on the radius.
+
+candidateSas
+
+Type: [Set](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_set.htm#apex_methods_system_set "HTML (New Window)")<[Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")\>
+
+Set of IDs of service appointments that are candidates for scheduling.
+
+unschedulableServices
+
+Type: [Set](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_set.htm#apex_methods_system_set)<[Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")\>
+
+Set of IDs of service appointments that are required (pinned), meaning they must remain on the schedule during resource schedule optimization
+
+maxOptRuntime
+
+Type: [Decimal](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_decimal.htm#apex_methods_system_decimal "HTML (New Window)")
+
+Total time in seconds during which the optimization results must be returned. This parameter only enforces the optimization time, and does not include optimization queue or Apex job queue times. If null, the default value of 30 seconds is used.
+
+#### Usage
+
+To learn more about resource schedule optimization, see [Optimize a Single Resource’s Schedule](https://help.salesforce.com/articleView?id=pfs_resource_optimization_user.htm&language=en_US "HTML (New Window)").
+
+#### Return Value
+
+Type: [Id](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_methods_system_id.htm#apex_methods_system_id "HTML (New Window)")
+
+Record ID of the optimization request.
 
 ### resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSas, unschedulableServices, maxOptRuntime, nowTimeOnSchedule)
 
@@ -100,3 +448,98 @@ To learn more about resource schedule optimization, see [Optimize a Single Resou
 ```
 
 ```
+
+## Code Examples
+
+```apex
+DateTime start=Datetime.now();
+DateTime finish=Datetime.now().addDays(3);
+
+LIST<Id> lstServiceTerritories = new List<Id>();
+lstServiceTerritories.add('0Hh0b000000cIwsCAE');
+
+FSL.OAASRequest oaasRequest = new FSL.OAASRequest();
+oaasRequest.allTasksMode = true;
+oaasRequest.filterFieldAPIName = null;
+oaasRequest.start = start;
+oaasRequest.finish = finish;
+oaasRequest.includeServicesWithEmptyLocation = false;
+oaasRequest.locations = lstServiceTerritories;
+oaasRequest.schedulingPolicyID = 'a0N4E0000031HKkUAM';
+
+FSL.OAAS oaas = new FSL.OAAS();
+id optRequest = oaas.optimize(oaasRequest);
+```
+
+```
+FSL.OAAS oaas = new FSL.OAAS();
+id optRequest = oaas.reshuffle('08p4E000000M21CQAS', 'a0N4E0000031HKkUAM');
+```
+
+```apex
+FSL.OAAS a = new FSL.OAAS();
+
+//SET the horizon interval
+DateTime start = DateTime.newInstanceGmt(DateTime.Now().dateGmt(), Time.newInstance(0,0,0,0));
+DateTime finish = start.addDays(3);
+FSL.TimeInterval horizon = new FSL.TimeInterval(start,finish);
+
+//SELECT the candidatesServices
+List<ServiceAppointment> services = [SELECT Id FROM ServiceAppointment WHERE Id IN 
+    (Service Appointment ID,Service Appointment ID) ];
+SET<Id> candidatesIds = new SET<Id>();
+FOR(ServiceAppointment service : services) {
+    candidatesIds.add(service.Id);
+}
+
+//SET the RSO required appointment services
+Set<Id> requiredSaIds = new Set<Id>();
+List<ServiceAppointment> services2 = [SELECT Id FROM ServiceAppointment WHERE Id=Service Appointment ID];
+FOR(ServiceAppointment service : services2) {
+    requiredSaIds.add(service.Id);
+}
+
+//START the RSO process
+Id requestId = a.resourceDayOptimization(Service Resource ID,Scheduling Policy ID,
+    ​horizon,false,true,50,candidatesIds,requiredSaIds,60,DateTime.newInstance(2018,1,0,0,0,0));
+```
+
+```apex
+FSL.OAAS a = new FSL.OAAS();
+
+//SET the horizon interval
+DateTime start = DateTime.newInstanceGmt(DateTime.Now().dateGmt(), Time.newInstance(0,0,0,0));
+DateTime finish = start.addDays(3);
+FSL.TimeInterval horizon = new FSL.TimeInterval(start,finish);
+
+//SELECT the candidatesServices
+List<ServiceAppointment> services = [SELECT Id FROM ServiceAppointment WHERE Id IN ('08p4E00000017Gp','08p4E00000017Go') ];
+SET<Id> candidatesIds = new SET<Id>();
+FOR(ServiceAppointment service : services) {
+    candidatesIds.add(service.Id);
+}
+
+//SET the RSO required appointment services
+Set<Id> requiredSaIds = new Set<Id>();
+List<ServiceAppointment> services2 = [SELECT Id FROM ServiceAppointment WHERE Id='08p4E00000017Gq'];
+FOR(ServiceAppointment service : services2) {
+    requiredSaIds.add(service.Id);
+}
+
+//START the RSO process
+Id requestId = a.resourceDayOptimization('0Hn4E0000004JRS','a1w4E000000Ac6S',horizon,false,true,50,
+    ​candidatesIds,requiredSaIds,60,DateTime.newInstance(2018,1,0,0,0,0));
+```
+
+## Related Topics
+
+- FSL (atlas.en-us.field_service_dev.meta/field_service_dev/apex_namespace_FSL.htm)
+- OAAS Methods (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- optimize(request) (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- reshuffle(serviceId, policyId) (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime) (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime, nowTimeOnSchedule) (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSas, unschedulableServices, maxOptRuntime) (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- resourceDayOptimization(resourceId, policyId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSas, unschedulableServices, maxOptRuntime, nowTimeOnSchedule) (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAAS.htm)
+- FSL.OAASRequest (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_OAASRequest.htm)
+- FSL.TimeInterval (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_TimeInterval.htm)

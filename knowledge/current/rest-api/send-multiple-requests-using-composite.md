@@ -6,12 +6,18 @@ topic: send-multiple-requests-using-composite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.263Z
-keywords: [Send, Multiple, Requests, Composite, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.411Z
+estimatedTokens: 1082
+keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, requests, single, call., output, request, input, subsequent, request., response, bodies, HTTP, statuses]
 ---
 
 # Send Multiple Requests
       Using Composite
+
+> Executes a series of REST API requests in a single call. You can use
+      the output of one request as the input to a subsequent request. The response bodies and HTTP
+      statuses of the requests are returned in a single response body. The entire series of requests
+      counts as a single call toward your API limits.
 
 # Send Multiple Requests Using Composite
 
@@ -74,5 +80,39 @@ Response body
 
 For examples of using the Composite resource, see [Execute Dependent Requests in a Single API Call](atlas.en-us.api_rest.meta/api_rest/dome_composite_record_manipulation.htm "The following example uses the Composite resource to execute several dependent requests all in a single call. First, it creates an account and retrieves its information. Next it uses the account data and the Composite resource’s reference ID functionality to create a contact and populate its fields based on the account data. Then it retrieves specific information about the account’s owner by using query parameters in the request string. Finally, if the metadata has been modified since a certain date, it retrieves account metadata. The composite.json file contains the composite request and subrequest data.") and [Update an Account, Create a Contact, and Link Them with a Junction Object](atlas.en-us.api_rest.meta/api_rest/dome_composite_junction_object.htm "The following example uses the Composite resource to update some fields on an account, create a contact, and link the two records with a junction object called AccountContactJunction. All these requests are executed in a single call. The composite.json file contains the composite request and subrequest data.").
 
--   **[Composite Subrequest Result](atlas.en-us.api_rest.meta/api_rest/resources_composite_subrequest_result.htm)**  
+-   **[Composite Subrequest Result](atlas.en-us.api_rest.meta/api_rest/resources_composite_subrequest_result.htm)**
     The composite subrequest result describes the result for a subrequest.
+
+## Code Examples
+
+```
+{
+"compositeRequest" : [{
+  "method" : "POST",
+  "url" : "/services/data/v66.0/sobjects/Account",
+  "referenceId" : "refAccount",
+  "body" : { "Name" : "Sample Account" }
+  },{
+  "method" : "POST",
+  "url" : "/services/data/v66.0/sobjects/Contact",
+  "referenceId" : "refContact",
+  "body" : { 
+    "LastName" : "Sample Contact",
+    "AccountId" : "@{refAccount.id}"
+    }
+  }]
+}
+```
+
+## Related Topics
+
+- sObject Rows by External
+            ID (atlas.en-us.api_rest.meta/api_rest/resources_sobject_upsert.htm)
+- sObject Blob Get (atlas.en-us.api_rest.meta/api_rest/resources_sobject_blob_retrieve.htm)
+- Composite Request Body (atlas.en-us.api_rest.meta/api_rest/requests_composite.htm)
+- Composite Response Body (atlas.en-us.api_rest.meta/api_rest/responses_composite.htm)
+- Execute Dependent Requests in a Single API
+          Call (atlas.en-us.api_rest.meta/api_rest/dome_composite_record_manipulation.htm)
+- Update an Account, Create a Contact, and
+          Link Them with a Junction Object (atlas.en-us.api_rest.meta/api_rest/dome_composite_junction_object.htm)
+- Composite Subrequest Result (atlas.en-us.api_rest.meta/api_rest/resources_composite_subrequest_result.htm)

@@ -5,11 +5,16 @@ topic: moderate-feed-items-with-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.128Z
-keywords: [Moderate, Feed, Items, Triggers]
+lastCollected: 2026-03-12T05:14:33.379Z
+estimatedTokens: 276
+keywords: [Moderate, Feed, Items, Triggers, Write, trigger, FeedItem, automate, moderation, posts, org, Experience, Cloud, site., triggers, ensure, conform, company’s, communication, policies]
 ---
 
 # Moderate Feed Items with Triggers
+
+> Write a trigger for FeedItem to automate the moderation of posts in
+      an org or Experience Cloud site. Use triggers to ensure that posts conform to your company’s
+      communication policies and don’t contain unwanted words or phrases.
 
 # Moderate Feed Items with Triggers
 
@@ -17,7 +22,7 @@ Write a trigger for FeedItem to automate the moderation of posts in an org or Ex
 
 | Available in: Enterprise, Performance, Unlimited, and Developer Editions |
 | --- |
-  
+
 
 | User Permissions Needed |
 | --- |
@@ -29,4 +34,20 @@ This example shows a *before insert* trigger on FeedItem that is used to review 
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+trigger ReviewFeedItem on FeedItem (before insert) {
+    for (Integer i = 0; i<trigger.new.size(); i++) {
+
+        // We don't want to leak "test phrase" information.
+
+        if (trigger.new[i].body.containsIgnoreCase('test phrase')) {
+            trigger.new[i].status = 'PendingReview'; 
+            System.debug('caught one for pendingReview');
+        }
+    }
+}
 ```

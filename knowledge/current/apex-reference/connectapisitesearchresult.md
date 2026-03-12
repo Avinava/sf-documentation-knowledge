@@ -5,11 +5,14 @@ topic: connectapisitesearchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.014Z
-keywords: [ConnectApi.SiteSearchResult]
+lastCollected: 2026-03-12T05:14:29.003Z
+estimatedTokens: 256
+keywords: [ConnectApi.SiteSearchResult, Site, search, result.]
 ---
 
 # ConnectApi.SiteSearchResult
+
+> Site search result.
 
 # ConnectApi.SiteSearchResult
 
@@ -27,3 +30,10 @@ Site search result.
 | previousPageToken | String | Token for the previous page of search results. | 54.0 |
 | previousPageUrl | String | URL to the previous page of search results, or null if there isn’t a previous page. | 54.0 |
 | totalItems | Integer | Total number of items in the search results across all pages. | 54.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​SiteSearchItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_site_search_item.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

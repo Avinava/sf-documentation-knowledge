@@ -5,11 +5,14 @@ topic: connectapimessagesegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.294Z
-keywords: [ConnectApi.MessageSegment, Important, See]
+lastCollected: 2026-03-12T05:14:28.005Z
+estimatedTokens: 883
+keywords: [ConnectApi.MessageSegment, Message, segment., Important]
 ---
 
 # ConnectApi.MessageSegment
+
+> Message segment.
 
 # ConnectApi.MessageSegment
 
@@ -50,3 +53,16 @@ The composition of a feed can change between releases. Write your code to handle
 #### See Also
 
 -   [ConnectApi.AbstractMessageBody](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstractMessageBody.htm "Abstract message body.")
+
+## Related Topics
+
+- ConnectApi.ComplexSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_complex_msg_seg.htm)
+- ConnectApi.EntityLinkSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_entityLinkSeg.htm)
+- ConnectApi.FieldChangeSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_FieldChgMsgSeg.htm)
+- ConnectApi.FieldChangeNameSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_FieldChgNameMsgSeg.htm)
+- ConnectApi.FieldChangeValueSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_FieldChgValueMsgSeg.htm)
+- ConnectApi.HashtagSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_hash_msg_seg.htm)
+- ConnectApi.InlineImageSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_inline_image_message_segment.htm)
+- ConnectApi.LinkSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_link_link_seg.htm)
+- ConnectApi.MarkupBeginSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_markup_begin_message_segment.htm)
+- ConnectApi.MarkupEndSegment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_markup_end_message_segment.htm)

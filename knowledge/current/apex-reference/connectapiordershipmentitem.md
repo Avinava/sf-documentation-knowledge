@@ -5,11 +5,14 @@ topic: connectapiordershipmentitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.491Z
-keywords: [ConnectApi.OrderShipmentItem]
+lastCollected: 2026-03-12T05:14:28.258Z
+estimatedTokens: 153
+keywords: [ConnectApi.OrderShipmentItem, Shipment, item.]
 ---
 
 # ConnectApi.OrderShipmentItem
+
+> Shipment item.
 
 # ConnectApi.OrderShipmentItem
 
@@ -24,3 +27,11 @@ Shipment item.
 | quantity | Double | Quantity of the product. | 52.0 |
 | shipmentId | String | ID of the shipment. | 52.0 |
 | shipmentItemId | String | ID of the shipment item. | 52.0 |
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordField.htm)
+- ConnectApi.​OrderItem​SummaryProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_product.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

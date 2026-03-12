@@ -5,11 +5,14 @@ topic: connectapitrackedchangeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.742Z
-keywords: [ConnectApi.​TrackedChangeItem, See]
+lastCollected: 2026-03-12T05:14:25.810Z
+estimatedTokens: 244
+keywords: [ConnectApi.​TrackedChangeItem, Tracked, change, item.]
 ---
 
 # ConnectApi.​TrackedChangeItem
+
+> Tracked change item.
 
 # ConnectApi.​TrackedChangeItem
 
@@ -24,5 +27,11 @@ Tracked change item.
 #### See Also
 
 -   [ConnectApi.TrackedChangesCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tracked_changes_capability.htm "If a feed element has this capability, it contains all changes to a record for a single tracked change event.")
-    
+
 -   [ConnectApi.TrackedChangeBundleCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tracked_change_bundle_capability.htm "If a feed element has this capability, it has a group of other feed elements aggregated into one feed element called a bundle. This type of bundle aggregates feed tracked changes.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.TrackedChangesCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tracked_changes_capability.htm)
+- ConnectApi.TrackedChangeBundleCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tracked_change_bundle_capability.htm)

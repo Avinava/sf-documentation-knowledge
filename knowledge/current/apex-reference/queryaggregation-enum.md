@@ -5,11 +5,14 @@ topic: queryaggregation-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:40.355Z
-keywords: [QueryAggregation, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.455Z
+estimatedTokens: 216
+keywords: [QueryAggregation, Specifies, how, aggregate, column, query., Usage, Values]
 ---
 
 # QueryAggregation Enum
+
+> Specifies how to aggregate a column in a query.
 
 # QueryAggregation Enum
 
@@ -31,3 +34,8 @@ The following are the values of the DataSource.QueryAggregation enum.
 | MIN | Reserved for future use. |
 | NONE | No aggregation. |
 | SUM | Reserved for future use. |
+
+## Related Topics
+
+- aggregation (atlas.en-us.apexref.meta/apexref/apex_class_DataSource_ColumnSelection.htm)
+- DataSource.ColumnSelection (atlas.en-us.apexref.meta/apexref/apex_class_DataSource_ColumnSelection.htm)

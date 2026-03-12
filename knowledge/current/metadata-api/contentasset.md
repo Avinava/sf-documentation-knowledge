@@ -5,11 +5,17 @@ topic: contentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.255Z
-keywords: [ContentAsset, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ContentAssetRelationships, ContentAssetLink, ContentAssetVersions, ContentAssetVersion, Declarative, Metadata, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:37.907Z
+estimatedTokens: 1451
+keywords: [ContentAsset, Represents, metadata, creating, asset, file., Asset, files, enable, Salesforce, file, used, org, setup, configuration, purposes., extends, MetadataWithContent, inherits, its]
 ---
 
 # ContentAsset
+
+> Represents the metadata for creating an asset file.
+    Asset files enable a Salesforce file to be used for org setup and configuration purposes. This type 
+    extends the MetadataWithContent metadata type and inherits its 
+    content and fullName fields.
 
 # ContentAsset
 
@@ -104,3 +110,39 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>some asset</masterLabel>
+    <relationships>
+        <organization>
+            <access>VIEWER</access>
+        </organization>
+    </relationships>
+    <versions>
+        <version>
+            <number>1</number>
+            <pathOnClient>some asset.txt</pathOnClient>
+        </version>
+    </versions>
+</ContentAsset>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyAsset</members>
+        <name>ContentAsset</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,16 @@ topic: standardobjectnameshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.461Z
-keywords: [StandardObjectNameShare, Supported, Calls, Special, Access, Rules, Fields, Objects, Follow, Model]
+lastCollected: 2026-03-12T05:14:53.183Z
+estimatedTokens: 4590
+keywords: [StandardObjectNameShare, model, share, objects, associated, standard, objects., represent, sharing, entry, object., Supported, Calls, Special, Access, Rules, Fields, Objects, Follow, Model]
 ---
 
 # StandardObjectNameShare
+
+> StandardObjectNameShare is the model for all share
+      objects associated with standard objects. These objects represent a sharing entry on the
+      standard object.
 
 # StandardObjectNameShare
 
@@ -138,3 +143,16 @@ These objects follow the standard pattern for associated feed objects.
 -   [StnryAssetEnrgyUseCnfg](https://developer.salesforce.com/docs/atlas.en-us.260.0.sustainability_cloud_dev_guide.meta/sustainability_cloud_dev_guide/tooling_api_objects_bldgenrgyintensitycnfg.htm)
 -   Vehicle
 -   Visit
+
+## Related Topics
+
+- AISentimentResult (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_aisentimentresult.htm)
+- ActionableListDtastClmnUsr (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_actionablelistdtastclmnusr.htm)
+- Assessment (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessment.htm)
+- AssessmentQuestion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestion.htm)
+- AssessmentQuestionAssignment (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionassignment.htm)
+- AssessmentQuestionResponse (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionresponse.htm)
+- AssessmentQuestionSet (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionset.htm)
+- CompliancePolicyVersion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_compliancepolicyversion.htm)
+- ComplianceTest (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_compliancetest.htm)
+- Regulation (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_regulationclause.htm)

@@ -5,11 +5,14 @@ topic: connectapiexternalauthidentityproviderinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.136Z
-keywords: [ConnectApi.ExternalAuthIdentityProviderInput, See]
+lastCollected: 2026-03-12T05:14:24.860Z
+estimatedTokens: 634
+keywords: [ConnectApi.ExternalAuthIdentityProviderInput, External, auth, identity, provider, input.]
 ---
 
 # ConnectApi.ExternalAuthIdentityProviderInput
+
+> External auth identity provider input.
 
 # ConnectApi.ExternalAuthIdentityProviderInput
 
@@ -32,5 +35,16 @@ External auth identity provider input.
 #### See Also
 
 -   [createExternalAuthIdentityProvider(requestBody)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm#apex_ConnectAPI_NamedCredentials_createExternalAuthIdentityProvider_2 "Create an external auth identity provider.")
-    
+
 -   [updateExternalAuthIdentityProvider(developerName, requestBody)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm#apex_ConnectAPI_NamedCredentials_updateExternalAuthIdentityProvider_3 "Update an external auth identity provider.")
+
+## Related Topics
+
+- ConnectApi.​IdentityProvider​AuthFlow (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​IdentityProvider​AuthProtocol (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​IdentityProvider​ClientAuth (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ExternalAuth​IdentityProvider​Parameter (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_auth_identity_provider_parameter.htm)
+- createExternalAuthIdentityProvider(requestBody) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm)
+- updateExternalAuthIdentityProvider(developerName, requestBody) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_NamedCredentials_static_methods.htm)

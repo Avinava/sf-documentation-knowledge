@@ -5,11 +5,16 @@ topic: classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.666Z
-keywords: [Classes]
+lastCollected: 2026-03-12T05:14:32.730Z
+estimatedTokens: 874
+keywords: [Classes, Java, create, classes, Apex., template, blueprint, which, objects, created., instance, class.]
 ---
 
 # Classes
+
+> As in Java, you can create classes in Apex. A
+        class is a template or blueprint from which objects are created. An
+        object is an instance of a class.
 
 # Classes
 
@@ -29,23 +34,36 @@ For more general information on classes, objects, and interfaces, see [http://ja
 
 In addition to classes, Apex provides triggers, similar to database triggers. A trigger is Apex code that executes before or after database operations. See [Triggers](atlas.en-us.apexcode.meta/apexcode/apex_triggers.htm "Apex can be invoked by using triggers. Apex triggers enable you to perform custom actions before or after changes to Salesforce records, such as insertions, updates, or deletions.").
 
-1.  [Apex Class Definition](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)  
-    
-2.  [Class Variables](atlas.en-us.apexcode.meta/apexcode/apex_classes_declaring_variables.htm)  
-    
-3.  [Class Methods](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)  
+1.  [Apex Class Definition](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)
+
+2.  [Class Variables](atlas.en-us.apexcode.meta/apexcode/apex_classes_declaring_variables.htm)
+
+3.  [Class Methods](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)
     Learn how to define Apex methods. Understand the differences between passing method arguments by value and passing method arguments by reference.
-4.  [Using Constructors](atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)  
-    
-5.  [Access Modifiers](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)  
-    
-6.  [Static and Instance Methods, Variables, and Initialization Code](atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm)  
+4.  [Using Constructors](atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)
+
+5.  [Access Modifiers](atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+
+6.  [Static and Instance Methods, Variables, and Initialization Code](atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm)
     In Apex, you can have static methods, variables, and initialization code. However, Apex classes can't be static. You can also have instance methods, member variables, and initialization code, which have no modifiers, and local variables.
-7.  [Apex Properties](atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm)  
-    
-8.  [Extending a Class](atlas.en-us.apexcode.meta/apexcode/apex_classes_extending.htm)  
+7.  [Apex Properties](atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm)
+
+8.  [Extending a Class](atlas.en-us.apexcode.meta/apexcode/apex_classes_extending.htm)
     You can extend a class to provide more specialized behavior.
-9.  [Extended Class Example](atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm)  
-    
+9.  [Extended Class Example](atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm)
+
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_interfaces.htm "Interfaces")
+
+## Related Topics
+
+- Triggers (atlas.en-us.apexcode.meta/apexcode/apex_triggers.htm)
+- Apex Class Definition (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)
+- Class Variables (atlas.en-us.apexcode.meta/apexcode/apex_classes_declaring_variables.htm)
+- Class Methods (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)
+- Using Constructors (atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)
+- Access Modifiers (atlas.en-us.apexcode.meta/apexcode/apex_classes_access_modifiers.htm)
+- Static and Instance Methods, Variables, and Initialization Code (atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm)
+- Apex Properties (atlas.en-us.apexcode.meta/apexcode/apex_classes_properties.htm)
+- Extending a Class (atlas.en-us.apexcode.meta/apexcode/apex_classes_extending.htm)
+- Extended Class Example (atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm)

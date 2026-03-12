@@ -5,11 +5,15 @@ topic: connectapiengagementinteractioncreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.773Z
-keywords: [ConnectApi.EngagementInteractionCreateInput]
+lastCollected: 2026-03-12T05:14:47.672Z
+estimatedTokens: 849
+keywords: [ConnectApi.EngagementInteractionCreateInput, Input, representation, create, engagement, interaction, record.]
 ---
 
 # ConnectApi.EngagementInteractionCreateInput
+
+> Input representation to create an engagement interaction
+    record.
 
 # ConnectApi.EngagementInteractionCreateInput
 
@@ -36,3 +40,9 @@ Input representation to create an engagement interaction record.
 | startDateTime | String | The date and time when an engagement interaction started. | Required | 55.0 |
 | status | String | The current status of an engagement interaction, which also impacts the interaction state. | Optional | 55.0 |
 | type | String | The type of interaction that was initiated by the attendee. Possible values are:Inbound InteractionOutbound InteractionYou can set custom values. | Optional | 55.0 |
+
+## Related Topics
+
+- ConnectApi.EngagementCustomFieldsInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_custom_fields.htm)
+- ConnectApi.EngagementAttendeeCreateInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_custom_fields.htm)
+- ConnectApi.EngagementTopicCreateInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_engagement_topic_create.htm)

@@ -5,11 +5,14 @@ topic: connectapicdpcalculatedinsightdimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.204Z
-keywords: [ConnectApi.CdpCalculatedInsightDimension, See]
+lastCollected: 2026-03-12T05:14:26.448Z
+estimatedTokens: 216
+keywords: [ConnectApi.CdpCalculatedInsightDimension, Calculated, insight, dimension.]
 ---
 
 # ConnectApi.CdpCalculatedInsightDimension
+
+> Calculated insight dimension.
 
 # ConnectApi.CdpCalculatedInsightDimension
 
@@ -29,3 +32,9 @@ Calculated insight dimension.
 #### See Also
 
 -   [ConnectApi.CdpCalculatedInsightOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight.htm "Calculated insight.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CdpCalculated​InsightDataSource (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight_data_source.htm)
+- ConnectApi.CdpCalculatedInsightOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight.htm)

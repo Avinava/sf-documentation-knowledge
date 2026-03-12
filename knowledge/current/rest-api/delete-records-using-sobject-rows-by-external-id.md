@@ -5,11 +5,14 @@ topic: delete-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.759Z
-keywords: [Delete, Records, sObject, Rows, External, Note, Syntax, See]
+lastCollected: 2026-03-12T05:14:36.135Z
+estimatedTokens: 344
+keywords: [Delete, Records, sObject, Rows, External, Deletes, record, based, specified, external, field., Note, Syntax]
 ---
 
 # Delete Records Using sObject Rows by External ID
+
+> Deletes a record based on the value of the specified external ID field.
 
 # Delete Records Using sObject Rows by External ID
 

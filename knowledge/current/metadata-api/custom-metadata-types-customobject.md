@@ -5,11 +5,18 @@ topic: custom-metadata-types-customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.548Z
-keywords: [Custom, Metadata, Types, CustomObject, File, Suffix, Directory, Location, Version, Special, Access, Rules, Note, Fields, Declarative, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.281Z
+estimatedTokens: 1336
+namespace: CustomMetadata
+keywords: [Custom, Metadata, Types, CustomObject, Represents, metadata, associated, custom, type., File, Suffix, Directory, Location, Version, Special, Access, Rules, Note, Fields, Declarative]
 ---
 
 # Custom Metadata Types (CustomObject)
+
+> Represents the metadata associated with a
+   custom metadata type.
+
+**Namespace:** `CustomMetadata`
 
 # Custom Metadata Types (CustomObject)
 
@@ -71,5 +78,57 @@ This excerpt from a package.xml file shows the use of dot notation and the \_\_m
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
-1.  [CustomMetadata](atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)  
+1.  [CustomMetadata](atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)
     Represents a record of a custom metadata type.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+   <fields>
+      <fullName>AlphaSort__c</fullName>
+      <defaultValue>false</defaultValue>
+      <externalId>false</externalId>
+      <label>Sorted Alphabetically</label>
+      <type>Checkbox</type>
+   </fields>
+   <label>Reusable Picklist</label>
+   <pluralLabel>Reusable Picklist</pluralLabel>
+   <visibility>Public</visibility>
+</CustomObject>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+...
+   <types>
+      <members>PicklistTest__c.PicklistTestField__c</members>
+      <members>ReusablePicklistOption__mdt.Picklist__c</members>
+      <members>ReusablePicklistOption__mdt.SortOrder__c</members>
+      <members>PicklistUsage__mdt.Field__c</members>
+      <members>PicklistUsage__mdt.Picklist__c</members>
+      <members>PicklistUsage__mdt.SObjectType__c</members>
+      <members>ReusablePicklist__mdt.AlphaSort__c</members>
+      <name>CustomField</name>
+   </types>
+...
+   <types>
+      <members>PicklistTest__c</members>
+      <members>ReusablePicklistOption__mdt</members>
+      <members>PicklistUsage__mdt</members>
+      <members>ReusablePicklist__mdt</members>
+      <name>CustomObject</name>
+   </types>
+...
+   <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- CustomField[] (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- CustomMetadata (atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)

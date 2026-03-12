@@ -5,11 +5,15 @@ topic: articles-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.384Z
-keywords: [Articles, List, Syntax, Note, Example, Usage, Valid, channel, Values]
+lastCollected: 2026-03-12T05:14:35.589Z
+estimatedTokens: 1558
+keywords: [Articles, List, Get, page, online, articles, given, language, category, through, either, search, query., resource, REST, API, version, 38.0, later., Syntax]
 ---
 
 # Articles List
+
+> Get a page of online articles for the given language and category through either search
+    or query. This resource is available in REST API version 38.0 and later.
 
 # Articles List
 
@@ -80,57 +84,57 @@ Output:
 A page of online articles in the given language and category visible to the current user.
 
 -   **Article Page**
-    
+
     A page of articles. The individual entries are article summaries so the size can be kept at a minimum.
-    
+
     ```
-    
+
     ```
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
-    
+
     #### Note
-    
+
     The API supports paging. Each page of responses includes a URL to its page, as well as the URL to the next page of articles.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
-    
+
     #### Note
-    
+
     if the user input parameter has the default value, the API does not show this parameter in either currentPageUrl or nextPageUrl.
-    
+
 -   **Article Summary**
-    
+
     A summary of an article used in a list of article responses. It shares similar properties to the Article Detail representation, as one is a superset of the other.
-    
+
     ```
-    
+
     ```
-    
+
     The “url” property always points to the [Article Details](atlas.en-us.api_rest.meta/api_rest/resources_knowledge_support_artdetails.htm#resources_knowledge_support_artdetails "Gets all online article fields, accessible to the user. This resource is available with article IDs in REST API version 38.0 and later, and this resource is available with article URL names in version 44.0 and later.") resource endpoint. For information on valid channel values, see the [channel parameter description](atlas.en-us.api_rest.meta/api_rest/resources_search_suggest_queries.htm#channel_param)
-    
+
 -   **Data Category Group**
-    
+
     An individual data category group, its root category, and a list of selected data categories in the group.
-    
+
     ```
-    
+
     ```
-    
+
 -   **Data Category Summary**
-    
+
     Provides a summary of data category information. The Summary and Detail responses share common properties.
-    
+
     ```
-    
+
     ```
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
-    
+
     #### Note
-    
+
     The outputs of Data Category Group and Data Category Summary in Article List API are different from the Data Category Groups API.
-    
+
 
 ## Example
 
@@ -165,3 +169,62 @@ Salesforce Knowledge must be enabled in your organization. This resource can be 
 -   If channel is specified, the specified value may be used to retrieve articles.
     -   For guest, Customer Portal, and Partner Portal users, if the specified channel is other than the channel accessible to the user, an error is returned.
     -   For all users other than guest, Customer Portal, and Partner Portal users, the specified channel value is used.
+
+## Code Examples
+
+```
+{
+   "articles": [ Article Summary, … ],  // list of articles
+      "currentPageUrl": URL,   // the article list API with current page number
+        "nextPageUrl": URL,  // the article list API with next page number,
+      which can be null if there are no more articles.
+      "pageNumber": Int  // the current page number, starting at 1.
+    }
+```
+
+```
+{
+      "id":  Id,    // articleId
+      "articleNumber": String,  
+      "articleType": String,  // apiName of the article type, available in API v44.0 and later
+      "title":  String,
+      "urlName": String,  // available in API v44.0 and later
+      "summary":  String,
+      "url":  URL,  // to the Article Detail API
+      "viewCount": Int,       // view count in the interested channel
+      "viewScore": double (in xxx.xxxx precision),   // view score in the interested channel.
+      "upVoteCount": int,  // up vote count in the interested channel. 
+      "downVoteCount": int, // down vote count in the interested channel.
+      "lastPublishedDate": Date // last publish date in ISO8601 format
+      "categoryGroups":  [ Data Category Group, …. ]}
+```
+
+```
+{
+      "groupName": String,  // the unique name of the category group
+      "groupLabel": String,  // returns the translated version
+      "selectedCategories": [ Data Category Summary, … ]
+    }
+```
+
+```
+{
+            "categoryName": String, // the unique name of the category
+            "categoryLabel":  String, // returns the translated version, per the API language specified
+            "url":  String // returns the url for the DataCategory REST API.
+    }
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/support/knowledgeArticles?sort=ViewScore&channel=Pkb&pageSize=3
+    HTTP Headers:
+        Content-Type: application/json; charset=UTF-8
+        Accept: application/json
+        Accept-Language: en-US
+```
+
+## Related Topics
+
+- Article Details (atlas.en-us.api_rest.meta/api_rest/resources_knowledge_support_artdetails.htm)
+- channel
+                      parameter description (atlas.en-us.api_rest.meta/api_rest/resources_search_suggest_queries.htm)

@@ -5,11 +5,18 @@ topic: genaiplanner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.903Z
-keywords: [GenAiPlanner, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, GenAiPlannerAttrMapping, GenAiPlannerFunctionDef, GenAiLocalPlugin, GenAiPlannerRuleExprAsgn, GenAiPlannerRuleExprDef, GenAiPlannerRuleExprCondition, Declarative, Metadata]
+lastCollected: 2026-03-12T05:14:40.235Z
+estimatedTokens: 1954
+namespace: Namespace.TopicName.ActionName.AttributeName
+keywords: [GenAiPlanner, Represents, planner, agent., It’s, container, topics, actions, used, interact, large, language, model, LLM, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # GenAiPlanner
+
+> Represents a planner for an agent. It’s a container for all the
+			topics and actions used to interact with a large language model (LLM).
+
+**Namespace:** `Namespace.TopicName.ActionName.AttributeName`
 
 # GenAiPlanner
 
@@ -134,3 +141,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlanner xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Copilot reasoning engine description</description>
+    <masterLabel>EmployeeCopilotPlanner</masterLabel>
+    <plannerType>AiCopilot__SequentialPlannerIntentClassifier</plannerType>
+</GenAiPlanner>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>GenAiPlanner</name>
+   </types>
+   <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- AiPluginUtteranceDef (atlas.en-us.api_meta.meta/api_meta/meta_aipluginutterancedef.htm)
+- GenAiPluginFunctionDef (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm)
+- GenAiPluginInstructionDef (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugininstructiondef.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

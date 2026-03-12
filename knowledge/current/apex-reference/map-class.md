@@ -5,13 +5,524 @@ topic: map-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:41.463Z
-keywords: [Map, Class, Returns, list, contains, values, map., Signature, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:30.849Z
+estimatedTokens: 3898
+namespace: System
+keywords: [Map, Contains, collection, type., Usage, Note, Map<T1, T2>, Example, mapToCopy, Map<ID, sObject>, recordList, clear, clone, containsKey, key, deepClone, equals, map2]
 ---
 
 # Map Class
 
-> Returns a list that contains all the values in the map.
+> Contains methods for the Map collection type.
+
+**Namespace:** `System`
+
+# Map Class
+
+Contains methods for the Map collection type.
+
+## Namespace
+
+[System](atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm "The System namespace provides classes and methods for core Apex functionality.")
+
+## Usage
+
+The Map methods are all instance methods, that is, they operate on a particular instance of a map. The following are the instance methods for maps.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexref)
+
+#### Note
+
+-   Map keys and values can be of any data type—primitive types, collections, sObjects, user-defined types, and built-in Apex types.
+-   Uniqueness of map keys of user-defined types is determined by the [equals and hashCode methods](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/langCon_apex_collections_maps_keys_userdefined.htm), which you provide in your classes. Uniqueness of keys of all other non-primitive types, such as sObject keys, is determined by comparing the objects’ field values. Use caution when you use an sObject as a map key because when the sObject is changed, it no longer maps to the same value. For information and examples, see [https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex\_map\_sobject\_considerations.htm](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_map_sobject_considerations.htm "HTML (New Window)")
+-   Map keys of type String are case-sensitive. Two keys that differ only by the case are considered unique and have corresponding distinct Map entries. Subsequently, the Map methods, including put, get, containsKey, and remove treat these keys as distinct.
+-   With the keySet() method, the returned keySet is backed by the map and reflects any changes made to the map, and vice versa.
+
+For more information on maps, see [Maps](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/langCon_apex_collections_maps.htm).
+
+-   **[Map Constructors](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_constructors)**
+
+-   **[Map Methods](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_methods)**
+
+
+## Map Constructors
+
+The following are constructors for Map.
+
+-   **[Map<T1,T2>()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_ctor_3)**
+    Creates a new instance of the Map class. T1 is the data type of the keys and T2 is the data type of the values.
+-   **[Map<T1,T2>(mapToCopy)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_ctor_2)**
+    Creates a new instance of the Map class and initializes it by copying the entries from the specified map. T1 is the data type of the keys and T2 is the data type of the values.
+-   **[Map<ID,sObject>(recordList)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_ctor)**
+    Creates a new instance of the Map class and populates it with the passed-in list of sObject records. The keys are populated with the sObject IDs and the values are the sObjects.
+
+### Map<T1,T2>()
+
+Creates a new instance of the Map class. T1 is the data type of the keys and T2 is the data type of the values.
+
+#### Signature
+
+public Map<T1,T2>()
+
+#### Example
+
+```
+
+```
+
+### Map<T1,T2>(mapToCopy)
+
+Creates a new instance of the Map class and initializes it by copying the entries from the specified map. T1 is the data type of the keys and T2 is the data type of the values.
+
+#### Signature
+
+public Map<T1,T2>(Map<T1,T2> mapToCopy)
+
+#### Parameters
+
+mapToCopy
+
+Type: Map<T1, T2>
+
+The map to initialize this map with. T1 is the data type of the keys and T2 is the data type of the values. All map keys and values are copied to this map.
+
+#### Example
+
+```
+
+```
+
+### Map<ID,sObject>(recordList)
+
+Creates a new instance of the Map class and populates it with the passed-in list of sObject records. The keys are populated with the sObject IDs and the values are the sObjects.
+
+#### Signature
+
+public Map<ID,sObject>(List<sObject> recordList)
+
+#### Parameters
+
+recordList
+
+Type: List<sObject>
+
+The list of sObjects to populate the map with.
+
+#### Example
+
+```
+
+```
+
+## Map Methods
+
+The following are methods for Map. All are instance methods.
+
+-   **[clear()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_clear)**
+    Removes all of the key-value mappings from the map.
+-   **[clone()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_clone)**
+    Makes a duplicate copy of the map.
+-   **[containsKey(key)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_containsKey)**
+    Returns true if the map contains a mapping for the specified key.
+-   **[deepClone()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_deepClone)**
+    Makes a duplicate copy of a map, including sObject records if this is a map with sObject record values.
+-   **[equals(map2)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_equals)**
+    Compares this map with the specified map and returns true if both maps are equal; otherwise, returns false.
+-   **[get(key)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_get)**
+    Returns the value to which the specified key is mapped, or null if the map contains no value for this key.
+-   **[getSObjectType()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_getSObjectType)**
+    Returns the token of the sObject type that makes up the map values.
+-   **[hashCode()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_hashCode)**
+    Returns the hashcode corresponding to this map.
+-   **[isEmpty()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_isEmpty)**
+    Returns true if the map has zero key-value pairs.
+-   **[keySet()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_keySet)**
+    Returns a set that contains all of the keys in the map.
+-   **[put(key, value)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_put)**
+    Associates the specified value with the specified key in the map.
+-   **[putAll(fromMap)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_putAll)**
+    Copies all of the mappings from the specified map to the original map.
+-   **[putAll(sobjectArray)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_putAll_2)**
+    Adds the list of sObject records to a map declared as Map<ID, sObject> or Map<String, sObject>.
+-   **[remove(key)](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_remove)**
+    Removes the mapping for the specified key from the map, if present, and returns the corresponding value.
+-   **[size()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_size)**
+    Returns the number of key-value pairs in the map.
+-   **[toString()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_toString)**
+    Returns the string representation of the map.
+-   **[values()](atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm#apex_System_Map_values)**
+    Returns a list that contains all the values in the map.
+
+### clear()
+
+Removes all of the key-value mappings from the map.
+
+#### Signature
+
+public Void clear()
+
+#### Return Value
+
+Type: Void
+
+### clone()
+
+Makes a duplicate copy of the map.
+
+#### Signature
+
+public Map<Object, Object\> clone()
+
+#### Return Value
+
+Type: [Map](#apex_methods_system_map "Contains methods for the Map collection type.") (of same type)
+
+#### Usage
+
+If this is a map with sObject record values, the duplicate map will only be a shallow copy of the map. That is, the duplicate will have references to each sObject record, but the records themselves are not duplicated. For example:
+
+To also copy the sObject records, you must use the deepClone method.
+
+#### Example
+
+```
+
+```
+
+### containsKey(key)
+
+Returns true if the map contains a mapping for the specified key.
+
+#### Signature
+
+public Boolean containsKey(Object key)
+
+#### Parameters
+
+key
+
+Type: Object
+
+#### Return Value
+
+Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
+
+#### Usage
+
+If the key is a string, the key value is case-sensitive.
+
+#### Example
+
+```
+
+```
+
+### deepClone()
+
+Makes a duplicate copy of a map, including sObject records if this is a map with sObject record values.
+
+#### Signature
+
+public Map<Object, Object\> deepClone()
+
+#### Return Value
+
+Type: [Map](#apex_methods_system_map "Contains methods for the Map collection type.") (of the same type)
+
+#### Usage
+
+To make a shallow copy of a map without duplicating the sObject records it contains, use the clone() method.
+
+#### Example
+
+```
+
+```
+
+### equals(map2)
+
+Compares this map with the specified map and returns true if both maps are equal; otherwise, returns false.
+
+#### Signature
+
+public Boolean equals(Map map2)
+
+#### Parameters
+
+map2
+
+Type: [Map](#apex_methods_system_map "Contains methods for the Map collection type.")
+
+The map2 argument is the map to compare this map with.
+
+#### Return Value
+
+Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
+
+#### Usage
+
+Two maps are equal if their key/value pairs are identical, regardless of the order of those pairs. The \== operator is used to compare the map keys and values.
+
+The \== operator is equivalent to calling the equals method, so you can call map1.equals(map2); instead of map1 == map2;.
+
+### get(key)
+
+Returns the value to which the specified key is mapped, or null if the map contains no value for this key.
+
+#### Signature
+
+public Object get(Object key)
+
+#### Parameters
+
+key
+
+Type: Object
+
+#### Return Value
+
+Type: Object
+
+#### Usage
+
+If the key is a string, the key value is case-sensitive.
+
+#### Example
+
+```
+
+```
+
+### getSObjectType()
+
+Returns the token of the sObject type that makes up the map values.
+
+#### Signature
+
+public Schema.SObjectType getSObjectType()
+
+#### Return Value
+
+Type: [Schema.SObjectType](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_class_Schema_SObjectType "A Schema.sObjectType object is returned from the field describe result using the getReferenceTo method, or from the sObject describe result using the getSObjectType method.")
+
+#### Usage
+
+Use this method with describe information, to determine if a map contains sObjects of a particular type.
+
+Note that this method can only be used with maps that have sObject values.
+
+For more information, see [Understanding Apex Describe Information](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_dynamic_describe_objects_understanding.htm).
+
+#### Example
+
+```
+
+```
+
+### hashCode()
+
+Returns the hashcode corresponding to this map.
+
+#### Signature
+
+public Integer hashCode()
+
+#### Return Value
+
+Type: [Integer](atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm#apex_methods_system_integer "Contains methods for the Integer primitive data type.")
+
+### isEmpty()
+
+Returns true if the map has zero key-value pairs.
+
+#### Signature
+
+public Boolean isEmpty()
+
+#### Return Value
+
+Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
+
+#### Example
+
+```
+
+```
+
+### keySet()
+
+Returns a set that contains all of the keys in the map.
+
+#### Signature
+
+public Set<Object\> keySet()
+
+#### Return Value
+
+Type: [Set](atlas.en-us.apexref.meta/apexref/apex_methods_system_set.htm#apex_methods_system_set "Represents a collection of unique elements with no duplicate values.") (of key type)
+
+The returned keySet is backed by the map, so the keySet reflects any changes made to the map, and vice-versa.
+
+#### Example
+
+```
+
+```
+
+### put(key, value)
+
+Associates the specified value with the specified key in the map.
+
+#### Signature
+
+public Object put(Object key, Object value)
+
+#### Parameters
+
+key
+
+Type: Object
+
+value
+
+Type: Object
+
+#### Return Value
+
+Type: Object
+
+#### Usage
+
+If the map previously contained a mapping for this key, the old value is returned by the method and then replaced.
+
+If the key is a string, the key value is case-sensitive.
+
+#### Example
+
+```
+
+```
+
+### putAll(fromMap)
+
+Copies all of the mappings from the specified map to the original map.
+
+#### Signature
+
+public Void putAll(Map fromMap)
+
+#### Parameters
+
+fromMap
+
+Type: [Map](#apex_methods_system_map "Contains methods for the Map collection type.")
+
+#### Return Value
+
+Type: Void
+
+#### Usage
+
+The new mappings from fromMap are merged with any mappings that existed in the original map. If any of the keys match, the original map values are replaced by corresponding values in the new mapping.
+
+#### Example
+
+```
+
+```
+
+### putAll(sobjectArray)
+
+Adds the list of sObject records to a map declared as Map<ID, sObject> or Map<String, sObject>.
+
+#### Signature
+
+public Void putAll(sObject\[\] sobjectArray)
+
+#### Parameters
+
+sobjectArray
+
+Type: [sObject](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_methods_system_sobject "Contains methods for the sObject data type.")\[\]
+
+#### Return Value
+
+Type: Void
+
+#### Usage
+
+This method is similar to calling the Map constructor with the same input.
+
+#### Example
+
+```
+
+```
+
+### remove(key)
+
+Removes the mapping for the specified key from the map, if present, and returns the corresponding value.
+
+#### Signature
+
+public Object remove(Key key)
+
+#### Parameters
+
+key
+
+Type: Key
+
+#### Return Value
+
+Type: Object
+
+#### Usage
+
+If the key is a string, the key value is case-sensitive.
+
+#### Example
+
+```
+
+```
+
+### size()
+
+Returns the number of key-value pairs in the map.
+
+#### Signature
+
+public Integer size()
+
+#### Return Value
+
+Type: [Integer](atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm#apex_methods_system_integer "Contains methods for the Integer primitive data type.")
+
+#### Example
+
+```
+
+```
+
+### toString()
+
+Returns the string representation of the map.
+
+#### Signature
+
+public String toString()
+
+#### Return Value
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+#### Usage
+
+When used in cyclic references, the output is truncated to prevent infinite recursion. When used with large collections, the output is truncated to avoid exceeding total heap size and maximum CPU time.
+
+-   Up to 10 items per collection are included in the output, followed by an ellipsis (…).
+-   If the same object is included multiple times in a collection, it’s shown in the output only once; subsequent references are shown as (already output).
 
 ### values()
 
@@ -34,3 +545,69 @@ The order of map elements is deterministic. You can rely on the order being the 
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Map<Integer, String> m1 = new Map<Integer, String>();
+m1.put(1, 'First item');
+m1.put(2, 'Second item');
+```
+
+```apex
+Map<Integer, String> m1 = new Map<Integer, String>();
+m1.put(1, 'First item');
+m1.put(2, 'Second item');
+Map<Integer, String> m2 = new Map<Integer, String>(m1);
+// The map elements of m2 are copied from m1
+System.debug(m2);
+```
+
+```apex
+List<Account> ls = [select Id,Name from Account];
+Map<Id, Account> m = new Map<Id, Account>(ls);
+```
+
+```apex
+Account a = new Account(
+   Name='Acme', 
+   BillingCity='New York');
+
+Map<Integer, Account> map1 = new Map<Integer, Account> {};
+map1.put(1, a);
+
+Map<Integer, Account> map2 = map1.clone();
+map1.get(1).BillingCity = 
+'San Francisco';
+
+System.assertEquals(
+   'San Francisco',
+   map1.get(1).BillingCity);
+
+System.assertEquals(
+   'San Francisco',
+   map2.get(1).BillingCity);
+```
+
+```apex
+Map<String, String> colorCodes = new Map<String, String>();
+
+colorCodes.put('Red', 'FF0000');
+colorCodes.put('Blue', '0000A0');
+
+Boolean contains = colorCodes.containsKey('Blue');
+System.assertEquals(true, contains);
+```
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+- Map Constructors (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- Map Methods (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- Map<T1,T2>() (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- Map<T1,T2>(mapToCopy) (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- Map<ID,sObject>(recordList) (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- clear() (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- clone() (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- containsKey(key) (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- deepClone() (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)

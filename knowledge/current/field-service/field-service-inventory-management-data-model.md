@@ -5,11 +5,15 @@ topic: field-service-inventory-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.279Z
-keywords: [Field, Service, Inventory, Management, Data, Model, Note, See]
+lastCollected: 2026-03-12T05:14:55.563Z
+estimatedTokens: 1185
+keywords: [Field, Service, Inventory, Management, Data, Model, Service’s, inventory, objects, track, storage, request, consumption, retirement, items, inventory., Note]
 ---
 
 # Field Service Inventory Management Data Model
+
+> Use Field Service’s inventory objects to track the storage, request, consumption,
+  return, and retirement of items in your inventory.
 
 # Field Service Inventory Management Data Model
 
@@ -54,9 +58,9 @@ The movement of items into and out of your inventory and between locations is tr
 #### See Also
 
 -   [Set Up Your Field Service Inventory](https://help.salesforce.com/articleView?id=fs_set_up_parts.htm&language=en_US "Set Up Your Field Service Inventory - HTML (New Window)")
-    
+
 -   [Guidelines for Transferring Inventory](https://help.salesforce.com/articleView?id=fs_product_transfers.htm&language=en_US "Guidelines for Transferring Inventory - HTML (New Window)")
-    
+
 -   [Guidelines for Consuming Inventory](https://help.salesforce.com/articleView?id=fs_products_consumed.htm&language=en_US "Guidelines for Consuming Inventory - HTML (New Window)")
-    
+
 -   [Common Inventory Management Tasks](https://help.salesforce.com/articleView?id=fs_parts_guidelines.htm&language=en_US "Common Inventory Management Tasks - HTML (New Window)")

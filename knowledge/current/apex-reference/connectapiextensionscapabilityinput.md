@@ -5,11 +5,15 @@ topic: connectapiextensionscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.131Z
-keywords: [ConnectApi.ExtensionsCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:24.853Z
+estimatedTokens: 258
+keywords: [ConnectApi.ExtensionsCapabilityInput, Create, update, extensions, associated, feed, element.]
 ---
 
 # ConnectApi.ExtensionsCapabilityInput
+
+> Create or update extensions associated with a feed
+    element.
 
 # ConnectApi.ExtensionsCapabilityInput
 
@@ -25,3 +29,11 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ExtensionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_extension.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

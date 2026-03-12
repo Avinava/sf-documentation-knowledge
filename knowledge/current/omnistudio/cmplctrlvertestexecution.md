@@ -5,11 +5,16 @@ topic: cmplctrlvertestexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.782Z
-keywords: [CmplCtrlVerTestExecution, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.711Z
+estimatedTokens: 838
+keywords: [CmplCtrlVerTestExecution, Represents, details, captured, during, execution, compliance, control, test., Details, include, status, results, timing, recommendations., API, version, 66.0, later., Supported]
 ---
 
 # CmplCtrlVerTestExecution
+
+> Represents the details captured during the execution of a compliance control
+         test. Details include execution status, results, timing, and recommendations. This
+      object is available in API version 66.0 and later.
 
 # CmplCtrlVerTestExecution
 
@@ -43,3 +48,8 @@ Change events are available for the object.
 [CmplCtrlVerTestExecutionHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- CmplCtrlVerTestExecutionChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CmplCtrlVerTestExecutionHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

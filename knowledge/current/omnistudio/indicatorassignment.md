@@ -5,11 +5,16 @@ topic: indicatorassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.253Z
-keywords: [IndicatorAssignment, Important, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:52.826Z
+estimatedTokens: 1144
+keywords: [IndicatorAssignment, Represents, assignment, indicator, definition, that's, used, measure, performance, outcome, related, activity., API, version, 59.0, later., Important, Supported, Calls, Special]
 ---
 
 # IndicatorAssignment
+
+> Represents the assignment of an indicator definition that's used to
+         measure the performance of an outcome or a related activity. This object is available
+      in API version 59.0 and later.
 
 # IndicatorAssignment
 
@@ -19,7 +24,7 @@ Represents the assignment of an indicator definition that's used to measure the 
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

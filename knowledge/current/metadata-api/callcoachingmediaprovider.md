@@ -5,11 +5,19 @@ topic: callcoachingmediaprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.968Z
-keywords: [CallCoachingMediaProvider, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.502Z
+estimatedTokens: 527
+keywords: [CallCoachingMediaProvider, Represents, configuration., configure, which, providers, voice, recordings, Einstein, Conversation, Insights, use., example, Sales, Dialer, provide, recordings., then, stores, analyzes]
 ---
 
 # CallCoachingMediaProvider
+
+> Represents the CallCoachingMediaProvider configuration. Use
+      CallCoachingMediaProvider to configure which providers of voice recordings that Einstein
+      Conversation Insights can use. For example, Sales Dialer can provide voice recordings.
+      Einstein Conversation Insights then stores and analyzes call recordings to surface insights
+      and trends in customer conversations.This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # CallCoachingMediaProvider
 
@@ -52,3 +60,30 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCoachingMediaProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isActive>true</isActive>
+    <providerDescription>Salesforce telephony provider</providerDescription>
+    <providerName>Dialer</providerName>
+</CallCoachingMediaProvider>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>CallCoachingMediaProvider</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

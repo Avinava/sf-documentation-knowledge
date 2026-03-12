@@ -5,11 +5,14 @@ topic: connectapirepositoryfolderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.935Z
-keywords: [ConnectApi.RepositoryFolderItem, See]
+lastCollected: 2026-03-12T05:14:28.886Z
+estimatedTokens: 181
+keywords: [ConnectApi.RepositoryFolderItem, folder, item.]
 ---
 
 # ConnectApi.RepositoryFolderItem
+
+> A folder item.
 
 # ConnectApi.RepositoryFolderItem
 
@@ -24,3 +27,10 @@ A folder item.
 #### See Also
 
 -   [ConnectApi.RepositoryFolderItemsCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_folder_items_collection.htm "A collection of repository folder items.")
+
+## Related Topics
+
+- ConnectApi.​Repository​FileSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_file_summary.htm)
+- ConnectApi.​Repository​FolderSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_folder_summary.htm)
+- ConnectApi.​FolderItemType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.RepositoryFolderItemsCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_folder_items_collection.htm)

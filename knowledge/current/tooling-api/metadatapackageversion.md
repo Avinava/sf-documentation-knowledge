@@ -5,11 +5,16 @@ topic: metadatapackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.270Z
-keywords: [MetadataPackageVersion, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.068Z
+estimatedTokens: 823
+keywords: [MetadataPackageVersion, Represents, package, version, managed, unmanaged, uploaded, org, you’re, logged, to., Tooling, API, 38.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # MetadataPackageVersion
+
+> Represents a package version
+            (managed or unmanaged) that has been uploaded from the org you’re logged in to.
+        Available in Tooling API version 38.0 and later.
 
 # MetadataPackageVersion
 
@@ -59,3 +64,37 @@ This code sample uses the web Services Connector (WSC).
 **Next Step**
 
 Create a push request using PackagePushRequest.
+
+## Code Examples
+
+```apex
+// Finds all Active subscriber orgs that have the package installed
+String PACKAGE_SUBSCRIBER_ORG_KEY_QUERY = "Select OrgKey from PackageSubscribers where OrgStatus = 'Active' and InstalledStatus = 'I'";
+
+// Finds all MetadataPackageVersions lower than the version given, including the list 
+// of subscribers for each version
+String METADATA_PACKAGE_VERSION_QUERY = "Select Id, Name, ReleaseState, (%s) from"
+	+ " MetadataPackageVersion where MetadataPackageId = '%s' AND ReleaseState = 'Released'"
+	+ " AND (MajorVersion < 3 OR (MajorVersion = 3 and MinorVersion < 4)"
+	+ " OR (MajorVersion = 3 and MinorVersion = 4 and PatchVersion < 6))";
+
+// conn is an EnterpriseConnection instance initialized with a ConnectionConfig object
+// representing a connection to the developer org of the package
+QueryResult results = conn.query(String.format(METADATA_PACKAGE_VERSION_QUERY, PACKAGE_SUBSCRIBER_ORG_KEY_QUERY));
+
+// This list will hold all of the PackageSubscriber objects that are eligible for upgrade
+// to the given version
+List<PackageSubscriber> subscribers = new ArrayList<>();
+for (SObject mpvso : results.getRecords()) {
+
+		// Cast the sObject to a MetadataPackageVersion
+		MetadataPackageVersion mpv = (MetadataPackageVersion) mpvso;
+
+		// Add subscribers to our list
+		if (mpv.getPackageSubscribers() != null) {
+			for (SObject psso : mpv.getPackageSubscribers().getRecords()) {
+				subscribers.add((PackageSubscriber) psso);
+			}
+	}
+}
+```

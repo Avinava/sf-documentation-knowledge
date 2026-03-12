@@ -5,11 +5,14 @@ topic: connectapiwishlistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.222Z
-keywords: [ConnectApi.WishlistItem, See]
+lastCollected: 2026-03-12T05:14:29.301Z
+estimatedTokens: 192
+keywords: [ConnectApi.WishlistItem, Item, wishlist.]
 ---
 
 # ConnectApi.WishlistItem
+
+> Item in a wishlist.
 
 # ConnectApi.WishlistItem
 
@@ -27,3 +30,11 @@ Item in a wishlist.
 #### See Also
 
 -   [ConnectApi.WishlistItemCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_item_collection.htm "Collection of wishlist items.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- ConnectApi.​CartItemProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_summary.htm)
+- ConnectApi.WishlistItemCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_item_collection.htm)

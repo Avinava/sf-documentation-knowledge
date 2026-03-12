@@ -5,11 +5,16 @@ topic: create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.418Z
-keywords: [create, Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Data, Values, String, Basic, Steps, Creating, Metadata, Components, Sample, Code—Java, Arguments]
+lastCollected: 2026-03-12T05:14:38.126Z
+estimatedTokens: 1486
+keywords: [create, Deprecated., Adds, new, metadata, components, organization, asynchronously., call, removed, API, version, 31.0, earlier, versions, only., createMetadata, instead., Syntax, Usage]
 ---
 
 # create()
+
+> Deprecated. Adds one or more new metadata components to your organization
+  asynchronously. This call is removed as of API version 31.0 and is available in earlier versions
+  only. Use createMetadata() instead.
 
 # create()
 
@@ -76,9 +81,28 @@ See [Step 3: Walk Through the Java Sample Code](atlas.en-us.api_meta.meta/api_me
 #### See Also
 
 -   [createMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm "Adds one or more new metadata components to your organization synchronously.")
-    
+
 -   [update()](atlas.en-us.api_meta.meta/api_meta/meta_update.htm "Deprecated. Updates one or more components in your organization asynchronously. This call is removed as of API version 31.0 and is available in earlier versions only. Use updateMetadata() or renameMetadata() instead.")
-    
+
 -   [delete()](atlas.en-us.api_meta.meta/api_meta/meta_delete.htm "Deprecated. Deletes one or more components from your organization asynchronously. This call is removed as of API version 31.0 and is available in earlier versions only. Use deleteMetadata() instead.")
-    
+
 -   [checkStatus()](atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm "Deprecated. Checks the status of asynchronous metadata calls create(), update(), or delete(), or the declarative metadata call retrieve(). This call is removed as of API version 31.0 and is available only in earlier versions.")
+
+## Code Examples
+
+```
+AsyncResult[] = metadatabinding.create(Metadata[] metadata);
+```
+
+## Related Topics
+
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- checkStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm)
+- Step 3: Walk Through the Java Sample Code (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_java_sample.htm)
+- update() (atlas.en-us.api_meta.meta/api_meta/meta_update.htm)
+- delete() (atlas.en-us.api_meta.meta/api_meta/meta_delete.htm)

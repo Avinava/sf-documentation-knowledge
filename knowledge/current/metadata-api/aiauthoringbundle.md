@@ -5,11 +5,16 @@ topic: aiauthoringbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.401Z
-keywords: [AiAuthoringBundle, Parent, Type, Directory, Structure, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:36.704Z
+estimatedTokens: 1159
+keywords: [AiAuthoringBundle, Represents, authoring, bundle, which, container, AI-related, content., example, Agentforce, agent, contains, Agent, Script, file, associated, metadata, Parent, Directory, Structure]
 ---
 
 # AiAuthoringBundle
+
+> Represents an AI authoring bundle, which is a container for AI-related authoring
+    content. For example, an AI authoring bundle for an Agentforce agent contains an Agent Script
+    file and the associated metadata content.
 
 # AiAuthoringBundle
 
@@ -73,3 +78,50 @@ This example shows the metadata XML for the agent in the file New\_Agent.bundle-
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
++--aiAuthoringBundles
+    +--my_service_agent (1)
+        +--my_service_agent.agent (2)
+        +--my_service_agent.bundle-meta.xml (3)
+    +--my_employee_agent (1)
+        +--my_employee_agent.agent (2)
+        +--my_employee_agent.bundle-meta.xml (3)
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>New_Agent</members>
+        <name>AiAuthoringBundle</name>
+    </types>
+    <version>65.0</version>
+</Package>
+```
+
+```
++--aiAuthoringBundles
+    +--New_Agent
+        +--New_Agent.agent
+        +--New_Agent.bundle-meta.xml
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AiAuthoringBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <bundleType>AGENT</bundleType>
+    <target>Agentforce_Service_Agent.v2</target>
+    <versionTag>DF 2026.3</versionTag>
+</AiAuthoringBundle>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Bot (atlas.en-us.api_meta.meta/api_meta/meta_bot.htm)
+- BotVersion (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- Deploying and Retrieving Metadata with the
+          Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,14 @@ topic: quickactiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.595Z
-keywords: [QuickActionDefinition, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.568Z
+estimatedTokens: 1682
+keywords: [QuickActionDefinition, Represents, definition, quick, action., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # QuickActionDefinition
+
+> Represents the definition of a quick action.
 
 # QuickActionDefinition
 
@@ -58,4 +61,18 @@ A QuickActionDefinition represents information about a quick action. The followi
 
 ```
 
+```
+
+## Code Examples
+
+```
+QuickActionDefinition qad = new QuickActionDefinition();
+qad.setDeveloperName("MyQuickCreateTaskAction");
+qad.setSobjectType("Global");
+qad.setTargetSobjectType("Task");
+qad.setMasterLabel("Quick create a task");
+qad.setType(QuickActionType.Create);
+qad.setDescription("Quickly creates a Task");
+
+sforce.create(new SObject[]{qad});
 ```

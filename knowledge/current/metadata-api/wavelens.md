@@ -5,11 +5,15 @@ topic: wavelens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.319Z
-keywords: [WaveLens, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.901Z
+estimatedTokens: 655
+keywords: [WaveLens, Represents, Analytics, application., Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 # WaveLens
+
+> Represents the WaveLens object in the Analytics
+      application.
 
 # WaveLens
 
@@ -54,3 +58,22 @@ The following is an example of a WaveLens component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveLens xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content xsi:nil="true"/>
+  <application>dev__app</application>
+  <datasets>dev__abc</datasets>
+  <masterLabel>lens1</masterLabel>
+  <description>lens in shared app</description>
+  <visualizationType>hbar</visualizationType>
+</WaveLens>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

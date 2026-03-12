@@ -5,11 +5,14 @@ topic: reminder-decimal-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.502Z
-keywords: [Reminder, Decimal, Criteria, Input]
+lastCollected: 2026-03-12T05:14:48.751Z
+estimatedTokens: 215
+keywords: [Reminder, Decimal, Criteria, Input, representation, decimal, criteria, reminder.]
 ---
 
 # Reminder Decimal Criteria Input
+
+> Input representation of the decimal criteria of a reminder.
 
 # Reminder Decimal Criteria Input
 
@@ -31,3 +34,18 @@ Properties
 | fieldType | String | Criteria field type of the reminder. Valid value is Decimal. | Required | 60.0 |
 | operator | String | Operator between field and value properties within the reminder criteria property that’s used to configure the reminder. Valid values are:EqualsGreaterThanGreaterThanOrEqualToLessThanLessThanOrEqualToNotEquals | Required | 60.0 |
 | value | Double | Decimal value in the decimal criteria field property of the reminder. | Required | 60.0 |
+
+## Code Examples
+
+```
+{
+  "criteria": [
+    {
+      "operator": "Equals",
+      "field": "DecimalField",
+      "fieldType": "Decimal",
+      "value": "10.0"
+    }
+  ]
+}
+```

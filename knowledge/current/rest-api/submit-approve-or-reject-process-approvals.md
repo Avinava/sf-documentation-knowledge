@@ -5,11 +5,17 @@ topic: submit-approve-or-reject-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.513Z
-keywords: [Submit, Approve, Reject, Process, Approvals, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.789Z
+estimatedTokens: 925
+keywords: [Submit, Approve, Reject, Process, Approvals, Submits, particular, record, both, its, entity, supports, approval, process, defined, process., Records, approved, rejected, current]
 ---
 
 # Submit, Approve, or Reject Process Approvals
+
+> Submits a particular record both if its entity supports
+      an approval process and the entity has a defined approval process. Records can be approved and
+      rejected if the current user is an assigned approver. This resource is available in REST API
+      version 30.0 and later.
 
 # Submit, Approve, or Reject Process Approvals
 
@@ -73,3 +79,10 @@ The response contains an array of process results that contain the following inf
 -   See [Approve a Record](atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_approve.htm "Use the *** resource to approve a record or a collection of records. Each call takes an array of requests. The current user must be an assigned approver. The contextId is ID of the record to submit for approval..").
 -   See [Reject a Record](atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_reject.htm "Use the *** resource to reject a record or a collection of records. Each call takes an array of requests. The current user must be an assigned approver.").
 -   See [Bulk Approvals](atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_bulk.htm "Use the *** resource to do bulk approvals. You can specify a collection of different Process Approvals requests to have them all executed in bulk.").
+
+## Related Topics
+
+- Submit a Record for Approval (atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_submit.htm)
+- Approve a Record (atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_approve.htm)
+- Reject a Record (atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_reject.htm)
+- Bulk Approvals (atlas.en-us.api_rest.meta/api_rest/dome_process_approvals_bulk.htm)

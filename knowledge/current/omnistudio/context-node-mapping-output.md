@@ -5,11 +5,14 @@ topic: context-node-mapping-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.228Z
-keywords: [Context, Node, Mapping, Output]
+lastCollected: 2026-03-12T05:14:49.870Z
+estimatedTokens: 208
+keywords: [Context, Node, Mapping, Output, representation, context, node, mapping.]
 ---
 
 # Context Node Mapping Output
+
+> Output representation of the context node mapping.
 
 # Context Node Mapping Output
 
@@ -24,3 +27,7 @@ Output representation of the context node mapping.
 | isSuccess | Boolean | Specifies if the operation is successful (true) or not (false). | Small, 59.0 | 59.0 |
 | mappedContext​NodeId | String | Node ID in the source context definition. | Small, 61.0 | 61.0 |
 | sObjectName | String | SObject name. | Small, 59.0 | 59.0 |
+
+## Related Topics
+
+- Context Attribute Mapping (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_attribute_mapping.htm)

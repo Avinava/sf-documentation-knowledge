@@ -5,11 +5,16 @@ topic: composite-graph-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.285Z
-keywords: [Composite, Graph, Limits, General, Graphs, Nodes, See]
+lastCollected: 2026-03-12T05:14:35.441Z
+estimatedTokens: 430
+keywords: [Composite, Graph, Limits, limits, specific, composite, graph, resources., Review, platform, API, allocations, comprehensive, list, applicable, General, Graphs, Nodes]
 ---
 
 # Composite Graph Limits
+
+> These limits are specific to composite graph resources. Review the platform API limits
+		and allocations for a comprehensive list of all applicable limits to composite graph API
+		resources.
 
 # Composite Graph Limits
 
@@ -34,3 +39,8 @@ These limits are specific to composite graph resources. Review the platform API 
 #### See Also
 
 -   [API Request Limits and Allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm)
+
+## Related Topics
+
+- depth (atlas.en-us.api_rest.meta/api_rest/resources_composite_graph_introduction.htm)
+- nodes (atlas.en-us.api_rest.meta/api_rest/resources_composite_graph_introduction.htm)

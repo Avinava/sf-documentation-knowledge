@@ -5,11 +5,16 @@ topic: callouts-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.775Z
-keywords: [Callouts, Salesforce, Connect, Custom, Adapters, Named, Credentials, Callout, Endpoints, See]
+lastCollected: 2026-03-12T05:14:32.893Z
+estimatedTokens: 501
+keywords: [Callouts, Salesforce, Connect, Custom, Adapters, Just, any, Apex, code, custom, adapter, callouts., connection, external, system, requires, authentication, incorporate, callout., Named]
 ---
 
 # Callouts for Salesforce Connect Custom Adapters
+
+> Just like any other Apex code, a Salesforce Connect custom adapter can make callouts.
+        If the connection to the external system requires authentication, incorporate the
+        authentication parameters into the callout.
 
 # Callouts for Salesforce Connect Custom Adapters
 
@@ -38,3 +43,37 @@ If all your custom adapter’s callouts use named credentials, you can set the e
 #### See Also
 
 -   [Named Credentials as Callout Endpoints](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm "A named credential specifies the URL of a callout endpoint and its required authentication parameters in one definition. Salesforce manages all authentication for Apex callouts that specify a named credential as the callout endpoint so that your code doesn’t have to. You can also skip remote site settings, which are otherwise required for callouts to external sites, for the site defined in the named credential.")
+
+## Code Examples
+
+```apex
+public HttpResponse getResponse(String url) {
+    Http httpProtocol = new Http();
+    HttpRequest request = new HttpRequest();
+    request.setEndPoint(url);
+    request.setMethod('GET');
+    request.setHeader('Authorization', 'Bearer ' + 
+            this.connectionInfo.oauthToken);
+    HttpResponse response = httpProtocol.send(request);
+    return response;
+}
+```
+
+```apex
+public HttpResponse getResponse(String url) {
+    Http httpProtocol = new Http();
+    HttpRequest request = new HttpRequest();
+    request.setEndPoint(url);
+    request.setMethod('GET');
+    string encodedHeaderValue = EncodingUtil.base64Encode(Blob.valueOf(
+            this.connectioninfo.username + ':' + 
+            this.connectionInfo.password));
+    request.setHeader('Authorization', 'Basic ' + encodedHeaderValue);
+    HttpResponse response = httpProtocol.send(request);
+    return response;
+}
+```
+
+## Related Topics
+
+- Named Credentials as Callout Endpoints (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)

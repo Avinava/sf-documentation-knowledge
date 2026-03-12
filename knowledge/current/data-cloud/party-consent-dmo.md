@@ -5,11 +5,15 @@ topic: party-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.812Z
-keywords: [Party, Consent, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.648Z
+estimatedTokens: 763
+keywords: [Party, Consent, DMO, Privacy, Data, Cloud, data, model, individual’s, consent, preferences., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Party Consent DMO
+
+> The Privacy Consent DMO is a Data Cloud data model object 
+      (DMO) for an individual’s consent preferences.
 
 # Party Consent DMO
 

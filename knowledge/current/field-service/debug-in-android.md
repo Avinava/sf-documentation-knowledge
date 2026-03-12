@@ -5,11 +5,15 @@ topic: debug-in-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.226Z
-keywords: [Debug, Android]
+lastCollected: 2026-03-12T05:14:57.003Z
+estimatedTokens: 416
+keywords: [Debug, Android, Connect, Chrome, DevTools, desktop, WebView, Field, Service, mobile, app, where, LWC, running.]
 ---
 
 # Debug in Android
+
+> Connect Chrome DevTools on your desktop to the WebView in the Field Service mobile app
+    where your LWC is running.
 
 # Debug in Android
 
@@ -18,9 +22,9 @@ Connect Chrome DevTools on your desktop to the WebView in the Field Service mobi
 1.  On your emulated Android device, open the Settings app.
 2.  Enter About emulated device into the search bar and click it.
 3.  Scroll to the bottom of the page and click **Build number** seven times.
-    
+
     The message “You are now a developer!” appears when you click it enough, indicating that developer mode is enabled for the emulator.
-    
+
 4.  Launch Chrome on your desktop.
 5.  In the location bar, enter chrome://inspect/#devices.
 6.  Click **Inspect** for the WebView under the Remote Target emulator you’re using.

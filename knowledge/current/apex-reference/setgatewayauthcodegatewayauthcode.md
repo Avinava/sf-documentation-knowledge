@@ -5,11 +5,15 @@ topic: setgatewayauthcodegatewayauthcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.656Z
-keywords: [setGatewayAuthCode, gatewayAuthCode, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.123Z
+estimatedTokens: 118
+keywords: [setGatewayAuthCode, gatewayAuthCode, authorization, code, gateway, returned., Maximum, length, characters.]
 ---
 
 # setGatewayAuthCode(gatewayAuthCode)
+
+> Sets the authorization code that the gateway returned. Maximum
+      length of 64 characters.
 
 # setGatewayAuthCode(gatewayAuthCode)
 
@@ -30,3 +34,7 @@ The authorization code returned by the gateway.
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

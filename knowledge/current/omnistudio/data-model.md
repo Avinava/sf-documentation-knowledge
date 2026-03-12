@@ -5,11 +5,16 @@ topic: data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.937Z
-keywords: [Data, Model]
+lastCollected: 2026-03-12T05:14:47.912Z
+estimatedTokens: 230
+keywords: [Data, Model, Processing, Engine, Batch, Management, Monitor, Workflow, Servics, share, data, model., Let's, objects, relationships, shared]
 ---
 
 # Data Model
+
+> Data
+   Processing Engine, Batch Management, and Monitor Workflow Servics share a data model. Let's learn
+   about the objects and relationships in this shared data model.
 
 # Data Model
 
@@ -19,7 +24,7 @@ Data Processing Engine, Batch Management, and Monitor Workflow Servics share a d
 | --- |
 | Available in: Data Processing Engine is available with Enterprise, Unlimited, and Performance Editions with the Financial Services Cloud, Loyalty Management, Manufacturing Cloud, Rebate Management, Accounting Subledger, or Provider Search in Health Cloud. |
 | Available in: Batch Management is available with Enterprise, Unlimited, and Performance Editions with the Loyalty Management, Manufacturing Cloud, Rebate Management, or Accounting Subledger |
-  
+
 
 Here's the data model:
 

@@ -5,11 +5,16 @@ topic: compression-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.092Z
-keywords: [Compression, Headers, Tip, Request, Response]
+lastCollected: 2026-03-12T05:14:35.182Z
+estimatedTokens: 347
+keywords: [Compression, Headers, compression, header, compress, REST, API, request, response., reduces, bandwidth, required, although, requires, processing, power, client., most, cases, tradeoff]
 ---
 
 # Compression Headers
+
+> Use a compression header to compress a REST API request or response. Compression reduces
+  the bandwidth required for a request, although it requires more processing power at your client.
+  In most cases, this tradeoff benefits the overall performance of your application.
 
 # Compression Headers
 
@@ -41,4 +46,14 @@ This example request asks for a compressed response.
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/ -H "Authorization: Bearer access-token" -H "Content-Type: application/json" -H "Content-Encoding: gzip" —data-binary @new-account.json -X POST
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/0015e000009sS0DAAU -H "Authorization: Bearer access-token" -H "Content-Type: application/json" -H "Accept-Encoding: gzip" -X GET
 ```

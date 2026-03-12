@@ -5,11 +5,16 @@ topic: mock-soql-tests-for-data-cloud-data-model-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.212Z
-keywords: [Mock, SOQL, Tests, Data, Cloud, Model, Objects, Note, See]
+lastCollected: 2026-03-12T05:14:32.152Z
+estimatedTokens: 1002
+keywords: [Mock, SOQL, Tests, Data, Cloud, Model, Objects, mock, query, responses, data, model, objects, DMOs, Apex, testing, new, stub, test, class.]
 ---
 
 # Mock SOQL Tests for Data Cloud Data Model Objects
+
+> You can mock SOQL query responses for Data Cloud data model objects (DMOs) in Apex
+        testing by using the new SOQL stub methods and a new test class. Use static or dynamic SOQL
+        queries against DMOs and return mock records in a testing context.
 
 # Mock SOQL Tests for Data Cloud Data Model Objects
 

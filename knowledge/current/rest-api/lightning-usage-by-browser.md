@@ -5,11 +5,16 @@ topic: lightning-usage-by-browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.402Z
-keywords: [Lightning, Usage, Browser, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.617Z
+estimatedTokens: 308
+keywords: [Lightning, Usage, Browser, Experience, usage, results, grouped, browser, instance., resource, REST, API, version, 44.0, later., Syntax, Example]
 ---
 
 # Lightning Usage by Browser
+
+> Returns Lightning Experience usage results
+   grouped by browser instance. This resource is available in REST API version 44.0 and
+  later.
 
 # Lightning Usage by Browser
 
@@ -65,4 +70,10 @@ Example Request Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT CALENDAR_MONTH(MetricsDate) MetricsDate, Browser Browser, SUM(TotalCount) Total FROM LightningUsageByBrowserMetrics WHERE MetricsDate = Last_N_Months:3 AND (NOT Browser like 'OTHER%') GROUP BY CALENDAR_MONTH(MetricsDate),Browser
 ```

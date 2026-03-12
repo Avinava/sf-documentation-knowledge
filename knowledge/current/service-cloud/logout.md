@@ -5,11 +5,14 @@ topic: logout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.425Z
-keywords: [logout, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.030Z
+estimatedTokens: 154
+keywords: [logout, Logs, agent, Omni-Channel., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # logout
+
+> Logs an agent out of Omni-Channel. Available in API versions 32.0 and later.
 
 # logout
 
@@ -40,3 +43,28 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | success | Boolean | true if the logout was successful; false if the logout wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.presence.logout((optional) callback:function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testLogout();return false;">Log out of Omni-Channel</a> 
+
+    <script type="text/javascript">
+        function testLogout() {
+            sforce.console.presence.logout(function(result) { 
+                if (result.success) { 
+                    alert('Logout successfully');
+                } else {
+                    alert('Logout failed');
+                }
+           }); 
+        }
+    </script>
+</apex:page>
+```

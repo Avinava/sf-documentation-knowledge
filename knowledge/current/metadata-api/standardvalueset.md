@@ -5,11 +5,16 @@ topic: standardvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.746Z
-keywords: [StandardValueSet, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.994Z
+estimatedTokens: 731
+keywords: [StandardValueSet, Represents, set, values, standard, picklist, field., extends, Metadata, metadata, inherits, its, fullName, File, Suffix, Directory, Location, Version, Fields, Declarative]
 ---
 
 # StandardValueSet
+
+> Represents the set of values in a standard picklist
+      field. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # StandardValueSet
 
@@ -44,3 +49,40 @@ For a list of standard value set names for standard picklists, see [StandardValu
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OpportunityStage</fullName> <!-- Enum name -->
+    <standardValue>
+       <fullName>Closed Abandoned</fullName>
+    </standardValue>
+    <standardValue>
+       <fullName>Closed Won</fullName>
+    </standardValue>
+    <standardValue>
+       <fullName>Closed Lost</fullName>
+    </standardValue>
+</StandardValueSet>
+
+<CustomObject>
+    <fullName>Opportunity</fullName>
+    <fields>
+       <fullName>StageName</fullName> <!-- field name -->
+       <label>Stage</label>
+       <type>Picklist</type>
+    </fields>
+    <label>ObjectWithValueSet</label>
+    <pluralLabel>ObjectWithValueSet</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- StandardValue[] (atlas.en-us.api_meta.meta/api_meta/meta_customvalue.htm)
+- StandardValueSet Names and Standard Picklist Fields (atlas.en-us.api_meta.meta/api_meta/standardvalueset_names.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

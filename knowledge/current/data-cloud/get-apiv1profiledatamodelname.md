@@ -5,11 +5,15 @@ topic: get-apiv1profiledatamodelname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.410Z
-keywords: [GET, api, profile, dataModelName, Syntax, Request, Parameters, Examples, HTTP, Responses]
+lastCollected: 2026-03-12T05:14:12.418Z
+estimatedTokens: 426
+keywords: [GET, api, profile, dataModelName, data, model, objects, based, search, filters., API, call, retrieve, records, after, applying, selected, Syntax, Request, Examples]
 ---
 
 # GET /api/v1/profile/{dataModelName}
+
+> Returns data model objects based on search filters. Use this API call to retrieve the
+  object records after applying the selected filters.
 
 # GET /api/v1/profile/{dataModelName}
 
@@ -68,3 +72,35 @@ Response
 | 404 Not Found | Incorrect callback ID, verification key, or both. |
 | 422 Unprocessable Entity | Attribute name used in fields/filter parameter doesn’t exist. |
 | 500 Server Error | Internal error |
+
+## Code Examples
+
+```
+https://{TSE}.360a.salesforce.com/api/v1/profile/{dataModelName}
+```
+
+```
+{
+  "data": [
+    {
+      "GenderId__c": "F",
+      "Id__c": "05d01a06-0c61-3990-808d-2aa602dd3e7f",
+      "Occupation__c": "Staffing",
+      "FirstName__c": "Don"
+    },
+    {
+      "GenderId__c": "M",
+      "Id__c": "11bcc846-1a80-3293-8cc4-3449835d8d4c",
+      "Occupation__c": "Operational",
+      "FirstName__c": "Don"
+    },
+    {
+      "GenderId__c": "M",
+      "Id__c": "18213566-df86-34a8-97aa-2cb75b70ae3b",
+      "Occupation__c": "Organizational",
+      "FirstName__c": "Don"
+    }
+  ],
+  "done": false
+}
+```

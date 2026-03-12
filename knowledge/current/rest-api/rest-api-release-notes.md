@@ -5,11 +5,15 @@ topic: rest-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-11T15:44:25.819Z
-keywords: [REST, API, Release, Notes]
+lastCollected: 2026-03-12T05:14:36.221Z
+estimatedTokens: 134
+keywords: [REST, API, Release, Notes, Salesforce, most, recent, updates, changes, API.]
 ---
 
 # REST API Release Notes
+
+> Use the Salesforce Release Notes to learn about the most recent updates and changes to
+  REST API.
 
 # REST API Release Notes
 

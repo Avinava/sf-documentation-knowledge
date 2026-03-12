@@ -5,11 +5,16 @@ topic: skill-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.992Z
-keywords: [Skill, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.930Z
+estimatedTokens: 329
+keywords: [Skill, DMO, Data, Cloud, data, model, proficiency, competence, expertise, employee, possesses, which, useful, mission, organization., API, Name, Category, Primary, Subject]
 ---
 
 # Skill DMO
+
+> The Skill DMO is a Data Cloud data model object (DMO) for proficiency,
+      competence, or expertise that an employee possesses, which is useful to the mission of an
+      organization.
 
 # Skill DMO
 

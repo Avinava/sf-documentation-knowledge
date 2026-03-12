@@ -5,11 +5,15 @@ topic: interest-tag-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.361Z
-keywords: [Interest, Tag, Update, Input]
+lastCollected: 2026-03-12T05:14:48.536Z
+estimatedTokens: 144
+keywords: [Interest, Tag, Update, Input, representation, update, request.]
 ---
 
 # Interest Tag Update Input
+
+> Input representation of an Interest Tag update
+      request.
 
 # Interest Tag Update Input
 
@@ -29,3 +33,20 @@ Properties
 | removeCategoryIds | String[] | The categories to remove from an Interest Tag. | Optional | 54.0 |
 | tagDescription | String | The description of an Interest Tag. | Optional | 54.0 |
 | tagName | String | The name of an Interest Tag. | Optional | 54.0 |
+
+## Code Examples
+
+```
+{
+   "tagDescription":"High networth group",
+   "tagName":"High networth",
+   "addCategoryIds":[
+      "0ZOi000001CkbWugnd",
+      "0ZOi000001CkbWugne",
+      "0ZOi000001CkbWugnf"
+   ],
+   "removeCategoryIds":[
+      "0ZOi000001CkbWnnnn",
+   ]
+}
+```

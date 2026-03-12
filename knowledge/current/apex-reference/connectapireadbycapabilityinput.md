@@ -5,11 +5,15 @@ topic: connectapireadbycapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.501Z
-keywords: [ConnectApi.ReadByCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:25.443Z
+estimatedTokens: 256
+keywords: [ConnectApi.ReadByCapabilityInput, Mark, feed, elements, read, context, user.]
 ---
 
 # ConnectApi.ReadByCapabilityInput
+
+> Mark feed elements as read by the
+      context user.
 
 # ConnectApi.ReadByCapabilityInput
 
@@ -25,3 +29,10 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

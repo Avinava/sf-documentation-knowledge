@@ -5,11 +5,14 @@ topic: context-attribute-tag-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.165Z
-keywords: [Context, Attribute, Tag, Output]
+lastCollected: 2026-03-12T05:14:49.740Z
+estimatedTokens: 145
+keywords: [Context, Attribute, Tag, Output, representation, context, attribute, tag.]
 ---
 
 # Context Attribute Tag Output
+
+> Output representation of context attribute tag.
 
 # Context Attribute Tag Output
 

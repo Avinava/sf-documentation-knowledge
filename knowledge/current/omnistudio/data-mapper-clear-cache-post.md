@@ -5,11 +5,14 @@ topic: data-mapper-clear-cache-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.718Z
-keywords: [Data, Mapper, Clear, Cache, POST]
+lastCollected: 2026-03-12T05:14:49.072Z
+estimatedTokens: 296
+keywords: [Data, Mapper, Clear, Cache, POST, execution, cache, specified, data, mappers.]
 ---
 
 # Data Mapper Clear Cache (POST)
+
+> Clear the execution cache for the specified data mappers.
 
 # Data Mapper Clear Cache (POST)
 
@@ -55,3 +58,45 @@ Properties
 Response body for POST
 
 [Data Mapper Cache Details](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_datamapper_clear_cache_output.htm "Output representation of the cache details that are cleared for the specified data mappers.")
+
+## Code Examples
+
+```apex
+/connect/omni-global/data-mapper/actions/clear-cache
+```
+
+```
+{
+  "cacheStorageType": "Metadata",
+  "dataMapperList": {
+    "dataMappers": [
+      {
+        "dataMapperName": "DRWithLoad"
+      }
+    ]
+  }
+}
+```
+
+```
+{
+  "cacheStorageType": "Session",
+  "dataMapperList": {
+    "dataMappers": [
+      {
+        "dataMapperName": "DRWithLoad",
+        "input": {
+          "Name": "Get Account Details"
+        }
+      }
+    ]
+  }
+}
+```
+
+## Related Topics
+
+- Data Mapper
+                        Details (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_data_mapper_details.htm)
+- Data Mapper Cache
+              Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_datamapper_clear_cache_output.htm)

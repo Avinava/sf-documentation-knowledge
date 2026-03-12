@@ -5,11 +5,14 @@ topic: connectapibookmarkscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.828Z
-keywords: [ConnectApi.BookmarksCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:24.395Z
+estimatedTokens: 200
+keywords: [ConnectApi.BookmarksCapabilityInput, Create, update, bookmark, feed, element.]
 ---
 
 # ConnectApi.BookmarksCapabilityInput
+
+> Create or update a bookmark on a feed element.
 
 # ConnectApi.BookmarksCapabilityInput
 
@@ -24,3 +27,9 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

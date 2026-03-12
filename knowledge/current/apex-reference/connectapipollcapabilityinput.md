@@ -5,11 +5,14 @@ topic: connectapipollcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.432Z
-keywords: [ConnectApi.PollCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:25.332Z
+estimatedTokens: 240
+keywords: [ConnectApi.PollCapabilityInput, Create, update, vote, poll, feed, element.]
 ---
 
 # ConnectApi.PollCapabilityInput
+
+> Create, update, or vote on a poll on a feed element.
 
 # ConnectApi.PollCapabilityInput
 
@@ -25,3 +28,10 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

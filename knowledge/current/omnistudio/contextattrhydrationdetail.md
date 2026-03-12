@@ -5,11 +5,15 @@ topic: contextattrhydrationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.374Z
-keywords: [ContextAttrHydrationDetail, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.633Z
+estimatedTokens: 531
+keywords: [ContextAttrHydrationDetail, Represents, SOQL, database, queries, fetch, data, chosen, attribute, input, schema., API, version, 59.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ContextAttrHydrationDetail
+
+> Represents the SOQL (database) queries that fetch data for a chosen attribute
+         from the input schema. This object is available in API version 59.0 and later.
 
 # ContextAttrHydrationDetail
 

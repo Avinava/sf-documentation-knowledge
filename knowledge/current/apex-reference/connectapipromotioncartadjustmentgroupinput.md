@@ -5,11 +5,14 @@ topic: connectapipromotioncartadjustmentgroupinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.878Z
-keywords: [ConnectApi.PromotionCartAdjustmentGroupInput]
+lastCollected: 2026-03-12T05:14:24.475Z
+estimatedTokens: 271
+keywords: [ConnectApi.PromotionCartAdjustmentGroupInput, Cart, adjustment, group, promotion.]
 ---
 
 # ConnectApi.PromotionCartAdjustmentGroupInput
+
+> Cart adjustment group for a promotion.
 
 # ConnectApi.PromotionCartAdjustmentGroupInput
 
@@ -26,3 +29,9 @@ Cart adjustment group for a promotion.
 | id | String | ID of the cart adjustment group. | Required | 60.0 |
 | priceAdjustment​CauseId | String | ID of the related promotion. | Optional | 60.0 |
 | priority | Integer | Where in the sequence of adjustments this adjustment was applied. | Optional | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​AdjustmentType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

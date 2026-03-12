@@ -5,11 +5,15 @@ topic: customobjecttranslation-language-support-end-user-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.134Z
-keywords: [CustomObjectTranslation, Language, Support, End-User, Languages, Note, Arabic, Bulgarian, Croatian, Czech, English, Greek, Hebrew, Hungarian, Indonesian, Polish, Portuguese, Portugal, Romanian, Slovak]
+lastCollected: 2026-03-12T05:14:36.371Z
+estimatedTokens: 698
+keywords: [CustomObjectTranslation, Language, Support, End-User, Languages, every, language, supports, possible, values, fields, CustomObjectTranslation., appendix, determine, which, field, supports., Note, Arabic, Bulgarian]
 ---
 
 # CustomObjectTranslation Language Support: End-User Languages
+
+> Not every language supports all the possible values for the fields in CustomObjectTranslation. Use this appendix to determine which field values
+    a language supports.
 
 # CustomObjectTranslation Language Support: End-User Languages
 
@@ -452,3 +456,7 @@ plural
 true
 
 false
+
+## Related Topics
+
+- CustomObjectTranslation (atlas.en-us.api_meta.meta/api_meta/meta_customobjecttranslation.htm)

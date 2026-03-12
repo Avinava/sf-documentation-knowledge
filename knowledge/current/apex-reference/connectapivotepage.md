@@ -5,11 +5,15 @@ topic: connectapivotepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.210Z
-keywords: [ConnectApi.VotePage]
+lastCollected: 2026-03-12T05:14:29.287Z
+estimatedTokens: 388
+keywords: [ConnectApi.VotePage, page, upvotes, downvotes, feed, element, comment.]
 ---
 
 # ConnectApi.VotePage
+
+> A page of upvotes or downvotes on a feed element or
+    comment.
 
 # ConnectApi.VotePage
 
@@ -25,3 +29,11 @@ A page of upvotes or downvotes on a feed element or comment.
 | previousPageToken | Integer | Token identifying the previous page, or null if there isn’t a previous page. | 42.0 |
 | previousPageUrl | String | Connect REST API URL identifying the previous page, or null if there isn’t a previous page. | 42.0 |
 | total | Long | Total number of upvotes or downvotes for the feed element or comment.The number of upvotes includes the number of likes and upvotes. For example, if a post receives five likes and three upvotes, the total number of upvotes is eight. If a user both liked and upvoted a post, we count that as two upvotes. | 42.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Vote (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_vote.htm)
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)

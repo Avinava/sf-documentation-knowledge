@@ -5,11 +5,16 @@ topic: field-service-preventive-maintenance-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.281Z
-keywords: [Field, Service, Preventive, Maintenance, Data, Model, Note, See]
+lastCollected: 2026-03-12T05:14:55.566Z
+estimatedTokens: 740
+keywords: [Field, Service, Preventive, Maintenance, Data, Model, Manage, periodic, maintenance, help, plans, which, define, schedule, specific, assets., typically, reflect, terms, customer’s]
 ---
 
 # Field Service Preventive Maintenance Data Model
+
+> Manage periodic maintenance with the help of maintenance plans, which define the
+  maintenance schedule for specific assets. Maintenance plans typically reflect the terms in a
+  customer’s service contract or entitlements.
 
 # Field Service Preventive Maintenance Data Model
 
@@ -38,3 +43,7 @@ Maintenance plans, maintenance assets, and maintenance work rules can be associa
 #### See Also
 
 -   [Generate Work Orders on Maintenance Plans with Apex](atlas.en-us.field_service_dev.meta/field_service_dev/fsl_dev_code_samples_wo.htm "The Generate Work Orders action on maintenance plans can also be called using Apex code. The following code sample creates work order records by making an Apex callout to the generateWorkOrder action REST API resource.")
+
+## Related Topics
+
+- Generate Work Orders on Maintenance Plans with Apex (atlas.en-us.field_service_dev.meta/field_service_dev/fsl_dev_code_samples_wo.htm)

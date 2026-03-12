@@ -5,11 +5,19 @@ topic: fieldrestrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.650Z
-keywords: [FieldRestrictionRule, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.842Z
+estimatedTokens: 1078
+keywords: [FieldRestrictionRule, Represents, field, visibility, rule, controls, whether, visible, user, based, field’s, inclusion, set., Enhanced, Personal, Information, Management, setting, enabled, before]
 ---
 
 # FieldRestrictionRule
+
+> Represents a field visibility rule that controls whether a
+      field is visible to a user, based on the field’s inclusion in a field set. If Enhanced
+      Personal Information Management setting was enabled before Spring ’22, field visibility is
+      based on the field’s compliance categorization.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # FieldRestrictionRule
 
@@ -69,3 +77,53 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldRestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <classification>PII</classification>
+    <classificationType>ComplianceCategory</classificationType>
+    <description>Is Owner of Employee</description>
+    <enforcementType>FieldRestrict</enforcementType>
+    <masterLabel>Is Owner Field Restriction Rule</masterLabel>
+    <recordFilter>OwnerId = $User.Id</recordFilter>
+    <targetEntity>Employee</targetEntity>
+    <userCriteria>$User.IsActive = true</userCriteria>
+    <version>1</version>
+</FieldRestrictionRule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldRestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <classification>PersonalInfo_EPIM</classification>
+    <classificationType>FieldSet</classificationType>
+    <description>Is Owner of Employee</description>
+    <enforcementType>FieldRestrict</enforcementType>
+    <masterLabel>Is Owner Field Restriction Rule</masterLabel>
+    <recordFilter>OwnerId = $User.Id</recordFilter>
+    <targetEntity>Employee</targetEntity>
+    <userCriteria>$User.IsActive = true</userCriteria>
+    <version>1</version>
+</FieldRestrictionRule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>FieldRestrictionRule</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)

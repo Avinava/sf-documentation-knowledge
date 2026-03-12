@@ -5,11 +5,18 @@ topic: reports-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.995Z
-keywords: [Reports, Exceptions]
+lastCollected: 2026-03-12T05:14:19.167Z
+estimatedTokens: 339
+namespace: Reports
+keywords: [Reports, Exceptions, contains, exception, classes.]
 ---
 
 # Reports Exceptions
+
+> The Reports namespace contains exception
+  classes.
+
+**Namespace:** `Reports`
 
 # Reports Exceptions
 
@@ -29,3 +36,7 @@ The Reports namespace contains these exceptions:
 | Reports.MetadataException | No selected report columns |  |
 | Reports.ReportRunException | Error running report |  |
 | Reports.UnsupportedOperationException | Missing permissions for running reports |  |
+
+## Related Topics
+
+- Exception Class and Built-In Exceptions (atlas.en-us.apexref.meta/apexref/apex_classes_exception_methods.htm)

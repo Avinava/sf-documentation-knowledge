@@ -5,11 +5,14 @@ topic: blockedslots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.893Z
-keywords: [blockedSlots, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.132Z
+estimatedTokens: 77
+keywords: [blockedSlots, total, number, potential, blocked, slots, returned, getAppointmentInsights, method.]
 ---
 
 # blockedSlots
+
+> The total number of potential blocked slots returned by the getAppointmentInsights method.
 
 # blockedSlots
 

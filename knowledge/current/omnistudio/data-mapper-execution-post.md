@@ -5,11 +5,15 @@ topic: data-mapper-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.721Z
-keywords: [Data, Mapper, Execution, POST]
+lastCollected: 2026-03-12T05:14:49.079Z
+estimatedTokens: 299
+keywords: [Data, Mapper, Execution, POST, Execute, data, mapper, Apex, classes, specifying, name, along, additional, inputs, options.]
 ---
 
 # Data Mapper Execution (POST)
+
+> Execute a data mapper from Apex classes by specifying the name of the data mapper along
+    with additional inputs and options.
 
 # Data Mapper Execution (POST)
 
@@ -60,3 +64,38 @@ Properties
 Response body for POST
 
 [Data Mapper Execution Details](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_data_mapper_execution_output.htm "Output representation of the execution details of a data mapper.")
+
+## Code Examples
+
+```apex
+/connect/omni-global/data-mapper/execute/name
+```
+
+```apex
+https://yourInstance.salesforce.com/services/data/v66.0/connect/omni-global/data-mapper/execute/Get Account Details
+```
+
+```
+{
+  "dataMapperInput": {
+    "inputs": [
+      {
+        "Name": "Get Account Details"
+      }
+    ]
+  },
+  "inputType": "JSON",
+  "options": {
+    "ignoreCache": false
+  }
+}
+```
+
+## Related Topics
+
+- Data
+                        Mapper Execute Input Data (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_data_mapper_execute_input_data.htm)
+- Data
+                        Mapper Execution Options (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_data_mapper_execution_options.htm)
+- Data Mapper Execution
+              Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_data_mapper_execution_output.htm)

@@ -5,11 +5,14 @@ topic: connectapifilepreview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.882Z
-keywords: [ConnectApi.FilePreview, See]
+lastCollected: 2026-03-12T05:14:27.444Z
+estimatedTokens: 295
+keywords: [ConnectApi.FilePreview, file, preview.]
 ---
 
 # ConnectApi.FilePreview
+
+> A file preview.
 
 # ConnectApi.FilePreview
 
@@ -26,3 +29,13 @@ A file preview.
 #### See Also
 
 -   [ConnectApi.FilePreviewCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file_preview_collection.htm "A collection of file previews.")
+
+## Related Topics
+
+- ConnectApi.​FilePreviewFormat (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​FilePreviewUrl (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file_preview_url.htm)
+- ConnectApi.​FilePreviewStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FilePreviewCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file_preview_collection.htm)

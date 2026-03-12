@@ -5,11 +5,14 @@ topic: connectapiaudiencetargetassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.984Z
-keywords: [ConnectApi.AudienceTargetAssignment, See]
+lastCollected: 2026-03-12T05:14:26.129Z
+estimatedTokens: 283
+keywords: [ConnectApi.AudienceTargetAssignment, Target, assignments, personalization, audience.]
 ---
 
 # ConnectApi.AudienceTargetAssignment
+
+> Target assignments for a personalization audience.
 
 # ConnectApi.AudienceTargetAssignment
 
@@ -30,3 +33,12 @@ Target assignments for a personalization audience.
 #### See Also
 
 -   [ConnectApi.Audience](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_audience.htm "A personalization audience.")
+
+## Related Topics
+
+- ConnectApi.​FormulaScope (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_formula_scope.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​PublishStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.Audience (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_audience.htm)

@@ -5,11 +5,15 @@ topic: choose-a-development-environment-for-writing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.245Z
-keywords: [Choose, Development, Environment, Writing, Apex, Agentforce, Developers, Salesforce, Extensions, Visual, Studio, Code, Builder, Developer, Console, Setup, Editors, Note, Additional, See]
+lastCollected: 2026-03-12T05:14:33.542Z
+estimatedTokens: 1363
+keywords: [Choose, Development, Environment, Writing, Apex, There, several, development, environments, developing, code., environment, meets, needs., Agentforce, Developers, Salesforce, Extensions, Visual, Studio]
 ---
 
 # Choose a Development Environment for Writing Apex
+
+> There are several development environments for developing Apex code. Choose the
+        environment that meets your needs.
 
 # Choose a Development Environment for Writing Apex
 
@@ -73,3 +77,7 @@ To develop an Apex IDE of your own, use SOAP API methods for compiling triggers 
 #### See Also
 
 -   [*Salesforce Help*: Find Object Management Settings](https://help.salesforce.com/HTViewHelpDoc?id=extend_click_find_objectmgmt_parent.htm&language=en_US)
+
+## Related Topics
+
+- Deploying Apex (atlas.en-us.apexcode.meta/apexcode/apex_deploying.htm)

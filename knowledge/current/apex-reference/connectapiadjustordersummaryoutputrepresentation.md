@@ -5,11 +5,16 @@ topic: connectapiadjustordersummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.919Z
-keywords: [ConnectApi.AdjustOrderSummaryOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.046Z
+estimatedTokens: 522
+keywords: [ConnectApi.AdjustOrderSummaryOutputRepresentation, Output, representation, financial, changes, adjust, items, action., preview, action, values, expected, output., submit, actual]
 ---
 
 # ConnectApi.AdjustOrderSummaryOutputRepresentation
+
+> Output representation of the financial changes for an adjust items
+      action. For a preview action, these values are the expected output. For a submit action, these
+      values are the actual output.
 
 # ConnectApi.AdjustOrderSummaryOutputRepresentation
 
@@ -24,3 +29,9 @@ Subclass of [ConnectApi.BaseOutputRepresentation](atlas.en-us.apexref.meta/apexr
 | orderSummaryId | String | ID of the OrderSummary. | 49.0 |
 | postFulfillment​ChangeOrderId | String | ID of the change Order that holds the financial changes applicable to OrderItemSummary quantities that have been fulfilled. For an adjustPreview call, this value is always null. | 49.0 |
 | preFulfillment​ChangeOrderId | String | ID of the change Order that holds the financial changes applicable to OrderItemSummary quantities that have not been fulfilled. If the request specified an allocatedItems​ChangeOrderType of PreFulfillment, this change Order also includes the changes applicable to OrderItemSummary quantities that are in the process of being fulfilled. For an adjustPreview call, this value is always null. | 49.0 |
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- ConnectApi.​ChangeItem​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_change_item_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

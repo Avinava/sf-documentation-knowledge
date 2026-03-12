@@ -5,11 +5,14 @@ topic: connectapifeatures
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.767Z
-keywords: [ConnectApi.Features, See]
+lastCollected: 2026-03-12T05:14:27.322Z
+estimatedTokens: 1529
+keywords: [ConnectApi.Features, Features, context, user, org.]
 ---
 
 # ConnectApi.Features
+
+> Features available to the context user in the org.
 
 # ConnectApi.Features
 
@@ -70,5 +73,14 @@ Features available to the context user in the org.
 #### See Also
 
 -   [getSettings()](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Organization_static_methods.htm#apex_ConnectAPI_Organization_getSettings "Get information about the context user and the org, including which features are enabled.")
-    
+
 -   [ConnectApi.OrganizationSettings](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_organization.htm "Org settings.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​PeriodType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- getSettings() (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Organization_static_methods.htm)
+- ConnectApi.OrganizationSettings (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_organization.htm)

@@ -5,11 +5,16 @@ topic: sharingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.666Z
-keywords: [SharingSet, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AccessMapping, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.864Z
+estimatedTokens: 1173
+keywords: [SharingSet, Represents, sharing, set., set, defines, access, mapping, grants, portal, community, users, objects, associated, their, accounts, contacts., File, Suffix, Directory]
 ---
 
 # SharingSet
+
+> Represents a sharing set. A sharing set
+      defines an access mapping that grants portal or community users access to objects that are
+      associated with their accounts or contacts.
 
 # SharingSet
 
@@ -94,3 +99,91 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingSet xmlns="http://soap.sforce.com/2006/04/metadata">
+  <accessMappings>
+    <accessLevel>Read</accessLevel>
+    <objectField>ReportsTo</objectField>
+    <object>Contact</object>
+    <userField>Contact</userField>
+  </accessMappings>
+  <description>User Access Mapping</description>
+  <name>User</name>
+  <profiles>customer community user</profiles>
+</SharingSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingSet xmlns="http://soap.sforce.com/2006/04/metadata">
+  <name>Case</name>
+   <accessMappings>
+    <accessLevel>Edit</accessLevel>
+    <objectField>Entitlement.Account</objectField>
+    <object>Case</object>
+    <userField>Account</userField>
+  </accessMappings>
+</SharingSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingSet xmlns="http://soap.sforce.com/2006/04/metadata">
+  <description>This is a basic sharing set with several access mappings.</description>
+  <name>Basic</name>
+  <profiles>customer community user</profiles>
+  <accessMappings>
+    <accessLevel>Read</accessLevel>
+    <objectField>Id</objectField>
+    <object>Account</object>
+    <userField>Account</userField>
+  </accessMappings>
+  <accessMappings>
+    <accessLevel>Edit</accessLevel>
+    <objectField>Account</objectField>
+    <object>Contact</object>
+    <userField>Account</userField>
+  </accessMappings>
+  <accessMappings>
+    <accessLevel>Edit</accessLevel>
+    <objectField>Contact</objectField>
+    <object>Case</object>
+    <userField>Contact</userField>
+  </accessMappings>
+  <accessMappings>
+    <accessLevel>Read</accessLevel>
+    <objectField>AccountLookup__c</objectField>
+    <object>HVPUAccessible__c</object>
+    <userField>Account</userField>
+  </accessMappings>
+</SharingSet>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>SharingSetBasic</fullName>
+  <types>
+    <members>HVPUAccessible__c.AccountLookup__c</members>
+    <members>HVPUAccessible__c.ContactLookup__c</members>
+    <name>CustomField</name>
+  </types>
+  <types>
+    <members>HVPUAccessible__c</members>
+    <name>CustomObject</name>
+  </types>
+  <types>
+    <members>Basic</members>
+    <name>SharingSet</name>
+  </types>
+  <version>30.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

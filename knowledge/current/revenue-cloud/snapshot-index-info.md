@@ -5,11 +5,14 @@ topic: snapshot-index-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.521Z
-keywords: [Snapshot, Index, Info]
+lastCollected: 2026-03-12T05:14:08.521Z
+estimatedTokens: 200
+keywords: [Snapshot, Index, Info, Output, representation, details, snapshot, index.]
 ---
 
 # Snapshot Index Info
+
+> Output representation of the details of a snapshot index.
 
 # Snapshot Index Info
 
@@ -27,3 +30,16 @@ JSON example
 | id | String | ID of the index information record. | Small, 63.0 | 63.0 |
 | isIncrementable | Boolean | Indicates whether a partial build is enabled (true) or disabled (false). | Small, 63.0 | 63.0 |
 | usageType | String | Usage type of the index. Valid values are:LIVE—Index usage type is live.OUT_OF_USE—Index usage type is out of use. | Small, 63.0 | 63.0 |
+
+## Code Examples
+
+```
+"indexInfos": [
+            {
+              "buildType": "FULL",
+              "id": "0axxx00000000T3AAI",
+              "isIncrementable": true,
+              "usageType": "LIVE"
+            }
+          ]
+```

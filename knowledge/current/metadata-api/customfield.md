@@ -5,11 +5,17 @@ topic: customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.069Z
-keywords: [CustomField, Important, Note, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Fields, Custom, Standard, Objects, Deploying, Data, 360, Version, MktDataModelFieldAttributes, MktDataLakeFieldAttributes]
+lastCollected: 2026-03-12T05:14:36.319Z
+estimatedTokens: 7294
+keywords: [CustomField, Represents, metadata, associated, field., create, update, delete, custom, field, definitions, standard, external, objects, objects., Important, Note, Declarative, Metadata, File]
 ---
 
 # CustomField
+
+> Represents the metadata associated with a field. Use
+            this metadata type to create, update, or delete custom field definitions on standard,
+            custom, and external objects or standard field definitions on standard
+        objects.
 
 # CustomField
 
@@ -259,9 +265,50 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [Picklist (Including Dependent Picklist)](atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm "Deprecated. Represents a picklist (or dependent picklist) definition for a custom field in a custom object or a custom or standard field in a standard object, such as an account.")
-    
+
 -   [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.")
-    
+
 -   [NamedFilter](atlas.en-us.api_meta.meta/api_meta/namedfilter.htm "Represents the metadata associated with a lookup filter. This metadata type is used to create, update, or delete lookup filter definitions. This component has been removed as of API version 30.0 and is only available in previous API versions. The metadata associated with a lookup filter is now represented by the lookupFilter field in the CustomField component.")
+
+## Code Examples
+
+```
+MyCustomObject__c.MyCustomField__c
+```
+
+```
+Account.MyAcctCustomField__c
+```
+
+```
+Account.Phone
+```
+
+```
+MyExternalObject__x.MyCustomField__c
+```
+
+```
+<types>
+  <members>MyCustomObject__c.MyCustomField__c</members>
+  <members>Account.MyCustomAccountField__c</members>
+  <members>Account.Phone</members>
+  <name>CustomField</name>
+</types>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Unsupported Metadata Types (atlas.en-us.api_meta.meta/api_meta/meta_unsupported_types.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Picklist (atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
+- FieldType (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- CustomValue (atlas.en-us.api_meta.meta/api_meta/meta_customvalue.htm)
+- Metadata Field Types (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

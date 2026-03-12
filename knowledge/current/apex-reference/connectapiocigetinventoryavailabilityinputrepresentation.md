@@ -5,11 +5,15 @@ topic: connectapiocigetinventoryavailabilityinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.366Z
-keywords: [ConnectApi.OCIGetInventoryAvailabilityInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.234Z
+estimatedTokens: 491
+keywords: [ConnectApi.OCIGetInventoryAvailabilityInputRepresentation, Details, request, retrieve, inventory, availability.]
 ---
 
 # ConnectApi.OCIGetInventoryAvailabilityInputRepresentation
+
+> Details of a request to retrieve inventory
+    availability.
 
 # ConnectApi.OCIGetInventoryAvailabilityInputRepresentation
 
@@ -24,3 +28,9 @@ Details of a request to retrieve inventory availability.
 | stockKeepingUnit | String | The SKU of a product to retrieve inventory availability data for. Specifying a SKU with no locations or location groups returns availability data for that SKU at all inventory locations that aren’t assigned to location groups. | Optional; can’t combine with stockKeepingUnits | 51.0 |
 | stockKeepingUnits | List<String> | A list of up to 100 SKUs of products to retrieve inventory availability data for. | Optional; can’t combine with stockKeepingUnit | 51.0 |
 | useCache | Boolean | Specifies whether to fetch the inventory data from the cache. The default value is true. | Optional | 51.0 |
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

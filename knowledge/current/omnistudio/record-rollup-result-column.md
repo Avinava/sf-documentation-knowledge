@@ -5,11 +5,14 @@ topic: record-rollup-result-column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.791Z
-keywords: [Record, Rollup, Result, Column]
+lastCollected: 2026-03-12T05:14:50.676Z
+estimatedTokens: 343
+keywords: [Record, Rollup, Result, Column, Output, representation, consolidated, view, table, column, data.]
 ---
 
 # Record Rollup Result Column
+
+> Output representation of the consolidated view of the table column data.
 
 # Record Rollup Result Column
 
@@ -31,3 +34,20 @@ JSON Example
 | isSortable | Boolean | Indicates whether the column is sortable (true) or not (false). | Small, 61.0 | 61.0 |
 | isTypeName | Boolean | Indicates whether the field is of type Name (true) or not (false). | Small, 61.0 | 61.0 |
 | sortByField | String | Represents the field that’s used to sort the table. | Small, 61.0 | 61.0 |
+
+## Code Examples
+
+```
+"columns": [
+    {
+      "fieldApiName": "Name",
+      "displayFormatType": "text",
+      "fieldLabel": "Name",
+      "sequence": 0,
+      "isRedirectionEnabled": true,
+      "isSortable": true,
+      "isTypeName": true,
+      "sortByField": "Name"
+    }
+  ]
+```

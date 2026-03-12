@@ -5,11 +5,16 @@ topic: financial-account-balance-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.388Z
-keywords: [Financial, Account, Balance, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.995Z
+estimatedTokens: 436
+keywords: [Financial, Account, Balance, DMO, Represents, types, balances, associated, financial, account., Provided, Services, Cloud, Data, Kit., API, version, later., Name, Category]
 ---
 
 # Financial Account Balance DMO
+
+> Represents types of balances associated to a financial account. Provided in the
+      Financial Services Cloud Data Kit. This DMO is available in API version 58 and
+      later.
 
 # Financial Account Balance DMO
 

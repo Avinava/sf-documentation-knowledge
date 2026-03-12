@@ -5,11 +5,17 @@ topic: get-records-using-sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.718Z
-keywords: [Get, Records, sObject, Relationships, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.075Z
+estimatedTokens: 669
+keywords: [Get, Records, sObject, Relationships, record, based, specified, relationship, field., fields, field, values, returned, response, body., there, multiple, related, records, retrieve]
 ---
 
 # Get Records Using sObject Relationships
+
+> Gets a record based on the specified object, record ID, and relationship field. The
+		fields and field values of the record are returned in the response body. If there are
+		multiple related records, you can retrieve the complete set of associated
+		records.
 
 # Get Records Using sObject Relationships
 
@@ -65,3 +71,34 @@ The response body is the contents of the record associated with the relationship
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/ "Object Reference for the Salesforce Platform - HTML (New Window)")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Merchandise__c/a01D000000INjVe/Distributor__r -H “Authorization: Bearer token”
+```
+
+```
+{
+    "attributes" : 
+    { 
+        "type" : "Distributor__c",
+        "url" : "/services/data/v66.0/sobjects/Distributor__c/a03D0000003DUhcIAG"
+    },
+    "Id" : "a03D0000003DUhcIAG",
+    "OwnerId" : "005D0000001KyEIIA0",
+    "IsDeleted" : false,
+    "Name" : "Distributor1",
+    "CreatedDate" : "2011-12-16T17:43:01.000+0000",
+    "CreatedById" : "005D0000001KyEIIA0",
+    "LastModifiedDate" : "2011-12-16T17:43:01.000+0000",
+    "LastModifiedById" : "005D0000001KyEIIA0",
+    "SystemModstamp" : "2011-12-16T17:43:01.000+0000",
+    "Location__c" : "San Francisco"
+}
+```
+
+## Related Topics
+
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- Traverse Relationships with Friendly URLs (atlas.en-us.api_rest.meta/api_rest/dome_relationship_traversal.htm)

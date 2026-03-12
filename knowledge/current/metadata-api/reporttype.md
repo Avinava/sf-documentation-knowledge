@@ -5,11 +5,16 @@ topic: reporttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.404Z
-keywords: [ReportType, Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ObjectRelationship, ReportLayoutSection, ReportTypeColumn, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.429Z
+estimatedTokens: 1549
+keywords: [ReportType, Represents, metadata, associated, custom, report, type., Custom, types, allow, build, framework, which, users, create, customize, reports., Important, Declarative, Metadata]
 ---
 
 # ReportType
+
+> Represents the metadata associated with a custom report
+            type. Custom report types allow you to build a framework from which users can create and
+            customize reports.
 
 # ReportType
 
@@ -96,3 +101,83 @@ For more information, see [trackTrending](atlas.en-us.api_meta.meta/api_meta/cus
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject>Account</baseObject>
+    <category>accounts</category>
+    <deployed>true</deployed>
+    <description>Account linked to Contacts and Assets</description>
+    <join>
+        <join>
+            <outerJoin>false</outerJoin>
+            <relationship>Assets</relationship>
+        </join>
+        <outerJoin>false</outerJoin>
+        <relationship>Contacts</relationship>
+    </join>
+    <label>Account Contacts and Assets</label>
+    <sections>
+        <columns>
+            <checkedByDefault>true</checkedByDefault>
+            <field>obj_lookup__c.Id</field>
+            <table>Account</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>obj_lookup__c.Name</field>
+            <table>Account</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Opportunity__c.Amount</field>
+            <table>Account</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Owner.IsActive</field>
+            <table>Account</table>
+        </columns>
+        <masterLabel>Accounts</masterLabel>
+    </sections>
+    <sections>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Owner.Email</field>
+            <table>Account.Contacts</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>byr__c</field>
+            <table>Account.Contacts</table>
+        </columns>
+        <columns>
+            <checkedByDefault>true</checkedByDefault>
+            <field>ReportsTo.CreatedBy.Contact.Owner.MobilePhone</field>
+            <table>Account.Contacts</table>
+        </columns>
+        <masterLabel>Contacts</masterLabel>
+    </sections>
+</ReportType>
+```
+
+```
+<sections>
+    <columns>
+        <checkedByDefault>false</checkedByDefault>
+        <field>Field2__c_hst</field>
+        <table>CustomTrendedObject__c.CustomTrendedObject__c_hst</table>
+    </columns>
+    <masterLabel>History</masterLabel>
+</sections>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- trackTrending (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

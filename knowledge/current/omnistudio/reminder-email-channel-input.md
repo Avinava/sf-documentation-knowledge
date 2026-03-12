@@ -5,11 +5,14 @@ topic: reminder-email-channel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.506Z
-keywords: [Reminder, Email, Channel, Input]
+lastCollected: 2026-03-12T05:14:48.755Z
+estimatedTokens: 249
+keywords: [Reminder, Email, Channel, Input, representation, email, channel, that’s, used, send, reminder.]
 ---
 
 # Reminder Email Channel Input
+
+> Input representation of an email channel that’s used to send a reminder.
 
 # Reminder Email Channel Input
 
@@ -32,3 +35,17 @@ Properties
 | reminderDefinition​ChannelId | String | ID of the reminder definition channel that’s used to send the reminder. | Required to update a reminder. | 60.0 |
 | templateId | String | ID of the messaging template that's used to send the reminder. | Required to create a reminder. | 60.0 |
 | sendFrom | String | Email address that’s used to send the reminder. | Required | 60.0 |
+
+## Code Examples
+
+```
+{
+  "reminderChannels": [
+    {
+      "channel": "Email",
+      "templateId": "00Xxx000000k1DvEAI",
+      "sendFrom": "john.doe@example.com"
+    }
+  ]
+}
+```

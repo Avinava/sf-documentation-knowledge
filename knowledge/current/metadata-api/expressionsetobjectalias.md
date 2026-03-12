@@ -5,11 +5,15 @@ topic: expressionsetobjectalias
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.436Z
-keywords: [ExpressionSetObjectAlias, Parent, Type, File, Suffix, Directory, Location, Version, Fields, ExpressionSetObjectAliasField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.573Z
+estimatedTokens: 726
+keywords: [ExpressionSetObjectAlias, Represents, information, alias, source, that’s, used, expression, set., Parent, File, Suffix, Directory, Location, Version, Fields, ExpressionSetObjectAliasField, Declarative, Metadata, Sample]
 ---
 
 # ExpressionSetObjectAlias
+
+> Represents information about the alias of the source
+			object that’s used in an expression set.
 
 # ExpressionSetObjectAlias
 
@@ -62,3 +66,42 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpressionSetObjectAlias xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataType>sObject</dataType>
+    <mappings>
+        <fieldAlias>dum2</fieldAlias>
+        <sourceFieldName>CreatedBy.Contact.Name</sourceFieldName>
+    </mappings>
+    <mappings>
+        <fieldAlias>dum3</fieldAlias>
+        <sourceFieldName>CreatedBy.Name</sourceFieldName>
+    </mappings>
+    <mappings>
+        <fieldAlias>dum1</fieldAlias>
+        <sourceFieldName>Owner.Contact.Name</sourceFieldName>
+    </mappings>
+    <objectApiName>Account</objectApiName>
+    <usageType>Bre</usageType>
+</ExpressionSetObjectAlias>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ExpressionSetObjectAlias</name>
+	</types>
+	<version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

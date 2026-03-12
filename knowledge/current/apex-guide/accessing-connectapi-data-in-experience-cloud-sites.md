@@ -6,12 +6,16 @@ topic: accessing-connectapi-data-in-experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.749Z
-keywords: [Accessing, ConnectApi, Data, Experience, Cloud, Sites]
+lastCollected: 2026-03-12T05:14:32.854Z
+estimatedTokens: 316
+keywords: [Accessing, ConnectApi, Data, Experience, Cloud, Sites, Many, work, within, context, single, site.]
 ---
 
 # Accessing ConnectApi Data in Experience Cloud
       Sites
+
+> Many ConnectApi methods work within the context
+      of a single Experience Cloud site.
 
 # Accessing ConnectApi Data in Experience Cloud Sites
 
@@ -41,4 +45,20 @@ If you specify null, URLs returned in the output use one of these formats:
 
 ```
 
+```
+
+## Code Examples
+
+```
+/connect/communities/communityId/resource
+```
+
+```
+/connect/communities/internal/resource
+```
+
+```
+/chatter/resource
+
+/connect/resource
 ```

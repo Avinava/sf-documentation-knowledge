@@ -5,11 +5,15 @@ topic: primitive-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.176Z
-keywords: [Primitive, Data, Types, Versioned, Behavior, Changes, See]
+lastCollected: 2026-03-12T05:14:34.857Z
+estimatedTokens: 2316
+keywords: [Primitive, Data, Types, Apex, uses, same, primitive, data, types, SOAP, API, except, higher-precision, Decimal, certain, cases., Versioned, Behavior, Changes]
 ---
 
 # Primitive Data Types
+
+> Apex uses the same primitive data types as SOAP API, except for higher-precision
+        Decimal type in certain cases.
 
 # Primitive Data Types
 
@@ -51,8 +55,51 @@ In API version 16 (Summer ’09) and later, Apex uses the higher-precision Decim
 #### See Also
 
 -   [Expression Operators](atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_operators_understanding.htm "Expressions can be joined to one another with operators to create compound expressions.")
-    
+
 -   [Class Methods](atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm "Learn how to define Apex methods. Understand the differences between passing method arguments by value and passing method arguments by reference.")
-    
+
 -   [*Object Reference for the Salesforce Platform*: Primitive Data Types](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/primitive_data_types.htm "Object Reference for the Salesforce Platform: Primitive
     Data Types - HTML (New Window)")
+
+## Code Examples
+
+```
+Double pi = 3.14159;
+Double e = 2.7182818284D;
+```
+
+```apex
+Object obj = 10;
+// Cast the object to an integer.
+Integer i = (Integer)obj;
+System.assertEquals(10, i);
+```
+
+```
+Object obj = new MyApexClass();
+// Cast the object to the MyApexClass custom type.
+MyApexClass mc = (MyApexClass)obj;
+// Access a method on the user-defined class.
+mc.someClassMethod();
+```
+
+```
+trigger t on Solution (before insert) { 
+            Trigger.new[0].SolutionNote ='<h1>hello</h1>'; 
+}
+```
+
+```
+trigger t2 on Solution (before insert) {
+Trigger.new[0].SolutionNote =
+    '<javascript>Hello</javascript>Goodbye';
+}
+```
+
+## Related Topics
+
+- heap size limit (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_data_types.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections.htm)
+- Expression Operators (atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_operators_understanding.htm)
+- Class Methods (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining_methods.htm)

@@ -5,11 +5,14 @@ topic: connectapiknowledgearticleversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.018Z
-keywords: [ConnectApi.KnowledgeArticleVersion, See]
+lastCollected: 2026-03-12T05:14:27.622Z
+estimatedTokens: 215
+keywords: [ConnectApi.KnowledgeArticleVersion, knowledge, article, version.]
 ---
 
 # ConnectApi.KnowledgeArticleVersion
+
+> A knowledge article version.
 
 # ConnectApi.KnowledgeArticleVersion
 
@@ -28,3 +31,9 @@ A knowledge article version.
 #### See Also
 
 -   [ConnectApi.KnowledgeArticleVersionCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_knowledge_article_version_collection.htm "A collection of knowledge article versions.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.KnowledgeArticleVersionCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_knowledge_article_version_collection.htm)

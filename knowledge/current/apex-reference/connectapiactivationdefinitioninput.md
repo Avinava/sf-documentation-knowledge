@@ -5,11 +5,14 @@ topic: connectapiactivationdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.739Z
-keywords: [ConnectApi.ActivationDefinitionInput, See]
+lastCollected: 2026-03-12T05:14:24.254Z
+estimatedTokens: 834
+keywords: [ConnectApi.ActivationDefinitionInput, Represents, activation, definition, input.]
 ---
 
 # ConnectApi.ActivationDefinitionInput
+
+> Represents the activation definition input.
 
 # ConnectApi.ActivationDefinitionInput
 
@@ -42,5 +45,18 @@ Represents the activation definition input.
 #### See Also
 
 -   [createActivation(input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_createActivation_1 "Create an activation.")
-    
+
 -   [updateActivation(activationId, input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_updateActivation_1 "Update an activation by ID.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ActivationTargetSubjectConfigInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_activation_target_subject_config.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.AttributeLimitingExpressionInput> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_attribute_limiting_expression.htm)
+- ConnectApi.ActivationAdditionalAttributesConfigInput> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_activation_additional_attributes_config.htm)
+- ConnectApi.ActivationContactPointInput> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_activation_contact_point.htm)
+- CuratedEntityInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_curated_entity.htm)
+- ActivationPlatformCustomerFileSourceEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.DataSourceNameConfigInput> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_data_source_name_config.htm)
+- ConnectApi.DMOFilterInput> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_d_m_o_filter.htm)

@@ -5,11 +5,16 @@ topic: payment-authorization-reversal-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.721Z
-keywords: [Payment, Authorization, Reversal, Service, API, Note, Sample, Request, Response]
+lastCollected: 2026-03-12T05:14:32.810Z
+estimatedTokens: 885
+keywords: [Payment, Authorization, Reversal, Service, API, authorization, reversal, transaction, negates, releasing, hold, funds, customer’s, payment, method., service, provide, users, ability, reverse]
 ---
 
 # Payment Authorization Reversal Service API
+
+> An authorization reversal is a transaction that negates an authorization by releasing
+    the hold on funds in a customer’s payment method. Use the authorization reversal service to
+    provide users with the ability to reverse an outstanding payment authorization.
 
 # Payment Authorization Reversal Service API
 
@@ -72,4 +77,65 @@ If an error is returned, the response contains the gateway's error code and erro
 
 ```
 
+```
+
+## Code Examples
+
+```
+/commerce/payments/authorizations/${*authorizationId*}/reversals
+```
+
+```
+{
+  "accountId":"",
+  "amount": "150",*  "comments": "authorization reversal request",
+  "effectiveDate":"2020-10-18T11:32:27.000Z",
+  "ipAddress": "202.95.77.70",
+  "macAddress": "00-14-22-01-23-45",
+  "phone": "100-456-67",
+  "email": "test@example.org",
+  "additionalData":{
+       //add additional parameters if needed
+      "key1":"value1",
+      "key2":"value2",
+      "key3":"value3",
+      "key4":"value4",
+      "key5":"value5"
+    }
+}
+```
+
+```
+HPP Status Code: 201
+{
+  "gatewayResponse" : {
+    "gatewayDate" : "2020-10-23T15:21:58.833Z",
+    "gatewayReferenceNumber" : "439XXXXXXX",
+    "gatewayResultCode" : "00",
+    "gatewayResultCodeDescription" : "Transaction Normal",
+    "salesforceResultCode" : "Success"
+  },
+  "paymentAuthAdjustment" : {
+    "amount" : "150.0",
+    "currencyIsoCode" : "USD",
+    "effectiveDate" : "2020-10-18T11:32:27.000Z",
+    "id" : "9tvR00000004Cf1MAE",
+    "paymentAuthAdjustmentNumber" : "PAA-00XXXXXXX",
+    "requestDate" : "2020-10-23T15:21:58.000Z",
+    "status" : "Processed"
+  },
+  "paymentGatewayLogs" : [ {
+    "createdDate" : "2020-10-23T15:21:58.000Z",
+    "gatewayResultCode" : "00",
+    "id" : "0XtXXXXXXXXXXXXXXX",
+    "interactionStatus" : "Success"
+  } ]
+}
+```
+
+```
+{
+    "errorCode":"",
+    "errorMessage":""
+}
 ```

@@ -5,11 +5,23 @@ topic: build-a-mocking-framework-with-the-stub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.635Z
-keywords: [Build, Mocking, Framework, Stub, API, Note, Implement, StubProvider, Interface, Instantiate, Version, Class, Invoke, Method, Apex, Limitations, See]
+lastCollected: 2026-03-12T05:14:34.074Z
+estimatedTokens: 1346
+namespace: StubProvider
+keywords: [Build, Mocking, Framework, Stub, API, Apex, provides, stub, implementing, mocking, framework., framework, many, benefits., streamline, improve, testing, help, create, faster]
 ---
 
 # Build a Mocking Framework with the Stub API
+
+> Apex provides a stub API for implementing a mocking framework. A mocking framework
+        has many benefits. It can streamline and improve testing and help you create faster, more
+        reliable tests. You can use it to test classes in isolation, which is important for unit
+        testing. Building your mocking framework with the stub API can also be beneficial because
+        stub objects are generated at runtime. Because these objects are generated dynamically, you
+        don’t have to package and deploy test classes. You can build your own mocking framework, or
+        you can use one built by someone else.
+
+**Namespace:** `StubProvider`
 
 # Build a Mocking Framework with the Stub API
 
@@ -109,5 +121,84 @@ Keep the following limitations in mind when working with the Apex stub API.
 #### See Also
 
 -   [StubProvider Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_System_StubProvider.htm "StubProvider Interface - HTML (New Window)")
-    
+
 -   [Test.createStub()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_test.htm#apex_System_Test_createStub "Test.createStub() - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public class DateFormatter {    
+    // Method to test    
+    public String getFormattedDate(DateHelper helper) {
+        return 'Today\'s date is ' + helper.getTodaysDate();
+    }
+}
+```
+
+```apex
+public class DateHelper {   
+    // Method to stub    
+    public String getTodaysDate() {
+        return Date.today().format();
+    }
+}
+```
+
+```
+DateFormatter df = new DateFormatter();
+DateHelper dh = new DateHelper();
+String dateStr = df.getFormattedDate(dh);
+```
+
+```apex
+@isTest
+public class MockProvider implements System.StubProvider {
+    
+    public Object handleMethodCall(Object stubbedObject, String stubbedMethodName, 
+        Type returnType, List<Type> listOfParamTypes, List<String> listOfParamNames, 
+        List<Object> listOfArgs) {
+        
+        // The following debug statements show an example of logging 
+        // the invocation of a mocked method.
+       
+        // You can use the method name and return type to determine which method was called.
+        System.debug('Name of stubbed method: ' + stubbedMethodName);
+        System.debug('Return type of stubbed method: ' + returnType.getName());
+        
+        // You can also use the parameter names and types to determine which method 
+        // was called.
+        for (integer i =0; i < listOfParamNames.size(); i++) {
+            System.debug('parameter name: ' + listOfParamNames.get(i));
+            System.debug('  parameter type: ' + listOfParamTypes.get(i).getName());
+        }
+        
+        // This shows the actual parameter values passed into the stubbed method at runtime.
+        System.debug('number of parameters passed into the mocked call: ' + 
+            listOfArgs.size());
+        System.debug('parameter(s) sent into the mocked call: ' + listOfArgs);
+        
+        // This is a very simple mock provider that returns a hard-coded value 
+        // based on the return type of the invoked.
+        if (returnType.getName() == 'String')
+            return '8/8/2016';
+        else 
+            return null;
+    }
+}
+```
+
+```apex
+public class MockUtil {
+    private MockUtil(){}
+
+    public static MockProvider getInstance() {
+        return new MockProvider();
+    }
+    
+     public static Object createMock(Type typeToMock) {
+        // Invoke the stub API and pass it our mock provider to create a 
+        // mock class of typeToMock.
+        return Test.createStub(typeToMock, MockUtil.getInstance());
+    }
+}
+```

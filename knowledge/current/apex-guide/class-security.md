@@ -5,11 +5,15 @@ topic: class-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.658Z
-keywords: [Class, Security]
+lastCollected: 2026-03-12T05:14:32.716Z
+estimatedTokens: 388
+keywords: [Security, specify, which, users, execute, particular, top-level, based, their, user, profile, permission, sets., only, set, security, Apex, classes, triggers.]
 ---
 
 # Class Security
+
+> You can specify which users can execute methods in a particular top-level class based on their
+   user profile or permission sets. You can only set security on Apex classes, not on triggers.
 
 # Class Security
 

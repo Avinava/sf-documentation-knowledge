@@ -5,11 +5,14 @@ topic: connectapirecordviewsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.886Z
-keywords: [ConnectApi.RecordViewSection, See]
+lastCollected: 2026-03-12T05:14:28.818Z
+estimatedTokens: 289
+keywords: [ConnectApi.RecordViewSection, Section, record, fields, values, detail.]
 ---
 
 # ConnectApi.RecordViewSection
+
+> Section of record fields and values on a record detail.
 
 # ConnectApi.RecordViewSection
 
@@ -26,3 +29,11 @@ Section of record fields and values on a record detail.
 #### See Also
 
 -   [ConnectApi.RecordView](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordView.htm "A view of any record in the org, including a custom object record. This object is used if a specialized object, such as User or ChatterGroup, isn’t available for the record type.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​​Abstract​RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstractRecordField.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.RecordView (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordView.htm)

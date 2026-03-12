@@ -5,11 +5,18 @@ topic: attachmentretrievaloption-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.360Z
-keywords: [AttachmentRetrievalOption, Enum, Namespace, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.461Z
+estimatedTokens: 389
+namespace: Messaging
+keywords: [AttachmentRetrievalOption, Provides, options, including, attachment, metadata, only, content, excluding, attachments., Usage, Values]
 ---
 
 # AttachmentRetrievalOption Enum
+
+> Provides options for including attachment metadata only, attachment
+      metadata and content, or excluding attachments.
+
+**Namespace:** `Messaging`
 
 # AttachmentRetrievalOption Enum
 
@@ -32,3 +39,8 @@ The following are the values of the Messaging.AttachmentRetrievalOption enum.
 | METADATA_ONLY | Includes only the file name, content type, and the object ID in the fileAttachments property of Messaging.SingleEmailMessage.NoteWhen the template is rendered from a Visualforce template (and not from a static file attached to the template), the object ID is not available. |
 | METADATA_WITH_BODY | Includes the attachment content, in addition to the file name, content type, and the object ID in the fileAttachments property of Messaging.SingleEmailMessage. |
 | NONE | Doesn’t include any attachments in Messaging.SingleEmailMessage. |
+
+## Related Topics
+
+- Messaging (atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm)
+- renderStoredEmailTemplate(templateId, whoId, whatId, attachmentRetrievalOption) (atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_messaging.htm)

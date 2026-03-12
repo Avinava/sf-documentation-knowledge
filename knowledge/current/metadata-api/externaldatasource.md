@@ -5,11 +5,16 @@ topic: externaldatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.487Z
-keywords: [ExternalDataSource, Note, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, CustomHttpHeaders, customConfiguration, Salesforce, Connect—Cross-Org, Adapter, Connect—OData, 2.0, 4.0, Connect—Custom]
+lastCollected: 2026-03-12T05:14:39.649Z
+estimatedTokens: 3245
+keywords: [ExternalDataSource, Represents, metadata, associated, external, data, source., Create, sources, manage, connection, details, integration, content, stored, outside, Salesforce, org., Note, File]
 ---
 
 # ExternalDataSource
+
+> Represents the metadata associated with an external
+      data source. Create external data sources to manage connection details for integration with
+      data and content that are stored outside your Salesforce org.
 
 # ExternalDataSource
 
@@ -159,3 +164,80 @@ The following is an example of an external data source for the Salesforce Connec
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+{"apiVersion":"32.0","environment":"CUSTOM",
+"searchEnabled":"true","timeout":"120"}
+```
+
+```
+{"inlineCountEnabled":"true","csrfTokenName":"X-CSRF-Token",
+"requestCompression":"false","pagination":"CLIENT",
+"noIdMapping":"false","format":"ATOM",
+"searchFunc":"","compatibility":"DEFAULT",
+"csrfTokenEnabled":"true","timeout":"120",
+"searchEnabled":"true"}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalDataSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authProvider>FacebookAuth</authProvider>
+    <customConfiguration>{"compatibility":"DEFAULT",
+    "noIdMapping":"false","inlineCountEnabled":"true",
+    "searchEnabled":"true","format":"ATOM",
+    "requestCompression":"false","pagination":"SERVER",
+    "timeout":"120"}</customConfiguration>
+    <customHttpHeaders>
+        <headerFieldName>X-User</headerFieldName>
+        <headerFieldValue>$User.Username</headerFieldValue>
+    </customHttpHeaders>
+    <endpoint>http://myappname.herokuapp.com/DataHub.svc</endpoint>   
+    <label>DataHub</label>
+    <principalType>NamedUser</principalType>
+    <protocol>Oauth</protocol>
+    <type>OData</type>
+</ExternalDataSource>
+```
+
+```
+{"noIdMapping":"false"}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalDataSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customConfiguration>{"timeout":"120"}</customConfiguration>
+    <externalDataSrcDescriptors>
+        <fullName>MyQualifierName</fullName>
+        <customObject>MyExternalObject__x</customObject>
+        <descriptor>
+        {
+          "tableName": "MyDynamoDBTable",
+          "columns": {
+            "MyField": {"presence": "exists"}
+          }
+        }
+        </descriptor>
+        <developerName>MyQualifierName</developerName>
+        <externalDataSource>MyDataSource</externalDataSource>
+        <subtype>SchemaTableQualifiers</subtype>
+        <systemVersion>0</systemVersion>
+        <type>Schema</type>
+    </externalDataSrcDescriptors>
+    <isWritable>true</isWritable>
+    <label>MyDataSource</label>
+    <namedCredential>MyNamedCredential</namedCredential>
+    <principalType>Anonymous</principalType>
+    <protocol>NoAuthentication</protocol>
+    <type>AmazonDynamoDb</type>
+</ExternalDataSource>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

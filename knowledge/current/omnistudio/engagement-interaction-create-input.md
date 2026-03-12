@@ -5,11 +5,15 @@ topic: engagement-interaction-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.239Z
-keywords: [Engagement, Interaction, Create, Input]
+lastCollected: 2026-03-12T05:14:48.342Z
+estimatedTokens: 846
+keywords: [Engagement, Interaction, Create, Input, representation, create, engagement, interaction, record.]
 ---
 
 # Engagement Interaction Create Input
+
+> Input representation to create an engagement interaction
+    record.
 
 # Engagement Interaction Create Input
 
@@ -48,3 +52,67 @@ Properties
 | startDateTime | String | The date and time when an engagement interaction started. | Required | 55.0 |
 | status | String | The current status of an engagement interaction, which also impacts the interaction state. | Optional | 55.0 |
 | type | String | The type of interaction that was initiated by the attendee. Possible values are:Inbound InteractionOutbound InteractionYou can set custom values. | Optional | 55.0 |
+
+## Code Examples
+
+```
+{
+  "engagementInteraction": {
+    "initiatingAttendeeId": "testattendeeid",
+    "attendeeAuthenticated": true,
+    "attendeeVerified": true,
+    "startDateTime": "2022-04-17T12:00:00.000Z",
+    "endDateTime": "2022-04-17T12:04:00.000Z",
+    "communicationChannel": "Voice Call",
+    "sentiment": "Test",
+    "contextId": "TestContextId",
+    "externalIdentifierId": "external_identifier_id",
+    "type": "Inbound",
+    "mappedState": "New",
+    "status": "New",
+    "attendeeVerificationTime": "2022-04-17T12:02:00.000Z",
+    "reason": "Unknown Charges",
+    "phoneNumber": "9999999999",
+    "customFieldsList": [
+      {
+        "key": "sampleLocation__c",
+        "value": {
+          "latitude": 12,
+          "longitude": 17
+        }
+      },
+      {
+        "key": "sampleCheckbox__c",
+        "value": "true"
+      },
+      {
+        "key": "sampleDate__c",
+        "value": "06/17/2022"
+      },
+      {
+        "key": "sampleDateTime__c",
+        "value": "2022-04-17T12:00:00.000Z"
+      },
+      {
+        "key": "sampleEmail__c",
+        "value": "sample@email.com"
+      },
+      {
+        "key": "samplePercentage__c",
+        "value": 17
+      },
+      {
+        "key": "samplePicklist__c",
+        "value": "pick1"
+      }
+    ]
+  }
+}
+```
+
+## Related Topics
+
+- Engagement Custom Fields
+                                            Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_custom_fields_input.htm)
+- Engagement Attendee Create Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_engagement_attendee_create_input.htm)
+- Engagement Topic Create Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_engagement_topic_create_input.htm)

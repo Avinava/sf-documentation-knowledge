@@ -5,11 +5,16 @@ topic: cleanrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.408Z
-keywords: [CleanRule, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.862Z
+estimatedTokens: 1512
+keywords: [CleanRule, Represents, data, integration, rule, controls, how, service, adds, updates, existing, records, org., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # CleanRule
+
+> Represents a data integration rule that
+            controls how a data service adds and updates data for existing records in an
+        org.
 
 # CleanRule
 

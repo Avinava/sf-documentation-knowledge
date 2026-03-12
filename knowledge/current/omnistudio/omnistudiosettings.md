@@ -5,11 +5,15 @@ topic: omnistudiosettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:11.054Z
-keywords: [OmniStudioSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:52.554Z
+estimatedTokens: 1518
+keywords: [OmniStudioSettings, Represents, settings, help, administrators, turn, specific, Omnistudio, features, capabilities, organization, level., Parent, Manifest, Access, File, Suffix, Directory, Location, Version]
 ---
 
 # OmniStudioSettings
+
+> Represents the settings that help administrators turn on
+			specific Omnistudio features and capabilities at the organization level.
 
 # OmniStudioSettings
 
@@ -62,3 +66,29 @@ Here's an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_settings.htm "HTML (New Window)"). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniStudioSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableOmniStudioMetadata>true</enableOmniStudioMetadata>
+    <enableOmniStudioContentTest>false</enableOmniStudioContentTest>
+    <enableStandardOmniStudioRuntime>false</enableStandardOmniStudioRuntime><enableOmniStudioDrVersion>false</enableOmniStudioDrVersion>
+    <enableOaForCore>false</enableOaForCore>
+    <enableOaEventNotifications>false</enableOaEventNotifications>
+    <enableOaEventInternalWrites>false</enableOaEventInternalWrites>
+    <enableOmniGlobalAutoNumberPref>true</enableOmniGlobalAutoNumberPref>
+    <disableRollbackFlagsPref>false</disableRollbackFlagsPref>
+</OmniStudioSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>OmniStudio</members>
+        <name>Settings</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

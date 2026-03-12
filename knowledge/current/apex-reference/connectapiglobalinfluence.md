@@ -5,11 +5,14 @@ topic: connectapiglobalinfluence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.672Z
-keywords: [ConnectApi.GlobalInfluence, See]
+lastCollected: 2026-03-12T05:14:25.702Z
+estimatedTokens: 135
+keywords: [ConnectApi.GlobalInfluence, Chatter, influence.]
 ---
 
 # ConnectApi.GlobalInfluence
+
+> Chatter influence.
 
 # ConnectApi.GlobalInfluence
 
@@ -23,3 +26,9 @@ Chatter influence.
 #### See Also
 
 -   [ConnectApi.UserDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm "Details about a user in an org.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.UserDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm)

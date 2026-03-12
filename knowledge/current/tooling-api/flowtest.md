@@ -5,11 +5,15 @@ topic: flowtest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.019Z
-keywords: [FlowTest, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.715Z
+estimatedTokens: 904
+keywords: [FlowTest, Represents, description, flow, test, associated, definition., API, version, 55.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # FlowTest
+
+> Represents the description of a flow test associated with a flow
+         definition. This object is available in API version 55.0 and later.
 
 # FlowTest
 

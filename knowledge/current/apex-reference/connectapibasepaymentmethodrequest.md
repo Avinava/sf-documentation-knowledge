@@ -5,11 +5,14 @@ topic: connectapibasepaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.820Z
-keywords: [ConnectApi.BasePaymentMethodRequest]
+lastCollected: 2026-03-12T05:14:24.381Z
+estimatedTokens: 196
+keywords: [ConnectApi.BasePaymentMethodRequest, Base, payment, input, representation.]
 ---
 
 # ConnectApi.BasePaymentMethodRequest
+
+> Base payment method input representation.
 
 # ConnectApi.BasePaymentMethodRequest
 
@@ -23,3 +26,8 @@ Superclass of:
 -   [ConnectApi.CardPaymentMethodRequest](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_card_payment_method.htm "Card payment method input representation.")
 
 No additional properties.
+
+## Related Topics
+
+- ConnectApi.AlternativePaymentMethod (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_alternative_payment_method.htm)
+- ConnectApi.CardPaymentMethodRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_card_payment_method.htm)

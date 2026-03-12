@@ -5,11 +5,15 @@ topic: associationenginesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.670Z
-keywords: [AssociationEngineSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:37.063Z
+estimatedTokens: 581
+keywords: [AssociationEngineSettings, Represents, record, association, builder, settings, org., extends, Metadata, metadata, inherits, its, fullName, field., Parent, Manifest, Access, File, Suffix, Directory]
 ---
 
 # AssociationEngineSettings
+
+> Represents the record association builder settings for an org. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # AssociationEngineSettings
 
@@ -56,3 +60,26 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_settings.htm). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AssociationEngineSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+  <enableAssociationEngine>true</enableAssociationEngine>
+</AssociationEngineSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>AssociationEngine</members>
+    <name>Settings</name>
+  </types>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

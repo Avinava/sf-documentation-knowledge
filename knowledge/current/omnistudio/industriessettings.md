@@ -5,11 +5,16 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:10.930Z
-keywords: [IndustriesSettings, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Financial, Services, Cloud, Health, Life, Sciences, Automotive, Net, Zero]
+lastCollected: 2026-03-12T05:14:52.355Z
+estimatedTokens: 10855
+keywords: [IndustriesSettings, Represents, settings, industries, verticals, such, Financial, Services, Cloud, Consumer, Goods, Sector, Solutions, Education, Salesforce, Scheduler, Life, Sciences, Health, Cloud.]
 ---
 
 # IndustriesSettings
+
+> Represents settings for industries verticals such as
+      Financial Services Cloud, Consumer Goods Cloud, Public Sector Solutions, Education Cloud,
+      Salesforce Scheduler, Life Sciences Cloud, and Health Cloud.
 
 # IndustriesSettings
 
@@ -276,4 +281,40 @@ The following is an example package.xml that references the previous definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IndustriesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableCreateMultiAttendeeEventOrgPref>true</enableCreateMultiAttendeeEventOrgPref>
+    <enableEventManagementOrgPref>true</enableEventManagementOrgPref>
+    <enableMultiResourceOrgPref>false</enableMultiResourceOrgPref>
+    <enableOverbookingOrgPref>true</enableOverbookingOrgPref>
+    <enableBlockResourceAvailabilityOrgPref>true</enableBlockResourceAvailabilityOrgPref>
+    <enableAccessToMasterListOfCoverageTypes>true</enableAccessToMasterListOfCoverageTypes>
+    <enableManyToManyRelationships>true</enableManyToManyRelationships>
+    <allowMultipleProducersToWorkOnSamePolicy>false</allowMultipleProducersToWorkOnSamePolicy>
+    <enableMortgageRlaTotalsOrgPref>true</enableMortgageRlaTotalsOrgPref>
+    <enableObjectDetection>true</enableObjectDetection>
+    <enableProviderSearchSyncOrgPref>true</enableProviderSearchSyncOrgPref>
+    <enableReferralScoring>true</enableReferralScoring>
+    <enableFSCInsuranceReport>true</enableFSCInsuranceReport>
+    <enableSCCarbonAccounting>true</enableSCCarbonAccounting>
+    <enableBenefitAndGoalSharingPref>true</enableBenefitAndGoalSharingPref>
+    <enableBenefitManagementPreference>true</enableBenefitManagementPreference>
+    <enableCarePlansPreference>true</enableCarePlansPreference>
+</IndustriesSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Industries</members>
+        <name>Settings</name>
+    </types>
+    <version>47.0</version>
+</Package>
 ```

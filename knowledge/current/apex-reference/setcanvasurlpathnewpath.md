@@ -5,11 +5,15 @@ topic: setcanvasurlpathnewpath
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.101Z
-keywords: [setCanvasUrlPath, newPath, Signature, Parameters, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.322Z
+estimatedTokens: 305
+keywords: [setCanvasUrlPath, newPath, Overrides, URL, canvas, app, current, request., Usage]
 ---
 
 # setCanvasUrlPath(newPath)
+
+> Overrides the URL of the canvas app for the current
+  request.
 
 # setCanvasUrlPath(newPath)
 
@@ -40,3 +44,7 @@ For example, if the current canvas app URL is https://myserver.com:6000/myAppPat
 If the provided path results in a malformed URL, or a URL that exceeds 2,048 characters, a System.CanvasException will be thrown.
 
 This method overrides the canvas app URL for the current request and does not permanently change the canvas app URL as configured in the UI for the Salesforce canvas app settings.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

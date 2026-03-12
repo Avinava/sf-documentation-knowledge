@@ -5,11 +5,14 @@ topic: connectapistamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.045Z
-keywords: [ConnectApi.Stamp, See]
+lastCollected: 2026-03-12T05:14:29.053Z
+estimatedTokens: 114
+keywords: [ConnectApi.Stamp, user, stamp.]
 ---
 
 # ConnectApi.Stamp
+
+> A user stamp.
 
 # ConnectApi.Stamp
 
@@ -25,3 +28,8 @@ A user stamp.
 #### See Also
 
 -   [ConnectApi.User](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm "User.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.User (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm)

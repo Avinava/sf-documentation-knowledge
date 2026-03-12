@@ -5,11 +5,16 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.088Z
-keywords: [Profile, Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Note, LoginFlow, ProfileActionOverride, ProfileAgentAccess, ProfileApplicationVisibility, ProfileCategoryGroupVisibility, ProfileCustomMetadataTypeAccess]
+lastCollected: 2026-03-12T05:14:41.933Z
+estimatedTokens: 8406
+keywords: [Profile, Represents, user, profile., profile, defines, user’s, permission, perform, different, functions, within, Salesforce., extends, Metadata, metadata, inherits, its, fullName, field.]
 ---
 
 # Profile
+
+> Represents a user profile. A profile defines a user’s
+        permission to perform different functions within Salesforce. This type extends the Metadata 
+        metadata type and inherits its fullName field.
 
 # Profile
 
@@ -395,3 +400,210 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 -   [*Salesforce DX Developer Guide*: Retrieve Changes to Profiles with Source Tracking](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_source_tracking_source_tracking_profiles.htm "Salesforce DX Developer Guide: Retrieve Changes to
     Profiles with Source Tracking - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public void profileSample() {
+  try {
+    // Create an expense report record, tab and app...
+    CustomObject expenseRecord = new CustomObject();
+    expenseRecord.setFullName("ExpenseReport__c");
+    expenseRecord.setLabel("Expense Report");
+    expenseRecord.setPluralLabel("Expense Reports");
+    
+    expenseRecord.setDeploymentStatus(DeploymentStatus.Deployed);
+    expenseRecord.setSharingModel(SharingModel.ReadWrite);
+    
+    CustomField nameField = new CustomField();
+    nameField.setType(FieldType.AutoNumber);
+    nameField.setLabel("Expense Report Number");
+    nameField.setDisplayFormat("ER-{0000}");
+    expenseRecord.setNameField(nameField);
+    
+    AsyncResult[] arsExpenseRecord =
+        metadataConnection.create(new Metadata[] {expenseRecord});
+    
+    Picklist expenseStatus = new Picklist();
+    PicklistValue unsubmitted = new PicklistValue();
+    unsubmitted.setFullName("Unsubmitted");
+    PicklistValue submitted = new PicklistValue();
+    submitted.setFullName("Submitted");
+    PicklistValue approved = new PicklistValue();
+    approved.setFullName("Approved");
+    PicklistValue rejected = new PicklistValue();
+    rejected.setFullName("Rejected");
+    expenseStatus.setPicklistValues(new PicklistValue[] {
+        unsubmitted, submitted, approved, rejected}
+    );
+    
+    CustomField expenseStatusField = new CustomField();
+    expenseStatusField.setFullName(
+        "ExpenseReport__c.ExpenseStatus__c"
+    );
+    expenseStatusField.setLabel("Expense Report Status");
+    expenseStatusField.setType(FieldType.Picklist);
+    expenseStatusField.setPicklist(expenseStatus);
+    AsyncResult[] arsStatusField =
+        metadataConnection.create(new Metadata[] 
+            {expenseStatusField});
+    
+    CustomTab expenseTab = new CustomTab();
+    expenseTab.setFullName("ExpenseReport__c");
+    expenseTab.setMotif("Custom70: Handsaw");
+    expenseTab.setCustomObject(true);
+    AsyncResult[] arsTab =
+        metadataConnection.create(new Metadata[] {expenseTab});
+    
+    CustomApplication application = new CustomApplication();
+    application.setFullName("ExpenseForce");
+    application.setTab(new String[] {expenseTab.getFullName()});
+    AsyncResult[] arsApp =
+        metadataConnection.create(new Metadata[] {application});
+    
+    // Employees and managers have the same app visibility...
+    ProfileApplicationVisibility appVisibility =
+        new ProfileApplicationVisibility();
+    appVisibility.setApplication("ExpenseForce");
+    appVisibility.setVisible(true);
+    
+    Profile employee = new Profile(); 
+    employee.setFullName("Employee");
+    employee.setApplicationVisibilities(
+        new ProfileApplicationVisibility[] {appVisibility}
+    );
+    AsyncResult[] arsProfileEmp =
+    metadataConnection.create(new Metadata[] {employee});
+    
+    Profile manager = new Profile();
+    manager.setFullName("Manager");
+    manager.setApplicationVisibilities(
+        new ProfileApplicationVisibility[] {appVisibility}
+    );
+    AsyncResult[] arsProfileMgr =
+        metadataConnection.create(new Metadata[] {manager});
+    
+    // But employees and managers have different access
+    // to the state of the expense sheet
+    RecordType edit = new RecordType();
+    edit.setFullName("ExpenseReport__c.Edit");
+    RecordTypePicklistValue editStatuses =
+        new RecordTypePicklistValue();
+    editStatuses.setPicklist("ExpenseStatus__c");
+    editStatuses.setValues(new PicklistValue[] 
+        {unsubmitted, submitted});
+    edit.setPicklistValues(new RecordTypePicklistValue[] 
+        {editStatuses});
+    AsyncResult[] arsRecTypeEdit =
+        metadataConnection.create(new Metadata[] {edit});
+    
+    RecordType approve = new RecordType();
+    approve.setFullName("ExpenseReport__c.Approve");
+    RecordTypePicklistValue approveStatuses =
+        new RecordTypePicklistValue();
+    approveStatuses.setPicklist("ExpenseStatus__c");
+    approveStatuses.setValues(new PicklistValue[] 
+        {approved, rejected});
+    approve.setPicklistValues(new RecordTypePicklistValue[]
+        {approveStatuses});
+    AsyncResult[] arsRecTypeApp =
+        metadataConnection.create(new Metadata[] {approve});
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  }
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>PubApps__Myriad_Publishing</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <custom>true</custom>
+    <objectPermissions>
+        <object>TestWeblinks__c</object>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <viewAllRecords>false</viewAllRecords>
+        <modifyAllRecords>false</modifyAllRecords>
+        <viewAllFields>false</viewAllFields>
+    </objectPermissions>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>TestWeblinks__c.My First Recordtype</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <tabVisibilities>
+        <tab>Myriad Publications</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>APIEnabled</name>
+    </userpermissions>
+</Profile>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+   <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+   <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+        <members>Account.MyCustomField__c</members>
+        <name>CustomField</name>
+   </types>
+   <types>
+        <members>*</members>
+        <name>Profile</name>
+   </types>
+   <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Sample
+                        package.xml Manifest Files (atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm)
+- RetrieveRequest (atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- ActionOverride (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- ActionOverrideType (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

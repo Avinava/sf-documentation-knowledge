@@ -5,11 +5,15 @@ topic: prediction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.458Z
-keywords: [Prediction, Input]
+lastCollected: 2026-03-12T05:14:48.685Z
+estimatedTokens: 1758
+keywords: [Prediction, Input, representation, features, which, predictions, fetched.]
 ---
 
 # Prediction Input
+
+> Input representation of the features for which predictions are to be
+      fetched.
 
 # Prediction Input
 
@@ -75,3 +79,193 @@ An example of inputType as ExtractedRecordOverrides.
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "Records",
+  "records": {
+    "wrappedList": [
+      "a00x0000000CHa0AAG"
+    ]
+  },
+  "insightsSettings": {
+    "insightsSettings": {
+      "maxSuggestionCount": 1,
+      "maxInsights": 1,
+      "suggestionImpactMinimumPct": 0
+    }
+  },
+  "insightColumnMap": {
+    "columnMap": {
+      "INSIGHT1.Name": "Demo__c.InsightName1Override__c",
+      "INSIGHT1.Value": "Demo__c.InsightValue1__c",
+      "INSIGHT1.Impact": "Demo__c.InsightImpact1__c"
+    }
+  },
+  "suggestionColumnMap": {
+    "columnMap": {
+      "SUGGESTION1.Name": "Demo__c.RecommendationName1__c",
+      "SUGGESTION1.Value": "Demo__c.RecommendationValue1__c",
+      "SUGGESTION1.Impact": "Demo__c.RecommendationImpact1Override__c"
+    }
+  },
+..”scorePersistenceColumn”:”Demo__c.Score__c”,
+..”enableInsightPersistence”:true,
+  "enableScorePersistence": true,
+..”enableSuggestionPersistence”:true,
+  "async": false
+}
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "RawData",
+  "columnNames": {
+    "wrappedList": [
+      "corp_year_week__c",
+      "sap_source_id__c",
+      "sap_ppg_id__c",
+      "sales_units__c"
+    ]
+  },
+  "rawData": {
+    "rawData": [
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20"
+          ]
+        }
+      },
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20000"
+          ]
+        }
+      }
+    ]
+  },
+  "featureColumnMap": {
+    "columnMap": {
+      "corp_year_week__c": "Demo__c.YearWeekFeature__c",
+      "sap_source_id__c": "Demo__c.StoreIdFeature__c",
+      "sap_ppg_id__c": "Demo__c.ProductIdFeature__c",
+      "sales_units__c": "Demo__c.SalesUnitsFeatureOverride__c"
+    }
+  },
+  "enableFeaturePersistence": true
+}
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "RecordOverrides",
+  "records": {
+    "wrappedList": [
+      "a00x0000000CHa0AAG"
+    ]
+  },
+  "columnNames": {
+    "wrappedList": [
+      "corp_year_week__c",
+      "sap_source_id__c",
+      "sap_ppg_id__c",
+      "sales_units__c"
+    ]
+  },
+  "rawData": {
+    "rawData": [
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20"
+          ]
+        }
+      },
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20000"
+          ]
+        }
+      }
+    ]
+  }
+}
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "ExtractedRawData",
+..”featureExtractorDevName”: “featureExtractorIdentifier”,
+  "featureExtractionParameters": {
+    "featureExtractionParameters": [
+      {
+        "featureExtractionParametersMapValue": {
+          "recordId": "01tx00000006j2DAAQ1",
+          "rawData": {
+            "corp_year_week__c": "202016"
+          }
+        }
+      }
+    ]
+  },
+  "enableFeaturePersistence": true
+}
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "ExtractedRecordOverrides",
+  "records": {
+    "wrappedList": [
+      "a00x0000000CHa0AAG"
+    ]
+  },
+..”featureExtractorDevName”: “featureExtractorIdentifier”,
+  "featureExtractionParameters": {
+    "featureExtractionParameters": [
+      {
+        "featureExtractionParametersMapValue": {
+          "recordId": "01tx00000006j2DAAQ1"
+        }
+      }
+    ]
+  }
+}
+```
+
+## Related Topics
+
+- Feature Extraction Parameters Field Map
+                      Value (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_feature_extraction_parameters_map_valu.htm)
+- AIFeatureExtractor (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_aifeatureextractor.htm)
+- CustomFeatureExtractor Interface (atlas.en-us.industries_reference.meta/industries_reference/apex_interface_aiaccelerator_CustomFeatureExtractor.htm)
+- Raw Data Input
+                        Wrap (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_raw_data_input_wra.htm)
+- AIUsecaseDefinition (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_aiusecasedefinition.htm)

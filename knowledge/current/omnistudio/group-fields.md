@@ -5,11 +5,15 @@ topic: group-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.588Z
-keywords: [Group, Fields]
+lastCollected: 2026-03-12T05:14:50.372Z
+estimatedTokens: 162
+keywords: [Group, Fields, Output, representation, fields, party, relationship, groups, merged.]
 ---
 
 # Group Fields
+
+> Output representation of the fields of the party relationship groups
+         to be merged.
 
 # Group Fields
 
@@ -27,3 +31,64 @@ JSON example
 | accId2 | Map<String, Object> | ID of the secondary party relationship group. | Small, 58.0 | 58.0 |
 | accountFields | Object[] | List of fields associated with the account. | Small, 58.0 | 58.0 |
 | prgFields | Object[] | List of fields associated with the party relationship group. | Small, 58.0 | 58.0 |
+
+## Code Examples
+
+```
+{
+   "accountFields":[
+      "field1",
+      "field2",
+      "field3",
+      "customFields":[
+         "customField1",
+         "customField2"
+      ]
+   ],
+   "prgFields":[
+      "field1",
+      "field2",
+      "field3",
+      "customFields":[
+         "customField1",
+         "customField2"
+      ]
+   ],
+   "accId1":{
+      "Account":{
+         "name":"Account A",
+         "shippingAddress":"",
+         "customFields":{
+            "customField1":"sample_customfield1",
+            "customField2":"sample_customfield2"
+         }
+      },
+      "PRG":{
+         "name":"Smith Household",
+         "category":"Staying under the same roof",
+         "customFields":{
+            "customField1":"sample_customfield3",
+            "customField2":"sample_customfield4"
+         }
+      }
+   },
+   "accId2":{
+      "Account":{
+         "name":"Account B",
+         "shippingAddress":"",
+         "customFields":{
+            "customField1":"sample_customfield5",
+            "customField2":"sample_customfield6"
+         }
+      },
+      "PRG":{
+         "name":"Marshall Household",
+         "category":"Staying under the same roof",
+         "customFields":{
+            "customField1":"sample_customfield7",
+            "customField2":"sample_customfield8"
+         }
+      }
+   }
+}
+```

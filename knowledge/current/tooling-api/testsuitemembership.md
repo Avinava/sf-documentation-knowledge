@@ -5,11 +5,14 @@ topic: testsuitemembership
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.869Z
-keywords: [TestSuiteMembership, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.961Z
+estimatedTokens: 333
+keywords: [TestSuiteMembership, Associates, Apex, ApexTestSuite., Tooling, API, version, 36.0, later., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # TestSuiteMembership
+
+> Associates an Apex class with an ApexTestSuite. Available in Tooling API version 36.0 and later.
 
 # TestSuiteMembership
 
@@ -38,4 +41,11 @@ The following SOQL query returns the membership object that relates this Apex cl
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT Id FROM TestSuiteMembership WHERE ApexClassId = '01pD0000000Fhy9IAC'
+    AND ApexTestSuiteId = '05FD00000004CDBMA2'
 ```

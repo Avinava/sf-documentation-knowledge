@@ -5,11 +5,14 @@ topic: get-feed-elements-from-a-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.848Z
-keywords: [Get, Feed, Elements, Tip, See]
+lastCollected: 2026-03-12T05:14:34.336Z
+estimatedTokens: 346
+keywords: [Get, Feed, Elements, Call, get, feed, elements, feed., Tip]
 ---
 
 # Get Feed Elements From a Feed
+
+> Call a method to get feed elements from a feed.
 
 # Get Feed Elements From a Feed
 
@@ -34,3 +37,9 @@ Each signature operates on certain feed types. Use the signatures that operate o
 #### See Also
 
 -   [*Apex Reference Guide*: ChatterFeeds Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm "Apex Reference Guide: ChatterFeeds Class - HTML (New Window)")
+
+## Code Examples
+
+```
+ConnectApi.FeedElementPage fep = ConnectApi.ChatterFeeds.getFeedElementsFromFeed(Network.getNetworkId(), ConnectApi.FeedType.News, 'me');
+```

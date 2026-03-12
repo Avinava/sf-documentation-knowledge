@@ -5,11 +5,17 @@ topic: extlclntappglobaloauthsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.535Z
-keywords: [ExtlClntAppGlobalOauthSettings, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExternalAppIdTokenConfig, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.721Z
+estimatedTokens: 1952
+keywords: [ExtlClntAppGlobalOauthSettings, Represents, settings, OAuth, plugin, external, client, app., include, sensitive, consumer, information, can’t, packaged, must, added, source, control., Parent, File]
 ---
 
 # ExtlClntAppGlobalOauthSettings
+
+> Represents the global settings for the OAuth
+			plugin in an external client app. These settings include private and sensitive OAuth
+			consumer information that can’t be packaged and must not be added to source
+			control.
 
 # ExtlClntAppGlobalOauthSettings
 
@@ -85,3 +91,57 @@ This example package.xml references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppGlobalOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <callbackUrl>https://www.example.com</callbackUrl>
+    <externalClientApplication>myeca</externalClientApplication>
+    <idTokenConfig>
+        <idTokenAudience>SalesforceAudience</idTokenAudience>
+        <idTokenIncludeStandardClaims>true</idTokenIncludeStandardClaims>
+        <idTokenValidityInMinutes>0</idTokenValidityInMinutes>
+    </idTokenConfig>
+    <isConsumerSecretOptional>false</isConsumerSecretOptional>
+    <isIntrospectAllTokens>false</isIntrospectAllTokens>
+    <isPkceRequired>true</isPkceRequired>
+    <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+    <label>myecaglobalset</label>
+    <shouldRotateConsumerKey>false</shouldRotateConsumerKey>
+    <shouldRotateConsumerSecret>false</shouldRotateConsumerSecret>
+</ExtlClntAppGlobalOauthSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppGlobalOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthConfigurablePolicies</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppConfigurablePolicies</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,17 @@ topic: recordsetfiltercriteriarule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.814Z
-keywords: [RecordsetFilterCriteriaRule, Supported, Calls, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:56.409Z
+estimatedTokens: 991
+keywords: [RecordsetFilterCriteriaRule, Represents, rule, fields, designated, source, create, filters, filtered, target, object., associated, RecordsetFilterCriteria, API, version, 50.0, later., Supported, Calls, Special]
 ---
 
 # RecordsetFilterCriteriaRule
+
+> Represents a rule using fields from the designated source object to create
+      filters on the filtered, or target, object. RecordsetFilterCriteriaRule is associated
+    with the RecordsetFilterCriteria object. This object is available in API version 50.0 and
+    later.
 
 # RecordsetFilterCriteriaRule
 

@@ -5,11 +5,15 @@ topic: person-life-event-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.860Z
-keywords: [Person, Life, Event, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.725Z
+estimatedTokens: 398
+keywords: [Person, Life, Event, DMO, Represents, major, life, event, individual., Provided, Financial, Services, Cloud, Data, Kit., API, version, later., Name, Category]
 ---
 
 # Person Life Event DMO
+
+> Represents a major life event for an individual. Provided in the Financial Services
+      Cloud Data Kit. This DMO is available in API version 58 and later.
 
 # Person Life Event DMO
 

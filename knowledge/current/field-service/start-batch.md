@@ -5,11 +5,18 @@ topic: start-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.340Z
-keywords: [Start, Batch, Add, Remote, Site, Request, Body, Example, Response]
+lastCollected: 2026-03-12T05:14:55.660Z
+estimatedTokens: 599
+keywords: [Start, Batch, Creates, service, appointment, bundles, automatically., resource, uses, bundle, policies, marked, automatic, bundling., Service, appointments, already, bundled, manually, stay]
 ---
 
 # Start Batch
+
+> Creates service appointment bundles automatically. The resource uses appointment bundle
+  policies that are marked for automatic bundling. Service appointments that are already bundled
+  manually stay untouched by this API. The resource returns the success or failure message of
+  starting the batch process of automatic bundling. This API is not supported in Gov Cloud. This
+  endpoint is available in version 54.0 and later of the Salesforce API.
 
 # Start Batch
 
@@ -105,4 +112,31 @@ This example shows the output of a batch process that failed to start because th
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+    "operation": "start-batch-processing"
+}
+```
+
+```
+{
+   "httpStatus":200,
+   "statusDescription":null,
+   "responsePayload":null,
+   "messageCode":"NONE"}
+}
+```
+
+```
+{
+   "httpStatus":400,
+   "statusDescription":null,
+   "responsePayload":"Failed to start batch agent",
+   "messageCode":"NONE"
+   "messageAdditionalInfo": ""
+}
 ```

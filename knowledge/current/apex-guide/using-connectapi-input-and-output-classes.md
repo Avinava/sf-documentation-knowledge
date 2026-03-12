@@ -5,11 +5,19 @@ topic: using-connectapi-input-and-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.755Z
-keywords: [ConnectApi, Input, Output, Classes, Note, See]
+lastCollected: 2026-03-12T05:14:32.863Z
+estimatedTokens: 417
+namespace: ConnectApi
+keywords: [ConnectApi, Input, Output, Classes, classes, contain, access, Connect, REST, API, data., contains, input, pass, output, calls, return., Note]
 ---
 
 # Using ConnectApi Input and Output Classes
+
+> Some classes in the ConnectApi namespace contain
+                static methods that access Connect REST API data. The ConnectApi namespace also contains input classes to pass as
+                parameters and output classes that calls to the static methods return.
+
+**Namespace:** `ConnectApi`
 
 # Using ConnectApi Input and Output Classes
 
@@ -28,5 +36,5 @@ All Salesforce IDs in ConnectApi output objects are 18 character IDs. Input obje
 #### See Also
 
 -   [*Apex Reference Guide*: ConnectApi Input Classes](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_input.htm "Apex Reference Guide: ConnectApi Input Classes - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ConnectApi Output Classes](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_output.htm "Apex Reference Guide: ConnectApi Output Classes - HTML (New Window)")

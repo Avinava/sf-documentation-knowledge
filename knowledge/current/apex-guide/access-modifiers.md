@@ -5,11 +5,15 @@ topic: access-modifiers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.439Z
-keywords: [Access, Modifiers, Note, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.407Z
+estimatedTokens: 1227
+keywords: [Access, Modifiers, Apex, allows, protected, access, modifiers, defining, variables., Note, Versioned, Behavior, Changes]
 ---
 
 # Access Modifiers
+
+> Apex allows you to use the private, protected, public, and global access modifiers
+         when defining methods and variables.
 
 # Access Modifiers
 
@@ -75,3 +79,27 @@ In API version 65.0 and later, an abstract or override method requires a protect
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm "Using Constructors")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm "Static and Instance Methods, Variables, and Initialization Code")
+
+## Code Examples
+
+```apex
+[(none)|private|protected|public|global] declaration
+```
+
+```apex
+// private variable s1
+private string s1 = '1';
+
+// public method getsz()
+public string getsz() { 
+   ... 
+}
+```
+
+## Related Topics
+
+- Apex Class Definition (atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm)
+- Interfaces (atlas.en-us.apexcode.meta/apexcode/apex_classes_interfaces.htm)
+- Namespace Prefix (atlas.en-us.apexcode.meta/apexcode/apex_classes_namespace_prefix.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_static.htm)

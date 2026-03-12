@@ -5,11 +5,16 @@ topic: calculation-procedure-version-definition-activate-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.820Z
-keywords: [Calculation, Procedure, Version, Definition, Activate, Get, Note]
+lastCollected: 2026-03-12T05:14:49.235Z
+estimatedTokens: 312
+keywords: [Calculation, Procedure, Version, Definition, Activate, Get, Retrieve, definition, expression, set, known, calculation, procedure, version, record., Note]
 ---
 
 # Calculation Procedure Version Definition (Activate, Get)
+
+> Retrieve the definition of an expression set (also known as
+      calculation procedure) version record. Activate an expression set version
+    record.
 
 # Calculation Procedure Version Definition (Activate, Get)
 
@@ -52,3 +57,19 @@ Response body for GET
 Response body for PATCH
 
 [Calculation Procedure Activation Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_activation_output.htm "Output representation of the calculation procedure version record activation.")
+
+## Code Examples
+
+```
+/connect/omnistudio/evaluation-services/version-definitions/${id}
+```
+
+```
+/services/data/v53.0/connect/omnistudio/evaluation-services/
+version-definitions/0lIxx000000001dEAA
+```
+
+## Related Topics
+
+- Calculation Procedure Version Definition Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_version_definition_output.htm)
+- Calculation Procedure Activation Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_activation_output.htm)

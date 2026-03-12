@@ -5,11 +5,21 @@ topic: using-the-system-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.611Z
-keywords: [System, Namespace, Note, Disambiguation, See]
+lastCollected: 2026-03-12T05:14:32.647Z
+estimatedTokens: 690
+namespace: System
+keywords: [System, default, Apex., means, omit, creating, new, instance, system, calling, method., example, because, built-in, URL, both, statements, create, Note, Disambiguation]
 ---
 
 # Using the System Namespace
+
+> The System namespace is
+the default namespace in Apex. This means that you can omit the namespace when creating a new
+instance of a system class or when calling a system method. For example,
+because the built-in URL class is in the System namespace, both of these statements to create an
+instance of 
+
+**Namespace:** `System`
 
 # Using the System Namespace
 
@@ -70,3 +80,34 @@ When the Database.query statement executes, Apex looks up the query method on th
 #### See Also
 
 -   [Using the Schema Namespace](atlas.en-us.apexcode.meta/apexcode/apex_classes_schema_namespace_using.htm "The Schema namespace provides classes and methods for working with schema metadata information. We implicitly import Schema.*, but you must fully qualify your uses of Schema namespace elements when they have naming conflicts with items in your unmanaged code. If your org contains an Apex class that has the same name as an sObject, add the Schema namespace prefix to the sObject name in your code.")
+
+## Code Examples
+
+```apex
+System.URL url1 = new System.URL('https://MyDomainName.my.salesforce.com/');
+```
+
+```
+URL url1 = new URL('https://MyDomainName.my.salesforce.com/');
+```
+
+```apex
+System.URL.getCurrentRequestUrl();
+```
+
+```
+URL.getCurrentRequestUrl();
+```
+
+```apex
+public class Database {
+    public static String query() {
+       return 'wherefore art thou namespace?';
+    }
+}
+```
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_schema_namespace_using.htm)
+- Using the Schema Namespace (atlas.en-us.apexcode.meta/apexcode/apex_classes_schema_namespace_using.htm)

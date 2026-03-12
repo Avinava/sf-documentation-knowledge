@@ -5,11 +5,19 @@ topic: externaldatasrcdescriptor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.886Z
-keywords: [ExternalDataSrcDescriptor, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.535Z
+estimatedTokens: 867
+keywords: [ExternalDataSrcDescriptor, Contains, metadata, information, external, schema, data, source., map, attributes, AWS, source, such, Amazon, DynamoDB, Athena, Salesforce, fields., customize, retrieval]
 ---
 
 # ExternalDataSrcDescriptor
+
+> Contains the metadata information for the external schema of an external data
+         source. Use the metadata to map attributes from an AWS data source, such as Amazon DynamoDB
+         and Amazon Athena, to Salesforce external object fields. Also, use the metadata to
+         customize the data retrieval queries to an AWS data source. This object is available
+      in API version 55.0 and later for Amazon DynamoDB and in API version 56.0 and later for Amazon
+      Athena.
 
 # ExternalDataSrcDescriptor
 

@@ -5,11 +5,18 @@ topic: named-credentials-as-callout-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.381Z
-keywords: [Named, Credentials, Callout, Endpoints, Example, See]
+lastCollected: 2026-03-12T05:14:32.327Z
+estimatedTokens: 1275
+keywords: [Named, Credentials, Callout, Endpoints, named, credential, specifies, URL, callout, endpoint, its, required, authentication, definition., Salesforce, manages, Apex, callouts, specify, code]
 ---
 
 # Named Credentials as Callout Endpoints
+
+> A named credential specifies the URL of a callout endpoint and its required
+  authentication parameters in one definition. Salesforce manages all authentication for Apex
+  callouts that specify a named credential as the callout endpoint so that your code doesn’t have
+  to. You can also skip remote site settings, which are otherwise required for callouts to external
+  sites, for the site defined in the named credential.
 
 # Named Credentials as Callout Endpoints
 
@@ -45,9 +52,9 @@ In contrast, let’s see what the Apex code looks like without a named credentia
 
 ```
 
-1.  [Custom Headers and Bodies of Apex Callouts That Use Named Credentials](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_custom_headers_bodies.htm)  
+1.  [Custom Headers and Bodies of Apex Callouts That Use Named Credentials](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_custom_headers_bodies.htm)
     Salesforce generates a standard authorization header for each callout to a named-credential-defined endpoint, but you can disable this option. Your Apex code can also use merge fields to construct each callout’s HTTP header and body.
-2.  [Merge Fields for Apex Callouts That Use Named Credentials](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_merge_fields.htm)  
+2.  [Merge Fields for Apex Callouts That Use Named Credentials](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_merge_fields.htm)
     To construct the HTTP headers and request bodies of callouts to endpoints that are specified as named credentials, use these merge fields in your Apex code.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_remote_site_settings.htm "Adding Remote Site Settings")
@@ -56,13 +63,58 @@ In contrast, let’s see what the Apex code looks like without a named credentia
 #### See Also
 
 -   [Invoking Callouts Using Apex](atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm)
-    
+
 -   [*Salesforce Help:* Named Credentials](https://help.salesforce.com/HTViewHelpDoc?id=named_credentials_about.htm&language=en_US "Salesforce Help: Named Credentials - HTML (New Window)")
-    
+
 -   [*Salesforce Help:* Authentication Providers](https://help.salesforce.com/apex/HTViewHelpDoc?id=sso_authentication_providers.htm&language=en_US "Salesforce Help: Authentication Providers - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Get Started with Named Credentials](https://developer.salesforce.com/docs/platform/named-credentials/guide/get-started.html "Named Credentials Developer Guide: Get Started with Named
     Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Named Credential API Links](https://developer.salesforce.com/docs/platform/named-credentials/references/named-credentials-reference/nc-api-links.html "Named Credentials Developer Guide: Named Credential API
     Links - HTML (New Window)")
+
+## Code Examples
+
+```apex
+HttpRequest req = new HttpRequest();
+req.setEndpoint('callout:My_Named_Credential/some_path');
+req.setMethod('GET');
+Http http = new Http();
+HTTPResponse res = http.send(req);
+System.debug(res.getBody());
+```
+
+```apex
+HttpRequest req = new HttpRequest();
+req.setEndpoint('https://my_endpoint.example.com/some_path');
+req.setMethod('GET');
+
+// Because we didn't set the endpoint as a named credential, 
+// our code has to specify:
+// - The required username and password to access the endpoint
+// - The header and header information
+ 
+String username = 'myname';
+String password = 'mypwd';
+  
+Blob headerValue = Blob.valueOf(username + ':' + password);
+String authorizationHeader = 'BASIC ' +
+EncodingUtil.base64Encode(headerValue);
+req.setHeader('Authorization', authorizationHeader);
+   
+// Create a new http object to send the request object
+// A response object is generated as a result of the request  
+  
+Http http = new Http();
+HTTPResponse res = http.send(req);
+System.debug(res.getBody());
+```
+
+## Related Topics
+
+- Custom Headers and Bodies of Apex Callouts That Use Named Credentials (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_custom_headers_bodies.htm)
+- Merge Fields for Apex Callouts That Use Named Credentials (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials_merge_fields.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_remote_site_settings.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex.htm)
+- Invoking Callouts Using Apex (atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm)

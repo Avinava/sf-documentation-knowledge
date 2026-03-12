@@ -5,11 +5,15 @@ topic: workorderstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:13.152Z
-keywords: [WorkOrderStatus, Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:56.873Z
+estimatedTokens: 570
+keywords: [WorkOrderStatus, Represents, possible, status, work, order, field, service., Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
 ---
 
 # WorkOrderStatus
+
+> Represents a possible status of a work order in field
+		service.
 
 # WorkOrderStatus
 

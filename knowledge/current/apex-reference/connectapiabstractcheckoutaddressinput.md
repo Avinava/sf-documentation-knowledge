@@ -5,11 +5,14 @@ topic: connectapiabstractcheckoutaddressinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.703Z
-keywords: [ConnectApi.AbstractCheckoutAddressInput]
+lastCollected: 2026-03-12T05:14:24.195Z
+estimatedTokens: 321
+keywords: [ConnectApi.AbstractCheckoutAddressInput, checkout, address.]
 ---
 
 # ConnectApi.AbstractCheckoutAddressInput
+
+> A checkout address.
 
 # ConnectApi.AbstractCheckoutAddressInput
 
@@ -34,3 +37,8 @@ Superclass of:
 | region | String | ISO code of the address region. Must match one of the valid ISO codes defined within the org’s State-Country picklist. | Optional | 53.0 |
 | shipToPhoneNumber | String | Phone number of the contact. | Optional | 63.0 |
 | street | String | Street of the address. | Required | 53.0 |
+
+## Related Topics
+
+- ConnectApi.CartShippingAddressInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cart_shipping_address.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

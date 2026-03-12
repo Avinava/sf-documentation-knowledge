@@ -5,11 +5,15 @@ topic: uiobjectrelationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.003Z
-keywords: [UIObjectRelationConfig, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UIObjectRelationFieldConfig, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:43.366Z
+estimatedTokens: 1015
+keywords: [UIObjectRelationConfig, Represents, admin-created, configuration, relation, component., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, UIObjectRelationFieldConfig, Declarative, Metadata]
 ---
 
 # UIObjectRelationConfig
+
+> Represents the admin-created configuration of the object
+			relation UI component.
 
 # UIObjectRelationConfig
 
@@ -81,3 +85,91 @@ This is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+ <UIObjectRelationConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+     <UIObjectRelationFieldConfigs>
+         <displayLabel>Address:</displayLabel>
+         <queryText>{
+     "startNode": {
+         "initialObject": "RelatedObject"
+     },
+     "traversalNodes": [],
+     "fieldNode": {
+         "fieldEnumOrId": "ShippingAddress"
+     }
+ }</queryText>
+         <rowOrder>1</rowOrder>
+     </UIObjectRelationFieldConfigs>
+     <UIObjectRelationFieldConfigs>
+         <displayLabel>Phone:</displayLabel>
+         <queryText>{
+     "startNode": {
+         "initialObject": "RelatedObject"
+     },
+     "traversalNodes": [],
+     "fieldNode": {
+         "fieldEnumOrId": "Phone"
+     }
+ }</queryText>
+         <rowOrder>2</rowOrder>
+     </UIObjectRelationFieldConfigs>
+     <UIObjectRelationFieldConfigs>
+         <displayLabel>Fax:</displayLabel>
+         <queryText>{
+     "startNode": {
+         "initialObject": "RelatedObject"
+     },
+     "traversalNodes": [],
+     "fieldNode": {
+         "fieldEnumOrId": "Fax"
+     }
+ }</queryText>
+         <rowOrder>3</rowOrder>
+     </UIObjectRelationFieldConfigs>
+     <UIObjectRelationFieldConfigs>
+         <displayLabel>Parent Organization:</displayLabel>
+         <queryText>{
+     "startNode": {
+         "initialObject": "RelatedObject"
+     },
+     "traversalNodes": [
+         {
+             "destinationObjectEnumOrId": "Account",
+             "fieldEnumOrId": "ParentId",
+             "traversalDirection": "parent"
+         }
+     ],
+     "fieldNode": {
+         "fieldEnumOrId": "Name"
+     }
+ }</queryText>
+         <rowOrder>4</rowOrder>
+     </UIObjectRelationFieldConfigs>
+     <contextObject>Contact</contextObject>
+     <directRelationshipField>AccountId</directRelationshipField>
+     <isActive>true</isActive>
+     <masterLabel>Sample Primary Account Configuration</masterLabel>
+     <relatedObject>Account</relatedObject>
+     <relationshipType>Direct</relationshipType>
+     <indirectObjectRelatedField></indirectObjectRelatedField>
+     <indirectObjectContextField></indirectObjectContextField>
+     <contextObjectRecordType></contextObjectRecordType>
+     <indirectRelationshipObject></indirectRelationshipObject>
+     <relatedObjectRecordType></relatedObjectRecordType>
+ </UIObjectRelationConfig>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+      <members>*</members>
+      <name>UIObjectRelationConfig</name>
+  </types>
+    <version>54.0</version>
+</Package>
+```

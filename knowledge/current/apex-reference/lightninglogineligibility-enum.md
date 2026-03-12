@@ -5,11 +5,15 @@ topic: lightninglogineligibility-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.313Z
-keywords: [LightningLoginEligibility, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.401Z
+estimatedTokens: 476
+keywords: [LightningLoginEligibility, Contains, Lightning, Login, eligibility, used, Auth.SessionManagement.getLightningLoginEligibility, method., Usage, Values]
 ---
 
 # LightningLoginEligibility Enum
+
+> Contains a Lightning Login eligibility value used by the Auth.SessionManagement.getLightningLoginEligibility
+      method.
 
 # LightningLoginEligibility Enum
 

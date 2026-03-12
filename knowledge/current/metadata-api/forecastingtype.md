@@ -5,11 +5,14 @@ topic: forecastingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.825Z
-keywords: [ForecastingType, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+lastCollected: 2026-03-12T05:14:40.144Z
+estimatedTokens: 1369
+keywords: [ForecastingType, Represents, forecast, type., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
 ---
 
 # ForecastingType
+
+> Represents a forecast type.
 
 # ForecastingType
 
@@ -92,3 +95,82 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 -   Legacy forecast types that were available before API version 52.0 can be deactivated but not activated, created, or deleted.
 -   Forecast types that are available only in API version 52.0 and later can be created, activated, deactivated, and deleted. If the forecast type doesn’t exist, it’s created in the inactive state. If the forecast type exists, the active flag is updated. Deploy the zip file twice to create and activate the forecast type.
 -   Deploy Metadata API types in this sequence: ForecastingSettings, ForecastingType, ForecastingSourceDefinition, and then ForecastingTypeSource. If all are specified in the package file, the sequence is followed automatically.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>false</active>
+    <amount>true</amount>
+    <dateType>0</dateType>
+    <developerName>qqw</developerName>
+    <hasProductFamily>false</hasProductFamily>
+    <masterLabel>qqw</masterLabel>
+    <quantity>false</quantity>
+    <roleType>R</roleType>
+</ForecastingType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>false</active>
+    <amount>false</amount>
+    <dateType>0</dateType>
+    <developerName>New_Model6</developerName>
+    <hasProductFamily>false</hasProductFamily>
+    <masterLabel>Opportunity Quantity by Territory</masterLabel>
+    <quantity>true</quantity>
+    <roleType>Y</roleType>
+    <territory2Model>New_Model6</territory2Model>
+</ForecastingType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>false</active>
+    <amount>true</amount>
+    <dateType>0</dateType>
+    <developerName>split12</developerName>
+    <hasProductFamily>false</hasProductFamily>
+    <masterLabel>split12</masterLabel>
+    <opportunitySplitType>Custom_Revenue</opportunitySplitType>
+    <quantity>false</quantity>
+    <roleType>R</roleType>
+</ForecastingType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <amount>true</amount>
+    <dateType>0</dateType>
+    <developerName>productrevenuesplit</developerName>
+    <hasProductFamily>true</hasProductFamily>
+    <masterLabel>productrevenuesplit</masterLabel>
+    <opportunitySplitType>Revenue</opportunitySplitType>
+    <opptyLineItemSplitType>Revenue</opptyLineItemSplitType>
+    <quantity>false</quantity>
+    <roleType>R</roleType>
+</ForecastingType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ForecastingType</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- ForecastingSettings (atlas.en-us.api_meta.meta/api_meta/meta_forecastingsettings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

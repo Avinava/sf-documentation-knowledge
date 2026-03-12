@@ -5,11 +5,14 @@ topic: sets-of-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.574Z
-keywords: [Sets, Objects, Warning]
+lastCollected: 2026-03-12T05:14:33.981Z
+estimatedTokens: 194
+keywords: [Objects, contain, sObjects, among, types, elements., Warning]
 ---
 
 # Sets of Objects
+
+> Sets can contain sObjects among other types of elements.
 
 # Sets of Objects
 
@@ -32,3 +35,29 @@ If you add a description to one of the accounts, it is considered unique and bot
 #### Warning
 
 If set elements are objects, and these objects change after being added to the collection, they won’t be found anymore when using, for example, the contains or containsAll methods, because of changed field values.
+
+## Code Examples
+
+```apex
+// Create two accounts, a1 and a2
+Account a1 = new account(name='MyAccount');
+Account a2 = new account(name='MyAccount');
+
+// Add both accounts to the new set 
+Set<Account> accountSet = new Set<Account>{a1, a2};
+
+// Verify that the set only contains one item
+System.assertEquals(accountSet.size(), 1);
+```
+
+```apex
+// Create two accounts, a1 and a2, and add a description to a2
+Account a1 = new account(name='MyAccount');
+Account a2 = new account(name='MyAccount', description='My test account');
+
+// Add both accounts to the new set
+Set<Account> accountSet = new Set<Account>{a1, a2};
+
+// Verify that the set contains two items
+System.assertEquals(accountSet.size(), 2);
+```

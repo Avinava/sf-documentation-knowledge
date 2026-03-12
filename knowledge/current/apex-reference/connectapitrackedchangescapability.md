@@ -5,11 +5,15 @@ topic: connectapitrackedchangescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.141Z
-keywords: [ConnectApi.TrackedChangesCapability, See]
+lastCollected: 2026-03-12T05:14:29.189Z
+estimatedTokens: 192
+keywords: [ConnectApi.TrackedChangesCapability, feed, element, capability, contains, changes, record, single, tracked, change, event.]
 ---
 
 # ConnectApi.TrackedChangesCapability
+
+> If a feed element has this capability, it contains all changes to a
+      record for a single tracked change event.
 
 # ConnectApi.TrackedChangesCapability
 
@@ -24,3 +28,10 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​TrackedChangeItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_TrackedChangeItem.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

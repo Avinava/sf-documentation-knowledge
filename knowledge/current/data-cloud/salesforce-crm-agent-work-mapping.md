@@ -5,11 +5,15 @@ topic: salesforce-crm-agent-work-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.788Z
-keywords: [Salesforce, CRM, Agent, Work, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.014Z
+estimatedTokens: 471
+keywords: [Salesforce, CRM, Agent, Work, Mapping, data, mappings, AgentWork, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Agent Work Mapping
+
+> These data mappings are for the AgentWork DLO found in the Services bundle of the
+  Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Agent Work Mapping
 

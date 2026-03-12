@@ -5,11 +5,14 @@ topic: mldomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.589Z
-keywords: [MlDomain, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, MlIntent, MlIntentUtterance, MlRelatedIntent, MlSlotClass, MlSlotClassValue, SynonymGroup, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:41.208Z
+estimatedTokens: 1345
+keywords: [MlDomain, Represents, Einstein, Intent, Set., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, MlIntent, MlIntentUtterance, MlRelatedIntent, MlSlotClass, MlSlotClassValue, SynonymGroup]
 ---
 
 # MlDomain
+
+> Represents an Einstein Intent Set.
 
 # MlDomain
 
@@ -115,3 +118,91 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MlDomain xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>TestDomainMetadata</label>
+    <description>This is domain 2 for metadata testing</description>
+    <mlIntents>
+        <developerName>Test_Intent_New</developerName>
+        <label>Test Intent New</label>
+        <mlIntentUtterances>
+            <utterance>Utterance Hello</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <utterance>Utterance Hi</utterance>
+        </mlIntentUtterances>
+        <mlIntentUtterances>
+            <utterance>Utterance What</utterance>
+        </mlIntentUtterances>
+    </mlIntents>
+    <mlIntents>
+        <developerName>Test_Intent_New2</developerName>
+        <label>Test Intent New 2</label>
+    </mlIntents>
+    <mlSlotClasses>
+        <developerName>Test_Entity1</developerName>
+        <label>Test Entity 1</label>
+        <extractionType>Value</extractionType>
+        <mlSlotClassValues>
+                <value>Choice value 1</value>
+            </mlSlotClassValues>
+            <mlSlotClassValues>
+                <value>Choice value 2</value>
+            </mlSlotClassValues>
+    </mlSlotClasses>
+    <mlSlotClasses>
+        <developerName>Test_Entity2</developerName>
+        <label>Test Entity 2</label>
+        <extractionType>Pattern</extractionType>
+    </mlSlotClasses>
+    <mlSlotClasses>
+            <dataType>Text</dataType>
+            <description>Valid Email Address</description>
+            <developerName>Email</developerName>
+            <extractionRegex>\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b</extractionRegex>
+            <extractionType>Pattern</extractionType>
+            <label>Email</label>
+    </mlSlotClasses>
+    <mlSlotClasses>
+        <developerName>airport</developerName>
+        <extractionType>Value</extractionType>
+        <label>airport</label>
+        <mlSlotClassValues>
+            <synonymGroup>
+                <languages>en_US</languages>
+                <terms>San Francisco</terms>
+                <terms>The City</terms>
+            </synonymGroup>
+            <value>SFO</value>
+        </mlSlotClassValues>
+        <mlSlotClassValues>
+            <synonymGroup>
+                <languages>en_US</languages>
+                <terms>Oakland</terms>
+                <terms>The Town</terms>
+            </synonymGroup>
+            <value>OAK</value>
+        </mlSlotClassValues>
+    </mlSlotClasses>
+</MlDomain>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>TestDomainMetadata</members>
+        <name>MlDomain</name>
+    </types>
+    <version>43.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

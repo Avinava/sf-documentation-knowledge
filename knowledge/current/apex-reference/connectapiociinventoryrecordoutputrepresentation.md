@@ -5,11 +5,14 @@ topic: connectapiociinventoryrecordoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.395Z
-keywords: [ConnectApi.OCIInventoryRecordOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.128Z
+estimatedTokens: 222
+keywords: [ConnectApi.OCIInventoryRecordOutputRepresentation, Inventory, availability, data, product.]
 ---
 
 # ConnectApi.OCIInventoryRecordOutputRepresentation
+
+> Inventory availability data for a product.
 
 # ConnectApi.OCIInventoryRecordOutputRepresentation
 
@@ -26,3 +29,12 @@ Inventory availability data for a product.
 | reserved | Double | The Reserved quantity. | 51.0 |
 | safetyStockCount | Double | The Safety Stock Count. | 51.0 |
 | stockKeepingUnit | String | The SKU of the product. | 51.0 |
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​OCIFutureInventory​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_future_inventory_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

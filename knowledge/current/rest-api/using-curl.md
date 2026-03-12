@@ -5,11 +5,16 @@ topic: using-curl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:44:25.130Z
-keywords: [cURL, Important]
+lastCollected: 2026-03-12T05:14:35.228Z
+estimatedTokens: 466
+keywords: [cURL, Get, know, formatting, requests, Salesforce., Quick, Start, uses, examples, any, tool, development, environment, REST, requests., Important]
 ---
 
 # Using cURL
+
+> Get to know the formatting that you can use with cURL to make requests to Salesforce.
+    This Quick Start uses cURL examples, but you can use any tool or development environment that
+    can make REST requests.
 
 # Using cURL
 
@@ -54,3 +59,21 @@ Or, you can enclose the access token within single quotes to not escape the excl
 All quotes, whether single or double, must be straight quotes, not curly quotes.
 
 -   [Next →](atlas.en-us.api_rest.meta/api_rest/quickstart_dev_org.htm "Step One: Sign up for Salesforce Developer Edition")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/ -H "Authorization: Bearer <SALESFORCE_ACCESS_TOKEN>" -H "Content-Type: application/json" —d @new-account.json -X POST
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H "Authorization: Bearer 00DE0X0A0M0PeLE\!AQcAQH0dMHEXAMPLEzmpkb58urFRkgeBGsxL_QJWwYMfAbUeeG7c1EXAMPLEDUkWe6H34r1AAwOR8B8fLEz6nEXAMPLE"
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H 'Authorization: Bearer <SALESFORCE_ACCESS_TOKEN>'
+```
+
+## Related Topics
+
+- Next → (atlas.en-us.api_rest.meta/api_rest/quickstart_dev_org.htm)

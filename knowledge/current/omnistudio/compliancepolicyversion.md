@@ -5,11 +5,15 @@ topic: compliancepolicyversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.908Z
-keywords: [CompliancePolicyVersion, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.854Z
+estimatedTokens: 1034
+keywords: [CompliancePolicyVersion, Represents, version, Compliance, Policy, tracks, amendments., API, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # CompliancePolicyVersion
+
+> Represents the version of the Compliance Policy that tracks amendments.
+      This object is available in API version 65.0 and later.
 
 # CompliancePolicyVersion
 
@@ -53,3 +57,10 @@ History is available for tracked fields of the object.
 [CompliancePolicyVersionShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- CompliancePolicyVersionChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CompliancePolicyVersionFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- CompliancePolicyVersionHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- CompliancePolicyVersionShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

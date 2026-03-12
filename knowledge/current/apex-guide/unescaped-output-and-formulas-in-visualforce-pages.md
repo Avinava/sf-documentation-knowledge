@@ -5,11 +5,17 @@ topic: unescaped-output-and-formulas-in-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.203Z
-keywords: [Unescaped, Output, Formulas, Visualforce, Pages]
+lastCollected: 2026-03-12T05:14:34.899Z
+estimatedTokens: 1044
+keywords: [Unescaped, Output, Formulas, Visualforce, Pages, components, set, escape, attribute, false, including, formulas, outside, component, output, unfiltered, must, validated, security., especially]
 ---
 
 # Unescaped Output and Formulas in Visualforce Pages
+
+> When using components that have set the escape
+    attribute to false, or when including formulas outside of a Visualforce component, output is
+    unfiltered and must be validated for security. This is especially important when using formula
+    expressions.
 
 # Unescaped Output and Formulas in Visualforce Pages
 
@@ -84,3 +90,34 @@ In this case, to prevent JavaScript from being executed, use the JSENCODE functi
 ```
 
 Formula tags can also be used to include platform object data. Although the data is taken directly from the user's organization, it must still be escaped before use to prevent users from executing code in the context of other users (potentially those with higher privilege levels). While these types of attacks must be performed by users within the same organization, they undermine the organization's user roles and reduce the integrity of auditing records. Additionally, many organizations contain data which has been imported from external sources and might not have been screened for malicious content.
+
+## Code Examples
+
+```
+<apex:page standardController="Account">
+  <apex:form>
+    <apex:commandButton rerender="outputIt" value="Update It"/>
+    <apex:inputText value="{!myTextField}"/>
+  </apex:form>
+
+  <apex:outputPanel id="outputIt"> 
+    Value of myTextField is <apex:outputText value="{!myTextField}" escape="false"/>
+  </apex:outputPanel>    
+</apex:page>
+```
+
+```
+<script>alert('xss')
+```
+
+```
+<apex:outputText value=" {!HTMLENCODE(myTextField)}" escape="false"/>
+```
+
+```
+<script>var ret = "{!$CurrentPage.parameters.retURL}";</script>
+```
+
+```
+https://example.com/demo/redirect.html?retURL=%22foo%22%3Balert('xss')%3B%2F%2F
+```

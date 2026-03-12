@@ -5,11 +5,15 @@ topic: consent-status-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.986Z
-keywords: [Consent, Status, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.350Z
+estimatedTokens: 430
+keywords: [Consent, Status, DMO, Data, Cloud, data, model, status, consent, example, opted, collection., API, Name, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Consent Status DMO
+
+> The Consent Status DMO is a Data Cloud data model object (DMO) for the
+      status of consent, for example opted in or out of data collection.
 
 # Consent Status DMO
 

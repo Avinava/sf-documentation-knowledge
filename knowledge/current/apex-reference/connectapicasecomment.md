@@ -5,11 +5,14 @@ topic: connectapicasecomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.176Z
-keywords: [ConnectApi.CaseComment, Important]
+lastCollected: 2026-03-12T05:14:26.408Z
+estimatedTokens: 321
+keywords: [ConnectApi.CaseComment, Attachments, feed, items, CaseCommentPost., Important]
 ---
 
 # ConnectApi.CaseComment
+
+> Attachments in feed items with type CaseCommentPost.
 
 # ConnectApi.CaseComment
 
@@ -31,3 +34,12 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | id | String | Comment’s 18–character ID | 28.0–31.0 |
 | published | Boolean | Specifies whether the comment has been published | 28.0–31.0 |
 | text | String | Comment’s text | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.CaseCommentCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_case_comment_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

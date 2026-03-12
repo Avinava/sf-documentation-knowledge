@@ -5,11 +5,15 @@ topic: using-pop-out-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.403Z
-keywords: [Pop-Out, Utilities, Note, Standard, Custom, Disabling, See]
+lastCollected: 2026-03-12T05:14:57.998Z
+estimatedTokens: 720
+keywords: [Pop-Out, Utilities, support, pop-out, “popped, out”, utility, bar, their, own, separate, child, windows., Note, Standard, Custom, Disabling]
 ---
 
 # Using Pop-Out Utilities
+
+> Utilities that support pop-out can be “popped out” of the utility bar and into their
+        own separate child windows.
 
 # Using Pop-Out Utilities
 
@@ -65,9 +69,22 @@ If you’re migrating from a Classic console app and using a Visualforce page fo
 
 Disabling pop-out with the Lightning Console JavaScript API allows you to enable and disable pop-out in real time.
 
--   **[Supported APIs](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_utility_popout_supported_apis.htm)**  
+-   **[Supported APIs](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_utility_popout_supported_apis.htm)**
     A list of methods and events that support utility pop-out.
 
 #### See Also
 
 -   [disableUtilityPopOut() for Lightning Experience for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableUtilityPopOut.htm "Disables pop-out for a utility. This method isn’t supported for Lightning Web Components (LWC).")
+
+## Code Examples
+
+```
+<aura:component implements="lightning:utilityItem">
+    <aura:attribute name="supportsPopOut" type="Boolean" default="false" />
+</aura:component>
+```
+
+## Related Topics
+
+- Supported APIs (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_utility_popout_supported_apis.htm)
+- disableUtilityPopOut() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableUtilityPopOut.htm)

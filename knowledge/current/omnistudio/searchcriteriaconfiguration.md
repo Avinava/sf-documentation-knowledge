@@ -4,12 +4,17 @@ domain: omnistudio
 topic: searchcriteriaconfiguration
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.647Z
-keywords: [SearchCriteriaConfiguration, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.666Z
+estimatedTokens: 1263
+keywords: [SearchCriteriaConfiguration, Retrieve, deploy, update, create, view, search, criteria, configurations, criteria-based, filter., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # SearchCriteriaConfiguration
+
+> Represents the configuration details of searchable field sets such as the
+         group of fields used as the basis for search, aggregation, sort, and result display.
+      This object is available in API version 58.0 and later.
 
 # SearchCriteriaConfiguration
 
@@ -51,3 +56,145 @@ Automotive and Criteria-Based Search and Filter must be enabled.
 | SearchableObjDataSyncInfoId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe object that stores data sync information about the searchable object, such as whether the data sync job is active or not, and when the last data sync job was run.This field is a relationship field.Relationship NameSearchableObjDataSyncInfoRelationship TypeLookupRefers ToSearchableObjDataSyncInfo |
 | SearchableObject | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe object that can be used for criteria-based search and filter.Possible values are:VehicleSearchableField—This value is applicable for Automotive Cloud. |
 | SortingCriteriaFieldsetId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe set of fields in the searchable object that can be used as sort criteria for search results.This field is a relationship field.Relationship NameSortingCriteriaFieldsetRelationship TypeLookupRefers ToFieldSet |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchCriteriaConfiguration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionList>Create_Product_Request</actionList>
+    <additionalSearchCriteria>{&quot;rangeWithinFilters&quot;:[{&quot;field&quot;:&quot;ManufactureDate&quot;}]}</additionalSearchCriteria>
+    <aggrCriteriaFieldset>
+        <fullName>AggregCriteriaSearchCriteriaConfig</fullName>
+        <availableFields>
+            <field>Name</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>SerialNumber</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>StockKeepingUnit</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>SelectedGroupByColumns</description>
+        <displayedFields>
+            <field>Name</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>SerialNumber</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>StockKeepingUnit</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <label>SelectedGroupByColumns</label>
+    </aggrCriteriaFieldset>
+    <configurationType>DefaultSearch</configurationType>
+    <description>This configuration is for the search criteria settings.</description>
+    <filterType>GROUPING_AND_AGGREGATION</filterType>
+    <isActive>true</isActive>
+    <isSingleFieldSort>true</isSingleFieldSort>
+    <masterLabel>SearchCriteriaConfig</masterLabel>
+    <resultDisplayFormat>CARD</resultDisplayFormat>
+    <resultFlexCard>ReviewNotes</resultFlexCard>
+    <searchCriteriaFieldset>
+        <fullName>SearchCriteriaSearchCriteriaConfig</fullName>
+        <availableFields>
+            <field>RootAssetId</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>AccountId</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>Id</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>Product2Id</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>SelectedSearchFields</description>
+        <displayedFields>
+            <field>RootAssetId</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>AccountId</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>Id</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>Product2Id</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <label>SelectedSearchFields</label>
+    </searchCriteriaFieldset>
+    <searchableObjDataSyncInfo>AssetSearch</searchableObjDataSyncInfo>
+    <searchableObject>Asset</searchableObject>
+    <sortingCriteriaFieldset>
+        <fullName>SortinCriteriaSearchCriteriaConfig</fullName>
+        <availableFields>
+            <field>AccountId</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>Id</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>Name</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>Product2Id</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <availableFields>
+            <field>StockKeepingUnit</field>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>SelectedSortByColumns</description>
+        <displayedFields>
+            <field>AccountId</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>Id</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>Name</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>Product2Id</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>StockKeepingUnit</field>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <label>SelectedSortByColumns</label>
+    </sortingCriteriaFieldset>
+</SearchCriteriaConfiguration>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>SearchCriteriaConfiguration</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

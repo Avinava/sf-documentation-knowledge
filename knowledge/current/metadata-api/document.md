@@ -5,11 +5,16 @@ topic: document
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.066Z
-keywords: [Document, Retrieving, Documents, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:39.002Z
+estimatedTokens: 1238
+keywords: [Document, Represents, Document., documents, must, document, folder, such, sampleFolder, TestDocument., Retrieving, Documents, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
 # Document
+
+> Represents a Document. All documents must be in a
+            document folder, such as
+        sampleFolder/TestDocument.
 
 # Document
 
@@ -66,3 +71,46 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [Folder](atlas.en-us.api_meta.meta/api_meta/meta_folder.htm "Represents a folder. This type extends the Metadata metadata type and inherits its fullName field.")
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyDBFolder/MyDBName</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>MyDocumentFolder/MyDocumentName</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SalesNewCustomerEmail</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>MyReportFolder/MyReportName</members>
+        <name>Report</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://soap.sforce.com/2006/04/metadata">
+    <internalUseOnly>false</internalUseOnly>
+    <name>Q2 Campaign Analysis</name>
+    <public>false</public>
+    <description>Analyze Q2 campaign effectiveness</description>
+</Document>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Folder (atlas.en-us.api_meta.meta/api_meta/meta_folder.htm)

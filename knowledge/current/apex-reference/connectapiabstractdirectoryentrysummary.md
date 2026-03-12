@@ -5,11 +5,14 @@ topic: connectapiabstractdirectoryentrysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.773Z
-keywords: [ConnectApi.AbstractDirectoryEntrySummary]
+lastCollected: 2026-03-12T05:14:25.855Z
+estimatedTokens: 198
+keywords: [ConnectApi.AbstractDirectoryEntrySummary, directory, entry, summary, information.]
 ---
 
 # ConnectApi.AbstractDirectoryEntrySummary
+
+> A directory entry with summary information.
 
 # ConnectApi.AbstractDirectoryEntrySummary
 
@@ -28,3 +31,10 @@ Superclass of:
 | email | String | Email of the directory entry. | 39.0 |
 | id | String | ID of the directory entry. | 39.0 |
 | type | ConnectApi.​ContentHub​DirectoryEntry​Type | Type of directory entry. Values are:GroupEntryUserEntry | 39.0 |
+
+## Related Topics
+
+- ConnectApi.RepositoryGroupSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_group_summary.htm)
+- ConnectApi.RepositoryUserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_repository_user_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ContentHub​DirectoryEntry​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

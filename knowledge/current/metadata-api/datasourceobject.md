@@ -5,11 +5,15 @@ topic: datasourceobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.737Z
-keywords: [DataSourceObject, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:38.548Z
+estimatedTokens: 743
+keywords: [DataSourceObject, Represents, where, data, sourced., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # DataSourceObject
+
+> Represents the object from where the data
+      was sourced.
 
 # DataSourceObject
 
@@ -59,3 +63,8 @@ You need the Salesforce Customize Application permission to access this metadata
 | sourceObject | string | The developer name of the source object for the data source object. |
 | storageType | StorageType (enumeration of type string) | The type of storage used for data source object. Available in API version 63.0 and later. Possible values are:ExternalLocal |
 | templateVersion | int | The version number of the data source object. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- DataSourceField[] (atlas.en-us.api_meta.meta/api_meta/meta_datasourcefield.htm)

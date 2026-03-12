@@ -5,11 +5,16 @@ topic: triggers-and-merge-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.754Z
-keywords: [Triggers, Merge, Statements]
+lastCollected: 2026-03-12T05:14:34.205Z
+estimatedTokens: 436
+keywords: [Triggers, Merge, Statements, example, two, contacts, merged, only, delete, update, contact, triggers, fire., records, related, such, accounts, opportunities]
 ---
 
 # Triggers and Merge Statements
+
+> For example, if two contacts are merged, only the delete and update
+contact triggers fire. No triggers for records related to the contacts,
+such as accounts or opportunities, fire.
 
 # Triggers and Merge Statements
 
@@ -34,3 +39,8 @@ The following is the order of events when a merge occurs:
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm "Defining Triggers")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_recovered_records.htm "Triggers and Recovered Records")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_recovered_records.htm)

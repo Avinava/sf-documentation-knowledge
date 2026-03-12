@@ -5,11 +5,16 @@ topic: contextdefinitionreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.394Z
-keywords: [ContextDefinitionReference, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.665Z
+estimatedTokens: 395
+keywords: [ContextDefinitionReference, Represents, information, reference, Context, Definition, another, Definition., API, version, 60.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ContextDefinitionReference
+
+> Represents information about reference from one Context Definition to another
+         Context Definition.  This object is available in API version 60.0 and
+      later.
 
 # ContextDefinitionReference
 

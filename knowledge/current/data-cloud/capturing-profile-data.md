@@ -5,11 +5,15 @@ topic: capturing-profile-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.189Z
-keywords: [Capturing, Profile, Data, Setting, Attributes, Supported, Customer, 360, Model, Anonymous, Known, Users, Shared, Party, Identifiers]
+lastCollected: 2026-03-12T05:14:12.134Z
+estimatedTokens: 1119
+keywords: [Capturing, Profile, Data, Cloud, Module, Engagement, Mobile, SDK, enables, collection, profile, data, through, SDK’s, Identity, APIs., Setting, Attributes, Supported, Customer]
 ---
 
 # Capturing Profile Data
+
+> The Data Cloud Module for the Engagement Mobile SDK enables collection of profile
+    data through the SDK’s Identity APIs.
 
 # Capturing Profile Data
 
@@ -111,3 +115,71 @@ When the MobilePush module obtains a resolved identity for a mobile customer, it
 -   userId — Identification Number
 -   IDName — Party Identification Name
 -   IDType — Party Identification Type
+
+## Code Examples
+
+```
+import Cdp
+import SFMCSDK
+
+...
+
+let profileAttributes = [
+  "email": "user@domain.com",
+  "username": "user01"
+]
+SFMCSdk.identity.setProfileAttributes([.cdp: profileAttributes])
+```
+
+```
+import com.salesforce.marketingcloud.sfmcsdk.SFMCSdk
+import com.salesforce.marketingcloud.sfmcsdk.modules.ModuleIdentifier.CDP
+
+...
+
+val profileAttributes = mapOf(
+  "email" to "user@domain.com",
+  "username" to "user01"
+)
+SFMCSdk.requestSdk { sdk ->
+  sdk.identity.setProfileAttributes(profileAttributes, CDP)
+}
+```
+
+```
+<uses-permission android:name="com.google.android.gms.permission.AD_ID" tools:node="remove"/>
+```
+
+```
+import Cdp
+import SFMCSDK
+
+...
+
+// treat a profile as anonymous
+SFMCSdk.identity.setProfileAttributes([.cdp: ["isAnonymous": “1”]])
+// or use this convenience function
+CdpModule.shared.setProfileToAnonymous()
+
+// treat a profile as known
+SFMCSdk.identity.setProfileAttributes([.cdp: ["isAnonymous": “0”]])
+ // or use this convenience function
+ CdpModule.shared.setProfileToKnown()
+```
+
+```
+// treat a profile as anonymous
+SFMCSdk.requestSdk { sdk ->
+  sdk.identity.setProfileAttribute("isAnonymous", “1”, CDP) 
+}
+
+// treat a profile as known
+SFMCSdk.requestSdk { sdk ->
+  sdk.identity.setProfileAttribute("isAnonymous", “0”, CDP) 
+}
+```
+
+## Related Topics
+
+- initialized. (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_initialization.htm)
+- Consent (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_consent_management.htm)

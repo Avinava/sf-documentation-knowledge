@@ -5,11 +5,17 @@ topic: forecastingdisplayedfamily
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.028Z
-keywords: [ForecastingDisplayedFamily, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.728Z
+estimatedTokens: 171
+keywords: [ForecastingDisplayedFamily, Represents, product, families, admin, chooses, allow, forecasting, Lightning, Experience., Tooling, API, version, 40.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # ForecastingDisplayedFamily
+
+> Represents the
+            product families that an admin chooses to allow forecasting on in Lightning Experience. Available in
+            Tooling API version 40.0 and
+        later.
 
 # ForecastingDisplayedFamily
 

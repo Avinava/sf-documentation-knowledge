@@ -5,11 +5,21 @@ topic: skillrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:13.041Z
-keywords: [SkillRequirement, Supported, Calls, Special, Access, Rules, Fields, Usage, Note, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.712Z
+estimatedTokens: 1535
+keywords: [SkillRequirement, Represents, skill, required, complete, particular, task, Field, Service, Omni-Channel, Salesforce, Scheduler, Workforce, Engagement., Skill, requirements, added, pending, service, routing]
 ---
 
 # SkillRequirement
+
+> Represents a skill that is required to complete a particular task in
+			Field Service, Omni-Channel, Salesforce Scheduler, or Workforce Engagement. Skill
+			requirements can be added to pending service routing objects in Omni-Channel. They can
+			be added to work types, work orders, and work order line items in Field Service and
+			Lightning Scheduler. And they can be added to job profiles in Workforce Engagement.
+		This object is available in API version 38.0 and later. You also can add skill requirements
+		to work items in Omni-Channel skills-based routing using API version 42.0 and
+		later.
 
 # SkillRequirement
 

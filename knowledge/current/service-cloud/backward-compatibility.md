@@ -5,11 +5,15 @@ topic: backward-compatibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.742Z
-keywords: [Backward, Compatibility]
+lastCollected: 2026-03-12T05:14:57.106Z
+estimatedTokens: 466
+keywords: [Backward, Compatibility, Salesforce, strives, backward, compatibility, easy, Console, Integration, Toolkit.]
 ---
 
 # Backward Compatibility
+
+> Salesforce strives to make backward compatibility easy when using the Salesforce Console
+  Integration Toolkit.
 
 # Backward Compatibility
 

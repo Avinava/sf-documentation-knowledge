@@ -5,11 +5,15 @@ topic: problemconfigurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.927Z
-keywords: [ProblemConfigurationItem, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.468Z
+estimatedTokens: 405
+keywords: [ProblemConfigurationItem, Represents, relationship, between, problem, configuration, item, reference., API, version, 65.0, later., Supported, Calls, Fields]
 ---
 
 # ProblemConfigurationItem
+
+> Represents the relationship between a problem and a configuration item
+         reference. This object is available in API version 65.0 and later.
 
 # ProblemConfigurationItem
 

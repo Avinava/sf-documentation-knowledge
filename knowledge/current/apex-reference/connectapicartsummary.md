@@ -5,11 +5,14 @@ topic: connectapicartsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.169Z
-keywords: [ConnectApi.CartSummary, See]
+lastCollected: 2026-03-12T05:14:26.396Z
+estimatedTokens: 1273
+keywords: [ConnectApi.CartSummary, cart, summary.]
 ---
 
 # ConnectApi.CartSummary
+
+> A cart summary.
 
 # ConnectApi.CartSummary
 
@@ -54,3 +57,14 @@ A cart summary.
 #### See Also
 
 -   [ConnectApi.CartItemCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item_collection.htm "A collection of items in a cart.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- SObject (atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CartStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​CartType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.CartItemCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item_collection.htm)

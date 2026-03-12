@@ -5,11 +5,16 @@ topic: metadata-api-developer-tools
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.901Z
-keywords: [Metadata, API, Developer, Tools, See]
+lastCollected: 2026-03-12T05:14:38.788Z
+estimatedTokens: 935
+keywords: [Metadata, API, Developer, Tools, Salesforce, Extensions, Visual, Studio, Code, CLI, access, commands., streamline, process, API.]
 ---
 
 # Metadata API Developer Tools
+
+> Use the Salesforce Extensions for Visual Studio Code on Salesforce CLI to access Metadata
+    API commands. Salesforce CLI and the Salesforce Extensions for Visual Studio Code streamline the
+    process of using Metadata API.
 
 # Metadata API Developer Tools
 
@@ -36,3 +41,11 @@ You can modify metadata in test orgs in Developer Edition or sandboxes, and then
 #### See Also
 
 -   [Deploying and Retrieving Metadata](atlas.en-us.api_meta.meta/api_meta/file_based.htm)
+
+## Related Topics
+
+- Working with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- CRUD-Based Metadata Development (atlas.en-us.api_meta.meta/api_meta/meta_calls_intro.htm)
+- Deploying and Retrieving Metadata (atlas.en-us.api_meta.meta/api_meta/file_based.htm)

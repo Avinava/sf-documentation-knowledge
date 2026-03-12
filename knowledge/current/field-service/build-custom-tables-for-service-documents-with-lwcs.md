@@ -5,11 +5,15 @@ topic: build-custom-tables-for-service-documents-with-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.234Z
-keywords: [Build, Custom, Tables, Service, Documents, LWCs, Design, Table, Show, Data, Properly, Example]
+lastCollected: 2026-03-12T05:14:55.501Z
+estimatedTokens: 192
+keywords: [Build, Custom, Tables, Service, Documents, LWCs, custom, tables, Document, Builder, Lightning, web, components, Design, Table, Show, Data, Properly, Example]
 ---
 
 # Build Custom Tables for Service Documents with LWCs
+
+> Build custom tables for Document Builder with Lightning web components
+        (LWCs).
 
 # Build Custom Tables for Service Documents with LWCs
 
@@ -27,4 +31,30 @@ Here’s a sample markup that calls out the header row, ensuring that the header
 
 ```
 
+```
+
+## Code Examples
+
+```
+<table>
+  <thead>
+       <tr>
+           <th>Company</th>
+           <th>Contact</th>
+           <th>Country</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+           <td>Alfreds Futterkiste</td>
+           <td>Maria Anders</td>
+           <td>Germany</td>
+       </tr>
+       <tr>
+           <td>Centro comercial Moctezuma</td>
+           <td>Francisco Chang</td>
+           <td>Mexico</td>
+       </tr>
+   </tbody>
+</table>
 ```

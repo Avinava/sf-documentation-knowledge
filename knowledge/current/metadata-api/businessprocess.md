@@ -5,11 +5,15 @@ topic: businessprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.944Z
-keywords: [BusinessProcess, Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:37.463Z
+estimatedTokens: 1098
+keywords: [BusinessProcess, metadata, enables, display, different, picklist, values, users, based, their, profile., Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # BusinessProcess
+
+> The BusinessProcess metadata type enables you to
+            display different picklist values for users based on their profile.
 
 # BusinessProcess
 
@@ -65,5 +69,51 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [*Salesforce DX Developer Guide*: BusinessProcessGroup](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/packaging_packageable_components.htm#mdc_business_process_group)
-    
+
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+....
+    <businessProcesses>
+        <fullName>HardwareLeadProcess</fullName>
+        <description>Lead Process for hardware division</description>
+        <isActive>true</isActive>
+        <values>
+            <fullName>Closed - Converted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CustomLeadStep1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CustomLeadStep2</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Open - Not Contacted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Working - Contacted</fullName>
+            <default>true</default>
+        </values>
+    </businessProcesses>
+....
+</CustomObject>
+```
+
+## Related Topics
+
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- PicklistValue (atlas.en-us.api_meta.meta/api_meta/meta_globalpicklistvalue.htm)
+- RecordType (atlas.en-us.api_meta.meta/api_meta/meta_recordtype.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_compactlayout.htm)

@@ -5,11 +5,14 @@ topic: connectapiactivationcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.866Z
-keywords: [ConnectApi.ActivationCollection, See]
+lastCollected: 2026-03-12T05:14:25.983Z
+estimatedTokens: 234
+keywords: [ConnectApi.ActivationCollection, Represents, collection, activations.]
 ---
 
 # ConnectApi.ActivationCollection
+
+> Represents a collection of activations.
 
 # ConnectApi.ActivationCollection
 
@@ -25,5 +28,14 @@ Represents a collection of activations.
 #### See Also
 
 -   [getActivations()](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_getActivations_1 "Get activations.")
-    
+
 -   [getActivationsPaginated(batchSize, offset, orderBy, filters)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_getActivationsPaginated_1 "Get a paginated list of activations.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ActivationRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_activation.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- getActivations() (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm)
+- getActivationsPaginated(batchSize, offset, orderBy, filters) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm)

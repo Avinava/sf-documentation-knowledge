@@ -5,11 +5,17 @@ topic: embeddedservicecustomlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.692Z
-keywords: [EmbeddedServiceCustomLabel, Supported, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.255Z
+estimatedTokens: 339
+keywords: [EmbeddedServiceCustomLabel, Represents, customized, label, appears, embedded, component, particular, Embedded, Service, deployment., Labels, both, Chat, Appointment, Management, beta, API, version, 44.0]
 ---
 
 # EmbeddedServiceCustomLabel
+
+> Represents a customized label that appears in the embedded component
+            for a particular Embedded Service deployment. Labels can be customized for both Embedded
+            Chat and embedded Appointment Management (beta). Available in API version 44.0 and
+        later.
 
 # EmbeddedServiceCustomLabel
 

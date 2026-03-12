@@ -5,11 +5,17 @@ topic: built-in-exceptions-and-common-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.086Z
-keywords: [Built-In, Exceptions, Common, Methods, Exception]
+lastCollected: 2026-03-12T05:14:33.342Z
+estimatedTokens: 1919
+keywords: [Built-In, Exceptions, Common, Apex, provides, number, built-in, exception, types, runtime, engine, throws, errors, encountered, during, execution., You've, seen, DmlException, previous]
 ---
 
 # Built-In Exceptions and Common Methods
+
+> Apex provides a number of built-in exception types that the runtime engine throws if
+            errors are encountered during execution. You've seen the DmlException in the previous
+            example. Here is a sample of some other built-in exceptions. For a complete list of
+            built-in 
 
 # Built-In Exceptions and Common Methods
 
@@ -127,3 +133,75 @@ Note how the sample above didn’t include all the initial code in the try block
 14:01:24:942 USER\_DEBUG \[24\]|DEBUG|getDmlMessage=Required fields are missing: \[Description, Price, Total Inventory\]
 
 The number of DML failures is correctly reported as two since two items in our list fail insertion. Also, the field names that caused the failure, and the error message for each failed record is written to the output.
+
+## Code Examples
+
+```apex
+try {
+    Merchandise__c m = new Merchandise__c();
+    insert m;
+} catch(DmlException e) {
+    System.debug('The following exception has occurred: ' + e.getMessage());
+}
+```
+
+```apex
+try {
+    List<Integer> li = new List<Integer>();
+    li.add(15);
+    // This list contains only one element,
+    // but we're attempting to access the second element
+    // from this zero-based list.
+    Integer i1 = li[0]; 
+    Integer i2 = li[1]; // Causes a ListException
+} catch(ListException le) {
+    System.debug('The following exception has occurred: ' + le.getMessage());
+}
+```
+
+```apex
+try {
+    String s;
+    Boolean b = s.contains('abc'); // Causes a NullPointerException
+} catch(NullPointerException npe) {
+    System.debug('The following exception has occurred: ' + npe.getMessage());
+}
+```
+
+```apex
+try {
+    // This statement doesn't cause an exception, even though 
+    // we don't have a merchandise with name='XYZ'.
+    // The list will just be empty.
+    List<Merchandise__c> lm = [SELECT Name FROM Merchandise__c WHERE Name = 'XYZ'];
+    // lm.size() is 0 
+    System.debug(lm.size());
+    
+    // However, this statement causes a QueryException because 
+    // we're assiging the return value to a Merchandise__c object
+    // but no Merchandise is returned.
+    Merchandise__c m = [SELECT Name FROM Merchandise__c WHERE Name = 'XYZ' LIMIT 1];
+} catch(QueryException qe) {
+    System.debug('The following exception has occurred: ' + qe.getMessage());    
+}
+```
+
+```apex
+try {
+    Invoice_Statement__c inv = new Invoice_Statement__c(
+        Description__c='New Invoice');
+    insert inv;
+
+    // Query the invoice we just inserted
+    Invoice_Statement__c v = [SELECT Name FROM Invoice_Statement__c WHERE Id = :inv.Id];
+    // Causes an SObjectException because we didn't retrieve
+    // the Description__c field.
+    String s = v.Description__c;
+} catch(SObjectException se) {
+    System.debug('The following exception has occurred: ' + se.getMessage());
+}
+```
+
+## Related Topics
+
+- Create Custom Exceptions (atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm)

@@ -5,11 +5,14 @@ topic: connectapistatuscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.593Z
-keywords: [ConnectApi.StatusCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:25.581Z
+estimatedTokens: 337
+keywords: [ConnectApi.StatusCapabilityInput, Change, status, feed, post, comment.]
 ---
 
 # ConnectApi.StatusCapabilityInput
+
+> Change the status of a feed post or comment.
 
 # ConnectApi.StatusCapabilityInput
 
@@ -24,3 +27,9 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- ConnectApi.​FeedEntityStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

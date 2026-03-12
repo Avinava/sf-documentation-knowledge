@@ -4,12 +4,16 @@ domain: apex-guide
 topic: considerations-for-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.779Z
-keywords: [Considerations, Apex, Connector, Framework, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.899Z
+estimatedTokens: 499
+keywords: [Considerations, Apex, Connector, Framework, Understand, limits, considerations, creating, Salesforce, Connect, custom, adapters, Framework.]
 ---
 
 # Considerations for the Apex Connector Framework
+
+> Understand the limits and considerations for creating Salesforce Connect custom
+        adapters with the Apex Connector Framework.
 
 # Considerations for the Apex Connector Framework
 
@@ -29,3 +33,9 @@ Understand the limits and considerations for creating Salesforce Connect custom 
 #### See Also
 
 -   [Dynamic SOQL](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_soql.htm)
+
+## Related Topics
+
+- Google Drive™ Custom Adapter for Salesforce
+                            Connect (atlas.en-us.apexcode.meta/apexcode/apex_connector_example_google_drive.htm)
+- Dynamic SOQL (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_soql.htm)

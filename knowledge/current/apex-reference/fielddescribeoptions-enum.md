@@ -5,11 +5,16 @@ topic: fielddescribeoptions-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.418Z
-keywords: [FieldDescribeOptions, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.543Z
+estimatedTokens: 181
+keywords: [FieldDescribeOptions, Schema.FieldDescribeOptions, SObjectType.getDescribe, method., Usage, Values]
 ---
 
 # FieldDescribeOptions Enum
+
+> A Schema.FieldDescribeOptions enum value is a
+    parameter in the SObjectType.getDescribe
+    method.
 
 # FieldDescribeOptions Enum
 
@@ -27,3 +32,7 @@ The following are the values of the Schema.FieldDescribeOptions enum.
 | --- | --- |
 | DEFAULT | Compute context-specific, describe field results. |
 | FULL_DESCRIBE | Compute all aspects of describe field results. |
+
+## Related Topics
+
+- getDescribe(options) (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectField.htm)

@@ -5,11 +5,17 @@ topic: search-with-parameters-in-the-uri
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.591Z
-keywords: [Search, Parameters, URI, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.898Z
+estimatedTokens: 2140
+keywords: [Search, URI, Get, search, results, simple, instead, SOSL., basic, queries, without, defining, large, SOSL, query., API, case, cover, replacing, FIND]
 ---
 
 # Search with Parameters in the URI
+
+> Get search results using simple URI parameters instead of using SOSL. Make basic queries
+  without defining a large SOSL query. Use this API when you have a basic use case to cover,
+  replacing FIND searchString IN ALL FIELDS by just including the search string
+  in the URI. This resource is available in REST API version 36.0 and later.
 
 # Search with Parameters in the URI
 
@@ -78,4 +84,10 @@ Example Request
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/parameterizedSearch/?q=Acme&sobject=Account&Account.fields=id,name&Account.limit=10
 ```

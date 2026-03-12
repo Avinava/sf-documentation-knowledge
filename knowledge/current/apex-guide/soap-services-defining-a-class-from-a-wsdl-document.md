@@ -5,11 +5,16 @@ topic: soap-services-defining-a-class-from-a-wsdl-document
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.407Z
-keywords: [SOAP, Services, Defining, Class, WSDL, Document, Note, Invoking, External, Service, HTTP, Header, Support, Sending, Headers, Web, Callout, Tip, Accessing, Response]
+lastCollected: 2026-03-12T05:14:32.362Z
+estimatedTokens: 2850
+keywords: [SOAP, Services, Defining, WSDL, Document, Classes, automatically, generated, document, stored, local, hard, drive, network., Creating, consuming, allows, developers, callouts, external]
 ---
 
 # SOAP Services: Defining a Class from a WSDL Document
+
+> Classes can be automatically generated from a WSDL document that
+        is stored on a local hard drive or network. Creating a class by consuming a WSDL
+      document allows developers to make callouts to the external Web service in their Apex code.
 
 # SOAP Services: Defining a Class from a WSDL Document
 
@@ -26,19 +31,19 @@ To generate an Apex class from a WSDL:
 1.  In the application, from Setup, enter Apex Classes in the Quick Find box, then select **Apex Classes**.
 2.  Click **Generate from WSDL**.
 3.  Click **Browse** to navigate to a WSDL document on your local hard drive or network, or type in the full path. This WSDL document is the basis for the Apex class you are creating.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     The WSDL document that you specify might contain a SOAP endpoint location that references an outbound port.
-    
+
     For security reasons, Salesforce restricts the outbound ports you can specify to one of the following:
-    
+
     -   80: This port only accepts HTTP connections.
     -   443: This port only accepts HTTPS connections.
     -   1024–66535 (inclusive): These ports accept HTTP or HTTPS connections.
-    
+
 4.  Click **Parse WSDL** to verify the WSDL document contents. The application generates a default class name for each namespace in the WSDL document and reports any errors. Parsing fails if the WSDL contains schema types or constructs that aren’t supported by Apex classes, or if the resulting classes exceed the 1 million character limit on Apex classes. For example, the Salesforce SOAP API WSDL cannot be parsed.
 5.  Modify the class names as desired. While you can save more than one WSDL namespace into a single class by using the same class name for each namespace, Apex classes can be no more than 1 million characters total.
 6.  Click **Generate Apex**. The final page of the wizard shows which classes were successfully generated, along with any errors from other classes. The page also provides a link to view successfully generated code.
@@ -163,40 +168,124 @@ Apex does not support any other WSDL constructs, types, or services, including:
 -   RPC/encoded services
 -   WSDL files with multiple portTypes, multiple services, or multiple bindings
 -   WSDL files that import external schemas. For example, the following WSDL fragment imports an external schema, which is not supported:
-    
+
     ```
-    
+
     ```
-    
+
     However, an import within the same schema is supported. In the following example, the external WSDL is pasted into the WSDL you are converting:
-    
+
     ```
-    
+
     ```
-    
+
 -   Any schema types not documented in the previous table
 -   WSDLs that exceed the size limit, including the Salesforce WSDLs
 -   WSDLs that don’t use the document literal wrapped style. The following WSDL snippet doesn’t use document literal wrapped style and results in an “Unable to find complexType” error when imported.
-    
-    ```
-    
-    ```
-    
-    This modified version wraps the simpleType element as a complexType that contains a sequence of elements. This follows the document literal style and is supported.
-    
-    ```
-    
-    ```
-    
 
-1.  [Generated WSDL2Apex Code](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_gen_code.htm)  
+    ```
+
+    ```
+
+    This modified version wraps the simpleType element as a complexType that contains a sequence of elements. This follows the document literal style and is supported.
+
+    ```
+
+    ```
+
+
+1.  [Generated WSDL2Apex Code](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_gen_code.htm)
     You can generate Apex classes from a WSDL document using the WSDL2Apex tool. The WSDL2Apex tool is open source and available on GitHub.
-2.  [Test Web Service Callouts](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing.htm)  
+2.  [Test Web Service Callouts](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing.htm)
     Generated code is saved as an Apex class containing the methods you can invoke for calling the web service. To deploy or package this Apex class and other accompanying code, 75% of the code must have test coverage, including the methods in the generated class. By default, test methods don’t support web service callouts, and tests that perform web service callouts fail. To prevent tests from failing and to increase code coverage, Apex provides the built-in WebServiceMock interface and the Test.setMock method. Use WebServiceMock and Test.setMock to receive fake responses in a test method.
-3.  [Performing DML Operations and Mock Callouts](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing_dml.htm)  
-    
-4.  [Considerations Using WSDLs](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm)  
-    
+3.  [Performing DML Operations and Mock Callouts](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing_dml.htm)
+
+4.  [Considerations Using WSDLs](atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm)
+
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm "Named Credentials as Callout Endpoints")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_callouts_http.htm "Invoking HTTP Callouts")
+
+## Code Examples
+
+```
+// Create the stub
+  strikeironIplookup.DNSSoap dns = new strikeironIplookup.DNSSoap();
+
+  // Set up the license header
+  dns.LicenseInfo = new strikeiron.LicenseInfo();
+  dns.LicenseInfo.RegisteredUser = new strikeiron.RegisteredUser();
+  dns.LicenseInfo.RegisteredUser.UserID = 'you@company.com';
+  dns.LicenseInfo.RegisteredUser.Password = 'your-password';
+
+  // Make the Web service call
+  strikeironIplookup.DNSInfo info = dns.DNSLookup('www.myname.com');
+```
+
+```apex
+docSample.DocSamplePort stub = new docSample.DocSamplePort();
+stub.inputHttpHeaders_x = new Map<String, String>();
+
+//Setting a basic authentication header
+// Tip: Use named credentials instead.
+stub.inputHttpHeaders_x.put('Authorization', 'Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==');
+
+//Setting a cookie header
+stub.inputHttpHeaders_x.put('Cookie', 'name=value');
+
+//Setting a custom HTTP header
+stub.inputHttpHeaders_x.put('myHeader', 'myValue');
+
+String input = 'This is the input string';
+String output = stub.EchoString(input);
+```
+
+```apex
+docSample.DocSamplePort stub = new docSample.DocSamplePort();
+stub.outputHttpHeaders_x = new Map<String, String>();
+String input = 'This is the input string';
+String output = stub.EchoString(input);
+
+//Getting cookie header
+String cookie = stub.outputHttpHeaders_x.get('Set-Cookie');
+
+//Getting custom header
+String myHeader = stub.outputHttpHeaders_x.get('My-Header');
+```
+
+```
+<wsdl:types>
+    <xsd:schema
+     elementFormDefault="qualified"
+     targetNamespace="http://s3.amazonaws.com/doc/2006-03-01/">
+      <xsd:include schemaLocation="AmazonS3.xsd"/>
+    </xsd:schema>
+  </wsdl:types>
+```
+
+```
+<wsdl:types>
+    <xsd:schema
+      xmlns:tns="http://s3.amazonaws.com/doc/2006-03-01/"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      elementFormDefault="qualified"
+      targetNamespace="http://s3.amazonaws.com/doc/2006-03-01/">
+
+      <xsd:element name="CreateBucket">
+        <xsd:complexType>
+          <xsd:sequence>
+     [...]
+    </xsd:schema>
+  </wsdl:types>
+```
+
+## Related Topics
+
+- Make Long-Running Callouts with Continuations (atlas.en-us.apexcode.meta/apexcode/apex_continuation_overview.htm)
+- Reserved Keywords (atlas.en-us.apexcode.meta/apexcode/apex_reserved_words.htm)
+- Considerations Using WSDLs (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm)
+- Generated WSDL2Apex Code (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_gen_code.htm)
+- Test Web Service Callouts (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing.htm)
+- Performing DML Operations and Mock Callouts (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing_dml.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_callouts_http.htm)

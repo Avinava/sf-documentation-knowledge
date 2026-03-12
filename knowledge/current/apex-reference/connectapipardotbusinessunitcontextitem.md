@@ -5,11 +5,14 @@ topic: connectapipardotbusinessunitcontextitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.541Z
-keywords: [ConnectApi.PardotBusinessUnitContextItem, Important, See]
+lastCollected: 2026-03-12T05:14:28.326Z
+estimatedTokens: 261
+keywords: [ConnectApi.PardotBusinessUnitContextItem, Pardot, business, unit, context, item., Important]
 ---
 
 # ConnectApi.PardotBusinessUnitContextItem
+
+> Pardot business unit context item.
 
 # ConnectApi.PardotBusinessUnitContextItem
 
@@ -30,3 +33,9 @@ Where possible, we changed noninclusive terms to align with our company value of
 #### See Also
 
 -   [ConnectApi.PardotBusinessUnitContextOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_pardot_business_unit_context_output.htm "Pardot business unit context.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.PardotBusinessUnitContextOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_pardot_business_unit_context_output.htm)

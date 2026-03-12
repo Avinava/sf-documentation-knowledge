@@ -5,11 +5,14 @@ topic: like-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.870Z
-keywords: [Feed, Element]
+lastCollected: 2026-03-12T05:14:34.379Z
+estimatedTokens: 80
+keywords: [Feed, Element, Call, feed, element.]
 ---
 
 # Like a Feed Element
+
+> Call a method to like a feed element.
 
 # Like a Feed Element
 
@@ -19,4 +22,10 @@ Call [likeFeedElement(communityId, feedElementId)](https://developer.salesforce.
 
 ```
 
+```
+
+## Code Examples
+
+```
+ConnectApi.ChatterLike chatterLike = ConnectApi.ChatterFeeds.likeFeedElement(null, '0D5D0000000KuGh');
 ```

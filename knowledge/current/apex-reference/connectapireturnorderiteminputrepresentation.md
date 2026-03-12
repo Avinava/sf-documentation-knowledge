@@ -5,11 +5,16 @@ topic: connectapireturnorderiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.542Z
-keywords: [ConnectApi.ReturnOrderItemInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.506Z
+estimatedTokens: 679
+keywords: [ConnectApi.ReturnOrderItemInputRepresentation, ReturnOrderLineItem, instructions, updating, it., After, update, read-only., Any, remaining, quantity, returned, added, new, ReturnOrderLineItem.]
 ---
 
 # ConnectApi.ReturnOrderItemInputRepresentation
+
+> ID of a ReturnOrderLineItem and instructions for updating it. After
+      the update, the ReturnOrderLineItem is read-only. Any remaining quantity to be returned is
+      added to a new ReturnOrderLineItem.
 
 # ConnectApi.ReturnOrderItemInputRepresentation
 
@@ -27,5 +32,12 @@ ID of a ReturnOrderLineItem and instructions for updating it. After the update, 
 #### See Also
 
 -   [ConnectApi.ReturnItemsInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_items.htm "Data about products and delivery charges to return, as well as associated return fees.")
-    
+
 -   [returnItems(returnOrderId, returnItemsInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm#apex_ConnectAPI_ReturnOrder_returnItems_1 "Process ReturnOrderLineItems belonging to a ReturnOrder. Processing a ReturnOrderLineItem generates a change Order and makes that ReturnOrderLineItem read-only. The change order for a returned item or delivery charge has a positive amount and should be used to create a credit memo. The change order for a return fee has a negative amount and should be used to create an invoice. If a processed ReturnOrderLineItem has any remaining expected quantity, then the API creates a separate ReturnOrderLineItem representing that quantity.")
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ReturnItemsInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_items.htm)
+- returnItems(returnOrderId, returnItemsInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm)

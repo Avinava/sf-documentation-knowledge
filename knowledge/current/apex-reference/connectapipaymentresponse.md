@@ -5,11 +5,14 @@ topic: connectapipaymentresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.569Z
-keywords: [ConnectApi.PaymentResponse]
+lastCollected: 2026-03-12T05:14:28.359Z
+estimatedTokens: 212
+keywords: [ConnectApi.PaymentResponse, Payment, output.]
 ---
 
 # ConnectApi.PaymentResponse
+
+> Payment output.
 
 # ConnectApi.PaymentResponse
 
@@ -25,3 +28,9 @@ Payment output.
 | paymentNumber | String | Number of the payment record created as a result of the request processing. | 50.0 |
 | requestDate | Datetime | Date when the payment transaction occurred. | 50.0 |
 | status | String | Status of the new payment record. Can be DRAFT, PROCESSED or CANCELLED. | 50.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

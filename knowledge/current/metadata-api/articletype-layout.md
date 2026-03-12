@@ -5,11 +5,17 @@ topic: articletype-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.647Z
-keywords: [ArticleType, Layout, File, Suffix, Directory, Location, Version, Fields, LayoutSection, LayoutColumn, LayoutItem, Declarative, Metadata, Sample, Definition, See]
+lastCollected: 2026-03-12T05:14:37.028Z
+estimatedTokens: 787
+keywords: [ArticleType, Layout, Represents, metadata, associated, article, page, layout., Article, layouts, determine, which, fields, users, view, edit, entering, data, article., sections]
 ---
 
 # ArticleType Layout
+
+> Represents the metadata associated with an article type page layout.
+            Article type layouts determine which fields users can view and edit when entering data
+            for an article. Article type layouts also determine which sections appear when users
+            view articles.
 
 # ArticleType Layout
 
@@ -69,5 +75,44 @@ The following is the definition of an ArticleType page layout:
 #### See Also
 
 -   [ArticleType](atlas.en-us.api_meta.meta/api_meta/meta_articletype.htm "Represents the metadata associated with an article type.")
-    
+
 -   [ArticleType CustomField](atlas.en-us.api_meta.meta/api_meta/meta_articletype_customfield.htm "Represents the metadata associated with an article type custom field. Use this metadata type to create, update, or delete article type custom field definitions.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <customLabel>true</customLabel>
+        <label>Description</label>
+        <layoutColumns>
+            <layoutItems>
+                <field>description__c</field>
+            </layoutItems>
+            <layoutItems>
+                <field>dateTime__c</field>
+            </layoutItems>
+        </layoutColumns>
+        <style>OneColumn</style>
+    </layoutSections>
+    <layoutSections>
+        <label>Data Sheet</label>
+        <layoutColumns>
+            <layoutItems>
+                <field>file__c</field>
+            </layoutItems>
+        </layoutColumns>
+        <style>OneColumn</style>
+    </layoutSections>
+</Layout>
+```
+
+## Related Topics
+
+- article-type template (atlas.en-us.api_meta.meta/api_meta/meta_articletype.htm)
+- LayoutColumn (atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- LayoutItem (atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)
+- ArticleType (atlas.en-us.api_meta.meta/api_meta/meta_articletype.htm)
+- ArticleType CustomField (atlas.en-us.api_meta.meta/api_meta/meta_articletype_customfield.htm)

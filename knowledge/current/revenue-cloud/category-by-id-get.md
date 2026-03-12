@@ -5,11 +5,15 @@ topic: category-by-id-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.278Z
-keywords: [Category, GET]
+lastCollected: 2026-03-12T05:14:06.866Z
+estimatedTokens: 278
+keywords: [Category, GET, Retrieve, details, individual, category, records, based, ID.]
 ---
 
 # Category By ID (GET)
+
+> Retrieve details of individual category records based
+      on a category ID.
 
 # Category By ID (GET)
 
@@ -54,3 +58,21 @@ Request parameters for GET
 Response body for GET
 
 [Categories Output](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_categories_output.htm "Output representation of the retrieved categories result.")
+
+## Code Examples
+
+```
+/connect/pcm/categories/categoryId
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/categories/0ZGT100000000qqOAA
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/categories/0ZGT100000000qqOAA?language=spanish
+```
+
+## Related Topics
+
+- Categories Output (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_categories_output.htm)

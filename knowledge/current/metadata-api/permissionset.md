@@ -5,11 +5,16 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.931Z
-keywords: [PermissionSet, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, PermissionSetAgentAccess, PermissionSetApplicationVisibility, PermissionSetApexClassAccess, PermissionSetCustomMetadataTypeAccess, PermissionSetCustomPermissions, PermissionSetCustomSettingAccesses, PermissionSetEmailRoutingAddressAccess, PermissionSetExternalCredentialPrincipalAccess]
+lastCollected: 2026-03-12T05:14:41.700Z
+estimatedTokens: 5038
+keywords: [PermissionSet, Represents, set, permissions, that's, used, grant, access, users, without, changing, their, profile, reassigning, profiles., permission, deny, access., Declarative, Metadata]
 ---
 
 # PermissionSet
+
+> Represents a set of permissions that's used to grant
+            more access to one or more users without changing their profile or reassigning profiles.
+            You can use permission sets to grant access but not to deny access.
 
 # PermissionSet
 
@@ -265,3 +270,86 @@ The following is an example package.xml manifest used to retrieve the Permission
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants all rights needed for an HR administrator to manage employees.</description>
+    <label>HR Administration</label>
+    <userLicense>Salesforce</userLicense>
+    <applicationVisibilities>
+        <application>JobApps__Recruiting</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApiEnabled</name>
+    </userPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <viewAllRecords>true</viewAllRecords>
+        <modifyAllRecords>true</modifyAllRecords>
+        <viewAllFields>true</viewAllFields>
+        <object>Job_Request__c</object>
+    </objectPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Job_Request__c.Salary__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <pageAccesses>
+        <apexPage>Job_Request_Web_Form</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <classAccesses>
+      <apexClass>Send_Email_Confirmation</apexClass>
+      <enabled>true</enabled>
+    </classAccesses>
+    <tabSettings>
+        <tab>Job_Request__c</tab>
+        <visibility>Available</visibility>
+    </tabSettings>
+    <recordTypeVisibilities>
+        <recordType>Recruiting.DevManager</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+</PermissionSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Job_Request__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Job_Request__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>JobApps__Recruiting</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Recruiting.DevManager</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

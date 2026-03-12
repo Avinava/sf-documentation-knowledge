@@ -5,11 +5,17 @@ topic: embeddedservicebranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.177Z
-keywords: [EmbeddedServiceBranding, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.182Z
+estimatedTokens: 890
+keywords: [EmbeddedServiceBranding, Represents, branding, Embedded, Service, deployment., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # EmbeddedServiceBranding
+
+> Represents the branding for each Embedded
+      Service deployment.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EmbeddedServiceBranding
 
@@ -59,3 +65,27 @@ The following is an example of an EmbeddedServiceBranding file.
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceBranding xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contrastInvertedColor>#ffffff</contrastInvertedColor>
+    <contrastPrimaryColor>#333333</contrastPrimaryColor>
+    <embeddedServiceConfig>EswConfig001</embeddedServiceConfig>
+    <font>Salesforce Sans</font>
+    <height>498</height>
+    <masterLabel>EmbeddedServiceBranding_Parent04IRM000000002a_16033cd2c16</masterLabel>
+    <navBarColor>#222222</navBarColor>
+    <primaryColor>#222222</primaryColor>
+    <secondaryColor>#005290</secondaryColor>
+    <width>320</width>
+</EmbeddedServiceBranding>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- BrandingSet (atlas.en-us.api_meta.meta/api_meta/meta_brandingset.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: registeredexternalservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.316Z
-keywords: [RegisteredExternalService, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:42.289Z
+estimatedTokens: 1074
+keywords: [RegisteredExternalService, Represents, registered, external, service, which, provides, extension, integration., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
 ---
 
 # RegisteredExternalService
+
+> Represents a registered external service, which provides
+			an extension or integration.
 
 # RegisteredExternalService
 
@@ -59,3 +63,35 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RegisteredExternalService xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalServiceProvider>TaxSample</externalServiceProvider>
+    <externalServiceProviderType>Tax</externalServiceProviderType>
+    <documentationUrl>http://sample.com/doc</documentationUrl>
+    <configUrl>http://sample.com/config</configUrl>
+    <masterLabel>TaxService</masterLabel>
+    <isProtected>false</isProtected>
+</RegisteredExternalService>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>TaxSample</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TaxService</members>
+        <name>RegisteredExternalService</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

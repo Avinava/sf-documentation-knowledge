@@ -5,11 +5,18 @@ topic: territory2settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.863Z
-keywords: [Territory2Settings, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Territory2SettingsOpportunityFilter, Territory2SupportedObject, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.153Z
+estimatedTokens: 1739
+keywords: [Territory2Settings, Represents, org’s, Territory2, settings., settings, set, access, level, Sales, Territories, users, records, associated, sales, territories, enable, features., standard, record]
 ---
 
 # Territory2Settings
+
+> Represents an org’s Territory2 settings. Use Territory2 settings to set the access level
+    that Sales Territories users have to records associated with sales territories, and to enable
+    features. The standard record access settings apply to accounts and opportunities. With
+      Private default internal access for contacts or cases, you can also set
+    access for those records.
 
 # Territory2Settings
 
@@ -81,3 +88,32 @@ Sales Territories components don’t support packaging or change sets and aren�
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Settings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultAccountAccessLevel>Owner</defaultAccountAccessLevel>
+    <defaultOpportunityAccessLevel>Read</defaultOpportunityAccessLevel>
+    <defaultCaseAccessLevel>None</defaultCaseAccessLevel>
+    <defaultContactAccessLevel>Edit</defaultContactAccessLevel>
+    <enableTerritoryManagement2>true</enableTerritoryManagement2>
+    <showTM2EnabledBanner>true</showTM2EnabledBanner>
+    <supportedObjects>
+       <defaultAccessLevel>Read</defaultAccessLevel>
+       <state>Disabled</state>
+       <objectType>Lead</objectType>
+    </supportedObjects>
+    <tm2EnableUserAssignmentLog>true</tm2EnableUserAssignmentLog>
+    <t2ForecastAccessLevel>View</t2ForecastAccessLevel>
+</Territory2Settings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- CRUD
+            calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

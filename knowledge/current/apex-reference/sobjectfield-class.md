@@ -5,14 +5,53 @@ topic: sobjectfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:34.245Z
-keywords: [SObjectField, Class, Returns, describe, field, result, field., method, provides, option, get, results, object., getDescribe, options, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:20.858Z
+estimatedTokens: 525
+namespace: Schema
+keywords: [SObjectField, describe, field, result, field., provides, option, get, results, object., Example, sObjectField, getDescribe, options]
 ---
 
 # SObjectField Class
 
 > Returns the describe field result for this field. This method also
       provides an option to get all the describe field results for an object.
+
+**Namespace:** `Schema`
+
+# SObjectField Class
+
+A Schema.sObjectField object is returned from the field describe result using the getController and getSObjectField methods.
+
+## Namespace
+
+[Schema](atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm "The Schema namespace provides classes and methods for schema metadata information.")
+
+## Example
+
+```
+
+```
+
+## sObjectField Methods
+
+The following are instance methods for sObjectField.
+
+-   **[getDescribe()](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectField.htm#apex_Schema_SObjectField_getDescribe)**
+    Returns the describe field result for this field.
+-   **[getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectField.htm#apex_Schema_SObjectField_getDescribe_2)**
+    Returns the describe field result for this field. This method also provides an option to get all the describe field results for an object.
+
+### getDescribe()
+
+Returns the describe field result for this field.
+
+#### Signature
+
+public Schema.DescribeFieldResult getDescribe()
+
+#### Return Value
+
+Type: [Schema.DescribeFieldResult](atlas.en-us.apexref.meta/apexref/apex_methods_system_fields_describe.htm#apex_methods_system_fields_describe "Contains methods for describing sObject fields.")
 
 ### getDescribe(options)
 
@@ -35,3 +74,17 @@ For example, AIConversationContext.PersonType field is a picklist that contains 
 #### Return Value
 
 Type: [Schema.DescribeFieldResult](atlas.en-us.apexref.meta/apexref/apex_methods_system_fields_describe.htm#apex_methods_system_fields_describe "Contains methods for describing sObject fields.")
+
+## Code Examples
+
+```
+Schema.DescribeFieldResult F = Account.Industry.getDescribe();
+Schema.sObjectField T = F.getSObjectField();
+```
+
+## Related Topics
+
+- Schema (atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm)
+- getDescribe() (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectField.htm)
+- getDescribe(options) (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectField.htm)
+- Schema.DescribeFieldResult (atlas.en-us.apexref.meta/apexref/apex_methods_system_fields_describe.htm)

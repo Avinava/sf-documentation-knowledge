@@ -5,11 +5,15 @@ topic: getagentworks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.004Z
-keywords: [getAgentWorks, Syntax, Arguments, Sample, Code–Visualforce, Response, work]
+lastCollected: 2026-03-12T05:14:57.432Z
+estimatedTokens: 350
+keywords: [getAgentWorks, list, work, items, currently, assigned, agent, open, agent’s, workspace., API, versions, 32.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # getAgentWorks
+
+> Returns a list of work items that are currently assigned to an agent and open in the
+        agent’s workspace. Available in API versions 32.0 and later.
 
 # getAgentWorks
 
@@ -51,3 +55,33 @@ The work object contains the following properties:
 | workItemId | String | The ID of the object that’s routed through Omni-Channel. This object becomes a work assignment with a workId when it’s assigned to an agent. |
 | workId | String | The ID of a work assignment that’s routed to an agent. |
 | isEngaged | Boolean | Indicates whether an agent is working on a work item that’s been assigned to them (true) or not (false). |
+
+## Code Examples
+
+```
+sforce.console.presence.getAgentWorks(callback:function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testGetWorks();return false;">Get Agent’s Current Work Items</a>
+    
+    <script type="text/javascript">
+        function testGetWorks() {
+            //These values are for example purposes only.
+            sforce.console.presence.getAgentWorks(function(result) {
+                if (result.success) {
+                    alert('Get work items successful');
+                    var works = JSON.parse(result.works);
+                    alert('First Agent Work ID is: ' +  works[0].workId);
+                    alert('Assigned Entity Id of the first Agent Work is: ' + works[0].workItemId);
+                    alert('Is first Agent Work Engaged: ' + works[0].isEngaged);
+                } else {
+                    alert('Get work items failed');
+                }
+            });
+        }
+    </script>
+</apex:page>
+```

@@ -5,11 +5,16 @@ topic: actionable-list-member-search-by-using-filter-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.809Z
-keywords: [Actionable, List, Member, Search, Filter, Criteria]
+lastCollected: 2026-03-12T05:14:49.217Z
+estimatedTokens: 426
+keywords: [Actionable, List, Member, Search, Filter, Criteria, Get, list, actionable, members, filter, criteria.]
 ---
 
 # Actionable List Member Search by Using Filter Criteria
+
+> Get a list of actionable list members
+    by
+    using filter criteria.
 
 # Actionable List Member Search by Using Filter Criteria
 
@@ -61,3 +66,46 @@ Properties
 Response Body for POST
 
 [Search Actionable List Members](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_search_actionable_list_members.htm "Output representation of the request for searching for actionable list members.")
+
+## Code Examples
+
+```
+/connect/sales-excellence/actionable-list-members
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/sales-excellence/actionable-list-members
+```
+
+```
+{
+   "searchTerm" : "Julia Green",
+   "orderBy" : {
+       "orderByList" : [
+          {
+             "fieldName" : "Name",
+             "operator" : "ASC",
+             "nulls" : "First"
+          }
+       ]
+   },
+   "filters" : {
+       "filterList" : [
+          {
+             "fieldName" : "Name",
+             "operator" : "Like",
+             "value" : "AL"
+          }
+       ]
+   },
+   "scope":"ASSIGNEE",
+   "requireHeaders" : true,
+   "after": "djE6OQ=="
+}
+```
+
+## Related Topics
+
+- Filter Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_filter.htm)
+- OrderBy Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_order_by.htm)
+- Search Actionable List Members (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_search_actionable_list_members.htm)

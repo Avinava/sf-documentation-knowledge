@@ -5,11 +5,17 @@ topic: deploying-and-retrieving-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.168Z
-keywords: [Deploying, Retrieving, Metadata, Example, See]
+lastCollected: 2026-03-12T05:14:36.398Z
+estimatedTokens: 916
+keywords: [Deploying, Retrieving, Metadata, deploy, retrieve, calls, move, metadata, XML, files, between, Salesforce, org, local, file, system., After, system, manage, changes]
 ---
 
 # Deploying and Retrieving Metadata
+
+> Use the deploy() and retrieve() calls to move metadata (XML files)
+      between a Salesforce org and a local file system. After you retrieve your XML files into a
+      file system, you can manage changes in a source-code control system, copy and paste code or
+      setup configurations, diff chang
 
 # Deploying and Retrieving Metadata
 
@@ -33,7 +39,14 @@ Warning: You’ve retrieved 47,000 instances of CustomField. You can’t redeplo
 #### See Also
 
 -   [Metadata Components and Types](atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm "Metadata components are not based on sObjects, like objects in the API. Instead, they are based on metadata types, such as ApexClass and CustomObject, which extend Metadata, the base class for all metadata types. A component is an instance of a metadata type.")
-    
+
 -   [Unsupported Metadata Types](atlas.en-us.api_meta.meta/api_meta/meta_unsupported_types.htm "Some Salesforce features have metadata types that aren’t available in Metadata API. These metadata types can’t be retrieved or deployed with Metadata API. To make changes to these types, you must do it manually in each of your organizations.")
-    
+
 -   [Metadata Type Limits](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_metadata_type_limits.htm)
+
+## Related Topics
+
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Unsupported Metadata Types (atlas.en-us.api_meta.meta/api_meta/meta_unsupported_types.htm)

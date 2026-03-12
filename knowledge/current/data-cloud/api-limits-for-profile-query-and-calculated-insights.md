@@ -5,11 +5,15 @@ topic: api-limits-for-profile-query-and-calculated-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.381Z
-keywords: [API, Limits, Profile, Query, Calculated, Insights, Note]
+lastCollected: 2026-03-12T05:14:12.375Z
+estimatedTokens: 308
+keywords: [API, Limits, Profile, Query, Calculated, Insights, There, three, distinct, classes, APIs, used, extract, data, Data, Cloud, formerly, Customer, Platform, Insights.]
 ---
 
 # API Limits for Profile, Query, and Calculated Insights
+
+> There are three distinct classes of APIs used to extract data from Data Cloud (formerly
+  Customer Data Platform): Profile, Query, and Calculated Insights.
 
 # API Limits for Profile, Query, and Calculated Insights
 

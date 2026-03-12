@@ -5,11 +5,14 @@ topic: add-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.497Z
-keywords: [Add, Apex, Trigger, See]
+lastCollected: 2026-03-12T05:14:33.868Z
+estimatedTokens: 676
+keywords: [Add, Apex, Trigger, step, create, trigger, Book__c, custom, calls, applyDiscount, MyHelloWorld, created, previous, step.]
 ---
 
 # Add an Apex Trigger
+
+> In this step, you create a trigger for the Book__c custom object that calls the applyDiscount method of the MyHelloWorld class that you created in the previous step.
 
 # Add an Apex Trigger
 
@@ -24,31 +27,31 @@ A *trigger* is a piece of code that executes before or after records of a partic
 
 1.  From the object management settings for books, go to Triggers, and then click **New**.
 2.  In the trigger editor, delete the default template code and enter this trigger definition:
-    
+
     ```
-    
+
     ```
-    
+
     The first line of code defines the trigger:
-    
+
     ```
-    
+
     ```
-    
+
     It gives the trigger a name, specifies the object on which it operates, and defines the events that cause it to fire. For example, this trigger is called HelloWorldTrigger, it operates on the Book\_\_c object, and runs before new books are inserted into the database.
-    
+
     The next line in the trigger creates a list of book records named books and assigns it the contents of a trigger context variable called Trigger.new. Trigger context variables such as Trigger.new are implicitly defined in all triggers and provide access to the records that caused the trigger to fire. In this case, Trigger.new contains all the new books that are about to be inserted.
-    
+
     ```
-    
+
     ```
-    
+
     The next line in the code calls the method applyDiscount in the MyHelloWorld class. It passes in the array of new books.
-    
+
     ```
-    
+
     ```
-    
+
 
 You now have all the code that is needed to update the price of all books that get inserted. However, there’s still one piece of the puzzle missing. Unit tests are an important part of writing code and are required. In the next step, you'll see why this is so and will be able to add a test class.
 
@@ -58,3 +61,33 @@ You now have all the code that is needed to update the price of all books that g
 #### See Also
 
 -   [*Salesforce Help*: Find Object Management Settings](https://help.salesforce.com/HTViewHelpDoc?id=extend_click_find_objectmgmt_parent.htm&language=en_US)
+
+## Code Examples
+
+```
+trigger HelloWorldTrigger on Book__c (before insert) {
+
+   Book__c[] books = Trigger.new;
+
+   MyHelloWorld.applyDiscount(books);
+}
+```
+
+```
+trigger HelloWorldTrigger on Book__c (before insert) {
+```
+
+```
+Book__c[] books = Trigger.new;
+```
+
+```
+MyHelloWorld.applyDiscount(books);
+```
+
+## Related Topics
+
+- The MyHelloWorld
+                        Apex class. (atlas.en-us.apexcode.meta/apexcode/apex_qs_class.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_qs_class.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_qs_test.htm)

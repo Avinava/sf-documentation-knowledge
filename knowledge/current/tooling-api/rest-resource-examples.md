@@ -5,11 +5,15 @@ topic: rest-resource-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:36.928Z
-keywords: [REST, Resource, Examples, Example, Setup, Note, Retrieve, Description, Manipulate, Objects, Tip, Query, Within, MetadataContainer, Check, Deployment, Status, Execute, Anonymous, Apex]
+lastCollected: 2026-03-12T05:14:44.269Z
+estimatedTokens: 1036
+keywords: [REST, Resource, Examples, Robust, examples, resources, Tooling, API., Example, Setup, Note, Retrieve, Description, Manipulate, Objects, Tip, Query, Within, MetadataContainer, Check]
 ---
 
 # REST Resource Examples
+
+> Robust examples using REST resources in the Tooling
+    API.
 
 # REST Resource Examples
 
@@ -128,3 +132,40 @@ To execute Apex unit tests, use the runTestsSynchronous or runTestsAsynchronous 
 ```
 
 ```
+
+## Code Examples
+
+```
+HttpRequest req = new HttpRequest();
+req.setHeader('Authorization', 'Bearer ' + UserInfo.getSessionID());
+req.setHeader('Content-Type', 'application/json');
+```
+
+```
+Http h = new Http();
+HttpResponse res = h.send(req);
+system.debug(res.getBody());
+```
+
+```
+req.setEndpoint('https://MyDomainName.my.salesforce.com/services/data/v66.0/tooling/sobjects/');
+req.setMethod('GET');
+```
+
+```
+req.setEndpoint('https://MyDomainName.my.salesforce.com/services/data/v66.0/tooling/sobjects/
+TraceFlag/');
+req.setMethod('GET');
+```
+
+```
+req.setEndpoint('https://MyDomainName.my.salesforce.com/services/data/v66.0/tooling/sobjects/
+TraceFlag/describe/');
+req.setMethod('GET');
+```
+
+## Related Topics
+
+- TraceFlag (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_traceflag.htm)
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)

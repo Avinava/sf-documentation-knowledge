@@ -5,11 +5,14 @@ topic: extlclntapppushsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.591Z
-keywords: [ExtlClntAppPushSettings, Note, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Important, ExtlClntAppAndroidPushConfig, ExtlClntAppApplePushConfig]
+lastCollected: 2026-03-12T05:14:39.784Z
+estimatedTokens: 1558
+keywords: [ExtlClntAppPushSettings, Represents, external, client, app’s, push, notification, settings., Note, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Important]
 ---
 
 # ExtlClntAppPushSettings
+
+> Represents an external client app’s push notification settings.
 
 # ExtlClntAppPushSettings
 
@@ -88,3 +91,7 @@ To configure push notifications with a TLS certificate (.p12 file), complete the
 | password | string | The password for the TLS certificate entered in the certificate field. |
 | signingKey | string | The Base64-encoded private key with Apple Push Notification service (APNs) enabled. To generate and download this key, see Create a private key to access a service in Apple Developer documentation. |
 | teamIdentifier | string | The team ID listed in the membership details of the Apple Developer account associated with the iOS mobile app. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

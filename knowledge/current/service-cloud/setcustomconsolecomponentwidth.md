@@ -5,11 +5,16 @@ topic: setcustomconsolecomponentwidth
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.697Z
-keywords: [setCustomConsoleComponentWidth, Note, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.444Z
+estimatedTokens: 241
+keywords: [setCustomConsoleComponentWidth, window, width, application-level, custom, console, component, that’s, page., API, version, 32.0, later., Note, Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # setCustomConsoleComponentWidth()
+
+> Sets the window width of an
+   application-level custom console component that’s on a page. This method is available in API
+   version 32.0 or later.
 
 # setCustomConsoleComponentWidth()
 
@@ -47,3 +52,25 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if the method call was successful; false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.setCustomConsoleComponentWidth( width:number, callback:Function)
+```
+
+```
+<apex:page>
+
+    <A HREF="#" onClick="testSetCustomConsoleComponentWidth();return false">
+         Click here to set the custom console component width to 100px</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testSetCustomConsoleComponentWidth() {
+        // Set the custom console component width
+            sforce.console.setCustomConsoleComponentWidth(100);
+        }
+    </script>
+</apex:page>
+```

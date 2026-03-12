@@ -5,11 +5,15 @@ topic: party-financial-asset-additional-owner-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.662Z
-keywords: [Party, Financial, Asset, Additional, Owner, Result]
+lastCollected: 2026-03-12T05:14:50.470Z
+estimatedTokens: 496
+keywords: [Party, Financial, Asset, Additional, Owner, Result, Output, representation, details, additional, owner, party, financial, asset.]
 ---
 
 # Party Financial Asset Additional Owner Result
+
+> Output representation of the details of the additional owner of the party financial
+    asset.
 
 # Party Financial Asset Additional Owner Result
 
@@ -33,3 +37,7 @@ Output representation of the details of the additional owner of the party financ
 | partyProfileId | String | Party profile associated with the additional owner of the financial asset. | Small, 61.0 | 61.0 |
 | recordTypeId | String | ID of the record type assigned to this object. | Small, 61.0 | 61.0 |
 | sourceSystem​Identifier | String | Unique identifier of the record in an external system. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

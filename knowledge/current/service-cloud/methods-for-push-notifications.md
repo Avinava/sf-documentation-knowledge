@@ -5,11 +5,17 @@ topic: methods-for-push-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.504Z
-keywords: [Methods, Push, Notifications]
+lastCollected: 2026-03-12T05:14:58.151Z
+estimatedTokens: 773
+keywords: [Push, Notifications, notifications, visual, indicators, lists, detail, pages, console, show, record, field, changed, during, user’s, session., example, two, support, agents]
 ---
 
 # Methods for Push Notifications
+
+> Push notifications are visual indicators on lists and detail pages in a console that show
+      when a record or field has changed during a user’s session. For example, if two support agents
+      are working on the same case, and one agent changes the Priority, a push
+      notification appears to 
 
 # Methods for Push Notifications
 
@@ -27,7 +33,12 @@ Consider the following when using push notification methods:
     -   The only way to stop receiving notifications is to remove listeners using the removePushNotificationListener() method.
 -   Push notifications aren't available in the console in Professional Edition.
 
--   **[addPushNotificationListener()](atlas.en-us.api_console.meta/api_console/sforce_api_console_addpushnotificationlistener.htm)**  
+-   **[addPushNotificationListener()](atlas.en-us.api_console.meta/api_console/sforce_api_console_addpushnotificationlistener.htm)**
     Adds a listener for a push notification. A user can only register a listener once until he or she removes the listener, or the listener is removed by another user. This method is only available in API version 26.0 or later.
--   **[removePushNotificationListener()](atlas.en-us.api_console.meta/api_console/sforce_api_console_removepushnotificationlistener.htm)**  
+-   **[removePushNotificationListener()](atlas.en-us.api_console.meta/api_console/sforce_api_console_removepushnotificationlistener.htm)**
     Removes a listener that gets added for a push notification. This method is only available in API version 26.0 or later.
+
+## Related Topics
+
+- addPushNotificationListener() (atlas.en-us.api_console.meta/api_console/sforce_api_console_addpushnotificationlistener.htm)
+- removePushNotificationListener() (atlas.en-us.api_console.meta/api_console/sforce_api_console_removepushnotificationlistener.htm)

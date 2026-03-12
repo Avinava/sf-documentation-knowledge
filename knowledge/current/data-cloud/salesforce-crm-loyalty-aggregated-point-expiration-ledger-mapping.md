@@ -5,11 +5,17 @@ topic: salesforce-crm-loyalty-aggregated-point-expiration-ledger-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.254Z
-keywords: [Salesforce, CRM, Loyalty, Aggregated, Point, Expiration, Ledger, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.778Z
+estimatedTokens: 398
+keywords: [Salesforce, CRM, Loyalty, Aggregated, Point, Expiration, Ledger, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., ledger, contains, details]
 ---
 
 # Salesforce CRM: Loyalty Aggregated Point Expiration Ledger Mapping
+
+> These data mappings are for the Loyalty Aggregated Point Expiration Ledger DLO found in
+  the Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. A ledger that
+  contains the details of a member’s fixed-type non-qualifying points that are set to expire on a
+  particular date.
 
 # Salesforce CRM: Loyalty Aggregated Point Expiration Ledger Mapping
 

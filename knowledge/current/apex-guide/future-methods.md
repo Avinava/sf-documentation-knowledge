@@ -4,12 +4,22 @@ domain: apex-guide
 topic: future-methods
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.256Z
-keywords: [Future, Methods, Important, Method, Limits, Note, Testing, Performance, Best, Practices]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.558Z
+estimatedTokens: 2047
+keywords: [Future, future, runs, asynchronously., call, run, long-running, operations, such, callouts, external, web, services, any, operation, want, its, own, thread., isolate]
 ---
 
 # Future Methods
+
+> A future method runs asynchronously. You can call a future method to run long-running
+        operations, such as callouts to external web services or any operation that you want to run
+        in its own thread. You can also use future methods to isolate Data Manipulation Language
+        (DML) operations on different sObject types to prevent the mixed DML error. Each future
+        method is queued and runs when system resources become available. That way, the execution of
+        your code doesn’t wait for the completion of a long-running operation. A benefit of future
+        methods is that some governor limits are higher, such as SOQL query limits and heap size
+        limits.
 
 # Future Methods
 
@@ -64,13 +74,13 @@ You can invoke future methods the same way that you invoke any other method. How
 Methods with the Future annotation have these limits.
 
 -   No more than 0 in batch and future contexts; 50 in queueable context method calls per Apex invocation. Asynchronous calls, such as Future or executeBatch, that are called in a startTest or stopTest block don’t count against your limits for the number of queued jobs.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Having multiple future methods fan out from a queueable job isn’t a recommended practice as it can rapidly add many future methods to the asynchronous queue. Request processing can be delayed and you can quickly hit the daily maximum limit for asynchronous Apex method executions. See [Future Method Performance Best Practices](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_invoking_future_methods.htm "HTML (New Window)") and [Lightning Platform Apex Limits](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_gov_limits.htm#in_topic_non_transactional_gov_limits_section "HTML (New Window)").
-    
+
 -   The maximum number of Future method invocations per a 24-hour period is 250,000 or the number of user licenses in your organization multiplied by 200, whichever is greater. This limit is for your entire org and is shared with all asynchronous Apex: Batch Apex, Queueable Apex, scheduled Apex, and future methods. To check how many asynchronous Apex executions are available, make a request to REST API limits resource. See [List Organization Limits](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/dome_limits.htm "HTML (New Window)") in the [REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/ "HTML (New Window)"). If the number of asynchronous Apex executions needed by a job exceeds the available number that’s calculated by using the 24-hour rolling limit, an exception is thrown. For example, if your async job requires 10,000 method executions and the available 24-hour rolling limit is 9,500, you get the AsyncApexExecutions Limit exceeded exception. The license types that count toward this limit include full Salesforce and Salesforce Platform user licenses, App Subscription user licenses, Chatter Only users, Identity users, and Company Communities users.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
@@ -98,3 +108,82 @@ Salesforce uses a queue-based framework to handle asynchronous processes from su
 -   Make sure that future methods run as fast as possible. To ensure fast execution of batch jobs, minimize web service callout times and tune queries used in your future methods. The longerthe future method runs, the more likely other queued requests are delayed when there are many requests in the queue.
 -   Test your future methods at scale. To help determine if delays can occur, test by using an environment that generates the maximum number of future methods that you expect to handle.
 -   Consider using batch Apex instead of future methods to process large numbers of records.
+
+## Code Examples
+
+```apex
+public with sharing class FutureClass {
+    @Future
+    public static void myFutureMethod()
+    {   
+         // Perform some operations
+    }
+}
+```
+
+```apex
+public with sharing class FutureMethodRecordProcessing {
+    @Future
+    public static void processRecords(List<ID> recordIds)
+    {   
+         // Get those records based on the IDs
+         List<Account> accts = [SELECT Name FROM Account WHERE Id IN :recordIds WITH USER_MODE];
+         // Process records
+    }
+}
+```
+
+```apex
+public with sharing class FutureMethodExample {
+    @Future(callout=true)
+    public static void getStockQuotes(String acctName)
+    {   
+         // Perform a callout to an external service
+    }
+
+}
+```
+
+```apex
+public with sharing class Util {
+    @Future
+    public static void insertUserWithRole(
+        String uname, String al, String em, String lname) {
+
+        Profile p = [SELECT Id FROM Profile WHERE Name='Standard User' WITH USER_MODE];
+        UserRole r = [SELECT Id FROM UserRole WHERE Name='COO' WITH USER_MODE];
+        // Create new user with a non-null user role ID 
+        User newUser = new User(alias = al, email=em, 
+            emailencodingkey='UTF-8', lastname=lname, 
+            languagelocalekey='en_US', 
+            localesidkey='en_US', profileid = p.Id, userroleid = r.Id,
+            timezonesidkey='America/Los_Angeles', 
+            username=uname);
+        insert as user newUser;
+    }
+}
+```
+
+```apex
+public with sharing class MixedDMLFuture {
+    public static void useFutureMethod() {
+        // First DML operation
+        Account a = new Account(Name='Acme');
+        insert as user a;
+        
+        // This next operation (insert a user with a role) 
+        // can't be mixed with the previous insert unless 
+        // it is within a future method. 
+        // Call future method to insert a user with a role.
+        Util.insertUserWithRole(
+            'mruiz@awcomputing.com', 'mruiz', 
+            'mruiz@awcomputing.com', 'Ruiz');        
+    }
+}
+```
+
+## Related Topics
+
+- Queueable Apex (atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm)
+- Invoking Callouts Using
+            Apex (atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm)

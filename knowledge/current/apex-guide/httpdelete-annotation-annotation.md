@@ -5,11 +5,17 @@ topic: httpdelete-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.484Z
-keywords: [HttpDelete, Annotation]
+lastCollected: 2026-03-12T05:14:32.469Z
+estimatedTokens: 81
+keywords: [HttpDelete, Annotation, @HttpDelete, annotation, used, level, enables, expose, Apex, REST, resource., called, HTTP, DELETE, request, sent, deletes, specified]
 ---
 
 # HttpDelete Annotation Annotation
+
+> The @HttpDelete annotation is used at the method level
+   and enables you to expose an Apex method as a REST resource. This method is called when an HTTP
+    DELETE request is sent, and deletes the specified
+   resource.
 
 # HttpDelete Annotation Annotation
 

@@ -5,11 +5,17 @@ topic: liveagentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.358Z
-keywords: [LiveAgentSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.901Z
+estimatedTokens: 724
+keywords: [LiveAgentSettings, Represents, organization’s, Chat, settings, such, whether, enabled., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
 ---
 
 # LiveAgentSettings
+
+> Represents an organization’s Chat settings,
+            such as whether Chat is enabled.
+        This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # LiveAgentSettings
 
@@ -50,3 +56,18 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 -   [*Service Cloud Chat Developer Guide:* findOrCreate](https://developer.salesforce.com/docs/atlas.en-us.260.0.live_agent_dev.meta/live_agent_dev/live_agent_creating_records.htm "Service Cloud Chat Developer Guide:
     findOrCreate - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveAgentSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableLiveAgent>true</enableLiveAgent>
+</LiveAgentSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

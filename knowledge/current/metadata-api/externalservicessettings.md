@@ -5,11 +5,14 @@ topic: externalservicessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.513Z
-keywords: [ExternalServicesSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:39.689Z
+estimatedTokens: 701
+keywords: [ExternalServicesSettings, Represents, settings, External, Services, registration., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # ExternalServicesSettings
+
+> Represents settings for an External Services registration.
 
 # ExternalServicesSettings
 
@@ -54,3 +57,26 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServicesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+  <enableIgnoreUnsupportedOperations>true</enableIgnoreUnsupportedOperations>
+</ExternalServicesSettings>
+```
+
+```
+<types>
+    <members>ExternalServices</members>
+    <name>Settings</name>
+  </types>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving
+          Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

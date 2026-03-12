@@ -5,11 +5,19 @@ topic: connectapiactionlinkdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.716Z
-keywords: [ConnectApi.ActionLinkDefinitionInput, Usage, See]
+lastCollected: 2026-03-12T05:14:24.217Z
+estimatedTokens: 1700
+keywords: [ConnectApi.ActionLinkDefinitionInput, definition, action, link., link, button, feed, element., Clicking, take, user, Web, page, initiate, file, download, invoke, API, call, Salesforce]
 ---
 
 # ConnectApi.ActionLinkDefinitionInput
+
+> The definition of an action link. An action link is a button on a feed
+      element. Clicking an action link can take a user to a Web page, initiate a file download, or
+      invoke an API call to Salesforce or to an external server. An action link includes a URL and
+      an HTTP method, and can include a request body and header information, such as an OAuth token
+      for authentication. Use action links to integrate Salesforce and third-party services into the
+      feed so that users can drive productivity and accelerate innovation.
 
 # ConnectApi.ActionLinkDefinitionInput
 
@@ -46,3 +54,13 @@ The available context variables are:
 #### See Also
 
 -   [ConnectApi.ActionLinkGroupDefinitionInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_link_group_definition.htm "The definition of an action link group. All action links must belong to a group. Action links in a group are mutually exclusive and share some properties. Define standalone actions in their own action group.")
+
+## Related Topics
+
+- ConnectApi.​ActionLinkType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​RequestHeader​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_request_header.htm)
+- ConnectApi.​HttpRequest​Method (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ActionLinkGroupDefinitionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_link_group_definition.htm)

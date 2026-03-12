@@ -5,11 +5,19 @@ topic: subscriberpackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-11T15:46:38.819Z
-keywords: [SubscriberPackageVersion, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, SubscriberPackageCspTrustedSites, SubscriberPackageCspTrustedSite, SubscriberPackageDependencies, SubscriberPackageProfiles, SubscriberPackageDestinationProfile, SubscriberPackageSourceProfile, SubscriberPackageRemoteSiteSettings, SubscriberPackageRemoteSiteSetting, Usage]
+lastCollected: 2026-03-12T05:14:46.885Z
+estimatedTokens: 2896
+namespace: NamespaceCollision
+keywords: [SubscriberPackageVersion, Represents, package, version, first-, second-generation, across, Salesforce, instances., API, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Fields, SubscriberPackageCspTrustedSites, SubscriberPackageCspTrustedSite]
 ---
 
 # SubscriberPackageVersion
+
+> Represents a package version (first- or
+            second-generation) across all Salesforce instances. Available in API version 41.0
+        and later.
+
+**Namespace:** `NamespaceCollision`
 
 # SubscriberPackageVersion
 
@@ -153,3 +161,29 @@ For managed first- and second-generation package versions that have installation
 ```
 
 ```
+
+## Code Examples
+
+```
+SELECT Dependencies FROM SubscriberPackageVersion
+   WHERE ID = '04txxxxxxxxxxxx'
+```
+
+```
+SELECT Dependencies FROM SubscriberPackageVersion
+   WHERE ID = '04txxxxxxxxxxxx' AND InstallationKey='password123'
+```
+
+```
+SELECT Dependencies FROM SubscriberPackageVersion
+   WHERE ID = '04txxxxxxxxxxxx'
+```
+
+```
+SELECT Dependencies FROM SubscriberPackageVersion
+   WHERE ID = '04txxxxxxxxxxxx' AND InstallationKey='password123'
+```
+
+## Related Topics
+
+- CspTrustedSite (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_csptrustedsite.htm)

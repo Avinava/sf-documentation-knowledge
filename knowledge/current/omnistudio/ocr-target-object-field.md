@@ -5,11 +5,14 @@ topic: ocr-target-object-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.419Z
-keywords: [OCR, Target, Object, Field]
+lastCollected: 2026-03-12T05:14:50.419Z
+estimatedTokens: 177
+keywords: [OCR, Target, Field, Output, representation, target, field.]
 ---
 
 # OCR Target Object Field
+
+> Output representation of the OCR target object field.
 
 # OCR Target Object Field
 

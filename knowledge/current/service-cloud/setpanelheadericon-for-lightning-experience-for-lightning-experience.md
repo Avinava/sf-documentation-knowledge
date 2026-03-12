@@ -6,12 +6,16 @@ topic: setpanelheadericon-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.359Z
-keywords: [setPanelHeaderIcon, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.934Z
+estimatedTokens: 351
+keywords: [setPanelHeaderIcon, Lightning, Experience, icon, utility’s, panel., displayed, utility, panel, header., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # setPanelHeaderIcon() for Lightning Experience for
    Lightning Experience
+
+> Sets the icon of a utility’s panel. This icon is displayed in the utility panel header.
+  This method isn’t supported for Lightning Web Components (LWC).
 
 # setPanelHeaderIcon() for Lightning Experience for Lightning Experience
 
@@ -46,3 +50,30 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Panel Header Icon" onclick="{! c.handleSetPanelHeaderIcon }" />
+</aura:component>
+```
+
+```
+({
+    handleSetPanelHeaderIcon : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setPanelHeaderIcon({
+            icon: “frozen”
+            options:{
+                iconVariant:"warning"
+            }
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updatePanel() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updatePanel.htm)

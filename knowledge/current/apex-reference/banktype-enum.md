@@ -5,11 +5,14 @@ topic: banktype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.460Z
-keywords: [BankType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.603Z
+estimatedTokens: 97
+keywords: [BankType, Specifies, bank, type., Values]
 ---
 
 # BankType Enum
+
+> Specifies the bank type.
 
 # BankType Enum
 

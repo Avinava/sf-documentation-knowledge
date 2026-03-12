@@ -5,11 +5,15 @@ topic: connectapifeedelement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:38.774Z
-keywords: [ConnectApi.FeedElement, See]
+lastCollected: 2026-03-12T05:14:27.332Z
+estimatedTokens: 860
+keywords: [ConnectApi.FeedElement, Feed, elements, top-level, items, feed, contains., Feeds, element, containers.]
 ---
 
 # ConnectApi.FeedElement
+
+> Feed elements are the top-level items that a feed contains. Feeds are feed element
+    containers.
 
 # ConnectApi.FeedElement
 
@@ -38,9 +42,22 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.Announcement](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_announcement.htm "An announcement displays in a designated location in the Salesforce UI until 11:59 p.m. on its expiration date, unless it’s deleted or replaced by another announcement.")
-    
+
 -   [ConnectApi.FeedElementPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_page.htm "A paged collection of ConnectApi.FeedElement objects.")
-    
+
 -   [ConnectApi.PinnedFeedElements](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_pinned_feed_element_collection.htm "List of pinned feed elements for a feed.")
-    
+
 -   [ConnectApi.QuestionAndAnswersSuggestions](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_question_and_answer_suggestion_collection.htm "Question and answers suggestions.")
+
+## Related Topics
+
+- ConnectApi.FeedItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_Item.htm)
+- ConnectApi.GenericFeedElement (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_generic_feed_element.htm)
+- ConnectApi.​FeedBody (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_body.htm)
+- ConnectApi.​FeedElement​Capabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​FeedElementType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​MessageBody (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_msg_body.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.Announcement (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_announcement.htm)

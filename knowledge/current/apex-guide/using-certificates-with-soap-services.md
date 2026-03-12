@@ -5,11 +5,16 @@ topic: using-certificates-with-soap-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.374Z
-keywords: [Certificates, SOAP, Services, Important]
+lastCollected: 2026-03-12T05:14:32.319Z
+estimatedTokens: 496
+keywords: [Certificates, SOAP, Services, support, two-way, authentication, callout, web, service, generate, certificate, Salesforce, import, key, pair, keystore, Salesforce., Then, integrate, Apex.]
 ---
 
 # Using Certificates with SOAP Services
+
+> To support two-way authentication for a callout to a SOAP web service, generate a
+        certificate in Salesforce or import a key pair from a keystore into Salesforce. Then
+        integrate the certificate with your Apex.
 
 # Using Certificates with SOAP Services
 
@@ -35,3 +40,19 @@ This example illustrates editing the Apex classes and works with the sample WSDL
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_generate.htm "Generating Certificates")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_http.htm "Using Certificates with HTTP Requests")
+
+## Code Examples
+
+```
+docSample.DocSamplePort stub = new docSample.DocSamplePort();
+stub.clientCertName_x = 'DocSampleCert';
+String input = 'This is the input string';
+String output = stub.EchoString(input);
+```
+
+## Related Topics
+
+- SOAP Services: Defining a Class from a WSDL Document (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex.htm)
+- Generated WSDL2Apex Code (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_gen_code.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_generate.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_http.htm)

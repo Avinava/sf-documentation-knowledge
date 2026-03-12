@@ -5,11 +5,17 @@ topic: describevaluetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.888Z
-keywords: [describeValueType, Syntax, Example, Arguments, Permissions, Note, Sample, Code—Java, Response]
+lastCollected: 2026-03-12T05:14:38.769Z
+estimatedTokens: 541
+namespace: DescribeValueTypeResult
+keywords: [describeValueType, Retrieves, metadata, describing, given, Syntax, Example, Arguments, Permissions, Note, Sample, Code—Java, Response]
 ---
 
 # describeValueType()
+
+> Retrieves the metadata describing a given metadata type (value type).
+
+**Namespace:** `DescribeValueTypeResult`
 
 # describeValueType()
 
@@ -76,3 +82,89 @@ After you run the sample, the output looks similar to the following.
 ## Response
 
 [DescribeValueTypeResult](atlas.en-us.api_meta.meta/api_meta/meta_describeValueTypeResult.htm "Contains information about a value type that’s useful for developers working with declarative metadata.")
+
+## Code Examples
+
+```
+DescribeValueTypeResult = connection.describeValueType("{namespace}type_name");
+```
+
+```
+DescribeValueTypeResult = metadataConnection.describeValueType("{http://soap.sforce.com/2006/04/metadata}ApexClass");
+```
+
+```
+DescribeValueTypeResult = toolingConnection.describeValueType("{urn:metadata.tooling.soap.sforce.com}ApexClass");
+```
+
+```apex
+public void describeValueType() throws ConnectionException {
+    doDescribe("{http://soap.sforce.com/2006/04/metadata}CustomObject");
+    doDescribe("{http://soap.sforce.com/2006/04/metadata}CustomField");
+    doDescribe("{http://soap.sforce.com/2006/04/metadata}EmailTemplate");
+}
+
+public void doDescribe(String type) throws ConnectionException {
+    DescribeValueTypeResult result = metadataConnection.describeValueType(type);
+    StringBuffer sb = new StringBuffer();
+
+    sb.append("Describing " + type + " ...
+");
+
+    if (result.getApiCreatable() == true) {
+        sb.append("Is API creatable.
+");
+    } else {
+        sb.append("Is not API creatable.
+");
+    }
+
+    ValueTypeField parentField = result.getParentField();
+    if (parentField != null) {
+        sb.append("** Parent type fields **
+");
+        if (parentField.getIsForeignKey()) {
+            sb.append("This field is a foreign key.
+");
+            for (String fkDomain : parentField.getForeignKeyDomain()) { 
+                sb.append("Foreign key domain: " + fkDomain + "
+");
+            }
+        }              
+    }
+
+    sb.append("** Value type fields **
+");
+    for(ValueTypeField field : result.getValueTypeFields()) {
+        sb.append("***************************************************
+");
+        sb.append("Name: " + field.getName() + "
+");
+        sb.append("SoapType: " + field.getSoapType() + "
+");
+        if (field.getIsForeignKey()) {
+            sb.append("This field is a foreign key.
+");
+            for (String fkDomain : field.getForeignKeyDomain()) { 
+                sb.append("Foreign key domain: " + fkDomain + "
+");
+            }
+        }
+        sb.append("***************************************************
+");
+    }
+    System.out.println(sb.toString());
+}
+```
+
+```
+doDescribe("{urn:metadata.tooling.soap.sforce.com}CustomObject");
+    doDescribe("{urn:metadata.tooling.soap.sforce.com}CustomField");
+    doDescribe("{urn:metadata.tooling.soap.sforce.com}EmailTemplate");
+```
+
+## Related Topics
+
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- DescribeValueTypeResult (atlas.en-us.api_meta.meta/api_meta/meta_describeValueTypeResult.htm)

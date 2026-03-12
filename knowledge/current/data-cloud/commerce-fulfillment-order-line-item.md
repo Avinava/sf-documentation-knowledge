@@ -5,11 +5,16 @@ topic: commerce-fulfillment-order-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.876Z
-keywords: [Commerce, Fulfillment, Order, Line, Item, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.161Z
+estimatedTokens: 554
+keywords: [Commerce, Fulfillment, Order, Line, Item, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., shippable]
 ---
 
 # Commerce: Fulfillment Order Line Item
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Fulfillment Order Line data is a shippable product
+         or service that is part of a fulfillment order.
 
 # Commerce: Fulfillment Order Line Item
 

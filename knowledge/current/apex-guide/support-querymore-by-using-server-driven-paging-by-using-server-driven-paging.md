@@ -6,12 +6,19 @@ topic: support-querymore-by-using-server-driven-paging-by-using-server-driven-pa
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.866Z
-keywords: [Support, queryMore, Server-Driven, Paging, See]
+lastCollected: 2026-03-12T05:14:33.016Z
+estimatedTokens: 381
+keywords: [Support, queryMore, Server-Driven, Paging, server-driven, paging, external, system, controls, ignores, any, batch, boundaries, page, sizes, specified, queries., enable, declare, QUERY_PAGINATION_SERVER_DRIVEN]
 ---
 
 # Support  queryMore by Using Server-Driven Paging by Using
             Server-Driven Paging
+
+> With server-driven paging, the external system controls the paging and ignores any
+        batch boundaries or page sizes that are specified in queries. To enable server-driven
+        paging, declare the QUERY_PAGINATION_SERVER_DRIVEN
+        capability in your DataSource.Provider
+        class.
 
 # Support queryMore by Using Server-Driven Paging by Using Server-Driven Paging
 
@@ -26,3 +33,7 @@ The Apex Connector Framework doesn't support server-driven pagination for list v
 #### See Also
 
 -   [queryMore with the Apex Connector Framework with the Apex Connector Framework](atlas.en-us.apexcode.meta/apexcode/apex_connector_querymore.htm "Custom adapters for Salesforce Connect don’t automatically support the queryMore method in API queries. However, your implementation must be able to break up large result sets into batches and iterate over them by using the queryMore method in the SOAP API. The default batch size is 500 records, but the query developer can adjust that value programmatically in the query call.")
+
+## Related Topics
+
+- queryMore with the Apex Connector Framework with the Apex Connector Framework (atlas.en-us.apexcode.meta/apexcode/apex_connector_querymore.htm)

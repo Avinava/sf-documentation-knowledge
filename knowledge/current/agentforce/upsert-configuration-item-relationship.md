@@ -5,11 +5,17 @@ topic: upsert-configuration-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.766Z
-keywords: [Upsert, Configuration, Item, Relationship, Request, UpsertCIRelationshipBulkInput, UpsertCIRelationshipInput, Response, Note]
+lastCollected: 2026-03-12T05:14:15.246Z
+estimatedTokens: 809
+keywords: [Upsert, Configuration, Item, Relationship, Submit, bulk, operation, create, update, relationships, between, configuration, items., asynchronous, job, which, getStatus, query, check, progress.]
 ---
 
 # Upsert Configuration Item Relationship
+
+> Submit a bulk operation to create or update one or more
+      relationships between configuration items. This is an asynchronous operation that returns a
+      job ID, which you can use with the getStatus query to check the operation
+    progress.
 
 # Upsert Configuration Item Relationship
 
@@ -69,3 +75,46 @@ Properties
 #### Note
 
 After submitting the upsertCIRelationship mutation, use the returned job id with the [getStatus](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm#query_getStatus "Retrieve the status of a previously submitted asynchronous job. For example, upsertCI a bulk upsert operation. Use this query to check the progress and completion status of the asynchronous operations.") query to check the operation progress and completion status.
+
+## Code Examples
+
+```
+mutation UpsertCIRelationship {
+  upsertCIRelationship(
+    input: {
+      payload: [
+        {
+          sourceCIId: 22
+          targetCIId: 33
+          relationshipType: "SD_NOVa"
+        }
+      ]
+    }
+  ) {
+    id
+    status
+    updatedAt
+    details
+    totalRecordCount
+    successRecordCount
+    failureRecordCount
+  }
+}
+```
+
+```
+{
+  "data": {
+    "upsertCIRelationship": {
+      "id": 109,
+      "status": "Processing",
+      "updatedAt": "2025-11-14T10:15:00.123456Z",
+      "details": "Job queued - Upsert CI Relationship - Canonical API (1 items)"
+    }
+  }
+}
+```
+
+## Related Topics
+
+- getStatus (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm)

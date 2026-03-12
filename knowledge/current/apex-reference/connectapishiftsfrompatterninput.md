@@ -5,11 +5,14 @@ topic: connectapishiftsfrompatterninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.347Z
-keywords: [ConnectApi.ShiftsFromPatternInput]
+lastCollected: 2026-03-12T05:14:25.206Z
+estimatedTokens: 299
+keywords: [ConnectApi.ShiftsFromPatternInput, Shifts, pattern.]
 ---
 
 # ConnectApi.ShiftsFromPatternInput
+
+> Shifts from a pattern.
 
 # ConnectApi.ShiftsFromPatternInput
 
@@ -24,3 +27,9 @@ Shifts from a pattern.
 | serviceResourceId​List | List<String> | List of service resource IDs to assign shifts to. | Optional | 53.0 |
 | serviceTerritoryId | String | ID of the service territory to assign shifts to. | Optional | 51.0 |
 | shiftStatus | String | Status of the shifts. Default values are:ConfirmedPublishedTentativeAdditional status values can be created. | Optional | 52.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

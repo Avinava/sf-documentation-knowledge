@@ -5,11 +5,16 @@ topic: deployrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.624Z
-keywords: [DeployRequest, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Note, Fields]
+lastCollected: 2026-03-12T05:14:45.174Z
+estimatedTokens: 1724
+keywords: [DeployRequest, Uses, file, representations, metadata, components, create, update, delete, those, Salesforce, org., API, version, 49.0, later., Supported, SOAP, Calls, REST]
 ---
 
 # DeployRequest
+
+> Uses file representations of metadata
+            components to create, update, or delete those components in a Salesforce org. This
+            object is available in API version 49.0 and later.
 
 # DeployRequest
 

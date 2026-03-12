@@ -5,11 +5,15 @@ topic: apexcodecoverageaggregate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.173Z
-keywords: [ApexCodeCoverageAggregate, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.575Z
+estimatedTokens: 386
+keywords: [ApexCodeCoverageAggregate, Represents, aggregate, code, coverage, test, results, Apex, trigger., Tooling, API, version, 29.0, later., Supported, SOAP, Calls, REST, HTTP, Special]
 ---
 
 # ApexCodeCoverageAggregate
+
+> Represents aggregate code coverage test results for an Apex class or
+   trigger. Available in Tooling API version 29.0 and later.
 
 # ApexCodeCoverageAggregate
 
@@ -39,3 +43,7 @@ In API version 49.0 and later, users must have the View Setup and Configuration 
 ## Usage
 
 To query for aggregate code coverage, specify an Apex test class. The returned JSON or XML object will contain two lists of integers: one for covered and one for uncovered lines. For examples, see [ApexCodeCoverage](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcodecoverage.htm "Represents code coverage test results for an Apex class or trigger. Available in Tooling API version 29.0 and later.").
+
+## Related Topics
+
+- ApexCodeCoverage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcodecoverage.htm)

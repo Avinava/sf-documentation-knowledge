@@ -4,12 +4,16 @@ domain: omnistudio
 topic: ocrsampledocumentpageitem
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.575Z
-keywords: [OcrSampleDocumentPageItem, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:51.292Z
+estimatedTokens: 319
+keywords: [OcrSampleDocumentPageItem, Represents, details, items, present, OCR, sample, document, page., API, version, 56.0, later., Supported, Calls, Fields, SOAP, REST, Special, Access]
 ---
 
 # OcrSampleDocumentPageItem
+
+> Represents details of items present on an OCR sample document page. This
+      object is available in API version 56.0 and later.
 
 # OcrSampleDocumentPageItem
 

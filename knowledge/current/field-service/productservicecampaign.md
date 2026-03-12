@@ -5,11 +5,16 @@ topic: productservicecampaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.776Z
-keywords: [ProductServiceCampaign, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.346Z
+estimatedTokens: 1074
+keywords: [ProductServiceCampaign, Represents, set, activities, performed, product, service, campaign, asset, such, recall, safety, issues, defects., API, version, 51.0, later., Supported, Calls]
 ---
 
 # ProductServiceCampaign
+
+> Represents a set of activities to be performed on a product service campaign
+      asset, such as a product recall for safety issues or product defects. This object is
+    available in API version 51.0 and later.
 
 # ProductServiceCampaign
 

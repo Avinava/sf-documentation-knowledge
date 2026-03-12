@@ -5,11 +5,18 @@ topic: caseproceedingparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.770Z
-keywords: [CaseProceedingParticipant, Note, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.692Z
+estimatedTokens: 1107
+keywords: [CaseProceedingParticipant, Represents, junction, between, case, proceeding, participant, such, account, contact., stores, details, who, involved, proceeding., API, version, 64.0, later., Note]
 ---
 
 # CaseProceedingParticipant
+
+> Represents a junction between the case proceeding and a participant, such as
+         an account or a contact. This object stores the details of a participant who is involved in
+         a case proceeding. This object is available in API version
+      64.0
+      and later.
 
 # CaseProceedingParticipant
 
@@ -54,3 +61,8 @@ Feed tracking is available for the object.
 [CaseProceedingParticipantHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- CaseProceedingParticipantFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- CaseProceedingParticipantHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

@@ -5,11 +5,14 @@ topic: setting-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.508Z
-keywords: [Setting, Metadata]
+lastCollected: 2026-03-12T05:14:08.495Z
+estimatedTokens: 80
+keywords: [Setting, Metadata, Output, representation, metadata, associated, setting.]
 ---
 
 # Setting Metadata
+
+> Output representation of the metadata associated with a setting.
 
 # Setting Metadata
 
@@ -24,3 +27,13 @@ JSON example
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
 | active​Languages | String[] | List of active languages in an org. | Small, 63.0 | 63.0 |
+
+## Code Examples
+
+```
+"metadata": {
+    "activeLanguages": [
+      "en_US"
+    ]
+  }
+```

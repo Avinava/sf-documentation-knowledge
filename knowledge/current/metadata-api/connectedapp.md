@@ -5,11 +5,19 @@ topic: connectedapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.245Z
-keywords: [ConnectedApp, Important, File, Suffix, Directory, Location, Version, Fields, ConnectedAppAttribute, ConnectedAppCanvasConfig, ConnectedAppIpRange, ConnectedAppOauthConfig, ConnectedAppOauthAssetToken, ConnectedAppOauthIdToken, ConnectedAppOauthPolicy, ConnectedAppSamlConfig, ConnectedAppSessionPolicy, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:37.892Z
+estimatedTokens: 9428
+keywords: [ConnectedApp, Represents, connected, app, configuration., enables, external, application, integrate, Salesforce, APIs, standard, protocols, such, SAML, OAuth, OpenID, Connect., Connected, apps]
 ---
 
 # ConnectedApp
+
+> Represents a connected app configuration. A connected app
+      enables an external application to integrate with Salesforce using APIs and standard
+      protocols, such as SAML, OAuth, and OpenID Connect. Connected apps use these protocols to
+      authenticate, authorize, and provide single sign-on (SSO) for external apps. The external apps
+      that are integrated with Salesforce can run on the customer success platform, other platforms,
+      devices, or SaaS subscriptions.
 
 # ConnectedApp
 
@@ -222,3 +230,182 @@ Or, if you're configuring the connected app using Metadata API only, you can use
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <attributes>
+        <formula>$Api.Enterprise_Server_URL_100</formula>
+        <key>test</key>
+    </attributes>
+    <attributes>
+        <formula>$Api.Partner_Server_URL_60</formula>
+        <key>test1</key>
+    </attributes>
+   <canvasConfig>
+        <accessMethod>Get</accessMethod>
+        <canvasUrl>https://salesforce.com</canvasUrl>
+        <lifecycleClass>MyCanvasListener</lifecycleClass>
+        <locations>Chatter</locations>
+        <locations>Visualforce</locations>
+        <locations>Aura</locations>
+        <locations>Publisher</locations>
+        <locations>ChatterFeed</locations>
+        <locations>OpenCTI</locations>
+        <locations>MobileNav</locations>
+        <locations>PageLayout</locations>
+        <options>HideShare</options>
+        <options>HideHeader</options>
+        <options>PersonalEnabled</options>
+        <samlInitiationMethod>None</samlInitiationMethod>
+    </canvasConfig>
+    <canvas>
+    	<locationOptions>NONE</locationOptions>
+    	<samlInitiationMethod>None</samlInitiationMethod>
+    	<accessMethod>Get</accessMethod>
+    	<canvasOptions>PE</canvasOptions>
+    	<lifecycleClass>MyCanvasListener</lifecycleClass>
+    	<canvasUrl>https://salesforce.com</canvasUrl>
+	</canvas>
+    <contactEmail>example@salesforce.com</contactEmail>
+    <contactPhone>1231231234</contactPhone>
+    <description>Test App</description>
+    <iconUrl>https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/salesforce-logo-cloud.png</iconUrl>
+    <infoUrl>https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/salesforce-logo-cloud.png</infoUrl>
+    <startUrl>https://www.salesforce.com</startUrl>
+    <ipRanges>
+        <end>000.0.0.1</end>
+        <start>000.0.0.2</start>
+	<description>Test</description>
+    </ipRanges>
+    <ipRanges>
+        <end>000.0.0.1</end>
+        <start>000.0.0.2</start>
+	<description>Test1</description>
+    </ipRanges>
+    <label>TestApp</label>
+    <logoUrl>https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/logos/salesforce-logo-cloud.png</logoUrl>
+    <profileName>Test</profileName>
+    <permissionSetName>TestPermission</permissionSetName>
+    <mobileStartUrl>http://www.mobile.com</mobileStartUrl>
+    <mobileAppConfig>
+        <applicationBinaryFile></applicationBinaryFile>
+        <applicationBinaryFileName>test</applicationBinaryFileName>
+        <applicationBundleIdentifier>testtest</applicationBundleIdentifier>
+        <applicationIconFileName>test</applicationIconFileName>
+	<applicationIconFile>test</applicationIconFile>
+	<applicationFileLength>5</applicationFileLength>
+        <applicationInstallUrl>https://salesforce.com</applicationInstallUrl>
+        <devicePlatform>ios</devicePlatform>
+        <deviceType>minitablet</deviceType>
+        <minimumOsVersion>2</minimumOsVersion>
+        <privateApp>true</privateApp>
+        <version>2</version>
+    </mobileAppConfig>
+    <oauthConfig>
+        <assetTokenConfig>
+            <assetAudiences>http://asset.audience.com</assetAudiences>
+            <assetIncludeAttributes>true</assetIncludeAttributes>
+            <assetIncludeCustomPerms>true</assetIncludeCustomPerms>
+            <assetSigningCertId>${cert.id}</assetSigningCertId>
+            <assetValidityPeriod>1440</assetValidityPeriod>
+        </assetTokenConfig>
+        <callbackUrl>https://www.callback.com</callbackUrl>
+        <!--  NOTE, TEST.orgId will get replaced with the org ID of the context org, so we will have a unique consumer key in every scratch org.  -->
+        <consumerKey>3MVG9AOp4kbriZOcnmoLmTrguy9ryzcLbBjoNY...${TEST.orgId}</consumerKey>
+		<consumerSecret>3MVG9AOp4k...</consumerSecret>
+		<certificate>3MVG9AOp4kbriZOInmoLmTrguy9ryzcLbBjoNY...</certificate>
+        <scopes>Basic</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+		<singleLogoutUrl>https://www.logout.com</singleLogoutUrl>
+        <isAdminApproved>false</isAdminApproved>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+		<idTokenConfig>
+			<idTokenAudience>https://idtoken.audience.com</idTokenAudience>
+			<idTokenIncludeAttributes>true</idTokenIncludeAttributes>
+			<idTokenIncludeCustomPerms>true</idTokenIncludeCustomPerms>
+			<idTokenIncludeStandardClaims>true</idTokenIncludeStandardClaims>
+			<idTokenValidity>20</idTokenValidity>
+		</idTokenConfig>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+        <singleLogoutUrl>https://www.logout.com</singleLogoutUrl>
+    </oauthPolicy>
+    <plugin>ConnectedAppPluginTest</plugin>
+    <pluginExecutionUser>testuser@salesforce.com</pluginExecutionUser>
+    <samlConfig>
+        <acsUrl>http://www.acs.com</acsUrl>
+        <encryptionType>AES_128</encryptionType>
+	<encryptionCertificate>3MVG9AOp4kbriZOInmoLmTrguy9ryzcLbBjoNY...</encryptionCertificate>
+	<certificate>3MVG9AOp4kbriZOInmoLmTrguy9ryzcLbBjoNY...</certificate>
+	<samlSubjectCustomAttr>test</samlSubjectCustomAttr>
+        <entityUrl>http://www.entity.com</entityUrl>
+        <issuer>https://salesforce.com</issuer>
+        <samlIdpSLOBindingEnum>RedirectBinding</samlIdpSLOBindingEnum>
+        <samlNameIdFormat>Unspecified</samlNameIdFormat>
+        <samlSloUrl>https://www.salesforce.com</samlSloUrl>
+        <samlSubjectType>CustomAttribute</samlSubjectType>
+    </samlConfig>
+    <sessionPolicy>
+        <policyAction>RaiseSessionLevel</policyAction>
+        <sessionLevel>HIGH_ASSURANCE</sessionLevel>
+        <sessionTimeout>720</sessionTimeout>
+    </sessionPolicy>
+</ConnectedApp>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+ <contactEmail>example@salesforce.com</contactEmail>
+ <label>MyConnectedApp</label>
+ <oauthConfig>
+ <callbackUrl>https://example.com/callback1
+https://example.com/callback2
+https://example.com/callback3</callbackUrl>
+ <consumerKey>3MVG9AOp4kbriZOcnmoLmTrguy9ryzcLbBjoNY...</consumerKey>
+ <isAdminApproved>false</isAdminApproved>
+ <isConsumerSecretOptional>false</isConsumerSecretOptional>
+ <isIntrospectAllTokens>false</isIntrospectAllTokens>
+ <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+ <scopes>Full</scopes>
+ <scopes>RefreshToken</scopes>
+ </oauthConfig>
+ <oauthPolicy>
+ <ipRelaxation>ENFORCE</ipRelaxation>
+ <refreshTokenPolicy>infinite</refreshTokenPolicy>
+ </oauthPolicy>
+</ConnectedApp>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>PortalTestApp</members>
+        <name>ConnectedApp</name>
+    </types>
+    <version>29.0</version>
+</Package>
+```
+
+```
+https://<Salesforce_base_URL>/idp/login?app=<app_id>
+```
+
+```
+https://<Salesforce_base_URL>/idp/login?apiName=<fullName>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

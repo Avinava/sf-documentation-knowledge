@@ -5,11 +5,16 @@ topic: flowtest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.753Z
-keywords: [FlowTest, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, FlowTestFlowVersion, FlowTestPoint, FlowTestAssertion, FlowTestCondition, FlowTestReferenceOrValue, FlowTestParameter, Declarative, Metadata]
+lastCollected: 2026-03-12T05:14:40.027Z
+estimatedTokens: 1696
+keywords: [FlowTest, Represents, metadata, associated, flow, test., Before, activate, record-triggered, test, verify, its, expected, results, identify, run-time, failures., Parent, File, Suffix]
 ---
 
 # FlowTest
+
+> Represents the metadata associated with a flow test. Before you activate a
+			record-triggered flow, you can test it to verify its expected results and identify flow
+			run-time failures.
 
 # FlowTest
 
@@ -125,3 +130,64 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowTest xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flowApiName>Example_Test</flowApiName>
+    <label>Test Two</label>
+    <testPoints>
+        <elementApiName>Start</elementApiName>
+        <parameters>
+            <leftValueReference>$Record</leftValueReference>
+            <type>InputTriggeringRecordInitial</type>
+            <value>
+                <sobjectValue>{&quot;AnnualRevenue&quot;:100000,&quot;BillingCity&quot;:&quot;New York&quot;}}</sobjectValue>
+            </value>
+        </parameters>
+        <parameters>
+            <leftValueReference>ScheduledPathApiName</leftValueReference>
+            <type>ScheduledPath</type>
+            <value>Every_Monday</value>
+        </parameters>
+        <parameters>
+            <leftValueReference>$Record</leftValueReference>
+            <type>InputTriggeringRecordUpdated</type>
+            <value>
+                <sobjectValue>{&quot;AnnualRevenue&quot;:100000,&quot;BillingCity&quot;:&quot;New York&quot;}</sobjectValue>
+            </value>
+        </parameters>
+    </testPoints>
+    <testPoints>
+        <assertions>
+            <conditions>
+                <leftValueReference>$Record.Industry</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Other</stringValue>
+                </rightValue>
+            </conditions>
+            <errorMessage>Industry was not set.</errorMessage>
+        </assertions>
+        <elementApiName>Finish</elementApiName>
+    </testPoints>
+</FlowTest>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>Test_Two</members>
+<name>FlowTest</name>
+</types>
+<version>55.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

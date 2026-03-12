@@ -5,11 +5,16 @@ topic: decision-matrix-version-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.735Z
-keywords: [Decision, Matrix, Version, Rows]
+lastCollected: 2026-03-12T05:14:49.101Z
+estimatedTokens: 514
+keywords: [Decision, Matrix, Version, Rows, Retrieve, paginated, list, manage, rows, decision, matrix, version., resource, add, new, update, delete, existing]
 ---
 
 # Decision Matrix Version Rows
+
+> Retrieve a paginated list of or manage rows in a decision matrix
+      version. Use this resource to add new rows, or update or delete existing rows in a decision
+      matrix version.
 
 # Decision Matrix Version Rows
 
@@ -94,3 +99,66 @@ Properties
 Response body for POST
 
 [Decision Matrix Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_output.htm "Output representation the action performed on a decision matrix version.")
+
+## Code Examples
+
+```
+/connect/omnistudio/decision-matrices/${matrixId}/versions/${versionId}/rows
+```
+
+```
+/services/data/v53.0/connect/omnistudio/decision-matrices/0lIR000000000u0MAA
+/versions/0lNR000000000rFMAQ/rows
+```
+
+```
+{
+  "rows": [
+    {
+      "rowData": {
+        "Age": "45",
+        "Gender": "F",
+        "Premium": "2000"
+      }
+    }
+  ]
+}
+```
+
+```
+{
+  "rows": [
+    {
+      "id": "a1j5w000006D04uAAC",
+      "action": "delete",
+      "rowData": {
+        "Age": "45",
+        "Gender": "F",
+        "Premium": "2000"
+      }
+    }
+  ]
+}
+```
+
+```
+{
+  "rows": [
+    {
+      "id": "a1j5w000006D04uAAC",
+      "action": "update",
+      "rowData": {
+        "Age": "45",
+        "Gender": "F",
+        "Premium": "1500"
+      }
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Decision Matrix Rows Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_rows_output.htm)
+- Decision Matrix Row Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_matrix_row_input.htm)
+- Decision Matrix Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_output.htm)

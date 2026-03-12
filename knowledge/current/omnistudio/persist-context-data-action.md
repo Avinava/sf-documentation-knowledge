@@ -5,11 +5,15 @@ topic: persist-context-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.483Z
-keywords: [Persist, Context, Data, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Usage, Example]
+lastCollected: 2026-03-12T05:14:47.329Z
+estimatedTokens: 423
+keywords: [Persist, Context, Data, Action, Store, cached, context, data, associated, mapping, Salesforce, record., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs]
 ---
 
 # Persist Context Data Action
+
+> Store cached context data associated with a context mapping ID in a Salesforce
+        record.
 
 # Persist Context Data Action
 
@@ -71,4 +75,32 @@ This sample response is for the Persist Context Data action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "contextId": "0000000a07da09100251752497651022c35b6150a4d04cd6a84bf1a0439cc609",
+      "contextMappingId": "16Pxx0000004CCGEA2",
+      "trackingId": "16Pxx0000004CCGEA2"
+    }
+  ]
+}
+```
+
+```
+{
+  "actionName": "persistContextData",
+  "errors": null,
+  "invocationId": null,
+  "isSuccess": true,
+  "outputValues": {
+    "referenceId": "16Pxx0000004CAeEAM"
+  },
+  "sortOrder": -1,
+  "version": 1
+}
 ```

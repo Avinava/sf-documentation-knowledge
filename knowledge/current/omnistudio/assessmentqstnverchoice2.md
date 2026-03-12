@@ -5,11 +5,15 @@ topic: assessmentqstnverchoice2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.603Z
-keywords: [AssessmentQstnVerChoice2, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:53.406Z
+estimatedTokens: 614
+keywords: [AssessmentQstnVerChoice2, Represents, choice, user, select, assessment, question, version., API, version, 63.0, later., Supported, Calls, Fields]
 ---
 
 # AssessmentQstnVerChoice2
+
+> Represents a choice a user can select for an assessment question
+         version. This object is available in API version 63.0 and later.
 
 # AssessmentQstnVerChoice2
 

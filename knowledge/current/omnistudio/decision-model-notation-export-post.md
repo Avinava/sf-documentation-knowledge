@@ -5,11 +5,16 @@ topic: decision-model-notation-export-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.593Z
-keywords: [Decision, Model, Notation, Export, POST, See]
+lastCollected: 2026-03-12T05:14:48.880Z
+estimatedTokens: 272
+keywords: [Decision, Model, Notation, Export, POST, decision, matrix, data, file, DMN, format, easily, readable, business, rules, designed, Management, Group.]
 ---
 
 # Decision Model Notation Export (POST)
+
+> Export decision matrix data to a file in the DMN (Decision Model
+      Notation) format, an easily readable format for business rules designed by Object Management
+      Group.
 
 # Decision Model Notation Export (POST)
 
@@ -60,3 +65,26 @@ Response body for POST
 #### See Also
 
 -   [DMN (Decision Model Notation)](https://www.omg.org/dmn/#:~:text=DMN%20is%20a%20modeling%20language,monitor%20their%20application%3B%20business%20analysts. "DMN (Decision Model Notation) - HTML (New Window)")
+
+## Code Examples
+
+```
+/connect/business-rules/decision-models/export
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/decision-models/export
+```
+
+```
+{
+   "decisionModelEntityIds":[
+      “0lNRO00000004f72AA”,
+      “0lNRO000000rfn27AA”
+   ]
+}
+```
+
+## Related Topics
+
+- Decision Model Export Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_model_export_output.htm)

@@ -5,11 +5,17 @@ topic: version-apex-code-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.298Z
-keywords: [Version, Apex, Code, Behavior, Note, See]
+lastCollected: 2026-03-12T05:14:33.625Z
+estimatedTokens: 928
+keywords: [Version, Apex, Code, Behavior, Package, developers, conditional, logic, classes, triggers, exhibit, different, behavior, versions., support, existing, previous, package, versions, while]
 ---
 
 # Version Apex Code Behavior
+
+> Package developers can use conditional logic in Apex classes and triggers to exhibit
+        different behavior for different versions. With this conditional logic, you can support
+        existing behavior in classes and triggers in previous package versions while evolving the
+        code.
 
 # Version Apex Code Behavior
 
@@ -36,5 +42,36 @@ The request context persists if a class in an installed package invokes a method
 #### See Also
 
 -   [Set Package Versions for Apex Classes and Triggers (for package subscribers)](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm#apex_manpkgs_subscriber_version "As a managed package subscriber, you can specify which package version that your managed Apex classes and triggers use. Set the package version in Setup, through metadata deployments, or with API requests.")
-    
+
 -   [Safely Upgrade Packages from Developer and Subscriber Perspectives](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_safe_upgrades.htm "Learn how to upgrade a managed package safely through this extended example. See the actions that package developers and subscribers can take to ensure a smooth transition and safeguard the backwards compatibility of existing integrations.")
+
+## Code Examples
+
+```apex
+trigger oppValidation on Opportunity (before insert, before update) {
+
+    for (Opportunity opp : Trigger.new){
+    
+        // Add a new validation to the package
+        // Applies to versions of the managed package greater than 1.0
+        if (System.requestVersion().compareTo(new Version(1,0)) > 0) {
+            if (opp.Probability >= 50 && opp.Description == null) {
+                opp.addError('All deals over 50% require a description');
+            }
+        }
+
+        // Validation applies to all versions of the managed package.
+        if (opp.IsWon == true && opp.LeadSource == null) {
+            opp.addError('A lead source must be provided for all Closed Won deals');
+        }
+    }
+}
+```
+
+## Related Topics
+
+- select
+                the version (atlas.en-us.apexcode.meta/apexcode/apex_classes_version_settings_intro.htm)
+- Set Package Versions for Apex Classes and Triggers (for package
+       subscribers) (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm)
+- Safely Upgrade Packages from Developer and Subscriber Perspectives (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_safe_upgrades.htm)

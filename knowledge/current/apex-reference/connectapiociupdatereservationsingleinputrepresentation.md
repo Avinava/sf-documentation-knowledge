@@ -5,11 +5,14 @@ topic: connectapiociupdatereservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.384Z
-keywords: [ConnectApi.OCIUpdateReservationSingleInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.263Z
+estimatedTokens: 193
+keywords: [ConnectApi.OCIUpdateReservationSingleInputRepresentation, Data, update, Omnichannel, Inventory, reservation, item.]
 ---
 
 # ConnectApi.OCIUpdateReservationSingleInputRepresentation
+
+> Data to update one Omnichannel Inventory reservation item.
 
 # ConnectApi.OCIUpdateReservationSingleInputRepresentation
 
@@ -21,3 +24,8 @@ Data to update one Omnichannel Inventory reservation item.
 | locationIdentifier | String | Identifier of the location where the inventory is reserved. | Either locationGroupIdentifier or locationIdentifier are required, but not both | 61.0 |
 | quantity | Double | The quantity of the product to update. | Required | 61.0 |
 | stockKeepingUnit | String | The SKU of the product to update. | Required | 61.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

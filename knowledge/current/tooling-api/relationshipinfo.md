@@ -5,11 +5,17 @@ topic: relationshipinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.660Z
-keywords: [RelationshipInfo, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:46.661Z
+estimatedTokens: 699
+keywords: [RelationshipInfo, Represents, relationship, between, objects., Simplify, queries, such, answering, question, “which, objects, parent, defined, ChildSobject., Tooling, API, version, 34.0, later.]
 ---
 
 # RelationshipInfo
+
+> Represents the properties of a relationship between objects. Simplify queries with
+        RelationshipInfo, such as answering the question “which objects are parent objects for the
+        object defined in ChildSobject. Available in Tooling API version 34.0 and
+        later.
 
 # RelationshipInfo
 
@@ -43,3 +49,11 @@ GET
 | IsRestrictedDelete | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIf true, this object can’t be deleted. Corresponds to Restrict value for DeleteConstraint in the Metadata API. |
 | JunctionIdListNames | TypecomplexvaluePropertiesNillableDescriptionThe names of the lists of junction IDs associated with an object. Each ID represents an object that has a relationship with the associated object. |
 | RelationshipDomains | TypeQueryResultPropertiesFilter, Group, SortDescriptionThe RelationshipDomain records associated with this object. Because this field represents a relationship, use only in subqueries. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)
+- FieldDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm)
+- QueryResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_queryresult.htm)

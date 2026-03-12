@@ -5,11 +5,16 @@ topic: dynamic-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.064Z
-keywords: [Dynamic, DML, sObject, Creation, Example, Setting, Retrieving, Field, Values, Note, Foreign, Keys]
+lastCollected: 2026-03-12T05:14:33.305Z
+estimatedTokens: 1067
+keywords: [Dynamic, DML, addition, querying, describe, information, building, SOQL, queries, runtime, create, sObjects, dynamically, insert, database, DML., sObject, Creation, Example, Setting]
 ---
 
 # Dynamic DML
+
+> In addition to querying describe information and building SOQL
+queries at runtime, you can also create sObjects dynamically, and
+insert them into the database using DML.
 
 # Dynamic DML
 
@@ -92,3 +97,68 @@ You can also access foreign keys using dynamic Apex. The following example shows
 ```
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_sosl.htm "Dynamic SOSL")
+
+## Code Examples
+
+```
+// Get a new account
+Account a = new Account();
+// Get the token for the account
+Schema.sObjectType tokenA = a.getSObjectType();
+// The following produces an error because the token is a generic sObject, not an Account
+// Account b = tokenA.newSObject();
+// The following works because the token is cast back into an Account
+Account b = (Account)tokenA.newSObject();
+```
+
+```apex
+SObject s = Database.query('SELECT Id FROM account LIMIT 1')[0].getSObjectType().
+                                       newSObject([SELECT Id FROM Account LIMIT 1][0].Id);
+```
+
+```apex
+public class DynamicSObjectCreation {
+    public static sObject createObject(String typeName) {
+        Schema.SObjectType targetType = Schema.getGlobalDescribe().get(typeName);
+        if (targetType == null) {
+            // throw an exception
+        }
+        
+        // Instantiate an sObject with the type passed in as an argument
+        //  at run time.
+        return targetType.newSObject(); 
+    }
+}
+```
+
+```apex
+@isTest
+private class DynamicSObjectCreationTest {
+    static testmethod void testObjectCreation() {
+        String typeName = 'Account';
+        String acctName = 'Acme';
+        
+        // Create a new sObject by passing the sObject type as an argument.
+        Account a = (Account)DynamicSObjectCreation.createObject(typeName);        
+        System.assertEquals(typeName, String.valueOf(a.getSobjectType()));
+        // Set the account name and insert the account.
+        a.Name = acctName;
+        insert a;
+
+        // Verify the new sObject got inserted.
+        Account[] b = [SELECT Name from Account WHERE Name = :acctName];
+        system.assert(b.size() > 0);
+    }
+}
+```
+
+```
+SObject s = [SELECT AccountNumber FROM Account LIMIT 1];
+Object o = s.get('AccountNumber');
+s.put('AccountNumber', 'abc');
+```
+
+## Related Topics
+
+- Classes and Casting (atlas.en-us.apexcode.meta/apexcode/apex_classes_casting.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_sosl.htm)

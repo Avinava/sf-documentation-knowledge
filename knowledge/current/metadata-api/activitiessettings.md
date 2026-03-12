@@ -5,11 +5,16 @@ topic: activitiessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.340Z
-keywords: [ActivitiesSettings, File, Suffix, Directory, Location, Version, Fields, Example, Package, Manifest, Declarative, Metadata, Sample, Definition, Wildcard, Support, See]
+lastCollected: 2026-03-12T05:14:36.612Z
+estimatedTokens: 2569
+keywords: [ActivitiesSettings, Represents, org's, activity, settings, its, user, calendar., extends, Metadata, metadata, inherits, fullName, field., File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # ActivitiesSettings
+
+> Represents an org's activity settings, and its
+            user interface settings for the calendar. This type extends the Metadata metadata
+        type and inherits its fullName field.
 
 # ActivitiesSettings
 
@@ -90,3 +95,47 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 #### See Also
 
 -   [Document](atlas.en-us.api_meta.meta/api_meta/meta_document.htm "Represents a Document. All documents must be in a document folder, such as sampleFolder/TestDocument.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Activities</members>
+        <name>Settings</name>
+    </types>
+    <version>28.0</version>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ActivitiesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableActivityReminders>true</enableActivityReminders>
+    <autoRelateEventAttendees>true</autoRelateEventAttendees>
+    <enableClickCreateEvents>true</enableClickCreateEvents>
+    <enableDragAndDropScheduling>true</enableDragAndDropScheduling>
+    <enableEmailTracking>true</enableEmailTracking>
+    <enableGroupTasks>true</enableGroupTasks>
+    <enableListViewScheduling>true</enableListViewScheduling>
+    <enableMultidayEvents>true</enableMultidayEvents>
+    <enableRecurringEvents>true</enableRecurringEvents>
+    <enableRollUpActivToContactsAcct>true</enableRollUpActivToContactsAcct>
+    <enableRecurringTasks>true</enableRecurringTasks>
+    <enableTimelineCompDateSort>true</enableTimelineCompDateSort>
+    <enableUserListViewCalendars>true</enableUserListViewCalendars>
+    <enableSidebarCalendarShortcut>true</enableSidebarCalendarShortcut>
+    <meetingRequestsLogo>Folder02/logo03.png</meetingRequestsLogo>
+    <showCustomLogoMeetingRequests>true</showCustomLogoMeetingRequests>
+    <showEventDetailsMultiUserCalendar>true</showEventDetailsMultiUserCalendar>
+    <showHomePageHoverLinksForEvents>true</showHomePageHoverLinksForEvents>
+    <showMyTasksHoverLinks>true</showMyTasksHoverLinks>
+</ActivitiesSettings>
+```
+
+## Related Topics
+
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Document (atlas.en-us.api_meta.meta/api_meta/meta_document.htm)

@@ -5,11 +5,15 @@ topic: query-context-tags-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.487Z
-keywords: [Query, Context, Tags, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:47.333Z
+estimatedTokens: 250
+keywords: [Query, Context, Tags, Action, tag, values, instance, associated, context, definition., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
 ---
 
 # Query Context Tags Action
+
+> Query the tag values from an instance that are associated with a context
+        definition.
 
 # Query Context Tags Action
 
@@ -66,4 +70,58 @@ This sample response is for the Query Context Tags action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "contextId": "0000000a07da09100251752497651022c35b6150a4d04cd6a84bf1a0439cc609",
+      "tagList": [
+        "Account_Name",
+        "Contact_LastName"
+      ]
+    }
+  ]
+}
+```
+
+```
+{
+  "actionName": "queryContextTags",
+  "errors": null,
+  "invocationId": null,
+  "isSuccess": true,
+  "outputValues": {
+    "queryResult": {
+      "Contact_LastName": [
+        {
+          "tagValue": "Miller",
+          "dataPath": [
+            "0000000a07da09100251752497651022c35b6150a4d04cd6a84bf1a0439cc609",
+            "account1",
+            "contact1"
+          ],
+          "eTag": "fba12e2955bf4a46354fee73ee8b238c",
+          "weakEtag": 0
+        }
+      ],
+      "Account_Name": [
+        {
+          "tagValue": "AcmeFlow",
+          "dataPath": [
+            "0000000a07da09100251752497651022c35b6150a4d04cd6a84bf1a0439cc609",
+            "account1"
+          ],
+          "eTag": "fa0867f98939f191957687c1456715f7",
+          "weakEtag": 0
+        }
+      ]
+    }
+  },
+  "sortOrder": -1,
+  "version": 1
+}
 ```

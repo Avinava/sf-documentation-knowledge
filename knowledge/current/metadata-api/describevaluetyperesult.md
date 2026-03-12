@@ -5,11 +5,15 @@ topic: describevaluetyperesult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.893Z
-keywords: [DescribeValueTypeResult, ValueTypeField, PicklistEntry]
+lastCollected: 2026-03-12T05:14:38.776Z
+estimatedTokens: 922
+keywords: [DescribeValueTypeResult, Contains, information, that’s, useful, developers, working, declarative, metadata., ValueTypeField, PicklistEntry]
 ---
 
 # DescribeValueTypeResult
+
+> Contains information about a value type that’s useful for developers working with
+  declarative metadata.
 
 # DescribeValueTypeResult
 
@@ -55,3 +59,11 @@ This object is returned as part of the DescribeValueTypeResult and represents th
 | label | string | Display name of this item in the picklist. |
 | validFor | string |  |
 | value | string | Value of this item in the picklist. |
+
+## Related Topics
+
+- describeValueType() (atlas.en-us.api_meta.meta/api_meta/meta_describeValueType.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- deleteMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm)
+- readMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_readMetadata.htm)
+- updateMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_updateMetadata.htm)

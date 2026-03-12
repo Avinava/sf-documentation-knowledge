@@ -5,11 +5,18 @@ topic: create-service-appointment-lists-in-the-dispatcher-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.164Z
-keywords: [Create, Service, Appointment, Lists, Dispatcher, Console, See]
+lastCollected: 2026-03-12T05:14:55.398Z
+estimatedTokens: 727
+keywords: [Create, Service, Appointment, Lists, Dispatcher, Console, create, user-specific, temporary, appointment, lists, adding, Temporary, List, custom, permission, Field, managed, package., enabled]
 ---
 
 # Create Service Appointment Lists in the Dispatcher Console
+
+> You can create user-specific temporary appointment lists by adding the Create
+   Temporary Service Appointment List custom permission in Field Service managed package.
+  If the custom permission is enabled, the Field Service app creates a connection to the
+    CreateFilterEvent__e platform event channel and subscribes to related
+  messages.
 
 # Create Service Appointment Lists in the Dispatcher Console
 
@@ -38,5 +45,25 @@ This code sample creates a FSL\_\_CreateFilterEvent\_\_e platform event and load
 #### See Also
 
 -   [Salesforce Field Service: Set Custom Permissions for Field Service](https://help.salesforce.com/s/articleView?id=service.pfs_custom_permissions.htm&language=en_US "Salesforce Field Service: Set Custom Permissions for Field Service - HTML (New Window)")
-    
+
 -   [Salesforce Field Service: Create Custom Actions for the Field Service Dispatcher Console](https://help.salesforce.com/s/articleView?id=service.pfs_create_custom_actions.htm&language=en_US "Salesforce Field Service: Create Custom Actions for the Field Service Dispatcher Console - HTML (New Window)")
+
+## Code Examples
+
+```apex
+List<id> ids = new List<id>();
+for (ServiceAppointment s :[select id from ServiceAppointment limit 10]) 
+                          { ids.add(s.id);
+                          }
+
+FSL__CreateFilterEvent__e filterEvent = new FSL__CreateFilterEvent__e();
+
+filterEvent.FSL__ServiceApptIds__c = JSON.serialize(ids);
+system.debug(filterEvent.FSL__ServiceApptIds__c);
+filterEvent.FSL__FilterName__c = 'My Temporary List';
+filterEvent.FSL__Description__c = 'a temporary list that was created to demonstrate this feature';
+filterEvent.FSL__FilterCategory__c = 'GENERAL';
+filterEvent.FSL__LoadFilterImmediately__c = true;
+
+Database.SaveResult eventRunningResult = EventBus.publish(filterEvent);
+```

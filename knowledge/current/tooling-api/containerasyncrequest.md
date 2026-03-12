@@ -5,11 +5,15 @@ topic: containerasyncrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.447Z
-keywords: [ContainerAsyncRequest, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.911Z
+estimatedTokens: 885
+keywords: [ContainerAsyncRequest, Allows, compile, asynchronously, deploy, MetadataContainer, organization., Supported, SOAP, API, Calls, REST, HTTP, Special, Access, Rules, Fields, Usage]
 ---
 
 # ContainerAsyncRequest
+
+> Allows you to compile and asynchronously deploy a MetadataContainer
+			object to your organization.
 
 # ContainerAsyncRequest
 
@@ -49,3 +53,12 @@ When you deploy a ContainerAsyncRequest, you must specify whether to save the co
 If the compile succeeds, the SymbolTable field is updated on each object in the specified MetadataContainer. If the save or compile fails and a SymbolTable field cannot be updated, the field is cleared. If there is an outstanding save request, all updates, inserts, and deployments fail.
 
 To terminate a queued deployment, set the State field to Aborted.
+
+## Related Topics
+
+- DeployDetails (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_deploydetails.htm)
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- ApexClassMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm)
+- ApexTriggerMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm)
+- ApexPageMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm)
+- ApexComponentMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcomponentmember.htm)

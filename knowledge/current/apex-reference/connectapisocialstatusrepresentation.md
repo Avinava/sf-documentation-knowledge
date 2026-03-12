@@ -5,11 +5,14 @@ topic: connectapisocialstatusrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.055Z
-keywords: [ConnectApi.SocialStatusRepresentation]
+lastCollected: 2026-03-12T05:14:29.068Z
+estimatedTokens: 98
+keywords: [ConnectApi.SocialStatusRepresentation, Status, response, Webstore, Meta, Config, entity, creation.]
 ---
 
 # ConnectApi.SocialStatusRepresentation
+
+> Status response for Webstore Meta Config entity creation.
 
 # ConnectApi.SocialStatusRepresentation
 
@@ -19,3 +22,8 @@ Status response for Webstore Meta Config entity creation.
 | --- | --- | --- | --- |
 | error | ConnectApi.ErrorResponse | Detailed error message if the operation was unsuccessful. | 64.0 |
 | isSuccess | Boolean | Specifies whether the operation was successful (true) or not (false). | 64.0 |
+
+## Related Topics
+
+- ConnectApi.ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

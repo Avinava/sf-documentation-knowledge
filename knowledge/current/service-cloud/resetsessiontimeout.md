@@ -5,11 +5,17 @@ topic: resetsessiontimeout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.642Z
-keywords: [resetSessionTimeOut, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:58.358Z
+estimatedTokens: 235
+keywords: [resetSessionTimeOut, Resets, session, timeout, console, app., ensures, users, continue, working, Visualforce, pages, without, being, prompted, log, back, they, tab, component.]
 ---
 
 # resetSessionTimeOut()
+
+> Resets a session timeout for a console app. This method
+            ensures that users can continue working on Visualforce pages without being prompted to
+            log back in to the console when they return to a console tab or console component. This
+            method is only available in API version 24.0 or later.
 
 # resetSessionTimeOut()
 
@@ -42,3 +48,23 @@ To see this example in action, click the custom link on a case. For more informa
 ## Response
 
 None
+
+## Code Examples
+
+```
+sforce.console.resetSessionTimeOut()
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testResetSessionTimeOut();">
+           Click here to reset session timeout</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testResetSessionTimeOut() {
+            sforce.console.resetSessionTimeOut();
+        };
+    </script>
+</apex:page>
+```

@@ -5,11 +5,14 @@ topic: delete-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.161Z
-keywords: [Delete, Records, Note]
+lastCollected: 2026-03-12T05:14:12.104Z
+estimatedTokens: 339
+keywords: [Delete, Records, records, data, lake, table., Note]
 ---
 
 # Delete Records
+
+> Delete records from the data lake table.
 
 # Delete Records
 
@@ -62,3 +65,28 @@ Response body
 ```
 
 Returns a status code of 202 (Accepted), which indicates that the request is accepted and it gets processed asynchronously.
+
+## Code Examples
+
+```
+curl --location --request DELETE 'https://{instance_url}/api/v1/ingest/sources/{name}/{object-name}?ids=001xx000003DGb2AAG,003xx000004TmiQAAS' \
+--header 'Authorization: Bearer {access_token}'
+```
+
+```
+{
+  "ids": [
+     "001xx000003DGb2AAG"
+   ]
+}
+```
+
+```
+{
+"accepted": true
+}
+```
+
+## Related Topics
+
+- Delete operation in an Upload Job (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_upload_job_data.htm)

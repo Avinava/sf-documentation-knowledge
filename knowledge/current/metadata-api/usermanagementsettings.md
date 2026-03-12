@@ -5,11 +5,17 @@ topic: usermanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:55.083Z
-keywords: [UserManagementSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.537Z
+estimatedTokens: 2364
+keywords: [UserManagementSettings, Represents, selection, user, management, options, appear, User, Management, Settings, Setup, page., extends, Metadata, metadata, inherits, its, fullName, field., File]
 ---
 
 # UserManagementSettings
+
+> Represents a selection of user management
+            options that appear on the User Management Settings Setup page.
+        This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # UserManagementSettings
 
@@ -67,3 +73,45 @@ The following is an example package.xml manifest that references the previous de
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<UserManagementSettings xmlns="http://soap.sforce.com/2006/04/metadata" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <enableConcealPersonalInfo>false</enableConcealPersonalInfo>
+    <enableContactlessExternalIdentityUsers>false</enableContactlessExternalIdentityUsers>
+    <enableEnhancedConcealPersonalInfo>true</enableEnhancedConcealPersonalInfo>
+    <enableEnhancedPermsetMgmt>false</enableEnhancedPermsetMgmt>
+    <enableEnhancedProfileMgmt>true</enableEnhancedProfileMgmt>
+    <enableNewProfileUI>false</enableNewProfileUI>
+    <enableProfileFiltering>false</enableProfileFiltering>
+    <enableRestrictEmailDomains>true</enableRestrictEmailDomains>
+    <enableScrambleUserData>false</enableScrambleUserData>
+    <enableUserSelfDeactivate>false</enableUserSelfDeactivate>
+    <enhancedPermSetList>true</enhancedPermSetList>
+    <enhancedUserListView>true</enhancedUserListView>
+    <enhancedUserRoleListView>true</enhancedUserRoleListView>
+    <groupSummaryUIEnhancement>true</groupSummaryUIEnhancement>
+    <restrictedProfileCloning>true</restrictedProfileCloning>
+    <userAccessPoliciesEnabled>true</userAccessPoliciesEnabled>
+</UserManagementSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>UserManagement</members>
+        <name>Settings</name>
+    </types>
+    <version>53.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

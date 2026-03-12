@@ -5,11 +5,14 @@ topic: connectapigroupinformationinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.219Z
-keywords: [ConnectApi.GroupInformationInput, See]
+lastCollected: 2026-03-12T05:14:24.996Z
+estimatedTokens: 115
+keywords: [ConnectApi.GroupInformationInput, Chatter, group, information, input.]
 ---
 
 # ConnectApi.GroupInformationInput
+
+> Chatter group information input.
 
 # ConnectApi.GroupInformationInput
 
@@ -23,3 +26,8 @@ Chatter group information input.
 #### See Also
 
 -   [ConnectApi.ChatterGroupInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_chattergroupinput.htm "Chatter group input.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ChatterGroupInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_chattergroupinput.htm)

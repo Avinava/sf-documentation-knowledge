@@ -5,11 +5,15 @@ topic: upsertmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.024Z
-keywords: [upsertMetadata, Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Field, Values, String, Basic, Steps, Upserting, Metadata, Components, Sample, Code—Java, Arguments]
+lastCollected: 2026-03-12T05:14:43.421Z
+estimatedTokens: 1130
+keywords: [upsertMetadata, Creates, updates, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Field, Values, Basic, Steps, Upserting]
 ---
 
 # upsertMetadata()
+
+> Creates or updates one or more metadata components in your
+            organization synchronously.
 
 # upsertMetadata()
 
@@ -61,9 +65,9 @@ Use this process to upsert metadata components.
 
 1.  Create an array of [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") objects that correspond to the components that you want to create or update. All components must be of the same type.
 2.  Invoke upsertMetadata(), passing in the array of metadata components that you created in the previous step.
-    
+
     The upsertMetadata() call returns an array of UpsertResult objects. Each returned UpsertResult corresponds to a component that you upserted and contains information about the upsert operation—whether the operation was successful, the name of the component that was upserted, a flag indicating whether the component was created, and any errors that were returned if the operation wasn’t successful.
-    
+
 
 ## Sample Code—Java
 
@@ -80,3 +84,67 @@ Use this process to upsert metadata components.
 ## Response
 
 [UpsertResult](atlas.en-us.api_meta.meta/api_meta/meta_upsertResult.htm#meta_upsertResult "Contains information about the result of the associated upsertMetadata() call.")\[\]
+
+## Code Examples
+
+```
+UpsertResult[] = metadataConnection.upsertMetadata(Metadata[] metadata);
+```
+
+```apex
+public void upsertMetadataSample() {
+    try {
+        // Create custom object to upsert
+        CustomObject co = new CustomObject();
+        String name = "MyCustomObject";
+        co.setFullName(name + "__c");
+        co.setDeploymentStatus(DeploymentStatus.Deployed);
+        co.setDescription("Upserted by the Metadata API");
+        co.setEnableActivities(true);
+        co.setLabel(name + " Object");
+        co.setPluralLabel(co.getLabel() + "s");
+        co.setSharingModel(SharingModel.ReadWrite);
+
+        CustomField nf = new CustomField();
+        nf.setType(FieldType.Text);
+        nf.setLabel("CustomField1");
+        co.setNameField(nf);
+        
+        // Upsert the custom object
+        UpsertResult[] results = metadataConnection
+                .upsertMetadata(new Metadata[] { co });
+
+        for (UpsertResult r : results) {
+            if (r.isSuccess()) {
+                System.out.println("Success!");
+                if (r.isCreated()) {
+                    System.out.println("Created component: "
+                            + r.getFullName());
+                } else {
+                    System.out.println("Updated component: "
+                            + r.getFullName());
+                }
+            } else {
+                System.out
+                .println("Errors were encountered while upserting "
+                        + r.getFullName());
+                for (Error e : r.getErrors()) {
+                    System.out.println("Error message: " + e.getMessage());
+                    System.out.println("Status code: " + e.getStatusCode());
+                }
+            }
+        }
+    } catch (ConnectionException ce) {
+        ce.printStackTrace();
+    }
+}
+```
+
+## Related Topics
+
+- UpsertResult (atlas.en-us.api_meta.meta/api_meta/meta_upsertResult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- AllOrNoneHeader (atlas.en-us.api_meta.meta/api_meta/meta_allornoneheader.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)

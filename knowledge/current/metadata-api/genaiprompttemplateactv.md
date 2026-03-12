@@ -5,11 +5,15 @@ topic: genaiprompttemplateactv
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.971Z
-keywords: [GenAiPromptTemplateActv, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.311Z
+estimatedTokens: 640
+keywords: [GenAiPromptTemplateActv, Represents, activation, status, Salesforce-provided, prompt, template., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata]
 ---
 
 # GenAiPromptTemplateActv
+
+> Represents the activation status of a Salesforce-provided
+      prompt template.
 
 # GenAiPromptTemplateActv
 
@@ -63,3 +67,28 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPromptTemplateActv xmlns="http://soap.sforce.com/2006/04/metadata">
+    <MasterLabel> Activation Record for Prompt Template </MasterLabel>
+    <PromptTemplateDeveloperName>einstein_gpt__introductionLeadEmail
+    </PromptTemplateDeveloperName>
+    <DeveloperName>HideIntroductionLeadEmail</DeveloperName>
+    <Description>Status of template </Description>
+    <AccessLevel>BLOCKED</AccessLevel>
+</GenAiPromptTemplateActv>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>GenAiPromptTemplateActv</name>
+        <members>HideIntroductionLeadEmail.genAiPromptTemplateActivation</members>
+    </types>
+    <version>60.0</version>
+</Package>
+```

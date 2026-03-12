@@ -5,11 +5,18 @@ topic: entitlementtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.296Z
-keywords: [EntitlementTemplate, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.355Z
+estimatedTokens: 615
+keywords: [EntitlementTemplate, Represents, entitlement, template., Entitlement, templates, predefined, terms, customer, support, quickly, add, products., example, create, Web, phone, users, easily, entitlements]
 ---
 
 # EntitlementTemplate
+
+> Represents an entitlement template.
+            Entitlement templates are predefined terms of customer support that you can quickly add
+            to products. For example, you can create entitlement templates for Web or phone support
+            so that users can easily add entitlements to products offered to
+        customers.
 
 # EntitlementTemplate
 
@@ -47,3 +54,22 @@ A sample XML definition of an entitlement template is shown below.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EntitlementTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <businessHours>AlternateBusinessHours</businessHours>
+    <casesPerEntitlement>12</casesPerEntitlement>
+    <entitlementProcess>Process1</entitlementProcess>
+    <isPerIncident>true</isPerIncident>
+    <term>33</term>
+    <type>Phone Support</type>
+</EntitlementTemplate>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,16 @@ topic: apexdoc-comment-structure-and-tags
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.040Z
-keywords: [ApexDoc, Comment, Structure, Tags, Important, Basic, Format, Main, Description, Block, Inline, See]
+lastCollected: 2026-03-12T05:14:33.269Z
+estimatedTokens: 1862
+keywords: [ApexDoc, Comment, Structure, Tags, promote, consistency, parsability, comments, defined, structure, syntax., comment, consists, main, description, set, block, inline, tags, provide]
 ---
 
 # ApexDoc Comment Structure and Tags
+
+> To promote consistency and parsability, ApexDoc comments have a defined structure and
+  syntax. Each ApexDoc comment consists of a main description and a set of block and inline tags
+  that provide information about the documented code element.
 
 # ApexDoc Comment Structure and Tags
 
@@ -71,5 +76,52 @@ This table provides a comprehensive ApexDoc tag reference.
 #### See Also
 
 -   [Document Apex Constructs and Features](atlas.en-us.apexcode.meta/apexcode/apex_doc_constructs.htm "Apex has unique constructs and platform-specific features that require particular attention in documentation. Use these guidelines to document these elements with ApexDoc.")
-    
+
 -   [ApexDoc Examples](atlas.en-us.apexcode.meta/apexcode/apex_doc_examples.htm "See practical examples of ApexDoc comments applied to various Apex constructs.")
+
+## Code Examples
+
+```apex
+/**
+ * This is a simple ApexDoc comment.
+ */
+public with sharing class MyClass {
+    //...
+}
+```
+
+```
+* @author Marie Hill
+* @author Ben Stuar
+```
+
+```
+* @deprecated in 1.3.2.
+* Use {@link #newFieldName} instead.
+```
+
+```
+* @example
+ * {@code
+ * Account a;
+ * try {
+ *  a = new AccountManager().createAccount('Acme', 'Agriculture');
+ * } catch (AccountManager.AccountException caught) {
+ *   LOGGER.log(caught);
+ *   // further exception handling
+ * }
+ * }
+```
+
+```
+* @throws AccountManager.AccountException if 
+* accountName is invalid or if DML operation fails.
+```
+
+## Related Topics
+
+- Apex
+          comment syntax (atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_comments.htm)
+- other Apex comments (atlas.en-us.apexcode.meta/apexcode/langCon_apex_expressions_comments.htm)
+- Document Apex Constructs and Features (atlas.en-us.apexcode.meta/apexcode/apex_doc_constructs.htm)
+- ApexDoc Examples (atlas.en-us.apexcode.meta/apexcode/apex_doc_examples.htm)

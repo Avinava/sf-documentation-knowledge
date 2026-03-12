@@ -6,12 +6,17 @@ topic: generating-an-openapi-30-document-for-sobjects-rest-api-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.114Z
-keywords: [Generating, OpenAPI, 3.0, Document, sObjects, REST, API, Beta, Note, Supported, Editions, Covers, Enabling, Generate, View, Details, Page, Giving, Feedback]
+lastCollected: 2026-03-12T05:14:35.207Z
+estimatedTokens: 2405
+keywords: [Generating, OpenAPI, 3.0, Document, sObjects, REST, API, Beta, generate, document, opt-in, beta, feature., represents, sObject, resources, reflect, customizations, configurations., Note]
 ---
 
 # Generating an OpenAPI 3.0 Document for sObjects REST API
 		(Beta)
+
+> You can generate an OpenAPI document for sObjects REST API using this opt-in beta
+		feature. The OpenAPI document represents sObject REST API resources that reflect your
+		customizations and configurations.
 
 # Generating an OpenAPI 3.0 Document for sObjects REST API (Beta)
 
@@ -83,13 +88,13 @@ To enable this beta, follow these steps. You must have either the Modify All Dat
 
 1.  From Setup, in the Quick Find box, enter User Interface, and then select **User Interface**.
 2.  On the User Interface page, select **Enable Salesforce Platform REST API, OpenAPI Spec Generation (Beta)**.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
-    
+
     #### Note
-    
+
     Selecting this item asserts that you accept the Beta Services Terms provided at the [Agreements and Terms](https://www.salesforce.com/company/legal/agreements).
-    
+
 
 ## Generate an OpenAPI Document
 
@@ -184,3 +189,50 @@ After the OpenAPI document is generated, you can retrieve the OpenAPI document a
 To give us your feedback, log in to [Trailhead](https://trailhead.salesforce.com/ "HTML (New Window)") and then join the [OpenAPI Specs for Salesforce REST APIs Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000H1LF?tab=discussion "HTML (New Window)").
 
 Your feedback is valuable and can help us find existing problems and inspire future change. We’re looking for general impressions, improvement suggestions, bugs, and feedback about how well this OpenAPI document aligns with your OpenAPI use cases.
+
+## Code Examples
+
+```
+HTTP/1.1 202 Accepted 
+{ "results" : "/v66.0/async/specifications/oas3/NTByUjAwMDAwMDAwMDBh/results",
+"details" : "/v66.0/async/specifications/oas3/NTByUjAwMDAwMDAwMDBh"}
+```
+
+```
+HTTP/1.1 200 OK{
+  "openapi": "3.0.1",
+  "info": {
+      "title": "Lightning Platform REST API",
+      "description": "REST API provides you with programmatic access to your data in Salesforce. 
+                      The flexibility and scalability of REST API make it an excellent choice for integrating Salesforce into your applications 
+                      and for performing complex operations on a large scale. You can use REST API tools to create, manipulate, 
+                      and search data in Salesforce by sending HTTP requests to endpoints in Salesforce. 
+                      Depending on where you send requests, you access and operate on different pieces of information, called resources. 
+                      Resources include records, query results, metadata, and more. ",
+      "version": "66.0
+  },
+  "servers": [
+      ...
+  ],
+  "security": [
+      ...
+  ],
+  "paths": {
+      "/sobjects": { ... },
+      "/sobjects/{sObject}": { ... },
+      "/sobjects/{sObject}/{id}": { ... },
+      "/sobjects/{sObject}/deleted": { ... },
+      "/sobjects/{sObject}/describe": { ... },
+      "/sobjects/{sObject}/{id}/{blobField}": { ... }
+  },
+  "components": {
+      ...
+  }
+}
+```
+
+## Related Topics
+
+- Get a List of Updated Records Within a Given Timeframe (atlas.en-us.api_rest.meta/api_rest/dome_get_updated.htm)
+- sObject Get Deleted (atlas.en-us.api_rest.meta/api_rest/resources_getdeleted.htm)
+- sObject Blob Get (atlas.en-us.api_rest.meta/api_rest/resources_sobject_blob_retrieve.htm)

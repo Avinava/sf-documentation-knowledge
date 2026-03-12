@@ -5,11 +5,17 @@ topic: package2version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.399Z
-keywords: [Package2Version, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.250Z
+estimatedTokens: 2046
+keywords: [Package2Version, Represents, second-generation, package, version, Dev, Hub, org., Values, fields, except, Tag, Branch, visible, subscriber., API, 41.0, later., Supported, SOAP]
 ---
 
 # Package2Version
+
+> Represents a
+            second-generation package version in a Dev Hub org. Values for all fields except for
+                Tag and Branch are visible to the
+            subscriber. Available in API version 41.0 and later.
 
 # Package2Version
 

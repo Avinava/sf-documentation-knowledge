@@ -5,11 +5,18 @@ topic: b2c-commerce-bundles-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.680Z
-keywords: [B2C, Commerce, Bundles, Product, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:12.891Z
+estimatedTokens: 314
+keywords: [B2C, Commerce, Bundles, Product, Mapping, After, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
 ---
 
 # B2C Commerce: Bundles Product Mapping
+
+> After a data stream is deployed, the Salesforce B2C Commerce Order
+         starter data bundle automatically maps source objects from B2C Commerce to data model
+         objects (DMO)s in Data Cloud. The Bundles Product object represents products that can be
+         purchased as a group. Bundle products can contain independent inventory records for the
+         bundle and the product that make up the bundle.
 
 # B2C Commerce: Bundles Product Mapping
 

@@ -4,12 +4,19 @@ domain: metadata-api
 topic: deletemetadata
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.816Z
-keywords: [deleteMetadata, Syntax, Usage, Version, Permissions, Note, Rules, Guidelines, Basic, Steps, Deleting, Metadata, Components, Sample, Code—Java, Arguments, Response]
+docType: concept
+lastCollected: 2026-03-12T05:14:38.659Z
+estimatedTokens: 1244
+namespace: MyNS
+keywords: [deleteMetadata, Deletes, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Rules, Guidelines, Basic, Steps, Deleting, Metadata, Components, Sample, Code—Java]
 ---
 
 # deleteMetadata()
+
+> Deletes one or more metadata
+components from your organization synchronously.
+
+**Namespace:** `MyNS`
 
 # deleteMetadata()
 
@@ -57,9 +64,9 @@ Use the following process to delete metadata components:
 
 1.  Determine the metadata type of the components you want to delete and the [fullName](atlas.en-us.api_meta.meta/api_meta/metadata.htm#meta_fullname) of each component to delete. You can delete only components of the same type in a single call. The full names must match one or more full names returned by the listMetadata() call, which includes namespace prefixes. If you obtain the fullName from a package manifest file, and the component has a namespace prefix, prepend the namespace prefix to the fullName. Use this syntax: namespacePrefix\_\_ComponentName. For example, for the custom object component MyCustomObject\_\_c and the namespace MyNS, the fullName is MyNS\_\_MyCustomObject\_\_c. See [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") for more details on the [fullName](atlas.en-us.api_meta.meta/api_meta/metadata.htm#meta_fullname) field.
 2.  Invoke the deleteMetadata() call. For the first argument, pass in the name of the metadata type. For the second argument, pass in an array of full names corresponding to the components you wish to delete.
-    
+
     A DeleteResult object is returned for each component you try to delete. It contains information about whether the operation was successful, the name of the deleted component, and any errors returned if the operation wasn’t successful.
-    
+
 
 ## Sample Code—Java
 
@@ -77,3 +84,46 @@ Use the following process to delete metadata components:
 ## Response
 
 [DeleteResult](atlas.en-us.api_meta.meta/api_meta/meta_deleteResult.htm#meta_deleteResult "Contains result information for the deleteMetadata call.")\[\]
+
+## Code Examples
+
+```
+DeleteResult[] = metadataConnection.delete(string metadataType, string[] fullNames);
+```
+
+```apex
+public void deleteCustomObjectSync() {
+    try {
+        DeleteResult[] results = metadataConnection.deleteMetadata(
+                "CustomObject", new String[] { "MyCustomObject1__c",
+                        "MyCustomObject2__c" });
+        for (DeleteResult r : results) {
+            if (r.isSuccess()) {
+                System.out.println("Deleted component: " + r.getFullName());
+            } else {
+                System.out
+                        .println("Errors were encountered while deleting "
+                                + r.getFullName());
+                for (Error e : r.getErrors()) {
+                    System.out.println("Error message: " + e.getMessage());
+                    System.out.println("Status code: " + e.getStatusCode());
+                }
+            }
+        }
+    } catch (ConnectionException ce) {
+        ce.printStackTrace();
+    }
+}
+```
+
+## Related Topics
+
+- DeleteResult (atlas.en-us.api_meta.meta/api_meta/meta_deleteResult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- AllOrNoneHeader (atlas.en-us.api_meta.meta/api_meta/meta_allornoneheader.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- fullName (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- CustomMetadata (atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)

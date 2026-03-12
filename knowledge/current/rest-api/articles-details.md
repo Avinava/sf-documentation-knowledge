@@ -5,11 +5,16 @@ topic: articles-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.378Z
-keywords: [Articles, Details, Valid, channel, Values, Syntax, Example, Usage]
+lastCollected: 2026-03-12T05:14:35.579Z
+estimatedTokens: 1051
+keywords: [Articles, Details, online, article, fields, accessible, user., resource, IDs, REST, API, version, 38.0, later, URL, names, 44.0, later., Valid, channel]
 ---
 
 # Articles Details
+
+> Gets all online article fields, accessible to the user. This resource is available with
+  article IDs in REST API version 38.0 and later, and this resource is available with article URL
+  names in version 44.0 and later.
 
 # Articles Details
 
@@ -91,27 +96,27 @@ Output:
 The detailed fields of the article, if the article is online and visible to the current user.
 
 -   **Article Detail**
-    
+
     Full detail of an article, with complete metadata and layout-driven fields used for display of an article. It includes all the same properties as an [Article Summary](atlas.en-us.api_rest.meta/api_rest/resources_knowledge_support_artlist.htm#kb_rest_support_artsum_output) representation.
-    
+
     ```
-    
+
     ```
-    
+
 -   **User Summary**
-    
+
     ```
-    
+
     ```
-    
+
 -   **Article Field**
-    
+
     An individual field of article information, which is listed in an [Article Detail](#kb_rest_support_artdetail_output) in the order required by the administrator’s layout.
-    
+
     ```
-    
+
     ```
-    
+
 
 ## Example
 
@@ -128,3 +133,158 @@ Example Response Body
 ```
 
 ## Usage
+
+## Code Examples
+
+```
+{
+         "id":  Id,    // articleId,
+         "articleNumber": String,
+         "articleType": String,  // apiName of the article type, available in API v44.0 and later
+         "title":  String,
+         "urlName": String,   // available in API v44.0 and later
+         "summary":  String,
+         "url":  URL,
+         "versionNumber": Int,
+         "createdDate": Date,  // in ISO8601 format
+         "createdBy": User Summary,
+         "lastModifiedDate": Date,   // in ISO8601 format
+         "lastModifiedBy": User Summary,
+         "lastPublishedDate": Date, // in ISO8601 format
+         "layoutItems": [ Article Field, ... ],  // standard and custom fields visible to the user, sorted based on the layouts of the article type.
+         "categories": [ Data Category Groups, ... ], 
+         "appUpVoteCount": Int,
+         "cspUpVoteCount": Int,
+         "prmUpVoteCount": Int,
+         "pkbUpVoteCount": Int,
+         "appDownVoteCount": Int,
+         "cspDownVoteCount": Int,
+         "prmDownVoteCount": Int,
+         "pkbDownVoteCount": Int,
+         "allViewCount": Int,
+         "appViewCount": Int,
+         "cspViewCount": Int,
+         "prmViewCount": Int,
+         "pkbViewCount": Int,
+         "allViewScore": Double,
+         "appViewScore": Double,
+         "cspViewScore": Double,
+         "prmViewScore": Double,
+         "pkbViewScore": Double
+         }
+```
+
+```
+{
+         "id": String
+         "isActive": boolean   // true/false
+         "userName": String   // login name
+         "firstName": String
+         "lastName": String
+         "email": String
+         "url": String              // to the chatter user detail url: /services/data/vXX.X/chatter/users/{userId}, for guest user, it will return null.
+         }
+```
+
+```
+{
+         "type":  Enum,         // see the Notes
+         "name": String,        // In API v43.0 and earlier, the developer name. In API v44.0 and later, the API name.
+         "label": String,         // label
+         "value": String,  
+         }
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/support/knowledgeArticles/kA0xx000000000LCAQ
+       HTTP Headers:  
+       Content-Type: application/json; charset=UTF-8
+       Accept: application/json
+       Accept-Language: en-US
+```
+
+```
+{
+       "allViewCount" : 17,
+       "allViewScore" : 100.0,
+       "appDownVoteCount" : 0,
+       "appUpVoteCount" : 0,
+       "appViewCount" : 17,
+       "appViewScore" : 100.0,
+       "articleNumber" : "000001004",
+       "categoryGroups" : [ ],
+       "createdBy" : {
+       "email" : "user@company.com",
+       "firstName" : "Test",
+       "id" : "005xx000001SvoMAAS",
+       "isActive" : true,
+       "lastName" : "User",
+       "url" : "/services/data/v66.0/chatter/users/005xx000001SvoMAAS",
+       "userName" : "admin@salesforce.org"
+       },
+       "createdDate" : "2016-06-21T21:10:54Z",
+       "cspDownVoteCount" : 0,
+       "cspUpVoteCount" : 0,
+       "cspViewCount" : 0,
+       "cspViewScore" : 0.0,
+       "id" : "kA0xx000000000LCAQ",
+       "lastModifiedBy" : {
+       "email" : "user@company.com",
+       "firstName" : "Test",
+       "id" : "005xx000001SvoMAAS",
+       "isActive" : true,
+       "lastName" : "User",
+       "url" : "/services/data/v66.0/chatter/users/005xx000001SvoMAAS",
+       "userName" : "admin@salesforce.org"
+       },
+       "lastModifiedDate" : "2016-06-21T21:11:02Z",
+       "lastPublishedDate" : "2016-06-21T21:11:02Z",
+       "layoutItems" : [ {
+       "label" : "Out of Date",
+       "name" : "IsOutOfDate",
+       "type" : "CHECKBOX",
+       "value" : "false"
+       }, {
+       "label" : "sample",
+       "name" : "sample",
+       "type" : "PICK_LIST",
+       "value" : null
+       }, {
+       "label" : "Language",
+       "name" : "Language",
+       "type" : "PICK_LIST",
+       "value" : "en_US"
+       }, {
+       "label" : "MyNumber",
+       "name" : "MyNumber",
+       "type" : "NUMBER",
+       "value" : null
+       }, {
+       "label" : "My File",
+       "name" : "My_File",
+       "type" : "FILE",
+       "value" : null
+       } ],
+       "pkbDownVoteCount" : 0,
+       "pkbUpVoteCount" : 0,
+       "pkbViewCount" : 0,
+       "pkbViewScore" : 0.0,
+       "prmDownVoteCount" : 0,
+       "prmUpVoteCount" : 0,
+       "prmViewCount" : 0,
+       "prmViewScore" : 0.0,
+       "summary" : "The number of characters required for complete coverage of all these languages' needs cannot fit in the 256-character code space of 8-bit character encodings, requiring at least a 16-bit fixed width encoding or multi-byte variable-length encodings. \r
+\r
+Although CJK encodings have common character sets, the encodings often used to represent them have been developed separately by different East Asian governments and software companies, and are mutually incompatible. Unicode has attempted, with some controversy, to unify the character sets in a process known as Han unification.\r
+\r
+CJK character encodings should consist minimally of Han characters p",
+       "title" : "Test Images",
+       "url" : "/services/data/v66.0/support/knowledgeArticles/kA0xx000000000LCAQ",
+       "versionNumber" : 7
+       }
+```
+
+## Related Topics
+
+- Article Summary (atlas.en-us.api_rest.meta/api_rest/resources_knowledge_support_artlist.htm)
+- Data Category Groups (atlas.en-us.api_rest.meta/api_rest/resources_knowledge_support_dcgroups.htm)

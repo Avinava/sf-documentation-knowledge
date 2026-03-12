@@ -5,11 +5,16 @@ topic: formulaoperator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.071Z
-keywords: [FormulaOperator, Note, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Query, Examples]
+lastCollected: 2026-03-12T05:14:45.787Z
+estimatedTokens: 313
+keywords: [FormulaOperator, Represents, operator, used, building, formula, including, examples, uses., Tooling, API, version, 39.0, later., Note, Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # FormulaOperator
+
+> Represents an operator used when building a formula,
+            including examples and uses. This object is available in Tooling API version 39.0
+        and later.
 
 # FormulaOperator
 
@@ -50,4 +55,16 @@ To get formula operators by ID:
 
 ```
 
+```
+
+## Code Examples
+
+```
+req.setEndpoint('http://instance.salesforce.com/services/data/v66.0/tooling/query?q=SELECT+name,+label,+value+FROM+FormulaOperator );
+req.setMethod('GET');
+```
+
+```
+req.setEndpoint('http://instance.salesforce.com/services/data/v66.0/tooling/query?q=SELECT+name,+label,+value+FROM+FormulaOperator+WHERE+durableId='PLUS' );
+req.setMethod('GET');
 ```

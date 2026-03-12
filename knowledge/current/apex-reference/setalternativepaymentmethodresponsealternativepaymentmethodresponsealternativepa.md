@@ -5,11 +5,15 @@ topic: setalternativepaymentmethodresponsealternativepaymentmethodresponsealtern
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.648Z
-keywords: [setAlternativePaymentMethodResponse, AlternativePaymentMethodResponsealternativePaymentMethod, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.113Z
+estimatedTokens: 121
+keywords: [setAlternativePaymentMethodResponse, AlternativePaymentMethodResponsealternativePaymentMethod, details, gateway, authorized, alternative, payment, method.]
 ---
 
 # setAlternativePaymentMethodResponse(AlternativePaymentMethodResponsealternativePaymentMethod)
+
+> Sets details from the gateway about the authorized alternative
+      payment method.
 
 # setAlternativePaymentMethodResponse(AlternativePaymentMethodResponsealternativePaymentMethod)
 

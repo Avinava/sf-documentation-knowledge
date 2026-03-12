@@ -5,11 +5,16 @@ topic: focusprimarytabbyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.933Z
-keywords: [focusPrimaryTabById, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:57.325Z
+estimatedTokens: 279
+keywords: [focusPrimaryTabById, Focuses, browser, primary, tab, already, open, specified, ID., only, API, version, 22.0, later., Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
 ---
 
 # focusPrimaryTabById()
+
+> Focuses the browser on a primary tab that is already
+            open with the specified ID. This
+                method is only available in API version 22.0 or later.
 
 # focusPrimaryTabById()
 
@@ -47,3 +52,38 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if going to the primary tab was successful; false if going to the primary tab wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.focusPrimaryTabById(id:String, (optional)callback:Function)
+```
+
+```
+<apex:page standardController="Case">
+
+     <A HREF="#" onClick="testFocusPrimaryTabById();return false">
+         Click here to go to an open primary tab by id</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testFocusPrimaryTabById() {
+            //Get the value for 'scc-pt-0' from the openPrimaryTab method
+            //This value is for example purposes only
+            var primaryTabId = 'scc-pt-0';
+            sforce.console.focusPrimaryTabById(primaryTabId, focusSuccess);
+        }
+        
+        var focusSuccess = function focusSuccess(result) {
+            //Report whether going to the open primary tab was successful
+            if (result.success == true) {
+                alert('Going to the primary tab was successful');
+            } else {
+                alert('Going to the primary tab was not successful');
+            }
+        };
+        
+  </script>
+
+</apex:page>
+```

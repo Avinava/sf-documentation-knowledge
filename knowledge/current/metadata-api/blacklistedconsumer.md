@@ -5,11 +5,15 @@ topic: blacklistedconsumer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.806Z
-keywords: [BlacklistedConsumer, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Usage]
+lastCollected: 2026-03-12T05:14:37.263Z
+estimatedTokens: 627
+keywords: [BlacklistedConsumer, Represents, connected, app, inaccessible, Salesforce, org’s, users., Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Usage]
 ---
 
 # BlacklistedConsumer
+
+> Represents a connected app that is inaccessible to your Salesforce
+      org’s users.
 
 # BlacklistedConsumer
 
@@ -57,3 +61,29 @@ The following is an example package.xml that references the previous definition.
 ## Usage
 
 Use this type judiciously for connected apps that you want to make inaccessible to your org’s users. Blocking an app ends all current user sessions and prevents future sessions. To block malicious attempts to access your org’s data, we recommend using API Access Control instead. This feature restricts users from accessing your Salesforce APIs unless they are pre-authorized through an approved connected app.
+
+## Code Examples
+
+```
+<BlacklistedConsumer xmlns="http://soap.sforce.com/2006/04/metadata">
+    <consumerKey>testConsumerKey</consumerKey>
+    <consumerName>testName</consumerName>
+    <blockedByApiWhitelisting>false</blockedByApiWhitelisting>
+    <masterLabel>myTest</masterLabel>
+</BlacklistedConsumer>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>BlacklistedConsumer</name>
+    </types>
+    <version>49.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

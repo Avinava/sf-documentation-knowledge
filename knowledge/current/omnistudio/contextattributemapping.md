@@ -5,11 +5,16 @@ topic: contextattributemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.384Z
-keywords: [ContextAttributeMapping, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.649Z
+estimatedTokens: 467
+keywords: [ContextAttributeMapping, Represents, relationship, between, attribute, defined, context, values, related, objects., API, version, 59.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ContextAttributeMapping
+
+> Represents the relationship between the attribute defined in the context and
+         the values in the related objects. This object is available in API version 59.0 and
+      later.
 
 # ContextAttributeMapping
 

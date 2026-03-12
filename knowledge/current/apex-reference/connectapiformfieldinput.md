@@ -5,11 +5,14 @@ topic: connectapiformfieldinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.196Z
-keywords: [ConnectApi.FormFieldInput, See]
+lastCollected: 2026-03-12T05:14:24.959Z
+estimatedTokens: 135
+keywords: [ConnectApi.FormFieldInput, Marketing, integration, form, field.]
 ---
 
 # ConnectApi.FormFieldInput
+
+> Marketing integration form field.
 
 # ConnectApi.FormFieldInput
 
@@ -23,3 +26,9 @@ Marketing integration form field.
 #### See Also
 
 -   [ConnectApi.FormInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_form.htm "Marketing integration form.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​FormFieldType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.FormInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_form.htm)

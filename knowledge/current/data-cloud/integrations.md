@@ -5,11 +5,16 @@ topic: integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.367Z
-keywords: [Integrations, Example]
+lastCollected: 2026-03-12T05:14:12.357Z
+estimatedTokens: 672
+keywords: [Integrations, Salesforce, Interactions, SDK, features, built-in, CustomEvents, bind, listeners, events, specific, Web, SDK., Data, pass, detail, event, passed, listener’s, callback]
 ---
 
 # Integrations
+
+> The Salesforce Interactions SDK features built-in CustomEvents that you can use to bind
+    listeners to events that are specific to the Web SDK. Data that these events pass are in the
+    detail properties of the event object passed to a listener’s callback function.
 
 # Integrations
 
@@ -40,3 +45,65 @@ The Salesforce Interactions SDK built-in custom events.
 ```
 
 ```
+
+## Code Examples
+
+```
+SalesforceInteractions.CustomEvents = {
+    OnBeforeEventSend: "interactions:onBeforeEventSend",
+    OnClearPersistedIdentities: "interactions:onClearPersistedIdentities",
+    OnConsentRevoke: "interactions:onConsentRevoke",
+    OnEventSend: "interactions:onEventSend",
+    OnException: "interactions:onException",
+    OnInit: "interactions:onInit",
+    OnInitSitemap: "interactions:onInitSitemap",
+    OnPageMatchStatusUpdated: "interactions:onPageMatchStatusUpdated",
+    OnResetAnonymousId: "interactions:onResetAnonymousId",
+    OnSetAnonymousId: "interactions:onSetAnonymousId",
+    OnShutDown: "interactions:onShutDown"
+}
+```
+
+```
+{
+  error: Error,
+  context: string
+}
+```
+
+```apex
+{
+    currentKey: string,
+    global: GlobalConfig,
+    pageTypeDefault?: DefaultPageConfig
+    pageTypes: pageTypeConfig[],
+    settings: object
+}
+```
+
+```
+[{
+    pageName: string;
+    status: MatchStatus;
+    startTime?: number;
+    endTime?: number;
+    _reject?: any;
+}]
+```
+
+```
+document.addEventListener('salesforce:onEventSend', (customEvent) => {
+    console.log('On Event Send: ', customEvent.detail)
+});
+
+SalesforceInteractions.sendEvent({
+    interaction: {
+        name: 'integration_hook_test'
+    }
+})
+```
+
+## Related Topics
+
+- event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_event_structure.htm)
+- consent (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_consent_data.htm)

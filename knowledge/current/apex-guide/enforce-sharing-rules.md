@@ -5,11 +5,19 @@ topic: enforce-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.571Z
-keywords: [Enforce, Sharing, Rules, Note, Warning, See]
+lastCollected: 2026-03-12T05:14:33.979Z
+estimatedTokens: 923
+keywords: [Enforce, Sharing, Rules, Apex, generally, runs, system, context, current, user’s, permissions, field-level, security, aren’t, taken, account, during, code, execution., sharing]
 ---
 
 # Enforce Sharing Rules
+
+> Apex generally runs in system context, so the current user’s permissions and
+    field-level security aren’t taken into account during code execution. You can use sharing rules
+    to extend a user’s access to specific records, and then enforce sharing rules by using the
+      with sharing keyword on a class declaration. If you
+    declare a class with the without sharing keyword, then
+    sharing rules aren’t enforced.
 
 # Enforce Sharing Rules
 
@@ -51,5 +59,68 @@ Enforcing the current user's sharing rules can impact:
 #### See Also
 
 -   [Use the with sharing, without sharing, and inherited sharing Keywords](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm "Use the with sharing or without sharing keywords on a class to specify whether sharing rules must be enforced. Use the inherited sharing keyword on a class to run the class in the sharing mode of the class that called it.")
-    
+
 -   [*Salesforce Help*: Sharing Rules](https://help.salesforce.com/s/articleView?id=platform.security_about_sharing_rules.htm&type=5&language=en_US)
+
+## Code Examples
+
+```apex
+public with sharing class CWith {
+  // All code in this class operates with enforced sharing rules.
+
+  Account a = [SELECT . . . ];
+
+  public static void m() { . . . }
+  
+  static {
+    . . .
+  }
+
+  {
+    . . .
+  }
+
+  public void c() {
+    . . .
+  } 
+}
+
+public without sharing class CWithout {
+  // All code in this class ignores sharing rules and operates 
+  // as if the context user has the Modify All Data permission.
+  Account a = [SELECT . . . ];
+  . . .
+
+  public static void m() {  
+     . . . 
+
+    // This call into CWith operates with enforced sharing rules
+    // for the context user. When the call finishes, the code execution 
+    // returns to without sharing mode.
+    CWith.m();
+  }
+
+
+  public class CInner {
+    // All code in this class executes with the same sharing context
+    // as the code that calls it. 
+    // Inner classes are separate from outer classes.
+    . . .
+
+    // Again, this call into CWith operates with enforced sharing rules
+    // for the context user, regardless of the class that initially called this inner class.
+    // When the call finishes, the code execution returns to the sharing mode that was used to call this inner class.
+    CWith.m();
+  }
+
+  public class CInnerWithOut extends CWithout {
+    // All code in this class ignores sharing rules because
+    // this class extends a parent class that ignores sharing rules.
+  }
+}
+```
+
+## Related Topics
+
+- Anonymous Blocks (atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm)
+- Use the with sharing, without sharing, and inherited sharing Keywords (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)

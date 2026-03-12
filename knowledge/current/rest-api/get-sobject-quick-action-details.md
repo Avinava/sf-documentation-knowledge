@@ -5,11 +5,15 @@ topic: get-sobject-quick-action-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.696Z
-keywords: [Get, sObject, Quick, Action, Details, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.045Z
+estimatedTokens: 181
+keywords: [Get, sObject, Quick, Action, Details, specific, action’s, descriptive, detail., resource, REST, API, version, 28.0, later., Syntax, Example]
 ---
 
 # Get sObject Quick Action Details
+
+> Returns a specific action’s descriptive detail. This resource is available in REST API
+  version 28.0 and later.
 
 # Get sObject Quick Action Details
 
@@ -46,3 +50,13 @@ Example Request
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/quickActions/CreateContact/describe/ -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_quickactions.htm)

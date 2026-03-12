@@ -5,11 +5,15 @@ topic: serviceterritory-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.141Z
-keywords: [ServiceTerritory, Custom, Fields, Supported, Calls, Special, Access, Rules, Internal, See]
+lastCollected: 2026-03-12T05:14:55.366Z
+estimatedTokens: 793
+keywords: [ServiceTerritory, Custom, Fields, fields, associated, geographic, functional, region, which, field, service, work, performed, Field, Service., Supported, Calls, Special, Access, Rules]
 ---
 
 # ServiceTerritory Custom Fields
+
+> Custom fields associated with a geographic or functional region in which
+         field service work can be performed in Field Service.
 
 # ServiceTerritory Custom Fields
 
@@ -45,5 +49,5 @@ These internal fields are used by the Field Service managed package for Street L
 #### See Also
 
 -   [Salesforce Object Reference: ServiceTerritory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_serviceterritory.htm "Salesforce Object Reference: ServiceTerritory - HTML (New Window)")
-    
+
 -   [Salesforce Help: Drip Feed Service Appointments](https://help.salesforce.com/articleView?id=service.pfs_dispatch_drip_feed.htm&type=5&language=en_US "Salesforce Help: Drip Feed Service Appointments - HTML (New Window)")

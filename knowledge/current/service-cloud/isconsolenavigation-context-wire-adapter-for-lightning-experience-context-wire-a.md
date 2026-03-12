@@ -6,12 +6,16 @@ topic: isconsolenavigation-context-wire-adapter-for-lightning-experience-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.444Z
-keywords: [IsConsoleNavigation, Context, Wire, Adapter, Lightning, Experience, LWC, Sample, Code, Response, See]
+lastCollected: 2026-03-12T05:14:58.056Z
+estimatedTokens: 355
+keywords: [IsConsoleNavigation, Context, Wire, Adapter, Lightning, Experience, Determines, whether, app, it’s, used, within, uses, console, navigation., wire, adapter, Web, Components, LWC]
 ---
 
 # IsConsoleNavigation Context Wire Adapter for Lightning Experience Context
             Wire Adapter for Lightning Experience
+
+> Determines whether the app it’s used within uses console navigation. This wire
+        adapter is available for Lightning Web Components (LWC) only.
 
 # IsConsoleNavigation Context Wire Adapter for Lightning Experience Context Wire Adapter for Lightning Experience
 
@@ -38,3 +42,28 @@ If the current app uses console navigation, this method returns true, or false o
 #### See Also
 
 -   [*LWC Dev Guide*: Understand the Wire Service](https://developer.salesforce.com/docs/platform/lwc/guide/data-wire-service-about.html "LWC Dev Guide: Understand the Wire Service - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { IsConsoleNavigation, getFocusedTabInfo } from 'lightning/platformWorkspaceApi';
+
+export class ConsoleNavExample extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async handleFocusTab() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+
+        const { tabId } = await getFocusedTabInfo();
+        // do something with the tabId
+        });
+    }
+}
+```
+
+## Related Topics
+
+- closeTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_closeTab.htm)

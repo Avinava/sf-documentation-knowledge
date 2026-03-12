@@ -5,11 +5,18 @@ topic: livechatbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.378Z
-keywords: [LiveChatButton, File, Suffix, Directory, Location, Version, Fields, LiveChatButtonSkills, LiveChatButtonDeployments, Declarative, Metadata, Sample, Definition, Note, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.933Z
+estimatedTokens: 2079
+keywords: [LiveChatButton, Represents, Chat, deployment’s, settings, button, customers, click, chat, agent, window, such, label, appears, pre-chat, form, before, begins., extends, Metadata]
 ---
 
 # LiveChatButton
+
+> Represents a Chat deployment’s settings for
+            the button that customers click to chat with an agent and the chat window, such as the
+            label that appears on the button and the pre-chat form that appears before a chat
+            begins. This type extends the Metadata metadata type and inherits its 
+        fullName field.
 
 # LiveChatButton
 
@@ -103,3 +110,34 @@ If you update your chat button through the Metadata API, be sure to update all W
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deployments/>
+    <enableQueue>false</enableQueue>
+    <isActive>true</isActive>
+    <label>CustomerSupportButton</label>
+    <optionsCustomRoutingIsEnabled>false</optionsCustomRoutingIsEnabled>
+    <optionsHasChasitorIdleTimeout>false</optionsHasChasitorIdleTimeout>
+    <optionsHasInviteAfterAccept>false</optionsHasInviteAfterAccept>
+    <optionsHasInviteAfterReject>false</optionsHasInviteAfterReject>
+    <optionsHasRerouteDeclinedRequest>false</optionsHasRerouteDeclinedRequest>
+    <optionsIsAutoAccept>false</optionsIsAutoAccept>
+    <optionsIsInviteAutoRemove>false</optionsIsInviteAutoRemove>
+    <postChatUrl>https://help.salesforce.com</postChatUrl>
+    <routingType>Choice</routingType>
+    <skills>
+        <skill>Chat</skill>
+    </skills>
+    <type>Standard</type>
+</LiveChatButton>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Language (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

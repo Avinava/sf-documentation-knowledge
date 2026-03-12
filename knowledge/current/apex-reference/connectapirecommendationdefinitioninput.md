@@ -5,11 +5,14 @@ topic: connectapirecommendationdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.507Z
-keywords: [ConnectApi.RecommendationDefinitionInput, See]
+lastCollected: 2026-03-12T05:14:25.452Z
+estimatedTokens: 340
+keywords: [ConnectApi.RecommendationDefinitionInput, custom, recommendation, definition.]
 ---
 
 # ConnectApi.RecommendationDefinitionInput
+
+> A custom recommendation definition.
 
 # ConnectApi.RecommendationDefinitionInput
 
@@ -26,3 +29,8 @@ A custom recommendation definition.
 #### See Also
 
 -   [createRecommendationDefinition(communityId, recommendationDefinition)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm#apex_ConnectAPI_Recommendations_createRecommendationDefinition_2 "Create a custom recommendation definition.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createRecommendationDefinition(communityId, recommendationDefinition) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Recommendations_static_methods.htm)

@@ -5,11 +5,17 @@ topic: configuration-management-database-graphql-api-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:17.657Z
-keywords: [Configuration, Management, Database, GraphQL, API, POST, Authorization, CMDB, Endpoint, Types, Attributes, Operation, types, See]
+lastCollected: 2026-03-12T05:14:15.146Z
+estimatedTokens: 2040
+keywords: [Configuration, Management, Database, GraphQL, API, POST, Access, manage, configuration, items, Agentforce, Service, CMDB, Execute, operations, Create, Read, Update, assets., query]
 ---
 
 # Configuration Management Database GraphQL API (POST)
+
+> Access and manage configuration items (CI) in the Agentforce IT
+      Service Configuration Management Database (CMDB). Execute operations Create, Read, and Update
+      on IT assets. Use this API to query, search, and manage Configuration Items
+    (CIs).
 
 # Configuration Management Database GraphQL API (POST)
 
@@ -95,7 +101,35 @@ Updates either partial or all attributes of an existing configuration item speci
 #### See Also
 
 -   [GraphQL API Developer Guide](https://developer.salesforce.com/docs/platform/graphql/references/graphql?meta=Summary "GraphQL API Developer Guide - HTML (New Window)")
-    
+
 -   [Get Started with GraphQL API](https://developer.salesforce.com/docs/platform/graphql/guide/graphql-about.html "Get Started with GraphQL API - HTML (New Window)")
-    
+
 -   [Agentforce IT Service Help](https://help.salesforce.com/s/articleView?id=service.it_srvcs_parent.htm&language=en_US "Agentforce IT Service Help - HTML (New Window)")
+
+## Code Examples
+
+```
+https://api.salesforce.com/service/itsm/v1/cmdb/graphql
+```
+
+```
+curl --location 'https://api.salesforce.com/service/itsm/v1/cmdb/graphql' \
+  --header 'Content-Type: application/json' \
+  --header 'Authorization: Bearer <Bearer_Token>' \
+  --data '{
+    "query": "query CiById { ciById(id: "100") { SD_Ac SD_IpAd SD_OpSy SD_SeNu SD_St createdOn id lastModifiedOn } }"
+    }'
+```
+
+## Related Topics
+
+- Authorization: Integration User (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/graphql_api_authentication.htm)
+- Authorization: User Sign-In (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/graphql_api_authentication_user_interactive_oauth.htm)
+- CnfgItemTypeDef (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/tooling_api_objects_cnfgitemtypedef.htm)
+- CnfgItemAttrDef (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/tooling_api_objects_cnfgitemattrdef.htm)
+- CnfgMgmtRelationTypeDef (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/tooling_api_objects_cnfgmgmtrelationtypedef.htm)
+- Query Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_cibyid.htm)
+- Search Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_searchCI.htm)
+- Upsert Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCI.htm)
+- Upsert Configuration Item Relationship (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCIRelationship.htm)
+- Get Status of Operation (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm)

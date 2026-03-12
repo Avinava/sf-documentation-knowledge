@@ -5,11 +5,14 @@ topic: connectapicdpcalculatedinsightinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.912Z
-keywords: [ConnectApi.CdpCalculatedInsightInput]
+lastCollected: 2026-03-12T05:14:24.529Z
+estimatedTokens: 373
+keywords: [ConnectApi.CdpCalculatedInsightInput, Input, representation, calculated, insight.]
 ---
 
 # ConnectApi.CdpCalculatedInsightInput
+
+> Input representation for a calculated insight.
 
 # ConnectApi.CdpCalculatedInsightInput
 
@@ -26,3 +29,9 @@ Input representation for a calculated insight.
 | draft | Boolean | Specifies whether to save the calculated insight as draft (true) or not (false). | Optional | 57.0 |
 | expression | String | Calculated insight ANSI SQL expression. | Required for creating a calculated insightOptional for updating a calculated insight | 57.0 |
 | packagedCalculated​InsightApiName | String | API name of the packaged calculated insight. | Optional | 57.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CalculatedInsight​DefinitionTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

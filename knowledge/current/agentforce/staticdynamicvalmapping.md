@@ -5,11 +5,16 @@ topic: staticdynamicvalmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:18.024Z
-keywords: [StaticDynamicValMapping, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.619Z
+estimatedTokens: 647
+keywords: [StaticDynamicValMapping, Represents, mapping, configuration, between, values, dynamic, picklist, source, target, object., API, version, 65.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # StaticDynamicValMapping
+
+> Represents the mapping configuration between values of a dynamic picklist on
+         a source object to the values of a static picklist on a target object. This object is
+      available in API version 65.0 and later.
 
 # StaticDynamicValMapping
 

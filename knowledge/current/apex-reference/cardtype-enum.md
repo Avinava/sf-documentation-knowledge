@@ -5,11 +5,14 @@ topic: cardtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.463Z
-keywords: [CardType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.609Z
+estimatedTokens: 93
+keywords: [CardType, Specifies, credit, card, issuer., Values]
 ---
 
 # CardType Enum
+
+> Specifies the credit card issuer.
 
 # CardType Enum
 

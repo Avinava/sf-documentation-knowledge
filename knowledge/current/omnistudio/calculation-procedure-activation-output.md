@@ -5,11 +5,15 @@ topic: calculation-procedure-activation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.093Z
-keywords: [Calculation, Procedure, Activation, Output, Note]
+lastCollected: 2026-03-12T05:14:49.637Z
+estimatedTokens: 250
+keywords: [Calculation, Procedure, Activation, Output, representation, calculation, procedure, version, record, activation., Note]
 ---
 
 # Calculation Procedure Activation Output
+
+> Output representation of the calculation procedure version record
+      activation.
 
 # Calculation Procedure Activation Output
 
@@ -33,3 +37,14 @@ JSON Response
 | isSuccess | Boolean | Indicates whether the request is successful. | Small, 53.0 | 53.0 |
 | message | String | The request response message. | Small, 53.0 | 53.0 |
 | versionId | String | The ID of the activated calculation procedure version record. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "code":"200",
+   "isSuccess":true,
+   "message":"Expression Set Version Activated",
+   "versionId":"0k1xx00000000KzAAI"
+}
+```

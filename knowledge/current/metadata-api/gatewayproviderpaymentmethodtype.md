@@ -5,11 +5,17 @@ topic: gatewayproviderpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.855Z
-keywords: [GatewayProviderPaymentMethodType, Important, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:40.189Z
+estimatedTokens: 622
+keywords: [GatewayProviderPaymentMethodType, Represents, entity, allows, integrators, payment, providers, choose, active, receive, order's, data, rather, allowing, Salesforce, Order, Management, platform, select, default]
 ---
 
 # GatewayProviderPaymentMethodType
+
+> Represents an entity that allows integrators and payment
+      providers to choose an active payment to receive an order's payment data rather than allowing
+      the Salesforce Order Management platform to select a default payment method. This object
+    is available in API version 51 and later.
 
 # GatewayProviderPaymentMethodType
 
@@ -50,4 +56,28 @@ The following is an example package.xml that references the previous definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<GatewayProviderPaymentMethodType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <gtwyProviderPaymentMethodType>Klarna</gtwyProviderPaymentMethodType>
+    <masterLabel>Test</masterLabel>
+    <paymentGatewayProvider>adyen__Adyen</paymentGatewayProvider>
+    <paymentMethodType>AlternativePaymentMethod</paymentMethodType>
+    <recordType>AlternativePaymentMethod.Klarna</recordType>
+</GatewayProviderPaymentMethodType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>GatewayProviderPaymentMethodType</name>
+    </types>
+    <version>51.0</version>
+</Package>
 ```

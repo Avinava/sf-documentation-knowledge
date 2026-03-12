@@ -5,11 +5,16 @@ topic: securitysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.578Z
-keywords: [SecuritySettings, File, Suffix, Directory, Location, Version, Fields, NetworkAccess, IpRange, PasswordPolicies, SessionSettings, SingleSignOnSettings, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.718Z
+estimatedTokens: 8672
+keywords: [SecuritySettings, Represents, org’s, security, settings., example, settings, define, trusted, ranges, network, access, password, login, requirements, session, expiration, single, sign-on, File]
 ---
 
 # SecuritySettings
+
+> Represents an org’s security settings. For
+            example, settings define trusted IP ranges for network access, password and login
+            requirements, session expiration, and single sign-on settings.
 
 # SecuritySettings
 
@@ -182,3 +187,107 @@ The following is an example package.xml manifest that references the previous de
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SecuritySettings xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <canUsersGrantLoginAccess>true</canUsersGrantLoginAccess>
+    <enableAdminLoginAsAnyUser xsi:nil="true"/>
+    <enableAuditFieldsInactiveOwner xsi:nil="true"/>
+    <enableAuraSecureEvalPref xsi:nil="true"/>
+    <enableCoopHeader>true</enableCoopHeader>
+    <enableCoepHeader>false</enableCoepHeader>
+    <enableCrossOrgRedirects>false</enableCrossOrgRedirects>
+    <enablePermissionsPolicy>true</enablePermissionsPolicy>
+    <grantCameraAccess>TrustedUrls</grantCameraAccess>
+    <grantMicrophoneAccess>TrustedUrls</grantMicrophoneAccess>
+    <networkAccess/>
+    <passwordPolicies>
+        <complexity>NoRestriction</complexity>
+        <expiration>Never</expiration>
+        <historyRestriction>0</historyRestriction>
+        <lockoutInterval>FifteenMinutes</lockoutInterval>
+        <maxLoginAttempts>TenAttempts</maxLoginAttempts>
+        <minimumPasswordLength>5</minimumPasswordLength>
+        <minimumPasswordLifetime>false</minimumPasswordLifetime>
+        <obscureSecretAnswer>false</obscureSecretAnswer>
+        <questionRestriction>DoesNotContainPassword</questionRestriction>
+    </passwordPolicies>
+    <redirectBlockModeEnabled>false</redirectBlockModeEnabled>
+    <sendCspForUncommonClients>false</sendCspForUncommonClients>
+    <sessionSettings>
+        <allowUserAuthenticationByCertificate>false</allowUserAuthenticationByCertificate>
+        <disableTimeoutWarning>false</disableTimeoutWarning>
+        <enableBuiltInAuthenticator>false</enableBuiltInAuthenticator>
+        <enableCSPOnEmail>true</enableCSPOnEmail>
+        <enableCSRFOnGet>true</enableCSRFOnGet>
+        <enableCSRFOnPost>true</enableCSRFOnPost>
+        <enableCacheAndAutocomplete>true</enableCacheAndAutocomplete>
+        <enableClickjackNonsetupSFDC>true</enableClickjackNonsetupSFDC>
+        <enableClickjackNonsetupUser>false</enableClickjackNonsetupUser>
+        <enableClickjackNonsetupUserHeaderless>false</enableClickjackNonsetupUserHeaderless>
+        <enableClickjackSetup>true</enableClickjackSetup>
+        <enableContentSniffingProtection>true</enableContentSniffingProtection>
+        <enableLightningLogin>true</enableLightningLogin>
+        <enableLightningLoginOnlyWithUserPerm>false</enableLightningLoginOnlyWithUserPerm>
+        <useLocalStorageForLogoutUrl>false</useLocalStorageForLogoutUrl>
+        <enableOauthCorsPolicy>false</enableOauthCorsPolicy>
+        <enablePostForSessions>false</enablePostForSessions>
+        <enableSMSIdentity>true</enableSMSIdentity>
+        <enableU2F>false</enableU2F>
+        <enforceIpRangesEveryRequest>false</enforceIpRangesEveryRequest>
+        <enforceUserDeviceRevoked>false</enforceUserDeviceRevoked>
+        <forceLogoutOnSessionTimeout>true</forceLogoutOnSessionTimeout>
+        <forceRelogin>true</forceRelogin>
+        <hasRetainedLoginHints>false</hasRetainedLoginHints>
+        <hasUserSwitching>true</hasUserSwitching>
+        <hstsOnForcecomSites>false</hstsOnForcecomSites>
+        <identityConfirmationOnEmailChange>true</identityConfirmationOnEmailChange>
+        <identityConfirmationOnTwoFactorRegistrationEnabled>true</identityConfirmationOnTwoFactorRegistrationEnabled>
+        <lockSessionsToDomain>true</lockSessionsToDomain>
+        <lockSessionsToIp>false</lockSessionsToIp>
+        <lockerServiceAPIVersion>56.0</lockerServiceAPIVersion>
+        <lockerServiceCSP>true</lockerServiceCSP>
+        <lockerServiceNext>true</lockerServiceNext>
+        <logoutURL>https://mycompany.com</logoutUrl>
+        <redirectionWarning>true</redirectionWarning>
+        <referrerPolicy>true</referrerPolicy>
+        <referrerPolicyDirective>strict-origin-when-cross-origin</referrerPolicyDirective>        <requireHttps>false</requireHttps>
+        <sessionTimeout>TwoHours</sessionTimeout>
+        <untrustedRedirect>WithUserPermission</untrustedRedirect>
+        <useLocalStorageForLogoutUrl>true</useLocalStorageForLogoutUrl>
+        <welcomeEmailTemplateId>X000000000000</welcomeEmailTemplateId>
+    </sessionSettings>
+    <singleSignOnSettings>
+        <enableCaseInsensitiveFederationID>false</enableCaseInsensitiveFederationID>
+        <enableForceDelegatedCallout>false</enableForceDelegatedCallout>
+        <enableMultipleSamlConfigs>true</enableMultipleSamlConfigs>
+        <enableSamlJitProvisioning>false</enableSamlJitProvisioning>
+        <enableSamlLogin>false</enableSamlLogin>
+        <isLoginWithSalesforceCredentialsDisabled>true</isLoginWithSalesforceCredentialsDisabled>
+    </singleSignOnSettings>
+</SecuritySettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <version>65.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- RedirectWhitelistUrl (atlas.en-us.api_meta.meta/api_meta/meta_redirectwhitelisturl.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- CspTrustedSite (atlas.en-us.api_meta.meta/api_meta/meta_csptrustedsite.htm)
+- Deploying and Retrieving Metadata with
+                    the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,14 @@ topic: connectapibusobjinsightsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.052Z
-keywords: [ConnectApi.BusObjInsightsOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.228Z
+estimatedTokens: 378
+keywords: [ConnectApi.BusObjInsightsOutputRepresentation, Insights, related, business, objective, goal.]
 ---
 
 # ConnectApi.BusObjInsightsOutputRepresentation
+
+> Insights related to a business objective, or goal.
 
 # ConnectApi.BusObjInsightsOutputRepresentation
 
@@ -27,3 +30,12 @@ Insights related to a business objective, or goal.
 | targetCompletionDate | Datetime | Target date for completion of the goal. | 62.0 |
 | targetValue | Double | Target value for the goal. | 62.0 |
 | unit | ConnectApi.​ConnectInsight​UnitEnum | Unit for an insight. Values are:CountCurrencyDollarNumberPercent | 59.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​InsightsOutput​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_insights_output.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​ConnectInsight​UnitEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

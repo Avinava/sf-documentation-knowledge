@@ -5,11 +5,16 @@ topic: actionablelistdeffltrcond
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.502Z
-keywords: [ActionableListDefFltrCond, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.246Z
+estimatedTokens: 1330
+keywords: [ActionableListDefFltrCond, Represents, filter, condition, including, excluding, data, dataset, associated, actionable, list, definition., API, version, 60.0, later., Supported, Calls, Fields, Associated]
 ---
 
 # ActionableListDefFltrCond
+
+> Represents the filter condition for including or excluding data from the
+         dataset associated with the actionable list definition. This object is available in
+      API version 60.0 and later.
 
 # ActionableListDefFltrCond
 
@@ -58,3 +63,11 @@ Sharing rules are available for the object.
 [ActionableListDefFltrCondShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ActionableListDefFltrCondChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- ActionableListDefFltrCondFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- ActionableListDefFltrCondHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- ActionableListDefFltrCondOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- ActionableListDefFltrCondShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

@@ -5,11 +5,14 @@ topic: applicant-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.044Z
-keywords: [Applicant, Result]
+lastCollected: 2026-03-12T05:14:49.564Z
+estimatedTokens: 627
+keywords: [Applicant, Result, Output, representation, applicant, result.]
 ---
 
 # Applicant Result
+
+> Output representation of the applicant result.
 
 # Applicant Result
 
@@ -43,3 +46,7 @@ Output representation of the applicant result.
 | stage | String | Stage of the application for a product that is submitted by the applicant. | Small, 61.0 | 61.0 |
 | suffix | String | Suffix of the applicant. | Small, 61.0 | 61.0 |
 | uniqueReference​Number | String | Customer reference number of the applicant. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

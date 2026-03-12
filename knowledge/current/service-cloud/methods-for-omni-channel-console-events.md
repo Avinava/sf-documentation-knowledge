@@ -5,11 +5,16 @@ topic: methods-for-omni-channel-console-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.515Z
-keywords: [Methods, Omni-Channel, Console, Events, channel]
+lastCollected: 2026-03-12T05:14:58.170Z
+estimatedTokens: 877
+keywords: [Omni-Channel, Console, Events, JavaScript, executed, certain, types, events, occur, console, such, user, closes, tab., addition, standard, there, few, specific, Omni-Channel.]
 ---
 
 # Methods for Omni-Channel Console Events
+
+> JavaScript can be executed when certain types of events occur in a console, such as
+    when a user closes a tab. In addition to the standard methods for console events, there are a
+    few events that are specific to Omni-Channel. These events apply to Salesforce Classic only.
 
 # Methods for Omni-Channel Console Events
 

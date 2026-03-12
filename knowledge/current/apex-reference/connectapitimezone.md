@@ -5,11 +5,15 @@ topic: connectapitimezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.113Z
-keywords: [ConnectApi.TimeZone, See]
+lastCollected: 2026-03-12T05:14:29.148Z
+estimatedTokens: 127
+keywords: [ConnectApi.TimeZone, User's, time, zone, selected, user’s, personal, settings, Salesforce., doesn’t, reflect, device's, current, location.]
 ---
 
 # ConnectApi.TimeZone
+
+> User's time zone as selected in the user’s personal settings in Salesforce. This value
+  doesn’t reflect a device's current location.
 
 # ConnectApi.TimeZone
 
@@ -23,3 +27,9 @@ User's time zone as selected in the user’s personal settings in Salesforce. Th
 #### See Also
 
 -   [ConnectApi.UserSettings](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_usersettings.htm "Settings specific to a user.")
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.UserSettings (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_usersettings.htm)

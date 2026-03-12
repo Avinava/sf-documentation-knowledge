@@ -4,12 +4,18 @@ domain: metadata-api
 topic: understanding-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:45:53.172Z
-keywords: [Understanding, Metadata, API, Salesforce, Functionality, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:40.626Z
+estimatedTokens: 1146
+keywords: [Understanding, Metadata, API, data, describes, data., understand, how, Salesforce, defines, metadata, contrast, business, metadata., Business, includes, records, directly, correspond, company’s]
 ---
 
 # Understanding Metadata API
+
+> Metadata is data that describes other data. To understand how Salesforce defines metadata,
+        contrast business data with Salesforce metadata. Business data includes the records that
+        directly correspond to your company’s business such as an address, account, or product.
+        Salesfor
 
 # Understanding Metadata API
 
@@ -34,7 +40,13 @@ The second method is source push and pull commands that move only changes in met
 #### See Also
 
 -   [Metadata Components and Types](atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm "Metadata components are not based on sObjects, like objects in the API. Instead, they are based on metadata types, such as ApexClass and CustomObject, which extend Metadata, the base class for all metadata types. A component is an instance of a metadata type.")
-    
+
 -   [Deploying and Retrieving Metadata](atlas.en-us.api_meta.meta/api_meta/file_based.htm)
-    
+
 -   [source Commands](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_source.htm#cli_reference_force_source)
+
+## Related Topics
+
+- CustomTab (atlas.en-us.api_meta.meta/api_meta/meta_tab.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata (atlas.en-us.api_meta.meta/api_meta/file_based.htm)

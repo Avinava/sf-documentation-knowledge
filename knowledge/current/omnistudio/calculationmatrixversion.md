@@ -5,11 +5,16 @@ topic: calculationmatrixversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.755Z
-keywords: [CalculationMatrixVersion, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:53.669Z
+estimatedTokens: 1014
+keywords: [CalculationMatrixVersion, Defines, version, Decision, Matrix., label, Matrix, Version., API, 53.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # CalculationMatrixVersion
+
+> Defines a version of a Decision Matrix. The label for this object is
+         Decision Matrix Version. This object is available in API version 53.0 and
+      later.
 
 # CalculationMatrixVersion
 

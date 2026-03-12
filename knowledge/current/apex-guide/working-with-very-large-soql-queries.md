@@ -5,11 +5,16 @@ topic: working-with-very-large-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.967Z
-keywords: [Working, Very, Large, SOQL, Queries, Important, Note, Efficient]
+lastCollected: 2026-03-12T05:14:34.537Z
+estimatedTokens: 1463
+keywords: [Working, Very, Large, SOQL, Queries, Where, possible, changed, noninclusive, terms, align, company, Equality., maintained, certain, avoid, any, effect, customer, implementations.]
 ---
 
 # Working with Very Large SOQL Queries
+
+> Where possible, we changed noninclusive terms to align with our
+            company value of Equality. We maintained certain terms to avoid any effect on customer
+            implementations.
 
 # Working with Very Large SOQL Queries
 
@@ -71,14 +76,14 @@ Custom Index Considerations for Selective SOQL Queries
 -   A custom index can't be created on these types of fields: multi-select picklists, currency fields in a multicurrency organization, long text fields, some formula fields, and binary fields (fields of type blob, file, or encrypted text.) New data types, typically complex ones, are periodically added to Salesforce, and fields of these types don’t always allow custom indexing.
 -   You can’t create custom indexes on formula fields that include invocations of the TEXT function on picklist fields.
 -   Typically, a custom index isn’t used in these cases.
-    
+
     -   The queried values exceed the system-defined threshold.
     -   The filter operator is a negative operator such as NOT EQUAL TO (or !=), NOT CONTAINS, and NOT STARTS WITH.
     -   The CONTAINS operator is used in the filter, and the number of rows to be scanned exceeds 333,333. The CONTAINS operator requires a full scan of the index. This threshold is subject to change.
     -   You’re comparing with an empty value (Name != '').
-    
+
     However, there are other complex scenarios in which custom indexes can’t be used. Contact your Salesforce representative if your scenario isn't covered by these cases or if you need further assistance with non-selective queries.
-    
+
 
 Examples of Selective SOQL Queries
 
@@ -110,3 +115,58 @@ Here we have to see if any filter, when considered individually, is selective. A
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_agg_fns.htm "Working with SOQL Aggregate Functions")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm "Using SOQL Queries That Return One Record")
+
+## Code Examples
+
+```
+Account[] accts = [SELECT Id FROM Account];
+```
+
+```apex
+// Use this format if you are not executing DML statements 
+// within the for loop
+for (Account a : [SELECT Id, Name FROM Account 
+                  WHERE Name LIKE 'Acme%']) {
+    // Your code without DML statements here
+}
+
+// Use this format for efficiency if you are executing DML statements 
+// within the for loop
+for (List<Account> accts : [SELECT Id, Name FROM Account
+                            WHERE Name LIKE 'Acme%']) {
+    for (Account a : accts) {
+    // Your code here
+    }
+    update accts;
+}
+```
+
+```apex
+public void massUpdate() {
+    for (List<Contact> contacts:
+      [SELECT FirstName, LastName FROM Contact]) {
+        for(Contact c : contacts) {
+            if (c.FirstName == 'Barbara' &&
+              c.LastName == 'Gordon') {
+                c.LastName = 'Wayne';
+            }
+        }
+        update contacts;
+    }
+}
+```
+
+```
+SELECT Id FROM Account WHERE Id IN (<list of account IDs>)
+```
+
+```
+SELECT Id FROM Account WHERE Name != ''
+```
+
+## Related Topics
+
+- batch Apex (atlas.en-us.apexcode.meta/apexcode/apex_batch.htm)
+- SOQL For Loops (atlas.en-us.apexcode.meta/apexcode/langCon_apex_loops_for_SOQL.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_agg_fns.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_single_row.htm)

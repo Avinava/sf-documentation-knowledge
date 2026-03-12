@@ -5,11 +5,14 @@ topic: connectapitextsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.696Z
-keywords: [ConnectApi.TextSegmentInput, See]
+lastCollected: 2026-03-12T05:14:24.186Z
+estimatedTokens: 414
+keywords: [ConnectApi.TextSegmentInput, Include, text, segment, feed, item, comment.]
 ---
 
 # ConnectApi.TextSegmentInput
+
+> Include a text segment in a feed item or comment.
 
 # ConnectApi.TextSegmentInput
 
@@ -24,11 +27,18 @@ Subclass of [ConnectApi.MessageSegmentInput](atlas.en-us.apexref.meta/apexref/ap
 #### See Also
 
 -   [Edit a Comment](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_edit_comment.htm "Edit a Comment - HTML (New Window)")
-    
+
 -   [Edit a Feed Element](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_edit_feed_element.htm "Edit a Feed Element - HTML (New Window)")
-    
+
 -   [Edit a Question Title and Post](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_edit_question_title_post.htm "Edit a Question Title and Post - HTML (New Window)")
-    
+
 -   [Post a Rich-Text Feed Element with Inline Image](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectapi_examples_post_feed_element_richtext_inlineimage.htm "Post a Rich-Text Feed Element with Inline Image - HTML (New Window)")
-    
+
 -   [ConnectApi.MessageBodyInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm "Add rich messages to feed items and comments.")
+
+## Related Topics
+
+- ConnectApi.MessageSegmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_messageSegmentInput.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.MentionSegmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_mentionMsgSeg.htm)
+- ConnectApi.MessageBodyInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm)

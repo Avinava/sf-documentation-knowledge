@@ -5,11 +5,15 @@ topic: loyalty-ledger-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.569Z
-keywords: [Loyalty, Ledger, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.293Z
+estimatedTokens: 945
+keywords: [Loyalty, Ledger, DMO, Data, Cloud, data, model, record, points, credited, debited, member, across, transactions., API, Name, Category, Primary, Subject, Area]
 ---
 
 # Loyalty Ledger DMO
+
+> The Loyalty Ledger DMO is a Data Cloud data model object (DMO) to record the points
+      credited or debited for a member across transactions.
 
 # Loyalty Ledger DMO
 

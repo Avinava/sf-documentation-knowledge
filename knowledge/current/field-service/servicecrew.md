@@ -5,11 +5,15 @@ topic: servicecrew
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.907Z
-keywords: [ServiceCrew, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.564Z
+estimatedTokens: 575
+keywords: [ServiceCrew, Represents, group, service, resources, who, assigned, appointments, unit., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # ServiceCrew
+
+> Represents a group of service resources who can be assigned to service
+			appointments as a unit.
 
 # ServiceCrew
 

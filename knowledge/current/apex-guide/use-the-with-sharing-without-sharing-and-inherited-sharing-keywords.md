@@ -4,12 +4,18 @@ domain: apex-guide
 topic: use-the-with-sharing-without-sharing-and-inherited-sharing-keywords
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.589Z
-keywords: [sharing, without, inherited, Keywords, Tip, Sharing, Without, Inherited, Warning, Example, Omitted, Declarations, Important, Implementation, Apex, Triggers, Details, Best, Practices]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.614Z
+estimatedTokens: 2250
+keywords: [sharing, without, inherited, Keywords, keywords, specify, whether, rules, must, enforced., keyword, run, mode, called, it., Tip, Sharing, Without, Inherited, Warning]
 ---
 
 # Use the with sharing, without sharing, and inherited sharing Keywords
+
+> Use the with sharing or without sharing keywords on a class to specify whether
+    sharing rules must be enforced. Use the inherited
+      sharing keyword on a class to run the class in the sharing mode of the class that
+    called it.
 
 # Use the with sharing, without sharing, and inherited sharing Keywords
 
@@ -96,17 +102,17 @@ There’s a distinct difference between an Apex class that’s explicitly marked
 Apex triggers can’t have an explicit sharing declaration. Triggers typically run as without sharing, meaning that sharing rules for the current user aren’t enforced. However, a nested trigger that fires due to the execution of another trigger runs as with sharing in the following circumstances:
 
 -   A DML operation that runs in [user mode](atlas.en-us.apexcode.meta/apexcode/apex_classes_enforce_usermode.htm "You can run database operations in user mode rather than in the default system mode by using SOQL or SOSL queries with special keywords or by using DML method overloads.") invokes the nested trigger. For example, given this sample code, if an account is inserted into the database, then ContactTrigger1 runs as with sharing.
-    
+
     ```
-    
+
     ```
-    
+
 -   A DML operation in a method of a class that enforces sharing rules invokes the nested trigger. The class can enforce sharing rules explicitly with the with sharing declaration or inherit the sharing declaration. For example, given this sample code, if an account is inserted into the database, then ContactTrigger2 runs as with sharing.
-    
+
     ```
-    
+
     ```
-    
+
 
 In both cases, after the nested trigger fires in with sharing mode, subsequent calls to other classes use the declared sharing mode of each class.
 
@@ -130,3 +136,59 @@ Regardless of the sharing mode, object-level access and field-level security are
 | inherited sharing | Use this mode for service classes that must be flexible and support use cases with different sharing modes. |
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm "Using the transient Keyword Keyword")
+
+## Code Examples
+
+```apex
+public with sharing class sharingClass {
+
+   // Code here
+
+}
+```
+
+```apex
+public without sharing class noSharing {
+
+   // Code here
+
+}
+```
+
+```apex
+public inherited sharing class InheritedSharingClass {
+    public List<Contact> getAllTheSecrets() {
+        return [SELECT Name FROM Contact];
+    }
+}
+```
+
+```
+<apex:page controller="InheritedSharingClass">
+    <apex:repeat value="{!allTheSecrets}" var="record">
+        {!record.Name}
+    </apex:repeat>
+</apex:page>
+```
+
+```
+// Trigger fires in without sharing mode
+trigger AccountTrigger1 on Account (before insert) {
+    // DML operation runs in user mode (sharing rules are applied)
+    insert as user new Contact(FirstName='Test', LastName='Test2');
+}
+
+trigger ContactTrigger1 on Contact (before insert) {
+    // Statements in this nested trigger run in with sharing mode
+    // Calls to other classes use the declared sharing mode of each class
+}
+```
+
+## Related Topics
+
+- Anonymous
+          Blocks (atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm)
+- user mode (atlas.en-us.apexcode.meta/apexcode/apex_classes_enforce_usermode.htm)
+- Asynchronous Apex (atlas.en-us.apexcode.meta/apexcode/apex_async_overview.htm)
+- Enforcing Object and Field Permissions (atlas.en-us.apexcode.meta/apexcode/apex_classes_perms_enforcing.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm)

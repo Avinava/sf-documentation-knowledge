@@ -5,11 +5,15 @@ topic: userfieldaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:38.934Z
-keywords: [UserFieldAccess, Fields, SOQL, Limitations]
+lastCollected: 2026-03-12T05:14:47.054Z
+estimatedTokens: 687
+keywords: [UserFieldAccess, Represents, access, current, user, field., Tooling, API, version, 34.0, later., Fields, SOQL, Limitations]
 ---
 
 # UserFieldAccess
+
+> Represents the access that the current user has to a field.
+        Available in Tooling API version 34.0 and later.
 
 # UserFieldAccess
 
@@ -65,3 +69,7 @@ INCLUDES
 Example Query: SELECT ComplianceGroup FROM FieldDefinition WHERE EntityDefinitionId = 'Account' AND ComplianceGroup includes('GDPR')
 
 Error Returned: Unsupported filter type
+
+## Related Topics
+
+- User (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_user.htm)

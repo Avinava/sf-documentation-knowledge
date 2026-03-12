@@ -4,12 +4,15 @@ domain: apex-guide
 topic: code-coverage-best-practices
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.685Z
-keywords: [Code, Coverage, Best, Practices, General, Tips, Why, Numbers, Differ, Between, Sandbox, Production, Recommended, Process, Matching]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.757Z
+estimatedTokens: 1465
+keywords: [Code, Coverage, Best, Practices, Consider, following, code, coverage, tips, best, practices., General, Tips, Why, Numbers, Differ, Between, Sandbox, Production, Recommended]
 ---
 
 # Code Coverage Best Practices
+
+> Consider the following code coverage tips and best practices.
 
 # Code Coverage Best Practices
 

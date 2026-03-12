@@ -5,11 +5,15 @@ topic: collectionplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.864Z
-keywords: [CollectionPlanItem, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.793Z
+estimatedTokens: 893
+keywords: [CollectionPlanItem, Represents, instance, collection, plan., API, version, 63.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # CollectionPlanItem
+
+> Represents an instance of a collection plan. This object is available in
+      API version 63.0 and later.
 
 # CollectionPlanItem
 
@@ -43,3 +47,8 @@ Change events are available for the object.
 [CollectionPlanItemHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- CollectionPlanItemChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CollectionPlanItemHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

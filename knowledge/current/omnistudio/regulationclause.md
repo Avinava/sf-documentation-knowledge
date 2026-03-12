@@ -5,11 +5,15 @@ topic: regulationclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.166Z
-keywords: [RegulationClause, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.282Z
+estimatedTokens: 880
+keywords: [RegulationClause, Represents, information, related, regulation, law, outlining, specific, requirements, sections., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # RegulationClause
+
+> Represents the information related to a regulation or law outlining specific
+         requirements or sections. This object is available in API version 65.0 and later.
 
 # RegulationClause
 
@@ -47,3 +51,9 @@ Feed tracking is available for the object.
 [RegulationClauseHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- RegulationClauseChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- RegulationClauseFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- RegulationClauseHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

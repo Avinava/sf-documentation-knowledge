@@ -5,11 +5,14 @@ topic: connectapibusinessobjectivesinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.846Z
-keywords: [ConnectApi.BusinessObjectivesInputRepresentation]
+lastCollected: 2026-03-12T05:14:24.423Z
+estimatedTokens: 112
+keywords: [ConnectApi.BusinessObjectivesInputRepresentation, business, objective, goal, insights, associated, it.]
 ---
 
 # ConnectApi.BusinessObjectivesInputRepresentation
+
+> A business objective, or goal, and insights associated with it.
 
 # ConnectApi.BusinessObjectivesInputRepresentation
 
@@ -19,3 +22,8 @@ A business objective, or goal, and insights associated with it.
 | --- | --- | --- | --- | --- |
 | businessObjectiveId | String | ID of the business objective. | Required | 62.0 |
 | insightSummary | ConnectApi.BusObjInsights​InputRepresentation | A summary of insights about the business objective. | Optional | 62.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.BusObjInsights​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_bus_obj_insights.htm)

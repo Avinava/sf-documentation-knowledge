@@ -5,11 +5,15 @@ topic: salesforce-crm-securities-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.135Z
-keywords: [Salesforce, CRM, Securities, Mappings, Usage, Data, Bundle, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.597Z
+estimatedTokens: 167
+keywords: [Salesforce, CRM, Securities, Mappings, data, mappings, DLO, found, Financial, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO, Mapping]
 ---
 
 # Salesforce CRM: Securities Mappings
+
+> These data mappings are for the Securities DLO found in Financial Services Cloud bundle
+  of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Securities Mappings
 

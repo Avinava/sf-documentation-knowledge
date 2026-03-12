@@ -5,11 +5,15 @@ topic: salesforce-crm-financial-goal-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.106Z
-keywords: [Salesforce, CRM, Financial, Goal, Mappings, Usage, Data, Bundle, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.548Z
+estimatedTokens: 266
+keywords: [Salesforce, CRM, Financial, Goal, Mappings, data, mappings, FinancialGoal, DLO, found, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO, Mapping]
 ---
 
 # Salesforce CRM: Financial Goal Mappings
+
+> These data mappings are for the FinancialGoal DLO found in Financial Services Cloud
+  bundle of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Financial Goal Mappings
 

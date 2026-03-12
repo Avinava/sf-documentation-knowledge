@@ -5,11 +5,14 @@ topic: application-form-product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.033Z
-keywords: [Application, Form, Product, Input]
+lastCollected: 2026-03-12T05:14:48.045Z
+estimatedTokens: 655
+keywords: [Application, Form, Product, Input, representation, application, form, product.]
 ---
 
 # Application Form Product Input
+
+> Input representation of the  application form product.
 
 # Application Form Product Input
 
@@ -40,3 +43,8 @@ Properties
 | stage | String | Stage of the application form product that the applicant submitted. | Optional | 61.0 |
 | totalBrand​OwnedItemAmt | Double | Total value of the brand-owned seller items requested for financing. | Optional | 61.0 |
 | totalVendor​OwnedItemAmt | Double | Total value of the vendor-owned seller items requested for financing. | Optional | 61.0 |
+
+## Related Topics
+
+- Application Form Seller Item Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_application_form_seller_item_input.htm)
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

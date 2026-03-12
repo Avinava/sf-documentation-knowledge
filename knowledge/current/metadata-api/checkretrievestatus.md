@@ -5,11 +5,14 @@ topic: checkretrievestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.103Z
-keywords: [checkRetrieveStatus, Syntax, Usage, Retrieving, Zip, File, Second, Process, Sample, Code—Java, Arguments, Response]
+lastCollected: 2026-03-12T05:14:37.687Z
+estimatedTokens: 1595
+keywords: [checkRetrieveStatus, Checks, status, declarative, metadata, call, zip, file, contents., Syntax, Usage, Retrieving, Zip, File, Second, Process, Sample, Code—Java, Arguments, Response]
 ---
 
 # checkRetrieveStatus()
+
+> Checks the status of the declarative metadata call checkRetrieveStatus() and returns the zip file contents.
 
 # checkRetrieveStatus()
 
@@ -61,3 +64,48 @@ See the [retrieve() sample code](atlas.en-us.api_meta.meta/api_meta/meta_retriev
 ## Response
 
 [RetrieveResult](atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm "The retrieve() call returns an array of RetrieveResult objects.")
+
+## Code Examples
+
+```
+RetrieveResult = metadatabinding.checkRetrieveStatus(ID id, boolean includeZip);
+```
+
+```
+RetrieveResult = metadatabinding.checkRetrieveStatus(ID id);
+```
+
+```
+// First process: Poll the retrieval but don’t retrieve the zip file.
+AsyncResult asyncResult = metadataConnection.retrieve(retrieveRequest);
+String asyncResultId = asyncResult.getId();
+// Wait for the retrieve to complete
+int poll = 0;
+long waitTimeMilliSecs = ONE_SECOND;
+RetrieveResult result = null;
+do {
+    Thread.sleep(waitTimeMilliSecs);
+    // Check the status but don’t retrieve zip file.
+    result = metadataConnection.checkRetrieveStatus(asyncResultId, false);
+} while (!result.isDone());
+
+// Second process: Retrieve the zip file.
+// For example, this process can be a background file transfer service.
+// Retrieve the zip file.
+result = metadataConnection.checkRetrieveStatus(asyncResultId, true);
+// Get the zip file from the RetrieveResult (result) variable
+if (result.getStatus() == RetrieveStatus.Succeeded) {
+    ByteArrayInputStream bais = new ByteArrayInputStream(result.getZipFile());
+    // ...
+}
+```
+
+## Related Topics
+
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- done (atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm)
+- RetrieveResult (atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm)
+- zipFile (atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm)
+- checkStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm)
+- retrieve() sample code (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)

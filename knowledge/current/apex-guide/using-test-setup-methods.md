@@ -4,12 +4,18 @@ domain: apex-guide
 topic: using-test-setup-methods
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.638Z
-keywords: [Test, Setup, Methods, Syntax, Example, Method, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.079Z
+estimatedTokens: 858
+keywords: [Test, Setup, test, setup, annotated, @testSetup, create, records, once, then, access, every, class., time-saving, need, reference, prerequisite, data, common, set]
 ---
 
 # Using Test Setup Methods
+
+> Use test setup methods (methods that are annotated with @testSetup) to create test records once and then
+            access them in every test method in the test class. Test setup methods can be
+            time-saving when you need to create reference or prerequisite data for all test methods,
+            or a common set of records that all test methods operate on.
 
 # Using Test Setup Methods
 
@@ -43,3 +49,59 @@ This example shows how to create test records once and then access them in multi
 -   You can have only one test setup method per test class.
 -   If a fatal error occurs during the execution of a test setup method, such as an exception that’s caused by a DML operation or an assertion failure, the entire test class fails, and no further tests in the class are executed.
 -   If a test setup method calls a non-test method of another class, no code coverage is calculated for the non-test method.
+
+## Code Examples
+
+```
+@testSetup static void methodName() {
+
+}
+```
+
+```apex
+@isTest
+private class CommonTestSetup {
+
+    @testSetup static void setup() {
+        // Create common test accounts
+        List<Account> testAccts = new List<Account>();
+        for(Integer i=0;i<2;i++) {
+            testAccts.add(new Account(Name = 'TestAcct'+i));
+        }
+        insert testAccts;        
+    }
+    
+    @isTest static void testMethod1() {
+        // Get the first test account by using a SOQL query
+        Account acct = [SELECT Id FROM Account WHERE Name='TestAcct0' LIMIT 1];
+        // Modify first account
+        acct.Phone = '555-1212';
+        // This update is local to this test method only.
+        update acct;
+        
+        // Delete second account
+        Account acct2 = [SELECT Id FROM Account WHERE Name='TestAcct1' LIMIT 1];
+        // This deletion is local to this test method only.
+        delete acct2;
+        
+        // Perform some testing
+    }
+
+    @isTest static void testMethod2() {
+        // The changes made by testMethod1() are rolled back and 
+        // are not visible to this test method.        
+        // Get the first account by using a SOQL query
+        Account acct = [SELECT Phone FROM Account WHERE Name='TestAcct0' LIMIT 1];
+        // Verify that test account created by test setup method is unaltered.
+        System.assertEquals(null, acct.Phone);
+        
+        // Get the second account by using a SOQL query
+        Account acct2 = [SELECT Id FROM Account WHERE Name='TestAcct1' LIMIT 1];
+        // Verify test account created by test setup method is unaltered.
+        System.assertNotEquals(null, acct2);
+        
+        // Perform some testing
+    }
+
+}
+```

@@ -6,12 +6,16 @@ topic: isolation-of-test-data-from-organization-data-in-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.615Z
-keywords: [Isolation, Test, Data, Organization, Unit, Tests]
+lastCollected: 2026-03-12T05:14:34.043Z
+estimatedTokens: 1116
+keywords: [Isolation, Test, Data, Organization, Unit, Tests, Whenever, possible, create, test, data, test., disable, restriction, annotating, IsTest, SeeAllData=true, annotation.]
 ---
 
 # Isolation of Test Data from Organization Data in Unit
     Tests
+
+> Whenever possible, create test data for each test. You can disable this restriction by
+      annotating your test class or test method with the IsTest(SeeAllData=true) annotation.
 
 # Isolation of Test Data from Organization Data in Unit Tests
 

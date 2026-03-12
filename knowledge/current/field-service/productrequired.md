@@ -5,11 +5,15 @@ topic: productrequired
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.770Z
-keywords: [ProductRequired, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.337Z
+estimatedTokens: 780
+keywords: [ProductRequired, Represents, product, needed, complete, work, order, line, item, field, service., Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
 ---
 
 # ProductRequired
+
+> Represents a product that is needed to complete a work order or work
+			order line item in field service.
 
 # ProductRequired
 

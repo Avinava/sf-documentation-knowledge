@@ -5,11 +5,15 @@ topic: setagentstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.671Z
-keywords: [setAgentState, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.403Z
+estimatedTokens: 195
+keywords: [setAgentState, agent's, Chat, status, such, Online, Away, Offline., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # setAgentState()
+
+> Sets an agent's Chat status, such as Online, Away, or Offline. Available in API version 29.0 or
+            later.
 
 # setAgentState()
 
@@ -41,3 +45,27 @@ This method is asynchronous so it returns its response in an object in a callbac
 | Name | Type | Description |
 | --- | --- | --- |
 | success | Boolean | true if setting the agent’s Chat status was successful; false if setting the agent’s Chat status wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.setAgentState(state:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testSetAgentState('Online');return false;">Set Agent Status to Online</a> 
+    <script type="text/javascript">
+        function testSetAgentState(state) {
+            sforce.console.chat.setAgentState(state, function(result) {
+                if (result.success) {
+                    alert('Agent State Set to Online');
+                } else {
+                    alert('setAgentState has failed');
+                }
+            });
+        }
+    </script>
+</apex:page>
+```

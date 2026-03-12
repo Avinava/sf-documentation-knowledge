@@ -5,11 +5,15 @@ topic: interest-tags-delete-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.771Z
-keywords: [Interest, Tags, DELETE, GET, POST]
+lastCollected: 2026-03-12T05:14:49.156Z
+estimatedTokens: 585
+keywords: [Interest, Tags, DELETE, GET, POST, Create, Tag., Delete, tag, IDs., Retrieve, list, category, ID.]
 ---
 
 # Interest Tags (DELETE, GET, POST)
+
+> Create an Interest Tag. Delete Interest Tags by the tag IDs.
+      Retrieve a list of Interest Tags by a category ID.
 
 # Interest Tags (DELETE, GET, POST)
 
@@ -91,3 +95,42 @@ Properties
 Response body for POST
 
 [Interest Tag Create Collection Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_interest_tag_create_collection_output.htm "Output representation of a collection of Interest Tags that are created.")
+
+## Code Examples
+
+```
+/connect/interest-tags/tags
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/interest-tags/tags?tagId=0qOxx0000004C94EAE,0qOxx0000004C92EAE
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/interest-tags/tags?categoryId=0qRxx0000000001EAA
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/interest-tags/tags
+```
+
+```
+{
+   "interestTagList":[
+      {
+         "tagDescription":"Golf",
+         "tagName":"Golf",
+         "categoryId":"0qRxx0000000001EAA",
+         "recordId" : "001xx000003DGQyAAO"
+      }
+   ]
+}
+```
+
+## Related Topics
+
+- Interest Tag List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_interest_tag_list.htm)
+- Interest Tag Create Collection Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_interest_tag_create_collection_output.htm)

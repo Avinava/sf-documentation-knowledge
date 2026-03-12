@@ -5,11 +5,15 @@ topic: catalog-by-id-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.270Z
-keywords: [Catalog, GET]
+lastCollected: 2026-03-12T05:14:06.856Z
+estimatedTokens: 273
+keywords: [Catalog, GET, Retrieve, details, catalog, records, based, ID.]
 ---
 
 # Catalog By ID (GET)
+
+> Retrieve details of catalog records based on a catalog
+      ID.
 
 # Catalog By ID (GET)
 
@@ -54,3 +58,21 @@ Request parameters for GET
 Response body for GET
 
 [Catalogs Output](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_catalogs_output.htm "Output representation of the retrieved catalog result.")
+
+## Code Examples
+
+```
+/connect/pcm/catalogs/catalogId
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ?language=spanish
+```
+
+## Related Topics
+
+- Catalogs Output (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_catalogs_output.htm)

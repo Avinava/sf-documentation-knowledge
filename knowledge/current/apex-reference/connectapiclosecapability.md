@@ -5,11 +5,15 @@ topic: connectapiclosecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.327Z
-keywords: [ConnectApi.CloseCapability, See]
+lastCollected: 2026-03-12T05:14:26.634Z
+estimatedTokens: 295
+keywords: [ConnectApi.CloseCapability, feed, element, capability, users, permission, close, it.]
 ---
 
 # ConnectApi.CloseCapability
+
+> If a feed element has this capability, users with permission can close
+      it.
 
 # ConnectApi.CloseCapability
 
@@ -27,3 +31,8 @@ Admins and moderators can edit and delete closed feed elements and comments on c
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

@@ -5,11 +5,14 @@ topic: class-definition-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.523Z
-keywords: [Class, Definition, Creation, Note, Apex, Editor]
+lastCollected: 2026-03-12T05:14:32.525Z
+estimatedTokens: 1415
+keywords: [Definition, Creation, editor, create, Salesforce., Note, Apex, Editor]
 ---
 
 # Class Definition Creation
+
+> Use the class editor to create a class in Salesforce.
 
 # Class Definition Creation
 
@@ -46,9 +49,9 @@ Search enables you to search for text within the current page, class, or trigger
 -   To replace a found search string with another string, enter the new string in the Replace textbox and click **replace** to replace just that instance, or **Replace All** to replace that instance and all other instances of the search string that occur in the page, class, or trigger.
 -   To make the search operation case sensitive, select the **Match Case** option.
 -   To use a regular expression as your search string, select the **Regular Expressions** option. The regular expressions follow JavaScript's regular expression rules. A search using regular expressions can find strings that wrap over more than one line.
-    
+
     If you use the replace operation with a string found by a regular expression, the replace operation can also bind regular expression group variables ($1, $2, and so on) from the found search string. For example, to replace an <h1\> tag with an <h2\> tag and keep all the attributes on the original <h1\> intact, search for <h1(\\s+)(.\*)\> and replace it with <h2$1$2\>.
-    
+
 
 Go to line (![Go to line arrow](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapex%2Fimages%2Fgo_to_line.gif&folder=apexcode))
 
@@ -70,10 +73,19 @@ Line and character count
 
 The total number of lines and characters is displayed in the status bar at the bottom of the editor.
 
-1.  [Naming Conventions](atlas.en-us.apexcode.meta/apexcode/apex_classes_naming_conventions.htm)  
-    
-2.  [Name Shadowing](atlas.en-us.apexcode.meta/apexcode/apex_classes_name_shadowing.htm)  
-    
+1.  [Naming Conventions](atlas.en-us.apexcode.meta/apexcode/apex_classes_naming_conventions.htm)
+
+2.  [Name Shadowing](atlas.en-us.apexcode.meta/apexcode/apex_classes_name_shadowing.htm)
+
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_java_diffs.htm "Differences Between Apex Classes and Java Classes")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_namespace_prefix.htm "Namespace Prefix")
+
+## Related Topics
+
+- SOAP
+                Services: Defining a Class from a WSDL Document (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex.htm)
+- Naming Conventions (atlas.en-us.apexcode.meta/apexcode/apex_classes_naming_conventions.htm)
+- Name Shadowing (atlas.en-us.apexcode.meta/apexcode/apex_classes_name_shadowing.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_java_diffs.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_namespace_prefix.htm)

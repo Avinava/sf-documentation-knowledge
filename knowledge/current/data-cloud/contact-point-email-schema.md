@@ -6,12 +6,16 @@ topic: contact-point-email-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.228Z
-keywords: [Contact, Point, Email, Schema]
+lastCollected: 2026-03-12T05:14:12.180Z
+estimatedTokens: 414
+keywords: [Contact, Point, Email, Schema, contact, point, email, schema, capture, profile, data, map, individual, streams.]
 ---
 
 # Contact
   Point Email Schema
+
+> Use the contact point email schema to capture profile data to map to individual data
+  streams.
 
 # Contact Point Email Schema
 
@@ -29,3 +33,7 @@ Use the contact point email schema to capture profile data to map to individual 
 | email | email | text | Required. The user’s email address. | Contact Point Email |
 | <Automatically Assigned when Location Tracking is allowed> | longitude | number | The latitudinal coordinate, in decimal degrees, reported by the device at the time the event was captured. | Engagement / Device Longitude |
 | <Automatically Assigned when Location Tracking is allowed> | latitude | number | The latitudinal coordinate, in decimal degrees, reported by the device at the time the event was captured. | Engagement / Device Latitude |
+
+## Related Topics
+
+- Location Tracking (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_location_tracking.htm)

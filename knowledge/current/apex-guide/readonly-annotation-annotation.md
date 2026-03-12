@@ -5,11 +5,17 @@ topic: readonly-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.471Z
-keywords: [ReadOnly, Annotation, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.451Z
+estimatedTokens: 515
+keywords: [ReadOnly, Annotation, @ReadOnly, annotation, allows, perform, less, restrictive, queries, against, Lightning, Platform, database, increasing, limit, number, returned, rows, request, 000]
 ---
 
 # ReadOnly Annotation Annotation
+
+> The @ReadOnly annotation allows you to
+    perform less restrictive queries against the Lightning Platform database by increasing the limit
+    of the number of returned rows for a request to 1,000,000. All other limits still apply. The
+    annotation blocks the following operations within the reque
 
 # ReadOnly Annotation Annotation
 
@@ -25,3 +31,8 @@ Prior to API version 49.0, using @ReadOnly on Apex REST methods (@HttpDelete, @H
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm "NamespaceAccessible Annotation Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_RemoteAction.htm "RemoteAction Annotation Annotation")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_RemoteAction.htm)

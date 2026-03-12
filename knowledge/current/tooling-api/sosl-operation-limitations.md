@@ -5,11 +5,15 @@ topic: sosl-operation-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.067Z
-keywords: [SOSL, Operation, Limitations, EntityDefinition, FieldDefinition, ExternalString, MetadataComponentDependency, Beta]
+lastCollected: 2026-03-12T05:14:44.418Z
+estimatedTokens: 443
+keywords: [SOSL, Operation, Limitations, Two, Tooling, API, objects, EntityDefinition, FieldDefinition, limitations., ExternalString, MetadataComponentDependency, Beta, don’t, support, searches.]
 ---
 
 # SOSL Operation Limitations
+
+> Two Tooling API objects, EntityDefinition and FieldDefinition, have some SOSL
+    limitations. ExternalString and MetadataComponentDependency (Beta) don’t support SOSL searches.
 
 # SOSL Operation Limitations
 
@@ -22,44 +26,44 @@ EntityDefinition and FieldDefinition support the following SOSL operations:
 FIND
 
 -   Literal text search, for example:
-    
+
     ```
-    
+
     ```
-    
+
 -   Text search with a single wildcard, for example:
-    
+
     ```
-    
+
     ```
-    
+
     The wildcard can’t be the first character in a search term, consistent with search behavior for all objects.
 -   Quotation marks are supported.
 -   The escape character \\ (slash) is supported. For example, to search for the character \* (asterisk), include the escape character:
-    
+
     ```
-    
+
     ```
-    
+
     .
 -   RETURNING is required.
-    
+
     ```
-    
+
     ```
-    
+
     -   Multiple object type names are supported.
-        
+
         ```
-        
+
         ```
-        
+
     -   A field list is supported.
-        
+
         ```
-        
+
         ```
-        
+
     -   WHERE is supported, though logical operators are not.
     -   LIMIT is supported.
 
@@ -84,3 +88,30 @@ ExternalString doesn’t support SOSL searches.
 ## MetadataComponentDependency (Beta)
 
 MetadataComponentDependency is a virtual entity, so it doesn’t support SOSL searches.
+
+## Code Examples
+
+```
+FIND {account}
+```
+
+```
+FIND {account*} RETURNING EntityDefinition
+FIND {account?} RETURNING FieldDefinition
+FIND {account*fax} RETURNING EntityDefintion
+FIND {account?fax} RETURNING FieldDefinition
+```
+
+```
+FIND {account\*}
+RETURNING EntityDefinition
+```
+
+```
+FIND {MyString} 
+RETURNING FieldDefinition
+```
+
+```
+...RETURNING EntityDefinition, FieldDefinition
+```

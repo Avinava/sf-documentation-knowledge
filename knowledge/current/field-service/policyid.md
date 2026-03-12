@@ -5,11 +5,14 @@ topic: policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.913Z
-keywords: [policyId, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.143Z
+estimatedTokens: 82
+keywords: [policyId, default, policy, provided, request.]
 ---
 
 # policyId
+
+> The default policy ID or the policy ID provided in the request.
 
 # policyId
 

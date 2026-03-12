@@ -5,11 +5,19 @@ topic: customtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.830Z
-keywords: [CustomTab, File, Suffix, Directory, Location, Note, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:43.105Z
+estimatedTokens: 1911
+keywords: [CustomTab, Represents, custom, tab., Custom, tabs, let, display, data, web, content, Salesforce., add, tab, app, Salesforce, Classic, appears, Lightning, Experience]
 ---
 
 # CustomTab
+
+> Represents a custom tab. Custom tabs let you display
+            custom object data or other web content in Salesforce. When you add a custom tab to an
+            app in Salesforce Classic, it appears as a tab. When you add a custom tab to an app in
+            Lightning Experience, it appears as an item in the app’s navigation bar and in the App
+            Launcher. When a tab displays a custom object, the tab name is the same as the custom
+            object name. For page, s-control, or URL tabs, the name is arbitrary.
 
 # CustomTab
 
@@ -70,3 +78,26 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [CustomApplication](atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm "CustomApplication represents a custom or standard application. In API version 29.0 and earlier, CustomApplication represents only a custom application. An application is a list of tab references, with a description and a logo. This type extends the Metadata metadata type and inherits its fullName field.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Myriad Publishing</description>
+    <frameHeight>600</frameHeight>
+    <motif>Custom53: Bell</motif>
+    <url>https://www.example.com</url>
+    <urlEncodingKey>UTF-8</urlEncodingKey>
+</CustomTab>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- ActionOverride (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- formFactor (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- HomePageComponent (atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)

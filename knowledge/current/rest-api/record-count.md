@@ -5,11 +5,15 @@ topic: record-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.570Z
-keywords: [Record, Count, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.868Z
+estimatedTokens: 396
+keywords: [Record, Count, Lists, information, record, counts, organization., Syntax, Example]
 ---
 
 # Record Count
+
+> Lists information about object record counts in your
+   organization.
 
 # Record Count
 
@@ -66,3 +70,25 @@ Example Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/limits/recordCount?sObjects=Account,Contact -H "Authorization: Bearer token"
+```
+
+```
+{
+   "sObjects" : [ {
+     "count" : 3,
+     "name" : "Account"
+   }, {
+     "count" : 10,
+     "name" : "Contact"
+   } ]
+}
+```
+
+## Related Topics
+
+- Record Count Response Body (atlas.en-us.api_rest.meta/api_rest/responses_record_count.htm)

@@ -5,11 +5,14 @@ topic: connectapicardpaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.870Z
-keywords: [ConnectApi.CardPaymentMethodRequest]
+lastCollected: 2026-03-12T05:14:24.463Z
+estimatedTokens: 454
+keywords: [ConnectApi.CardPaymentMethodRequest, Card, payment, input, representation.]
 ---
 
 # ConnectApi.CardPaymentMethodRequest
+
+> Card payment method input representation.
 
 # ConnectApi.CardPaymentMethodRequest
 
@@ -35,3 +38,11 @@ Subclass of [ConnectApi.BasePaymentMethodRequest](atlas.en-us.apexref.meta/apexr
 | nickName | String | Optional nickname for the card. | Optional | 51.0 |
 | startMonth | Integer | Month the card becomes active. | Optional | 51.0 |
 | startYear | Integer | Year the card becomes active. | Optional | 51.0 |
+
+## Related Topics
+
+- ConnectApi.BasePaymentMethodRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_base_payment_method.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CardCategory (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

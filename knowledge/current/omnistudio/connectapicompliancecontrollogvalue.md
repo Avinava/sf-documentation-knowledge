@@ -5,11 +5,14 @@ topic: connectapicompliancecontrollogvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.740Z
-keywords: [ConnectApi.ComplianceControllogValue]
+lastCollected: 2026-03-12T05:14:47.629Z
+estimatedTokens: 386
+keywords: [ConnectApi.ComplianceControllogValue, Compliance, controllog, value.]
 ---
 
 # ConnectApi.ComplianceControllogValue
+
+> Compliance controllog value.
 
 # ConnectApi.ComplianceControllogValue
 
@@ -28,3 +31,7 @@ Compliance controllog value.
 | isCompliant | Boolean | Indicates whether the control has passed the compliance check (true) or not (false). | 64.0 |
 | status | String | Status of the evaluation check. | 64.0 |
 | transactionKey | String | Transaction key to identify the log message. | 64.0 |
+
+## Related Topics
+
+- ConnectApi.ComplianceLoggingBusinessContextEvidenceValue (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_compliance_logging_business_context_evidence_value.htm)

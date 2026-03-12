@@ -5,11 +5,16 @@ topic: careprovidersearchconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.007Z
-keywords: [CareProviderSearchConfig, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:37.560Z
+estimatedTokens: 414
+keywords: [CareProviderSearchConfig, Represents, information, fields, appear, care, provider, search, results., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory]
 ---
 
 # CareProviderSearchConfig
+
+> Represents the information about the fields that appear in
+      care provider search results. This type extends the Metadata
+      metadata type and inherits its fullName field.
 
 # CareProviderSearchConfig
 
@@ -52,4 +57,37 @@ The following is an example package.xml that references the previous definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CareProviderSearchConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sourceField>Test1__c</sourceField>
+    <targetField>Test1__c</targetField>
+    <mappedObject>HealthcareProvider</mappedObject>
+    <isProtected>false</isProtected>
+    <isActive>true</isActive>
+    <masterLabel>testlabel</masterLabel>
+</CareProviderSearchConfig>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>HealthcareProvider.Test1__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>CareProviderSearchableField.Test1__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Test</members>
+        <name>CareProviderSearchConfig</name>
+    </types>
+    <version>48.0</version>
+</Package>
 ```

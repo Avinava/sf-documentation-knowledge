@@ -5,11 +5,15 @@ topic: sitedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.778Z
-keywords: [SiteDetail, Supported, Calls, REST, HTTP, Methods, Fields, Note]
+lastCollected: 2026-03-12T05:14:46.827Z
+estimatedTokens: 265
+keywords: [SiteDetail, Represents, details, Salesforce, site, Experience, Cloud, site., API, version, 38.0, later., Supported, Calls, REST, HTTP, Fields, Note]
 ---
 
 # SiteDetail
+
+> Represents the details of a Salesforce site or Experience Cloud
+            site. Available in API version 38.0 and later.
 
 # SiteDetail
 

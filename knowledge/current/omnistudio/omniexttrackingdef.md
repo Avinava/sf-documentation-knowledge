@@ -5,21 +5,25 @@ topic: omniexttrackingdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:12.040Z
-keywords: [OmniExtTrackingDef, Note, Important, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:52.474Z
+estimatedTokens: 1397
+keywords: [OmniExtTrackingDef, Represents, connection, between, OmniTrackingGroup, OmniAnalytics, third-party, Analytics, system, such, Google, Analytics., Note, Important, Parent, File, Suffix, Directory, Location, Version]
 ---
 
 # OmniExtTrackingDef
 
+> Represents a connection between an OmniTrackingGroup in OmniAnalytics and a
+			third-party Analytics system such as Google Analytics.
+
 # OmniExtTrackingDef
 
-Represents a connection between an OmniTrackingGroup in OmniAnalytics and a third-party Analytics system such as Google Analytics. This object is available in API version 60.0 and later.
+Represents a connection between an OmniTrackingGroup in OmniAnalytics and a third-party Analytics system such as Google Analytics.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
 
 #### Note
 
-This object is part of OmniStudio Standard, not OmniStudio for Vlocity.
+This metadata type is part of Omnistudio Standard, not Omnistudio for Vlocity.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=industries_reference)
 
@@ -27,23 +31,108 @@ This object is part of OmniStudio Standard, not OmniStudio for Vlocity.
 
 Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
-## Supported Calls
+## Parent Type
 
-create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
+This type extends the [Metadata](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/metadata.htm "HTML (New Window)") metadata type and inherits its fullName field.
+
+## File Suffix and Directory Location
+
+OmniExtTrackingDef components have the suffix .OmniExtTrackingDef and are stored in the OmniExtTrackingDefs folder.
+
+## Version
+
+OmniExtTrackingDef components are available in API version 60.0 and later.
 
 ## Special Access Rules
 
-Using OmniAnalytics requires having an OmniStudio license and enabling OmniAnalytics in Setup.
+Using OmniAnalytics requires having an Omnistudio license and enabling OmniAnalytics in Setup.
 
 ## Fields
 
-| Field | Details |
+| Field Name | Description |
 | --- | --- |
-| Description | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionA description of the OmniExtTrackingDef. |
-| DeveloperName | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe unique name of the OmniExtTrackingDef in the API. This name can contain only underscores and alphanumeric characters and must be unique in your organization. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. Limit: 80 characters.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance may slow while Salesforce generates one for each record.NoteOnly users with View DeveloperName OR View Setup and Configuration permission can view, group, sort, and filter this field. |
-| IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionSpecifies whether the OmniExtTrackingDef is active.The default value is true. |
-| Language | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe language for the OmniExtTrackingDef. |
-| MasterLabel | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe unique master label of the OmniExtTrackingDef. This internal label doesn’t get translated. |
-| OmniExtTrackingDefKey | TypestringPropertiesFilter, Group, idLookup, Nillable, SortDescriptionA UUID generated internally by Salesforce to uniquely identify an OmniExtTrackingDef record across all orgs. |
-| TrackingFrameworkInformation | TypetextareaPropertiesCreate, UpdateDescriptionJSON data containing information about an external service, such as the API call and input parameter names. |
-| TrackingServiceProvider | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe third-party Analytics system to which user interaction data is sent.Possible values are:GoogleThe default value is Google. |
+| description | Field TypestringDescriptionA description of the OmniExtTrackingDef. |
+| developerName | Field TypestringDescriptionRequired.The unique name of the OmniExtTrackingDef in the API. This name can contain only underscores and alphanumeric characters and must be unique in your organization. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. Limit: 80 characters.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance may slow while Salesforce generates one for each record.NoteOnly users with View DeveloperName OR View Setup and Configuration permission can view, group, sort, and filter this field. |
+| isActive | Field TypebooleanDescriptionRequired.Specifies whether the OmniExtTrackingDef is active. |
+| masterLabel | Field TypestringDescriptionRequired.The unique master label of the OmniExtTrackingDef. This internal label doesn’t get translated. |
+| omniExtTrackingDefKey | Field TypestringDescriptionA UUID generated internally by Salesforce to uniquely identify an OmniExtTrackingDef record across all orgs. |
+| omniExtTrackingEventDefs | Field TypeOmniExtTrackingEventDef[]DescriptionThe OmniExtTrackingEventDef objects related to this OmniExtTrackingDef. |
+| trackingFrameworkInformation | Field TypestringDescriptionRequired.JSON data containing information about an external service, such as the API call and input parameter names. |
+| trackingServiceProvider | Field TypeExternalTrackingVendor (enumeration of type string)DescriptionRequired.The third-party Analytics system to which user interaction data is sent.Values are:GoogleMixpanel |
+
+## OmniExtTrackingEventDef
+
+Represents a format for FlexCard or OmniScript user interaction data that a third-party Analytics system such as Google Analytics can accept.
+
+| Field Name | Description |
+| --- | --- |
+| componentType | Field TypeOmniAnalyticsComponentType (enumeration of type string)DescriptionRequired.The type of component for which user interactions are tracked.Values are:FlexcardOmniscript |
+| description | Field TypestringDescriptionA description of the OmniExtTrackingEventDef. |
+| developerName | Field TypestringDescriptionRequired.The unique name of the OmniExtTrackingEventDef in the API. This name can contain only underscores and alphanumeric characters and must be unique in your organization. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. Limit: 80 characters.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance may slow while Salesforce generates one for each record.NoteOnly users with View DeveloperName OR View Setup and Configuration permission can view, group, sort, and filter this field. |
+| inclusionRule | Field TypestringDescriptionRequired.A true-or-false condition that determines whether an event is sent to the third-party Analytics system. |
+| masterLabel | Field TypestringDescriptionRequired.The unique master label of the OmniExtTrackingEventDef. This internal label doesn’t get translated. |
+| omniExtTrackingDef | Field TypestringDescriptionThe ID of the related OmniExtTrackingDef object. |
+| omniExtTrackingEventDefKey | Field TypestringDescriptionA UUID generated internally by Salesforce to uniquely identify an OmniExtTrackingEventDef record across all orgs. |
+| payloadTemplate | Field TypestringDescriptionRequired.The payload template structure with placeholders for runtime data. This is used at runtime to generate the actual payload to be sent to the external Analytics service. |
+
+## Declarative Metadata Sample Definition
+
+The following is an example of an OmniExtTrackingDef component.
+
+```
+
+```
+
+The following is an example package.xml that references the previous definition.
+
+```
+
+```
+
+## Wildcard Support in the Manifest File
+
+This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniExtTrackingDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>Purchase_Tracking_Google</developerName>
+    <isActive>true</isActive>
+    <masterLabel>Purchase_Tracking_Google</masterLabel>
+    <trackingFrameworkInformation>{ "id": "GTM-XXXXXXX" }</trackingFrameworkInformation>
+    <trackingServiceProvider>Google</trackingServiceProvider>
+    <omniExtTrackingEventDefs>
+        <componentType>Omniscript</componentType>
+        <developerName>Purchase_Funnel_Google</developerName>
+        <inclusionRule></inclusionRule>
+        <masterLabel>Purchase_Funnel_Google</masterLabel>
+        <payloadTemplate>
+{
+  "event": "promotionClick",
+  "ecommerce": {
+    "promoClick": {
+      "promotions": [
+        {
+          "name": "%BusinessEvent%"
+        }
+      ]
+    }
+  }
+}
+        </payloadTemplate>
+    </omniExtTrackingEventDefs>
+</OmniExtTrackingDef>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>OmniExtTrackingDef</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```

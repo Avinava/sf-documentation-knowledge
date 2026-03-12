@@ -5,11 +5,16 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.781Z
-keywords: [Skill, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.832Z
+estimatedTokens: 384
+keywords: [Skill, Represents, settings, skill, used, field, service, route, chats, agents, Chat, such, name, which, skills, assigned, to., API, version, 65.0]
 ---
 
 # Skill
+
+> Represents the settings for a skill used for field service or to route chats
+         to agents in Chat, such as the name of the skill and which agents the skills are assigned
+         to. This object is available in API version 65.0 and later.
 
 # Skill
 

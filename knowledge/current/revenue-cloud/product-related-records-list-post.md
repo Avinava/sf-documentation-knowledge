@@ -5,11 +5,15 @@ topic: product-related-records-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.338Z
-keywords: [Product, Related, Records, List, POST, Note]
+lastCollected: 2026-03-12T05:14:07.159Z
+estimatedTokens: 367
+keywords: [Product, Related, Records, List, POST, Retrieve, related, ProductRampSegment, ProductUsageGrant, records, Product2, object., Note]
 ---
 
 # Product Related Records List (POST)
+
+> Retrieve related ProductRampSegment or ProductUsageGrant records for
+      Product2 object.
 
 # Product Related Records List (POST)
 
@@ -62,3 +66,58 @@ Properties
 Response body for POST
 
 [Related Records List](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_related_records_list_output.htm "Output representation of the list of related records.")
+
+## Code Examples
+
+```
+/connect/pcm/relatedRecords/entityName
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/relatedRecords/product2
+```
+
+```
+{
+  "recordIds": [
+    "01txx0000006i44AAA",
+    "01txx0000006i5gAAA"
+  ],
+  "relatedObjectNodes": [
+    {
+      "relatedObjectAPIName": "ProductRampSegment",
+      "pageSize": 20,
+      "offSet": 0
+    },
+    {
+      "relatedObjectAPIName": "ProductUsageGrant",
+      "pageSize": 10,
+      "offSet": 0,
+      "filter": {
+        "criteria": [
+          {
+            "property": "status",
+            "operator": "eq",
+            "value": "active"
+          },
+          {
+            "property": "effectivestartdate",
+            "operator": "lte",
+            "value": "2024-06-25"
+          },
+          {
+            "criteriaType": "CustomWhereCondition",
+            "value": "(effectiveenddate = null OR effectiveenddate >= 2024-06-25)"
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Related Object Node Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_node_input.htm)
+- Related Records
+              List (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_related_records_list_output.htm)

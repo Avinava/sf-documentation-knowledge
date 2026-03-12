@@ -5,11 +5,15 @@ topic: serializedproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.379Z
-keywords: [SerializedProduct, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:55.734Z
+estimatedTokens: 513
+keywords: [SerializedProduct, Records, serial, numbers, individual, product, inventory., API, version, 50.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # SerializedProduct
+
+> Records serial numbers for each individual product in an inventory. This
+    object is available in API version 50.0 and later.
 
 # SerializedProduct
 

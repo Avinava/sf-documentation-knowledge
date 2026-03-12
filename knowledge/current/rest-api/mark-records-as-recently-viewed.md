@@ -5,11 +5,18 @@ topic: mark-records-as-recently-viewed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:24.927Z
-keywords: [Mark, Records, Recently, Viewed, See]
+lastCollected: 2026-03-12T05:14:35.001Z
+estimatedTokens: 243
+keywords: [Mark, Records, Recently, Viewed, mark, record, recently, viewed, REST, API, Query, resource, VIEW, REFERENCE, clause., SOQL, records, ensure, information, such]
 ---
 
 # Mark Records as Recently Viewed
+
+> To mark a record as recently viewed using REST API, use the Query resource with a
+                FOR VIEW or FOR
+                REFERENCE clause. Use SOQL to mark records as recently viewed to ensure
+            that information such as the date and time the record was viewed is correctly
+        set.
 
 # Mark Records as Recently Viewed
 
@@ -36,3 +43,32 @@ Example response body for executing a query
 #### See Also
 
 -   [Query](atlas.en-us.api_rest.meta/api_rest/resources_query.htm "Runs the specified SOQL query.")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/query/?q=SELECT+Name+FROM+Account+LIMIT+1+FOR+VIEW -H "Authorization: Bearer token"
+```
+
+```
+{
+    "done" : true,
+    "totalSize" : 1,
+    "records" : 
+    [ 
+        {  
+            "attributes" : 
+            {    
+                "type" : "Account",    
+                "url" : "/services/data/v66.0/sobjects/Account/001D000000IRFmaIAH"  
+            },  
+            "Name" : "Acme"
+        }, 
+
+    ]
+}
+```
+
+## Related Topics
+
+- Query (atlas.en-us.api_rest.meta/api_rest/resources_query.htm)

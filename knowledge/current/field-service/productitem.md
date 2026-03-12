@@ -5,11 +5,15 @@ topic: productitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.740Z
-keywords: [ProductItem, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.290Z
+estimatedTokens: 839
+keywords: [ProductItem, Represents, stock, particular, product, location, field, service, such, bolts, stored, main, warehouse., Supported, Calls, Special, Access, Rules, Fields, Usage]
 ---
 
 # ProductItem
+
+> Represents the stock of a particular product at a particular location
+			in field service, such as all bolts stored in your main warehouse.
 
 # ProductItem
 

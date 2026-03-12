@@ -1,0 +1,103 @@
+---
+title: "Procedure Plan Section"
+domain: revenue-cloud
+topic: procedure-plan-section
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:08.166Z
+estimatedTokens: 353
+keywords: [Procedure, Plan, Section, Output, representation, details, procedure, plan, section.]
+---
+
+# Procedure Plan Section
+
+> Output representation of the details of a procedure plan section.
+
+# Procedure Plan Section
+
+Output representation of the details of a procedure plan section.
+
+JSON example
+
+```
+
+```
+
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| error | Procedure Plan Generic Error[] | Details of the error encountered during the processing of the API request. | Small, 62.0 | 62.0 |
+| isInherited | Boolean | Indicates whether the procedure plan section is inherited from a template (true) or not (false). | Small, 62.0 | 62.0 |
+| isSuccess | Boolean | Indicates whether the API request is successful (true) or not (false). | Small, 62.0 | 62.0 |
+| procedure​PlanOptions | Procedure Plan Option[] | List of procedure plan options. | Small, 62.0 | 62.0 |
+| recordId | String | ID of the procedure plan option record. | Small, 62.0 | 62.0 |
+| resolution​Type | String | Type of resolution that’s used to filter the procedure. | Small, 62.0 | 62.0 |
+| section​Type | String | Type of section. Valid values are:PricingProcedureProductDiscoveryProcedureProductQualificationProcedurePricingDiscoveryProcedureDiscountSpreadServiceProcedureRatingProcedureCustomRatingDiscoveryProcedure | Small, 62.0 | 62.0 |
+| sequence | Integer | Sequence that’s followed for the processing of the procedures. | Small, 62.0 | 62.0 |
+| subSection​Type | String | Subsection that’s added to the procedure plan definition. | Small, 62.0 | 62.0 |
+
+## Code Examples
+
+```
+"procedurePlanSections": [
+              {
+                 "isInherited": false,
+                 "isSuccess": true,
+                 "procedurePlanOptions": [
+                   {
+                     "expressionSetApiName": "Revenue_Mgmt_Default_Pricing_Procedure",
+                     "expressionSetDefinition": "9QAZ60000004ECOOA2",
+                     "expressionSetLabel": "Revenue Management Default Pricing Procedure",
+                     "isSuccess": true,
+                     "logic": "1 AND 2 AND 3",
+                     "primaryObject": "Account",
+                     "priority": 1,
+                     "procedurePlanCriterion": [
+                       {
+                         "conditionSequence": 1,
+                         "dataType": "Text",
+                         "fieldObject": "BillingCountry",
+                         "fieldPath": "BillingCountry",
+                         "isSuccess": true,
+                         "literalValue": "test",
+                         "operator": "Equals",
+                         "recordId": "1FiZ60000004C9cKAE"
+                        },
+                        {
+                         "conditionSequence": 2,
+                         "dataType": "Text",
+                         "fieldObject": "BillingPostalCode",
+                         "fieldPath": "BillingPostalCode",
+                         "isSuccess": true,
+                         "literalValue": "pramit",
+                         "operator": "Equals",
+                         "recordId": "1FiZ60000004C9dKAE"
+                         },
+                         {
+                           "conditionSequence": 3,
+                           "dataType": "Date",
+                           "fieldObject": "LastActivityDate",
+                           "fieldPath": "LastActivityDate",
+                           "isSuccess": true,
+                           "literalValue": "2024-07-14",
+                           "operator": "LessThan",
+                           "recordId": "1FiZ60000004C9eKAE"
+                          }
+                        ],
+                       "recordId": "1FYZ6000000000fOAA",
+                       "saveContextMapping": "AssetToSalesTransactionMapping"
+                        }
+                        ],
+                      "recordId": "1FRZ60000008OIAOA2",
+                      "resolutionType": "RuleBased",
+                      "sectionType": "PricingProcedure",
+                      "sequence": 1,
+                      "subSectionType": "PricingProcedure"
+                    }
+                ]
+```
+
+## Related Topics
+
+- Procedure Plan Generic Error (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_procedure_plan_generic_error.htm)
+- Procedure Plan Option (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_procedure_plan_option_output.htm)

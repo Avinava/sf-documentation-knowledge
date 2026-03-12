@@ -5,11 +5,16 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.210Z
-keywords: [ApexPage, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.632Z
+estimatedTokens: 1636
+keywords: [ApexPage, Represents, saved, copy, Visualforce, page., uses, cached, version, page, unless, unavailable., API, 28.0, later., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # ApexPage
+
+> Represents the saved copy of a Visualforce page. ApexPage uses the
+      cached version of the page unless one is unavailable.  Available from API version 28.0 or
+    later.
 
 # ApexPage
 
@@ -48,3 +53,8 @@ Query, GET, POST, PATCH, DELETE
 To retrieve information about a Visualforce page, create an ApexPage object that references it. For example code, see [SOAP Calls](atlas.en-us.api_tooling.meta/api_tooling/intro_soap_overview.htm).
 
 To edit, save, or compile Visualforce pages, use [ApexPageMember](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm "Represents the working copy of a Visualforce page for editing, saving, or compiling in a MetadataContainer.").
+
+## Related Topics
+
+- ApexPageMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm)
+- SOAP Calls (atlas.en-us.api_tooling.meta/api_tooling/intro_soap_overview.htm)

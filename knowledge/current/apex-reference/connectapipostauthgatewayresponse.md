@@ -5,11 +5,15 @@ topic: connectapipostauthgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.606Z
-keywords: [ConnectApi.PostAuthGatewayResponse]
+lastCollected: 2026-03-12T05:14:28.411Z
+estimatedTokens: 176
+keywords: [ConnectApi.PostAuthGatewayResponse, Gateway, response, after, confirmation, merchant, ready, capture, payment, existing, pre-authorized, transaction.]
 ---
 
 # ConnectApi.PostAuthGatewayResponse
+
+> Gateway response after confirmation that the merchant is ready to capture
+      payment of an existing pre-authorized transaction.
 
 # ConnectApi.PostAuthGatewayResponse
 
@@ -21,3 +25,9 @@ Sublass of [ConnectApi.AbstractGatewayResponse](atlas.en-us.apexref.meta/apexref
 | --- | --- | --- | --- |
 | gateway​AuthorizationCode | String | Code used to authorize the payment that the payment gateway is processing. | 54.0 |
 | paymentMethod​Details | ConnectApi.​PaymentMethod​Details | Details about the payment method. | 54.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractGatewayResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_gateway_txn_response.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​PaymentMethod​Details (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_method_details.htm)

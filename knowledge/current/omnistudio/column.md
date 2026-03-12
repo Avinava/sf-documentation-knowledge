@@ -5,11 +5,15 @@ topic: column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.124Z
-keywords: [Column]
+lastCollected: 2026-03-12T05:14:49.682Z
+estimatedTokens: 146
+keywords: [Column, Output, representation, model, features., used, show, insights, score, improvement, suggestion.]
 ---
 
 # Column
+
+> Output representation of model features. This is used to show insights
+      about the score and score improvement suggestion.
 
 # Column
 

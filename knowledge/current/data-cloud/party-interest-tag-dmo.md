@@ -5,11 +5,15 @@ topic: party-interest-tag-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.847Z
-keywords: [Party, Interest, Tag, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.703Z
+estimatedTokens: 350
+keywords: [Party, Interest, Tag, DMO, Represents, association, between, party, interest, tag., Provided, Financial, Services, Cloud, Data, Kit., API, version, later., Name]
 ---
 
 # Party Interest Tag DMO
+
+> Represents an association between a party and interest tag. Provided in the Financial
+      Services Cloud Data Kit. This DMO is available in API version 58 and later.
 
 # Party Interest Tag DMO
 

@@ -5,11 +5,17 @@ topic: apextestsuite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.253Z
-keywords: [ApexTestSuite, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, ens, Namespace, mns, Usage]
+lastCollected: 2026-03-12T05:14:44.694Z
+estimatedTokens: 369
+keywords: [ApexTestSuite, Represents, suite, Apex, classes, include, test, run., TestSuiteMembership, associates, suite., ens, Tooling, API, version, 36.0, later., mns, 38.0, Supported]
 ---
 
 # ApexTestSuite
+
+> Represents a suite of Apex classes to include in a test run. A
+   TestSuiteMembership object associates each class with the suite. Available in the ens namespace in Tooling API
+      version 36.0 and later. Also, available in the mns
+      namespace in Tooling API version 38.0 and later.
 
 # ApexTestSuite
 
@@ -43,4 +49,11 @@ The following SOQL query returns the membership object that relates this Apex cl
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT Id FROM TestSuiteMembership WHERE ApexClassId = '01pD0000000Fhy9IAC'
+    AND ApexTestSuiteId = '05FD00000004CDBMA2'
 ```

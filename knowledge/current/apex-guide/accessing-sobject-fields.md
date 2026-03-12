@@ -5,11 +5,15 @@ topic: accessing-sobject-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.995Z
-keywords: [Accessing, SObject, Fields, Note]
+lastCollected: 2026-03-12T05:14:34.578Z
+estimatedTokens: 745
+keywords: [Accessing, SObject, Fields, Java, fields, accessed, changed, simple, dot, notation., example, Note]
 ---
 
 # Accessing SObject Fields
+
+> As in Java, SObject fields can be accessed or changed with simple dot notation. For
+      example:
 
 # Accessing SObject Fields
 
@@ -69,4 +73,74 @@ An expression with SObject fields of type Boolean evaluates to true only if the 
 
 ```
 
+```
+
+## Code Examples
+
+```
+Account a = new Account();
+a.Name = 'Acme';    // Access the account name field and assign it 'Acme'
+```
+
+```
+Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
+insert a;
+sObject s = [SELECT Id, Name FROM Account WHERE Name = 'Acme' LIMIT 1];
+// This is allowed
+ID id = s.Id;
+// The following line results in an error when you try to save
+String x = s.Name;
+// This line results in an error when you try to save using API version 26.0 or earlier
+s.Id = [SELECT Id FROM Account WHERE Name = 'Acme' LIMIT 1].Id;
+```
+
+```
+Account a = new Account(Name = 'Acme', BillingCity = 'San Francisco');
+insert a;
+sObject s = [SELECT Id, Name FROM Account WHERE Name = 'Acme' LIMIT 1];
+ID id = s.ID;
+Account convertedAccount = (Account)s;
+convertedAccount.name = 'Acme2';
+update convertedAccount;
+Contact sal = new Contact(FirstName = 'Sal', Account = convertedAccount);
+```
+
+```apex
+public class convertToCLA {
+    List<Contact> contacts = new List<Contact>();
+    List<Lead> leads = new List<Lead>();
+    List<Account> accounts = new List<Account>();
+ 
+    public void convertType(String phoneNumber) {
+        List<List<SObject>> results = [FIND :phoneNumber 
+            IN Phone FIELDS 
+            RETURNING Contact(Id, Phone, FirstName, LastName), 
+            Lead(Id, Phone, FirstName, LastName), 
+            Account(Id, Phone, Name)];
+        List<SObject> records = new List<SObject>();
+        records.addAll(results[0]); //add Contact results to our results super-set
+        records.addAll(results[1]); //add Lead results
+        records.addAll(results[2]); //add Account results
+ 
+        if (!records.isEmpty()) { 
+            for (Integer i = 0; i < records.size(); i++) { 
+                SObject record = records[i];
+                if (record.getSObjectType() == Contact.sObjectType) { 
+                    contacts.add((Contact) record);
+                } else if (record.getSObjectType() == Lead.sObjectType){ 
+                    leads.add((Lead) record);
+                } else if (record.getSObjectType() == Account.sObjectType) { 
+                    accounts.add((Account) record); 
+                }
+            }
+        }
+    }
+}
+```
+
+```apex
+Contact nullFirst = new Contact(LastName='Codey', FirstName=null);
+System.assertEquals(true, nullFirst.isSet('FirstName'), 'FirstName is set to a literal value, so it counts as set');
+Contact unsetFirst = new Contact(LastName='Astro');
+System.assertEquals(false, unsetFirst.isSet('FirstName'), ‘FirstName is not set’);
 ```

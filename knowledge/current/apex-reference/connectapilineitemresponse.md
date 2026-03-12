@@ -5,11 +5,15 @@ topic: connectapilineitemresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.043Z
-keywords: [ConnectApi.LineItemResponse]
+lastCollected: 2026-03-12T05:14:27.657Z
+estimatedTokens: 252
+keywords: [ConnectApi.LineItemResponse, Response, stores, information, list, line, items, which, tax, engine, calculated, tax.]
 ---
 
 # ConnectApi.LineItemResponse
+
+> Response class that stores information about a list of one or more
+      line items on which the tax engine has calculated tax.
 
 # ConnectApi.LineItemResponse
 
@@ -25,3 +29,13 @@ Response class that stores information about a list of one or more line items on
 | quantity | Double | Quantity of the taxed line item. | 55.0 |
 | taxCode | String | Tax code for the taxed line item. | 55.0 |
 | taxes | List<ConnectApi.​TaxDetails​Response> | Tax details for each line item in a tax line item output. | 55.0 |
+
+## Related Topics
+
+- ConnectApi.​TaxAddresses​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_addresses_output.htm)
+- ConnectApi.​TaxAmount​DetailsResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tax_amount_details_output.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​TaxDetails​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tax_details_output.htm)

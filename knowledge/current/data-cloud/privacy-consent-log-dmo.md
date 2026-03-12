@@ -5,11 +5,15 @@ topic: privacy-consent-log-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:43.866Z
-keywords: [Privacy, Consent, Log, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.734Z
+estimatedTokens: 1025
+keywords: [Privacy, Consent, Log, DMO, Data, Cloud, data, model, information, user’s, requested, consent, privacy, information., API, Name, Category, Primary, Subject, Area]
 ---
 
 # Privacy Consent Log DMO
+
+> The Privacy Consent Log DMO is a Data Cloud data model object (DMO) for
+      information about a user’s requested consent and privacy information.
 
 # Privacy Consent Log DMO
 

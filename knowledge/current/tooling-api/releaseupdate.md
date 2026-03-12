@@ -5,11 +5,15 @@ topic: releaseupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.669Z
-keywords: [ReleaseUpdate, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.673Z
+estimatedTokens: 886
+keywords: [ReleaseUpdate, Represents, individual, release, update., API, version, 50.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # ReleaseUpdate
+
+> Represents an individual release update. Available in API
+        version 50.0 and later.
 
 # ReleaseUpdate
 

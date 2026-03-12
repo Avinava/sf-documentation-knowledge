@@ -5,11 +5,15 @@ topic: connectapicartinventoryreservationinputrepresentation-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.891Z
-keywords: [ConnectApi.CartInventoryReservationInputRepresentation, Pilot, Note]
+lastCollected: 2026-03-12T05:14:24.500Z
+estimatedTokens: 239
+keywords: [ConnectApi.CartInventoryReservationInputRepresentation, Pilot, Input, representation, create, update, reservation., Note]
 ---
 
 # ConnectApi.CartInventoryReservationInputRepresentation (Pilot)
+
+> Input representation to create or update a
+    reservation.
 
 # ConnectApi.CartInventoryReservationInputRepresentation (Pilot)
 
@@ -24,3 +28,7 @@ This feature is not generally available and is being piloted with certain Custom
 | Property | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | durationIn​Seconds | Integer | Reservation duration in seconds. | Required | 58.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

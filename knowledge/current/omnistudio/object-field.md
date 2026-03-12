@@ -5,15 +5,18 @@ topic: object-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.404Z
-keywords: [Object, Field]
+lastCollected: 2026-03-12T05:14:50.393Z
+estimatedTokens: 87
+keywords: [Field, Output, representation, target, field.]
 ---
 
 # Object Field
 
+> Output representation of of the target object field.
+
 # Object Field
 
-Output representation of the target object field.
+Output representation of of the target object field.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |

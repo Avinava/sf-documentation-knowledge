@@ -5,11 +5,21 @@ topic: execution-governors-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.210Z
-keywords: [Execution, Governors, Limits, Per-Transaction, Apex, Note, Certified, Managed, Package, Lightning, Platform, Static, Size-Specific, Miscellaneous, Email, Push, Notification, See]
+lastCollected: 2026-03-12T05:14:33.493Z
+estimatedTokens: 6658
+namespace: ConnectApi
+keywords: [Execution, Governors, Limits, Because, Apex, runs, multitenant, environment, runtime, engine, strictly, enforces, limits, runaway, code, processes, don’t, monopolize, shared, resources.]
 ---
 
 # Execution Governors and Limits
+
+> Because
+      Apex runs in a multitenant environment, the Apex runtime engine strictly enforces limits so
+      that runaway Apex code or processes don’t monopolize shared resources. If some Apex code
+    exceeds a limit, the associated governor issues a runtime exception that can’t be
+    handled.
+
+**Namespace:** `ConnectApi`
 
 # Execution Governors and Limits
 
@@ -284,5 +294,10 @@ When an org's hourly push notification limit is met, any additional notification
 #### See Also
 
 -   [Asynchronous Callout Limits](atlas.en-us.apexcode.meta/apexcode/apex_continuation_limits.htm "When a continuation is executing, the continuation-specific limits apply. When the continuation returns and the request resumes, a new Apex transaction starts. All Apex and Visualforce limits apply and are reset in the new transaction, including the Apex callout limits.")
-    
+
 -   [*Platform Events Developer Guide*](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/platform_events_intro.htm "Platform Events Developer Guide - HTML (New Window)")
+
+## Related Topics
+
+- @isTest annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)
+- Asynchronous Callout Limits (atlas.en-us.apexcode.meta/apexcode/apex_continuation_limits.htm)

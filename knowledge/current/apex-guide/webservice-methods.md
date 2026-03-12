@@ -5,8 +5,9 @@ topic: webservice-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.769Z
-keywords: [Webservice, Methods]
+lastCollected: 2026-03-12T05:14:34.225Z
+estimatedTokens: 165
+keywords: [Webservice]
 ---
 
 # Webservice Methods
@@ -24,3 +25,15 @@ A developer of an external application can integrate with an Apex class containi
 1.  In the application from Setup, enter “Apex Classes” in the Quick Find box, then select **Apex Classes**.
 2.  Click the name of a class that contains webservice methods.
 3.  Click **Generate WSDL**.
+
+## Code Examples
+
+```apex
+global class MyWebService {
+    webservice static Id makeContact(String contactLastName, Account a) {
+        Contact c = new Contact(lastName = contactLastName, AccountId = a.Id);
+        insert c;
+        return c.id;
+    }
+}
+```

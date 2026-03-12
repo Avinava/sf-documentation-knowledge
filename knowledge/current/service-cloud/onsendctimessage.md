@@ -5,11 +5,17 @@ topic: onsendctimessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.583Z
-keywords: [onSendCTIMessage, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.270Z
+estimatedTokens: 259
+keywords: [onSendCTIMessage, Registers, function, fired, message, sent, sendCTIMessage, get, information, send, between, interaction, log, custom, console, component., only, API, version, 31.0]
 ---
 
 # onSendCTIMessage()
+
+> Registers a function that is fired when a message is
+            sent with the sendCTIMessage(). Use to get information or send
+            information between an interaction log and a custom console component. This method is
+            only available in API version 31.0 or later.
 
 # onSendCTIMessage()
 
@@ -40,3 +46,33 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | message | string | The message that was sent with the onSendCTIMessage() method. |
+
+## Code Examples
+
+```
+sforce.console.cti.onSendCTIMessage( eventHandler:Function )
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+     <script type="text/javascript">
+
+           var callback = function (result) {
+               alert('sendCTIMessage API sent the following message: ' + result.message);
+           };
+
+           sforce.console.cti.onSendCTIMessage(callback);
+
+           function sendCTIMessage() {
+               sforce.console.cti.sendCTIMessage('sending a message to CTI');
+           }
+     </script>
+     <a href="#" onClick="sendCTIMessage();return false">
+                 Send a message to see your listener receiving it!</a>
+</apex:page>
+```
+
+## Related Topics
+
+- sendCTIMessage() (atlas.en-us.api_console.meta/api_console/sforce_api_console_sendctimessage.htm)

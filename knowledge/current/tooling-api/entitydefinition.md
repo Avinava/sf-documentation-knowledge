@@ -5,11 +5,15 @@ topic: entitydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.779Z
-keywords: [EntityDefinition, Important, Note, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, RecordTypesSupported, Metadata, RecordTypeInfo]
+lastCollected: 2026-03-12T05:14:45.386Z
+estimatedTokens: 6304
+keywords: [EntityDefinition, Provides, row-based, access, metadata, standard, custom, objects., Important, Note, Supported, SOAP, Calls, REST, HTTP, Limitations, Fields, RecordTypesSupported, Metadata, RecordTypeInfo]
 ---
 
 # EntityDefinition
+
+> Provides row-based access to
+            metadata about standard and custom objects.
 
 # EntityDefinition
 
@@ -154,3 +158,11 @@ RecordTypeInfo is in the tns namespace. Represents a record type associated with
 | master | TypebooleanDescriptionThis field is available in Tooling API version 35.0 and later. |
 | name | TypestringDescriptionName of the record type. This field is available in Tooling API version 35.0 and later. |
 | recordTypeId | TypeIdDescriptionID of the record type. This field is available in Tooling API version 35.0 and later. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- CompactLayoutInfo (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_compactlayoutinfo.htm)
+- Publisher (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_publisher.htm)
+- UserEntityAccess (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_userentityaccess.htm)

@@ -5,11 +5,14 @@ topic: connectapiproductdetailsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.696Z
-keywords: [ConnectApi.ProductDetailsOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.547Z
+estimatedTokens: 437
+keywords: [ConnectApi.ProductDetailsOutputRepresentation, Details, product.]
 ---
 
 # ConnectApi.ProductDetailsOutputRepresentation
+
+> Details about a product.
 
 # ConnectApi.ProductDetailsOutputRepresentation
 
@@ -34,3 +37,16 @@ Subclass of [ConnectApi.BaseOutputRepresentation](atlas.en-us.apexref.meta/apexr
 | totalChildrenCount | Enum | For bundles only: the total number of child products in a bundle. Only applicable for B2B or D2C stores./> | 64.0 |
 | unitPrice | Double | Unit price. | 55.0 |
 | variants | List<ConnectApi.​ProductVariant​Output​Representation> | List of variations of the product. | 55.0 |
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ProductVariation​AttributeOutput​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_variation_attribute_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ProductBundleChild​AttributeOutput​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_bundle_child_output.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- ConnectApi.​ProductImage​GroupOutput​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_image_group_output.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Purchase Quantity Rule (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_purchase_quantity_rule.htm)
+- Enum (atlas.en-us.apexref.meta/apexref/apex_methods_system_enum.htm)

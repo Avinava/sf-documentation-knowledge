@@ -5,11 +5,15 @@ topic: worksteptemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.188Z
-keywords: [WorkStepTemplate, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.923Z
+estimatedTokens: 612
+keywords: [WorkStepTemplate, Represents, template, work, step., API, version, 52.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # WorkStepTemplate
+
+> Represents a template for a work step. This object is available in API
+    version 52.0 and later.
 
 # WorkStepTemplate
 

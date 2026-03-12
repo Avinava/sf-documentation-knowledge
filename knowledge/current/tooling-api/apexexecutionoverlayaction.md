@@ -5,11 +5,19 @@ topic: apexexecutionoverlayaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.189Z
-keywords: [ApexExecutionOverlayAction, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.601Z
+estimatedTokens: 853
+namespace: YourClass
+keywords: [ApexExecutionOverlayAction, Specifies, Apex, code, snippet, SOQL, query, execute, specific, line, trigger., Optionally, generates, heap, dump., Supported, SOAP, Calls, REST, HTTP]
 ---
 
 # ApexExecutionOverlayAction
+
+> Specifies an Apex code snippet or SOQL query to execute at a
+			specific line of code in an Apex class or trigger. Optionally, generates a heap
+			dump.
+
+**Namespace:** `YourClass`
 
 # ApexExecutionOverlayAction
 

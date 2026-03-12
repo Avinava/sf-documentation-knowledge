@@ -5,11 +5,16 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.236Z
-keywords: [MatchingRule, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.024Z
+estimatedTokens: 560
+keywords: [MatchingRule, Setup, specifying, DuplicateJob, instances, share, DuplicateJobDefinition., Tooling, API, version, 42.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # MatchingRule
+
+> Setup object specifying a MatchingRule to
+            use with DuplicateJob instances that share a DuplicateJobDefinition. Available in
+            Tooling API version 42.0 and later.
 
 # MatchingRule
 

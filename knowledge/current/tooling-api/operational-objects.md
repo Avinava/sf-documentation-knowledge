@@ -5,11 +5,14 @@ topic: operational-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.047Z
-keywords: [Operational, Objects]
+lastCollected: 2026-03-12T05:14:44.390Z
+estimatedTokens: 454
+keywords: [Operational, Objects, following, objects, Tooling, API, operations.]
 ---
 
 # Operational Objects
+
+> Use the following objects for Tooling API operations.
 
 # Operational Objects
 
@@ -34,7 +37,14 @@ Represents long-running or asynchronous operations triggered and tracked through
 The following Tooling API objects are used internally by the Developer Console.
 
 -   IDEPerspective
-    
+
 -   IDEWorkspace
-    
+
 -   User.WorkspaceId
+
+## Related Topics
+
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)
+- DeployDetails (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_deploydetails.htm)
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- OperationLog (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_operationlog.htm)

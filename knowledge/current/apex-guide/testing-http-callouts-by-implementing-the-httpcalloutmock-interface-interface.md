@@ -5,11 +5,15 @@ topic: testing-http-callouts-by-implementing-the-httpcalloutmock-interface-inter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.647Z
-keywords: [Testing, HTTP, Callouts, Implementing, HttpCalloutMock, Interface, Note, See]
+lastCollected: 2026-03-12T05:14:32.702Z
+estimatedTokens: 622
+keywords: [Testing, HTTP, Callouts, Implementing, HttpCalloutMock, Provide, implementation, specify, response, sent, respond, which, Apex, runtime, calls, send, callout., Note]
 ---
 
 # Testing HTTP Callouts by Implementing the  HttpCalloutMock Interface Interface
+
+> Provide an implementation for the HttpCalloutMock interface to specify the response sent in the respond method, which the Apex runtime calls to
+                send a response for a callout.
 
 # Testing HTTP Callouts by Implementing the HttpCalloutMock Interface Interface
 
@@ -57,5 +61,81 @@ This is a full example that shows how to test an HTTP callout. The interface imp
 #### See Also
 
 -   [*Apex Reference Guide*: HttpCalloutMock Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_httpcalloutmock.htm "Apex Reference Guide: HttpCalloutMock Interface - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Test Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_test.htm "Apex Reference Guide: Test Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+global class YourHttpCalloutMockImpl implements HttpCalloutMock {
+    global HTTPResponse respond(HTTPRequest req) {
+        // Create a fake response.
+        // Set response values, and 
+        // return response.
+    }
+}
+```
+
+```
+Test.setMock(HttpCalloutMock.class, new YourHttpCalloutMockImpl());
+```
+
+```apex
+@isTest
+global class MockHttpResponseGenerator implements HttpCalloutMock {
+    // Implement this interface method
+    global HTTPResponse respond(HTTPRequest req) {
+        // Optionally, only send a mock response for a specific endpoint
+        // and method.
+        System.assertEquals('https://example.com/example/test', req.getEndpoint());
+        System.assertEquals('GET', req.getMethod());
+        
+        // Create a fake response
+        HttpResponse res = new HttpResponse();
+        res.setHeader('Content-Type', 'application/json');
+        res.setBody('{"example":"test"}');
+        res.setStatusCode(200);
+        return res;
+    }
+}
+```
+
+```apex
+public class CalloutClass {
+    public static HttpResponse getInfoFromExternalService() {
+        HttpRequest req = new HttpRequest();
+        req.setEndpoint('https://example.com/example/test');
+        req.setMethod('GET');
+        Http h = new Http();
+        HttpResponse res = h.send(req);
+        return res;
+    }
+}
+```
+
+```apex
+@isTest
+private class CalloutClassTest {
+     @isTest static void testCallout() {
+        // Set mock callout class 
+        Test.setMock(HttpCalloutMock.class, new MockHttpResponseGenerator());
+        
+        // Call method to test.
+        // This causes a fake response to be sent
+        // from the class that implements HttpCalloutMock. 
+        HttpResponse res = CalloutClass.getInfoFromExternalService();
+        
+        // Verify response received contains fake values
+        String contentType = res.getHeader('Content-Type');
+        System.assert(contentType == 'application/json');
+        String actualValue = res.getBody();
+        String expectedValue = '{"example":"test"}';
+        System.assertEquals(actualValue, expectedValue);
+        System.assertEquals(200, res.getStatusCode());
+    }
+}
+```
+
+## Related Topics
+
+- @isTest (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)

@@ -5,11 +5,14 @@ topic: contentdownloadcontext-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.428Z
-keywords: [ContentDownloadContext, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.556Z
+estimatedTokens: 307
+keywords: [ContentDownloadContext, specifies, download, context., Usage, Values]
 ---
 
 # ContentDownloadContext Enum
+
+> This enum specifies the download context.
 
 # ContentDownloadContext Enum
 

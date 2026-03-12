@@ -5,11 +5,16 @@ topic: blinkcustomconsolecomponentbuttontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.753Z
-keywords: [blinkCustomConsoleComponentButtonText, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.114Z
+estimatedTokens: 238
+keywords: [blinkCustomConsoleComponentButtonText, Blinks, button’s, text, application-level, custom, console, component, that’s, page., only, API, version, 25.0, later., isn’t, supported, Lightning, Console., Syntax]
 ---
 
 # blinkCustomConsoleComponentButtonText()
+
+> Blinks a button’s text on
+            an application-level custom console component that’s on a page. This method is only available in API version 25.0 or
+                later. This method isn’t supported in Lightning Console.
 
 # blinkCustomConsoleComponentButtonText()
 
@@ -42,3 +47,31 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if blinking, the button text was successful; false if blinking the button text wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.blinkCustomConsoleComponentButtonText(alternateText:String, interval:number, (optional)callback:Function)
+```
+
+```
+<apex:page>
+
+    <A HREF="#" onClick="testBlinkCustomConsoleComponentButtonText();return false">
+         Click here to blink the button text on a custom console component</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testBlinkCustomConsoleComponentButtonText() {
+        //Blink the custom console component button text
+            sforce.console.blinkCustomConsoleComponentButtonText('Hello World', 10, function(result){
+              if (result.success) {
+               alert('The text blinking starts!');
+              } else {
+               alert('Could not initiate the text blinking!');
+              }
+            });
+           }
+    </script>
+</apex:page>
+```

@@ -5,11 +5,15 @@ topic: compactlayoutinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.432Z
-keywords: [CompactLayoutInfo, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, Note]
+lastCollected: 2026-03-12T05:14:44.891Z
+estimatedTokens: 1067
+keywords: [CompactLayoutInfo, Represents, metadata, custom, standard, compact, layout., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields, Note]
 ---
 
 # CompactLayoutInfo
+
+> Represents the metadata for a
+            custom or standard compact layout.
 
 # CompactLayoutInfo
 
@@ -51,3 +55,10 @@ GET
 #### Note
 
 CompactLayoutInfo is exposed in Tooling API to user profiles with the View Setup and Configuration permission.
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- QueryResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_queryresult.htm)
+- CompactLayout (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_compactlayout.htm)

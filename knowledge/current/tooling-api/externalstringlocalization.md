@@ -5,11 +5,16 @@ topic: externalstringlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.911Z
-keywords: [ExternalStringLocalization, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:45.569Z
+estimatedTokens: 564
+keywords: [ExternalStringLocalization, Represents, translation, custom, labels, component, represented, ExternalString, object., API, version, 49.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access]
 ---
 
 # ExternalStringLocalization
+
+> Represents the translation of custom labels for a UI component represented by
+      the ExternalString object. This object is available in API version 49.0 and
+    later.
 
 # ExternalStringLocalization
 
@@ -42,3 +47,8 @@ DELETE, GET, PATCH, POST
 | ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace of the package of which the custom label is a part. |
 | Value | TypestringPropertiesCreate, Filter, Sort, UpdateDescriptionThe translated string value, limited to 32,000 characters or 96,000 bytes of data, up to the length of the translated string. |
+
+## Related Topics
+
+- ExternalString (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_externalstring.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

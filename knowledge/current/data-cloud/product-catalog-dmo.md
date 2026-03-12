@@ -5,11 +5,15 @@ topic: product-catalog-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.886Z
-keywords: [Product, Catalog, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.769Z
+estimatedTokens: 510
+keywords: [Product, Catalog, DMO, Data, Cloud, data, model, company’s, inventory, merchandising, catalog., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Product Catalog DMO
+
+> The Product Catalog DMO is a Data Cloud data model object (DMO) for a
+      company’s inventory or merchandising catalog.
 
 # Product Catalog DMO
 

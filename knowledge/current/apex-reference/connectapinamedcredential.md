@@ -5,11 +5,18 @@ topic: connectapinamedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.341Z
-keywords: [ConnectApi.NamedCredential, Important, See]
+lastCollected: 2026-03-12T05:14:28.056Z
+estimatedTokens: 560
+namespace: String
+keywords: [ConnectApi.NamedCredential, Named, credential, associated, external, credential., Important]
 ---
 
 # ConnectApi.NamedCredential
+
+> Named credential associated with an external
+    credential.
+
+**Namespace:** `String`
 
 # ConnectApi.NamedCredential
 
@@ -41,5 +48,18 @@ Where possible, we changed noninclusive terms to align with our company value of
 #### See Also
 
 -   [ConnectApi.ExternalCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm "External credential, including the named credentials and principals associated with it and the type and status of each principal.")
-    
+
 -   [ConnectApi.NamedCredentialList](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential_list.htm "List of named credentials.")
+
+## Related Topics
+
+- ConnectApi.​NamedCredential​CalloutOptions (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential_callout_options.htm)
+- ConnectApi.​CalloutStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CredentialCustom​Header (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_credential_custom_header.htm)
+- ConnectApi.​ExternalCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm)
+- ConnectApi.​NetworkConnection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_network_connection.htm)
+- ConnectApi.​NamedCredential​Parameter (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential_parameter.htm)
+- ConnectApi.​NamedCredentialType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ExternalCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential.htm)

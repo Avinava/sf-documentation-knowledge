@@ -5,11 +5,19 @@ topic: contenttypebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.268Z
-keywords: [ContentTypeBundle, Important, Parent, Type, Structure, Directory, Location, Version, Special, Access, Rules, Fields, ContentTypeBundleResource, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:37.926Z
+estimatedTokens: 1997
+keywords: [ContentTypeBundle, Represents, definition, enhanced, custom, content, types, CMS, workspaces., create, deploy, bundle, org., Enhanced, displayed, forms, defined, fields., deployed, LWR]
 ---
 
 # ContentTypeBundle
+
+> Represents the definition of enhanced custom content types
+			for use with enhanced CMS workspaces. When you create an enhanced custom content type,
+			deploy this bundle to your org. Enhanced custom content types are displayed as forms
+			with defined fields. When deployed, enhanced custom content types are available for use
+			with enhanced LWR site channels. To use enhanced custom content types with Aura and
+			non-enhanced LWR site channels, use enhanced CMS workspaces resources.
 
 # ContentTypeBundle
 
@@ -92,3 +100,34 @@ To use enhanced custom content types with Aura and non-enhanced LWR site channel
 ## Wildcard Support in the Manifest
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving with the Zip](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.") .
+
+## Code Examples
+
+```
++--myMetadataPackage
+    +--contentTypes (1)
+        +--bbHost (2)
+           +--schema.json (3)
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ContentTypeBundle</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```
+
+```
+contentTypes
+    bbHost
+        schema.json
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving with the Zip (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

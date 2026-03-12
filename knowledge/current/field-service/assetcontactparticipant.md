@@ -5,11 +5,16 @@ topic: assetcontactparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.498Z
-keywords: [AssetContactParticipant, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.917Z
+estimatedTokens: 849
+keywords: [AssetContactParticipant, Represents, junction, between, Asset, Contact, objects, describing, association, participating, contact, asset., API, version, 56.0, later., Supported, Calls, Fields, Associated]
 ---
 
 # AssetContactParticipant
+
+> Represents a junction between the Asset and Contact objects describing the
+         association between a participating contact and an asset. This object is available in
+      API version 56.0 and later.
 
 # AssetContactParticipant
 

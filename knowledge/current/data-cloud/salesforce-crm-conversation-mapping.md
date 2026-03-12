@@ -5,11 +5,15 @@ topic: salesforce-crm-conversation-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.641Z
-keywords: [Salesforce, CRM, Conversation, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:12.828Z
+estimatedTokens: 401
+keywords: [Salesforce, CRM, Conversation, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Conversation Mapping
+
+> These data mappings are for the Conversation DLO found in the Services bundle of the
+  Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Conversation Mapping
 

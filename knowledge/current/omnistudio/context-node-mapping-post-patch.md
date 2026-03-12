@@ -5,11 +5,14 @@ topic: context-node-mapping-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.924Z
-keywords: [Context, Node, Mapping, POST, PATCH]
+lastCollected: 2026-03-12T05:14:49.368Z
+estimatedTokens: 313
+keywords: [Context, Node, Mapping, POST, PATCH, Create, update, context, node, mappings.]
 ---
 
 # Context Node Mapping (POST, PATCH)
+
+> Create and update context node mappings.
 
 # Context Node Mapping (POST, PATCH)
 
@@ -77,3 +80,53 @@ JSON example
 Response body for PATCH
 
 [Context Node Mapping List Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node_mapping_list.htm "Output representation of list of context node mappings.")
+
+## Code Examples
+
+```
+/connect/context-mappings/${contextMappingId}/context-node-mappings
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-mappings/${contextMappingId}/context-node-mappings
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-mappings/${contextMappingId}/context-node-mappings
+```
+
+```
+{
+    "contextNodeMappings": [
+        {
+            "contextNodeId": "11oxx000001G31BAAS",
+            "sObjectName": "Order"
+        },
+        {
+            "contextNodeId": "11oxx000001G31CAAS",
+            "sObjectName": "OrderItem"
+        }
+    ]
+}
+```
+
+```
+{
+    "contextNodeMappings": [
+        {
+            "contextNodeMappingId": "11bxx000000YZipAAG",
+            "sObjectName": "Quote"
+        },
+        {
+            "contextNodeMappingId": "11bxx000000YZiqAAG",
+            "sObjectName": "QuoteItem"
+        }
+    ]
+}
+```
+
+## Related Topics
+
+- Context Attribute Mappings
+                                                Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_attribute_mappings_input.htm)
+- Context Node Mapping List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node_mapping_list.htm)

@@ -4,12 +4,16 @@ domain: field-service
 topic: code-examples-dispatcher-console-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:47:12.160Z
-keywords: [Code, Examples, Dispatcher, Console, Custom, Actions, Note, Creating, Apex, Classes, Visualforce, Pages, See]
+docType: example
+lastCollected: 2026-03-12T05:14:55.392Z
+estimatedTokens: 1368
+keywords: [Code, Examples, Dispatcher, Console, Custom, Actions, how, configure, Apex, classes, Visualforce, pages, want, link, custom, action, dispatcher, console., Note, Creating]
 ---
 
 # Code Examples: Dispatcher Console Custom Actions
+
+> Learn how to configure Apex classes or Visualforce pages that you want to link to a
+        custom action in the dispatcher console.
 
 # Code Examples: Dispatcher Console Custom Actions
 
@@ -86,3 +90,85 @@ Custom dispatcher console actions can’t open Visualforce pages that are part o
 #### See Also
 
 -   [Create Custom Actions for the Dispatcher Console](https://help.salesforce.com/articleView?id=pfs_create_custom_actions.htm&language=en_US "Create Custom Actions for the Dispatcher Console - HTML (New Window)")
+
+## Code Examples
+
+```apex
+global class BlockResourceVisibleTime implements FSL.CustomGanttServiceResourceAction {
+
+    global String action(Id resourceId, Id stmId, Datetime ganttStartDate, Datetime ganttEndDate, Map<String, Object> additionalParameters) {
+
+        ResourceAbsence na = new ResourceAbsence();
+
+        // get Resource Absence record type - NA
+        RecordType recordTypeNA = [
+            SELECT 
+                Id, SobjectType, Name 
+            FROM 
+                RecordType 
+            WHERE 
+                DeveloperName =: 'Non_Availability' 
+                AND 
+                SObjectType =: ResourceAbsence.getSobjectType().getDescribe().getName() 
+            ];
+
+        na.RecordTypeId = recordTypeNA.Id;
+        na.ResourceId = resourceId;
+        na.FSL__Approved__c = true;
+        na.Start = ganttStartDate;
+        na.End = ganttEndDate;
+
+        insert na;
+
+        ServiceResource resource = [SELECT Name FROM ServiceResource WHERE Id =: resourceId];
+
+        return 'Blocked availability to ' + resource.Name + ' from ' + ganttStartDate.format() + ' to ' + ganttEndDate.format();
+
+    }
+
+}
+```
+
+```apex
+global class toggleServiceAppointmentJeopardy implements FSL.CustomGanttServiceAppointmentAction {
+ 
+    global String action(List<Id> serviceAppointmentsIds, Datetime ganttStartDate, Datetime ganttEndDate, Map<String, Object> additionalParameters) {
+       
+        List<ServiceAppointment> saList = [SELECT FSL__InJeopardy__c, AppointmentNumber FROM ServiceAppointment WHERE Id in : serviceAppointmentsIds];
+        String reply = '';
+        List<String> saNames = new List<String>();
+
+        for (ServiceAppointment s : saList) {
+            s.FSL__InJeopardy__c = !s.FSL__InJeopardy__c;
+            saNames.add(s.AppointmentNumber);
+        }
+       
+        upsert saList;
+
+        reply = String.join(saNames, ', ');
+        return 'Service Appointments successfully processed: ' + reply;
+    }
+   
+}
+```
+
+```apex
+global class copyAbsenceToNextDay implements FSL.CustomGanttResourceAbsenceAction {
+ 
+    global String action(Id absenceId, String absenceType, Datetime ganttStartDate, Datetime ganttEndDate, Map<String, Object> additionalParameters) {
+       
+        ResourceAbsence resourceAbsence = [SELECT Id, AbsenceNumber, Start, End, ResourceId, RecordTypeId, FSL__Approved__c FROM ResourceAbsence WHERE Id =: absenceId LIMIT 1];
+
+        ResourceAbsence raClone = resourceAbsence.clone(false, true, false, false);
+        raClone.Start = resourceAbsence.Start.addDays(1);
+        raClone.End = resourceAbsence.End.addDays(1);
+        raClone.ResourceId = resourceAbsence.ResourceId;
+        raClone.RecordTypeId = resourceAbsence.RecordTypeId;
+        raClone.FSL__Approved__c = true;
+        insert raClone;
+
+        return 'Resource Absence successfully copied.';
+    }
+   
+}
+```

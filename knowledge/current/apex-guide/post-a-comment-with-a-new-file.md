@@ -5,11 +5,14 @@ topic: post-a-comment-with-a-new-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.875Z
-keywords: [Post, Comment, New, File]
+lastCollected: 2026-03-12T05:14:34.389Z
+estimatedTokens: 132
+keywords: [Post, Comment, New, File, Call, post, comment, new, file.]
 ---
 
 # Post a Comment with a New File
+
+> Call a method to post a comment with a new file.
 
 # Post a Comment with a New File
 
@@ -19,4 +22,35 @@ To post a comment and upload and attach a new file to the comment, create a Conn
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+String feedElementId = '0D5D0000000KtW3';
+
+ConnectApi.CommentInput commentInput = new ConnectApi.CommentInput();
+
+ConnectApi.MessageBodyInput messageBodyInput = new ConnectApi.MessageBodyInput();
+ConnectApi.TextSegmentInput textSegmentInput = new ConnectApi.TextSegmentInput();
+
+textSegmentInput.text = 'Enjoy this new file.';
+
+messageBodyInput.messageSegments = new List<ConnectApi.MessageSegmentInput>();
+messageBodyInput.messageSegments.add(textSegmentInput);
+commentInput.body = messageBodyInput;
+
+ConnectApi.CommentCapabilitiesInput commentCapabilitiesInput = new ConnectApi.CommentCapabilitiesInput();
+ConnectApi.ContentCapabilityInput contentCapabilityInput = new ConnectApi.ContentCapabilityInput();
+
+commentCapabilitiesInput.content = contentCapabilityInput;
+contentCapabilityInput.title = 'Title';
+
+commentInput.capabilities = commentCapabilitiesInput;
+
+String text = 'These are the contents of the new file.';
+Blob myBlob = Blob.valueOf(text);
+ConnectApi.BinaryInput binInput = new ConnectApi.BinaryInput(myBlob, 'text/plain', 'fileName');
+
+ConnectApi.Comment commentRep = ConnectApi.ChatterFeeds.postCommentToFeedElement(Network.getNetworkId(), feedElementId, commentInput, binInput);
 ```

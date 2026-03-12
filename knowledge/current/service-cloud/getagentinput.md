@@ -5,11 +5,16 @@ topic: getagentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.959Z
-keywords: [getAgentInput, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.365Z
+estimatedTokens: 229
+keywords: [getAgentInput, text, which, currently, agent’s, input, area, chat, log, specific, key., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # getAgentInput()
+
+> Returns the string of text which is currently in the agent’s text input area
+        in the chat log of a chat with a specific chat key. Available in API version 29.0 or
+            later.
 
 # getAgentInput()
 
@@ -42,3 +47,38 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | text | String | The text that is currently in an agent’s text input area. |
 | success | Boolean | true if getting the agent’s input was successful; false if getting the agent’s input wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.getAgentInput(chatKey:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testGetAgentInput();">Get Agent Input</a> 
+
+    <script type="text/javascript">
+
+        function testGetAgentInput() {
+            //Get the value for 'myChatKey'from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+            //These values are for example purposes only
+            var chatKey = 'myChatKey';
+            sforce.console.chat.getAgentInput(chatKey, getAgentInputSuccess);
+        }
+        
+        function getAgentInputSuccess(result) {
+            //Report whether getting the agent's input was successful
+            if (result.success == true) {
+                agentInput = result.text;
+                alert('The text in the agent input is: ' + agentInput);
+            } else {
+                alert('Getting the agent input was not successful');
+            }
+        };
+    
+
+    </script>
+</apex:page>
+```

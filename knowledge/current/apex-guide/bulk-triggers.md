@@ -5,11 +5,15 @@ topic: bulk-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.707Z
-keywords: [Bulk, Triggers, Note]
+lastCollected: 2026-03-12T05:14:34.149Z
+estimatedTokens: 185
+keywords: [Bulk, Triggers, triggers, bulk, default, process, multiple, records, time., should, always, plan, processing, record, Note]
 ---
 
 # Bulk Triggers
+
+> All triggers are bulk triggers by default, and can process multiple records at a
+   time. You should always plan on processing more than one record at a time.
 
 # Bulk Triggers
 
@@ -29,3 +33,7 @@ Bulk triggers can handle both single record updates and bulk operations like:
 -   Recursive Apex methods and triggers that invoke bulk DML statements
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_syntax.htm "Trigger Syntax")
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_syntax.htm)

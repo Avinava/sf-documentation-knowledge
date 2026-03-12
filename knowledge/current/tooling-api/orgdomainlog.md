@@ -5,11 +5,15 @@ topic: orgdomainlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.313Z
-keywords: [OrgDomainLog, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.127Z
+estimatedTokens: 616
+keywords: [OrgDomainLog, Represents, Salesforce, org’s, previous, Domain., API, version, 51.0, later., Supported, SOAP, Calls, REST, Fields, Usage]
 ---
 
 # OrgDomainLog
+
+> Represents a Salesforce org’s previous My Domain. This object is available
+    in API version 51.0 and later.
 
 # OrgDomainLog
 
@@ -51,4 +55,33 @@ The following is an example response for a GET request querying a OrgDomainLog r
 
 ```
 
+```
+
+## Code Examples
+
+```
+GET /services/data/v51.0/tooling/query?q=SELECT Id FROM OrgDomainLog
+```
+
+```
+GET /services/data/v51.0/tooling/sobjects/MyDomainLog/recordID
+```
+
+```
+{
+  "attributes" : {
+    "type" : "OrgDomainLog",
+    "url" : "/services/data/v56.0/tooling/sobjects/OrgDomainLog/9UXXXXXXXXXXXXXOAA"
+  },
+  "Id" : "9UXXXXXXXXXXXXXOAA",
+  "IsDeleted" : false,
+  "CreatedDate" : "2022-10-02T21:04:38.000+0000",
+  "CreatedById" : "005XXXXXXXXXXXXIAG",
+  "LastModifiedDate" : "2022-10-02T21:04:38.000+0000",
+  "LastModifiedById" : "005XXXXXXXXXXXXIAG",
+  "SystemModstamp" : "2022-10-02T21:04:38.000+0000",
+  "DomainPartition" : "none",
+  "MyDomainName" : "mycompany",
+  "ProdSuffixType" : "MySalesforceLimited"
+}
 ```

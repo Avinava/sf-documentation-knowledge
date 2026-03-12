@@ -5,11 +5,15 @@ topic: cmplvalidationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.824Z
-keywords: [CmplValidationProcedure, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.754Z
+estimatedTokens: 672
+keywords: [CmplValidationProcedure, Group, Compliance, Controls, test, business, process, actions, compliance., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # CmplValidationProcedure
+
+> Group of Compliance Controls that test the business process actions for
+         compliance. This object is available in API version 65.0 and later.
 
 # CmplValidationProcedure
 
@@ -49,3 +53,8 @@ History is available for tracked fields of the object.
 [CmplValidationProcedureShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- CmplValidationProcedureHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- CmplValidationProcedureShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

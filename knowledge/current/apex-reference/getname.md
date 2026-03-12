@@ -5,22 +5,31 @@ topic: getname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:35.387Z
-keywords: [getName, Gets, name, zip, entry., Signature, Return, Value]
+lastCollected: 2026-03-12T05:14:19.311Z
+estimatedTokens: 83
+keywords: [getName, Retrieves, name, canvas, app., Usage]
 ---
 
 # getName()
 
-> Gets the name of the zip entry.
+> Retrieves the name of the canvas app.
 
-### getName()
+# getName()
 
-Gets the name of the zip entry.
+Retrieves the name of the canvas app.
 
-#### Signature
+## Signature
 
-public string getName()
+public String getName()
 
-#### Return Value
+## Return Value
 
-Type: [string](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+## Usage
+
+Use this method to get the name of the canvas app.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

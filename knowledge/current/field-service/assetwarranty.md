@@ -5,11 +5,15 @@ topic: assetwarranty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.516Z
-keywords: [AssetWarranty, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.945Z
+estimatedTokens: 854
+keywords: [AssetWarranty, Defines, warranty, terms, applicable, asset, along, any, exclusions, extensions., API, version, 50.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # AssetWarranty
+
+> Defines the warranty terms applicable to an asset along with any exclusions and
+      extensions. This object is available in API version 50.0 and later.
 
 # AssetWarranty
 

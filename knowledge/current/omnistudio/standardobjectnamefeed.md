@@ -5,11 +5,16 @@ topic: standardobjectnamefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.431Z
-keywords: [StandardObjectNameFeed, Supported, Calls, Special, Access, Rules, Fields, Usage, Objects, Follow, Model]
+lastCollected: 2026-03-12T05:14:53.143Z
+estimatedTokens: 7313
+keywords: [StandardObjectNameFeed, model, feed, objects, associated, standard, objects., represent, posts, feed-tracked, changes, object., Supported, Calls, Special, Access, Rules, Fields, Usage, Objects]
 ---
 
 # StandardObjectNameFeed
+
+> StandardObjectNameFeed is the model for all feed
+      objects associated with standard objects. These objects represent the posts and feed-tracked
+      changes of a standard object.
 
 # StandardObjectNameFeed
 
@@ -30,15 +35,15 @@ To delete feed items they didn’t create, users must have one of these permissi
 -   Modify All Data
 -   Modify All Records on the parent object, like Account for AccountFeed
 -   Moderate Chatter
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
-    
+
     #### Note
-    
+
     Users with the Moderate Chatter permission can delete only the feed items and comments they can see.
-    
+
     Only users with this permission can delete items in unlisted groups.
-    
+
 
 For more special access rules, if any, see the documentation for the standard object. For example, for AccountFeed, see the special access rules for Account.
 
@@ -185,3 +190,16 @@ These objects follow the standard pattern for associated feed objects.
 -   Vehicle
 -   VehicleDefinition
 -   Visit
+
+## Related Topics
+
+- Assessment (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessment.htm)
+- AssessmentQuestion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestion.htm)
+- AssessmentQuestionAssignment (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionassignment.htm)
+- AssessmentQuestionResponse (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionresponse.htm)
+- AssessmentQuestionSet (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionset.htm)
+- AssessmentQuestionVersion (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_assessmentquestionversion.htm)
+- BatchJob (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_batchjob.htm)
+- BatchJobPartFailedRecord (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_batchjobpartfailedrecord.htm)
+- BatchJobPart (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_batchjobpart.htm)
+- BusinessOperationsProcess (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_businessoperationsprocess.htm)

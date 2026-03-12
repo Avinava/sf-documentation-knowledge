@@ -4,12 +4,18 @@ domain: apex-guide
 topic: dynamic-soql
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.076Z
-keywords: [Dynamic, SOQL, Considerations, Injection, Additional, Methods, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.325Z
+estimatedTokens: 1703
+keywords: [Dynamic, SOQL, refers, creation, run, time, Apex, code., enables, create, flexible, applications., example, search, based, input, end, user, update, records]
 ---
 
 # Dynamic SOQL
+
+> Dynamic SOQL refers to the creation of a SOQL string at run time with Apex
+            code. Dynamic SOQL enables you to create more flexible applications. For example, you
+            can create a search based on input from an end user or update records with varying field
+            names.
 
 # Dynamic SOQL
 
@@ -18,21 +24,21 @@ Dynamic SOQL refers to the creation of a SOQL string at run time with Apex code.
 To create a dynamic SOQL query at run time, use the Database.query or Database.queryWithBinds methods, in one of the following ways.
 
 -   Return a single sObject when the query returns a single record:
-    
+
     ```
-    
+
     ```
-    
+
 -   Return a list of sObjects when the query returns more than a single record:
-    
+
     ```
-    
+
     ```
-    
+
 -   Return a list of sObjects using a map of bind variables:
-    
+
     List<sObject> sobjList = Database.queryWithBinds(string, bindVariablesMap, accessLevel);
-    
+
 
 The Database.query and Database.queryWithBinds methods can be used wherever an inline SOQL query can be used, such as in regular assignment statements and for loops. The results are processed in much the same way as static SOQL queries are processed.
 
@@ -73,9 +79,9 @@ You can instead resolve the variable field into a string and use the string in y
 These considerations apply when using the Map parameter in the Database.queryWithBinds method:
 
 -   Although map keys of type String are case-sensitive,the queryWithBinds method doesn’t support Map keys that differ only in case. In a queryWithBinds method, comparison of Map keys is case-insensitive. If duplicate Map keys exist, the method throws a runtime QueryException. This example throws this runtime exception: System.QueryException: The bindMap consists of duplicate case-insensitive keys: \[Acctname, acctName\].
-    
+
     Map<String, Object> bindVars = new Map<String, Object>{'acctName' => 'Acme Corporation'}; bindVars.put('Acctname', 'Foo'); string query = 'Select Id from Contact where Name like :acctName'; List<Contact> contacts = Database.queryWithBinds(query, bindVars, AccessLevel.USER\_MODE);
-    
+
 -   Map keys must follow naming standards: they must start with an ASCII letter, can’t start with a number, must not use [reserved keywords](atlas.en-us.apexcode.meta/apexcode/apex_reserved_words.htm "These words can be used only as keywords."), and must adhere to [variable naming requirements](atlas.en-us.apexcode.meta/apexcode/langCon_apex_variables.htm "Local variables are declared with Java-style syntax.").
 -   Although currently supported, Salesforce recommends against using the dot notation with Map keys.
 
@@ -98,3 +104,37 @@ The Dynamic SOQL examples in this topic show how to use the Database.query and D
 #### See Also
 
 -   [*Apex Reference Guide*: System.Database Methods](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_database.htm#apex_System_Database_methods "Apex Reference Guide: System.Database Methods - HTML (New Window)")
+
+## Code Examples
+
+```apex
+sObject s = Database.query(string);
+```
+
+```apex
+List<sObject> sobjList = Database.query(string);
+```
+
+```apex
+String myTestString = 'TestName';
+List<sObject> sobjList = Database.query('SELECT Id FROM MyCustomObject__c WHERE Name = :myTestString');
+```
+
+```apex
+MyCustomObject__c myVariable = new MyCustomObject__c(field1__c ='TestField');
+List<sObject> sobjList = Database.query('SELECT Id FROM MyCustomObject__c WHERE field1__c = :myVariable.field1__c');
+```
+
+```apex
+String resolvedField1 = myVariable.field1__c;
+List<sObject> sobjList = Database.query('SELECT Id FROM MyCustomObject__c WHERE field1__c =  :resolvedField1');
+```
+
+## Related Topics
+
+- Execution
+                Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- reserved keywords (atlas.en-us.apexcode.meta/apexcode/apex_reserved_words.htm)
+- variable naming requirements (atlas.en-us.apexcode.meta/apexcode/langCon_apex_variables.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_data_categories.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_sosl.htm)

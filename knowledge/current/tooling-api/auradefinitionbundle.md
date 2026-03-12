@@ -5,11 +5,16 @@ topic: auradefinitionbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.282Z
-keywords: [AuraDefinitionBundle, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.733Z
+estimatedTokens: 1060
+keywords: [AuraDefinitionBundle, Represents, Lightning, Aura, component, definition, bundle, such, application, bundle., contains, its, related, resources., API, version, 32.0, later., Supported, SOAP]
 ---
 
 # AuraDefinitionBundle
+
+> Represents a Lightning Aura component definition bundle, such as a
+      component or application bundle. A bundle contains a Lightning Aura component definition and
+      all its related resources.  Available in API version 32.0 and later.
 
 # AuraDefinitionBundle
 

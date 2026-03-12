@@ -5,11 +5,16 @@ topic: fileuploadanddownloadsecuritysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.685Z
-keywords: [FileUploadAndDownloadSecuritySettings, File, Suffix, Directory, Location, Version, Fields, FileTypeDispositionAssignmentBean, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.890Z
+estimatedTokens: 760
+keywords: [FileUploadAndDownloadSecuritySettings, Represents, security, settings, uploading, downloading, files., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # FileUploadAndDownloadSecuritySettings
+
+> Represents the security
+            settings for uploading and downloading files. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # FileUploadAndDownloadSecuritySettings
 
@@ -57,3 +62,154 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<FileUploadAndDownloadSecuritySettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>AVI</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>WORD</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>WORD_X</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>EXE</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>HTML</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>WEBVIEW</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>RFC822</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>MOV</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>MP3</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>MP4</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>MPEG</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>PDF</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>POWER_POINT</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>POWER_POINT_X</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>SVG</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>FLASH</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>TXML</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>UNKNOWN</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>WAV</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>WMA</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>WMV</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>XHTML</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>EXCEL</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>HYBRID</behavior>
+        <fileType>EXCEL_X</fileType>
+        <securityRiskFileType>false</securityRiskFileType>
+    </dispositions>
+    <dispositions>
+        <behavior>DOWNLOAD</behavior>
+        <fileType>XML</fileType>
+        <securityRiskFileType>true</securityRiskFileType>
+    </dispositions>
+    <noHtmlUploadAsAttachment>false</noHtmlUploadAsAttachment>
+</FileUploadAndDownloadSecuritySettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+       <members>FileUploadAndDownloadSecurity</members>
+       <name>Settings</name>
+   </types>
+   <version>39.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

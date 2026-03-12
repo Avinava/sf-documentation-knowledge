@@ -5,11 +5,18 @@ topic: addtobrowsertitlequeue-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.137Z
-keywords: [addToBrowserTitleQueue, Lightning, Experience, Note, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.634Z
+estimatedTokens: 272
+keywords: [addToBrowserTitleQueue, Lightning, Experience, Adds, list, titles, rotate, browser, title, bar, every, three, seconds.This, works, only, console, apps., isn’t, supported, Web]
 ---
 
 # addToBrowserTitleQueue() for Lightning Experience for Lightning Experience
+
+> Adds a string to a list of titles that rotate in the browser title bar every three
+            seconds.This method works only in
+   Lightning console apps.
+        This method isn’t supported for Lightning Web Components
+        (LWC).
 
 # addToBrowserTitleQueue() for Lightning Experience for Lightning Experience
 
@@ -46,3 +53,29 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Add to Browser Title Queue" onclick="{! c.handleAddToBrowserTitleQueue }" />
+</aura:component>
+```
+
+```
+({
+    handleAddToBrowserTitleQueue : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.addToBrowserTitleQueue({
+            title: "New Browser Title"
+        })
+        .then(function(result){
+            console.log(result);
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

@@ -5,11 +5,20 @@ topic: appointmentinsightsresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.992Z
-keywords: [AppointmentInsightsResult, Class, Namespace, Example]
+lastCollected: 2026-03-12T05:14:55.198Z
+estimatedTokens: 370
+namespace: FSL
+keywords: [AppointmentInsightsResult, Represents, response, returned, getAppointmentInsights, method., includes, details, why, service, appointment, can’t, added, Gantt, including, resource, availability, blocked, slots, applicable]
 ---
 
 # AppointmentInsightsResult Class
+
+> Represents the response returned by the getAppointmentInsights
+			method. AppointmentInsightsResult includes details about why a service appointment can’t
+			be added to the Gantt, including resource availability, blocked slots, and applicable
+			blocking rules.
+
+**Namespace:** `FSL`
 
 # AppointmentInsightsResult Class
 
@@ -28,3 +37,29 @@ This code block represents the output of the getAppointmentInsights method fro
 ```
 
 -   **[Appointment Insights Result Properties](atlas.en-us.field_service_dev.meta/field_service_dev/apex_FSL_AppointmentInsightsResult_properties.htm)**
+
+## Code Examples
+
+```
+AppointmentInsightsResult:[
+blockedSlots=0, 
+blockingRules=(BlockingRule:[
+    ruleName=Due Date, 
+    slotsBlockedByMultipleRules=0, 
+    slotsBlockedByRule=0
+]), 
+horizonEndDate=2024-06-06 14:00:00, 
+horizonStartDate=2024-05-27 14:00:00, 
+operationTimeStamp=2024-06-16 14:00:53, 
+policyId=a0c8B00000638CMQAY, 
+resourcesEvaluated=0, 
+serviceAppointmentId=08p8B000000jCjBQAU, 
+serviceTerritoryId=0Hh8B000000HrctSAC
+]
+```
+
+## Related Topics
+
+- getAppointmentInsights (atlas.en-us.field_service_dev.meta/field_service_dev/apex_class_FSL_ScheduleService.htm)
+- FSL (atlas.en-us.field_service_dev.meta/field_service_dev/apex_namespace_FSL.htm)
+- Appointment Insights Result Properties (atlas.en-us.field_service_dev.meta/field_service_dev/apex_FSL_AppointmentInsightsResult_properties.htm)

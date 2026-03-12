@@ -6,12 +6,17 @@ topic: enablepopout-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.431Z
-keywords: [enablePopout, Lightning, Experience, Arguments, LWC, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:58.037Z
+estimatedTokens: 275
+keywords: [enablePopout, Lightning, Experience, Toggles, pop-out, mode, utility., Enabling, utility, displays, separate, child, window., Web, Components, LWC, only., Arguments, Sample, Code]
 ---
 
 # enablePopout() for Lightning Experience for Lightning
    Experience
+
+> Toggles pop-out mode on a utility. Enabling pop-out mode on a utility displays the
+  utility in a separate child window. This method is available for Lightning Web Components (LWC)
+  only.
 
 # enablePopout() for Lightning Experience for Lightning Experience
 
@@ -40,3 +45,21 @@ To make your component available for use in a utility bar, specify the lightning
 ## Response
 
 Returns a promise that resolves to true if successful. The promise is rejected on error.
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { enablePopout, EnclosingUtilityId } from 'lightning/platformUtilityBarApi';
+
+export default class EnablePopoutExample extends LightningElement {
+    @wire(EnclosingUtilityId) utilityId;
+    enable = true;
+    
+    async handleToggle() {
+        const enable = !this.isPopoutEnabled;
+        await enablePopout(this.utilityId, enable, { disabledText: 'disabled' });
+        this.isPopoutEnabled = enable;
+    }
+}
+```

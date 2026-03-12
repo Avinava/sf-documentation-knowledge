@@ -5,11 +5,15 @@ topic: parameterized-typing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.168Z
-keywords: [Parameterized, Typing, Subtyping, Lists]
+lastCollected: 2026-03-12T05:14:34.844Z
+estimatedTokens: 171
+keywords: [Parameterized, Typing, Apex, general, statically-typed, programming, language, which, means, users, must, specify, data, variable, before, used., Subtyping, Lists]
 ---
 
 # Parameterized Typing
+
+> Apex, in general, is a statically-typed programming language, which means users must
+        specify the data type for a variable before that variable can be used.
 
 # Parameterized Typing
 
@@ -39,4 +43,19 @@ In Apex, if type T is a subtype of U, then List<T> would be a subtype of List<U>
 
 ```
 
+```
+
+## Code Examples
+
+```
+Integer x = 1;
+```
+
+```apex
+List<String> myList = new List<String>();
+```
+
+```apex
+List<String> slst = new List<String> {'alpha', 'beta'};
+List<Object> olst = slst;
 ```

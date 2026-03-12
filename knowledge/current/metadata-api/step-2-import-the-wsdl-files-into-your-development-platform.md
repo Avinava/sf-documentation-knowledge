@@ -6,12 +6,19 @@ topic: step-2-import-the-wsdl-files-into-your-development-platform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.174Z
-keywords: [Step, Import, WSDL, Files, Development, Platform, Note, Instructions, Java, Environments, WSC]
+lastCollected: 2026-03-12T05:14:42.060Z
+estimatedTokens: 448
+keywords: [Step, Import, WSDL, Files, Development, Platform, Once, files, import, development, platform, environment, generate, necessary, objects, building, client, Web, service, applications.]
 ---
 
 # Step 2: Import the WSDL Files Into Your
 Development Platform
+
+> Once you have the WSDL files, import them into your development
+platform so that your development environment can generate the necessary
+objects for use in building client Web service applications. This
+section provides sample instructions for WSC. For instructions about
+other development platforms,
 
 # Step 2: Import the WSDL Files Into Your Development Platform
 
@@ -54,3 +61,17 @@ On Mac OS X and Unix, use a colon instead of a semicolon in between items in the
 ```
 
 wsdlc generates a JAR file and Java source code and bytecode files for use in creating client applications. Repeat this process for the enterprise WSDL to create an enterprise.JAR file.
+
+## Code Examples
+
+```
+java -classpath pathToWsc;pathToWscDependencies com.sforce.ws.tools.wsdlc pathToWsdl/WsdlFilename pathToOutputJar/OutputJarFilename
+```
+
+```
+java –classpath force-wsc-30.0.0.jar;ST4-4.0.7.jar;antlr-runtime-3.5.jar com.sforce.ws.tools.wsdlc metadata.wsdl metadata.jar
+```
+
+```
+java –classpath force-wsc-30.0.0.jar:ST4-4.0.7.jar:antlr-runtime-3.5.jar com.sforce.ws.tools.wsdlc metadata.wsdl metadata.jar
+```

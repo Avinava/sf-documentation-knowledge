@@ -5,11 +5,15 @@ topic: expression-set-custom-element-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.266Z
-keywords: [Expression, Set, Custom, Element, Parameter, Input]
+lastCollected: 2026-03-12T05:14:48.380Z
+estimatedTokens: 224
+keywords: [Expression, Set, Custom, Element, Input, representation, custom, element, expression, set.]
 ---
 
 # Expression Set Custom Element Parameter Input
+
+> Input representation of a custom element parameter in an expression
+      set.
 
 # Expression Set Custom Element Parameter Input
 
@@ -34,3 +38,31 @@ Properties
 | output | Boolean | Indicates whether the custom element parameter is an output parameter (true) or not (false). | Required | 58.0 |
 | type | String | Type of custom element parameter.Valid values are:FormulaLiteralLookupParameterPicklistThe default value is Parameter. | Optional | 58.0 |
 | value | String | Name of the expression set variable. | Required | 58.0 |
+
+## Code Examples
+
+```
+"parameters": [
+              {
+                "input": true,
+                "name": "Divisor",
+                "output": false,
+                "value": "v1",
+                "type": "Parameter"
+              },
+              {
+                "input": true,
+                "name": "Dividend",
+                "output": false,
+                "value": "v2",
+                "type": "Parameter"
+              },
+              {
+                "input": false,
+                "name": "Answer",
+                "output": true,
+                "value": "v3",
+                "type": "Parameter"
+              }
+            ]
+```

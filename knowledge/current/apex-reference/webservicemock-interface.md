@@ -5,14 +5,37 @@ topic: webservicemock-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.851Z
-keywords: [WebServiceMock, Interface, implementation, method, called, Apex, runtime, send, fake, response, Web, service, callout, made, after, Test.setMock, called., doInvoke, stub, soapRequest]
+lastCollected: 2026-03-12T05:14:30.171Z
+estimatedTokens: 879
+namespace: System
+keywords: [WebServiceMock, Enables, sending, fake, responses, testing, Web, service, callouts, auto-generated, WSDL., Usage, doInvoke, stub, soapRequest, responseMap, endpoint, soapAction, requestName, responseNamespace]
 ---
 
 # WebServiceMock Interface
 
-> The implementation of this method is called by the Apex runtime to send a fake
-            response when a Web service callout is made after Test.setMock has been called.
+> Enables sending fake responses when testing
+Web service callouts of a class auto-generated from a WSDL.
+
+**Namespace:** `System`
+
+# WebServiceMock Interface
+
+Enables sending fake responses when testing Web service callouts of a class auto-generated from a WSDL.
+
+## Namespace
+
+[System](atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm "The System namespace provides classes and methods for core Apex functionality.")
+
+## Usage
+
+For an implementation example, see [Test Web Service Callouts](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing.htm).
+
+## WebServiceMock Methods
+
+The following are methods for WebServiceMock.
+
+-   **[doInvoke(stub, soapRequest, responseMap, endpoint, soapAction, requestName, responseNamespace, responseName, responseType)](atlas.en-us.apexref.meta/apexref/apex_interface_webservicemock.htm#apex_System_WebServiceMock_doInvoke)**
+    The implementation of this method is called by the Apex runtime to send a fake response when a Web service callout is made after Test.setMock has been called.
 
 ### doInvoke(stub, soapRequest, responseMap, endpoint, soapAction, requestName, responseNamespace, responseName, responseType)
 
@@ -85,3 +108,10 @@ The class for the response as defined in the auto-generated class.
 Type: Void
 
 #### Usage
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+- doInvoke(stub, soapRequest, responseMap, endpoint, soapAction, requestName, responseNamespace, responseName, responseType) (atlas.en-us.apexref.meta/apexref/apex_interface_webservicemock.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

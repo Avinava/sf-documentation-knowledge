@@ -5,11 +5,15 @@ topic: mockrendercontextapplicationcontexttestvalues-environmentcontexttestvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.143Z
-keywords: [mockRenderContext, applicationContextTestValues, environmentContextTestValues, Signature, Parameters, Return, Value, Usage, Example, See]
+lastCollected: 2026-03-12T05:14:19.397Z
+estimatedTokens: 841
+keywords: [mockRenderContext, applicationContextTestValues, environmentContextTestValues, Creates, test, Canvas.RenderContext, based, provided, application, environment, context, parameters., Usage, Example]
 ---
 
 # mockRenderContext(applicationContextTestValues, environmentContextTestValues)
+
+> Creates and returns a test Canvas.RenderContext based on the provided application and
+  environment context parameters.
 
 # mockRenderContext(applicationContextTestValues, environmentContextTestValues)
 
@@ -53,3 +57,25 @@ The following example creates maps to represent mock application and environment
 
 -   [*Canvas Developer Guide*: Testing Your CanvasLifecycleHandler Implementation](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_connect.meta/platform_connect/canvas_testing_your_canvaslifecyclehandler.htm "Canvas Developer Guide: Testing Your
     CanvasLifecycleHandler Implementation - HTML (New Window)")
+
+## Code Examples
+
+```apex
+Map<String,String> appValues = new Map<String,String>();
+appValues.put(Canvas.Test.KEY_NAMESPACE,'alternateNamespace');
+appValues.put(Canvas.Test.KEY_VERSION,'3.0');
+
+Map<String,String> envValues = new Map<String,String>();
+envValues.put(Canvas.Test.KEY_DISPLAY_LOCATION,'Chatter');
+envValues.put(Canvas.Test.KEY_LOCATION_URL,'https://MyDomainName.my.salesforce.com/_ui/core/chatter/ui/ChatterPage');
+
+Canvas.RenderContext mock = Canvas.Test.mockRenderContext(appValues,envValues);
+```
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- constants (atlas.en-us.apexref.meta/apexref/apex_canvas_Test_constants.htm)
+- Canvas.RenderContext (atlas.en-us.apexref.meta/apexref/apex_interface_canvas_RenderContext.htm)
+- Canvas.Test.testCanvasLifecycle(lifecycleHandler, mockRenderContext) (atlas.en-us.apexref.meta/apexref/apex_canvas_Test_testCanvasLifecycle.htm)

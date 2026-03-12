@@ -5,11 +5,15 @@ topic: updatemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.019Z
-keywords: [updateMetadata, Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Field, Values, String, Basic, Steps, Updating, Metadata, Components, Sample, Code—Java, Arguments]
+lastCollected: 2026-03-12T05:14:43.410Z
+estimatedTokens: 984
+keywords: [updateMetadata, Updates, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Field, Values, Basic, Steps, Updating, Metadata]
 ---
 
 # updateMetadata()
+
+> Updates one or more metadata components in your
+            organization synchronously.
 
 # updateMetadata()
 
@@ -61,9 +65,9 @@ Use this process to update metadata components.
 
 1.  Create an array of the components you want to update. All components must be of the same type.
 2.  Invoke the updateMetadata() call, passing in the array of metadata components to update.
-    
+
     A SaveResult object is returned for each component you try to update. It contains information about whether the operation was successful, the name of the component updated, and any errors returned if the operation wasn’t successful.
-    
+
 
 ## Sample Code—Java
 
@@ -80,3 +84,60 @@ Use this process to update metadata components.
 ## Response
 
 [SaveResult](atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm#meta_saveResult "Contains result information for the createMetadata, updateMetadata, or renameMetadata call.")\[\]
+
+## Code Examples
+
+```
+SaveResult[] = metadataConnection.updateMetadata(Metadata[] metadata);
+```
+
+```apex
+public void updateCustomObjectSync() {
+    try {
+        CustomObject co = new CustomObject();
+        String name = "MyCustomObject1";
+        co.setFullName(name + "__c");
+        co.setDeploymentStatus(DeploymentStatus.Deployed);
+        co.setDescription("Updated description");
+        co.setLabel(name + " Object Update");
+        co.setPluralLabel(co.getLabel() + "s");
+        co.setSharingModel(SharingModel.ReadWrite);
+
+        // Name field with a type and label is required
+        CustomField cf = new CustomField();
+        cf.setType(FieldType.Text);
+        cf.setLabel(co.getFullName() + " Name");
+        co.setNameField(cf);
+
+        SaveResult[] results = metadataConnection
+                .updateMetadata(new Metadata[] { co });
+
+        for (SaveResult r : results) {
+            if (r.isSuccess()) {
+                System.out.println("Updated component: " + r.getFullName());
+            } else {
+                System.out
+                        .println("Errors were encountered while updating "
+                                + r.getFullName());
+                for (Error e : r.getErrors()) {
+                    System.out.println("Error message: " + e.getMessage());
+                    System.out.println("Status code: " + e.getStatusCode());
+                }
+            }
+        }
+    } catch (ConnectionException ce) {
+        ce.printStackTrace();
+    }
+}
+```
+
+## Related Topics
+
+- SaveResult (atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- AllOrNoneHeader (atlas.en-us.api_meta.meta/api_meta/meta_allornoneheader.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- CustomMetadata (atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)

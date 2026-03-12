@@ -5,11 +5,15 @@ topic: assessmentsavedsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.643Z
-keywords: [AssessmentSavedSession, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:53.478Z
+estimatedTokens: 308
+keywords: [AssessmentSavedSession, Represents, session, assessment, that's, saved, resume, later., API, version, 62.0, Supported, Calls, Fields]
 ---
 
 # AssessmentSavedSession
+
+> Represents a session of an assessment that's saved to resume for later.
+      This object is available in API version 62.0 and later.
 
 # AssessmentSavedSession
 

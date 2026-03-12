@@ -5,11 +5,17 @@ topic: index
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.099Z
-keywords: [Index, File, Suffix, Directory, Location, Version, Fields, IndexField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.514Z
+estimatedTokens: 775
+keywords: [Index, Represents, index, defined, within, custom, big, object., metadata, define, composite, primary, key, extends, Metadata, inherits, its, fullName, field., File]
 ---
 
 # Index
+
+> Represents an index defined within a custom big
+        object. Use this metadata type to define the composite primary key (index) for a
+      custom big object. This type extends the Metadata metadata type and inherits its
+        fullName field.
 
 # Index
 
@@ -57,5 +63,88 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <deploymentStatus>Deployed</deploymentStatus>
+
+// Define the fields within the big object
+    <fields>
+        <fullName>Purchase__c</fullName>
+        <label>Purchase</label>
+        <length>16</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    
+    <fields>
+        <fullName>Order_Number__c</fullName>
+        <label>Order Number</label>
+        <length>16</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    
+    <fields>
+        <fullName>Platform__c</fullName>
+        <label>Platform</label>
+        <length>16</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+
+    <fields>
+        <fullName>Account__c</fullName>
+        <label>User Account</label>
+        <referenceTo>Account</referenceTo>
+        <relationshipName>User_Account</relationshipName>
+        <required>true</required>
+        <type>Lookup</type>
+    </fields>
+
+    <fields>
+        <fullName>Order_Date__c</fullName>
+        <label>Order Date</label>
+        <required>true</required>
+        <type>DateTime</type>
+    </fields>
+
+// Define the index
+    <indexes>
+        <fullName>CustomerInteractionsIndex</fullName>
+        <label>Customer Interactions Index</label>
+        <fields>
+            <name>Account__c</name>
+            <sortDirection>DESC</sortDirection>
+        </fields>
+        <fields>
+            <name>Platform__c</name>
+            <sortDirection>ASC</sortDirection>
+        </fields>
+        <fields>
+            <name>Order_Date__c</name>
+            <sortDirection>DESC</sortDirection>
+        </fields>
+    </indexes>
+    
+    <label>Customer Interaction</label>
+    <pluralLabel>Customer Interactions</pluralLabel>
+</CustomObject>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_historyretentionpolicy.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_listview.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

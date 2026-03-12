@@ -5,15 +5,19 @@ topic: website-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:44.089Z
-keywords: [Website, Engagement, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:15.098Z
+estimatedTokens: 2486
+keywords: [Website, Engagement, DMO, Data, Cloud, data, model, any, associated, website, engagement, such, views, clicks., API, Name, Category, Primary, Subject, Area]
 ---
 
 # Website Engagement DMO
 
+> The Website Engagement DMO is a Data Cloud data model object (DMO) for
+      any data associated with website engagement, such as views or clicks.
+
 # Website Engagement DMO
 
-The Website Engagement DMO is a Data Cloud data model object (DMO) for any data associated with website engagement, such as views or clicks. 
+The Website Engagement DMO is a Data Cloud data model object (DMO) for any data associated with website engagement, such as views or clicks.
 
 ## Object API Name
 

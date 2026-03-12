@@ -5,11 +5,14 @@ topic: connectapiusergroupdetailpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.167Z
-keywords: [ConnectApi.UserGroupDetailPage]
+lastCollected: 2026-03-12T05:14:29.227Z
+estimatedTokens: 153
+keywords: [ConnectApi.UserGroupDetailPage, page, groups, user, member, of.]
 ---
 
 # ConnectApi.UserGroupDetailPage
+
+> A page of groups that a user is a member of.
 
 # ConnectApi.UserGroupDetailPage
 
@@ -22,3 +25,10 @@ A page of groups that a user is a member of.
 | nextPageUrl | String | URL to the next page, or null if there is no next page. | 45.0 |
 | previousPageUrl | String | URL to the previous page, or null if there is no previous page. | 45.0 |
 | total | Integer | Total number of groups that the user is a member of. | 45.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ChatterGroupDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupDetail.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

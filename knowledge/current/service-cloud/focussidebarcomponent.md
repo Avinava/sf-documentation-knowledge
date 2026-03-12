@@ -5,11 +5,15 @@ topic: focussidebarcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.942Z
-keywords: [focusSidebarComponent, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.336Z
+estimatedTokens: 345
+keywords: [focusSidebarComponent, Focuses, browser, sidebar, component., focus, component, tab, accordion, style., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # focusSidebarComponent()
+
+> Focuses the browser on a sidebar component. Use
+            this method to focus on a component with the tab or accordion sidebar style.
 
 # focusSidebarComponent()
 
@@ -42,3 +46,30 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if focusing the sidebar component was successful; false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.focusSidebarComponent(componentInfo:string (optional)tabId:string, callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var callback = function (result) {} 
+            if(result.success){
+            alert('Congratulations!');
+        }else{
+            alert('Something is wrong!');
+        }
+    };
+        function focusKnowledgeComponent() { 
+            sforce.console.focusSidebarComponent(JSON.stringify({componentType:
+            'KNOWLEDGE_ONE'}),"scc-st-2", callback);
+        }
+    </script>
+    <A HREF="#" onClick="focusSidebarComponent(); return false">Focus Knowledge Component</A>
+</apex:page>
+```

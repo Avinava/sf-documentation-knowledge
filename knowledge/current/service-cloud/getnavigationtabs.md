@@ -5,11 +5,15 @@ topic: getnavigationtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.036Z
-keywords: [getNavigationTabs, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:57.480Z
+estimatedTokens: 184
+keywords: [getNavigationTabs, objects, navigation, tab., only, API, version, 31.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # getNavigationTabs()
+
+> Returns all of the objects in the navigation tab. This
+            method is only available in API version 31.0 or later.
 
 # getNavigationTabs()
 
@@ -41,3 +45,31 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | menuItems | object | The IDs of objects in the navigation tab. |
 | success | boolean | true if returning the IDs of objects in the navigation tab was successful, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.getNavigationTabs((optional)callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var callback = function (result) { 
+           var id;
+              if (result.success) { 
+                var tempItem = JSON.parse(result.items);
+                for (var i = 0, len = tempItem.length; i < len; i++) {
+           alert('Label:'+tempItem[i].label+'listViewURl:'+tempItem[i].listViewUrl+'navTabid:'
+           +tempItem[i].navigationTabId+'Selected ' +tempItem[i].selected);
+           }
+              } else { 
+                alert('something is wrong!');
+                }
+        };
+        sforce.console.getNavigationTabs(callback);
+    </script>
+</apex:page>
+```

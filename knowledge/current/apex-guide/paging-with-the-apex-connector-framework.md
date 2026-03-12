@@ -5,11 +5,18 @@ topic: paging-with-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.861Z
-keywords: [Paging, Apex, Connector, Framework, See]
+lastCollected: 2026-03-12T05:14:33.007Z
+estimatedTokens: 396
+keywords: [Paging, Apex, Connector, Framework, displaying, large, set, records, user, Salesforce, breaks, batches, displays, batch., then, page, through, those, batches., However]
 ---
 
 # Paging with the Apex Connector Framework
+
+> When displaying a large set of records in the user interface, Salesforce breaks the
+        set into batches and displays one batch. You can then page through those batches. However,
+        custom adapters for Salesforce Connect don’t automatically support paging of any kind. To
+        support paging through external object data that’s obtained by a custom adapter, implement
+        server-driven or client-driven paging.
 
 # Paging with the Apex Connector Framework
 

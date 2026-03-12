@@ -5,11 +5,14 @@ topic: connectapicomplianceprocedureevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.811Z
-keywords: [ConnectApi.ComplianceProcedureEvaluation]
+lastCollected: 2026-03-12T05:14:47.727Z
+estimatedTokens: 231
+keywords: [ConnectApi.ComplianceProcedureEvaluation, Represents, Single, Compliance, Procedure, Evaluation, result]
 ---
 
 # ConnectApi.ComplianceProcedureEvaluation
+
+> Represents a Single Compliance Procedure Evaluation result
 
 # ConnectApi.ComplianceProcedureEvaluation
 
@@ -24,3 +27,7 @@ Represents a Single Compliance Procedure Evaluation result
 | status | String | Processing status of compliance check. Valid values are:ErrorSuccess | 65.0 |
 | transactionId | String | Transaction ID that's generated during the API call. | 65.0 |
 | transactionKey | String | Transaction key for the evaluation request that's specified during the API call. | 65.0 |
+
+## Related Topics
+
+- ConnectApi.Compliance​ControlEvaluation> (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_compliance_control_evaluation_output.htm)

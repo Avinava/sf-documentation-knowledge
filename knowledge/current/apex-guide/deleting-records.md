@@ -5,11 +5,16 @@ topic: deleting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.070Z
-keywords: [Deleting, Records, Example, Note, Referential, Integrity, Restoring]
+lastCollected: 2026-03-12T05:14:34.689Z
+estimatedTokens: 629
+keywords: [Deleting, Records, After, persist, records, database, delete, those, operation., Deleted, aren’t, deleted, permanently, Salesforce, they, placed, Recycle, Bin, days, where]
 ---
 
 # Deleting Records
+
+> After you persist records in the database, you can delete those records using the delete operation. Deleted records aren’t deleted
+            permanently from Salesforce, but they are placed in the Recycle Bin for 15 days from
+            where they can be restored. Restoring deleted records is cov
 
 # Deleting Records
 
@@ -54,3 +59,15 @@ The undelete operation restores the record associations for the following types 
 #### Note
 
 Salesforce only restores lookup relationships that have not been replaced. For example, if an asset is related to a different product prior to the original product record being undeleted, that asset-product relationship is not restored.
+
+## Code Examples
+
+```
+Account[] doomedAccts = [SELECT Id, Name FROM Account 
+                         WHERE Name = 'DotCom']; 
+try {
+    delete doomedAccts;
+} catch (DmlException e) {
+    // Process exception here
+}
+```

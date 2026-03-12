@@ -5,11 +5,15 @@ topic: entitylimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.784Z
-keywords: [EntityLimit, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:45.393Z
+estimatedTokens: 521
+keywords: [EntityLimit, Represents, limits, displayed, Setup, UI., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields]
 ---
 
 # EntityLimit
+
+> Represents the limits for an object as
+            displayed in the Setup UI.
 
 # EntityLimit
 
@@ -42,3 +46,8 @@ GET
 | Max | TypeintPropertiesFilter, Group, SortDescriptionThe maximum number of objects that the organization is allowed to have. |
 | Remaining | TypeintPropertiesFilter, Group, SortDescriptionThe number of objects still available. For example, if the limit on custom objects is 100, and you create 75, this value is 25. |
 | Type | TypestringPropertiesFilter, Group, Restricted picklist, SortDescriptionWhat type of component the limit applies to:ActiveLookupFiltersActiveRulesActiveValidationRulesApprovalProcessesCbsSharingRulesCustomFieldsCustomRelationshipRollupSummarySharingRulesTotalRulesVLookup |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

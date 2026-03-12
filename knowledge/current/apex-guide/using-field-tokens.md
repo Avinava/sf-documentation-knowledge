@@ -4,12 +4,15 @@ domain: apex-guide
 topic: using-field-tokens
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.068Z
-keywords: [Field, Tokens, Note, Describe, Results, Accessing, sObject, Considerations, Versioned, Behavior, Changes, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.312Z
+estimatedTokens: 1242
+keywords: [Field, Tokens, access, token, field, following, Note, Describe, Results, Accessing, sObject, Considerations, Versioned, Behavior, Changes]
 ---
 
 # Using Field Tokens
+
+> To access the token for a field, use one of the following methods:
 
 # Using Field Tokens
 
@@ -109,5 +112,39 @@ In API version 34.0 and later, Schema.DescribeSObjectResult on a custom SObjectT
 #### See Also
 
 -   [DescribeSObjectResult.fields()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_sobject_describe.htm "DescribeSObjectResult.fields() - HTML (New Window)")
-    
+
 -   [DescribeSObjectResult.fieldsets()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_sobject_describe.htm "DescribeSObjectResult.fieldsets() - HTML (New Window)")
+
+## Code Examples
+
+```
+Schema.SObjectField fieldToken = Account.Description;
+```
+
+```apex
+// Get the describe result for the Name field on the Account object
+Schema.DescribeFieldResult dfr = Schema.sObjectType.Account.fields.Name;
+
+// Verify that the field token is the token for the Name field on an Account object
+System.assert(dfr.getSObjectField() == Account.Name);
+
+// Get the describe result from the token
+dfr = dfr.getSObjectField().getDescribe();
+```
+
+```
+Schema.DescribeFieldResult dfr = Account.Description.getDescribe();
+```
+
+```
+Schema.DescribeFieldResult dfr = Schema.SObjectType.Account.fields.Name;
+```
+
+```apex
+Map<String, Schema.SObjectField> fieldMap = Schema.SObjectType.Account.fields.getMap();
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_describe_objects_understanding.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_permissions.htm)

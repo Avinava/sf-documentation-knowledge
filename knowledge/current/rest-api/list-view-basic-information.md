@@ -5,11 +5,15 @@ topic: list-view-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.447Z
-keywords: [List, View, Basic, Information, Example]
+lastCollected: 2026-03-12T05:14:35.699Z
+estimatedTokens: 106
+keywords: [List, View, Basic, Information, basic, information, specific, list, view, including, label, API, name, ID., resource, REST, version, 32.0, later., Example]
 ---
 
 # List View Basic Information
+
+> Returns basic information for a specific list view, including the label, API name, and
+  ID. This resource is available in REST API version 32.0 and later.
 
 # List View Basic Information
 
@@ -47,4 +51,22 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/listviews/00BD0000005WcBeMAK -H "Authorization: Bearer token"
+```
+
+```
+{
+  "describeUrl" : "/services/data/v66.0/sobjects/Account/listviews/00BD0000005WcBeMAK/describe",
+  "developerName" : "NewThisWeek",
+  "id" : "00BD0000005WcBeMAK",
+  "label" : "New This Week",
+  "resultsUrl" : "/services/data/v66.0/sobjects/Account/listviews/00BD0000005WcBeMAK/results",
+  "soqlCompatible" : true,
+  "url" : "/services/data/v66.0/sobjects/Account/listviews/00BD0000005WcBeMAK"
+}
 ```

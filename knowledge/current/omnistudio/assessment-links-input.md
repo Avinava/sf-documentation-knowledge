@@ -5,11 +5,15 @@ topic: assessment-links-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.043Z
-keywords: [Assessment, Links, Input]
+lastCollected: 2026-03-12T05:14:48.057Z
+estimatedTokens: 155
+keywords: [Assessment, Links, Input, Associated, assessments, including, category, reason, sequence.]
 ---
 
 # Assessment Links Input
+
+> Associated assessments including id, category, reason and
+      sequence.
 
 # Assessment Links Input
 
@@ -33,3 +37,15 @@ Properties
 | id | String | The assessment used as the supporting content. | Yes | 55.0 |
 | reason | String | The reason why the supporting content is required. | No | 63.0 |
 | sequence | String | The sequence number of the content when multiple contents are available. | No | 63.0 |
+
+## Code Examples
+
+```
+{
+    "id": "0U3SG00000068Cb0AI",
+    "category": "0iPSG0000024n0z2AA",
+    "reason": "0iPSG0000024n0z2AA",
+    "sequence": 333
+  }
+]
+```

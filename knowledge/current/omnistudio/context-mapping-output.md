@@ -5,11 +5,14 @@ topic: context-mapping-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.216Z
-keywords: [Context, Mapping, Output]
+lastCollected: 2026-03-12T05:14:49.852Z
+estimatedTokens: 324
+keywords: [Context, Mapping, Output, representation, context, mapping.]
 ---
 
 # Context Mapping Output
+
+> Output representation of context mapping.
 
 # Context Mapping Output
 
@@ -27,3 +30,7 @@ Output representation of context mapping.
 | intents | List<String> | Context mapping that’s associated with the usage of the intents. | Small, 61.0 | 61.0 |
 | mappedContext​DefinitionName | String | API name of the context definition when context-to-context mappings exist. | Small, 61.0 | 61.0 |
 | name | String | Name of the context mapping. | Small, 59.0 | 59.0 |
+
+## Related Topics
+
+- Context Node Mapping (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node_mapping.htm)

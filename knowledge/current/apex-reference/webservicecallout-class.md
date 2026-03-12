@@ -5,14 +5,41 @@ topic: webservicecallout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:34.588Z
-keywords: [WebServiceCallout, Class, Invokes, external, SOAP, web, service, operation, based, Apex, class, auto-generated, WSDL., invoke, stub, request, response, infoArray, Signature, Parameters]
+lastCollected: 2026-03-12T05:14:21.407Z
+estimatedTokens: 986
+namespace: System
+keywords: [WebServiceCallout, Enables, making, callouts, SOAP, operations, external, Web, service., used, Apex, stub, auto-generated, WSDL., invoke, request, response, infoArray]
 ---
 
 # WebServiceCallout Class
 
-> Invokes an external SOAP web service operation based on an Apex class that is
-      auto-generated from a WSDL.
+> Enables making callouts to SOAP operations on an external Web service. This class is
+        used in the Apex stub class that is auto-generated from a WSDL.
+
+**Namespace:** `System`
+
+# WebServiceCallout Class
+
+Enables making callouts to SOAP operations on an external Web service. This class is used in the Apex stub class that is auto-generated from a WSDL.
+
+## Namespace
+
+[System](atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm "The System namespace provides classes and methods for core Apex functionality.")
+
+-   **[WebServiceCallout Methods](atlas.en-us.apexref.meta/apexref/apex_class_System_WebServiceCallout.htm#apex_System_WebServiceCallout_methods)**
+
+
+#### See Also
+
+-   [*Apex Developer Guide*: SOAP Services: Defining a Class from a WSDL Document](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts_wsdl2apex.htm "Apex Developer Guide: SOAP Services: Defining a Class from a WSDL Document - HTML (New Window)")
+
+
+## WebServiceCallout Methods
+
+The following is the static method for WebServiceCallout.
+
+-   **[invoke(stub, request, response, infoArray)](atlas.en-us.apexref.meta/apexref/apex_class_System_WebServiceCallout.htm#apex_System_WebServiceCallout_toString)**
+    Invokes an external SOAP web service operation based on an Apex class that is auto-generated from a WSDL.
 
 ### invoke(stub, request, response, infoArray)
 
@@ -65,3 +92,11 @@ Type: Void
 #### See Also
 
 -   [*Apex Developer Guide*: Named Credentials as Callout Endpoints](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts_named_credentials.htm "Apex Developer Guide: Named Credentials as Callout Endpoints - HTML (New Window)")
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+- WebServiceCallout Methods (atlas.en-us.apexref.meta/apexref/apex_class_System_WebServiceCallout.htm)
+- invoke(stub, request, response, infoArray) (atlas.en-us.apexref.meta/apexref/apex_class_System_WebServiceCallout.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

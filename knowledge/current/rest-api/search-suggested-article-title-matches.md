@@ -5,11 +5,17 @@ topic: search-suggested-article-title-matches
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.624Z
-keywords: [Search, Suggested, Article, Title, Matches, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.944Z
+estimatedTokens: 1292
+keywords: [Search, Suggested, Article, Title, Matches, list, Salesforce, Knowledge, article, titles, match, user’s, search, query, string., Provides, shortcut, navigate, directly, likely]
 ---
 
 # Search Suggested Article Title Matches
+
+> Returns a list of Salesforce Knowledge
+      article titles that match the user’s search query string. Provides a shortcut to
+      navigate directly to likely relevant articles before the user performs a search. This
+    resource is available in REST API version 30.0 and later.
 
 # Search Suggested Article Title Matches
 
@@ -87,4 +93,27 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/search/suggestTitleMatches?
+q=orange+banana&language=en_US&publishStatus=Online -H "Authorization: Bearer token"
+```
+
+```
+{
+  "autoSuggestResults" : [ {
+    "attributes" : {
+    "type" : "KnowledgeArticleVersion",
+    "url" : "/services/data/v66.0/sobjects/KnowledgeArticleVersion/ka0D00000004CcQ"
+    },
+  "Id" : "ka0D00000004CcQ",
+  "UrlName" : "orange-banana",
+  "Title" : "orange banana",
+  "KnowledgeArticleId" : "kA0D00000004Cfz"
+  } ],
+  "hasMoreResults" : false
+}
 ```

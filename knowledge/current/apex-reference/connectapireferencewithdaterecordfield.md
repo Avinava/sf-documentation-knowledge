@@ -5,11 +5,15 @@ topic: connectapireferencewithdaterecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.906Z
-keywords: [ConnectApi.ReferenceWithDateRecordField]
+lastCollected: 2026-03-12T05:14:28.845Z
+estimatedTokens: 143
+keywords: [ConnectApi.ReferenceWithDateRecordField, Record, field, containing, referenced, acted, specific, time, example, “Created, By...”.]
 ---
 
 # ConnectApi.ReferenceWithDateRecordField
+
+> Record field containing a referenced object that acted at a specific time, for example,
+  “Created By...”.
 
 # ConnectApi.ReferenceWithDateRecordField
 
@@ -21,3 +25,9 @@ Subclass of [ConnectApi.LabeledRecordField](atlas.en-us.apexref.meta/apexref/ape
 | --- | --- | --- | --- |
 | dateValue | Datetime | Time at which the referenced object acted. | 29.0 |
 | reference | ConnectApi.​RecordSummary | Object referenced by the record field. | 29.0 |
+
+## Related Topics
+
+- ConnectApi.LabeledRecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_labeledRecordField.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​RecordSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_rec_sum.htm)

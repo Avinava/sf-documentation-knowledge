@@ -5,11 +5,18 @@ topic: using-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.830Z
-keywords: [Event, Monitoring, Note]
+lastCollected: 2026-03-12T05:14:36.237Z
+estimatedTokens: 1748
+keywords: [Event, Monitoring, examples, REST, API, event, monitoring, data, contains, information, useful, assessing, org, usage, trends, user, behavior., accessed, through, Lightning]
 ---
 
 # Using Event Monitoring
+
+> These examples use REST API event monitoring data that contains information useful for
+    assessing org usage trends and user behavior. Event monitoring is accessed through the Lightning
+    Platform SOAP API and REST API by way of the EventLogFile object. Therefore, you can integrate
+    log data with your own back-end storage and data marts to correlate data from multiple orgs and
+    across disparate systems.
 
 # Using Event Monitoring
 
@@ -39,18 +46,30 @@ For the supported event types that you can use with event monitoring, see [Objec
 
 All queries and examples in this section require the View Event Log Files and API Enabled user permissions. Users with the View All Data permission can also view event monitoring data.
 
--   **[Describe Event Monitoring Using REST](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_describe.htm)**  
+-   **[Describe Event Monitoring Using REST](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_describe.htm)**
     Use the \*\*\* resource to retrieve all metadata for an object, including information about fields, URLs, and child relationships.
--   **[Query Event Monitoring Data with REST](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_query.htm)**  
+-   **[Query Event Monitoring Data with REST](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_query.htm)**
     Use the Query resource to retrieve field values from a record. Specify the fields you want to retrieve in the fields parameter and use the GET method of the resource.
--   **[Get Event Monitoring Content from a Record](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_blob.htm)**  
+-   **[Get Event Monitoring Content from a Record](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_blob.htm)**
     Use the sObject Blob Retrieve resource to retrieve BLOB data for a given record.
--   **[Download Large Event Log Files Using cURL with REST](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_download.htm)**  
+-   **[Download Large Event Log Files Using cURL with REST](atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_download.htm)**
     You might have some event log files that are larger than your tool can handle. A command line tool such as cURL is one method to download files larger than 100 MB using the sObject Blob Get object
--   **[Delete Event Monitoring Data](atlas.en-us.api_rest.meta/api_rest/event_log_file_delete.htm)**  
+-   **[Delete Event Monitoring Data](atlas.en-us.api_rest.meta/api_rest/event_log_file_delete.htm)**
     You can delete event log files that contain a user’s log data. Deleting log files helps you comply with data protection and privacy regulations and controls the information that others can access. You can’t delete individual rows from event logs. Instead, you must delete the entire log file that contains the user activity.
--   **[Query or View Hourly Event Log Files](atlas.en-us.api_rest.meta/api_rest/event_log_file_hourly_overview.htm)**  
+-   **[Query or View Hourly Event Log Files](atlas.en-us.api_rest.meta/api_rest/event_log_file_hourly_overview.htm)**
     To review events in your org on an accelerated basis, get event log files in hourly increments for recent activity. Hourly event log files can give you quicker visibility into security anomalies and custom code performance issues.
 
 -   [← Previous](atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_processes.htm "Working with Approval Processes and Process Rules")
 -   [Next →](atlas.en-us.api_rest.meta/api_rest/using_composite_resources.htm "Using Composite Resources")
+
+## Related Topics
+
+- Differences Between Hourly and 24-Hour Event Logs (atlas.en-us.api_rest.meta/api_rest/event_log_file_hourly_diff.htm)
+- Describe Event Monitoring Using REST (atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_describe.htm)
+- Query Event Monitoring Data with REST (atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_query.htm)
+- Get Event Monitoring Content from a Record (atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_blob.htm)
+- Download Large Event Log Files Using cURL with REST (atlas.en-us.api_rest.meta/api_rest/dome_event_log_file_download.htm)
+- Delete Event Monitoring Data (atlas.en-us.api_rest.meta/api_rest/event_log_file_delete.htm)
+- Query or View Hourly Event Log Files (atlas.en-us.api_rest.meta/api_rest/event_log_file_hourly_overview.htm)
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/using_resources_working_with_processes.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/using_composite_resources.htm)

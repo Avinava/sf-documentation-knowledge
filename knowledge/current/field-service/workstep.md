@@ -5,11 +5,15 @@ topic: workstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.180Z
-keywords: [WorkStep, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.911Z
+estimatedTokens: 1084
+keywords: [WorkStep, Represents, work, step, plan., API, version, 52.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # WorkStep
+
+> Represents a work step in a work plan. This object is available in API
+    version 52.0 and later.
 
 # WorkStep
 

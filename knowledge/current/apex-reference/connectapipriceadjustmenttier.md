@@ -5,11 +5,14 @@ topic: connectapipriceadjustmenttier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.626Z
-keywords: [ConnectApi.PriceAdjustmentTier, See]
+lastCollected: 2026-03-12T05:14:28.444Z
+estimatedTokens: 217
+keywords: [ConnectApi.PriceAdjustmentTier, Price, adjustment, tier.]
 ---
 
 # ConnectApi.PriceAdjustmentTier
+
+> Price adjustment tier.
 
 # ConnectApi.PriceAdjustmentTier
 
@@ -27,3 +30,9 @@ Price adjustment tier.
 #### See Also
 
 -   [ConnectApi.PriceAdjustmentSchedule](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_price_adjustment_schedule.htm "Price adjustment schedule.")
+
+## Related Topics
+
+- ConnectApi.​PriceAdjustment​TierType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.PriceAdjustmentSchedule (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_price_adjustment_schedule.htm)

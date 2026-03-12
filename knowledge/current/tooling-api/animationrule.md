@@ -5,11 +5,15 @@ topic: animationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.152Z
-keywords: [AnimationRule, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.541Z
+estimatedTokens: 868
+keywords: [AnimationRule, Represents, criteria, determining, animation, displayed, Path, users., API, version, 46.0, later., Important, Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # AnimationRule
+
+> Represents criteria for determining when an animation is
+        displayed to Path users. Available in API version 46.0 and later.
 
 # AnimationRule
 

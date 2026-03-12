@@ -6,12 +6,16 @@ topic: using-the-processplugindescriberesult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.434Z
-keywords: [Process.PluginDescribeResult, Class, Tip, Subclass, Properties]
+lastCollected: 2026-03-12T05:14:33.785Z
+estimatedTokens: 701
+keywords: [Process.PluginDescribeResult, Process.Plugin, describe, dynamically, provide, both, input, output, flow., class., Tip, Subclass]
 ---
 
 # Using the Process.PluginDescribeResult
         Class
+
+> Use the Process.Plugin interface describe method to dynamically provide both input and
+        output parameters for the flow. This method returns the Process.PluginDescribeResult class.
 
 # Using the Process.PluginDescribeResult Class
 
@@ -105,4 +109,41 @@ For example:
 
 ```
 
+```
+
+## Code Examples
+
+```
+Process.PluginDescribeResult classname = new Process.PluginDescribeResult();
+```
+
+```
+Process.PluginDescribeResult.InputParameter ip = new 
+    Process.PluginDescribeResult.InputParameter(Name,Optional_description_string, 
+      Process.PluginDescribeResult.ParameterType.Enum, Boolean_required);
+```
+
+```
+Process.PluginDescribeResult.OutputParameter op = new 
+    new Process.PluginDescribeResult.OutputParameter(Name,Optional description string, 
+       Process.PluginDescribeResult.ParameterType.Enum);
+```
+
+```apex
+Process.PluginDescribeResult.inputParameters = 
+      new List<Process.PluginDescribeResult.InputParameter>{ 
+         new Process.PluginDescribeResult.InputParameter(Name,Optional_description_string, 
+      Process.PluginDescribeResult.ParameterType.Enum, Boolean_required)
+```
+
+```apex
+Process.PluginDescribeResult result = new Process.PluginDescribeResult(); 
+result.setDescription('this plugin gets the name of a user');
+result.setTag ('userinfo');
+result.inputParameters = new List<Process.PluginDescribeResult.InputParameter>{ 
+    new Process.PluginDescribeResult.InputParameter('FullName', 
+       Process.PluginDescribeResult.ParameterType.STRING, true),
+    new Process.PluginDescribeResult.InputParameter('DOB', 
+       Process.PluginDescribeResult.ParameterType.DATE, true),
+    };
 ```

@@ -5,11 +5,17 @@ topic: move-metadata-from-production-to-your-local-file-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.036Z
-keywords: [Move, Metadata, Production, Local, File, System, See]
+lastCollected: 2026-03-12T05:14:43.449Z
+estimatedTokens: 364
+keywords: [Move, Metadata, Production, Local, File, System, development, changes, without, affecting, existing, configurations, API, move, metadata, local, file, system., Next, push]
 ---
 
 # Move Metadata from Production to Your Local File System
+
+> To make development changes without affecting your existing
+      configurations, use Metadata API to move metadata to your local file system. Next, push
+      metadata from your local file system to a shareable repository for
+    development.
 
 # Move Metadata from Production to Your Local File System
 
@@ -24,5 +30,9 @@ Now that your production metadata is stored in a repository, move the necessary 
 #### See Also
 
 -   [retrieve()](atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm "The retrieve() call retrieves XML file representations of components in an organization.")
-    
+
 -   [source Commands](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_source.htm#cli_reference_force_source)
+
+## Related Topics
+
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)

@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.084Z
-keywords: [ConnectApi.ManagedContentChannel, See]
+lastCollected: 2026-03-12T05:14:27.710Z
+estimatedTokens: 992
+keywords: [ConnectApi.ManagedContentChannel, Managed, content, channel.]
 ---
 
 # ConnectApi.ManagedContentChannel
+
+> Managed content channel.
 
 # ConnectApi.ManagedContentChannel
 
@@ -40,9 +43,22 @@ Subclass of [ConnectApi.AbstractManagedContentChannelRepresentation](atlas.en-us
 #### See Also
 
 -   [ConnectApi.ManagedContentChannelCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_collection.htm "Collection of managed content channels.")
-    
+
 -   [postManagedContentChannel(ManagedContentCreateInputParam)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm#apex_ConnectAPI_ManagedContentChannels_postManagedContentChannel_2 "Create a managed content channel.")
-    
+
 -   [getManagedContentChannel(channelId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm#apex_ConnectAPI_ManagedContentChannels_getManagedContentChannel_2 "Get a managed content channel.")
-    
+
 -   [patchManagedContentChannel(channelId, ManagedContentChannelInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm#apex_ConnectAPI_ManagedContentChannels_patchManagedContentChannel_3 "Update a managed content channel.")
+
+## Related Topics
+
+- ConnectApi.AbstractManagedContentChannelRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_managed_content_channel.htm)
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​ChannelType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ManagedContent​ChannelDomain​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_domain.htm)
+- ConnectApi.ManagedContentChannelCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_collection.htm)
+- postManagedContentChannel(ManagedContentCreateInputParam) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm)
+- getManagedContentChannel(channelId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm)
+- patchManagedContentChannel(channelId, ManagedContentChannelInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm)

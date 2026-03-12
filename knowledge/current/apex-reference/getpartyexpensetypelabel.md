@@ -4,12 +4,16 @@ domain: apex-reference
 topic: getpartyexpensetypelabel
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.552Z
-keywords: [GetPartyExpenseTypeLabel, Signature, Return, Value]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.735Z
+estimatedTokens: 64
+keywords: [GetPartyExpenseTypeLabel, picklist, values, party, expense, field, entity.]
 ---
 
 # GetPartyExpenseTypeLabel
+
+> Returns the picklist values for the party expense type field on
+            the party expense entity.
 
 # GetPartyExpenseTypeLabel
 

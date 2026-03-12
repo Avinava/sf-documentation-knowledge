@@ -5,11 +5,17 @@ topic: wavexmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:55.347Z
-keywords: [WaveXmd, File, Suffix, Directory, Location, Version, Fields, WaveXmdDate, WaveXmdDimension, WaveXmdFormattingProperty, WaveXmdFormattingBin, WaveXmdFormattingPredicate, WaveXmdDimensionCustomAction, WaveXmdDimensionMember, WaveXmdRecordDisplayLookup, WaveXmdDimensionSalesforceAction, WaveXmdMeasure, WaveXmdOrganization, Declarative, Metadata]
+lastCollected: 2026-03-12T05:14:43.945Z
+estimatedTokens: 3175
+keywords: [WaveXmd, Represents, Analytics, application., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, WaveXmdDate, WaveXmdDimension, WaveXmdFormattingProperty]
 ---
 
 # WaveXmd
+
+> Represents the WaveXmd object in the Analytics
+            application.
+        This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # WaveXmd
 
@@ -231,3 +237,64 @@ The following is an example of a WaveXmd component for an Asset XMD belonging to
 ```
 
 ```
+
+## Code Examples
+
+```
+<WaveXmd>
+    <dataset xsi:nil="true"/>
+    <dimesions>
+        <conditionalFormatting>
+            <formattingBins>
+                <bin>*</bin>
+                <formatValue>#FFFFFF</formatValue>
+                <label xsi:nil="true"/>
+                <sortIndex>0</sortIndex>
+            </formattingBins>
+            <formattingBins>
+                <bin>0</bin>
+                <formatValue>#000000</formatValue>
+                <label xsi:nil="true"/>
+                <sortIndex>1</sortIndex>
+            </formattingBins>
+            <property>chartColor</property>
+            <referenceField>count</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>multiple</type>
+        </conditionalFormatting>
+        <field>all_1.ALL</field>
+        <isDerived>false</isDerived>
+        <sortIndex>0</sortIndex>
+    </dimensions>
+    <measures>
+        <conditionalFormatting>
+            <formattingBins>
+                <bin>*</bin>
+                <formatValue>#FFFFFF</formatValue>
+                <label xsi:nil="true"/>
+                <sortIndex>0</sortIndex>
+            </formattingBins>
+            <formattingBins>
+                <bin>0</bin>
+                <formatValue>#000000</formatValue>
+                <label xsi:nil="true"/>
+                <sortIndex>1</sortIndex>
+            </formattingBins>
+            <property>chartColor</property>
+            <referenceField>count</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>multiple</type>
+        </conditionalFormatting>
+        <field>all_1.count</field>
+        <formatCustomFormat>[&quot;#,###.##%&quot;,1]</formatCustomFormat>
+        <isDerived>false</isDerived>
+        <sortIndex>0</sortIndex>
+    </measures>
+    <type>Asset</type>
+    <waveVisualization>dashboard</waveVisualization>
+</WaveXmd>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

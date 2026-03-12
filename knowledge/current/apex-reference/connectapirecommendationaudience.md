@@ -5,11 +5,14 @@ topic: connectapirecommendationaudience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.862Z
-keywords: [ConnectApi.RecommendationAudience, See]
+lastCollected: 2026-03-12T05:14:28.782Z
+estimatedTokens: 351
+keywords: [ConnectApi.RecommendationAudience, custom, recommendation, audience.]
 ---
 
 # ConnectApi.RecommendationAudience
+
+> A custom recommendation audience.
 
 # ConnectApi.RecommendationAudience
 
@@ -29,3 +32,14 @@ A custom recommendation audience.
 #### See Also
 
 -   [ConnectApi.RecommendationAudiencePage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_audience_collection.htm "A list of custom recommendation audiences.")
+
+## Related Topics
+
+- ConnectApi.AudienceCriteria (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_audience_criteria.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.CustomListAudienceCriteria (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_custom_list_audience_criteria.htm)
+- ConnectApi.​UserReferencePage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_reference_collection.htm)
+- ConnectApi.User (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.RecommendationAudiencePage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_audience_collection.htm)

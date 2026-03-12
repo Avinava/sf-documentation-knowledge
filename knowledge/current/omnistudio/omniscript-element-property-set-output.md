@@ -5,11 +5,15 @@ topic: omniscript-element-property-set-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:09.648Z
-keywords: [Omniscript, Element, Property, Set, Output]
+lastCollected: 2026-03-12T05:14:50.452Z
+estimatedTokens: 516
+keywords: [Omniscript, Element, Set, Output, representation, set, configuration, elements.]
 ---
 
 # Omniscript Element Property Set Output
+
+> Output representation of the property set configuration of the Omniscript
+    elements.
 
 # Omniscript Element Property Set Output
 
@@ -37,3 +41,16 @@ JSON example
 | show | Map<String, Object> | Display field details for the conditional rendering of the Omniscript element from the property set configuration. | Small, 60.0 | 60.0 |
 | text | String | Text of the Omniscript element from the property set configuration. | Small, 60.0 | 60.0 |
 | type | String | Type of the Omniscript element from the property set configuration. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"PropertySetConfig": {
+            "label": "Can you provide more details about the transaction",
+            "defaultValue": null,
+            "help": false,
+            "helpText": "",
+            "show": null,
+            "conditionType": "Hide if False"
+          }
+```

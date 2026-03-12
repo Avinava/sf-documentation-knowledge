@@ -5,11 +5,14 @@ topic: connectapiabstractnbatarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.796Z
-keywords: [ConnectApi.AbstractNBATarget, See]
+lastCollected: 2026-03-12T05:14:25.887Z
+estimatedTokens: 169
+keywords: [ConnectApi.AbstractNBATarget, recommendation, target, strategy.]
 ---
 
 # ConnectApi.AbstractNBATarget
+
+> A recommendation target of a recommendation strategy.
 
 # ConnectApi.AbstractNBATarget
 
@@ -26,3 +29,9 @@ Superclass of [ConnectApi.NBANativeRecommendation](atlas.en-us.apexref.meta/apex
 #### See Also
 
 -   [ConnectApi.NBARecommendation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_recommendation.htm "A recommendation returned by a recommendation strategy.")
+
+## Related Topics
+
+- ConnectApi.NBANativeRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_proposition_recommendation.htm)
+- ConnectApi.​NBATargetType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.NBARecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_recommendation.htm)

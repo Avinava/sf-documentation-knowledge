@@ -5,11 +5,16 @@ topic: return-headers-of-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.561Z
-keywords: [Return, Headers, Quick, Actions, Example]
+lastCollected: 2026-03-12T05:14:35.854Z
+estimatedTokens: 291
+keywords: [Headers, Quick, Actions, only, headers, returned, sending, GET, request, resource., gives, chance, header, values, before, retrieving, content, resource, REST, API]
 ---
 
 # Return Headers of Quick Actions
+
+> Returns only the headers that are returned by sending a GET request to the Quick Actions
+  resource. This gives you a chance to see the header values before retrieving the content of the
+  resource. This resource is available in REST API version 28.0 and later.
 
 # Return Headers of Quick Actions
 
@@ -46,3 +51,13 @@ Example Request
 ```
 
 ```
+
+## Code Examples
+
+```
+curl -X HEAD --head https://MyDomainName.my.salesforce.com/services/data/v66.0/quickActions/ -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- sObject Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_sobject_quickactions.htm)

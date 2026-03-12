@@ -1,32 +1,112 @@
 ---
-title: "lightning__tabFocused"
+title: "lightning:tabFocused"
 domain: service-cloud
 topic: lightningtabfocused
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:47:50.456Z
-keywords: [lightning__tabFocused, lightning, _tabFocused, Response, LWC, Example]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:57.285Z
+estimatedTokens: 263
+keywords: [lightning, tabFocused, Indicates, tab, focused., Response, Example, lightning__tabFocused, Lightning, message, channel, corresponds, Aura, app, event., web, components, used, within, console]
 ---
 
-# lightning__tabFocused
+# lightning:tabFocused
 
-# lightning\_\_tabFocused
+> Indicates a tab was focused.
 
-A Lightning message channel that corresponds to the lightning:tabFocused Aura app event. This message channel is available for Lightning web components used within a Lightning console app.
+# lightning:tabFocused
 
-By default, this event is only received when that component's tab comes into focus, not when it leaves focus. To receive all events and minimize performance impact, use a utility item as the only listener.
+Indicates a tab was focused.
+
+lightning:tabFocused fires whenever a user selects a workspace tab or subtab, so console navigation users frequently trigger this application event in typical use. This event also fires when going from a tab to a navigation item, or going from a navigation item to a tab. Aura application events notify all listeners registered in the default phase, including listeners in background tabs. Multiple listeners responding at the same time can impact performance. To minimize performance impact, use a utility item as the only listener, or use a custom component event instead.
 
 ## Response
 
-The response is the same as that of the [lightning:tabFocused](atlas.en-us.api_console.meta/api_console/sforce_api_console_events_tabfocused.htm "Indicates a tab was focused.") Aura app event.
+| Name | Type | Description |
+| --- | --- | --- |
+| previousTabId | string | The ID of the previously focused tab. |
+| currentTabId | string | The ID of the currently focused tab. |
 
-## LWC Example
+## Example
 
-Import the lightning\_\_tabFocused message channel from the @salesforce/messageChannel/ scoped module. The event returns the message in the response.
+This example prints a line to the browser’s developer console when a tab is focused, and then returns that tab’s tabInfo object using the getTabInfo() method.
+
+Component code:
 
 ```
 
 ```
 
-For more information, see [Subscribe and Unsubscribe from a Message Channel](https://developer.salesforce.com/docs/platform/lwc/guide/use-message-channel-subscribe.html).
+Controller code:
+
+```
+
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />	
+    <aura:handler event="lightning:tabFocused" action="{! c.onTabFocused }"/> 
+</aura:component>
+```
+
+```
+({
+    onTabFocused : function(component, event, helper) {
+        console.log("Tab Focused");
+        var focusedTabId = event.getParam('currentTabId');
+        var workspaceAPI = component.find("workspace");        
+        workspaceAPI.getTabInfo({
+            tabId : focusedTabId
+        }).then(function(response) {
+            console.log(response);
+        });
+    }
+})
+```
+
+```
+import { LightningElement, track, wire } from "lwc";
+import { MessageContext, subscribe, unsubscribe, APPLICATION_SCOPE } from "lightning/messageService";
+import tabFocusedChannel from "@salesforce/messageChannel/lightning__tabFocused";
+
+export default class TabFocusedExample extends LightningElement {
+    subscription = null;
+    @wire(MessageContext) messageContext;
+
+    // Encapsulate logic for Lightning message service subscribe and unsubscribe
+    subscribeToMessageChannel() {
+        if (!this.subscription) {
+            this.subscription = subscribe(
+                this.messageContext,
+                tabFocusedChannel,
+                (message) => this.handleMessage(message),
+                { scope: APPLICATION_SCOPE }
+            );
+        }
+    }
+
+    unsubscribeToMessageChannel() {
+        unsubscribe(this.subscription);
+        this.subscription = null;
+    }
+
+    // Handler for message received by component
+    handleMessage(message) {
+        // do something
+    }
+    // Standard lifecycle hooks used to subscribe and unsubscribe to the message channel
+    connectedCallback() {
+        this.subscribeToMessageChannel();
+    }
+
+    disconnectedCallback() {
+        this.unsubscribeToMessageChannel();
+    }
+```
+
+## Related Topics
+
+- lightning:tabFocused (atlas.en-us.api_console.meta/api_console/sforce_api_console_events_tabfocused.htm)

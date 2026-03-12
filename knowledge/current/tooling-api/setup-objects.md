@@ -5,11 +5,16 @@ topic: setup-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:37.059Z
-keywords: [Setup, Objects]
+lastCollected: 2026-03-12T05:14:44.410Z
+estimatedTokens: 4982
+keywords: [Setup, Objects, setup, objects, interact, metadata, declarative, development., example, create, own, version, restrict, amount, data, required, push, app, mobile, phone.]
 ---
 
 # Setup Objects
+
+> Use setup objects to interact with metadata for declarative development. For example,
+        you can create your own version of Setup, or restrict the amount of data required to push to
+        an app to a mobile phone.
 
 # Setup Objects
 
@@ -242,3 +247,16 @@ Represents a workflow rule that is used to fire off a specific workflow action w
 [WorkflowTask](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_workflowtask.htm "Represents a workflow task that is used to fire off a specific workflow action when the specified criteria is met. Includes access to the associated WorkflowRule object in Salesforce Metadata API.")
 
 Represents a workflow task that is used to fire off a specific workflow action when the specified criteria is met. Includes access to the associated WorkflowRule object in Salesforce Metadata API.
+
+## Related Topics
+
+- AuthorizedEmailDomain (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_authorizedemaildomain.htm)
+- BusinessProcess (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_businessprocess.htm)
+- CleanDataService (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_cleandataservice.htm)
+- CleanRule (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_cleanrule.htm)
+- CompactLayout (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_compactlayout.htm)
+- CompactLayoutInfo (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_compactlayoutinfo.htm)
+- CompactLayoutItemInfo (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_compactlayoutiteminfo.htm)
+- CustomField (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_customfield.htm)
+- CustomFieldMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_customfieldmember.htm)
+- CustomObject (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_customobject.htm)

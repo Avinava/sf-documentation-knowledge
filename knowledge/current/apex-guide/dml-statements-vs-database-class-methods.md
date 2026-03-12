@@ -5,11 +5,17 @@ topic: dml-statements-vs-database-class-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.048Z
-keywords: [DML, Statements, vs., Database, Class, Methods, Note, See]
+lastCollected: 2026-03-12T05:14:34.656Z
+estimatedTokens: 720
+keywords: [DML, Statements, vs., Database, Apex, offers, two, ways, perform, operations, statements, methods., provides, flexibility, how, data, operations., straightforward, result, exceptions]
 ---
 
 # DML Statements vs. Database Class Methods
+
+> Apex offers two ways to perform DML operations: using DML statements or Database
+        class methods. This provides flexibility in how you perform data operations. DML statements
+        are more straightforward to use and result in exceptions that you can handle in your
+        code.
 
 # DML Statements vs. Database Class Methods
 
@@ -46,3 +52,41 @@ Most operations overlap between the two, except for a few.
 #### See Also
 
 -   [*Apex Reference Guide*: Database Class Methods](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_database.htm "Apex Reference Guide: Database Class Methods - HTML (New Window)")
+
+## Code Examples
+
+```apex
+// Create the list of sObjects to insert
+List<Account> acctList = new List<Account>();
+acctList.add(new Account(Name='Acme1'));
+acctList.add(new Account(Name='Acme2'));
+
+// DML statement
+insert acctList;
+```
+
+```apex
+// Create the list of sObjects to insert
+List<Account> acctList = new List<Account>();
+acctList.add(new Account(Name='Acme1'));
+acctList.add(new Account(Name='Acme2'));
+
+// DML statement
+Database.SaveResult[] srList = Database.insert(acctList, false);
+
+// Iterate through each returned result
+for (Database.SaveResult sr : srList) {
+    if (sr.isSuccess()) {
+        // Operation was successful, so get the ID of the record that was processed
+        System.debug('Successfully inserted account. Account ID: ' + sr.getId());
+    }
+    else {
+        // Operation failed, so get all errors                
+        for(Database.Error err : sr.getErrors()) {
+            System.debug('The following error has occurred.');                    
+            System.debug(err.getStatusCode() + ': ' + err.getMessage());
+            System.debug('Account fields that affected this error: ' + err.getFields());
+        }
+    }
+}
+```

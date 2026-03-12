@@ -5,11 +5,15 @@ topic: lightningomnichannelworkclosed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.890Z
-keywords: [lightning, omniChannelWorkClosed, Response, Example]
+lastCollected: 2026-03-12T05:14:57.265Z
+estimatedTokens: 160
+keywords: [lightning, omniChannelWorkClosed, Indicates, status, AgentWork, changed, Closed., Response, Example]
 ---
 
 # lightning:omniChannelWorkClosed
+
+> Indicates that the status of an AgentWork object is
+            changed to Closed.
 
 # lightning:omniChannelWorkClosed
 
@@ -36,4 +40,25 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelWorkClosed" action="{! c.onWorkClosed }"/>
+</aura:component>
+```
+
+```
+({
+    onWorkClosed : function(component, event, helper) {
+        console.log("Work closed.");
+        var workItemId = event.getParam('workItemId');
+        var workId = event.getParam('workId');
+        console.log(workItemId);
+        console.log(workId);
+    }, 
+})
 ```

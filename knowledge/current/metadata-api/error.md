@@ -5,11 +5,15 @@ topic: error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.299Z
-keywords: [Error, Version, Properties]
+lastCollected: 2026-03-12T05:14:39.358Z
+estimatedTokens: 214
+keywords: [Error, Represents, error, occurred, during, synchronous, CRUD, createMetadata, updateMetadata, deleteMetadata, operation., Version]
 ---
 
 # Error
+
+> Represents an error that occurred during
+a synchronous CRUD (createMetadata(), updateMetadata(), or deleteMetadata()) operation.
 
 # Error
 

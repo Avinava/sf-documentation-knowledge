@@ -5,11 +5,14 @@ topic: productsreturnratepageparam-pagesize-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:32.437Z
-keywords: [productsReturnRate, pageParam, pageSize, products, API, Version, Requires, Chatter, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:18.556Z
+estimatedTokens: 365
+keywords: [productsReturnRate, pageParam, pageSize, products, Get, page, their, rates, list, product, IDs., API, Version, Requires, Chatter]
 ---
 
 # productsReturnRate(pageParam, pageSize, products)
+
+> Get a page of products and their return rates for a list of product IDs.
 
 # productsReturnRate(pageParam, pageSize, products)
 
@@ -50,3 +53,9 @@ List of product IDs.
 ## Return Value
 
 Type: ConnectApi.ProductReturnRateListOutputRepresentation
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

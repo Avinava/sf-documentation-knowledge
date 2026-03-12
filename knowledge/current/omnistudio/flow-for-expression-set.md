@@ -5,11 +5,17 @@ topic: flow-for-expression-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.098Z
-keywords: [Flow, Expression, Set, FlowActionCall]
+lastCollected: 2026-03-12T05:14:51.145Z
+estimatedTokens: 234
+keywords: [Flow, Expression, Set, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute, logic]
 ---
 
 # Flow for Expression Set
+
+> Represents the metadata associated with a flow. With Flow, you can create an
+    application that navigates users through a series of screens to query and update records in the
+    database. You can also execute logic and provide branching capability based on user input to
+    build dynamic applications.
 
 # Flow for Expression Set
 

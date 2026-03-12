@@ -5,11 +5,15 @@ topic: connectapimoderationflags
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.275Z
-keywords: [ConnectApi.ModerationFlags, See]
+lastCollected: 2026-03-12T05:14:27.977Z
+estimatedTokens: 347
+keywords: [ConnectApi.ModerationFlags, Information, moderation, flags, feed, item, comment, file.]
 ---
 
 # ConnectApi.ModerationFlags
+
+> Information about the moderation flags on a feed item,
+      comment, or file.
 
 # ConnectApi.ModerationFlags
 
@@ -25,7 +29,18 @@ Information about the moderation flags on a feed item, comment, or file.
 #### See Also
 
 -   [ConnectApi.Comment](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm "A comment.")
-    
+
 -   [ConnectApi.File](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file.htm "File.")
-    
+
 -   [ConnectApi.ModerationCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderation_capability.htm "If a feed element has this capability, users in an Experience Cloud site can flag it for moderation.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- ConnectApi.​CommunityFlag​ReasonType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.ModerationFlagsCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderation_flags_collection.htm)
+- ConnectApi.Comment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm)
+- ConnectApi.File (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file.htm)
+- ConnectApi.ModerationCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_moderation_capability.htm)

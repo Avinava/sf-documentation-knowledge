@@ -5,11 +5,14 @@ topic: connectapicouponcoderedemptioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.029Z
-keywords: [ConnectApi.CouponCodeRedemptionInput]
+lastCollected: 2026-03-12T05:14:24.698Z
+estimatedTokens: 137
+keywords: [ConnectApi.CouponCodeRedemptionInput, Input, representation, coupon, code, redemption.]
 ---
 
 # ConnectApi.CouponCodeRedemptionInput
+
+> Input representation for coupon code redemption.
 
 # ConnectApi.CouponCodeRedemptionInput
 
@@ -21,3 +24,8 @@ Input representation for coupon code redemption.
 | couponCodes | List<String> | List of coupon codes. | Required | 58.0 |
 | effectiveAccountId | String | ID of the account. | Required | 58.0–59.0 |
 | transactionId | String | ID of the transaction, which must be a valid cart ID. | Required | 58.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

@@ -5,11 +5,15 @@ topic: field-service-custom-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.187Z
-keywords: [Field, Service, Custom, Triggers, Assigned, Resource, Event, Gantt, Filter, Palette, Map, Polygon, Operating, Hours, Optimization, Request, Absence, Scheduling, Policy, Work]
+lastCollected: 2026-03-12T05:14:55.431Z
+estimatedTokens: 10733
+keywords: [Field, Service, Custom, Triggers, custom, triggers, ensure, objects, respective, fields, processed, before, after, scheduling., Assigned, Resource, Event, Gantt, Filter, Palette]
 ---
 
 # Field Service Custom Triggers
+
+> Field Service custom triggers ensure that the objects and respective fields are processed
+  before or after scheduling.
 
 # Field Service Custom Triggers
 

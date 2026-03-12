@@ -5,11 +5,14 @@ topic: fields-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.420Z
-keywords: [Fields, Info]
+lastCollected: 2026-03-12T05:14:07.737Z
+estimatedTokens: 226
+keywords: [Fields, Info, Output, representation, metadata, fields, object.]
 ---
 
 # Fields Info
+
+> Output representation of the metadata fields in an object.
 
 # Fields Info
 
@@ -31,3 +34,26 @@ JSON example
 | label | String | Label of the object field. | Small, 62.0 | 62.0 |
 | name | String | Name of the object field. | Small, 62.0 | 62.0 |
 | type | String | Type of the object field. | Small, 62.0 | 62.0 |
+
+## Code Examples
+
+```
+"fields": [
+          {
+            "dataType": "text",
+            "isFacetableConfigurable": true,
+            "isSearchableConfigurable": false,
+            "label": "Product Name",
+            "name": "Name",
+            "type": "Standard"
+          },
+          {
+            "dataType": "multilinetext",
+            "isFacetableConfigurable": false,
+            "isSearchableConfigurable": true,
+            "label": "Product Description",
+            "name": "Description",
+            "type": "Standard"
+          }
+        ]
+```

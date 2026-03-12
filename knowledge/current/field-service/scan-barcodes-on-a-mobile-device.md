@@ -5,11 +5,17 @@ topic: scan-barcodes-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.243Z
-keywords: [Scan, Barcodes, Mobile, Device, Important, Note, BarcodeScanner, API, Add, Lightning, Web, Component, Test, Availability, Supported, Barcode, Types, See]
+lastCollected: 2026-03-12T05:14:55.515Z
+estimatedTokens: 898
+keywords: [Scan, Barcodes, Mobile, Device, Lightning, web, component, mobile, device’s, camera, platform, features, scan, barcode, such, UPC, symbol, code., successfully, scanned]
 ---
 
 # Scan Barcodes on a Mobile Device
+
+> A Lightning web component can use a mobile device’s camera and mobile OS platform
+    features to scan a barcode, such as a UPC symbol or QR code. When a barcode is successfully
+    scanned, the data that was read from the barcode is returned to the Lightning web component that
+    invoked it.
 
 # Scan Barcodes on a Mobile Device
 
@@ -96,3 +102,69 @@ See [scan(options)](https://developer.salesforce.com/docs/platform/lwc/guide/ref
 #### See Also
 
 -   [BarcodeScanner API](https://developer.salesforce.com/docs/platform/lwc/guide/reference-lightning-barcodescanner.html)
+
+## Code Examples
+
+```
+import { getBarcodeScanner } from "lightning/mobileCapabilities";
+```
+
+```
+import { LightningElement } from 'lwc';
+import { getBarcodeScanner } from 'lightning/mobileCapabilities';
+export default class ImplementBarcodeScanner extends LightningElement {
+  const myScanner = getBarcodeScanner();
+
+  barcodeResults = 'Nothing scanned yet!';
+
+  handleBeginScanClick(event) {
+    if(myScanner.isAvailable()) {
+      // Perform scanning operations
+      let scanningOptions = {
+        "barcodeTypes": ["code128","code39", "code93", "ean13", "ean8", "upca", "upce", "qr", "datamatrix", "itf", "pdf417"], "instructionText":"Position barcode in the scanner view.
+Press x to stop.",
+"successText":"Successful Scan!"
+      };
+      myScanner.scan(scanningOptions)
+        .then((results) => {
+          // Do something with the results of the scan
+          this.barcodeResults = '';
+          results.forEach(result => {
+            this.barcodeResults += 'type: ' + result.type + ', value: ' + result.value + '
+'; 
+          });
+        })
+        .catch((error) => {
+          // Handle cancellation and scanning errors here
+          this.barcodeResults = 'Error code: ' + error.code + '
+Error message: ' + error.message;
+        })
+        .finally(() => {
+          myScanner.dismiss();
+        });
+  } else {
+      // Scanner not available
+      // Not running on hardware with a scanner
+      // Handle with message, error, beep, and so on
+      this.barcodeResults = 'Problem initiating scanner.  Are you using a mobile device?';
+    }
+  }
+}
+```
+
+```
+myScanner
+  .scan(scanningOptions)
+  .then((result) => {
+    // Do something with the result of the scan
+    console.log(result);
+    this.scannedBarcode = result.value;
+  })
+  .catch((error) => {
+    // Handle cancellation and scanning errors here
+    console.error(error);
+  })
+  .finally(() => {
+    myScanner.dismiss();
+  });
+```

@@ -5,11 +5,14 @@ topic: attribute-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T14:37:50.363Z
-keywords: [Attribute, Definition]
+lastCollected: 2026-03-12T05:14:07.345Z
+estimatedTokens: 983
+keywords: [Attribute, Definition, Output, representation, attribute, definition.]
 ---
 
 # Attribute Definition
+
+> Output representation of the attribute definition.
 
 # Attribute Definition
 
@@ -50,3 +53,45 @@ JSON example
 | step​Value | String | Reserved for future use. | Small, 60.0 | 60.0 |
 | value​Decoder | String | Reserved for future use. | Small, 60.0 | 60.0 |
 | value​Description | String | Description of the value assigned to the attribute. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"attributes": [
+     {
+      "additionalFields": {
+      "scope": "Order"
+       },
+      "attributeNameOverride": "AD Text",
+      "code": "AD02",
+      "dataType": "Text",
+      "defaultValue": "AD Text DV",
+      "description": "AD Text Desc",
+      "displayType": "Text",
+      "helpText": "AD Text DHT",
+      "id": "0tjT1000000002bIAA",
+      "isHidden": false,
+      "isPriceImpacting": true,
+      "isReadOnly": true,
+      "isRequired": true,
+      "label": "AD Text Label",
+      "maximumCharacterCount": 20,
+      "maximumValue": "100",
+      "minimumCharacterCount": 1,
+      "minimumValue": "50",
+      "name": "AD Text",
+      "sequence": 1,
+      "status": "Active",
+      "valueDescription": "AD Text VD"
+     }
+   ],
+    "code": "AC001",
+    "id": "0v3T1000000000BIAQ",
+    "name": "build and make"
+}]
+```
+
+## Related Topics
+
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_catalog_additional_fields_input.htm)
+- Attribute Picklist (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_attribute_picklist_output.htm)

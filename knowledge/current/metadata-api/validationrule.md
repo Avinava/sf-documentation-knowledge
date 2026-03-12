@@ -5,11 +5,18 @@ topic: validationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.094Z
-keywords: [ValidationRule, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:43.559Z
+estimatedTokens: 818
+keywords: [ValidationRule, Represents, validation, rule, which, used, verify, data, user, enters, record, valid, saved., contains, formula, expression, evaluates, fields, true, false.]
 ---
 
 # ValidationRule
+
+> Represents a validation rule, which is used to
+            verify that the data a user enters in a record is valid and can be saved. A validation
+            rule contains a formula or expression that evaluates the data in one or more fields and
+            returns a value of true or false. Validation rules also include an error message that your client
+            application can display to the user when the rule returns a value of true due to invalid data.
 
 # ValidationRule
 
@@ -50,3 +57,40 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingrecalculation.htm "SharingRecalculation")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm "WebLink")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <fields>
+        <fullName>Mommy_Cat__c</fullName>
+        <label>Mommy Cat</label>
+        <referenceTo>Cat__c</referenceTo>
+        <relationshipName>Cats</relationshipName>
+        <type>Lookup</type>
+    </fields>
+    <label>Cat</label>
+    <nameField>
+        <label>Cat Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Cats</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>CatsRule</fullName>
+        <active>true</active>
+        <errorConditionFormula>OR(Name = &apos;Milo&apos;,Name = &apos;Moop&apos;)</errorConditionFormula>
+        <validationMessage>Name must be that of one of my cats</validationMessage>
+    </validationRules>
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_apexsharingrecalculation.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)

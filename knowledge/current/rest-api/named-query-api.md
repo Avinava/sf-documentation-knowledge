@@ -5,11 +5,15 @@ topic: named-query-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.471Z
-keywords: [Named, Query, API, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.737Z
+estimatedTokens: 356
+keywords: [Named, Query, API, create, it’s, REST, call., name, defines, endpoint, while, appear, URI, query, parameters., Syntax, Example]
 ---
 
 # Named Query API
+
+> When you create a Named Query API, it’s available as a REST API call. The name of
+        the Named Query API defines the endpoint, while parameters appear as URI query parameters.
 
 # Named Query API
 
@@ -54,4 +58,40 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+/services/data/vXX.X/named/query/Get_Account_Details_From_Name?name=Acme
+```
+
+```apex
+{
+    "totalSize": 1,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+            "type": "Account",
+            "url": "/services/data/v64.0/sobjects/Account/001Ws00003cPDMRIA4"
+            },
+            "Name": "Acme",
+            "Description": "A trendy, fast-casual dining group offering an eclectic mix of globally inspired dishes. Known for its vibrant, urban ambiance and innovative menu, Urban Eats Collective brings city vibes to every meal.",
+            "Phone": "214-555-1010",
+            "Website": "www.urbaneats.com",
+            "NumberOfEmployees": 500,
+            "BillingAddress": {
+                "city": "Dallas",
+                "country": "USA",
+                "geocodeAccuracy": null,
+                "latitude": null,
+                "longitude": null,
+                "postalCode": "75219",
+                "state": "TX",
+                "street": "2401 Victory Avenue"
+            }
+        }
+    ]
+}
 ```

@@ -5,11 +5,16 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.035Z
-keywords: [Skill, Note, Supported, Calls, Fields, Usage]
+lastCollected: 2026-03-12T05:14:55.756Z
+estimatedTokens: 561
+keywords: [Skill, Represents, settings, skill, used, field, service, route, chats, agents, Chat, such, name, which, skills, assigned, to., File, Suffix, Directory]
 ---
 
 # Skill
+
+> Represents a category or group of Chat users or  service resources in
+   Field Service or Workforce Engagement. This object is available in API version 24.0 and
+  later.
 
 # Skill
 
@@ -55,3 +60,21 @@ Use this object to specify areas of expertise in your workforce. After you creat
 
 -   Assign it to a service resource via the Skills related list on the resource’s detail page.
 -   Add it as a required skill via the Skill Requirements related list on a job profile.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Skill xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>My Skill 1</label>
+    <assignments>
+        <profiles>
+            <profile>LiveAgentOperator</profile>
+            <profile>LiveAgentSupervisor</profile>
+        </profiles>
+        <users>
+            <user>jdoe@acme.com</user>
+        </users>
+    </assignments>
+</Skill>
+```

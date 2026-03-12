@@ -5,11 +5,15 @@ topic: data-use-purpose-consent-action-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.311Z
-keywords: [Data, Purpose, Consent, Action, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.863Z
+estimatedTokens: 514
+keywords: [Data, Purpose, Consent, Action, DMO, Cloud, data, model, individual, consent, preferences, actions., API, Name, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Data Use Purpose Consent Action DMO
+
+> The Data Use Purpose Consent Action DMO is a Data Cloud data model object
+      (DMO) for individual consent preferences for consent actions.
 
 # Data Use Purpose Consent Action DMO
 

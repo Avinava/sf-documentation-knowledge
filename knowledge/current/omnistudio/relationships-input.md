@@ -5,11 +5,15 @@ topic: relationships-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.489Z
-keywords: [Relationships, Input]
+lastCollected: 2026-03-12T05:14:48.730Z
+estimatedTokens: 279
+keywords: [Relationships, Input, representation, relationship, among, members, party, group.]
 ---
 
 # Relationships Input
+
+> Input representation of the relationship among members of a party
+         relationship group.
 
 # Relationships Input
 
@@ -34,3 +38,21 @@ Properties
 | relatedInverseRecordId | String | Record ID of the related inverse record. | Optional | 58.0 |
 | roleRelationId | String | Record ID of the PartyRoleRelation object. | Required | 58.0 |
 | startDate | String | Date when the contact relationship starts. | Optional | 58.0 |
+
+## Code Examples
+
+```
+"relations":[
+               {
+                  "roleRelationId":"0zlRM0000004CAaYAM",
+                  "relatedContactId":"003RM00000895NFYAY",
+                  "startDate":"2023-06-14T00:00:00.000Z",
+                  "endDate":"2024-06-14T00:00:00.000Z",
+                  "isActive":true,
+                  "customFields":{
+                     "field1":"field1Value",
+                     "field2":"field1Value"
+                  }
+               }
+            ]
+```

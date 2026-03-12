@@ -5,11 +5,14 @@ topic: connectapidoublelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.099Z
-keywords: [ConnectApi.DoubleList]
+lastCollected: 2026-03-12T05:14:24.800Z
+estimatedTokens: 96
+keywords: [ConnectApi.DoubleList, List, double, values.]
 ---
 
 # ConnectApi.DoubleList
+
+> List of double values.
 
 # ConnectApi.DoubleList
 
@@ -20,3 +23,9 @@ Subclass of [ConnectApi.AbstractList](atlas.en-us.apexref.meta/apexref/apex_conn
 | Property | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | values | List<Double> | List of Double values to filter on. | Optional | 63.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractList (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_abstract_list_inpu.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

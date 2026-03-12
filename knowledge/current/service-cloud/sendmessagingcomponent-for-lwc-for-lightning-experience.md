@@ -5,11 +5,16 @@ topic: sendmessagingcomponent-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.347Z
-keywords: [sendMessagingComponent, LWC, Lightning, Experience, Arguments, Response, Sample, Code]
+lastCollected: 2026-03-12T05:14:57.917Z
+estimatedTokens: 242
+keywords: [sendMessagingComponent, LWC, Lightning, Experience, Sends, new, message, specified, messaging, component, behalf, service, rep., send, text, message., works, only, console, apps.]
 ---
 
 # sendMessagingComponent() for LWC for Lightning Experience
+
+> Sends a new message with a specified messaging component on behalf of the service rep.
+  You can also use this method to send a text message. This method works only in Lightning console
+  apps.
 
 # sendMessagingComponent() for LWC for Lightning Experience
 
@@ -34,4 +39,24 @@ This example sends a static content message on behalf of the service rep.
 
 ```
 
+```
+
+## Code Examples
+
+```
+import { LightningElement, api } from 'lwc';
+import { sendMessagingComponent } from 'lightning/conversationToolkitApi';
+
+export default class MyComponent extends LightningElement {
+    @api recordId;
+
+    async handleButtonClick(event) {
+        const result = await setMessagingComponent(
+            this.recordId, {
+                messageType: "StaticContentMessage",
+                nameOrId: "1mdxx0000000001AAA"
+            });
+        console.log(result);
+    }
+}
 ```

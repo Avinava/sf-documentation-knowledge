@@ -5,11 +5,15 @@ topic: openconsoleurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.590Z
-keywords: [openConsoleUrl, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:58.281Z
+estimatedTokens: 499
+keywords: [openConsoleUrl, Opens, URL, created, generateConsoleUrl, tab, group, related, tabs, Salesforce, console, only, API, version, 28.0, later., Syntax, Arguments, Sample, Code–Visualforce]
 ---
 
 # openConsoleUrl()
+
+> Opens a URL created by the generateConsoleUrl() method (a URL to a tab, or group of related tabs, in the Salesforce console). This method is only available in API
+                version 28.0 or later.
 
 # openConsoleUrl()
 
@@ -51,3 +55,26 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if the console URL was opened successfully, false otherwise. |
+
+## Code Examples
+
+```
+sforce.console.openConsoleUrl(id:String, consoleUrl:URL, active:Boolean, (optional)tabLabels:String, (optional)tabNames:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <A HREF="#" onClick="testGenerateConsoleURL();return false">
+        Click here to open a console URL</A> 
+
+    <script type="text/javascript">
+        var generateConsoleUrl = function testGenerateConsoleURL() {
+            sforce.console.generateConsoleUrl([/apex/pagename, /entityId, www.externalUrl.com, Standard Salesforce Url/entityId], showConsoleUrl);
+         }
+        var openConsoleUrl = function showConsoleUrl(result) {
+            sforce.console.openConsoleUrl(null, result.consoleUrl, true, ['Apex', '', 'Salesforce', ''], ['', '', 'externalUrl', ''])
+         }
+  </script>
+</apex:page>
+```

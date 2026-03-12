@@ -5,11 +5,14 @@ topic: connectapiscopedsearchresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.981Z
-keywords: [ConnectApi.ScopedSearchResults, See]
+lastCollected: 2026-03-12T05:14:28.954Z
+estimatedTokens: 246
+keywords: [ConnectApi.ScopedSearchResults, Keyword, search, results, object.]
 ---
 
 # ConnectApi.ScopedSearchResults
+
+> Keyword search results for an object.
 
 # ConnectApi.ScopedSearchResults
 
@@ -26,3 +29,13 @@ Keyword search results for an object.
 #### See Also
 
 -   [find(objectApiName, request)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_find_object_1 "Search an object using keywords and return results.")
+
+## Related Topics
+
+- ConnectApi.​ObjectMetadata (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_metadat.htm)
+- ConnectApi.​ObjectQueryInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_query_inf.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​SearchResult (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_resul.htm)
+- ConnectApi.​SearchObject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm)
+- find(objectApiName, request) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)

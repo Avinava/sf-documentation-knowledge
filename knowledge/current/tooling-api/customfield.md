@@ -5,11 +5,16 @@ topic: customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.497Z
-keywords: [CustomField, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.990Z
+estimatedTokens: 589
+keywords: [CustomField, Represents, custom, field, stores, data, unique, organization., Includes, access, associated, related, fields, Salesforce, Metadata, API., API, version, 28.0, later.]
 ---
 
 # CustomField
+
+> Represents a custom field on a custom object that stores data unique to
+   your organization. Includes access to the associated CustomField object and related
+   fields in Salesforce Metadata API. Available from API version 28.0 or later.
 
 # CustomField
 

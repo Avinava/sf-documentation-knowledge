@@ -5,11 +5,16 @@ topic: upsert-records-using-sobject-rows-by-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.767Z
-keywords: [Upsert, Records, sObject, Rows, External, Note, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.147Z
+estimatedTokens: 740
+keywords: [Upsert, Records, sObject, Rows, External, Upserts, record, based, specified, external, field., Based, whether, exists, request, either, creates, updates, existing, one.]
 ---
 
 # Upsert Records Using sObject Rows by External ID
+
+> Upserts a record based on the value of the specified external ID field. Based on whether
+		the value of the external ID exists, the request either creates a record or updates an
+		existing one.
 
 # Upsert Records Using sObject Rows by External ID
 
@@ -68,3 +73,7 @@ For examples of creating and updating records based on external IDs, see [Insert
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Insert or Update (Upsert) a Record Using an External ID (atlas.en-us.api_rest.meta/api_rest/dome_upsert.htm)

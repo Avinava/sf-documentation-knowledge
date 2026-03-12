@@ -5,11 +5,15 @@ topic: composite-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:39.019Z
-keywords: [Composite, Response, Body, Results, Subrequest, Result]
+lastCollected: 2026-03-12T05:14:47.184Z
+estimatedTokens: 296
+keywords: [Composite, Response, Body, Describes, result, composite, request., Results, Subrequest, Result]
 ---
 
 # Composite Response Body
+
+> Describes the result of a /composite
+  request.
 
 # Composite Response Body
 
@@ -44,4 +48,33 @@ JSON example
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "compositeResponse" : [{
+      Composite Subrequest Result      
+      },{
+      Composite Subrequest Result      
+      },{
+      Composite Subrequest Result      
+   }]
+}
+```
+
+```
+{
+   "body" : {       
+      "id" : "001R00000033I6AIAU",
+      "success" : true,
+      "errors" : [ ]
+   },
+   "httpHeaders" : { 
+      "Location" : "/services/data/v40.0/tooling/sobjects/apexclassmember/001R00000033I6AIAU"
+   },
+   "httpStatusCode" : 201,
+   "referenceId" : "apexclassmember_reference_id"
+}
 ```

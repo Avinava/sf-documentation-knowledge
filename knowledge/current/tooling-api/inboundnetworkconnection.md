@@ -5,11 +5,17 @@ topic: inboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.127Z
-keywords: [InboundNetworkConnection, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.861Z
+estimatedTokens: 714
+keywords: [InboundNetworkConnection, Represents, connection, between, third-party, data, service, Salesforce, org., inbound, because, callouts, coming, Salesforce.., API, version, 49.0, later., Supported, SOAP]
 ---
 
 # InboundNetworkConnection
+
+> Represents
+            the a private connection between a third-party data service and a Salesforce org. The
+            connection is inbound because the callouts are coming into Salesforce..
+        Available in API version 49.0 and later.
 
 # InboundNetworkConnection
 

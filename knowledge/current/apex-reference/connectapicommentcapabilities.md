@@ -5,11 +5,14 @@ topic: connectapicommentcapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.337Z
-keywords: [ConnectApi.CommentCapabilities, See]
+lastCollected: 2026-03-12T05:14:26.649Z
+estimatedTokens: 356
+keywords: [ConnectApi.CommentCapabilities, set, capabilities, comment.]
 ---
 
 # ConnectApi.CommentCapabilities
+
+> A set of capabilities on a comment.
 
 # ConnectApi.CommentCapabilities
 
@@ -29,3 +32,15 @@ A set of capabilities on a comment.
 #### See Also
 
 -   [ConnectApi.Comment](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm "A comment.")
+
+## Related Topics
+
+- ConnectApi.CommentsCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comments_capability.htm)
+- ConnectApi.ContentCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_capability.htm)
+- ConnectApi.EditCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_edit_capability.htm)
+- ConnectApi.FeedEntityShareCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_entity_share_capability.htm)
+- ConnectApi.RecordCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_record_capability.htm)
+- ConnectApi.StatusCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_status_capability.htm)
+- ConnectApi.UpDownVoteCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_up_down_vote_capability.htm)
+- ConnectApi.VerifiedCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_verified_capability.htm)
+- ConnectApi.Comment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm)

@@ -5,11 +5,15 @@ topic: survey-version-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:44.042Z
-keywords: [Survey, Version, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:15.013Z
+estimatedTokens: 553
+keywords: [Survey, Version, DMO, Data, Cloud, data, model, version, survey., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Survey Version DMO
+
+> The Survey Version DMO is a Data Cloud data model object (DMO) for a
+      version of the survey.
 
 # Survey Version DMO
 

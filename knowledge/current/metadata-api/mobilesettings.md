@@ -5,11 +5,15 @@ topic: mobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.619Z
-keywords: [MobileSettings, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ChatterMobileSettings, DashboardMobileSettings, TouchMobileSettings, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.251Z
+estimatedTokens: 1802
+keywords: [MobileSettings, Represents, organization’s, mobile, settings., extends, Metadata, metadata, inherits, its, fullName, field., Note, Declarative, File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # MobileSettings
+
+> Represents an organization’s mobile settings. This type extends the Metadata 
+        metadata type and inherits its fullName field.
 
 # MobileSettings
 
@@ -89,3 +93,21 @@ Here’s a sample mobile.settings metadata file.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableImportContactFromDevice>true</enableImportContactFromDevice>
+    <enableOfflineDraftsEnabled>true</enableOfflineDraftsEnabled>
+    <enableS1EncryptedStoragePref2>true</enableS1EncryptedStoragePref2>
+    <enableS1OfflinePref>true</enableS1OfflinePref>
+</MobileSettings>
+```
+
+## Related Topics
+
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

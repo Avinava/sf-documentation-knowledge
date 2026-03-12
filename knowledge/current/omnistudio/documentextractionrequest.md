@@ -5,11 +5,15 @@ topic: documentextractionrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.936Z
-keywords: [DocumentExtractionRequest, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.893Z
+estimatedTokens: 832
+keywords: [DocumentExtractionRequest, Represents, request, extract, documents., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # DocumentExtractionRequest
+
+> Represents a request to extract documents. This object is available in
+      API version 65.0 and later.
 
 # DocumentExtractionRequest
 
@@ -42,3 +46,7 @@ This object has the following associated objects. If the API version isn’t spe
 [DocumentExtractionRequestShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- DocumentExtractionRequestShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

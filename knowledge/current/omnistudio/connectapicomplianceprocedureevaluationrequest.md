@@ -5,11 +5,14 @@ topic: connectapicomplianceprocedureevaluationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.750Z
-keywords: [ConnectApi.ComplianceProcedureEvaluationRequest, See]
+lastCollected: 2026-03-12T05:14:47.645Z
+estimatedTokens: 195
+keywords: [ConnectApi.ComplianceProcedureEvaluationRequest, Input, representation, details, compliance, evaluation, request.]
 ---
 
 # ConnectApi.ComplianceProcedureEvaluationRequest
+
+> Input representation details of a compliance evaluation request.
 
 # ConnectApi.ComplianceProcedureEvaluationRequest
 
@@ -23,3 +26,8 @@ Input representation details of a compliance evaluation request.
 #### See Also
 
 -   [evaluateComplianceProcedureAsync(procedureName, evaluationInputs)](atlas.en-us.industries_reference.meta/industries_reference/apex_ConnectAPI_IndustriesCompliance_evaluateComplianceProcedureAsync.htm "Asynchronously evaluate a compliance procedure with the business context.")
+
+## Related Topics
+
+- ConnectApi.ComplianceProcedureEvaluationInfo (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_compliance_procedure_evaluation_info.htm)
+- evaluateComplianceProcedureAsync(procedureName, evaluationInputs) (atlas.en-us.industries_reference.meta/industries_reference/apex_ConnectAPI_IndustriesCompliance_evaluateComplianceProcedureAsync.htm)

@@ -5,11 +5,15 @@ topic: connectapiplatformactiongroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.602Z
-keywords: [ConnectApi.PlatformActionGroup, See]
+lastCollected: 2026-03-12T05:14:28.405Z
+estimatedTokens: 488
+keywords: [ConnectApi.PlatformActionGroup, platform, action, group, instance, state, appropriate, context, user.]
 ---
 
 # ConnectApi.PlatformActionGroup
+
+> A platform action group instance with state appropriate for the
+      context user.
 
 # ConnectApi.PlatformActionGroup
 
@@ -28,5 +32,15 @@ Action link groups are one type of platform action group and are therefore repre
 #### See Also
 
 -   [ConnectApi.AbstractRecommendation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_recommendation.htm "A Chatter, custom, or static recommendation.")
-    
+
 -   [ConnectApi.AssociatedActionsCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_associated_actions_capability.htm "If a feed element has this capability, it has platform actions associated with it.")
+
+## Related Topics
+
+- ConnectApi.​PlatformAction​GroupCategory (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​PlatformAction (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_platform_action.htm)
+- ConnectApi.AbstractRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_recommendation.htm)
+- ConnectApi.AssociatedActionsCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_associated_actions_capability.htm)

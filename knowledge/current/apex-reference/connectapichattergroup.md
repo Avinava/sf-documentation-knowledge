@@ -5,11 +5,14 @@ topic: connectapichattergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.315Z
-keywords: [ConnectApi.ChatterGroup]
+lastCollected: 2026-03-12T05:14:26.616Z
+estimatedTokens: 805
+keywords: [ConnectApi.ChatterGroup, Chatter, group.]
 ---
 
 # ConnectApi.ChatterGroup
+
+> Chatter group.
 
 # ConnectApi.ChatterGroup
 
@@ -45,3 +48,16 @@ Superclass of:
 | owner | ConnectApi.​UserSummary | Information about the owner of the group. | 28.0 |
 | photo | ConnectApi.Photo | Information about the group photo. | 28.0 |
 | visibility | Connectapi.​GroupVisibility​Type | Group visibility type. Valid values are:PrivateAccess—Only members of the group can see posts to this group.PublicAccess—All users within the Experience Cloud site can see posts to this group.Unlisted—Reserved for future use. | 28.0 |
+
+## Related Topics
+
+- ConnectApi.ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.ChatterGroupDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupDetail.htm)
+- ConnectApi.ChatterGroupSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupSummary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​Announcement (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_announcement.htm)
+- ConnectApi.BannerPhoto (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_banner_photo.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

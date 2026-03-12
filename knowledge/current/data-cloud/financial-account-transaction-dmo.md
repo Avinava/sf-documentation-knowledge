@@ -5,11 +5,16 @@ topic: financial-account-transaction-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.418Z
-keywords: [Financial, Account, Transaction, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.044Z
+estimatedTokens: 1011
+keywords: [Financial, Account, Transaction, DMO, Represents, transactions, related, financial, account., There, various, types, such, credit, debit, forth., Provided, Services, Cloud, Data]
 ---
 
 # Financial Account Transaction DMO
+
+> Represents transactions related to a financial account. There can be various types of
+      transactions such as credit, debit, and so forth. Provided in the Financial Services Cloud
+      Data Kit. This DMO is available in API version 58 and later.
 
 # Financial Account Transaction DMO
 

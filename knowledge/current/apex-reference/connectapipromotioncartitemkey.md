@@ -5,11 +5,14 @@ topic: connectapipromotioncartitemkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.131Z
-keywords: [ConnectApi.PromotionCartItemKey]
+lastCollected: 2026-03-12T05:14:26.342Z
+estimatedTokens: 76
+keywords: [ConnectApi.PromotionCartItemKey, Cart, item, key, bonus, product, promotion.]
 ---
 
 # ConnectApi.PromotionCartItemKey
+
+> Cart item key for a bonus product in a promotion.
 
 # ConnectApi.PromotionCartItemKey
 
@@ -19,3 +22,7 @@ Cart item key for a bonus product in a promotion.
 | --- | --- | --- | --- |
 | cartItemId | String | ID of the cart item. | 58.0 |
 | cartItem​QuantityIdentifier | String | Quantity ID of the cart item. | 58.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

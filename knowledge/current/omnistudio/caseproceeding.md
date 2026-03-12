@@ -5,11 +5,16 @@ topic: caseproceeding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.763Z
-keywords: [CaseProceeding, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.682Z
+estimatedTokens: 1383
+keywords: [CaseProceeding, Represents, legal, formal, demand, enforcement, individual’s, rights, against, another, party, court, justice., API, version, 64.0, later., Special, Access, Rules]
 ---
 
 # CaseProceeding
+
+> Represents a legal and formal demand for the enforcement of an individual’s
+         rights against another party in a court of justice. This object is available in API
+      version 64.0 and later.
 
 # CaseProceeding
 
@@ -61,3 +66,10 @@ Sharing rules are available for the object.
 [CaseProceedingShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- CaseProceedingFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- CaseProceedingHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- CaseProceedingOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- CaseProceedingShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

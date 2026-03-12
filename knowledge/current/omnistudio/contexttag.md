@@ -5,11 +5,15 @@ topic: contexttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.425Z
-keywords: [ContextTag, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.712Z
+estimatedTokens: 322
+keywords: [ContextTag, Represents, shortened, name, attribute, node, instead, its, fully, qualified, tag, structure, name., API, version, 59.0, later., Supported, SOAP, Calls]
 ---
 
 # ContextTag
+
+> Represents a shortened name of an attribute or node instead of its fully
+         qualified tag structure name. This object is available in API version 59.0 and later.
 
 # ContextTag
 

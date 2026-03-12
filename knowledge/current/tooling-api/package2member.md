@@ -5,11 +5,16 @@ topic: package2member
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.388Z
-keywords: [Package2Member, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.233Z
+estimatedTokens: 645
+keywords: [Package2Member, Represents, component, second-generation, managed, package, subscriber’s, org., Created, subscriber, installs, package., API, version, 41.0, later., Supported, SOAP, Calls, REST]
 ---
 
 # Package2Member
+
+> Represents a component in a
+            second-generation managed package in a subscriber’s org. Created when the subscriber
+            installs the package. Available in API version 41.0 and later.
 
 # Package2Member
 

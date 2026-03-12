@@ -5,11 +5,15 @@ topic: recordalertdatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:12.143Z
-keywords: [RecordAlertDataTranslation, Supported, Calls, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:54.246Z
+estimatedTokens: 469
+keywords: [RecordAlertDataTranslation, Represents, translated, values, data, stored, within, RecordAlert, record’s, fields., API, version, 54.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # RecordAlertDataTranslation
+
+> Represents the translated values of the data stored within a RecordAlert
+      record’s fields. This object is available in API version 54.0 and later.
 
 # RecordAlertDataTranslation
 

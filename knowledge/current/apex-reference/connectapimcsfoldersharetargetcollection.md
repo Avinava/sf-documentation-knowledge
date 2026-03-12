@@ -5,11 +5,14 @@ topic: connectapimcsfoldersharetargetcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.071Z
-keywords: [ConnectApi.MCSFolderShareTargetCollection, See]
+lastCollected: 2026-03-12T05:14:27.694Z
+estimatedTokens: 155
+keywords: [ConnectApi.MCSFolderShareTargetCollection, Collection, targets, managed, content, space, folder, shared, with.]
 ---
 
 # ConnectApi.MCSFolderShareTargetCollection
+
+> Collection of targets that a managed content space folder can be shared with.
 
 # ConnectApi.MCSFolderShareTargetCollection
 
@@ -22,3 +25,9 @@ Collection of targets that a managed content space folder can be shared with.
 #### See Also
 
 -   [getMCSFolderShareTargets(folderId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_getMCSFolderShareTargets_1 "Get targets that a managed content space folder can be shared with.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​MCSFolderShare​Target (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_m_c_s_folder_share_target.htm)
+- getMCSFolderShareTargets(folderId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)

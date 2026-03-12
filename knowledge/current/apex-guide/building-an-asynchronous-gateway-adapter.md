@@ -5,11 +5,18 @@ topic: building-an-asynchronous-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.698Z
-keywords: [Building, Asynchronous, Gateway, Adapter, Note, Payment, Definition, Processing, Initial, Request, Notification, Custom, Data, Debugging]
+lastCollected: 2026-03-12T05:14:32.778Z
+estimatedTokens: 1770
+keywords: [Building, Asynchronous, Gateway, Adapter, asynchronous, payments, configuration, platform, first, sends, transaction, information, gateway., gateway, responds, acknowledgment, received, then, creates, pending]
 ---
 
 # Building an Asynchronous Gateway Adapter
+
+> In an asynchronous payments configuration, the payments platform first sends
+        transaction information to the gateway. The gateway responds with an acknowledgment that it
+        received the transaction, and then the platform creates a pending transaction. The gateway
+        sends a notification, which contains the final transaction status. The platform then updates
+        the transaction’s status accordingly.
 
 # Building an Asynchronous Gateway Adapter
 
@@ -99,3 +106,72 @@ Similarly, the [Post Authorization](https://developer.salesforce.com/docs/atlas.
 ## Debugging
 
 Usually, Apex debug logs are available in the developer console. However, Salesforce doesn’t store debug logs from the processNotification method in the developer console. To view this part of the method flow using system.debug, review the Collect Debug Logs for Guest Users section of [Set Up Debug Logging](https://help.salesforce.com/articleView?id=code_add_users_debug_log.htm&type=5&language=en_US).
+
+## Code Examples
+
+```apex
+global with sharing class SampleAdapter implements commercepayments.PaymentGatewayAsyncAdapter, commercepayments.PaymentGatewayAdapter {
+    global SampleAdapter() {}
+    
+    global commercepayments.GatewayResponse processRequest(commercepayments.paymentGatewayContext gatewayContext) {
+    }
+    
+    global commercepayments.GatewayNotificationResponse processNotification(commercepayments.PaymentGatewayNotificationContext gatewayNotificationContext) {
+    }
+}
+```
+
+```
+commercepayments.RequestType requestType = gatewayContext.getPaymentRequestType();
+if (requestType == commercepayments.RequestType.Capture) {
+   req.setEndpoint('/pal/servlet/Payment/v52/capture');
+    body = buildCaptureRequest((commercepayments.CaptureRequest)gatewayContext.getPaymentRequest());
+} else if (requestType == commercepayments.RequestType.ReferencedRefund) {
+    req.setEndpoint('/pal/servlet/Payment/v52/refund');
+    body = buildRefundRequest((commercepayments.ReferencedRefundRequest)gatewayContext.getPaymentRequest());
+}
+```
+
+```
+req.setBody(body);
+req.setMethod('POST');
+commercepayments.PaymentsHttp http = new commercepayments.PaymentsHttp();
+HttpResponse res = null;
+try {
+    res = http.send(req);
+} catch(CalloutException ce) {
+    commercepayments.GatewayErrorResponse error = new commercepayments.GatewayErrorResponse('500', ce.getMessage());
+    return error;
+}
+```
+
+```
+if ( requestType == commercepayments.RequestType.Capture) {
+   // Refer to the end of this doc for sample createCaptureResponse implementation
+    response =  createCaptureResponse(res);
+} else if ( requestType == commercepayments.RequestType.ReferencedRefund) {
+    response =  createRefundResponse(res);
+}
+return response;
+```
+
+```apex
+private Boolean verifySignature(NotificationRequest requestItem) {
+    String payload = requestItem.pspReference + ':'
+        + (requestItem.originalReference == null ? '' : requestItem.originalReference) + ':'
+        + requestItem.merchantAccountCode + ':'
+        + requestItem.merchantReference + ':'
+        + requestItem.amount.value.intValue() + ':'
+        + requestItem.amount.currencyCode + ':'
+        + requestItem.eventCode + ':'
+        + requestItem.success;
+    String myHMacKey = getHMacKey();
+    String generatedSign = EncodingUtil.base64Encode(Crypto.generateMac('hmacSHA256', Blob.valueOf(payload), 
+                                EncodingUtil.convertFromHex(myHMacKey)));
+    return generatedSign.equals(requestItem.additionalData.hmacSignature);
+}
+```
+
+## Related Topics
+
+- Building a Synchronous Gateway Adapter (atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_sync_adapter_concept.htm)

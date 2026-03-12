@@ -5,11 +5,14 @@ topic: connectapilinkmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.054Z
-keywords: [ConnectApi.LinkMetadata, See]
+lastCollected: 2026-03-12T05:14:27.672Z
+estimatedTokens: 377
+keywords: [ConnectApi.LinkMetadata, Metadata, link.]
 ---
 
 # ConnectApi.LinkMetadata
+
+> Metadata for a link.
 
 # ConnectApi.LinkMetadata
 
@@ -32,3 +35,11 @@ Metadata for a link.
 #### See Also
 
 -   [ConnectApi.LinkMetadataCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_link_metadata_collection.htm "Collection of link metadata.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​LinkMetadataSource (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​LinkMetadataType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.LinkMetadataCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_link_metadata_collection.htm)

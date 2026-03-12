@@ -5,11 +5,14 @@ topic: connectapicanvastemplateattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.080Z
-keywords: [ConnectApi.CanvasTemplateAttachment, Important]
+lastCollected: 2026-03-12T05:14:26.269Z
+estimatedTokens: 405
+keywords: [ConnectApi.CanvasTemplateAttachment, Attachments, feed, items, CanvasPost., Important]
 ---
 
 # ConnectApi.CanvasTemplateAttachment
+
+> Attachments in feed items with type CanvasPost.
 
 # ConnectApi.CanvasTemplateAttachment
 
@@ -33,3 +36,10 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | parameters | String | Optional. Parameters passed to the canvas app in JSON format. Example:{'isUpdated'='true'} | 29.0–31.0 |
 | thumbnailUrl | String | Optional. A URL to a thumbnail image for the canvas app. Maximum dimensions are 120x120 pixels. | 29.0–31.0 |
 | title | String | Specifies the title of the link used to call the canvas app. | 29.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.CanvasCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_canvas_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Icon (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_icon.htm)

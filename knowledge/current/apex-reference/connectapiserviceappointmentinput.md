@@ -5,11 +5,14 @@ topic: connectapiserviceappointmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.579Z
-keywords: [ConnectApi.ServiceAppointmentInput]
+lastCollected: 2026-03-12T05:14:25.562Z
+estimatedTokens: 664
+keywords: [ConnectApi.ServiceAppointmentInput, Contains, information, service, appointment.]
 ---
 
 # ConnectApi.ServiceAppointmentInput
+
+> Contains information about the service appointment.
 
 # ConnectApi.ServiceAppointmentInput
 
@@ -37,3 +40,12 @@ Contains information about the service appointment.
 | street | String | Name of the street. | Optional | 53.0 |
 | subject | String | Short phrase describing the appointment. | Optional | 53.0 |
 | workTypeId | String | ID of the work type associated with the service appointment. If specified, it is added to the service appointment record. | Optional | 53.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.SvcApptModeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ExtendedFieldInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_extended_field.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

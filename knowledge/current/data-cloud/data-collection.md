@@ -5,11 +5,15 @@ topic: data-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:44.094Z
-keywords: [Data, Collection, Capturing, User, Engagement, Profile]
+lastCollected: 2026-03-12T05:14:15.108Z
+estimatedTokens: 357
+keywords: [Data, Collection, Before, Salesforce, Interactions, SDK, begin, capturing, data, initialize, gain, user’s, consent, track, data., Capturing, User, Engagement, Profile]
 ---
 
 # Data Collection
+
+> Before the Salesforce Interactions SDK can begin capturing data, initialize the
+    Salesforce Interactions SDK and gain the user’s consent to track the data.
 
 # Data Collection
 
@@ -46,3 +50,65 @@ When capturing profile data, you aren’t limited to that minimal interaction fo
 ```
 
 ```
+
+## Code Examples
+
+```
+SalesforceInteractions.init({
+  consents: [{
+    purpose: "Tracking", 
+    provider: "OneTrust", 
+    status: "Opt In"
+  }]
+})
+```
+
+```
+SalesforceInteractions.sendEvent({
+    interaction : {
+        name : "View Catalog Object",
+        catalogObject: { 
+          type : "Product", 
+          id : "65e4e737",
+          attributes: {
+            description: "Shoes"
+          }
+        }
+    }
+    })
+```
+
+```
+SalesforceInteractions.sendEvent({
+    user: {
+        attributes: {
+            email: 'user@domain.com'
+        }
+    }
+})
+```
+
+```
+SalesforceInteractions.sendEvent({
+    interaction : {
+        name : "View Catalog Object",
+        catalogObject: { 
+          type : "Product", 
+          id : "65e4e737",
+          attributes: {
+            description: "Shoes"
+          }
+        }
+    },
+    user: {
+        attributes: {
+            email: 'user@domain.com'
+        }
+    }
+})
+```
+
+## Related Topics
+
+- Initialization (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_initialization.htm)
+- consent (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_consent.htm)

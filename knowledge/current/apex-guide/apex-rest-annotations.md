@@ -4,8 +4,9 @@ domain: apex-guide
 topic: apex-rest-annotations
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.518Z
+docType: api-reference
+lastCollected: 2026-03-12T05:14:32.505Z
+estimatedTokens: 256
 keywords: [Apex, REST, Annotations]
 ---
 
@@ -22,3 +23,18 @@ Use these annotations to expose an Apex class as a RESTful Web service.
 -   [@HttpPatch](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_patch.htm)
 -   [@HttpPost](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_post.htm)
 -   [@HttpPut](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_put.htm)
+
+#### See Also
+
+-   [Exposing Apex Classes as REST Web Services](atlas.en-us.apexcode.meta/apexcode/apex_rest.htm "You can expose your Apex classes and methods so that external applications can access your code and your application through the REST architecture.")
+
+## Related Topics
+
+- @ReadOnly (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm)
+- @RestResource (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_rest_resource.htm)
+- @HttpDelete (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_delete.htm)
+- @HttpGet (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_get.htm)
+- @HttpPatch (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_patch.htm)
+- @HttpPost (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_post.htm)
+- @HttpPut (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_http_put.htm)
+- Exposing Apex Classes as REST Web Services (atlas.en-us.apexcode.meta/apexcode/apex_rest.htm)

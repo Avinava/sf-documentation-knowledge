@@ -5,11 +5,14 @@ topic: connectapichattergroupinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.982Z
-keywords: [ConnectApi.ChatterGroupInput, See]
+lastCollected: 2026-03-12T05:14:24.629Z
+estimatedTokens: 464
+keywords: [ConnectApi.ChatterGroupInput, Chatter, group, input.]
 ---
 
 # ConnectApi.ChatterGroupInput
+
+> Chatter group input.
 
 # ConnectApi.ChatterGroupInput
 
@@ -30,5 +33,14 @@ Chatter group input.
 #### See Also
 
 -   [createGroup(communityId, groupInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterGroups_static_methods.htm#apex_ConnectAPI_ChatterGroups_createGroup "Create a group.")
-    
+
 -   [updateGroup(communityId, groupId, groupInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterGroups_static_methods.htm#apex_ConnectAPI_ChatterGroups_updateGroup "Update the settings of a group.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​GroupInformation​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_groupinformationinput.htm)
+- ConnectApi.​GroupVisibilityType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- createGroup(communityId, groupInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterGroups_static_methods.htm)
+- updateGroup(communityId, groupId, groupInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterGroups_static_methods.htm)

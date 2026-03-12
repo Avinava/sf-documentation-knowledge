@@ -5,11 +5,16 @@ topic: omniexttrackingeventdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:12.045Z
-keywords: [OmniExtTrackingEventDef, Note, Important, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:54.095Z
+estimatedTokens: 830
+keywords: [OmniExtTrackingEventDef, Represents, format, FlexCard, OmniScript, user, interaction, data, third-party, Analytics, system, such, Google, accept., API, version, 60.0, later., Note, Important]
 ---
 
 # OmniExtTrackingEventDef
+
+> Represents a format for FlexCard or OmniScript user interaction data that a
+         third-party Analytics system such as Google Analytics can accept. This object is
+      available in API version 60.0 and later.
 
 # OmniExtTrackingEventDef
 

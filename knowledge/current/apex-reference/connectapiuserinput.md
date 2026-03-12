@@ -5,11 +5,14 @@ topic: connectapiuserinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.647Z
-keywords: [ConnectApi.UserInput, See]
+lastCollected: 2026-03-12T05:14:25.662Z
+estimatedTokens: 150
+keywords: [ConnectApi.UserInput, Update, user’s, information.]
 ---
 
 # ConnectApi.UserInput
+
+> Update a user’s About Me information.
 
 # ConnectApi.UserInput
 
@@ -22,3 +25,8 @@ Update a user’s About Me information.
 #### See Also
 
 -   [updateUser(communityId, userId, userInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterUsers_static_methods.htm#apex_ConnectAPI_ChatterUsers_updateUser "Update the About Me section for a user.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- updateUser(communityId, userId, userInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterUsers_static_methods.htm)

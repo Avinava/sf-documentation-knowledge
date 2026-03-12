@@ -5,11 +5,15 @@ topic: connectapicanvascapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.076Z
-keywords: [ConnectApi.CanvasCapability, See]
+lastCollected: 2026-03-12T05:14:26.264Z
+estimatedTokens: 321
+keywords: [ConnectApi.CanvasCapability, feed, element, capability, renders, canvas, app.]
 ---
 
 # ConnectApi.CanvasCapability
+
+> If a feed element has this capability, it renders a canvas
+    app.
 
 # ConnectApi.CanvasCapability
 
@@ -31,3 +35,10 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Icon (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_icon.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

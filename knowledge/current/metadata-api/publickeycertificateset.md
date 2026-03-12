@@ -5,11 +5,15 @@ topic: publickeycertificateset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.138Z
-keywords: [PublicKeyCertificateSet, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, PublicKeyCertificateSetKeys, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:42.006Z
+estimatedTokens: 728
+keywords: [PublicKeyCertificateSet, Represents, set, certificate, keys., entity, store, certificates, JSON, web, Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # PublicKeyCertificateSet
+
+> Represents a set of public certificate keys. On this
+      entity we store a public certificates or JSON web keys.
 
 # PublicKeyCertificateSet
 
@@ -73,3 +77,37 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicKeyCertificateSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>pcks1</masterLabel>
+    <description>This is my description for a PublicKeyCertificateSet</description>
+    <type>JWKS</type>
+    <jwtIssuer>example.com</jwtIssuer>
+    <publicKeyCertificateSetKeys>
+            <publicKeyCertificate>pck1</publicKeyCertificate>
+    </publicKeyCertificateSetKeys>
+</PublicKeyCertificateSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>PublicKeyCertificate</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PublicKeyCertificateSet</name>
+    </types>
+    <version>62.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

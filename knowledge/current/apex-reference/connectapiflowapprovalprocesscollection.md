@@ -5,11 +5,14 @@ topic: connectapiflowapprovalprocesscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.905Z
-keywords: [ConnectApi.FlowApprovalProcessCollection, See]
+lastCollected: 2026-03-12T05:14:27.474Z
+estimatedTokens: 196
+keywords: [ConnectApi.FlowApprovalProcessCollection, results, requesting, flow, approval, status.]
 ---
 
 # ConnectApi.FlowApprovalProcessCollection
+
+> The results of requesting a flow approval status.
 
 # ConnectApi.FlowApprovalProcessCollection
 
@@ -23,3 +26,9 @@ The results of requesting a flow approval status.
 #### See Also
 
 -   [getFlowApprovalProcessWithStatus(relatedRecordId, processNames)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_FlowApprovalProcesses_static_methods.htm#apex_ConnectAPI_FlowApprovalProcesses_getFlowApprovalProcessWithStatus_1 "Get the status and available actions for flow approval processes.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- getFlowApprovalProcessWithStatus(relatedRecordId, processNames) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_FlowApprovalProcesses_static_methods.htm)

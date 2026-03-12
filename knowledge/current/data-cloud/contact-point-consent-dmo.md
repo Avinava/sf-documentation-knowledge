@@ -5,11 +5,16 @@ topic: contact-point-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.010Z
-keywords: [Contact, Point, Consent, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.389Z
+estimatedTokens: 948
+keywords: [Contact, Point, Consent, DMO, Data, Cloud, data, model, recording, information, consent, specific, contact, point., includes, how, long, whether, party, double]
 ---
 
 # Contact Point Consent DMO
+
+> The Contact Point Consent DMO is a Data Cloud data model object (DMO)
+      for recording information about consent for a specific contact point. This data includes when,
+      how, for how long, and whether the party has double opted-in.
 
 # Contact Point Consent DMO
 

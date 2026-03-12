@@ -5,11 +5,16 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.927Z
-keywords: [ServiceResource, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.597Z
+estimatedTokens: 1368
+keywords: [ServiceResource, Represents, service, technician, crew, Field, Service, Salesforce, Scheduler, agent, Workforce, Engagement., API, version, 38.0, later., Supported, Calls, Special, Access]
 ---
 
 # ServiceResource
+
+> Represents a service technician or service crew in Field Service and
+			Salesforce Scheduler, or an agent in Workforce Engagement. This object is available
+		in API version 38.0 and later.
 
 # ServiceResource
 

@@ -5,11 +5,15 @@ topic: connectapicdpidentityresolutionreconciliationfieldruleoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.228Z
-keywords: [ConnectApi.CdpIdentityResolutionReconciliationFieldRuleOutput, See]
+lastCollected: 2026-03-12T05:14:26.482Z
+estimatedTokens: 263
+keywords: [ConnectApi.CdpIdentityResolutionReconciliationFieldRuleOutput, Identity, resolution, ruleset's, reconciliation, rule, field.]
 ---
 
 # ConnectApi.CdpIdentityResolutionReconciliationFieldRuleOutput
+
+> Identity resolution ruleset's reconciliation rule for a
+    field.
 
 # ConnectApi.CdpIdentityResolutionReconciliationFieldRuleOutput
 
@@ -25,3 +29,12 @@ Identity resolution ruleset's reconciliation rule for a field.
 #### See Also
 
 -   [ConnectApi.CdpIdentityResolutionReconciliationRuleOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_reconciliation_rule_outpu.htm "Identity resolution ruleset’s reconciliation rule for an object.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationRuleType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationSourceOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_reconciliation_source_outpu.htm)
+- ConnectApi.CdpIdentityResolutionReconciliationRuleOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_reconciliation_rule_outpu.htm)

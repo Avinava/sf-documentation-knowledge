@@ -4,12 +4,16 @@ domain: apex-reference
 topic: checkcrudonexpense
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.543Z
-keywords: [CheckCrudOnExpense, Signature, Return, Value, Examples]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.722Z
+estimatedTokens: 108
+keywords: [CheckCrudOnExpense, Checks, create, update, delete, access, partyExpense, entity., Examples]
 ---
 
 # CheckCrudOnExpense
+
+> Checks create, update and delete access on partyExpense
+            entity.
 
 # CheckCrudOnExpense
 

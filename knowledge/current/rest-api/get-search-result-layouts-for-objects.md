@@ -5,11 +5,15 @@ topic: get-search-result-layouts-for-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:24.969Z
-keywords: [Get, Search, Result, Layouts, Objects]
+lastCollected: 2026-03-12T05:14:35.045Z
+estimatedTokens: 155
+keywords: [Get, Search, Result, Layouts, Objects, resource, retrieve, search, result, layout, configuration, specified, query, string.]
 ---
 
 # Get Search Result Layouts for Objects
+
+> Use the Search Result Layouts resource to retrieve the search result layout
+      configuration for each object specified in the query string.
 
 # Get Search Result Layouts for Objects
 
@@ -30,3 +34,114 @@ Example response body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/search/layout/?q=Account,Contact,Lead,Asset "Authorization: Bearer token"
+```
+
+```
+[ { "label" : "Search Results",
+    "limitRows" : 25,
+    "searchColumns" : [ { "field" : "Account.Name",
+          "format" : null,
+          "label" : "Account Name",
+          "name" : "Name"
+        },
+        { "field" : "Account.Site",
+          "format" : null,
+          "label" : "Account Site",
+          "name" : "Site"
+        },
+        { "field" : "Account.Phone",
+          "format" : null,
+          "label" : "Phone",
+          "name" : "Phone"
+        },
+        { "field" : "User.Alias",
+          "format" : null,
+          "label" : "Account Owner Alias",
+          "name" : "Owner.Alias"
+        }
+      ]
+  },
+  { "label" : "Search Results",
+    "limitRows" : 25,
+    "searchColumns" : [ { "field" : "Contact.Name",
+          "format" : null,
+          "label" : "Name",
+          "name" : "Name"
+        },
+        { "field" : "Account.Name",
+          "format" : null,
+          "label" : "Account Name",
+          "name" : "Account.Name"
+        },
+        { "field" : "Account.Site",
+          "format" : null,
+          "label" : "Account Site",
+          "name" : "Account.Site"
+        },
+        { "field" : "Contact.Phone",
+          "format" : null,
+          "label" : "Phone",
+          "name" : "Phone"
+        },
+        { "field" : "Contact.Email",
+          "format" : null,
+          "label" : "Email",
+          "name" : "Email"
+        },
+        { "field" : "User.Alias",
+          "format" : null,
+          "label" : "Contact Owner Alias",
+          "name" : "Owner.Alias"
+        }
+      ]
+  },
+  { "label" : "Search Results",
+    "limitRows" : 25,
+    "searchColumns" : [ { "field" : "Lead.Name",
+          "format" : null,
+          "label" : "Name",
+          "name" : "Name"
+        },
+        { "field" : "Lead.Title",
+          "format" : null,
+          "label" : "Title",
+          "name" : "Title"
+        },
+        { "field" : "Lead.Phone",
+          "format" : null,
+          "label" : "Phone",
+          "name" : "Phone"
+        },
+        { "field" : "Lead.Company",
+          "format" : null,
+          "label" : "Company",
+          "name" : "Company"
+        },
+        { "field" : "Lead.Email",
+          "format" : null,
+          "label" : "Email",
+          "name" : "Email"
+        },
+        { "field" : "Lead.Status",
+          "format" : null,
+          "label" : "Lead Status",
+          "name" : "toLabel(Status)"
+        },
+        { "field" : "Name.Alias",
+          "format" : null,
+          "label" : "Owner Alias",
+          "name" : "Owner.Alias"
+        }
+      ]
+  },
+]
+```
+
+## Related Topics
+
+- Search Result Layouts (atlas.en-us.api_rest.meta/api_rest/resources_search_layouts.htm)

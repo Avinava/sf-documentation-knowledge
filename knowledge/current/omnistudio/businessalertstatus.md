@@ -5,11 +5,15 @@ topic: businessalertstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.711Z
-keywords: [BusinessAlertStatus, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:53.595Z
+estimatedTokens: 331
+keywords: [BusinessAlertStatus, Represents, information, read, status, insight, alert., API, version, 57.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # BusinessAlertStatus
+
+> Represents information about the read status of an insight alert. This
+      object is available in API version 57.0 and later.
 
 # BusinessAlertStatus
 

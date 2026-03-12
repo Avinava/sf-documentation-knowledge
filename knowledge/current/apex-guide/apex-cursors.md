@@ -5,11 +5,21 @@ topic: apex-cursors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.921Z
-keywords: [Apex, Cursors, Cursor, Example, Pagination, Limits, See]
+lastCollected: 2026-03-12T05:14:33.097Z
+estimatedTokens: 1753
+keywords: [Apex, Cursors, cursors, break, processing, SOQL, query, result, pieces, processed, within, bounds, single, transaction., provide, ability, work, large, while, actually]
 ---
 
 # Apex Cursors
+
+> Use Apex cursors to break up the processing of a SOQL query
+        result into pieces that can be processed within the bounds of a single transaction. Cursors
+        provide you with the ability to work with large query result sets, while not actually
+        returning the entire result set. You can traverse a query result in parts, with the
+        flexibility to navigate forward and back in the result set. Package developers and advanced
+        developers can use cursors to work with high-volume and high-resource processing jobs.
+        Cursors combined with chained queueable Apex jobs are a powerful alternative to batch Apex
+        and address some of batch Apex’s limitations.
 
 # Apex Cursors
 
@@ -77,5 +87,76 @@ Apex cursors and pagination cursors have the same expiration limits as API Query
 #### See Also
 
 -   [*Apex Reference Guide:* Cursor Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Database_Cursor.htm "Apex Reference Guide: Cursor Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide:* PaginationCursor Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Database_PaginationCursor.htm "Apex Reference Guide: PaginationCursor Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public with sharing class QueryChunkingQueueable implements Queueable {
+    private Database.Cursor locator;
+    private Integer position;
+
+    public QueryChunkingQueueable() {
+        locator = Database.getCursor(
+            'SELECT Id FROM Contact WHERE LastActivityDate = LAST_N_DAYS:400',
+            AccessLevel.USER_MODE);
+        position = 0;
+    }
+
+    public void execute(QueueableContext ctx) {
+        Integer remainingRows = locator.getNumRecords() - position;
+        if (remainingRows == 0) {
+            return; // Nothing to do
+        }
+
+        // Take the minimum of batch size and remaining rows to avoid over-fetching
+        Integer fetchSize = Math.min(200, remainingRows);
+
+        List<Contact> scope = locator.fetch(position, 200);
+        position += scope.size();
+        // do something, like archive or delete the scope list records
+        if (position < locator.getNumRecords()) {
+            // process the next chunk
+            System.enqueueJob(this);
+        }
+    }
+}
+```
+
+```apex
+// Create a standard cursor
+Database.Cursor cursor = Database.getCursor('SELECT Id, Name FROM Account LIMIT 20');
+System.debug('Standard Cursors: ' + Limits.getApexCursors() + '/' + Limits.getLimitApexCursors());
+System.debug('Standard Cursor Rows: ' + Limits.getApexCursorRows() + '/' + Limits.getLimitApexCursorRows());
+
+// Fetch records
+List<Account> batch1 = cursor.fetch(0, 10);
+List<Account> batch2 = cursor.fetch(10, 10);
+
+// Create a pagination cursor
+Database.PaginationCursor pagCursor = Database.getPaginationCursor('SELECT Id, Name FROM Account LIMIT 15');
+System.debug('Pagination Cursors: ' + Limits.getApexPaginationCursors() + '/' + Limits.getLimitApexPaginationCursors());
+System.debug('Pagination Cursor Rows: ' + Limits.getApexPaginationCursorRows() + '/' + Limits.getLimitApexPaginationCursorRows());
+
+// Fetch a page
+Database.CursorFetchResult page = pagCursor.fetchPage(0, 5);
+
+// Check shared fetch call limit
+System.debug('Fetch Calls: ' + Limits.getFetchCallsOnApexCursor() + '/' + Limits.getLimitFetchCallsOnApexCursor());
+
+// Get daily limits map
+Map<String, System.OrgLimit> limitMap = OrgLimits.getMap();
+
+// Standard cursor daily limit
+System.OrgLimit dailyCursorLimit = limitMap.get('DailyApexCursorLimit');
+System.debug('Daily Cursors: ' + dailyCursorLimit.getValue() + '/' + dailyCursorLimit.getLimit());
+
+// Pagination cursor daily limit
+System.OrgLimit dailyPCursorLimit = limitMap.get('DailyApexPCursorLimit');
+System.debug('Daily Pagination Cursors: ' + dailyPCursorLimit.getValue() + '/' + dailyPCursorLimit.getLimit());
+
+// Shared daily rows limit
+System.OrgLimit dailyRowsLimit = limitMap.get('DailyApexCursorRowsLimit');
+System.debug('Daily Cursor Rows: ' + dailyRowsLimit.getValue() + '/' + dailyRowsLimit.getLimit());
+```

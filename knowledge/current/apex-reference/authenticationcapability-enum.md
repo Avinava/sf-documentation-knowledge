@@ -5,11 +5,15 @@ topic: authenticationcapability-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.336Z
-keywords: [AuthenticationCapability, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.430Z
+estimatedTokens: 332
+keywords: [AuthenticationCapability, Specifies, types, authentication, used, access, external, system., Usage, Values]
 ---
 
 # AuthenticationCapability Enum
+
+> Specifies the types of authentication that can be used to access the external
+    system.
 
 # AuthenticationCapability Enum
 

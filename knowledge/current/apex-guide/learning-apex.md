@@ -5,11 +5,15 @@ topic: learning-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.236Z
-keywords: [Learning, Apex, Trailhead, Content, Salesforce, Developers, Developer, Center, Code, Samples, SDKs, Training, Courses, Guide]
+lastCollected: 2026-03-12T05:14:33.529Z
+estimatedTokens: 1280
+keywords: [Learning, Apex, After, developer, account, there, many, resources, learning, Trailhead, Content, Salesforce, Developers, Developer, Center, Code, Samples, SDKs, Training, Courses]
 ---
 
 # Learning Apex
+
+> After you have your developer account, there are many resources available to you for
+        learning about Apex
 
 # Learning Apex
 
@@ -63,3 +67,16 @@ In addition, advanced programmers can look at:
 -   [Understanding Apex Describe Information](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_describe_objects_understanding.htm#apex_dynamic_describe_objects)
 -   [Asynchronous Execution (@future Annotation)](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm "Use the Future annotation to identify methods that run asynchronously. A future method runs when Salesforce has available resources.")
 -   [Batch Apex](atlas.en-us.apexcode.meta/apexcode/apex_batch.htm#apex_batch) and [Apex Scheduler](atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm "Use the Apex Scheduler to delay execution so that you can run Apex classes at a specified time. This is ideal for daily or weekly maintenance tasks using Batch Apex.")
+
+## Related Topics
+
+- Introducing Apex (atlas.en-us.apexcode.meta/apexcode/apex_intro.htm)
+- Documentation Conventions (atlas.en-us.apexcode.meta/apexcode/apex_qs_conventions.htm)
+- Core Concepts (atlas.en-us.apexcode.meta/apexcode/apex_qs_core_concepts.htm)
+- Quick Start Tutorial (atlas.en-us.apexcode.meta/apexcode/apex_qs_HelloWorld.htm)
+- Classes, Objects, and Interfaces (atlas.en-us.apexcode.meta/apexcode/apex_classes.htm)
+- Testing Apex (atlas.en-us.apexcode.meta/apexcode/apex_testing.htm)
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Trigger and Bulk Request Best Practices (atlas.en-us.apexcode.meta/apexcode/apex_triggers_bestpract.htm)
+- Advanced Apex Programming Example (atlas.en-us.apexcode.meta/apexcode/apex_shopping_cart_example.htm)
+- Understanding Apex Describe Information (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_describe_objects_understanding.htm)

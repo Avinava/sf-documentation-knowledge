@@ -5,11 +5,24 @@ topic: marketing-cloud-engagement-engagement-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.747Z
-keywords: [Marketing, Cloud, Engagement, Mappings, DLO, DMO, Mapping, SFMC, EES, Email, Snapshot, Data, Stream, Push, Complaint, Bounce, Click, Open, Send, Unsubscribe]
+lastCollected: 2026-03-12T05:14:14.537Z
+estimatedTokens: 4689
+keywords: [Marketing, Cloud, Engagement, Mappings, After, data, stream, deployed, starter, bundle, automatically, maps, model, objects, DMO, Data, Cloud., includes, following, system-generated]
 ---
 
 # Marketing Cloud Engagement: Engagement Mappings
+
+> After a data stream is deployed, the Marketing Cloud Engagement
+         starter data bundle automatically maps data from Marketing Cloud Engagement to data model
+         objects (DMO)s in Data Cloud. Engagement data includes the
+         following system-generated DLOS and associated data streams: SFMC EES Email Snapshot, SFMC
+         EES Push Snapshot,
+         SFMC
+         Einstein Email Scores, SFMC Email Complaint, SFMC Email Engagement
+         Bounce, SFMC Email Engagement Click, SFMC Email Engagement Open, SFMC Email Engagement
+         Send, SFMC Email Unsubscribe, SFMC Msg Engagement Event, SFMC Push Engagement Event, SFMC
+         Push Undeliver Event, SFMC WhatsApp Tracking Event, SFMC WhatsApp MO Event, and SFMC
+         WhatsApp Send Event.
 
 # Marketing Cloud Engagement: Engagement Mappings
 

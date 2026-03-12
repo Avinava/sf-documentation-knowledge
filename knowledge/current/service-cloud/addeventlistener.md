@@ -5,11 +5,17 @@ topic: addeventlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.724Z
-keywords: [addEventListener, Syntax, Arguments, Sample, Code, API, Version, 25.0, Later–Visualforce, Response, 30.0]
+lastCollected: 2026-03-12T05:14:57.089Z
+estimatedTokens: 544
+keywords: [addEventListener, Adds, listener, custom, event, standard, fired., adds, types, API, version, 25.0, later, 30.0, later., Syntax, Arguments, Sample, Code, Version]
 ---
 
 # addEventListener()
+
+> Adds a listener for a custom event type or a standard
+            event type when the event is fired. This method adds a listener for custom event types
+            in API version 25.0 or later; it adds a listener for standard event types in API version
+            30.0 or later.
 
 # addEventListener()
 
@@ -58,3 +64,51 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | message | string | The message which is sent with the fired event.If the response is from a console event, the message includes payload details as described in Methods for Console Events.If the response is from a custom keyboard shortcut, the message includes the following information on which the browser is focused, in this order:Object ID of the primary tabID of the primary tabObject ID of the subtabID of the subtab |
+
+## Code Examples
+
+```
+sforce.console.addEventListener( eventType: String, eventListener:Function, (optional)additionalParams:Object )
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var listener = function (result) {
+            alert('Message received from event: ' + result.message);
+        };
+        //Add a listener for the 'SampleEvent' event type
+        sforce.console.addEventListener('SampleEvent', listener);
+    </script>
+</apex:page>
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var onEnclosingPrimaryTabClose = function (result) {
+            alert('The enclosing primary tab is about to be closed. Tab ID: ' + result.id + ', Object ID: ' + (result.objectId ? result.objectId : 'not available'));
+        };
+
+        //Add a listener to handle the closing of the enclosing primary tab 
+        sforce.console.getEnclosingPrimaryTabId(function (result) { 
+            if (result.id) {
+                sforce.console.addEventListener(sforce.console.ConsoleEvent.CLOSE_TAB,
+                onEnclosingPrimaryTabClose, { tabId : result.id });
+            } else {
+                alert('Could not find an enclosing primary TAB!');
+            }
+        });
+    </script>
+</apex:page>
+```
+
+## Related Topics
+
+- Methods
+                    for Console Events (atlas.en-us.api_console.meta/api_console/sforce_api_console_methods_events.htm)
+- Methods for Console Events (atlas.en-us.api_console.meta/api_console/sforce_api_console_methods_events.htm)

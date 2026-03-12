@@ -5,11 +5,15 @@ topic: apex-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-11T15:42:42.311Z
-keywords: [Apex, Release, Notes]
+lastCollected: 2026-03-12T05:14:31.848Z
+estimatedTokens: 132
+keywords: [Apex, Release, Notes, Salesforce, most, recent, updates, changes, Apex.]
 ---
 
 # Apex Release Notes
+
+> Use the Salesforce Release Notes to learn about the most recent updates and changes to
+  Apex.
 
 # Apex Release Notes
 

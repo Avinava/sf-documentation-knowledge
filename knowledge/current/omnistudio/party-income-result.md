@@ -5,11 +5,14 @@ topic: party-income-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.699Z
-keywords: [Party, Income, Result]
+lastCollected: 2026-03-12T05:14:50.522Z
+estimatedTokens: 557
+keywords: [Party, Income, Result, Output, representation, party, income, result.]
 ---
 
 # Party Income Result
+
+> Output representation of the party income result.
 
 # Party Income Result
 
@@ -38,3 +41,7 @@ Output representation of the party income result.
 | recordTypeId | String | ID of the record type assigned to this object. | Small, 61.0 | 61.0 |
 | usageType | String | Usage type of the party income. | Small, 61.0 | 61.0 |
 | verification​Status | String | Verification status of the party income. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

@@ -5,11 +5,15 @@ topic: rulename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.933Z
-keywords: [ruleName, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.158Z
+estimatedTokens: 75
+keywords: [ruleName, name, rule, blocking, slot., there, type.]
 ---
 
 # ruleName
+
+> The name of the rule that is blocking the slot. When there is no
+      rule name, use the rule type.
 
 # ruleName
 

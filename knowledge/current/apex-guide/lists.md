@@ -5,11 +5,16 @@ topic: lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.018Z
-keywords: [Lists, Array, Notation, One-Dimensional]
+lastCollected: 2026-03-12T05:14:34.613Z
+estimatedTokens: 719
+keywords: [Lists, list, ordered, collection, elements, distinguished, their, indices., List, any, data, type—primitive, types, collections, sObjects, user-defined, built-in, Apex, types., Array]
 ---
 
 # Lists
+
+> A list is an ordered collection of elements that are distinguished by their indices.
+        List elements can be of any data type—primitive types, collections, sObjects,
+        user-defined types, and built-in Apex types.
 
 # Lists
 
@@ -72,5 +77,39 @@ All lists are initialized to null. Lists can be assigned values and allocated me
 | List<Integer> ints = new Integer[0]; | Defines an Integer list of size zero with no elements |
 | List<Integer> ints = new Integer[6]; | Defines an Integer list with memory allocated for six Integers |
 
--   **[List Sorting](atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists_sorting.htm)**  
+-   **[List Sorting](atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists_sorting.htm)**
     You can sort list elements and the sort order depends on the data type of the elements.
+
+## Code Examples
+
+```apex
+// Create an empty list of String
+List<String> my_list = new List<String>();
+// Create a nested list
+List<List<Set<Integer>>> my_list_2 = new List<List<Set<Integer>>>();
+```
+
+```apex
+List<Integer> myList = new List<Integer>(); // Define a new list
+myList.add(47);                    // Adds a second element of value 47 to the end 
+                                       // of the list
+Integer i = myList.get(0);                   // Retrieves the element at index 0
+myList.set(0, 1);                           // Adds the integer 1 to the list at index 0
+myList.clear();                    // Removes all elements from the list
+```
+
+```apex
+String[] colors = new List<String>();
+```
+
+```apex
+List<String> colors = new String[1];
+```
+
+```
+String[] colors = new String[1];
+```
+
+## Related Topics
+
+- List Sorting (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists_sorting.htm)

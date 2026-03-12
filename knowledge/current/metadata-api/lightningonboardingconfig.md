@@ -5,11 +5,18 @@ topic: lightningonboardingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.333Z
-keywords: [LightningOnboardingConfig, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.865Z
+estimatedTokens: 828
+keywords: [LightningOnboardingConfig, Represents, feedback, provided, users, switch, Lightning, Experience, Salesforce, Classic., Admins, customize, question, how, frequently, form, appears, where, stored, Chatter]
 ---
 
 # LightningOnboardingConfig
+
+> Represents the feedback provided when users switch from
+      Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently
+      the form appears, and where the feedback is stored in Chatter from the Adoption Assistance
+      page in Lightning Experience Setup. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # LightningOnboardingConfig
 
@@ -56,3 +63,23 @@ The following is an example of a LightningOnboardingConfig component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningOnboardingConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <collaborationGroup>{Org ID}</collaborationGroup>
+    <customQuestion>Please take a minute to tell us why you’re switching.</customQuestion>
+    <feedbackFormDaysFrequency>0</feedbackFormDaysFrequency>
+    <isCustom>true</isCustom>
+    <masterLabel>Feedback Form</masterLabel>
+    <promptDelayTime>3600</promptDelayTime>
+    <sendFeedbackToSalesforce>true</sendFeedbackToSalesforce>
+</LightningOnboardingConfig>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

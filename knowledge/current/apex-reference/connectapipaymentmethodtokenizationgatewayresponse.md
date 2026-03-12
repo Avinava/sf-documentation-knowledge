@@ -5,11 +5,15 @@ topic: connectapipaymentmethodtokenizationgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.562Z
-keywords: [ConnectApi.PaymentMethodTokenizationGatewayResponse]
+lastCollected: 2026-03-12T05:14:28.352Z
+estimatedTokens: 128
+keywords: [ConnectApi.PaymentMethodTokenizationGatewayResponse, Payment, tokenization, gateway, response, representation.]
 ---
 
 # ConnectApi.PaymentMethodTokenizationGatewayResponse
+
+> Payment method tokenization gateway response
+    representation.
 
 # ConnectApi.PaymentMethodTokenizationGatewayResponse
 
@@ -20,3 +24,8 @@ Subclass of [ConnectApi.AbstractGatewayResponse](atlas.en-us.apexref.meta/apexre
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | gatewayToken | String | The payment method token sent from the gateway. | 52.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractGatewayResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_gateway_txn_response.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -5,11 +5,16 @@ topic: loyalty-tier-group-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.621Z
-keywords: [Loyalty, Tier, Group, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.380Z
+estimatedTokens: 1009
+keywords: [Loyalty, Tier, Group, DMO, Data, Cloud, data, model, loyalty, programs, multiple, tiers, benefits., Tiers, organized, based, objectives, example, lifetime, marketing]
 ---
 
 # Loyalty Tier Group DMO
+
+> The Loyalty Tier Group DMO is a Data Cloud data model object (DMO) for
+      loyalty programs that have multiple tiers of benefits. Tiers can be organized based on
+      objectives, for example, lifetime, marketing, or regular.
 
 # Loyalty Tier Group DMO
 

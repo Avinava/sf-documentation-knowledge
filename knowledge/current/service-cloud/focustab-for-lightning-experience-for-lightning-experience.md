@@ -5,11 +5,15 @@ topic: focustab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.191Z
-keywords: [focusTab, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Note, Response]
+lastCollected: 2026-03-12T05:14:57.712Z
+estimatedTokens: 463
+keywords: [focusTab, Lightning, Experience, Focuses, workspace, tab, subtab., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Note, Response]
 ---
 
 # focusTab() for Lightning Experience for Lightning Experience
+
+> Focuses a workspace tab or subtab. This method works only in
+   Lightning console apps.
 
 # focusTab() for Lightning Experience for Lightning Experience
 
@@ -60,3 +64,52 @@ The relative URL used in this example is a placeholder. To try this example your
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```
+import { LightningElement } from 'lwc';
+import { IsConsoleNavigation, getAllTabInfo, focusTab } from 'lightning/platformWorkspaceApi';
+
+export default class FocusTabExample extends LightningElement {
+
+    async handleOpen() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        try {
+            const tabInfo = await getAllTabInfo();
+            await focusTab(tabInfo[0].tabId);
+        } catch (error) {
+            console.log(error);
+        }
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Focus New Tab" onclick="{! c.focusNewTab }" />
+</aura:component>
+```
+
+```
+({
+    focusNewTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.openTab({
+            url: '/lightning/r/Account/001xx000003DI05AAG/view',
+        }).then(function(response) {
+            workspaceAPI.focusTab({tabId : response});
+       })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- getAllTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getAllTabInfo.htm)

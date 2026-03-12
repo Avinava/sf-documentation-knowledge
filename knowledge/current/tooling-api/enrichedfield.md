@@ -5,11 +5,16 @@ topic: enrichedfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.749Z
-keywords: [EnrichedField, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.338Z
+estimatedTokens: 746
+keywords: [EnrichedField, Represents, field, selected, Change, Data, Capture, Enrichment, channel, member., non-empty, enriched, added, update, delete, change, event, even, changed., API]
 ---
 
 # EnrichedField
+
+> Represents a field selected for Change Data Capture Enrichment for a
+      channel and channel member. A non-empty enriched field is added to an update or delete change
+      event even when not changed. Available in API version 51.0 and later.
 
 # EnrichedField
 
@@ -53,3 +58,9 @@ In these query results, the rows returned are ordered by the channel member ID. 
 | 0v8RM00000000JsYAI | Industry |
 | 0v8RM00000000JsYAI | 00NRM000001gEx32AE |
 | 0v8RM00000000fIYAQ | Phone |
+
+## Code Examples
+
+```
+SELECT ChannelMemberId,Field FROM EnrichedField ORDER BY ChannelMemberId
+```

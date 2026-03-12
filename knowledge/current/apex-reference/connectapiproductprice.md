@@ -5,11 +5,14 @@ topic: connectapiproductprice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.722Z
-keywords: [ConnectApi.ProductPrice]
+lastCollected: 2026-03-12T05:14:28.585Z
+estimatedTokens: 311
+keywords: [ConnectApi.ProductPrice, Pricing, information, product.]
 ---
 
 # ConnectApi.ProductPrice
+
+> Pricing information for a product.
 
 # ConnectApi.ProductPrice
 
@@ -24,3 +27,10 @@ Pricing information for a product.
 | pricebookEntryId | String | ID of the price book entry. If a product selling model ID is specified in a request parameter, this property is empty. | 49.0 |
 | productPriceEntries | List<ConnectApi.ProductPriceEntry> | List of line item prices for the product. | 56.0 |
 | unitPrice | String | Unit price for the product. If a product selling model ID is specified in a request parameter, this property is empty. | 49.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​PriceAdjustment​Schedule (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_price_adjustment_schedule.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ProductPriceEntry (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_price_entry.htm)

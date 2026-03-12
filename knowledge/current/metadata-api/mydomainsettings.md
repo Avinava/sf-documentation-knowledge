@@ -5,11 +5,18 @@ topic: mydomainsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.659Z
-keywords: [MyDomainSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:41.308Z
+estimatedTokens: 3774
+keywords: [MyDomainSettings, Represents, org’s, Domain, settings., include, company, name, URLs, example, https, yourcompanyname.my.salesforce.com., extends, Metadata, metadata, inherits, its, fullName, field., File]
 ---
 
 # MyDomainSettings
+
+> Represents your org’s My Domain settings. With My
+      Domain, you can include your company name in your URLs, for example,
+        https://yourcompanyname.my.salesforce.com. 
+    This type extends the Metadata metadata
+      type and inherits its fullName field.
 
 # MyDomainSettings
 
@@ -69,3 +76,54 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<MyDomainSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <areLegacyRedirectsMaintained>false</areLegacyRedirectsMaintained>
+    <areLgcyRdirMaintainedWntr26>false</areLgcyRdirMaintainedWntr26>
+    <canOnlyLoginWithMyDomainUrl>false</canOnlyLoginWithMyDomainUrl>
+    <doesApiLoginRequireOrgDomain>false</doesApiLoginRequireOrgDomain>
+    <doesWarnOnForceComRedirect>false</doesWarnOnForceComRedirect>
+    <doesWarnOnRedirect>true</doesWarnOnRedirect>
+    <domainPartition>none</domainPartition>
+    <edgeRoutingMethod>global</edgeRoutingMethod>
+    <enableCrossDomainPreviewCookies>true</enableCrossDomainPreviewCookies>
+    <enableEdgeDuringRollout>true</enableEdgeDuringRollout>
+    <enableExtendedRedirections>false</enableExtendedRedirections>
+    <enableLegacyRedirections>false</enableLegacyRedirections>
+    <enableNativeBrowserForAuthOnAndroid>false</enableNativeBrowserForAuthOnAndroid>
+    <enableNativeBrowserForAuthOnIos>false</enableNativeBrowserForAuthOnIos>
+    <instancedUrlRedirectHandling>false</instancedUrlRedirectHandling>
+    <﻿isFirstPartyCookieUseRequired>true</﻿isFirstPartyCookieUseRequired>
+    <isIcorInstApiTrafficBlocked>true</isIcorInstApiTrafficBlocked>
+    <logRedirections>true</logRedirections>
+    <myDomainName>mycompany</myDomainName>
+    <myDomainSuffix>MySalesforce</myDomainSuffix>
+    <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
+    <redirectForceComSitesUrls>true</redirectForceComSitesUrls>
+    <redirectPriorMyDomain>true</redirectPriorMyDomain>
+    <use3rdPartyCookieBlockingCompatibleHostnames>true</use3rdPartyCookieBlockingCompatibleHostnames>
+    <useEdge>true</useEdge>
+    <useEnhancedDomainsInSandbox>true</useEnhancedDomainsInSandbox>
+    <useStabilizedMyDomainHostnames>true</useStabilizedMyDomainHostnames>
+    <useStabilizedSandboxMyDomainHostnames>true</useStabilizedSandboxMyDomainHostnames>
+</MyDomainSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyDomain</members>
+        <name>Settings</name>
+    </types>
+    <version>65.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

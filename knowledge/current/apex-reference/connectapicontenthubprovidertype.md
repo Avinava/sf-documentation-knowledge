@@ -5,11 +5,14 @@ topic: connectapicontenthubprovidertype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.453Z
-keywords: [ConnectApi.ContentHubProviderType, See]
+lastCollected: 2026-03-12T05:14:26.831Z
+estimatedTokens: 136
+keywords: [ConnectApi.ContentHubProviderType, repository.]
 ---
 
 # ConnectApi.ContentHubProviderType
+
+> The type of repository.
 
 # ConnectApi.ContentHubProviderType
 
@@ -23,3 +26,8 @@ The type of repository.
 #### See Also
 
 -   [ConnectApi.ContentHubRepository](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm "A repository.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ContentHubRepository (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm)

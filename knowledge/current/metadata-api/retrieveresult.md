@@ -5,11 +5,15 @@ topic: retrieveresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.460Z
-keywords: [RetrieveResult, FileProperties, RetrieveMessage, See]
+lastCollected: 2026-03-12T05:14:42.519Z
+estimatedTokens: 1124
+keywords: [RetrieveResult, retrieve, call, array, objects., FileProperties, RetrieveMessage]
 ---
 
 # RetrieveResult
+
+> The retrieve() call returns an array of
+  RetrieveResult objects.
 
 # RetrieveResult
 
@@ -60,3 +64,8 @@ This component contains information about the properties of each component in th
 #### See Also
 
 -   [retrieve()](atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm "The retrieve() call retrieves XML file representations of components in an organization.")
+
+## Related Topics
+
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)

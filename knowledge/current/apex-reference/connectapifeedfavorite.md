@@ -5,11 +5,14 @@ topic: connectapifeedfavorite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.685Z
-keywords: [ConnectApi.FeedFavorite, See]
+lastCollected: 2026-03-12T05:14:25.725Z
+estimatedTokens: 348
+keywords: [ConnectApi.FeedFavorite, Feed, favorite.]
 ---
 
 # ConnectApi.FeedFavorite
+
+> Feed favorite.
 
 # ConnectApi.FeedFavorite
 
@@ -32,5 +35,14 @@ Feed favorite.
 #### See Also
 
 -   [ConnectApi.FeedDirectory](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_directory.htm "Directory of feeds and favorites.")
-    
+
 -   [ConnectApi.FeedFavorites](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_Favorites.htm "Feed favorites.")
+
+## Related Topics
+
+- ConnectApi.​​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.FeedDirectory (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_directory.htm)
+- ConnectApi.FeedFavorites (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_Favorites.htm)

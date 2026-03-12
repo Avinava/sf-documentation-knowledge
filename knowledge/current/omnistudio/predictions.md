@@ -5,11 +5,15 @@ topic: predictions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.847Z
-keywords: [Predictions, Components, Accelerator, API]
+lastCollected: 2026-03-12T05:14:49.275Z
+estimatedTokens: 2448
+keywords: [Predictions, Retrieve, real-time, scores, prediction, machine, learning, case., Components, Accelerator, API]
 ---
 
 # Predictions
+
+> Retrieve real-time scores prediction for a machine learning use
+      case.
 
 # Predictions
 
@@ -144,3 +148,158 @@ An example of inputType as ExtractedRecordOverrides.
 Response body for POST
 
 [Prediction Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_prediction_output.htm "Output representation of the prediction request.")
+
+## Code Examples
+
+```
+/connect/aiaccelerator/predictions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect/​​​aiaccelerator/predictions
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "Records",
+  "records": {
+    "wrappedList": [
+      "a00x0000000CHa0AAG"
+    ]
+  },
+  "insightsSettings": {
+    "insightsSettings": {
+      "maxSuggestionCount": 1,
+      "maxInsights": 1,
+      "suggestionImpactMinimumPct": 0
+    }
+  },
+  "insightColumnMap": {
+    "columnMap": {
+      "INSIGHT1.Name": "Demo__c.InsightName1Override__c",
+      "INSIGHT1.Value": "Demo__c.InsightValue1__c",
+      "INSIGHT1.Impact": "Demo__c.InsightImpact1__c"
+    }
+  },
+  "suggestionColumnMap": {
+    "columnMap": {
+      "SUGGESTION1.Name": "Demo__c.RecommendationName1__c",
+      "SUGGESTION1.Value": "Demo__c.RecommendationValue1__c",
+      "SUGGESTION1.Impact": "Demo__c.RecommendationImpact1Override__c"
+    }
+  },
+..”scorePersistenceColumn”:”Demo__c.Score__c”,
+..”enableInsightPersistence”:true,
+  "enableScorePersistence": true,
+..”enableSuggestionPersistence”:true,
+  "async": false
+}
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "RawData",
+  "columnNames": {
+    "wrappedList": [
+      "corp_year_week__c",
+      "sap_source_id__c",
+      "sap_ppg_id__c",
+      "sales_units__c"
+    ]
+  },
+  "rawData": {
+    "rawData": [
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20"
+          ]
+        }
+      },
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20000"
+          ]
+        }
+      }
+    ]
+  },
+  "featureColumnMap": {
+    "columnMap": {
+      "corp_year_week__c": "Demo__c.YearWeekFeature__c",
+      "sap_source_id__c": "Demo__c.StoreIdFeature__c",
+      "sap_ppg_id__c": "Demo__c.ProductIdFeature__c",
+      "sales_units__c": "Demo__c.SalesUnitsFeatureOverride__c"
+    }
+  },
+  "enableFeaturePersistence": true
+}
+```
+
+```
+{
+  "usecaseDevname": "AIUsecaseDefinitionIdentifier",
+  "predictionDefinition": "PredictionDefinitionIdentifier",
+  "inputType": "RecordOverrides",
+  "records": {
+    "wrappedList": [
+      "a00x0000000CHa0AAG"
+    ]
+  },
+  "columnNames": {
+    "wrappedList": [
+      "corp_year_week__c",
+      "sap_source_id__c",
+      "sap_ppg_id__c",
+      "sales_units__c"
+    ]
+  },
+  "rawData": {
+    "rawData": [
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20"
+          ]
+        }
+      },
+      {
+        "rawDataInputWrap": {
+          "rawDataInput": [
+            "202016",
+            "0YQx0000000CaS8GAK",
+            "01tx00000006j2DAAQ",
+            "20000"
+          ]
+        }
+      }
+    ]
+  }
+}
+```
+
+## Related Topics
+
+- AIUsecaseFieldMapping (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_aiusecasefieldmapping.htm)
+- Feature Extraction Parameters Field Map
+                      Value (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_feature_extraction_parameters_map_valu.htm)
+- AIFeatureExtractor (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_aifeatureextractor.htm)
+- CustomFeatureExtractor Interface (atlas.en-us.industries_reference.meta/industries_reference/apex_interface_aiaccelerator_CustomFeatureExtractor.htm)
+- Raw Data Input
+                        Wrap (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_raw_data_input_wra.htm)
+- AIUsecaseDefinition (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_aiusecasedefinition.htm)
+- Prediction Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_prediction_output.htm)

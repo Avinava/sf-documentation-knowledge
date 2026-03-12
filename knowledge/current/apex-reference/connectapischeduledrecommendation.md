@@ -5,11 +5,14 @@ topic: connectapischeduledrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.974Z
-keywords: [ConnectApi.ScheduledRecommendation, See]
+lastCollected: 2026-03-12T05:14:28.944Z
+estimatedTokens: 657
+keywords: [ConnectApi.ScheduledRecommendation, Represents, scheduled, custom, recommendation.]
 ---
 
 # ConnectApi.ScheduledRecommendation
+
+> Represents a scheduled custom recommendation.
 
 # ConnectApi.ScheduledRecommendation
 
@@ -28,3 +31,12 @@ Represents a scheduled custom recommendation.
 #### See Also
 
 -   [ConnectApi.ScheduledRecommendationPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scheduled_recommendation_collection.htm "A list of scheduled custom recommendations.")
+
+## Related Topics
+
+- ConnectApi.​Recommendation​Channel (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​Recommendation​Definition (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_definition.htm)
+- ConnectApi.ScheduledRecommendationPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scheduled_recommendation_collection.htm)

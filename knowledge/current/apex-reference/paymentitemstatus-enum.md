@@ -5,15 +5,19 @@ topic: paymentitemstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.405Z
-keywords: [PaymentItemStatus, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.525Z
+estimatedTokens: 111
+keywords: [PaymentItemStatus, Represents, status, payment, item, requests, sent, enhanced, Messaging, channels., Values]
 ---
 
 # PaymentItemStatus Enum
 
+> Represents the status of a payment item in payment requests sent in enhanced Messaging
+    channels.
+
 # PaymentItemStatus Enum
 
-Represents the status of a payment item in payment requests sent in enhanced Messaging channels. 
+Represents the status of a payment item in payment requests sent in enhanced Messaging channels.
 
 ## Enum Values
 

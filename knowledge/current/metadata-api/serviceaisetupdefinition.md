@@ -5,11 +5,16 @@ topic: serviceaisetupdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.582Z
-keywords: [ServiceAISetupDefinition, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Usage]
+lastCollected: 2026-03-12T05:14:42.726Z
+estimatedTokens: 592
+keywords: [ServiceAISetupDefinition, Represents, settings, Einstein, Service, feature, such, Article, Recommendations., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location]
 ---
 
 # ServiceAISetupDefinition
+
+> Represents settings for an Einstein for Service
+    feature such as Einstein Article Recommendations. This type extends the Metadata metadata type 
+    and inherits its fullName field.
 
 # ServiceAISetupDefinition
 
@@ -53,3 +58,30 @@ The following is an example package.xml that references the previous definition.
 ## Usage
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <appSourceType>ARTICLE_RECOMMENDATION</appSourceType>
+    <name>SA1601228426202</name>
+    <setupStatus>ARCHIVED</setupStatus>
+    <supportedLanguages>en,de,fr,it,es,pt,nl</supportedLanguages>
+</ServiceAISetupDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ServiceAISetupDefinition</name>
+    </types>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

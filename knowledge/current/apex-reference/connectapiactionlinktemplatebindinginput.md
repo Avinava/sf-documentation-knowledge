@@ -5,11 +5,15 @@ topic: connectapiactionlinktemplatebindinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:36.723Z
-keywords: [ConnectApi.ActionLinkTemplateBindingInput, See]
+lastCollected: 2026-03-12T05:14:24.228Z
+estimatedTokens: 241
+keywords: [ConnectApi.ActionLinkTemplateBindingInput, key-value, pair, fill, binding, variable, action, link, template.]
 ---
 
 # ConnectApi.ActionLinkTemplateBindingInput
+
+> A key-value pair to fill in a binding variable value from an action
+      link template.
 
 # ConnectApi.ActionLinkTemplateBindingInput
 
@@ -23,3 +27,8 @@ A key-value pair to fill in a binding variable value from an action link templat
 #### See Also
 
 -   [ConnectApi.ActionLinkGroupDefinitionInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_link_group_definition.htm "The definition of an action link group. All action links must belong to a group. Action links in a group are mutually exclusive and share some properties. Define standalone actions in their own action group.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ActionLinkGroupDefinitionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_link_group_definition.htm)

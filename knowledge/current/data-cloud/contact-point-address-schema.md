@@ -5,11 +5,16 @@ topic: contact-point-address-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.223Z
-keywords: [Contact, Point, Address, Schema]
+lastCollected: 2026-03-12T05:14:12.176Z
+estimatedTokens: 633
+keywords: [Contact, Point, Address, Schema, contact, point, address, schema, capture, profile, data, map, individual, streams., contains, mix, required, optional, fields., order]
 ---
 
 # Contact Point Address Schema
+
+> Use the contact point address schema to capture profile data to map to individual data
+    streams. An address contains a mix of required and optional fields. In order to create the
+    contact point and map it to the individual, all required fields must be provided.
 
 # Contact Point Address Schema
 

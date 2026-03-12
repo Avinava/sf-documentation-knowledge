@@ -5,11 +5,15 @@ topic: assessmentquestionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.624Z
-keywords: [AssessmentQuestionResponse, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.441Z
+estimatedTokens: 1587
+keywords: [AssessmentQuestionResponse, Stores, responses, submitted, assessment., API, version, 55.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # AssessmentQuestionResponse
+
+> Stores the responses submitted to an assessment. This object is
+      available in API version 55.0 and later.
 
 # AssessmentQuestionResponse
 

@@ -5,11 +5,16 @@ topic: networkbranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.736Z
-keywords: [NetworkBranding, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.422Z
+estimatedTokens: 1147
+keywords: [NetworkBranding, Represents, branding, color, scheme, applied, login, pages, Experience, Cloud, site., sites, represented, Network, component., Note, Declarative, Metadata, File, Suffix]
 ---
 
 # NetworkBranding
+
+> Represents the branding and color scheme applied
+            to the login pages of an Experience Cloud site. (Experience Cloud sites are
+        represented by the Network component.)
 
 # NetworkBranding
 
@@ -67,3 +72,35 @@ A sample XML definition of network branding.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<NetworkBranding xmlns="http://soap.sforce.com/2006/04/metadata">
+    <loginFooterText>salesforce.com</loginFooterText>
+    <loginLogo>Communities_Shared_Document_Folder/header2_png.png</loginLogo>
+    <loginLogoName>header2.png</loginLogoName>
+    <loginBackgroundImageUrl>http://identitycms.herokuapp.com/promo-background.jpg</loginBackgroundImageUrl>
+    <loginQuaternaryColor>#B1BAC1</loginQuaternaryColor>
+    <loginRightFrameUrl>https://www.example.com/test</loginRightFrameUrl>
+    <network>Network 1</network>
+    <pageFooter>Branding/footer_html.html</pageFooter>
+    <pageHeader>Branding/header_Image.jpg</pageHeader>
+    <primaryColor>#AF5800</primaryColor>
+    <primaryComplementColor>#FFFFFF</primaryComplementColor>
+    <quaternaryColor>#286FB8</quaternaryColor>
+    <quaternaryComplementColor>#FFFFFF</quaternaryComplementColor>
+    <secondaryColor>#000000</secondaryColor>
+    <tertiaryColor>#FFFFFF</tertiaryColor>
+    <tertiaryComplementColor>#222222</tertiaryComplementColor>
+    <zeronaryColor>#0A3764</zeronaryColor>
+    <zeronaryComplementColor>#FFFFFF</zeronaryComplementColor>
+</NetworkBranding>
+```
+
+## Related Topics
+
+- MetadataWithContent (atlas.en-us.api_meta.meta/api_meta/meta_metadatawithcontent.htm)
+- BrandingSet (atlas.en-us.api_meta.meta/api_meta/meta_brandingset.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

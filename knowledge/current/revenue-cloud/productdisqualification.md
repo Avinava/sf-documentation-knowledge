@@ -5,11 +5,16 @@ topic: productdisqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.699Z
-keywords: [ProductDisqualification, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:11.154Z
+estimatedTokens: 1029
+keywords: [ProductDisqualification, Represents, disqualification, rules, products., determine, product, doesn’t, qualify, displayed, users., based, user, context., API, version, 60.0, later., Supported, Calls]
 ---
 
 # ProductDisqualification
+
+> Represents disqualification rules for products. The rules determine when the
+         product doesn’t qualify to be displayed to users. The rules are based on user context.
+      This object is available in API version 60.0 and later.
 
 # ProductDisqualification
 
@@ -54,3 +59,9 @@ History is available for tracked fields of the object.
 [ProductDisqualificationShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ProductDisqualificationFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- ProductDisqualificationHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- ProductDisqualificationShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

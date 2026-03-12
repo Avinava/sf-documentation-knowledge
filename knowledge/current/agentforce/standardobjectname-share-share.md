@@ -5,11 +5,16 @@ topic: standardobjectname-share-share
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.832Z
-keywords: [StandardObjectName, Share, Supported, Calls, Special, Access, Rules, Fields, Object, Follows, Model]
+lastCollected: 2026-03-12T05:14:15.331Z
+estimatedTokens: 380
+keywords: [StandardObjectName, Share, StandardObjectNameShare, model, share, objects, associated, standard, objects., represent, sharing, entry, object., Supported, Calls, Special, Access, Rules, Fields, Follows]
 ---
 
 # StandardObjectName Share Share
+
+> StandardObjectNameShare is the model for all share
+      objects associated with standard objects. These objects represent a sharing entry on the
+      standard object.
 
 # StandardObjectName Share Share
 

@@ -5,11 +5,15 @@ topic: connectapimanagedtopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.244Z
-keywords: [ConnectApi.ManagedTopic, See]
+lastCollected: 2026-03-12T05:14:27.930Z
+estimatedTokens: 282
+keywords: [ConnectApi.ManagedTopic, Represents, managed, topic, Experience, Cloud, site.]
 ---
 
 # ConnectApi.ManagedTopic
+
+> Represents a managed topic in an Experience Cloud
+    site.
 
 # ConnectApi.ManagedTopic
 
@@ -27,3 +31,12 @@ Represents a managed topic in an Experience Cloud site.
 #### See Also
 
 -   [ConnectApi.ManagedTopicCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_topic_collection.htm "A collection of managed topics.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Managed​Topic​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.​Topic (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topic.htm)
+- ConnectApi.ManagedTopicCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_topic_collection.htm)

@@ -5,11 +5,16 @@ topic: packageinstallrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.421Z
-keywords: [PackageInstallRequest, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, SubscriberPackageInstallErrors, SubscriberPackageInstallError, SubscriberPackageProfileMappings, SubscriberPackageProfileMapping]
+lastCollected: 2026-03-12T05:14:46.281Z
+estimatedTokens: 1299
+keywords: [PackageInstallRequest, Represents, request, install, package, first-, second-generation, target, subscriber, org., API, version, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # PackageInstallRequest
+
+> Represents a request to install a package (first-
+            or second-generation) in a target subscriber org. Available in API version 41.0 and
+        later.
 
 # PackageInstallRequest
 

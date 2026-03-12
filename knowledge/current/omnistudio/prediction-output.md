@@ -5,11 +5,14 @@ topic: prediction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.735Z
-keywords: [Prediction, Output]
+lastCollected: 2026-03-12T05:14:50.577Z
+estimatedTokens: 820
+keywords: [Prediction, Output, representation, prediction, request.]
 ---
 
 # Prediction Output
+
+> Output representation of the prediction request.
 
 # Prediction Output
 
@@ -44,3 +47,78 @@ JSON example
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+  "Prediction Purpose": "Use case Name Eg: Smart Selling Visit Recommendation",
+  "Prediction Platform": "Einstein Discovery / Einstein Platform (optional)",
+  "Prediction Definition": "PredictionDefinitionIdentifier",
+  "batchDatasource": “ApexSSVisitRecommendationsDataSource”,
+  "Input Type": "ExtractedRecordOverrides",
+  "featureInputType": "Sample_Input",
+  "Feature Extractor Type": "Hybrid",
+  "featureExtractorIdentifier": "ApexSSVisitRecommendationsExtractor",
+  "Feature Extractor": "SSVisitRecommendationsFeatureExtractorClass",
+  "Primary Response Obj RecordIds": [
+    "a00x0000000CHa0AAG",
+    "a00x0000000CHa0XXY"
+  ],
+  "Secondary Response Obj RecordIds": [
+    "a00x0000000CHa0PPS",
+    "a00x0000000CHa0QQW"
+  ],
+  "predictions": [
+    {
+      "model": {
+        "id": "1OtRM000000002b0AA"
+      },
+      "prediction": {
+        "score": 799315.4282959097,
+        "insights": [
+          {
+            "columns": [
+              {
+                "columnName": "Has Line Item",
+                "columnValue": "true"
+              }
+            ],
+            "value": 553763.66105859
+          }
+        ]
+      },
+      "status": "Success"
+    },
+    {
+      "model": {
+        "id": "1OtRM000000002b0AA"
+      },
+      "prediction": {
+        "score": 799315.4282959097,
+        "insights": [
+          {
+            "columns": [
+              {
+                "columnName": "Has Line Item",
+                "columnValue": "true"
+              }
+            ],
+            "value": 543763.66105859
+          }
+        ]
+      },
+      "status": "Success"
+    }
+  ],
+  "insightSettings": {
+    "maxPrescriptions": 0,
+    "maxInsights": 0
+  }
+}
+```
+
+## Related Topics
+
+- Model Feature (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_model_featur.htm)
+- Prediction Object (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_prediction_object.htm)

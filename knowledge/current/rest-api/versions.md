@@ -5,11 +5,15 @@ topic: versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.799Z
-keywords: [Versions, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.194Z
+estimatedTokens: 152
+keywords: [Versions, Lists, summary, information, Salesforce, version, currently, including, label, link, version's, root., Syntax, Example]
 ---
 
 # Versions
+
+> Lists summary information about each Salesforce version currently available, including
+  the version, label, and a link to each version's root.
 
 # Versions
 
@@ -40,3 +44,7 @@ none
 ## Example
 
 See [List Available REST API Versions](atlas.en-us.api_rest.meta/api_rest/dome_versions.htm "Use the Versions resource to list summary information about each REST API version currently available, including the version, label, and a link to each version's root. You don’t need authentication to retrieve the list of versions.").
+
+## Related Topics
+
+- List Available REST API Versions (atlas.en-us.api_rest.meta/api_rest/dome_versions.htm)

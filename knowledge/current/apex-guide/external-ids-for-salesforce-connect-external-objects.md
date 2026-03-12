@@ -5,11 +5,15 @@ topic: external-ids-for-salesforce-connect-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.837Z
-keywords: [External, IDs, Salesforce, Connect, Objects, Important, Example, See]
+lastCollected: 2026-03-12T05:14:32.972Z
+estimatedTokens: 408
+keywords: [External, IDs, Salesforce, Connect, Objects, access, external, data, custom, adapter, values, standard, field, come, DataSource.Column, named, ExternalId., Important, Example]
 ---
 
 # External IDs for Salesforce Connect External Objects
+
+> When you access external data with a custom adapter for Salesforce Connect, the
+        values of the External ID standard field on an external object come from the DataSource.Column named ExternalId.
 
 # External IDs for Salesforce Connect External Objects
 
@@ -37,3 +41,24 @@ This excerpt from a sample DataSource.Connection class shows the DataSource.Colu
 #### See Also
 
 -   [*Apex Reference Guide*: Column Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_DataSource_Column.htm "Apex Reference Guide: Column Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+override global List<DataSource.Table> sync() {
+        List<DataSource.Table> tables =
+        new List<DataSource.Table>();
+    List<DataSource.Column> columns;
+    columns = new List<DataSource.Column>();
+    columns.add(DataSource.Column.text('title', 255));
+    columns.add(DataSource.Column.text('description',255));
+    columns.add(DataSource.Column.text('createdDate',255));
+    columns.add(DataSource.Column.text('modifiedDate',255));
+    columns.add(DataSource.Column.url('selfLink'));
+    columns.add(DataSource.Column.url('DisplayUrl'));
+    columns.add(DataSource.Column.text('ExternalId',255));
+    tables.add(DataSource.Table.get('googleDrive','title',
+        columns));
+    return tables;
+    }
+```

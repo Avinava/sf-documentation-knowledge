@@ -5,11 +5,14 @@ topic: party-profile-address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.420Z
-keywords: [Party, Profile, Address, Input]
+lastCollected: 2026-03-12T05:14:48.642Z
+estimatedTokens: 477
+keywords: [Party, Profile, Address, Input, representation, details, party, profile, address.]
 ---
 
 # Party Profile Address Input
+
+> Input representation of the details of the party profile address.
 
 # Party Profile Address Input
 
@@ -36,3 +39,7 @@ Properties
 | street | String | Street detail for the address. | Optional | 61.0 |
 | validityEnd​Date | String | Date when the party profile address becomes valid. | Optional | 61.0 |
 | validityStart​Date | String | Date until when the party profile address is valid. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

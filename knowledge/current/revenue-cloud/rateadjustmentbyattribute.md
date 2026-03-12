@@ -1,0 +1,66 @@
+---
+title: "RateAdjustmentByAttribute"
+domain: revenue-cloud
+topic: rateadjustmentbyattribute
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:11.406Z
+estimatedTokens: 1243
+keywords: [RateAdjustmentByAttribute, Represents, adjustments, determine, rate, resource, based, its, rate-impacting, attributes., attributes, linked, usage, product, record., Rates, then, influenced, conditions, specified]
+---
+
+# RateAdjustmentByAttribute
+
+> Represents the adjustments that determine the rate of a resource based on its
+         rate-impacting attributes. These attributes are linked to the usage product record. Rates
+         are then influenced by conditions specified in the Attribute Based Adjustment Condition
+         object. Finally, the charge rate is determined by using the Attribute Based Adjustment Rule
+         object. This object is available in API version 62.0 and later.
+
+# RateAdjustmentByAttribute
+
+Represents the adjustments that determine the rate of a resource based on its rate-impacting attributes. These attributes are linked to the usage product record. Rates are then influenced by conditions specified in the Attribute Based Adjustment Condition object. Finally, the charge rate is determined by using the Attribute Based Adjustment Rule object. This object is available in API version 62.0 and later.
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+
+#### Important
+
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
+
+## Supported Calls
+
+create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
+
+## Fields
+
+| Field | Details |
+| --- | --- |
+| AdjustmentType | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionType of rate adjustment.Valid values are:AmountOverridePercentage |
+| AdjustmentValue | TypedoublePropertiesCreate, Filter, Sort, UpdateDescriptionValue of the rate adjustment based on the selected adjustment type. |
+| AttributeBasedAdjRuleId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionID of the attribute based adjustment rule associated with this rate adjustment by attribute record.This field is a relationship field.Relationship NameAttributeBasedAdjRuleRefers ToAttributeBasedAdjRule |
+| EffectiveFrom | TypedateTimePropertiesFilter, SortDescriptionDate and time when the associated rate card entry comes into effect. |
+| EffectiveTo | TypedateTimePropertiesFilter, Nillable, SortDescriptionDate and time until when the associated rate card entry remains effective. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionTimestamp for when the current user last referred to this record. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionTimestamp for when the current user last viewed a record related to this record. |
+| Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionAuto-generated identifier for the rate adjustment by attribute record. |
+| ProductId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionID of the product whose resource is being used as the associated rate card entry.This field is a relationship field.Relationship NameProductRefers ToProduct2 |
+| ProductSellingModelId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionID of the product selling model for the associated rate card entry.This field is a relationship field.Relationship NameProductSellingModelRefers ToProductSellingModel |
+| RateCardEntryId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionID of the rate card entry associated with this rate adjustment by attribute record.This field is a relationship field.Relationship NameRateCardEntryRelationship TypeMaster-detailRefers ToRateCardEntry (the master object) |
+| RateCardEntryStatus | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionStatus of the rate card entry associated with this rate adjustment by attribute.Valid values are:ActiveDraftInactiveThe default value is Draft. Available in API version 63.0 and later. |
+| RateCardId | TypereferencePropertiesFilter, Group, SortDescriptionID of the rate card of the associated rate card entry.This field is a relationship field.Relationship NameRateCardRefers ToRateCard |
+| RateUnitOfMeasureId | TypereferencePropertiesFilter, Group, SortDescriptionID of the standard unit of measure record of the associated rate card entry.This field is a relationship field.Relationship NameRateUnitOfMeasureRefers ToUnitOfMeasure |
+| RateUnitOfMeasureName | TypestringPropertiesFilter, Group, SortDescriptionName of the standard unit of measure record of the associated rate card entry. |
+| UsageResourceId | TypereferencePropertiesFilter, Group, SortDescriptionID of the resource selected for the associated rate card entry.This field is a relationship field.Relationship NameUsageResourceRefers ToUsageResource |
+
+## Associated Objects
+
+This object has these associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
+
+[RateAdjustmentByAttributeFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
+
+Feed tracking is available for the object.
+
+[RateAdjustmentByAttributeHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
+
+History is available for tracked fields of the object.

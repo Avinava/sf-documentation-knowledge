@@ -5,11 +5,14 @@ topic: connectapiproductattributeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:39.637Z
-keywords: [ConnectApi.ProductAttributeInfo, See]
+lastCollected: 2026-03-12T05:14:28.461Z
+estimatedTokens: 468
+keywords: [ConnectApi.ProductAttributeInfo, Product, attribute, information.]
 ---
 
 # ConnectApi.ProductAttributeInfo
+
+> Product attribute information.
 
 # ConnectApi.ProductAttributeInfo
 
@@ -31,7 +34,19 @@ Product attribute information.
 #### See Also
 
 -   [ConnectApi.ProductDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm "Details of a product.")
-    
+
 -   [ConnectApi.ProductAttributeSetInfo](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_info.htm "Attribute set metadata.")
-    
+
 -   [ConnectApi.ProductVariationInfo](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_variation_info.htm "Product variation attributes, metadata, and mappings of attribute combinations to variation product IDs.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ProductAttribute​ValueMetadata​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​ProductAttributeViewType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ProductDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm)
+- ConnectApi.ProductAttributeSetInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_info.htm)
+- ConnectApi.ProductVariationInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_variation_info.htm)

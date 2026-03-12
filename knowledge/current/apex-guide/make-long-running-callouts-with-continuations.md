@@ -5,11 +5,16 @@ topic: make-long-running-callouts-with-continuations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.904Z
-keywords: [Long-Running, Callouts, Continuations, Visualforce, Example, Note, See]
+lastCollected: 2026-03-12T05:14:33.071Z
+estimatedTokens: 2093
+keywords: [Long-Running, Callouts, Continuations, asynchronous, callouts, long-running, requests, Visualforce, page, Lightning, component, external, Web, service, process, responses, callback, methods., Example, Note]
 ---
 
 # Make Long-Running Callouts with Continuations
+
+> Use asynchronous callouts to make long-running requests from a
+      Visualforce page or a Lightning component to an external Web service and process responses in
+      callback methods.
 
 # Make Long-Running Callouts with Continuations
 
@@ -58,17 +63,17 @@ If the callout specifies a named credential as the endpoint, you don’t need to
 -   Asynchronous callouts are available for Apex controllers and Visualforce pages saved in version 30.0 and later. If JavaScript remoting is used, version 31.0 or later is required.
 -   Asynchronous callouts, including callouts that specify named credentials as the callout endpoint, aren’t supported over Private Connect.
 
--   **[Process for Using Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_process.htm)**  
+-   **[Process for Using Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_process.htm)**
     To use asynchronous callouts, create a Continuation object in an action method of a controller, and implement a callback method.
--   **[Testing Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_testing.htm)**  
+-   **[Testing Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_testing.htm)**
     Write tests to test your controller and meet code coverage requirements for deploying or packaging Apex. Because Apex tests don’t support making callouts, you can simulate callout requests and responses. When you’re simulating a callout, the request doesn’t get sent to the external service, and a mock response is used.
--   **[Asynchronous Callout Limits](atlas.en-us.apexcode.meta/apexcode/apex_continuation_limits.htm)**  
+-   **[Asynchronous Callout Limits](atlas.en-us.apexcode.meta/apexcode/apex_continuation_limits.htm)**
     When a continuation is executing, the continuation-specific limits apply. When the continuation returns and the request resumes, a new Apex transaction starts. All Apex and Visualforce limits apply and are reset in the new transaction, including the Apex callout limits.
--   **[Making Multiple Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_multiple_callouts.htm)**  
+-   **[Making Multiple Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_multiple_callouts.htm)**
     To make multiple callouts to a long-running service simultaneously from a Visualforce page, you can add up to three requests to the Continuation instance. An example of when to make simultaneous callouts is when you’re making independent requests to a service, such as getting inventory statistics for two products.
--   **[Chaining Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_chained_callouts.htm)**  
+-   **[Chaining Asynchronous Callouts](atlas.en-us.apexcode.meta/apexcode/apex_continuation_chained_callouts.htm)**
     If the order of the callouts matters, or when a callout is conditional on the response of another callout, you can chain callout requests. Chaining callouts means that the next callout is made only after the response of the previous callout returns. For example, you might need to chain a callout to get warranty extension information after the warranty service response indicates that the warranty expired. You can chain up to three callouts.
--   **[Making an Asynchronous Callout from an Imported WSDL](atlas.en-us.apexcode.meta/apexcode/apex_continuation_callout_soap.htm)**  
+-   **[Making an Asynchronous Callout from an Imported WSDL](atlas.en-us.apexcode.meta/apexcode/apex_continuation_callout_soap.htm)**
     In addition to HttpRequest\-based callouts, asynchronous callouts are supported in Web service calls that are made from WSDL-generated classes. The process of making asynchronous callouts from a WSDL-generated class is similar to the process for using the HttpRequest class.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_timeouts.htm "Callout Limits and Limitations")
@@ -76,5 +81,75 @@ If the callout specifies a named credential as the endpoint, you don’t need to
 #### See Also
 
 -   [Named Credentials as Callout Endpoints](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm "A named credential specifies the URL of a callout endpoint and its required authentication parameters in one definition. Salesforce manages all authentication for Apex callouts that specify a named credential as the callout endpoint so that your code doesn’t have to. You can also skip remote site settings, which are otherwise required for callouts to external sites, for the site defined in the named credential.")
-    
+
 -   [*Lightning Web Components Developer Guide*: Make Long-Running Callouts with Continuations](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.apex_continuations "Lightning Web Components Developer Guide: Make Long-Running Callouts with Continuations - HTML (New Window)")
+
+## Code Examples
+
+```
+<apex:page controller="ContinuationController" showChat="false" showHeader="false">
+   <apex:form >
+      <!-- Invokes the action method when the user clicks this button. -->
+      <apex:commandButton action="{!startRequest}" 
+              value="Start Request" reRender="result"/> 
+   </apex:form>
+
+   <!-- This output text component displays the callout response body. -->
+   <apex:outputText id="result" value="{!result}" />
+</apex:page>
+```
+
+```apex
+public with sharing class ContinuationController {
+    // Unique label corresponding to the continuation
+    public String requestLabel;
+    // Result of callout
+    public String result {get;set;}
+    // Callout endpoint as a named credential URL 
+    // or, as shown here, as the long-running service URL
+    private static final String LONG_RUNNING_SERVICE_URL = 
+        '<Insert your service URL>';
+   
+   // Action method
+    public Object startRequest() {
+      // Create continuation with a timeout
+      Continuation con = new Continuation(40);
+      // Set callback method
+      con.continuationMethod='processResponse';
+      
+      // Create callout request
+      HttpRequest req = new HttpRequest();
+      req.setMethod('GET');
+      req.setEndpoint(LONG_RUNNING_SERVICE_URL);
+      
+      // Add callout request to continuation
+      this.requestLabel = con.addHttpRequest(req);
+      
+      // Return the continuation
+      return con;  
+    }
+    
+    // Callback method 
+    public Object processResponse() {   
+      // Get the response by using the unique label
+      HttpResponse response = Continuation.getResponse(this.requestLabel);
+      // Set the result variable that is displayed on the Visualforce page
+      this.result = response.getBody();
+      
+      // Return null to re-render the original Visualforce page
+      return null;
+    }
+}
+```
+
+## Related Topics
+
+- limit of concurrent long-running requests (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Process for Using Asynchronous Callouts (atlas.en-us.apexcode.meta/apexcode/apex_continuation_process.htm)
+- Testing Asynchronous Callouts (atlas.en-us.apexcode.meta/apexcode/apex_continuation_testing.htm)
+- Asynchronous Callout Limits (atlas.en-us.apexcode.meta/apexcode/apex_continuation_limits.htm)
+- Making Multiple Asynchronous Callouts (atlas.en-us.apexcode.meta/apexcode/apex_continuation_multiple_callouts.htm)
+- Chaining Asynchronous Callouts (atlas.en-us.apexcode.meta/apexcode/apex_continuation_chained_callouts.htm)
+- Making an Asynchronous Callout from an Imported WSDL (atlas.en-us.apexcode.meta/apexcode/apex_continuation_callout_soap.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_timeouts.htm)
+- Named Credentials as Callout Endpoints (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)

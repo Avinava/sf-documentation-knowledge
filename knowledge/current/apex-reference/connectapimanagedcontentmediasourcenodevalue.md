@@ -5,11 +5,14 @@ topic: connectapimanagedcontentmediasourcenodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.167Z
-keywords: [ConnectApi.ManagedContentMediaSourceNodeValue]
+lastCollected: 2026-03-12T05:14:27.816Z
+estimatedTokens: 229
+keywords: [ConnectApi.ManagedContentMediaSourceNodeValue, Source, managed, content, media.]
 ---
 
 # ConnectApi.ManagedContentMediaSourceNodeValue
+
+> Source of managed content media.
 
 # ConnectApi.ManagedContentMediaSourceNodeValue
 
@@ -25,3 +28,9 @@ Source of managed content media.
 | resourceUrl | String | Resource URL of the media source. | 49.0 |
 | unauthenticatedUrl | String | URL to the media source for unauthenticated users, or null if the media source isn’t available to external users. | 49.0 |
 | url | String | URL to the media source for authenticated users. | 49.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ManagedContent​MediaType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

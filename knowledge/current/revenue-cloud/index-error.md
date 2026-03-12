@@ -5,11 +5,14 @@ topic: index-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.443Z
-keywords: [Index, Error]
+lastCollected: 2026-03-12T05:14:07.778Z
+estimatedTokens: 174
+keywords: [Index, Error, Output, representation, error, details, related, index.]
 ---
 
 # Index Error
+
+> Output representation of the error details related to an index.
 
 # Index Error
 
@@ -28,3 +31,15 @@ JSON example
 | index​ErrorsCount | Integer | Number of index-level errors. | Small, 63.0 | 63.0 |
 | indexLast​UpdatedDate | String | Date on which the index was last updated. | Small, 63.0 | 63.0 |
 | itemLevel​ErrorsCount | Integer | Number of item-level errors. | Small, 63.0 | 63.0 |
+
+## Code Examples
+
+```
+"indexErrorDetails": {
+    "errorFileId": "069xx0000004C92AAE",
+    "indexCreatedDate": "2024-10-03T05:24:18.000Z",
+    "indexErrorsCount": 1,
+    "indexLastUpdatedDate": "2024-10-03T05:27:00.000Z",
+    "itemLevelErrorsCount": 1
+  }
+```

@@ -5,11 +5,15 @@ topic: customobjecttranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.577Z
-keywords: [CustomObjectTranslation, Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Note, CustomFieldTranslation, FieldSetTranslation, LayoutTranslation, LayoutSectionTranslation, LookupFilterTranslation, NamedFilterTranslation, ObjectNameCaseValue, PicklistValueTranslation, QuickActionTranslation]
+lastCollected: 2026-03-12T05:14:38.321Z
+estimatedTokens: 4881
+keywords: [CustomObjectTranslation, metadata, allows, translate, custom, objects, variety, languages., Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Note, CustomFieldTranslation, FieldSetTranslation]
 ---
 
 # CustomObjectTranslation
+
+> This metadata type allows you to translate
+            custom objects for a variety of languages.
 
 # CustomObjectTranslation
 
@@ -240,5 +244,138 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [Translations](atlas.en-us.api_meta.meta/api_meta/meta_translations.htm "Metadata type that enables work with translations for various supported languages. The ability to translate component labels is part of the Translation Workbench.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Beschreibung</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Beschreibungen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>Beschreibung</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>Beschreibungen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>Beschreibung</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>Beschreibungen</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Beschreibung</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>Beschreibungen</value>
+    </caseValues>
+    <fields>
+        <label>Zusammenfassung</label>
+        <name>Summary__c</name>
+    </fields>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Beschreibungen</nameFieldLabel>
+</CustomObjectTranslation>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Kunde</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value>Kunden</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <caseType>Nominative</caseType>
+            <plural>false</plural>
+            <value>Kundennummer</value>
+        </caseValues>
+        <caseValues>
+            <caseType>Nominative</caseType>
+            <plural>true</plural>
+            <value>Kundennummern</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>account_number</name>
+    </fields>
+    <fields>
+        <label>Kunden-Code</label>
+        <name>Account_Code__c</name>
+    </fields>
+    <gender>Masculine</gender>
+</CustomObjectTranslation>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- CustomField (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- fully supported
+                    languages (atlas.en-us.api_meta.meta/api_meta/customobjectranslation_language_support_standard.htm)
+- end-user languages (atlas.en-us.api_meta.meta/api_meta/customobjectranslation_language_support_enduser.htm)
+- PicklistValue (atlas.en-us.api_meta.meta/api_meta/meta_globalpicklistvalue.htm)
+- FieldSet (atlas.en-us.api_meta.meta/api_meta/meta_fieldset.htm)
+- Fields (atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)
+- LayoutSection (atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)

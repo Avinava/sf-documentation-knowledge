@@ -5,11 +5,17 @@ topic: gtwyprovpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.099Z
-keywords: [GtwyProvPaymentMethodType, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.827Z
+estimatedTokens: 1752
+keywords: [GtwyProvPaymentMethodType, Represents, allows, integrators, payment, providers, choose, active, receive, order's, data, rather, allowing, Salesforce, Order, Management, platform, select, default, method.]
 ---
 
 # GtwyProvPaymentMethodType
+
+> Represents a type that allows integrators and payment providers to choose an
+         active payment to receive an order's payment data rather than allowing the Salesforce Order
+         Management platform to select a default payment method. This object is available in
+      API version 50.0 and later.
 
 # GtwyProvPaymentMethodType
 

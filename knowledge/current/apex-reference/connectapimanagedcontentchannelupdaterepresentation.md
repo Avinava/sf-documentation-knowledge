@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchannelupdaterepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.275Z
-keywords: [ConnectApi.ManagedContentChannelUpdateRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.088Z
+estimatedTokens: 399
+keywords: [ConnectApi.ManagedContentChannelUpdateRepresentation, Input, update, managed, content, channel.]
 ---
 
 # ConnectApi.ManagedContentChannelUpdateRepresentation
+
+> Input class to update a managed content channel.
 
 # ConnectApi.ManagedContentChannelUpdateRepresentation
 
@@ -29,3 +32,10 @@ Input class to update a managed content channel.
 #### See Also
 
 -   [patchManagedContentChannel(channelId, ManagedContentChannelInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm#apex_ConnectAPI_ManagedContentChannels_patchManagedContentChannel_3 "Update a managed content channel.")
+
+## Related Topics
+
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- patchManagedContentChannel(channelId, ManagedContentChannelInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm)

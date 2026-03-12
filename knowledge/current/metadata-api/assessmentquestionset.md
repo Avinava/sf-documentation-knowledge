@@ -5,11 +5,15 @@ topic: assessmentquestionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.660Z
-keywords: [AssessmentQuestionSet, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+lastCollected: 2026-03-12T05:14:37.048Z
+estimatedTokens: 845
+keywords: [AssessmentQuestionSet, Represents, container, Assessment, Questions., Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
 ---
 
 # AssessmentQuestionSet
+
+> Represents the container object for Assessment
+			Questions.
 
 # AssessmentQuestionSet
 
@@ -66,3 +70,36 @@ Before you deploy assessment question sets, we recommend that you review these c
 -   If an assessment question set with the same developer name exists in the target org, then deploying the question set updates the values of the other fields in the target org.
 -   If the questions associated with the assessment question set don't exist in the target org, deploying the assessment question set fails.
 -   If the questions associated with the assessment question set don’t exist in the target org but are available in the package, then deploying the assessment question sets inserts the questions in the correct order.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestionSet
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<developerName>QuestionSetDevName</developerName>
+	<name>QuestionSetName</name>
+	<assessmentQuestionDeveloperNames>QuestionDevName</assessmentQuestionDeveloperNames>
+</AssessmentQuestionSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>AssessmentQuestion</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>AssessmentQuestionSet</name>
+	</types>
+	<version>55.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

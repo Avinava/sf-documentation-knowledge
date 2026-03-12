@@ -5,11 +5,14 @@ topic: perform-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.478Z
-keywords: [Perform, Contract, Action, Supported, REST, HTTP, Methods, Inputs, Output, Usage]
+lastCollected: 2026-03-12T05:14:47.324Z
+estimatedTokens: 249
+keywords: [Perform, Contract, Action, actions, contract, based, its, status., Supported, REST, HTTP, Inputs, Output, Usage]
 ---
 
 # Perform Contract Action
+
+> Perform actions on a contract based on its status.
 
 # Perform Contract Action
 
@@ -65,4 +68,22 @@ This sample response is for the Perform Contract action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "contractId": "800SG00000HtyxxYAB",
+  "actionName": "activateContract"
+  "actionData": "{"testField": "testVal"}"
+}
+```
+
+```
+{
+  "contractId": [
+    "800SB00000KLbHxxA1"
+  ]
+}
 ```

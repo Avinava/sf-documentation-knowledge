@@ -5,11 +5,15 @@ topic: trigger-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.764Z
-keywords: [Trigger, Syntax]
+lastCollected: 2026-03-12T05:14:34.219Z
+estimatedTokens: 230
+keywords: [Trigger, Syntax, where, trigger_events, comma-separated, list, following, events]
 ---
 
 # Trigger Syntax
+
+> where trigger_events can be a comma-separated list of one or more of
+            the following events:
 
 # Trigger Syntax
 
@@ -31,3 +35,22 @@ The code block of a trigger cannot contain the static keyword. Triggers can only
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk.htm "Bulk Triggers")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm "Trigger Context Variables")
+
+## Code Examples
+
+```
+trigger TriggerName on ObjectName (trigger_events) {
+                     code_block
+                     }
+```
+
+```
+trigger myAccountTrigger on Account (before insert, before update) {
+    // Your code here
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_bulk.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables.htm)

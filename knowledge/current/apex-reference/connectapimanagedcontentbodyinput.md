@@ -5,11 +5,14 @@ topic: connectapimanagedcontentbodyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.266Z
-keywords: [ConnectApi.ManagedContentBodyInput, See]
+lastCollected: 2026-03-12T05:14:25.075Z
+estimatedTokens: 212
+keywords: [ConnectApi.ManagedContentBodyInput, Input, representation, body, piece, managed, content.]
 ---
 
 # ConnectApi.ManagedContentBodyInput
+
+> Input representation for the body of a piece of managed content.
 
 # ConnectApi.ManagedContentBodyInput
 
@@ -22,5 +25,10 @@ Input representation for the body of a piece of managed content.
 #### See Also
 
 -   [ConnectApi.ManagedContentDocumentInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_managed_content.htm "Input representation for a piece of managed content.")
-    
+
 -   [ConnectApi.ManagedContentVariantUpdateInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_managed_content_variant_update.htm "Input representation for replacing a managed content variant.")
+
+## Related Topics
+
+- ConnectApi.ManagedContentDocumentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_managed_content.htm)
+- ConnectApi.ManagedContentVariantUpdateInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_managed_content_variant_update.htm)

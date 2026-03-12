@@ -5,11 +5,15 @@ topic: affinityscoredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.196Z
-keywords: [AffinityScoreDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.420Z
+estimatedTokens: 900
+keywords: [AffinityScoreDefinition, Represents, affinity, information, used, calculations, analyze, categorize, contacts, marketing, purposes., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # AffinityScoreDefinition
+
+> Represents the affinity information used in calculations to analyze and categorize
+		contacts for marketing purposes.
 
 # AffinityScoreDefinition
 
@@ -70,3 +74,124 @@ This example shows a sample of the package.xml file that references the previous
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+{
+    "R ranges":"0-30, 31-100, 100+",
+    "F ranges":"0-10, 11-100, 100+",
+    "M ranges":"0-1000, 1001-5000, 5000+"
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AffinityScoreDefinition
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<affinityScoreDefinitionDesc>RFM Affinity Score</affinityScoreDefinitionDesc>
+	<affinityScoreDefinitionName>AffinityScoreDefinition_RFM</affinityScoreDefinitionName>
+	<affinityScoreType>RFM</affinityScoreType>
+	<masterLabel>MasterLabel</masterLabel>
+	<numberOfMonths>12</numberOfMonths>
+	<numberOfRanges>3</numberOfRanges>
+	<scoreRangeList>
+        [
+          {
+            "name": "R Ranges",
+            "direction": "ascending",
+            "ranges": [30,90,180]
+          },
+          {
+            "name": "F Ranges",
+            "direction": "descending",
+            "ranges": [10,15,100]
+          },
+          {
+            "name": "M Ranges",
+            "direction": "descending",
+            "ranges": [500,1000,5000]
+          }
+     ]
+      </scoreRangeList>
+	<sourceFieldApiNameList>
+        [
+          {
+            "name": "R Source",
+            "values": 
+                [
+                  {
+                    "fieldName": "DonorGiftSummary.DaysSinceLastGift",
+                    "fieldWeight": 1
+                  }
+                ]
+          },
+          {
+            "name": "F Source",
+            "values": 
+                [
+                  {
+                    "fieldName": "DonorGiftSummary.GiftCount",
+                    "fieldWeight": 1
+                  }
+                ]
+          },
+          {
+            "name": "M Source",
+            "values": 
+                [
+                  {
+                    "fieldName": "DonorGiftSummary.TotalGiftsCount",
+                    "fieldWeight": 1
+                  }
+                ]
+          }
+        ]
+      </sourceFieldApiNameList>
+	<targetFieldApiNameList>
+        [
+          {
+            "name": "R Target",
+            "values": 
+                [
+                  {
+                    "fieldName": "DonorGiftSummary.RecencyScore",
+                    "fieldWeight": 1
+                  }
+                ]
+          },
+          {
+            "name": "F Target",
+            "values": 
+                [
+                  {
+                    "fieldName": "DonorGiftSummary.FrequencyScore",
+                    "fieldWeight": 1
+                  }
+                ]
+          },
+          {
+            "name": "M Target",
+            "values": 
+                [
+                  {
+                    "fieldName": "DonorGiftSummary.MonetaryScore",
+                    "fieldWeight": 1
+                  }
+                ]
+          }
+        ]
+      </targetFieldApiNameList>
+</AffinityScoreDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>AffinityScoreDefinition</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

@@ -5,11 +5,14 @@ topic: service-process-layout-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.995Z
-keywords: [Service, Process, Layout, Data]
+lastCollected: 2026-03-12T05:14:49.486Z
+estimatedTokens: 93
+keywords: [Service, Process, Layout, Data, Retrieve, service, process, layout, data.]
 ---
 
 # Service Process Layout Data
+
+> Retrieve service process layout data.
 
 # Service Process Layout Data
 
@@ -36,3 +39,13 @@ GET
 Response body for GET
 
 [Service Process Request Layout Data](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_service_process_request_layout_data.htm "Service process layout data output.")
+
+## Code Examples
+
+```
+/connect/service-excellence/service-catalog-request/layout-data/case/Id
+```
+
+## Related Topics
+
+- Service Process Request Layout Data (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_service_process_request_layout_data.htm)

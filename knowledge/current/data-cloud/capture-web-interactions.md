@@ -5,11 +5,20 @@ topic: capture-web-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.470Z
-keywords: [Capture, Web, Interactions, Requirements, Tracking, User, Identity, Cookie, Management, Consent, Sitemap]
+lastCollected: 2026-03-12T05:14:12.534Z
+estimatedTokens: 1391
+namespace: SalesforceInteractions
+keywords: [Capture, Web, Interactions, Salesforce, SDK, extensible, data, capture, collection, framework, track, different, user, interactions, website, send, information, Salesforce., then, used]
 ---
 
 # Capture Web Interactions
+
+> Salesforce Interactions SDK is an extensible data capture and collection framework that
+    you can use to track different user interactions on your website and send that information to
+    Salesforce. This information can then be used to build behavior profiles for web visitors,
+    audience segmentation, or Salesforce integrations.
+
+**Namespace:** `SalesforceInteractions`
 
 # Capture Web Interactions
 
@@ -59,9 +68,46 @@ Capturing customer consent can be handled either through configuration or throug
 
 Salesforce Interactions SDK Sitemap is a configuration-driven integration layer that executes within and is deployed with the Web SDK. A Sitemap is developed to integrate with a specific site using the API provided by the Web SDK that maps key business objects to interaction events.
 
--   **[Event Specifications](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_event_specifications.htm)**  
+-   **[Event Specifications](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_event_specifications.htm)**
     Event specifications for Salesforce Interactions SDK.
--   **[API Reference](atlas.en-us.252.0.c360a_api.meta/c360a_api/c36a_api_api_reference.htm)**  
+-   **[API Reference](atlas.en-us.252.0.c360a_api.meta/c360a_api/c36a_api_api_reference.htm)**
     This section provides guidance around references provided with the Salesforce Interactions Web SDK.
--   **[Data Cloud Module of the Salesforce Interactions SDK](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_salesforce_cdp_module_of_the_salesforce_web_sdk.htm)**  
+-   **[Data Cloud Module of the Salesforce Interactions SDK](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_salesforce_cdp_module_of_the_salesforce_web_sdk.htm)**
     The Data Cloud Module of the Salesforce Interactions SDK is an extension that adds features to the SDK. You can convert the Event Structure into a compatible format for ingestion by Data Cloud and authenticate and deliver events over HTTP to a Data Cloud Web Connector.
+
+## Code Examples
+
+```
+SalesforceInteractions.sendEvent({
+    interaction : {
+        name : "View Catalog Object",
+        catalogObject: { 
+          type : "Product", 
+          id : "65e4e737",
+          attributes: {
+            description: "Shoes"
+          }
+        }
+    }
+})
+```
+
+```
+SalesforceInteractions.init({
+  consents: [{
+    provider: 'ExampleProvider',
+    purpose: 'Tracking',
+    status: 'Opt In'
+  }]
+})
+```
+
+## Related Topics
+
+- Data
+        Cloud (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_salesforce_cdp_module_of_the_salesforce_web_sdk.htm)
+- Identity (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_identity.htm)
+- Consent (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_consent.htm)
+- Event Specifications (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_event_specifications.htm)
+- API Reference (atlas.en-us.252.0.c360a_api.meta/c360a_api/c36a_api_api_reference.htm)
+- Data Cloud Module of the Salesforce Interactions SDK (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_salesforce_cdp_module_of_the_salesforce_web_sdk.htm)

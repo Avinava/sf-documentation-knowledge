@@ -5,11 +5,14 @@ topic: connectapiextensioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.128Z
-keywords: [ConnectApi.ExtensionInput, See]
+lastCollected: 2026-03-12T05:14:24.849Z
+estimatedTokens: 192
+keywords: [ConnectApi.ExtensionInput, extension.]
 ---
 
 # ConnectApi.ExtensionInput
+
+> An extension.
 
 # ConnectApi.ExtensionInput
 
@@ -25,3 +28,9 @@ An extension.
 #### See Also
 
 -   [ConnectApi.ExtensionsCapabilityInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_extensions_capability.htm "Create or update extensions associated with a feed element.")
+
+## Related Topics
+
+- ConnectApi.AlternativeInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_alternative.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ExtensionsCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_extensions_capability.htm)

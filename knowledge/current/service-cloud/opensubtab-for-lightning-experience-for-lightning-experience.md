@@ -5,11 +5,16 @@ topic: opensubtab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.299Z
-keywords: [openSubtab, Lightning, Experience, Arguments, Note, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.861Z
+estimatedTokens: 782
+keywords: [openSubtab, Lightning, Experience, Opens, subtab, within, workspace, tab., already, open, focused., works, only, console, apps., Arguments, Note, LWC, Sample, Code]
 ---
 
 # openSubtab() for Lightning Experience for Lightning Experience
+
+> Opens a subtab within a workspace tab. If the subtab is already open, the subtab is
+        focused. This method works only in
+   Lightning console apps.
 
 # openSubtab() for Lightning Experience for Lightning Experience
 
@@ -75,3 +80,54 @@ The relative URL used in this example is a placeholder. To try this example your
 ## Response
 
 This method returns a promise that, upon success, resolves to the ID of the new subtab.
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { EnclosingTabId, getTabInfo, openSubtab } from 'lightning/platformWorkspaceApi';
+
+export default class OpenSubtabExample extends LightningElement {
+  @wire(EnclosingTabId) tabId;
+
+  async handleClick() {
+    if (!this.tabId) {
+      return;
+    }
+
+    const tabInfo = await getTabInfo(this.tabId);
+    const primaryTabId = tabInfo.isSubtab ? tabInfo.parentTabId : tabInfo.tabId;
+
+    // Open a record as a subtab of the current tab
+    await openSubtab(primaryTabId, { recordId: 'YourRecordId', focus: true });
+  }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Open Tab with Subtab" onclick="{! c.openTabWithSubtab }" />
+ </aura:component>
+```
+
+```
+({
+    openTabWithSubtab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.openTab({
+            url: '/lightning/r/Account/001xx000003DI05AAG/view',
+            focus: true
+        }).then(function(response) {
+            workspaceAPI.openSubtab({
+                parentTabId: response,
+                url: '/lightning/r/Contact/003xx000004Ts30AAC/view',
+                focus: true
+            });
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

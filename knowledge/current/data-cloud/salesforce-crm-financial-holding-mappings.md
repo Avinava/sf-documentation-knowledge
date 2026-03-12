@@ -5,11 +5,15 @@ topic: salesforce-crm-financial-holding-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.113Z
-keywords: [Salesforce, CRM, Financial, Holding, Mappings, Usage, Data, Bundle, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.559Z
+estimatedTokens: 443
+keywords: [Salesforce, CRM, Financial, Holding, Mappings, data, mappings, FinancialHolding, DLO, found, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle, DMO, Mapping]
 ---
 
 # Salesforce CRM: Financial Holding Mappings
+
+> These data mappings are for the FinancialHolding DLO found in Financial Services Cloud
+  bundle of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Financial Holding Mappings
 

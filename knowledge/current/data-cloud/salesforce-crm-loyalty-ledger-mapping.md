@@ -5,11 +5,17 @@ topic: salesforce-crm-loyalty-ledger-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.257Z
-keywords: [Salesforce, CRM, Loyalty, Ledger, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.784Z
+estimatedTokens: 386
+keywords: [Salesforce, CRM, Loyalty, Ledger, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., ledger, contains, information, credited, debited, adjusted]
 ---
 
 # Salesforce CRM: Loyalty Ledger Mapping
+
+> These data mappings are for the Loyalty Ledger DLO found in the Loyalty Management
+  bundle of the Salesforce CRM Connector for Data Cloud. A ledger  contains information about
+  credited, debited, or adjusted member activity points by transaction
+  journals.
 
 # Salesforce CRM: Loyalty Ledger Mapping
 

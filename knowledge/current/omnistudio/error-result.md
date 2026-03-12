@@ -5,11 +5,15 @@ topic: error-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.421Z
-keywords: [Error, Result]
+lastCollected: 2026-03-12T05:14:50.144Z
+estimatedTokens: 114
+keywords: [Error, Result, Output, representation, errors, execution, expression, set.]
 ---
 
 # Error Result
+
+> Output representation of the errors in the execution of an expression
+      set.
 
 # Error Result
 

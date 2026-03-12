@@ -5,11 +5,17 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.686Z
-keywords: [RestrictionRule, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage, See]
+lastCollected: 2026-03-12T05:14:46.697Z
+estimatedTokens: 1113
+keywords: [RestrictionRule, Represents, restriction, rule, scoping, rule., EnforcementType, set, Restrict, controls, access, specified, users, designated, records., Scoping, default, records, without, restricting]
 ---
 
 # RestrictionRule
+
+> Represents a restriction rule or a scoping rule. A restriction rule has
+            EnforcementType set to Restrict and controls the access that specified users have to designated
+         records. A scoping rule has EnforcementType set to Scoping and controls the default records that your users
+         see without restricting access.
 
 # RestrictionRule
 
@@ -63,3 +69,37 @@ The following is an example of a RestrictionRule representing a scoping rule.
 #### See Also
 
 -   [https://developer.salesforce.com/docs/atlas.en-us.restriction\_rules.meta/restriction\_rules/restriction\_rules\_about.htm](https://developer.salesforce.com/docs/atlas.en-us.260.0.restriction_rules.meta/restriction_rules/restriction_rules_about.htm)
+
+## Code Examples
+
+```
+{
+    "FullName":"restriction_rule_tasks_you_own",
+    "Metadata": {
+        "active":true,
+        "description":"Allows users of a specific profile to see only tasks that they own.",
+        "enforcementType":"Restrict",
+        "masterLabel":"Tasks You Own",
+        "recordFilter":"OwnerId = $User.Id",
+        "targetEntity":"Task",
+        "userCriteria":"$User.ProfileId = '00exxxxxxxxxxxx'",
+        "version":1
+    }
+}
+```
+
+```
+{
+    "FullName":"Department A contact scoping rule",
+    "Metadata": {
+         "active":true,
+         "description":"View contacts from Department A.",
+         "enforcementType":"Scoping",
+         "masterLabel":"SR for Department A",
+         "recordFilter":"Department=$User.Department",
+         "targetEntity":"Contact",
+         "userCriteria":"$User.UserRoleId = '00Exxxxxxxxxxxx'",
+         "version":1
+    }
+}
+```

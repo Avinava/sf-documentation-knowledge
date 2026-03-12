@@ -5,11 +5,15 @@ topic: product-catalog-management-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.600Z
-keywords: [Product, Catalog, Management, Fields, Product2, See]
+lastCollected: 2026-03-12T05:14:08.998Z
+estimatedTokens: 701
+keywords: [Product, Catalog, Management, Fields, Product2, Standard, custom, fields, extend, standard, represent, information, products.]
 ---
 
 # Product Catalog Management Fields on Product2
+
+> Standard and custom fields extend the standard Product2 object for
+         use in Product Catalog Management to represent information about products.
 
 # Product Catalog Management Fields on Product2
 

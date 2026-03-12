@@ -5,11 +5,14 @@ topic: programming-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.053Z
-keywords: [Programming, Objects]
+lastCollected: 2026-03-12T05:14:44.402Z
+estimatedTokens: 1383
+keywords: [Programming, Objects, programming, objects, interact, programmatic, artifacts, Apex, Visualforce, Lightning.]
 ---
 
 # Programming Objects
+
+> Use programming objects to interact with programmatic artifacts: Apex, Visualforce, and Lightning.
 
 # Programming Objects
 
@@ -70,3 +73,16 @@ Represents a Lightning web component resource, such as HTML markup, JavaScript c
 [StaticResource](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_staticresource.htm "Represents the working copy of a static resource file for editing or saving. Static resources allow you to upload content that you can reference in a Visualforce page, including images, stylesheets, JavaScript, and other files. Available in Tooling API version 29.0 and later.")
 
 Represents the working copy of a static resource file for editing or saving. Static resources allow you to upload content that you can reference in a Visualforce page, including images, stylesheets, JavaScript, and other files.
+
+## Related Topics
+
+- ApexClass (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclass.htm)
+- ApexClassMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm)
+- ApexComponent (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcomponent.htm)
+- ApexComponentMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcomponentmember.htm)
+- ApexPage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpage.htm)
+- ApexPageMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm)
+- ApexTrigger (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextrigger.htm)
+- ApexTriggerMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm)
+- AuraDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_auradefinition.htm)
+- AuraDefinitionBundle (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_auradefinitionbundle.htm)

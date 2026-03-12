@@ -5,11 +5,17 @@ topic: contextpersistenceevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.925Z
-keywords: [ContextPersistenceEvent, Supported, Calls, Subscribers, Streaming, API, Subscription, Channel, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:53.877Z
+estimatedTokens: 428
+keywords: [ContextPersistenceEvent, Notifies, subscribers, Context, Persistence, event, initiated, API, completed, its, execution., designed, inform, customers, clients, success, failure, their, request., version]
 ---
 
 # ContextPersistenceEvent
+
+> Notifies subscribers when the Context Persistence event, initiated by the Context
+		Persistence API has completed its execution. This event is designed to inform
+		customers/clients about the success or failure of their Context Persistence request. This
+		object is available in API version 59.0 and later.
 
 # ContextPersistenceEvent
 

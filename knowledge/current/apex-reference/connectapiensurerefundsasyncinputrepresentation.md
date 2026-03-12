@@ -5,11 +5,17 @@ topic: connectapiensurerefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.119Z
-keywords: [ConnectApi.EnsureRefundsAsyncInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:24.834Z
+estimatedTokens: 675
+keywords: [ConnectApi.EnsureRefundsAsyncInputRepresentation, credit, memo, ensure, refunds, amount, excess, funds, refund, both., least, required., includes, any, invoices, fees, reduce, such, fees., multiple]
 ---
 
 # ConnectApi.EnsureRefundsAsyncInputRepresentation
+
+> ID of a credit memo to ensure refunds for, an amount of excess funds
+      to refund, or both. At least one is required. Also includes any invoices for fees that reduce
+      the refund amount, such as return fees. If multiple payment methods are available, you can
+      specify how to distribute the refund.
 
 # ConnectApi.EnsureRefundsAsyncInputRepresentation
 
@@ -27,3 +33,13 @@ ID of a credit memo to ensure refunds for, an amount of excess funds to refund, 
 #### See Also
 
 -   [ensureRefundsAsync(orderSummaryId, ensureRefundsInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm#apex_ConnectAPI_OrderSummary_ensureRefundsAsync_1 "Ensure refunds for a CreditMemo or excess funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and don’t affect the background operation status.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​InvoiceToPay​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_invoice_to_pay.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​Sequence​OrderPaymentSummary​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_sequence_order_payment_summary.htm)
+- ensureRefundsAsync(orderSummaryId, ensureRefundsInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm)

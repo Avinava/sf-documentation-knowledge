@@ -5,11 +5,15 @@ topic: connectapiensurefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.114Z
-keywords: [ConnectApi.EnsureFundsAsyncInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:24.824Z
+estimatedTokens: 402
+keywords: [ConnectApi.EnsureFundsAsyncInputRepresentation, Invoice, ensure, funds, apply, to.]
 ---
 
 # ConnectApi.EnsureFundsAsyncInputRepresentation
+
+> ID of an Invoice to ensure funds for and apply them
+    to.
 
 # ConnectApi.EnsureFundsAsyncInputRepresentation
 
@@ -25,3 +29,9 @@ ID of an Invoice to ensure funds for and apply them to.
 #### See Also
 
 -   [ensureFundsAsync(orderSummaryId, ensureFundsInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm#apex_ConnectAPI_OrderSummary_ensureFundsAsync_1 "Ensure funds for an Invoice and apply them to it and optional define a sequence to capture payments in. If needed, capture authorized funds by sending a request to a payment provider. This method inserts a background operation into an asynchronous job queue and returns the ID of that operation so you can track its status. Payment gateway responses appear in the payment gateway log and do not affect the background operation status.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ensureFundsAsync(orderSummaryId, ensureFundsInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummary_static_methods.htm)

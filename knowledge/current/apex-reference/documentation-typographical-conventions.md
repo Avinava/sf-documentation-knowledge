@@ -5,11 +5,14 @@ topic: documentation-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:42.300Z
-keywords: [Documentation, Typographical, Conventions]
+lastCollected: 2026-03-12T05:14:31.833Z
+estimatedTokens: 449
+keywords: [Documentation, Typographical, Conventions, Apex, Visualforce, documentation, uses, typographical, conventions.]
 ---
 
 # Documentation Typographical Conventions
+
+> Apex and Visualforce documentation uses these typographical conventions.
 
 # Documentation Typographical Conventions
 
@@ -24,3 +27,18 @@ Apex and Visualforce documentation uses these typographical conventions.
 | { } | In descriptions of syntax, braces ({ }) are typed exactly as shown.<apex:page>     Hello {!$User.FirstName}! </apex:page> |
 | [ ] | In descriptions of syntax, anything included in brackets is optional. In the following example, specifying value is optional: data_type variable_name [ = value]; |
 | \| | In descriptions of syntax, the pipe sign means “or”. You can do one of the following (not all). In the following example, you can create a new unpopulated set in one of two ways, or you can populate the set:Set<data_type> set_name     [= new Set<data_type>();] \|    [= new Set<data_type{value [, value2. . .] };] \|    ; |
+
+## Code Examples
+
+```
+<apex:page>
+    Hello {!$User.FirstName}!
+</apex:page>
+```
+
+```
+Set<data_type> set_name 
+   [= new Set<data_type>();] |
+   [= new Set<data_type{value [, value2. . .] };] |
+   ;
+```

@@ -5,11 +5,16 @@ topic: batchdatasrcfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.347Z
-keywords: [BatchDataSrcFilterCriteria, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:54.588Z
+estimatedTokens: 571
+keywords: [BatchDataSrcFilterCriteria, Represents, details, condition, filter, criteria, used, retrieve, records, data, source, batch, job., API, version, 66.0, later., Supported, Calls, Fields]
 ---
 
 # BatchDataSrcFilterCriteria
+
+> Represents the details of a condition in the filter criteria used to retrieve
+         records from the data source of a batch job. This object is available in API version
+      66.0 and later.
 
 # BatchDataSrcFilterCriteria
 

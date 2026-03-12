@@ -5,11 +5,15 @@ topic: get-appointment-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.197Z
-keywords: [Get, Appointment, Slots, Syntax, Note, Example]
+lastCollected: 2026-03-12T05:14:35.325Z
+estimatedTokens: 1775
+keywords: [Get, Appointment, Slots, list, appointment, time, slots, resource, based, given, work, group, service, territories., Syntax, Note, Example]
 ---
 
 # Get Appointment Slots
+
+> Returns a list of available appointment time slots for a resource based on given work
+    type group or work type and service territories.
 
 # Get Appointment Slots
 
@@ -27,7 +31,7 @@ The following factors affect how time slots are calculated and returned.
 -   The resource is considered unavailable If the status categories of the resource assigned to service appointments are other than Canceled, Cannot Complete, and Completed.
 -   Resource Absences of all types are considered unavailable from start to end.
 -   The following fields of Work Type records, if configured, are used to fine-tune time slot requirements. For more information, see [Create Work Types in Salesforce Scheduler](https://help.salesforce.com/s/articleView?id=platform.ls_create_work_types.htm&language=en_US).
-    
+
     | Parameter | Description |
     | --- | --- |
     | Timeframe Start | Time slots sooner than current time + Timeframe Start aren’t returned. |
@@ -35,16 +39,16 @@ The following factors affect how time slots are calculated and returned.
     | Block Time Before Appointment | The time period before the appointment is considered as unavailable. |
     | Block Time After Appointment | The time period after the appointment is considered as unavailable. |
     | Operating Hours | The overlap of all operating hours from the account, work type, service territory, and service territory member are considered while determining time slots. For more information, see Set Up Operating Hours in Salesforce Scheduler. |
-    
+
 -   Only the time slots within the period of 31 days from the start date are returned.
 -   Salesforce Scheduler uses multiple factors, such as field values, scheduled appointments, absences, Scheduler Settings, and Scheduling Policies to determine available time slots, including the earliest and latest appointment slots. See [How Does Salesforce Scheduler Determine Available Time Slots](https://help.salesforce.com/s/articleView?id=platform.ls_how_are_time_slots_determined.htm&type=5&language=en_US "HTML (New Window)").
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
-    
+
     #### Note
-    
+
     If asset scheduling is enabled, you can provide an asset-based service resource in requiredResourceIds to retrieve available timeslots for the asset resource.
-    
+
 
 ## Syntax
 
@@ -124,3 +128,72 @@ Example Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+  "startTime": "2019-01-23T00:00:00.000Z",
+  "endTime": "2019-02-28T00:00:00.000Z",
+  "workTypeGroupId": "0VSB0000000KyjBOAS",
+  "accountId": "001B000000qAUAWIA4",
+  "territoryIds": [
+    "0HhB0000000TO9WKAW"
+  ],
+  "schedulingPolicyId": "0VrB0000000KyjB",
+  "requiredResourceIds": [
+    "0HnB0000000TO8gKAK"
+  ],
+  "engagementChannelTypeIds": [
+    "0eFRM00000000Bv2AI"
+  ]
+}
+```
+
+```
+{
+  "startTime": "2019-01-23T00:00:00.000Z",
+  "endTime": "2019-02-28T00:00:00.000Z",
+  "workType": {
+    "id": "08qRM00000003fkYAA"
+  },
+  "requiredResourceIds": [
+    "0HnB0000000TO8gKAK"
+  ],
+  "territoryIds": [
+    "0HhRM00000003OZ0AY"
+  ],
+  "accountId": "001B000000qAUAWIA4",
+  "schedulingPolicyId": "0VrB0000000KyjB",
+  "engagementChannelTypeIds": [
+    "0eFRM00000000Bv2AI"
+  ]
+}
+```
+
+```
+{
+  "timeSlots": [
+    {
+      "endTime": "2019-01-21T19:15:00.000+0000",
+      "startTime": "2019-01-21T16:15:00.000+0000",
+      "territoryId": "0HhB0000000TO9WKAW"
+    },
+    {
+      "endTime": "2019-01-21T19:30:00.000+0000",
+      "startTime": "2019-01-21T16:30:00.000+0000",
+      "territoryId": "0HhB0000000TO9WKAW"
+    },
+    {
+      "endTime": "2019-01-21T19:45:00.000+0000",
+      "startTime": "2019-01-21T16:45:00.000+0000",
+      "territoryId": "0HhB0000000TO9WKAW"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Work Type (atlas.en-us.api_rest.meta/api_rest/request_body_ls_worktype.htm)
+- TimeSlots (atlas.en-us.api_rest.meta/api_rest/responses_ls_timeslots.htm)

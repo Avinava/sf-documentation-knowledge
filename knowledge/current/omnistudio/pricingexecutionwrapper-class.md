@@ -5,11 +5,18 @@ topic: pricingexecutionwrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.696Z
-keywords: [PricingExecutionWrapper, Class, Namespace, Usage]
+lastCollected: 2026-03-12T05:14:47.575Z
+estimatedTokens: 217
+namespace: Usage
+keywords: [PricingExecutionWrapper, Contains, call, utility, integration, procedures, used, Digital, Lending, Flexcards., Usage]
 ---
 
 # PricingExecutionWrapper Class
+
+> Contains the methods to call utility methods from integration
+            procedures used in Digital Lending Flexcards.
+
+**Namespace:** `Usage`
 
 # PricingExecutionWrapper Class
 
@@ -23,5 +30,10 @@ Contains the methods to call utility methods from integration procedures used in
 
 To use this method in an Integration Procedure, specify the class in theRemote Class property, the action in the Remote Method property, and the arguments in the Additional Input property.
 
--   **[PricingExecutionWrapper Methods](atlas.en-us.industries_reference.meta/industries_reference/apex_industriesdigitallending_PricingExecutionWrapper_methods.htm)**  
+-   **[PricingExecutionWrapper Methods](atlas.en-us.industries_reference.meta/industries_reference/apex_industriesdigitallending_PricingExecutionWrapper_methods.htm)**
     The PricingExecutionWrapper class includes these methods.
+
+## Related Topics
+
+- industriesdigitallending Namespace (atlas.en-us.industries_reference.meta/industries_reference/apex_namespace_industriesdigitallending.htm)
+- PricingExecutionWrapper Methods (atlas.en-us.industries_reference.meta/industries_reference/apex_industriesdigitallending_PricingExecutionWrapper_methods.htm)

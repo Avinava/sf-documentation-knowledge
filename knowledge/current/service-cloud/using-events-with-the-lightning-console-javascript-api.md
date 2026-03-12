@@ -5,11 +5,16 @@ topic: using-events-with-the-lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:50.090Z
-keywords: [Events, Lightning, Console, JavaScript, API, Work, Web, Components, LWC, Subscribe, LMS, Channels, Aura, See]
+lastCollected: 2026-03-12T05:14:57.559Z
+estimatedTokens: 952
+keywords: [Events, Lightning, Console, JavaScript, API, framework, uses, event-driven, programming, which, allows, create, handlers, respond, events, they, occur., provides, several, specific]
 ---
 
 # Using Events with the Lightning Console JavaScript API
+
+> The Lightning framework uses event-driven programming, which allows you to create
+    handlers to respond to interface events as they occur. The Lightning Console JavaScript API
+    provides several events specific to Lightning console apps.
 
 # Using Events with the Lightning Console JavaScript API
 
@@ -65,7 +70,71 @@ You can use Lightning console events with the Workspace API and Utility Bar API 
 #### See Also
 
 -   [Events for](atlas.en-us.api_console.meta/api_console/sforce_api_console_events_lightning.htm "Use events and handlers in your Aura components and controllers to respond to events like workspace tabs opening, closing, or gaining focus. In Lightning web components, subscribe to Aura application events using their corresponding Lightning message channels.")
-    
+
 -   [Trailhead: Connect Components with Events](https://trailhead.salesforce.com/modules/lex_dev_lc_basics/units/lex_dev_lc_basics_events)
-    
+
 -   [*Lightning Aura Components Developer Guide*: Communicating with Events](https://developer.salesforce.com/docs/atlas.en-us.260.0.lightning.meta/lightning/events_intro.htm)
+
+## Code Examples
+
+```
+import { LightningElement, wire} from 'lwc';
+import { MessageContext, subscribe, unsubscribe } from 'lightning/messageService';
+import tabCreatedChannel from "@salesforce/messageChannel/lightning__tabCreated";
+
+export default class MyComponent extends LightningElement {
+   @wire(MessageContext) messageContext;
+   messageSubscription = null;
+  
+   connectedCallback() {
+      this.unsubscribe();
+      this.messageSubscription = subscribe(this.messageContext, tabCreatedChannel, (message) => {
+        this.handleMessage(message);
+      });
+   }
+   disconnectedCallback() {
+      this.unsubscribe();
+   }
+  
+   unsubscribe() {
+      if (!this.messageSubscription) {
+         return;
+      }
+      unsubscribe(this.messageSubscription);
+      this.messageSubscriptions = null;
+   }
+   
+   handleMessage(message) {
+     if (!message || !message.tabId) {
+        return;
+     }
+     const tabId = { message };
+     console.log(`Tab with tabId of ${tabId} is created.`);
+   }
+}
+```
+
+```
+<aura:handler event="lightning:tabCreated" action="{! c.onTabCreated }"/>
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+<aura:handler event="lightning:tabClosed" action="{! c.onTabClosed }"/>
+</aura:component>
+```
+
+```
+({
+  onTabClosed : function(component, event, helper) {
+    var tabId = event.getParam("tabId");
+    alert(“Tab with tabId of “ + tabId + “ was just closed.”);
+  }
+})
+```
+
+## Related Topics
+
+- Aura tab
+        events (atlas.en-us.api_console.meta/api_console/sforce_api_console_events_lightning.htm)
+- Events for (atlas.en-us.api_console.meta/api_console/sforce_api_console_events_lightning.htm)

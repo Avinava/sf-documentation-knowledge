@@ -5,11 +5,16 @@ topic: authorization-form-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.665Z
-keywords: [Authorization, Form, Consent, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.867Z
+estimatedTokens: 843
+keywords: [Authorization, Form, Consent, DMO, Data, Cloud, data, model, captures, where, how, party, gives, consent, form, set, terms, conditions, privacy, policy.]
 ---
 
 # Authorization Form Consent DMO
+
+> The Authorization Form Consent DMO is a Data Cloud data model object (DMO). This DMO
+      captures the where, when, and how a party gives consent for a form, a set of terms and
+      conditions, or a privacy policy.
 
 # Authorization Form Consent DMO
 

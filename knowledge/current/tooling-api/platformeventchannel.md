@@ -5,11 +5,16 @@ topic: platformeventchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.506Z
-keywords: [PlatformEventChannel, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage, Note, See]
+lastCollected: 2026-03-12T05:14:46.439Z
+estimatedTokens: 1657
+keywords: [PlatformEventChannel, Represents, custom, channel, subscribe, order, receive, stream, change, data, capture, events., Supported, SOAP, Calls, REST, HTTP, Special, Access, Rules]
 ---
 
 # PlatformEventChannel
+
+> Represents a custom channel that you can
+            subscribe to in order to receive a stream of change data capture
+        events.
 
 # PlatformEventChannel
 
@@ -69,8 +74,28 @@ You can query custom channels in SOQL over Tooling API but not the standard chan
 
 -   [*Change Data Capture Developer Guide*: Subscription Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_subscribe_channels.htm "Change Data Capture Developer Guide: Subscription
     Channels - HTML (New Window)")
-    
+
 -   [*Change Data Capture Developer Guide*: Compose Streams of Change Data Capture Notifications with Custom Channels](https://developer.salesforce.com/docs/atlas.en-us.260.0.change_data_capture.meta/change_data_capture/cdc_custom_channel.htm "Change Data Capture Developer Guide: Compose Streams of
     Change Data Capture Notifications with Custom Channels - HTML (New Window)")
-    
+
 -   [PlatformEventChannelMember](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_platformeventchannelmember.htm "Represents an entity selected for Change Data Capture notifications on a standard or custom channel, or a platform event selected on a custom channel.")
+
+## Code Examples
+
+```
+{
+  "FullName": "SalesEvents__chn",
+  "Metadata": {
+    "channelType": "data",
+    "label": "My Custom Channel"
+  }
+}
+```
+
+```
+SELECT Id, DeveloperName, ChannelType, MasterLabel FROM PlatformEventChannel
+```
+
+## Related Topics
+
+- PlatformEventChannelMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_platformeventchannelmember.htm)

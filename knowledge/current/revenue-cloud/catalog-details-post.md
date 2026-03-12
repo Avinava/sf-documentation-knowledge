@@ -5,11 +5,15 @@ topic: catalog-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.245Z
-keywords: [Catalog, Details, POST]
+lastCollected: 2026-03-12T05:14:06.650Z
+estimatedTokens: 241
+keywords: [Catalog, Details, POST, Get, catalog, details, specified, ID., API, composite, Product, Discovery.]
 ---
 
 # Catalog Details (POST)
+
+> Get catalog details for a specified catalog ID. This API is a
+      composite API for Product Discovery.
 
 # Catalog Details (POST)
 
@@ -53,3 +57,29 @@ Properties
 Response body for POST
 
 [CPQ Base Details](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_details_output.htm "Output representation of the catalog, category, or product details based on the request.")
+
+## Code Examples
+
+```
+/connect/cpq/catalogs/catalogId
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/catalogs/0ZSxx000000009hGAA
+```
+
+```
+{
+  "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
+  "userContext": {
+     "accountId": "001xx0000000001AAA",
+     "contactId": "003xx00000000D7AAI"
+  }
+}
+```
+
+## Related Topics
+
+- User Context Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)
+- CPQ Base
+              Details (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_details_output.htm)

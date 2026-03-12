@@ -6,12 +6,17 @@ topic: digitalexperiencebundle-site-workspace-bundle-and-folders
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.969Z
-keywords: [DigitalExperienceBundle, Site, Workspace, Bundle, Folders, sfdc, _cms, _appPage, Folder, _brandingSet, _languageSettings, _route, _site, _theme, _themeLayout, Note, _view]
+lastCollected: 2026-03-12T05:14:38.887Z
+estimatedTokens: 8426
+keywords: [DigitalExperienceBundle, Site, Workspace, Bundle, Folders, uses, site, workspace, organize, data, enhanced, LWR, sites, content-focused, text-based, code, structure., sfdc, _cms, _appPage]
 ---
 
 # DigitalExperienceBundle: Site Workspace Bundle and
 		Folders
+
+> DigitalExperienceBundle uses the site workspace
+		type to organize data for enhanced LWR sites in a content-focused, text-based code
+		structure.
 
 # DigitalExperienceBundle: Site Workspace Bundle and Folders
 
@@ -307,3 +312,265 @@ If there are specific style overrides for mobile or tablet views in the target o
 | viewType | Field TypestringDescriptionRequired.Identifies the type of view. The viewType value must be unique within a workspace. This value must match the routeType value in the corresponding route content item. |
 
 { "type" : "sfdc\_cms\_\_view", "title" : "Home", "contentBody" : { "themeLayoutType" : "Inner", "viewType" : "home", "component" : { "id" : "40c14c97-1846-4872-8e9e-cdf3d11beb34", "type" : "component", "children" : \[ { "title" : "Content", "id" : "c507f23d-6e2a-457a-9656-2377846dd639", "type" : "region", "children" : \[ { "id" : "21f99012-3a2f-488e-bf48-f782dc7b4300", "type" : "component", "children" : \[ { "title" : "Column 1", "id": "05224a3a-8044-4bfb-9187-b3f43155344d", "type" : "region", "children" : \[ { "id" : "05224a3a-8044-4bfb-9187-b3f43155344d", "type" : "component", "definition" : "community\_builder:htmlEditor", "attributes" : { "dxpStyle" : { "isVisible" : false, "margin" : { "bottom" : "20px", "left" : "20px", "right" : "20px", "top" : "20px" }, "padding" : { "bottom" : "20px", "left" : "20px", "right" : "20px", "top" : "20px" } }, "richTextValue" : "<div style="display: flex; justify-content: center; align-items: center; margin: 50px 0; flex-direction: column; text-align: center;"><div style="background-image: url(assets/img/desert.svg); background-size: cover; background-position: center; height: 300px; width: 100%; max-width: 600px; min-width: 300px;"></div><h1 class="slds-text-heading\_medium slds-p-bottom\_x-small">Start Building Your Page</h1> <div>Drag and drop a component into the content slots.</div></div>" }, "variations": \[ { "id": "5d700461-4c2a-4930-98e5-366ec2a4d41e", "title": "Variation Country USA", "type": "mutationComponent", "definition": "community\_builder:htmlEditor", "attributes": { "richTextValue": "<div style="display: flex; justify-content: center; align-items: center; margin: 50px 0; flex-direction: column; text-align: center;"><div style="background-image: url(assets/img/desert.svg); background-size: cover; background-position: center; height: 300px; width: 100%; max-width: 600px; min-width: 300px;"></div><h1 class="slds-text-heading\_medium slds-p-bottom\_x-small">Start Building Your Page</h1> <div>Drag and drop a component into the content slots.</div></div>" } } \] "customCssClasses": "myClass" } \], "name" : "col1" } \], "definition" : "community\_layout:section", "attributes" : { "backgroundImageConfig" : "", "backgroundImageOverlay" : "rgba(0,0,0,0)", "sectionConfig" : "{"UUID":"21f99012-3a2f-488e-bf48-f782dc7b4300","columns":\[{"UUID":"5019aeeb-6437-4194-8369-22c19aa45dc9","columnName":"Column 1","columnKey":"col1","columnWidth":"12","seedComponents":null}\]}" } } \], "name" : "content" }, { "title" : "sfdcHiddenRegion", "id" : "8157e041-9c41-460a-b596-c45babbbd53b", "type" : "region", "children" : \[ { "id" : "2d536aae-a859-4264-ba9e-9a569daf7213", "type" : "component", "definition" : "community\_builder:seoAssistant", "attributes" : { "customHeadTags" : "", "description" : "", "pageTitle" : "Home", "recordId" : "{!recordId}" } } \], "name" : "sfdcHiddenRegion" } \], "definition": "community\_layout:sldsFlexibleLayout" }, "contentOperations": { "operations": \[ { "targetId": "05224a3a-8044-4bfb-9187-b3f43155344d", "isHiddenOnOperationSuccess": false, "isActive": true, "rule": { "name": "a53bb452-003f-4015-a751-0403c70731a1", "description": "", "criteriaType": "AllCriteriaMatch", "expressionCriteria": \[ { "resource": "User.isGuest", "operator": "Equal", "value": false } \] } }, { "targetId": "05224a3a-8044-9h2h-9187-b3f43155344d", "ruleToVariationList": \[ { "variationId": "5d700461-4c2a-4930-98e5-366ec2a4d41e", "rule": { "name": "6e1ea488-13d8-477a-a9d7-93f442cc7936", "description": "", "criteriaType": "CustomLogicMatches", "customFormula": "(1 && 3) || 2", "expressionCriteria": \[ { "resource": "User.Record.Country", "operator": "Equal", "value": "USA", "criterionNumber": 1 }, { "resource": "User.Record.City", "operator": "Equal", "value": "Chicago", "criterionNumber": 2 }, { "resource": "User.Record.PostalCode", "operator": "Equal", "value": "60131", "criterionNumber": 3 } \] } } \] } \] } } }
+
+## Code Examples
+
+```
+{
+  "type" : "sfdc_cms__appPage",
+  "title" : "main",
+  "contentBody" : {
+    "currentThemeId" : "Build_Your_Own_LWR",
+    "headMarkup" : "<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Welcome to LWC Communities!</title>
+
+<link rel="stylesheet" href="{ basePath }/assets/styles/styles.css?{ versionKey }" />
+
+
+<!-- webruntime-branding-shared stylesheets -->
+<link rel="stylesheet" href="{ basePath }/assets/styles/salesforce-lightning-design-system.min.css?{ versionKey }" />
+<link rel="stylesheet" href="{ basePath }/assets/styles/dxp-site-spacing-styling-hooks.min.css?{ versionKey }" />
+<link rel="stylesheet" href="{ basePath }/assets/styles/dxp-styling-hooks.min.css?{ versionKey }" />
+<link rel="stylesheet" href="{ basePath }/assets/styles/dxp-slds-extensions.min.css?{ versionKey }" />
+
+
+<!-- webruntime-branding-shared stylesheets -->",
+    "isLockerServiceEnabled" : true,
+    "isRelaxedCSPLevel" : false,
+    "templateName" : "talon-template-byo"
+  }
+}
+```
+
+```
+{
+  "type" : "sfdc_cms__brandingSet",
+  "title" : "Build Your Own (LWR)",
+  "contentBody" : {
+    "brandingSetType" : "APP",
+    "definitionName" : "talon-template-byo:branding",
+    "values" : {
+      "BackgroundColor" : "#ffffff",
+      "BaseFontSize" : "1rem",
+      "BodyFont" : "Salesforce Sans",
+      "BodyFontSize" : "1rem",
+      "BodyFontStyle" : "normal",
+      "BodyFontWeight" : "400",
+      "BodyLetterSpacing" : "0em",
+      "BodyLineHeight" : "1.5",
+      "BodySmallFont" : "Salesforce Sans",
+      "BodySmallFontSize" : "0.75rem",
+      "BodySmallFontStyle" : "normal",
+      "BodySmallFontWeight" : "400",
+      "BodySmallLetterSpacing" : "0em",
+      "BodySmallLineHeight" : "1.25",
+      "BodySmallTextColor" : "var(--dxp-g-root-contrast)",
+      "BodySmallTextDecoration" : "none",
+      "BodySmallTextTransform" : "none",
+      "BodyTextColor" : "var(--dxp-g-root-contrast)",
+      "BodyTextDecoration" : "none",
+      "BodyTextTransform" : "none",
+      "ButtonActiveColor" : "var(--dxp-s-button-color-1)",
+      "ButtonBorderRadius" : "4px",
+      "ButtonColor" : "var(--dxp-g-brand)",
+      "ButtonFocusColor" : "var(--dxp-s-button-color-1)",
+      "ButtonFont" : "Salesforce Sans",
+      "ButtonFontSize" : "1rem",
+      "ButtonFontStyle" : "normal",
+      "ButtonFontWeight" : "400",
+      "ButtonHoverColor" : "var(--dxp-s-button-color-1)",
+      "ButtonLargeBorderRadius" : "4px",
+      "ButtonLargeFontSize" : "1.25rem",
+      "ButtonLargePadding" : "1.25rem",
+      "ButtonLetterSpacing" : "0em",
+      "ButtonLineHeight" : "2",
+      "ButtonPadding" : "1rem",
+      "ButtonSmallBorderRadius" : "4px",
+      "ButtonSmallFontSize" : "0.75rem",
+      "ButtonSmallPadding" : "0.75rem",
+      "ButtonTextTransform" : "none",
+      "ColumnSpacerSizeDesktop" : "1rem",
+      "ColumnSpacerSizeMobile" : "0.75rem",
+      "ComponentSpacerSizeDesktop" : "1.5rem",
+      "ComponentSpacerSizeMobile" : "1.5rem",
+      "DropdownBackgroundColor" : "var(--dxp-g-root)",
+      "DropdownBackgroundHoverColor" : "var(--dxp-g-neutral)",
+      "DropdownBorderColor" : "var(--dxp-g-neutral)",
+      "DropdownTextColor" : "var(--dxp-g-root-contrast)",
+      "DropdownTextHoverColor" : "var(--dxp-g-neutral-contrast)",
+      "FormElementBackgroundColor" : "var(--dxp-g-root)",
+      "FormElementBorderColor" : "var(--dxp-g-neutral-3)",
+      "FormElementBorderRadius" : "4px",
+      "FormElementBorderWidth" : "1px",
+      "FormElementLabelColor" : "var(--dxp-g-root-contrast)",
+      "FormElementTextColor" : "var(--dxp-g-root-contrast)",
+      "HeadingExtraLargeColor" : "var(--dxp-g-root-contrast)",
+      "HeadingExtraLargeFont" : "Salesforce Sans",
+      "HeadingExtraLargeFontSize" : "2.5rem",
+      "HeadingExtraLargeFontStyle" : "normal",
+      "HeadingExtraLargeFontWeight" : "300",
+      "HeadingExtraLargeLetterSpacing" : "0em",
+      "HeadingExtraLargeLineHeight" : "1.25",
+      "HeadingExtraLargeTextDecoration" : "none",
+      "HeadingExtraLargeTextTransform" : "none",
+      "HeadingLargeColor" : "var(--dxp-g-root-contrast)",
+      "HeadingLargeFont" : "Salesforce Sans",
+      "HeadingLargeFontSize" : "1.75rem",
+      "HeadingLargeFontStyle" : "normal",
+      "HeadingLargeFontWeight" : "300",
+      "HeadingLargeLetterSpacing" : "0em",
+      "HeadingLargeLineHeight" : "1.25",
+      "HeadingLargeTextDecoration" : "none",
+      "HeadingLargeTextTransform" : "none",
+      "HeadingMediumColor" : "var(--dxp-g-root-contrast)",
+      "HeadingMediumFont" : "Salesforce Sans",
+      "HeadingMediumFontSize" : "1.25rem",
+      "HeadingMediumFontStyle" : "normal",
+      "HeadingMediumFontWeight" : "300",
+      "HeadingMediumLetterSpacing" : "0em",
+      "HeadingMediumLineHeight" : "1.25",
+      "HeadingMediumTextDecoration" : "none",
+      "HeadingMediumTextTransform" : "none",
+      "HeadingSmallColor" : "var(--dxp-g-root-contrast)",
+      "HeadingSmallFont" : "Salesforce Sans",
+      "HeadingSmallFontSize" : "1.125rem",
+      "HeadingSmallFontStyle" : "normal",
+      "HeadingSmallFontWeight" : "300",
+      "HeadingSmallLetterSpacing" : "0em",
+      "HeadingSmallLineHeight" : "1.25",
+      "HeadingSmallTextDecoration" : "none",
+      "HeadingSmallTextTransform" : "none",
+      "HorizontalRowPaddingDesktop" : "1rem",
+      "HorizontalRowPaddingMobile" : "0.75rem",
+      "LinkColor" : "var(--dxp-g-brand)",
+      "LinkHoverColor" : "var(--dxp-s-link-text-color-1)",
+      "LinkTextDecoration" : "none",
+      "LinkTextDecorationFocus" : "underline",
+      "LinkTextDecorationHover" : "underline",
+      "MaxContentWidthDesktop" : "1800px",
+      "MaxContentWidthMobile" : "none",
+      "MobileBaseFontSize" : "1rem",
+      "PrimaryAccentColor" : "#005fb2",
+      "PrimaryAccentForegroundColor" : "#ffffff",
+      "SiteLogo" : "",
+      "TextColor" : "#1a1b1e",
+      "VerticalRowPaddingDesktop" : "1rem",
+      "VerticalRowPaddingMobile" : "0.75rem",
+      "_BackgroundColor1" : "#ebebeb",
+      "_BackgroundColor2" : "#c2c2c2",
+      "_BackgroundColor3" : "#858585",
+      "_ButtonActiveColorContrast" : "var(--dxp-g-brand-contrast-1)",
+      "_ButtonColor1" : "var(--dxp-g-brand-1)",
+      "_ButtonColorContrast" : "var(--dxp-g-brand-contrast)",
+      "_ButtonFocusColorContrast" : "var(--dxp-g-brand-contrast-1)",
+      "_ButtonHoverColorContrast" : "var(--dxp-g-brand-contrast-1)",
+      "_DestructiveColor" : "#c23934",
+      "_DestructiveColor1" : "#a2302b",
+      "_DestructiveColor2" : "#611d1a",
+      "_DestructiveColor3" : "#010000",
+      "_DestructiveForegroundColor" : "#ffffff",
+      "_DestructiveForegroundColor1" : "#ffffff",
+      "_DestructiveForegroundColor2" : "#ffffff",
+      "_DestructiveForegroundColor3" : "#ffffff",
+      "_InfoColor" : "#16325c",
+      "_InfoColor1" : "#0e203b",
+      "_InfoColor2" : "#000000",
+      "_InfoColor3" : "#000000",
+      "_InfoForegroundColor" : "#ffffff",
+      "_InfoForegroundColor1" : "#ffffff",
+      "_InfoForegroundColor2" : "#ffffff",
+      "_InfoForegroundColor3" : "#ffffff",
+      "_LinkColor1" : "var(--dxp-g-brand-1)",
+      "_NeutralColor" : "#ecebea",
+      "_NeutralColor1" : "#d9d7d5",
+      "_NeutralColor2" : "#b2aeaa",
+      "_NeutralColor3" : "#76716b",
+      "_NeutralForegroundColor" : "#000000",
+      "_NeutralForegroundColor1" : "#000000",
+      "_NeutralForegroundColor2" : "#000000",
+      "_NeutralForegroundColor3" : "#ffffff",
+      "_OfflineColor" : "#444444",
+      "_OfflineColor1" : "#303030",
+      "_OfflineColor2" : "#070707",
+      "_OfflineColor3" : "#000000",
+      "_OfflineForegroundColor" : "#ffffff",
+      "_OfflineForegroundColor1" : "#ffffff",
+      "_OfflineForegroundColor2" : "#ffffff",
+      "_OfflineForegroundColor3" : "#ffffff",
+      "_PrimaryAccentColor1" : "#004989",
+      "_PrimaryAccentColor2" : "#001e38",
+      "_PrimaryAccentColor3" : "#000000",
+      "_PrimaryAccentForegroundColor1" : "#ffffff",
+      "_PrimaryAccentForegroundColor2" : "#ffffff",
+      "_PrimaryAccentForegroundColor3" : "#ffffff",
+      "_SiteLogoUrl" : "",
+      "_SuccessColor" : "#4bca81",
+      "_SuccessColor1" : "#36b66c",
+      "_SuccessColor2" : "#237747",
+      "_SuccessColor3" : "#07190f",
+      "_SuccessForegroundColor" : "#000000",
+      "_SuccessForegroundColor1" : "#000000",
+      "_SuccessForegroundColor2" : "#ffffff",
+      "_SuccessForegroundColor3" : "#ffffff",
+      "_TextColor1" : "#000000",
+      "_TextColor2" : "#000000",
+      "_TextColor3" : "#000000",
+      "_WarningColor" : "#ffb75d",
+      "_WarningColor1" : "#ffa534",
+      "_WarningColor2" : "#e27d00",
+      "_WarningColor3" : "#673900",
+      "_WarningForegroundColor" : "#000000",
+      "_WarningForegroundColor1" : "#000000",
+      "_WarningForegroundColor2" : "#000000",
+      "_WarningForegroundColor3" : "#ffffff"
+    }
+  }
+}
+```
+
+```
+{
+  "type" : "sfdc_cms__languageSettings",
+  "title" : "LanguageContent",
+  "contentBody" : {
+    "languages" : [ {
+      "locale" : "en_US",
+      "label" : "English (US)",
+      "isActive" : true,
+      "isAuthoringOnly" : false
+    } ],
+    "defaultLocale" : "en_US"
+  }
+}
+```
+
+```
+{
+  "type" : "sfdc_cms__route",
+  "title" : "Error",
+  "contentBody" : {
+    "activeViewId" : "error",
+    "configurationTags" : [ ],
+    "pageAccess" : "UseParent",
+    "routeType" : "error",
+    "urlPrefix" : "error"
+  }
+}
+```
+
+```
+{
+  "type" : "sfdc_cms__site",
+  "title" : "Capricorn_Coffee",
+  "contentBody" : {
+    "authenticationType" : "AUTHENTICATED"
+  }
+}
+```
+
+## Related Topics
+
+- DigitalExperienceConfig (atlas.en-us.api_meta.meta/api_meta/meta_digitalexperienceconfig.htm)
+- _meta.json (atlas.en-us.api_meta.meta/api_meta/meta_digitalexperiencebundle.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)

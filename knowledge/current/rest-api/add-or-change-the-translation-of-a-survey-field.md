@@ -5,11 +5,16 @@ topic: add-or-change-the-translation-of-a-survey-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.142Z
-keywords: [Add, Change, Translation, Survey, Field, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.246Z
+estimatedTokens: 329
+keywords: [Add, Change, Translation, Survey, Field, survey, field, translated, already, particular, language, add, change, field., resource, REST, API, version, 48.0, later.]
 ---
 
 # Add or Change the Translation of a Survey Field
+
+> If a survey field can be translated or is already translated into a particular language,
+		you can add or change the translated value of the survey field. This resource is available
+		in REST API version 48.0 and later.
 
 # Add or Change the Translation of a Survey Field
 
@@ -68,4 +73,23 @@ Response parameters
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+"value": "China"
+}
+```
+
+```
+{
+  "createdBy": "005xxx",
+  "createdDate": "2018-09-14T00:10:30Z",
+  "developerName": "Flow.Flow.MyFlow.1.Choice.Choice_1_Master.InputLabel",
+  "language": "zh_CN",
+  "value": "中國",
+  "isOutOfDate": true
+}
 ```

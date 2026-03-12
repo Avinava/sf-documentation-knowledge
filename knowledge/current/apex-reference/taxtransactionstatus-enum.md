@@ -5,11 +5,15 @@ topic: taxtransactionstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.488Z
-keywords: [TaxTransactionStatus, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.643Z
+estimatedTokens: 176
+keywords: [TaxTransactionStatus, Shows, whether, tax, transaction, committed, uncommitted., Usage, Values]
 ---
 
 # TaxTransactionStatus Enum
+
+> Shows whether the tax transaction has been committed or
+      uncommitted.
 
 # TaxTransactionStatus Enum
 
@@ -27,3 +31,7 @@ The commercetax.TaxTransactionStatus enum includes these values.
 | --- | --- |
 | Committed | Tax has been calculated and committed. |
 | Uncommitted | Tax has been calculated but hasn't been committed. |
+
+## Related Topics
+
+- CalculateTaxResponse (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_CalculateTaxResponse.htm)

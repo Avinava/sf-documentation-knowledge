@@ -5,11 +5,14 @@ topic: mapped-attribute-data-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.585Z
-keywords: [Mapped, Attribute, Data, Type]
+lastCollected: 2026-03-12T05:14:50.368Z
+estimatedTokens: 106
+keywords: [Mapped, Attribute, Data, Output, representation, context, attribute, mapping, data, information.]
 ---
 
 # Mapped Attribute Data Type
+
+> Output representation of the context attribute mapping data type information.
 
 # Mapped Attribute Data Type
 

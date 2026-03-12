@@ -5,11 +5,15 @@ topic: timesheettemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.878Z
-keywords: [TimeSheetTemplateAssignment, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.975Z
+estimatedTokens: 353
+keywords: [TimeSheetTemplateAssignment, Represents, assignment, time, sheet, template, profile., API, version, 48.0, later., Supported, SOAP, Calls, REST, HTTP, Limitations, Special, Access, Rules]
 ---
 
 # TimeSheetTemplateAssignment
+
+> Represents the assignment of a time sheet template to a
+        profile. Available in API version 48.0 and later.
 
 # TimeSheetTemplateAssignment
 
@@ -39,3 +43,8 @@ Field Service must be enabled to access TimeSheetTemplateAssignment. Users must 
 | --- | --- |
 | AssignedToId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, Unique, UpdateDescriptionThe ID of the user profile assigned to the time sheet template. |
 | TimeSheetTemplateId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe ID of the associated time sheet template. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

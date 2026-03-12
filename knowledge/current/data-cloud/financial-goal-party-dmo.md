@@ -5,11 +5,16 @@ topic: financial-goal-party-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.432Z
-keywords: [Financial, Goal, Party, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.076Z
+estimatedTokens: 318
+keywords: [Financial, Goal, Party, DMO, Represents, association, between, financial, goal, related, party., Provided, Services, Cloud, Data, Kit., API, version, later., Name]
 ---
 
 # Financial Goal Party DMO
+
+> Represents an association between a financial goal and the related party. Provided in
+      the Financial Services Cloud Data Kit. This DMO is available in API version 58 and
+      later.
 
 # Financial Goal Party DMO
 

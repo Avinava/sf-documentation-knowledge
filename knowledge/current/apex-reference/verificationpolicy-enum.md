@@ -5,11 +5,15 @@ topic: verificationpolicy-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.332Z
-keywords: [VerificationPolicy, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.423Z
+estimatedTokens: 256
+keywords: [VerificationPolicy, Auth.VerificationPolicy, contains, identity, verification, policy, used, SessionManagement.generateVerificationUrl, method., Usage, Values]
 ---
 
 # VerificationPolicy Enum
+
+> The Auth.VerificationPolicy
+      enum contains an identity verification policy value used by the SessionManagement.generateVerificationUrl method.
 
 # VerificationPolicy Enum
 
@@ -26,3 +30,7 @@ The Auth.VerificationPolicy enum has this value.
 | Value | Description |
 | --- | --- |
 | HIGH_ASSURANCE | The security level for the user’s current session must be High Assurance. |
+
+## Related Topics
+
+- SessionManagement.generateVerificationUrl (atlas.en-us.apexref.meta/apexref/apex_class_Auth_SessionManagement.htm)

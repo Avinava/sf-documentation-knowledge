@@ -5,14 +5,62 @@ topic: boolean-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.930Z
-keywords: [Boolean, Class, Converts, specified, object, value., method, convert, history, tracking, field, value, represents, valueOf, fieldValue, Signature, Parameters, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:30.220Z
+estimatedTokens: 537
+namespace: System
+keywords: [Contains, primitive, data, type., valueOf, stringToBoolean, Usage, Example, fieldValue]
 ---
 
 # Boolean Class
 
-> Converts the specified object to a Boolean value. Use this method to convert a history
-    tracking field value or an object that represents a Boolean value.
+> Contains methods for the Boolean primitive data type.
+
+**Namespace:** `System`
+
+# Boolean Class
+
+Contains methods for the Boolean primitive data type.
+
+## Namespace
+
+[System](atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm "The System namespace provides classes and methods for core Apex functionality.")
+
+## Boolean Methods
+
+The following are methods for Boolean. All methods are static.
+
+-   **[valueOf(stringToBoolean)](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_System_Boolean_valueOf)**
+    Converts the specified string to a Boolean value and returns true if the specified string value is true. Otherwise, returns false.
+-   **[valueOf(fieldValue)](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_System_Boolean_valueOf_2)**
+    Converts the specified object to a Boolean value. Use this method to convert a history tracking field value or an object that represents a Boolean value.
+
+### valueOf(stringToBoolean)
+
+Converts the specified string to a Boolean value and returns true if the specified string value is true. Otherwise, returns false.
+
+#### Signature
+
+public static Boolean valueOf(String stringToBoolean)
+
+#### Parameters
+
+stringToBoolean
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+#### Return Value
+
+Type: [Boolean](#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
+
+#### Usage
+
+If the specified argument is null, this method throws an exception.
+
+#### Example
+
+```
+
+```
 
 ### valueOf(fieldValue)
 
@@ -41,3 +89,29 @@ Use this method with the OldValue or NewValue fields of history sObjects, such a
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Boolean b = Boolean.valueOf('true');
+System.assertEquals(true, b);
+```
+
+```apex
+List<AccountHistory> ahlist = 
+     [SELECT Field,OldValue,NewValue FROM AccountHistory];
+for(AccountHistory ah : ahlist) {
+   System.debug('Field: ' + ah.Field);
+   if (ah.field == 'IsPlatinum__c') {
+      Boolean oldValue = Boolean.valueOf(ah.OldValue);
+      Boolean newValue = Boolean.valueOf(ah.NewValue);
+   }
+}
+```
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+- valueOf(stringToBoolean) (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- valueOf(fieldValue) (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

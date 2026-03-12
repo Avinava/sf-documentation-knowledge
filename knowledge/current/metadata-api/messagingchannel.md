@@ -5,11 +5,15 @@ topic: messagingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.535Z
-keywords: [MessagingChannel, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, EmbeddedConfig, MessagingAuthorization, MessagingAutoResponse, MessagingChannelCustomParameter, MessagingChannelActionParameterMapping, MessagingChannelStandardParameter, MessagingChannelUsage]
+lastCollected: 2026-03-12T05:14:41.139Z
+estimatedTokens: 3238
+keywords: [MessagingChannel, Represents, metadata, associated, Embedded, Service, Messaging, channel., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, EmbeddedConfig]
 ---
 
 # MessagingChannel
+
+> Represents the metadata associated with an Embedded Service
+			Messaging channel.
 
 # MessagingChannel
 
@@ -173,3 +177,126 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<MessagingChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Test in-app messaging channel</description>
+    <masterLabel>TestInAppChannel</masterLabel>
+    <messagingChannelType>EmbeddedMessaging</messagingChannelType>
+    <sessionHandlerQueue>Demo_Queue</sessionHandlerQueue>
+    <sessionHandlerType>Queue</sessionHandlerType>
+    <embeddedConfig>
+        <authMode>Auth</authMode>
+        <isAttachmentUploadEnabled>true</isAttachmentUploadEnabled>
+        <isSaveTranscriptEnabled>false</isSaveTranscriptEnabled>
+        <isEstimatedWaitTimeEnabled>false</isEstimatedWaitTimeEnabled>
+        <verifiedUserJwtExpirationTime>360</verifiedUserJwtExpirationTime>
+        <messagingAuthorizations>
+            <authorizationType>PublicKeyCertificateSet</authorizationType>
+            <authProviderName></authProviderName>
+            <publicKeyCertificateSetName>pcks1</publicKeyCertificateSetName>
+            <enabled>false</enabled>
+            <authIdentifier>auth_identifier_one</authIdentifier>
+        </messagingAuthorizations>
+    </embeddedConfig>
+    <automatedResponses>
+        <autoResponseContentType>MessageDefinition</autoResponseContentType>
+        <messageDefinitionName>Sample</messageDefinitionName>
+        <type>EndUserInactiveResponse</type>
+        <responseTimeoutInMins>10</responseTimeoutInMins>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>MessageDefinition</autoResponseContentType>
+        <messageDefinitionName>Sample</messageDefinitionName>
+        <type>InitialResponse</type>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>MessageDefinition</autoResponseContentType>
+        <messageDefinitionName>Sample</messageDefinitionName>
+        <type>AgentEndEngagementResponse</type>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>MessageDefinition</autoResponseContentType>
+        <messageDefinitionName>Sample</messageDefinitionName>
+        <type>AgentEngagedResponse</type>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>TextResponse</autoResponseContentType>
+        <language>en_US</language>
+        <response>You've opted out of receiving messages from us, so we won't contact you again.</response>
+        <type>OptOutConfirmation</type>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>TextResponse</autoResponseContentType>
+        <language>en_US</language>
+        <response>Custom response1</response>
+        <type>CustomResponse</type>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>TextResponse</autoResponseContentType>
+        <language>en_US</language>
+        <response>Opt In Confirmation response</response>
+        <type>OptInConfirmation</type>
+    </automatedResponses>
+    <automatedResponses>
+        <autoResponseContentType>TextResponse</autoResponseContentType>
+        <language>en_US</language>
+        <response>Text STOP to opt out of further messages.</response>
+        <type>HelpResponse</type>
+    </automatedResponses>
+    <messagingKeywords>
+        <keyword>stopall</keyword>
+        <keyword>cancel</keyword>
+        <keyword>stop</keyword>
+        <keyword>unsubscribe</keyword>
+        <keyword>end</keyword>
+        <keyword>quit</keyword>
+        <keywordType>OptOut</keywordType>
+        <language>en_US</language>
+    </messagingKeywords>
+    <messagingKeywords>
+        <keyword>help</keyword>
+        <keywordType>Help</keywordType>
+        <language>en_US</language>
+    </messagingKeywords>
+    <messagingKeywords>
+        <keyword>customkeyword1</keyword>
+        <keywordType>Custom</keywordType>
+        <language>en_US</language>
+    </messagingKeywords>
+    <messagingKeywords>
+        <keyword>OptInkeyword1</keyword>
+        <keywordType>OptIn</keywordType>
+        <language>en_US</language>
+    </messagingKeywords>
+</MessagingChannel>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MessagingChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>EmbeddedChannel2</masterLabel>
+    <messagingChannelType>EmbeddedMessaging</messagingChannelType>
+    <sessionHandlerQueue>DemoQueueName</sessionHandlerQueue>
+    <sessionHandlerType>Queue</sessionHandlerType>
+</MessagingChannel>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>MessagingChannel</name>
+    </types>
+    <version>55.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

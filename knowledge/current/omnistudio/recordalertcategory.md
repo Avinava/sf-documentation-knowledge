@@ -4,12 +4,16 @@ domain: omnistudio
 topic: recordalertcategory
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.626Z
-keywords: [RecordAlertCategory, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.628Z
+estimatedTokens: 416
+keywords: [RecordAlertCategory, Represents, category, group, present, record, alerts., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # RecordAlertCategory
+
+> Represents a category to group and present record alerts. This object is
+      available in API version 54.0 and later.
 
 # RecordAlertCategory
 
@@ -42,3 +46,25 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionRecord alert category metadata. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionNamespace prefix associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. |
 | Severity | TypepicklistPropertiesFilter, Group, Nillable, SortDescriptionIndicates the degree of impact that an alert in this category can have.Possible values are:ErrorInfoWarning |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordAlertCategory xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Tracks Financial Account Fraud Alerts</description>
+    <masterLabel>Fraud</masterLabel>
+    <severity>Error</severity>
+</RecordAlertCategory>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Fraud</members>
+        <name>RecordAlertCategory</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```

@@ -5,11 +5,14 @@ topic: party-expense-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.658Z
-keywords: [Party, Expense, Result]
+lastCollected: 2026-03-12T05:14:50.464Z
+estimatedTokens: 542
+keywords: [Party, Expense, Result, Output, representation, party, expense, result.]
 ---
 
 # Party Expense Result
+
+> Output representation of the  party expense result.
 
 # Party Expense Result
 
@@ -38,3 +41,7 @@ Output representation of the party expense result.
 | type | String | Type of expense. | Small, 61.0 | 61.0 |
 | usageType | String | Usage type of the party expense. | Small, 61.0 | 61.0 |
 | verification​Status | String | Indicates whether the party expense is verified (true) or not (false). | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

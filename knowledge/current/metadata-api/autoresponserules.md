@@ -5,11 +5,18 @@ topic: autoresponserules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.725Z
-keywords: [AutoResponseRules, File, Suffix, Directory, Location, Version, Fields, AutoResponseRule, RuleEntry, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.146Z
+estimatedTokens: 891
+keywords: [AutoResponseRules, Represents, auto-response, rule, conditions, sending, automatic, email, responses, lead, case, submissions, based, attributes, submitted, record., access, rules, metadata, applicable]
 ---
 
 # AutoResponseRules
+
+> Represents an auto-response rule that sets conditions
+            for sending automatic email responses to lead or case submissions based on the
+            attributes of the submitted record. You can access rules metadata for all applicable
+            objects, for a specific object, or for a specific rule on a specific
+        object.
 
 # AutoResponseRules
 
@@ -82,3 +89,55 @@ The following is an example AutoResponseRules component:
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<types>
+        <members>*</members>
+        <name>AutoResponseRules</name>
+    </types>
+```
+
+```
+<types>
+        <members>Case</members>
+        <name>AutoResponseRules</name>
+    </types>
+```
+
+```
+<types>
+        <members>Case.samplerule</members>
+        <members>Case.newrule</members>
+        <name>AutoResponseRule</name>
+    </types>
+```
+
+```
+<AutoResponseRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoResponseRule>
+        <fullName>ajbdeploytest2</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <criteriaItems>
+                <field>Case.Description</field>
+                <operation>contains</operation>
+                <value>testing</value>
+            </criteriaItems>
+            <senderEmail>test@test.org</senderEmail>
+            <senderName>tester name j</senderName>
+            <replyToEmail>test@@test.org</replyToEmail>
+            <template>emailtemplate</template>
+        </ruleEntry>
+    </autoResponseRule>
+</AutoResponseRules>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

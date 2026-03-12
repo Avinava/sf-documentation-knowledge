@@ -5,11 +5,14 @@ topic: connectapirecommendationaudiencepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.865Z
-keywords: [ConnectApi.RecommendationAudiencePage]
+lastCollected: 2026-03-12T05:14:28.786Z
+estimatedTokens: 142
+keywords: [ConnectApi.RecommendationAudiencePage, list, custom, recommendation, audiences.]
 ---
 
 # ConnectApi.RecommendationAudiencePage
+
+> A list of custom recommendation audiences.
 
 # ConnectApi.RecommendationAudiencePage
 
@@ -22,3 +25,10 @@ A list of custom recommendation audiences.
 | nextPageUrl | String | URL to the next page. | 35.0 |
 | previousPageUrl | String | URL to the previous page. | 35.0 |
 | recommendation​Audiences | List<ConnectApi.​Recommendation​Audience> | A list of custom recommendation audiences. | 35.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Recommendation​Audience (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_audience.htm)

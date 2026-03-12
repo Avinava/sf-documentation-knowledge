@@ -5,11 +5,14 @@ topic: connectapiexternalcredentialprincipalaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.744Z
-keywords: [ConnectApi.ExternalCredentialPrincipalAccess, See]
+lastCollected: 2026-03-12T05:14:27.276Z
+estimatedTokens: 168
+keywords: [ConnectApi.ExternalCredentialPrincipalAccess, External, credential, principal, access.]
 ---
 
 # ConnectApi.ExternalCredentialPrincipalAccess
+
+> External credential principal access.
 
 # ConnectApi.ExternalCredentialPrincipalAccess
 
@@ -24,3 +27,9 @@ External credential principal access.
 #### See Also
 
 -   [ConnectApi.ExternalCredentialPrincipal](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_principal.htm "External credential principal.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ExternalCredential​PrincipalAccessType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ExternalCredentialPrincipal (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_principal.htm)

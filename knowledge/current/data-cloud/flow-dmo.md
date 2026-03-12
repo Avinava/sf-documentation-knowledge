@@ -5,11 +5,15 @@ topic: flow-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.449Z
-keywords: [Flow, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.099Z
+estimatedTokens: 231
+keywords: [Flow, DMO, Data, Cloud, data, model, details, flow., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Flow DMO
+
+> The Flow DMO is a Data Cloud 
+      data model object (DMO) for details about a flow.
 
 # Flow DMO
 

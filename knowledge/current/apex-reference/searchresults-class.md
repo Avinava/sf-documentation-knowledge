@@ -5,14 +5,32 @@ topic: searchresults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:34.283Z
-keywords: [SearchResults, Class, Returns, list, Search.SearchResult, objects, contain, sObject, specified, type., get, sObjectType, Signature, Parameters, Return, Value, Usage, See]
+lastCollected: 2026-03-12T05:14:20.911Z
+estimatedTokens: 615
+namespace: Search
+keywords: [SearchResults, Wraps, results, returned, Search.find, String​, method., get, sObjectType, Usage]
 ---
 
 # SearchResults Class
 
-> Returns a list of Search.SearchResult objects that contain an sObject of the specified
-    type.
+> Wraps the results returned by the Search.find(String​) method.
+
+**Namespace:** `Search`
+
+# SearchResults Class
+
+Wraps the results returned by the Search.find(String​) method.
+
+## Namespace
+
+[Search](atlas.en-us.apexref.meta/apexref/apex_namespace_Search.htm#apex_namespace_Search "The Search namespace provides classes for getting search results and suggestion results.")
+
+## SearchResults Methods
+
+The following are methods for SearchResults.
+
+-   **[get(sObjectType)](atlas.en-us.apexref.meta/apexref/apex_class_Search_SearchResults.htm#apex_Search_SearchResults_get)**
+    Returns a list of Search.SearchResult objects that contain an sObject of the specified type.
 
 ### get(sObjectType)
 
@@ -41,7 +59,17 @@ SOSL queries passed to the Search.find(String) method can return results for mul
 #### See Also
 
 -   [find(searchQuery)](atlas.en-us.apexref.meta/apexref/apex_methods_system_search.htm#apex_System_Search_find "Performs a dynamic SOSL query that can include the SOSL WITH SNIPPET clause. Snippets provide more context for users in Salesforce Knowledge article search results.")
-    
+
 -   [SearchResult Methods](atlas.en-us.apexref.meta/apexref/apex_class_Search_SearchResult.htm#apex_Search_SearchResult_methods)
-    
+
 -   [*Apex Developer Guide*: Dynamic SOSL](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_dynamic_sosl.htm "Apex Developer Guide: Dynamic SOSL - HTML (New Window)")
+
+## Related Topics
+
+- Search (atlas.en-us.apexref.meta/apexref/apex_namespace_Search.htm)
+- get(sObjectType) (atlas.en-us.apexref.meta/apexref/apex_class_Search_SearchResults.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- Search.SearchResult (atlas.en-us.apexref.meta/apexref/apex_class_Search_SearchResult.htm)
+- find(searchQuery) (atlas.en-us.apexref.meta/apexref/apex_methods_system_search.htm)
+- SearchResult Methods (atlas.en-us.apexref.meta/apexref/apex_class_Search_SearchResult.htm)

@@ -4,12 +4,18 @@ domain: rest-api
 topic: insert-or-update-blob-data
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:44:25.000Z
-keywords: [Insert, Update, Blob, Data, Note, Inserting, Document, Tip, Updating, ContentVersion, sObject, Collections, Collection, Records, Multipart, Message, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:35.079Z
+estimatedTokens: 2822
+keywords: [Insert, Update, Blob, Data, sObject, Basic, Information, Rows, Collections, resources, insert, update, binary, large, objects, blobs, Salesforce, such, images, PDFs.]
 ---
 
 # Insert or Update Blob Data
+
+> You can use the sObject Basic Information, sObject Rows, or sObject
+                Collections resources to insert or update binary large objects (blobs) in
+            Salesforce, such as images or PDFs. You can upload files or binary data of any type to
+            any standard object that contains a blob field.
 
 # Insert or Update Blob Data
 
@@ -212,9 +218,68 @@ A new line must be added between the header and the data for each part of the mu
 #### See Also
 
 -   [sObject Basic Information](atlas.en-us.api_rest.meta/api_rest/resources_sobject_basic_info.htm "Retrieves basic metadata for a specified object, or creates a new record for the specified object.")
-    
+
 -   [sObject Rows](atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm "Accesses records based on a specified object and record ID. Retrieves, updates, or deletes records based on the HTTP method. Use the GET method to retrieve records or specific field values, the DELETE method to delete records, or the PATCH method to update records.")
-    
+
 -   [sObject Collections](atlas.en-us.api_rest.meta/api_rest/resources_composite_sobjects_collections.htm "Executes actions on multiple records in one request. Use sObject Collections to reduce the number of round-trips between the client and server. The response bodies and HTTP statuses of the requests are returned in a single response body. The entire request counts as a single call toward your API limits. This resource is available in API version 42.0 and later.")
-    
+
 -   [Get Blob Data](atlas.en-us.api_rest.meta/api_rest/dome_sobject_blob_retrieve.htm "Use the sObject Blob Get resource to get blob data for a given record. To get blob data, a record with blob data must exist in Salesforce.")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Document/ -H "Authorization: Bearer token" -H "Content-Type: multipart/form-data; boundary="boundary_string"" --data-binary @NewDocument.json
+```
+
+```
+--boundary_string
+Content-Disposition: form-data; name="entity_document";
+Content-Type: application/json
+
+{  
+    "Description" : "Marketing brochure for Q1 2011",
+    "Keywords" : "marketing,sales,update",
+    "FolderId" : "005D0000001GiU7",
+    "Name" : "Marketing Brochure Q1",
+    "Type" : "pdf"
+}
+
+--boundary_string
+Content-Type: application/pdf
+Content-Disposition: form-data; name="Body"; filename="2011Q1MktgBrochure.pdf"
+
+Binary data goes here.
+--boundary_string--
+```
+
+```
+{
+    "id" : "015D0000000N3ZZIA0",
+    "errors" : [ ],
+    "success" : true
+}
+```
+
+```
+{
+    "fields" : [ "FolderId" ],
+    "message" : "Folder ID: id value of incorrect type: 005D0000001GiU7",
+    "errorCode" : "MALFORMED_ID"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/Document/015D0000000N3ZZIA0 -H "Authorization: Bearer token" -H "Content-Type: multipart/form-data; boundary="boundary_string"" --data-binary @UpdateDocument.json -X PATCH
+```
+
+## Related Topics
+
+- sObject Basic Information (atlas.en-us.api_rest.meta/api_rest/resources_sobject_basic_info.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- sObject
+                Collections (atlas.en-us.api_rest.meta/api_rest/resources_composite_sobjects_collections.htm)
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- sObject Collections (atlas.en-us.api_rest.meta/api_rest/resources_composite_sobjects_collections.htm)
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/dome_sobject_rich_text_image_retrieve.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/dome_sobject_blob_retrieve.htm)
+- Get Blob Data (atlas.en-us.api_rest.meta/api_rest/dome_sobject_blob_retrieve.htm)

@@ -5,11 +5,14 @@ topic: ocr-templates-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.367Z
-keywords: [OCR, Templates, GET]
+lastCollected: 2026-03-12T05:14:49.256Z
+estimatedTokens: 236
+keywords: [OCR, Templates, GET, Retrieve, list, active, templates.]
 ---
 
 # OCR Templates (GET)
+
+> Retrieve a list of active OCR templates.
 
 # OCR Templates (GET)
 
@@ -57,3 +60,29 @@ Request parameters for GET
 Response body for GET
 
 [Template Collection Output](atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_template_collection_output.htm "Output representation of a collection of OCR templates.")
+
+## Code Examples
+
+```
+/connect/form-reader/ocrTemplates
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/ocrTemplates?documentTypeId=OdeRM00000000Dj
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/ocrTemplates?targetObjects=Account,BusinessMilestone
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/ocrTemplates?documentTypeId=OdeRM00000000Dj&targetObjects=Account.AccountRecordType1
+```
+
+## Related Topics
+
+- Template Collection Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_template_collection_output.htm)
+- Template Collection Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_template_collection_output.htm)

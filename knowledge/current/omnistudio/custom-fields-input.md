@@ -5,19 +5,43 @@ topic: custom-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.216Z
-keywords: [Custom, Fields, Input]
+lastCollected: 2026-03-12T05:14:48.201Z
+estimatedTokens: 121
+keywords: [Custom, Fields, Input, representation, creating, engagement, interaction, topic, attendee, record, custom, field., digital, lending, fields.]
 ---
 
 # Custom Fields Input
 
+> Input representation for creating an engagement interaction, topic, or attendee record with a custom field.
+
 # Custom Fields Input
 
-Input representation of the digital lending record with custom fields.
+Input representation for creating an engagement interaction, topic, or attendee record with a custom field.
+
+Root XML tag
+
+<customFields>
+
+JSON example
+
+```
+
+```
 
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| name | String | Name of the custom field. | Required | 61.0 |
-| value | Object | Value of the custom field. | Required | 61.0 |
+| key | String | The name of a custom field in a Salesforce object. | Optional | 56.0 |
+| value | Object | The value of a custom field in a Salesforce object. | Optional | 56.0 |
+
+## Code Examples
+
+```
+{
+  "customFieldsList": {
+    "key": "sampledata",
+    "value": "test"
+  }
+}
+```

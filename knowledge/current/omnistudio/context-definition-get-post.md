@@ -5,11 +5,15 @@ topic: context-definition-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.651Z
-keywords: [Context, Definition, GET, POST]
+lastCollected: 2026-03-12T05:14:48.966Z
+estimatedTokens: 424
+keywords: [Context, Definition, GET, POST, Create, context, definition, clone, existing, extend, standard, file, based, persist, entire, definition.]
 ---
 
 # Context Definition (GET, POST)
+
+> Create a context definition, clone an existing context definition, extend a standard
+    definition (file based definition) or to persist entire context definition.
 
 # Context Definition (GET, POST)
 
@@ -74,3 +78,36 @@ Properties
 Response body for POST
 
 [Context Definition Information](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_definition_info.htm "Output representation of context definition information.")
+
+## Code Examples
+
+```
+/connect/context-definitions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions
+```
+
+```
+{
+   "name":"Example Definition",
+   "description":"Example Description",
+   "developerName":"John Doe",
+   "startDate":"2023-06-02T00:00:00.000Z",
+   "endDate":"2025-06-20T00:00:00.000Z",
+   "isActive":false,
+   "payload":"{"contextDefinition":{"name":"ExampleDefinition","description":"Example Description","developerName":"ExampleDefinition","contextDefinitionVersionList":[{"contextDefinitionVersion":{"isActive":"TRUE","startDate":"2023-06-02T00:00:00.000Z","endDate":"2025-06-20T00:00:00.000Z","contextNodes":[{"name":"Claim","isTransposable":"TRUE","contextNodeId":"$param_claimId","attributes":[{"dataType":"STRING","type":"INPUT","isFinal":"TRUE","isKey":"false","isValue":"true","contextAttributeId":"$param_claimaccountId","name":"Account","contextTagList":[{"name":"ClaimAccount"}]}],"nodeChildren":[{"name":"ClaimItem","isTransposable":"TRUE","contextNodeId":"$param_claimItemId","attributes":[{"dataType":"STRING","type":"INPUT","isFinal":"TRUE","isKey":"FALSE","isValue":"FALSE","contextAttributeId":"$param_assetId","name":"Asset","contextTagList":[{"name":"ClaimItemAsset"}]}],"contextTagList":[{"contextNodeId":"$param_claimItemId","name":"ClaimItem"}]}],"contextTagList":[{"contextNodeId":"$param_claimId","name":"Claim"}]}],"contextMapping":[{"name":"Claim Order Mapping","isDefault":"TRUE","contextNodeMappings":[{"contextNodeId":"$param_claimId","sObjectName":"Claim","contextAttributeMappings":[{"contextAttributeId":"$param_claimaccountId","hydrationSource":"SObject","contextSObjectHydrationInfoList":[{"sObjectDomain":"Claim","queryAttribute":"Account","parentContextSObjectHydrationInfoList":[{"sObjectDomain":"Account","queryAttribute":"Name"}]}]}]},{"contextNodeId":"$param_claimItemId","sObjectName":"ClaimItem","contextAttributeMappings":[{"contextAttributeId":"$param_assetId","hydrationSource":"SObject","contextSObjectHydrationInfoList":[{"sObjectDomain":"ClaimItem","queryAttribute":"Asset","parentContextSObjectHydrationInfoList":[{"sObjectDomain":"Asset","queryAttribute":"Name"}]}]}]}]}]}}]}}",
+   "sourceDefinitionId":"11Oxx0000007MnhEAE",
+   "contextTtl":30
+}
+```
+
+## Related Topics
+
+- Context Definition List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_definition_list.htm)
+- Context Definition Information (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_definition_info.htm)

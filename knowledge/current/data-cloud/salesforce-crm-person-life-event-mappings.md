@@ -5,11 +5,15 @@ topic: salesforce-crm-person-life-event-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.133Z
-keywords: [Salesforce, CRM, Person, Life, Event, Mappings, Usage, Data, Bundle, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.593Z
+estimatedTokens: 232
+keywords: [Salesforce, CRM, Person, Life, Event, Mappings, data, mappings, PersonLifeEvent, DLO, found, Financial, Services, Cloud, bundle, Connector, Data, Cloud., Usage, Bundle]
 ---
 
 # Salesforce CRM: Person Life Event Mappings
+
+> These data mappings are for the PersonLifeEvent DLO found in Financial Services Cloud
+  bundle of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Person Life Event Mappings
 

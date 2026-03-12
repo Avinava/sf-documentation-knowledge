@@ -4,12 +4,16 @@ domain: apex-guide
 topic: invocablemethod-annotation
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.453Z
-keywords: [InvocableMethod, Annotation, Note, Supported, Modifiers, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.428Z
+estimatedTokens: 2226
+keywords: [InvocableMethod, Annotation, annotation, identify, run, invocable, actions., Note, Supported, Modifiers, Considerations]
 ---
 
 # InvocableMethod Annotation
+
+> Use the InvocableMethod annotation to identify methods that can be run as invocable
+      actions.
 
 # InvocableMethod Annotation
 
@@ -122,13 +126,13 @@ If the return type isn’t Null, the data type returned by the method must be on
 -   A list of an sObject type or a list of lists of an sObject type.
 -   A list of the generic sObject type (List<sObject>) or a list of lists of the generic sObject type (List<List<sObject>>).
 -   A list of a user-defined type, containing variables of the supported types or user-defined Apex types, with the InvocableVariable annotation. To implement your data type, create a custom global or public Apex class. The class must contain at least one member variable with the invocable variable annotation.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     For a correct bulkification implementation, the Inputs and Outputs must match on both the size and the order. For example, the i-th Output entry must correspond to the i-th Input entry. Matching entries are required for data correctness when your action is in bulkified execution, such as when an apex action is used in a record trigger flow.
-    
+
 
 Managed Packages
 
@@ -144,21 +148,151 @@ For more information about invocable actions, see [Apex Actions](https://develop
 #### See Also
 
 -   [InvocableVariable Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm "To identify variables used by invocable methods in custom classes, use the InvocableVariable annotation.")
-    
+
 -   [*Actions Developer Guide*: Apex Actions](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_action.meta/api_action/actions_obj_apex.htm "Actions Developer Guide: Apex Actions  - HTML (New Window)")
-    
+
 -   [*REST API Developer Guide*: Invocable Actions](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/resources_actions_invocable.htm "REST API Developer Guide: Invocable Actions  - HTML (New Window)")
-    
+
 -   [*Salesforce Help*: Add a Custom Icon to an Apex-Defined Action](https://help.salesforce.com/s/articleView?id=platform.flow_build_extend_apex_type_add_a_custom_icon.htm&type=5&language=en_US "Salesforce Help: Add a Custom Icon to an Apex-Defined
     Action - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Action Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_Invocable_Action.htm "Apex Reference Guide: Action Class - HTML (New Window)")
-    
+
 -   [*Lightning Web Components Developer Guide*: Develop Custom Property Editors for Flow Builder](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_flow_custom_property_editor "Lightning Web Components Developer Guide: Develop Custom
     Property Editors for Flow Builder - HTML (New Window)")
-    
+
 -   [*Prompt Builder*: Ground with Apex](https://help.salesforce.com/s/articleView?id=ai.prompt_builder_ground_apex.htm&type=5&language=en_US "Prompt Builder: Ground with Apex - HTML (New Window)")
-    
+
 -   [Making Callouts to External Systems from Invocable Actions](atlas.en-us.apexcode.meta/apexcode/apex_forcecom_flow_invocable_action_callout.htm "When you define a method that runs as an invocable action in a screen flow and makes a callout to an external system, use the callout modifier.")
-    
+
 -   [Customize Invocable Action Input Order in Flow Builder](atlas.en-us.apexcode.meta/apexcode/apex_forcecom_flow_invocable_action_extension_customize_input_order_example.htm "Control the display order and grouping of input parameters for your Apex invocable actions in Flow Builder using the InvocableActionExtension metadata file.")
+
+## Code Examples
+
+```apex
+public with sharing class AccountQueryAction {
+  @InvocableMethod(
+    label='Get Account Names'
+    description='Returns the list of account names corresponding to the specified account IDs.'
+    category='Account'
+  )
+  public static List<String> getAccountNames(List<ID> ids) {
+    List<Account> accounts = [
+      SELECT Name
+      FROM Account
+      WHERE Id IN :ids
+      WITH USER_MODE
+    ];
+    Map<ID, String> idToName = new Map<ID, String>();
+    for (Account account : accounts) {
+      idToName.put(account.Id, account.Name);
+    }
+    // put each name in the output at the same position as the id in the input
+    List<String> accountNames = new List<String>();
+    for (String id : ids) {
+      accountNames.add(idToName.get(id));
+    }
+    return accountNames;
+  }
+}
+```
+
+```apex
+public with sharing class AccountInsertAction {
+  @InvocableMethod(
+    label='Insert Accounts'
+    description='Inserts the accounts specified and returns the IDs of the new accounts or null if account is failed to create.'
+    category='Account'
+  )
+  public static List<ID> insertAccounts(List<Account> accounts) {
+    Database.SaveResult[] results = Database.insert(
+      accounts,
+      false,
+      AccessLevel.USER_MODE
+    );
+    List<ID> accountIds = new List<ID>();
+
+    for (Database.SaveResult result : results) {
+      if (result.isSuccess()) {
+        accountIds.add(result.getId());
+      } else {
+        accountIds.add(null);
+      }
+    }
+
+    return accountIds;
+  }
+}
+```
+
+```apex
+public with sharing class GetFirstFromCollection {
+  @InvocableMethod
+  public static List<Results> execute(List<Requests> requestList) {
+    List<Results> results = new List<Results>();
+    for (Requests request : requestList) {
+      List<SObject> inputCollection = request.inputCollection;
+      SObject outputMember = inputCollection[0];
+
+      //Create a Results object to hold the return values
+      Results result = new Results();
+
+      //Add the return values to the Results object
+      result.outputMember = outputMember;
+
+      //Add Result to the results List at the same position as the request is in the requests List
+      results.add(result);
+    }
+    return results;
+  }
+
+  public with sharing class Requests {
+    @InvocableVariable(
+      label='Records for Input'
+      description='yourDescription'
+      required=true
+    )
+    public List<SObject> inputCollection;
+  }
+
+  public with sharing class Results {
+    @InvocableVariable(
+      label='Records for Output'
+      description='yourDescription'
+      required=true
+    )
+    public SObject outputMember;
+  }
+}
+```
+
+```apex
+global with sharing class CustomSvgIcon { 
+  @InvocableMethod(label='myIcon' iconName='resource:myPackageNamespace__google:top')
+  global static List<Integer> myMethod(List<Integer> request) {
+    List<Integer> results = new List<Integer>();
+    for(Integer reqInt : request) { 
+       results.add(reqInt);
+    }
+    return results;
+  }
+}
+```
+
+```apex
+public with sharing class CustomSldsIcon { 
+  
+  @InvocableMethod(iconName='slds:standard:choice') 
+  public static void run() {} 
+  
+  }
+```
+
+## Related Topics
+
+- Best Practices for Using Global Apex in Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_global_best_practices.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm)
+- InvocableVariable Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm)
+- Making Callouts to External Systems from Invocable Actions (atlas.en-us.apexcode.meta/apexcode/apex_forcecom_flow_invocable_action_callout.htm)
+- Customize Invocable Action Input Order in Flow Builder (atlas.en-us.apexcode.meta/apexcode/apex_forcecom_flow_invocable_action_extension_customize_input_order_example.htm)

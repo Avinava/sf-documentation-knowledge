@@ -5,11 +5,14 @@ topic: connectapimanagedcontentmedianodevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.164Z
-keywords: [ConnectApi.ManagedContentMediaNodeValue]
+lastCollected: 2026-03-12T05:14:27.811Z
+estimatedTokens: 364
+keywords: [ConnectApi.ManagedContentMediaNodeValue, Managed, content, node, media, type.]
 ---
 
 # ConnectApi.ManagedContentMediaNodeValue
+
+> Managed content node of media type.
 
 # ConnectApi.ManagedContentMediaNodeValue
 
@@ -30,3 +33,9 @@ Subclass of [ConnectApi.ManagedContentNodeValue](atlas.en-us.apexref.meta/apexre
 | title | String | Title of the managed content node. | 47.0 |
 | unauthenticatedUrl | String | Unauthenticated URL to the image or null if the image isn’t visible to external users. | 48.0 |
 | url | String | URL to the image. | 47.0 |
+
+## Related Topics
+
+- ConnectApi.ManagedContentNodeValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_node_value.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​MediaType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

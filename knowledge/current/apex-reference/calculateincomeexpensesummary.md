@@ -4,12 +4,17 @@ domain: apex-reference
 topic: calculateincomeexpensesummary
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.541Z
-keywords: [CalculateIncomeExpenseSummary, Signature, Return, Value, Examples]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.719Z
+estimatedTokens: 422
+keywords: [CalculateIncomeExpenseSummary, Calculates, monthly, income, total, average, expense, list, expenses, provided., Examples]
 ---
 
 # CalculateIncomeExpenseSummary
+
+> Calculates the monthly income, total income, average monthly
+            income, monthly expense, total expense, average monthly expense from a list of income
+            and expenses provided.
 
 # CalculateIncomeExpenseSummary
 

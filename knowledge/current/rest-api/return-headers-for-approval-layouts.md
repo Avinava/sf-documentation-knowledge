@@ -5,11 +5,16 @@ topic: return-headers-for-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.630Z
-keywords: [Return, Headers, Approval, Layouts, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.952Z
+estimatedTokens: 157
+keywords: [Headers, Approval, Layouts, only, headers, returned, GET, request, sObject, ApprovalLayouts, resources., gives, chance, header, values, before, retrieving, content, resource., resource]
 ---
 
 # Return Headers for Approval Layouts
+
+> Returns only the headers that are returned by a GET request to sObject ApprovalLayouts
+		resources. This gives you a chance to see header values before retrieving the content of the
+		resource. This resource is available in REST API version 30.0 and later.
 
 # Return Headers for Approval Layouts
 
@@ -43,4 +48,10 @@ Example Request
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl -X HEAD --head https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/describe/approvalLayouts/ -H "Authorization: Bearer token"
 ```

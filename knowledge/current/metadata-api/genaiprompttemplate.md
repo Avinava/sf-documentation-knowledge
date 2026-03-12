@@ -5,11 +5,15 @@ topic: genaiprompttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.967Z
-keywords: [GenAiPromptTemplate, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, GenAiPromptTemplateVersion, GenAiPromptTemplateGenerationConfig, GenAiPromptTemplateInput, GenAiPromptTemplateDataProvider, GenAiPromptTemplateDataProviderParam, Declarative, Metadata]
+lastCollected: 2026-03-12T05:14:40.305Z
+estimatedTokens: 1880
+keywords: [GenAiPromptTemplate, Represents, definition, prompt, template, including, its, related, objects, fields., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # GenAiPromptTemplate
+
+> Represents the definition of a prompt template, including
+      its related objects and fields.
 
 # GenAiPromptTemplate
 
@@ -126,3 +130,76 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPromptTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <activeVersionIdentifier>a94ACO8feseESrBtllQUNLvKEqlCHiPSDLX5rXUnvPs=_1</activeVersionIdentifier>
+    <description>Recommend relevant financial products to client based on their needs and goals</description>
+    <masterLabel>Recommend Relevant Products</masterLabel>
+    <relatedEntity>Contact</relatedEntity>
+    <templateVersions>
+        <content>You are a financial advisor at {!$Input:Sender.CompanyName} and your name is {!$Input:Sender.Name}. You are writing an email to a prospective client recommending relevant financial products based on their data and goals. Reference the data below to generate your email, recommending only relevant products for the customer that match our recommendation criteria for each product.
+Client name: {!$Input:Recipient.Name}
+Client age: {!$Input:Recipient.Age__c}
+Client occupation: {!$Input:Recipient.Occupation__c}
+Client income: {!$Input:Recipient.Income__c}
+Client financial goals: {!$Input:Recipient.Financial_Goals__c}
+
+{!$Flow:Fetch_Products.Prompt}
+
+Generate a subject line that can increase the open rate using words and content that is related to the email body content. It must be no more than 10 words.
+Start the opening message of the email with an ice-breaker talking about relevant challenges or opportunities with personal finance and how you can help.
+Indirectly allude to a point of common interest, shared background, or relevant experience with {!$Input:Recipient.Name}. You aim to subtly reference or highlight this connection to establish rapport, demonstrate relevance, and foster a sense of familiarity.
+Indirectly encourage the lead {!$Input:Recipient.Name} to respond to your email by showing that you are willing to discuss opportunities for working together and answer any questions they may have.
+Be concise in your email.</content>
+        <inputs>
+            <apiName>Sender</apiName>
+            <definition>SOBJECT://User</definition>
+            <referenceName>Input:Sender</referenceName>
+            <required>true</required>
+        </inputs>
+        <inputs>
+            <apiName>Recipient</apiName>
+            <definition>SOBJECT://Contact</definition>
+            <referenceName>Input:Recipient</referenceName>
+            <required>true</required>
+        </inputs>
+        <primaryModel>sfdc_ai__DefaultOpenAIGPT4</primaryModel>
+        <status>Published</status>
+        <templateDataProviders>
+            <definition>flow://Fetch_Products</definition>
+            <parameters>
+                <definition>SOBJECT://User</definition>
+                <isRequired>true</isRequired>
+                <parameterName>Sender</parameterName>
+                <valueExpression>{!$Input:Sender}</valueExpression>
+            </parameters>
+            <parameters>
+                <definition>SOBJECT://Contact</definition>
+                <isRequired>true</isRequired>
+                <parameterName>Recipient</parameterName>
+                <valueExpression>{!$Input:Recipient}</valueExpression>
+            </parameters>
+            <referenceName>Flow:Fetch_Products</referenceName>
+        </templateDataProviders>
+        <versionIdentifier>a94ACO8feseESrBtllQUNLvKEqlCHiPSDLX5rXUnvPs=_1
+</versionIdentifier>
+    </templateVersions>
+    <type>einstein_gpt__salesEmail</type>
+    <visibility>Global</visibility>
+</GenAiPromptTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>GenAiPromptTemplate</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```

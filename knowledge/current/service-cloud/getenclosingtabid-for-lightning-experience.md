@@ -6,12 +6,16 @@ topic: getenclosingtabid-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.217Z
-keywords: [getEnclosingTabId, Lightning, Experience, Tip, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.752Z
+estimatedTokens: 507
+keywords: [getEnclosingTabId, Lightning, Experience, enclosing, tab., isn’t, supported, Web, Components, LWC, Tip, Arguments, Aura, Sample, Code, Response]
 ---
 
 # getEnclosingTabId() for Lightning
         Experience
+
+> Returns the ID of the enclosing tab. This method isn’t supported for Lightning Web
+        Components (LWC).
 
 # getEnclosingTabId() for Lightning Experience
 
@@ -48,3 +52,33 @@ This is the controller code. The handleGetEnclosingTabId action returns the ID o
 ## Response
 
 This method returns a promise that, upon success, resolves to the tabId of the enclosing tab, if within a tab. If not within a tab, the method resolves to false upon success.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Get Enclosing Tab Id" onclick="{! c.handleGetEnclosingTabId }" />
+</aura:component>
+```
+
+```
+({
+    handleGetEnclosingTabId : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getEnclosingTabId().then(function(tabId) {
+            console.log(tabId);
+       })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- EnclosingTabId context wire
+                    adapter (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_enclosingTabId.htm)
+- getFocusedTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getFocusedTabInfo.htm)
+- getTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getTabInfo.htm)

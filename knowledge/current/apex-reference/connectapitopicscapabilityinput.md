@@ -5,11 +5,14 @@ topic: connectapitopicscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.637Z
-keywords: [ConnectApi.TopicsCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:25.646Z
+estimatedTokens: 157
+keywords: [ConnectApi.TopicsCapabilityInput, Assign, topics, feed, element.]
 ---
 
 # ConnectApi.TopicsCapabilityInput
+
+> Assign topics to a feed element.
 
 # ConnectApi.TopicsCapabilityInput
 
@@ -23,3 +26,9 @@ Assign topics to a feed element.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

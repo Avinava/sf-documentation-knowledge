@@ -5,11 +5,15 @@ topic: expression-set-assignment-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.258Z
-keywords: [Expression, Set, Assignment, Step, Input]
+lastCollected: 2026-03-12T05:14:48.367Z
+estimatedTokens: 138
+keywords: [Expression, Set, Assignment, Step, Input, representation, assignment, step, expression, set.]
 ---
 
 # Expression Set Assignment Step Input
+
+> Input representation of an assignment step in an expression
+    set.
 
 # Expression Set Assignment Step Input
 
@@ -31,3 +35,12 @@ Properties
 | --- | --- | --- | --- | --- |
 | assigned​Parameter | String | Expression set version variable that’s present on the right side of the calculation step. | Required | 58.0 |
 | expression | String | Expression that’s present on the left side of the calculation step. | Required | 58.0 |
+
+## Code Examples
+
+```
+"assignment" : {
+            "assignedParameter" : "b",
+            "expression" : "100"
+          }
+```

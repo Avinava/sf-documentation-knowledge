@@ -5,11 +5,17 @@ topic: experiencebundlesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.377Z
-keywords: [ExperienceBundleSettings, Note, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:39.479Z
+estimatedTokens: 762
+keywords: [ExperienceBundleSettings, Represents, org, setting, enables, ExperienceBundle, metadata, Aura, sites, Experience, Cloud., doesn’t, affect, LWR, which, default., extends, Metadata, inherits, its]
 ---
 
 # ExperienceBundleSettings
+
+> Represents the org setting that enables the ExperienceBundle
+      metadata type for Aura sites in Experience Cloud. The setting doesn’t affect LWR sites, which
+      use ExperienceBundle by default. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # ExperienceBundleSettings
 
@@ -50,3 +56,18 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 #### See Also
 
 -   [ExperienceBundle](atlas.en-us.api_meta.meta/api_meta/meta_experiencebundle.htm "Represents a text-based code structure of the settings and site components, such as pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly update and deploy Experience Builder sites programmatically using their preferred development tools. This type extends the Metadata metadata type and inherits its fullName field.")
+
+## Code Examples
+
+```
+<ExperienceBundleSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+        <enableExperienceBundleMetadata>true</enableExperienceBundleMetadata>
+</ExperienceBundleSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ExperienceBundle (atlas.en-us.api_meta.meta/api_meta/meta_experiencebundle.htm)

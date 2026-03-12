@@ -5,11 +5,14 @@ topic: connectapifileasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.877Z
-keywords: [ConnectApi.FileAsset, See]
+lastCollected: 2026-03-12T05:14:27.440Z
+estimatedTokens: 282
+keywords: [ConnectApi.FileAsset, asset, file.]
 ---
 
 # ConnectApi.FileAsset
+
+> An asset file.
 
 # ConnectApi.FileAsset
 
@@ -29,5 +32,12 @@ An asset file.
 #### See Also
 
 -   [ConnectApi.Recommendation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_proposition.htm "A Next Best Action recommendation object.")
-    
+
 -   [ConnectApi.NBANativeRecommendation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_proposition_recommendation.htm "A record the user is recommended to take action on.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.Recommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_proposition.htm)
+- ConnectApi.NBANativeRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_n_b_a_proposition_recommendation.htm)

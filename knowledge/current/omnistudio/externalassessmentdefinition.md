@@ -5,11 +5,15 @@ topic: externalassessmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.003Z
-keywords: [ExternalAssessmentDefinition, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.996Z
+estimatedTokens: 755
+keywords: [ExternalAssessmentDefinition, Stores, information, external, assessments., API, version, 60.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # ExternalAssessmentDefinition
+
+> Stores information about external assessments. This object is available
+      in API version 60.0 and later.
 
 # ExternalAssessmentDefinition
 

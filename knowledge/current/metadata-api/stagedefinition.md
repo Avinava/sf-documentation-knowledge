@@ -5,11 +5,15 @@ topic: stagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.741Z
-keywords: [StageDefinition, Parent, Type, File, Suffix, Directory, Location, Version, Fields, StageTransition, StageCriteria, StageCondition, StgFulfillmentStepDefGrp, StgFulfillmentStepDef, StgFulfillmentStepDpndDef, StageValue, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:42.985Z
+estimatedTokens: 2169
+keywords: [StageDefinition, Represents, collection, fields, set, states, transitions, Stage, Management., Parent, File, Suffix, Directory, Location, Version, Fields, StageTransition, StageCriteria, StageCondition, StgFulfillmentStepDefGrp]
 ---
 
 # StageDefinition
+
+> Represents a collection of fields to set up the states and
+			transitions for Stage Management.
 
 # StageDefinition
 
@@ -142,3 +146,102 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<StageDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>false</active>
+    <description>Application form Stage transitions</description>
+    <masterLabel>basic</masterLabel>
+    <referenceObject>ApplicationForm</referenceObject>
+    <referenceObjectField>Stage</referenceObjectField>
+    <stageTransition>
+        <criteria>
+            <condition>
+                <operator>Equals</operator>
+                <sequenceNumber>1</sequenceNumber>
+                <sourceField>ApplicationForm.Name</sourceField>
+                <value>test</value>
+            </condition>
+            <criteriaType>AND</criteriaType>
+            <executionType>CONDITION</executionType>
+            <logicalExpression>1</logicalExpression>
+            <targetObject>ApplicationForm</targetObject>
+        </criteria>
+        <userPermission>ProcessOrder</userPermission>
+        <fromStageValue>Initiated</fromStageValue>
+        <toStageValue>On Hold</toStageValue>
+        <stepGroup>
+            <name>Initiated-On Hold</name>
+            <step>
+                <apiName>Autotask_step_defn</apiName>
+                <flowDefinitionName>disputemanagement__InvokeAsyncAction</flowDefinitionName>
+                <name>Autotask step defn</name>
+                <runAsUser>testuser@salesforce.com</runAsUser>
+                <stepType>AutoTask</stepType>
+            </step>
+            <step>
+                <apiName>testScreenFlow</apiName>
+                <assignedToUser>testuser@salesforce.com</assignedToUser>
+                <flowDefinitionName>cms_orch__CMS_NotifyRequester</flowDefinitionName>
+                <name>testScreenFlow</name>
+                <stepType>ManualTask</stepType>
+                <dependency>
+                   <step>Autotask_step_defn</step>
+                </dependency>
+            </step>
+        </stepGroup>
+    </stageTransition>
+    <stageValue>
+        <value>Initiated</value>
+        <criteria>
+            <condition>
+                <operator>Equals</operator>
+                <sequenceNumber>1</sequenceNumber>
+                <sourceField>ApplicationForm.Name</sourceField>
+                <value>test</value>
+            </condition>
+            <criteriaType>AND</criteriaType>
+            <executionType>CONDITION</executionType>
+            <logicalExpression>1</logicalExpression>
+            <targetObject>ApplicationForm</targetObject>
+        </criteria>
+        <stepGroup>
+            <name>Initiated</name>
+            <step>
+                <apiName>Autotask_step_defn</apiName>
+                <flowDefinitionName>disputemanagement__InvokeAsyncAction</flowDefinitionName>
+                <name>Autotask step defn</name>
+                <runAsUser>testuser@salesforce.com</runAsUser>
+                <stepType>AutoTask</stepType>
+            </step>
+            <step>
+                <apiName>testScreenFlow</apiName>
+                <assignedToUser>testuser@salesforce.com</assignedToUser>
+                <flowDefinitionName>cms_orch__CMS_NotifyRequester</flowDefinitionName>
+                <name>testScreenFlow</name>
+                <stepType>ManualTask</stepType>
+                <dependency>
+                    <step>Autotask_step_defn</step>
+                </dependency>
+            </step>
+        </stepGroup>
+    </stageValue>
+    <stageValue>
+        <value>On Hold</value>
+    </stageValue>
+</StageDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>StageDefinition</name>
+    </types>
+    <version>62.0</version>
+</Package>
+```

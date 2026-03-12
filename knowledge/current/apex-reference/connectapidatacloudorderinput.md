@@ -5,11 +5,15 @@ topic: connectapidatacloudorderinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.078Z
-keywords: [ConnectApi.DatacloudOrderInput, See]
+lastCollected: 2026-03-12T05:14:24.768Z
+estimatedTokens: 261
+keywords: [ConnectApi.DatacloudOrderInput, Input, representation, Datacloud, order, purchase, contacts, companies, retrieve, information.]
 ---
 
 # ConnectApi.DatacloudOrderInput
+
+> Input representation for a Datacloud order to purchase contacts or
+      companies and retrieve purchase information.
 
 # ConnectApi.DatacloudOrderInput
 
@@ -24,3 +28,9 @@ Input representation for a Datacloud order to purchase contacts or companies and
 #### See Also
 
 -   [postOrder(orderInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Datacloud_static_methods.htm#apex_ConnectAPI_Datacloud_postOrder_1 "Purchase records that are listed in an input file.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectDatacloudUserTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- postOrder(orderInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Datacloud_static_methods.htm)

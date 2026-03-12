@@ -5,11 +5,15 @@ topic: waveanalyticassetcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.298Z
-keywords: [WaveAnalyticAssetCollection, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, WaveAnalyticAssestCollectionItem]
+lastCollected: 2026-03-12T05:14:43.865Z
+estimatedTokens: 544
+keywords: [WaveAnalyticAssetCollection, Represents, collection, Analytics, assets., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version, Fields, Declarative]
 ---
 
 # WaveAnalyticAssetCollection
+
+> Represents a collection of Analytics assets. This type
+      extends the Metadata metadata type and inherits its fullName field.
 
 # WaveAnalyticAssetCollection
 
@@ -62,3 +66,38 @@ WaveAnalyticAssestCollectionItem represents an Analytics asset item.
 | asset | string | The asset name. |
 | assetType | string | The asset type. |
 | sortOrder | int | The sort order for the asset. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>  
+<WaveAnalyticsAssetCollection xmlns="http://soap.sforce.com/2006/04/metadata">
+  <collectionType>static</collectionType>
+  <color>#1b96ff</color>
+  <description>A collection of my Dashboards</description>
+  <folder>Shared</folder>
+  <label>My Dashboard Collection</label>
+  <items>
+     <item>
+        <asset>Dashboard One</asset>
+        <assetType>dashboard</assetType>
+        <sortOrder>1</sortOrder>
+     </item>
+     <item>
+        <asset>Dashboard Two</asset>
+        <assetType>dashboard</assetType>
+        <sortOrder>2</sortOrder>
+     </item>
+  </items>
+  <shares>
+    <accessLevel>EditAllContents</accessLevel>
+    <sharedTo>shareswith@org.ee</sharedTo>
+    <sharedToType>User</sharedToType>
+  </shares>
+</WaveAnalyticsAssetCollection>
+```
+
+## Related Topics
+
+- FolderShare (atlas.en-us.api_meta.meta/api_meta/meta_foldershare.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

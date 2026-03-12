@@ -5,11 +5,18 @@ topic: pushnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.379Z
-keywords: [PushNotification, Class, Namespace, Example]
+lastCollected: 2026-03-12T05:14:23.663Z
+estimatedTokens: 221
+namespace: Messaging
+keywords: [PushNotification, used, configure, push, notifications, send, Apex, trigger., Example]
 ---
 
 # PushNotification Class
+
+> PushNotification is used to
+   configure push notifications and send them from an Apex trigger.
+
+**Namespace:** `Messaging`
 
 # PushNotification Class
 
@@ -27,6 +34,56 @@ This sample Apex trigger sends push notifications to the external client app nam
 
 ```
 
--   **[PushNotification Constructors](atlas.en-us.apexref.meta/apexref/apex_Messaging_PushNotification_constructors.htm)**  
-    
+-   **[PushNotification Constructors](atlas.en-us.apexref.meta/apexref/apex_Messaging_PushNotification_constructors.htm)**
+
 -   **[PushNotification Methods](atlas.en-us.apexref.meta/apexref/apex_Messaging_PushNotification_methods.htm)**
+
+## Code Examples
+
+```apex
+trigger caseAlert on Case (after update) {    
+    
+    for(Case cs : Trigger.New)  
+    {
+        // Instantiating a notification
+        Messaging.PushNotification msg = 
+            new Messaging.PushNotification();
+
+        // Assembling the necessary payload parameters for Apple.
+        // Apple params are: 
+        // (<alert text>,<alert sound>,<badge count>,
+        // <free-form data>)
+        // This example doesn't use badge count or free-form data.
+        // The number of notifications that haven't been acted
+        // upon by the intended recipient is best calculated
+        // at the time of the push. This timing helps
+        // ensure accuracy across multiple target devices.
+        Map<String, Object> payload = 
+            Messaging.PushNotificationPayload.apple(
+                'Case ' + cs.CaseNumber + ' status changed to: ' 
+                + cs.Status, '', null, null);
+
+        // Adding the assembled payload to the notification
+        msg.setPayload(payload);
+
+        // Getting recipient users
+        String userId1 = cs.OwnerId;
+        String userId2 = cs.LastModifiedById;
+
+        // Adding recipient users to list
+        Set<String> users = new Set<String>();
+        users.add(userId1);
+        users.add(userId2);                       
+
+        // Sending the notification to the specified app and users.
+        // Here we specify the API name of the external client app.  
+        msg.send('Test_App', users);
+    }
+}
+```
+
+## Related Topics
+
+- Messaging (atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm)
+- PushNotification Constructors (atlas.en-us.apexref.meta/apexref/apex_Messaging_PushNotification_constructors.htm)
+- PushNotification Methods (atlas.en-us.apexref.meta/apexref/apex_Messaging_PushNotification_methods.htm)

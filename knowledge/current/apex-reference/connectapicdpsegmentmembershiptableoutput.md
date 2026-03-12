@@ -5,11 +5,14 @@ topic: connectapicdpsegmentmembershiptableoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.292Z
-keywords: [ConnectApi.CdpSegmentMembershipTableOutput, See]
+lastCollected: 2026-03-12T05:14:26.579Z
+estimatedTokens: 128
+keywords: [ConnectApi.CdpSegmentMembershipTableOutput, Data, 360, segment, membership, table.]
 ---
 
 # ConnectApi.CdpSegmentMembershipTableOutput
+
+> Data 360 segment membership table.
 
 # ConnectApi.CdpSegmentMembershipTableOutput
 
@@ -24,3 +27,8 @@ Data 360 segment membership table.
 #### See Also
 
 -   [ConnectApi.CdpSegmentOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_output.htm "Segment.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.CdpSegmentOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_segment_output.htm)

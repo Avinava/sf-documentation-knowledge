@@ -5,11 +5,19 @@ topic: tooling-api-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:38.258Z
-keywords: [Tooling, API, Usage]
+lastCollected: 2026-03-12T05:14:46.052Z
+estimatedTokens: 924
+namespace: ClassA
+keywords: [Tooling, API, Usage, SOQL, queries, list, relationships, between, metadata, components, org., query, results, include, row, relationship., relationship, directional, dependency, two]
 ---
 
 # Tooling API Usage
+
+> Use SOQL queries to list the relationships between the metadata components in your org.
+  The query results include one row for each relationship. Each relationship is a directional
+  dependency between two metadata components.
+
+**Namespace:** `ClassA`
 
 # Tooling API Usage
 
@@ -103,4 +111,43 @@ This example shows all references to a field, including references from layouts,
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+public class YourClass {
+    public void updateAccount(Account acc, String value) {
+        acc.yourField__c = value;
+        update(acc);
+    }
+}
+```
+
+```apex
+public class ClassA {
+    public ClassB newB() {
+        return new ClassB();
+    }
+}
+```
+
+```apex
+public class ClassB {
+    public ClassA newA() {
+        return new ClassA();
+    }
+}
+```
+
+```
+SELECT MetadataComponentName, MetadataComponentType
+    FROM MetadataComponentDependency
+    WHERE RefMetadataComponentType = 'ApexClass'
+```
+
+```
+SELECT MetadataComponentName, MetadataComponentType
+    FROM MetadataComponentDependency
+    WHERE RefMetadataComponentId = yourFieldId
 ```

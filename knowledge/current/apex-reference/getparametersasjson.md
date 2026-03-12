@@ -5,11 +5,15 @@ topic: getparametersasjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.122Z
-keywords: [getParametersAsJSON, Signature, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.358Z
+estimatedTokens: 289
+keywords: [getParametersAsJSON, Retrieves, current, custom, canvas, app., returned, JSON, string., Usage, Example]
 ---
 
 # getParametersAsJSON()
+
+> Retrieves the current custom parameters for the canvas app. Parameters are returned
+        as a JSON string.
 
 # getParametersAsJSON()
 
@@ -36,3 +40,20 @@ This example gets the current custom parameters, de-serializes them into a map, 
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Canvas.EnvironmentContext env = renderContext.getEnvironmentContext();
+
+// Get current custom params
+Map<String, Object> currentParams = 
+    (Map<String, Object>) JSON.deserializeUntyped(env.getParametersAsJSON());
+System.debug('Environment Context custom paramters: ' + currentParams);
+```
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- System.JSON.deserializeUntyped(jsonString) (atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm)
+- Canvas.EnvironmentContext.setParametersAsJSON(jsonString) (atlas.en-us.apexref.meta/apexref/apex_canvas_EnvironmentContext_setParametersAsJSON.htm)

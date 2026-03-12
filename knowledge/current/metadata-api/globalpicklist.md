@@ -5,11 +5,17 @@ topic: globalpicklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.980Z
-keywords: [GlobalPicklist, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:40.324Z
+estimatedTokens: 643
+keywords: [GlobalPicklist, Represents, picklist, set, shared, values, custom, fields, use., contrast, based, CustomValue., extends, Metadata, metadata, inherits, its, fullName, field., Important]
 ---
 
 # GlobalPicklist
+
+> Represents a global picklist, or the set of shared
+      picklist values that custom picklist fields can use. In contrast, the custom picklist fields
+      that are based on a global picklist are of type CustomValue. This type extends the Metadata metadata type and inherits its
+        fullName field.
 
 # GlobalPicklist
 
@@ -51,3 +57,48 @@ This example package.xml references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalPicklist xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Updated:This is a basic global picklist</description>
+    <globalPicklistValues>
+        <fullName>Northwest</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>Northeast</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>South</fullName>
+        <default>true</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>Southwest</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+    </globalPicklistValues>
+    <masterLabel>Territories</masterLabel>
+    <sorted>true</sorted>
+</GlobalPicklist>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Territories</members>
+        <name>GlobalPicklist</name>
+    </types>
+    <version>37.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- GlobalValueSet (atlas.en-us.api_meta.meta/api_meta/meta_globalvalueset.htm)
+- GlobalPicklistValue (atlas.en-us.api_meta.meta/api_meta/meta_globalpicklistvalue.htm)

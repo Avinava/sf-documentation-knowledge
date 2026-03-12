@@ -5,11 +5,16 @@ topic: marketing-cloud-account-engagement-form-activity-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.653Z
-keywords: [Marketing, Cloud, Account, Engagement, Form, Activity, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:14.434Z
+estimatedTokens: 573
+keywords: [Marketing, Cloud, Account, Engagement, Form, Activity, Mapping, After, data, stream, deployed, bundle, maps, source, objects, model, DMOs, Data, Cloud., includes]
 ---
 
 # Marketing Cloud Account Engagement: Form Activity Mapping
+
+> After a data stream is deployed, the Marketing Cloud Account Engagement data bundle
+        maps source objects from Account Engagement to data model objects (DMOs) in  Data Cloud. The Form Activity object includes form engagement
+        data from forms embedded in Account Engagement landing pages.
 
 # Marketing Cloud Account Engagement: Form Activity Mapping
 

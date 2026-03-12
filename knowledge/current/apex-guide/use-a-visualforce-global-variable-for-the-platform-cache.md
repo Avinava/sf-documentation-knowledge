@@ -5,11 +5,18 @@ topic: use-a-visualforce-global-variable-for-the-platform-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.396Z
-keywords: [Visualforce, Global, Variable, Platform, Cache, Note]
+lastCollected: 2026-03-12T05:14:33.752Z
+estimatedTokens: 465
+namespace: CacheBuilder
+keywords: [Visualforce, Variable, Platform, Cache, access, cached, values, stored, session, org, cache, page, variables., Note]
 ---
 
 # Use a Visualforce Global Variable for the Platform Cache
+
+> You can access cached values stored in the session or org cache from a Visualforce page
+    with global variables.
+
+**Namespace:** `CacheBuilder`
 
 # Use a Visualforce Global Variable for the Platform Cache
 
@@ -59,4 +66,26 @@ If you’re using CacheBuilder, qualify the key name with the class that impleme
 
 ```
 
+```
+
+## Code Examples
+
+```
+<apex:outputText value="{!$Cache.Session.myNamespace.myPartition.key1}"/>
+```
+
+```
+<apex:outputText value="{!$Cache.Org.myNamespace.myPartition.key1}"/>
+```
+
+```
+<apex:outputText value="{!$Cache.Session.local.myPartition.key1}"/>
+```
+
+```
+<apex:outputText value="{!$Cache.Session.local.myPartition.numbersList.size}"/>
+```
+
+```
+<apex:outputText value="{!$Cache.Session.local.myPartition.myData.value}"/>
 ```

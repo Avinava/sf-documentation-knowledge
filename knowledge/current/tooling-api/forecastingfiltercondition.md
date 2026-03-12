@@ -5,11 +5,15 @@ topic: forecastingfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.039Z
-keywords: [ForecastingFilterCondition, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.743Z
+estimatedTokens: 829
+keywords: [ForecastingFilterCondition, Represents, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts., API, version, 55.0, later., Important, Supported, SOAP, Calls, REST]
 ---
 
 # ForecastingFilterCondition
+
+> Represents the custom filter condition logic for including or excluding data
+         from opportunity forecasts. This object is available in API version 55.0 and later.
 
 # ForecastingFilterCondition
 

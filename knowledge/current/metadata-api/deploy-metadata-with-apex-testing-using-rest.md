@@ -5,11 +5,15 @@ topic: deploy-metadata-with-apex-testing-using-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.413Z
-keywords: [Deploy, Metadata, Apex, Testing, REST, deployOptions, Parameters, Note, Request, Body, Response, deployResult]
+lastCollected: 2026-03-12T05:14:42.444Z
+estimatedTokens: 2733
+keywords: [Deploy, Metadata, Apex, Testing, REST, deployRequest, resource, initiate, request, handles, operations, deployment., deployOptions, Note, Request, Body, Response, deployResult]
 ---
 
 # Deploy Metadata with Apex Testing Using REST
+
+> Deploy using the deployRequest REST resource to
+    initiate a request that handles all operations for the deployment.
 
 # Deploy Metadata with Apex Testing Using REST
 
@@ -106,3 +110,69 @@ When an HTTP status code of 201 (Created) is returned, your request has succeede
 | stateDetail |  | String. Indicates which component is being deployed or which Apex test class is running. |
 | status |  | Indicates the current state of the deployment. The valid values are:PendingInProgressFinalizingDeployFinalizingDeployFailedSucceededSucceededPartialFailedCancelingCanceled |
 | success |  | Boolean. Indicates whether the deployment was successful (true) or not (false). |
+
+## Code Examples
+
+```
+POST /services/data/v48.0/metadata/deployRequest
+Authorization: Bearer 00D....
+Content-Type: multipart/form-data; boundary=--------------------------BOUNDARY
+
+----------------------------BOUNDARY
+Content-Disposition: form-data; name="json"
+Content-Type: application/json
+
+{ 
+    "deployOptions" :
+        {
+        "allowMissingFiles" : false,
+        "autoUpdatePackage" : false,
+        "checkOnly" : false,
+        "ignoreWarnings" : false,
+        "performRetrieve" : false,
+        "purgeOnDelete" : false,
+        "rollbackOnError" : false,
+        "runTests" : null,
+        "singlePackage" : true,
+        "testLevel" : "RunAllTestsInOrg"
+        }
+    }
+
+----------------------------BOUNDARY
+Content-Disposition: form-data; name="file"; filename="deploy.zip"
+Content-Type: application/zip
+
+//Contents of deploy.zip
+----------------------------BOUNDARY--
+```
+
+```
+{ "id" : "0Afxx00000001VPCAY",
+  "deployOptions" : 
+   { "checkOnly" : false,
+     "singlePackage" : false,
+     "allowMissingFiles" : false,
+     "performRetrieve" : false,
+     "autoUpdatePackage" : false,
+     "rollbackOnError" : true,
+     "ignoreWarnings" : false,
+     "purgeOnDelete" : false,
+     "runAllTests" : false },
+  "deployResult" : 
+   { "id" : "0Afxx00000001VPCAY",
+     "success" : false,
+     "checkOnly" : false,
+     "ignoreWarnings" : false,
+     "rollbackOnError" : true,
+     "status" : "Pending",
+     "runTestsEnabled" : false,
+     "done" : false } }
+```
+
+## Related Topics
+
+- Running Tests in a Deployment (atlas.en-us.api_meta.meta/api_meta/meta_deploy_running_tests.htm)
+- Run the Same Tests in Sandbox and Production Deployments (atlas.en-us.api_meta.meta/api_meta/meta_deploy_run_local_tests.htm)
+- Deploy a Recently Validated Component Set Without Tests (atlas.en-us.api_meta.meta/api_meta/meta_rest_deploy_recentvalidation.htm)
+- DeployMessage (atlas.en-us.api_meta.meta/api_meta/meta_deployresult.htm)
+- Running a Subset of Tests in a Deployment (atlas.en-us.api_meta.meta/api_meta/meta_deploy_run_specific_tests.htm)

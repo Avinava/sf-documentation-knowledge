@@ -5,11 +5,16 @@ topic: sobjectdescribeoptions-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.426Z
-keywords: [SObjectDescribeOptions, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.552Z
+estimatedTokens: 293
+keywords: [SObjectDescribeOptions, Schema.SObjectDescribeOptions, SObjectType.getDescribe, method., Usage, Values]
 ---
 
 # SObjectDescribeOptions Enum
+
+> A Schema.SObjectDescribeOptions enum value is a
+    parameter in the SObjectType.getDescribe
+    method.
 
 # SObjectDescribeOptions Enum
 
@@ -30,3 +35,7 @@ The following are the values of the Schema.SObjectDescribeOptions enum.
 | FULL | Eager-load all elements of the describe, including child relationships, up-front at the time of method invocation. |
 
 See [getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1389787181 "Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.").
+
+## Related Topics
+
+- getDescribe(options) (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm)

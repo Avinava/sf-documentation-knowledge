@@ -5,11 +5,19 @@ topic: recordsetfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.809Z
-keywords: [RecordsetFilterCriteria, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.398Z
+estimatedTokens: 980
+keywords: [RecordsetFilterCriteria, Represents, set, filters, used, match, service, appointments, assets, based, criteria, fields., example, create, recordset, filter, only, satisfy, matched, filtered]
 ---
 
 # RecordsetFilterCriteria
+
+> Represents a set of filters that can be used to match service appointments or
+      assets based on your criteria fields. For example, you can create recordset filter
+    criteria so that only service appointments that satisfy the filter criteria are matched to the
+    filtered shifts, and likewise only maintenance work rules that satisfy your criteria are matched
+    to assets. This object is available in API version 50.0 and later. Assets and maintenance work
+    rules are available in API version 52.0 and later.
 
 # RecordsetFilterCriteria
 

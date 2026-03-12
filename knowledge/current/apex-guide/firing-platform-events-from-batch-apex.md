@@ -5,11 +5,19 @@ topic: firing-platform-events-from-batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.324Z
-keywords: [Firing, Platform, Events, Batch, Apex, Example, Testing, BatchApexErrorEvent, Messages, Published, Jobs, Note, See]
+lastCollected: 2026-03-12T05:14:32.259Z
+estimatedTokens: 958
+keywords: [Firing, Platform, Events, Batch, Apex, classes, fire, platform, events, encountering, error, exception., Clients, listening, event, obtain, actionable, information, such, how]
 ---
 
 # Firing Platform Events from Batch Apex
+
+> Batch Apex classes can fire platform events when
+            encountering an error or exception. Clients listening on an event can obtain actionable
+            information, such as how often the event failed and which records were in scope at the
+            time of failure. Events are also fired for Salesforce Platform internal errors and other
+            uncatchable Apex exceptions such as LimitExceptions, which are caused by reaching
+            governor limits.
 
 # Firing Platform Events from Batch Apex
 
@@ -55,6 +63,58 @@ If further platform events are published by downstream processes, add Test.getEv
 
 -   [*Platform Events Developer Guide*: Deliver Test Event Messages](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/platform_events_test_deliver.htm "Platform Events Developer Guide: Deliver Test Event
     Messages - HTML (New Window)")
-    
+
 -   [*Platform Events Developer Guide*: Event and Event Bus Properties in Test Context](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/platform_events_test_events.htm "Platform Events Developer Guide: Event and Event Bus
     Properties in Test Context - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public with sharing class YourSampleBatchJob implements Database.Batchable<SObject>, 
+   Database.RaisesPlatformEvents{ 
+   // class implementation 
+}
+```
+
+```apex
+trigger MarkDirtyIfFail on BatchApexErrorEvent (after insert) {
+    Set<Id> asyncApexJobIds = new Set<Id>();
+    for(BatchApexErrorEvent evt:Trigger.new){
+        asyncApexJobIds.add(evt.AsyncApexJobId);
+    }
+    
+    Map<Id,AsyncApexJob> jobs = new Map<Id,AsyncApexJob>(
+        [SELECT id, ApexClass.Name FROM AsyncApexJob WHERE Id IN :asyncApexJobIds]
+    );
+    
+    List<Account> records = new List<Account>();
+    for(BatchApexErrorEvent evt:Trigger.new){
+        //only handle events for the job(s) we care about
+        if(jobs.get(evt.AsyncApexJobId).ApexClass.Name == 'AccountUpdaterJob'){
+            for (String item : evt.JobScope.split(',')) {
+                Account a = new Account(
+                    Id = (Id)item,
+                    ExceptionType__c = evt.ExceptionType,
+                    Dirty__c = true
+                );
+                records.add(a);
+            }
+        }
+    }
+    update records;
+}
+```
+
+```apex
+try {
+    Test.startTest();
+    Database.executeBatch(new SampleBatchApex());
+    Test.stopTest();
+    // Batch Apex job executes here
+} catch(Exception e) {
+    // Catch any exceptions thrown in the batch job
+}
+
+// The batch job fires BatchApexErrorEvent if it fails, so deliver the event.
+Test.getEventBus().deliver();
+```

@@ -5,11 +5,17 @@ topic: sobjects-suggested-articles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.754Z
-keywords: [sObjects, Suggested, Articles, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.128Z
+estimatedTokens: 742
+keywords: [sObjects, Suggested, Articles, results, suggested, articles, Case, Work, Order, Line., suggestions, based, common, keywords, title, description, information, that’s, entered, before]
 ---
 
 # sObjects Suggested Articles
+
+> Returns results on suggested articles for a Case, Work Order, or Work Order Line. These
+    suggestions are based on common keywords in the title, description, and other information that’s
+    entered before the record has been saved and assigned an ID. This resource is available in REST
+    API version 30.0 and later.
 
 # sObjects Suggested Articles
 
@@ -67,4 +73,32 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+categories=%7B%22Regions%22%3A%22Asia%22%2C%22
+Products%22%3A%22Laptops%22%7D
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Case/suggestedArticles?
+language=en_US&subject=orange+banana&articleTypes=ka0&articleTypes=ka1
+ -H "Authorization: Bearer token"
+```
+
+```
+[ {
+  "attributes" : {
+    "type" : "KnowledgeArticleVersion",
+    "url" : "/services/data/v66.0/sobjects/KnowledgeArticleVersion/ka0D00000004CcQ"
+  "Id" : "ka0D00000004CcQ"
+}, {
+  "attributes" : {
+    "type" : "KnowledgeArticleVersion",
+    "url" : "/services/data/v66.0/sobjects/KnowledgeArticleVersion/ka0D00000004CXo"
+  },
+  "Id" : "ka0D00000004CXo"
+} ]
 ```

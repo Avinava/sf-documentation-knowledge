@@ -5,11 +5,15 @@ topic: connectapibaserequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.214Z
-keywords: [ConnectApi.BaseRequest]
+lastCollected: 2026-03-12T05:14:24.988Z
+estimatedTokens: 453
+keywords: [ConnectApi.BaseRequest, Base, making, request, payment, gateway.]
 ---
 
 # ConnectApi.BaseRequest
+
+> Base parameters for making a request to the payment
+    gateway.
 
 # ConnectApi.BaseRequest
 
@@ -33,3 +37,16 @@ Superclass of:
 | --- | --- | --- | --- | --- |
 | additionalData | Map<String, String> | An optional map of additional parameters to be sent to the payment gateway. | Optional | 50.0 |
 | idempotencyKey | String | Idempotency key. | Optional | 50.0 |
+
+## Related Topics
+
+- ConnectApi.AuditParamsRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_audit_params.htm)
+- ConnectApi.AuthorizationRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_authorization.htm)
+- ConnectApi.AuthorizationReversalRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_auth_reversal.htm)
+- ConnectApi.CaptureRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_capture.htm)
+- ConnectApi.PaymentMethodTokenizationRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_payment_method_tokenization.htm)
+- ConnectApi.PostAuthRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_post_auth.htm)
+- ConnectApi.RefundRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_refund.htm)
+- ConnectApi.SaleRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_sale.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

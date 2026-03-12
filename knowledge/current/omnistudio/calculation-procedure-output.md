@@ -5,11 +5,14 @@ topic: calculation-procedure-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.102Z
-keywords: [Calculation, Procedure, Output, Note]
+lastCollected: 2026-03-12T05:14:49.650Z
+estimatedTokens: 215
+keywords: [Calculation, Procedure, Output, representation, expression, details., Note]
 ---
 
 # Calculation Procedure Output
+
+> Output representation of the expression sets details.
 
 # Calculation Procedure Output
 
@@ -32,3 +35,15 @@ Sample Response
 | description | String | The description of the expression set. | Small, 53.0 | 53.0 |
 | id | String | The ID of the expression set record. | Small, 53.0 | 53.0 |
 | name | String | The name of the expression set. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "calculationProcedures" : [ {
+      "id" : "0k0x0000000008ZAAQ",
+      "description" : "Test calculation set",
+      "name" : "Expression_Set_1"
+   }
+}
+```

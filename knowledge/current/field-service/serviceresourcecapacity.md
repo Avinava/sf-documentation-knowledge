@@ -5,11 +5,16 @@ topic: serviceresourcecapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.943Z
-keywords: [ServiceResourceCapacity, Supported, Calls, Special, Access, Rules, Fields, Usage, Important, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.605Z
+estimatedTokens: 964
+keywords: [ServiceResourceCapacity, Represents, maximum, number, scheduled, hours, service, appointments, capacity-based, resource, complete, within, specific, time, period., API, version, 38.0, later., Supported]
 ---
 
 # ServiceResourceCapacity
+
+> Represents the maximum number of scheduled hours or number of service
+			appointments that a capacity-based service resource can complete within a specific time
+			period. This object is available in API version 38.0 and later.
 
 # ServiceResourceCapacity
 

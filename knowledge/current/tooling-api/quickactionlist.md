@@ -5,11 +5,14 @@ topic: quickactionlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.597Z
-keywords: [QuickActionList, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.572Z
+estimatedTokens: 180
+keywords: [QuickActionList, Represents, list, quick, actions., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # QuickActionList
+
+> Represents a list of quick actions.
 
 # QuickActionList
 
@@ -39,4 +42,16 @@ The following example retrieves all quick action lists in an organization and th
 
 ```
 
+```
+
+## Code Examples
+
+```
+String query = "SELECT Id,LayoutId FROM QuickActionList";
+SObject[] records = sforce.query(query).getRecords();
+
+for (int i = 0; i < records.length; i++) {
+   QuickActionList list = (QuickActionList)records[i];
+   String relatedLayoutId = list.get("LayoutId");
+}
 ```

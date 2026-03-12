@@ -5,11 +5,14 @@ topic: connectapicdpidentityresolutionrunnowoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.235Z
-keywords: [ConnectApi.CdpIdentityResolutionRunNowOutput]
+lastCollected: 2026-03-12T05:14:26.493Z
+estimatedTokens: 123
+keywords: [ConnectApi.CdpIdentityResolutionRunNowOutput, Identity, resolution, ruleset, run, now, output.]
 ---
 
 # ConnectApi.CdpIdentityResolutionRunNowOutput
+
+> Identity resolution ruleset run now output.
 
 # ConnectApi.CdpIdentityResolutionRunNowOutput
 
@@ -18,3 +21,7 @@ Identity resolution ruleset run now output.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | resultCode | ConnectApi.​CdpIdentityResolution​RunNowResultCode | Result of an identity resolution ruleset job run. Values are:ExceededMaximumNumberOf​SuccessfulRunsAllowedIn24HoursIdentityResolutionJobIsAlready​RunningNoPendingChangesJobRunSkippedSuccessfullySubmittedIdentity​ResolutionJobRunRequest | 57.0 |
+
+## Related Topics
+
+- ConnectApi.​CdpIdentityResolution​RunNowResultCode (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

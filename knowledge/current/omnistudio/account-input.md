@@ -5,11 +5,14 @@ topic: account-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.978Z
-keywords: [Account, Input]
+lastCollected: 2026-03-12T05:14:47.974Z
+estimatedTokens: 580
+keywords: [Account, Input, representation, account.]
 ---
 
 # Account Input
+
+> Input representation of an account.
 
 # Account Input
 
@@ -51,3 +54,32 @@ Properties
 | tier | String | Tier type of the account. | Optional | 58.0 |
 | type | String | Type of account. | Optional | 58.0 |
 | website | String | Website of the account. | Optional | 58.0 |
+
+## Code Examples
+
+```
+"accountDetail":{
+       "name":"prg5",
+       "ownerId":"005xx000001X7tNAAS",
+       "billingAddress":{
+          "street":"",
+          "city":"Los Angeles",
+          "state":"California",
+          "country":"USA",
+          "postalCode":"90042"
+       },
+       "shippingAddress":{
+          "street":"",
+          "city":"Los Angeles",
+          "state":"California",
+          "country":"USA",
+          "postalCode":"11111"
+       },
+       "phone":"0123456789"
+    }
+```
+
+## Related Topics
+
+- Address
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_address_input.htm)

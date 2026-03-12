@@ -5,11 +5,14 @@ topic: connectapicontentattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.432Z
-keywords: [ConnectApi.ContentAttachment, Important]
+lastCollected: 2026-03-12T05:14:26.798Z
+estimatedTokens: 902
+keywords: [ConnectApi.ContentAttachment, Attachments, feed, items, ContentPost., Important]
 ---
 
 # ConnectApi.ContentAttachment
+
+> Attachments in feed items with the type ContentPost.
 
 # ConnectApi.ContentAttachment
 
@@ -46,3 +49,10 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | thumb​720By480​RenditionStatus | String | Specifies the rendering status of the 720 x 480 preview image of the file. One of these values:Processing—Image is being rendered.Failed—Rendering process failed.Success—Rendering process was successful.Na—Rendering is not available for this image. | 30.0–31.0 |
 | title | String | Title of the file. | 28.0–31.0 |
 | versionId | String | 18-character ID for this version of the content. | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.ContentCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

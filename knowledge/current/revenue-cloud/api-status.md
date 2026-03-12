@@ -5,11 +5,14 @@ topic: api-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.352Z
-keywords: [API, Status]
+lastCollected: 2026-03-12T05:14:07.323Z
+estimatedTokens: 108
+keywords: [API, Status, Output, representation, status.]
 ---
 
 # API Status
+
+> Output representation of the API status.
 
 # API Status
 
@@ -20,3 +23,8 @@ Output representation of the API status.
 | messages | CPQ Message[] | Status messages of the API execution. | Small, 60.0 | 60.0 |
 | status​Code | String | Status code of the API execution. | Small, 60.0 | 60.0 |
 | status​Message | String | Display label for the API status. | Small, 60.0 | 60.0 |
+
+## Related Topics
+
+- CPQ
+                Message (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_message_output.htm)

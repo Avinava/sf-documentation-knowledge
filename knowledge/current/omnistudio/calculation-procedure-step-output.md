@@ -5,11 +5,15 @@ topic: calculation-procedure-step-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.110Z
-keywords: [Calculation, Procedure, Step, Output, Note]
+lastCollected: 2026-03-12T05:14:49.664Z
+estimatedTokens: 1050
+keywords: [Calculation, Procedure, Step, Output, representation, steps, expression, set, version, record., Note]
 ---
 
 # Calculation Procedure Step Output
+
+> Output representation of the steps of the expression set version
+      record.
 
 # Calculation Procedure Step Output
 
@@ -46,3 +50,7 @@ This API has been deprecated as of API version 55.0. In API version 55.0 and lat
 | return​Message​ValueSet | String | User-configured messages for the result of the current step.NoteThis field is applicable when the step type is Condition. | Small, 53.0 | 53.0 |
 | stage | String | Indicates whether the expression set version step is a calculation or an aggregation.NoteIn version 53.0 and later, only calculation is supported. | Small, 53.0 | 53.0 |
 | stepType | String | Indicates whether the expression set version step type is mathematical or lookup. Possible values are:ConditionCalculationMatrixLookupReferenceProcedureBranchConditionalGroup | Small, 53.0 | 53.0 |
+
+## Related Topics
+
+- Expression Set DES Token Mapping (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_des_token_mapping.htm)

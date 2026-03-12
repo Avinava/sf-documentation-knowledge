@@ -5,11 +5,16 @@ topic: validationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.940Z
-keywords: [ValidationRule, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Metadata]
+lastCollected: 2026-03-12T05:14:47.064Z
+estimatedTokens: 1083
+keywords: [ValidationRule, Represents, validation, rule, workflow, which, specifies, formula, condition, met., API, version, 34.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # ValidationRule
+
+> Represents a validation rule or workflow rule which specifies the
+      formula for when a condition is met.  Available from API version 34.0 or
+    later.
 
 # ValidationRule
 
@@ -47,3 +52,7 @@ active, description, errorDisplayField, and errorMessage are described in the pr
 | Field Name | Details |
 | --- | --- |
 | errorConditionFormula | TypestringPropertiesFilter, Group, Nillable, SortDescriptionRequired. The formula defined in the validation rule. If the formula returns a value of true, an error message is displayed. |
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)

@@ -5,11 +5,14 @@ topic: connectapiuserdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.165Z
-keywords: [ConnectApi.UserDetail, See]
+lastCollected: 2026-03-12T05:14:29.224Z
+estimatedTokens: 468
+keywords: [ConnectApi.UserDetail, Details, user, org.]
 ---
 
 # ConnectApi.UserDetail
+
+> Details about a user in an org.
 
 # ConnectApi.UserDetail
 
@@ -41,5 +44,18 @@ If the context user doesn’t have permission to see a property, its value is se
 #### See Also
 
 -   [ConnectApi.UserPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_page.htm "Page of users.")
-    
+
 -   [ConnectApi.UserProfile](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_profile.htm "Details necessary to render a view of a user profile.")
+
+## Related Topics
+
+- ConnectApi.User (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​Address (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_address.htm)
+- ConnectApi.BannerPhoto (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_banner_photo.htm)
+- ConnectApi.​Chatter​Activity (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_activity.htm)
+- ConnectApi.​Global​Influence (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Chatter_Influence.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​Following​Counts (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_followingCounts.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)

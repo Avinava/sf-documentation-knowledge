@@ -5,11 +5,15 @@ topic: connectapifeedelementcapabilitiesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.167Z
-keywords: [ConnectApi.FeedElementCapabilitiesInput, See]
+lastCollected: 2026-03-12T05:14:24.910Z
+estimatedTokens: 550
+keywords: [ConnectApi.FeedElementCapabilitiesInput, container, capabilities, included, creating, feed, element.]
 ---
 
 # ConnectApi.FeedElementCapabilitiesInput
+
+> A container for all capabilities that can be included when creating
+      a feed element.
 
 # ConnectApi.FeedElementCapabilitiesInput
 
@@ -34,3 +38,16 @@ A container for all capabilities that can be included when creating a feed eleme
 #### See Also
 
 -   [ConnectApi.FeedElementInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element.htm "Feed elements are the top-level items that a feed contains. Feeds are feed element containers.")
+
+## Related Topics
+
+- ConnectApi.​AssociatedActions​CapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_associated_actions_capability.htm)
+- ConnectApi.​BookmarksCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_bookmarks_capability.htm)
+- ConnectApi.​CanvasCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_canvas_capability.htm)
+- ConnectApi.​ContentCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_content_capability.htm)
+- ConnectApi.FilesCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_multiple_content_capability.htm)
+- ConnectApi.​DirectMessage​CapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_direct_message_capability.htm)
+- ConnectApi.​ExtensionsCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_extensions_capability.htm)
+- ConnectApi.​FeedEntityShare​CapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_entity_share_capability.htm)
+- ConnectApi.​FilesCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_multiple_content_capability.htm)
+- ConnectApi.​LinkCapability​Input (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_link_capability.htm)

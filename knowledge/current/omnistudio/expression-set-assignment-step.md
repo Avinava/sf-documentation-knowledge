@@ -5,11 +5,15 @@ topic: expression-set-assignment-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.459Z
-keywords: [Expression, Set, Assignment, Step]
+lastCollected: 2026-03-12T05:14:50.188Z
+estimatedTokens: 120
+keywords: [Expression, Set, Assignment, Step, Output, representation, assignment, step, expression, set.]
 ---
 
 # Expression Set Assignment Step
+
+> Output representation of an assignment step in an expression
+    set.
 
 # Expression Set Assignment Step
 

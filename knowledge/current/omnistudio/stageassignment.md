@@ -5,11 +5,15 @@ topic: stageassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.171Z
-keywords: [StageAssignment, Parent, Type, File, Suffix, Directory, Location, Version, Fields, StgAssignmentRuleCriteria, StgAssignmentRuleCond, Usage, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:52.704Z
+estimatedTokens: 1646
+keywords: [StageAssignment, Represents, collection, fields, automatically, assign, stage, definitions, records, based, rule, criteria., Parent, File, Suffix, Directory, Location, Version, Fields, StgAssignmentRuleCriteria]
 ---
 
 # StageAssignment
+
+> Represents a collection of fields to automatically assign stage
+			definitions to records based on rule criteria.
 
 # StageAssignment
 
@@ -99,3 +103,57 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<StageAssignment xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>Assigns stage definitions to applications based on amount</description>
+    <masterLabel>Application Stage Assignment</masterLabel>
+    <referenceObject>ApplicationForm</referenceObject>
+    <ruleCriteria>
+        <name>High Value Applications</name>
+        <priority>1</priority>
+        <criteriaType>AND</criteriaType>
+        <condition>
+            <fieldName>Amount</fieldName>
+            <operator>GreaterThan</operator>
+            <sequenceNumber>1</sequenceNumber>
+            <value>10000</value>
+        </condition>
+        <condition>
+            <fieldName>Status</fieldName>
+            <operator>Equals</operator>
+            <sequenceNumber>2</sequenceNumber>
+            <value>Approved</value>
+        </condition>
+        <stageDefinition>Premium_Application_Stages</stageDefinition>
+    </ruleCriteria>
+    <ruleCriteria>
+        <name>Standard Applications</name>
+        <priority>2</priority>
+        <criteriaType>AND</criteriaType>
+        <condition>
+            <fieldName>Amount</fieldName>
+            <operator>LessOrEqual</operator>
+            <sequenceNumber>1</sequenceNumber>
+            <value>10000</value>
+        </condition>
+        <stageDefinition>Standard_Application_Stages</stageDefinition>
+    </ruleCriteria>
+    <stageDefinition>Basic_Application_Stages</stageDefinition>
+</StageAssignment>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>StageAssignment</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```

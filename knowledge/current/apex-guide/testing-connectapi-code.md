@@ -5,11 +5,14 @@ topic: testing-connectapi-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.810Z
-keywords: [Testing, ConnectApi, Code, Important, See]
+lastCollected: 2026-03-12T05:14:34.284Z
+estimatedTokens: 620
+keywords: [Testing, ConnectApi, Code, Apex, code, Connect, requires, test, coverage., Important]
 ---
 
 # Testing ConnectApi Code
+
+> Like all Apex code, Connect in Apex code requires test coverage.
 
 # Testing ConnectApi Code
 
@@ -48,3 +51,44 @@ This example shows a test that constructs an ConnectApi.FeedElementPage and regi
 #### See Also
 
 -   [Testing Apex](atlas.en-us.apexcode.meta/apexcode/apex_testing.htm "Apex provides a testing framework that allows you to write unit tests, run your tests, check test results, and have code coverage results.")
+
+## Code Examples
+
+```apex
+global class NewsFeedClass {
+    global static Integer getNewsFeedCount() {
+        ConnectApi.FeedElementPage elements = 
+            ConnectApi.ChatterFeeds.getFeedElementsFromFeed(null,
+                ConnectApi.FeedType.News, 'me');
+        return elements.elements.size();
+    }
+}
+```
+
+```apex
+@isTest
+private class NewsFeedClassTest {
+    @IsTest
+    static void doTest() {
+        // Build a simple feed item
+        ConnectApi.FeedElementPage testPage = new ConnectApi.FeedElementPage();
+        List<ConnectApi.FeedItem> testItemList = new List<ConnectApi.FeedItem>();
+        testItemList.add(new ConnectApi.FeedItem());
+        testItemList.add(new ConnectApi.FeedItem());
+        testPage.elements = testItemList;
+
+        // Set the test data
+        ConnectApi.ChatterFeeds.setTestGetFeedElementsFromFeed(null,
+            ConnectApi.FeedType.News, 'me', testPage);
+
+        // The method returns the test page, which we know has two items in it.
+        Test.startTest();
+        System.assertEquals(2, NewsFeedClass.getNewsFeedCount());
+        Test.stopTest();
+    }
+}
+```
+
+## Related Topics
+
+- Testing Apex (atlas.en-us.apexcode.meta/apexcode/apex_testing.htm)

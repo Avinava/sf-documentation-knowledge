@@ -5,11 +5,14 @@ topic: expression-set-version-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.489Z
-keywords: [Expression, Set, Version, Output]
+lastCollected: 2026-03-12T05:14:50.229Z
+estimatedTokens: 348
+keywords: [Expression, Set, Version, Output, representation, expression, set, version.]
 ---
 
 # Expression Set Version Output
+
+> Output representation of an expression set version.
 
 # Expression Set Version Output
 
@@ -29,3 +32,8 @@ Output representation of an expression set version.
 | steps | Expression Set Version Step | List of steps in an expression set. | Small, 58.0 | 58.0 |
 | variables | Expression Set Version Variable | List of variables in an expression set. | Small, 58.0 | 58.0 |
 | version​Number | Integer | Version number of the expression set version. | Small, 58.0 | 58.0 |
+
+## Related Topics
+
+- Expression Set Version Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_version_step_output.htm)
+- Expression Set Version Variable (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_version_variable_output.htm)

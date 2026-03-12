@@ -5,11 +5,14 @@ topic: connectapiexternalcredentialinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.148Z
-keywords: [ConnectApi.ExternalCredentialInput, Important]
+lastCollected: 2026-03-12T05:14:24.878Z
+estimatedTokens: 574
+keywords: [ConnectApi.ExternalCredentialInput, Input, used, create, update, external, credential., Important]
 ---
 
 # ConnectApi.ExternalCredentialInput
+
+> Input used to create or update an external credential.
 
 # ConnectApi.ExternalCredentialInput
 
@@ -30,3 +33,13 @@ Where possible, we changed noninclusive terms to align with our company value of
 | masterLabel | String | External credential label. | Required | 58.0 |
 | parameters | List<ConnectApi.​ExternalCredential​ParameterInput> | List of external credential parameters. | Optional depending on authenticationProtocol and authenticationVariant | 58.0 |
 | principals | List<ConnectApi.​ExternalCredential​PrincipalInput> | List of principals the credential has. | Optional | 58.0 |
+
+## Related Topics
+
+- ConnectApi.​Credential​Authentication​Protocol (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​Credential​Authentication​ProtocolVariant (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CredentialCustom​HeaderInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_credential_custom_header.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ExternalCredential​ParameterInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential_parameter.htm)
+- ConnectApi.​ExternalCredential​PrincipalInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_external_credential_principal.htm)

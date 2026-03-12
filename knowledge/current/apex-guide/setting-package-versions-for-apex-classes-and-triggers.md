@@ -5,11 +5,15 @@ topic: setting-package-versions-for-apex-classes-and-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.672Z
-keywords: [Setting, Package, Versions, Apex, Classes, Triggers, Note, Tip, See]
+lastCollected: 2026-03-12T05:14:32.739Z
+estimatedTokens: 689
+keywords: [Setting, Package, Versions, Apex, Classes, Triggers, managed, package, subscriber, specify, which, version, classes, triggers, use., Note, Tip]
 ---
 
 # Setting Package Versions for Apex Classes and Triggers
+
+> As a managed package subscriber, you can specify which package version that your managed
+  Apex classes and triggers use.
 
 # Setting Package Versions for Apex Classes and Triggers
 
@@ -27,9 +31,9 @@ To configure the package version settings for a class or trigger:
 2.  From the list, click **Edit** for the Apex class or trigger that you want to configure.
 3.  Click the **Version Settings** tab.
 4.  From the Version dropdown for the managed package, select the desired version referenced by the class or trigger.
-    
+
     The class or trigger continues to use this version even if you install later versions of the managed package, unless you manually update the version setting.
-    
+
 5.  Click **Save**.
 
 When working with package version settings, keep these considerations in mind.
@@ -46,3 +50,9 @@ You can also set the package version for an Apex class or trigger through metada
 #### See Also
 
 -   [Use Apex Referenced by Managed Packages](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_intro.htm "Learn how to use managed Apex effectively as a managed package subscriber.")
+
+## Related Topics
+
+- Set Package Versions for Apex Classes and
+     Triggers (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm)
+- Use Apex Referenced by Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_intro.htm)

@@ -5,11 +5,14 @@ topic: connectapifeeddirectoryitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.710Z
-keywords: [ConnectApi.FeedDirectoryItem, See]
+lastCollected: 2026-03-12T05:14:25.760Z
+estimatedTokens: 997
+keywords: [ConnectApi.FeedDirectoryItem, Definition, feed.]
 ---
 
 # ConnectApi.FeedDirectoryItem
+
+> Definition of a feed.
 
 # ConnectApi.FeedDirectoryItem
 
@@ -27,3 +30,8 @@ Definition of a feed.
 #### See Also
 
 -   [ConnectApi.FeedDirectory](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_directory.htm "Directory of feeds and favorites.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FeedDirectory (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_directory.htm)

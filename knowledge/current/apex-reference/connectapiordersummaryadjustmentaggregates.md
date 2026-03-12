@@ -5,11 +5,15 @@ topic: connectapiordersummaryadjustmentaggregates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.504Z
-keywords: [ConnectApi.OrderSummaryAdjustmentAggregates]
+lastCollected: 2026-03-12T05:14:28.278Z
+estimatedTokens: 379
+keywords: [ConnectApi.OrderSummaryAdjustmentAggregates, Adjustment, aggregates, associated, order, summary.]
 ---
 
 # ConnectApi.OrderSummaryAdjustmentAggregates
+
+> Adjustment aggregates associated with an order
+    summary.
 
 # ConnectApi.OrderSummaryAdjustmentAggregates
 
@@ -25,3 +29,9 @@ Adjustment aggregates associated with an order summary.
 | totalProduct​PromotionDistAmount | String | Total distributed product promotion amounts associated with an order summary. | 55.0 |
 | totalProduct​PromotionLineAmount | String | Total product promotion line amount associated with an order summary. | 55.0 |
 | totalProduct​Promotion​TotalAmount | String | Total product promotion amount associated with an order summary. | 55.0 |
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​OrderSummaryAdjustment​AggregatesStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

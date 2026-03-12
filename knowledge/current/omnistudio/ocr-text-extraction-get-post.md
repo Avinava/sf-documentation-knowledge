@@ -5,11 +5,16 @@ topic: ocr-text-extraction-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.361Z
-keywords: [OCR, Text, Extraction, GET, POST]
+lastCollected: 2026-03-12T05:14:49.200Z
+estimatedTokens: 540
+keywords: [OCR, Text, Extraction, GET, POST, Retrieve, details, extracted, key-value, pairs, document, latest, version, scan, result., Create, result, record, text, document.]
 ---
 
 # OCR Text Extraction (GET, POST)
+
+> Retrieve details of the extracted key-value pairs for a document from
+   the latest version of the OCR document scan result. Create an OCR document scan result record
+   using the extracted text from the latest version of a document.
 
 # OCR Text Extraction (GET, POST)
 
@@ -102,3 +107,36 @@ Request body for POST
 Response body for POST
 
 [Trigger Text Extraction Output](atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_trigger_text_extraction_output.htm "Output representation of the text extraction request on the most recent version of the document.")
+
+## Code Examples
+
+```
+/connect/form-reader/contentDocuments/${contentDocumentId}/ocrDocumentScanResults
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/contentDocuments/069RM0000001ex5YAA/ocrDocumentScanResults
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/contentDocuments/069RM0000001ex5YAA/ocrDocumentScanResults?startPageIndex=1
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/contentDocuments/069RM0000001ex5YAA/ocrDocumentScanResults?endPageIndex=1
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/contentDocuments/069RM0000001ex5YAA/ocrDocumentScanResults?startPageIndex=1&endPageIndex=1
+```
+
+## Related Topics
+
+- Document Extraction Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_document_extraction_outpu.htm)
+- Trigger Text Extraction Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_trigger_text_extraction_output.htm)
+- Document Extraction Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_extraction_output.htm)
+- Trigger Text Extraction Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_trigger_text_extraction_output.htm)

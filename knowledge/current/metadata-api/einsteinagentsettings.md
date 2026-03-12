@@ -5,11 +5,17 @@ topic: einsteinagentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.123Z
-keywords: [EinsteinAgentSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.102Z
+estimatedTokens: 554
+keywords: [EinsteinAgentSettings, Represents, settings, Einstein, classification, apps, Case, Classification, Wrap-Up, org., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory]
 ---
 
 # EinsteinAgentSettings
+
+> Represents settings for Einstein
+      classification apps, Einstein Case Classification and Einstein Case Wrap-Up, in an org. 
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EinsteinAgentSettings
 
@@ -46,3 +52,30 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EinsteinAgentSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <einsteinAgentRecommendations>true</einsteinAgentRecommendations>
+    <reRunAttributeBasedRules>true</reRunAttributeBasedRules>
+    <runAssignmentRules>true</runAssignmentRules>
+</EinsteinAgentSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>EinsteinAgent</members>
+        <name>Settings</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

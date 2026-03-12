@@ -5,11 +5,21 @@ topic: store-and-retrieve-values-from-the-org-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.415Z
-keywords: [Store, Retrieve, Values, Org, Cache, Cache.Org, Methods, Note, Cache.OrgPartition, See]
+lastCollected: 2026-03-12T05:14:33.770Z
+estimatedTokens: 911
+namespace: Cache.OrgPartition
+keywords: [Store, Retrieve, Values, Org, Cache, Cache.Org, Cache.OrgPartition, classes, manage, values, org, cache., any, partition, class., you’re, managing, cache, instead., Note]
 ---
 
 # Store and Retrieve Values from the Org Cache
+
+> Use the Cache.Org and Cache.OrgPartition
+    classes to manage values in the org cache. To manage values in any partition, use the methods in
+    the Cache.Org class. If you’re managing cache values in
+    one partition, use the Cache.OrgPartition methods
+    instead.
+
+**Namespace:** `Cache.OrgPartition`
 
 # Store and Retrieve Values from the Org Cache
 
@@ -74,5 +84,40 @@ This example calls the get method on a partition in one expression without assig
 #### See Also
 
 -   [*Apex Reference Guide*: Org Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_Org.htm "Apex Reference Guide: Org Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: OrgPartition Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_OrgPartition.htm "Apex Reference Guide: OrgPartition Class - HTML (New Window)")
+
+## Code Examples
+
+```
+// Add a value to the cache
+DateTime dt = DateTime.parse('06/16/2015 11:46 AM');
+Cache.Org.put('ns1.partition1.orderDate', dt);
+if (Cache.Org.contains('ns1.partition1.orderDate')) {
+    DateTime cachedDt = (DateTime)Cache.Org.get('ns1.partition1.orderDate');
+}
+```
+
+```
+Cache.Org.put('orderDate', dt);
+if (Cache.Org.contains('orderDate')) {
+    DateTime cachedDt = (DateTime)Cache.Org.get('orderDate');
+}
+```
+
+```
+Cache.Org.put('local.myPartition.orderDate', dt);
+Cache.Org.put('ns1.myPartition.orderDate', dt);
+```
+
+```
+// Add a value to the cache with options
+Cache.Org.put('ns1.partition1.totalSum', '500', 3600, Cache.Visibility.ALL, true);
+```
+
+```
+// Get a cached value
+Object obj = Cache.Org.get('ns1.partition1.orderDate');
+// Cast return value to a specific data type
+DateTime dt2 = (DateTime)obj;
+```

@@ -5,11 +5,14 @@ topic: connectapilinkattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.246Z
-keywords: [ConnectApi.LinkAttachmentInput, Important]
+lastCollected: 2026-03-12T05:14:25.040Z
+estimatedTokens: 194
+keywords: [ConnectApi.LinkAttachmentInput, Add, links, feed, item., Important]
 ---
 
 # ConnectApi.LinkAttachmentInput
+
+> Add links to a feed item.
 
 # ConnectApi.LinkAttachmentInput
 
@@ -27,3 +30,9 @@ Subclass of [ConnectApi.FeedItemAttachmentInput](atlas.en-us.apexref.meta/apexre
 | --- | --- | --- | --- |
 | url | String | URL to be used for the link | 28.0–31.0 |
 | urlName | String | Title of the link | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.LinkCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_link_capability.htm)
+- ConnectApi.FeedItemAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_FeedItemAtt.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

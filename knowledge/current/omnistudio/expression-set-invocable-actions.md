@@ -5,11 +5,14 @@ topic: expression-set-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.100Z
-keywords: [Expression, Set, Invocable, Actions, Note]
+lastCollected: 2026-03-12T05:14:51.148Z
+estimatedTokens: 197
+keywords: [Expression, Set, Invocable, Actions, actions, invoke, flow., Note]
 ---
 
 # Expression Set Invocable Actions
+
+> Use actions to invoke Expression Set actions in a flow.
 
 # Expression Set Invocable Actions
 
@@ -21,5 +24,9 @@ Use actions to invoke Expression Set actions in a flow.
 
 You can also use the Invocable namespace, which contains the classes and methods required to invoke the Decision Matrix and Expression Set invocable actions from Apex. See [Invocable Namespace](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_namespace_Invocable.htm).
 
--   **[Expression Set Actions](atlas.en-us.industries_reference.meta/industries_reference/actions_obj_expression_set.htm)**  
+-   **[Expression Set Actions](atlas.en-us.industries_reference.meta/industries_reference/actions_obj_expression_set.htm)**
     Invoke an active expression set. An expression set is a user-defined rule that accepts an input and returns the output based on the configured function.
+
+## Related Topics
+
+- Expression Set Actions (atlas.en-us.industries_reference.meta/industries_reference/actions_obj_expression_set.htm)

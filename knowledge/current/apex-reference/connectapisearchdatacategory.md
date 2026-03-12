@@ -5,11 +5,14 @@ topic: connectapisearchdatacategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.071Z
-keywords: [ConnectApi.SearchDataCategory, See]
+lastCollected: 2026-03-12T05:14:24.759Z
+estimatedTokens: 218
+keywords: [ConnectApi.SearchDataCategory, Data, category, input, search.]
 ---
 
 # ConnectApi.SearchDataCategory
+
+> Data category input for object search.
 
 # ConnectApi.SearchDataCategory
 
@@ -24,3 +27,10 @@ Data category input for object search.
 #### See Also
 
 -   [ConnectApi.SearchRequest](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_search_reques.htm "Search request input for searching an object.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​DataCategory​Operator (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.SearchRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_search_reques.htm)

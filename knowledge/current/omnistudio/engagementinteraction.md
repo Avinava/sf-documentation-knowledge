@@ -5,11 +5,19 @@ topic: engagementinteraction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.953Z
-keywords: [EngagementInteraction, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.919Z
+estimatedTokens: 1910
+keywords: [EngagementInteraction, Represents, information, interaction, between, service, representative, any, specialist, organization, organization’s, customer., Engagement, interactions, initiated, through, communication, channels, cover, topics.]
 ---
 
 # EngagementInteraction
+
+> Represents information about an
+   interaction between a service representative or any other specialist in an organization and the
+   organization’s customer. Engagement interactions can be initiated through communication channels
+   and can cover one or more topics. For example, a customer can initiate an engagement interaction
+   by calling a service representative to inquire about an insurance claim. This object is
+  available in API version 55.0 and later.
 
 # EngagementInteraction
 

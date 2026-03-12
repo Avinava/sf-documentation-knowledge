@@ -5,11 +5,16 @@ topic: picklist-including-dependent-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.952Z
-keywords: [Picklist, Including, Dependent, Version, Declarative, Metadata, File, Suffix, Directory, Location, Fields, Java, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.733Z
+estimatedTokens: 853
+keywords: [Picklist, Including, Dependent, Deprecated., Represents, picklist, dependent, definition, custom, field, standard, such, account., Version, Declarative, Metadata, File, Suffix, Directory, Location]
 ---
 
 # Picklist (Including Dependent Picklist)
+
+> Deprecated. Represents a picklist (or dependent
+            picklist) definition for a custom field in a custom object or a custom or standard field
+            in a standard object, such as an account.
 
 # Picklist (Including Dependent Picklist)
 
@@ -64,3 +69,167 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/namedfilter.htm "NamedFilter")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_profilesearchlayouts.htm "ProfileSearchLayouts")
+
+## Code Examples
+
+```apex
+public void setPicklistValues() {
+  // Create a picklist
+  Picklist expenseStatus = new Picklist();
+  PicklistValue unsubmitted = new PicklistValue();
+  unsubmitted.setFullName("Unsubmitted");
+  PicklistValue submitted = new PicklistValue();
+  submitted.setFullName("Submitted");
+  PicklistValue approved = new PicklistValue();
+  approved.setFullName("Approved");
+  PicklistValue rejected = new PicklistValue();
+  rejected.setFullName("Rejected");
+  expenseStatus.setPicklistValues(new PicklistValue[]
+      {unsubmitted, submitted, approved, rejected});
+  
+  CustomField expenseStatusField = new CustomField();
+  expenseStatusField.setFullName(
+      "ExpenseReport__c.ExpenseStatus__c");
+  expenseStatusField.setLabel("Expense Report Status");
+  expenseStatusField.setType(FieldType.Picklist);
+  expenseStatusField.setPicklist(expenseStatus);
+  try {
+    AsyncResult[] ars =
+    metadataConnection.create(new Metadata[] {expenseStatusField});
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  }
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <fields>
+        <fullName>isAmerican__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>American Only</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>manufacturer__c</fullName>
+        <label>Manufacturer</label>
+        <picklist>
+            <controllingField>isAmerican__c</controllingField>
+            <picklistValues>
+                <fullName>Chrysler</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Ford</fullName>
+                <controllingFieldValues>checked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Honda</fullName>
+                <controllingFieldValues>unchecked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Toyota</fullName>
+                <controllingFieldValues>unchecked</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>model__c</fullName>
+        <label>Model</label>
+        <picklist>
+            <controllingField>manufacturer__c</controllingField>
+            <picklistValues>
+                <fullName>Mustang</fullName>
+                <controllingFieldValues>Ford</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Taurus</fullName>
+                <controllingFieldValues>Ford</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>PT Cruiser</fullName>
+                <controllingFieldValues>Chrysler</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Pacifica</fullName>
+                <controllingFieldValues>Chrysler</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Accord</fullName>
+                <controllingFieldValues>Honda</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Civic</fullName>
+                <controllingFieldValues>Honda</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Prius</fullName>
+                <controllingFieldValues>Toyota</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Camry</fullName>
+                <controllingFieldValues>Toyota</controllingFieldValues>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <type>Picklist</type>
+    </fields>
+....
+</CustomObject>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>StageName</fullName>
+        <picklist>
+            <picklistValues>
+                <fullName>Prospecting</fullName>
+                <default>false</default>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>10</probability>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Qualification</fullName>
+                <default>false</default>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>10</probability>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Needs Analysis</fullName>
+                <default>false</default>
+                <forecastCategory>Pipeline</forecastCategory>
+                <probability>20</probability>
+            </picklistValues>
+            ...
+        </picklist>
+    </fields>
+<CustomObject>
+```
+
+## Related Topics
+
+- ValueSet (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- fullName (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Profile (atlas.en-us.api_meta.meta/api_meta/meta_profile.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/namedfilter.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_profilesearchlayouts.htm)

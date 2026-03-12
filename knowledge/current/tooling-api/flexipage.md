@@ -5,11 +5,15 @@ topic: flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.993Z
-keywords: [FlexiPage, Note, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Sample, Code]
+lastCollected: 2026-03-12T05:14:45.679Z
+estimatedTokens: 2494
+keywords: [FlexiPage, Represents, Lightning, page., page, customizable, composed, regions, containing, components., Note, Supported, SOAP, Calls, REST, HTTP, Fields, Sample, Code]
 ---
 
 # FlexiPage
+
+> Represents a Lightning page. A Lightning page is a
+      customizable page composed of regions containing Lightning components.
 
 # FlexiPage
 
@@ -67,4 +71,33 @@ This code sample creates a Lightning page with a single Recent Items component, 
 
 ```
 
+```
+
+## Code Examples
+
+```
+ComponentInstance recentItems = new ComponentInstance();
+ recentItems.setComponentName("flexipage:recentItems");
+ ComponentInstanceProperty cip = new ComponentInstanceProperty();
+ cip.setName("entityNames");
+ cip.setValue("Account,MyCustomObject__c");
+ recentItems.setComponentInstanceProperties(new ComponentInstanceProperty[]{cip});
+
+FlexiPageRegion mainRegion = new FlexiPageRegion();
+mainRegion.setName("main");
+mainRegion.setType(FlexiPageRegionType.Region)
+mainRegion.setComponentInstances(new ComponentInstance[] { recentItems });
+
+FlexiPageMetadata fpMetadata = new FlexiPageMetadata();
+fpMetadata.setFlexiPageRegions(new FlexiPageRegion[]{mainRegion});
+fpMetadata.setMasterLabel("My FlexiPage");
+fpMetadata.setDescription("A FlexiPage with a recent items component");
+fpMetadata.setType(FlexiPageType.AppPage);
+
+FlexiPage flexiPage = new FlexiPage();
+flexiPage.setFullName("MyFlexiPageDevName");
+flexiPage.setMetadata(fpMetadata);
+
+// Create
+SaveResult saveResult = soapConnection.create(new SObject[] { flexiPage });
 ```

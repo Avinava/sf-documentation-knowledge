@@ -5,11 +5,16 @@ topic: connectapiordersummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.397Z
-keywords: [ConnectApi.OrderSummaryInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.283Z
+estimatedTokens: 542
+keywords: [ConnectApi.OrderSummaryInputRepresentation, order, which, create, OrderSummary., Optionally, specify, OrderSummary-specific, information, such, its, Status, whether, managed, Salesforce, Order, Management.]
 ---
 
 # ConnectApi.OrderSummaryInputRepresentation
+
+> An order from which to create an OrderSummary. Optionally, you can
+      specify OrderSummary-specific information such as its Status and whether it is managed in
+      Salesforce Order Management.
 
 # ConnectApi.OrderSummaryInputRepresentation
 
@@ -28,3 +33,8 @@ An order from which to create an OrderSummary. Optionally, you can specify Order
 #### See Also
 
 -   [createOrderSummary(orderSummaryInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummaryCreation_static_methods.htm#apex_ConnectAPI_OrderSummaryCreation_createOrderSummary_1 "Create an OrderSummary based on an order. That order is considered the original order for the OrderSummary. Subsequent change orders that apply to the OrderSummary are also represented as orders. You can specify whether the order is managed in Salesforce Order Management or by an external system. Most Salesforce Order Management APIs can run only on orders that it manages.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- createOrderSummary(orderSummaryInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_OrderSummaryCreation_static_methods.htm)

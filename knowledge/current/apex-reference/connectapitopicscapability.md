@@ -5,11 +5,16 @@ topic: connectapitopicscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:40.136Z
-keywords: [ConnectApi.TopicsCapability, See]
+lastCollected: 2026-03-12T05:14:29.182Z
+estimatedTokens: 225
+keywords: [ConnectApi.TopicsCapability, feed, element, capability, context, user, add, topics, it., Topics, help, users, organize, discover, conversations.]
 ---
 
 # ConnectApi.TopicsCapability
+
+> If a feed element has this capability,
+ the context user can add topics to it. Topics help users organize
+and discover conversations.
 
 # ConnectApi.TopicsCapability
 
@@ -25,3 +30,10 @@ Subclass of [ConnectApi.FeedElementCapability](atlas.en-us.apexref.meta/apexref/
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Topic (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topic.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

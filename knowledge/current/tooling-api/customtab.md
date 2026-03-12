@@ -5,11 +5,14 @@ topic: customtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:37.545Z
-keywords: [CustomTab, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:45.062Z
+estimatedTokens: 877
+keywords: [CustomTab, Represents, custom, tab., Supported, Calls, Fields]
 ---
 
 # CustomTab
+
+> Represents a custom tab.
 
 # CustomTab
 

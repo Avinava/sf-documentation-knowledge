@@ -5,11 +5,15 @@ topic: getdetailsbychatkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.983Z
-keywords: [getDetailsByChatKey, Syntax, Arguments, Sample, Code–Visualforce, Response, details, breadcrumb, customDetail, entityMap, geoLocation, visitorInfo]
+lastCollected: 2026-03-12T05:14:57.402Z
+estimatedTokens: 1612
+keywords: [getDetailsByChatKey, details, chat, associated, specific, key., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response, breadcrumb, customDetail, entityMap, geoLocation, visitorInfo]
 ---
 
 # getDetailsByChatKey()
+
+> Returns the details of the chat associated with a specific chat key. Available in API version 29.0 or
+            later.
 
 # getDetailsByChatKey()
 
@@ -123,3 +127,38 @@ The visitorInfo object represents information about the visitor's web browser. I
 | originalReferrer | String | The original URL of the Web page from which the chat visitor requested a chat. |
 | screenResolution | String | The screen resolution of the chat visitor's computer, as passed by the chat visitor’s browser. |
 | sessionKey | String | the sessionKey of the visitor which will ultimately be stored on the LiveChatVisitor record as a unique reference to this live chat visitor |
+
+## Code Examples
+
+```
+sforce.console.chat.getDetailsByChatKey(chatKey:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testGetDetailsByChatKey();">Get Chat Details</a> 
+
+    <script type="text/javascript">
+
+        function testGetDetailsByChatKey() {
+            //Get the value for 'myChatKey' from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+            //These values are for example purposes only
+            var chatKey = 'myChatKey';
+            sforce.console.chat.getDetailsByChatKey(chatKey, getDetailsSuccess);
+        }
+        
+        function getDetailsSuccess(result) {
+            //Report whether accepting the chat was succesful
+            if (result.success == true) {
+                ipAddress = result.details.ipAddress;
+                alert('The Visitor IP Address for this chat is: ' + ipAddress);
+            } else {
+                alert('Getting the details was not successful');
+            }
+        };
+    
+
+    </script>
+</apex:page>
+```

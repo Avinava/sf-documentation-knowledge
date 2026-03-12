@@ -5,11 +5,15 @@ topic: data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.039Z
-keywords: [Data, Types]
+lastCollected: 2026-03-12T05:14:34.643Z
+estimatedTokens: 871
+keywords: [Data, Types, Apex, variables, expressions, data, such, sObject, primitive, enum.]
 ---
 
 # Data Types
+
+> In Apex, all variables and expressions have a data type, such as sObject, primitive,
+        or enum.
 
 # Data Types
 
@@ -31,3 +35,17 @@ Methods can return values of any of the listed types, or return no value and be 
 Type checking is strictly enforced at compile time. For example, the parser generates an error if an object field of type Integer is assigned a value of type String. However, all compile-time exceptions are returned as specific fault codes, with the line number and column of the error. For more information, see [Debugging Apex](atlas.en-us.apexcode.meta/apexcode/apex_debugging.htm "Apex provides debugging support. You can debug your Apex code using the Developer Console and debug logs.").
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm "Primitive Data Types")
+
+## Related Topics
+
+- Primitive Data
+                Types (atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm)
+- Working with sObjects (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SObjects.htm)
+- Lists (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists.htm)
+- Sets (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_sets.htm)
+- Maps (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_maps.htm)
+- Enums (atlas.en-us.apexcode.meta/apexcode/langCon_apex_enums.htm)
+- Classes, Objects, and
+                Interfaces (atlas.en-us.apexcode.meta/apexcode/apex_classes.htm)
+- Debugging Apex (atlas.en-us.apexcode.meta/apexcode/apex_debugging.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_primitives.htm)

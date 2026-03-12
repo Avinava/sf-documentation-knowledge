@@ -5,11 +5,14 @@ topic: connectapitopicsuggestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.122Z
-keywords: [ConnectApi.TopicSuggestion, See]
+lastCollected: 2026-03-12T05:14:29.160Z
+estimatedTokens: 106
+keywords: [ConnectApi.TopicSuggestion, Topic, suggestion.]
 ---
 
 # ConnectApi.TopicSuggestion
+
+> Topic suggestion.
 
 # ConnectApi.TopicSuggestion
 
@@ -23,3 +26,9 @@ Topic suggestion.
 #### See Also
 
 -   [ConnectApi.TopicSuggestionPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topicSuggestionPage.htm "Page of topic suggestions.")
+
+## Related Topics
+
+- ConnectApi.​Topic (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topic.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.TopicSuggestionPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topicSuggestionPage.htm)

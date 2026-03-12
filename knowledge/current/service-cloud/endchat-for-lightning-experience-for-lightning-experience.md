@@ -6,12 +6,16 @@ topic: endchat-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.180Z
-keywords: [endChat, Lightning, Experience, Arguments, argumentObj, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.695Z
+estimatedTokens: 171
+keywords: [endChat, Lightning, Experience, Ends, chat, which, agent, currently, engaged., works, only, console, apps., Arguments, argumentObj, Sample, Code, Response]
 ---
 
 # endChat() for Lightning Experience for Lightning
             Experience
+
+> Ends a chat in which an agent is currently engaged. This method works only in
+   Lightning console apps.
 
 # endChat() for Lightning Experience for Lightning Experience
 
@@ -48,3 +52,32 @@ Controller Code:
 ## Response
 
 Returns a Promise. Success resolves to true. The Promise is rejected if there's an error.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" description="Conversation toolkit api sample">
+  <aura:attribute name="recordId" type="String" />
+  <lightning:conversationToolkitAPI aura:id="conversationKit" />
+  <ui:button label="endChat" press="{!c.endChat}" />
+</aura:component>
+```
+
+```
+({
+    endChat: function(cmp, evt, helper) {
+        var conversationKit = cmp.find("conversationKit");
+        var recordId = cmp.get("v.recordId");
+        conversationKit.endChat({
+            recordId: recordId
+        })
+        .then(function(result){
+            if (result) {
+                    console.log("Successfully ended chat");
+                } else {
+                    console.log("Failed to end chat");
+                }
+        });
+    }
+})
+```

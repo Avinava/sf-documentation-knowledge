@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchannelcreaterepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.270Z
-keywords: [ConnectApi.ManagedContentChannelCreateRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.083Z
+estimatedTokens: 510
+keywords: [ConnectApi.ManagedContentChannelCreateRepresentation, Input, create, managed, content, channel.]
 ---
 
 # ConnectApi.ManagedContentChannelCreateRepresentation
+
+> Input class to create a managed content channel.
 
 # ConnectApi.ManagedContentChannelCreateRepresentation
 
@@ -30,3 +33,11 @@ Input class to create a managed content channel.
 #### See Also
 
 -   [postManagedContentChannel(ManagedContentCreateInputParam)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm#apex_ConnectAPI_ManagedContentChannels_postManagedContentChannel_2 "Create a managed content channel.")
+
+## Related Topics
+
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​ManagedContent​ChannelType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- postManagedContentChannel(ManagedContentCreateInputParam) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm)

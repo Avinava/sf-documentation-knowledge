@@ -5,11 +5,16 @@ topic: document-decision
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.775Z
-keywords: [Document, Decision]
+lastCollected: 2026-03-12T05:14:49.164Z
+estimatedTokens: 398
+keywords: [Document, Decision, Invoke, Table, accept, key-value, pairs, match, keys, either, Types, Categories, associated, them.]
 ---
 
 # Document Decision
+
+> Invoke a Decision Table, accept key-value pairs that match the Decision Table keys, and
+    return either Document Types or Document Categories and the Document Types associated with
+    them.
 
 # Document Decision
 
@@ -56,3 +61,24 @@ Properties
 Response body for POST
 
 [Document Decision Response](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_document_decision_response.htm "Output representation of the Document Decision response, including Decision Table output.")
+
+## Code Examples
+
+```
+/connect/document-matrix/document-decision/decisionTableId
+```
+
+```
+{
+  "inputs": [
+    {
+      "Country": "USA",
+      "State": "CA"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Document Decision Response (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_document_decision_response.htm)

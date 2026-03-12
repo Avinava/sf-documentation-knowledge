@@ -5,11 +5,14 @@ topic: connectapicontenthubrepositoryfeatures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.464Z
-keywords: [ConnectApi.ContentHubRepositoryFeatures, See]
+lastCollected: 2026-03-12T05:14:26.848Z
+estimatedTokens: 135
+keywords: [ConnectApi.ContentHubRepositoryFeatures, features, repository.]
 ---
 
 # ConnectApi.ContentHubRepositoryFeatures
+
+> The features of a repository.
 
 # ConnectApi.ContentHubRepositoryFeatures
 
@@ -23,3 +26,8 @@ The features of a repository.
 #### See Also
 
 -   [ConnectApi.ContentHubRepository](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm "A repository.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.ContentHubRepository (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm)

@@ -5,11 +5,21 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.670Z
-keywords: [Location, Supported, Calls, Special, Access, Rules, Fields, Usage, Important, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.182Z
+estimatedTokens: 3005
+keywords: [Location, Represents, warehouse, service, vehicle, work, site, element, region, where, team, performs, field, work., API, version, 49.0, later, associate, activities]
 ---
 
 # Location
+
+> Represents a warehouse, service vehicle, work site, or other element
+			of the region where your team performs field service work. In API version 49.0 and
+			later, you can associate activities with specific locations. Activities, such as the
+			tasks and events related to a location, appear in the activities timeline when you view
+			the location detail page. Also in API version 49.0 and later, Work.com users can view
+			Employees as a related list on Location records. In API version 51.0 and later, this
+			object is available for Omnichannel Inventory and represents physical locations where
+			inventory is available for fulfilling orders.
 
 # Location
 

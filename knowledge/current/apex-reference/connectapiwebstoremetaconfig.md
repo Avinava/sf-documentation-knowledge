@@ -5,11 +5,14 @@ topic: connectapiwebstoremetaconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.213Z
-keywords: [ConnectApi.WebStoreMetaConfig]
+lastCollected: 2026-03-12T05:14:29.292Z
+estimatedTokens: 202
+keywords: [ConnectApi.WebStoreMetaConfig, Details, webstore, Meta, configuration.]
 ---
 
 # ConnectApi.WebStoreMetaConfig
+
+> Details of a webstore Meta configuration.
 
 # ConnectApi.WebStoreMetaConfig
 
@@ -26,3 +29,7 @@ Details of a webstore Meta configuration.
 | profileExtKey | String | External key for Meta Instagram Profile. | 64.0 |
 | trackerExtKey | String | External key for Meta Pixel. | 64.0 |
 | webStoreId | String | ID of the webstore. | 64.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -5,11 +5,17 @@ topic: soql-injection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.208Z
-keywords: [SOQL, Injection, Vulnerability, Apex, Defenses]
+lastCollected: 2026-03-12T05:14:34.904Z
+estimatedTokens: 496
+keywords: [SOQL, Injection, programming, languages, previous, flaw, known, SQL, injection., Apex, doesn’t, uses, its, own, database, query, language, SOQL., simpler, limited]
 ---
 
 # SOQL Injection
+
+> In other programming languages, the previous flaw is known as SQL injection. Apex doesn’t use
+    SQL, but uses its own database query language, SOQL. SOQL is simpler and more limited in
+    functionality than SQL. The risks are lower for SOQL injection than for SQL injection, but the
+    attacks ar
 
 # SOQL Injection
 
@@ -52,3 +58,58 @@ To prevent a SOQL injection attack, avoid using dynamic SOQL queries. Instead, u
 ```
 
 If you must use dynamic SOQL, use the escapeSingleQuotes method to sanitize user-supplied input. This method adds the escape character (\\) to all single quotation marks in a string that is passed in from a user. The method ensures that all single quotation marks are treated as enclosing strings, instead of database commands.
+
+## Code Examples
+
+```apex
+<apex:page controller="SOQLController" >
+    <apex:form>
+        <apex:outputText value="Enter Name" />
+        <apex:inputText value="{!name}" />
+        <apex:commandButton value="Query" action="{!query}“ />
+    </apex:form>
+</apex:page>
+public class SOQLController {
+    public String name {
+        get { return name;}
+        set { name = value;}
+    } 
+    public PageReference query() {
+        String qryString = 'SELECT Id FROM Contact WHERE ' +
+            '(IsDeleted = false and Name like \'%' + name + '%\')';
+        List<Contact> queryResult = Database.query(qryString);
+        System.debug('query result is ' + queryResult);
+        return null;
+    }
+}
+```
+
+```
+// User supplied value: name = Bob 
+// Query string
+SELECT Id FROM Contact WHERE (IsDeleted = false and Name like '%Bob%')
+```
+
+```
+// User supplied value for name: test%') OR (Name LIKE '
+```
+
+```
+SELECT Id FROM Contact WHERE (IsDeleted = false AND Name LIKE '%test%') OR (Name LIKE '%')
+```
+
+```apex
+public class SOQLController { 
+    public String name { 
+        get { return name;} 
+        set { name = value;} 
+    } 
+    public PageReference query() { 
+        String queryName = '%' + name + '%';
+        List<Contact> queryResult = [SELECT Id FROM Contact WHERE 
+           (IsDeleted = false and Name like :queryName)];
+        System.debug('query result is ' + queryResult);
+        return null; 
+    } 
+}
+```

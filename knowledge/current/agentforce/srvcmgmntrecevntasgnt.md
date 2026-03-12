@@ -5,11 +5,16 @@ topic: srvcmgmntrecevntasgnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.952Z
-keywords: [SrvcMgmntRecEvntAsgnt, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.508Z
+estimatedTokens: 479
+keywords: [SrvcMgmntRecEvntAsgnt, Represents, relationship, between, events, automatically, created, system, assigned, related, record, such, release, change, request., API, version, 65.0, later., Supported]
 ---
 
 # SrvcMgmntRecEvntAsgnt
+
+> Represents the relationship between events automatically created by the
+         system and assigned to a related record, such as a release or a change request. This
+      object is available in API version 65.0 and later.
 
 # SrvcMgmntRecEvntAsgnt
 

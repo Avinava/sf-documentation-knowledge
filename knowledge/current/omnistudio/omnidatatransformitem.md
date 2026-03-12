@@ -5,11 +5,14 @@ topic: omnidatatransformitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.034Z
-keywords: [OmniDataTransformItem]
+lastCollected: 2026-03-12T05:14:54.070Z
+estimatedTokens: 68
+keywords: [OmniDataTransformItem, internal, only.]
 ---
 
 # OmniDataTransformItem
+
+> For internal use only.
 
 # OmniDataTransformItem
 

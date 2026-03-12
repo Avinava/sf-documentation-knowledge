@@ -5,11 +5,17 @@ topic: consent-write
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.345Z
-keywords: [Consent, Write, Note, Syntax, Security, Example]
+lastCollected: 2026-03-12T05:14:35.525Z
+estimatedTokens: 1400
+keywords: [Consent, Write, users, store, consent, preferences, different, locations., API, update, write, across, multiple, records, through, single, call, helping, sync, populate]
 ---
 
 # Consent Write
+
+> Your users can store consent preferences in different locations. The Consent Write API
+    can update and write consent across multiple records through a single API call, helping you sync
+    consent across records or populate the new Consent data model. This resource is available in
+    REST API version 48.0 and later.
 
 # Consent Write
 
@@ -118,3 +124,31 @@ Example Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl -X PATCH https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/action/<action>?ids=<email-OR-recordID>&status=<optout/optin/seen/notseen>&createIndividual=<true/false> -H "Content-Type: application/json" -d "@exampleRequestBody.json"
+```
+
+```
+{ "ids": [ "001ZM000002ZhpHYAS", "001ZM000002ZhpFYAS" ] }
+```
+
+```
+{
+  "<email-OR-recordID>" : {
+    "result" : "Success",
+    "edited" : [{
+      "objectType" : "<Contact, Lead, User, etc.>",
+      "field" : "<HasOptedOutofFax, DoNotCall,etc>",
+      "valueOfField" : "<true/false>",
+      "id" : "<recordID>"
+    }],
+  }
+}
+```
+
+## Related Topics
+
+- Valid Date and DateTime Formats (atlas.en-us.api_rest.meta/api_rest/intro_valid_date_formats.htm)

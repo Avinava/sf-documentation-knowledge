@@ -5,11 +5,15 @@ topic: connectapiactivationadditionalattributesconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.728Z
-keywords: [ConnectApi.ActivationAdditionalAttributesConfigInput]
+lastCollected: 2026-03-12T05:14:24.236Z
+estimatedTokens: 338
+keywords: [ConnectApi.ActivationAdditionalAttributesConfigInput, Represents, additional, attributes, configuration, market, segment, activation, input.]
 ---
 
 # ConnectApi.ActivationAdditionalAttributesConfigInput
+
+> Represents the additional attributes configuration for the market segment activation
+  input.
 
 # ConnectApi.ActivationAdditionalAttributesConfigInput
 
@@ -29,3 +33,13 @@ Represents the additional attributes configuration for the market segment activa
 | referenceAttributeName | String | Developer name of the reference attribute. |  | 60.0 |
 | source | DataExportAttributeSourceEnum | Activation attribute source.DirectRelated |  | 60.0 |
 | type | DataExportAttributeTypeEnum | Type of activation attribute.Computed_DimensionComputed_MeasureModelModel_RelatedNon_Aggregatable_Computed_Measure |  | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.AttributeFilterInput> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_attribute_filter.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.QueryPathInputConfig> (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_query_path_config.htm)
+- DataExportAttributeSourceEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- DataExportAttributeTypeEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

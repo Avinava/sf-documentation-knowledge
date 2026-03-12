@@ -4,12 +4,16 @@ domain: service-cloud
 topic: salesforce-console-integration-toolkit-best-practices
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:47:49.748Z
-keywords: [Salesforce, Console, Integration, Toolkit, Best, Practices]
+docType: concept
+lastCollected: 2026-03-12T05:14:57.109Z
+estimatedTokens: 632
+keywords: [Salesforce, Console, Integration, Toolkit, Best, Practices, recommends, adhere, few, best, practices, Toolkit.]
 ---
 
 # Salesforce Console Integration Toolkit Best Practices
+
+> Salesforce recommends that you
+        adhere to a few best practices as you use the Salesforce Console Integration Toolkit.
 
 # Salesforce Console Integration Toolkit Best Practices
 

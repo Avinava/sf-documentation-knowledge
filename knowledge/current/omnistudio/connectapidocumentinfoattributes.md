@@ -5,11 +5,14 @@ topic: connectapidocumentinfoattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.788Z
-keywords: [ConnectApi.DocumentInfoAttributes]
+lastCollected: 2026-03-12T05:14:47.692Z
+estimatedTokens: 94
+keywords: [ConnectApi.DocumentInfoAttributes, Input, including, documents, service, process.]
 ---
 
 # ConnectApi.DocumentInfoAttributes
+
+> Input for including documents in a service process.
 
 # ConnectApi.DocumentInfoAttributes
 

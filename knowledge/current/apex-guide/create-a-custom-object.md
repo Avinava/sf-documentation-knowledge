@@ -5,11 +5,15 @@ topic: create-a-custom-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.485Z
-keywords: [Create, Custom, Object, See]
+lastCollected: 2026-03-12T05:14:33.850Z
+estimatedTokens: 490
+keywords: [Create, Custom, step, create, custom, called, Book, field, Price.]
 ---
 
 # Create a Custom Object
+
+> In this step, you create a custom object called Book with one custom field called
+        Price.
 
 # Create a Custom Object
 
@@ -26,9 +30,9 @@ For more information about creating a sandbox org, see “Sandbox Types and Temp
 3.  Enter Book for the label.
 4.  Enter Books for the plural label.
 5.  Click **Save**.
-    
+
     Ta dah! You’ve now created your first custom object. Now let’s create a custom field.
-    
+
 6.  In the **Custom Fields & Relationships** section of the Book detail page, click **New**.
 7.  Select Number for the data type and click **Next**.
 8.  Enter Price for the field label.
@@ -44,3 +48,7 @@ You've created a custom object called Book, and added a custom field to that cus
 #### See Also
 
 -   [*Salesforce Help*: Find Object Management Settings](https://help.salesforce.com/HTViewHelpDoc?id=extend_click_find_objectmgmt_parent.htm&language=en_US)
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_qs_class.htm)

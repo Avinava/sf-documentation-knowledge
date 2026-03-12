@@ -6,12 +6,15 @@ topic: getrecordalertsparentid-whatid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.583Z
-keywords: [getRecordAlerts, parentId, whatId, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Example]
+lastCollected: 2026-03-12T05:14:47.442Z
+estimatedTokens: 206
+keywords: [getRecordAlerts, parentId, whatId, Retrieve, list, active, record, alerts., API, Version, Requires, Chatter, Example]
 ---
 
 # getRecordAlerts(parentId,
         whatId)
+
+> Retrieve a list of active record alerts.
 
 # getRecordAlerts(parentId, whatId)
 
@@ -66,3 +69,21 @@ To fetch alerts that have parentId and whatId
 ```
 
 ```
+
+## Code Examples
+
+```
+ConnectApi.RecordAlertCollectionRepresentation recordAlerts = ConnectApi.RecordAlert.getRecordAlerts(‘<parentId>’, null);
+```
+
+```
+ConnectApi.RecordAlertCollectionRepresentation recordAlerts = ConnectApi.RecordAlert.getRecordAlerts(null, ‘<whatId>’);
+```
+
+```
+ConnectApi.RecordAlertCollectionRepresentation recordAlerts = ConnectApi.RecordAlert.getRecordAlerts(‘<parentId>’, ‘<whatId>’);
+```
+
+## Related Topics
+
+- ConnectApi.RecordAlertCollection (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_record_alert_collection.htm)

@@ -5,11 +5,17 @@ topic: update-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.010Z
-keywords: [Update, Record, See]
+lastCollected: 2026-03-12T05:14:35.091Z
+estimatedTokens: 565
+keywords: [Update, Record, sObject, Rows, resource, update, records., Provide, updated, record, information, request, data, PATCH, specific, record., Records, single, file, must]
 ---
 
 # Update a Record
+
+> You use the sObject Rows resource to update records. Provide the updated record
+			information in your request data and use the PATCH method of the resource with a
+			specific record ID to update that record. Records in a single file must be of the same
+			object type.
 
 # Update a Record
 
@@ -52,5 +58,58 @@ If you use an HTTP library that doesn't allow overriding or setting an arbitrary
 #### See Also
 
 -   [sObject Rows](atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm "Accesses records based on a specified object and record ID. Retrieves, updates, or deletes records based on the HTTP method. Use the GET method to retrieve records or specific field values, the DELETE method to delete records, or the PATCH method to update records.")
-    
+
 -   [Conditional Request Headers](atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm "Use a conditional request header to validate resources before accessing them. By setting a precondition in the header, you ensure that your request succeeds only if that precondition is met. This functionality helps you prevent mistakes and reject outdated requests when updating Salesforce data. You can implement a variety of techniques with conditional request headers, such as response caching.")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/001D000000INjVe -H "Authorization: Bearer token" -H "Content-Type: application/json" -d @patchaccount.json -X PATCH
+```
+
+```
+{
+    "BillingCity" : "San Francisco"
+}
+```
+
+```apex
+public static void patch(String url, String sid) throws IOException {
+  PostMethod m = new PostMethod(url) {
+    @Override public String getName() { return "PATCH"; }
+  };
+
+  m.setRequestHeader("Authorization", "OAuth " + sid);
+
+  Map<String, Object> accUpdate = new HashMap<String, Object>();
+  accUpdate.put("Name", "Patch test");
+  ObjectMapper mapper = new ObjectMapper();
+  m.setRequestEntity(new StringRequestEntity(mapper.writeValueAsString(accUpdate), "application/json", "UTF-8"));
+
+  HttpClient c = new HttpClient();
+  int sc = c.executeMethod(m);
+  System.out.println("PATCH call returned a status code of " + sc);
+  if (sc > 299) {
+    // deserialize the returned error message
+    List<ApiError> errors = mapper.readValue(m.getResponseBodyAsStream(), new TypeReference<List<ApiError>>() {} );
+    for (ApiError e : errors)
+      System.out.println(e.errorCode + " " + e.message);
+  }
+}
+
+private static class ApiError {
+  public String errorCode;
+  public String message;
+  public String [] fields;
+}
+```
+
+```
+PostMethod m = new PostMethod(url + "?_HttpMethod=PATCH");
+```
+
+## Related Topics
+
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)

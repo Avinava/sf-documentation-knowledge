@@ -5,11 +5,15 @@ topic: globalvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.085Z
-keywords: [GlobalValueSet, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, CustomValue, Metadata]
+lastCollected: 2026-03-12T05:14:45.807Z
+estimatedTokens: 798
+keywords: [GlobalValueSet, Represents, set, values, used, picklist., API, version, 39.0, later., Important, Supported, SOAP, Calls, REST, HTTP, Fields, CustomValue, Metadata]
 ---
 
 # GlobalValueSet
+
+> Represents a set of values used by a global picklist. Available from API version 39.0 or
+  later.
 
 # GlobalValueSet
 

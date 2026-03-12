@@ -5,11 +5,14 @@ topic: permission-set-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.371Z
-keywords: [Permission, Set, Groups, See]
+lastCollected: 2026-03-12T05:14:33.732Z
+estimatedTokens: 368
+keywords: [Permission, Set, Groups, provide, Apex, test, coverage, permission, set, groups, write, tests, calculatePermissionSetGroup, System.Test, class.]
 ---
 
 # Permission Set Groups
+
+> To provide Apex test coverage for permission set groups, write tests using the calculatePermissionSetGroup() method in the System.Test class.
 
 # Permission Set Groups
 
@@ -26,5 +29,26 @@ Set this test to run once in a Test setup method, then reuse the data in subsequ
 #### See Also
 
 -   [Salesforce Help: Permission Set Groups](https://help.salesforce.com/s/articleView?id=platform.perm_set_groups.htm&type=5&language=en_US "Salesforce Help: Permission Set Groups - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Test Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_test.htm "Apex Reference Guide: Test Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+@isTest public class PSGTest {
+  @isTest static void testPSG() {
+    // get the PSG by name (may have been modified in deployment)
+    PermissionSetGroup psg = [select Id, Status from PermissionSetGroup where DeveloperName='MyPSG'];
+    
+    // force calculation of the PSG if it is not already Updated
+    if (psg.Status != 'Updated') {
+      Test.calculatePermissionSetGroup(psg.Id);
+    }
+    
+    // assign PSG to current user (this fails if PSG is Outdated)
+    insert new PermissionSetAssignment(PermissionSetGroupId = psg.Id, AssigneeId = UserInfo.getUserId());
+
+    // additional tests to validate permissions granted by PSG
+  }
+}
+```

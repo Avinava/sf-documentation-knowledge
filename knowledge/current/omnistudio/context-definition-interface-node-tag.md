@@ -5,11 +5,15 @@ topic: context-definition-interface-node-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.199Z
-keywords: [Context, Definition, Interface, Node, Tag]
+lastCollected: 2026-03-12T05:14:49.817Z
+estimatedTokens: 265
+keywords: [Context, Definition, Node, Tag, Output, representation, tags, associated, context, definition, interface.]
 ---
 
 # Context Definition Interface Node Tag
+
+> Output representation of the tags associated with the context definition
+    interface.
 
 # Context Definition Interface Node Tag
 
@@ -29,3 +33,51 @@ JSON example
 | isNodeTag | Boolean | Indicates whether the context tag is a node tag (true) or not (false). | Small, 62.0 | 62.0 |
 | isOptional | Boolean | Indicates whether validation must be done for the context tag (true) or not (false). | Small, 62.0 | 62.0 |
 | tagName | String | Name of the context tag. | Small, 62.0 | 62.0 |
+
+## Code Examples
+
+```
+{
+  "contextDefinitionInterfaceNodeTagList": [
+    {
+      "attributeTags": [
+        {
+          "dataType": "STRING",
+          "isMappingRequired": true,
+          "isNodeTag": false,
+          "tagName": "id_attr_tag"
+        }
+      ],
+      "childNodeTags": [
+        {
+          "attributeTags": [
+            {
+              "dataType": "STRING",
+              "isMappingRequired": false,
+              "isNodeTag": false,
+              "tagName": "contactId_attr_tag"
+            },
+            {
+              "dataType": "STRING",
+              "isMappingRequired": true,
+              "isNodeTag": false,
+              "tagName": "contactName_attr_tag"
+            }
+          ],
+          "childNodeTags": [],
+          "isMappingRequired": false,
+          "isNodeTag": true,
+          "tagName": "Contact_node_tag"
+        }
+      ],
+      "isMappingRequired": true,
+      "isNodeTag": true,
+      "tagName": "Account_node_tag"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Context Definition Interface Attribute Tag (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_definition_interface_attribute_tag.htm)

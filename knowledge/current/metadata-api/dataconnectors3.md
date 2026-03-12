@@ -5,11 +5,14 @@ topic: dataconnectors3
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.679Z
-keywords: [DataConnectorS3, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.461Z
+estimatedTokens: 308
+keywords: [DataConnectorS3, Represents, connection, information, specific, Amazon, S3., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample]
 ---
 
 # DataConnectorS3
+
+> Represents the connection information specific to Amazon S3.
 
 # DataConnectorS3
 
@@ -48,4 +51,16 @@ The following is an example of a DataConnectorS3 component.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+    <DataConnectorS3 xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fileNameWildcard>*.csv</fileNameWildcard>
+    <importFromDirectory>c360-subset-lheader/</importFromDirectory>
+    <masterLabel>Person</masterLabel>
+    <s3BucketName>bucketeer-aa32faea-8431-4635-8a1d-b323a2d66c7c</s3BucketName>
+    </DataConnectorS3>
 ```

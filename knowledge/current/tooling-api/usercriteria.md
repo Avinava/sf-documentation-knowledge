@@ -5,11 +5,16 @@ topic: usercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.923Z
-keywords: [UserCriteria, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.038Z
+estimatedTokens: 590
+keywords: [UserCriteria, Represents, member, criteria, Experience, Cloud, site, moderation, rules., Tooling, API, version, 39.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # UserCriteria
+
+> Represents the member
+            criteria to use in Experience Cloud site moderation rules. Available in Tooling API
+        version 39.0 and later.
 
 # UserCriteria
 

@@ -5,11 +5,15 @@ topic: expression-set-aggregation-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.456Z
-keywords: [Expression, Set, Aggregation, Step]
+lastCollected: 2026-03-12T05:14:50.185Z
+estimatedTokens: 152
+keywords: [Expression, Set, Aggregation, Step, Output, representation, expression, set, aggregation, step.]
 ---
 
 # Expression Set Aggregation Step
+
+> Output representation of the expression set aggregation
+    step.
 
 # Expression Set Aggregation Step
 

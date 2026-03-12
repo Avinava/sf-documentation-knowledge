@@ -5,11 +5,15 @@ topic: simulation-config-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.542Z
-keywords: [Simulation, Config, Input, Note]
+lastCollected: 2026-03-12T05:14:48.809Z
+estimatedTokens: 180
+keywords: [Simulation, Config, Input, information, configuration, version, run, simulation., Note]
 ---
 
 # Simulation Config Input
+
+> Input information of the configuration version to run a
+      simulation.
 
 # Simulation Config Input
 
@@ -26,3 +30,7 @@ Properties
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | versionInfo | Simulation Version Info Input | The version information of the expression set. | Required | 53.0 |
+
+## Related Topics
+
+- Simulation Version Info Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_version_info_input.htm)

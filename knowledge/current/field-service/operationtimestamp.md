@@ -5,11 +5,15 @@ topic: operationtimestamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.910Z
-keywords: [operationTimeStamp, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.141Z
+estimatedTokens: 76
+keywords: [operationTimeStamp, time, operation, executed, Coordinated, Universal, Time, UTC]
 ---
 
 # operationTimeStamp
+
+> The time the operation was executed in Coordinated Universal Time
+      (UTC).
 
 # operationTimeStamp
 

@@ -5,11 +5,16 @@ topic: cnfgmgmtdiscoveryagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.858Z
-keywords: [CnfgMgmtDiscoveryAgent, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.366Z
+estimatedTokens: 452
+keywords: [CnfgMgmtDiscoveryAgent, Represents, installed, discovery, agent, system., Serves, child, Discovery, Agent, tracks, individual, instances, across, environment., API, version, 65.0, later., Supported]
 ---
 
 # CnfgMgmtDiscoveryAgent
+
+> Represents an installed discovery agent on a system. Serves as a child object
+         of Discovery Agent and tracks individual agent instances across the environment. This
+      object is available in API version 65.0 and later.
 
 # CnfgMgmtDiscoveryAgent
 

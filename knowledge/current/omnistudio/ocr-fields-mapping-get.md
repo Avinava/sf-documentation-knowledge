@@ -5,11 +5,15 @@ topic: ocr-fields-mapping-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.369Z
-keywords: [OCR, Fields, Mapping, GET]
+lastCollected: 2026-03-12T05:14:49.372Z
+estimatedTokens: 197
+keywords: [OCR, Fields, Mapping, GET, Retrieve, mapping, between, values, keys, extracted, document, respect, template.]
 ---
 
 # OCR Fields Mapping (GET)
+
+> Retrieve mapping between the values of the keys extracted from the
+   document with respect to an OCR template.
 
 # OCR Fields Mapping (GET)
 
@@ -48,3 +52,19 @@ Request parameters for GET
 Response body for GET
 
 [Form Reader Map Output](atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_reader_map_output.htm "Output representation of the mappings of the extracted text.")
+
+## Code Examples
+
+```
+/connect/form-reader/contentDocuments/${contentDocumentId}/ocrTemplates/${ocrTemplateId}/targetObjectFieldMappings
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect/form-reader/
+contentDocuments/069RM0000001ex5YAA/ocrTemplates/48tRM0000004Ck9YAE/targetObjectFieldMappings
+```
+
+## Related Topics
+
+- Form Reader Map Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_form_reader_map_outpu.htm)
+- Form Reader Map Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_reader_map_output.htm)

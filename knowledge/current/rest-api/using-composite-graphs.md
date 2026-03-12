@@ -4,25 +4,29 @@ domain: rest-api
 topic: using-composite-graphs
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:44:25.282Z
-keywords: [Composite, Graphs, Defining, JSON, Example, Create, Accounts, Contacts, Campaigns, Opportunities, Leads, CampaignMembers, Graph, Request, GET, Details, Resource, Then, Depth, AllOrNone]
+docType: concept
+lastCollected: 2026-03-12T05:14:35.436Z
+estimatedTokens: 1717
+keywords: [Composite, Graphs, graphs, provide, enhanced, way, perform, composite, requests, which, execute, series, REST, API, single, call., Defining, JSON, Example, Create]
 ---
 
 # Using Composite Graphs
+
+> Composite graphs provide an enhanced way to perform composite requests, which execute
+		a series of REST API requests in a single call.
 
 # Using Composite Graphs
 
 Composite graphs provide an enhanced way to perform composite requests, which execute a series of REST API requests in a single call.
 
 -   Regular [composite requests](atlas.en-us.api_rest.meta/api_rest/resources_composite_composite.htm "Executes a series of REST API requests in a single POST request, or retrieves a list of other composite resources with a GET request.") allow you to execute a series of REST API requests in a single call. And you can use the output of one request as the input to a subsequent request.
-    
+
 -   Composite graphs extend regular composite requests by allowing you to assemble a more complicated and complete series of related objects and records.
-    
+
 -   Composite graphs also enable you to ensure that the steps in a given set of requests are either all completed or all not completed. If you use this option, you don’t have to check which requests were successful.
-    
+
 -   Regular composite requests have a limit of 25 subrequests. Composite graphs increase this limit to 500.
-    
+
 
 ## Defining Composite Graphs
 
@@ -113,9 +117,9 @@ This example shows how you can use GET on a resource, and then use properties of
 ## Graph Depth
 
 -   Nodes with no parents are considered to be at depth 1.
-    
+
 -   The depth of another node is the maximum number of edges in the graph from depth 1 to that node. An edge between two nodes occurs when the one node uses a property (such as @{reference\_account.id} ) from another node.
-    
+
 
 ![a sample composite graph showing nodes nested at different depths](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_rest%2Fimages%2Fcomposite_graph_nested_depths.png&folder=api_rest)
 
@@ -140,3 +144,170 @@ As a general practice, keep your graphs as small as possible. For example, it’
 ## Example: Submitting a Composite Graph Job
 
 For an example showing how to submit a composite graph job, see [Using a Composite Graph](atlas.en-us.api_rest.meta/api_rest/using_resources_composite_graph.htm "This example shows how to use a composite graph. It also demonstrates how one request can use more than one composite graph.").
+
+## Code Examples
+
+```
+{
+    "url" : "/services/data/v66.0/sobjects/Account/",
+    "body" : {
+        "name" : "Cloudy Consulting"
+    },
+    "method" : "POST",
+    "referenceId" : "reference_id_account_1"
+}
+```
+
+```
+{
+   "graphs": [{
+      "graphId": "graph1",
+      "compositeRequest": [{
+            "body": {
+               "name": "Cloudy Consulting"
+            },
+            "method": "POST",
+            "referenceId": "reference_id_account_1",
+            "url": "/services/data/v66.0/sobjects/Account/"
+         },
+         {
+            "body": {
+               "FirstName": "Nellie",
+               "LastName": "Cashman",
+               "AccountId": "@{reference_id_account_1.id}"
+            },
+            "method": "POST",
+            "referenceId": "reference_id_contact_1",
+            "url": "/services/data/v66.0/sobjects/Contact/"
+         }
+      ]
+   }]
+}
+```
+
+```
+{
+    "graphId" : "graphId",
+    graph
+}
+```
+
+```
+{
+    "graphId" : "graphId",
+    "compositeRequest" : [
+        compositeSubrequest,
+        compositeSubrequest,
+        ...
+    ]
+}
+```
+
+```
+{
+   "graphId" : "1",
+   "compositeRequest" : [
+      {
+         "url" : "/services/data/v66.0/sobjects/Account/",
+         "body" : {
+           "name" : "Cloudy Consulting",
+           "description" : "Parent account"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_account_1"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Account/",
+         "body" : {
+           "name" : "Easy Spaces",
+           "description" : "Child account",
+          ."ParentId" : "@{reference_id_account_1.id}"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_account_2"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Contact/",
+         "body" : {
+           "FirstName" : "Sam",
+           "LastName" : "Steele",
+           "AccountId" : "@{reference_id_account_2.id}"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_contact_1"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Contact/",
+         "body" : {
+           "FirstName" : "Charlie",
+           "LastName" : "Dawson",
+           "ReportsToId" : "@{reference_id_contact_1.id}"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_contact_2"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Contact/",
+         "body" : {
+           "FirstName" : "Nellie",
+           "LastName" : "Cashman",
+           "ReportsToId" : "@{reference_id_contact_2.id}"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_contact_3"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Campaign/",
+         "body" : {
+           "name" : "Spring Campaign"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_campaign"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Opportunity/",
+         "body" : {
+           "name" : "Opportunity",
+           "stageName" : "Value Proposition",
+           "closeDate" : "2025-12-31",
+           "CampaignId" : "@{reference_id_campaign.id}",
+           "AccountId" : "@{reference_id_account_2.id}"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_opportunity"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/Lead/",
+         "body" : {
+           "FirstName" : "Belinda",
+           "LastName" : "Mulroney",
+           "Company" : "Klondike Quarry",
+           "Email" : "bmulroney@example.com"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_lead"
+      },
+      {
+         "url" : "/services/data/v66.0/sobjects/CampaignMember/",
+         "body" : {
+           "CampaignId" : "@{reference_id_campaign.id}",
+           "LeadId" : "@{reference_id_lead.id}"
+         },
+         "method" : "POST",
+         "referenceId" : "reference_id_campaignmember"
+      }
+    ]
+}
+```
+
+## Related Topics
+
+- composite requests (atlas.en-us.api_rest.meta/api_rest/resources_composite_composite.htm)
+- sObject Basic
+								Information (atlas.en-us.api_rest.meta/api_rest/resources_sobject_basic_info.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- sObject Rows by External ID (atlas.en-us.api_rest.meta/api_rest/resources_sobject_upsert.htm)
+- composite subrequest (atlas.en-us.api_rest.meta/api_rest/resources_composite_graph_composite_subrequest.htm)
+- Using a Composite Graph (atlas.en-us.api_rest.meta/api_rest/using_resources_composite_graph.htm)
+- composite
+					operations (atlas.en-us.api_rest.meta/api_rest/resources_composite_composite.htm)

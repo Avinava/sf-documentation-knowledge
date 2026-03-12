@@ -5,11 +5,14 @@ topic: reminder-boolean-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.492Z
-keywords: [Reminder, Boolean, Criteria, Input]
+lastCollected: 2026-03-12T05:14:48.736Z
+estimatedTokens: 200
+keywords: [Reminder, Criteria, Input, representation, criteria, reminder.]
 ---
 
 # Reminder Boolean Criteria Input
+
+> Input representation of the boolean criteria of a reminder.
 
 # Reminder Boolean Criteria Input
 
@@ -31,3 +34,18 @@ Properties
 | fieldType | String | Type of the criteria field of the reminder. Valid value is Boolean. | Required | 60.0 |
 | operator | String | Operator between the field and value properties within the reminder criteria property that’s used to configure the reminder. Valid values are:EqualsNotEquals | Required | 60.0 |
 | value | Boolean | Boolean value in the criteria field property of the reminder. | Required | 60.0 |
+
+## Code Examples
+
+```
+{
+  "criteria": [
+    {
+      "operator": "Equals",
+      "field": "isTrue",
+      "fieldType": "Boolean",
+      "value": "1"
+    }
+  ]
+}
+```

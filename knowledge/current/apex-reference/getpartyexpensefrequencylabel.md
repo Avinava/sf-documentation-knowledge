@@ -4,12 +4,16 @@ domain: apex-reference
 topic: getpartyexpensefrequencylabel
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.549Z
-keywords: [GetPartyExpenseFrequencyLabel, Signature, Return, Value]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.733Z
+estimatedTokens: 68
+keywords: [GetPartyExpenseFrequencyLabel, picklist, values, party, expense, frequency, field, entity.]
 ---
 
 # GetPartyExpenseFrequencyLabel
+
+> Returns the picklist values for the party expense frequency field
+            on the party expense entity.
 
 # GetPartyExpenseFrequencyLabel
 

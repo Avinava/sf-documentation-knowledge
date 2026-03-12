@@ -5,11 +5,14 @@ topic: connectapicredentialvalueinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.053Z
-keywords: [ConnectApi.CredentialValueInput, See]
+lastCollected: 2026-03-12T05:14:24.733Z
+estimatedTokens: 240
+keywords: [ConnectApi.CredentialValueInput, Credential, input.]
 ---
 
 # ConnectApi.CredentialValueInput
+
+> Credential value input.
 
 # ConnectApi.CredentialValueInput
 
@@ -29,3 +32,10 @@ Authentication protocols have credential allowlists and encryption rules.
 #### See Also
 
 -   [ConnectApi.CredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_credential.htm "Credential input.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.CredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_credential.htm)

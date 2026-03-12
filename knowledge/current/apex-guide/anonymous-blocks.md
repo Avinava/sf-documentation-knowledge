@@ -5,11 +5,15 @@ topic: anonymous-blocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.277Z
-keywords: [Anonymous, Blocks, Important, Executing, Apex, through, API, Author, Permission, See]
+lastCollected: 2026-03-12T05:14:32.206Z
+estimatedTokens: 1352
+keywords: [Anonymous, Blocks, anonymous, block, Apex, code, doesn’t, get, stored, metadata, compiled, executed., Important, Executing, through, API, Author, Permission]
 ---
 
 # Anonymous Blocks
+
+> An anonymous block is Apex code that doesn’t get stored in the metadata, but that can
+        be compiled and executed.
 
 # Anonymous Blocks
 
@@ -25,11 +29,11 @@ Compile and execute anonymous blocks using one of the following:
 -   Developer Console
 -   Salesforce extensions for Visual Studio Code
 -   The executeAnonymous() SOAP API call:
-    
+
     ```
-    
+
     ```
-    
+
 
 You can use anonymous blocks to quickly evaluate Apex in the Developer Console or using the Salesforce Extensions for Visual Studio Code and Code Builder.
 
@@ -80,3 +84,30 @@ When users without the Author Apex permission run DML statements in an anonymous
 #### See Also
 
 -   [Named Credentials as Callout Endpoints](atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm "A named credential specifies the URL of a callout endpoint and its required authentication parameters in one definition. Salesforce manages all authentication for Apex callouts that specify a named credential as the callout endpoint so that your code doesn’t have to. You can also skip remote site settings, which are otherwise required for callouts to external sites, for the site defined in the named credential.")
+
+## Code Examples
+
+```
+ExecuteAnonymousResult executeAnonymous(String code)
+```
+
+```
+Integer int1 = 0;
+
+void myProcedure1() {
+    myProcedure2();
+}
+
+void myProcedure2() {
+    int1++;
+}
+
+myProcedure1();
+```
+
+## Related Topics
+
+- Debug Log (atlas.en-us.apexcode.meta/apexcode/apex_debugging_debug_log.htm)
+- Working with Logs in the Developer Console (atlas.en-us.apexcode.meta/apexcode/apex_debugging_system_log_console.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers.htm)
+- Named Credentials as Callout Endpoints (atlas.en-us.apexcode.meta/apexcode/apex_callouts_named_credentials.htm)

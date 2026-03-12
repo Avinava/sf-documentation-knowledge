@@ -5,11 +5,15 @@ topic: apextestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.238Z
-keywords: [ApexTestResult, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.673Z
+estimatedTokens: 763
+keywords: [ApexTestResult, Represents, result, Apex, test, execution., API, version, 30.0, later., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # ApexTestResult
+
+> Represents the result of an Apex test method execution. Available
+  from API version 30.0 or later.
 
 # ApexTestResult
 
@@ -49,3 +53,8 @@ Each test method execution is represented by a single ApexTestResult record. For
 Each ApexTestResult record has an associated ApexTestResultLimits record, which captures the Apex limits used during execution of the test method.
 
 For example code, see [ApexTestQueueItem](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextestqueueitem.htm "Represents a single Apex class in the Apex job queue. Available in API version 30.0 and later.").
+
+## Related Topics
+
+- ApexTestRunResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextestrunresult.htm)
+- ApexTestQueueItem (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextestqueueitem.htm)

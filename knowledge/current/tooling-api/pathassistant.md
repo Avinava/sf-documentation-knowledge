@@ -5,11 +5,15 @@ topic: pathassistant
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.447Z
-keywords: [PathAssistant, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.333Z
+estimatedTokens: 1085
+keywords: [PathAssistant, Represents, Path., Tooling, API, version, 36.0, later., Important, Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # PathAssistant
+
+> Represents a Path. Available in Tooling API version 36.0
+        and later.
 
 # PathAssistant
 

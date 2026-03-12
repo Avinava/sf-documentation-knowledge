@@ -5,11 +5,15 @@ topic: batch-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.176Z
-keywords: [Batch, Request, Body, Collection, Input, Subrequest]
+lastCollected: 2026-03-12T05:14:35.295Z
+estimatedTokens: 738
+keywords: [Batch, Request, Body, Describes, collection, subrequests, execute, Composite, resource., Collection, Input, Subrequest]
 ---
 
 # Batch Request Body
+
+> Describes a collection of subrequests to execute with the Composite Batch
+  resource.
 
 # Batch Request Body
 
@@ -59,3 +63,30 @@ JSON example
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+"batchRequests" : [
+    {
+    "method" : "PATCH",
+    "url" : "v66.0/sobjects/account/001D000000K0fXOIAZ",
+    "richInput" : {"Name" : "NewName"}
+    },{
+    "method" : "GET",
+    "url" : "v66.0/sobjects/account/001D000000K0fXOIAZ?fields=Name,BillingPostalCode"
+    }]
+}
+```
+
+```
+{
+    "method" : "GET",
+    "url" : "v66.0/sobjects/account/001D000000K0fXOIAZ?fields=Name,BillingPostalCode"
+}
+```
+
+## Related Topics
+
+- Insert or Update Blob Data (atlas.en-us.api_rest.meta/api_rest/dome_sobject_insert_update_blob.htm)

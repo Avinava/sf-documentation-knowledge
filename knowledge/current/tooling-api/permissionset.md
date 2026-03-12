@@ -5,11 +5,16 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:38.472Z
-keywords: [PermissionSet, Supported, SOAP, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.387Z
+estimatedTokens: 1020
+keywords: [PermissionSet, Represents, set, permissions, that’s, used, grant, access, users, without, changing, their, profile, reassigning, profiles., API, version, 28.0, later., Supported]
 ---
 
 # PermissionSet
+
+> Represents a set of permissions that’s used to grant more
+            access to users without changing their profile or reassigning profiles. Available
+        in API version 28.0 and later.
 
 # PermissionSet
 

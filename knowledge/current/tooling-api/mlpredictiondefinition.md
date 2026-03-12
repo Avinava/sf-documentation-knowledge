@@ -5,11 +5,16 @@ topic: mlpredictiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.301Z
-keywords: [MLPredictionDefinition, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.111Z
+estimatedTokens: 1526
+keywords: [MLPredictionDefinition, Represents, details, prediction, within, definition, used, machine, learning, application., API, version, 50.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # MLPredictionDefinition
+
+> Represents the details about a prediction within a prediction
+            definition used in a machine learning (ML) application. Available in API version
+        50.0 and later.
 
 # MLPredictionDefinition
 

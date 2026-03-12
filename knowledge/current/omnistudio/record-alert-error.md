@@ -5,11 +5,14 @@ topic: record-alert-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.788Z
-keywords: [Record, Alert, Error]
+lastCollected: 2026-03-12T05:14:50.671Z
+estimatedTokens: 94
+keywords: [Record, Alert, Error, Output, representation, record, alert, error.]
 ---
 
 # Record Alert Error
+
+> Output representation of the record alert error.
 
 # Record Alert Error
 

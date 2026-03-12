@@ -5,11 +5,15 @@ topic: party-financial-liability-borrower-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.678Z
-keywords: [Party, Financial, Liability, Borrower, Result]
+lastCollected: 2026-03-12T05:14:50.492Z
+estimatedTokens: 517
+keywords: [Party, Financial, Liability, Borrower, Result, Output, representation, borrower, details, party, financial, liability.]
 ---
 
 # Party Financial Liability Borrower Result
+
+> Output representation of the borrower details of the party financial
+    liability.
 
 # Party Financial Liability Borrower Result
 
@@ -33,3 +37,7 @@ Output representation of the borrower details of the party financial liability.
 | recordTypeId | String | ID of the record type assigned to this object. | Small, 61.0 | 61.0 |
 | sharePercent | Double | Percentage of the asset shared between the primary and additional owner. | Small, 61.0 | 61.0 |
 | sourceSystem​Identifier | String | Unique identifier of the borrower of the party financial liability in the external system. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

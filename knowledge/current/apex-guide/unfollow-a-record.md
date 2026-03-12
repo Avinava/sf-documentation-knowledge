@@ -5,11 +5,14 @@ topic: unfollow-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.906Z
-keywords: [Unfollow, Record, See]
+lastCollected: 2026-03-12T05:14:34.449Z
+estimatedTokens: 156
+keywords: [Unfollow, Record, Call, stop, following, record.]
 ---
 
 # Unfollow a Record
+
+> Call a method to stop following a record.
 
 # Unfollow a Record
 
@@ -24,3 +27,13 @@ When you follow a record such as a user, the call to ConnectApi.ChatterUsers.fol
 #### See Also
 
 -   [Follow a Record](atlas.en-us.apexcode.meta/apexcode/connectapi_examples_follow_record.htm "Call a method to follow a record.")
+
+## Code Examples
+
+```
+ConnectApi.Chatter.deleteSubscription(null, '0E8RR0000004CnK0AU');
+```
+
+## Related Topics
+
+- Follow a Record (atlas.en-us.apexcode.meta/apexcode/connectapi_examples_follow_record.htm)

@@ -5,11 +5,17 @@ topic: criteriabasedsharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.065Z
-keywords: [CriteriaBasedSharingRule, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AccountCriteriaBasedSharingRule, CampaignCriteriaBasedSharingRule, CaseCriteriaBasedSharingRule, ContactCriteriaBasedSharingRule, LeadCriteriaBasedSharingRule, OpportunityCriteriaBasedSharingRule, CustomObjectCriteriaBasedSharingRule]
+lastCollected: 2026-03-12T05:14:37.634Z
+estimatedTokens: 2852
+keywords: [CriteriaBasedSharingRule, component, removed, API, version, 33.0, earlier, versions, only., SharingRules, instead., Represents, criteria-based, sharing, rule., enables, share, records, based, specific]
 ---
 
 # CriteriaBasedSharingRule
+
+> This component is removed as of API version
+      33.0 and is available in earlier versions only. Use SharingRules instead. Represents a
+      criteria-based sharing rule. CriteriaBasedSharingRule enables you to share records based on
+      specific criteria.
 
 # CriteriaBasedSharingRule
 
@@ -164,3 +170,71 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_basesharingrule.htm "BaseSharingRule")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm "OwnerSharingRule")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountSharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+  <ownerRules>
+    <fullName>G1Dev_G2New</fullName>
+    <sharedTo>
+      <group>G2New</group>
+    </sharedTo>
+    <sharedFrom>
+      <group>G1Dev</group>
+    </sharedFrom>
+    <accountAccessLevel>Read</accountAccessLevel>
+    <caseAccessLevel>None</caseAccessLevel>
+    <contactAccessLevel>Read</contactAccessLevel>
+  </ownerRules>
+    <fullName>G2New_R1New</fullName>
+    <sharedTo>
+      <roleAndSubordinates>R1New</roleAndSubordinates>
+    </sharedTo>
+    <sharedFrom>
+      <group>G2New</group>
+    </sharedFrom>
+    <accountAccessLevel>Edit</accountAccessLevel>
+    <caseAccessLevel>Read</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <name>G2New_R1New</name>
+    <opportunityAccessLevel>None</opportunityAccessLevel>
+  </ownerRules>
+  <criteriaBasedRules>
+    <fullName>AccountCriteria</fullName>
+    <sharedTo>
+      <group>G1</group>
+    </sharedTo>
+    <criteriaItems>
+      <field>BillingCity</field>
+      <operation>equals</operation>
+      <value>San Francisco</value>
+    </criteriaItems>
+    <criteriaItems>
+      <field>MyChkBox__c</field>
+      <operation>notEqual</operation>
+      <value>False</value>
+    </criteriaItems>
+    <accountAccessLevel>Read</accountAccessLevel>
+    <booleanFilter>1 OR 2</booleanFilter>
+    <caseAccessLevel>None</caseAccessLevel>
+    <contactAccessLevel>Read</contactAccessLevel>
+    <name>AccountCriteria</name>
+    <opportunityAccessLevel>None</opportunityAccessLevel>
+  </criteriaBasedRules>
+</AccountSharingRules>
+```
+
+## Related Topics
+
+- SharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- BaseSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_basesharingrule.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- AccountSharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- CampaignSharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- CaseSharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- ContactSharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- LeadSharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- OpportunitySharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)
+- CustomObjectSharingRules (atlas.en-us.api_meta.meta/api_meta/meta_sharingrules.htm)

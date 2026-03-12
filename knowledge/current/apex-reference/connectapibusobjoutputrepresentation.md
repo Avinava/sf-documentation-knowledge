@@ -5,11 +5,14 @@ topic: connectapibusobjoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.054Z
-keywords: [ConnectApi.BusObjOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.231Z
+estimatedTokens: 121
+keywords: [ConnectApi.BusObjOutputRepresentation, Business, objective, goal.]
 ---
 
 # ConnectApi.BusObjOutputRepresentation
+
+> Business objective, or goal.
 
 # ConnectApi.BusObjOutputRepresentation
 
@@ -21,3 +24,9 @@ Business objective, or goal.
 | description | String | Description of the business objective. | 59.0 |
 | displayName | String | Display name of the business objective. | 59.0 |
 | id | String | ID of the business objective. | 59.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​BusObjAssociations​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_bus_obj_associations_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

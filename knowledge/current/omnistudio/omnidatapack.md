@@ -5,11 +5,14 @@ topic: omnidatapack
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.032Z
-keywords: [OmniDataPack]
+lastCollected: 2026-03-12T05:14:54.066Z
+estimatedTokens: 66
+keywords: [OmniDataPack, internal, only.]
 ---
 
 # OmniDataPack
+
+> For internal use only.
 
 # OmniDataPack
 

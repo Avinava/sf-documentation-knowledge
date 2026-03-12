@@ -5,11 +5,16 @@ topic: attrpicklistexcludedvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.651Z
-keywords: [AttrPicklistExcludedValue, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:09.652Z
+estimatedTokens: 828
+keywords: [AttrPicklistExcludedValue, Represents, excluded, picklist, values, product, classification, attribute, definition., API, version, 61.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
 ---
 
 # AttrPicklistExcludedValue
+
+> Represents the excluded picklist values for a product classification
+         attribute or a product attribute definition. This object is available in API version
+      61.0 and later.
 
 # AttrPicklistExcludedValue
 
@@ -49,3 +54,9 @@ History is available for tracked fields of the object.
 [AttrPicklistExcludedValueShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- AttrPicklistExcludedValueFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- AttrPicklistExcludedValueHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- AttrPicklistExcludedValueShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

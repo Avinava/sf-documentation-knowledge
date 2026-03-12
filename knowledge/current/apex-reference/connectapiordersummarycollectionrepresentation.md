@@ -5,11 +5,14 @@ topic: connectapiordersummarycollectionrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.512Z
-keywords: [ConnectApi.OrderSummaryCollectionRepresentation]
+lastCollected: 2026-03-12T05:14:28.288Z
+estimatedTokens: 327
+keywords: [ConnectApi.OrderSummaryCollectionRepresentation, Collection, order, summaries.]
 ---
 
 # ConnectApi.OrderSummaryCollectionRepresentation
+
+> Collection of order summaries.
 
 # ConnectApi.OrderSummaryCollectionRepresentation
 
@@ -26,3 +29,11 @@ Collection of order summaries.
 | previousPageToken | String | Token identifying the previous page, or null if there isn’t a previous page. | 51.0 |
 | previousPageUrl | String | Connect REST API URL identifying the previous page, or null if there isn’t a previous page. | 51.0 |
 | sortOrder | ConnectApi.​OrderSummary​SortOrder | Sort order for order summaries. Values are:CreatedDateAsc—Sorts by the oldest created date.CreatedDateDesc—Sorts by the most recent created date.OrderedDateAsc—Sorts by the oldest ordered date.OrderedDateDesc—Sorts by the most recent ordered date. | 51.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​OrderSummary​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_summary.htm)
+- ConnectApi.​OrderSummary​SortOrder (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

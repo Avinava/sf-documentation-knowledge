@@ -5,11 +5,14 @@ topic: connectapioutofoffice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.535Z
-keywords: [ConnectApi.OutOfOffice, See]
+lastCollected: 2026-03-12T05:14:28.320Z
+estimatedTokens: 128
+keywords: [ConnectApi.OutOfOffice, User's, out-of-office, message.]
 ---
 
 # ConnectApi.OutOfOffice
+
+> User's out-of-office message.
 
 # ConnectApi.OutOfOffice
 
@@ -22,5 +25,11 @@ User's out-of-office message.
 #### See Also
 
 -   [ConnectApi.User](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm "User.")
-    
+
 -   [ConnectApi.MentionCompletion](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mention_completion.htm "Information about a record that could be used to @mention a user or group.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.User (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm)
+- ConnectApi.MentionCompletion (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mention_completion.htm)

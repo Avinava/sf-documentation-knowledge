@@ -5,11 +5,18 @@ topic: salesforce-crm-loyalty-program-group-member-relationship-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.190Z
-keywords: [Salesforce, CRM, Loyalty, Program, Group, Member, Relationship, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.717Z
+estimatedTokens: 507
+keywords: [Salesforce, CRM, Loyalty, Program, Group, Member, Relationship, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., includes, association, between]
 ---
 
 # Salesforce CRM: Loyalty Program Group Member Relationship Mapping
+
+> These data mappings are for the Loyalty Program Group Member Relationship DLO found in
+  the Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. This data includes
+  the association between a loyalty program member and their groups, along with details of a
+  member’s points contribution towards the associated
+  group.
 
 # Salesforce CRM: Loyalty Program Group Member Relationship Mapping
 

@@ -5,11 +5,15 @@ topic: connectapiauthorizationgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.993Z
-keywords: [ConnectApi.AuthorizationGatewayResponse]
+lastCollected: 2026-03-12T05:14:26.143Z
+estimatedTokens: 122
+keywords: [ConnectApi.AuthorizationGatewayResponse, Payment, gateway, authorization, response, representation.]
 ---
 
 # ConnectApi.AuthorizationGatewayResponse
+
+> Payment gateway authorization response
+    representation.
 
 # ConnectApi.AuthorizationGatewayResponse
 
@@ -20,3 +24,8 @@ Subclass of [ConnectApi.AbstractGatewayResponse](atlas.en-us.apexref.meta/apexre
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | gatewayAuthorizationCode | String | Gateway authorization code. | 51.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractGatewayResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_gateway_txn_response.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

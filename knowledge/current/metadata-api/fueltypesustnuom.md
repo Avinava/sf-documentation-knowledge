@@ -5,11 +5,16 @@ topic: fueltypesustnuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.839Z
-keywords: [FuelTypeSustnUom, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.168Z
+estimatedTokens: 589
+keywords: [FuelTypeSustnUom, Represents, mapping, between, custom, fuel, types, their, corresponding, unit, measure, UOM, values, defined, customer, org., Parent, File, Suffix, Directory]
 ---
 
 # FuelTypeSustnUom
+
+> Represents a mapping between the custom fuel types and their
+			corresponding unit of measure (UOM) values defined by a customer in an
+		org.
 
 # FuelTypeSustnUom
 
@@ -57,3 +62,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FuelTypeSustnUom xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fuelType>FuelOil</fuelType>
+    <isProtected>false</isProtected>
+    <masterLabel>FuelOil_Liters</masterLabel>
+    <unitOfMeasure>Liters</unitOfMeasure>
+</FuelTypeSustnUom>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pkg</fullName>
+    <types>
+        <members>FuelOil_Liters</members>
+        <members>Gas_1000m3</members>
+        <members>Heat_kWh</members>
+        <name>FuelTypeSustnUom</name>
+    </types>
+    <version>57.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

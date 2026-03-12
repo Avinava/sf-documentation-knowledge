@@ -5,11 +5,18 @@ topic: decisiontableparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.473Z
-keywords: [DecisionTableParameter, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.775Z
+estimatedTokens: 925
+keywords: [DecisionTableParameter, Represents, input, output, field, decision, table., business, rule, custom, metadata, contains, values, used, table, evaluate, records, values., provided, outcomes]
 ---
 
 # DecisionTableParameter
+
+> Represents an input or output field in a decision table. An input
+      field is a field in the business rule object or custom metadata type that contains values used
+      by the decision table to evaluate records and values. An output field is a field in the
+      business rule object or custom metadata type that contains the values provided as outcomes for
+      a rule. This object is available in API version 51.0 and later.
 
 # DecisionTableParameter
 

@@ -4,12 +4,15 @@ domain: apex-reference
 topic: performexpensevalidation
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.559Z
-keywords: [PerformExpenseValidation, Signature, Return, Value, Examples]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.745Z
+estimatedTokens: 94
+keywords: [PerformExpenseValidation, Performs, validations, Party, Income, records., Examples]
 ---
 
 # PerformExpenseValidation
+
+> Performs validations on Party Income records.
 
 # PerformExpenseValidation
 

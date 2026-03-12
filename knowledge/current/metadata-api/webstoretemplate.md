@@ -5,11 +5,15 @@ topic: webstoretemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.368Z
-keywords: [WebStoreTemplate, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.986Z
+estimatedTokens: 1919
+keywords: [WebStoreTemplate, Represents, configuration, creating, commerce, stores., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # WebStoreTemplate
+
+> Represents a configuration for creating commerce
+      stores.
 
 # WebStoreTemplate
 
@@ -89,3 +93,60 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<WebStoreTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoFacetingEnabled>true</autoFacetingEnabled>
+    <cartAsyncProcessingEnabled>true</cartAsyncProcessingEnabled>
+    <cartCalculateEnabled>false</cartCalculateEnabled>
+    <cartToOrderAutoCustomFieldMapping>true</cartToOrderAutoCustomFieldMapping>
+    <checkoutTimeToLive>10</checkoutTimeToLive>
+    <checkoutValidAfterDate>2020-08-10T09:26:50</checkoutValidAfterDate>
+    <commerceEinsteinActivitiesTracked>false</commerceEinsteinActivitiesTracked>
+    <commerceEinsteinDeployed>false</commerceEinsteinDeployed>
+    <country>US</country>
+    <defaultCurrency>USD</defaultCurrency>
+    <defaultLanguage>ENGLISH</defaultLanguage>
+    <defaultTaxLocaleType>Net</defaultTaxLocaleType>
+    <description>WebStore description</description>
+    <duplicateCartItemsEnabled>false</duplicateCartItemsEnabled>
+    <guestBrowsingEnabled>true</guestBrowsingEnabled>
+    <guestCartEnabled>false</guestCartEnabled>
+    <guestCartTimeToLive>10</guestCartTimeToLive>
+    <guestCheckoutEnabled>false</guestCheckoutEnabled>
+    <masterLabel>WebStore</masterLabel>
+    <maxValuesPerFacet>99</maxValuesPerFacet>
+    <orderActivationStatus>Activated</orderActivationStatus>
+    <orderLifeCycleType>MANAGED</orderLifeCycleType>
+    <paginationSize>9</paginationSize>
+    <preserveGuestCartEnabled>false</preserveGuestCartEnabled>
+    <pricingStrategy>Priority</pricingStrategy>
+    <productGrouping>VariationParent</productGrouping>
+    <skipAdditionalEntitlementCheckForSearch>true</skipAdditionalEntitlementCheckForSearch>
+    <skuDetectionEnabled>false</skuDetectionEnabled>
+    <supportedCurrencies>USD</supportedCurrencies>
+    <supportedLanguages>en_us</supportedLanguages>
+    <supportedShipToCountries>CA;US</supportedShipToCountries>
+    <splitShipmentEnabled>false</splitShipmentEnabled>
+    <type>B2B</type>
+</WebStoreTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>WebStoreTemplate</name>
+    </types>
+    <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

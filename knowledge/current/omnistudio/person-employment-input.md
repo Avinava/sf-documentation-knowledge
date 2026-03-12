@@ -5,11 +5,14 @@ topic: person-employment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.446Z
-keywords: [Person, Employment, Input]
+lastCollected: 2026-03-12T05:14:48.668Z
+estimatedTokens: 414
+keywords: [Person, Employment, Input, representation, details, person, employment.]
 ---
 
 # Person Employment Input
+
+> Input representation of the details of the person employment.
 
 # Person Employment Input
 
@@ -35,3 +38,9 @@ Properties
 | startDate | String | Start date of employment at this job. | Optional | 61.0 |
 | weeklyHour​Count | Integer | Number of hours per week that the party works for the employer. | Optional | 61.0 |
 | workerType | String | Worker type for the party that's employed. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Address
+                        Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_application_form_address_input.htm)

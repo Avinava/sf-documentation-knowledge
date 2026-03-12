@@ -5,11 +5,16 @@ topic: decision-matrices
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.726Z
-keywords: [Decision, Matrices]
+lastCollected: 2026-03-12T05:14:49.087Z
+estimatedTokens: 198
+keywords: [Decision, Matrices, Get, list, decision, matrices, known, calculation, matrix, based, search, text., API, maximum, ten, records, contain, specified, keyword.]
 ---
 
 # Decision Matrices
+
+> Get a list of decision matrices ( also known as calculation matrix)
+      based on a search text. The API returns a maximum of ten decision matrices records that
+      contain the specified keyword.
 
 # Decision Matrices
 
@@ -48,3 +53,17 @@ Request parameters for GET
 Response body for GET
 
 [Decision Matrix Result List](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_result_list.htm "Output representation of the decision matrix result list.")
+
+## Code Examples
+
+```
+/connect/omnistudio/decision-matrices
+```
+
+```
+/services/data/v53.0/connect/omnistudio/decision-matrices?searchKey=Test
+```
+
+## Related Topics
+
+- Decision Matrix Result List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_result_list.htm)

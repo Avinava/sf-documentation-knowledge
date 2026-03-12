@@ -5,11 +5,16 @@ topic: update-records-using-sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.720Z
-keywords: [Update, Records, sObject, Relationships, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.079Z
+estimatedTokens: 439
+keywords: [Update, Records, sObject, Relationships, Updates, parent, record, based, specified, relationship, field, name., Field, values, provided, request, body, replace, existing, record.]
 ---
 
 # Update Records Using sObject Relationships
+
+> Updates a parent record based on the specified object, record ID, and relationship field
+		name. Field values provided in the request body replace the existing values in the record.
+		Only a child-to-parent relationship can be traversed when you update records.
 
 # Update Records Using sObject Relationships
 
@@ -52,3 +57,8 @@ For an example of updating a record using PATCH, see
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/ "Object Reference for the Salesforce Platform - HTML (New Window)")
+
+## Related Topics
+
+- Status Codes and Error Responses (atlas.en-us.api_rest.meta/api_rest/errorcodes.htm)
+- Update a Record (atlas.en-us.api_rest.meta/api_rest/dome_update_fields.htm)

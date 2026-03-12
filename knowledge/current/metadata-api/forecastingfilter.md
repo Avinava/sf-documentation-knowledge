@@ -5,11 +5,15 @@ topic: forecastingfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.770Z
-keywords: [ForecastingFilter, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.059Z
+estimatedTokens: 585
+keywords: [ForecastingFilter, Represents, custom, filter, including, excluding, data, opportunity, forecasts., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # ForecastingFilter
+
+> Represents the custom filter for including or excluding data
+      from opportunity forecasts.
 
 # ForecastingFilter
 
@@ -63,3 +67,26 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingFilter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterLogic>1 AND 2</filterLogic>
+    <forecastingType>d</forecastingType>
+    <forecastingTypeSource>d7</forecastingTypeSource>
+    <masterLabel>FF_OpportunityLineItem</masterLabel>
+</ForecastingFilter>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ForecastingFilter</name>
+    </types>
+    <version>55.0</version>
+</Package>
+```

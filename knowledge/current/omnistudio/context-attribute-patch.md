@@ -5,11 +5,14 @@ topic: context-attribute-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:09.009Z
-keywords: [Context, Attribute, PATCH, Note]
+lastCollected: 2026-03-12T05:14:49.508Z
+estimatedTokens: 263
+keywords: [Context, Attribute, PATCH, Update, attributes, context, record., Note]
 ---
 
 # Context Attribute (PATCH)
+
+> Update attributes of a context record.
 
 # Context Attribute (PATCH)
 
@@ -62,3 +65,39 @@ When a context definition is mapped to Account and a field is mapped to Account.
 Response body for PATCH
 
 [Context Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_output.htm "Output Representation of attributes associated with defined context.")
+
+## Code Examples
+
+```
+/connect/contexts/attributes
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/contexts/attributes
+```
+
+```
+{
+    "contextId": "3729ed60-d16d-41b8-8951-9ad4f6407ad2",
+    "nodePathAndAttributes": [
+        {
+            "nodePath": {
+                "dataPath": [
+                    "TestOrder123"
+                ]
+            },
+            "attributes": [
+                {
+                    "attributeName": "Status",
+                    "attributeValue": "DISPATCHED"
+                }
+            ]
+        }
+    ]
+}
+```
+
+## Related Topics
+
+- Context
+            Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_output.htm)

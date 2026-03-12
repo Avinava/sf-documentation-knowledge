@@ -5,11 +5,20 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.491Z
-keywords: [CustomApplication, File, Suffix, Directory, Location, Note, Version, Fields, AppActionOverride, AppBrand, AppComponentList, AppPreferences, AppProfileActionOverride, AppWorkspaceConfig, WorkspaceMapping, CustomShortcut, DefaultShortcut, KeyboardShortcuts, ListPlacement, LiveAgentConfig]
+lastCollected: 2026-03-12T05:14:38.214Z
+estimatedTokens: 7883
+namespace: PackageApp
+keywords: [CustomApplication, represents, custom, standard, application., API, version, 29.0, earlier, only, application, list, tab, references, description, logo., extends, Metadata, metadata, inherits]
 ---
 
 # CustomApplication
+
+> CustomApplication represents a custom or standard
+      application. In API version 29.0 and earlier, CustomApplication represents only a custom
+      application. An application is a list of tab references, with a description and a logo. This type 
+      extends the Metadata metadata type and inherits its fullName field.
+
+**Namespace:** `PackageApp`
 
 # CustomApplication
 
@@ -300,3 +309,106 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [CustomTab](atlas.en-us.api_meta.meta/api_meta/meta_tab.htm "Represents a custom tab. Custom tabs let you display custom object data or other web content in Salesforce. When you add a custom tab to an app in Salesforce Classic, it appears as a tab. When you add a custom tab to an app in Lightning Experience, it appears as an item in the app’s navigation bar and in the App Launcher. When a tab displays a custom object, the tab name is the same as the custom object name. For page, s-control, or URL tabs, the name is arbitrary.")
+
+## Code Examples
+
+```
+<types>
+    <members>*</members>
+    <name>CustomApplication</name>
+</types>
+```
+
+```
+<types>
+    <members>MyCustomApp</members>
+    <name>CustomApplication</name>
+</types>
+```
+
+```
+<types>
+    <members>standard__Chatter</members>
+    <name>CustomApplication</name>
+</types>
+```
+
+```
+<types>
+    <members>myInstalledPackageNS__PackageApp</members>
+    <name>CustomApplication</name>
+</types>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Custom_Mobile_Oppty_Page</content>
+        <formFactor>Small</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>Opportunity</pageOrSobjectType>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <comment>Action override created by Lightning App Builder during activation.</comment>
+        <content>Custom_Mobile_Oppty_Page</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Flexipage</type>
+        <pageOrSobjectType>Opportunity</pageOrSobjectType>
+    </actionOverrides>
+    <brand>
+        <headerColor>#EE1518</headerColor>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>Manage inventory and deliveries for our warehouses.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Warehouse Lightning</label>
+    <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>Warehouse_test_page</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>Warehouse__c</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>Warehouse_test_page</content>
+        <formFactor>Small</formFactor>
+        <pageOrSobjectType>Warehouse__c</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <setupExperience>all</setupExperience>
+    <tabs>standard-Feed</tabs>
+    <tabs>standard-File</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Case</tabs>
+    <tabs>Merchandise__c</tabs>
+    <tabs>Invoice__c</tabs>
+    <tabs>Warehouse__c</tabs>
+    <tabs>Delivery__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>
+```
+
+## Related Topics
+
+- fullName (atlas.en-us.api_meta.meta/api_meta/meta_tab.htm)
+- ActionOverride (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- ActionOverrideType (atlas.en-us.api_meta.meta/api_meta/actionoverride.htm)
+- ProfileActionOverride (atlas.en-us.api_meta.meta/api_meta/meta_profileactionoverride.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- CustomTab (atlas.en-us.api_meta.meta/api_meta/meta_tab.htm)

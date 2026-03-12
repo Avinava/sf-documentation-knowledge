@@ -5,11 +5,16 @@ topic: cmsconnectsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.151Z
-keywords: [CMSConnectSource, Important, Note, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, CMSConnectAsset, CMSConnectLanguage, CMSConnectPersonalization, CMSConnectResourceType, CMSConnectResourceDefinition, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:37.755Z
+estimatedTokens: 3139
+keywords: [CMSConnectSource, Represents, connection, information, external, content, management, systems, feed, Experience, Builder, sites., extends, Metadata, metadata, inherits, its, fullName, field., Important]
 ---
 
 # CMSConnectSource
+
+> Represents the connection information for external content
+    management systems that feed content to Experience Builder sites. This type 
+    extends the Metadata metadata type and inherits its fullName field.
 
 # CMSConnectSource
 
@@ -208,11 +213,98 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [Select Components for an Outbound Change Set](https://help.salesforce.com/articleView?id=changesets_outbound_components_select.htm&type=5&language=en_US)
-    
+
 -   [View and Add Dependent Components to a Change Set](https://help.salesforce.com/articleView?id=changesets_outbound_dependencies.htm&type=5&language=en_US)
-    
+
 -   [Developer Guide: Deploying and Retrieving Metadata](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm)
-    
+
 -   [Salesforce Help: Use Personalized Content in CMS Connect](https://help.salesforce.com/articleView?id=communities_cms_connect_personalization.htm&type=5&language=en_US)
-    
+
 -   [Developer Guide: Translations](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_translations.htm)
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<CMSConnectSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cmsConnectAsset>
+        <assetPath>etc/designs/capricorn/app-prefixed.min.css</assetPath>
+        <assetType>CSS</assetType>
+        <sortOrder>1</sortOrder>
+    </cmsConnectAsset>
+    <cmsConnectAsset>
+        <assetPath>etc/designs/capricorn/w3data.js</assetPath>
+        <assetType>Javascript</assetType>
+        <sortOrder>1</sortOrder>
+    </cmsConnectAsset>
+    <cmsConnectLanguage>
+        <cmsLanguage>en</cmsLanguage>
+        <language>en_US</language>
+    </cmsConnectLanguage>
+    <cmsConnectLanguage>
+        <cmsLanguage>fr</cmsLanguage>
+        <language>fr</language>
+    </cmsConnectLanguage>
+    <cmsConnectPersonalization>
+        <connectorPage>content/salesforceConnector.js</connectorPage>
+        <connectorPageAsset>content/js/capricorn/assets.js</connectorPageAsset>
+    </cmsConnectPersonalization>
+    <cmsConnectResourceType>
+        <cmsConnectResourceDefinition>
+            <developerName>Details</developerName>
+            <masterLabel>Details</masterLabel>
+            <options>0</options>
+            <payloadType>JSON</payloadType>
+            <resourceIdPath>ID</resourceIdPath>
+            <resourceNamePath>title</resourceNamePath>
+            <resourcePath>rest/v1.1/sites/cmstry.wordpress.com/posts/{component}</resourcePath>
+        </cmsConnectResourceDefinition>
+        <cmsConnectResourceDefinition>
+            <developerName>List</developerName>
+            <masterLabel>List</masterLabel>
+            <options>1</options>
+            <payloadType>JSON</payloadType>
+            <resourcePath>rest/v1.1/sites/cmstry.blog.wordpress.com/posts?number={itemsPerPage}&amp;page={pageNumber}</resourcePath>
+        </cmsConnectResourceDefinition>
+        <developerName>Posts</developerName>
+        <masterLabel>Posts</masterLabel>
+        <resourceType>JSON</resourceType>
+    </cmsConnectResourceType>
+    <connectionType>Public</connectionType>
+    <cssScope>capricorn</cssScope>
+    <developerName>Capricorn</developerName>
+    <languageEnabled>Y</languageEnabled>
+    <masterLabel>Capricorn</masterLabel>
+    <personalizationEnabled>Y</personalizationEnabled>
+    <rootPath>content/capricorn/{language}</rootPath>
+    <sortOrder>11</sortOrder>
+    <status>ACTIVE</status>
+    <type>AEM</type>
+    <websiteUrl>https://public-api.wordpress.com</websiteUrl>
+</CMSConnectSource>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>NetworkA.*</members>
+        <name>CMSConnectSource</name>
+    </types>
+    <version>43.0</version>
+</Package>
+```
+
+```
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>NetworkA.DeveloperName</members>
+        <name>CMSConnectSource</name>
+    </types>
+    <version>43.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

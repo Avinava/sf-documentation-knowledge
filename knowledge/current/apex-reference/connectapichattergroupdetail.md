@@ -5,11 +5,14 @@ topic: connectapichattergroupdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.722Z
-keywords: [ConnectApi.ChatterGroupDetail, See]
+lastCollected: 2026-03-12T05:14:25.778Z
+estimatedTokens: 266
+keywords: [ConnectApi.ChatterGroupDetail, Chatter, group, details.]
 ---
 
 # ConnectApi.ChatterGroupDetail
+
+> Chatter group details.
 
 # ConnectApi.ChatterGroupDetail
 
@@ -26,5 +29,13 @@ Subclass of [ConnectApi.ChatterGroup](atlas.en-us.apexref.meta/apexref/apex_conn
 #### See Also
 
 -   [ConnectApi.ChatterGroupPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupPage.htm "Page of groups.")
-    
+
 -   [ConnectApi.UserGroupDetailPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_group_detail_collection.htm "A page of groups that a user is a member of.")
+
+## Related Topics
+
+- ConnectApi.ChatterGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​Group​Information (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_groupinformation.htm)
+- ConnectApi.ChatterGroupPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupPage.htm)
+- ConnectApi.UserGroupDetailPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_group_detail_collection.htm)

@@ -5,11 +5,16 @@ topic: settabunsavedchanges
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.714Z
-keywords: [setTabUnsavedChanges, Syntax, Arguments, Sample, Code, API, Version, 23.0, Later–Visualforce, Note, Response, 25.0]
+lastCollected: 2026-03-12T05:14:58.468Z
+estimatedTokens: 546
+keywords: [setTabUnsavedChanges, unsaved, changes, icon, subtabs, indicate, data., only, API, version, 23.0, later., Syntax, Arguments, Sample, Code, Version, Later–Visualforce, Note, Response]
 ---
 
 # setTabUnsavedChanges()
+
+> Sets the unsaved changes icon ( )
+            on subtabs to indicate unsaved data. This method is only available in API version 23.0
+            or later.
 
 # setTabUnsavedChanges()
 
@@ -68,3 +73,60 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if returning the focused subtab ID was successful; false if if returning the focused subtab ID wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.setTabUnsavedChanges(unsaved:Boolean, callback:Function, (optional)subtabId:String)
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testSetTabUnsavedChanges();return false">
+           Click here to indicate this tab has unsaved changes</A> 
+
+<apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testSetTabUnsavedChanges() { 
+            sforce.console.setTabUnsavedChanges(true, displayResult);
+        };
+        function displayResult(result) {
+             if (result.success) {
+                 alert('Tab status has been successfully updated');
+             } else {
+                 alert('Tab status couldn’t be updated');
+             }
+        }
+
+    </script>
+</apex:page>
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testSetTabUnsavedChanges();return false">
+           Click here to indicate this tab has unsaved changes</A> 
+
+    <apex:includeScript value="/support/console/25.0/integration.js"/>
+    <script type="text/javascript">
+         function testSetTabUnsavedChanges() {
+            sforce.console.getFocusedSubtabId(setTabDirty);
+        };
+         function setTabDirty(result) {
+            sforce.console.setTabUnsavedChanges(true, displayResult, result.id);
+        };
+         function displayResult(result) {
+            if (result.success) {
+                 alert('Tab status has been successfully updated');
+             } else {
+                 alert('Tab status couldn’t be updated');
+             }
+        };
+    </script>
+</apex:page>
+```
+
+## Related Topics
+
+- Methods for Application-Level Custom Console
+                    Components (atlas.en-us.api_console.meta/api_console/sforce_api_console_methods_app_components.htm)

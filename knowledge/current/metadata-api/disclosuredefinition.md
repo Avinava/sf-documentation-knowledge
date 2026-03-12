@@ -5,11 +5,16 @@ topic: disclosuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.990Z
-keywords: [DisclosureDefinition, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.900Z
+estimatedTokens: 493
+keywords: [DisclosureDefinition, Represents, information, defines, disclosure, such, details, publisher, vendor, who, created, implemented, report., Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # DisclosureDefinition
+
+> Represents information that defines a disclosure type,
+			such as details of the publisher or vendor who created or implemented the
+		report.
 
 # DisclosureDefinition
 
@@ -57,3 +62,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DisclosureDefinition
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<description>This is GRI Disclosure Definition</description>
+	<disclosureType>disclstype10</disclosureType>
+	<isProtected>false</isProtected>
+	<masterLabel>GRI</masterLabel>
+</DisclosureDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>Pkg</fullName>
+	<types>
+		<members>GRI</members>
+		<name>DisclosureDefinition</name>
+	</types>
+	<types>
+		<members>dt12</members>
+		<name>DisclosureType</name>
+	</types>
+	<version>57.0</version>
+</Package>
+```

@@ -5,11 +5,14 @@ topic: connectapitargetcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.085Z
-keywords: [ConnectApi.TargetCollection]
+lastCollected: 2026-03-12T05:14:29.107Z
+estimatedTokens: 58
+keywords: [ConnectApi.TargetCollection, List, personalization, targets.]
 ---
 
 # ConnectApi.TargetCollection
+
+> List of personalization targets.
 
 # ConnectApi.TargetCollection
 
@@ -18,3 +21,8 @@ List of personalization targets.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | targets | List<ConnectApi.​Target> | List of personalization targets. | 48.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Target (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target.htm)

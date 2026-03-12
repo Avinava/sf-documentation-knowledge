@@ -5,11 +5,16 @@ topic: get-the-status-of-your-portability-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.495Z
-keywords: [Get, Status, Portability, Request, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.770Z
+estimatedTokens: 390
+keywords: [Get, Status, Portability, Request, status, POST, request, GET, request., policy, file, response, execute, method., resource, REST, API, version, 50.0, later.]
 ---
 
 # Get the Status of Your Portability Request
+
+> See the status of your Portability POST request by using a Portability GET request. Use
+  the policy file ID from the POST method response to execute the GET method. This resource is
+  available in REST API version 50.0 and later.
 
 # Get the Status of Your Portability Request
 
@@ -71,4 +76,22 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/dsr/rtp/execute?policyFileId=0jeS70000004CBO -H "Authorization: Bearer token"
+```
+
+```
+{ 
+   “status" : "SUCCESS",
+   "warnings" : [ ], 
+   "result" : { 
+       "policyFileStatus" : "Failed", 
+       "policyFileUrl" : "https://MyDomainName.my.salesforce.com/servlet/policyFileDownload?file=0jeS70000004CBO", 
+       "policyFileId" : "0jeS70000004CBO" 
+   } 
+}
 ```

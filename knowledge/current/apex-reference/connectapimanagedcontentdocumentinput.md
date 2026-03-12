@@ -5,11 +5,14 @@ topic: connectapimanagedcontentdocumentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.264Z
-keywords: [ConnectApi.ManagedContentDocumentInput]
+lastCollected: 2026-03-12T05:14:25.071Z
+estimatedTokens: 309
+keywords: [ConnectApi.ManagedContentDocumentInput, Input, representation, piece, managed, content.]
 ---
 
 # ConnectApi.ManagedContentDocumentInput
+
+> Input representation for a piece of managed content.
 
 # ConnectApi.ManagedContentDocumentInput
 
@@ -25,3 +28,8 @@ Input representation for a piece of managed content.
 | externalId | String | External ID of the managed content. | Optional | 60.0 |
 | title | String | Title of the managed content. | Required | 60.0 |
 | urlName | String | URL name of the managed content within the org. | Optional | 60.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​BodyInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_managed_content_body_input_re.htm)

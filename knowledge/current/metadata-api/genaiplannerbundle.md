@@ -5,11 +5,19 @@ topic: genaiplannerbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.935Z
-keywords: [GenAiPlannerBundle, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, GenAiPlannerAttrMapping, GenAiPlannerFunctionDef, GenAiLocalPlugin, GenAiPlannerRuleExprAsgn, GenAiPlannerRuleExprDef, GenAiPlannerRuleExprCondition, Usage, Declarative]
+lastCollected: 2026-03-12T05:14:40.264Z
+estimatedTokens: 2407
+namespace: Namespace.TopicName.ActionName.AttributeName
+keywords: [GenAiPlannerBundle, Represents, planner, agent, template., It’s, container, topics, actions, used, interact, large, language, model, LLM, Parent, File, Suffix, Directory, Location]
 ---
 
 # GenAiPlannerBundle
+
+> Represents a planner for an agent or agent template. It’s a
+			container for all the topics and actions used to interact with a large language model
+			(LLM).
+
+**Namespace:** `Namespace.TopicName.ActionName.AttributeName`
 
 # GenAiPlannerBundle
 
@@ -143,3 +151,153 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlannerBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <attributeMappings>
+        attributeName>SvcCopilotTmpl__CaseManagement.SvcCopilotTmpl__CreateCaseEnhancedData.verifiedCustomerID</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>VerifiedCustomerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__CaseManagement.SvcCopilotTmpl__GetCasesForVerifiedContact.verifiedContactID</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>VerifiedCustomerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__CaseManagement.SvcCopilotTmpl__GetCaseByVerifiedCaseNumber.verifiedContactID</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>VerifiedCustomerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__SendEmailVerificationCode.authenticationKey</attributeName>
+        <attributeType>StandardPluginFunctionOutput</attributeType>
+        <mappingTargetName>authenticationKey</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__SendEmailVerificationCode.customerId</attributeName>
+        <attributeType>StandardPluginFunctionOutput</attributeType>
+        <mappingTargetName>customerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__SendEmailVerificationCode.customerType</attributeName>
+        <attributeType>StandardPluginFunctionOutput</attributeType>
+        <mappingTargetName>customerType</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__VerifyCustomer.authenticationKey</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>authenticationKey</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__VerifyCustomer.customerId</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>customerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__VerifyCustomer.customerType</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>customerType</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__VerifyCustomer.isVerified</attributeName>
+        <attributeType>StandardPluginFunctionOutput</attributeType>
+        <mappingTargetName>isVerified</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__ServiceCustomerVerification.SvcCopilotTmpl__VerifyCustomer.customerId</attributeName>
+        <attributeType>StandardPluginFunctionOutput</attributeType>
+        <mappingTargetName>VerifiedCustomerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__AccountManagement.SvcCopilotTmpl__ResetSecurePassword.verifiedContactID</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>VerifiedCustomerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <attributeMappings>
+        <attributeName>SvcCopilotTmpl__AccountManagement.SvcCopilotTmpl__UpdateVerifiedContact.verifiedContactID</attributeName>
+        <attributeType>StandardPluginFunctionInput</attributeType>
+        <mappingTargetName>VerifiedCustomerId</mappingTargetName>
+        <mappingType>Variable</mappingType>
+    </attributeMappings>
+    <description>Deliver personalized customer interactions with an autonomous AI agent. Agentforce Service Agent intelligently supports your customers with common inquiries and escalates complex issues.</description>
+    <genAiFunctions>
+        <genAiFunctionName>EmployeeCopilot__AnswerQuestionsWithKnowledge</genAiFunctionName>
+    </genAiFunctions>
+    <genAiPlugins>
+        <genAiPluginName>SvcCopilotTmpl__AccountManagement</genAiPluginName>
+    </genAiPlugins>
+    <genAiPlugins>
+        <genAiPluginName>SvcCopilotTmpl__CaseManagement</genAiPluginName>
+    </genAiPlugins>
+    <genAiPlugins>
+        <genAiPluginName>SvcCopilotTmpl__Escalation</genAiPluginName>
+    </genAiPlugins>
+    <genAiPlugins>
+        <genAiPluginName>SvcCopilotTmpl__GeneralFAQ</genAiPluginName>
+    </genAiPlugins>
+    <genAiPlugins>
+        <genAiPluginName>SvcCopilotTmpl__ServiceCustomerVerification</genAiPluginName>
+    </genAiPlugins>
+    <masterLabel>ASA Template Base</masterLabel>
+    <plannerType>AiCopilot__ReAct</plannerType>
+    <ruleExpressionAssignments>
+        <ruleExpressionName>Verified_User</ruleExpressionName>
+        <targetName>SvcCopilotTmpl__AccountManagement</targetName>
+        <targetType>Plugin</targetType>
+    </ruleExpressionAssignments>
+    <ruleExpressionAssignments>
+        <ruleExpressionName>Verified_User</ruleExpressionName>
+        <targetName>SvcCopilotTmpl__CaseManagement</targetName>
+        <targetType>Plugin</targetType>
+    </ruleExpressionAssignments>
+    <ruleExpressions>
+        <conditions>
+            <leftOperand>isVerified</leftOperand>
+            <leftOperandType>Variable</leftOperandType>
+            <operator>equal</operator>
+            <rightOperandValue>true</rightOperandValue>
+        </conditions>
+        <expression>Verified_User</expression>
+        <expressionLabel>Verified User</expressionLabel>
+        <expressionName>Verified_User</expressionName>
+        <expressionType>sel</expressionType>
+    </ruleExpressions>
+</GenAiPlannerBundle>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>GenAiPlannerBundle</name>
+   </types>
+   <version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- AiPluginUtteranceDef (atlas.en-us.api_meta.meta/api_meta/meta_aipluginutterancedef.htm)
+- GenAiPluginFunctionDef (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm)
+- GenAiPluginInstructionDef (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugininstructiondef.htm)
+- GenAiPlugin (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm)
+- GenAiFunction (atlas.en-us.api_meta.meta/api_meta/meta_genaifunction.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

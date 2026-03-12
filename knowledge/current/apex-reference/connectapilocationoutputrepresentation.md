@@ -5,11 +5,15 @@ topic: connectapilocationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.062Z
-keywords: [ConnectApi.LocationOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.680Z
+estimatedTokens: 84
+keywords: [ConnectApi.LocationOutputRepresentation, inventory, location’s, distance, order, recipient.]
 ---
 
 # ConnectApi.LocationOutputRepresentation
+
+> An inventory location’s distance to an order
+    recipient.
 
 # ConnectApi.LocationOutputRepresentation
 
@@ -19,3 +23,8 @@ An inventory location’s distance to an order recipient.
 | --- | --- | --- | --- |
 | distance | Double | The distance from the location to the order recipient. | 51.0 |
 | locationIdentifier | String | The location identifier. | 51.0 |
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

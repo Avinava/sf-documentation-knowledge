@@ -5,11 +5,15 @@ topic: engagement-attendee-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.390Z
-keywords: [Engagement, Attendee, Output]
+lastCollected: 2026-03-12T05:14:50.109Z
+estimatedTokens: 360
+keywords: [Engagement, Attendee, Output, representation, create, engagement, attendee, record.]
 ---
 
 # Engagement Attendee Output
+
+> Output representation to create an engagement attendee
+    record.
 
 # Engagement Attendee Output
 
@@ -29,3 +33,7 @@ Output representation to create an engagement attendee record.
 | role | String | The role of the EngagementAttendee. | Small, 55.0 | 55.0 |
 | startDateTime | String | The start date and time of an engagement interaction. | Small, 55.0 | 55.0 |
 | verificationTime | String | The value of the VerificationTime field for an EngagementAttendee. | Small, 55.0 | 55.0 |
+
+## Related Topics
+
+- Engagement Custom Fields Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_custom_field_output.htm)

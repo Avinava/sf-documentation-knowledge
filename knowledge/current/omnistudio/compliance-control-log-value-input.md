@@ -5,11 +5,14 @@ topic: compliance-control-log-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.082Z
-keywords: [Compliance, Control, Log, Value, Input]
+lastCollected: 2026-03-12T05:14:48.116Z
+estimatedTokens: 430
+keywords: [Compliance, Control, Log, Input, representation, compliance, control, logs.]
 ---
 
 # Compliance Control Log Value Input
+
+> Input representation of the compliance control logs.
 
 # Compliance Control Log Value Input
 
@@ -36,3 +39,33 @@ Properties
 | isCompliant | Boolean | Indicates whether the control has passed the compliance check. | Required | 64.0 |
 | status | String | Specifies the status of the evaluation check. | Required | 64.0 |
 | transactionKey | String | Transaction key to identify the log message. | Optional | 64.0 |
+
+## Code Examples
+
+```
+[
+  {
+  "controlVersionApiName": "LicenseCheckControl_V1",  // change to controlVersionAPIName
+  "isCompliant": true, // required
+  "inContextOf": "001xx0000ABCDE", // required, its a valid salesforce record
+  "status": "SUCCESS", // required ( Static enum )
+  "evaluationTime": "2022-10-31T09:00:00.594Z", // optional
+  "businessContextAndEvidence": { // optional
+  "clientId": "001Z9000002G3ygIAC",
+  "advisorId": "005xx0000000000001",
+  "productId": "00Pxx0000000000001",
+  "acceptableRisk": "true",
+  "productRisk": "85"
+  },
+  "complianceMessage": "Agent has an active license.", //optional
+  "transactionKey": "txn1234567890abcde", // optional , Customer generated
+  "errorId": "123", // optional
+  "errorMessage": "", // optional
+  "businessOperationsProcessApiName": "0022..." // optional
+  }
+]
+```
+
+## Related Topics
+
+- ComplianceLogging​BusinessContext​EvidenceValueInput (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_compliance_logging_business_context_evidence_value_input.htm)

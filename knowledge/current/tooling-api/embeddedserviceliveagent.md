@@ -5,11 +5,15 @@ topic: embeddedserviceliveagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.722Z
-keywords: [EmbeddedServiceLiveAgent, Supported, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.300Z
+estimatedTokens: 2046
+keywords: [EmbeddedServiceLiveAgent, Represents, setup, node, creating, Embedded, Chat, deployment., Tooling, API, version, 38.0, later., Supported, Calls, REST, HTTP, Special, Access, Rules]
 ---
 
 # EmbeddedServiceLiveAgent
+
+> Represents a setup node for creating an Embedded Chat
+            deployment. Available in Tooling API version 38.0 and later.
 
 # EmbeddedServiceLiveAgent
 

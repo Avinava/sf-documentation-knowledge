@@ -5,11 +5,16 @@ topic: workdotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.229Z
-keywords: [WorkDotComSettings, Version, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:36.461Z
+estimatedTokens: 648
+keywords: [WorkDotComSettings, Represents, WorkDotCom, settings., extends, Metadata, metadata, inherits, its, fullName, field., Version, Fields, Declarative, Sample, Definition]
 ---
 
 # WorkDotComSettings
+
+> Represents WorkDotCom settings. 
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # WorkDotComSettings
 
@@ -44,3 +49,28 @@ The following is an example of a WorkDotComSettings component.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkDotComSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableCoachingManagerGroupAccess>true</enableCoachingManagerGroupAccess>
+    <enableGoalManagerGroupAccess>true</enableGoalManagerGroupAccess>
+    <enableProfileSkills>true</enableProfileSkills>
+    <enableProfileSkillsAddFeedPost>true</enableProfileSkillsAddFeedPost>
+    <enableProfileSkillsAutoSuggest>true</enableProfileSkillsAutoSuggest>
+    <enableProfileSkillsUsePlatform>true</enableProfileSkillsUsePlatform>
+    <enableWorkBadgeDefRestrictPref>true</enableWorkBadgeDefRestrictPref>
+    <enableWorkCalibration>true</enableWorkCalibration>
+    <enableWorkCanvasPref>true</enableWorkCanvasPref>
+    <enableWorkCertification>true</enableWorkCertification>
+    <enableWorkCertificationNotification>true</enableWorkCertificationNotification>
+    <enableWorkRewardsPref>true</enableWorkRewardsPref>
+    <enableWorkThanksPref>true</enableWorkThanksPref>
+    </WorkDotComSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

@@ -5,11 +5,16 @@ topic: territory2rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.855Z
-keywords: [Territory2Rule, File, Suffix, Directory, Location, Version, Special, Access, Fields, Territory2RuleItem, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.140Z
+estimatedTokens: 1230
+keywords: [Territory2Rule, Represents, metadata, associated, territory, assignment, rule, such, Account., Sales, Territories, enabled., File, Suffix, Directory, Location, Version, Special, Access, Fields]
 ---
 
 # Territory2Rule
+
+> Represents the metadata associated with a territory
+      assignment rule associated with an object, such as Account. Available if Sales
+    Territories has been enabled.
 
 # Territory2Rule
 
@@ -75,3 +80,57 @@ The following is a package.xml sample. FY13 and FY14 represent names of territor
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Rule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Northern CA</label>
+    <description>To capture northern CA based accounts</description>
+    <objectType>Account</objectType>
+    <active>True</active>
+    <ruleItems>
+        <field>BillingZip</field>
+        <operation>contains</operation>
+        <value><94105,94404,94536/value>
+    </ruleItems>
+    <ruleItems>
+        <field>Industry</field>
+        <operation>equals</operation>
+        <value>IT</value>
+    </ruleItems>
+    <ruleItems>
+        <field>someCustomField__c</field>
+        <operation>greater_than</operation>
+        <value>50000</value>
+    </ruleItems>
+    <booleanFilter>(1 OR 2) AND 3</booleanFilter>
+</Territory2Rule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?> 
+<Package xmlns="http://soap.sforce.com/2006/04/metadata"> 
+        <types> 
+            <members>FY13</members>
+            <members>FY14</members> 
+            <name>Territory2Model</name> 
+        </types>
+        
+        <types>
+            <members>FY13.AccRule1</members>
+            <members>FY14.AccRule1</members>
+            <name>Territory2Rule</name>
+        </types>
+        
+        <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- CRUD calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

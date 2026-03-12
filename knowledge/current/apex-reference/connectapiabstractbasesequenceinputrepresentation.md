@@ -5,11 +5,14 @@ topic: connectapiabstractbasesequenceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.698Z
-keywords: [ConnectApi.AbstractBaseSequenceInputRepresentation]
+lastCollected: 2026-03-12T05:14:24.189Z
+estimatedTokens: 272
+keywords: [ConnectApi.AbstractBaseSequenceInputRepresentation, sequence, refunds, payment, credits.]
 ---
 
 # ConnectApi.AbstractBaseSequenceInputRepresentation
+
+> The sequence for refunds and payment credits.
 
 # ConnectApi.AbstractBaseSequenceInputRepresentation
 
@@ -26,3 +29,10 @@ Superclass of:
 | --- | --- | --- | --- | --- |
 | amount | Double | The amount being refunded. | Required | 65.0 |
 | orderPaymentSummaryId | String | The order payment summary’s ID. | Required | 65.0 |
+
+## Related Topics
+
+- ConnectApi.RefundSequenceItemInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_refund_sequence_item.htm)
+- ConnectApi.PaymentCreditSequenceItemInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_payment_credit_sequence_item.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

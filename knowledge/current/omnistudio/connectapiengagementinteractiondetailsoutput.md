@@ -5,11 +5,15 @@ topic: connectapiengagementinteractiondetailsoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.834Z
-keywords: [ConnectApi.EngagementInteractionDetailsOutput]
+lastCollected: 2026-03-12T05:14:47.763Z
+estimatedTokens: 513
+keywords: [ConnectApi.EngagementInteractionDetailsOutput, Output, representation, fetch, engagement, interaction, record.]
 ---
 
 # ConnectApi.EngagementInteractionDetailsOutput
+
+> Output representation to fetch an engagement interaction
+    record.
 
 # ConnectApi.EngagementInteractionDetailsOutput
 
@@ -38,3 +42,9 @@ Output representation to fetch an engagement interaction record.
 | startDateTime | String | The start date and time of an engagement interaction. | 55.0 |
 | status | String | The status of an engagement interaction. | 55.0 |
 | type | String | The type of an engagement interaction. | 55.0 |
+
+## Related Topics
+
+- ConnectApi.EngagementCustomFieldsOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_custom_field_output.htm)
+- ConnectApi.EngagementAttendeeDetailsOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_engagement_attendee_output.htm)
+- ConnectApi.EngagementTopicOutput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_engagement_topic_output.htm)

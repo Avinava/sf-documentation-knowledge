@@ -5,11 +5,15 @@ topic: connectapipostauthorizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.609Z
-keywords: [ConnectApi.PostAuthorizationResponse]
+lastCollected: 2026-03-12T05:14:28.417Z
+estimatedTokens: 325
+keywords: [ConnectApi.PostAuthorizationResponse, Gateway, response, following, post, authorization, request.]
 ---
 
 # ConnectApi.PostAuthorizationResponse
+
+> Gateway response following a post authorization
+    request.
 
 # ConnectApi.PostAuthorizationResponse
 
@@ -24,3 +28,13 @@ Gateway response following a post authorization request.
 | paymentGroup | ConnectApi.​PaymentGroup​Response | Payment group, consisting of one or more payments, sent to the gateway for the post authorization request. | 54.0 |
 | paymentMethod | ConnectApi.​PaymentMethod​Response | Payment method used in the post authorization request. | 54.0 |
 | savedPayment​MethodStatus | ConnectApi.​PostAuthSPMStatus | Saved payment method status. Valid values are:AlreadyExistsCreatedUpdated | 61.0 |
+
+## Related Topics
+
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- ConnectApi.​Payment​AuthorizationResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_authorization_output.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​GatewayLog​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_gateway_log_output.htm)
+- ConnectApi.​PaymentGroup​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_group.htm)
+- ConnectApi.​PaymentMethod​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_payment_method_output.htm)
+- ConnectApi.​PostAuthSPMStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

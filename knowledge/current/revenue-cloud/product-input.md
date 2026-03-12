@@ -5,11 +5,14 @@ topic: product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.185Z
-keywords: [Product, Input]
+lastCollected: 2026-03-12T05:14:06.367Z
+estimatedTokens: 1121
+keywords: [Product, Input, representation, product, catalog.]
 ---
 
 # Product Input
+
+> Input representation of a product in the catalog.
 
 # Product Input
 
@@ -50,3 +53,59 @@ Properties
 | related​Object​Filters | Related Object Filter[] | Criteria for the related objects to filter the records. The supported operator is eq. The supported object is ProductSpecificationRecType. The supported values are true and false. The supported property is IsCommercial. | Optional | 60.0 |
 | searchTerm | String | String used to get products with the product name containing the search term. See Search Considerations When Using Indexed Data. | Optional | 62.0 |
 | sort | Sort | Sort order for the products.If the Use Indexed Data For Product Listing and Search toggle from the Product Discovery Settings page from Setup is enabled, then you can sort products by using name only. | Optional | 60.0 |
+
+## Code Examples
+
+```
+{
+  "catalogIds": [
+    "0ZST10000004D03OAE"
+  ],
+  "language": "spanish",
+  "filter": {
+    "criteria": [
+      {
+        "property": "name",
+        "operator": "contains",
+        "value": "Bundle Product"
+      }
+    ]
+  },
+  "relatedObjectFilters": [
+    {
+      "objectName": "ProductSpecificationRecType",
+      "criteria": [
+        {
+          "property": "IsCommercial",
+          "operator": "eq",
+          "value": false
+        }
+      ],
+      "additionalFields": {
+        "Product2": {
+          "fields": [
+            "code__c"
+          ]
+        }
+      }
+    }
+  ]
+}
+```
+
+```
+{
+  "catalogIds": [
+    "0ZSDU0000002Og54AE"
+  ],
+  "searchTerm": "Slack"
+}
+```
+
+## Related Topics
+
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_catalog_additional_fields_input.htm)
+- Criteria Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_criteria.htm)
+- Related
+                        Object Filter (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filters_input.htm)
+- Sort (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_order.htm)

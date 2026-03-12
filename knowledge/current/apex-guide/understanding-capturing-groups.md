@@ -4,12 +4,16 @@ domain: apex-guide
 topic: understanding-capturing-groups
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.616Z
-keywords: [Understanding, Capturing, Groups]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.655Z
+estimatedTokens: 200
+keywords: [Understanding, Capturing, Groups, During, matching, operation, substring, input, matches, pattern, saved., substrings, called, capturing, groups.]
 ---
 
 # Understanding Capturing Groups
+
+> During a matching operation, each substring of the input string
+that matches the pattern is saved. These matching substrings are called capturing groups.
 
 # Understanding Capturing Groups
 

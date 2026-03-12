@@ -5,11 +5,18 @@ topic: oncalllogsaved
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.568Z
-keywords: [onCallLogSaved, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.249Z
+estimatedTokens: 229
+keywords: [onCallLogSaved, Registers, function, fired, interaction, log, saves, call, log., get, information, send, between, custom, console, component., only, API, version, 31.0]
 ---
 
 # onCallLogSaved()
+
+> Registers a function that is fired when an interaction
+            log saves a call log. Use to get information or send information between an interaction
+                log and a custom console component.
+            This method is only available in API version 31.0 or
+        later.
 
 # onCallLogSaved()
 
@@ -40,3 +47,25 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | id | string | Call log object ID that was saved. |
+
+## Code Examples
+
+```
+sforce.console.cti.onCallLogSaved( eventHandler:Function )
+```
+
+```
+<apex:page>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+
+        var callback = function (result) {
+            alert('Call Log was saved! Object Id saved is : ' + result.id);
+        };
+
+        sforce.console.cti.onCallLogSaved(callback);
+
+  </script>
+    <p>Registered onCallLogSaved listener...</p>
+</apex:page>
+```

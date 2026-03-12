@@ -5,11 +5,15 @@ topic: connectapidashboardcomponentsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.507Z
-keywords: [ConnectApi.DashboardComponentSnapshot, See]
+lastCollected: 2026-03-12T05:14:26.914Z
+estimatedTokens: 504
+keywords: [ConnectApi.DashboardComponentSnapshot, Represents, both, dashboard, component, snapshots, alerts, receive, crosses, threshold.]
 ---
 
 # ConnectApi.DashboardComponentSnapshot
+
+> Represents both dashboard component snapshots and alerts you receive
+      when a dashboard component value crosses a threshold.
 
 # ConnectApi.DashboardComponentSnapshot
 
@@ -31,5 +35,13 @@ Represents both dashboard component snapshots and alerts you receive when a dash
 #### See Also
 
 -   [ConnectApi.DashboardComponentSnapshotCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_dashboard_capability.htm "If a feed element has this capability, it has a dashboard component snapshot. A snapshot is a static image of a dashboard component at a specific point in time.")
-    
+
 -   [ConnectApi.DatacloudCompanies](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_datacloud_company_collection.htm "Lists all companies that were purchased in a specific order, page URLs, and the number of companies in the order.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.DashboardComponentSnapshotCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_dashboard_capability.htm)
+- ConnectApi.DatacloudCompanies (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_datacloud_company_collection.htm)

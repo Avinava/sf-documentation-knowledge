@@ -5,11 +5,21 @@ topic: contextnodeattrdictionary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.417Z
-keywords: [ContextNodeAttrDictionary, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.700Z
+estimatedTokens: 318
+keywords: [ContextNodeAttrDictionary, Represents, relationship, between, ContextNodeMapping, ContextDictionary, objects, junction, table., API, version, 62.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ContextNodeAttrDictionary
+
+> Represents
+         the
+         relationship between
+         the
+         ContextNodeMapping and ContextDictionary
+         objects
+         as a junction table. This object is available in API version 62.0
+      and later.
 
 # ContextNodeAttrDictionary
 

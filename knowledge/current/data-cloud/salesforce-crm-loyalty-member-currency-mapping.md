@@ -5,11 +5,17 @@ topic: salesforce-crm-loyalty-member-currency-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.261Z
-keywords: [Salesforce, CRM, Loyalty, Member, Currency, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.790Z
+estimatedTokens: 508
+keywords: [Salesforce, CRM, Loyalty, Member, Currency, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., Information, qualifying, non-qualifying, currency, points]
 ---
 
 # Salesforce CRM: Loyalty Member Currency Mapping
+
+> These data mappings are for the Loyalty Member Currency DLO found in the Loyalty
+  Management bundle of the Salesforce CRM Connector for Data Cloud. Information about the qualifying
+  and non-qualifying currency points that are available in members’ point
+  balances.
 
 # Salesforce CRM: Loyalty Member Currency Mapping
 

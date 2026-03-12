@@ -5,11 +5,14 @@ topic: connectapiordershipment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.484Z
-keywords: [ConnectApi.OrderShipment, See]
+lastCollected: 2026-03-12T05:14:28.250Z
+estimatedTokens: 177
+keywords: [ConnectApi.OrderShipment, Order, shipment.]
 ---
 
 # ConnectApi.OrderShipment
+
+> Order shipment.
 
 # ConnectApi.OrderShipment
 
@@ -27,3 +30,11 @@ Order shipment.
 #### See Also
 
 -   [ConnectApi.OrderShipmentCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_shipment_collection.htm "Collection of order shipments.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordField.htm)
+- ConnectApi.OrderShipmentCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_shipment_collection.htm)

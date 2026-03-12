@@ -5,11 +5,14 @@ topic: connectapicdpidentityresolutionoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.225Z
-keywords: [ConnectApi.CdpIdentityResolutionOutput, See]
+lastCollected: 2026-03-12T05:14:26.478Z
+estimatedTokens: 655
+keywords: [ConnectApi.CdpIdentityResolutionOutput, Identity, resolution, ruleset.]
 ---
 
 # ConnectApi.CdpIdentityResolutionOutput
+
+> Identity resolution ruleset.
 
 # ConnectApi.CdpIdentityResolutionOutput
 
@@ -40,3 +43,16 @@ Identity resolution ruleset.
 #### See Also
 
 -   [ConnectApi.CdpIdentityResolutionsOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolutions_output.htm "Identity resolution rulesets.")
+
+## Related Topics
+
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- ConnectApi.​CdpIdentityResolution​ConfigurationType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpIdentityResolution​MatchRuleOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_match_rule_outpu.htm)
+- ConnectApi.​CdpIdentityResolution​ReconciliationRuleOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolution_reconciliation_rule_outpu.htm)
+- ConnectApi.CdpIdentityResolutionsOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_identity_resolutions_output.htm)

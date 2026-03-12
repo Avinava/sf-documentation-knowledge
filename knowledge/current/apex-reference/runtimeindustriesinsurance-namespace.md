@@ -5,11 +5,19 @@ topic: runtimeindustriesinsurance-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:42.199Z
-keywords: [runtime_industries_insurance, Namespace, runtime, _industries, _insurance]
+lastCollected: 2026-03-12T05:14:31.718Z
+estimatedTokens: 361
+namespace: The
+keywords: [runtime_industries_insurance, provides, options, classes, insurance, operations, such, creating, updating, quotes, generating, clauses, running, rating., runtime, _industries, _insurance]
 ---
 
 # runtime_industries_insurance Namespace
+
+> The runtime_industries_insurance namespace
+        provides options classes for insurance operations, such as creating and updating insurance
+        quotes, generating insurance clauses, and running insurance rating.
+
+**Namespace:** `The`
 
 # runtime\_industries\_insurance Namespace
 

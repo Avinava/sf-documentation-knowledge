@@ -5,11 +5,15 @@ topic: criteria-based-search-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.713Z
-keywords: [Criteria-Based, Search, Results]
+lastCollected: 2026-03-12T05:14:49.064Z
+estimatedTokens: 531
+keywords: [Criteria-Based, Search, Results, results, search, based, searchable, configuration, criteria, defined, admin.]
 ---
 
 # Criteria-Based Search Results
+
+> Returns the results for search based on the searchable object
+      configuration and search criteria configuration defined by the admin.
 
 # Criteria-Based Search Results
 
@@ -66,3 +70,50 @@ Properties
 Response body for POST
 
 [Unified Object Search Data](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_unified_object_search_data_output.htm "Output representation of the unified object search data.")
+
+## Code Examples
+
+```
+/connect/criteria-based-search/searchable-object/results
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/criteria-based-search/searchable-object/results
+```
+
+```apex
+{
+  "searchCriteriaConfigurationName": "Config_Name",
+  "pageNumber": 1,
+  "pageSize": 50,
+  "freeTextFieldName": "Field Name",
+  "globalSearchTerm": "Keyword",
+  "offset": 0,
+  "aggregationCriteriaFieldset": [
+    "ProviderType",
+    "FacilityName"
+  ],
+  "sortingCriteriaFieldset": [
+    {
+      "isSortAscending": false,
+      "sortFieldName": "FacilityName"
+    }
+  ],
+  "searchCriteria": [
+    {
+      "searchCriteriaFieldName": "ProviderType",
+      "searchCriteriaFieldOperator": "like",
+      "searchFieldCriteriaValueList": [
+        "Medical Doctor"
+      ],
+      "searchCriteriaFieldType": "text"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Unified Object Search Criteria (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_unified_object_search_field_criteria.htm)
+- Unified Object Search Sort By Field (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_unified_object_search_sort_by_field.htm)
+- Unified Object Search Data (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_unified_object_search_data_output.htm)

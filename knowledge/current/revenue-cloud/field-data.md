@@ -5,11 +5,14 @@ topic: field-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.417Z
-keywords: [Field, Data]
+lastCollected: 2026-03-12T05:14:07.731Z
+estimatedTokens: 215
+keywords: [Field, Data, Output, representation, field, data.]
 ---
 
 # Field Data
+
+> Output representation of the field data.
 
 # Field Data
 
@@ -23,3 +26,7 @@ Output representation of the field data.
 | original​Value | String | Original value of the field. | Small, 63.0 | 63.0 |
 | rounded​Value | String | Rounded field value that corresponds to the original value, if data rounding is applicable. | Small, 63.0 | 63.0 |
 | unitOf​MeasureId | String | ID of the unit of measure record that’s associated to the field. | Small, 63.0 | 63.0 |
+
+## Related Topics
+
+- Unit Of Measure Error (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_unit_of_measure_error_output.htm)

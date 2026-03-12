@@ -5,11 +5,17 @@ topic: auraenabled-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.446Z
-keywords: [AuraEnabled, Annotation, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:32.417Z
+estimatedTokens: 356
+keywords: [AuraEnabled, Annotation, @AuraEnabled, annotation, enables, client-side, server-side, access, Apex, controller, method., Providing, makes, Lightning, components, both, web, Aura, Only, Versioned]
 ---
 
 # AuraEnabled Annotation Annotation
+
+> The @AuraEnabled
+                annotation enables client-side and server-side access to an Apex controller method.
+                Providing this annotation makes your methods available to your Lightning components
+                (both Lightning web components and Aura components). Only methods w
 
 # AuraEnabled Annotation Annotation
 
@@ -26,3 +32,7 @@ For more information, see [Lightning Aura Components Developer Guide](https://de
 In API version 55.0 and later, overloads aren’t allowed on methods annotated with @AuraEnabled.
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm "Deprecated Annotation Annotation")
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm)

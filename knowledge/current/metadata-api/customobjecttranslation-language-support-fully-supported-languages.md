@@ -5,11 +5,15 @@ topic: customobjecttranslation-language-support-fully-supported-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.147Z
-keywords: [CustomObjectTranslation, Language, Support, Fully, Supported, Languages, Note, Chinese, Simplified, Traditional, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Portuguese]
+lastCollected: 2026-03-12T05:14:36.380Z
+estimatedTokens: 522
+keywords: [CustomObjectTranslation, Language, Support, Fully, Supported, Languages, every, language, supports, possible, values, fields, CustomObjectTranslation., appendix, determine, which, field, supports., Note, Chinese]
 ---
 
 # CustomObjectTranslation Language Support: Fully Supported Languages
+
+> Not every language supports all the possible values for the fields in CustomObjectTranslation. Use this appendix to determine which field values
+    a language supports.
 
 # CustomObjectTranslation Language Support: Fully Supported Languages
 
@@ -314,3 +318,7 @@ false
 plural
 
 false
+
+## Related Topics
+
+- CustomObjectTranslation (atlas.en-us.api_meta.meta/api_meta/meta_customobjecttranslation.htm)

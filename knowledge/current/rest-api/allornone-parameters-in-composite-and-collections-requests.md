@@ -5,11 +5,15 @@ topic: allornone-parameters-in-composite-and-collections-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.254Z
-keywords: [allOrNone, Parameters, Composite, Collections, Requests, Note]
+lastCollected: 2026-03-12T05:14:35.397Z
+estimatedTokens: 733
+keywords: [allOrNone, Composite, Collections, Requests, request, uses, sObject, there, two, interact, subrequest., Note]
 ---
 
 # allOrNone Parameters in Composite and Collections Requests
+
+> If a Composite request uses sObject Collections, there are two or more allOrNone parameters that can interact, one on the Composite request and one on
+		each sObject Collections subrequest.
 
 # allOrNone Parameters in Composite and Collections Requests
 
@@ -61,3 +65,85 @@ In this case, the inner sObject Collections request has allOrNone set to false, 
 #### Note
 
 Even though the response body for sObject Collections request shows "success" : true for the creation of the first Account, the fact that the Composite request is rolled back means that the Account creation is rolled back. The final result is that the new Account is *not* created.
+
+## Code Examples
+
+```
+POST https://MyDomainName.my.salesforce.com/services/data/v66.0/composite -H "Authorization: Bearer token"
+
+{
+   "allOrNone" : outerFlag,
+   "collateSubrequests" : false,
+   "compositeRequest" : [
+      {
+         "method" : "POST",
+         "url" : "/services/data/v66.0/composite/sobjects",
+         "body" : {
+            "allOrNone" : innerFlag,
+            "records" : [
+               {
+                  "attributes" : { "type" : "Account" },
+                  "Name" : "Northern Trail Outfitters",
+                  "BillingCity" : "San Francisco"
+               },
+               {
+                  "attributes" : { "type" : "Account" },
+                  "Name" : "Easy Spaces",
+                  "BillingCity" : "Calgary"
+               }
+            ]
+         },
+         "referenceId" : "newAccounts"
+      },
+      {
+         "method" : "POST",
+         "url" : "/services/data/v66.0/sObject/Contact",
+         "body" : {
+                "FirstName" : "John",
+                "LastName" : "Smith"
+         },
+         "referenceId" : "newContact"
+      }
+   ]
+}
+```
+
+```
+{
+   "compositeResponse" : [
+      {
+         "body" : [
+            {
+               "id" : "001R00000066cndIAA",
+               "success" : true,
+               "errors" : [ ]
+            },
+            {
+               "success" : false,
+               "errors" : [
+                  {
+                     "statusCode" : "DUPLICATES_DETECTED",
+                     "message" : "Use one of these records?",
+                     "fields" : [ ]
+                  }
+               ]
+            }
+         ],
+         "httpHeaders" : { },
+         "httpStatusCode" : 200,
+         "referenceId" : "collection1"
+      },
+      {
+         "body" : [
+            {
+               "errorCode" : "PROCESSING_HALTED",
+               "message" : "The transaction was rolled back since another operation in the same transaction failed."
+            }
+         ],
+         "httpHeaders" : { },
+         "httpStatusCode" : 400,
+         "referenceId" : "newContact"
+      }
+   ]
+}
+```

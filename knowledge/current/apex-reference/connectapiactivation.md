@@ -5,11 +5,14 @@ topic: connectapiactivation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.855Z
-keywords: [ConnectApi.Activation, See]
+lastCollected: 2026-03-12T05:14:25.970Z
+estimatedTokens: 1147
+keywords: [ConnectApi.Activation, Represents, activation, output.]
 ---
 
 # ConnectApi.Activation
+
+> Represents an activation output.
 
 # ConnectApi.Activation
 
@@ -59,7 +62,20 @@ Represents an activation output.
 #### See Also
 
 -   [createActivation(input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_createActivation_1 "Create an activation.")
-    
+
 -   [getActivation(activationId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_getActivation_1 "Get an activation by ID.")
-    
+
 -   [updateActivation(activationId, input)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_updateActivation_1 "Update an activation by ID.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ActivationPlatformCustomerFileSourceEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​ActivationTargetRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_activation_target.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​QueryPathConfigList (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_query_path_config_list.htm)
+- ConnectApi.​ActivationTargetSubject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_activation_target_subject.htm)
+- ConnectApi.​ActivationAttributeConfig (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_activation_attributes_config.htm)
+- ConnectApi.​ContactPointsConfig (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_contact_points_config.htm)
+- ConnectApi.​ActivationDataSources (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_activation_data_sources.htm)
+- ConnectApi.​DmoFilterConfig (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_dmo_filters_config.htm)

@@ -5,11 +5,14 @@ topic: variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.193Z
-keywords: [Variables, Variable, Naming, Rules, Null, Initial, Values, Note, Scope, Case, Sensitivity, See]
+lastCollected: 2026-03-12T05:14:34.882Z
+estimatedTokens: 1056
+keywords: [Variables, Local, variables, declared, Java-style, syntax., Variable, Naming, Rules, Null, Initial, Values, Note, Scope, Case, Sensitivity]
 ---
 
 # Variables
+
+> Local variables are declared with Java-style syntax.
 
 # Variables
 
@@ -79,23 +82,23 @@ Variables can be defined at any point in a block, and take on scope from that po
 To avoid confusion with case-insensitive SOQL and SOSL queries, Apex is also case-insensitive. This means:
 
 -   Variable and method names are case-insensitive. For example:
-    
+
     ```
-    
+
     ```
-    
+
 -   References to object and field names are case-insensitive. For example:
-    
+
     ```
-    
+
     ```
-    
+
 -   SOQL and SOSL statements are case- insensitive. For example:
-    
+
     ```
-    
+
     ```
-    
+
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
 
@@ -121,3 +124,38 @@ Although s < 'b' evaluates to true in the example above, 'b.'compareTo(s) genera
 #### See Also
 
 -   [Naming Conventions](atlas.en-us.apexcode.meta/apexcode/apex_classes_naming_conventions.htm)
+
+## Code Examples
+
+```apex
+Integer i = 0;
+String str;
+List<String> strList;
+Set<String> s;
+Map<ID, String> m;
+```
+
+```
+Integer i, j, k;
+```
+
+```
+Boolean x = null;
+Decimal d;
+```
+
+```
+Date d;
+d.addDays(2);
+```
+
+```
+Integer i = 0, j, k = 1;
+Boolean b;
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_enums.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_constants.htm)
+- Naming Conventions (atlas.en-us.apexcode.meta/apexcode/apex_classes_naming_conventions.htm)

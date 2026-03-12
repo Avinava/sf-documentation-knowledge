@@ -5,11 +5,14 @@ topic: conditional-if-else-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.141Z
-keywords: [Conditional, If-Else, Statements]
+lastCollected: 2026-03-12T05:14:34.799Z
+estimatedTokens: 76
+keywords: [Conditional, If-Else, Statements, conditional, statement, Apex, works, similarly, Java.]
 ---
 
 # Conditional (If-Else) Statements
+
+> The conditional statement in Apex works similarly to Java.
 
 # Conditional (If-Else) Statements
 
@@ -35,4 +38,43 @@ Repeated else if statements are also allowed. For example:
 
 ```
 
+```
+
+## Code Examples
+
+```
+if ([Boolean_condition]) 
+    // Statement 1
+else
+    // Statement 2
+```
+
+```
+Integer x, sign;
+// Your code
+if (x <= 0) if (x == 0) sign = 0; else sign = -1;
+```
+
+```
+Integer x, sign;
+// Your code
+if (x <= 0) {
+    if (x == 0) {
+           sign = 0; 
+    } else  {
+           sign = -1;
+    }
+}
+```
+
+```
+if (place == 1) {
+    medal_color = 'gold';
+} else if (place == 2) {
+    medal_color = 'silver';
+} else if (place == 3) {
+    medal_color = 'bronze';
+} else {
+    medal_color = null;
+}
 ```

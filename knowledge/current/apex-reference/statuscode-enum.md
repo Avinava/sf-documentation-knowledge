@@ -5,11 +5,15 @@ topic: statuscode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:40.394Z
-keywords: [StatusCode, Enum, Values, See]
+lastCollected: 2026-03-12T05:14:29.508Z
+estimatedTokens: 179
+keywords: [StatusCode, Describes, status, code, unsuccessful, component, deploy., Values]
 ---
 
 # StatusCode Enum
+
+> Describes the status code for an unsuccessful component
+    deploy.
 
 # StatusCode Enum
 
@@ -29,3 +33,7 @@ The following are the values of the Metadata.StatusCode enum.
 #### See Also
 
 -   [DeployProblemType Enum](atlas.en-us.apexref.meta/apexref/apex_enum_Metadata_DeployProblemType.htm "Describes the problem type for an unsuccessful component deploy.")
+
+## Related Topics
+
+- DeployProblemType Enum (atlas.en-us.apexref.meta/apexref/apex_enum_Metadata_DeployProblemType.htm)

@@ -5,11 +5,15 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.039Z
-keywords: [PricingRecipe, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, PricingRecipeTableMapping, PricingProcedureOutputMap, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:41.860Z
+estimatedTokens: 1281
+keywords: [PricingRecipe, Represents, data, models, objects, particular, cloud, pricing, store, consumes, during, design, time, run, time., Parent, File, Suffix, Directory, Location]
 ---
 
 # PricingRecipe
+
+> Represents the data models or sets of objects of a particular
+			cloud that the pricing data store consumes during design time and run time.
 
 # PricingRecipe
 
@@ -87,3 +91,49 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<PricingRecipe xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultPricingProcedureId> </defaultPricingProcedureId>
+    <developerName>CMEDefaultRecipe</developerName>
+    <isActive>false</isActive>
+    <isInternal>false</isInternal>
+    <masterLabel>CMEDefaultRecipe</masterLabel>
+    <pricingRecipeTableMapping>
+        <isInternal>false</isInternal>
+        <lookupTableDeveloperName>Bundle_Based_Adjustment_Decision_Table</lookupTableDeveloperName>
+        <pricingComponentType>CUSTOMDISCOUNT</pricingComponentType>
+        <fileBasedDecisionTableName>Bundle Based Adjustment Entries</fileBasedDecisionTableName>
+        <pricingProcedureOutputMapList>
+            <fieldName>AdjustmentValue</fieldName>
+            <isPricingRecipeActive>false</isPricingRecipeActive>
+            <outputFieldName>0lPxx000000000f</outputFieldName>
+            <outputFieldNameString>false</outputFieldNameString>
+            <outputType>AdjustmentValue</outputType>
+	     <pricingElementType>BundleDiscount</pricingElementType>
+        </pricingProcedureOutputMapList>
+        <pricingProcedureOutputMapList>
+            <fieldName>AdjustmentType</fieldName>
+            <isPricingRecipeActive>false</isPricingRecipeActive>
+            <outputFieldName>0lPxx000000000m</outputFieldName>
+            <outputFieldNameString>false</outputFieldNameString>
+            <outputType>AdjustmentType</outputType>
+	     <pricingElementType>BundleDiscount</pricingElementType>
+        </pricingProcedureOutputMapList>
+        <pricingRecipe>CMEDefaultRecipe</pricingRecipe>
+    </pricingRecipeTableMapping>
+</PricingRecipe>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>PricingRecipe</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

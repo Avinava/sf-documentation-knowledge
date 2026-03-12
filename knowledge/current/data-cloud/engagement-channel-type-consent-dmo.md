@@ -5,11 +5,16 @@ topic: engagement-channel-type-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:43.375Z
-keywords: [Engagement, Channel, Type, Consent, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.974Z
+estimatedTokens: 757
+keywords: [Engagement, Channel, Consent, DMO, Data, Cloud, data, model, individual’s, consent, preferences, specific, communication, such, email., API, Name, Category, Primary, Subject]
 ---
 
 # Engagement Channel Type Consent DMO
+
+> The Engagement Channel Type Consent DMO is a Data Cloud data model object
+      (DMO) for an individual’s consent preferences specific to a type of communication, such as
+      email.
 
 # Engagement Channel Type Consent DMO
 

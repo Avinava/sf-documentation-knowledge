@@ -5,11 +5,17 @@ topic: eclairgeodata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.117Z
-keywords: [EclairGeoData, Important, File, Suffix, Directory, Location, Version, Fields, EclairMap, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.093Z
+estimatedTokens: 696
+keywords: [EclairGeoData, Represents, Analytics, custom, map, chart., Custom, maps, user-defined, uploaded, used, just, standard, are., accessed, list, chart, type., Important, File]
 ---
 
 # EclairGeoData
+
+> Represents an Analytics custom map chart. Custom maps
+      are user-defined maps that are uploaded to Analytics and are used just as standard maps are.
+      Custom maps are accessed in Analytics from the list of maps available with the map chart
+      type.
 
 # EclairGeoData
 
@@ -65,3 +71,45 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<EclairGeoData xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <content xsi:nil="true"/>            
+            <maps>              
+              <boundingBoxBottom>0.0</boundingBoxBottom>              
+              <boundingBoxLeft>100.0</boundingBoxLeft>              
+              <boundingBoxRight>100.0</boundingBoxRight>              
+              <boundingBoxTop>0.0</boundingBoxTop>              
+              <mapLabel>WorldMap0 Label</mapLabel>              
+              <mapName>WorldMap0</mapName>              
+              <projection>Equirectangular</projection>
+            </maps>
+            <maps>
+              <boundingBoxBottom>1.0</boundingBoxBottom>
+              <boundingBoxLeft>101.0</boundingBoxLeft>
+              <boundingBoxRight>101.0</boundingBoxRight>
+              <boundingBoxTop>1.0</boundingBoxTop>
+              <mapLabel>WorldMap1 Label</mapLabel>
+              <mapName>WorldMap1</mapName>
+              <projection>Mercator</projection>
+            </maps>
+            <masterLabel>WorldMapGeoDataToCreate Label</masterLabel>
+          </EclairGeoData>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+        <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+          <types>
+            <members>*</members>
+            <name>EclairGeoData</name>
+          </types>
+          <version>39.0</version>
+        </Package>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

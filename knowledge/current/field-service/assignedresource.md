@@ -5,11 +5,17 @@ topic: assignedresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.521Z
-keywords: [AssignedResource, Supported, Calls, Fields, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.955Z
+estimatedTokens: 1120
+keywords: [AssignedResource, Represents, service, resource, who, assigned, appointment, Field, Service, Lightning, Scheduler., Assigned, resources, appear, Resources, related, list, appointments., API, version]
 ---
 
 # AssignedResource
+
+> Represents a service resource who is assigned to a service
+			appointment in Field Service and Lightning Scheduler. Assigned resources appear in the
+			Assigned Resources related list on service appointments. This object is available
+		in API version 38.0 and later.
 
 # AssignedResource
 

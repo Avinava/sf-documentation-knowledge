@@ -5,11 +5,15 @@ topic: catalog-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.205Z
-keywords: [Catalog, Event, View, Example, Comment, Favorite, Quick, Review, Share, Detail]
+lastCollected: 2026-03-12T05:14:12.152Z
+estimatedTokens: 274
+keywords: [Catalog, Event, catalog, event, interaction, capture, customer, interacts, various, tracking, items., example, product, blog, post., View, Example, Comment, Favorite, Quick]
 ---
 
 # Catalog Event
+
+> Use a catalog event interaction to capture when a customer interacts with various
+  tracking items. For example, a product or a blog post.
 
 # Catalog Event
 
@@ -118,4 +122,86 @@ Use a catalog event interaction to capture when a customer interacts with variou
 
 ```
 
+```
+
+## Code Examples
+
+```
+ViewCatalogObjectEvent(
+    catalogObject: CatalogObject(
+        type: "Product",
+        id: "product-12",
+        attributes: [
+            "PROMO_CODE": "WINTER2022"
+        ],
+        relatedCatalogObjects: [
+            "size": ["S", "M", "L"],
+            "sku": ["1234", "5678"]
+        ]
+    )
+)
+```
+
+```
+CatalogEvent.view(
+  CatalogObject(
+    id = "product-1",
+    type = "Product",
+    attributes = mapOf(
+      "PROMO_CODE" to "FALL2021"
+    ),
+    relatedCatalogObjects = mapOf(
+      "product's size" to listOf("S", "M", "L"),
+      "product-sku" to listOf("1234", "5678")
+    )
+  )
+)
+```
+
+```
+CommentCatalogObjectEvent(
+    catalogObject: CatalogObject(
+        type: "Product",
+        id: "product-12",
+        attributes: [
+            "PROMO_CODE": "WINTER2022"
+        ],
+        relatedCatalogObjects: [
+            "size": ["S", "M", "L"],
+            "sku": ["1234", "5678"]
+        ]
+    )
+)
+```
+
+```
+CatalogEvent.comment(
+  CatalogObject(
+    id = "product-1",
+    type = "Product",
+    attributes = mapOf(
+      "PROMO_CODE" to "FALL2021"
+    ),
+    relatedCatalogObjects = mapOf(
+      "product's size" to listOf("S", "M", "L"),
+      "product-sku" to listOf("1234", "5678")
+    )
+  )
+)
+```
+
+```
+FavoriteCatalogObjectEvent(
+    catalogObject: CatalogObject(
+        type: "Product",
+        id: "product-12",
+        attributes: [
+            "PROMO_CODE": "WINTER2022"
+        ],
+        relatedCatalogObjects: [
+            "size": ["S", "M", "L"],
+            "sku": ["1234", "5678"]
+        ]
+    )
+)
 ```

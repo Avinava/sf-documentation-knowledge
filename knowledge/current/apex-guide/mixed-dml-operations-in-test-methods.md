@@ -5,11 +5,19 @@ topic: mixed-dml-operations-in-test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.016Z
-keywords: [Mixed, DML, Operations, Test, Methods, Note, Example, System.runAs, Blocks, @future, Bypass, Error, Method]
+lastCollected: 2026-03-12T05:14:33.234Z
+estimatedTokens: 559
+keywords: [Mixed, DML, Operations, Test, allow, performing, mixed, Data, Manipulation, Language, operations, include, both, setup, sObjects, code, performs, enclosed, within, System.runAs]
 ---
 
 # Mixed DML Operations in Test Methods
+
+> Test methods allow for performing mixed Data Manipulation Language (DML) operations
+        that include both setup sObjects and other sObjects if the code that performs the DML
+        operations is enclosed within System.runAs method
+        blocks. You can also perform DML in an asynchronous job that your test method calls. These
+        techniques enable you, for example, to create a user with a role and other sObjects in the
+        same test.
 
 # Mixed DML Operations in Test Methods
 
@@ -44,3 +52,68 @@ This class calls the method in the previous class.
 ```
 
 ```
+
+## Code Examples
+
+```apex
+@isTest
+private class MixedDML {
+    static testMethod void mixedDMLExample() {  
+        User u;
+        Account a;
+        User thisUser = [SELECT Id FROM User WHERE Id = :UserInfo.getUserId()];
+       // Insert account as current user
+        System.runAs (thisUser) {
+            Profile p = [SELECT Id FROM Profile WHERE Name='Standard User'];
+            UserRole r = [SELECT Id FROM UserRole WHERE Name='COO'];
+            u = new User(alias = 'jsmith', email='jsmith@acme.com', 
+                emailencodingkey='UTF-8', lastname='Smith', 
+                languagelocalekey='en_US', 
+                localesidkey='en_US', profileid = p.Id, userroleid = r.Id,
+                timezonesidkey='America/Los_Angeles', 
+                username='jsmith@acme.com');
+            insert u;
+            a = new Account(name='Acme');
+            insert a;
+        }
+    }
+}
+```
+
+```apex
+public class InsertFutureUser {
+    @future
+    public static void insertUser() {
+        Profile p = [SELECT Id FROM Profile WHERE Name='Standard User'];
+        UserRole r = [SELECT Id FROM UserRole WHERE Name='COO'];
+        User futureUser = new User(firstname = 'Future', lastname = 'User',
+            alias = 'future', defaultgroupnotificationfrequency = 'N',
+            digestfrequency = 'N', email = 'test@test.org',
+            emailencodingkey = 'UTF-8', languagelocalekey='en_US', 
+            localesidkey='en_US', profileid = p.Id, 
+            timezonesidkey = 'America/Los_Angeles',
+            username = 'futureuser@test.org',
+            userpermissionsmarketinguser = false,
+            userpermissionsofflineuser = false, userroleid = r.Id);
+        insert(futureUser);
+    }
+}
+```
+
+```apex
+@isTest
+public class UserAndContactTest {
+    public testmethod static void testUserAndContact() {
+        InsertFutureUser.insertUser();
+        Contact currentContact = new Contact(
+            firstName = String.valueOf(System.currentTimeMillis()),
+            lastName = 'Contact');
+        insert(currentContact);
+    }
+}
+```
+
+## Related Topics
+
+- sObjects That Cannot Be Used Together
+                in DML Operations (atlas.en-us.apexcode.meta/apexcode/apex_dml_non_mix_sobjects.htm)

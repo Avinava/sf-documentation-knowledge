@@ -5,11 +5,15 @@ topic: list-sorting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.022Z
-keywords: [List, Sorting, Default, Sort, Order, SelectOption]
+lastCollected: 2026-03-12T05:14:34.618Z
+estimatedTokens: 518
+keywords: [List, Sorting, sort, list, elements, order, depends, data, elements., Default, Sort, Order, SelectOption]
 ---
 
 # List Sorting
+
+> You can sort list elements and the sort order depends on the data type of the
+    elements.
 
 # List Sorting
 
@@ -48,4 +52,36 @@ The output of the debug statements shows the contents of the list, both before a
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+List<String> colors = new List<String>{
+    'Yellow',
+    'Red',
+    'Green'};
+colors.sort();
+System.assertEquals('Green', colors.get(0));
+System.assertEquals('Red', colors.get(1));
+System.assertEquals('Yellow', colors.get(2));
+```
+
+```apex
+List<SelectOption> options = new List<SelectOption>();
+options.add(new SelectOption('A','United States'));
+options.add(new SelectOption('C','Canada'));
+options.add(new SelectOption('A','Mexico'));
+System.debug('Before sorting: ' + options);
+options.sort();
+System.debug('After sorting: ' + options);
+```
+
+```apex
+DEBUG|Before sorting: (System.SelectOption[value="A", label="United States", disabled="false"], 
+  System.SelectOption[value="C", label="Canada", disabled="false"], 
+  System.SelectOption[value="A", label="Mexico", disabled="false"])
+DEBUG|After sorting: (System.SelectOption[value="A", label="Mexico", disabled="false"], 
+  System.SelectOption[value="A", label="United States", disabled="false"], 
+  System.SelectOption[value="C", label="Canada", disabled="false"])
 ```

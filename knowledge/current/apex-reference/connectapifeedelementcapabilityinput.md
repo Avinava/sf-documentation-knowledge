@@ -5,11 +5,14 @@ topic: connectapifeedelementcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.169Z
-keywords: [ConnectApi.FeedElementCapabilityInput]
+lastCollected: 2026-03-12T05:14:24.913Z
+estimatedTokens: 1116
+keywords: [ConnectApi.FeedElementCapabilityInput, feed, element, capability.]
 ---
 
 # ConnectApi.FeedElementCapabilityInput
+
+> A feed element capability.
 
 # ConnectApi.FeedElementCapabilityInput
 
@@ -37,3 +40,16 @@ This class is a superclass of:
 -   [ConnectApi.RecordCapabilityInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_record_capability.htm "Attach an existing knowledge article to a comment.")
 -   [ConnectApi.StatusCapabilityInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_status_capability.htm "Change the status of a feed post or comment.")
 -   [ConnectApi.TopicsCapabilityInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_topics_capability.htm "Assign topics to a feed element.")
+
+## Related Topics
+
+- ConnectApi.AssociatedActionsCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_associated_actions_capability.htm)
+- ConnectApi.BookmarksCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_bookmarks_capability.htm)
+- ConnectApi.CanvasCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_canvas_capability.htm)
+- ConnectApi.ContentCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_content_capability.htm)
+- ConnectApi.DirectMessageCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_direct_message_capability.htm)
+- ConnectApi.ExtensionsCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_extensions_capability.htm)
+- ConnectApi.FeedEntityShareCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_entity_share_capability.htm)
+- ConnectApi.FilesCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_multiple_content_capability.htm)
+- ConnectApi.LinkCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_link_capability.htm)
+- ConnectApi.MuteCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_mute_capability.htm)

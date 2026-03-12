@@ -5,11 +5,15 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.960Z
-keywords: [WebLink, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.095Z
+estimatedTokens: 1885
+keywords: [WebLink, Represents, custom, button, link., Tooling, APIfrom, API, version, 34.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # WebLink
+
+> Represents a custom button or link.  Available in the Tooling APIfrom API version 34.0 or
+    later.
 
 # WebLink
 
@@ -52,3 +56,7 @@ GET
 | ShowsStatus | TypebooleanPropertiesFilter, Group, SortDescriptionIf the value of OpenType is newWindow, show the browser status bar for the window (true. Otherwise, don’t specify a value. |
 | Url | TypestringPropertiesFilter, Group, Nillable, SortDescriptionRequired. Represents the URL of the page to link to. Can include fields as tokens within the URL. Limit: 1,024 KB.If the value of LinkType is url, this field represents the URL value. If the value of LinkType is javascript, this field represents the JavaScript content. For other values of LinkType, leave this field empty.Content must be escaped in a manner consistent with XML parsing rules. |
 | Width | TypeintPropertiesFilter, Group, Nillable, SortDescriptionThe width in pixels of the window opened by the button or link.Required if the value of OpenType is newWindow. Otherwise, leave this field empty. |
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)

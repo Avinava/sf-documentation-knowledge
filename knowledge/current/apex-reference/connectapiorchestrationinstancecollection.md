@@ -5,11 +5,14 @@ topic: connectapiorchestrationinstancecollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.914Z
-keywords: [ConnectApi.OrchestrationInstanceCollection, See]
+lastCollected: 2026-03-12T05:14:27.484Z
+estimatedTokens: 138
+keywords: [ConnectApi.OrchestrationInstanceCollection, Collection, orchestration, instances.]
 ---
 
 # ConnectApi.OrchestrationInstanceCollection
+
+> Collection of orchestration instances.
 
 # ConnectApi.OrchestrationInstanceCollection
 
@@ -22,3 +25,9 @@ Collection of orchestration instances.
 #### See Also
 
 -   [getOrchestrationInstance(instanceId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Orchestration_static_methods.htm#apex_ConnectAPI_Orchestration_getOrchestrationInstance_1 "Get an orchestration instance associated with an orchestration instance ID.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​OrchestrationInstance (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_flow_orchestration_instance.htm)
+- getOrchestrationInstance(instanceId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Orchestration_static_methods.htm)

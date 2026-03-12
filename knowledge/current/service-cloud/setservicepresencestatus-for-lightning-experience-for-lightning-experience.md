@@ -5,11 +5,16 @@ topic: setservicepresencestatus-for-lightning-experience-for-lightning-experienc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.397Z
-keywords: [setServicePresenceStatus, Lightning, Experience, Arguments, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.989Z
+estimatedTokens: 289
+keywords: [setServicePresenceStatus, Lightning, Experience, agent's, presence, status, particular, ID., specified, agent, already, logged, log, status., removes, need, calls., Arguments, Sample, Code]
 ---
 
 # setServicePresenceStatus for Lightning Experience for Lightning Experience
+
+> Sets an agent's presence status to a status with a particular ID. If the specified
+        agent is not already logged in, we log in the agent with the presence status. This method
+        removes the need for you to make more calls.
 
 # setServicePresenceStatus for Lightning Experience for Lightning Experience
 
@@ -45,3 +50,26 @@ This method returns a promise that, upon success, resolves to an object containi
 | statusApiName | string | The API name of the agent’s current presence status. |
 | statusId | string | The ID of the agent’s current presence status. |
 | channels | JSON string of channel objects | Returns the IDs and API names of the channels associated with the presence status. |
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />
+    <lightning:button label="Set Status" onclick="{! c.setStatus }" />
+</aura:component>
+```
+
+```
+({
+    setStatus: function(cmp, evt, hlp) {
+        var omniAPI = cmp.find("omniToolkit");
+        omniAPI.setServicePresenceStatus({statusId: "0N5xx0000000002"}).then(function(result) {
+            console.log('Current statusId is: ' + result.statusId);
+            console.log('Channel list attached to this status is: ' + result.channels); 
+        }).catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

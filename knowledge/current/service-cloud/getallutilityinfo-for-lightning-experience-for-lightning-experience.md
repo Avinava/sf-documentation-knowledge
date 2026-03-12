@@ -6,12 +6,15 @@ topic: getallutilityinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.206Z
-keywords: [getAllUtilityInfo, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Response, See]
+lastCollected: 2026-03-12T05:14:57.731Z
+estimatedTokens: 513
+keywords: [getAllUtilityInfo, Lightning, Experience, state, utilities, array, utilityInfo, objects., Arguments, LWC, Sample, Code, Aura, Components, Response]
 ---
 
 # getAllUtilityInfo() for Lightning Experience for
    Lightning Experience
+
+> Returns the state of all utilities as an array of utilityInfo objects.
 
 # getAllUtilityInfo() for Lightning Experience for Lightning Experience
 
@@ -70,3 +73,48 @@ For both LWC and Aura Components, this method returns a promise that resolves to
 #### See Also
 
 -   [*MDN Web Docs*: async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function "MDN Web Docs: async function - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { getAllUtilityInfo } from 'lightning/platformUtilityBarApi';
+
+export default class UtilityInfoExample extends LightningElement {
+    utilityCount = 0;
+
+    async handleGetAllUtilityInfo() {
+        try {
+            const utilityInfo = await getAllUtilityInfo();
+            this.utilityCount = utilityInfo.length;
+
+        } catch (error) {
+            // return error
+        }
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Get All Utility Info" onclick="{! c.handleGetAllUtilityInfo }" />
+</aura:component>
+```
+
+```
+({
+    handleGetAllUtilityInfo : function(component, event, helper) {
+        var utilityBarAPI = component.find("utilitybar");
+        utilityBarAPI.getAllUtilityInfo().then(function(response) {
+            var myUtilityInfo = response[0];
+            utilityBarAPI.openUtility({
+                utilityId: myUtilityInfo.id
+            });
+       })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

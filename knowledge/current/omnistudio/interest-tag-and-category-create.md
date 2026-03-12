@@ -5,11 +5,15 @@ topic: interest-tag-and-category-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.560Z
-keywords: [Interest, Tag, Category, Create]
+lastCollected: 2026-03-12T05:14:50.330Z
+estimatedTokens: 177
+keywords: [Interest, Tag, Category, Create, Output, representation, details, simultaneously, creating, interest, tags, categories.]
 ---
 
 # Interest Tag and Category Create
+
+> Output representation of the details for simultaneously creating interest tags and
+    categories.
 
 # Interest Tag and Category Create
 
@@ -27,3 +31,34 @@ JSON example
 | errors | Interest Tag and Category Error Details[] | List of errors that occurred during the operation. | Small, 65.0 | 65.0 |
 | isSuccess | Boolean | Indicates whether the operation is successful (true) or not (false). | Small, 65.0 | 65.0 |
 | tags | Tag Create Details[] | List of tags that are created. | Small, 65.0 | 65.0 |
+
+## Code Examples
+
+```
+{
+  "categories": [
+    {
+      "id": "0qRxx00000001tlEAA",
+      "name": "Insurance"
+    }
+  ],
+  "errors": [],
+  "isSuccess": true,
+  "tags": [
+    {
+      "id": "0qOxx0000004CvQEAU",
+      "name": "Term"
+    },
+    {
+      "id": "0qOxx0000004CvREAU",
+      "name": "Life"
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Category Create Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_category_created_result.htm)
+- Interest Tag and Category Error Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_interest_tag_and_category_error_output.htm)
+- Tag Create Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_tag_created_output.htm)

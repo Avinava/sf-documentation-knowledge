@@ -5,11 +5,14 @@ topic: explainability-detailed-action-log-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.442Z
-keywords: [Explainability, Detailed, Action, Log, Detail]
+lastCollected: 2026-03-12T05:14:50.164Z
+estimatedTokens: 527
+keywords: [Explainability, Detailed, Action, Log, Detail, Output, representation, explainability, action, log, detail.]
 ---
 
 # Explainability Detailed Action Log Detail
+
+> Output representation of explainability action log in detail.
 
 # Explainability Detailed Action Log Detail
 
@@ -35,3 +38,22 @@ JSON example
 | processType | String | Type of business process associated with the application for which the explainability action log is generated. It must match with one of the valid values in the processType field of the Explainability Action Specification table. | Small, 62.0 | 62.0 |
 | secondaryFilter | String | Secondary filter that's used to retrieve the results. | Small, 62.0 | 62.0 |
 | uniqueIdentifier | String | Unique ID associated with the specific Explainability action log. | Small, 62.0 | 62.0 |
+
+## Code Examples
+
+```
+{
+    "actionContextCode": "001xx000003GYiCAAW",
+    "actionLog": "{&quot;input&quot;:{&quot;calcInput&quot;:10},&quot;ruledefinition&quot;:{&quot;interfaceSourceType&quot;:null,&quot;calculationProcedureId&quot;:&quot;9QLxx0000004C92GAE&quot;,&quot;variables&quot;:{&quot;details&quot;:[{&quot;apiName&quot;:&quot;calInt&quot;,&quot;isEditable&quot;:true,&quot;defaultValue&quot;:null,&quot;displayName&quot;:null,&quot;dataType&quot;:&quot;Number&quot;,&quot;precision&quot;:2,&quot;calculationMatrixName&quot;:null,&quot;name&quot;:&quot;calInt&quot;,&quot;isUserDefined&quot;:true,&quot;uiDisplayOrder&quot;:null,&quot;id&quot;:null},{&quot;apiName&quot;:&quot;calcInput&quot;,&quot;isEditable&quot;:true,&quot;defaultValue&quot;:null,&quot;displayName&quot;:null,&quot;dataType&quot;:&quot;Number&quot;,&quot;precision&quot;:2,&quot;calculationMatrixName&quot;:null,&quot;name&quot;:&quot;calcInput&quot;,&quot;isUserDefined&quot;:true,&quot;uiDisplayOrder&quot;:null,&quot;id&quot;:null}]},&quot;code&quot;:null,&quot;endDate&quot;:null,&quot;contextDefinition&quot;:null,&quot;description&quot;:null,&quot;message&quot;:null,&quot;enabled&quot;:true,&quot;versionNumber&quot;:1,&quot;aliasGroupList&quot;:{&quot;aliasGroupList&quot;:[]},&quot;versionId&quot;:&quot;0k1xx0000004C92GAE&quot;,&quot;showExplExternally&quot;:false,&quot;root&quot;:{&quot;steps&quot;:[&quot;Calculation&quot;]},&quot;executionScale&quot;:&quot;Low&quot;,&quot;name&quot;:&quot;ExpDes V1&quot;,&quot;rank&quot;:1,&quot;step&quot;:{&quot;details&quot;:{&quot;Calculation&quot;:{&quot;inputVariablesFormatText&quot;:&quot;[{&#92;&quot;dataType&#92;&quot;:&#92;&quot;Number&#92;&quot;,&#92;&quot;name&#92;&quot;:&#92;&quot;calcInput&#92;&quot;,&#92;&quot;alias&#92;&quot;:&#92;&quot;calcInput&#92;&quot;}]&quot;,&quot;exposeExecPathMsgOnly&quot;:true,&quot;stepType&quot;:&quot;Calculation&quot;,&quot;lookupTableName&quot;:null,&quot;outputVariablesFormatText&quot;:&quot;{&#92;&quot;name&#92;&quot;:&#92;&quot;calInt&#92;&quot;}&quot;,&quot;customElementName&quot;:null,&quot;passedExplainerTemplateId&quot;:null,&quot;conditionsUiFormattedText&quot;:&quot;&quot;,&quot;description&quot;:null,&quot;inputVariablesMappingText&quot;:null,&quot;outputVariablesMappingText&quot;:&quot;{&#92;&quot;calInt&#92;&quot;:&#92;&quot;calInt&#92;&quot;}&quot;,&quot;calculationMatrixId&quot;:null,&quot;failedExplainerTemplateId&quot;:null,&quot;exposeConditionDetails&quot;:false,&quot;referenceCalculationProcedureId&quot;:null,&quot;id&quot;:&quot;Calculation&quot;,&quot;returnMessageValueSet&quot;:&quot;{&#92;&quot;true&#92;&quot;:&#92;&quot;&#92;&quot;,&#92;&quot;false&#92;&quot;:&#92;&quot;&#92;&quot;}&quot;,&quot;passedMessageTokenMappings&quot;:[],&quot;failedMessageTokenMappings&quot;:[],&quot;lookupTableError&quot;:null,&quot;noResultMessageTokenMappings&quot;:[],&quot;formulaUiFormattedText&quot;:null,&quot;noResultExplainerTemplateId&quot;:null,&quot;conditionsExpressionText&quot;:null,&quot;isResultIncluded&quot;:true,&quot;formulaExpressionText&quot;:&quot;100 + calcInput&quot;,&quot;showExplExternally&quot;:false,&quot;stage&quot;:&quot;Calculation&quot;,&quot;name&quot;:&quot;Calculation&quot;,&quot;childStepIds&quot;:[]}}},&quot;constants&quot;:{&quot;details&quot;:[]},&quot;allowNullInputsInSimulation&quot;:false,&quot;startDate&quot;:1709616068000,&quot;isSuccess&quot;:true,&quot;usageType&quot;:&quot;Bre&quot;},&quot;simulation&quot;:{&quot;simulationStepResults&quot;:{&quot;Calculation&quot;:{&quot;stepInputs&quot;:[{&quot;datatype&quot;:&quot;Number&quot;,&quot;precision&quot;:2,&quot;name&quot;:&quot;calcInput&quot;,&quot;value&quot;:&quot;10.00&quot;}],&quot;stepResults&quot;:[{&quot;datatype&quot;:&quot;Number&quot;,&quot;precision&quot;:2,&quot;name&quot;:&quot;calInt&quot;,&quot;value&quot;:&quot;110.00&quot;}],&quot;isDefaulted&quot;:false}},&quot;simulationResults&quot;:[{&quot;datatype&quot;:&quot;Number&quot;,&quot;precision&quot;:2,&quot;name&quot;:&quot;calInt&quot;,&quot;value&quot;:&quot;110.00&quot;}]}}",
+    "additionalFilter": "undef",
+    "applicationLogDate": "Wed Mar 06 05:09:32 GMT 2024",
+    "applicationSubtype": "BREDES",
+    "applicationType": "0",
+    "explainabilitySpecName": "BREDES",
+    "name": "BREDES",
+    "primaryFilter": "undef",
+    "processType": "BREDES",
+    "secondaryFilter": "undef",
+    "uniqueIdentifier": "f89eff41-94ed-4fe7-9b72-f6df2bb5f4aa"
+}
+```

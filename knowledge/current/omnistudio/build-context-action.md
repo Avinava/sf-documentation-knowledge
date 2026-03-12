@@ -5,11 +5,14 @@ topic: build-context-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.410Z
-keywords: [Build, Context, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Usage, Example]
+lastCollected: 2026-03-12T05:14:47.256Z
+estimatedTokens: 523
+keywords: [Build, Context, Action, cache, context, data, associated, definition., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Usage, Example]
 ---
 
 # Build Context Action
+
+> Build and cache context data associated with a context definition.
 
 # Build Context Action
 
@@ -74,4 +77,52 @@ This sample response is for the Build Context action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "contextDefinitionId": "AccountContextDef",
+      "ContextData": {
+        "Account": [
+          {
+            "id": "account1",
+            "businessObjectType": "Account",
+            "Name": "AcmeFlow",
+            "Contact": [
+              {
+                "id": "contact1",
+                "businessObjectType": "Contact",
+                "FirstName": "John",
+                "LastName": "Miller",
+                "ParentReference": "account1"
+              }
+            ]
+          }
+        ]
+      },
+    "contextMappingId": "accountmap1",
+    "isTaggedData": false
+    }
+  ]
+}
+```
+
+```
+{
+  "actionName": "buildContext",
+  "errors": null,
+  "invocationId": null,
+  "isSuccess": true,
+  "outputValues": {
+    "contextDefinitionId": "11Oxx0000006PXVEA2",
+    "contextId": "0000000a07da091002517526756248297be68492e6b442e8ad80182d518e45aa",
+    "contextMappingId": "11jxx0000004L59AAE"
+  },
+  "sortOrder": -1,
+  "version": 1
+}
 ```

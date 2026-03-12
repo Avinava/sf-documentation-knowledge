@@ -5,60 +5,210 @@ topic: decisiontable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.452Z
-keywords: [DecisionTable, Note, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:52.161Z
+estimatedTokens: 2326
+keywords: [DecisionTable, Represents, information, decision, table., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, DecisionTableParameter, DecisionTableSourceCriteria, Declarative, Metadata]
 ---
 
 # DecisionTable
 
+> Represents the information about a decision
+    table.
+
 # DecisionTable
 
-Represents the information about a decision table. This object is available in API version 51.0 and later.
+Represents the information about a decision table.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=industries_reference)
 
-#### Note
+#### Important
 
 Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
-## Supported SOAP API Calls
+## Parent Type
 
-create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
+This type extends the Metadata metadata type and inherits its fullName field.
 
-## Supported REST API Methods
+## File Suffix and Directory Location
 
-DELETE, GET, HEAD, PATCH, POST, Query
+DecisionTable components have the suffix .decisionTable and are stored in the decisionTables folder.
+
+## Version
+
+DecisionTable components are available in API version 51.0 and later.
+
+## Special Access Rules
+
+To use this metadata type, your Salesforce org must have the Loyalty Management or the Rebate Management license.
 
 ## Fields
 
-| Field | Details |
+| Field Name | Description |
 | --- | --- |
-| CollectOperator | TypestringPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionFor internal use only. |
-| ConditionCriteria | TypestringPropertiesFilter, Group, Nillable, SortDescriptionCustom logic that's used to decide how the input fields are processed. |
-| ConditionType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionCondition logic that's used for input fields.Possible values are:All—All conditions are met (AND)Any—Any condition is met (OR)Custom—Custom LogicThe default value is 'All'. |
-| DataSourceType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionType of data source that’s used to create a decision table. Available in API version 59.0 and later.Valid values are:ContextDefinitionCsvUploadMultipleSobjectsSingleSobjectThe default value is SingleSobject. |
-| DecisionTableParameters | TypeQueryResultPropertiesNillableDescriptionInput or output field in a decision table. |
-| DecisionTableSourceCriterias | TypeQueryResultPropertiesNillableDescriptionFilter criteria that’s associated with the decision table condition. Available in API version 59.0 and later. |
-| Description | TypetextareaPropertiesFilter, Nillable, SortDescriptionDescription of the decision table. |
-| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionDeveloper name of the decision table. |
-| DoesConsiderNullValue | TypebooleanPropertiesDefaulted on create, Filter, Group, Nillable, SortDescriptionIndicates whether a column that has a null value is considered for lookup (true) or not (false). The default value is false. Available in API version 60.0 and later. |
-| DownloadStatus | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionSpecifies the progress status of a CSV download from a CSV-based lookup table. Available in API version 64.0 and later.Valid values are:CompletedDownloadInProgressFailed |
-| executionType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the backing storage for the Decision Table.Valid values are:DmoHbaseHbpoSolrSoql |
-| FilterResultBy | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIf a collection of inputs returns multiple matching outputs, then the FilterResultBy field specifies how the results of a decision table are filtered.Available in API version 59.0 and later.Valid values are:AnyValueCollectOperatorFirstMatchOutputOrderPriorityRuleOrderUniqueValues |
-| FullName | TypestringPropertiesCreate, Group, NillableDescriptionName of the decision table.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| Language | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionLanguage in which the decision table is created.Possible values are:da—Danishde—Germanen_US—Englishes—Spanishes_MX—Spanish (Mexico)fi—Finnishfr—Frenchit—Italianja—Japaneseko—Koreannl_NL—Dutchno—Norwegianpt_BR—Portuguese (Brazil)ru—Russiansv—Swedishth—Thaizh_CN—Chinese (Simplified)zh_TW—Chinese (Traditional) |
-| LastSyncDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionLatest date on which the decision table was refreshed. |
-| ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanaged |
-| MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionLabel of the decision table. |
-| Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionMetadata of the decision table.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionNamespace prefix that’s associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values.In Developer Edition orgs, NamespacePrefix is set to the namespace prefix of the org for all objects that support it, unless an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition org of the package developer.In orgs that aren’t Developer Edition orgs, NamespacePrefix is set only for objects that are part of an installed managed package. All other objects have no namespace prefix. |
-| PricingElementDecisionTables | TypeQueryResultPropertiesNillableDescriptionReserved for future use. |
-| RefreshFailureReason | TypestringPropertiesFilter, Nillable, SortDescriptionReason for the refresh of the decision table data to fail. Available in API version 60.0 and later. |
-| RefreshStatus | TypestringPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionRefresh status of the cached data in the decision table. Available in API version 60.0 and later.Valid values are:InitiatedFailedCompletedIn Progress |
-| RowLevelOverrideType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the row-level criteria that overrides the Decision Table column criteria.Valid values are:BothConditionNoneOperatorThe default value is None. |
-| SetupName | TypestringPropertiesFilter, Group, SortDescriptionRequired. Name of the decision table, which appears in Setup. |
-| SourceConditionLogic | TypestringPropertiesFilter, Group, Nillable, SortDescriptionCondition logic that's used to define the decision table from the source data.Available in API version 59.0 and later. |
-| SourceObject | TypestringPropertiesFilter, Group, Nillable, SortDescriptionRequired. Object that contains the rules based on which the decision table must provide outcomes. |
-| Status | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionRequired. Status of the decision table.Valid values are:ActivationInProgressActiveDraftInactive |
-| Type | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionDetermine whether a decision table’s data volume is high or low.Available in API version 59.0 and later.Valid values are:AdvancedHighScaleExecutionHighVolume–Reserved for future useLowVolumeMediumVolumeRealTimeThe default value is LowVolume. |
-| UsageType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionUsage type of the decision table.Available in API version 59.0 and later.Bre–DefaultProductCategoryQualificationProductQualificationRecordAlertWhen Business Rules Engine is enabled for a Salesforce org, the default value is Bre. Other usage types may be available to you depending on your industry solution and permission sets. |
+| collectOperator | Field TypeDecisionTable​CollectOperator (enumeration of type string)DescriptionSpecifies the operator that's used when the result is filtered by the Collect operator.Valid values are:CountMaximumMinimumNoneSum |
+| condition​Criteria | Field TypestringDescriptionLogic that's used to decide how the input fields are processed. |
+| conditionType | Field TypeDecisionTable​ConditionType (enumeration of type string)DescriptionCondition logic that's used for input fields.Valid values are:AllAnyCustom |
+| dataSource​Type | Field TypeDecisionTable​DataSourceType (enumeration of type string)DescriptionSpecifies the type of data source that's used to create a decision table.Valid values are:ContextDefinitionCsvUploadMultipleSobjectsSingleSobject |
+| decisionTable​Parameters | Field TypeDecisionTableParameter[]DescriptionParameters that you specify in a decision table. |
+| decisionTable​SourceCriterias | Field TypeDecisionTableSourceCriteria[]DescriptionThe fields and values from a data source that are used to define the condition logic of the data that's used in a decision table. |
+| description | Field TypestringDescriptionDescription of the decision table. |
+| doesConsider​NullValue | Field TypebooleanDescriptionIndicates whether a column that has a null value is considered for lookup (true) or not (false). The default value is false. |
+| downloadStatus | Field TypeDecisionTableDownloadStatus (enumeration of type string)DescriptionSpecifies the progress status of a CSV download from a CSV-based lookup table. Available in API version 64.0 and later.Valid values are:CompletedDownloadInProgressFailed |
+| executionType | Field TypeDecisionTableExecutionType (enumeration of type string)DescriptionIndicates the backing storage for the Decision Table.Valid values are:DmoHbaseHbpoSolrSoqlExecution type of Hbase must be passed in all caps (HBASE) in POST and PATCH calls. |
+| filterResultBy | Field TypeDecisionTableHitPolicy (enumeration of type string)DescriptionSpecifies how the results of a decision table are filtered if a set of inputs returns multiple matching outputs.Valid values are:AnyValueCollectOperatorFirstMatchOutputOrderPriorityRuleOrderUniqueValues |
+| hasIncremental​SyncFailed | Field TypebooleanDescriptionIndicates if the last incremental refresh failed. |
+| isIncremental​SyncEnabled | Field TypebooleanDescriptionIndicates if incremental refresh is enabled for the Decision Table. |
+| lastIncremental​SyncDate | Field TypestringDescriptionThe date and time on which the last incremental refresh occured for the decision table. |
+| lastSyncDate | Field TypestringDescriptionLatest date on which the decision table was refreshed. |
+| refresh​FailureReason | Field TypestringDescriptionReason why the refresh of the decision table data failed. |
+| refreshStatus | Field TypeDecisionTableRefreshStatus (enumeration of type string)DescriptionSpecifies the refresh status of the cached data in the decision table.Valid values are:CompletedFailedInProgressInitiated |
+| setupName | Field TypestringDescriptionRequired. Name of the decision table, which appears in Salesforce Setup. |
+| sourceCondition​Logic | Field TypestringDescriptionThe condition logic that's used to define the decision table from the source data. |
+| sourceObject | Field TypestringDescriptionRequired. Object that contains the rules based on which the decision table must provide outcomes. |
+| status | Field TypeDecisionTableStatus (enumeration of type string)DescriptionRequired. Status of the decision table.Valid values are:ActivationInProgressActiveDraftInactive |
+| type | Field TypeDecisionTableType (enumeration of type string)DescriptionStores the type of decision table.Valid values are:AdvancedHighScaleExecutionHighVolumeLowVolumeMediumVolumeRealTime |
+| uploadStatus | Field TypeDecisionTableUploadStatus (enumeration of type string)DescriptionSpecifies the progress status of the CSV upload for a CSV based Lookup table.Valid values are:CompletedCompletedWithErrorsFailedUploadInProgress |
+| usageType | Field TypeExpsSetProcessType (enumeration of type string)DescriptionType of industry or the application within the industry that's using a decision table.Valid values are:BreComplianceControlDecompositionEnrichmentMappingDefaultPricingDefaultRatingEventOrchestrationFinancialServicesCloudFulfillmentConditionGpaCalculationInsuranceClaimProcessing—Available in API version 65.0 and later.ItServiceManagement—Available in API version 65.0 and later.PlanCostCalculationPriceProtectionPricingDiscoveryProductCategoryQualificationProductQualificationRatingDiscoveryRecordAlertShipAndDebitStudentInformationSystem—Available in API version 65.0 and later.StudentSuccessTestProcessWarrantyClaimWhen Business Rules Engine is enabled for a Salesforce instance, the default value is 'Bre’. Other usage types are available to you depending on your industry solution and permission sets. |
+
+## DecisionTableParameter
+
+Represents an input or output field of a decision table.
+
+| Field Name | Description |
+| --- | --- |
+| dataType | Field TypeDTParameterDataType (enumeration of type string)DescriptionThe data type of the field used in a decision table.Valid values are:BooleanCurrencyDateDateTimeNumberPercentString |
+| decimalScale | Field TypeintDescriptionThe number of digits to the right of the decimal point. |
+| domainObject | Field TypestringDescriptionFor polymorhpic fields, indicates the domain object in the field hierarchy. |
+| fieldName | Field TypestringDescriptionRequired. API name of the fields that selected as an input or output for the decision table. |
+| fieldPath | Field TypestringDescriptionThe path of the field used in a decision table in relation to the object that the field belongs to. |
+| isGroup​ByField | Field TypebooleanDescriptionIndicates whether an input field is used to group the business rules of the decision table. |
+| isPriority​Field | Field TypebooleanDescriptionIndicates whether a field is given priority. |
+| isRequired | Field TypebooleanDescriptionIndicates whether a field is required to be used for lookups. |
+| length | Field TypeintDescriptionThe maximum number of characters supported for a field that's used in a decision table. |
+| operator | Field TypeDecisionTableOperator (enumeration of type string)DescriptionOperator used for the input field.Valid values are:ContainsDoesNotExistInDoesNotMatchEqualsExistsInGreaterOrEqualGreaterThanIsNotNullIsNullLessOrEqualLessThanMatchesNotEquals |
+| sequence | Field TypeintDescriptionThe sequence in which input fields are processed. This field is available in API version 52.0 and later. |
+| sortType | Field TypeDecisionTableSortType (enumeration of type string)DescriptionSort outputs of a decision table based on the values of the input or output parameter field. This field is available in API version 56.0 and later.Valid values are:AscNullFirstAscNullLastDescNullFirstDescNullLastNone |
+| usage | Field TypeDecisionTableParameterType (enumeration of type string)DescriptionRequired. Usage type of a field.Valid values are:INPUTOUTPUTROWCRITERIA |
+
+## DecisionTableSourceCriteria
+
+Represents the fields and values from a data source that are used to define the condition logic of the data that's used in a decision table.
+
+| Field Name | Description |
+| --- | --- |
+| operator | Field TypeDTSourceCriteriaOperator (enumeration of type string)DescriptionRequired. The operator that’s applied to an associated decision table’s field to filter the data.Valid values are:ContainsDoesNotExistInDoesNotMatchEqualsExistsInGreaterOrEqualGreaterThanIsNotNullIsNullLessOrEqualLessThanMatchesNotEquals |
+| sequenceNumber | Field TypeintDescriptionRequired. The sequence number used in the associated decision table's source condition logic. |
+| sourceField​Name | Field TypestringDescriptionRequired. The name of the field that's used in the decision table. |
+| value | Field TypestringDescriptionThe value that’s expected in the source field used in the decision table. |
+| valueType | Field TypeDTSourceCriteriaValueType (enumeration of type string)DescriptionRequired. The type of the value that’s used to filter the source data.Valid values are:FormulaLiteralLookupParameterPicklist |
+
+## Declarative Metadata Sample Definition
+
+The following is an example of a DecisionTable component.
+
+```
+
+```
+
+The following is an example package.xml that references the previous definition.
+
+```
+
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionTable xmlns="http://soap.sforce.com/2006/04/metadata">
+    <collectOperator>None</collectOperator>
+    <conditionCriteria>1 and 2 and 3 and 4</conditionCriteria>
+    <conditionType>All</conditionType>
+    <dataSourceType>SingleSobject</dataSourceType>
+    <decisionTableParameters>
+        <fieldName>IsDeleted</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>1</sequence>
+        <isGroupByField>true</isGroupByField>
+        <sortType>AscNullFirst</sortType>
+        <dataType>Number</dataType>
+        <fieldPath>AccountFeed.CommentsCount</fieldPath>
+        <domainObject>AccountFeed</domainObject>
+        <isPriorityField>false</isPriorityField>
+        <decimalScale>2</decimalScale>
+        <length>14</length>
+        <isRequired>false</isRequired>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>IsActive</fieldName>
+        <usage>OUTPUT</usage>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>LimitNumber</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>2</sequence>
+        <isGroupByField>false</isGroupByField>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>LimitStartDate</fieldName>
+        <usage>OUTPUT</usage>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>GivenBadgeCount</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>3</sequence>
+        <isGroupByField>false</isGroupByField>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>Name</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>4</sequence>
+        <isGroupByField>false</isGroupByField>
+    </decisionTableParameters>
+    <decisionTableSourceCriterias>
+        <sourceFieldName>IsDeleted</sourceFieldName>
+        <operator>Equals</operator>
+        <value>false</value>
+        <sequenceNumber>1</sequenceNumber>
+        <valueType>Literal</valueType>
+    </decisionTableSourceCriterias>
+    <description>Sample DT created for md-common tests</description>
+    <filterResultBy>UniqueValues</filterResultBy>
+    <setupName>Sample DT</setupName>
+    <sourceObject>WorkBadgeDefinition</sourceObject>
+    <sourceConditionLogic>1</sourceConditionLogic>
+    <status>Draft</status>
+    <type>LowVolume</type>
+    <usageType>Bre</usageType>
+    <doesConsiderNullValue>false</doesConsiderNullValue>
+    <refreshStatus>Failed</refreshStatus>
+    <refreshFailureReason>Failed due to limit violation.</refreshFailureReason>
+    <executionType>Hbpo</executionType>
+    <lastIncrementalSyncDate>""</lastIncrementalSyncDate>
+    <uploadStatus>Completed</uploadStatus>
+    <isIncrementalSyncEnabled>false</isIncrementalSyncEnabled>
+    <hasIncrementalSyncFailed>false</hasIncrementalSyncFailed>
+</DecisionTable>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <fullName>Sample DT Package</fullName>
+   <description>Package created for md-common tests</description>
+   <types>
+      <members>Sample_DT</members>
+      <name>DecisionTable</name>
+   </types>
+   <types>
+      <members>DSL_Sample</members>
+      <members>Sample_DT_Default</members>
+      <name>DecisionTableDatasetLink</name>
+   </types>
+   <version></version>
+</Package>
+```

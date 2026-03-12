@@ -5,11 +5,14 @@ topic: connectapiwishlistiteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.651Z
-keywords: [ConnectApi.WishlistItemInput, See]
+lastCollected: 2026-03-12T05:14:25.667Z
+estimatedTokens: 103
+keywords: [ConnectApi.WishlistItemInput, Item, update, add, wishlist.]
 ---
 
 # ConnectApi.WishlistItemInput
+
+> Item to update or add to a wishlist.
 
 # ConnectApi.WishlistItemInput
 
@@ -22,3 +25,8 @@ Item to update or add to a wishlist.
 #### See Also
 
 -   [ConnectApi.WishlistInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_wishlist.htm "Create a wishlist.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.WishlistInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_wishlist.htm)

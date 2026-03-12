@@ -5,11 +5,17 @@ topic: search-result-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.580Z
-keywords: [Search, Result, Layouts, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.882Z
+estimatedTokens: 294
+keywords: [Search, Result, Layouts, search, result, layout, information, objects, query, string., call, list, fields, displayed, results, page, columns, number, rows, first]
 ---
 
 # Search Result Layouts
+
+> Returns search result layout information for the objects in
+  the query string. For each object, this call returns the list of fields displayed on the search
+  results page as columns, the number of rows displayed on the first page, and the label used on
+  the search results page.
 
 # Search Result Layouts
 
@@ -47,3 +53,7 @@ Response format
 ## Example
 
 See [Get Search Result Layouts for Objects.](atlas.en-us.api_rest.meta/api_rest/dome_retrieve_search_layouts.htm "Use the *** resource to retrieve the search result layout configuration for each object specified in the query string.")
+
+## Related Topics
+
+- Get Search Result Layouts for Objects. (atlas.en-us.api_rest.meta/api_rest/dome_retrieve_search_layouts.htm)

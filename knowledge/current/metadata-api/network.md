@@ -5,11 +5,19 @@ topic: network
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.728Z
-keywords: [Network, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Branding, CommunityRoles, NavigationLinkSet, NavigationMenuItem, NavigationSubMenu, NetworkAuthApiSettings, NetworkEmailTmplAllowlist, NetworkMemberGroup, NetworkPageOverride, Note, RecommendationAudience]
+lastCollected: 2026-03-12T05:14:41.411Z
+estimatedTokens: 9799
+keywords: [Network, Represents, Experience, Cloud, site., Salesforce, lets, create, branded, spaces, employees, customers, partners., customize, experiences, whether, they’re, communities, sites, portals]
 ---
 
 # Network
+
+> Represents an Experience Cloud site. Salesforce
+            Experience Cloud lets you create branded spaces for your employees, customers, and
+            partners. You can customize and create experiences, whether they’re communities, sites,
+            or portals, to meet your business needs, then transition seamlessly between them. If you
+            want to create zones that contain Chatter Answers and Ideas, use the Community (Zone)
+            component.
 
 # Network
 
@@ -348,3 +356,187 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [Community (Zone)](atlas.en-us.api_meta.meta/api_meta/meta_community.htm "Represents a zone that contains Ideas or Chatter Answers objects. Zones are shared by the Ideas, Answers, and Chatter Answers features, allowing you to view and create zones from those locations.This type extends the Metadata metadata type and inherits its fullName field.")
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Network xmlns="http://soap.sforce.com/2006/04/metadata">
+    <allowMembersToFlag>true</allowMembersToFlag>
+    <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
+    <description>Metadata Community</description>
+    <emailSenderAddress>admin@networkMetadata.com</emailSenderAddress>
+    <emailSenderName>Admin User</emailSenderName>
+    <enableInvitation>false</enableInvitation>
+    <enableKnowledgeable>true</enableKnowledgeable>
+    <enableNicknameDisplay>false</enableNicknameDisplay>
+    <enablePrivateMessages>true</enablePrivateMessages>
+    <enableReputation>true</enableReputation>
+    <enableUpDownVote>true</enableUpDownVote>
+    <forgotPasswordTemplate>unfiled$public/CommunityForgotPasswordEmailTemplate</forgotPasswordTemplate>
+    <networkMemberGroups>
+        <permissionSet>Admin</permissionSet>
+        <permissionSet>Standard</permissionSet>
+        <permissionSet>ReadOnly</permissionSet>
+        <profile>Admin</profile>
+        <profile>Standard</profile>
+        <profile>ReadOnly</profile>
+    </networkMemberGroups>
+    <recommendationDefinition>
+        <recommendationDefinitionDetails>
+            <actionUrl>https://www.apple.com/iphone</actionUrl>
+            <description>Better specs and high performance for iPhones</description>
+            <linkText>iPhone 7</linkText>
+            <scheduledRecommendations>
+                <scheduledRecommendationDetails>
+                    <channel>DefaultChannel</channel>
+                    <enabled>false</enabled>
+                    <rank>1</rank>
+                    <recommendationAudience>New Member Audience</recommendationAudience>
+                </scheduledRecommendationDetails>
+            </scheduledRecommendations>
+            <setupName>Apple iPhone</setupName>
+            <title>iPhone7</title>
+        </recommendationDefinitionDetails>
+        <recommendationDefinitionDetails>
+            <actionUrl>https://www.bose.com/qc35</actionUrl>
+            <description>New Amazing Noise cancellation Headphones</description>
+            <linkText>Bose QC35</linkText>
+            <scheduledRecommendations>
+                <scheduledRecommendationDetails>
+                    <channel>DefaultChannel</channel>
+                    <enabled>true</enabled>
+                    <rank>2</rank>
+                    <recommendationAudience>Custom Audience</recommendationAudience>
+                </scheduledRecommendationDetails>
+            </scheduledRecommendations>
+            <setupName>Bose Headphones</setupName>
+            <title>Bose QC35</title>
+        </recommendationDefinitionDetails>
+    </recommendationDefinition>
+    <reputationLevels>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_beginner.png</smallImage>
+            </branding>
+            <label>Beginner</label>
+            <lowerThreshold>0</lowerThreshold>
+        </level>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_apprentice.png</smallImage>
+            </branding>
+            <label>Apprentice</label>
+            <lowerThreshold>51</lowerThreshold>
+        </level>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_gettingthere.png</smallImage>
+            </branding>
+            <label>Getting There</label>
+            <lowerThreshold>101</lowerThreshold>
+        </level>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_skilled.png</smallImage>
+            </branding>
+            <label>Skilled</label>
+            <lowerThreshold>151</lowerThreshold>
+        </level>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_expert.png</smallImage>
+            </branding>
+            <label>Expert</label>
+            <lowerThreshold>201</lowerThreshold>
+        </level>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_mentor.png</smallImage>
+            </branding>
+            <label>Mentor</label>
+            <lowerThreshold>251</lowerThreshold>
+        </level>
+        <level>
+            <branding> 
+                <smallImage>communities_shared _document_folder/replevel_guru.png</smallImage>
+            </branding>
+            <label>Guru</label>
+            <lowerThreshold>301</lowerThreshold>
+        </level>
+    </reputationLevels>
+    <reputationPointsRules>
+        <pointsRule>
+            <eventType>FeedItemWriteAPost</eventType>
+            <points>5</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemWriteAComment</eventType>
+            <points>3</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemReceiveAComment</eventType>
+            <points>10</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemLikeSomething</eventType>
+            <points>3</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemReceiveALike</eventType>
+            <points>5</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemMentionSomeone</eventType>
+            <points>5</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemSomeoneMentionsYou</eventType>
+            <points>10</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemShareAPost</eventType>
+            <points>5</points>
+        </pointsRule>
+        <pointsRule>
+            <eventType>FeedItemSomeoneSharesYourPost</eventType>
+            <points>10</points>
+        </pointsRule>
+    </reputationPointsRules>
+    <selfRegistration>false</selfRegistration>
+    <sendWelcomeEmail>true</sendWelcomeEmail>
+    <site>Network_11</site>
+    <status>UnderConstruction</status>
+    <tabs>
+        <defaultTab>Chatter</defaultTab>
+        <standardTab>Chatter</standardTab>
+        <standardTab>Account</standardTab>
+        <standardTab>Campaign</standardTab>
+        <standardTab>Case</standardTab>
+        <standardTab>Console</standardTab>
+        <standardTab>Contact</standardTab>
+        <standardTab>Contract</standardTab>
+        <standardTab>Dashboard</standardTab>
+        <standardTab>JigsawSearch</standardTab>
+        <standardTab>File</standardTab>
+        <standardTab>CollaborationGroup</standardTab>
+        <standardTab>home</standardTab>
+        <standardTab>Idea</standardTab>
+        <standardTab>Lead</standardTab>
+        <standardTab>Opportunity</standardTab>
+        <standardTab>Product2</standardTab>
+        <standardTab>UserProfile</standardTab>
+        <standardTab>report</standardTab>
+        <standardTab>Solution</standardTab>
+    </tabs>
+    <urlPathPrefix>network1</urlPathPrefix>
+    <welcomeTemplate>unfiled$public/CommunityWelcomeEmailTemplate</welcomeTemplate>
+</Network>
+```
+
+## Related Topics
+
+- NavigationMenu (atlas.en-us.api_meta.meta/api_meta/meta_navigationmenu.htm)
+- NavigationMenuItemBranding (atlas.en-us.api_meta.meta/api_meta/meta_navigationmenu.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Community (Zone) (atlas.en-us.api_meta.meta/api_meta/meta_community.htm)

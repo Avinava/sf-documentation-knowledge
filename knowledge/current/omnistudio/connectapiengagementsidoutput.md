@@ -5,11 +5,15 @@ topic: connectapiengagementsidoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.857Z
-keywords: [ConnectApi.EngagementsIdOutput]
+lastCollected: 2026-03-12T05:14:47.799Z
+estimatedTokens: 80
+keywords: [ConnectApi.EngagementsIdOutput, Output, representation, IDs, engagement, interaction, attendee, topic, records.]
 ---
 
 # ConnectApi.EngagementsIdOutput
+
+> Output representation of IDs for the engagement interaction,
+      engagement attendee, and engagement topic records.
 
 # ConnectApi.EngagementsIdOutput
 

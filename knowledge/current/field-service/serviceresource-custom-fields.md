@@ -5,11 +5,15 @@ topic: serviceresource-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.133Z
-keywords: [ServiceResource, Custom, Fields, Supported, Calls, Special, Access, Rules, See]
+lastCollected: 2026-03-12T05:14:55.354Z
+estimatedTokens: 779
+keywords: [ServiceResource, Custom, Fields, fields, associated, field, service, technician, crew, Field, Service., Supported, Calls, Special, Access, Rules]
 ---
 
 # ServiceResource Custom Fields
+
+> Custom fields associated with a field service technician or crew in Field
+         Service.
 
 # ServiceResource Custom Fields
 
@@ -39,5 +43,5 @@ Field Service managed package must be installed.
 #### See Also
 
 -   [Salesforce Object Reference: ServiceResource](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_serviceresource.htm "Salesforce Object Reference: ServiceResource - HTML (New Window)")
-    
+
 -   [Salesforce Help: Estimate a Service Resource’s Efficiency](https://help.salesforce.com/s/articleView?id=service.pfs_efficiency.htm&type=5&language=en_US "Salesforce Help: Estimate a Service Resource’s Efficiency - HTML (New Window)")

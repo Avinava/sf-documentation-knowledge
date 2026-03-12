@@ -5,11 +5,16 @@ topic: connectapipicklistvalues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.584Z
-keywords: [ConnectApi.PicklistValues, See]
+lastCollected: 2026-03-12T05:14:28.381Z
+estimatedTokens: 315
+keywords: [ConnectApi.PicklistValues, Picklist, values, field, scoped, record, type., picklist, dependent, response, includes, its, immediate, controlling, how, they, map, picklist.]
 ---
 
 # ConnectApi.PicklistValues
+
+> Picklist values for a field, scoped to a record type. If a picklist is dependent, this
+    response includes the values of its immediate controlling field and how they map to the
+    picklist.
 
 # ConnectApi.PicklistValues
 
@@ -25,3 +30,12 @@ Picklist values for a field, scoped to a record type. If a picklist is dependent
 #### See Also
 
 -   [ConnectApi.PicklistValuesCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_values_collection.htm "Collection of picklist values for all the picklists of a record type.")
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​PicklistValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_value.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.PicklistValuesCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_picklist_values_collection.htm)

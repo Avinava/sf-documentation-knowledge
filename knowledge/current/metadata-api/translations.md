@@ -5,11 +5,16 @@ topic: translations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.943Z
-keywords: [Translations, Important, Language, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, AiCoachAgentScnrDefTranslation, BotBlockTranslation, BotBlockVersionTranslation, BotTemplateTranslation, BotTranslation, BotVersionTranslation, BotDialogTranslation, BotStepTranslation]
+lastCollected: 2026-03-12T05:14:43.271Z
+estimatedTokens: 13121
+keywords: [Translations, Metadata, enables, work, translations, various, supported, languages., ability, translate, component, labels, part, Translation, Workbench., Important, Language, Note, Declarative, File]
 ---
 
 # Translations
+
+> Metadata type that enables work with translations for
+            various supported languages. The ability to translate component labels is part of
+        the Translation Workbench.
 
 # Translations
 
@@ -890,3 +895,121 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [CustomLabels](atlas.en-us.api_meta.meta/api_meta/meta_customlabels.htm "The CustomLabels metadata type allows you to create custom labels that can be localized for use in different languages, countries, and currencies.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <desFieldTemplateMessages>
+        <description>Calc Blitz Message</description>
+        <label>CALBLITZ</label>
+        <name>CALBLITZ</name>
+        <templateMessage>CALBLITZ</templateMessage>
+    </desFieldTemplateMessages>
+</Translations>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations
+    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <identityVerificationCustomFieldLabels>
+        <description>Telefono Numero</description>
+        <label>Telefono Numero</label>
+        <name>Sample93Phone</name>
+    </identityVerificationCustomFieldLabels>
+    <identityVerificationCustomFieldLabels>
+        <description>Nombre de la Cuenta</description>
+        <label>Nombre de la Cuenta</label>
+        <name>Sample93Account</name>
+    </identityVerificationCustomFieldLabels>
+    <identityVerificationCustomFieldLabels>
+        <name>Sample93PostalCode</name>
+    </identityVerificationCustomFieldLabels>
+    <identityVerificationCustomFieldLabels>
+        <name>Sample93AccountName</name>
+        <description>Nombre</description>
+        <label>Nombre</label>
+    </identityVerificationCustomFieldLabels>
+</Translations>
+```
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+<globalPicklists>
+    <name>transpicklist</name>
+    <picklistValues>
+        <masterLabel>Three</masterLabel>
+        <translation>Trois</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Four</masterLabel>
+        <translation>Quatre</translation>
+    </picklistValues>
+</globalPicklists>
+</Translations>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+    <label>Angebot-Manager</label>
+        <name>Quote Manager</name>
+    </customApplications>
+    <customLabels>
+    <label>Dieses ist ein manuelles Angebot</label>
+        <name>quoteManual</name>
+    </customLabels>
+</Translations>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+       <members>*</members>
+       <name>CustomApplication</name>
+    </types>
+    <types>
+       <members>*</members>
+       <name>CustomLabels</name>
+    </types>
+    <types>
+       <members>*</members>
+       <name>CustomPageWebLink</name>
+    </types>
+    <types>
+       <members>*</members>
+       <name>CustomTab</name>
+    </types>
+    <types>
+       <members>*</members>
+       <name>ReportType</name>
+    </types>
+    <types>
+       <members>*</members>
+       <name>Scontrol</name>
+    </types>
+    <types>
+       <members>*</members>
+        <name>Translations</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)
+- CustomLabels (atlas.en-us.api_meta.meta/api_meta/meta_customlabels.htm)
+- CustomPageWebLink (atlas.en-us.api_meta.meta/api_meta/custompageweblink.htm)
+- CustomTab (atlas.en-us.api_meta.meta/api_meta/meta_tab.htm)
+- FlowDefinition (atlas.en-us.api_meta.meta/api_meta/meta_flowdefinition.htm)
+- Flow (atlas.en-us.api_meta.meta/api_meta/meta_visual_workflow.htm)
+- PicklistValueTranslation (atlas.en-us.api_meta.meta/api_meta/meta_customobjecttranslation.htm)
+- QuickAction (atlas.en-us.api_meta.meta/api_meta/meta_quickaction.htm)

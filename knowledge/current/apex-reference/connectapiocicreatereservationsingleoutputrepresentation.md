@@ -5,11 +5,15 @@ topic: connectapiocicreatereservationsingleoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.379Z
-keywords: [ConnectApi.OCICreateReservationSingleOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.108Z
+estimatedTokens: 153
+keywords: [ConnectApi.OCICreateReservationSingleOutputRepresentation, Details, inventory, reservation, product.]
 ---
 
 # ConnectApi.OCICreateReservationSingleOutputRepresentation
+
+> Details of an inventory reservation for one
+    product.
 
 # ConnectApi.OCICreateReservationSingleOutputRepresentation
 
@@ -22,3 +26,8 @@ Details of an inventory reservation for one product.
 | locationIdentifier | String | Identifier of the location where the inventory is reserved. | 51.0 |
 | quantity | Double | The reserved quantity of the product. | 51.0 |
 | stockKeepingUnit | String | The SKU of the reserved product. | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

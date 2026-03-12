@@ -5,11 +5,15 @@ topic: regulationclauseversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.172Z
-keywords: [RegulationClauseVersion, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:54.291Z
+estimatedTokens: 1002
+keywords: [RegulationClauseVersion, Represents, version, Regulation, Clause, tracks, amendments., API, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # RegulationClauseVersion
+
+> Represents the version of the Regulation Clause that tracks amendments.
+      This object is available in API version 65.0 and later.
 
 # RegulationClauseVersion
 
@@ -50,3 +54,9 @@ Feed tracking is available for the object.
 [RegulationClauseVersionHistory](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
 
 History is available for tracked fields of the object.
+
+## Related Topics
+
+- RegulationClauseVersionChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- RegulationClauseVersionFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- RegulationClauseVersionHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)

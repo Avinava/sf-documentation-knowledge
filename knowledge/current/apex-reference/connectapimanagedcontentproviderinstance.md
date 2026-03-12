@@ -5,11 +5,14 @@ topic: connectapimanagedcontentproviderinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.183Z
-keywords: [ConnectApi.ManagedContentProviderInstance, See]
+lastCollected: 2026-03-12T05:14:27.836Z
+estimatedTokens: 363
+keywords: [ConnectApi.ManagedContentProviderInstance, Information, managed, content, provider, instance.]
 ---
 
 # ConnectApi.ManagedContentProviderInstance
+
+> Information about a managed content provider instance.
 
 # ConnectApi.ManagedContentProviderInstance
 
@@ -26,7 +29,15 @@ Information about a managed content provider instance.
 #### See Also
 
 -   [ConnectApi.ManagedContentProvider](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_provider.htm "Information about a managed content provider.")
-    
+
 -   [createManagedContentProvider(providerInstanceInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_createManagedContentProvider_2 "Create a digital asset management (DAM) provider instance.")
-    
+
 -   [updateManagedContentProviderInstance(providerInstanceId, providerInstanceInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_updateManagedContentProviderInstance_2 "Update a digital asset management (DAM) provider instance.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.ManagedContentProvider (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_provider.htm)
+- createManagedContentProvider(providerInstanceInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)
+- updateManagedContentProviderInstance(providerInstanceId, providerInstanceInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)

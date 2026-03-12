@@ -5,11 +5,19 @@ topic: trigger-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:34.539Z
-keywords: [Trigger, Class, Namespace, Context, Variables, Note, Example]
+lastCollected: 2026-03-12T05:14:21.346Z
+estimatedTokens: 872
+namespace: System
+keywords: [Trigger, access, run-time, context, information, trigger, such, list, sObject, records, operates, on., Context, Variables, Note, Example]
 ---
 
 # Trigger Class
+
+> Use the Trigger class to access run-time context
+  information in a trigger, such as the type of trigger or the list of sObject records that the
+  trigger operates on.
+
+**Namespace:** `System`
 
 # Trigger Class
 
@@ -63,3 +71,80 @@ This trigger uses Boolean context variables such as Trigger.isBefore and Trigger
 ```
 
 ```
+
+## Code Examples
+
+```
+trigger SimpleTrigger on Account(after insert) {
+  for (Account a : Trigger.new) {
+    // Iterate over each sObject
+  }
+
+  // This single query finds every contact that is associated with any of the
+  // triggering accounts. Note that although Trigger.new is a collection of
+  // records, when used as a bind variable in a SOQL query, Apex automatically
+  // transforms the list of records into a list of corresponding Ids.
+  Contact[] cons = [
+    SELECT LastName
+    FROM Contact
+    WHERE AccountId IN :Trigger.new
+    WITH USER_MODE
+  ];
+}
+```
+
+```apex
+trigger MyAccountTrigger on Account(
+  before delete,
+  before insert,
+  before update,
+  after delete,
+  after insert,
+  after update
+) {
+  if (Trigger.isBefore) {
+    if (Trigger.isDelete) {
+      // In a before delete trigger, the trigger accesses the records that will be
+      // deleted with the Trigger.old list.
+      for (Account a : Trigger.old) {
+        if (a.name != 'okToDelete') {
+          a.addError('You can\'t delete this record!');
+        }
+      }
+    } else {
+      // In before insert or before update triggers, the trigger accesses the new records
+      // with the Trigger.new list.
+      for (Account a : Trigger.new) {
+        if (a.name == 'bad') {
+          a.name.addError('Bad name');
+        }
+      }
+      if (Trigger.isInsert) {
+        for (Account a : Trigger.new) {
+          Assert.areEqual('xxx', a.accountNumber);
+          Assert.areEqual('industry', a.industry);
+          Assert.areEqual(100, a.numberofemployees);
+          Assert.areEqual(100.0, a.annualrevenue);
+          a.accountNumber = 'yyy';
+        }
+
+        // If the trigger is not a before trigger, it must be an after trigger.
+      } else {
+        if (Trigger.isInsert) {
+          List<Contact> contacts = new List<Contact>();
+          for (Account a : Trigger.new) {
+            if (a.Name == 'makeContact') {
+              contacts.add(new Contact(LastName = a.Name, AccountId = a.Id));
+            }
+          }
+          insert as user contacts;
+        }
+      }
+    }
+  }
+}
+```
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)

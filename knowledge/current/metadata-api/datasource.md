@@ -5,11 +5,14 @@ topic: datasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.721Z
-keywords: [DataSource, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:38.522Z
+estimatedTokens: 248
+keywords: [DataSource, Used, represent, system, where, data, sourced., always, needed, creating, Data, Stream, Definition., Important, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # DataSource
+
+> Used to represent the system where the data was sourced. This object is always needed when creating a Data Stream Definition.
 
 # DataSource
 

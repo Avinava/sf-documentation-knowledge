@@ -5,11 +5,14 @@ topic: connectapiabstractrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.757Z
-keywords: [ConnectApi.AbstractRecordField, Important, See]
+lastCollected: 2026-03-12T05:14:25.829Z
+estimatedTokens: 403
+keywords: [ConnectApi.AbstractRecordField, field, record., Important]
 ---
 
 # ConnectApi.AbstractRecordField
+
+> A field on a record.
 
 # ConnectApi.AbstractRecordField
 
@@ -37,3 +40,10 @@ The composition of a feed can change between releases. Write your code to handle
 #### See Also
 
 -   [ConnectApi.RecordViewSection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordViewSection.htm "Section of record fields and values on a record detail.")
+
+## Related Topics
+
+- ConnectApi.BlankRecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_blankRecordField.htm)
+- ConnectApi.LabeledRecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_labeledRecordField.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.RecordViewSection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordViewSection.htm)

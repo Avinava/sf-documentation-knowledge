@@ -5,11 +5,15 @@ topic: ipaddressrange
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.156Z
-keywords: [IPAddressRange, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage, Example]
+lastCollected: 2026-03-12T05:14:45.908Z
+estimatedTokens: 663
+keywords: [IPAddressRange, Represents, range, addresses, include, exclude, specified, feature., Supported, SOAP, API, Calls, REST, Fields, Usage, Example]
 ---
 
 # IPAddressRange
+
+> Represents a range of IP addresses to include in or exclude from the
+         specified feature.
 
 # IPAddressRange
 

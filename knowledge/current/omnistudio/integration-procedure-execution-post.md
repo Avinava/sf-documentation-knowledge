@@ -5,11 +5,15 @@ topic: integration-procedure-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.896Z
-keywords: [Integration, Procedure, Execution, POST]
+lastCollected: 2026-03-12T05:14:49.325Z
+estimatedTokens: 286
+keywords: [Integration, Procedure, Execution, POST, Execute, integration, procedure, name, procedure.]
 ---
 
 # Integration Procedure Execution (POST)
+
+> Execute an integration procedure by using the name or ID of the integration
+    procedure.
 
 # Integration Procedure Execution (POST)
 
@@ -59,3 +63,33 @@ Properties
 Response body for POST
 
 [Integration Procedure Execution Details](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_integration_procedure_service_run_output.htm "Output representation of the execution details of the integration procedure.")
+
+## Code Examples
+
+```apex
+/connect/omni-global/integration-procedure/execute/id
+```
+
+```apex
+https://yourInstance.salesforce.com/services/data/v66.0/connect/omni-global/integration-procedure/execute/0jNxx000000005rFCC
+```
+
+```
+{
+  "input": {
+    "inputs": [
+      "{"Name": "Get Account Details"}"
+    ]
+  },
+  "options": {
+    "ignoreCache": false
+  }
+}
+```
+
+## Related Topics
+
+- Integration Procedure Service Run Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_integration_procedure_service_run_input_list.htm)
+- Integration Procedure Service Run Options (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_integration_procedure_service_run_options.htm)
+- Integration Procedure
+              Execution Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_integration_procedure_service_run_output.htm)

@@ -5,11 +5,15 @@ topic: advacctfrcstdisplaygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.131Z
-keywords: [AdvAcctFrcstDisplayGroup, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.508Z
+estimatedTokens: 386
+keywords: [AdvAcctFrcstDisplayGroup, Represents, information, groups, advanced, account, forecast, set, measures, dimensions., API, version, 57.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # AdvAcctFrcstDisplayGroup
+
+> Represents information about the groups for the advanced account forecast set measures
+      or dimensions. This object is available in API version 57.0 and later.
 
 # AdvAcctFrcstDisplayGroup
 

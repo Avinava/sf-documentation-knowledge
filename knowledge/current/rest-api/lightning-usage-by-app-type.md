@@ -5,11 +5,16 @@ topic: lightning-usage-by-app-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.399Z
-keywords: [Lightning, Usage, App, Type, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.613Z
+estimatedTokens: 164
+keywords: [Lightning, Usage, App, total, number, Experience, Salesforce, Mobile, users., resource, REST, API, version, 44.0, later., Syntax, Example]
 ---
 
 # Lightning Usage by App Type
+
+> Returns the total number of Lightning Experience and
+   Salesforce Mobile users. This resource is available in REST API version 44.0 and
+  later.
 
 # Lightning Usage by App Type
 
@@ -51,4 +56,10 @@ Request parameters
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT MetricsDate,user.profile.name,COUNT_DISTINCT(user.id) Total FROM LightningUsageByAppTypeMetrics WHERE MetricsDate = LAST_N_DAYS:30 AND AppExperience = 'Salesforce Mobile' GROUP BY MetricsDate,user.profile.name
 ```

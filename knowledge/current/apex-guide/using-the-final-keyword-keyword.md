@@ -5,8 +5,9 @@ topic: using-the-final-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.579Z
-keywords: [final, Keyword, See]
+lastCollected: 2026-03-12T05:14:32.600Z
+estimatedTokens: 278
+keywords: [final, Keyword]
 ---
 
 # Using the  final Keyword Keyword
@@ -26,3 +27,8 @@ Keep in mind these consideration while using the final keyword to modify variabl
 #### See Also
 
 -   [Extended Class Example](atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm)
+
+## Related Topics
+
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_instanceof.htm)
+- Extended Class Example (atlas.en-us.apexcode.meta/apexcode/apex_classes_example.htm)

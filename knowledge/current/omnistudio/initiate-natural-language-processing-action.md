@@ -5,11 +5,15 @@ topic: initiate-natural-language-processing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.463Z
-keywords: [Initiate, Natural, Language, Processing, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:47.309Z
+estimatedTokens: 442
+keywords: [Initiate, Natural, Language, Processing, Action, Create, record, natural, language, processing, result, initiate, text, service, specified, related, record., Special, Access, Rules]
 ---
 
 # Initiate Natural Language Processing Action
+
+> Create a record for the AI natural language processing result and
+   initiate text processing by using the service specified in the related record.
 
 # Initiate Natural Language Processing Action
 
@@ -77,4 +81,50 @@ JSON Error Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "referenceRecordId": "a00SB000003Z2LPYA0",
+      "referenceRecordTextField": "Vehicle__c.Comments__c",
+      "serviceDetailsList": {
+        "serviceDetails": [
+          {
+            "serviceName": "Amazon_Comprehend_Keyphrase_Extraction",
+            "configurationApiName": "AWS_Keyphrase_Extraction"
+          }
+        ]
+      }
+    }
+  ]
+}
+```
+
+```
+[
+  {
+    "actionName": "initiateNaturalLangProcessing",
+    "errors": null,
+    "isSuccess": true,
+    "outputValues": {
+      "aiNaturalLangProcRsltIds": {
+        "aiNaturalLangProcessResultIds": [
+          "7NPSB0000000g8v4AA"
+        ]
+      }
+    },
+    "version": 1
+  }
+]
+```
+
+```
+[ {
+  "errorCode" : "METHOD_NOT_ALLOWED",
+  "message" : "HTTP Method 'POST' not allowed. Allowed are HEAD,GET"
+} ]
 ```

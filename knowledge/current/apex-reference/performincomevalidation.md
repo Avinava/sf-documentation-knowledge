@@ -4,12 +4,16 @@ domain: apex-reference
 topic: performincomevalidation
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.561Z
-keywords: [PerformIncomeValidation, Signature, Return, Value, Examples]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.749Z
+estimatedTokens: 658
+keywords: [PerformIncomeValidation, Performs, validations, Party, Income, records., Ensure, start, date, earlier, end, date., Examples]
 ---
 
 # PerformIncomeValidation
+
+> Performs validations on Party Income records. Ensure that the
+            start date is not earlier than the end date.
 
 # PerformIncomeValidation
 

@@ -5,11 +5,15 @@ topic: connectapicapturerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.865Z
-keywords: [ConnectApi.CaptureRequest]
+lastCollected: 2026-03-12T05:14:24.454Z
+estimatedTokens: 315
+keywords: [ConnectApi.CaptureRequest, Payment, capture, input, consumed, payment, service.]
 ---
 
 # ConnectApi.CaptureRequest
+
+> Payment capture input consumed by the payment capture
+    service.
 
 # ConnectApi.CaptureRequest
 
@@ -26,3 +30,12 @@ Subclass of [ConnectApi.BaseRequest](atlas.en-us.apexref.meta/apexref/apex_conne
 | effectiveDate | Datetime | Date when the payment becomes effective. | Optional | 50.0 |
 | isFinalCapture | Boolean | Indicates whether the current capture payment transaction is the final request (true) or not (false). Default value is false, but it also depends on the card type associated with the payment authorization. | Optional | 64.0 |
 | paymentGroup | ConnectApi.​PaymentGroup​Request | Details about the payment group record associated with the payment request. | Optional | 50.0 |
+
+## Related Topics
+
+- ConnectApi.BaseRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_gateway_callable_base.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​PaymentGroup​Request (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_payment_group.htm)

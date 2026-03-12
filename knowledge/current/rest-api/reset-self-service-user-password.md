@@ -5,11 +5,17 @@ topic: reset-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.740Z
-keywords: [Reset, Self-Service, User, Password, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.109Z
+estimatedTokens: 376
+keywords: [Reset, Self-Service, User, Password, Initiates, password, reset, self-service, user, based, specified, ID., user’s, current, becomes, invalid, receives, email, link., log]
 ---
 
 # Reset Self-Service User Password
+
+> Initiates a password reset for a self-service user based on the specified user ID. The
+  user’s current password becomes invalid and the user receives an email with a password reset link.
+  To log in again, the user must finish resetting their password. This resource is available in REST
+  API version 24.0 and later.
 
 # Reset Self-Service User Password
 
@@ -48,3 +54,7 @@ For examples of getting password information, setting a password, and resetting 
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Manage User Passwords (atlas.en-us.api_rest.meta/api_rest/dome_sobject_user_password.htm)

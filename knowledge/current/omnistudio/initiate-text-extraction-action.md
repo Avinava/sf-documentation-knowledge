@@ -5,11 +5,15 @@ topic: initiate-text-extraction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.322Z
-keywords: [Initiate, Text, Extraction, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:51.191Z
+estimatedTokens: 587
+keywords: [Initiate, Text, Extraction, Action, Extract, text, uploaded, document, Amazon, Textract, API., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
 ---
 
 # Initiate Text Extraction Action
+
+> Extract text from an uploaded document by using the Amazon Textract
+   API.
 
 # Initiate Text Extraction Action
 
@@ -68,4 +72,41 @@ Authorization: Bearer token
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "contentDocumentId": "069T10000004FnoIAE",
+      "startPageIndex": 1,
+      "endPageIndex": 20,
+      "ocrService": "AMAZON_TEXTRACT",
+      "documentTypeId": "0deT10000004CCbIAM"
+    }
+  ]
+}
+```
+
+```
+[
+   {
+      "actionName":"initiateTextExtraction",
+      "errors":null,
+      "isSuccess":true,
+      "outputValues":{
+         "ocrDocumentScanResultDetails":{
+            "ocrDocumentScanResults":[
+               {
+                  "pageNumber":1,
+                  "ocrDocumentScanResultId":"0ixT100000000bv"
+               }
+            ]
+         }
+      },
+      "version":1
+   }
+]
 ```

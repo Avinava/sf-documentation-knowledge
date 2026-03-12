@@ -5,11 +5,17 @@ topic: permissionsetgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.485Z
-keywords: [PermissionSetGroup, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.409Z
+estimatedTokens: 793
+keywords: [PermissionSetGroup, Represents, group, permission, permissions, within, them., set, groups, organize, based, job, functions, tasks., Then, package, needed., Tooling, API, version]
 ---
 
 # PermissionSetGroup
+
+> Represents a group of permission sets and the permissions within
+            them. Use permission set groups to organize permissions based on job functions or tasks.
+            Then, you can package the groups as needed. Available in Tooling API version 45.0
+        and later.
 
 # PermissionSetGroup
 

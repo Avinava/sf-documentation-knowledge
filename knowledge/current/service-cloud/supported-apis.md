@@ -6,12 +6,15 @@ topic: supported-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.412Z
-keywords: [Supported, APIs, Note]
+lastCollected: 2026-03-12T05:14:58.011Z
+estimatedTokens: 1107
+keywords: [Supported, APIs, list, events, support, utility, pop-out., Note]
 ---
 
 # Supported
         APIs
+
+> A list of methods and events that support utility pop-out.
 
 # Supported APIs
 
@@ -101,3 +104,16 @@ Lightning Web Components (LWC) doesn’t currently support working with backgrou
 | removeEventListener() |  |  |
 | fireEvent() |  | fireEvent() returns success true even when eventListeners for the given eventType are removed. |
 | addEventListener() |  |  |
+
+## Related Topics
+
+- focusNavigationItem() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_focusNavigationItem.htm)
+- getNavigationItems() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getNavigationItems.htm)
+- getSelectedNavigationItem() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getSelectedNavigationItem.htm)
+- refreshNavigationItem() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_refreshNavigationItem.htm)
+- setSelectedNavigationItem() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_setSelectedNavigationItem.htm)
+- closeTab() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_closeTab.htm)
+- disableTabClose() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableTabClose.htm)
+- focusTab() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_focusTab.htm)
+- generateConsoleUrl() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_generateConsoleURL.htm)
+- getAllTabInfo() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getAllTabInfo.htm)

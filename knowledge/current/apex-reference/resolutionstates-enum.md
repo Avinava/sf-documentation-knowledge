@@ -5,11 +5,14 @@ topic: resolutionstates-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.334Z
-keywords: [ResolutionStates, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.427Z
+estimatedTokens: 133
+keywords: [ResolutionStates, Potential, resolution, states, strategy., Values]
 ---
 
 # ResolutionStates Enum
+
+> Potential resolution states for a resolution strategy.
 
 # ResolutionStates Enum
 

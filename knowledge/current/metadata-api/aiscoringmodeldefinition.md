@@ -5,11 +5,16 @@ topic: aiscoringmodeldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.428Z
-keywords: [AIScoringModelDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AIScoringModelDefVersion, AIScoringStep, Declarative, Metadata, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:36.742Z
+estimatedTokens: 1141
+keywords: [AIScoringModelDefinition, Represents, information, machine, learning, model, that’s, used, Scoring, Framework, Industries, Cloud, Einstein., scoring, including, its, configuration., Important, Parent, File]
 ---
 
 # AIScoringModelDefinition
+
+> Represents information about a machine learning model
+			that’s used by the Scoring Framework for Industries Cloud Einstein. The machine learning
+			model is used for scoring, including its configuration.
 
 # AIScoringModelDefinition
 
@@ -84,3 +89,61 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aiModelConfig>Prediction_Scores_for_Accounts</aiModelConfig>
+    <aiScoringModelDefVersions>
+        <fullName>V1</fullName>
+        <aiScoringModelDefinition>Test</aiScoringModelDefinition>
+        <aiScoringSteps>
+            <aiModelConfigStep>Prediction_Scores_for_Accounts.GrainSelector</aiModelConfigStep>
+            <stepDetail>{label:Account,name:Account}</stepDetail>
+        </aiScoringSteps>
+        <aiScoringSteps>
+            <aiModelConfigStep>Prediction_Scores_for_Accounts.AugmentedDataset</aiModelConfigStep>
+        </aiScoringSteps>
+        <aiScoringSteps>
+            <aiModelConfigStep>Prediction_Scores_for_Accounts.TargetConditionBuilder</aiModelConfigStep>
+            <stepDetail>{specificOutcomeDefined:Yes,label:Financial accounts are associated with an account,name:FA_Target}</stepDetail>
+        </aiScoringSteps>
+        <aiScoringSteps>
+            <aiModelConfigStep>Prediction_Scores_for_Accounts.InputVariableSelector</aiModelConfigStep>
+        </aiScoringSteps>
+        <aiScoringSteps>
+            <aiModelConfigStep>Prediction_Scores_for_Accounts.CustomFilter</aiModelConfigStep>
+        </aiScoringSteps>
+        <aiScoringSteps>
+            <aiModelConfigStep>Prediction_Scores_for_Accounts.WriteBackConnector</aiModelConfigStep>
+        </aiScoringSteps>
+        <developerName>V1</developerName>
+        <masterLabel>V1</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <description>Test for metadata</description>
+    <masterLabel>Test</masterLabel>
+</AIScoringModelDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>AIScoringModelDefVersion</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AIScoringModelDefinition</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.981Z
-keywords: [FieldSet, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.664Z
+estimatedTokens: 272
+keywords: [FieldSet, Represents, metadata, group, fields., API, version, 33.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # FieldSet
+
+> Represents the metadata for a group of fields. Available
+    from API version 33.0 or later.
 
 # FieldSet
 

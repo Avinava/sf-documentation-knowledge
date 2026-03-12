@@ -5,11 +5,15 @@ topic: work-with-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:13.243Z
-keywords: [Work, LWCs]
+lastCollected: 2026-03-12T05:14:57.033Z
+estimatedTokens: 237
+keywords: [Work, LWCs, resources, following, table, developing, Field, Service, mobile, app.]
 ---
 
 # Work with LWCs
+
+> Use the resources in the following table to learn more about developing with LWCs for the
+  Field Service mobile app.
 
 # Work with LWCs
 

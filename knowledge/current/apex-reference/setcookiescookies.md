@@ -5,11 +5,14 @@ topic: setcookiescookies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.063Z
-keywords: [setCookies, cookies, Signature, Parameters, Return, Value, Usage, Important]
+lastCollected: 2026-03-12T05:14:19.266Z
+estimatedTokens: 332
+keywords: [setCookies, cookies, Creates, list, cookie, objects., Used, conjunction, Cookie, class., Usage, Important]
 ---
 
 # setCookies(cookies)
+
+> Creates a list of cookie objects. Used in conjunction with the Cookie class.
 
 # setCookies(cookies)
 
@@ -40,3 +43,7 @@ Type: Void
 -   Setting a cookie's value to null sends a cookie with an empty string value instead of setting an expired attribute.
 -   After you create a cookie, the properties of the cookie can't be changed.
 -   Be careful when storing sensitive information in cookies. Pages are cached regardless of a cookie value. If you use a cookie value to generate dynamic content, you should disable page caching. For more information, see [Configure Site Caching](https://help.salesforce.com/articleView?id=platform.sites_caching.htm&type=5&language=en_US) in Salesforce Help.
+
+## Related Topics
+
+- System.Cookie (atlas.en-us.apexref.meta/apexref/apex_classes_sites_cookie.htm)

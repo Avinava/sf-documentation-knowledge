@@ -5,11 +5,15 @@ topic: connectapicapacityresponseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.082Z
-keywords: [ConnectApi.CapacityResponseOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.271Z
+estimatedTokens: 117
+keywords: [ConnectApi.CapacityResponseOutputRepresentation, Response, request, related, location’s, fulfillment, capacity.]
 ---
 
 # ConnectApi.CapacityResponseOutputRepresentation
+
+> Response to a request related to a location’s fulfillment
+      capacity.
 
 # ConnectApi.CapacityResponseOutputRepresentation
 
@@ -20,3 +24,9 @@ Response to a request related to a location’s fulfillment capacity.
 | actionRequestId | String | Unique string that identifies the original capacity request. | 55.0 |
 | error | ConnectApi.​ErrorResponse | Error returned by the request, if any. | 55.0 |
 | success | Boolean | Indicates whether the request was successful. | 55.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

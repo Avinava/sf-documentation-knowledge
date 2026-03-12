@@ -5,11 +5,16 @@ topic: settabhighlighted-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.375Z
-keywords: [setTabHighlighted, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.957Z
+estimatedTokens: 488
+keywords: [setTabHighlighted, Lightning, Experience, Highlights, specified, tab, different, background, color, badge., Tab, highlights, don’t, persist, after, reloading, console, app., works, only]
 ---
 
 # setTabHighlighted() for Lightning Experience for Lightning Experience
+
+> Highlights the specified tab with a different background color and a badge. Tab
+        highlights don’t persist after reloading a Lightning console app. This method works only in
+   Lightning console apps.
 
 # setTabHighlighted() for Lightning Experience for Lightning Experience
 
@@ -57,4 +62,102 @@ This method returns a promise that, upon success, returns a tabInfo object repre
 
 ```
 
+```
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import {
+    IsConsoleNavigation,
+    getFocusedTabInfo,
+    setTabHighlighted
+} from 'lightning/platformWorkspaceApi';
+
+export default class WorkspaceAPIHighlightTab extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async highlightTab(event) {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        const highlighted = event.detail.checked;
+        const { tabId } = await getFocusedTabInfo();
+        setTabHighlighted(tabId, highlighted, {
+            pulse: true,
+            state: 'success'
+        });
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Set Focused Tab Highlighted" onclick="{! c.setFocusedTabHighlighted }" />
+</aura:component>
+```
+
+```
+({
+    setFocusedTabHighlighted : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getFocusedTabInfo().then(function(response) {
+            var focusedTabId = response.tabId;
+            workspaceAPI.setTabHighlighted({
+                tabId: focusedTabId,
+                highlighted: true,
+                options: {
+                    pulse: true,
+                    state: "success"
+         }
+            });
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+```
+{
+     tabId: string,
+     url: string (URL),
+     pinned: boolean,
+     closeable: boolean,
+     title: string,
+     icon: string (SLDS iconKey),
+     iconAlt: string,
+     customTitle: string (optional),
+     customIcon: string (optional),
+     customIconAlt: string (optional),
+     highlighted: boolean,
+     pageReference: object,
+     isSubtab: boolean,
+     parentTabId: string,
+     subtabs: [
+         {
+             tabId: string,
+             url: string (URL),
+             pinned: boolean,
+             closeable: boolean,
+             title: string,
+             icon: string (SLDS iconKey),
+             iconAlt: string,
+             customTitle: string (optional),
+             customIcon: string (optional),
+             customIconAlt: string (optional),
+             highlighted: boolean,
+             pageReference: object,
+             isSubtab: boolean,
+             parentTabId: string,
+             focused: boolean,
+             recordId: string,
+          },
+           ... 
+     ],
+     focused: boolean,
+     recordId: string
+}
 ```

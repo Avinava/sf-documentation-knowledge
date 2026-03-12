@@ -5,11 +5,14 @@ topic: connectapinamedcredentialcalloutoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.343Z
-keywords: [ConnectApi.NamedCredentialCalloutOptions, See]
+lastCollected: 2026-03-12T05:14:28.061Z
+estimatedTokens: 184
+keywords: [ConnectApi.NamedCredentialCalloutOptions, Named, credential, callout, options.]
 ---
 
 # ConnectApi.NamedCredentialCalloutOptions
+
+> Named credential callout options.
 
 # ConnectApi.NamedCredentialCalloutOptions
 
@@ -24,3 +27,8 @@ Named credential callout options.
 #### See Also
 
 -   [ConnectApi.NamedCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm "Named credential associated with an external credential.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.NamedCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm)

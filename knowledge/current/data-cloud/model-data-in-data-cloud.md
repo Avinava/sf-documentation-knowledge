@@ -5,11 +5,16 @@ topic: model-data-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:43.772Z
-keywords: [Model, Data, Cloud, Customer, 360, Objects, DMOs, Lake, DLOs, Starter, Bundles, Related, Content]
+lastCollected: 2026-03-12T05:14:14.585Z
+estimatedTokens: 883
+keywords: [Model, Data, Cloud, key, terms, concepts, related, data, ingestion, modeling, Cloud., Find, reference, material, standard, model, objects, DMOs, including, fields]
 ---
 
 # Model Data in Data Cloud
+
+> Learn about the key terms and concepts related to data ingestion and modeling in Data Cloud. Find reference material on standard data model objects (DMOs),
+        including fields, descriptions, and relationships, along with mappings associated with
+        starter data bundles.
 
 # Model Data in Data Cloud
 
@@ -41,7 +46,12 @@ A starter data bundle is a Salesforce-defined data stream definition that includ
 
 ![Help icon](/docs/resources/img/en-us/252.0?doc_id=help%2Fbundle_data_cloud%2Fimages%2Flanding_knowledge_base.png&folder=c360a_api) [*Salesforce Help*: Data Types and Date Formats](https://help.salesforce.com/s/articleView?language=en_US&type=5&id=sf.c360_a_data_types_and_date_formats.htm)
 
--   **[Standard Data Model Objects (DMOs)](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360dm_DataModelObjects.htm)**  
+-   **[Standard Data Model Objects (DMOs)](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360dm_DataModelObjects.htm)**
     Data model objects (DMOs) are groupings of data created from data streams, insights, and other sources. Find reference information about the standard DMOs found in Data Cloud.
--   **[Starter Data Bundles](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_starter_data_bundles.htm)**  
+-   **[Starter Data Bundles](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_starter_data_bundles.htm)**
     A starter data bundle is a Salesforce-defined data stream definition that includes mapping from a data source to the Data Cloud DMO structure. Bundles can be customized and some connectors offer multiple data bundle options.
+
+## Related Topics
+
+- Standard Data Model Objects (DMOs) (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360dm_DataModelObjects.htm)
+- Starter Data Bundles (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_starter_data_bundles.htm)

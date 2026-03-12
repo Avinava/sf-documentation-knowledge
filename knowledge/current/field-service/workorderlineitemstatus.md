@@ -5,11 +5,15 @@ topic: workorderlineitemstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:13.149Z
-keywords: [WorkOrderLineItemStatus, Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:56.868Z
+estimatedTokens: 583
+keywords: [WorkOrderLineItemStatus, Represents, possible, status, work, order, line, item, field, service., Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
 ---
 
 # WorkOrderLineItemStatus
+
+> Represents a possible status of a work order line item in field
+			service.
 
 # WorkOrderLineItemStatus
 

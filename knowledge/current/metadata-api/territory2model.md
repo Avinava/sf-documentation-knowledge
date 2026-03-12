@@ -5,11 +5,18 @@ topic: territory2model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.848Z
-keywords: [Territory2Model, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.131Z
+estimatedTokens: 1214
+keywords: [Territory2Model, Represents, metadata, associated, territory, model, Sales, Territories., extends, Metadata, inherits, its, fullName, field., Territories, enabled., File, Suffix, Directory, Location]
 ---
 
 # Territory2Model
+
+> Represents the metadata associated with a territory
+      model in Sales Territories.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field. Available if Sales
+    Territories has been enabled.
 
 # Territory2Model
 
@@ -56,3 +63,37 @@ The following example shows the definition of a Territory2Model component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+    <Territory2Model xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <name>FY13</name>
+    <description>Geographic allocation</description>
+    <customFields>
+        <name>Activation_DateTime__c</name>
+        <value xsi:type="xsd:dateTime">2014-07-16T05:05:00.000Z</value>
+    </customFields>
+    <customFields>
+        <name>AutoNumber__c</name>
+        <value xsi:type="xsd:string">M# 000001</value>
+    </customFields>
+    <customFields>
+        <name>DeactivationDate__c</name>
+        <value xsi:type="xsd:date">2016-07-12</value>
+    </customFields>
+    <customFields>
+        <name>External_Id__c</name>
+        <value xsi:nil="true"/>
+    </customFields>
+</Territory2Model>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- FieldValue (atlas.en-us.api_meta.meta/api_meta/meta_territory2.htm)
+- CRUD
+            calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

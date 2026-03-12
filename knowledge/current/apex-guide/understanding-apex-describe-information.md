@@ -4,12 +4,15 @@ domain: apex-guide
 topic: understanding-apex-describe-information
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.059Z
-keywords: [Understanding, Apex, Describe, Information, Describing, sObjects, Tokens, sObject, Obtaining, Results, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.298Z
+estimatedTokens: 1237
+keywords: [Understanding, Apex, Describe, Information, describe, sObjects, either, tokens, describeSObjects, Schema, method., Describing, Tokens, sObject, Obtaining, Results]
 ---
 
 # Understanding Apex Describe Information
+
+> You can describe sObjects either by using tokens or the describeSObjects Schema method.
 
 # Understanding Apex Describe Information
 
@@ -100,5 +103,61 @@ For more information about the methods available with the sObject describe resul
 #### See Also
 
 -   [DescribeSObjectResult.fields()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_sobject_describe.htm "DescribeSObjectResult.fields() - HTML (New Window)")
-    
+
 -   [DescribeSObjectResult.fieldsets()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_sobject_describe.htm "DescribeSObjectResult.fieldsets() - HTML (New Window)")
+
+## Code Examples
+
+```apex
+// Create a new account as the generic type sObject
+sObject s = new Account();
+
+// Verify that the generic sObject is an Account sObject
+System.assert(s.getsObjectType() == Account.sObjectType);
+
+// Get the sObject describe result for the Account object
+Schema.DescribeSObjectResult dsr = Account.sObjectType.getDescribe();
+
+// Get the field describe result for the Name field on the Account object
+Schema.DescribeFieldResult dfr = Schema.sObjectType.Account.fields.Name;
+
+// Verify that the field token is the token for the Name field on an Account object
+System.assert(dfr.getSObjectField() == Account.Name);
+
+// Get the field describe result from the token
+dfr = dfr.getSObjectField().getDescribe();
+```
+
+```
+Schema.sObjectType t = Account.sObjectType;
+```
+
+```
+Account a = new Account();
+Schema.sObjectType t = a.getSObjectType();
+```
+
+```apex
+// Create a generic sObject variable s
+SObject s = Database.query('SELECT Id FROM Account LIMIT 1');
+
+// Verify if that sObject variable is an Account token
+System.assertEquals(s.getSObjectType(), Account.sObjectType);
+
+// Create a list of generic sObjects 
+List<sObject> sobjList = new Account[]{};
+
+// Verify if the list of sObjects contains Account tokens
+System.assertEquals(sobjList.getSObjectType(), Account.sObjectType);
+```
+
+```
+Schema.DescribeSObjectResult dsr = Account.sObjectType.getDescribe();
+```
+
+## Related Topics
+
+- Accessing All sObjects (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_global_describe.htm)
+- Accessing All Field Describe Results for an
+      sObject (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_field_tokens.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_field_tokens.htm)

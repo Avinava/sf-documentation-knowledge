@@ -5,11 +5,15 @@ topic: setgatewayresultcodegatewayresultcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.666Z
-keywords: [setGatewayResultCode, gatewayResultCode, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.138Z
+estimatedTokens: 140
+keywords: [setGatewayResultCode, gatewayResultCode, gateway-specific, result, code., code, may, mapped, Salesforce-specific, Maximum, length, characters.]
 ---
 
 # setGatewayResultCode(gatewayResultCode)
+
+> Sets a gateway-specific result code. The code may be mapped to a Salesforce-specific
+    result code. Maximum length of 64 characters.
 
 # setGatewayResultCode(gatewayResultCode)
 
@@ -30,3 +34,7 @@ Gateway-specific result code. Must be used to map a Salesforce-specific result c
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

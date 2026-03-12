@@ -5,11 +5,14 @@ topic: connectapitopicinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.693Z
-keywords: [ConnectApi.TopicInput, See]
+lastCollected: 2026-03-12T05:14:24.182Z
+estimatedTokens: 275
+keywords: [ConnectApi.TopicInput, Update, topic’s, name, description, merge, topics.]
 ---
 
 # ConnectApi.TopicInput
+
+> Update a topic’s name or description or merge topics.
 
 # ConnectApi.TopicInput
 
@@ -24,3 +27,9 @@ Update a topic’s name or description or merge topics.
 #### See Also
 
 -   [updateTopic(communityId, topicId, topic)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Topics_static_methods.htm#apex_ConnectAPI_Topics_updateTopic "Update the description or name of a topic or merge up to five secondary topics with a primary topic.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- updateTopic(communityId, topicId, topic) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Topics_static_methods.htm)

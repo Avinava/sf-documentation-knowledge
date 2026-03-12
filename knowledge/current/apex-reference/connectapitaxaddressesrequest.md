@@ -5,11 +5,15 @@ topic: connectapitaxaddressesrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.753Z
-keywords: [ConnectApi.TaxAddressesRequest]
+lastCollected: 2026-03-12T05:14:24.275Z
+estimatedTokens: 142
+keywords: [ConnectApi.TaxAddressesRequest, Addresses, including, Bill, address, Ship, Sold, address.]
 ---
 
 # ConnectApi.TaxAddressesRequest
+
+> Addresses, including the Bill To address, Ship From address, Ship to
+      address, and Sold To address.
 
 # ConnectApi.TaxAddressesRequest
 
@@ -21,3 +25,7 @@ Addresses, including the Bill To address, Ship From address, Ship to address, an
 | shipFrom | ConnectApi.​TaxAddress​Request | Ship From address. | Optional | 55.0 |
 | shipTo | ConnectApi.​TaxAddress​Request | Ship To address. | Optional | 55.0 |
 | soldTo | ConnectApi.​TaxAddress​Request | Sold To address. | Optional | 55.0 |
+
+## Related Topics
+
+- ConnectApi.​TaxAddress​Request (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_tax_address.htm)

@@ -5,11 +5,14 @@ topic: expression-set-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.475Z
-keywords: [Expression, Set, Error]
+lastCollected: 2026-03-12T05:14:50.208Z
+estimatedTokens: 71
+keywords: [Expression, Set, Error, Representation, expression, set, errors.]
 ---
 
 # Expression Set Error
+
+> Representation of the expression set errors.
 
 # Expression Set Error
 

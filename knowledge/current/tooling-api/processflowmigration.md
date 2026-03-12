@@ -5,11 +5,15 @@ topic: processflowmigration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.550Z
-keywords: [ProcessFlowMigration, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.505Z
+estimatedTokens: 1345
+keywords: [ProcessFlowMigration, Represents, process's, migrated, criteria, resulting, flow., API, version, 58.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ProcessFlowMigration
+
+> Represents a process's migrated criteria and the resulting migrated
+         flow. This object is available in API version 58.0 and later.
 
 # ProcessFlowMigration
 

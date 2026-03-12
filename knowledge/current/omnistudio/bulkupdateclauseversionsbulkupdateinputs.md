@@ -5,11 +5,15 @@ topic: bulkupdateclauseversionsbulkupdateinputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.562Z
-keywords: [bulkUpdateClauseVersions, bulkUpdateInputs, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:47.418Z
+estimatedTokens: 281
+keywords: [bulkUpdateClauseVersions, bulkUpdateInputs, Asynchronously, bulk, update, status, clause, versions, specified, regulation, version, policy, version., API, Version, Requires, Chatter, Usage, Example]
 ---
 
 # bulkUpdateClauseVersions(bulkUpdateInputs)
+
+> Asynchronously bulk update the status of all clause versions for the specified
+    regulation version or policy version.
 
 # bulkUpdateClauseVersions(bulkUpdateInputs)
 
@@ -48,3 +52,30 @@ To use this method, you must have either Compliance Admin or Compliance User per
 ```
 
 ```
+
+## Code Examples
+
+```apex
+public class BulkUpdateClauseVersions {
+    
+    public void bulkUpdate() {
+        
+        ConnectApi.ComplianceBulkUpdateInput input = new ConnectApi.ComplianceBulkUpdateInput();
+        input.targetStatus = ConnectApi.BulkUpdateTargetStatusEnum.Published;
+        input.recordId = '1EiSG0000000PzJ0AU';
+        
+        // Call API
+        ConnectApi.ComplianceBulkUpdateResponse response = ConnectApi.IndustriesCompliance.bulkUpdateClauseVersions(input);
+        System.debug('Response**********' + response);
+    }
+}
+
+// Execute the method
+BulkUpdateClauseVersions bulkUpdates = new BulkUpdateClauseVersions();
+bulkUpdates.bulkUpdate();
+```
+
+## Related Topics
+
+- ConnectApi.ComplianceBulkUpdateInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_compliance_bulk_update.htm)
+- ConnectApi.ComplianceBulkUpdateResponse (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_compliance_bulk_update_response.htm)

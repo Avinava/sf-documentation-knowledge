@@ -5,11 +5,16 @@ topic: platformeventsubscriberconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.523Z
-keywords: [PlatformEventSubscriberConfig, Supported, SOAP, API, Calls, REST, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.464Z
+estimatedTokens: 1808
+keywords: [PlatformEventSubscriberConfig, Represents, configuration, settings, platform, event, Apex, trigger, including, batch, size, trigger’s, running, user., API, version, 51.0, later., Supported, SOAP]
 ---
 
 # PlatformEventSubscriberConfig
+
+> Represents configuration settings for a platform event Apex trigger, including
+      the batch size and the trigger’s running user. This object is available in API version
+    51.0 and later.
 
 # PlatformEventSubscriberConfig
 
@@ -68,4 +73,28 @@ Also, you can query retrieve the configurations in your org with SOQL. If queryi
 
 ```
 
+```
+
+## Code Examples
+
+```
+/services/data/v66.0/tooling/sobjects/PlatformEventSubscriberConfig
+```
+
+```
+{
+    "BatchSize": "200",
+    "DeveloperName":"OrderEventTriggerConfig",
+    "MasterLabel":"OrderEventTriggerConfig",
+    "PlatformEventConsumerId": "01qRM0000004PEhYAM",
+    "UserId": "005RM00000231cZYAQ"
+}
+```
+
+```
+/services/data/v66.0/tooling/sobjects/PlatformEventSubscriberConfig/<ID>
+```
+
+```
+SELECT Id,DeveloperName,BatchSize,PlatformEventConsumerId,UserId FROM PlatformEventSubscriberConfig
 ```

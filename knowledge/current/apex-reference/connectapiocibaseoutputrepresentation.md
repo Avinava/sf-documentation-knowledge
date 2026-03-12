@@ -5,11 +5,14 @@ topic: connectapiocibaseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.373Z
-keywords: [ConnectApi.OCIBaseOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.098Z
+estimatedTokens: 379
+keywords: [ConnectApi.OCIBaseOutputRepresentation, Base, Omnichannel, Inventory, output, class.]
 ---
 
 # ConnectApi.OCIBaseOutputRepresentation
+
+> Base Omnichannel Inventory output class.
 
 # ConnectApi.OCIBaseOutputRepresentation
 
@@ -29,3 +32,14 @@ Superclass of:
 | --- | --- | --- | --- |
 | errors | List<ConnectApi.​ErrorResponse> | Any errors that were returned. | 51.0 |
 | success | Boolean | Indicates whether the request was successful. | 51.0 |
+
+## Related Topics
+
+- ConnectApi.OCIGetInventoryAvailabilityOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_get_inventory_availability_output.htm)
+- ConnectApi.OCIPublishLocationStructureOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_publish_location_structure_output.htm)
+- ConnectApi.OCIPublishLocationStructureStatusOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_publish_location_structure_status_output.htm)
+- ConnectApi.OCIUploadInventoryAvailabilityOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_upload_inventory_availability_output.htm)
+- ConnectApi.OCIUploadInventoryAvailabilityStatusOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_o_c_i_upload_inventory_availability_status_output.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_error_response.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

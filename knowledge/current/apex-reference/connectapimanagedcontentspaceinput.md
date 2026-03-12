@@ -5,11 +5,14 @@ topic: connectapimanagedcontentspaceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.286Z
-keywords: [ConnectApi.ManagedContentSpaceInput, See]
+lastCollected: 2026-03-12T05:14:25.107Z
+estimatedTokens: 227
+keywords: [ConnectApi.ManagedContentSpaceInput, Create, managed, content, space.]
 ---
 
 # ConnectApi.ManagedContentSpaceInput
+
+> Create a managed content space.
 
 # ConnectApi.ManagedContentSpaceInput
 
@@ -26,3 +29,9 @@ Create a managed content space.
 #### See Also
 
 -   [postManagedContentSpace(ManagedContentSpaceInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm#apex_ConnectAPI_ManagedContentSpaces_postManagedContentSpace_2 "Create a managed content space.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​SpaceType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- postManagedContentSpace(ManagedContentSpaceInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm)

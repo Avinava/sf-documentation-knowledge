@@ -5,11 +5,17 @@ topic: connectapinamedcredentialparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.349Z
-keywords: [ConnectApi.NamedCredentialParameter, See]
+lastCollected: 2026-03-12T05:14:28.066Z
+estimatedTokens: 172
+namespace: AllowedManagedPackageNamespaces
+keywords: [ConnectApi.NamedCredentialParameter, Named, credential, parameter.]
 ---
 
 # ConnectApi.NamedCredentialParameter
+
+> Named credential parameter.
+
+**Namespace:** `AllowedManagedPackageNamespaces`
 
 # ConnectApi.NamedCredentialParameter
 
@@ -25,3 +31,9 @@ Named credential parameter.
 #### See Also
 
 -   [ConnectApi.NamedCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm "Named credential associated with an external credential.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​NamedCredential​ParameterType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.NamedCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm)

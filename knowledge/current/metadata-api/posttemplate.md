@@ -5,11 +5,18 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.009Z
-keywords: [PostTemplate, Note, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.817Z
+estimatedTokens: 660
+keywords: [PostTemplate, Represents, metadata, associated, approval, post, template, Approvals, Chatter., templates, customize, information, included, request, posts, appear, Chatter, feeds., extends, Metadata]
 ---
 
 # PostTemplate
+
+> Represents the metadata associated with an approval post
+            template for Approvals in Chatter. With approval post templates, you can customize the
+            information included in approval request posts that appear in Chatter feeds.
+        This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # PostTemplate
 
@@ -55,3 +62,32 @@ The following is an example package manifest that references the previous PostTe
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<PostTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <default>false</default>
+    <fields>NumberOfEmployees</fields>
+    <fields>NumberofLocations__c</fields>
+    <fields>PartnerAccount</fields>
+    <fields>LeadCustomFieldNumber__c</fields>
+    <label>My Lead Post Template</label>
+</PostTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Lead.leadtemplate</members>
+        <name>PostTemplate</name>
+    </types>
+    <version>29.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

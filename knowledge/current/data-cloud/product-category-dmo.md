@@ -5,11 +5,15 @@ topic: product-category-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.891Z
-keywords: [Product, Category, DMO, Important, Object, API, Name, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.778Z
+estimatedTokens: 813
+keywords: [Product, Category, DMO, data, model, Data, Cloud, types, products, company, offers, such, shoes, services., Important, API, Name, Primary, Subject, Area]
 ---
 
 # Product Category DMO
+
+> The Product Category data model object (DMO) is a Data Cloud DMO for
+      the types of products a company has or offers, such as shoes or types of services.
 
 # Product Category DMO
 

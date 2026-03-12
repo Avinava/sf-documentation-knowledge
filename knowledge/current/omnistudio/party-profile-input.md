@@ -5,11 +5,14 @@ topic: party-profile-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.435Z
-keywords: [Party, Profile, Input]
+lastCollected: 2026-03-12T05:14:48.656Z
+estimatedTokens: 1202
+keywords: [Party, Profile, Input, representation, details, party, profile.]
 ---
 
 # Party Profile Input
+
+> Input representation of the details of the party profile.
 
 # Party Profile Input
 
@@ -66,3 +69,10 @@ Properties
 | surnameAtBirth | String | Party surname at birth specified in the profile. | Optional | 61.0 |
 | taxPayer​Identification​Number | String | Taxpayer identifier that's used for tax purposes. | Optional | 61.0 |
 | taxPayer​Identification​Type | String | Type of taxpayer identification used for tax purposes. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)
+- Party Identity Verification Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_identity_verification_input.htm)
+- Party Profile Address Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_profile_address_input.htm)
+- Party Profile Risk Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_party_profile_risk_input.htm)

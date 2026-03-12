@@ -5,11 +5,15 @@ topic: connectapitaxjurisdictionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.097Z
-keywords: [ConnectApi.TaxJurisdictionResponse]
+lastCollected: 2026-03-12T05:14:29.124Z
+estimatedTokens: 160
+keywords: [ConnectApi.TaxJurisdictionResponse, Represents, address, jurisdiction, primary, business, used, calculating, tax.]
 ---
 
 # ConnectApi.TaxJurisdictionResponse
+
+> Represents the address or jurisdiction of the primary business used
+      for calculating tax.
 
 # ConnectApi.TaxJurisdictionResponse
 
@@ -23,3 +27,7 @@ Represents the address or jurisdiction of the primary business used for calculat
 | name | String | Name of the tax jurisdiction address. | 55.0 |
 | region | String | Region of the tax jurisdiction address. | 55.0 |
 | stateAssignedNo | String | State-assigned number of the tax jurisdiction address. | 55.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

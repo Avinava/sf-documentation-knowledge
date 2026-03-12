@@ -5,11 +5,15 @@ topic: document-process-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.338Z
-keywords: [Document, Process, Input]
+lastCollected: 2026-03-12T05:14:48.316Z
+estimatedTokens: 446
+keywords: [Document, Process, Input, representation, content, document, received, record, create, update, Salesforce, record.]
 ---
 
 # Document Process Input
+
+> Input representation of the content document or received document
+   record to create or update a Salesforce object record.
 
 # Document Process Input
 
@@ -29,3 +33,8 @@ Properties
 | overrideConfidence​ScoreThreshold | Integer | Conflict confidence score threshold value for the extracted value.NoteThe value of this field overrides the confidence score threshold value set on the user interface. | Optional | 55.0 |
 | recordTypeId | String | ID of the record type of the target object. | Optional | 55.0 |
 | templateApiName | String | API name of the document template to retrieve. | Optional | 59.0 |
+
+## Related Topics
+
+- Fields Without Conflict Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_fields_without_conflict.htm)
+- Fields Without Conflict Input (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_requests_fields_without_conflict.htm)

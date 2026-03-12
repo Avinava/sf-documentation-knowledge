@@ -5,11 +5,14 @@ topic: connectapicontenthubpermissiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.451Z
-keywords: [ConnectApi.ContentHubPermissionType, See]
+lastCollected: 2026-03-12T05:14:26.827Z
+estimatedTokens: 123
+keywords: [ConnectApi.ContentHubPermissionType, permission, type.]
 ---
 
 # ConnectApi.ContentHubPermissionType
+
+> A permission type.
 
 # ConnectApi.ContentHubPermissionType
 
@@ -23,3 +26,8 @@ A permission type.
 #### See Also
 
 -   [ConnectApi.ExternalFilePermissionInformation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_file_permission_information.htm "External file permission information.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ExternalFilePermissionInformation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_file_permission_information.htm)

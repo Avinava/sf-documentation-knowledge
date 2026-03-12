@@ -5,11 +5,14 @@ topic: connectapimanagedcontentdocumentcloneinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.277Z
-keywords: [ConnectApi.ManagedContentDocumentCloneInput, See]
+lastCollected: 2026-03-12T05:14:25.092Z
+estimatedTokens: 253
+keywords: [ConnectApi.ManagedContentDocumentCloneInput, Managed, content, clone, input.]
 ---
 
 # ConnectApi.ManagedContentDocumentCloneInput
+
+> Managed content clone input.
 
 # ConnectApi.ManagedContentDocumentCloneInput
 
@@ -25,3 +28,9 @@ Managed content clone input.
 #### See Also
 
 -   [cloneManagedContentDocument(contentKeyOrId, ManagedContentCloneInputParam)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_cloneManagedContentDocument_1 "Clone a piece of managed content.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- cloneManagedContentDocument(contentKeyOrId, ManagedContentCloneInputParam) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)

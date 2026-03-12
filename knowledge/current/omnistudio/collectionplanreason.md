@@ -5,11 +5,16 @@ topic: collectionplanreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.868Z
-keywords: [CollectionPlanReason, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.799Z
+estimatedTokens: 963
+keywords: [CollectionPlanReason, Represents, reason, initiating, collection, process, including, non-payment, bills, bankruptcy, outstanding, invoices, deceased, account, holders., API, version, 63.0, later., Supported]
 ---
 
 # CollectionPlanReason
+
+> Represents the reason for initiating the collection process, including
+         non-payment of bills, bankruptcy, outstanding invoices, and deceased account holders.
+      This object is available in API version 63.0 and later.
 
 # CollectionPlanReason
 
@@ -50,3 +55,10 @@ Sharing rules are available for the object.
 [CollectionPlanReasonShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- CollectionPlanReasonChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CollectionPlanReasonHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- CollectionPlanReasonOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- CollectionPlanReasonShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

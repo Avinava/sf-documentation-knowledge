@@ -5,11 +5,15 @@ topic: decision-table-outcome-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.318Z
-keywords: [Decision, Table, Outcome, Item]
+lastCollected: 2026-03-12T05:14:50.015Z
+estimatedTokens: 120
+keywords: [Decision, Table, Outcome, Item, Output, representation, decision, table, outcome, item.]
 ---
 
 # Decision Table Outcome Item
+
+> Output representation of the decision table outcome
+    item.
 
 # Decision Table Outcome Item
 

@@ -6,12 +6,16 @@ topic: type-resolution-and-system-namespace-for-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.608Z
-keywords: [Type, Resolution, System, Namespace, Types]
+lastCollected: 2026-03-12T05:14:32.643Z
+estimatedTokens: 203
+keywords: [Resolution, System, Types, T1.T2, could, mean, inner, top-level, order, precedence]
 ---
 
 # Type Resolution and System Namespace for
 Types
+
+> For the type T1.T2 this
+could mean an inner type T2 in a top-level class T1, or it could mean a top-level class T2 in the namespace T1 (in that order of precedence).
 
 # Type Resolution and System Namespace for Types
 
@@ -25,3 +29,7 @@ Because the type system must resolve user-defined types defined locally or in ot
 For the type T1.T2 this could mean an inner type T2 in a top-level class T1, or it could mean a top-level class T2 in the namespace T1 (in that order of precedence).
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_namespace_precedence.htm "Namespace, Class, and Variable Name Precedence")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_namespace_precedence.htm)

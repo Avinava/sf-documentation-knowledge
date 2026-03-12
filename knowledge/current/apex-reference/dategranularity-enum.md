@@ -5,11 +5,17 @@ topic: dategranularity-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.523Z
-keywords: [DateGranularity, Enum, Namespace, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.695Z
+estimatedTokens: 274
+namespace: Reports
+keywords: [DateGranularity, Reports.DateGranularity, describes, date, interval, used, grouping., Usage, Values]
 ---
 
 # DateGranularity Enum
+
+> The Reports.DateGranularity enum describes the date interval that is used for grouping.
+
+**Namespace:** `Reports`
 
 # DateGranularity Enum
 
@@ -41,3 +47,7 @@ The following are the values of the Reports.DateGranularity enum.
 | QUARTER | The quarter number (1–4) |
 | WEEK | The week number (1–52) |
 | YEAR | The year number (####) |
+
+## Related Topics
+
+- Reports (atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm)

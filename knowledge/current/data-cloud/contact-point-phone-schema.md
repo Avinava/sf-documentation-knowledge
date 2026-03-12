@@ -5,11 +5,15 @@ topic: contact-point-phone-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.231Z
-keywords: [Contact, Point, Phone, Schema]
+lastCollected: 2026-03-12T05:14:12.185Z
+estimatedTokens: 420
+keywords: [Contact, Point, Phone, Schema, contact, point, phone, schema, capture, profile, data, map, individual, streams.]
 ---
 
 # Contact Point Phone Schema
+
+> Use the contact point phone schema to capture profile data to map to individual data
+    streams.
 
 # Contact Point Phone Schema
 
@@ -27,3 +31,7 @@ Use the contact point phone schema to capture profile data to map to individual 
 | phoneNumber | phoneNumber | text | Required. The phone number for the customer. | Contact Point Phone |
 | <Automatically Assigned when Location Tracking is allowed> | longitude | number | The longitudinal coordinate in decimal degrees reported by the device at the time the event was captured. | Engagement / Device Longitude |
 | <Automatically Assigned when Location Tracking is allowed> | latitude | number | The latitudinal coordinate in decimal degrees reported by the device at the time the event was captured. | Engagement / Device Latitude |
+
+## Related Topics
+
+- Location Tracking (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_location_tracking.htm)

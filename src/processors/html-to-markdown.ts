@@ -3,6 +3,10 @@
  *
  * Uses Turndown to convert HTML content from the Atlas API into
  * clean, structured Markdown suitable for LLM consumption.
+ *
+ * KEY DESIGN: Processes each raw page as a SINGLE document (page-level),
+ * preserving class-level descriptions, usage notes, code examples,
+ * and conceptual guidance. Does NOT fragment pages into one-topic-per-file.
  */
 import TurndownService from "turndown";
 import { JSDOM } from "jsdom";
@@ -22,15 +26,47 @@ function createTurndown(): TurndownService {
   // Remove script/style tags
   td.remove(["script", "style", "nav", "footer", "header"]);
 
-  // Custom rule for code blocks
+  // Custom rule for code blocks — preserve language hints
   td.addRule("codeBlock", {
     filter: (node) =>
       node.nodeName === "PRE" && node.querySelector("code") !== null,
     replacement: (_content, node) => {
       const code = (node as HTMLElement).querySelector("code");
-      const lang = code?.className?.replace("language-", "") || "";
+      let lang = code?.className?.replace("language-", "") || "";
       const text = code?.textContent || "";
+
+      // Auto-detect Apex code
+      if (!lang && looksLikeApex(text)) {
+        lang = "apex";
+      }
+
       return `\n\`\`\`${lang}\n${text.trim()}\n\`\`\`\n`;
+    },
+  });
+
+  // Salesforce-specific: preserve note/important/warning callout boxes
+  td.addRule("sfCallout", {
+    filter: (node) => {
+      const el = node as HTMLElement;
+      const cls = el.className || "";
+      return (
+        el.nodeName === "DIV" &&
+        (cls.includes("note") ||
+          cls.includes("important") ||
+          cls.includes("warning") ||
+          cls.includes("tip") ||
+          cls.includes("caution"))
+      );
+    },
+    replacement: (content, node) => {
+      const el = node as unknown as HTMLElement;
+      const cls = el.className || "";
+      let prefix = "📝 **Note**";
+      if (cls.includes("important")) prefix = "⚠️ **Important**";
+      if (cls.includes("warning")) prefix = "🚨 **Warning**";
+      if (cls.includes("tip")) prefix = "💡 **Tip**";
+      if (cls.includes("caution")) prefix = "⚠️ **Caution**";
+      return `\n> ${prefix}: ${content.trim()}\n`;
     },
   });
 
@@ -50,7 +86,7 @@ function createTurndown(): TurndownService {
     replacement: (_content, node) => {
       try {
         const el = node as unknown as HTMLElement;
-        if (!el.querySelectorAll) return _content; // fallback: use turndown's default
+        if (!el.querySelectorAll) return _content;
 
         const rowNodeList = el.querySelectorAll("tr");
         const rows = Array.from(rowNodeList);
@@ -79,7 +115,6 @@ function createTurndown(): TurndownService {
         if (lines.length === 0) return _content;
         return "\n" + lines.join("\n") + "\n";
       } catch (err) {
-        // If table processing fails, return the raw content rather than crashing
         log.debug({ err }, "Table processing fallback");
         return _content;
       }
@@ -100,6 +135,12 @@ export interface ParsedDocument {
   sourceId: string;
   /** Sections extracted from the document */
   sections: ParsedSection[];
+  /** Code examples extracted from the content */
+  codeExamples: string[];
+  /** Namespace if detected */
+  namespace: string;
+  /** Cross-references to other docs pages */
+  crossReferences: string[];
 }
 
 export interface ParsedSection {
@@ -110,6 +151,9 @@ export interface ParsedSection {
 
 /**
  * Process a raw Atlas API JSON response into structured Markdown.
+ *
+ * PAGE-LEVEL processing: treats the entire page as a single document,
+ * preserving all descriptive content, code examples, and usage guidance.
  */
 export function processAtlasContent(rawData: {
   id: string;
@@ -118,7 +162,6 @@ export function processAtlasContent(rawData: {
   [key: string]: unknown;
 }): ParsedDocument[] {
   const td = createTurndown();
-  const documents: ParsedDocument[] = [];
 
   // Clean the HTML content
   let html = rawData.content;
@@ -128,59 +171,205 @@ export function processAtlasContent(rawData: {
   const dom = new JSDOM(html);
   const doc = dom.window.document;
 
-  // Look for .topic elements (Salesforce doc structure)
-  const topics = doc.querySelectorAll(".topic");
+  // Extract page-level title from the first heading or raw title
+  const pageTitle =
+    doc.querySelector("h1, h2, .title, .titlecodeph")?.textContent?.trim() ||
+    rawData.title ||
+    rawData.id;
 
-  if (topics.length > 0) {
-    topics.forEach((topic) => {
-      const title =
-        topic.querySelector(".titlecodeph")?.textContent?.trim() ||
-        topic.querySelector("h1, h2, .title")?.textContent?.trim() ||
-        rawData.title ||
-        rawData.id;
+  // Extract page-level short description
+  const shortDesc = extractShortDescription(doc);
 
-      const shortDesc =
-        topic.querySelector("#shortdesc, .shortdesc")?.textContent?.trim() ||
-        "";
+  // Extract namespace from content if present
+  const namespace = extractNamespace(doc);
 
-      // Convert the topic HTML to markdown
-      const markdown = td.turndown(topic.innerHTML);
+  // Extract code examples before converting to markdown
+  const codeExamples = extractCodeExamples(doc);
 
-      // Extract sections
-      const sections = extractSections(markdown);
+  // Extract cross-references (links to other doc pages)
+  const crossReferences = extractCrossReferences(doc);
 
-      documents.push({
-        title,
-        shortDescription: shortDesc,
-        content: markdown,
-        sourceId: rawData.id,
-        sections,
-      });
-    });
-  } else {
-    // Fallback: treat entire content as one document
-    const title =
-      doc.querySelector("h1, h2, .title")?.textContent?.trim() ||
-      rawData.title ||
-      rawData.id;
+  // Convert the ENTIRE page to markdown (not per-topic)
+  const fullMarkdown = td.turndown(html);
 
-    const markdown = td.turndown(html);
-    const sections = extractSections(markdown);
+  // Clean up the markdown — remove excessive whitespace and empty headings
+  const cleanedMarkdown = cleanMarkdown(fullMarkdown);
 
-    documents.push({
-      title: title || rawData.id,
-      shortDescription: "",
-      content: markdown,
-      sourceId: rawData.id,
-      sections,
-    });
-  }
+  // Extract sections from the final markdown
+  const sections = extractSections(cleanedMarkdown);
+
+  const document: ParsedDocument = {
+    title: pageTitle,
+    shortDescription: shortDesc,
+    content: cleanedMarkdown,
+    sourceId: rawData.id,
+    sections,
+    codeExamples,
+    namespace,
+    crossReferences,
+  };
 
   log.debug(
-    { sourceId: rawData.id, documentCount: documents.length },
-    "Processed content",
+    {
+      sourceId: rawData.id,
+      title: pageTitle,
+      sectionCount: sections.length,
+      codeExampleCount: codeExamples.length,
+      contentLength: cleanedMarkdown.length,
+    },
+    "Processed page-level content",
   );
-  return documents;
+
+  // Return as a single-element array (one document per page)
+  return [document];
+}
+
+/** Extract the page-level short description */
+function extractShortDescription(doc: Document): string {
+  // Try multiple Salesforce-specific selectors
+  const selectors = [
+    "#shortdesc",
+    ".shortdesc",
+    ".body > .shortdesc",
+    'p[class*="shortdesc"]',
+  ];
+
+  for (const selector of selectors) {
+    const el = doc.querySelector(selector);
+    if (el?.textContent?.trim()) {
+      return el.textContent.trim();
+    }
+  }
+
+  // Fallback: first <p> in the body that has meaningful content
+  const firstP = doc.querySelector(".body p, .topic p, p");
+  if (firstP?.textContent?.trim() && firstP.textContent.trim().length > 20) {
+    return firstP.textContent.trim().slice(0, 300);
+  }
+
+  return "";
+}
+
+/** Extract namespace from Salesforce class documentation */
+function extractNamespace(doc: Document): string {
+  // Look for .namespace elements first (most reliable)
+  const nsEl = doc.querySelector(".namespace");
+  if (nsEl?.textContent?.trim()) {
+    return nsEl.textContent.trim();
+  }
+
+  // Look for codeph elements near "Namespace" text
+  const codeEls = doc.querySelectorAll("samp.codeph, code");
+  for (const el of Array.from(codeEls)) {
+    const text = el.textContent?.trim() || "";
+    // Check if this code element is near a "Namespace" heading/label
+    const parent = el.parentElement;
+    const parentText = parent?.textContent || "";
+    if (
+      parentText.toLowerCase().includes("namespace") &&
+      /^[A-Z][a-zA-Z]+(\.[A-Z][a-zA-Z]+)*$/.test(text)
+    ) {
+      return text;
+    }
+  }
+
+  // Fallback: look for "Namespace\n<ProperName>" pattern
+  const allText = doc.body?.textContent || "";
+  const nsMatch = allText.match(
+    /Namespace\s*\n\s*([A-Z][a-zA-Z]+(?:\.[A-Z][a-zA-Z]+)*)\b/,
+  );
+  if (nsMatch?.[1]) {
+    return nsMatch[1];
+  }
+
+  return "";
+}
+
+/** Extract code examples from the HTML before conversion */
+function extractCodeExamples(doc: Document): string[] {
+  const examples: string[] = [];
+
+  // Look for <pre> elements with code
+  const preElements = doc.querySelectorAll("pre");
+  preElements.forEach((pre) => {
+    const code = pre.querySelector("code");
+    const text = (code || pre).textContent?.trim() || "";
+    if (text.length > 10) {
+      examples.push(text);
+    }
+  });
+
+  // Also look for .codeblock elements (Salesforce-specific)
+  const codeBlocks = doc.querySelectorAll(".codeblock");
+  codeBlocks.forEach((block) => {
+    const text = block.textContent?.trim() || "";
+    if (text.length > 10 && !examples.includes(text)) {
+      examples.push(text);
+    }
+  });
+
+  return examples;
+}
+
+/** Extract cross-references to other documentation pages */
+function extractCrossReferences(doc: Document): string[] {
+  const refs: string[] = [];
+  const links = doc.querySelectorAll("a[href]");
+
+  links.forEach((link) => {
+    const href = (link as HTMLAnchorElement).getAttribute("href") || "";
+    // Only capture internal SF docs links (relative links or atlas links)
+    if (
+      href.includes(".htm") &&
+      !href.startsWith("http") &&
+      !href.startsWith("#")
+    ) {
+      const title = link.textContent?.trim() || "";
+      if (title && title.length > 2) {
+        const ref = `${title} (${href.split("#")[0]})`;
+        if (!refs.includes(ref)) {
+          refs.push(ref);
+        }
+      }
+    }
+  });
+
+  return refs.slice(0, 20); // Limit to 20 most relevant
+}
+
+/** Clean up markdown — remove excessive whitespace and noise */
+function cleanMarkdown(markdown: string): string {
+  return (
+    markdown
+      // Collapse 3+ consecutive newlines into 2
+      .replace(/\n{3,}/g, "\n\n")
+      // Remove empty headings (just # with no text)
+      .replace(/^#{1,6}\s*$/gm, "")
+      // Fix double-escaped pipes in tables
+      .replace(/\\\\\|/g, "\\|")
+      // Trim trailing whitespace on each line
+      .replace(/[^\S\n]+$/gm, "")
+      .trim()
+  );
+}
+
+/** Detect if code looks like Apex */
+function looksLikeApex(code: string): boolean {
+  const apexPatterns = [
+    /\bpublic\s+(static\s+)?/,
+    /\bprivate\s+(static\s+)?/,
+    /\bglobal\s+(static\s+)?/,
+    /\bSystem\./,
+    /\bDatabase\./,
+    /\bList<\w+>/,
+    /\bMap<\w+/,
+    /\bSchema\./,
+    /\bApexPages\./,
+    /\bTest\./,
+    /\b@isTest/i,
+    /\bSObject\b/,
+  ];
+  return apexPatterns.some((p) => p.test(code));
 }
 
 /** Extract section headings and their content from markdown */

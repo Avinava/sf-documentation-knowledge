@@ -5,11 +5,15 @@ topic: lists-of-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.282Z
-keywords: [Lists, sObjects, Auto-populating, List, SOQL, Query, Adding, Retrieving, Elements, Bulk, Processing, Note, Record, Generation, Array, Notation, One-Dimensional]
+lastCollected: 2026-03-12T05:14:33.601Z
+estimatedTokens: 777
+keywords: [Lists, sObjects, contain, among, types, elements., used, bulk, processing, data., Auto-populating, List, SOQL, Query, Adding, Retrieving, Elements, Bulk, Processing, Note]
 ---
 
 # Lists of sObjects
+
+> Lists can contain sObjects among other types of elements.
+Lists of sObjects can be used for bulk processing of data.
 
 # Lists of sObjects
 
@@ -88,3 +92,52 @@ These examples also use the array notation with sObject lists.
 | List<Account> accts = new Account[]{}; | Defines an Account list with no elements. |
 | List<Account> accts = new Account[]          {new Account(), null, new Account()}; | Defines an Account list with memory allocated for three Accounts: a new Account object in the first position, null in the second, and another new Account object in the third. |
 | List<Contact> contacts = new List<Contact>                                   (otherList); | Defines the Contact list with a new list. |
+
+## Code Examples
+
+```apex
+// Create an empty list of Accounts
+List<Account> myList = new List<Account>();
+```
+
+```apex
+// Create a list of account records from a SOQL query
+List<Account> accts = [SELECT Id, Name FROM Account LIMIT 1000];
+```
+
+```apex
+List<Account> myList = new List<Account>(); // Define a new list
+Account a = new Account(Name='Acme'); // Create the account first
+myList.add(a);                    // Add the account sObject
+Account a2 = myList.get(0);      // Retrieve the element at index 0
+```
+
+```apex
+// Define the list
+List<Account> acctList = new List<Account>(); 
+// Create account sObjects
+Account a1 = new Account(Name='Account1'); 
+Account a2 = new Account(Name='Account2'); 
+// Add accounts to the list
+acctList.add(a1);
+acctList.add(a2);
+// Bulk insert the list
+insert acctList;
+```
+
+```apex
+try {
+
+   // Create a list with two references to the same sObject element
+   Account a = new Account();
+   List<Account> accs = new List<Account>{a, a};
+
+   // Attempt to insert it...
+   insert accs;
+
+   // Will not get here
+   System.assert(false);
+} catch (ListException e) {
+   // But will get here
+}
+```

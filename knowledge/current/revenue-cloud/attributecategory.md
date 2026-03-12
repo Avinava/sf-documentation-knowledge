@@ -5,11 +5,17 @@ topic: attributecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.642Z
-keywords: [AttributeCategory, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:09.626Z
+estimatedTokens: 796
+keywords: [AttributeCategory, Represents, logical, grouping, attributes, reused, while, defining, products., Attribute, Categories, used, searching, managing, product, attributes., example, "Mobile, Handset, Properties"]
 ---
 
 # AttributeCategory
+
+> Represents a logical grouping of attributes that can be reused while defining
+         products. Attribute Categories are used for searching and managing product attributes. For
+         example, the "Mobile Handset Properties" category has color, storage and make model, and
+         size attributes. This object is available in API version 60.0 and later.
 
 # AttributeCategory
 
@@ -49,3 +55,9 @@ History is available for tracked fields of the object.
 [AttributeCategoryShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- AttributeCategoryFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- AttributeCategoryHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- AttributeCategoryShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

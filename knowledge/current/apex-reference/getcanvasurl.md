@@ -5,11 +5,15 @@ topic: getcanvasurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.089Z
-keywords: [getCanvasUrl, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.306Z
+estimatedTokens: 110
+keywords: [getCanvasUrl, Retrieves, fully, qualified, URL, canvas, app., Usage]
 ---
 
 # getCanvasUrl()
+
+> Retrieves the fully qualified URL of
+the canvas app.
 
 # getCanvasUrl()
 
@@ -26,3 +30,7 @@ Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#a
 ## Usage
 
 Use this method to get the URL of the canvas app, for example: http://instance.salesforce.com:8080/canvas\_app\_path/canvas\_app.jsp.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

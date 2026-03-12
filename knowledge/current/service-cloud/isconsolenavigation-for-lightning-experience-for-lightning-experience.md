@@ -6,12 +6,16 @@ topic: isconsolenavigation-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.252Z
-keywords: [isConsoleNavigation, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.805Z
+estimatedTokens: 230
+keywords: [isConsoleNavigation, Lightning, Experience, Determines, whether, app, it’s, used, within, uses, console, navigation., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample]
 ---
 
 # isConsoleNavigation() for Lightning Experience for
                 Lightning Experience
+
+> Determines whether the app it’s used within uses console navigation. This method
+        isn’t supported for Lightning Web Components (LWC).
 
 # isConsoleNavigation() for Lightning Experience for Lightning Experience
 
@@ -42,3 +46,31 @@ Controller code:
 ## Response
 
 If the current app uses console navigation, this method returns a promise that resolves to true when successful, or false otherwise.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Is Console Navigation?" onclick="{! c.handleIsConsoleNavigation }" />
+</aura:component>
+```
+
+```
+({
+    handleIsConsoleNavigation : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.isConsoleNavigation().then(function(response) {
+            console.log(response);
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- IsConsoleNavigation context
+                    wire adapter (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_isConsoleNavigation.htm)

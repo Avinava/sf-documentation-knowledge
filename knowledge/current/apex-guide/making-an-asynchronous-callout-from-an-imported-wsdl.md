@@ -5,11 +5,18 @@ topic: making-an-asynchronous-callout-from-an-imported-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.888Z
-keywords: [Making, Asynchronous, Callout, Imported, WSDL, Testing, WSDL-Based, Callouts]
+lastCollected: 2026-03-12T05:14:33.048Z
+estimatedTokens: 943
+keywords: [Making, Asynchronous, Callout, Imported, WSDL, addition, HttpRequest-based, callouts, asynchronous, supported, Web, service, calls, made, WSDL-generated, classes., process, making, similar, HttpRequest]
 ---
 
 # Making an Asynchronous Callout from an Imported WSDL
+
+> In addition to HttpRequest-based callouts,
+        asynchronous callouts are supported in Web service calls that are made from WSDL-generated
+        classes. The process of making asynchronous callouts from a WSDL-generated class is similar
+        to the process for using the HttpRequest
+        class.
 
 # Making an Asynchronous Callout from an Imported WSDL
 
@@ -59,4 +66,87 @@ This example is the test class that corresponds to the ContinuationSOAPControlle
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+public Continuation startRequest() {
+   Integer TIMEOUT_INT_SECS = 60;  
+   Continuation cont = new Continuation(TIMEOUT_INT_SECS);
+   cont.continuationMethod = 'processResponse';
+   
+   AsyncSOAPStockQuoteService.AsyncStockQuoteServiceSoap 
+      stockQuoteService = 
+        new AsyncSOAPStockQuoteService.AsyncStockQuoteServiceSoap();
+   stockQuoteFuture = stockQuoteService.beginStockQuote(cont,'CRM');    
+
+   return cont;   
+}
+```
+
+```apex
+public Object processResponse() {
+   result = stockQuoteFuture.getValue();
+   return null; 
+}
+```
+
+```apex
+public class ContinuationSOAPController {
+ 
+    AsyncSOAPStockQuoteService.GetStockQuoteResponse_elementFuture
+           stockQuoteFuture;
+    public String result {get;set;}
+
+    // Action method
+    public Continuation startRequest() {    
+       Integer TIMEOUT_INT_SECS = 60;  
+       Continuation cont = new Continuation(TIMEOUT_INT_SECS);
+       cont.continuationMethod = 'processResponse';
+       
+       AsyncSOAPStockQuoteService.AsyncStockQuoteServiceSoap 
+          stockQuoteService = 
+            new AsyncSOAPStockQuoteService.AsyncStockQuoteServiceSoap();
+           stockQuoteFuture = stockQuoteService.beginGetStockQuote(cont,'CRM');     
+       return cont;   
+    }    
+    
+    // Callback method
+    public Object processResponse() {    
+       result = stockQuoteFuture.getValue();
+       // Return null to re-render the original Visualforce page
+       return null; 
+    }
+}
+```
+
+```
+<apex:page controller="ContinuationSOAPController" showChat="false" showHeader="false">
+   <apex:form >      
+      <!-- Invokes the action method when the user clicks this button. -->
+      <apex:commandButton action="{!startRequest}" 
+              value="Start Request" reRender="result"/> 
+   </apex:form>
+
+   <!-- This output text component displays the callout response body. -->
+   <apex:outputText value="{!result}" />
+</apex:page>
+```
+
+```apex
+public class AsyncSOAPStockQuoteServiceMockImpl implements WebServiceMock {
+    public void doInvoke(
+        Object stub, 
+        Object request, 
+        Map<String, Object> response,
+        String endpoint, 
+        String soapAction, 
+        String requestName,
+        String responseNS, 
+        String responseName, 
+        String responseType) {
+        // do nothing
+    }
+}
 ```

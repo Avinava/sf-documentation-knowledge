@@ -5,11 +5,17 @@ topic: filter-soql-queries-using-with-securityenforced
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.676Z
-keywords: [Filter, SOQL, Queries, SECURITY_ENFORCED, SECURITY, _ENFORCED, Important, Note, Example]
+lastCollected: 2026-03-12T05:14:32.746Z
+estimatedTokens: 1256
+keywords: [Filter, SOQL, Queries, SECURITY_ENFORCED, clause, enable, field-, object-level, security, permissions, checking, SELECT, queries, Apex, code, including, subqueries, cross-object, relationships., SECURITY]
 ---
 
 # Filter SOQL Queries Using WITH SECURITY_ENFORCED
+
+> Use the WITH SECURITY_ENFORCED clause to enable
+    field- and object-level security permissions checking for SOQL
+      SELECT queries in Apex code, including subqueries and cross-object
+    relationships.
 
 # Filter SOQL Queries Using WITH SECURITY\_ENFORCED
 
@@ -52,11 +58,11 @@ There are some restrictions while querying polymorphic lookup fields using WITH 
 
 -   Traversing a polymorphic field’s relationship is not supported in queries using WITH SECURITY\_ENFORCED. For example, you cannot use WITH SECURITY\_ENFORCED in this query, which returns the Id and Owner names for User and Calendar entities: SELECT Id, What.Name FROM Event WHERE What.Type IN (’User’,’Calendar’).
 -   Using TYPEOF expressions with an ELSE clause is not supported in queries using WITH SECURITY\_ENFORCED. TYPEOF is used in a SELECT query to specify the fields to be returned for a given type of a polymorphic relationship. For example, you cannot use WITH SECURITY\_ENFORCED in this query. The query specifies certain fields to be returned for Account and Opportunity objects, and Name and Email fields to be returned for all other objects.
-    
+
     ```
-    
+
     ```
-    
+
 -   The Owner, CreatedBy, and LastModifiedBy polymorphic lookup fields are exempt from this restriction, and do allow polymorphic relationship traversal.
 -   For AppExchange Security Review, you must use API version 48.0 or later when using WITH SECURITY\_ENFORCED. You cannot use API versions where the feature was in beta or pilot.
 
@@ -87,3 +93,41 @@ If field access for Type is hidden, this aggregate function query throws an exce
 ```
 
 ```
+
+## Code Examples
+
+```apex
+List<Account> act1 = [SELECT Id, (SELECT LastName FROM Contacts)
+   FROM Account WHERE Name like 'Acme' WITH SECURITY_ENFORCED]
+```
+
+```
+SELECT 
+TYPE OF What 
+   WHEN Account THEN Phone 
+   WHEN Opportunity THEN Amount 
+   ELSE Name,Email 
+END 
+FROM Event
+```
+
+```apex
+List<Account> act1 = [SELECT Id, (SELECT LastName FROM Contacts), 
+   (SELECT Description FROM Opportunities)
+   FROM Account WITH SECURITY_ENFORCED]
+```
+
+```apex
+List<Account> act2 = [SELECT Id, parent.Name, parent.Website 
+   FROM Account WITH SECURITY_ENFORCED]
+```
+
+```apex
+List<AggregateResult> agr1 = [SELECT GROUPING(Type) 
+   FROM Opportunity WITH SECURITY_ENFORCED 
+   GROUP BY Type]
+```
+
+## Related Topics
+
+- Enforce User Mode for Database Operations (atlas.en-us.apexcode.meta/apexcode/apex_classes_enforce_usermode.htm)

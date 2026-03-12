@@ -5,11 +5,18 @@ topic: reading-and-writing-xml-using-the-dom
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.783Z
-keywords: [Reading, Writing, XML, DOM, Namespaces, Document, Example, Nodes, XmlNode, See]
+lastCollected: 2026-03-12T05:14:34.247Z
+estimatedTokens: 1069
+namespace: Dom
+keywords: [Reading, Writing, XML, DOM, Apex, provides, classes, enable, work, content, Document, Model, Namespaces, Example, Nodes, XmlNode]
 ---
 
 # Reading and Writing XML Using the DOM
+
+> Apex provides classes that enable you to work with XML content using the DOM
+        (Document Object Model).
+
+**Namespace:** `Dom`
 
 # Reading and Writing XML Using the DOM
 
@@ -89,3 +96,64 @@ This example shows how to use XmlNode methods and namespaces to create an XML re
 #### See Also
 
 -   [*Apex Reference Guide*: Document Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_classes_xml_dom_document.htm "Apex Reference Guide: Document Class - HTML (New Window)")
+
+## Code Examples
+
+```
+<sampleElement xmlns:myprefix="http://my.name.space" />
+```
+
+```
+<square dimension="2" ns1:example="ns2:test" xmlns:ns1="http://ns1" xmlns:ns2="http://ns2" />
+```
+
+```
+<address>
+    <name>Kirk Stevens</name>
+    <street1>808 State St</street1>
+    <street2>Apt. 2</street2>
+    <city>Palookaville</city>
+    <state>PA</state>
+    <country>USA</country>
+</address>
+```
+
+```apex
+public class DomDocument {
+ 
+    // Pass in the URL for the request
+    // For the purposes of this sample,assume that the URL
+    // returns the XML shown above in the response body
+    public void parseResponseDom(String url){
+        Http h = new Http();
+        HttpRequest req = new HttpRequest();
+        // url that returns the XML in the response body
+        req.setEndpoint(url);
+        req.setMethod('GET');
+        HttpResponse res = h.send(req);
+        Dom.Document doc = res.getBodyDocument();
+        
+        //Retrieve the root element for this document.
+        Dom.XMLNode address = doc.getRootElement();
+        
+        String name = address.getChildElement('name', null).getText();
+        String state = address.getChildElement('state', null).getText();
+        // print out specific elements
+        System.debug('Name: ' + name);
+        System.debug('State: ' + state);
+        
+        // Alternatively, loop through the child elements.
+        // This prints out all the elements of the address
+        for(Dom.XMLNode child : address.getChildElements()) {
+           System.debug(child.getText());
+        }
+    }
+}
+```
+
+```
+<name>
+    <firstName>Suvain</firstName>
+    <lastName>Singh</lastName>
+</name>
+```

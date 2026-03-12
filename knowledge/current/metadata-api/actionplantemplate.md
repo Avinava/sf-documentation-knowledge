@@ -5,11 +5,15 @@ topic: actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.312Z
-keywords: [ActionPlanTemplate, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ActionPlanTemplateItem, ActionPlanTemplateItemDependency, ActionPlanTemplateItemValue, Declarative, Metadata, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:36.573Z
+estimatedTokens: 1427
+keywords: [ActionPlanTemplate, Represents, instance, action, plan, template., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ActionPlanTemplateItem, ActionPlanTemplateItemDependency, ActionPlanTemplateItemValue, Declarative]
 ---
 
 # ActionPlanTemplate
+
+> Represents the instance of an action plan
+    template.
 
 # ActionPlanTemplate
 
@@ -103,3 +107,153 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionPlanTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <name>Subject</name>
+            <valueLiteral>APT 01 Account Packaging APTI 01</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <name>Priority</name>
+            <valueLiteral>Normal</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <name>ActivityDate</name>
+            <valueFormula>StartDate + 10</valueFormula>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <displayOrder>1</displayOrder>
+        <isRequired>true</isRequired>
+        <itemEntityType>Task</itemEntityType>
+        <name>APT 01 Account Packaging APTI 01</name>
+        <uniqueName>APT_01_Account_Packaging_APTI_01_2827f387_9dbc_11e9_920a_e95716848ddd</uniqueName>
+    </actionPlanTemplateItem>
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <name>Subject</name>
+            <valueLiteral>APT 01 Account Packaging APTI 02</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <name>Priority</name>
+            <valueLiteral>Normal</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <name>ActivityDate</name>
+            <valueFormula>StartDate + 10</valueFormula>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <displayOrder>1</displayOrder>
+        <isRequired>true</isRequired>
+        <itemEntityType>Task</itemEntityType>
+        <name>APT 01 Account Packaging APTI 02</name>
+        <uniqueName>APT_01_Account_Packaging_APTI_02_3430da7b_9dbc_11e9_920a_b5d3292906c3</uniqueName>
+    </actionPlanTemplateItem>
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <name>Subject</name>
+            <valueLiteral>APT 01 Account Packaging APTI 03</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <name>Priority</name>
+            <valueLiteral>Normal</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <name>ActivityDate</name>
+            <valueFormula>StartDate + 10</valueFormula>
+            <itemEntityType>Task</itemEntityType>
+        </actionPlanTemplateItemValue>
+        <displayOrder>1</displayOrder>
+        <isRequired>true</isRequired>
+        <itemEntityType>Task</itemEntityType>
+        <name>APT 01 Account Packaging APTI 03</name>
+        <uniqueName>APT_01_Account_Packaging_APTI_03_2d0363d9_9dbc_11e9_920a_219a003f176d</uniqueName>
+    </actionPlanTemplateItem>
+    <actionPlanTemplateItemDependencies>
+        <name>APT Task Dependency</name>
+        <creationType>OnPreviousItemCompleted</creationType>
+        <previousTemplateItem>
+            <actionPlanTemplateItemValue>
+                <name>Subject</name>
+                    <valueLiteral>APT 01 Account Packaging APTI 01</valueLiteral>
+                    <itemEntityType>Task</itemEntityType>
+                </actionPlanTemplateItemValue>
+                <actionPlanTemplateItemValue>
+                    <name>Priority</name>
+                    <valueLiteral>Normal</valueLiteral>
+                    <itemEntityType>Task</itemEntityType>
+                </actionPlanTemplateItemValue>
+                <actionPlanTemplateItemValue>
+                    <name>ActivityDate</name>
+                    <valueFormula>StartDate + 10</valueFormula>
+                    <itemEntityType>Task</itemEntityType>
+            </actionPlanTemplateItemValue>
+            <displayOrder>1</displayOrder>
+            <isRequired>true</isRequired>
+            <itemEntityType>Task</itemEntityType>
+            <name>APT 01 Account Packaging APTI 01</name>
+            <uniqueName>APT_01_Account_Packaging_APTI_01_2827f387_9dbc_11e9_920a_e95716848ddd</uniqueName>
+        </previousTemplateItem>
+        <templateItem>
+            <actionPlanTemplateItemValue>
+            <name>Subject</name>
+            <valueLiteral>APT 01 Account Packaging APTI 02</valueLiteral>
+            <itemEntityType>Task</itemEntityType>
+            </actionPlanTemplateItemValue>
+            <actionPlanTemplateItemValue>
+                <name>Priority</name>
+                <valueLiteral>Normal</valueLiteral>
+                <itemEntityType>Task</itemEntityType>
+            </actionPlanTemplateItemValue>
+            <actionPlanTemplateItemValue>
+                <name>ActivityDate</name>
+                <valueFormula>StartDate + 10</valueFormula>
+                <itemEntityType>Task</itemEntityType>
+            </actionPlanTemplateItemValue>
+            <displayOrder>1</displayOrder>
+            <isRequired>true</isRequired>
+            <itemEntityType>Task</itemEntityType>
+            <name>APT 01 Account Packaging APTI 02</name>
+            <uniqueName>APT_01_Account_Packaging_APTI_02_3430da7b_9dbc_11e9_920a_b5d3292906c3</uniqueName>
+        </templateItem>
+    </actionPlanTemplateItemDependencies>
+    <description>APT 01 Account Packaging Description</description>
+    <name>APT 01 Account Packaging</name>
+    <targetEntityType>Account</targetEntityType>
+    <actionPlanType>Industries</actionPlanType>
+    <uniqueName>APT_01_Account_Packaging_0c9e8b15_9dbc_11e9_920a_8d6ecf990219</uniqueName>
+    <isAdHocItemCreationEnabled>false</isAdHocItemCreationEnabled>
+    <category>Onboarding</category>
+    <subcategory>OnBoarding Product</subcategory>
+    <estimatedCompletionDays>4</estimatedCompletionDays>
+    <sourceType>Migrated From SandBox</sourceType>
+    <fileBasedTemplatePath>Action Plan Template</fileBasedTemplatePath>
+    <status>Draft</status>
+</ActionPlanTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ActionPlanTemplate</name>
+    </types>
+    <version>47.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)

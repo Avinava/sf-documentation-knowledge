@@ -5,11 +5,14 @@ topic: connectapicommunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.391Z
-keywords: [ConnectApi.Community, See]
+lastCollected: 2026-03-12T05:14:26.735Z
+estimatedTokens: 747
+keywords: [ConnectApi.Community, Experience, Cloud, site.]
 ---
 
 # ConnectApi.Community
+
+> Experience Cloud site.
 
 # ConnectApi.Community
 
@@ -45,3 +48,9 @@ Experience Cloud site.
 #### See Also
 
 -   [ConnectApi.CommunityPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_communityPage.htm "Page of Experience Cloud sites.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.CommunityPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_communityPage.htm)

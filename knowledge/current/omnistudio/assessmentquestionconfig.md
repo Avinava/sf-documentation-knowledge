@@ -5,11 +5,15 @@ topic: assessmentquestionconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.324Z
-keywords: [AssessmentQuestionConfig, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:54.551Z
+estimatedTokens: 528
+keywords: [AssessmentQuestionConfig, Represents, assessment, question, record, metadata, configuration., API, version, 56.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # AssessmentQuestionConfig
+
+> Represents the assessment question record metadata
+         configuration. This object is available in API version 56.0 and later.
 
 # AssessmentQuestionConfig
 

@@ -5,11 +5,16 @@ topic: duplicatejobmatchingruledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.645Z
-keywords: [DuplicateJobMatchingRuleDefinition, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.201Z
+estimatedTokens: 157
+keywords: [DuplicateJobMatchingRuleDefinition, Setup, specifying, MatchingRule, DuplicateJob, instances, share, DuplicateJobDefinition., Tooling, API, version, 42.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # DuplicateJobMatchingRuleDefinition
+
+> Setup object specifying a MatchingRule to
+        use with DuplicateJob instances that share a DuplicateJobDefinition. Available in
+            Tooling API version 42.0 and later.
 
 # DuplicateJobMatchingRuleDefinition
 

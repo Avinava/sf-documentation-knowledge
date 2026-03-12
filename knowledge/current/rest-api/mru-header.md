@@ -5,11 +5,17 @@ topic: mru-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:44:25.063Z
-keywords: [MRU, Header, Field, Name, Values, See]
+lastCollected: 2026-03-12T05:14:35.151Z
+estimatedTokens: 515
+keywords: [MRU, Header, Defines, record, created, updated, upserted, retrieved, updates, list, most, recently, used, items., items, shown, Recent, Items, section, sidebar]
 ---
 
 # MRU Header
+
+> Defines if the record that is created, updated, upserted, or retrieved updates the list
+  of most recently used (MRU) items. MRU items are shown in the Recent Items section of the sidebar
+  in the Salesforce user interface. This header is available in API version 60.0 and
+  later.
 
 # MRU Header
 
@@ -43,7 +49,7 @@ Field values
 
 Example
 
-Indicates that the record updates the MRU. 
+Indicates that the record updates the MRU.
 
 ```
 
@@ -52,7 +58,13 @@ Indicates that the record updates the MRU. 
 #### See Also
 
 -   [sObject Rows](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/resources_sobject_retrieve.htm "sObject Rows - HTML (New Window)")
-    
+
 -   [sObject Rows by External ID](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/resources_sobject_upsert.htm "sObject Rows by External ID - HTML (New Window)")
-    
+
 -   [*Salesforce Help*: Edit Users](https://help.salesforce.com/s/articleView?id=platform.editing_users.htm&type=5&language=en_US "Salesforce Help: Edit Users - HTML (New Window)")
+
+## Code Examples
+
+```
+Sforce-Mru: updateMru=true
+```

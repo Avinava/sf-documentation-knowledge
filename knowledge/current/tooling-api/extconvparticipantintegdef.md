@@ -5,11 +5,16 @@ topic: extconvparticipantintegdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.836Z
-keywords: [ExtConvParticipantIntegDef, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:45.467Z
+estimatedTokens: 625
+keywords: [ExtConvParticipantIntegDef, Represents, integration, configuration, external, conversation, participants, used, communication, between, Salesforce, messaging, platforms., API, version, 66.0, later., Supported, Calls, Fields]
 ---
 
 # ExtConvParticipantIntegDef
+
+> Represents the integration configuration for external conversation participants, used
+      for communication between Salesforce and external messaging platforms. This object is
+      available in API version 66.0 and later.
 
 # ExtConvParticipantIntegDef
 

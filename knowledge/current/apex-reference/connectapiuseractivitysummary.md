@@ -5,11 +5,14 @@ topic: connectapiuseractivitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.825Z
-keywords: [ConnectApi.UserActivitySummary, See]
+lastCollected: 2026-03-12T05:14:25.928Z
+estimatedTokens: 485
+keywords: [ConnectApi.UserActivitySummary, User, activity, summary.]
 ---
 
 # ConnectApi.UserActivitySummary
+
+> User activity summary.
 
 # ConnectApi.UserActivitySummary
 
@@ -35,3 +38,15 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.UserActivityCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_activity_collection.htm "User activity collection.")
+
+## Related Topics
+
+- ConnectApi.CommentSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_summary.htm)
+- ConnectApi.FeedPostSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_post_summary.htm)
+- ConnectApi.FeedReadSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_read_summary.htm)
+- ConnectApi.TopicEndorsementSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_topic_endorsement_summary.htm)
+- ConnectApi.UserFeedEntityActivitySummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_feed_entity_activity_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CommunitySummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_community_summary.htm)
+- ConnectApi.UserActivityCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_activity_collection.htm)

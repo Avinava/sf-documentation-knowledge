@@ -5,11 +5,15 @@ topic: get-apiv1insightcalculated-insightsci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.357Z
-keywords: [GET, api, insight, calculated-insights, ci-name, Syntax, Request, Parameters, Examples, HTTP, Responses]
+lastCollected: 2026-03-12T05:14:12.346Z
+estimatedTokens: 523
+keywords: [GET, api, insight, calculated-insights, ci-name, API, query, Calculated, Insights., Users, filter, selecting, different, dimensions, measures, filters., Syntax, Request, Examples, HTTP]
 ---
 
 # GET /api/v1/insight/calculated-insights/(ci-name)
+
+> Use this API to query your Calculated Insights. Users can filter by selecting different
+  dimensions, measures, and filters.
 
 # GET /api/v1/insight/calculated-insights/(ci-name)
 
@@ -70,3 +74,32 @@ Response
 | 404 Not Found | Incorrect callback ID, verification key, or both. |
 | 422 Unprocessable Entity | The attribute name used in fields or filter parameters doesn’t exist. |
 | 500 Server Error | Internal error. |
+
+## Code Examples
+
+```
+https://{TSE}.360a.salesforce.com/api/v1/insights/calculated-insights​/{ci-name}
+```
+
+```
+{
+  "data": [
+    {
+      "Id__c": "05d01a06-0c61-3990-808d-2aa602dd3e7f",
+      "FirstName__c": "Don",
+      "Avg_Spend__c": 1335.15
+    },
+    {
+      "Id__c": "11bcc846-1a80-3293-8cc4-3449835d8d4c",
+      "FirstName__c": "Wensei",
+      "Avg_Spend__c": 942.67
+    },
+    {
+      "Id__c": "18213566-df86-34a8-97aa-2cb75b70ae3b",
+      "FirstName__c": "Ryan",
+      "Avg_Spend__c": 2886.50
+    }
+  ],
+  done: true
+}
+```

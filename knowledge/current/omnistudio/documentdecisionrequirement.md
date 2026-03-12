@@ -5,11 +5,15 @@ topic: documentdecisionrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:11.930Z
-keywords: [DocumentDecisionRequirement, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.885Z
+estimatedTokens: 882
+keywords: [DocumentDecisionRequirement, Represents, decision, criteria, used, determine, applicable, documents., API, version, 59.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # DocumentDecisionRequirement
+
+> Represents the decision criteria that will be used to determine applicable
+         documents. This object is available in API version 59.0 and later.
 
 # DocumentDecisionRequirement
 

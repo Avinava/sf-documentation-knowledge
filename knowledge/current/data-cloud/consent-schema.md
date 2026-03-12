@@ -5,11 +5,17 @@ topic: consent-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.218Z
-keywords: [Consent, Schema]
+lastCollected: 2026-03-12T05:14:12.169Z
+estimatedTokens: 447
+keywords: [Consent, Schema, Management, used, either, grant, revoke, consent, Engagement, Mobile, SDK., customer, opts, tracking, mobile, application, sends, consentLog, event, indicating]
 ---
 
 # Consent Schema
+
+> Consent Management is used to either grant or revoke consent in the Engagement Mobile
+  SDK. When a customer opts in to tracking, the mobile application sends a consentLog event indicating the choice along with other events that
+  got collected. When a customer opts out, a consentLog event
+  is sent containing their choice and no other events are sent to Data Cloud.
 
 # Consent Schema
 

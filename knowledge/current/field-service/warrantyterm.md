@@ -5,11 +5,16 @@ topic: warrantyterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.074Z
-keywords: [WarrantyTerm, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.760Z
+estimatedTokens: 1134
+keywords: [WarrantyTerm, Represents, warranty, terms, defining, labor, parts, expenses, covered, along, any, exchange, options, provided, rectify, issues, products., API, version, 50.0]
 ---
 
 # WarrantyTerm
+
+> Represents warranty terms defining the labor, parts, and expenses covered,
+      along with any exchange options, provided to rectify issues with products. This object is
+    available in API version 50.0 and later.
 
 # WarrantyTerm
 

@@ -5,11 +5,16 @@ topic: exception-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.100Z
-keywords: [Exception, Statements, Throw, Try-Catch-Finally, Syntax, Exceptions, Can’t, Caught, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:33.361Z
+estimatedTokens: 760
+keywords: [Exception, Statements, Apex, uses, exceptions, note, errors, events, disrupt, normal, flow, code, execution., throw, statements, used, generate, while, try, catch]
 ---
 
 # Exception Statements
+
+> Apex uses exceptions to note errors and other events that
+                disrupt the normal flow of code execution. throw statements can be used to generate exceptions, while try, catch, and finally can be
+                used to gracefully recover from an exception.
 
 # Exception Statements
 
@@ -69,4 +74,58 @@ In API version 41.0 and later, unreachable statements in your code will cause co
 
 ```
 
+```
+
+## Code Examples
+
+```
+throw exceptionObject;
+```
+
+```
+try {
+  // Try block
+ code_block
+} catch (exceptionType variableName) {
+  // Initial catch block.
+  // At least the catch block or the finally block must be present. 
+ code_block
+} catch (Exception e) {
+  // Optional additional catch statement for other exception types.
+  // Note that the general exception type, 'Exception',
+  // must be the last catch block when it is used.
+ code_block
+} finally {
+  // Finally block.
+  // At least the catch block or the finally block must be present.
+ code_block
+}
+```
+
+```
+try {
+ code_block
+} catch (exceptionType variableName) {
+ code_block
+}
+// Optional additional catch blocks
+```
+
+```
+try {
+ code_block
+} finally {
+ code_block
+}
+```
+
+```
+try {
+    // Perform some operation that 
+    //   might cause an exception.
+} catch(Exception e) {
+    // Generic exception handling code here.
+} finally {
+    // Perform some clean up.
+}
 ```

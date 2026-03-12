@@ -5,11 +5,14 @@ topic: application-form-product-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:09.054Z
-keywords: [Application, Form, Product, Result]
+lastCollected: 2026-03-12T05:14:49.578Z
+estimatedTokens: 789
+keywords: [Application, Form, Product, Result, Output, representation, application, form, product, result.]
 ---
 
 # Application Form Product Result
+
+> Output representation of the application form product result.
 
 # Application Form Product Result
 
@@ -44,3 +47,7 @@ Output representation of the application form product result.
 | stage | String | Stage of the application form product that the applicant submitted. | Small, 61.0 | 61.0 |
 | totalBrand​OwnedItemAmt | Double | Total value of the brand-owned seller items requested for financing. | Small, 61.0 | 61.0 |
 | totalVendor​OwnedItemAmt | Double | Total value of vendor-owned seller items requested for financing. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

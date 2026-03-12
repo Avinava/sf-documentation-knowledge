@@ -5,11 +5,15 @@ topic: recordaggregationobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.617Z
-keywords: [RecordAggregationObject, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:54.995Z
+estimatedTokens: 683
+keywords: [RecordAggregationObject, Represents, record, aggegation, join, sequence., API, version, 59.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # RecordAggregationObject
+
+> Represents an object in the record aggegation join sequence.
+      This object is available in API version 59.0 and later.
 
 # RecordAggregationObject
 

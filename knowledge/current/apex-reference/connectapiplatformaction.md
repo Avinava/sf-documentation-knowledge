@@ -5,11 +5,15 @@ topic: connectapiplatformaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.598Z
-keywords: [ConnectApi.PlatformAction, See]
+lastCollected: 2026-03-12T05:14:28.400Z
+estimatedTokens: 1058
+keywords: [ConnectApi.PlatformAction, platform, action, instance, state, information, context, user.]
 ---
 
 # ConnectApi.PlatformAction
+
+> A platform action instance with state information for the context
+      user.
 
 # ConnectApi.PlatformAction
 
@@ -35,3 +39,14 @@ A platform action instance with state information for the context user.
 #### See Also
 
 -   [ConnectApi.PlatformActionGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_platform_action_group.htm "A platform action group instance with state appropriate for the context user.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.​PlatformAction​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​PlatformActionType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.PlatformActionGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_platform_action_group.htm)

@@ -5,11 +5,14 @@ topic: party-identity-verification-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.407Z
-keywords: [Party, Identity, Verification, Step, Input]
+lastCollected: 2026-03-12T05:14:48.629Z
+estimatedTokens: 269
+keywords: [Party, Identity, Verification, Step, Input, representation, details, party, identity, verification, step.]
 ---
 
 # Party Identity Verification Step Input
+
+> Input representation of the details of the party identity verification step.
 
 # Party Identity Verification Step Input
 
@@ -27,3 +30,7 @@ Properties
 | status | String | Status of the third-party identity verification. | Required | 61.0 |
 | type | String | Type of the third-party identity verification. | Required | 61.0 |
 | verification​Decision | String | Decision taken after the third-party identity verification is completed. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

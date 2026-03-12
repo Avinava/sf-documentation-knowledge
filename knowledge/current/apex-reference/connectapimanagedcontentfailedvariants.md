@@ -5,11 +5,15 @@ topic: connectapimanagedcontentfailedvariants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.158Z
-keywords: [ConnectApi.ManagedContentFailedVariants, See]
+lastCollected: 2026-03-12T05:14:27.803Z
+estimatedTokens: 165
+keywords: [ConnectApi.ManagedContentFailedVariants, Information, failed, cloned, managed, content, variants, cloning, partially, successful.]
 ---
 
 # ConnectApi.ManagedContentFailedVariants
+
+> Information about failed cloned managed content variants if cloning was partially
+    successful.
 
 # ConnectApi.ManagedContentFailedVariants
 
@@ -24,3 +28,8 @@ Information about failed cloned managed content variants if cloning was partiall
 #### See Also
 
 -   [ConnectApi.ManagedContentDocumentClone](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_document_clone.htm "Managed content document clone.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ManagedContentDocumentClone (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_document_clone.htm)

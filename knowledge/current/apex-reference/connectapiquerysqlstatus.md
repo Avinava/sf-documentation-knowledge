@@ -5,11 +5,14 @@ topic: connectapiquerysqlstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.825Z
-keywords: [ConnectApi.QuerySqlStatus, See]
+lastCollected: 2026-03-12T05:14:28.728Z
+estimatedTokens: 667
+keywords: [ConnectApi.QuerySqlStatus, Represents, status, SQL, query.]
 ---
 
 # ConnectApi.QuerySqlStatus
+
+> Represents the status of an SQL query.
 
 # ConnectApi.QuerySqlStatus
 
@@ -27,13 +30,26 @@ Represents the status of an SQL query.
 #### See Also
 
 -   [querySqlStatus(queryId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_querySqlStatus_1 "Get the status of an SQL query request. Results are available for up to 24 hours.")
-    
+
 -   [querySqlStatus(queryId, waitTimeMs)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_querySqlStatus_2 "Get the status of an SQL query request and specify the time to wait before returning the response. Results are available for up to 24 hours.")
-    
+
 -   [querySqlStatus(queryId, dataspace)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_querySqlStatus_3 "Get the status of an SQL query request and specify the data space. Results are available for up to 24 hours.")
-    
+
 -   [querySqlStatus(queryId, dataspace, waitTimeMs)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_querySqlStatus_4 "Get the status of an SQL query request. Specify the data space and time to wait before returning the response. Results are available for up to 24 hours.")
-    
+
 -   [querySqlStatus(queryId, workloadName, dataspace)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_querySqlStatus_5 "Get the status of an SQL query request. Specify the workload name and data space. Results are available for up to 24 hours.")
-    
+
 -   [querySqlStatus(queryId, workloadName, dataspace, waitTimeMs)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_querySqlStatus_6 "Get the status of an SQL query request. Specify the workload name, data space, and time to wait before returning the response. Results are available for up to 24 hours.")
+
+## Related Topics
+
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- QuerySqlStatusEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- querySqlStatus(queryId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- querySqlStatus(queryId, waitTimeMs) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- querySqlStatus(queryId, dataspace) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- querySqlStatus(queryId, dataspace, waitTimeMs) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- querySqlStatus(queryId, workloadName, dataspace) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)
+- querySqlStatus(queryId, workloadName, dataspace, waitTimeMs) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm)

@@ -5,11 +5,14 @@ topic: application-form-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.027Z
-keywords: [Application, Form, Input]
+lastCollected: 2026-03-12T05:14:48.037Z
+estimatedTokens: 440
+keywords: [Application, Form, Input, representation, application, form.]
 ---
 
 # Application Form Input
+
+> Input representation of the application form.
 
 # Application Form Input
 
@@ -33,3 +36,7 @@ Properties
 | totalIncomeTo​ExpenseRatio | Double | Ratio of the applicant's debt to income, as an input for the Underwriter to decide the applicant's eligibility (India Lending). | Optional | 61.0 |
 | totalLoanTo​ValuePercent | Double | Cumulative loan to value percentage for all applicants related to the application form. | Optional | 61.0 |
 | usageType | String | Usage type of the application form. | Required | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

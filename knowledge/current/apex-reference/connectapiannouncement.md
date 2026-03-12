@@ -5,11 +5,16 @@ topic: connectapiannouncement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.928Z
-keywords: [ConnectApi.Announcement, See]
+lastCollected: 2026-03-12T05:14:26.058Z
+estimatedTokens: 333
+keywords: [ConnectApi.Announcement, announcement, displays, designated, location, Salesforce, until, p.m., its, expiration, date, unless, it’s, deleted, replaced, another, announcement.]
 ---
 
 # ConnectApi.Announcement
+
+> An announcement displays in a designated location in the Salesforce UI until 11:59 p.m.
+    on its expiration date, unless it’s deleted or replaced by another
+    announcement.
 
 # ConnectApi.Announcement
 
@@ -27,5 +32,14 @@ An announcement displays in a designated location in the Salesforce UI until 11:
 #### See Also
 
 -   [ConnectApi.AnnouncementPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_announcementpage.htm "A collection of announcements.")
-    
+
 -   [ConnectApi.ChatterGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm "Chatter group.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​FeedElement (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.AnnouncementPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_announcementpage.htm)
+- ConnectApi.ChatterGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm)

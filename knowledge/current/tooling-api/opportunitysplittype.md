@@ -5,11 +5,16 @@ topic: opportunitysplittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.361Z
-keywords: [OpportunitySplitType, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.195Z
+estimatedTokens: 962
+keywords: [OpportunitySplitType, Represents, labels, behavior, split, Tooling, API, version, 37.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # OpportunitySplitType
+
+> Represents labels and behavior
+            for each split type Available in Tooling API version 37.0 and
+        later.
 
 # OpportunitySplitType
 

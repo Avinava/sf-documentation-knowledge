@@ -5,11 +5,15 @@ topic: workplantemplateentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.172Z
-keywords: [WorkPlanTemplateEntry, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.900Z
+estimatedTokens: 487
+keywords: [WorkPlanTemplateEntry, Represents, associates, work, step, template, plan, template., API, version, 52.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # WorkPlanTemplateEntry
+
+> Represents an object that associates a work step template with a work plan
+      template. This object is available in API version 52.0 and later.
 
 # WorkPlanTemplateEntry
 

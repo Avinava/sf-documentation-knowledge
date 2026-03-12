@@ -5,11 +5,15 @@ topic: unit-of-measure-info-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.346Z
-keywords: [Unit, Measure, Info, GET]
+lastCollected: 2026-03-12T05:14:07.231Z
+estimatedTokens: 234
+keywords: [Unit, Measure, Info, GET, Get, details, unit, measure, specific, set, records.]
 ---
 
 # Unit of Measure Info (GET)
+
+> Get details about the unit of measure for a specific set of
+      records.
 
 # Unit of Measure Info (GET)
 
@@ -45,3 +49,18 @@ Query parameters for GET
 Response body for GET
 
 [Bulk Unit Of Measure Info](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_bulk_unit_of_measure_info_output.htm "Output representation of the details of the unit of measure records along with error details.")
+
+## Code Examples
+
+```
+/connect/pcm/unit-of-measure/info
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/unit-of-measure/info
+```
+
+## Related Topics
+
+- Bulk Unit Of Measure
+              Info (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_bulk_unit_of_measure_info_output.htm)

@@ -5,11 +5,14 @@ topic: connectapiapprovalintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.947Z
-keywords: [ConnectApi.ApprovalIntent, See]
+lastCollected: 2026-03-12T05:14:26.079Z
+estimatedTokens: 109
+keywords: [ConnectApi.ApprovalIntent, Approval, intent, social, post.]
 ---
 
 # ConnectApi.ApprovalIntent
+
+> Approval intent for a social post.
 
 # ConnectApi.ApprovalIntent
 
@@ -22,3 +25,8 @@ Approval intent for a social post.
 #### See Also
 
 -   [ConnectApi.SocialPostIntents](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_social_post_intents_output.htm "Intents available for a social post.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.SocialPostIntents (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_social_post_intents_output.htm)

@@ -5,11 +5,16 @@ topic: productqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.704Z
-keywords: [ProductQualification, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:11.200Z
+estimatedTokens: 1003
+keywords: [ProductQualification, Represents, qualification, rules, products., determine, product, qualifies, displayed, users., based, user, context., API, version, 60.0, later., Supported, Calls, Special]
 ---
 
 # ProductQualification
+
+> Represents qualification rules for products. The rules determine when the
+         product qualifies to be displayed to users. The rules are based on user context. This
+      object is available in API version 60.0 and later.
 
 # ProductQualification
 
@@ -53,3 +58,9 @@ History is available for tracked fields of the object.
 [ProductQualificationShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ProductQualificationFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- ProductQualificationHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- ProductQualificationShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

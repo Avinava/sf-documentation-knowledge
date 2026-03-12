@@ -5,11 +5,17 @@ topic: b2c-commerce-customer-profile-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.683Z
-keywords: [B2C, Commerce, Customer, Profile, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:12.896Z
+estimatedTokens: 344
+keywords: [B2C, Commerce, Customer, Profile, Mapping, After, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, objects, model, DMO, Data]
 ---
 
 # B2C Commerce: Customer Profile Mapping
+
+> After a data stream is deployed, the Salesforce B2C Commerce Order
+         starter data bundle automatically maps source objects from B2C Commerce to data model
+         objects (DMO)s in Data Cloud. The Customer Profile object represents a customer profile for
+         a registered customer.
 
 # B2C Commerce: Customer Profile Mapping
 

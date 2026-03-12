@@ -5,11 +5,16 @@ topic: update-records-using-sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.733Z
-keywords: [Update, Records, sObject, Rows, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.098Z
+estimatedTokens: 1096
+keywords: [Update, Records, sObject, Rows, Updates, record, based, specified, ID., Field, values, provided, request, body, replace, existing, record., resource, used, external]
 ---
 
 # Update Records Using sObject Rows
+
+> Updates a record based on the specified object and record ID. Field values provided in
+		the request body replace the existing values in the record. This resource can be used with
+		external objects in API version 32.0 and later.
 
 # Update Records Using sObject Rows
 
@@ -58,5 +63,10 @@ For an example of updating a record using PATCH, see [Update a Record](atlas.en-
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
-    
+
 -   [Conditional Request Headers](atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm "Use a conditional request header to validate resources before accessing them. By setting a precondition in the header, you ensure that your request succeeds only if that precondition is met. This functionality helps you prevent mistakes and reject outdated requests when updating Salesforce data. You can implement a variety of techniques with conditional request headers, such as response caching.")
+
+## Related Topics
+
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)
+- Update a Record (atlas.en-us.api_rest.meta/api_rest/dome_update_fields.htm)

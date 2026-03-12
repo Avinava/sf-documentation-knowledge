@@ -5,11 +5,16 @@ topic: disabletabclose-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.174Z
-keywords: [disableTabClose, Lightning, Experience, Arguments, Note, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.686Z
+estimatedTokens: 707
+keywords: [disableTabClose, Lightning, Experience, Prevents, workspace, tab, subtab, closing., removes, close, button, disables, keyboard, shortcuts, tabs, subtabs., works, only, console, apps.]
 ---
 
 # disableTabClose() for Lightning Experience for Lightning Experience
+
+> Prevents a workspace tab or subtab from closing. This method removes the close button
+        from a tab or subtab, and disables the keyboard shortcuts that close tabs and subtabs. This method works only in
+   Lightning console apps.
 
 # disableTabClose() for Lightning Experience for Lightning Experience
 
@@ -65,3 +70,111 @@ This method returns a promise that, upon success, resolves to a tabInfo object r
 ```
 
 ```
+
+## Code Examples
+
+```
+import { LightningElement } from 'lwc';
+import { openTab, disableTabClose, IsConsoleNavigation } from 'lightning/platformWorkspaceApi';
+
+export default class DisableTabCloseExample extends LightningElement {
+
+   async handleOpenAndDisable() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        try {
+            const { tabId } = await openTab({
+                pageReference: {
+                    "type": "standard__objectPage",
+                    "attributes": {
+                        "objectApiName":"Account",
+                        "actionName":"home"
+                    },
+                },
+        });
+        await disableTabClose(tabId, true);
+        } catch (error) {
+            // handle error
+        }
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Disable Close Focused Tab" onclick="{! c.disableCloseFocusedTab }" />
+</aura:component>
+```
+
+```
+({
+    disableCloseFocusedTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getFocusedTabInfo().then(function(response) {
+            var focusedTabId = response.tabId;
+            workspaceAPI.disableTabClose({
+                tabId: focusedTabId,
+                disabled: true
+        })
+        .then(function(tabInfo) {
+            console.log(tabInfo);
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    })
+    .catch(function(error) {
+        console.log(error);
+    });
+    }
+})
+```
+
+```
+{
+     tabId: string,
+     url: string (URL),
+     pinned: boolean,
+     closeable: boolean,
+     title: string,
+     icon: string (SLDS iconKey),
+     iconAlt: string,
+     customTitle: string (optional),
+     customIcon: string (optional),
+     customIconAlt: string (optional),
+     highlighted: boolean,
+     pageReference: object,
+     isSubtab: boolean,
+     parentTabId: string,
+     subtabs: [
+         {
+             tabId: string,
+             url: string (URL),
+             pinned: boolean,
+             closeable: boolean,
+             title: string,
+             icon: string (SLDS iconKey),
+             iconAlt: string,
+             customTitle: string (optional),
+             customIcon: string (optional),
+             customIconAlt: string (optional),
+             highlighted: boolean,
+             pageReference: object,
+             isSubtab: boolean,
+             parentTabId: string,
+             focused: boolean,
+             recordId: string,
+          },
+           ... 
+     ],
+     focused: boolean,
+     recordId: string
+}
+```
+
+## Related Topics
+
+- a page reference (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_open_pagereference.htm)
+- openTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_opentab.htm)

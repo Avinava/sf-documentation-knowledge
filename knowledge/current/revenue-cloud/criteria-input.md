@@ -5,11 +5,14 @@ topic: criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T14:37:50.121Z
-keywords: [Criteria, Input]
+lastCollected: 2026-03-12T05:14:06.033Z
+estimatedTokens: 425
+keywords: [Criteria, Input, representation, filter, criteria, item, request.]
 ---
 
 # Criteria Input
+
+> Input representation of the filter criteria item request.
 
 # Criteria Input
 
@@ -30,3 +33,20 @@ Properties
 | operator | String | Operator used for the filter criteria. The supported operators are:eqincontains—This value isn’t applicable if the Use Indexed Data For Product Listing and Search toggle from the Product Discovery Settings page from Setup is enabled.gt—Specifies a greater than criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.lt—Specifies a less than criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.gte—Specifies a greater than or equal to criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.lte—Specifies a less than or equal to criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only. | Required | 60.0 |
 | property | String | Property name to use in the filter, which must be the same as the object field. | Required | 60.0 |
 | value | Object | Value for the filter criteria. | Required | 60.0 |
+
+## Code Examples
+
+```
+"criteria":
+[{
+   "attributeType": "ProductStandard",
+   "property": "name",
+   "operator": "eq",
+   "value": "iPhone"
+},
+{
+   "criteriaType": "CustomWhereCondition",
+   "value": "(effectiveenddate = null OR effectiveenddate >= 2024-06-25)"
+}
+]
+```

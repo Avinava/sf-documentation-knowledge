@@ -5,11 +5,18 @@ topic: experiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.373Z
-keywords: [ExperienceBundle, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExperienceResources, ExperienceResource, Folders, Bundled, Definitions, brandingSets, Folder, config, Note, routes]
+lastCollected: 2026-03-12T05:14:39.470Z
+estimatedTokens: 8369
+keywords: [ExperienceBundle, Represents, text-based, code, structure, settings, site, components, such, pages, branding, themes, Experience, Builder, site., Developers, quickly, update, deploy, sites]
 ---
 
 # ExperienceBundle
+
+> Represents a text-based code structure of the settings and site components, such as
+    pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly
+    update and deploy Experience Builder sites programmatically using their preferred
+    development tools. This type extends the Metadata metadata type and inherits its fullName
+    field.
 
 # ExperienceBundle
 
@@ -92,13 +99,13 @@ The config folder contains several JSON files.
 -   languages.json
 -   nativeConfig.json
 -   page\_name.json
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-    
+
     #### Note
-    
+
     One for each single-page application in the site: loginAppPage.json and mainAppPage.json
-    
+
 
 **sitename.json File Properties**
 
@@ -449,6 +456,155 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [ExperienceBundleSettings](atlas.en-us.api_meta.meta/api_meta/meta_experiencebundlesettings.htm "Represents the org setting that enables the ExperienceBundle metadata type for Aura sites in Experience Cloud. The setting doesn’t affect LWR sites, which use ExperienceBundle by default. This type extends the Metadata metadata type and inherits its fullName field.")
-    
+
 -   [*Developer Guide:* ExperienceBundle for Experience Builder Sites](https://developer.salesforce.com/docs/atlas.en-us.260.0.communities_dev.meta/communities_dev/communities_dev_migrate_expbundle.htm "Developer Guide: ExperienceBundle for Experience
     Builder Sites - HTML (New Window)")
+
+## Code Examples
+
+```
+{
+  "values" : {
+    "HeaderBackgroundColor" : "#FFFFFF",
+    "TextTransformStyle" : "none",
+    "BorderColor" : "#D4D4D4",
+    "DetailTextColor" : "#5A5A5A",
+    "HeaderFonts" : "Ek Mukta",
+    "CardBackgroundColor" : "rgba(255, 255, 255, 0)",
+    "LoginBackgroundColor" : "#F4F4F4",
+    "_ActionColorTrans" : "rgba(25, 124, 190, 0.9)",
+    "LoginBackgroundImage" : "../../../../sfsites/picasso/core/external/salesforceIdentity/images/background.jpg?v=1",
+    "PageBackgroundColor" : "#F5F7FA",
+    "_HeaderTextColor" : "rgba(34,34,34,.8)",
+    "_NavigationMenuHoverColor" : "rgba(255,255,255,.2)",
+    "_HeaderInputBackgroundColor" : "rgba(255,255,255,.4)",
+    "TextColor" : "#222222",
+    "NavigationMenuTextColor" : "#222222",
+    "_HeaderPlaceholderTextColor" : "rgba(85,85,85,.8)",
+    "_OverlayTextColorShadow" : "#000000",
+    "ActionColor" : "#0099DE",
+    "CompanyLogo" : "",
+    "_LinkColorDarker" : "#135F90",
+    "_ActionColorDarker" : "#135F90",
+    "_HoverColor" : "rgba(25, 124, 190, 0.05)",
+    "ErrorFontColor" : "#ff9e9e",
+    "OverlayTextColor" : "#FFFFFF",
+    "PrimaryFont" : "Ek Mukta",
+    "LinkColor" : "#3558D6"
+    },
+  "definitionName" : "cpt:branding-cpt",
+  "label" : "Customer Account Portal",
+  "id" : "283407c3-5938-4a6b-b97f-621cda6968c8",
+  "type" : "brandingSet"
+ }
+```
+
+```
+{
+   "isAvailableToGuests" : false,
+   "isFilteredComponentsView" : false,
+   "mainAppPageId" : "df9907cb-6e68-4ca1-8bb2-51173ca5374e",
+   "loginAppPageId" : "58e9939a-84b2-498d-bbc5-7a89d89087fa",
+   "selfRegistrationRouteId" : "ad5c8bf1-297f-4ad3-b47c-0e35d85f10ef",
+   "forgotPasswordRouteId" : "e3139f6f-44d8-4eec-be9d-3609ce063039",
+   "isProgressiveRenderingEnabled" : false,
+   "preferredDomain" : "none",
+   "selfRegistrationRouteId" : "b8fe8ab1-f266-41e1-a63b-4791165f3c1d",
+   "trustedSitesForScript" : [ {
+     "id" : "92c489e2-0b7b-4a48-9c88-bef7e8fe6f1b",
+     "isActive" : true,
+     "trustedSiteName" : "test",
+     "trustedSiteUrl" : "https://123.com",
+     "type" : "trustedSitesForScripts"
+   }, {
+     "id" : "92c489e2-0b7b-4a48-9c88-bef7e8fe6f1c",
+     "isActive" : true,
+     "trustedSiteName" : "test1",
+     "trustedSiteUrl" : "https://1234.com",
+     "type" : "trustedSitesForScripts"
+  } ],
+    "type" : "site"
+}
+```
+
+```
+{
+    "defaultCode" : "en_US",
+    "defaultLabel" : "English (US)",
+    "id" : "04597c83-0b9d-4f16-9f4d-4ec28bd553b4",
+    "type" : "languageContainer",
+    "languages" : [ {
+        "languageCode" : "af",
+        "countryCode" : "",
+        "isActive" : true,
+        "label" : "Afrikaans",
+        "fallbackLanguageId" : "c6e7fe67-55e0-47b3-ad58-bf49539249f0",
+        "id" : "22036d6f-11ce-4f7b-b7f0-f2c409f817ea",
+        "type" : "language"
+        }
+     ]
+ }
+```
+
+```
+{
+ "id": "a70a0e5e-0400-4531-94dc-8f587daa5946",
+ "nativeMobileNavConfig": {
+   "showBackButton": true,
+   "showHamburgerMenuWithBackButton": false
+ },
+
+ "mobilePublisherAppUpdateConfig": {
+   "enableAppUpdate" : true,
+   "forceAppUpdate" : true,
+   "minVersion" : {
+       "ios" : {
+           "version" : "10.0"
+ },
+       "android" : {
+               "version" : "10.1"
+ }
+ }
+ },
+ "nativeTabMenu": {
+   "branding": {
+     "iconTintColorUnselected": "#C9C5C5",
+     "barTintColor": "#FF00FF",
+     "iconTintColor": "#555321"
+   },
+   "menuItems": [
+     {
+       "iconAsset": "icon_homepng",
+       "targetUrl": "/"
+     },
+     {
+       "name": "Test",
+       "iconAsset": "icon_filespng",
+       "targetUrl": "/files"
+     }
+   ]
+ },
+ "showNavMenu": true,
+ "type": "nativeConfig"
+}
+```
+
+```
+{
+    "headMarkup" : null,
+    "isRelaxedCSPLevel" : false,
+    "templateName" : "Starter Template",
+    "cmsSettings" : { },
+    "currentThemeId" : "ff52089c-6ad9-4dd9-b5b5-251d4a117ce3",
+    "label" : "main",
+    "id" : "df9907cb-6e68-4ca1-8bb2-51173ca5374e",
+    "type" : "appPage"
+}
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Audience (atlas.en-us.api_meta.meta/api_meta/meta_audience.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ExperienceBundleSettings (atlas.en-us.api_meta.meta/api_meta/meta_experiencebundlesettings.htm)

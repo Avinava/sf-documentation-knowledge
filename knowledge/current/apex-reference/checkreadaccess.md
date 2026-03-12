@@ -4,12 +4,16 @@ domain: apex-reference
 topic: checkreadaccess
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.546Z
-keywords: [CheckReadAccess, Signature, Return, Value, Examples]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:29.727Z
+estimatedTokens: 87
+keywords: [CheckReadAccess, Checks, read, access, partyIncome, partyExpense, entities., Examples]
 ---
 
 # CheckReadAccess
+
+> Checks for read access on the partyIncome and partyExpense
+            entities.
 
 # CheckReadAccess
 

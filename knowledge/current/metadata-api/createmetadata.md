@@ -5,11 +5,15 @@ topic: createmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.427Z
-keywords: [createMetadata, Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Data, Values, String, Basic, Steps, Creating, Metadata, Components, Sample, Code—Java, Arguments]
+lastCollected: 2026-03-12T05:14:38.132Z
+estimatedTokens: 1080
+keywords: [createMetadata, Adds, new, metadata, components, organization, synchronously., Syntax, Usage, Version, Permissions, Note, Required, Fields, Valid, Data, Values, Basic, Steps, Creating]
 ---
 
 # createMetadata()
+
+> Adds one or more new metadata components to your
+            organization synchronously.
 
 # createMetadata()
 
@@ -78,3 +82,61 @@ Follow this process to create metadata components.
 ## Response
 
 [SaveResult](atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm "Contains result information for the createMetadata, updateMetadata, or renameMetadata call.")\[\]
+
+## Code Examples
+
+```
+SaveResult[] = metadatabinding.createMetadata(
+                Metadata[] metadata);
+```
+
+```apex
+public void createCustomObjectSync() {
+    try {
+        CustomObject co = new CustomObject();
+        String name = "MyCustomObject1";
+        co.setFullName(name + "__c");
+        co.setDeploymentStatus(DeploymentStatus.Deployed);
+        co.setDescription("Created by the Metadata API");
+        co.setEnableActivities(true);
+        co.setLabel(name + " Object");
+        co.setPluralLabel(co.getLabel() + "s");
+        co.setSharingModel(SharingModel.ReadWrite);
+
+        CustomField nf = new CustomField();
+        nf.setType(FieldType.Text);
+        nf.setLabel(co.getFullName() + " Name");
+        co.setNameField(nf);
+
+        SaveResult[] results = metadataConnection
+                .createMetadata(new Metadata[] { co });
+
+        for (SaveResult r : results) {
+            if (r.isSuccess()) {
+                System.out.println("Created component: " + r.getFullName());
+            } else {
+                System.out
+                        .println("Errors were encountered while creating "
+                                + r.getFullName());
+                for (Error e : r.getErrors()) {
+                    System.out.println("Error message: " + e.getMessage());
+                    System.out.println("Status code: " + e.getStatusCode());
+                }
+            }
+        }
+    } catch (ConnectionException ce) {
+        ce.printStackTrace();
+    }
+}
+```
+
+## Related Topics
+
+- SaveResult (atlas.en-us.api_meta.meta/api_meta/meta_saveResult.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- AllOrNoneHeader (atlas.en-us.api_meta.meta/api_meta/meta_allornoneheader.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- CustomMetadata (atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)
+- CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)

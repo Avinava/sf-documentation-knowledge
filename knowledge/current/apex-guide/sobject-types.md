@@ -5,11 +5,15 @@ topic: sobject-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.990Z
-keywords: [sObject, Types, Note, Custom, Labels]
+lastCollected: 2026-03-12T05:14:34.570Z
+estimatedTokens: 510
+keywords: [sObject, Types, variable, represents, row, data, only, declared, Apex, SOAP, API, name, object., Note, Custom, Labels]
 ---
 
 # sObject Types
+
+> An sObject variable represents a row of data and can only be declared in Apex using
+        SOAP API name of the object.
 
 # sObject Types
 
@@ -72,3 +76,36 @@ Custom labels aren’t standard sObjects. You can’t create a new instance of a
 ```
 
 For more information on custom labels, see “Custom Labels” in Salesforce Help.
+
+## Code Examples
+
+```
+Account a = new Account();
+MyCustomObject__c co = new MyCustomObject__c();
+```
+
+```
+sObject s = new Account();
+```
+
+```
+// Cast the generic variable s from the example above
+// into a specific account and account variable a
+Account a = (Account)s;
+// The following generates a runtime error
+Contact c = (Contact)s;
+```
+
+```
+Object obj = s;
+// and
+a = (Account)obj;
+```
+
+```
+Account a = new Account();
+```
+
+## Related Topics
+
+- Lists (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists.htm)

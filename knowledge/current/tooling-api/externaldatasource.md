@@ -5,11 +5,17 @@ topic: externaldatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.878Z
-keywords: [ExternalDataSource, Supported, SOAP, API, Calls, REST, Methods, Fields, Custom, Configuration, Salesforce, Connect, Cross-Org, Adapter, OData, 2.0, 4.0]
+lastCollected: 2026-03-12T05:14:45.526Z
+estimatedTokens: 2629
+keywords: [ExternalDataSource, Represents, metadata, associated, external, data, source., Create, sources, manage, connection, details, integration, content, stored, outside, Salesforce, org., API, version]
 ---
 
 # ExternalDataSource
+
+> Represents the metadata associated with an external data source. Create
+      external data sources to manage connection details for integration with data and content that
+      are stored outside your Salesforce org. This object is available in API version 51.0 and
+    later.
 
 # ExternalDataSource
 
@@ -96,3 +102,22 @@ The following sample JSON-encoded configuration string defines the parameter tha
 ```
 
 The noIdMapping parameter corresponds to the High Data Volume field in the user interface.
+
+## Code Examples
+
+```
+{"apiVersion":"32.0","environment":"CUSTOM", "searchEnabled":"true","timeout":"120"}
+```
+
+```
+{"inlineCountEnabled":"true","csrfTokenName":"X-CSRF-Token",
+"requestCompression":"false","pagination":"CLIENT",
+"noIdMapping":"false","format":"ATOM",
+"searchFunc":"","compatibility":"DEFAULT",
+"csrfTokenEnabled":"true","timeout":"120",
+"searchEnabled":"true"}
+```
+
+```
+{"noIdMapping":"false"}
+```

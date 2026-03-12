@@ -5,11 +5,15 @@ topic: setredirectredirect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.065Z
-keywords: [setRedirect, redirect, Signature, Parameters, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.270Z
+estimatedTokens: 324
+keywords: [setRedirect, redirect, PageReference, object's, attribute., set, true, performed, through, client, side, redirect., Usage]
 ---
 
 # setRedirect(redirect)
+
+> Sets the value of the PageReference object's redirect attribute. If set to true, a redirect is performed through
+a client side redirect.
 
 # setRedirect(redirect)
 
@@ -34,3 +38,8 @@ Type: [System.PageReference](atlas.en-us.apexref.meta/apexref/apex_system_pagere
 This type of redirect performs an HTTP GET request, and flushes the view state, which uses POST. If set to false, the redirect is a server-side forward that preserves the view state if and only if the target page uses the same controller and contains the proper subset of extensions used by the source page.
 
 Note that if the URL of the PageReference object is set to a website outside of the salesforce.com domain, or to a page with a different controller or controller extension, the redirect always occurs, regardless of whether the redirect attribute is set to true or false.
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- System.PageReference (atlas.en-us.apexref.meta/apexref/apex_system_pagereference.htm)

@@ -5,11 +5,15 @@ topic: action-logs-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.829Z
-keywords: [Action, Logs, GET, POST]
+lastCollected: 2026-03-12T05:14:49.250Z
+estimatedTokens: 899
+keywords: [Action, Logs, GET, POST, Retrieve, paginated, list, Explainability, action, logs., Create, log.]
 ---
 
 # Action Logs (GET, POST)
+
+> Retrieve a paginated list of Explainability action logs. Create an
+      Explainability action log.
 
 # Action Logs (GET, POST)
 
@@ -91,3 +95,49 @@ Properties
 Response body for POST
 
 [Explainability Action Log Create](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_explainability_action_log_create.htm "Output representation of the create Explainability action log request.")
+
+## Code Examples
+
+```
+/connect/decision-explainer/action-logs
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect​​/
+decision-explainer/action-logs?actionContextCode=001x0000005DmI3AAK
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect​​/
+decision-explainer/action-logs
+```
+
+```
+{
+"specificationName" : "EAD1",
+"name" : "testEAL1",
+"actionLog" : "{"input":{"input":{"input":2}},"ruledefinition":{"calculationProcedureId":"0k0xx00000000JNAAY",
+"variables":{"details":[{"apiName":"total","isEditable":true,"defaultValue":null,"displayName":null,"dataType"
+:"Number","precision":2,"calculationMatrixName":null,"name":"total","isUserDefined":true,"uiDisplayOrder":null,
+"id":"0kJxx000000018zEAA"},{"apiName":"input","isEditable":true,"defaultValue":"10","displayName":null,"dataType"
+:"Number","precision":2,"calculationMatrixName":null,"name":"input","isUserDefined":true,"uiDisplayOrder":null,"id"
+:"0kJxx00000001AbEAI"}]},"code":null,"endDate":null,"description":null,"message":null,"enabled":true,"versionNumber":2,
+"versionId":"0k1xx00000000knAAA","root":{"steps":["0mqxx00000001TxAAI"]},"name":"es1 V1 CLONE","rank":2,"step":
+{"details":{"0mqxx00000001TxAAI":{"inputVariablesFormatText":"[{\\"name\\":\\"input\\",\\"dataType\\":\\"Number\\",
+\\"alias\\":\\"input\\"}]","stepType":"Calculation","outputVariablesFormatText":"{\\"name\\":\\"total\\",\\"dataType\\":
+\\"Number\\",\\"alias\\":\\"total\\"}","conditionsUiFormattedText":"{\\"bypass\\":{},\\"stepNumber\\":3}",
+"formulaUiFormattedText":null,"description":null,"outputVariablesMappingText":"{\\"total\\":\\"total\\"}",
+"conditionsExpressionText":null,"calculationMatrixId":null,"isResultIncluded":true,"formulaExpressionText":"10 * input","stage":
+"Calculation","name":"Calculation","childStepIds":[],"referenceCalculationProcedureId":null,"id":"0mqxx00000001TxAAI",
+"returnMessageValueSet":"{\\"true\\":\\"\\",\\"false\\":\\"\\"}"}}},"constants":{"details":[]},"startDate":1637684784000,
+"isSuccess":null},"runtime":{"output":[{"aggregationResults":{},"calculationResults":[{"total":20,"ID":"input"}]}],"simulate"
+:{"0mqxx00000001TxAAI":{"stepInputs":{"input":2},"stepResults":{"total":20}}}}}",
+"actionLogDate" : "2021-09-15T03:18:30.081Z",
+"actionContextCode" : "0f0xx0000000001AAA"
+}
+```
+
+## Related Topics
+
+- Explainability Action Logs (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_explainability_action_logs.htm)
+- Explainability Action Log Create (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_explainability_action_log_create.htm)

@@ -5,11 +5,14 @@ topic: composite-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.801Z
-keywords: [Composite, Response, Body, Results]
+lastCollected: 2026-03-12T05:14:36.197Z
+estimatedTokens: 68
+keywords: [Composite, Response, Body, Describes, result, request., Results]
 ---
 
 # Composite Response Body
+
+> Describes the result of a Composite request.
 
 # Composite Response Body
 
@@ -28,3 +31,21 @@ JSON example
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+   "compositeResponse" : [{
+      Composite Subrequest Result      
+      },{
+      Composite Subrequest Result      
+      },{
+      Composite Subrequest Result      
+   }]
+}
+```
+
+## Related Topics
+
+- Composite Subrequest Result (atlas.en-us.api_rest.meta/api_rest/resources_composite_subrequest_result.htm)

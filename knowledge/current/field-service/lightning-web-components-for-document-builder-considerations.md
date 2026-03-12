@@ -4,12 +4,17 @@ domain: field-service
 topic: lightning-web-components-for-document-builder-considerations
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.222Z
-keywords: [Lightning, Web, Components, Document, Builder, Considerations, Supported, Utilities, Base, Unsupported, Salesforce, APIs, HTML, Concepts, Pagination]
+docType: concept
+lastCollected: 2026-03-12T05:14:55.482Z
+estimatedTokens: 1707
+keywords: [Lightning, Web, Components, Document, Builder, Considerations, limitations, building, web, components, LWCs, feature, including, list, supported, unsupported, utilities, HTML, APIs., Supported]
 ---
 
 # Lightning Web Components for Document Builder: Considerations
+
+> Considerations and limitations for building Lightning web components (LWCs) for the
+        Document Builder feature, including a list of supported and unsupported utilities, HTML
+        components, and APIs.
 
 # Lightning Web Components for Document Builder: Considerations
 
@@ -46,13 +51,13 @@ Here are the supported base components for building LWCs for Document Builder.
 -   [Formatted URL](https://developer.salesforce.com/docs/component-library/bundle/lightning-formatted-url/example)
 -   [Relative Date-Time](https://developer.salesforce.com/docs/component-library/bundle/lightning-relative-date-time/example)
 -   [Formatted Address](https://developer.salesforce.com/docs/component-library/bundle/lightning-formatted-address/example)
-    
+
     ![Tip](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_tip.png&folder=field_service_dev)
-    
+
     #### Tip
-    
+
     You can’t use showMapLink to show Google maps in an iframe
-    
+
 -   [Formatted Name](https://developer.salesforce.com/docs/component-library/bundle/lightning-formatted-name/example)
 -   [Formatted Number](https://developer.salesforce.com/docs/component-library/bundle/lightning-formatted-number/example)
 -   [Formatted Rich Text](https://developer.salesforce.com/docs/component-library/bundle/lightning-formatted-rich-text/documentation)
@@ -70,25 +75,25 @@ For consistency between desktop, mobile, and print, don’t use [Form Factor GVP
 You can’t use these HTML concepts when building LWCs for Document Builder.
 
 -   Don’t use iframes.
-    
+
     Iframes don’t work offline, and page numbers don’t show up properly.
-    
+
 -   Don’t use CSS Screen media queries.
-    
+
     CSS Screen media queries cause discrepancies in how your custom component looks on desktop and mobile.
-    
+
 -   Don’t use CSS position:fixed.
-    
+
     When content is printed, fixed positioning is irrelevant, and elements with position:fixed don’t behave as expected. If you want repeating elements, drag an object into the header or footer sections of the canvas.
-    
+
 -   Don’t use CSS to show objects side by side.
-    
+
     To show objects side by side, use the standard grid component. Avoid CSS properties such as float, display: flex, display: inline, display: inline-block, display: inline-flex, display: grid, display: inline-grid, display: table, or display: table-row.
-    
+
 -   Don’t use :nth-of-\* CSS Selectors.
-    
+
     When working with content that spans multiple pages, pseudo-selectors such as :nth-of-type or :nth-child typically don’t work. As a workaround, use lwc:if templates and application of classes to customize the style of your service document. Learn more about lwc:if in the [Lightning Web Components Developer Guide](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.create_conditional).
-    
+
 
 ## Pagination Considerations
 
@@ -102,10 +107,16 @@ When creating LWCs for Document Builder, consider these pagination limitations.
 -   If the field component spans pages, the field labels are inline and repeat.
 -   Column headers repeat if related list content spans across pages.
 -   Use the standard grid component for creating layouts because it provides comprehensive layout options. If you must use SLDS grid classes, don’t apply slds-col and slds-grid CSS classes to a single element. Instead, apply each layout class to its own element. Here’s an example.
-    
+
     ```
-    
+
     ```
-    
+
     The simpler the grid, the better. Features such as column wrapping, reordering, gutters, and vertical grids aren’t supported.
 -   PDF conversion doesn’t compress static resources. Don’t place large static resources (contentAssets) on the page. Resize and compress them before using them on a service document.
+
+## Code Examples
+
+```
+<!-- Bad --><div class="slds-col slds-grid"></div><!-- Good --><div class="slds-col"><div class="slds-grid">
+```

@@ -5,11 +5,14 @@ topic: get-apiv1profiledatamodelnameidcalculated-insightsci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.425Z
-keywords: [GET, api, profile, dataModelName, calculated-insights, ci-name, Syntax, Request, Parameters, Examples, HTTP, Responses]
+lastCollected: 2026-03-12T05:14:12.440Z
+estimatedTokens: 624
+keywords: [GET, api, profile, dataModelName, calculated-insights, ci-name, data, model, objects, computed, view, based, indexes, search, filters., Syntax, Request, Examples, HTTP, Responses]
 ---
 
 # GET /api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name}
+
+> Returns data model objects and a computed view based on indexes and search filters.
 
 # GET /api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name}
 
@@ -73,3 +76,35 @@ Response
 | 404 Not Found | Incorrect callback ID, verification key, or both. |
 | 422 Unprocessable Entity | Attribute name used in fields/filter parameter doesn’t exist. |
 | 500 Server Error | Internal error. |
+
+## Code Examples
+
+```
+https://{TSE}.360a.salesforce.com/api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name}
+```
+
+```
+{
+  "data": [
+    {
+      "GenderId__c": "F",
+      "Id__c": "05d01a06-0c61-3990-808d-2aa602dd3e7f",
+      "Occupation__c": "Staffing",
+      "FirstName__c": "Don"
+    },
+    {
+      "GenderId__c": "M",
+      "Id__c": "11bcc846-1a80-3293-8cc4-3449835d8d4c",
+      "Occupation__c": "Operational",
+      "FirstName__c": "Don"
+    },
+    {
+      "GenderId__c": "M",
+      "Id__c": "18213566-df86-34a8-97aa-2cb75b70ae3b",
+      "Occupation__c": "Organizational",
+      "FirstName__c": "Don"
+    }
+  ],
+  "done": false
+}
+```

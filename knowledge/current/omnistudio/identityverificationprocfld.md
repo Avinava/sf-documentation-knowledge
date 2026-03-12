@@ -4,12 +4,17 @@ domain: omnistudio
 topic: identityverificationprocfld
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.556Z
-keywords: [IdentityVerificationProcFld, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:54.055Z
+estimatedTokens: 1594
+keywords: [IdentityVerificationProcFld, Used, configure, questions, criteria, verifying, identity, caller., API, version, 54.0, later., Supported, Calls, Fields, customer, their, authorized, representative., Important]
 ---
 
 # IdentityVerificationProcFld
+
+> Used to configure the questions or criteria for verifying the
+         identity of a customer and their authorized representative. This object is available
+      in API version 54.0 and later.
 
 # IdentityVerificationProcFld
 

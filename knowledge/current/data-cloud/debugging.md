@@ -5,11 +5,18 @@ topic: debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.151Z
-keywords: [Debugging, Logging, Level, Methods]
+lastCollected: 2026-03-12T05:14:12.097Z
+estimatedTokens: 393
+keywords: [Debugging, configured, Salesforce, Interaction, SDK, output, messages, browser, console, debugging, purposes., default, logger, log, level, none., used, Web, wraps, standard]
 ---
 
 # Debugging
+
+> When configured, the Salesforce Interaction SDK can output messages to the browser
+    console for debugging purposes. By default, the logger is configured with a log level of
+      none. The logger used by the Web SDK wraps the standard browser
+      console.log function and can be accessed at
+ SalesforceInteractions.log.
 
 # Debugging
 
@@ -100,4 +107,31 @@ Prints out a message at the warn level.
 
 ```
 
+```
+
+## Code Examples
+
+```
+getLoggingLevel(): LoggingLevel
+```
+
+```
+SalesforceInteractions.getLoggingLevel()
+// => 0
+```
+
+```
+setLoggingLevel(level?: LoggingLevel | keyof typeof LoggingLevel): void
+```
+
+```
+// using the logging level name
+    SalesforceInteractions.setLoggingLevel('error') 
+
+// using the logging level value
+SalesforceInteractions.setLoggingLevel(1)
+```
+
+```
+log.info(...args: any[]): void
 ```

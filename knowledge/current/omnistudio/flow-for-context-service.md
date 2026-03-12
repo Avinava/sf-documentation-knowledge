@@ -5,11 +5,17 @@ topic: flow-for-context-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.946Z
-keywords: [Flow, Context, Service, FlowActionCall]
+lastCollected: 2026-03-12T05:14:50.907Z
+estimatedTokens: 267
+keywords: [Flow, Context, Service, Represents, metadata, associated, flow., flow, create, application, takes, users, through, series, pages, query, update, records, database., execute]
 ---
 
 # Flow for Context Service
+
+> Represents the metadata associated with a flow. Use a flow to create an application
+    that takes users through a series of pages to query and update records in the database. You can
+    also execute logic and provide branching capability based on user input to build dynamic
+    applications.
 
 # Flow for Context Service
 

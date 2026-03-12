@@ -5,11 +5,16 @@ topic: making-callouts-to-external-systems-from-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.144Z
-keywords: [Making, Callouts, External, Systems, Invocable, Actions, See]
+lastCollected: 2026-03-12T05:14:33.395Z
+estimatedTokens: 329
+keywords: [Making, Callouts, External, Systems, Invocable, Actions, define, runs, invocable, action, screen, flow, makes, callout, external, system, modifier.]
 ---
 
 # Making Callouts to External Systems from Invocable Actions
+
+> When you define a method that runs as an invocable action in a screen flow and makes a
+  callout to an external system, use the callout
+  modifier.
 
 # Making Callouts to External Systems from Invocable Actions
 
@@ -32,3 +37,7 @@ If any of these conditions are true, the flow executes the action in the current
 #### See Also
 
 -   [InvocableMethod Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "Use the InvocableMethod annotation to identify methods that can be run as invocable actions.")
+
+## Related Topics
+
+- InvocableMethod Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)

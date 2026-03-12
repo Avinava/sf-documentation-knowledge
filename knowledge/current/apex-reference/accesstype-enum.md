@@ -5,11 +5,15 @@ topic: accesstype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.430Z
-keywords: [AccessType, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.559Z
+estimatedTokens: 226
+keywords: [AccessType, Specifies, access, check, fields, sObject., Usage, Values]
 ---
 
 # AccessType Enum
+
+> Specifies the access check type for the fields of an
+    sObject.
 
 # AccessType Enum
 
@@ -29,3 +33,7 @@ The following are the values of the System.AccessType enum.
 | READABLE | Check the fields of an sObject for read access. |
 | UPDATABLE | Check the fields of an sObject for update access. |
 | UPSERTABLE | Check the fields of an sObject for both insert and update access. |
+
+## Related Topics
+
+- stripInaccessible (atlas.en-us.apexref.meta/apexref/apex_class_System_Security.htm)

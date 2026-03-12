@@ -5,11 +5,14 @@ topic: setparametersasjsonjsonstring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.128Z
-keywords: [setParametersAsJSON, jsonString, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.372Z
+estimatedTokens: 408
+keywords: [setParametersAsJSON, jsonString, custom, canvas, app., Usage, Example]
 ---
 
 # setParametersAsJSON(jsonString)
+
+> Sets the custom parameters for the canvas app.
 
 # setParametersAsJSON(jsonString)
 
@@ -46,3 +49,25 @@ This example gets the current custom parameters, adds a new newCustomParam param
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Canvas.EnvironmentContext env = renderContext.getEnvironmentContext();
+
+// Get current custom params
+Map<String, Object> previousParams = 
+    (Map<String, Object>) JSON.deserializeUntyped(env.getParametersAsJSON());
+
+// Add a new custom param
+previousParams.put('newCustomParam','TESTVALUE');
+
+// Now replace the parameters with the current parameters plus our new custom param
+env.setParametersAsJSON(JSON.serialize(previousParams));
+```
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- System.JSON.serialize(objectToSerialize) (atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm)
+- getParametersAsJSON() (atlas.en-us.apexref.meta/apexref/apex_canvas_EnvironmentContext_getParametersAsJSON.htm)

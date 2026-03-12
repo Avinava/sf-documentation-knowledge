@@ -5,11 +5,14 @@ topic: context-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.117Z
-keywords: [Context, Definition, Input]
+lastCollected: 2026-03-12T05:14:48.157Z
+estimatedTokens: 107
+keywords: [Context, Definition, Input, representation, context, definitions, expression, set., definition.]
 ---
 
 # Context Definition Input
+
+> Input representation of the context definition.
 
 # Context Definition Input
 
@@ -34,3 +37,27 @@ Properties
 | payload | String | JSON payload containing all the definitions and mappings. | Optional | 59.0 |
 | sourceDefinitionId | String | Source context definition ID. | Optional | 59.0 |
 | startDate | String | Start date from when context definition is valid. | Required | 59.0 |
+
+## Code Examples
+
+```
+"contextDefinitionList": {
+      "contextDefinitions":[{
+      "id":"11Oxx0000006PcLEAU"
+      }]
+  }
+```
+
+```
+{
+   "name":"Example Definition",
+   "description":"Example Description",
+   "developerName":"John Doe",
+   "startDate":"2023-06-02T00:00:00.000Z",
+   "endDate":"2025-06-20T00:00:00.000Z",
+   "isActive":false,
+   "payload":"{"contextDefinition":{"name":"ExampleDefinition","description":"Example Description","developerName":"ExampleDefinition","contextDefinitionVersionList":[{"contextDefinitionVersion":{"isActive":"TRUE","startDate":"2023-06-02T00:00:00.000Z","endDate":"2025-06-20T00:00:00.000Z","contextNodes":[{"name":"Claim","isTransposable":"TRUE","contextNodeId":"$param_claimId","attributes":[{"dataType":"STRING","type":"INPUT","isFinal":"TRUE","isKey":"false","isValue":"true","contextAttributeId":"$param_claimaccountId","name":"Account","contextTagList":[{"name":"ClaimAccount"}]}],"nodeChildren":[{"name":"ClaimItem","isTransposable":"TRUE","contextNodeId":"$param_claimItemId","attributes":[{"dataType":"STRING","type":"INPUT","isFinal":"TRUE","isKey":"FALSE","isValue":"FALSE","contextAttributeId":"$param_assetId","name":"Asset","contextTagList":[{"name":"ClaimItemAsset"}]}],"contextTagList":[{"contextNodeId":"$param_claimItemId","name":"ClaimItem"}]}],"contextTagList":[{"contextNodeId":"$param_claimId","name":"Claim"}]}],"contextMapping":[{"name":"Claim Order Mapping","isDefault":"TRUE","contextNodeMappings":[{"contextNodeId":"$param_claimId","sObjectName":"Claim","contextAttributeMappings":[{"contextAttributeId":"$param_claimaccountId","hydrationSource":"SObject","contextSObjectHydrationInfoList":[{"sObjectDomain":"Claim","queryAttribute":"Account","parentContextSObjectHydrationInfoList":[{"sObjectDomain":"Account","queryAttribute":"Name"}]}]}]},{"contextNodeId":"$param_claimItemId","sObjectName":"ClaimItem","contextAttributeMappings":[{"contextAttributeId":"$param_assetId","hydrationSource":"SObject","contextSObjectHydrationInfoList":[{"sObjectDomain":"ClaimItem","queryAttribute":"Asset","parentContextSObjectHydrationInfoList":[{"sObjectDomain":"Asset","queryAttribute":"Name"}]}]}]}]}]}}]}}",
+   "sourceDefinitionId":"11Oxx0000007MnhEAE",
+   "contextTtl":30
+}
+```

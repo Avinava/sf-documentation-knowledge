@@ -5,11 +5,14 @@ topic: connectapidatacategorymetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.509Z
-keywords: [ConnectApi.DataCategoryMetadata, See]
+lastCollected: 2026-03-12T05:14:26.917Z
+estimatedTokens: 141
+keywords: [ConnectApi.DataCategoryMetadata, Data, category, metadata, object.]
 ---
 
 # ConnectApi.DataCategoryMetadata
+
+> Data category metadata for the object.
 
 # ConnectApi.DataCategoryMetadata
 
@@ -24,3 +27,10 @@ Data category metadata for the object.
 #### See Also
 
 -   [ConnectApi.ObjectMetadata](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_metadat.htm "Search metadata related to the object.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- ConnectApi.​DataCategory​ValueMetadata (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_data_category_value_metadat.htm)
+- ConnectApi.ObjectMetadata (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_metadat.htm)

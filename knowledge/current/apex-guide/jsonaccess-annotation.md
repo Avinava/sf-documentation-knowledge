@@ -5,13 +5,18 @@ domain: apex-guide
 topic: jsonaccess-annotation
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.464Z
-keywords: [JsonAccess, Annotation, Considerations, Versioned, Behavior, Changes]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.441Z
+estimatedTokens: 512
+keywords: [JsonAccess, Annotation, @JsonAccess, annotation, defined, Apex, level, controls, whether, instances, serialized, deserialized., restricts, JSON, XML, serialization, deserialization, runtime, JSONException, exception]
 ---
 
 # JsonAccess
     Annotation
+
+> The @JsonAccess annotation defined at Apex class
+    level controls whether instances of the class can be serialized or deserialized. If the
+    annotation restricts the JSON or XML serialization and deserialization, a runtime JSONException exception is thrown.
 
 # JsonAccess Annotation
 
@@ -41,3 +46,23 @@ In versions 48.0 and earlier, the default access for deserialization is always a
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm "IsTest Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm "NamespaceAccessible Annotation Annotation")
+
+## Code Examples
+
+```apex
+// SomeSerializableClass is serializable in the same package and deserializable in the wider namespace
+
+@JsonAccess(serializable='samePackage' deserializable='sameNamespace')
+public class SomeSerializableClass { }
+
+
+// AlwaysDeserializable class is always deserializable and serializable only in the same namespace (default value from version 49.0 and later)
+
+@JsonAccess(deserializable='always')
+public class AlwaysDeserializable { }
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)

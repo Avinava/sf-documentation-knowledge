@@ -5,11 +5,15 @@ topic: decisiontable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.796Z
-keywords: [DecisionTable, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, DecisionTableParameter, DecisionTableSourceCriteria, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.632Z
+estimatedTokens: 2365
+keywords: [DecisionTable, Represents, information, decision, table., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, DecisionTableParameter, DecisionTableSourceCriteria, Declarative, Metadata]
 ---
 
 # DecisionTable
+
+> Represents the information about a decision
+    table.
 
 # DecisionTable
 
@@ -111,3 +115,104 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionTable xmlns="http://soap.sforce.com/2006/04/metadata">
+    <collectOperator>None</collectOperator>
+    <conditionCriteria>1 and 2 and 3 and 4</conditionCriteria>
+    <conditionType>All</conditionType>
+    <dataSourceType>SingleSobject</dataSourceType>
+    <decisionTableParameters>
+        <fieldName>IsDeleted</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>1</sequence>
+        <isGroupByField>true</isGroupByField>
+        <sortType>AscNullFirst</sortType>
+        <dataType>Number</dataType>
+        <fieldPath>AccountFeed.CommentsCount</fieldPath>
+        <domainObject>AccountFeed</domainObject>
+        <isPriorityField>false</isPriorityField>
+        <decimalScale>2</decimalScale>
+        <length>14</length>
+        <isRequired>false</isRequired>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>IsActive</fieldName>
+        <usage>OUTPUT</usage>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>LimitNumber</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>2</sequence>
+        <isGroupByField>false</isGroupByField>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>LimitStartDate</fieldName>
+        <usage>OUTPUT</usage>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>GivenBadgeCount</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>3</sequence>
+        <isGroupByField>false</isGroupByField>
+    </decisionTableParameters>
+    <decisionTableParameters>
+        <fieldName>Name</fieldName>
+        <operator>Equals</operator>
+        <usage>INPUT</usage>
+        <sequence>4</sequence>
+        <isGroupByField>false</isGroupByField>
+    </decisionTableParameters>
+    <decisionTableSourceCriterias>
+        <sourceFieldName>IsDeleted</sourceFieldName>
+        <operator>Equals</operator>
+        <value>false</value>
+        <sequenceNumber>1</sequenceNumber>
+        <valueType>Literal</valueType>
+    </decisionTableSourceCriterias>
+    <description>Sample DT created for md-common tests</description>
+    <filterResultBy>UniqueValues</filterResultBy>
+    <setupName>Sample DT</setupName>
+    <sourceObject>WorkBadgeDefinition</sourceObject>
+    <sourceConditionLogic>1</sourceConditionLogic>
+    <status>Draft</status>
+    <type>LowVolume</type>
+    <usageType>Bre</usageType>
+    <doesConsiderNullValue>false</doesConsiderNullValue>
+    <refreshStatus>Failed</refreshStatus>
+    <refreshFailureReason>Failed due to limit violation.</refreshFailureReason>
+    <executionType>Hbpo</executionType>
+    <lastIncrementalSyncDate>""</lastIncrementalSyncDate>
+    <uploadStatus>Completed</uploadStatus>
+    <isIncrementalSyncEnabled>false</isIncrementalSyncEnabled>
+    <hasIncrementalSyncFailed>false</hasIncrementalSyncFailed>
+</DecisionTable>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <fullName>Sample DT Package</fullName>
+   <description>Package created for md-common tests</description>
+   <types>
+      <members>Sample_DT</members>
+      <name>DecisionTable</name>
+   </types>
+   <types>
+      <members>DSL_Sample</members>
+      <members>Sample_DT_Default</members>
+      <name>DecisionTableDatasetLink</name>
+   </types>
+   <version></version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

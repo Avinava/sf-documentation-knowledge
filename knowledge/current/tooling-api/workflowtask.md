@@ -5,11 +5,17 @@ topic: workflowtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.998Z
-keywords: [WorkflowTask, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.151Z
+estimatedTokens: 584
+keywords: [WorkflowTask, Represents, workflow, task, used, fire, off, specific, action, specified, criteria, met., Includes, access, associated, WorkflowRule, Salesforce, Metadata, API., Supported]
 ---
 
 # WorkflowTask
+
+> Represents a workflow task that is used to fire off a specific workflow
+   action when the specified criteria is met. Includes access to the associated WorkflowRule object
+   in Salesforce
+   Metadata API.
 
 # WorkflowTask
 
@@ -38,3 +44,7 @@ Query, DELETE, GET, PATCH, POST
 | Priority | TypepicklistPropertiesFilter, Group, SortDescriptionThe task’s priority. Values are:HighNormalLow |
 | Status | TypepicklistPropertiesFilter, Group, SortDescriptionThe task’s status. Values are:Not StartedIn ProgressCompletedWaiting on someone elseDeferred |
 | Subject | TypestringPropertiesFilter, Group, idLookup, SortDescriptionA subject for the workflow task. It is used if an email notification is sent when the task is assigned. |
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)

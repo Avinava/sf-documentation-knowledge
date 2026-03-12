@@ -5,11 +5,15 @@ topic: performrecordalertactionalertid-actionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.589Z
-keywords: [performRecordAlertAction, alertId, actionParameters, API, Version, Requires, Chatter, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:47.448Z
+estimatedTokens: 229
+keywords: [performRecordAlertAction, alertId, actionParameters, Snooze, internal, record, alerts, specified, time, period, dismiss, them., API, Version, Requires, Chatter]
 ---
 
 # performRecordAlertAction(alertId, actionParameters)
+
+> Snooze internal record alerts for a specified time period or dismiss
+      them.
 
 # performRecordAlertAction(alertId, actionParameters)
 
@@ -44,3 +48,8 @@ The parameter specified for the record alert action.
 ## Return Value
 
 Type: [ConnectApi.RecordAlert](atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_record_alert.htm "Representation of the details of a record alert.")
+
+## Related Topics
+
+- ConnectApi.RecordAlertActionInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_record_alert_action.htm)
+- ConnectApi.RecordAlert (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_record_alert.htm)

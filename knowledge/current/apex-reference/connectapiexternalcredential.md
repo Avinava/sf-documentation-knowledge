@@ -5,11 +5,18 @@ topic: connectapiexternalcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.733Z
-keywords: [ConnectApi.ExternalCredential, Important, See]
+lastCollected: 2026-03-12T05:14:27.260Z
+estimatedTokens: 791
+namespace: String
+keywords: [ConnectApi.ExternalCredential, External, credential, including, named, credentials, principals, associated, status, principal., Important]
 ---
 
 # ConnectApi.ExternalCredential
+
+> External credential, including the named credentials and principals
+      associated with it and the type and status of each principal.
+
+**Namespace:** `String`
 
 # ConnectApi.ExternalCredential
 
@@ -41,5 +48,18 @@ Where possible, we changed noninclusive terms to align with our company value of
 #### See Also
 
 -   [ConnectApi.ExternalCredentialList](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_list.htm "List of external credentials.")
-    
+
 -   [ConnectApi.NamedCredential](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm "Named credential associated with an external credential.")
+
+## Related Topics
+
+- ConnectApi.​CredentialAuthentication​Protocol (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CredentialAuthentication​ProtocolVariant (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CredentialAuthentication​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CredentialCustom​Header (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_credential_custom_header.htm)
+- ConnectApi.​ExternalCredential​Parameter (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_parameter.htm)
+- ConnectApi.​ExternalCredential​Principal (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_principal.htm)
+- ConnectApi.​NamedCredential (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_named_credential.htm)
+- ConnectApi.ExternalCredentialList (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_external_credential_list.htm)

@@ -5,11 +5,14 @@ topic: fetch-active-ocr-templates-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.312Z
-keywords: [Fetch, Active, OCR, Templates, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:51.177Z
+estimatedTokens: 289
+keywords: [Fetch, Active, OCR, Templates, Action, active, templates, org., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
 ---
 
 # Fetch Active OCR Templates Action
+
+> Fetch all the active OCR templates in an org.
 
 # Fetch Active OCR Templates Action
 
@@ -64,4 +67,78 @@ Authorization: Bearer token
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "inputs":[
+      {
+         "documentTypeId":"0deT10000004CCbIAM,0ghT11000004CCbIF",
+         "targetObjects":"Account,Contact"
+      }
+   ]
+}
+```
+
+```
+[
+   {
+      "actionName":"fetchActiveOcrTemplates",
+      "errors":null,
+      "isSuccess":true,
+      "outputValues":{
+         "ocrTemplates":{
+            "ocrTemplates":[
+               {
+                  "ocrTemplateId":"48tT1000000004IIAQ",
+                  "ocrTargetObjects":[
+                     {
+                        "targetObjectRecordType":null,
+                        "targetObject":"Account",
+                        "ocrTargetObjectId":"97hT100000000HjIAI"
+                     },
+                     {
+                        "targetObjectRecordType":null,
+                        "targetObject":"CareDiagnosis",
+                        "ocrTargetObjectId":"97hT100000000HoIAI"
+                     }
+                  ],
+                  "name":"bb",
+                  "documentTypeId":"0deT10000004CCbIAM",
+                  "developerName":"bb"
+               },
+               {
+                  "ocrTemplateId":"48tT10000004CF1IAM",
+                  "ocrTargetObjects":[
+                     {
+                        "targetObjectRecordType":null,
+                        "targetObject":"Account",
+                        "ocrTargetObjectId":"97hT10000004CelIAE"
+                     }
+                  ],
+                  "name":"scrlicense",
+                  "documentTypeId":"0deT10000004CCbIAM",
+                  "developerName":"scrlicense"
+               },
+               {
+                  "ocrTemplateId":"48tT1000000004NIAQ",
+                  "ocrTargetObjects":[
+                     {
+                        "targetObjectRecordType":null,
+                        "targetObject":"Contact",
+                        "ocrTargetObjectId":"97hT100000000HtIAI"
+                     }
+                  ],
+                  "name":"bb2",
+                  "documentTypeId":"0ghT11000004CCbIF",
+                  "developerName":"bb2"
+               }
+            ]
+         }
+      },
+      "version":1
+   }
+]
 ```

@@ -5,11 +5,15 @@ topic: csfgrouptype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.510Z
-keywords: [CsfGroupType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.674Z
+estimatedTokens: 111
+keywords: [CsfGroupType, group, level, which, custom, summary, format, aggregate, displayed, report., Values]
 ---
 
 # CsfGroupType Enum
+
+> The group level at which the custom summary format aggregate is
+                        displayed in a report.
 
 # CsfGroupType Enum
 

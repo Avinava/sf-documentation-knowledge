@@ -5,11 +5,16 @@ topic: release
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.936Z
-keywords: [Release, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.482Z
+estimatedTokens: 1022
+keywords: [Release, Represents, release, service, management, operations, such, incidents, problems, change, requests., period, during, which, new, updated, deployed., API, version, 65.0]
 ---
 
 # Release
+
+> Represents a release for service management operations, such as incidents,
+         problems, and change requests. A release is a period during which new or updated service
+         operations are deployed. This object is available in API version 65.0 and later.
 
 # Release
 

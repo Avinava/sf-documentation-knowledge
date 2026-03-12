@@ -5,11 +5,18 @@ topic: loyaltyprogramsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.416Z
-keywords: [LoyaltyProgramSetup, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, LoyaltyProgramProcess, LoyaltyProgramProcessParameter, LoyaltyProgramProcessCondition, LoyaltyProgramProcessConditionFilterCriteria, LoyaltyProgramProcessRule, LoyaltyProgramProcessAction, LoyaltyProgramProcessActionParameter]
+lastCollected: 2026-03-12T05:14:40.988Z
+estimatedTokens: 4284
+keywords: [LoyaltyProgramSetup, Represents, configuration, loyalty, program, process, including, its, rules., Program, processes, determine, how, new, transaction, journals, processed., meet, criteria, conditions]
 ---
 
 # LoyaltyProgramSetup
+
+> Represents the configuration of a loyalty program process
+			including its parameters and rules. Program processes determine how new transaction
+		journals are processed. When new transaction journals meet the criteria and conditions for a
+		program process, actions that are set up in the process are triggered for the transaction
+		journals.
 
 # LoyaltyProgramSetup
 
@@ -179,3 +186,111 @@ To retrieve metadata specific to any loyalty program, mention the loyalty progra
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LoyaltyProgramSetup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Cloud Kicks Inner Circle</label>
+    <programProcesses>
+        <executionType>RealTime</executionType>
+        <parameters>
+            <dataType>Numeric</dataType>
+            <decimalPlaces>0</decimalPlaces>
+            <isCollection>false</isCollection>
+            <isInput>false</isInput>
+            <isOutput>false</isOutput>
+            <parameterName>VoucherValue</parameterName>
+            <parameterType>Constant</parameterType>
+            <value>50</value>
+        </parameters>
+        <processName>Issue Vouchers</processName>
+        <processType>Transaction Journal</processType>
+        <rules>
+            <actions>
+                <actionName>Issue High Transaction Value Voucher</actionName>
+                <actionParameters>
+                    <operator>Equals</operator>
+                    <parameterName>VoucherDefinitionName</parameterName>
+                    <sequenceNumber>1</sequenceNumber>
+                    <value>Voucher for High Value Transactions</value>
+                    <valueType>Literal</valueType>
+                </actionParameters>
+                <actionParameters>
+                    <operator>Equals</operator>
+                    <parameterName>VoucherCode</parameterName>
+                    <sequenceNumber>2</sequenceNumber>
+                    <value>{!TransactionJournal.Order.Id}</value>
+                </actionParameters>
+                <actionParameters>
+                    <operator>Equals</operator>
+                    <parameterName>VoucherEffectiveDate</parameterName>
+                    <sequenceNumber>3</sequenceNumber>
+                    <value>DATEVALUE(&quot;2021-11-21 00:00:00&quot;)</value>
+                </actionParameters>
+                <actionParameters>
+                    <operator>Equals</operator>
+                    <parameterName>VoucherExpirationDate</parameterName>
+                    <sequenceNumber>4</sequenceNumber>
+                    <value>DATEVALUE(&quot;2022-01-01 00:00:00&quot;)</value>
+                </actionParameters>
+                <actionParameters>
+                    <operator>Equals</operator>
+                    <parameterName>VoucherFaceValue</parameterName>
+                    <sequenceNumber>5</sequenceNumber>
+                    <value>{!VoucherValue}</value>
+                </actionParameters>
+                <actionType>IssueVoucher</actionType>
+            </actions>
+            <conditions>
+                <conditionCriteria>1</conditionCriteria>
+                <conditionFilterCriteria>
+                    <operator>GreaterThanOrEquals</operator>
+                    <sequence>1</sequence>
+                    <sourceFieldName>TransactionJournal.TransactionAmount</sourceFieldName>
+                    <value>100</value>
+                    <valueType>Literal</valueType>
+                </conditionFilterCriteria>
+                <conditionName>New Condition</conditionName>
+                <conditionType>Condition</conditionType>
+            </conditions>
+            <endDate>2022-01-01</endDate>
+            <ruleName>Issue Voucher for Transactions Above $100</ruleName>
+            <startDate>2021-11-21</startDate>
+            <status>Draft</status>
+            <stepMappings>
+                <associatedStep>New Condition</associatedStep>
+                <sequence>1</sequence>
+            </stepMappings>
+            <stepMappings>
+                <associatedStep>Issue High Transaction Value Voucher</associatedStep>
+                <parentStep>New Condition</parentStep>
+                <sequence>1</sequence>
+            </stepMappings>
+        </rules>
+        <status>Draft</status>
+    </programProcesses>
+</LoyaltyProgramSetup>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   ~ Copyright 2020 Salesforce, Inc.
+   ~ All Rights Reserved
+   ~ Company Confidential
+-->
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>LoyaltyProgramSetup</name>
+   </types>
+   <version>54.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

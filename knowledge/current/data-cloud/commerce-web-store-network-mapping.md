@@ -5,11 +5,17 @@ topic: commerce-web-store-network-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.963Z
-keywords: [Commerce, Web, Store, Network, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.315Z
+estimatedTokens: 210
+keywords: [Commerce, Web, Store, Network, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMOs, Data, Cloud., WebStoreNetwork]
 ---
 
 # Commerce: Web Store Network Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+   automatically maps data from Commerce Cloud to data model objects (DMOs) in Data Cloud.
+   WebStoreNetwork data represents the relationship between a web store and an experience
+  site.
 
 # Commerce: Web Store Network Mapping
 

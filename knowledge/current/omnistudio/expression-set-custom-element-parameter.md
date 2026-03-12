@@ -5,11 +5,15 @@ topic: expression-set-custom-element-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.468Z
-keywords: [Expression, Set, Custom, Element, Parameter]
+lastCollected: 2026-03-12T05:14:50.199Z
+estimatedTokens: 207
+keywords: [Expression, Set, Custom, Element, Output, representation, custom, element, expression, set.]
 ---
 
 # Expression Set Custom Element Parameter
+
+> Output representation of a custom element parameter in an expression
+      set.
 
 # Expression Set Custom Element Parameter
 

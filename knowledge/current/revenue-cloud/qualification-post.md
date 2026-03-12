@@ -5,11 +5,15 @@ topic: qualification-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.258Z
-keywords: [Qualification, POST]
+lastCollected: 2026-03-12T05:14:06.692Z
+estimatedTokens: 488
+keywords: [Qualification, POST, Run, qualification, procedure, list, product, IDs., API, composite, Product, Discovery.]
 ---
 
 # Qualification (POST)
+
+> Run the qualification procedure on a list of product IDs. This API
+      is a composite API for Product Discovery.
 
 # Qualification (POST)
 
@@ -60,3 +64,34 @@ Properties
 Response body for POST
 
 [CPQ Base List](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_list_output.htm "Output representation of the list of catalogs, categories, or products based on the request.")
+
+## Code Examples
+
+```
+/connect/cpq/qualification
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/qualification
+```
+
+```
+{
+  "productIds": [
+    "01txx0000006i7PAAQ",
+    "01txx0000006i7QAAQ",
+    "01txx0000006i7IAAQ"
+  ],
+  "userContext": {
+    "accountId": "001xx000003GZHgAAO"
+  }
+}
+```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- User Context
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)
+- CPQ Base List (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_cpq_base_list_output.htm)

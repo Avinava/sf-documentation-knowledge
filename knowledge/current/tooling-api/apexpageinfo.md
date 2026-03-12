@@ -5,11 +5,18 @@ topic: apexpageinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.216Z
-keywords: [ApexPageInfo, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.640Z
+estimatedTokens: 852
+namespace: NameSpacePrefix
+keywords: [ApexPageInfo, Represents, metadata, Visualforce, page., API, version, 37.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access, Rules, Fields, Usage]
 ---
 
 # ApexPageInfo
+
+> Represents metadata about a Visualforce page. This object is available in
+    API version 37.0 and later.
+
+**Namespace:** `NameSpacePrefix`
 
 # ApexPageInfo
 

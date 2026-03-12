@@ -5,11 +5,14 @@ topic: party-profile-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.713Z
-keywords: [Party, Profile, Result]
+lastCollected: 2026-03-12T05:14:50.545Z
+estimatedTokens: 1375
+keywords: [Party, Profile, Result, Output, representation, party, profile, result.]
 ---
 
 # Party Profile Result
+
+> Output representation of the party profile result.
 
 # Party Profile Result
 
@@ -70,3 +73,12 @@ Output representation of the party profile result.
 | surnameAtBirth | String | Party surname at birth specified in the profile. | Small, 61.0 | 61.0 |
 | taxPayer​Identification​Number | String | Identification number of the tax payer specified in the profile. | Small, 61.0 | 61.0 |
 | taxPayer​Identification​Type | String | Type of taxpayer identification used for tax purposes. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Party Identity Verification Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_identity_verification_result.htm)
+- Party
+                  Profile Address Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_profile_address_result.htm)
+- Party
+                  Profile Risk Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_profile_risk_result.htm)

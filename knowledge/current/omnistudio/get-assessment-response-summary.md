@@ -5,11 +5,15 @@ topic: get-assessment-response-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.458Z
-keywords: [Get, Assessment, Response, Summary, Supported, REST, HTTP, Methods, Inputs, Outputs, Usage]
+lastCollected: 2026-03-12T05:14:47.304Z
+estimatedTokens: 518
+keywords: [Get, Assessment, Response, Summary, makes, easy, flow, trigger, server-side, document, generation, Document, Generation., Supported, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
 # Get Assessment Response Summary
+
+> Get Assessment Response Summary makes it easy to use a flow to trigger
+      server-side document generation using Document Generation.
 
 # Get Assessment Response Summary
 
@@ -67,4 +71,119 @@ In this example, the first line indicates the OmniScript type, subtype, and lang
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs" : [ {"assessmentId" : "0U3RO00000005FN0AY"} ]
+}
+```
+
+```
+"KYC_Individual_English": {
+    "Step1": {
+      "label": "Identity Details",
+      "value": {
+        "LC_Survey_Question_2": {
+          "label": "Full Name",
+          "value": "Joe Smith"
+        },
+        "DateofBirth_m": {
+          "label": "Date of Birth",
+          "value": "Thu Jul 27 00:00:00 GMT 2000"
+        },
+        "Gender_m": {
+          "label": "Gender",
+          "value": "Female"
+        },
+        "EmailAddress_m": {
+          "label": "Email Address",
+          "value": "Joe.Smith@company.com"
+        },
+        "PAN": {
+          "label": "PAN",
+          "value": "QWEASDZXC"
+        }
+      }
+    },
+    "Step2": {
+      "label": "Address Details",
+      "value": {
+        "Address_CorrespondenceAdd_Corporate": {
+          "label": "Address of Correspondence",
+          "value": "100 Some St, San Francisco, CA 12345, United States"
+        },
+        "Address_ContactDetails_Corporate": {
+          "label": "Telephone/Mobile",
+          "value": "1616111233"
+        },
+        "Alternate_Contact": {
+          "label": "Alternate Mobile Number",
+          "value": "1911212123"
+        }
+      }
+    },
+    "Step3": {
+      "label": "Account Declaration",
+      "value": {
+        "Account_declaration": {
+          "label": "I declare that I have following deposit accounts with your/
+other bank's branches :",
+          "value": [
+            {
+              "Bank": {
+                "label": "Bank",
+                "value": "Acme1"
+              },
+              "Branch": {
+                "label": "Branch",
+                "value": "Mission St"
+              },
+              "Type_of_Account": {
+                "label": "Type of Account",
+                "value": "Checking"
+              },
+              "Account_Number": {
+                "label": "Account Number",
+                "value": "12345678"
+              }
+            },
+            {
+              "Bank": {
+                "label": "Bank",
+                "value": "Acme2"
+              },
+              "Branch": {
+                "label": "Branch",
+                "value": "Mission St"
+              },
+              "Type_of_Account": {
+                "label": "Type of Account",
+                "value": "Savings"
+              },
+              "Account_Number": {
+                "label": "Account Number",
+                "value": "1234567890"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Step4": {
+      "label": "Declaration",
+      "value": {
+        "Declaration_m": {
+          "label": "The customer declares and certifies that the information in this 
+form is true and correct. Any pre-filled sections of this form must be reviewed prior
+ to signing and submitting, to ensure the information accurately conveys the new 
+account details.",
+          "value": "true"
+        }
+      }
+    }
+  }
+}
 ```

@@ -5,11 +5,15 @@ topic: externalserviceregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.510Z
-keywords: [ExternalServiceRegistration, File, Suffix, Directory, Location, Version, Fields, ExternalServiceOperation, Declarative, Metadata, Sample, Definition, serviceBinding, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:39.684Z
+estimatedTokens: 2054
+keywords: [ExternalServiceRegistration, Represents, external, service, configuration, org., File, Suffix, Directory, Location, Version, Fields, ExternalServiceOperation, Declarative, Metadata, Sample, Definition, serviceBinding, Wildcard, Support]
 ---
 
 # ExternalServiceRegistration
+
+> Represents the external service
+      configuration for an org.
 
 # ExternalServiceRegistration
 
@@ -80,3 +84,50 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 -   [*Salesforce Help*: Media Type Mapping in External Service Registrations](https://help.salesforce.com/s/articleView?id=platform.external_services_mime_type_mapping.htm&type=5&language=en_US "Salesforce Help: Media Type Mapping in External
     Service Registrations - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServiceRegistration xmlns="http://soap.sforce.com/2006/04/metadata">
+  <label>BankService</label>
+  <namedCredential>Bank</namedCredential>
+  <schema>{
+  "swagger": "2.0",
+  "basePath": "/",
+  "info": {
+    "version": "1.0",
+    "title": "External Service for demo bank",
+    "description": "### External Service for demo bank",
+    "x-vcap-service-name": "DemoBankRestServices"
+  },
+  ...
+  "paths": {
+  "/accounts/{accountName}": {
+      ...
+    }
+  },
+  "definitions": {
+    "accountDetails": {
+      ...
+    },
+    "errorModel": {
+      ...
+    }
+  }
+}</schema>
+  <schemaType>OpenApi</schemaType>
+  <schemaUrl>/accounts/schema</schemaUrl>
+  <status>Complete</status>
+</ExternalServiceRegistration>
+```
+
+```
+{"compatibleMediaTypes":{
+    "application/x-acme-json":"application/json"
+}}
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

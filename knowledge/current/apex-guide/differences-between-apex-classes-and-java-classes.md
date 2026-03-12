@@ -5,11 +5,15 @@ topic: differences-between-apex-classes-and-java-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.575Z
-keywords: [Differences, Between, Apex, Classes, Java, See]
+lastCollected: 2026-03-12T05:14:32.595Z
+estimatedTokens: 692
+keywords: [Differences, Between, Apex, Classes, Java, classes, work, similar, ways, there, significant, differences.]
 ---
 
 # Differences Between Apex Classes and Java Classes
+
+> Apex classes and Java classes work in similar ways, but there are some significant
+        differences.
 
 # Differences Between Apex Classes and Java Classes
 
@@ -39,3 +43,9 @@ These are the major differences between Apex classes and Java classes:
 #### See Also
 
 -   [Exceptions in Apex](atlas.en-us.apexcode.meta/apexcode/apex_exception_definition.htm "Exceptions note errors and other events that disrupt the normal flow of code execution. throw statements are used to generate exceptions, while try, catch, and finally statements are used to gracefully recover from exceptions.")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_casting.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_creating.htm)
+- Exceptions in Apex (atlas.en-us.apexcode.meta/apexcode/apex_exception_definition.htm)

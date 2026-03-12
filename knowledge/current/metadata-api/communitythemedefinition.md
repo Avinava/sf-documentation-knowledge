@@ -5,11 +5,16 @@ topic: communitythemedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.200Z
-keywords: [CommunityThemeDefinition, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, CommunityThemeBundleInfo, CommunityCustomThemeLayoutType, CommunityThemeRouteOverride, CommunityTheme, Setting, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:37.826Z
+estimatedTokens: 1590
+keywords: [CommunityThemeDefinition, Represents, definition, theme, Experience, Builder, site., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location, Version]
 ---
 
 # CommunityThemeDefinition
+
+> Represents the definition of a theme for an Experience Builder site. 
+    This type extends the Metadata metadata type and inherits its 
+    fullName field.
 
 # CommunityThemeDefinition
 
@@ -98,3 +103,74 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityThemeDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <bundlesInfo>
+        <description>Batman Feature1 description</description>
+        <order>1</order>
+        <title>Batman Feature1</title>
+        <type>Highlight</type>
+    </bundlesInfo>
+    <bundlesInfo>
+        <image>siteAsset_d90e2d5ce4cf4d8899e233c051091246</image>
+        <order>1</order>
+        <title>siteAsset_d90e2d5ce4cf4d8899e233c051091246</title>
+        <type>PreviewImage</type>
+    </bundlesInfo>
+    <defaultBrandingSet>Batman</defaultBrandingSet>
+    <description>Batman theme</description>
+    <enableExtendedCleanUpOnDelete>true</enableExtendedCleanUpOnDelete>
+    <masterLabel>Batman</masterLabel>
+    <themeRouteOverride>
+        <pageAttributes>{&quot;PageName&quot;:&quot;Home&quot;}</pageAttributes>
+        <pageType>comm__standardPage</pageType>
+        <themeLayoutType>Home</themeLayoutType>
+    </themeRouteOverride>
+    <themeSetting>
+        <themeLayout>Batman_themeLayout_Login</themeLayout>
+        <themeLayoutType>Login</themeLayoutType>
+    </themeSetting>
+    <themeSetting>
+        <themeLayout>Batman_themeLayout_Home</themeLayout>
+        <themeLayoutType>Home</themeLayoutType>
+    </themeSetting>
+    <themeSetting>
+        <themeLayout>Batman_themeLayout_Default</themeLayout>
+        <themeLayoutType>Inner</themeLayoutType>
+    </themeSetting>
+</CommunityThemeDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Batman</members>
+        <name>BrandingSet</name>
+    </types>
+    <types>
+        <members>Batman</members>
+        <name>CommunityThemeDefinition</name>
+    </types>
+    <types>
+        <members>Batman_themeLayout_Default</members>
+        <members>Batman_themeLayout_Home</members>
+        <members>Batman_themeLayout_Login</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>siteAsset_d90e2d5ce4cf4d8899e233c051091246</members>
+        <name>StaticResource</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

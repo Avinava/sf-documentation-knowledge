@@ -5,11 +5,16 @@ topic: verificationmethod-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.327Z
-keywords: [VerificationMethod, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.420Z
+estimatedTokens: 606
+keywords: [VerificationMethod, Contains, different, ways, users, identify, themselves, logging, in., implement, mobile-centric, passwordless, login, pages, self-register, deregister, verification, methods., Usage, Values]
 ---
 
 # VerificationMethod Enum
+
+> Contains the different ways users can identify themselves when
+      logging in. You can use it to implement mobile-centric passwordless login pages and to
+      self-register (and deregister) verification methods.
 
 # VerificationMethod Enum
 
@@ -33,3 +38,9 @@ The following are the values of the Auth.VerificationMethod enum.
 | SMS | Identity verified with a verification code sent via SMS message. |
 | TOTP | Identity verified with a time-based one-time password (TOTP). |
 | U2F | Identity verified by a U2F physical security key, such as a YubiKey.NoteFor U2F security keys registered or used after Summer ’22, use SECURITY_KEY instead. |
+
+## Related Topics
+
+- System.Site.passwordlessLogin (atlas.en-us.apexref.meta/apexref/apex_classes_sites.htm)
+- System.UserManagement.registerVerificationMethod (atlas.en-us.apexref.meta/apexref/apex_class_System_UserManagement.htm)
+- System.UserManagement.deregisterVerificationMethod (atlas.en-us.apexref.meta/apexref/apex_class_System_UserManagement.htm)

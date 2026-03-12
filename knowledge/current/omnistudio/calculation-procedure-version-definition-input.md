@@ -5,11 +5,15 @@ topic: calculation-procedure-version-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.076Z
-keywords: [Calculation, Procedure, Version, Definition, Input, Note]
+lastCollected: 2026-03-12T05:14:48.107Z
+estimatedTokens: 644
+keywords: [Calculation, Procedure, Version, Definition, Input, representation, expression, set, version, definition., Note]
 ---
 
 # Calculation Procedure Version Definition Input
+
+> Input representation of the expression set version
+    definition.
 
 # Calculation Procedure Version Definition Input
 
@@ -46,3 +50,80 @@ Properties
 | variables | Calculation Procedure Resource[] | The variable values passed in the expression set version record. | Optional | 53.0 |
 | versionId | String | The ID of the expression set version record. | Required | 53.0 |
 | versionNumber | Integer | The version number of the expression set record. | Optional | 53.0 |
+
+## Code Examples
+
+```
+{
+   "calculationProcedureId":"0k0xx00000000HlAAI",
+   "code":"200",
+   "constants":{
+      "details":[ {
+         "apiName":"SENIOR_CITIZEN_AGE",
+         "dataType":"Number",
+         "defaultValue":"60",
+         "isEditable":true,
+         "isUserDefined":true,
+         "name":"SENIOR_CITIZEN_AGE",
+         "precision":2
+      }.]
+   },
+   "enabled":false,
+   "isSuccess":true,
+   "message":"",
+   "name":"rule3 V1",
+   "rank":1,
+   "root":{
+      "steps":[
+         "0mqxx00000000UfAAI"
+      ]
+   },
+   "startDate":"2021-08-04T08:57:23.000Z",
+   "step":{
+      "details":{
+         "0mqxx00000000UfAAI":{
+            "childStepIds":[],
+            "conditionsExpressionText":"age == SENIOR_CITIZEN_AGE",
+            "conditionsUiFormattedText":"{"bypass":[]}",
+            "id":"0mqxx00000000UfAAI",
+            "inputVariablesFormatText":"[{"name":"age","dataType":"Number","alias":"age"}]",
+            "isResultIncluded":false,
+            "name":"Condition",
+            "outputVariablesFormatText":"{"name":"condition_output__1","dataType":"Boolean","alias":"condition_output__1"}",
+            "outputVariablesMappingText":"{"condition_output__1":"condition_output__1"}",
+            "returnMessageValueSet":"{"true":"","false":""}",
+            "stage":"Calculation",
+            "stepType":"Condition"
+         }
+      }
+   },
+   "variables":{
+      "details":[ {
+         "apiName":"condition_output__1",
+         "dataType":"Boolean",
+         "defaultValue":"False",
+         "id":"0kJxx00000000KzEAI",
+         "isEditable":false,
+         "isUserDefined":false,
+         "name":"condition_output__1"
+      }, {
+         "apiName":"age",
+         "dataType":"Number",
+         "defaultValue":"60",
+         "id":"0kJxx00000000L0EAI",
+         "isEditable":true,
+         "isUserDefined":true,
+         "name":"age",
+         "precision":2
+      } ]
+   },
+   "versionId":"0k1xx00000000KzAAI",
+   "versionNumber":1
+}
+```
+
+## Related Topics
+
+- Calculation Procedure Resource (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_resource_input.htm)
+- Calculation Procedure Step
+                                 Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_calculation_procedure_step_input.htm)

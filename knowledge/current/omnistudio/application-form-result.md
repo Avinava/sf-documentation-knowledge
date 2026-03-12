@@ -5,11 +5,14 @@ topic: application-form-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.060Z
-keywords: [Application, Form, Result]
+lastCollected: 2026-03-12T05:14:49.588Z
+estimatedTokens: 597
+keywords: [Application, Form, Result, Output, representation, application, form, result.]
 ---
 
 # Application Form Result
+
+> Output representation of the application form result.
 
 # Application Form Result
 
@@ -38,3 +41,7 @@ Output representation of the application form result.
 | totalIncomeTo​ExpenseRatio | Double | Cumulative income to expense ratio for all applicants related to the application form. | Small, 61.0 | 61.0 |
 | totalLoanTo​ValuePercent | Double | Cumulative loan to value percentage for all applicants related to the application form. | Small, 61.0 | 61.0 |
 | usageType | String | Usage type of the application form. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

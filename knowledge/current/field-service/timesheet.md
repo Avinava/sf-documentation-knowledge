@@ -5,11 +5,15 @@ topic: timesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.047Z
-keywords: [TimeSheet, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.721Z
+estimatedTokens: 833
+keywords: [TimeSheet, Represents, schedule, service, resource’s, time, Field, Service, Workforce, Engagement., API, v47.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
 ---
 
 # TimeSheet
+
+> Represents a schedule of a service resource’s time in Field Service or
+			Workforce Engagement. This object is available in API v47.0 and later.
 
 # TimeSheet
 

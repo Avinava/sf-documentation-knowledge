@@ -5,11 +5,18 @@ topic: getappointmentcandidatesinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:35.518Z
-keywords: [GetAppointmentCandidatesInput, Class, Note, Namespace, Usage, Important]
+lastCollected: 2026-03-12T05:14:22.601Z
+estimatedTokens: 817
+namespace: LxScheduler
+keywords: [GetAppointmentCandidatesInput, Contains, information, service, resources, appointment, candidates, based, work, group, territories., Note, Usage, Important]
 ---
 
 # GetAppointmentCandidatesInput Class
+
+> Contains information about the available service resources
+      (appointment candidates) based on work type group and service territories.
+
+**Namespace:** `LxScheduler`
 
 # GetAppointmentCandidatesInput Class
 
@@ -80,3 +87,93 @@ This example shows a sample response of a list of available candidates:
 ```
 
 ```
+
+## Code Examples
+
+```apex
+//Build input for GetAppointmentCandidates API
+   lxscheduler.GetAppointmentCandidatesInput input = new lxscheduler.GetAppointmentCandidatesInputBuilder()
+     .setWorkTypeGroupId('0VSRM0000000ABc4AM')
+     .setTerritoryIds(new List<String>{'0HhRM0000000FXd0AM'})
+     .setStartTime(System.now().format('yyyy-MM-dd\'T\'HH:mm:ssZ','America/New_York'))
+     .setEndTime(System.now().addDays(5).format('yyyy-MM-dd\'T\'HH:mm:ssZ','America/New_York'))
+     .setAccountId('001RM0000053iQgYAI')
+     .setSchedulingPolicyId('0VrRM00000000Bx')
+     .setApiVersion(Double.valueOf('50.0'))
+     .build();
+
+   String response = lxscheduler.SchedulerResources.getAppointmentCandidates(input);
+```
+
+```apex
+//Build WorkType
+   lxscheduler.WorkType workType = new lxscheduler.WorkTypeBuilder()
+     .setId('08qRM0000000G9RYAU')
+     .build();
+
+   lxscheduler.GetAppointmentCandidatesInput input = new lxscheduler.GetAppointmentCandidatesInputBuilder()
+     .setWorkType(workType)
+     .setTerritoryIds(new List<String>{'0HhRM0000000FXd0AM'})
+     .setStartTime(System.now().format('yyyy-MM-dd\'T\'HH:mm:ssZ','America/New_York'))
+     .setEndTime(System.now().addDays(5).format('yyyy-MM-dd\'T\'HH:mm:ssZ','America/New_York'))
+     .setAccountId('001RM0000053iQgYAI')
+     .setSchedulingPolicyId('0VrRM00000000Bx')
+     .setApiVersion(Double.valueOf('50.0'))
+     .build();
+
+   String response = lxscheduler.SchedulerResources.getAppointmentCandidates(input);
+```
+
+```apex
+//Build SkillRequirement
+   lxscheduler.SkillRequirement skillReq = new lxscheduler.SkillRequirementBuilder()
+     .setSkillId('0C5RM0000004EZS0A2')
+     .setSkillLevel(90)
+     .build();
+
+//Build WorkType
+   lxscheduler.WorkType workType = new lxscheduler.WorkTypeBuilder()
+     .setDurationInMinutes(15)
+     .setBlockTimeBeforeAppointmentInMinutes(5)
+     .setBlockTimeAfterAppointmentInMinutes(5)
+     .setTimeFrameStartInMinutes(10080)
+     .setTimeFrameEndInMinutes(40320)
+     .setOperatingHoursId('0OHRM0000000FmG4AU')
+     .setSkillRequirements(new List<lxscheduler.SkillRequirement>{skillReq})
+     .build();
+
+   lxscheduler.GetAppointmentCandidatesInput input = new lxscheduler.GetAppointmentCandidatesInputBuilder()
+     .setWorkType(workType)
+     .setTerritoryIds(new List<String>{'0HhRM0000000FXd0AM'})
+     .setSchedulingPolicyId('0VrRM00000000Bx')
+     .setApiVersion(Double.valueOf('50.0'))
+     .build();
+
+   String response = lxscheduler.SchedulerResources.getAppointmentCandidates(input);
+```
+
+```
+[
+   {
+      "startTime": "2021-02-16T16:15:00.000+0000",
+      "endTime": "2021-02-16T16:16:00.000+0000",
+      "resources": [
+         "0Hnxx0000004C9BCAU"
+      ],
+      "territoryId": "0Hhxx0000004C92CAE"
+   },
+   {
+      "startTime": "2021-02-16T16:30:00.000+0000",
+      "endTime": "2021-02-16T16:31:00.000+0000",
+      "resources": [
+        "0Hnxx0000004C9BCAU"
+      ],
+      "territoryId": "0Hhxx0000004C92CAE"
+   },
+]
+```
+
+## Related Topics
+
+- LxScheduler (atlas.en-us.apexref.meta/apexref/apex_namespace_lxscheduler.htm)
+- GetAppointmentCandidatesInputBuilder.build() (atlas.en-us.apexref.meta/apexref/apex_class_lxscheduler_GetAppointmentCandidatesInputBuilder.htm)

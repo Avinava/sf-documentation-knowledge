@@ -5,11 +5,14 @@ topic: reminder-recurring-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.517Z
-keywords: [Reminder, Recurring, Schedule, Input]
+lastCollected: 2026-03-12T05:14:48.772Z
+estimatedTokens: 120
+keywords: [Reminder, Recurring, Schedule, Input, representation, recurring, schedule, reminder.]
 ---
 
 # Reminder Recurring Schedule Input
+
+> Input representation of the recurring schedule of a reminder.
 
 # Reminder Recurring Schedule Input
 
@@ -29,3 +32,14 @@ Properties
 | --- | --- | --- | --- | --- |
 | recurrenceRule | String | Recurrence rule for the reminder. | Required | 60.0 |
 | scheduleType | String | Schedule type of the reminder. Valid value is Recurring. | Required | 60.0 |
+
+## Code Examples
+
+```
+{
+  "schedule": {
+    "recurrenceRule": "RRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20231130T000000Z;",
+    "scheduleType": "Recurring"
+  }
+}
+```

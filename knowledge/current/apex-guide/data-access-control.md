@@ -5,11 +5,16 @@ topic: data-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.198Z
-keywords: [Data, Access, Control]
+lastCollected: 2026-03-12T05:14:34.890Z
+estimatedTokens: 277
+keywords: [Data, Access, Control, Lightning, Platform, makes, extensive, data, sharing, rules., permissions, settings, users, read, create, edit, delete., enforced, standard, controllers.]
 ---
 
 # Data Access Control
+
+> The Lightning Platform makes extensive use of data sharing rules. Each object has permissions
+    and can have sharing settings that users can read, create, edit, and delete. These settings are
+    enforced when using all standard controllers.
 
 # Data Access Control
 
@@ -28,3 +33,19 @@ In this case, all contact records are searched, even if the user currently logge
 ```
 
 The with sharing keyword directs the platform to use the security sharing permissions of the user currently logged in, rather than granting full access to all records.
+
+## Code Examples
+
+```apex
+public class customController { 
+    public void read() { 
+        Contact contact = [SELECT id FROM Contact WHERE Name = :value]; 
+    } 
+}
+```
+
+```apex
+public with sharing class customController { 
+    . . . 
+}
+```

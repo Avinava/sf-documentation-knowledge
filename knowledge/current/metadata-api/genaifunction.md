@@ -5,11 +5,14 @@ topic: genaifunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.870Z
-keywords: [GenAiFunction, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, GenAiPlannerAttr, Input, Folder, Output, Usage, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:40.212Z
+estimatedTokens: 2807
+keywords: [GenAiFunction, Represents, agent, action, added, agent., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, GenAiPlannerAttr, Input, Folder, Output]
 ---
 
 # GenAiFunction
+
+> Represents an agent action that can be added to an AI agent.
 
 # GenAiFunction
 
@@ -124,3 +127,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>get tracking information</description>
+    <invocationTarget>TrackShipment</invocationTarget>
+    <invocationTargetType>apex</invocationTargetType>
+    <isConfirmationRequired>false</isConfirmationRequired>
+    <masterLabel>get_tracking_info</masterLabel>
+</GenAiFunction>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>GenAiFunction</name>
+   </types>
+   <version>60.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- GenAiPlannerBundle (atlas.en-us.api_meta.meta/api_meta/meta_genaiplannerbundle.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

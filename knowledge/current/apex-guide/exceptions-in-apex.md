@@ -5,11 +5,16 @@ topic: exceptions-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.095Z
-keywords: [Exceptions, Apex, Happens, Exception, Occurs?, Unhandled, Emails, Tip, Note, User, Interface]
+lastCollected: 2026-03-12T05:14:33.355Z
+estimatedTokens: 1206
+keywords: [Exceptions, Apex, note, errors, events, disrupt, normal, flow, code, execution., throw, statements, used, generate, exceptions, while, try, catch, finally, gracefully]
 ---
 
 # Exceptions in Apex
+
+> Exceptions note errors and other events that disrupt the normal flow of
+        code execution. throw statements are used to
+        generate exceptions, while try, catch, and finally statements are used to gracefully recover from exceptions.
 
 # Exceptions in Apex
 
@@ -45,15 +50,24 @@ If an end user runs into an exception that occurred in Apex code while using the
 
 ![Unhandled exception in the New Merchandise page](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapex%2Fimages%2Fapex_exceptions_unhandled_ui.png&folder=apexcode)
 
--   **[Exception Statements](atlas.en-us.apexcode.meta/apexcode/apex_exception_statements.htm)**  
-    
--   **[Exception Handling Example](atlas.en-us.apexcode.meta/apexcode/apex_exception_trycatch_example.htm)**  
+-   **[Exception Statements](atlas.en-us.apexcode.meta/apexcode/apex_exception_statements.htm)**
+
+-   **[Exception Handling Example](atlas.en-us.apexcode.meta/apexcode/apex_exception_trycatch_example.htm)**
     Learn how exception handling works in Apex.
--   **[Built-In Exceptions and Common Methods](atlas.en-us.apexcode.meta/apexcode/apex_exception_builtin.htm)**  
-    
--   **[Catching Different Exception Types](atlas.en-us.apexcode.meta/apexcode/apex_exception_types_catching.htm)**  
-    
--   **[Create Custom Exceptions](atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm)**  
-    
+-   **[Built-In Exceptions and Common Methods](atlas.en-us.apexcode.meta/apexcode/apex_exception_builtin.htm)**
+
+-   **[Catching Different Exception Types](atlas.en-us.apexcode.meta/apexcode/apex_exception_types_catching.htm)**
+
+-   **[Create Custom Exceptions](atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm)**
+
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_debugging_debug_log.htm "Debug Log")
+
+## Related Topics
+
+- Exception Statements (atlas.en-us.apexcode.meta/apexcode/apex_exception_statements.htm)
+- Exception Handling Example (atlas.en-us.apexcode.meta/apexcode/apex_exception_trycatch_example.htm)
+- Built-In Exceptions and Common Methods (atlas.en-us.apexcode.meta/apexcode/apex_exception_builtin.htm)
+- Catching Different Exception Types (atlas.en-us.apexcode.meta/apexcode/apex_exception_types_catching.htm)
+- Create Custom Exceptions (atlas.en-us.apexcode.meta/apexcode/apex_exception_custom.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_debugging_debug_log.htm)

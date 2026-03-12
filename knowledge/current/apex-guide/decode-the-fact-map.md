@@ -5,11 +5,15 @@ topic: decode-the-fact-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.227Z
-keywords: [Decode, Fact, Map, Tabular, Report, Summary, Matrix]
+lastCollected: 2026-03-12T05:14:32.162Z
+estimatedTokens: 794
+keywords: [Decode, Fact, Map, fact, map, contains, summary, record-level, data, values, report., Tabular, Report, Summary, Matrix]
 ---
 
 # Decode the Fact Map
+
+> The fact map contains the summary and record-level data
+values for a report.
 
 # Decode the Fact Map
 

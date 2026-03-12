@@ -5,11 +5,14 @@ topic: connectapiocitransferreservationsingleoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.419Z
-keywords: [ConnectApi.OCITransferReservationSingleOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.161Z
+estimatedTokens: 283
+keywords: [ConnectApi.OCITransferReservationSingleOutputRepresentation, Details, single, transferred, reservation.]
 ---
 
 # ConnectApi.OCITransferReservationSingleOutputRepresentation
+
+> Details of a single transferred reservation.
 
 # ConnectApi.OCITransferReservationSingleOutputRepresentation
 
@@ -26,3 +29,9 @@ Details of a single transferred reservation.
 | stockKeepingUnit | String | The SKU of the transferred product. | 51.0 |
 | toLocationGroupIdentifier | String | The identifier of the location group that received the reservation. | 51.0 |
 | toLocationIdentifier | String | The identifier of the location that received the reservation. | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

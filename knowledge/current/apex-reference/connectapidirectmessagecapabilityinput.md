@@ -5,11 +5,14 @@ topic: connectapidirectmessagecapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.087Z
-keywords: [ConnectApi.DirectMessageCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:24.782Z
+estimatedTokens: 252
+keywords: [ConnectApi.DirectMessageCapabilityInput, Create, update, members, direct, message.]
 ---
 
 # ConnectApi.DirectMessageCapabilityInput
+
+> Create or update the members of a direct message.
 
 # ConnectApi.DirectMessageCapabilityInput
 
@@ -24,3 +27,9 @@ Create or update the members of a direct message.
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

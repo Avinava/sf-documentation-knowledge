@@ -5,11 +5,16 @@ topic: sobject-blob-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.644Z
-keywords: [sObject, Blob, Get, Note, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:35.972Z
+estimatedTokens: 299
+keywords: [sObject, Blob, Get, specified, blob, field, individual, record, binary, data., Only, certain, standard, objects, fields, such, Attachment, ContentNote, ContentVersion, Document]
 ---
 
 # sObject Blob Get
+
+> Gets the specified blob field from an individual record and returns it as binary data.
+  Only certain standard objects have blob fields, such as Attachment, ContentNote, ContentVersion,
+  Document, Folder, and Note.
 
 # sObject Blob Get
 
@@ -50,3 +55,7 @@ For an example of retrieving blob data from a Document, see [Get Blob Data](atla
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Get Blob Data (atlas.en-us.api_rest.meta/api_rest/dome_sobject_blob_retrieve.htm)

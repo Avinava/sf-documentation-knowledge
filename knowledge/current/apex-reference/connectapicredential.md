@@ -5,11 +5,14 @@ topic: connectapicredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.488Z
-keywords: [ConnectApi.Credential]
+lastCollected: 2026-03-12T05:14:26.885Z
+estimatedTokens: 470
+keywords: [ConnectApi.Credential, Credential.]
 ---
 
 # ConnectApi.Credential
+
+> Credential.
 
 # ConnectApi.Credential
 
@@ -24,3 +27,13 @@ Credential.
 | externalCredential | String | Fully qualified developer name of the external credential. | 56.0 |
 | principalName | String | Name of the external credential named principal. | 56.0 |
 | principalType | ConnectApi.​CredentialPrincipal​Type | Type of credential principal. Values are:AwsStsPrincipalNamedPrincipalPerUserPrincipal | 56.0 |
+
+## Related Topics
+
+- ConnectApi.​CredentialAuthentication​Protocol (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CredentialAuthentication​ProtocolVariant (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CredentialAuthentication​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CredentialValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_credential_value.htm)
+- ConnectApi.​CredentialPrincipal​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

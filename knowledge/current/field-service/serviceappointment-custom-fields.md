@@ -5,11 +5,15 @@ topic: serviceappointment-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.129Z
-keywords: [ServiceAppointment, Custom, Fields, Supported, Calls, Special, Access, Rules, Internal, See]
+lastCollected: 2026-03-12T05:14:55.348Z
+estimatedTokens: 2885
+keywords: [ServiceAppointment, Custom, Fields, fields, associated, appointment, complete, work, customer, Field, Service., Supported, Calls, Special, Access, Rules, Internal]
 ---
 
 # ServiceAppointment Custom Fields
+
+> Custom fields associated with an appointment to complete work for a customer
+         in Field Service.
 
 # ServiceAppointment Custom Fields
 
@@ -61,16 +65,23 @@ These internal fields are used by the Field Service managed package for Street L
 #### See Also
 
 -   [Salesforce Object Reference: ServiceAppointment](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_serviceappointment.htm "Salesforce Object Reference: ServiceAppointment - HTML (New Window)")
-    
+
 -   [Salesforce Help: Schedule an Appointment Automatically](https://help.salesforce.com/articleView?id=service.pfs_scheduling_auto.htm&type=5&language=en_US "Salesforce Help: Schedule an Appointment Automatically - HTML (New Window)")
-    
+
 -   [Salesforce Help: Create Custom Appointment Icons](https://help.salesforce.com/articleView?id=service.pfs_gantt_icons.htm&type=5&language=en_US "Salesforce Help: Create Custom Appointment Icons - HTML (New Window)")
-    
+
 -   [Salesforce Help: Control Which Appointments Appear in the Dispatcher Console](https://help.salesforce.com/articleView?id=service.pfs_horizon.htm&type=5&language=en_US "Salesforce Help: Control Which Appointments Appear in the Dispatcher
     Console - HTML (New Window)")
-    
+
 -   [Salesforce Help: Fill Schedule Gaps](https://help.salesforce.com/articleView?id=service.pfs_fill_schedule.htm&type=5&language=en_US "Salesforce Help: Fill Schedule Gaps - HTML (New Window)")
-    
+
 -   [Salesforce Help: Enable Multiday Service Appointments](https://help.salesforce.com/articleView?id=service.pfs_multiday.htm&type=5&language=en_US "Salesforce Help: Enable Multiday Service Appointments - HTML (New Window)")
-    
+
 -   [Salesforce Help: Schedule Appointments Using Priorities](https://help.salesforce.com/articleView?id=service.pfs_scheduling_priority.htm&type=5&language=en_US "Salesforce Help: Schedule Appointments Using Priorities - HTML (New Window)")
+
+## Code Examples
+
+```
+IF (ISBLANK(SchedStartTime), 0, 
+(SchedEndTime - SchedStartTime)*24*60)
+```

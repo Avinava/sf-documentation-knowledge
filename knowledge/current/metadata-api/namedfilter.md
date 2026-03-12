@@ -5,11 +5,20 @@ topic: namedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.439Z
-keywords: [NamedFilter, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, FilterItems, FilterOperation, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:44.103Z
+estimatedTokens: 1582
+keywords: [NamedFilter, Represents, metadata, associated, lookup, filter., used, create, update, delete, filter, definitions., component, removed, API, version, 30.0, only, previous, versions.]
 ---
 
 # NamedFilter
+
+> Represents the metadata associated with a lookup filter. This metadata
+            type
+            is used to create, update, or delete lookup filter definitions. This
+            component has been removed as of API version 30.0 and is only available in previous API
+            versions. The metadata associated with a lookup
+                filter is now represented by the lookupFilter field in the CustomField
+                component.
 
 # NamedFilter
 
@@ -99,9 +108,50 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [Picklist (Including Dependent Picklist)](atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm "Deprecated. Represents a picklist (or dependent picklist) definition for a custom field in a custom object or a custom or standard field in a standard object, such as an account.")
-    
+
 -   [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.")
-    
+
 -   [CustomField](atlas.en-us.api_meta.meta/api_meta/customfield.htm "Represents the metadata associated with a field. Use this metadata type to create, update, or delete custom field definitions on standard, custom, and external objects or standard field definitions on standard objects.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+....
+    <namedfilters>
+        <fullName>nf_Acc</fullName>
+        <active>true</active>
+        <booleanFilter>1 OR 2</booleanFilter>
+        <field>Account.lk__c</field>
+        <filterItems>
+            <field>Account.Phone</field>
+            <operation>notEqual</operation>
+            <value>x</value>
+        </filterItems>
+        <filterItems>
+            <field>Account.Fax</field>
+            <operation>notEqual</operation>
+            <value>y</value>
+        </filterItems>
+        <name>Acc</name>
+        <sourceObject>Account</sourceObject>
+    </namedfilters>
+....
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Metadata Field Types (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_listview.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
+- Picklist (Including Dependent Picklist) (atlas.en-us.api_meta.meta/api_meta/meta_picklist.htm)
+- CustomField (atlas.en-us.api_meta.meta/api_meta/customfield.htm)

@@ -5,11 +5,14 @@ topic: field
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:12.667Z
-keywords: [Field, Important]
+lastCollected: 2026-03-12T05:14:55.073Z
+estimatedTokens: 1587
+keywords: [Field, field's, metadata., Important]
 ---
 
 # Field
+
+> A field's metadata.
 
 # Field
 

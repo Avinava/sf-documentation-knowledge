@@ -5,11 +5,15 @@ topic: deploy-components-to-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.489Z
-keywords: [Deploy, Components, Production]
+lastCollected: 2026-03-12T05:14:33.855Z
+estimatedTokens: 758
+keywords: [Deploy, Components, Production, step, deploy, Apex, code, custom, created, previously, production, organization, change, sets.]
 ---
 
 # Deploy Components to Production
+
+> In this step, you deploy the Apex code and the custom object you created previously
+        to your production organization using change sets.
 
 # Deploy Components to Production
 
@@ -44,3 +48,10 @@ This procedure doesn't apply to Developer organizations since change sets are av
 In this tutorial, you learned how to create a custom object, how to add an Apex trigger, class, and test class. Finally, you also learned how to test your code, and how to upload the code and the custom object using Change Sets.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_qs_test.htm "Add a Test Class")
+
+## Related Topics
+
+- The
+                        HelloWorldTestClass Apex test class. (atlas.en-us.apexcode.meta/apexcode/apex_qs_test.htm)
+- Deploying Apex (atlas.en-us.apexcode.meta/apexcode/apex_deploying.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_qs_test.htm)

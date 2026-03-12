@@ -5,11 +5,15 @@ topic: recommendation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:09.763Z
-keywords: [Recommendation, Details]
+lastCollected: 2026-03-12T05:14:50.628Z
+estimatedTokens: 351
+keywords: [Recommendation, Details, Specifies, recommendation, details, returned, request.]
 ---
 
 # Recommendation Details
+
+> Specifies the recommendation details returned by the recommendation
+      request.
 
 # Recommendation Details
 
@@ -28,3 +32,7 @@ Specifies the recommendation details returned by the recommendation request.
 | imageUrl | String | The URL of the recommendation image to display. | Small, 56.0 | 56.0 |
 | name | String | The name of the recommendation. | Small, 56.0 | 56.0 |
 | rejectionLabel | String | The text indicating user rejection of the recommendation. | Small, 56.0 | 56.0 |
+
+## Related Topics
+
+- Recommendation Action Parameters (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_recommendation_action_param.htm)

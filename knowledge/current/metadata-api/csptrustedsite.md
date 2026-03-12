@@ -5,11 +5,20 @@ topic: csptrustedsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.437Z
-keywords: [CspTrustedSite, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.145Z
+estimatedTokens: 1816
+keywords: [CspTrustedSite, Represents, trusted, URL., component, specify, Content, Security, Policy, CSP, directives, permissions, policy, directives., directive, allows, Lightning, components, third-party, APIs]
 ---
 
 # CspTrustedSite
+
+> Represents a trusted URL. For each CspTrustedSite
+            component, you can specify Content Security Policy (CSP) directives and permissions
+            policy directives. Each CSP directive allows Lightning components, third-party APIs, and
+            WebSocket connections to access a resource type from the trusted URL. If the
+            Permissions-Policy HTTP header is enabled, each permissions policy directive grants the
+            trusted URL access to a browser feature. In API version 58.0 and earlier, CspTrustedSite
+            components included only CSP directives and were referred to as CSP Trusted Sites.
 
 # CspTrustedSite
 
@@ -62,3 +71,29 @@ To ensure smooth integration across Salesforce products, Salesforce includes URL
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CspTrustedSite xmlns="http://soap.sforce.com/2006/04/metadata">
+    <canAccessCamera>false</canAccessCamera>
+    <canAccessMicrophone>true</canAccessMicrophone>
+    <description>Used for Lightning component callout to mapping web service</description>
+    <context>LEX</context>
+    <endpointUrl>https://www.maptestsite.net/</endpointUrl>
+    <isActive>true</isActive>
+    <isApplicableToConnectSrc>true</isApplicableToConnectSrc>
+    <isApplicableToFontSrc>true</isApplicableToFontSrc>
+    <isApplicableToFrameSrc>false</isApplicableToFrameSrc>
+    <isApplicableToImgSrc>true</isApplicableToImgSrc>
+    <isApplicableToMediaSrc>false</isApplicableToMediaSrc>
+    <isApplicableToStyleSrc>true</isApplicableToStyleSrc>
+</CspTrustedSite>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- SecuritySettings (atlas.en-us.api_meta.meta/api_meta/meta_securitysettings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

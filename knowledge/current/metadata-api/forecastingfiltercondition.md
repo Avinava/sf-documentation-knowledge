@@ -5,11 +5,15 @@ topic: forecastingfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.776Z
-keywords: [ForecastingFilterCondition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.067Z
+estimatedTokens: 782
+keywords: [ForecastingFilterCondition, Represents, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # ForecastingFilterCondition
+
+> Represents the custom filter condition logic for including
+      or excluding data from opportunity forecasts.
 
 # ForecastingFilterCondition
 
@@ -70,3 +74,30 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 ## Usage
 
 A forecast type can contain up to three filter conditions.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingFilterCondition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <colName>mostlikely</colName>
+    <fieldName>Amount</fieldName>
+    <forecastingFilter>d</forecastingFilter>
+    <forecastingSourceDefinition>d7</forecastingSourceDefinition>
+    <masterLabel>FFC_Opportunity</masterLabel>
+    <operation>greaterThan</masterLabel>
+    <sortOrder>1</masterLabel>
+    <value>100000</value>
+</ForecastingFilterCondition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ForecastingFilterCondition</name>
+    </types>
+    <version>55.0</version>
+</Package>
+```

@@ -5,11 +5,15 @@ topic: bot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.824Z
-keywords: [Bot, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, LocalMlDomain, ConversationContextVariable, ConversationContextVariableMapping, ConversationDefinitionChannelProvider, Note, PageContextVariable, Declarative, Metadata]
+lastCollected: 2026-03-12T05:14:37.289Z
+estimatedTokens: 2325
+keywords: [Bot, Represents, definition, Einstein, configuration, versions., Only, version, active., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, LocalMlDomain]
 ---
 
 # Bot
+
+> Represents a definition of an Einstein Bot configuration that
+            can have one or more versions. Only one version can be active.
 
 # Bot
 
@@ -132,3 +136,217 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Bot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <botMlDomain>
+        <label>Astros Pizza</label>
+        <mlIntents>
+            <developerName>New_Order</developerName>
+            <label>New Order</label>
+            <mlIntentUtterances>
+                <utterance>Today is pie day so I want pie</utterance>
+            </mlIntentUtterances>
+        </mlIntents>
+        <mlSlotClasses>
+            <developerName>Size</developerName>
+            <extractionType>Value</extractionType>
+            <label>Size</label>
+            <mlSlotClassValues>
+                <synonymGroup>
+                    <languages>en_US</languages>
+                    <terms>Big</terms>
+                    <terms>Extra Large</terms>
+                    <terms>X-Large</terms>
+                    <terms>Grande</terms>
+                    <terms>Huge</terms>
+                </synonymGroup>
+                <value>Large</value>
+            </mlSlotClassValues>
+        </mlSlotClasses>
+        <name>Astros_Pizza_ld1</name>
+    </botMlDomain>
+    <botVersions>
+        <fullName>v1</fullName>
+        <botDialogGroups>
+            <developerName>Order_Management</developerName>
+            <label>Order Management</label>
+        </botDialogGroups>
+        <botDialogs>
+            <botDialogGroup>Order_Management</botDialogGroup>
+            <botSteps>
+                <botMessages>
+                    <message>🍕🍕🍕Pizza Time! 🍕🍕🍕</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botStepConditions>
+                    <leftOperandName>Verified_User</leftOperandName>
+                    <leftOperandType>ConversationVariable</leftOperandType>
+                    <operatorType>Equals</operatorType>
+                    <rightOperandValue>false</rightOperandValue>
+                </botStepConditions>
+                <botSteps>
+                    <botNavigation>
+                        <botNavigationLinks>
+                            <targetBotDialog>Customer_Verification</targetBotDialog>
+                        </botNavigationLinks>
+                        <type>Call</type>
+                    </botNavigation>
+                    <type>Navigation</type>
+                </botSteps>
+                <type>Group</type>
+            </botSteps>
+            <botSteps>
+                <botStepConditions>
+                    <leftOperandName>Location</leftOperandName>
+                    <leftOperandType>ConversationVariable</leftOperandType>
+                    <operatorType>IsNotSet</operatorType>
+                </botStepConditions>
+                <botSteps>
+                    <botNavigation>
+                        <botNavigationLinks>
+                            <targetBotDialog>Select_Location</targetBotDialog>
+                        </botNavigationLinks>
+                        <type>Call</type>
+                    </botNavigation>
+                    <type>Navigation</type>
+                </botSteps>
+                <type>Group</type>
+            </botSteps>
+            <botSteps>
+                <botVariableOperation>
+                    <botInvocation>
+                        <invocationActionName>CreateOrderService</invocationActionName>
+                        <invocationActionType>apex</invocationActionType>
+                        <invocationMappings>
+                            <parameterName>customer</parameterName>
+                            <type>Input</type>
+                            <variableName>Contact</variableName>
+                            <variableType>ConversationVariable</variableType>
+                        </invocationMappings>
+                        <invocationMappings>
+                            <parameterName>location</parameterName>
+                            <type>Input</type>
+                            <variableName>Location</variableName>
+                            <variableType>ConversationVariable</variableType>
+                        </invocationMappings>
+                        <invocationMappings>
+                            <parameterName>output</parameterName>
+                            <type>Output</type>
+                            <variableName>Pizza_Order</variableName>
+                            <variableType>ConversationVariable</variableType>
+                        </invocationMappings>
+                    </botInvocation>
+                    <type>Set</type>
+                </botVariableOperation>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Perfect, let&apos;s work on your order from our {!Location.Name} location</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botNavigation>
+                    <botNavigationLinks>
+                        <targetBotDialog>Add_Items_to_Order</targetBotDialog>
+                    </botNavigationLinks>
+                    <type>Redirect</type>
+                </botNavigation>
+                <type>Navigation</type>
+            </botSteps>
+            <developerName>New_Order</developerName>
+            <label>New Order</label>
+            <mlIntent>New_Order</mlIntent>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <conversationVariables>
+            <dataType>Object</dataType>
+            <developerName>Contact</developerName>
+            <label>Contact</label>
+        </conversationVariables>
+        <conversationVariables>
+            <dataType>Text</dataType>
+            <developerName>Delivery_Address</developerName>
+            <label>Delivery Address</label>
+        </conversationVariables>
+        <conversationVariables>
+            <dataType>Object</dataType>
+            <developerName>Pizza_Order</developerName>
+            <label>Pizza Order</label>
+        </conversationVariables>
+        <entryDialog>Welcome</entryDialog>
+        <mainMenuDialog>Main_Menu</mainMenuDialog>
+    </botVersions>
+    <contextVariables>
+        <contextVariableMappings>
+            <SObjectType>LiveChatTranscript</SObjectType>
+            <fieldName>LiveChatTranscript.ChatKey</fieldName>
+            <messageType>WebChat</messageType>
+        </contextVariableMappings>
+        <dataType>Text</dataType>
+        <developerName>ChatKey</developerName>
+        <label>Chat Key</label>
+    </contextVariables>
+    <contextVariables>
+        <contextVariableMappings>
+            <SObjectType>LiveChatTranscript</SObjectType>
+            <fieldName>LiveChatTranscript.ContactId</fieldName>
+            <messageType>WebChat</messageType>
+        </contextVariableMappings>
+        <dataType>Id</dataType>
+        <developerName>ContactId</developerName>
+        <label>Contact Id</label>
+    </contextVariables>
+    <contextVariables>
+        <contextVariableMappings>
+            <SObjectType>LiveChatTranscript</SObjectType>
+            <fieldName>LiveChatTranscript.LiveChatVisitorId</fieldName>
+            <messageType>WebChat</messageType>
+        </contextVariableMappings>
+        <dataType>Id</dataType>
+        <developerName>EndUserId</developerName>
+        <label>End User Id</label>
+    </contextVariables>
+    <contextVariables>
+        <contextVariableMappings>
+            <SObjectType>LiveChatTranscript</SObjectType>
+            <fieldName>LiveChatTranscript.Id</fieldName>
+            <messageType>WebChat</messageType>
+        </contextVariableMappings>
+        <dataType>Id</dataType>
+        <developerName>RoutableId</developerName>
+        <label>Routable Id</label>
+    </contextVariables>
+....<conversationChannelProviders>
+        <agentRequired>false</agentRequired>
+        <chatButtonName>Chat_Button_For_Bot</chatButtonName>
+    </conversationChannelProviders>
+    <label>Astro&apos;s Pizza</label>
+</Bot>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Pizza_Bot</members>
+        <name>Bot</name>
+    </types>
+    <version>45.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- BotVersion (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- MlIntent (atlas.en-us.api_meta.meta/api_meta/meta_mldomain.htm)
+- MlSlotClass (atlas.en-us.api_meta.meta/api_meta/meta_mldomain.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

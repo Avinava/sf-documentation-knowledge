@@ -5,11 +5,16 @@ topic: get-field-values-from-an-external-object-record-by-using-the-salesforce-i
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:24.908Z
-keywords: [Get, Field, Values, External, Object, Record, Salesforce]
+lastCollected: 2026-03-12T05:14:34.985Z
+estimatedTokens: 228
+keywords: [Get, Field, Values, External, Record, Salesforce, sObject, Rows, resource, retrieve, field, values, record., Specify, fields, want, GET, resource.]
 ---
 
 # Get Field Values from an External Object Record by Using the Salesforce ID
+
+> You use the sObject Rows resource to retrieve field values from a record. Specify the fields
+            you want to retrieve in the fields parameter and
+            use the GET method of the resource.
 
 # Get Field Values from an External Object Record by Using the Salesforce ID
 
@@ -32,3 +37,24 @@ Example response body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Customer__x/x01D0000000002RIAQ?fields=Country__c -H "Authorization: Bearer token"
+```
+
+```
+{
+  "attributes" : {
+    "type" : "Customer__x",
+    "url" : "/services/data/v66.0/sobjects/Customer__x/x01D0000000002RIAQ"
+  },
+  "Country__c" : "Argentina",
+  "Id" : "x01D0000000002RIAQ"
+}
+```
+
+## Related Topics
+
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)

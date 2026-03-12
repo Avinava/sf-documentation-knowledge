@@ -6,12 +6,16 @@ topic: setutilityhighlighted-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.386Z
-keywords: [setUtilityHighlighted, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.973Z
+estimatedTokens: 292
+keywords: [setUtilityHighlighted, Lightning, Experience, utility, highlighted, giving, badge, prominent, background, color., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # setUtilityHighlighted() for Lightning Experience for
     Lightning Experience
+
+> Sets a utility as highlighted, giving it a badge and a more prominent background color.
+  This method isn’t supported for Lightning Web Components (LWC).
 
 # setUtilityHighlighted() for Lightning Experience for Lightning Experience
 
@@ -45,3 +49,27 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Utility Highlighted" onclick="{! c.handleSetUtilityHighlighted}" />
+</aura:component>
+```
+
+```
+({
+    handleSetUtilityHighlighted : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setUtilityHighlighted({
+            highlighted: true
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updateUtility() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updateUtility.htm)

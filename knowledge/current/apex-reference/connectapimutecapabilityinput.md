@@ -5,11 +5,14 @@ topic: connectapimutecapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.325Z
-keywords: [ConnectApi.MuteCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:25.170Z
+estimatedTokens: 195
+keywords: [ConnectApi.MuteCapabilityInput, Mute, unmute, feed, element.]
 ---
 
 # ConnectApi.MuteCapabilityInput
+
+> Mute or unmute a feed element.
 
 # ConnectApi.MuteCapabilityInput
 
@@ -24,3 +27,9 @@ This class is a subclass of [ConnectApi.FeedElementCapabilityInput](atlas.en-us.
 #### See Also
 
 -   [setIsMutedByMe(communityId, feedElementId, isMutedByMe)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm#apex_ConnectAPI_ChatterFeeds_setIsMutedByMe_1 "Mute or unmute a feed element.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- setIsMutedByMe(communityId, feedElementId, isMutedByMe) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm)

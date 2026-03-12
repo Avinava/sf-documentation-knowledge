@@ -5,11 +5,19 @@ topic: sharingreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.558Z
-keywords: [SharingReason, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:36.917Z
+estimatedTokens: 557
+keywords: [SharingReason, Represents, Apex, sharing, reason, which, used, indicate, why, implemented, custom, object., managed, allows, developers, programmatically, share, objects., only, users]
 ---
 
 # SharingReason
+
+> Represents an Apex sharing reason, which is used to
+            indicate why sharing was implemented for a custom object. Apex managed sharing
+        allows developers to use Apex to programmatically share custom objects. When you use Apex
+        managed sharing to share a custom object, only users with the “Modify All
+        Data” permission can add or change the sharing on the custom object's record, and the
+        sharing access is maintained across record owner changes.
 
 # SharingReason
 
@@ -42,3 +50,25 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm "SearchLayouts")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingrecalculation.htm "SharingRecalculation")
+
+## Code Examples
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+. . .
+    <sharingReasons>
+        <fullName>recruiter__c</fullName>
+        <label>Recruiter</label>
+    </sharingReasons>
+ . . .
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- fullName (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_searchlayouts.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_apexsharingrecalculation.htm)

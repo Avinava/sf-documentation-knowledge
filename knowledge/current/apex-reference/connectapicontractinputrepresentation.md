@@ -5,11 +5,14 @@ topic: connectapicontractinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.026Z
-keywords: [ConnectApi.ContractInputRepresentation]
+lastCollected: 2026-03-12T05:14:24.694Z
+estimatedTokens: 137
+keywords: [ConnectApi.ContractInputRepresentation, Input, create, update, contract.]
 ---
 
 # ConnectApi.ContractInputRepresentation
+
+> Input to create and update contract.
 
 # ConnectApi.ContractInputRepresentation
 
@@ -21,3 +24,8 @@ Input to create and update contract.
 | recordTypeName | String | Contract record type name. | Optional | 56.0 |
 | sourceObjectId | String | Source record ID. | Required | 56.0 |
 | templateName | String | Document template name for document generation. | Optional | 56.0 |
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

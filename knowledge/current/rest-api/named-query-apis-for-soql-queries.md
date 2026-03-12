@@ -5,11 +5,15 @@ topic: named-query-apis-for-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:44:25.473Z
-keywords: [Named, Query, APIs, SOQL, Queries, Note]
+lastCollected: 2026-03-12T05:14:35.739Z
+estimatedTokens: 249
+keywords: [Named, Query, APIs, SOQL, Queries, API, create, custom, Salesforce, Language, queries, expose, REST, calls., Decide, data, want, then, data., Setup]
 ---
 
 # Named Query APIs for SOQL Queries
+
+> Use Named Query API to create custom Salesforce Object Query Language (SOQL) queries that
+      you can expose in REST API calls. Decide what data you want to expose, then create Named Query APIs to return that data. You can create Named Query APIs in Setup or in Visual Studio Code (VS Code).
 
 # Named Query APIs for SOQL Queries
 

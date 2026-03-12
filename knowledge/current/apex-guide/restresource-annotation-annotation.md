@@ -4,12 +4,17 @@ domain: apex-guide
 topic: restresource-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.502Z
-keywords: [RestResource, Annotation, URL, Guidelines]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.495Z
+estimatedTokens: 375
+keywords: [RestResource, Annotation, @RestResource, annotation, used, level, enables, expose, Apex, REST, resource., URL, Guidelines]
 ---
 
 # RestResource Annotation Annotation
+
+> The @RestResource annotation is used at
+    the class level and enables you to expose an Apex class as a REST
+    resource.
 
 # RestResource Annotation Annotation
 

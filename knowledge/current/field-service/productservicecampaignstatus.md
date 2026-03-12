@@ -5,11 +5,15 @@ topic: productservicecampaignstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.789Z
-keywords: [ProductServiceCampaignStatus, Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:56.366Z
+estimatedTokens: 596
+keywords: [ProductServiceCampaignStatus, Represents, status, product, service, campaign, field, service., API, version, 51.0, later., Supported, Calls, Special, Access, Rules, Fields, Usage, Note]
 ---
 
 # ProductServiceCampaignStatus
+
+> Represents a status for a product service campaign in field service. This
+    object is available in API version 51.0 and later.
 
 # ProductServiceCampaignStatus
 

@@ -5,11 +5,14 @@ topic: connectapichatterlike
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.318Z
-keywords: [ConnectApi.ChatterLike, See]
+lastCollected: 2026-03-12T05:14:26.619Z
+estimatedTokens: 133
+keywords: [ConnectApi.ChatterLike, Chatter, information.]
 ---
 
 # ConnectApi.ChatterLike
+
+> Chatter like information.
 
 # ConnectApi.ChatterLike
 
@@ -25,3 +28,10 @@ Chatter like information.
 #### See Also
 
 -   [ConnectApi.ChatterLikePage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_like_page.htm "Page of Chatter likes.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.ChatterLikePage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_like_page.htm)

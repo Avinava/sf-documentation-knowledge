@@ -5,11 +5,15 @@ topic: sandboxsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.489Z
-keywords: [SandboxSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.561Z
+estimatedTokens: 533
+keywords: [SandboxSettings, Represents, Sandbox, settings., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields, Declarative, Sample, Definition]
 ---
 
 # SandboxSettings
+
+> Represents Sandbox settings. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # SandboxSettings
 
@@ -42,3 +46,17 @@ The following is an example of a SandboxSettings component.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_settings.htm). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SandboxSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <disableSandboxExpirationEmails>true</disableSandboxExpirationEmails>
+</SandboxSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

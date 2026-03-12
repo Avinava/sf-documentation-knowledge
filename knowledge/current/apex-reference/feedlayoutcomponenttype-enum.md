@@ -5,11 +5,14 @@ topic: feedlayoutcomponenttype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:40.373Z
-keywords: [FeedLayoutComponentType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.477Z
+estimatedTokens: 256
+keywords: [FeedLayoutComponentType, Indicates, feed, layout, component., Values]
 ---
 
 # FeedLayoutComponentType Enum
+
+> Indicates the type of feed layout component.
 
 # FeedLayoutComponentType Enum
 

@@ -5,11 +5,17 @@ topic: getformattedthreadingtokenrecordid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.014Z
-keywords: [getFormattedThreadingToken, recordId, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.192Z
+estimatedTokens: 699
+keywords: [getFormattedThreadingToken, recordId, email, threading, token, that’s, formatted, correct, prefix, suffix., embedded, outbound, body, subject, both, subject., users, reply, tokens, used]
 ---
 
 # getFormattedThreadingToken(recordId)
+
+> Returns an email threading token that’s formatted with the correct
+      prefix and suffix. This token can be embedded in an outbound email body, email subject, or
+      both the body and subject. When users reply to the email, threading tokens can be used to
+      attach responses to a record, such as a Case record in Email-to-Case.
 
 # getFormattedThreadingToken(recordId)
 
@@ -50,3 +56,14 @@ If something goes wrong while generating the token, such as a user lacking permi
 In this sample, we send an email with a threading token so that the email and any responses are associated with the related case.
 
 // Get your Record ID. Here, we're using a dummy Case ID. ID caseId = Id.valueOf('500xx000000bpkTAAQ'); // Get the formatted threading token. String formattedToken = EmailMessages.getFormattedThreadingToken(caseId); // Create a SingleEmailMessage object. Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage(); // Set recipients and other fields. email.setToAddresses(new String\[\] {'test@example.com'}); // Append the threading token to the email body (text or html), subject, // or both body and subject. email.setPlainTextBody('Test Email Notification text body' + ' ' + formattedToken); email.setHtmlBody('Test Email Notification html body' + '<br><br>' + formattedToken); email.setSubject('Test Notification ' + '\[ ' + formattedToken + ' \]'); // ........... more fields ........... // Send out the email. Messaging.sendEmail(new Messaging.SingleEmailMessage\[\]{email});
+
+## Code Examples
+
+```
+thread::pp5XPGfmNf2hRZdRCWnrohc::
+```
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- EmailMessages.getRecordIdFromEmail(subject, textBody, htmlBody) (atlas.en-us.apexref.meta/apexref/apex_System_EmailMessages_getRecordIdFromEmail.htm)

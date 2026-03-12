@@ -5,11 +5,15 @@ topic: svccatalogitemdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.815Z
-keywords: [SvcCatalogItemDef, File, Suffix, Directory, Location, Version, Fields, SvcCatalogItemDefFiltrCrit, SvcCatalogCategoryItem, SvcCatalogItemDefDataCategorySelection, SvcCatalogItemAttribute, SvcCatalogItemAttrDetail, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.085Z
+estimatedTokens: 2063
+keywords: [SvcCatalogItemDef, Represents, entity, associated, specific, individual, service, Service, Catalog., File, Suffix, Directory, Location, Version, Fields, SvcCatalogItemDefFiltrCrit, SvcCatalogCategoryItem, SvcCatalogItemDefDataCategorySelection, SvcCatalogItemAttribute, SvcCatalogItemAttrDetail]
 ---
 
 # SvcCatalogItemDef
+
+> Represents the entity associated with a specific, individual service available in the
+    Service Catalog.
 
 # SvcCatalogItemDef
 
@@ -112,3 +116,62 @@ The following is an example of a SvcCatalogItemDef component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<SvcCatalogItemDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>57.0</apiVersion>
+    <categories>
+        <isPrimaryCategory>true</isPrimaryCategory>
+        <sortOrder>3</sortOrder>
+        <svcCatalogCategory>Category1</svcCatalogCategory>
+    </categories>
+    <dataCategories>
+        <category>France</category>
+        <categoryGroup>World</categoryGroup>
+    </dataCategories>
+    <masterLabel>Item Draft Update</masterLabel>
+    <description>Item with a Draft state</description>
+    <fulfillmentFlow>TestQuestions</fulfillmentFlow>
+    <isFeatured>false</isFeatured>
+    <isProtected>false</isProtected>
+    <status>Published</status>
+    <inputs>
+        <name>Input1</name>
+        <type>FulfillmentInput</type>
+        <inputVariable>input1</inputVariable>
+        <label>Input Static</label>
+        <inputType>Text</inputType>
+        <isRequired>false</isRequired>
+    </inputs>
+    <inputs>
+        <type>UserQuestion</type>
+        <inputType>Picklist</inputType>
+        <isRequired>false</isRequired>
+        <label>My First Question</label>
+        <name>first_question</name>
+        <options>
+            <label>Option 1</label>
+            <value>option_1</value>
+            <isDefault>true</isDefault>
+        </options>
+        <options>
+            <label>Option 2</label>
+            <value>option_2</value>
+            <isDefault>false</isDefault>
+        </options>
+        <options>
+            <label>Option 3</label>
+            <value>option_3</value>
+            <isDefault>false</isDefault>
+        </options>
+    </inputs>
+</SvcCatalogItemDef>
+```
+
+## Related Topics
+
+- SvcCatalogFulfillmentFlow (atlas.en-us.api_meta.meta/api_meta/meta_svccatalogfulfillmentflow.htm)
+- SharedTo (atlas.en-us.api_meta.meta/api_meta/meta_sharedto.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

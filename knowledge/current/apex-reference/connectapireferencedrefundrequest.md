@@ -5,11 +5,14 @@ topic: connectapireferencedrefundrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.515Z
-keywords: [ConnectApi.ReferencedRefundRequest]
+lastCollected: 2026-03-12T05:14:25.465Z
+estimatedTokens: 219
+keywords: [ConnectApi.ReferencedRefundRequest, Referenced, refund, input.]
 ---
 
 # ConnectApi.ReferencedRefundRequest
+
+> Referenced refund input.
 
 # ConnectApi.ReferencedRefundRequest
 
@@ -25,3 +28,11 @@ Subclass of [ConnectApi.RefundRequest](atlas.en-us.apexref.meta/apexref/apex_con
 | comments | String | Optional comments for the refund. | Optional | 50.0 |
 | effectiveDate | Datetime | Date when the refund becomes effective. | Optional | 50.0 |
 | paymentGroup | ConnectApi.​PaymentGroupRequest | Payment group details associated with the refund request. | Optional | 50.0 |
+
+## Related Topics
+
+- ConnectApi.RefundRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_refund.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​PaymentGroupRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_payment_group.htm)

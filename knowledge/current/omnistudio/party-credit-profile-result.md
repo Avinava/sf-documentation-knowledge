@@ -5,11 +5,14 @@ topic: party-credit-profile-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.654Z
-keywords: [Party, Credit, Profile, Result]
+lastCollected: 2026-03-12T05:14:50.458Z
+estimatedTokens: 379
+keywords: [Party, Credit, Profile, Result, Output, representation, request, create, party, credit, profile.]
 ---
 
 # Party Credit Profile Result
+
+> Output representation of the request to create the party credit profile.
 
 # Party Credit Profile Result
 
@@ -32,3 +35,7 @@ Output representation of the request to create the party credit profile.
 | partyId | String | ID of the party record. | Small, 61.0 | 61.0 |
 | partyProfileId | String | ID of the party profile. | Small, 61.0 | 61.0 |
 | recordTypeId | String | ID of the record type. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)

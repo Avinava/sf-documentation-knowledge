@@ -5,11 +5,14 @@ topic: connectapigrouprecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.727Z
-keywords: [ConnectApi.GroupRecord, See]
+lastCollected: 2026-03-12T05:14:25.786Z
+estimatedTokens: 128
+keywords: [ConnectApi.GroupRecord, record, associated, group.]
 ---
 
 # ConnectApi.GroupRecord
+
+> A record associated with a group.
 
 # ConnectApi.GroupRecord
 
@@ -24,3 +27,9 @@ A record associated with a group.
 #### See Also
 
 -   [ConnectApi.GroupRecordPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupRecordPage.htm "A paginated list of ConnectApi.GroupRecord objects.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.GroupRecordPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupRecordPage.htm)

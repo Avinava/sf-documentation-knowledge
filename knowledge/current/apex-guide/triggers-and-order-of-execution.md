@@ -4,12 +4,17 @@ domain: apex-guide
 topic: triggers-and-order-of-execution
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.760Z
-keywords: [Triggers, Order, Execution, Note, Additional, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.213Z
+estimatedTokens: 2134
+keywords: [Triggers, Order, Execution, save, record, insert, update, upsert, statement, Salesforce, performs, sequence, events, certain, order., Note, Additional, Considerations]
 ---
 
 # Triggers and Order of Execution
+
+> When you save a record with an insert,
+            update, or upsert statement, Salesforce performs a sequence of events in a certain
+        order.
 
 # Triggers and Order of Execution
 
@@ -33,18 +38,18 @@ During a recursive save, Salesforce skips steps 9 (assignment rules) through 17 
 
 1.  Loads the original record from the database or initializes the record for an upsert statement.
 2.  Loads the new record field values from the request and overwrites the old values.
-    
+
     Salesforce performs different validation checks depending on the type of request.
-    
+
     -   For requests from a standard UI edit page, Salesforce runs these system validation checks on the record:
-        
+
         -   Compliance with layout-specific rules
         -   Required values at the layout level and field-definition level
         -   Valid field formats
         -   Maximum field length
-        
+
         Additionally, if the request is from a User object on a standard UI edit page, Salesforce runs custom validation rules.
-        
+
     -   For requests from multiline item creation such as quote line items and opportunity line items, Salesforce runs custom validation rules.
     -   For requests from other sources such as an Apex application or a SOAP API call, Salesforce validates foreign keys, field formats, maximum field lengths, and restricted picklists. Before executing a trigger, Salesforce verifies that any custom foreign keys don’t refer to the object itself.
 3.  Executes record-triggered flows that are configured to run before the record is saved.
@@ -56,30 +61,30 @@ During a recursive save, Salesforce skips steps 9 (assignment rules) through 17 
 9.  Executes assignment rules.
 10.  Executes auto-response rules.
 11.  Executes workflow rules. If there are workflow field updates:
-     
+
      ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-     
+
      #### Note
-     
+
      This sequence applies only to workflow rules.
-     
+
      1.  Updates the record again.
      2.  Runs system validations again. Custom validation rules, flows, duplicate rules, processes built with Process Builder, and escalation rules aren’t run again.
      3.  Executes before update triggers and after update triggers, regardless of the record operation (insert or update), one more time (and only one more time)
 12.  Executes escalation rules.
 13.  Executes these Salesforce Flow automations, but not in a guaranteed order.
-     
+
      -   Processes built with Process Builder
      -   Flows launched by workflow rules (flow trigger workflow actions pilot)
-     
+
      ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-     
+
      #### Note
-     
+
      To control the order of execution of Salesforce Flow automations, use record-triggered flows. See [Manage Record-Triggered Flows](https://help.salesforce.com/s/articleView?id=platform.flow_trigger_explorer.htm&type=5&language=en_US "HTML (New Window)")
-     
+
      When a process or flow executes a DML operation, the affected record goes through the save procedure.
-     
+
 14.  Executes record-triggered flows that are configured to run after the record is saved
 15.  Executes entitlement rules.
 16.  If the record contains a roll-up summary field or is part of a cross-object workflow, performs calculations and updates the roll-up summary field in the parent record. Parent record goes through save procedure.
@@ -109,3 +114,9 @@ Note these considerations when working with triggers.
 
 -   [*Salesforce Help*: Triggers for Autolaunched Flows](https://help.salesforce.com/s/articleView?id=platform.flow_concepts_trigger.htm&type=5&language=en_US "Salesforce Help:  Triggers for Autolaunched Flows
     - HTML (New Window)")
+
+## Related Topics
+
+- Bulk DML Exception Handling (atlas.en-us.apexcode.meta/apexcode/apex_dml_bulk_exceptions.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_recovered_records.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_ignoring_operations.htm)

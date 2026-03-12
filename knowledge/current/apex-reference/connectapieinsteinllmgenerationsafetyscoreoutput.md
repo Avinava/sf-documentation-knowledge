@@ -5,11 +5,14 @@ topic: connectapieinsteinllmgenerationsafetyscoreoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.636Z
-keywords: [ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output]
+lastCollected: 2026-03-12T05:14:27.114Z
+estimatedTokens: 469
+keywords: [ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output, Safety, score, information, related, LLM, response.]
 ---
 
 # ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output
+
+> Safety score information related to the LLM response.
 
 # ConnectApi.​EinsteinLlm​Generation​SafetyScore​Output
 
@@ -24,3 +27,7 @@ Safety score information related to the LLM response.
 | sexualScore | Double | A higher value means the generated response is more likely to contain text meant to arouse sexual excitement or promote sexual services. Minimum value of 0.0. Maximum value of 1.0. | 60.0 |
 | toxicity​Score | Double | A higher value means the generated response is more likely to contain text that is rude, disrespectful, or unreasonable. Minimum value of 0.0. Maximum value of 1.0. | 60.0 |
 | violence​Score | Double | A higher value means the generated response is more likely to contain text that promotes or glorifies violence or celebrates the suffering or humiliation of others. Minimum value of 0.0. Maximum value of 1.0. | 60.0 |
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

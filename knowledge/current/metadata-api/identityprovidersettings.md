@@ -5,11 +5,15 @@ topic: identityprovidersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.033Z
-keywords: [IdentityProviderSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:40.402Z
+estimatedTokens: 678
+keywords: [IdentityProviderSettings, Represents, settings, used, enable, disable, Salesforce, SAML, identity, provider, single, sign-on, SSO, Parent, Manifest, Access, File, Suffix, Directory, Location]
 ---
 
 # IdentityProviderSettings
+
+> Represents the settings used to enable or disable
+			Salesforce as a SAML identity provider for single sign-on (SSO).
 
 # IdentityProviderSettings
 
@@ -57,3 +61,31 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IdentityProviderSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <certificateName>Certificate Name</certificateName>
+    <enableIdentityProvider>true</enableIdentityProvider>
+</IdentityProviderSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>IdentityProvider</members>
+        <name>Settings</name>
+    </types>
+    <version>57.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip
+					File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.357Z
-keywords: [WebLink, Important, Version, Fields, Java, Sample, Declarative, Metadata, Definition, Wildcard, Support, Manifest, File, See]
+lastCollected: 2026-03-12T05:14:43.967Z
+estimatedTokens: 1928
+keywords: [WebLink, Represents, custom, button, link, defined, object., Important, Version, Fields, Java, Sample, Declarative, Metadata, Definition, Wildcard, Support, Manifest, File]
 ---
 
 # WebLink
+
+> Represents a custom button or link defined in a custom
+            object.
 
 # WebLink
 
@@ -80,7 +84,80 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [HomePageComponent](atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm "Represents the metadata associated with a home page component. You can customize the Home tab in Salesforce Classic to include components such as sidebar links, a company logo, a dashboard snapshot, or custom components that you create. Use to create, update, or delete home page component definitions.")
-    
+
 -   [HomePageLayout](atlas.en-us.api_meta.meta/api_meta/meta_homepagelayouts.htm "Represents the metadata associated with a home page layout. You can customize home page layouts and assign the layouts to users based on their user profile.")
-    
+
 -   [CustomPageWebLink](atlas.en-us.api_meta.meta/api_meta/custompageweblink.htm "Represents a custom link defined in a home page component.")
+
+## Code Examples
+
+```apex
+public void WebLinkSample(String name) throws Exception {
+    WebLink WebLink = new WebLink();
+    // name variable represents the full name of the object 
+    // on which to create the WebLink, for example, customObject__c
+    WebLink.setFullName(name + ".googleButton");
+    WebLink.setUrl("http://www.google.com");
+    WebLink.setAvailability(WebLinkAvailability.online);
+    WebLink.setLinkType(WebLinkType.url);
+    WebLink.setEncodingKey(Encoding.fromString("UTF-8"));
+    WebLink.setOpenType(WebLinkWindowType.newWindow);
+    WebLink.setHeight(600);
+    WebLink.setWidth(600);
+    WebLink.setShowsLocation(false);
+    WebLink.setHasScrollbars(true);
+    WebLink.setHasToolbar(false);
+    WebLink.setHasMenubar(false);
+    WebLink.setShowsStatus(false);
+    WebLink.setIsResizable(true);
+    WebLink.setPosition(WebLinkPosition.none);
+    WebLink.setMasterLabel("google");
+    WebLink.setDisplayType(WebLinkDisplayType.link);
+
+    AsyncResult[] asyncResults = metadataConnection.create(new WebLink[]{WebLink});
+    // After the create() call completes, we must poll the results of checkStatus() 
+    // 
+
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+....
+    <WebLinks>
+        <fullName>googleButton</fullName>
+        <availability>online</availability>
+        <displayType>link</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <hasMenubar>false</hasMenubar>
+        <hasScrollbars>true</hasScrollbars>
+        <hasToolbar>false</hasToolbar>
+        <height>600</height>
+        <isResizable>true</isResizable>
+        <linkType>url</linkType>
+        <masterLabel>google</masterLabel>
+        <openType>newWindow</openType>
+        <position>none</position>
+        <protected>false</protected>
+        <showsLocation>false</showsLocation>
+        <showsStatus>false</showsStatus>
+        <url>http://www.google.com</url>
+        <width>600</width>
+    </WebLinks>
+....
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- Declarative Metadata Sample Definition (atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm)
+- Declarative Metadata Sample Definition (atlas.en-us.api_meta.meta/api_meta/meta_homepagelayouts.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_validationformulas.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- HomePageComponent (atlas.en-us.api_meta.meta/api_meta/meta_homepagecomponent.htm)
+- HomePageLayout (atlas.en-us.api_meta.meta/api_meta/meta_homepagelayouts.htm)

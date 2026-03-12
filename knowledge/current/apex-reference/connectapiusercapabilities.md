@@ -5,11 +5,14 @@ topic: connectapiusercapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.158Z
-keywords: [ConnectApi.UserCapabilities, See]
+lastCollected: 2026-03-12T05:14:29.214Z
+estimatedTokens: 308
+keywords: [ConnectApi.UserCapabilities, Capabilities, associated, user, profile.]
 ---
 
 # ConnectApi.UserCapabilities
+
+> Capabilities associated with a user profile.
 
 # ConnectApi.UserCapabilities
 
@@ -28,3 +31,8 @@ Capabilities associated with a user profile.
 #### See Also
 
 -   [ConnectApi.UserProfile](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_profile.htm "Details necessary to render a view of a user profile.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.UserProfile (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_profile.htm)

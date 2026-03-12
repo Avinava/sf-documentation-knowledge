@@ -5,11 +5,16 @@ topic: metadata-type-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.541Z
-keywords: [Metadata, Type, Limits]
+lastCollected: 2026-03-12T05:14:41.144Z
+estimatedTokens: 192
+keywords: [Metadata, Limits, Certain, metadata, types, deploy, retrieve, limits., apply, individual, transaction, there, daily, limits, specific, types.]
 ---
 
 # Metadata Type Limits
+
+> Certain metadata types have deploy and retrieve limits. Limits apply to each individual
+  deploy or retrieve transaction, and there are daily limits for specific metadata
+  types.
 
 # Metadata Type Limits
 

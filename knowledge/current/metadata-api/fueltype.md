@@ -5,11 +5,14 @@ topic: fueltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.834Z
-keywords: [FuelType, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.159Z
+estimatedTokens: 547
+keywords: [FuelType, Represents, custom, fuel, org., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard]
 ---
 
 # FuelType
+
+> Represents a custom fuel type in an org.
 
 # FuelType
 
@@ -59,3 +62,34 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<FuelType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This is Petrol Fuel Type</description>
+    <isProtected>true</isProtected>
+    <isActive>true</isActive>
+    <isStationaryAssetFuel>true</isStationaryAssetFuel>
+    <isVehicleAssetFuel>true</isVehicleAssetFuel>
+    <masterLabel>Petrol</masterLabel>
+</FuelType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>Petrol</members>
+      <members>Diesel</members>
+      <members>Kerosine</members>
+      <name>FuelType</name>
+   </types>
+   <version>57.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

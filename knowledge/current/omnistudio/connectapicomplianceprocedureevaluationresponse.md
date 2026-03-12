@@ -5,11 +5,14 @@ topic: connectapicomplianceprocedureevaluationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.813Z
-keywords: [ConnectApi.ComplianceProcedureEvaluationResponse]
+lastCollected: 2026-03-12T05:14:47.730Z
+estimatedTokens: 113
+keywords: [ConnectApi.ComplianceProcedureEvaluationResponse, Compliance, procedure, evaluation, result.]
 ---
 
 # ConnectApi.ComplianceProcedureEvaluationResponse
+
+> Compliance procedure evaluation result.
 
 # ConnectApi.ComplianceProcedureEvaluationResponse
 
@@ -20,3 +23,7 @@ Compliance procedure evaluation result.
 | complianceProcedureId | String | ID of the compliance procedure. | 65.0 |
 | complianceProcedureVersionId | String | ID of the compliance procedure version | 65.0 |
 | evaluations | List<ConnectApi.ComplianceProcedureEvaluation> | List of compliance evaluations. | 65.0 |
+
+## Related Topics
+
+- ConnectApi.ComplianceProcedureEvaluation (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_compliance_procedure_evaluation_output.htm)

@@ -5,11 +5,14 @@ topic: connectapidmofilterconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.607Z
-keywords: [ConnectApi.DmoFilterConfig]
+lastCollected: 2026-03-12T05:14:27.072Z
+estimatedTokens: 61
+keywords: [ConnectApi.DmoFilterConfig, Represents, DMO, filter, configuration, output.]
 ---
 
 # ConnectApi.DmoFilterConfig
+
+> Represents a DMO filter configuration output.
 
 # ConnectApi.DmoFilterConfig
 
@@ -18,3 +21,8 @@ Represents a DMO filter configuration output.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | filters | List<ConnectApi.DmoFilter> | List of activation DMO filters. | 60.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.DmoFilter> (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_dmo_filter.htm)

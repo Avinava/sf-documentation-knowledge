@@ -5,11 +5,17 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.091Z
-keywords: [Group, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:45.816Z
+estimatedTokens: 1166
+keywords: [Group, Represents, set, User, records., Groups, contain, individual, users, groups, particular, role, territory., addition, below, territory, hierarchy., Tooling, API, version]
 ---
 
 # Group
+
+> Represents a set of User records. Groups can contain individual
+            users, other groups, or the users in a particular role or territory. In addition, groups
+            can contain all users below a particular role or territory in the hierarchy.
+        Available in Tooling API version 38.0 and later.
 
 # Group
 

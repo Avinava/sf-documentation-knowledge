@@ -5,11 +5,14 @@ topic: connectapiociupdatereservationsingleoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.426Z
-keywords: [ConnectApi.OCIUpdateReservationSingleOutputRepresentation]
+lastCollected: 2026-03-12T05:14:28.171Z
+estimatedTokens: 171
+keywords: [ConnectApi.OCIUpdateReservationSingleOutputRepresentation, Details, updated, reservation, product.]
 ---
 
 # ConnectApi.OCIUpdateReservationSingleOutputRepresentation
+
+> Details of an updated reservation for one product.
 
 # ConnectApi.OCIUpdateReservationSingleOutputRepresentation
 
@@ -23,3 +26,8 @@ Details of an updated reservation for one product.
 | locationIdentifier | String | Identifier of the location where the inventory is reserved. | 61.0 |
 | quantity | Double | The total reservation quantity of the product. | 61.0 |
 | stockKeepingUnit | String | The SKU of the updated product. | 61.0 |
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

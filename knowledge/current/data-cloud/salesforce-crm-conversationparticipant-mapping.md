@@ -5,11 +5,15 @@ topic: salesforce-crm-conversationparticipant-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.644Z
-keywords: [Salesforce, CRM, ConversationParticipant, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:12.833Z
+estimatedTokens: 463
+keywords: [Salesforce, CRM, ConversationParticipant, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: ConversationParticipant Mapping
+
+> These data mappings are for the ConversationParticipant DLO found in the Services bundle
+  of the Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: ConversationParticipant Mapping
 

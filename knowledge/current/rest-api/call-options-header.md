@@ -5,11 +5,16 @@ topic: call-options-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:44:25.057Z
-keywords: [Call, Options, Header, Field, Name, Values, Example]
+lastCollected: 2026-03-12T05:14:35.143Z
+estimatedTokens: 460
+keywords: [Call, Options, Header, Specifies, options, client, you’re, access, REST, API, resources., example, provide, default, prefix, don’t, need, specify, code., Field]
 ---
 
 # Call Options Header
+
+> Specifies options for the client you’re using to access REST
+			API resources. For example, you can provide a default namespace prefix so that you don’t
+			need to specify the prefix in your code.
 
 # Call Options Header
 
@@ -49,3 +54,13 @@ Using this header allows you to write client code without having to specify the 
 If this field is set, and the query also specifies the namespace, the response doesn’t include the prefix. For example, if you set this header to battle, and issue a query like SELECT+Id+battle\_\_botID\_\_c+FROM+Account, the response uses a botId\_\_c element, not a battle\_botId\_\_c element.
 
 The defaultNamespace field is ignored when retrieving describe information, which avoids ambiguity between namespace prefixes and customer fields of the same name.
+
+## Code Examples
+
+```
+Sforce-Call-Options: client=caseSensitiveToken; defaultNamespace=battle
+```
+
+```
+/services/data/vXX.X/query/?q=SELECT+Id+botID__c+FROM+Account
+```

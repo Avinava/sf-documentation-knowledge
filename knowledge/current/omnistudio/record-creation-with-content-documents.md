@@ -5,11 +5,15 @@ topic: record-creation-with-content-documents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.348Z
-keywords: [Record, Creation, Content, Documents]
+lastCollected: 2026-03-12T05:14:51.499Z
+estimatedTokens: 561
+keywords: [Record, Creation, Content, Documents, Create, records, Salesforce, objects, document, based, content, record.]
 ---
 
 # Record Creation with Content Documents
+
+> Create records in Salesforce objects using a document based on a
+   content document record.
 
 # Record Creation with Content Documents
 
@@ -69,3 +73,44 @@ Properties
 Response body for POST
 
 [Document Process Output](atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_process_output.htm "Output representation of the document process creation or update request.")
+
+## Code Examples
+
+```
+/connect/form-reader/contentDocuments/${contentDocumentId}/record
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect​/form-reader/contentDocuments/069xx0000004D1sAAE/record
+```
+
+```
+{
+  "objectApiName": "Account",
+  "documentTypeId": "0dexx0000000001",
+  "overrideConfidenceScoreThreshold": 50,
+  "ignoreFieldValueConflict": false,
+  "fieldsWithoutConflictList": {
+    "noConflictFields": [
+      {
+        "field": "name"
+      },
+      {
+        "field": "accountnumber"
+      }
+    ]
+  },
+  "additionalFields": {
+    "additionalFieldMap": {
+      "AccountNumber": "9090909"
+    }
+  }
+  "templateApiName": "sample_template"
+}
+```
+
+## Related Topics
+
+- Fields Without Conflict Input (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_requests_fields_without_conflict.htm)
+- Document Process
+              Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_process_output.htm)

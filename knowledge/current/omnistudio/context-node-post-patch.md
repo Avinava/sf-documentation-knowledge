@@ -5,11 +5,14 @@ topic: context-node-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.672Z
-keywords: [Context, Node, POST, PATCH]
+lastCollected: 2026-03-12T05:14:49.001Z
+estimatedTokens: 361
+keywords: [Context, Node, POST, PATCH, Create, update, context, node.]
 ---
 
 # Context Node (POST, PATCH)
+
+> Create and update context node.
 
 # Context Node (POST, PATCH)
 
@@ -80,3 +83,71 @@ JSON example
 Response body for PATCH
 
 [Context Node List Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node_list.htm "Output representation of the list of context nodes.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-nodes
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-nodes
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-nodes
+```
+
+```
+{
+    "contextNodes": [
+        {
+            "name": "Node_0",
+            "attributes": {
+                "contextAttributes": [
+                    {
+                        "dataType": "STRING",
+                        "fieldType": "INPUT",
+                        "name": "Attribute_1"
+                    }
+                ]
+            },
+            "childNodes": {
+                "contextNodes": [
+                    {
+                        "name": "Node_1",
+                        "attributes": {
+                            "contextAttributes": [
+                                {
+                                    "dataType": "NUMBER",
+                                    "fieldType": "INPUT",
+                                    "name": "Attribute_2"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
+```
+
+```
+{
+    "contextNodes": [
+        {
+            "name": "Node_0_patch",
+            "contextNodeId": "11oxx000001G9D2AAK"
+        }
+    ]
+}
+```
+
+## Related Topics
+
+- Context
+                                                Attributes Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_attributes_input.htm)
+- Context Nodes Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_nodes_input.htm)
+- Context Tag Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_tag_input.htm)
+- Context Node List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_node_list.htm)

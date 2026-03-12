@@ -5,11 +5,14 @@ topic: checkdeploystatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.098Z
-keywords: [checkDeployStatus, Syntax, Usage, Sample, Code—Java, Arguments, Response]
+lastCollected: 2026-03-12T05:14:37.681Z
+estimatedTokens: 751
+keywords: [checkDeployStatus, Checks, status, declarative, metadata, call, deploy, Syntax, Usage, Sample, Code—Java, Arguments, Response]
 ---
 
 # checkDeployStatus()
+
+> Checks the status of declarative metadata call deploy().
 
 # checkDeployStatus()
 
@@ -47,3 +50,21 @@ See the [deploy() sample code](atlas.en-us.api_meta.meta/api_meta/meta_deploy.ht
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_deploy_deleting_files.htm "Deleting Components from an Organization")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_canceldeploy.htm "cancelDeploy()")
+
+## Code Examples
+
+```
+DeployResult = metadatabinding.checkDeployStatus(ID id, includeDetails boolean);
+```
+
+## Related Topics
+
+- DeployResult (atlas.en-us.api_meta.meta/api_meta/meta_deployresult.htm)
+- AsyncResult (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- done (atlas.en-us.api_meta.meta/api_meta/meta_asyncresult.htm)
+- deploy() sample code (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- checkStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm)
+- DeployDetails (atlas.en-us.api_meta.meta/api_meta/meta_deployresult.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_deploy_deleting_files.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_canceldeploy.htm)

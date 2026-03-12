@@ -5,11 +5,15 @@ topic: aiapplicationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.145Z
-keywords: [AIApplicationConfig, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.529Z
+estimatedTokens: 1185
+keywords: [AIApplicationConfig, Represents, additional, prediction, information, related, machine, learning, application.Available, API, version, 50.0, later., Important, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # AIApplicationConfig
+
+> Represents additional prediction information related to a machine
+            learning (ML) application.Available in API version 50.0 and later.
 
 # AIApplicationConfig
 

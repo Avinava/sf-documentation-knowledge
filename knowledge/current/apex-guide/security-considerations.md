@@ -4,12 +4,15 @@ domain: apex-guide
 topic: security-considerations
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-11T15:43:47.358Z
-keywords: [Security, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:33.716Z
+estimatedTokens: 575
+keywords: [Security, Considerations, aware, security, considerations, Apex, access, metadata.]
 ---
 
 # Security Considerations
+
+> Be aware of security considerations when using Apex to access metadata.
 
 # Security Considerations
 
@@ -26,3 +29,7 @@ Apps that access metadata via Apex must notify users that the app can retrieve o
 This package can access and change metadata outside its namespace in the Salesforce org where it’s installed.
 
 Salesforce verifies the notice during the security review. For more information, see the [ISVforce Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.packagingGuide.meta/packagingGuide/security_guidelines.htm).
+
+## Related Topics
+
+- Lightning Platform Apex Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)

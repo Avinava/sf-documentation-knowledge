@@ -5,11 +5,17 @@ topic: conversationchanneldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:51.315Z
-keywords: [ConversationChannelDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.017Z
+estimatedTokens: 3176
+keywords: [ConversationChannelDefinition, Represents, conversation, channel, definition, that’s, implemented, Interaction, Service, Bring, Own, Channel, Messaging, CCaaS, messaging, channels., API, version, 60.0, later.]
 ---
 
 # ConversationChannelDefinition
+
+> Represents the conversation channel definition that’s
+			implemented for Interaction Service for Bring Your Own Channel for Messaging and Bring Your Own
+			Channel for CCaaS messaging channels. This object is available in API version 60.0
+		and later.
 
 # ConversationChannelDefinition
 
@@ -76,3 +82,7 @@ Interaction service must be configured. Access to tooling objects requires Sales
 The following is an example of a ConversationChannelDefinition component.
 
 The following is an example package.xml that references the previous definition.
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

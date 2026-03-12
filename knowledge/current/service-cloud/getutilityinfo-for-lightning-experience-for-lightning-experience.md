@@ -6,12 +6,16 @@ topic: getutilityinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.241Z
-keywords: [getUtilityInfo, Lightning, Experience, Arguments, Aura, Components, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.787Z
+estimatedTokens: 484
+keywords: [getUtilityInfo, Lightning, Experience, state, current, utility, utilityInfo, object., isn’t, supported, Web, Components, LWC, Arguments, Aura, Sample, Code, Response]
 ---
 
 # getUtilityInfo() for Lightning Experience for Lightning
             Experience
+
+> Returns the state of the current utility as a utilityInfo object. This method isn’t supported for Lightning Web Components
+        (LWC).
 
 # getUtilityInfo() for Lightning Experience for Lightning Experience
 
@@ -60,3 +64,35 @@ This method returns a promise that resolves to a utilityInfo object representing
 | panelHeaderIconVariant | string | The SLDS icon variant of the utility panel’s icon. |
 | panelHeight | integer | The height of the utility panel in pixels. |
 | panelWidth | integer | The width of the utility panel in pixels |
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Get Utility Info" onclick="{! c.handleGetUtilityInfo }" />
+</aura:component>
+```
+
+```
+({
+    handleGetUtilityInfo : function(component, event, helper) {
+        var utilityBarAPI = component.find("utilitybar");
+        utilityBarAPI.getUtilityInfo().then(function(response) {
+            if (response.utilityVisible) {
+                utilityBarAPI.minimizeUtility();
+            }
+            else {
+                utilityBarAPI.openUtility();
+            }
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- getInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_getInfo.htm)

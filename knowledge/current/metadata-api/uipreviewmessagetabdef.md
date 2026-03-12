@@ -5,11 +5,16 @@ topic: uipreviewmessagetabdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.008Z
-keywords: [UiPreviewMessageTabDef, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:43.373Z
+estimatedTokens: 561
+keywords: [UiPreviewMessageTabDef, Represents, registration, custom, Marketing, Cloud, Preview, Test, modal, tab, created, Lightning, web, components., register, show, multiple, tabs, experience., Important]
 ---
 
 # UiPreviewMessageTabDef
+
+> Represents the registration of a custom Marketing Cloud
+			Preview and Test modal tab, created using custom Lightning web components. You can
+			register and show multiple tabs in the Preview and Test experience.
 
 # UiPreviewMessageTabDef
 
@@ -72,4 +77,46 @@ This example package.xml references the component’s definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<template>
+    <div>A custom tab</div>
+    <div>Preview data</div>
+    <div>{previewData}</div>
+</template>
+```
+
+```
+import { LightningElement, api } from "lwc";
+
+export default class CustomTab extends LightningElement {
+    @api previewData;
+}
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>63.0</apiVersion>
+    <isExposed>true</isExposed>
+    <capabilities>
+        <capability>lightning__dynamicComponent</capability>
+    </capabilities>
+</LightningComponentBundle>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UiPreviewMessageTabDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isActive>true</isActive>
+    <label>TestUiPreviewMessageTab</label>
+    <lightningComponentDef>customTab</lightningComponentDef>
+    <supportedChannel>Email</supportedChannel>
+    <tabName>My Tab</tabName>
+    <isProtected>false</isProtected>
+</UiPreviewMessageTabDef>
 ```

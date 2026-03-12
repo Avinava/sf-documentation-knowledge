@@ -5,11 +5,14 @@ topic: integration-procedure-clear-cache-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.901Z
-keywords: [Integration, Procedure, Clear, Cache, POST]
+lastCollected: 2026-03-12T05:14:49.330Z
+estimatedTokens: 395
+keywords: [Integration, Procedure, Clear, Cache, POST, execution, cache, specified, integration, procedures.]
 ---
 
 # Integration Procedure Clear Cache (POST)
+
+> Clear the execution cache for the specified integration procedures.
 
 # Integration Procedure Clear Cache (POST)
 
@@ -56,3 +59,41 @@ Properties
 Response body for POST
 
 [Integration Procedure Cache Details](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_integration_procedure_cache_output.htm "Output representation of the cache that are cleared for the specified integration procedures.")
+
+## Code Examples
+
+```apex
+/connect/omni-global/integration-procedure/actions/clear-cache
+```
+
+```
+{
+  "cacheStorageType": "Metadata",
+  "ipInput": {
+    "inputs": [
+      {
+        "ipkey": "Account_GetAccountDetails"
+      }
+    ]
+  }
+}
+```
+
+```
+{
+  "cacheKeys": {
+    "cacheKeys": [
+      "IP06535636"
+    ]
+  },
+  "cacheStorageType": "Metadata"
+}
+```
+
+## Related Topics
+
+- Integration Procedure Cache Keys (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_integration_procedure_cache_keys_list.htm)
+- Integration
+                        Procedure Details (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_integration_procedure_cache_input_data.htm)
+- Integration Procedure
+              Cache Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_integration_procedure_cache_output.htm)

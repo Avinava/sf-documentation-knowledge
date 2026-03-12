@@ -5,11 +5,16 @@ topic: deploy-data-kit-components-by-using-deploy-data-kit-components-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.202Z
-keywords: [Deploy, Data, Kit, Components, Flow, URI, Formats, HTTP, Methods, Authentication, Properties, Example]
+lastCollected: 2026-03-12T05:14:35.333Z
+estimatedTokens: 315
+keywords: [Deploy, Data, Kit, Components, Flow, Deploys, data, kit, components, sequentially, call., response, body, contains, Flow_InterviewGuid., flow, REST, API, version, 61.0]
 ---
 
 # Deploy Data Kit Components by Using Deploy Data Kit Components Flow
+
+> Deploys data kit components sequentially in one call. The response body contains the
+      Flow_InterviewGuid. This flow is available by using the REST API version
+    61.0 and later.
 
 # Deploy Data Kit Components by Using Deploy Data Kit Components Flow
 
@@ -59,4 +64,74 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/actions/custom/flow/sfdatakit__DeployDataKitComponents
+```
+
+```
+{
+  "inputs": [
+    {
+      "dataKitComponentsInput": [
+        {
+          "componentType": "DataStreamBundle",
+          "bundleConfig": {
+            "connectorType": "CRM",
+            "bundleName": "CRMBundleTest",
+            "forceNoRefresh": true,
+            "bundleCRMConfig": {
+              "orgId": "00DU200000051Q5"
+            }
+          }
+        },
+        {
+          "componentType": "DataLakeObject",
+          "dloConfig": {
+            "dataSourceObjectDevName": "Account_A_New_DLO",
+            "apiName": "Account_A_New_DLO",
+            "label": "Account A New DLO"
+          }
+        },
+        {
+          "componentType": "DataLakeObject",
+          "dloConfig": {
+            "dataSourceObjectDevName": "Account_P_New_DLO",
+            "apiName": "Account_P_New_DLO",
+            "label": "Account P New DLO"
+          }
+        },
+        {
+          "componentType": "DataTransform",
+          "dataTransformConfig": {
+            "dataTransformType": "BATCH",
+            "dataTransformDevName": "BatchTransformAccount",
+            "apiName": "BatchTransformAccount",
+            "label": "BatchTransformAccount"
+          }
+        }
+      ],
+      "dataKitNameInput": "MyTestDatakit",
+      "dataKitDataSpaceInput": "default"
+    }
+  ]
+}
+```
+
+```
+{
+        "actionName": "sfdatakit__DeployDataKitComponents",
+        "errors": null,
+        "invocationId": null,
+        "isSuccess": true,
+        "outputValues": {
+            "Flow__InterviewGuid": "43c0ccb801784ff02fa0c8a1919b1877f5-605b",
+            "Flow__InterviewStatus": "Waiting"
+        },
+        "sortOrder": -1,
+        "version": 1
+    }
 ```

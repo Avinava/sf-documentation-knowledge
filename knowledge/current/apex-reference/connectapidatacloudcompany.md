@@ -5,11 +5,14 @@ topic: connectapidatacloudcompany
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.545Z
-keywords: [ConnectApi.DatacloudCompany]
+lastCollected: 2026-03-12T05:14:26.973Z
+estimatedTokens: 845
+keywords: [ConnectApi.DatacloudCompany, Information, Data.com, company.]
 ---
 
 # ConnectApi.DatacloudCompany
+
+> Information about a Data.com company.
 
 # ConnectApi.DatacloudCompany
 
@@ -42,3 +45,13 @@ All company information is visible for companies that you purchased and own. If 
 | updatedDate | Datetime | The date of the most recent change to this company’s information. | 32.0 |
 | website | String | The standard URL for the company’s home page. | 32.0 |
 | yearStarted | String | The year when the company was founded. | 32.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.Address (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_address.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.PhoneNumber (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_phone_Num.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

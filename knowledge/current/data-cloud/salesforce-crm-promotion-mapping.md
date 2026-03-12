@@ -5,11 +5,17 @@ topic: salesforce-crm-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.282Z
-keywords: [Salesforce, CRM, Promotion, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.821Z
+estimatedTokens: 449
+keywords: [Salesforce, CRM, Promotion, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., Information, promotion, that’s, offered, members, loyalty]
 ---
 
 # Salesforce CRM: Promotion Mapping
+
+> These data mappings are for the Promotion DLO found in the Loyalty Management bundle of
+  the Salesforce CRM Connector for Data Cloud. Information about a promotion that’s offered to
+  members of a loyalty
+  program.
 
 # Salesforce CRM: Promotion Mapping
 

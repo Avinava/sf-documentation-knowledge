@@ -5,11 +5,15 @@ topic: geterrormessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.028Z
-keywords: [getErrorMessage, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:26.191Z
+estimatedTokens: 107
+keywords: [getErrorMessage, contains, error, message., Usage]
 ---
 
 # getErrorMessage()
+
+> Returns a String that contains an error
+message.
 
 # getErrorMessage()
 
@@ -26,3 +30,7 @@ Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#a
 ## Usage
 
 The error message doesn’t make a round trip through a Visualforce view state, because exceptions can’t be serialized.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

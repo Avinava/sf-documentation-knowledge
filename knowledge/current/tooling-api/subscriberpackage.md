@@ -5,11 +5,16 @@ topic: subscriberpackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.801Z
-keywords: [SubscriberPackage, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.860Z
+estimatedTokens: 263
+keywords: [SubscriberPackage, Represents, installable, package, first-, second-generation, across, Salesforce, instances., API, version, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # SubscriberPackage
+
+> Represents an installable package (first- or
+            second-generation) across all Salesforce instances. Available in API version 41.0
+        and later.
 
 # SubscriberPackage
 

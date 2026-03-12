@@ -5,11 +5,14 @@ topic: calculation-procedure-detail-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.096Z
-keywords: [Calculation, Procedure, Detail, Output, Note]
+lastCollected: 2026-03-12T05:14:49.643Z
+estimatedTokens: 343
+keywords: [Calculation, Procedure, Detail, Output, representation, expression, set, details., Note]
 ---
 
 # Calculation Procedure Detail Output
+
+> Output representation of the expression set details.
 
 # Calculation Procedure Detail Output
 
@@ -37,3 +40,27 @@ Sample Response
 | message | String | The request response message. | Small, 53.0 | 53.0 |
 | name | String | The name of the expression set. | Small, 53.0 | 53.0 |
 | outputVariables | Calculation Procedure Variable Output[] | The list of output variables of the expression set. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "code" : "200",
+   "id" : "0k0x000000000BQAAY",
+   "inputVariables" : [ {
+      "dataType" : "Number",
+      "name" : "var1"
+   } ],
+   "isSuccess" : true,
+   "message" : "",
+   "name" : "RuleWith100Conditions42",
+   "outputVariables" : [ {
+      "dataType" : "Number",
+      "name" : "var2"
+   } ]
+}
+```
+
+## Related Topics
+
+- Calculation Procedure Variable Output[] (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_variable_output.htm)

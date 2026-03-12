@@ -5,11 +5,16 @@ topic: aisentimentresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.562Z
-keywords: [AISentimentResult, Supported, Calls, Fields, Associated, Object]
+lastCollected: 2026-03-12T05:14:53.339Z
+estimatedTokens: 1038
+keywords: [AISentimentResult, Represents, outcome, sentiment, analysis, performed, text, field, Salesforce, third-party, service, provider., API, version, 55.0, later., Supported, Calls, Fields, Associated]
 ---
 
 # AISentimentResult
+
+> Represents the outcome of the sentiment analysis performed on a text
+         field of a Salesforce object by a third-party service provider. This object is
+      available in API version 55.0 and later.
 
 # AISentimentResult
 
@@ -48,3 +53,7 @@ This object has the following associated object. If the API version isn’t spec
 [AISentimentResultShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- AISentimentResultShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

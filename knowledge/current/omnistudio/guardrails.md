@@ -5,11 +5,15 @@ topic: guardrails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.546Z
-keywords: [Guardrails]
+lastCollected: 2026-03-12T05:14:50.308Z
+estimatedTokens: 300
+keywords: [Guardrails, Output, representation, guardrail, includes, information, manage, system, thresholds, notifications, BRE, components.]
 ---
 
 # Guardrails
+
+> Output representation of each guardrail that includes information to manage system
+    thresholds and notifications in BRE components.
 
 # Guardrails
 
@@ -31,3 +35,21 @@ JSON Sample
 | multiValue | Boolean | Specifies details if the current values are determined by an org level or aggregation of row levels. | Small, 63.0 | 63.0 |
 | name | String | Name of the guardrail. | Small, 63.0 | 63.0 |
 | notification​Supported | Boolean | Indicates whether the guardrail supports notifications (true) or not (false). | Small, 63.0 | 63.0 |
+
+## Code Examples
+
+```
+{
+  "guardrails": {
+    "name": "MaxProcessLimit",
+    "guardrailType": "RateLimit",
+    "limitValue": "100",
+    "currentValue": "50",
+    "notificationSupported": true
+  }
+}
+```
+
+## Related Topics
+
+- Guardrail Current Value (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_guardrail_current_value.htm)

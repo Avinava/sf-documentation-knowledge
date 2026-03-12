@@ -5,11 +5,16 @@ topic: get-records-using-sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.730Z
-keywords: [Get, Records, sObject, Rows, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.093Z
+estimatedTokens: 919
+keywords: [Get, Records, sObject, Rows, record, based, specified, ID., fields, field, values, returned, response, body., resource, used, external, objects, API, version]
 ---
 
 # Get Records Using sObject Rows
+
+> Gets a record based on the specified object and record ID. The fields and field values
+		of the record are returned in the response body. This resource can be used with external
+		objects in API version 32.0 and later.
 
 # Get Records Using sObject Rows
 
@@ -58,3 +63,8 @@ For examples of retrieving records, see [Get Field Values from a Standard Object
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)
+- Get Field Values from a Standard Object Record (atlas.en-us.api_rest.meta/api_rest/dome_get_field_values.htm)

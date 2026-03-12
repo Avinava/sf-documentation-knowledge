@@ -5,11 +5,15 @@ topic: context-definition-filter-by-id-delete-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.655Z
-keywords: [Context, Definition, Filter, DELETE, GET, PATCH]
+lastCollected: 2026-03-12T05:14:48.971Z
+estimatedTokens: 522
+keywords: [Context, Definition, Filter, DELETE, GET, PATCH, Get, update, delete, context, definition, filter, specified, ID.]
 ---
 
 # Context Definition Filter By ID (DELETE, GET, PATCH)
+
+> Get, update, or delete a context definition filter for a specified context definition
+    filter ID.
 
 # Context Definition Filter By ID (DELETE, GET, PATCH)
 
@@ -61,3 +65,27 @@ Properties
 Response body for PATCH
 
 [Context Definition Filter](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_definition_filter.htm "Output representation details of a context definition filter.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-filters/${contextDefinitionFilterId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/context-definitions/SimpleDef/context-filters/1Tlxx0000004DUuCAM
+```
+
+```
+{
+      "description": "Updated",
+      "filterApiName": "FilterAccount",
+      "filterName":"FilterAccount",
+      "filtersPerNode": "{"Account":{"filterCondition":{"attribute":"City","operator":"EQUALS","operands":[{"value":"Bengaluru","type":"STRING"}],"composite":false},"orderByConditions":[{"orderByAttribute":"Name","ascending":false,"nullsFirst":false}],"limit":5}}",
+      "contextDefinitionVersionId": "11pxx0000004VmmAAE"
+    }
+```
+
+## Related Topics
+
+- Context Definition Filter (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_definition_filter.htm)

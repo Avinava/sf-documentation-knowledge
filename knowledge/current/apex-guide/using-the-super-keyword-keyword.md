@@ -4,12 +4,18 @@ domain: apex-guide
 topic: using-the-super-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.592Z
-keywords: [super, Keyword, Best, Practices]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.618Z
+estimatedTokens: 289
+keywords: [super, Keyword, keyword, used, classes, extended, virtual, abstract, classes., override, parent, class., Best, Practices]
 ---
 
 # Using the  super Keyword Keyword
+
+> The super keyword can
+be used by classes that are extended from virtual or abstract classes.
+By using super, you can override
+constructors and methods from the parent class.
 
 # Using the super Keyword Keyword
 
@@ -44,3 +50,56 @@ Now, the expected output of Subclass.printName is My name is Madam Clapentrap. B
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_instanceof.htm "Using the instanceof Keyword Keyword")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_this.htm "Using the this Keyword Keyword")
+
+## Code Examples
+
+```apex
+public virtual class SuperClass {
+    public String mySalutation;
+    public String myFirstName;
+    public String myLastName;
+
+    public SuperClass() {
+
+        mySalutation = 'Mr.';
+        myFirstName = 'Carl';
+        myLastName = 'Vonderburg';
+    }
+
+    public SuperClass(String salutation, String firstName, String lastName) {
+
+        mySalutation = salutation;
+        myFirstName = firstName;
+        myLastName = lastName;
+    }
+
+    public virtual void printName() {
+
+        System.debug('My name is ' + mySalutation + myLastName);
+    }
+
+   public virtual String getFirstName() {
+       return myFirstName;
+   }
+}
+```
+
+```apex
+public class Subclass extends Superclass {
+  public override void printName() {
+        super.printName();
+        System.debug('But you can call me ' + super.getFirstName());
+    }
+}
+```
+
+```apex
+public Subclass() {
+    super('Madam', 'Brenda', 'Clapentrap');
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_instanceof.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_this.htm)

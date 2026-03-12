@@ -5,11 +5,16 @@ topic: selectmacro
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.656Z
-keywords: [selectMacro, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.381Z
+estimatedTokens: 203
+keywords: [selectMacro, Selects, displays, specific, macro, widget., only, API, version, 36.0, later., isn’t, supported, Lightning, Console., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # selectMacro()
+
+> Selects and displays a specific macro in the macro
+            widget. This method is only available in API version 36.0 or later. This method isn’t
+            supported in Lightning Console.
 
 # selectMacro()
 
@@ -42,3 +47,21 @@ This method is asynchronous, so it returns its response in an object in a callba
 | --- | --- | --- |
 | cause | string | Explanation of function failure, if applicable |
 | success | boolean | true if selecting the macro was successful; false otherwise |
+
+## Code Examples
+
+```
+sforce.console.selectMacro(macroId:String, (optional)callback:Function)
+```
+
+```
+<apex:page>
+    <A HREF="#" onClick="openInWidget('0JZ00123456789A');return false">Click here to select a macro</A>
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function openInWidget(id) {
+            sforce.console.selectMacro(id);
+        }
+    </script>
+</apex:page>
+```

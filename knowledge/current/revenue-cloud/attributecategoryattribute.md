@@ -5,11 +5,15 @@ topic: attributecategoryattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.647Z
-keywords: [AttributeCategoryAttribute, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:09.632Z
+estimatedTokens: 821
+keywords: [AttributeCategoryAttribute, Represents, relationship, between, attribute, category, definition., API, version, 60.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # AttributeCategoryAttribute
+
+> Represents a relationship between an attribute category and the attribute
+         definition. This object is available in API version 60.0 and later.
 
 # AttributeCategoryAttribute
 
@@ -49,3 +53,9 @@ History is available for tracked fields of the object.
 [AttributeCategoryAttributeShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- AttributeCategoryAttributeFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- AttributeCategoryAttributeHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- AttributeCategoryAttributeShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

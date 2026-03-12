@@ -5,11 +5,18 @@ topic: certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.388Z
-keywords: [Certificate, Important, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.842Z
+estimatedTokens: 963
+keywords: [Certificate, Represents, certificate, used, digital, signatures, verify, requests, coming, org., Certificates, either, authenticated, single, sign-on, external, website, org, identity, provider.]
 ---
 
 # Certificate
+
+> Represents a certificate used for digital signatures that
+            verify requests are coming from your org. Certificates are used for either authenticated
+            single sign-on with an external website or when using your org as an identity
+            provider. This object is available in Tooling API version 37.0 and
+        later.
 
 # Certificate
 

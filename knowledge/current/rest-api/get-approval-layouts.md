@@ -5,11 +5,15 @@ topic: get-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.629Z
-keywords: [Get, Approval, Layouts, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.949Z
+estimatedTokens: 130
+keywords: [Get, Approval, Layouts, list, approval, layouts, specified, object., resource, REST, API, version, 30.0, later., Syntax, Example]
 ---
 
 # Get Approval Layouts
+
+> Gets a list of approval layouts for a specified object. This resource is available in
+		REST API version 30.0 and later.
 
 # Get Approval Layouts
 
@@ -52,3 +56,25 @@ Example Response Body
 ```
 
 If you haven’t defined any approval layouts for an object, the response is {"approvalLayouts" : \[ \]}.
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/describe/approvalLayouts/ -H "Authorization: Bearer token"
+```
+
+```
+{
+  "approvalLayouts" : [ {
+    "id" : "04aD00000008Py9IAE",
+    "label" : "MyApprovalProcessName",
+    "layoutItems" : [...],
+    "name" : "MyApprovalProcessName"
+    }, {
+    "id" : "04aD00000008Q0KIAU",
+    "label" : "Process1",
+    "layoutItems" : [...],
+    "name" : "Process1"
+  } ]
+}
+```

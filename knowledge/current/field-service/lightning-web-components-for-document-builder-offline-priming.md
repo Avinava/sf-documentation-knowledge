@@ -5,11 +5,15 @@ topic: lightning-web-components-for-document-builder-offline-priming
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.233Z
-keywords: [Lightning, Web, Components, Document, Builder, Offline, Priming, Install, Komaci, ESLint, Visual, Studio, Code, Plug-in]
+lastCollected: 2026-03-12T05:14:55.499Z
+estimatedTokens: 624
+keywords: [Lightning, Web, Components, Document, Builder, Offline, Priming, Ensure, custom, web, components, LWCs, work, mobile, workers, offline., Install, Komaci, ESLint, Visual]
 ---
 
 # Lightning Web Components for Document Builder: Offline Priming
+
+> Ensure that your custom Lightning web components (LWCs) for Document Builder work when
+  your mobile workers are offline.
 
 # Lightning Web Components for Document Builder: Offline Priming
 
@@ -25,10 +29,10 @@ You can also run yarn lint:lwc inside VS Code’s terminal.
 
 If you’re not using VS Code, check out the [public repository](https://github.com/salesforce/eslint-plugin-lwc-graph-analyzer) of the ESLint Komaci Plug-in that can configure your tool.
 
-If you want a deep dive, check out [npm](https://www.npmjs.com/package/@salesforce/eslint-plugin-lwc-graph-analyzer) for information about the plug-in, including code. But if you’re ready to implement the code you can use either of these commands. 
+If you want a deep dive, check out [npm](https://www.npmjs.com/package/@salesforce/eslint-plugin-lwc-graph-analyzer) for information about the plug-in, including code. But if you’re ready to implement the code you can use either of these commands.
 
 -   Command 1: yarn add --dev @salesforce/eslint-plugin-lwc-graph-analyzer
--   Command 2: npm install —save-dev @salesforce/eslint-plugin-lwc-graph-analyzer 
+-   Command 2: npm install —save-dev @salesforce/eslint-plugin-lwc-graph-analyzer
 
 After you input the code, check your project directory and update the .eslintrc file to reference our recommended configuration.
 

@@ -5,11 +5,16 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.917Z
-keywords: [BrandingSet, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, BrandingSetProperty, Branding, Properties, Lightning, Experience, Themes, Declarative, Metadata, Sample]
+lastCollected: 2026-03-12T05:14:37.425Z
+estimatedTokens: 2331
+keywords: [BrandingSet, Represents, definition, set, branding, Experience, Builder, site, org's, Lightning, theme., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---
 
 # BrandingSet
+
+> Represents the definition of a set of branding properties
+            for an Experience Builder site or for your org's Lightning Experience
+        theme.
 
 # BrandingSet
 
@@ -98,3 +103,106 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<BrandingSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brandingSetProperty>
+        <propertyName>TextTransformStyle</propertyName>
+        <propertyValue>uppercase</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>DetailTextColor</propertyName>
+        <propertyValue>#696969</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>BorderColor</propertyName>
+        <propertyValue>#D4D4D4</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>HeaderImage</propertyName>
+        <propertyValue></propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>HeaderFonts</propertyName>
+        <propertyValue>Montserrat</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>CardBackgroundColor</propertyName>
+        <propertyValue>rgba(255, 255, 255, 0)</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>LoginBackgroundColor</propertyName>
+        <propertyValue>#F4F4F4</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>ActionColor</propertyName>
+        <propertyValue>#2574A9</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>_ActionColorTrans</propertyName>
+        <propertyValue>rgba(25, 124, 190, 0.9)</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>CompanyLogo</propertyName>
+        <propertyValue></propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>LoginBackgroundImage</propertyName>
+        <propertyValue>../../../../sfsites/picasso/core/external/
+            salesforceIdentity/images/background.jpg?v=1</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>_LinkColorDarker</propertyName>
+        <propertyValue>#135F90</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>_ActionColorDarker</propertyName>
+        <propertyValue>#135F90</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>_HoverColor</propertyName>
+        <propertyValue>rgba(25, 124, 190, 0.1)</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>ErrorFontColor</propertyName>
+        <propertyValue>#ff9e9e</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>TextColor</propertyName>
+        <propertyValue>#333</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>OverlayTextColor</propertyName>
+        <propertyValue>#FFFFFF</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>PrimaryFont</propertyName>
+        <propertyValue>Lato</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>LinkColor</propertyName>
+        <propertyValue>#2574A9</propertyValue>
+    </brandingSetProperty>
+    <masterLabel>ex</masterLabel>
+    <type>napili:branding-napili-merged</type>
+</BrandingSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyBrandingSet</members>
+        <name>BrandingSet</name>
+    </types>
+    <version>40.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

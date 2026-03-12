@@ -5,11 +5,14 @@ topic: connectapipostauthapipaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.438Z
-keywords: [ConnectApi.PostAuthApiPaymentMethodRequest]
+lastCollected: 2026-03-12T05:14:25.340Z
+estimatedTokens: 151
+keywords: [ConnectApi.PostAuthApiPaymentMethodRequest, Payment, input, post, authorization.]
 ---
 
 # ConnectApi.PostAuthApiPaymentMethodRequest
+
+> Payment method input for post authorization.
 
 # ConnectApi.PostAuthApiPaymentMethodRequest
 
@@ -21,3 +24,9 @@ Subclass of [ConnectApi.BaseApiPaymentMethodRequest](atlas.en-us.apexref.meta/ap
 | --- | --- | --- | --- | --- |
 | alternativePaymentMethod | ConnectApi.​AlternativePayment​Method | Alternative payment method. | Required | 54.0 |
 | cardPaymentMethod | ConnectApi.​CardPayment​MethodRequest | Card payment method. | Required | 54.0 |
+
+## Related Topics
+
+- ConnectApi.BaseApiPaymentMethodRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_base_api_payment_method.htm)
+- ConnectApi.​AlternativePayment​Method (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_alternative_payment_method.htm)
+- ConnectApi.​CardPayment​MethodRequest (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_card_payment_method.htm)

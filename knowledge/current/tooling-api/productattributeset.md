@@ -5,11 +5,15 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.556Z
-keywords: [ProductAttributeSet, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.514Z
+estimatedTokens: 955
+keywords: [ProductAttributeSet, Used, group, variation, attributes, apply, products., API, version, 55.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # ProductAttributeSet
+
+> Used to group variation attributes that apply to one or more products.
+      This object is available in API version 55.0 and later.
 
 # ProductAttributeSet
 

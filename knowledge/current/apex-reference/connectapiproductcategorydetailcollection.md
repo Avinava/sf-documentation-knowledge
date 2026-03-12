@@ -5,11 +5,14 @@ topic: connectapiproductcategorydetailcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.670Z
-keywords: [ConnectApi.ProductCategoryDetailCollection]
+lastCollected: 2026-03-12T05:14:28.509Z
+estimatedTokens: 70
+keywords: [ConnectApi.ProductCategoryDetailCollection, Collection, product, category, details.]
 ---
 
 # ConnectApi.ProductCategoryDetailCollection
+
+> Collection of product category details.
 
 # ConnectApi.ProductCategoryDetailCollection
 
@@ -18,3 +21,8 @@ Collection of product category details.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | productCategories | List<ConnectApi.​ProductCategory​Detail> | List of product category details. | 52.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductCategory​Detail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category_detail.htm)

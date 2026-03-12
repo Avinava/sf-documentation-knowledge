@@ -5,11 +5,15 @@ topic: connectapiproductchildcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.683Z
-keywords: [ConnectApi.ProductChildCollection]
+lastCollected: 2026-03-12T05:14:28.529Z
+estimatedTokens: 346
+keywords: [ConnectApi.ProductChildCollection, Collection, child, products, related, parent, product.]
 ---
 
 # ConnectApi.ProductChildCollection
+
+> Collection of child products related to a parent
+    product.
 
 # ConnectApi.ProductChildCollection
 
@@ -27,3 +31,11 @@ Collection of child products related to a parent product.
 | previousPageUrl | String | URL of the previous page, if any. | 57.0 |
 | productClass | ConnectApi.​ProductClass | Class of product. Values are:BundleSetSimpleVariationVariationParent | 62.0 |
 | total | Integer | Total number of child products in the collection. | 57.0 |
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductChild (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_child.htm)
+- ConnectApi.​ProductClass (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

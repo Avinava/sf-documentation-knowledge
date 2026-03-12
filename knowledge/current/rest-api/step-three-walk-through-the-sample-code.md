@@ -5,11 +5,16 @@ topic: step-three-walk-through-the-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.122Z
-keywords: [Step, Three, Walk, Through, Sample, Code, Get, Salesforce, Version, List, Resources, Available, Objects, Basic, Object, Information, Fields, Execute, SOQL, Query]
+lastCollected: 2026-03-12T05:14:35.216Z
+estimatedTokens: 1316
+keywords: [Step, Three, Walk, Through, Sample, Code, access, different, types, resources, Salesforce, series, REST, requests., Before, try, examples, sure, complete, prerequisites]
 ---
 
 # Step Three: Walk Through the Sample Code
+
+> To access different types of resources in Salesforce, make a series of REST requests.
+        Before you try these examples, make sure to complete the prerequisites and obtain an access
+        token in Step 1 of this Quick Start.
 
 # Step Three: Walk Through the Sample Code
 
@@ -133,3 +138,53 @@ To see that the billing address has changed to Fremont, refresh the page on the 
 
 -   [← Previous](atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm "Step Two: Set Up Authentication")
 -   [Next →](atlas.en-us.api_rest.meta/api_rest/quickstart_using_other_tools.htm "Using Other Tools")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/
+```
+
+```
+Content-Length: 88 
+Content-Type: application/json; 
+charset=UTF-8 Server:
+[
+    {
+        "label":"Spring '11",
+        "url":"/services/data/v21.0",
+        "version":"21.0"
+    }
+    ...
+]
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/ -H "Authorization: Bearer access_token"
+```
+
+```
+{
+    "sobjects" : "/services/data/v66.0/sobjects",
+    "search" : "/services/data/v66.0/search",
+    "query" : "/services/data/v66.0/query",
+    "recent" : "/services/data/v66.0/recent"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/ -H "Authorization: Bearer access_token"
+```
+
+## Related Topics
+
+- REST Resources and Requests (atlas.en-us.api_rest.meta/api_rest/intro_rest_resources.htm)
+- Versions (atlas.en-us.api_rest.meta/api_rest/resources_versions.htm)
+- Resources by Version (atlas.en-us.api_rest.meta/api_rest/resources_discoveryresource.htm)
+- Describe Global (atlas.en-us.api_rest.meta/api_rest/resources_describeGlobal.htm)
+- sObject Basic Information (atlas.en-us.api_rest.meta/api_rest/resources_sobject_basic_info.htm)
+- sObject Describe (atlas.en-us.api_rest.meta/api_rest/resources_sobject_describe.htm)
+- Query (atlas.en-us.api_rest.meta/api_rest/resources_query.htm)
+- sObject Rows (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/quickstart_using_other_tools.htm)

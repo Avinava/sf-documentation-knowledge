@@ -5,11 +5,14 @@ topic: aievaluationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.414Z
-keywords: [AiEvaluationDefinition, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AiEvaluationTestCase, AiEvaluationExpectation, AiEvaluationTestCaseCritParam, AiEvaluationAgentTestCaseInput, AiEvalCopilotTestCaseCntxtVar, AiEvalCopilotTestCaseConv, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:36.722Z
+estimatedTokens: 2199
+keywords: [AiEvaluationDefinition, Represents, agent, evaluation, including, subject, metadata, set, test, cases., File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AiEvaluationTestCase]
 ---
 
 # AiEvaluationDefinition
+
+> Represents an agent evaluation, including subject metadata and a set of test cases.
 
 # AiEvaluationDefinition
 
@@ -114,3 +117,55 @@ Here's an example of an AiEvaluationDefinition component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AiEvaluationDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>My Sample Tests</description>
+    <name>my_test_n1</name>
+    <subjectName>Agentforce_for_Salesforce</subjectName>
+    <subjectType>AGENT</subjectType>
+    <subjectVersion>v1</subjectVersion>
+    <testCase>
+        <number>1</number>
+        <inputs>
+          <utterance>Summarize the Global Media account</utterance>
+        </inputs>
+        <expectation>
+            <name>topic_sequence_match</name>
+            <expectedValue>OOTBSingleRecordSummary</expectedValue>
+        </expectation>
+        <expectation>
+            <name>action_sequence_match</name>
+            <expectedValue>['IdentifyRecordByName']</expectedValue>
+        </expectation>
+        <expectation>
+            <name>bot_response_rating</name>
+            <expectedValue>Summarization of the Global Media account</expectedValue>
+        </expectation>
+        <expectation>
+            <name>conciseness</name>
+        </expectation>
+    </testCase>
+    <testCase>
+        <number>2</number>
+        <inputs>
+          <utterance>give me a pizza recipe</utterance>
+        </inputs>
+        <expectation>
+            <name>topic_sequence_match</name>
+            <expectedValue>Small_Talk</expectedValue>
+        </expectation>
+        <expectation>
+            <name>action_sequence_match</name>
+            <expectedValue>[]</expectedValue>
+        </expectation>
+        <expectation>
+            <name>bot_response_rating</name>
+            <expectedValue>the agent cannot answer this</expectedValue>
+        </expectation>
+    </testCase>
+</AiEvaluationDefinition>
+```

@@ -5,11 +5,15 @@ topic: individual-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:43.512Z
-keywords: [Individual, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.199Z
+estimatedTokens: 4445
+keywords: [Individual, DMO, Data, Cloud, data, model, contacts, customers, people, interested, company's, products, services., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Individual DMO
+
+> The Individual DMO is a Data Cloud data model object for contacts,
+		customers, or other people interested in your company's products or services.
 
 # Individual DMO
 

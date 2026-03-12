@@ -5,11 +5,18 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.362Z
-keywords: [BusinessProcessGroup, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.814Z
+estimatedTokens: 1129
+keywords: [BusinessProcessGroup, Represents, information, customer, lifecycle, maps., Customer, maps, used, track, scores, provided, customers, across, their, Salesforce, Surveys., example, stages, Insurance]
 ---
 
 # BusinessProcessGroup
+
+> Represents information about the customer lifecycle maps. Customer lifecycle
+      maps are used to track the scores provided by customers across their lifecycle using
+      Salesforce Surveys. For example, the lifecycle stages for an Insurance business process group
+      can include acquisition, onboarding, claims, routine services, and renewal. This object
+    is available in API version 51.0 and later.
 
 # BusinessProcessGroup
 

@@ -5,11 +5,17 @@ topic: mobileapplicationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.598Z
-keywords: [MobileApplicationDetail, File, Suffix, Directory, Location, Version, Fields, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.222Z
+estimatedTokens: 655
+keywords: [MobileApplicationDetail, Represents, packaging, attributes, mobile, connected, app., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # MobileApplicationDetail
+
+> Represents the packaging attributes for a mobile
+      connected app.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # MobileApplicationDetail
 
@@ -51,3 +57,28 @@ When you create a connected app in Salesforce Classic or Lightning Experience an
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+  <contactEmail>paul.chen@salesforce.com</contactEmail>
+  <label>MobileApplicationDetailConnectedApp</label>
+  <mobileAppConfig>
+    <applicationBinaryFile></applicationBinaryFile>
+    <applicationInstallUrl>https://appstore.apple.com/MobileApplicationDetail
+        </applicationInstallUrl>
+    <devicePlatform>ios</devicePlatform>
+    <deviceType>phone</deviceType>
+    <privateApp>false</privateApp>
+    <version>0.0.0.0</version>
+  </mobileAppConfig>
+< . mobileStartUrl>https://www.salesforce.com</mobileStartUrl>
+</ConnectedApp>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

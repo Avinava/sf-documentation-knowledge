@@ -5,11 +5,18 @@ topic: commerce-order-delivery-method-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.912Z
-keywords: [Commerce, Order, Delivery, Method, Mapping, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.235Z
+estimatedTokens: 297
+keywords: [Commerce, Order, Delivery, Mapping, After, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, Data, Cloud., standardized, transferring]
 ---
 
 # Commerce: Order Delivery Method Mapping
+
+> After a data stream is deployed, the Commerce starter data bundle
+         automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Order Delivery Method data is a standardized
+         method for transferring purchased products or services to the fulfillment destination. A
+         delivery method characterized by the type of transportation used and by the delivering
+         organization or group.
 
 # Commerce: Order Delivery Method Mapping
 

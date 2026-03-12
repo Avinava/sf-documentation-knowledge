@@ -5,11 +5,14 @@ topic: connectapiabstractcontenthubitemtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.771Z
-keywords: [ConnectApi.AbstractContentHubItemType]
+lastCollected: 2026-03-12T05:14:25.850Z
+estimatedTokens: 285
+keywords: [ConnectApi.AbstractContentHubItemType, item, associated, repository, folder.]
 ---
 
 # ConnectApi.AbstractContentHubItemType
+
+> An item type associated with a repository folder.
 
 # ConnectApi.AbstractContentHubItemType
 
@@ -30,3 +33,11 @@ Superclass of:
 | id | String | ID of the item type. | 39.0 |
 | isVersionable | Boolean | Indicates whether the item type can have versions. | 39.0 |
 | url | String | URL to the detailed information of the item type. | 39.0 |
+
+## Related Topics
+
+- ConnectApi.ContentHubItemTypeDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_item_type_detail.htm)
+- ConnectApi.ContentHubItemTypeSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_item_type_summary.htm)
+- ConnectApi.​ContentHub​StreamSupport (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

@@ -5,11 +5,15 @@ topic: getalltabinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.201Z
-keywords: [getAllTabInfo, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.725Z
+estimatedTokens: 312
+keywords: [getAllTabInfo, Lightning, Experience, information, open, tabs., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Response]
 ---
 
 # getAllTabInfo() for Lightning Experience for Lightning Experience
+
+> Returns information about all open tabs. This method works only in
+   Lightning console apps.
 
 # getAllTabInfo() for Lightning Experience for Lightning Experience
 
@@ -54,3 +58,93 @@ This method returns a promise that, upon success, resolves to an array of tabInf
 ```
 
 ```
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { IsConsoleNavigation, getAllTabInfo } from 'lightning/platformWorkspaceApi';
+
+export class GetAllTabInfoExample extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async handleOpen() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        try {
+            const tabInfo = await getAllTabInfo();
+            //do something with tabInfo
+        } catch (error) {
+            console.log(error);
+        }
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Get All Tab Info" onclick="{! c.handleGetAllTabInfo }" />
+</aura:component>
+```
+
+```
+({
+    handleGetAllTabInfo : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getAllTabInfo().then(function(response) {
+            console.log(response);
+       })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+```
+{
+     tabId: string,
+     url: string (URL),
+     pinned: boolean,
+     closeable: boolean,
+     title: string,
+     icon: string (SLDS iconKey),
+     iconAlt: string,
+     customTitle: string (optional),
+     customIcon: string (optional),
+     customIconAlt: string (optional),
+     highlighted: boolean,
+     pageReference: object,
+     isSubtab: boolean,
+     parentTabId: string,
+     subtabs: [
+         {
+             tabId: string,
+             url: string (URL),
+             pinned: boolean,
+             closeable: boolean,
+             title: string,
+             icon: string (SLDS iconKey),
+             iconAlt: string,
+             customTitle: string (optional),
+             customIcon: string (optional),
+             customIconAlt: string (optional),
+             highlighted: boolean,
+             pageReference: object,
+             isSubtab: boolean,
+             parentTabId: string,
+             focused: boolean,
+             recordId: string,
+          },
+           ... 
+     ],
+     focused: boolean,
+     recordId: string
+}
+```
+
+## Related Topics
+
+- focusTab() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_focusTab.htm)

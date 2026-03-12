@@ -5,11 +5,15 @@ topic: eligibility-rule-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.378Z
-keywords: [Eligibility, Rule, Parameter]
+lastCollected: 2026-03-12T05:14:50.104Z
+estimatedTokens: 707
+keywords: [Eligibility, Rule, Output, representation, input, output, variables, decision, table.]
 ---
 
 # Eligibility Rule Parameter
+
+> Output representation of the input and output variables for the decision
+    table.
 
 # Eligibility Rule Parameter
 
@@ -41,3 +45,19 @@ JSON example
 | sortType | String | Type of sorting done on the rows of a decision table. Valid values are:AscNullFirst- Sort row values in ascending order, showing null values first.AscNullLast- Sort row values in ascending order, showing null values last.DescNullFirst- Sort row values in descending order, showing null values first.DescNullLast- Sort row values in descending order, showing null values last.None - Show rows as they are without sorting. | Small, 66.0 | 66.0 |
 | targetLookupObject | String | The lookup object associated with the source object field. | Small, 66.0 | 66.0 |
 | usage | String | Field usage in the decision table. Valid values are:InputOutputRowCriteria | Small, 66.0 | 66.0 |
+
+## Code Examples
+
+```
+[
+        {
+          "columnMapping": "ProductId",
+          "dataType": "String",
+          "fieldName": "ProductId",
+          "isRequired": true,
+          "operator": "Equals",
+          "sequence": 1,
+          "usage": "Input"
+        }
+      ]
+```

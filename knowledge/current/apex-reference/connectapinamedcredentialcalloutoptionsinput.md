@@ -5,11 +5,14 @@ topic: connectapinamedcredentialcalloutoptionsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.338Z
-keywords: [ConnectApi.NamedCredentialCalloutOptionsInput, See]
+lastCollected: 2026-03-12T05:14:25.192Z
+estimatedTokens: 201
+keywords: [ConnectApi.NamedCredentialCalloutOptionsInput, Named, credential, callout, options, input.]
 ---
 
 # ConnectApi.NamedCredentialCalloutOptionsInput
+
+> Named credential callout options input.
 
 # ConnectApi.NamedCredentialCalloutOptionsInput
 
@@ -24,3 +27,8 @@ Named credential callout options input.
 #### See Also
 
 -   [ConnectApi.NamedCredentialInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm "Input used to create or update a named credential.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.NamedCredentialInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_named_credential.htm)

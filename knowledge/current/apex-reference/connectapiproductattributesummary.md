@@ -5,11 +5,14 @@ topic: connectapiproductattributesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.650Z
-keywords: [ConnectApi.ProductAttributeSummary, See]
+lastCollected: 2026-03-12T05:14:28.481Z
+estimatedTokens: 151
+keywords: [ConnectApi.ProductAttributeSummary, Summary, product, attribute.]
 ---
 
 # ConnectApi.ProductAttributeSummary
+
+> Summary of a product attribute.
 
 # ConnectApi.ProductAttributeSummary
 
@@ -25,3 +28,9 @@ Summary of a product attribute.
 #### See Also
 
 -   [ConnectApi.ProductAttributeSetSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_summary.htm "Summary of a product attribute set.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ProductAttributeSetSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_set_summary.htm)

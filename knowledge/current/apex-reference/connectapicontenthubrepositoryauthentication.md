@@ -5,11 +5,14 @@ topic: connectapicontenthubrepositoryauthentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.458Z
-keywords: [ConnectApi.ContentHubRepositoryAuthentication, See]
+lastCollected: 2026-03-12T05:14:26.842Z
+estimatedTokens: 264
+keywords: [ConnectApi.ContentHubRepositoryAuthentication, Authentication, information, repository.]
 ---
 
 # ConnectApi.ContentHubRepositoryAuthentication
+
+> Authentication information for a repository.
 
 # ConnectApi.ContentHubRepositoryAuthentication
 
@@ -24,3 +27,10 @@ Authentication information for a repository.
 #### See Also
 
 -   [ConnectApi.ContentHubRepository](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm "A repository.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ContentHubAuthentication​Protocol (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.ContentHubRepository (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm)

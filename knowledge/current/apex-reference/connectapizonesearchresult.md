@@ -5,11 +5,14 @@ topic: connectapizonesearchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.248Z
-keywords: [ConnectApi.ZoneSearchResult, See]
+lastCollected: 2026-03-12T05:14:29.340Z
+estimatedTokens: 206
+keywords: [ConnectApi.ZoneSearchResult, Information, specific, zone, search, result.]
 ---
 
 # ConnectApi.ZoneSearchResult
+
+> Information about a specific zone search result.
 
 # ConnectApi.ZoneSearchResult
 
@@ -26,3 +29,9 @@ Information about a specific zone search result.
 #### See Also
 
 -   [ConnectApi.ZoneSearchPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_zoneSearchPage.htm "Page of zone search results.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ZoneSearchPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_zoneSearchPage.htm)

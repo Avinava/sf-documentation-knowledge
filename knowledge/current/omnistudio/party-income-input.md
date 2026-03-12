@@ -5,11 +5,14 @@ topic: party-income-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.410Z
-keywords: [Party, Income, Input]
+lastCollected: 2026-03-12T05:14:48.634Z
+estimatedTokens: 356
+keywords: [Party, Income, Input, representation, details, party, income.]
 ---
 
 # Party Income Input
+
+> Input representation of the details of the party income.
 
 # Party Income Input
 
@@ -31,3 +34,7 @@ Properties
 | relatedPerson | String | Indicates whether to associate the record to an Applicant or Party Profile record. | Required | 61 |
 | usageType | String | Usage type of the party income. | Required | 61.0 |
 | verification​Status | String | Status of the information verification. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

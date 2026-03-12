@@ -5,11 +5,17 @@ topic: workcapacitylimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.092Z
-keywords: [WorkCapacityLimit, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.785Z
+estimatedTokens: 2088
+keywords: [WorkCapacityLimit, Represents, capacity, limit, specific, service, territory, workstream, whole, given, period., API, version, 59.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # WorkCapacityLimit
+
+> Represents the capacity limit in a specific service territory for a
+         workstream or for the whole service territory in  a given
+         period.
+      This object is available in API version 59.0 and later.
 
 # WorkCapacityLimit
 

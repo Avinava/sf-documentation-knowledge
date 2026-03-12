@@ -5,11 +5,14 @@ topic: connectapicommercesearchindex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.384Z
-keywords: [ConnectApi.CommerceSearchIndex, See]
+lastCollected: 2026-03-12T05:14:26.722Z
+estimatedTokens: 317
+keywords: [ConnectApi.CommerceSearchIndex, Index, information.]
 ---
 
 # ConnectApi.CommerceSearchIndex
+
+> Index information.
 
 # ConnectApi.CommerceSearchIndex
 
@@ -31,3 +34,14 @@ Index information.
 #### See Also
 
 -   [ConnectApi.CommerceSearchIndexCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_commerce_search_index_collection_output.htm "Collection of indexes.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​CommerceSearch​IndexCreationType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CommerceSearch​IndexBuildType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CommerceSearch​IndexStatus (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​CommerceSearch​IndexUsage (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.CommerceSearchIndexCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_commerce_search_index_collection_output.htm)

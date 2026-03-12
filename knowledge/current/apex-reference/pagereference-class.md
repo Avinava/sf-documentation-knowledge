@@ -5,11 +5,18 @@ topic: pagereference-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:42.344Z
-keywords: [PageReference, Class, Namespace, Instantiation, Request, Headers, Example, Retrieving, Query, String, Parameters, Note, Navigating, New, Page, Result, Action, Method, Redirect, Users]
+lastCollected: 2026-03-12T05:14:31.894Z
+estimatedTokens: 1865
+namespace: ApexPages
+keywords: [PageReference, reference, instantiation, page., Among, attributes, PageReferences, consist, URL, set, query, names, values., Instantiation, Request, Headers, Example, Retrieving, Query, Note]
 ---
 
 # PageReference Class
+
+> A PageReference is a reference to an instantiation of a page. Among other attributes,
+        PageReferences consist of a URL and a set of query parameter names and values.
+
+**Namespace:** `ApexPages`
 
 # PageReference Class
 
@@ -29,29 +36,29 @@ Use a PageReference object:
 In a custom controller or controller extension, you can refer to or instantiate a PageReference in one of these ways.
 
 -   ```
-    
+
     ```
-    
+
     Refers to a PageReference for a Visualforce page that has already been saved in your organization. By referring to a page in this way, the platform recognizes that this controller or controller extension is dependent on the existence of the specified page and will prevent the page from being deleted while the controller or extension exists.
-    
+
 -   ```
-    
+
     ```
-    
+
     Creates a PageReference to any page that is hosted on the Lightning platform. For example, setting 'partialURL' to '/apex/HelloWorld' refers to the Visualforce page located at http://mySalesforceInstance/apex/HelloWorld. Likewise, setting 'partialURL' to '/' + 'recordID' refers to the detail page for the specified record.
-    
+
     This syntax is less preferable for referencing other Visualforce pages than Page.existingPageName because the PageReference is constructed at runtime, rather than referenced at compile time. Runtime references are not available to the referential integrity system. Consequently, the platform doesn't recognize that this controller or controller extension is dependent on the existence of the specified page and won't issue an error message to prevent user deletion of the page.
-    
+
 -   ```
-    
+
     ```
-    
+
     Creates a PageReference for an external URL. For example:
-    
+
     ```
-    
+
     ```
-    
+
 
 You can also instantiate a PageReference object for the current page with the currentPage ApexPages method. For example:
 
@@ -140,6 +147,39 @@ This example shows how to call the RedirectController class from the retired sit
 
 To redirect a page that’s served by a third-party CDN, configure that CDN to pass the origin IP address via the true-client-ip HTTP header on the page. For more information, see [Prerequisites for a Custom Domain That Uses a Third-Party Service or CDN](https://help.salesforce.com/s/articleView?id=platform.domain_mgmt_enable_https.htm&language=en_US) in Salesforce Help.
 
--   **[PageReference Constructors](atlas.en-us.apexref.meta/apexref/apex_System_PageReference_constructors.htm)**  
-    
+-   **[PageReference Constructors](atlas.en-us.apexref.meta/apexref/apex_System_PageReference_constructors.htm)**
+
 -   **[PageReference Methods](atlas.en-us.apexref.meta/apexref/apex_System_PageReference_methods.htm)**
+
+## Code Examples
+
+```
+PageReference pageRef = new PageReference('partialURL');
+```
+
+```
+PageReference pageRef = new PageReference('fullURL');
+```
+
+```
+PageReference pageRef = new PageReference('http://www.google.com');
+```
+
+```
+PageReference pageRef = ApexPages.currentPage();
+```
+
+```apex
+public with sharing class MyController {
+   public Account getAccount() {
+        return [SELECT Id, Name FROM Account WITH USER_MODE
+                WHERE Id = :ApexPages.currentPage().getParameters().get('Id')];
+    }
+}
+```
+
+## Related Topics
+
+- System (atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm)
+- PageReference Constructors (atlas.en-us.apexref.meta/apexref/apex_System_PageReference_constructors.htm)
+- PageReference Methods (atlas.en-us.apexref.meta/apexref/apex_System_PageReference_methods.htm)

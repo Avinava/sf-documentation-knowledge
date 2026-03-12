@@ -5,11 +5,15 @@ topic: businessoperationsprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.716Z
-keywords: [BusinessOperationsProcess, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.605Z
+estimatedTokens: 1078
+keywords: [BusinessOperationsProcess, Represents, details, business, process, organization., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # BusinessOperationsProcess
+
+> Represents the details of the business process in the organization. This
+      object is available in API version 65.0 and later.
 
 # BusinessOperationsProcess
 
@@ -54,3 +58,10 @@ Sharing rules are available for the object.
 [BusinessOperationsProcessShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- BusinessOperationsProcessHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- BusinessOperationsProcessFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- BusinessOperationsProcessOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- BusinessOperationsProcessShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

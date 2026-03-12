@@ -5,11 +5,16 @@ topic: ownerchangeoptioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.376Z
-keywords: [OwnerChangeOptionInfo, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Example]
+lastCollected: 2026-03-12T05:14:46.216Z
+estimatedTokens: 546
+keywords: [OwnerChangeOptionInfo, Represents, default, optional, actions, performed, record’s, owner, changed., Tooling, API, version, 35.0, later., Supported, SOAP, Calls, REST, HTTP, Special]
 ---
 
 # OwnerChangeOptionInfo
+
+> Represents default and optional actions that can be performed when a record’s owner
+        is changed. Available in Tooling API
+        version 35.0 and later.
 
 # OwnerChangeOptionInfo
 
@@ -49,3 +54,7 @@ SELECT Id, Name, Label, IsEditable, DefaultValue, EntityDefinition.QualifiedApiN
 Retrieve the change options for opportunities.
 
 SELECT DurableId,EntityDefinitionId,IsEditable,Label,Name,ParentId FROM OwnerChangeOptionInfo WHERE EntityDefinition.DurableId = ‘Opportunity’
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)

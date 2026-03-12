@@ -5,11 +5,15 @@ topic: invalid-related-object-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.451Z
-keywords: [Invalid, Related, Object, Node]
+lastCollected: 2026-03-12T05:14:07.800Z
+estimatedTokens: 106
+keywords: [Invalid, Related, Node, Output, representation, invalid, related, node, details, errors.]
 ---
 
 # Invalid Related Object Node
+
+> Output representation of the invalid related object node with details of
+    errors.
 
 # Invalid Related Object Node
 

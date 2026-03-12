@@ -5,11 +5,16 @@ topic: sitemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.485Z
-keywords: [Sitemap, GlobalPageConfig, DefaultPageConfig, PageConfig, Methods]
+lastCollected: 2026-03-12T05:14:12.565Z
+estimatedTokens: 2372
+keywords: [Sitemap, Salesforce, Interactions, SDK, provides, ability, extract, data, during, page, navigation., sitemap, share, capture, logic, across, multiple, pages, separate, web]
 ---
 
 # Sitemap
+
+> Salesforce Interactions SDK Sitemap provides the ability to extract data during page
+    navigation. Also, the sitemap can share data capture logic across multiple pages, and it can
+    separate data capture logic from web page presentation logic.
 
 # Sitemap
 
@@ -327,5 +332,145 @@ You can extract data from the shop global object:
 
 ```
 
--   **[Sample Ecommerce Sitemap](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_sample_ecommerce_sitemap.htm)**  
+-   **[Sample Ecommerce Sitemap](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_sample_ecommerce_sitemap.htm)**
     Review this sample sitemap.
+
+## Code Examples
+
+```apex
+SalesforceInteractions.init().then(() => {
+          SalesforceInteractions.initSitemap({
+          global: { ... },
+          pageTypeDefault: { ... },
+          pageTypes: [...]
+          })
+          }))
+```
+
+```apex
+SalesforceInteractions.init().then(() => {
+  const { 
+    listener, 
+    CatalogObjectInteractionName,
+    resolvers
+  } = SalesforceInteractions
+  
+  const global = {
+    locale: 'en_US',
+    listeners: [
+      listener('click', '[title="Log In"]', (event) => {
+        console.log(event)
+      })
+    ],
+    onActionEvent: (actionEvent) => {
+      console.log(actionEvent)
+    }
+  }
+  
+  const pageTypeDefault = {...}
+  
+  const pageTypes = [...]
+  
+  SalesforceInteractions.initSitemap({ 
+    global, 
+    pageTypes,
+    pageTypeDefault 
+  })
+})
+```
+
+```apex
+SalesforceInteractions.init().then(() => {
+  const { 
+    listener, 
+    CatalogObjectInteractionName,
+    resolvers
+  } = SalesforceInteractions
+  
+  const global = {...}
+  
+  const pageTypeDefault = {
+    name: 'default',
+    locale: 'en_US',
+    listeners: [
+      listener('click', '.example-selector', (event) => {
+        console.log(event)
+      })
+    ],
+    onActionEvent: (actionEvent) => {
+      console.log(actionEvent)
+    }
+  }
+  
+  const pageTypes = [...]
+  
+  SalesforceInteractions.initSitemap({ 
+    global, 
+    pageTypes,
+    pageTypeDefault 
+  })
+})
+```
+
+```apex
+SalesforceInteractions.init().then(() => {
+  const { 
+    listener, 
+    CatalogObjectInteractionName,
+    resolvers
+  } = SalesforceInteractions
+  
+  const global = {...}
+  
+  const pageTypeDefault = {...}
+  
+  const homePage = {
+    name: 'home',
+    locale: 'en_US',
+    isMatch: () => {
+      return window.location.pathname === '/'
+    },
+    listeners: [
+      listener('click', '#promo', (event) => {
+        console.log(event)
+      })
+    ],
+    onActionEvent: (actionEvent) => {
+      console.log(actionEvent)
+    }
+  }
+  
+  const productPage = {
+    name: 'product',
+    isMatch: () => {
+      return /product\/\d+/.test(window.location.pathname),
+    },
+    interaction: {
+      name: CatalogObjectInteractionName.ViewCatalogObject,
+      catalogObject: {
+        type: 'Product',
+        id: resolvers.fromSelectorAttribute('.product', 'data-id')
+      }
+    }
+  }
+  
+  const pageTypes = [homePage, productPage]
+  
+  SalesforceInteractions.initSitemap({ 
+    global, 
+    pageTypes,
+    pageTypeDefault 
+  })
+})
+```
+
+```
+initSitemap(siteMapConfig: SiteMapConfig): boolean
+```
+
+## Related Topics
+
+- Cart Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_cart_interaction.htm)
+- Catalog Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_catalog_interaction.htm)
+- Order Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_order_interaction.htm)
+- Sample Ecommerce Sitemap (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_sample_ecommerce_sitemap.htm)

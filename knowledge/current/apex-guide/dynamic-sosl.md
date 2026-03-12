@@ -5,11 +5,17 @@ topic: dynamic-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.078Z
-keywords: [Dynamic, SOSL, Return, Snippets, Injection]
+lastCollected: 2026-03-12T05:14:33.329Z
+estimatedTokens: 837
+keywords: [Dynamic, SOSL, refers, creation, run, time, Apex, code., enables, create, flexible, applications., example, search, based, input, end, user, update, records]
 ---
 
 # Dynamic SOSL
+
+> Dynamic SOSL refers to the creation of a SOSL string at run time with Apex
+            code. Dynamic SOSL enables you to create more flexible applications. For example, you
+            can create a search based on input from an end user, or update records with varying
+            field names.
 
 # Dynamic SOSL
 
@@ -59,3 +65,38 @@ To prevent SOSL injection, use the escapeSingleQuotes method. This method adds t
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_soql.htm "Dynamic SOQL")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_dynamic_dml.htm "Dynamic DML")
+
+## Code Examples
+
+```apex
+List<List <sObject>> myQuery = search.query(SOSL_search_string);
+```
+
+```apex
+String searchquery='FIND\'Edge*\'IN ALL FIELDS RETURNING Account(id,name),Contact, Lead'; 
+List<List<SObject>>searchList=search.query(searchquery);
+```
+
+```
+Search.SearchResults searchResults = Search.find(SOSL_search_string);
+```
+
+```apex
+Search.SearchResults searchResults = Search.find('FIND \'test\' IN ALL FIELDS RETURNING 
+KnowledgeArticleVersion(id, title WHERE PublishStatus = \'Online\' AND Language = \'en_US\') WITH SNIPPET (target_length=120)');
+ 
+List<Search.SearchResult> articlelist = searchResults.get('KnowledgeArticleVersion');
+
+for (Search.SearchResult searchResult : articleList) { 
+	KnowledgeArticleVersion article = (KnowledgeArticleVersion) searchResult.getSObject(); 
+	System.debug(article.Title); 
+	System.debug(searchResult.getSnippet()); 
+}
+```
+
+## Related Topics
+
+- Execution
+                Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_soql.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_dml.htm)

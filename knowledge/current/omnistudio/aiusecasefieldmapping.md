@@ -4,12 +4,17 @@ domain: omnistudio
 topic: aiusecasefieldmapping
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.309Z
-keywords: [AIUsecaseFieldMapping, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:53.365Z
+estimatedTokens: 888
+keywords: [AIUsecaseFieldMapping, Represents, information, field, mapping, that’s, used, save, extracted, features, prediction, scores, insights, predictions, suggestions, improve, scores., API, version, 55.0]
 ---
 
 # AIUsecaseFieldMapping
+
+> Represents information about the field mapping that’s used to save
+         the extracted features, scores, insights, and recommendations for a prediction. This
+      object is available in API version 55.0 and later.
 
 # AIUsecaseFieldMapping
 

@@ -5,11 +5,14 @@ topic: domaintype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.436Z
-keywords: [DomainType, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.566Z
+estimatedTokens: 482
+keywords: [DomainType, Specifies, domain, System.Domain., Usage, Values]
 ---
 
 # DomainType Enum
+
+> Specifies the domain type for a System.Domain.
 
 # DomainType Enum
 
@@ -39,3 +42,8 @@ The following are the values of the System.DomainType enum. These values only ap
 | SALESFORCE_SITES_DOMAIN | Salesforce-hosted domains that serve Salesforce Sites. |
 | SETUP_DOMAIN | The Salesforce-hosted domain that serves Setup pages. |
 | VISUALFORCE_DOMAIN | Domains that serve Visualforce pages. |
+
+## Related Topics
+
+- System.Domain (atlas.en-us.apexref.meta/apexref/apex_class_System_Domain.htm)
+- System.DomainParser (atlas.en-us.apexref.meta/apexref/apex_class_System_DomainParser.htm)

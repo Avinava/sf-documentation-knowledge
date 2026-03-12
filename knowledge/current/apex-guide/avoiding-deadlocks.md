@@ -5,11 +5,17 @@ topic: avoiding-deadlocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.043Z
-keywords: [Avoiding, Deadlocks]
+lastCollected: 2026-03-12T05:14:34.650Z
+estimatedTokens: 152
+keywords: [Avoiding, Deadlocks, developer, care, locking, rows, ensure, introducing, deadlocks., Verify, standard, deadlock, avoidance, techniques, accessing, tables, same, order, locations, application.]
 ---
 
 # Avoiding Deadlocks
+
+> As a developer, use care when locking rows to ensure that you are
+not introducing deadlocks. Verify that you are using standard deadlock
+avoidance techniques by accessing tables and rows in the same order
+from all locations in an application.
 
 # Avoiding Deadlocks
 

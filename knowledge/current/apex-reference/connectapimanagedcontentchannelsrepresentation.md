@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchannelsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.104Z
-keywords: [ConnectApi.ManagedContentChannelsRepresentation, See]
+lastCollected: 2026-03-12T05:14:27.735Z
+estimatedTokens: 247
+keywords: [ConnectApi.ManagedContentChannelsRepresentation, Collection, managed, content, channels.]
 ---
 
 # ConnectApi.ManagedContentChannelsRepresentation
+
+> Collection of managed content channels.
 
 # ConnectApi.ManagedContentChannelsRepresentation
 
@@ -26,3 +29,11 @@ Collection of managed content channels.
 #### See Also
 
 -   [getManagedContentChannels(pageParam, pageSize, showDetails)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm#apex_ConnectAPI_ManagedContentChannels_getManagedContentChannels_1 "Get managed content channels.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​AbstractManaged​ContentChannel​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_managed_content_channel.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- getManagedContentChannels(pageParam, pageSize, showDetails) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentChannels_static_methods.htm)

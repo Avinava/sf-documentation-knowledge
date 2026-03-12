@@ -5,11 +5,14 @@ topic: party-identity-verification-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.690Z
-keywords: [Party, Identity, Verification, Result]
+lastCollected: 2026-03-12T05:14:50.508Z
+estimatedTokens: 781
+keywords: [Party, Identity, Verification, Result, Output, representation, party, identity, verification, result.]
 ---
 
 # Party Identity Verification Result
+
+> Output representation of the party identity verification result.
 
 # Party Identity Verification Result
 
@@ -42,3 +45,8 @@ Output representation of the party identity verification result.
 | thirdParty​Verification​RunUrl | String | Third-party URL to view details of the verification run on the party profile. | Small, 61.0 | 61.0 |
 | verification​RequestDate | String | Date when the party identity verification request was submitted. | Small, 61.0 | 61.0 |
 | verifiedBy | String | Name of the third-party that conducted the identity verification. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Party Identity Verification Step Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_identity_verification_step_result.htm)

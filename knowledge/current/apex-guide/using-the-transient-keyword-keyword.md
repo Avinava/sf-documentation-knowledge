@@ -5,11 +5,18 @@ topic: using-the-transient-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.597Z
-keywords: [transient, Keyword, See]
+lastCollected: 2026-03-12T05:14:32.626Z
+estimatedTokens: 608
+keywords: [transient, Keyword, keyword, Apex, classes, serializable, namely, controllers, controller, extensions, implement, Batchable, Schedulable, interface., addition, define, types]
 ---
 
 # Using the  transient Keyword Keyword
+
+> You can also use the transient keyword in Apex
+            classes that are serializable, namely in controllers, controller extensions, or classes
+            that implement the Batchable or Schedulable interface. In addition, you can use
+                transient in classes that define the types
+  
 
 # Using the transient Keyword Keyword
 
@@ -49,3 +56,42 @@ The following example contains both a Visualforce page and a custom controller. 
 #### See Also
 
 -   [*Apex Reference Guide*: JSONParser Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_JsonParser.htm "Apex Reference Guide: JSONParser Class - HTML (New Window)")
+
+## Code Examples
+
+```
+Transient Integer currentTotal;
+```
+
+```
+<apex:page controller="ExampleController">
+  T1: {!t1} <br/>
+  T2: {!t2} <br/>
+  <apex:form>
+    <apex:commandLink value="refresh"/>
+  </apex:form>
+</apex:page>
+```
+
+```apex
+public class ExampleController {
+
+    DateTime t1;
+    transient DateTime t2;
+
+    public String getT1() {
+        if (t1 == null) t1 = System.now();
+        return '' + t1;
+    }
+
+    public String getT2() {
+        if (t2 == null) t2 = System.now();
+        return '' + t2;
+    }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_this.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)

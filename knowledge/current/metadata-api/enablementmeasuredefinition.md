@@ -5,11 +5,18 @@ topic: enablementmeasuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:52.239Z
-keywords: [EnablementMeasureDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, EnablementMeasureSourceObjectDefinition, EnablementMeasureFilterDefinition, EnablementMeasureRelatedObjectDefinition, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.274Z
+estimatedTokens: 2176
+keywords: [EnablementMeasureDefinition, Represents, Enablement, measure, which, specifies, job-related, activity, user, performs, complete, milestone, outcome, program., identifies, source, optional, related, objects, field]
 ---
 
 # EnablementMeasureDefinition
+
+> Represents an Enablement measure, which specifies
+			the job-related activity that a user performs to complete a milestone or outcome in an
+			Enablement program. A measure identifies a source object and optional related objects,
+			with optional field filters and filter logic, for tracking the activity. To avoid
+			deployment errors, deploy measures before you deploy programs.
 
 # EnablementMeasureDefinition
 
@@ -102,3 +109,62 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EnablementMeasureDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Total amount in pipeline measure</description>
+    <developerName>TotalAmountInPipeline</developerName>
+    <masterLabel>Total Amount in Pipeline</masterLabel>
+    <status>Draft</status>
+    <sourceMeasureObject>
+        <aggregateFieldApiName>Amount</aggregateFieldApiName>
+        <aggregateFunction>Sum</aggregateFunction>
+        <dateFieldApiName>CreatedDate</dateFieldApiName>
+        <displayFieldApiName>Name</displayFieldApiName>
+        <objectApiName>Opportunity</objectApiName>
+        <userFieldApiName>OwnerId</userFieldApiName>
+        <filters>
+            <fieldApiName>StageName</fieldApiName>
+            <fieldValue>Closed Won</fieldValue>
+            <operator>Equals</operator>
+            <sequenceNumber>1</sequenceNumber>
+        </filters>
+        <relatedMeasureObjects>
+            <objectApiName>OpportunityLineItem</objectApiName>
+            <idFieldApiName>OpportunityId</idFieldApiName>
+            <filterLogic>1 OR 2</filterLogic>
+            <filters>
+                <fieldApiName>UnitPrice</fieldApiName>
+                <fieldValue>10000</fieldValue>
+                <operator>GreaterThan</operator>
+                <sequenceNumber>1</sequenceNumber>
+            </filters>
+            <filters>
+                <fieldApiName>TotalPrice</fieldApiName>
+                <fieldValue>10000</fieldValue>
+                <operator>GreaterThan</operator>
+                <sequenceNumber>2</sequenceNumber>
+            </filters>
+        </relatedMeasureObjects>
+    </sourceMeasureObject>
+</EnablementMeasureDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>TotalAmountInPipeline</members>
+        <name>EnablementMeasureDefinition</name>
+    </types>
+    <version>61.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

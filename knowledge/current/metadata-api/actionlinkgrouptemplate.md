@@ -5,11 +5,20 @@ topic: actionlinkgrouptemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.299Z
-keywords: [ActionLinkGroupTemplate, File, Suffix, Directory, Location, Version, Fields, ActionLinkTemplate, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.557Z
+estimatedTokens: 2027
+keywords: [ActionLinkGroupTemplate, Represents, action, link, group, template., Action, templates, let, reuse, definitions, package, distribute, links., button, feed, element., Clicking, take, user]
 ---
 
 # ActionLinkGroupTemplate
+
+> Represents the action link group template.
+      Action link templates let you reuse action link definitions and package and distribute action
+      links. An action link is a button on a feed element. Clicking on an action link can take a
+      user to another Web page, initiate a file download, or invoke an API call to an external
+      server or Salesforce. Use action links to integrate Salesforce and third-party services into
+      the feed. Every action link belongs to an action link group and action links within the group
+      are mutually exclusive.
 
 # ActionLinkGroupTemplate
 
@@ -78,3 +87,48 @@ If you delete a published action link group template, you delete all related act
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionLinkGroupTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+   <actionLinkTemplates>
+      <actionUrl>/services/data/{!Bindings.word}/chatter/feed-elements</actionUrl>
+      <headers>Content-Type:{!Bindings.word3}</headers>
+      <isConfirmationRequired>true</isConfirmationRequired>
+      <isGroupDefault>true</isGroupDefault>
+      <labelKey>Add</labelKey>
+      <linkType>API</linkType>
+      <method>httpPost</method>
+      <position>0</position>
+      <requestBody>{"body":{"messageSegments":[{"type": "Text",
+      "text": "{!Bindings.word1}"}]},"subjectId": "{!Bindings.word2}",
+      "feedElementType": "feedItem"}</requestBody>
+      <userAlias>customExcludedUser</userAlias>
+      <userVisibility>CustomExcludedUser</userVisibility>
+   </actionLinkTemplates>
+   <category>Primary</category>
+   <executionsAllowed>OncePerUser</executionsAllowed>
+   <hoursUntilExpiration>10</hoursUntilExpiration>
+   <isPublished>true</isPublished>
+   <name>MyPackage</name>
+</ActionLinkGroupTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ActionLinkGroupTemplate</name>
+    </types>
+    <version>33.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: simulation-evaluation-service-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.547Z
-keywords: [Simulation, Evaluation, Service, Input, Note]
+lastCollected: 2026-03-12T05:14:48.816Z
+estimatedTokens: 246
+keywords: [Simulation, Evaluation, Service, Input, representation, run, simulation, expression, set., Note]
 ---
 
 # Simulation Evaluation Service Input
+
+> Input representation to run simulation on an expression
+      set.
 
 # Simulation Evaluation Service Input
 
@@ -38,3 +42,64 @@ Properties
 | config | Simulation Config Input | Configuration details for the simulation. | Required | 53.0 |
 | contextInput | Simulation Context Input | Context details for the simulation. | Required | 58.0 |
 | input | Simulation Variable Input[] | List of input variables to run the simulation. | Required | 53.0 |
+
+## Code Examples
+
+```
+{
+   "input":{
+      "variables":[
+         {
+            "name":"artEstimatedValue",
+            "value":"301",
+            "datatype":"number"
+         },
+         {
+            "name":"quantity",
+            "value":"301",
+            "datatype":"number"
+         }
+      ]
+   },
+   "contextInput":{
+      "name":"PensionFunds",
+      "value":{
+         "PolicyDetails":[
+            {
+               "PolicyName":"Policy1",
+               "TotalMember":"100",
+               "PrincipalAmout":"500",
+               "Status":"Active",
+               "TotalPremium":"0"
+            },
+            {
+               "PolicyName":"Policy2",
+               "TotalMember":"200",
+               "PrincipalAmout":"100",
+               "Status":"Inactive",
+               "TotalPremium":"0"
+            },
+            {
+               "PolicyName":"Policy3",
+               "TotalMember":"300",
+               "PrincipalAmout":"400",
+               "Status":"Active",
+               "TotalPremium":"0"
+            }
+         ]
+      }
+   },
+   "config":{
+      "versionInfo":{
+         "configurationVersionId":"a1o5w000002EJPPAA4",
+         "effectiveDate":"2019-02-13 00:00:00"
+      }
+   }
+}
+```
+
+## Related Topics
+
+- Simulation Config Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_config_input.htm)
+- Simulation Context Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_context_input.htm)
+- Simulation Variable Input[] (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_simulation_variable_input.htm)

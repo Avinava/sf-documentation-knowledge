@@ -5,11 +5,15 @@ topic: timesheetentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.054Z
-keywords: [TimeSheetEntry, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.731Z
+estimatedTokens: 1004
+keywords: [TimeSheetEntry, Represents, span, time, service, resource, spends, field, task., API, version, 47.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated]
 ---
 
 # TimeSheetEntry
+
+> Represents a span of time that a service resource spends on a field
+			service task. This object is available in API version 47.0 and later.
 
 # TimeSheetEntry
 

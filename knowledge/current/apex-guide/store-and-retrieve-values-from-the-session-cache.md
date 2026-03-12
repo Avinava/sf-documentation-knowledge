@@ -5,11 +5,20 @@ topic: store-and-retrieve-values-from-the-session-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.421Z
-keywords: [Store, Retrieve, Values, Session, Cache, Cache.Session, Methods, Note, Cache.SessionPartition, See]
+lastCollected: 2026-03-12T05:14:33.776Z
+estimatedTokens: 913
+namespace: Cache.SessionPartition
+keywords: [Store, Retrieve, Values, Session, Cache, Cache.Session, Cache.SessionPartition, classes, manage, values, session, cache., any, partition, class., you’re, managing, cache, instead., Note]
 ---
 
 # Store and Retrieve Values from the Session Cache
+
+> Use the Cache.Session and Cache.SessionPartition
+    classes to manage values in the session cache. To manage values in any partition, use the
+    methods in the Cache.Session class. If you’re managing
+    cache values in one partition, use the Cache.SessionPartition methods instead.
+
+**Namespace:** `Cache.SessionPartition`
 
 # Store and Retrieve Values from the Session Cache
 
@@ -74,5 +83,40 @@ This example calls the get method on a partition in one expression without assig
 #### See Also
 
 -   [*Apex Reference Guide*: Session Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_Session.htm "Apex Reference Guide: Session Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: SessionPartition Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_cache_SessionPartition.htm "Apex Reference Guide: SessionPartition Class - HTML (New Window)")
+
+## Code Examples
+
+```
+// Add a value to the cache
+DateTime dt = DateTime.parse('06/16/2015 11:46 AM');
+Cache.Session.put('ns1.partition1.orderDate', dt);
+if (Cache.Session.contains('ns1.partition1.orderDate')) {
+    DateTime cachedDt = (DateTime)Cache.Session.get('ns1.partition1.orderDate');
+}
+```
+
+```
+Cache.Session.put('orderDate', dt);
+if (Cache.Session.contains('orderDate')) {
+    DateTime cachedDt = (DateTime)Cache.Session.get('orderDate');
+}
+```
+
+```
+Cache.Session.put('local.myPartition.orderDate', dt);
+Cache.Session.put('ns1.myPartition.orderDate', dt);
+```
+
+```
+// Add a value to the cache with options
+Cache.Session.put('ns1.partition1.totalSum', '500', 3600, Cache.Visibility.ALL, true);
+```
+
+```
+// Get a cached value
+Object obj = Cache.Session.get('ns1.partition1.orderDate');
+// Cast return value to a specific data type
+DateTime dt2 = (DateTime)obj;
+```

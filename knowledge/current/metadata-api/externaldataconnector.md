@@ -5,11 +5,14 @@ topic: externaldataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.472Z
-keywords: [ExternalDataConnector, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:39.626Z
+estimatedTokens: 482
+keywords: [ExternalDataConnector, Used, represent, where, data, sourced., Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # ExternalDataConnector
+
+> Used to represent the object where the data was sourced.
 
 # ExternalDataConnector
 
@@ -50,4 +53,17 @@ The following is an example of a ExternalDataConnector component.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+        <ExternalDataConnector xmlns="http://soap.sforce.com/2006/04/metadata">
+        <dataConnectionStatus>Connected</dataConnectionStatus>
+        <dataConnectorConfiguration>Person</dataConnectorConfiguration>
+        <dataConnectorType>AmazonS3</dataConnectorType>
+        <dataPlatform>Amazon_S3</dataPlatform>
+        <masterLabel>AmazonS3</masterLabel>
+        </ExternalDataConnector>
 ```

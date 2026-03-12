@@ -5,11 +5,14 @@ topic: connectapiinsightvaluesoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.003Z
-keywords: [ConnectApi.InsightValuesOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.601Z
+estimatedTokens: 154
+keywords: [ConnectApi.InsightValuesOutputRepresentation, Insight, details, business, objective, goal.]
 ---
 
 # ConnectApi.InsightValuesOutputRepresentation
+
+> Insight value details for a business objective, or goal.
 
 # ConnectApi.InsightValuesOutputRepresentation
 
@@ -21,3 +24,8 @@ Insight value details for a business objective, or goal.
 | name | String | Name of the Salesforce record that the insight is based on. | 62.0 |
 | previousValue | Double | Value of the insight for the previous timeframe based on the key performance indicator. | 62.0 |
 | value | Double | Value of the insight for the current timeframe based on the key performance indicator. | 62.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

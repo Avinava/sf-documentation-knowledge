@@ -5,11 +5,15 @@ topic: apexcodecoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.170Z
-keywords: [ApexCodeCoverage, Supported, SOAP, API, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:44.570Z
+estimatedTokens: 715
+keywords: [ApexCodeCoverage, Represents, code, coverage, test, results, Apex, trigger., Tooling, API, version, 29.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access]
 ---
 
 # ApexCodeCoverage
+
+> Represents code coverage test results for an Apex class or
+   trigger. Available in Tooling API version 29.0 and later.
 
 # ApexCodeCoverage
 
@@ -62,7 +66,7 @@ In this case, multiple rows can be returned, since there could be multiple test 
 
 Coverage is returned as two lists of integers. The first is the covered lines, and the second is the list of uncovered lines. If a line is missing from both lists, the line isn’t executable and doesn’t require coverage. For example, if the covered lines are 2, 9, and 11, and uncovered lines are 3, 4, 5, and 6; the result is: {2,9,11},{3,4,5,6}. The missing lines (1, 7, 8 and 10) aren’t executable.
 
-Code coverage percentage is a simple calculation of the number of covered lines divided by the sum of the number of covered lines and the number of uncovered lines. For example, to calculate code coverage percentage in SOAP:  
+Code coverage percentage is a simple calculation of the number of covered lines divided by the sum of the number of covered lines and the number of uncovered lines. For example, to calculate code coverage percentage in SOAP:
 
 ```
 
@@ -73,3 +77,27 @@ Code coverage percentage is a simple calculation of the number of covered lines 
 #### Note
 
 If a single deployment has over 2,000 Apex classes, ApexCodeCoverage objects for the deployed classes are deleted even if the deployment fails or is rolled back. ApexCodeCoverageAggregate objects aren’t affected.
+
+## Code Examples
+
+```
+SELECT Coverage
+FROM ApexCodeCoverage 
+WHERE ApexClassOrTriggerId = ‘01pD000000066GR’ 
+AND ApexTestClassId = ‘01pD000000064pu’
+```
+
+```
+SELECT Coverage
+FROM ApexCodeCoverage 
+WHERE ApexClassOrTriggerId = ‘01pD000000066GR’
+```
+
+```apex
+ApexCodeCoverage acc = null; //Query for an ApexCodeCoverage object 
+Coverage coverage = acc.coverage; 
+int[] covered = coverage.coveredLines; 
+int[] uncovered = coverage.uncoveredLines; 
+int percent = covered.length / (covered.length + uncovered.length); 
+System.out.println("Total class coverage is " + percent + "%.");
+```

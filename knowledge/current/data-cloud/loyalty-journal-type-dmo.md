@@ -5,11 +5,15 @@ topic: loyalty-journal-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.563Z
-keywords: [Loyalty, Journal, Type, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.285Z
+estimatedTokens: 502
+keywords: [Loyalty, Journal, DMO, Data, Cloud, data, model, loyalty, journal., API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
 ---
 
 # Loyalty Journal Type DMO
+
+> The Loyalty Journal Type DMO is a Data Cloud data model object (DMO) for
+      the type of loyalty journal.
 
 # Loyalty Journal Type DMO
 

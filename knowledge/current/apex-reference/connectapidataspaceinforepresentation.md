@@ -5,11 +5,14 @@ topic: connectapidataspaceinforepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.536Z
-keywords: [ConnectApi.DataSpaceInfoRepresentation, See]
+lastCollected: 2026-03-12T05:14:26.959Z
+estimatedTokens: 165
+keywords: [ConnectApi.DataSpaceInfoRepresentation, Represents, data, space.]
 ---
 
 # ConnectApi.DataSpaceInfoRepresentation
+
+> Represents a data space.
 
 # ConnectApi.DataSpaceInfoRepresentation
 
@@ -24,3 +27,9 @@ Represents a data space.
 #### See Also
 
 -   [getDataSpace(idOrName)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpDataSpace_static_methods.htm#apex_ConnectAPI_CdpDataSpace_getDataSpace_1 "Get a data space by ID or API name.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- DataSpaceStatusEnum (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- getDataSpace(idOrName) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpDataSpace_static_methods.htm)

@@ -5,11 +5,17 @@ topic: connectapiassociatedactionscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.774Z
-keywords: [ConnectApi.AssociatedActionsCapabilityInput, See]
+lastCollected: 2026-03-12T05:14:24.307Z
+estimatedTokens: 398
+keywords: [ConnectApi.AssociatedActionsCapabilityInput, list, action, link, groups, associate, feed, element., group, element, call, must, made, Apex, created, definition., addition, user, making, definition]
 ---
 
 # ConnectApi.AssociatedActionsCapabilityInput
+
+> A list of action link groups to associate with a feed element. To
+      associate an action link group with a feed element, the call must be made from the Apex namespace that created
+      the action link definition. In addition, the user making the call must have created the
+      definition or have View All Data permission.
 
 # ConnectApi.AssociatedActionsCapabilityInput
 
@@ -24,3 +30,11 @@ An action link is a button on a feed element. Clicking an action link can take a
 #### See Also
 
 -   [ConnectApi.FeedElementCapabilitiesInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm "A container for all capabilities that can be included when creating a feed element.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ActionLinks.​createActionLinkGroupDefinition​(communityId,
+                        actionLinkGroup) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ActionLinks_static_methods.htm)
+- ConnectApi.FeedElementCapabilitiesInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capabilities.htm)

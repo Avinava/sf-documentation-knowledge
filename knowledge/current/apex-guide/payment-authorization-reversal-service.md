@@ -5,17 +5,26 @@ topic: payment-authorization-reversal-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.723Z
-keywords: [Payment, Authorization, Reversal, Service]
+lastCollected: 2026-03-12T05:14:32.814Z
+estimatedTokens: 241
+keywords: [Payment, Authorization, Reversal, Service, authorization, reversal, transaction, negates, releasing, hold, funds, customer’s, payment, method.]
 ---
 
 # Payment Authorization Reversal Service
+
+> An authorization reversal is a transaction that negates an authorization by releasing
+  the hold on funds in a customer’s payment method.
 
 # Payment Authorization Reversal Service
 
 An authorization reversal is a transaction that negates an authorization by releasing the hold on funds in a customer’s payment method.
 
--   **[Authorization Reversal Apex Class Implementation](atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_rev_service_apex_imp.htm)**  
+-   **[Authorization Reversal Apex Class Implementation](atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_rev_service_apex_imp.htm)**
     The Authorization Reversal Service uses the AuthorizationReversalRequest and AuthorizationReversalResponse classes to manage the creation and storage of authorization reversal information. Implement these classes in your payment gateway adapter.
--   **[Payment Authorization Reversal Service API](atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_rev_service_api.htm)**  
+-   **[Payment Authorization Reversal Service API](atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_rev_service_api.htm)**
     An authorization reversal is a transaction that negates an authorization by releasing the hold on funds in a customer’s payment method. Use the authorization reversal service to provide users with the ability to reverse an outstanding payment authorization.
+
+## Related Topics
+
+- Authorization Reversal Apex Class Implementation (atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_rev_service_apex_imp.htm)
+- Payment Authorization Reversal Service API (atlas.en-us.apexcode.meta/apexcode/apex_commercepayments_rev_service_api.htm)

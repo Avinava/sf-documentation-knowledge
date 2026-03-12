@@ -5,11 +5,15 @@ topic: getdetailsbyprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.994Z
-keywords: [getDetailsByPrimaryTabId, Syntax, Arguments, Sample, Code–Visualforce, Response, details, breadcrumb, customDetail, entityMap, geoLocation, visitorInfo]
+lastCollected: 2026-03-12T05:14:57.417Z
+estimatedTokens: 1621
+keywords: [getDetailsByPrimaryTabId, details, chat, associated, specific, primary, tab, ID., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response, breadcrumb, customDetail, entityMap]
 ---
 
 # getDetailsByPrimaryTabId()
+
+> Returns the details of the chat associated with a specific primary tab ID. Available in API version 29.0 or
+            later.
 
 # getDetailsByPrimaryTabId()
 
@@ -123,3 +127,38 @@ The visitorInfo object represents information about the visitor's web browser. I
 | originalReferrer | String | The original URL of the Web page from which the chat visitor requested a chat. |
 | screenResolution | String | The screen resolution of the chat visitor's computer, as passed by the chat visitor’s browser. |
 | sessionKey | String | the sessionKey of the visitor which will ultimately be stored on the LiveChatVisitor record as a unique reference to this live chat visitor |
+
+## Code Examples
+
+```
+sforce.console.chat.getDetailsByPrimaryTabId(primaryTabId:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testGetDetailsByPrimaryTabId();">Get Chat Details</a> 
+
+    <script type="text/javascript">
+
+        function testGetDetailsByPrimaryTabId() {
+            //Get the value for 'myPrimaryTabId'from the getPrimaryTabIds() or getEnclosingPrimaryTabId() methods. 
+            //These values are for example purposes only
+            var primaryTabId = 'myPrimaryTabId';
+            sforce.console.chat.getDetailsByPrimaryTabId(primaryTabId, getDetailsSuccess);
+        }
+        
+        function getDetailsSuccess(result) {
+            //Report whether accepting the chat was succesful
+            if (result.success == true) {
+                console.log(result);
+                chatKey = result.details.chatKey;
+                alert('The chatKey for this chat is: ' + chatKey);
+            } else {
+                alert('Getting the details was not Succesful');
+            }
+        };
+
+    </script>
+</apex:page>
+```

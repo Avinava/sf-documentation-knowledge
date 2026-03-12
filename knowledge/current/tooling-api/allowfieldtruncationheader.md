@@ -5,11 +5,16 @@ topic: allowfieldtruncationheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.077Z
-keywords: [AllowFieldTruncationHeader, API, Calls, Fields, Sample, Code—Java]
+lastCollected: 2026-03-12T05:14:44.432Z
+estimatedTokens: 493
+keywords: [AllowFieldTruncationHeader, Specifies, fields, too, large, operation, fails., Without, header, strings, truncated., API, Calls, Fields, Sample, Code—Java]
 ---
 
 # AllowFieldTruncationHeader
+
+> Specifies that for some fields, when a string is too
+      large, the operation fails. Without the header, strings for these fields are
+    truncated.
 
 # AllowFieldTruncationHeader
 
@@ -56,4 +61,36 @@ This sample:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+public void allowFieldTruncationSample() {
+  try {
+    Account account = new Account();
+    // Construct a string that is 256 characters long.
+    // Account.Name's limit is 255 characters.
+    String accName = "";
+    for (int i = 0; i < 256; i++) {
+      accName += "a";
+    }
+    account.setName(accName);
+    // Construct an array of SObjects to hold the accounts.
+    SObject[] sObjects = new SObject[1];
+    sObjects[0] = account;
+    // Attempt to create the account. It will fail in API version 15.0
+    // and above because the account name is too long.
+    SaveResult[] results = connection.create(sObjects);
+    System.out.println("The call failed because: "
+       + results[0].getErrors()[0].getMessage());
+    // Now set the SOAP header to allow field truncation.
+    connection.setAllowFieldTruncationHeader(true);
+    // Attempt to create the account now.
+    results = connection.create(sObjects);
+    System.out.println("The call: " + results[0].isSuccess());
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  }
+}
 ```

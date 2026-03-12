@@ -6,12 +6,18 @@ topic: add-or-update-the-translated-value-of-multiple-survey-fields-in-one-or-mo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.146Z
-keywords: [Add, Update, Translated, Value, Multiple, Survey, Fields, Languages, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.253Z
+estimatedTokens: 339
+keywords: [Add, Update, Translated, Multiple, Survey, Fields, Languages, survey, fields, translated, already, add, update, values, languages, which, translated., resource, REST, API]
 ---
 
 # Add or Update the Translated Value of Multiple Survey Fields in One or More
 		Languages
+
+> If one or more survey fields can be translated or are already translated, you can add or
+		update the translated values of the survey fields in the languages into which survey fields
+		can be translated. This resource is available in REST API version 48.0 and
+		later.
 
 # Add or Update the Translated Value of Multiple Survey Fields in One or More Languages
 
@@ -66,4 +72,42 @@ Response parameters
 
 ```
 
+```
+
+## Code Examples
+
+```
+[
+  {
+    "developerName": "Flow.Flow.MyFlow.1.Choice.Choice_1_Master.InputLabel",
+    "language": "en_US",
+    "value": "China"
+  },
+  {
+    "developerName": "Flow.Flow.MyFlow.1.Choice.Choice_1_Master.InputLabel",
+    "language": "zh_CN",
+    "value": "中國"
+  }
+]
+```
+
+```
+[
+  {
+    "createdBy": "005xxx",
+    "createdDate": "2018-09-14T00:10:30Z",
+    "developerName": "Flow.Flow.MyFlow.1.Choice.Choice_1_Master.InputLabel",
+    "language": "en_US",
+    "value": "China",
+    "isOutOfDate": false
+  },
+  {
+    "createdBy": "005xxx",
+    "createdDate": "2018-09-14T00:10:30Z",
+    "developerName": "Flow.Flow.MyFlow.1.Choice.Choice_1_Master.InputLabel",
+    "language": "zh_CN",
+    "value": "中國",
+    "isOutOfDate": false
+  }
+]
 ```

@@ -5,11 +5,14 @@ topic: functioninvocationstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.504Z
-keywords: [FunctionInvocationStatus, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.665Z
+estimatedTokens: 169
+keywords: [FunctionInvocationStatus, Represents, status, Function, invocation., Values]
 ---
 
 # FunctionInvocationStatus Enum
+
+> Represents the status of a Function invocation.
 
 # FunctionInvocationStatus Enum
 

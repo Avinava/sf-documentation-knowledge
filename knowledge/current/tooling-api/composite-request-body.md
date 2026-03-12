@@ -5,11 +5,14 @@ topic: composite-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:39.012Z
-keywords: [Composite, Request, Body, Collection, Input, Subrequest, Usage, Note]
+lastCollected: 2026-03-12T05:14:47.175Z
+estimatedTokens: 793
+keywords: [Composite, Request, Body, Describes, collection, subrequests, execute, composite, resource., Collection, Input, Subrequest, Usage, Note]
 ---
 
 # Composite Request Body
+
+> Describes a collection of subrequests to execute with the /composite resource.
 
 # Composite Request Body
 
@@ -55,3 +58,18 @@ Because referenceId is case sensitive, make sure that the case of the field that
 #### Note
 
 You can have up to 25 subrequests in a single call. Up to five of these subrequests can be query operations.
+
+## Code Examples
+
+```
+{
+   "allOrNone" : true,
+   "compositeRequest" : [{
+      Composite Subrequest
+      },{
+      Composite Subrequest
+      },{
+      Composite Subrequest
+   }]
+}
+```

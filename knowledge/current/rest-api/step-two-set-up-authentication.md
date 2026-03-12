@@ -5,11 +5,17 @@ topic: step-two-set-up-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:44:25.128Z
-keywords: [Step, Two, Set, Authentication, Get, Access, Token, Salesforce, CLI, Optional, Shortcuts, See]
+lastCollected: 2026-03-12T05:14:35.225Z
+estimatedTokens: 1108
+keywords: [Step, Two, Set, Authentication, successfully, send, requests, REST, API, requires, access, token, obtained, authentication., Although, create, authenticate, against, own, connected]
 ---
 
 # Step Two: Set Up Authentication
+
+> To successfully send requests, REST API requires an access token obtained by
+        authentication. Although you can create and authenticate against your own connected app,
+        these Quick Start examples use Salesforce CLI for convenience. Salesforce CLI is a connected
+        app that you can authenticate, and it requires no work to configure.
 
 # Step Two: Set Up Authentication
 
@@ -26,54 +32,54 @@ Use the access token (also known as a “bearer token”) that you get from Sale
     2.  If you need to [Install Salesforce CLI](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm), install the latest version for your operating system.
     3.  [Verify Your Installation](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm#sfdx_setup_install_cli_verify).
 2.  Log in to your Developer org with Salesforce CLI.
-    
+
     ```
-    
+
     ```
-    
+
     A browser opens to https://login.salesforce.com.
-    
+
     To log in to a sandbox, append the \--instance-url flag and specify your sandbox URL:
-    
+
     ```
-    
+
     ```
-    
+
 3.  In the browser, log in to your Developer org or sandbox with your user’s credentials.
 4.  In the browser, click **Allow** to allow access.
-    
+
     At the command line, you see a similar confirmation message.
-    
+
     ```
-    
+
     ```
-    
+
 5.  At the command line, get the access token by viewing authentication information about your org.
-    
+
     ```
-    
+
     ```
-    
+
     For example:
-    
+
     ```
-    
+
     ```
-    
+
     Example command output:
-    
+
     ```
-    
+
     ```
-    
+
     In the command output, make note of the long Access Token string and the Instance Url string. You need both to make cURL requests.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
-    
+
     #### Note
-    
+
     To get a new token after your access token expires, repeat this step of viewing your authentication information.
-    
+
 
 ## Optional Salesforce CLI Shortcuts
 
@@ -138,3 +144,30 @@ Use the CLI’s JSON output by invoking the \--json flag. Requesting JSON output
 #### See Also
 
 -   [*Salesforce Help*: Authorize Apps with OAuth](https://help.salesforce.com/articleView?id=xcloud.remoteaccess_authenticate.htm&type=5&language=en_US "Salesforce Help: Authorize Apps with OAuth - HTML (New Window)")
+
+## Code Examples
+
+```
+sf org login web
+```
+
+```
+sf org login web --instance-url https://MyDomainName--SandboxName.sandbox.my.salesforce.com
+```
+
+```
+Successfully authorized juliet.capulet@empathetic-wolf-g5qddtr.com with org ID 00D5fORGIDEXAMPLE
+```
+
+```
+sf org display --target-org <username>
+```
+
+```
+sf org display --target-org juliet.capulet@empathetic-wolf-g5qddtr.com
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.api_rest.meta/api_rest/quickstart_dev_org.htm)
+- Next → (atlas.en-us.api_rest.meta/api_rest/quickstart_code.htm)

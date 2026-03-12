@@ -5,11 +5,15 @@ topic: delete-records-using-sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.726Z
-keywords: [Delete, Records, sObject, Rows, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.088Z
+estimatedTokens: 796
+keywords: [Delete, Records, sObject, Rows, Deletes, records, based, specified, record, ID., resource, used, external, objects, API, version, 32.0, later., Syntax, Example]
 ---
 
 # Delete Records Using sObject Rows
+
+> Deletes records based on the specified object and record ID. This resource can be used
+		with external objects in API version 32.0 and later.
 
 # Delete Records Using sObject Rows
 
@@ -55,3 +59,8 @@ For an example of deleting a record using DELETE, see [Delete a Record](atlas.en
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Related Topics
+
+- Conditional Request Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)
+- Delete a Record (atlas.en-us.api_rest.meta/api_rest/dome_delete_record.htm)

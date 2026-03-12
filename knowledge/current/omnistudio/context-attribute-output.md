@@ -5,11 +5,14 @@ topic: context-attribute-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.154Z
-keywords: [Context, Attribute, Output]
+lastCollected: 2026-03-12T05:14:49.724Z
+estimatedTokens: 277
+keywords: [Context, Attribute, Output, representation, context, attribute.]
 ---
 
 # Context Attribute Output
+
+> Output representation of the context attribute.
 
 # Context Attribute Output
 
@@ -27,3 +30,8 @@ Output representation of the context attribute.
 | isValue | Boolean | Specifies if it used for transposable (true) or not (false). | Small, 59.0 | 59.0 |
 | name | String | Name of the attribute. | Small, 59.0 | 59.0 |
 | parentNodeId | String | ID of (parent) context node. | Small, 59.0 | 59.0 |
+
+## Related Topics
+
+- Context Attribute
+                Tag (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_attribute_tag.htm)

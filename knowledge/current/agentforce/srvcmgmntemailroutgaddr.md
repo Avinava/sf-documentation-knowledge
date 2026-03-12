@@ -5,11 +5,16 @@ topic: srvcmgmntemailroutgaddr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:18.013Z
-keywords: [SrvcMgmntEmailRoutgAddr, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:15.605Z
+estimatedTokens: 607
+keywords: [SrvcMgmntEmailRoutgAddr, Represents, relationship, between, email, address, generated, specific, service, management, operation, such, incident., API, version, 65.0, later., Supported, SOAP, Calls]
 ---
 
 # SrvcMgmntEmailRoutgAddr
+
+> Represents the relationship between an email address and a generated email
+         address for a specific type of service management operation, such as an incident. This
+      object is available in API version 65.0 and later.
 
 # SrvcMgmntEmailRoutgAddr
 

@@ -5,11 +5,17 @@ topic: manage-user-passwords
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.006Z
-keywords: [Manage, User, Passwords, See]
+lastCollected: 2026-03-12T05:14:35.087Z
+estimatedTokens: 560
+keywords: [Manage, User, Passwords, sObject, Password, resource, set, reset, get, information, user, password., HTTP, GET, password, expiration, status, POST, DELETE]
 ---
 
 # Manage User Passwords
+
+> Use the sObject User Password resource to set, reset, or get information about a
+            user password. Use the HTTP GET method to get password expiration status, the HTTP POST
+            method to set the password, and the HTTP DELETE method to reset the
+        password.
 
 # Manage User Passwords
 
@@ -100,3 +106,36 @@ XML example response body for resetting a user password
 #### See Also
 
 -   [sObject User Password](atlas.en-us.api_rest.meta/api_rest/resources_sobject_user_password.htm "Accesses user passwords based on the specified user ID. Sets, resets, or gets the expiration status of a user password based on the HTTP method. Use the GET method to retrieve a password’s expiration status, the POST method to set a password, or the DELETE method to initiate a password reset.")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/User/005D0000001KyEIIA0/password -H "Authorization: Bearer token"
+```
+
+```
+{
+    "isExpired" : false
+}
+```
+
+```
+<Password>
+    <isExpired>false</isExpired>
+</Password>
+```
+
+```
+{
+    "message" : "You do not have permission to view this record.",
+    "errorCode" : "INSUFFICIENT_ACCESS"
+}
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/User/005D0000001KyEIIA0/password -H "Authorization: Bearer token" -H "Content-Type: application/json" -d @newpwd.json -X POST
+```
+
+## Related Topics
+
+- sObject User Password (atlas.en-us.api_rest.meta/api_rest/resources_sobject_user_password.htm)

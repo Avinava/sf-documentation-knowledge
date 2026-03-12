@@ -5,11 +5,15 @@ topic: customnotificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.555Z
-keywords: [CustomNotificationType, Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, CustomNotificationActionGroup, Beta, CustomNotificationActionDefinition, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.292Z
+estimatedTokens: 1232
+keywords: [CustomNotificationType, Represents, metadata, associated, custom, notification, type., Important, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, CustomNotificationActionGroup, Beta, CustomNotificationActionDefinition, Sample]
 ---
 
 # CustomNotificationType
+
+> Represents the metadata associated with a custom
+            notification type.
 
 # CustomNotificationType
 
@@ -78,3 +82,19 @@ The following is a definition of a custom notification type that is enabled for 
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<CustomNotificationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customNotifTypeName>Custom Notification</customNotifTypeName>
+    <desktop>true</desktop>
+    <masterLabel>Custom Notification</masterLabel>
+    <mobile>true</mobile>
+</CustomNotificationType>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

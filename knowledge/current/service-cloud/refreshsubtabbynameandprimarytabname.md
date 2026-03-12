@@ -5,11 +5,17 @@ topic: refreshsubtabbynameandprimarytabname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.628Z
-keywords: [refreshSubtabByNameAndPrimaryTabName, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:58.336Z
+estimatedTokens: 378
+keywords: [refreshSubtabByNameAndPrimaryTabName, Refreshes, subtab, last, known, URL, specified, name, primary, tab, name., can't, refresh, external, page, Visualforce, page., only, API, version]
 ---
 
 # refreshSubtabByNameAndPrimaryTabName()
+
+> Refreshes a subtab with the last
+            known URL with the specified name and primary tab name. This method can't refresh a
+            subtab if the last known URL is an external page or a Visualforce page. This
+                method is only available in API version 22.0 or later.
 
 # refreshSubtabByNameAndPrimaryTabName()
 
@@ -50,3 +56,39 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if the subtab refreshed successfully; false if the subtab didn't refresh. |
+
+## Code Examples
+
+```
+sforce.console.refreshSubtabByNameAndPrimaryTabName(name:String, primaryTabName:String, active:Boolean, (optional)callback:Function, (optional)fullRefresh:Boolean)
+```
+
+```
+<apex:page standardController="Case">
+
+     <A HREF="#" onClick="testRefreshSubtabByNameAndPrimaryTabName();return false">
+         Click here to refresh a subtab by name and primary tab name</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testRefreshSubtabByNameAndPrimaryTabName() {
+            //Get the value for 'mySubtab' and 'myPrimaryTab' from the openSubtab method
+            //These values are for example purposes only
+            var subtabName = 'mySubtab';
+            var primaryTabName = 'myPrimaryTab';
+            sforce.console.refreshSubtabByNameAndPrimaryTabName(subtabName, primaryTabName, true, refreshSuccess);
+        }
+        
+        var refreshSuccess = function refreshSuccess(result) {
+            //Report whether refreshing the subtab was successful
+            if (result.success == true) {
+                alert('Subtab successfully refreshed');
+            } else {
+                alert('Subtab did not refresh');
+            }
+        };
+        
+  </script>
+
+</apex:page>
+```

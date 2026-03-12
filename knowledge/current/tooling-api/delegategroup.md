@@ -5,11 +5,15 @@ topic: delegategroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.605Z
-keywords: [DelegateGroup, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.147Z
+estimatedTokens: 202
+keywords: [DelegateGroup, Represents, Delegate, Group, queries., Tooling, API, version, 57.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # DelegateGroup
+
+> Represents a Delegate Group for queries. This object is available in
+      Tooling API version 57.0 and later.
 
 # DelegateGroup
 

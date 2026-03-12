@@ -5,11 +5,14 @@ topic: document-types-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.359Z
-keywords: [Document, Types, Output, Important]
+lastCollected: 2026-03-12T05:14:50.072Z
+estimatedTokens: 225
+keywords: [Document, Types, Output, representation, Type., Important]
 ---
 
 # Document Types Output
+
+> Output representation of the Document Type.
 
 # Document Types Output
 

@@ -5,11 +5,15 @@ topic: apexpagemember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.221Z
-keywords: [ApexPageMember, Supported, SOAP, API, Calls, Special, Access, Rules, REST, HTTP, Methods, Fields, Usage, Note, See]
+lastCollected: 2026-03-12T05:14:44.646Z
+estimatedTokens: 1105
+keywords: [ApexPageMember, Represents, working, copy, Visualforce, page, editing, saving, compiling, MetadataContainer., Supported, SOAP, API, Calls, Special, Access, Rules, REST, HTTP, Fields]
 ---
 
 # ApexPageMember
+
+> Represents the working copy of a Visualforce page for editing, saving,
+   or compiling in a MetadataContainer.
 
 # ApexPageMember
 
@@ -56,5 +60,10 @@ Each ApexPageMember object can only refer to a single MetadataContainer object. 
 #### See Also
 
 -   [REST API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/ "REST API Developer Guide - HTML (New Window)")
-    
+
 -   [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/ "Metadata API Developer Guide - HTML (New Window)")
+
+## Related Topics
+
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)

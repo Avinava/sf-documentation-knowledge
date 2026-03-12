@@ -5,11 +5,15 @@ topic: datakitobjectdependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.690Z
-keywords: [DataKitObjectDependency, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:38.477Z
+estimatedTokens: 539
+keywords: [DataKitObjectDependency, Represents, dependency, between, two, data, kit, objects., templates, added, inside, kit., Important, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # DataKitObjectDependency
+
+> Represents the dependency between two data kit
+      objects. The object templates are added inside the data kit.
 
 # DataKitObjectDependency
 
@@ -47,3 +51,7 @@ You need the Salesforce CustomizeApplication permission to access this object.
 | sourceObject | Field TypestringDescriptionThe source data kit object template that the target object depends on. |
 | sourceObjectType | Field TypestringDescriptionRequired. The type of the source object referenced in the data kit. Valid values are:DataKitObjectTemplateDataSourceObjectDataStreamTemplateDataSourceBundleDefinitionMKtDataModelObject |
 | targetObject | Field TypestringDescriptionRequired. The target data kit object template that depends on the source object. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

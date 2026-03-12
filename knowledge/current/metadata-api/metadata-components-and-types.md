@@ -5,11 +5,17 @@ topic: metadata-components-and-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.768Z
-keywords: [Metadata, Components, Types, Field, Data, Enumeration, Fields, Supported, Calls]
+lastCollected: 2026-03-12T05:14:41.469Z
+estimatedTokens: 1459
+keywords: [Metadata, Components, Types, components, based, sObjects, objects, API., Instead, they, metadata, types, such, ApexClass, CustomObject, which, extend, base, types., component]
 ---
 
 # Metadata Components and Types
+
+> Metadata components are not based on sObjects, like objects in the API. Instead, they
+        are based on metadata types, such as ApexClass and CustomObject, which extend Metadata, the
+        base class for all metadata types. A component is an instance of a
+            metadata type.
 
 # Metadata Components and Types
 
@@ -54,3 +60,33 @@ All of the metadata types are supported by the main calls, unless it is stated o
 -   [CRUD calls](atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm "Use CRUD-based calls to work with metadata components in a manner similar to how synchronous API calls in the enterprise WSDL act upon objects."), such as [createMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm "Adds one or more new metadata components to your organization synchronously.") and [deleteMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm "Deletes one or more metadata components from your organization synchronously.")
 -   [File-based calls](atlas.en-us.api_meta.meta/api_meta/meta_file_based_calls_intro.htm "Use file-based calls to deploy or retrieve XML components."), such as [deploy()](atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm "Uses file representations of components to create, update, or delete those components in a Salesforce org.") and [retrieve()](atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm "The retrieve() call retrieves XML file representations of components in an organization.")
 -   [Utility calls](atlas.en-us.api_meta.meta/api_meta/meta_utility_calls_intro.htm "Use utility calls to gather information that is useful for working with the file-based or CRUD-based calls."), such as [listMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_listmetadata.htm "This call retrieves property information about metadata components in your organization. Data is returned for the components that match the criteria specified in the queries parameter. The queries array can contain up to three ListMetadataQuery queries for each call. This call supports every metadata type: both top-level, such as CustomObject and ApexClass, and child types, such as CustomField and RecordType.") and [describeMetadata()](atlas.en-us.api_meta.meta/api_meta/meta_describe.htm "This call retrieves the metadata that describes your organization. This information includes Apex classes and triggers, custom objects, custom fields on standard objects, tab sets that define an app, and many other metadata types.")
+
+## Code Examples
+
+```
+<xsd:extension base="tns:Metadata">
+```
+
+```
+<xsd:simpleType name="DashboardComponentFilter">
+    <xsd:restriction base="xsd:string">
+        <xsd:enumeration value="RowLabelAscending"/>
+        <xsd:enumeration value="RowLabelDescending"/>
+        <xsd:enumeration value="RowValueAscending"/>
+        <xsd:enumeration value="RowValueDescending"/>
+    </xsd:restriction>
+</xsd:simpleType>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- asynchronous Metadata API calls (atlas.en-us.api_meta.meta/api_meta/meta_calls_intro.htm)
+- declarative (or file-based) Metadata API calls (atlas.en-us.api_meta.meta/api_meta/file_based.htm)
+- sortBy (atlas.en-us.api_meta.meta/api_meta/meta_dashboard.htm)
+- CRUD calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- deleteMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_deleteMetadata.htm)
+- File-based calls (atlas.en-us.api_meta.meta/api_meta/meta_file_based_calls_intro.htm)
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)

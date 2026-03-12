@@ -5,11 +5,15 @@ topic: batch-job-cancel-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:25:09.079Z
-keywords: [Batch, Job, Cancel, Output]
+lastCollected: 2026-03-12T05:14:49.617Z
+estimatedTokens: 351
+keywords: [Batch, Job, Cancel, Output, representation, batch, job, cancel, request.]
 ---
 
 # Batch Job Cancel Output
+
+> Output representation of the batch job cancel
+    request.
 
 # Batch Job Cancel Output
 

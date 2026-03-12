@@ -5,11 +5,14 @@ topic: check-in-contract-document-version-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.417Z
-keywords: [Check-In, Contract, Document, Version, Action, Supported, REST, HTTP, Methods, Inputs, Output, Usage]
+lastCollected: 2026-03-12T05:14:47.261Z
+estimatedTokens: 258
+keywords: [Check-In, Contract, Document, Version, Action, Check-in, contract, document, version., Supported, REST, HTTP, Inputs, Output, Usage]
 ---
 
 # Check-In Contract Document Version Action
+
+> Check-in a contract document version.
 
 # Check-In Contract Document Version Action
 
@@ -64,4 +67,19 @@ This sample response is for the Check-in Contract Document Version action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{ 
+   "contractDocumentVersionId": "0qtSG0000003qrxxAA",
+   "isSaveWhenActionCompletes": true
+}
+```
+
+```
+{
+  "checkedInContractDocumentVersionId": "0qtSG0000003qrxxAA"
+}
 ```

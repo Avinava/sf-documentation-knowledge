@@ -5,11 +5,14 @@ topic: connectapifulfillmentorderinvoiceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.958Z
-keywords: [ConnectApi.FulfillmentOrderInvoiceOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.543Z
+estimatedTokens: 98
+keywords: [ConnectApi.FulfillmentOrderInvoiceOutputRepresentation, created, invoice.]
 ---
 
 # ConnectApi.FulfillmentOrderInvoiceOutputRepresentation
+
+> ID of the created invoice.
 
 # ConnectApi.FulfillmentOrderInvoiceOutputRepresentation
 
@@ -20,3 +23,8 @@ Subclass of [ConnectApi.BaseOutputRepresentation](atlas.en-us.apexref.meta/apexr
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | invoiceId | String | ID of the created invoice. | 48.0 |
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

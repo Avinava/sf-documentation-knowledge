@@ -5,11 +5,14 @@ topic: connectapimanagedcontentdeliverydocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.139Z
-keywords: [ConnectApi.ManagedContentDeliveryDocument, See]
+lastCollected: 2026-03-12T05:14:27.779Z
+estimatedTokens: 544
+keywords: [ConnectApi.ManagedContentDeliveryDocument, Managed, content, delivery, scope.]
 ---
 
 # ConnectApi.ManagedContentDeliveryDocument
+
+> Managed content in delivery scope.
 
 # ConnectApi.ManagedContentDeliveryDocument
 
@@ -36,3 +39,16 @@ Subclass of [ConnectApi.AbstractManagedContentDeliveryDocument](atlas.en-us.apex
 #### See Also
 
 -   [ConnectApi.ManagedContentDeliveryDocumentCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm "Managed content delivery document collection.")
+
+## Related Topics
+
+- ConnectApi.AbstractManagedContentDeliveryDocument (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_managed_content_delivery_document.htm)
+- ConnectApi.​ManagedContent​ChannelSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_summary.htm)
+- ConnectApi.​ManagedContent​DeliveryChannel​SummaryRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_channel_summary.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​TypeSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_type_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​AbstractManaged​ContentReference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_managed_content_reference.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.ManagedContentDeliveryDocumentCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm)

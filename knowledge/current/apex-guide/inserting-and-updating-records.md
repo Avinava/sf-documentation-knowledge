@@ -5,11 +5,15 @@ topic: inserting-and-updating-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.073Z
-keywords: [Inserting, Updating, Records, Important, Related]
+lastCollected: 2026-03-12T05:14:34.695Z
+estimatedTokens: 660
+keywords: [Inserting, Updating, Records, DML, insert, new, records, commit, database., Similarly, update, field, values, existing, records., Important, Related]
 ---
 
 # Inserting and Updating Records
+
+> Using DML, you can insert new records and commit them to the database. Similarly, you
+        can update the field values of existing records.
 
 # Inserting and Updating Records
 
@@ -45,6 +49,89 @@ Fields on related records can't be updated with the same call to the DML operati
 
 ```
 
--   **[Relating Records by Using an External ID](atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_nested_object.htm)**  
+-   **[Relating Records by Using an External ID](atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_nested_object.htm)**
     Add related records by using a custom external ID field on the parent record. Associating records through the external ID field is an alternative to using the record ID. You can add a related record to another record only if a relationship (such as master-detail or lookup) has been defined for the objects involved.
 -   **[Creating Parent and Child Records in a Single Statement Using Foreign Keys](atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_foreign_keys.htm)**
+
+## Code Examples
+
+```apex
+Account[] accts = new List<Account>();
+for(Integer i=0;i<3;i++) {
+    Account a = new Account(Name='Acme' + i, 
+                            BillingCity='San Francisco');
+    accts.add(a);
+}
+Account accountToUpdate;
+try {
+    insert accts;        
+    
+    // Update account Acme2.
+    accountToUpdate = 
+        [SELECT BillingCity FROM Account 
+         WHERE Name='Acme2' AND BillingCity='San Francisco'
+         LIMIT 1];
+    // Update the billing city.
+    accountToUpdate.BillingCity = 'New York';
+    // Make the update call.
+    update accountToUpdate;
+} catch(DmlException e) {
+    System.debug('An unexpected error has occurred: ' + e.getMessage());
+}
+
+// Verify that the billing city was updated to New York.
+Account afterUpdate = 
+    [SELECT BillingCity FROM Account WHERE Id=:accountToUpdate.Id];
+System.assertEquals('New York', afterUpdate.BillingCity);
+```
+
+```apex
+try {
+    Account acct = new Account(Name='SFDC Account');
+    insert acct;
+
+    // Once the account is inserted, the sObject will be 
+    // populated with an ID.
+    // Get this ID.
+    ID acctID = acct.ID;
+
+    // Add a contact to this account.
+    Contact con = new Contact(
+        FirstName='Joe',
+        LastName='Smith',
+        Phone='415.555.1212',
+        AccountId=acctID);
+    insert con;
+} catch(DmlException e) {
+    System.debug('An unexpected error has occurred: ' + e.getMessage());
+}
+```
+
+```apex
+try {
+    // Query for the contact, which has been associated with an account.
+    Contact queriedContact = [SELECT Account.Name 
+                              FROM Contact 
+                              WHERE FirstName = 'Joe' AND LastName='Smith'
+                              LIMIT 1];
+
+    // Update the contact's phone number
+    queriedContact.Phone = '415.555.1213';
+
+    // Update the related account industry
+    queriedContact.Account.Industry = 'Technology';
+
+    // Make two separate calls 
+    // 1. This call is to update the contact's phone.
+    update queriedContact;
+    // 2. This call is to update the related account's Industry field.
+    update queriedContact.Account; 
+} catch(Exception e) {
+    System.debug('An unexpected error has occurred: ' + e.getMessage());
+}
+```
+
+## Related Topics
+
+- Relating Records by Using an External ID (atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_nested_object.htm)
+- Creating Parent and Child Records in a Single Statement Using Foreign Keys (atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_foreign_keys.htm)

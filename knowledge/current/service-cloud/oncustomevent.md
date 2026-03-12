@@ -5,11 +5,15 @@ topic: oncustomevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.550Z
-keywords: [onCustomEvent, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.217Z
+estimatedTokens: 396
+keywords: [onCustomEvent, Registers, function, call, custom, event, takes, place, during, chat., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response]
 ---
 
 # onCustomEvent()
+
+> Registers a function to call when a custom event takes place during a chat. Available
+        in API version 29.0 or later.
 
 # onCustomEvent()
 
@@ -46,3 +50,25 @@ This method is asynchronous so it returns its response in an object in a callbac
 | source | String | The source of the custom event that was sent to this chat; corresponds to either the agent or the chat visitor, depending on who triggered the custom event. |
 | timestamp | Date/Time | The time and date the event was received. |
 | success | Boolean | true if firing event was successful; false if firing event wasn’t successful. |
+
+## Code Examples
+
+```
+sforce.console.chat.onCustomEvent(chatKey:String, type:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        var eventHandler = function (result) {
+            alert('A new custom event has been received of type ' + result.type + ' and with data: ' + result.data );
+        }
+        //Get the value for 'myChatKey' from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+        //These values are for example purposes only
+        var chatKey = 'myChatKey';
+        var type = 'myCustomEventType';
+        sforce.console.chat.onCustomEvent(chatKey, type, eventHandler);
+    </script>
+</apex:page>
+```

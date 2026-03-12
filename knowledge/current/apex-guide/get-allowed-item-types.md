@@ -5,11 +5,14 @@ topic: get-allowed-item-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.844Z
-keywords: [Get, Allowed, Item, Types]
+lastCollected: 2026-03-12T05:14:34.330Z
+estimatedTokens: 126
+keywords: [Get, Allowed, Item, Types, Call, get, allowed, item, types.]
 ---
 
 # Get Allowed Item Types
+
+> Call a method to get allowed item types.
 
 # Get Allowed Item Types
 
@@ -19,4 +22,16 @@ Call [getAllowedItemTypes(repositoryId, repositoryFolderId, filter)](https://dev
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+final ConnectApi.ContentHubAllowedItemTypeCollection allowedItemTypesColl = ConnectApi.ContentHub.getAllowedItemTypes(repositoryId, repositoryFolderId, ConnectApi.ContentHubItemType.FilesOnly);
+final List<ConnectApi.ContentHubItemTypeSummary> allowedItemTypes = allowedItemTypesColl.allowedItemTypes;
+string allowedFileItemTypeId = null;
+if(allowedItemTypes.size() > 0){
+   ConnectApi.ContentHubItemTypeSummary allowedItemTypeSummary = allowedItemTypes.get(0);
+   allowedFileItemTypeId = allowedItemTypeSummary.id;
+}
 ```

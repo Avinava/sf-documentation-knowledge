@@ -5,11 +5,14 @@ topic: connectapioauthcredentialauthurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.371Z
-keywords: [ConnectApi.OAuthCredentialAuthUrl]
+lastCollected: 2026-03-12T05:14:28.095Z
+estimatedTokens: 181
+keywords: [ConnectApi.OAuthCredentialAuthUrl, OAuth, authentication, URL, credential.]
 ---
 
 # ConnectApi.OAuthCredentialAuthUrl
+
+> OAuth authentication URL for a credential.
 
 # ConnectApi.OAuthCredentialAuthUrl
 
@@ -21,3 +24,8 @@ OAuth authentication URL for a credential.
 | external​Credential | String | Fully qualified developer name of the external credential. | 56.0 |
 | principalName | String | Name of the external credential named principal. | 56.0 |
 | principalType | ConnectApi.​CredentialPrincipal​Type | Type of credential principal. Values are:AwsStsPrincipalNamedPrincipalPerUserPrincipal | 56.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CredentialPrincipal​Type (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

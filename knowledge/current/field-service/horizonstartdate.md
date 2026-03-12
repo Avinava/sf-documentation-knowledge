@@ -5,11 +5,14 @@ topic: horizonstartdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:11.907Z
-keywords: [horizonStartDate, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:55.138Z
+estimatedTokens: 73
+keywords: [horizonStartDate, horizon, start, date, calculated, used, operation.]
 ---
 
 # horizonStartDate
+
+> The horizon start date as calculated and used by the operation.
 
 # horizonStartDate
 

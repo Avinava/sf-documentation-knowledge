@@ -5,11 +5,18 @@ topic: customhelpmenusection
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.517Z
-keywords: [CustomHelpMenuSection, Important, File, Suffix, Directory, Location, Version, Fields, CustomHelpMenuItems, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.244Z
+estimatedTokens: 500
+keywords: [CustomHelpMenuSection, Represents, section, Lightning, Experience, help, menu, admin, added, display, custom, org-specific, resources, org., contains, admin., extends, Metadata, metadata, inherits]
 ---
 
 # CustomHelpMenuSection
+
+> Represents the section of the Lightning Experience
+      help menu that the admin added to display custom, org-specific help resources for the org. The
+      custom section contains help resources added by the admin.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # CustomHelpMenuSection
 
@@ -59,3 +66,42 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomHelpMenuSection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>MyOrgCustomHelp</masterLabel>
+    <customHelpMenuItems>
+        <linkUrl>https://www.yourcompanyhelp.com/gettingstarted</linkUrl>
+        <masterLabel>Getting Started</masterLabel>
+        <sortOrder>1</sortOrder>
+    </customHelpMenuItems>
+    <customHelpMenuItems>
+        <linkUrl>https://www.yourcompanyhelp.com/features</linkUrl>
+        <masterLabel>Feature to Start Using Right Away</masterLabel>
+        <sortOrder>2</sortOrder>
+    </customHelpMenuItems>
+    <customHelpMenuItems>
+        <linkUrl>https://www.yourcompanyhelp.com/salestips</linkUrl>
+        <masterLabel>Tips for Sales Team Members</masterLabel>
+        <sortOrder>3</sortOrder>
+    </customHelpMenuItems>
+</CustomHelpMenuSection>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyOrgCustomHelp</members>
+        <name>CustomHelpMenuSection</name>
+    </types>
+    <version>45.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

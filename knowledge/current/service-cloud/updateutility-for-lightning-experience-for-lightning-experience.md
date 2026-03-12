@@ -6,12 +6,16 @@ topic: updateutility-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.469Z
-keywords: [updateUtility, Lightning, Experience, Arguments, LWC, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:58.093Z
+estimatedTokens: 372
+keywords: [updateUtility, Lightning, Experience, Specifies, label, icon, utility, bar, highlighted., Web, Components, LWC, only., Arguments, Sample, Code, Response]
 ---
 
 # updateUtility() for Lightning Experience for
             Lightning Experience
+
+> Specifies a label and icon on the utility bar, and sets a utility as highlighted.
+        This method is available for Lightning Web Components (LWC) only.
 
 # updateUtility() for Lightning Experience for Lightning Experience
 
@@ -39,3 +43,27 @@ To make your component available for use in a utility bar, specify the lightning
 ## Response
 
 Returns a promise that resolves to true if successful. The promise is rejected on error.
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { updateUtility, EnclosingUtilityId } from 'lightning/platformUtilityBarApi';
+
+export default class UpdatePanelExample extends LightningElement {
+    @wire(EnclosingUtilityId) utilityId;
+
+    utilityAttrs = {
+        label: 'Account Insights',
+        icon: 'einstein',
+        iconVariant: 'success',
+        highlighted: true
+    }
+
+    handleUpdate() {
+        if (this.utilityId) {
+            return updateUtility(this.utilityId, this.utilityAttrs);
+        }
+    }
+}
+```

@@ -5,11 +5,16 @@ topic: dataassessmentconfigitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.549Z
-keywords: [DataAssessmentConfigItem, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.066Z
+estimatedTokens: 246
+keywords: [DataAssessmentConfigItem, Represents, saved, configuration, specific, vendor’s, package, data, assessment., API, version, 40.0, later., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # DataAssessmentConfigItem
+
+> Represents a saved configuration for a
+            specific vendor’s package for data assessment. This object is available in API
+        version 40.0 and later.
 
 # DataAssessmentConfigItem
 
@@ -37,4 +42,14 @@ The following example adds a new configuration for the configuration field on th
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+"SobjectType" : "01Ixx0000003S4f", //External object Id or api name
+"DataAssessmentConfigField" : "00Nxx000001DRL8", //Custom field Id or api name
+"DataAssessmentConfigValue" : "Salesforce" // value
+}
 ```

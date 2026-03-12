@@ -5,11 +5,17 @@ topic: httpput-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.490Z
-keywords: [HttpPut, Annotation]
+lastCollected: 2026-03-12T05:14:32.478Z
+estimatedTokens: 81
+keywords: [HttpPut, Annotation, @HttpPut, annotation, used, level, enables, expose, Apex, REST, resource., called, HTTP, PUT, request, sent, creates, updates, specified]
 ---
 
 # HttpPut Annotation Annotation
+
+> The @HttpPut annotation is used at the method level and
+   enables you to expose an Apex method as a REST resource. This method is called when an HTTP
+    PUT request is sent, and creates or updates the specified
+   resource.
 
 # HttpPut Annotation Annotation
 

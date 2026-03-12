@@ -5,11 +5,17 @@ topic: rest-resources-and-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.101Z
-keywords: [REST, Resources, Requests, URIs, Note, HTTP, Methods, Headers, Request, Bodies, See]
+lastCollected: 2026-03-12T05:14:35.192Z
+estimatedTokens: 1522
+keywords: [REST, Resources, Requests, API, based, usage, resources—pieces, data, Salesforce, such, records, collections, query, results, metadata, information., resource, exposed, uniform, identifier]
 ---
 
 # REST Resources and Requests
+
+> REST API is based on the usage of resources—pieces
+			of data in Salesforce, such as records, collections of records, query results, metadata,
+			or API information. Each resource is exposed by a uniform resource identifier (URI) and
+			is accessed by sending HTTP requests to the corresponding URI.
 
 # REST Resources and Requests
 
@@ -87,5 +93,20 @@ Use the HTTP Content-type header to indicate the file format of the request body
 #### See Also
 
 -   [Send REST Requests with cURL](atlas.en-us.api_rest.meta/api_rest/intro_curl.htm "The examples in this guide use the cURL tool to send HTTP requests that access, create, and manipulate resources in Salesforce. If you use a different tool to send requests, you can use the same elements from the cURL examples to send requests.")
-    
+
 -   [Setting Up Your Java Developer Environment](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm)
+
+## Code Examples
+
+```
+https://MyDomainName.my.salesforce.com/services/data/vXX.X/resource/
+```
+
+## Related Topics
+
+- Versions (atlas.en-us.api_rest.meta/api_rest/resources_versions.htm)
+- Compression
+						Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_compression.htm)
+- Conditional Request
+						Headers (atlas.en-us.api_rest.meta/api_rest/intro_rest_conditional_requests.htm)
+- Send REST Requests with cURL (atlas.en-us.api_rest.meta/api_rest/intro_curl.htm)

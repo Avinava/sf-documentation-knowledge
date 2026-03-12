@@ -5,11 +5,15 @@ topic: define-an-action-link-and-post-with-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.830Z
-keywords: [Define, Action, Link, Post, Feed, Element, Note]
+lastCollected: 2026-03-12T05:14:34.312Z
+estimatedTokens: 774
+keywords: [Define, Action, Link, Post, Feed, Element, Create, action, link, group, associate, feed, item, post, item., Note]
 ---
 
 # Define an Action Link and Post with a Feed Element
+
+> Create one action link in an action link group, associate the action link group with a
+    feed item, and post the feed item.
 
 # Define an Action Link and Post with a Feed Element
 
@@ -48,3 +52,72 @@ To use this code, substitute an OAuth value for your own Salesforce org. Also, v
 #### Note
 
 If the post fails, check the OAuth ID.
+
+## Code Examples
+
+```apex
+ConnectApi.ActionLinkGroupDefinitionInput actionLinkGroupDefinitionInput = new ConnectApi.ActionLinkGroupDefinitionInput();
+ConnectApi.ActionLinkDefinitionInput actionLinkDefinitionInput = new ConnectApi.ActionLinkDefinitionInput();
+ConnectApi.RequestHeaderInput requestHeaderInput1 = new ConnectApi.RequestHeaderInput();
+ConnectApi.RequestHeaderInput requestHeaderInput2 = new ConnectApi.RequestHeaderInput();
+
+// Create the action link group definition.
+actionLinkGroupDefinitionInput.actionLinks = New List<ConnectApi.ActionLinkDefinitionInput>();
+actionLinkGroupDefinitionInput.executionsAllowed = ConnectApi.ActionLinkExecutionsAllowed.OncePerUser;
+actionLinkGroupDefinitionInput.category = ConnectApi.PlatformActionGroupCategory.Primary;
+// To Do: Verify that the date is in the future.
+// Action link groups are removed from feed elements on the expiration date.
+datetime myDate = datetime.newInstance(2016, 3, 1);
+actionLinkGroupDefinitionInput.expirationDate = myDate;
+
+// Create the action link definition.
+actionLinkDefinitionInput.actionType = ConnectApi.ActionLinkType.Api;
+actionLinkDefinitionInput.actionUrl = '/services/data/v33.0/chatter/feed-elements';
+actionLinkDefinitionInput.headers = new List<ConnectApi.RequestHeaderInput>();
+actionLinkDefinitionInput.labelKey = 'Post';
+actionLinkDefinitionInput.method = ConnectApi.HttpRequestMethod.HttpPost;
+actionLinkDefinitionInput.requestBody = '{"subjectId": "me","feedElementType": "FeedItem","body": {"messageSegments": [{"type": "Text","text": "This is a test post created via an API action link."}]}}';
+actionLinkDefinitionInput.requiresConfirmation = true;
+
+// To Do: Substitute an OAuth value for your Salesforce org. 
+requestHeaderInput1.name = 'Authorization';
+requestHeaderInput1.value = 'OAuth <EXAMPLE_ACCESS_TOKEN>';
+actionLinkDefinitionInput.headers.add(requestHeaderInput1);
+
+requestHeaderInput2.name = 'Content-Type';
+requestHeaderInput2.value = 'application/json';
+actionLinkDefinitionInput.headers.add(requestHeaderInput2);
+
+// Add the action link definition to the action link group definition.
+actionLinkGroupDefinitionInput.actionLinks.add(actionLinkDefinitionInput);
+
+// Instantiate the action link group definition.
+ConnectApi.ActionLinkGroupDefinition actionLinkGroupDefinition = ConnectApi.ActionLinks.createActionLinkGroupDefinition(Network.getNetworkId(), actionLinkGroupDefinitionInput);
+
+ConnectApi.FeedItemInput feedItemInput = new ConnectApi.FeedItemInput();
+ConnectApi.FeedElementCapabilitiesInput feedElementCapabilitiesInput = new ConnectApi.FeedElementCapabilitiesInput();
+ConnectApi.AssociatedActionsCapabilityInput associatedActionsCapabilityInput = new ConnectApi.AssociatedActionsCapabilityInput();
+ConnectApi.MessageBodyInput messageBodyInput = new ConnectApi.MessageBodyInput();
+ConnectApi.TextSegmentInput textSegmentInput = new ConnectApi.TextSegmentInput();
+
+// Set the properties of the feedItemInput object.
+feedItemInput.body = messageBodyInput;
+feedItemInput.capabilities = feedElementCapabilitiesInput;
+feedItemInput.subjectId = 'me';
+
+// Create the text for the post.
+messageBodyInput.messageSegments = new List<ConnectApi.MessageSegmentInput>();
+textSegmentInput.text = 'Click to post a feed item.';  
+messageBodyInput.messageSegments.add(textSegmentInput);
+
+
+// The feedElementCapabilitiesInput object holds the capabilities of the feed item.
+// Define an associated actions capability to hold the action link group.
+// The action link group ID is returned from the call to create the action link group definition. 
+feedElementCapabilitiesInput.associatedActions = associatedActionsCapabilityInput;
+associatedActionsCapabilityInput.actionLinkGroupIds = new List<String>();
+associatedActionsCapabilityInput.actionLinkGroupIds.add(actionLinkGroupDefinition.id);
+
+// Post the feed item. 
+ConnectApi.FeedElement feedElement = ConnectApi.ChatterFeeds.postFeedElement(Network.getNetworkId(), feedItemInput);
+```

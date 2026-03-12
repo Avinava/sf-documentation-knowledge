@@ -5,14 +5,131 @@ topic: sobjecttype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:34.255Z
-keywords: [SObjectType, Class, Constructs, new, sObject, type, optionally, specified, record, default, custom, field, values., newSObject, recordTypeId, loadDefaults, Important, Signature, Parameters, Return]
+lastCollected: 2026-03-12T05:14:20.870Z
+estimatedTokens: 2078
+namespace: SObjectDescribeOptions.FULL
+keywords: [SObjectType, Schema.sObjectType, returned, field, describe, result, getReferenceTo, sObject, getSObjectType, method., Usage, getDescribe, options, newSObject, Example, recordTypeId, loadDefaults, Important, Note, Creating]
 ---
 
 # SObjectType Class
 
-> Constructs a new sObject of this type, and optionally, of the specified record type ID
-  and with default custom field values.
+> A Schema.sObjectType object is returned from the field describe result using the getReferenceTo method, or from the
+sObject describe result using the getSObjectType method.
+
+**Namespace:** `SObjectDescribeOptions.FULL`
+
+# SObjectType Class
+
+A Schema.sObjectType object is returned from the field describe result using the getReferenceTo method, or from the sObject describe result using the getSObjectType method.
+
+## Namespace
+
+[Schema](atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm "The Schema namespace provides classes and methods for schema metadata information.")
+
+## Usage
+
+```
+
+```
+
+## SObjectType Methods
+
+The following are methods for SObjectType. All are instance methods.
+
+-   **[getDescribe()](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_Schema_SObjectType_getDescribe)**
+    Returns the describe sObject result for this field.
+-   **[getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1389787181)**
+    Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.
+-   **[newSObject()](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_Schema_SObjectType_newSObject)**
+    Constructs a new sObject of this type.
+-   **[newSObject(id)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_Schema_SObjectType_newSObject_2)**
+    Constructs a new sObject of this type, with the specified ID.
+-   **[newSObject(recordTypeId, loadDefaults)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_Schema_SObjectType_newSObject_3)**
+    Constructs a new sObject of this type, and optionally, of the specified record type ID and with default custom field values.
+
+### getDescribe()
+
+Returns the describe sObject result for this field.
+
+#### Signature
+
+public Schema.DescribeSObjectResult getDescribe()
+
+#### Return Value
+
+Type: [Schema.DescribeSObjectResult](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#apex_methods_system_sobject_describe "Contains methods for describing SObjects. None of the methods take an argument.")
+
+### getDescribe(options)
+
+Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.
+
+#### Signature
+
+public Schema.DescribeSObjectResult getDescribe(Object options)
+
+#### Parameters
+
+options
+
+Type: Object
+
+The parameter values determine how the elements of the describe operation are loaded.
+
+-   Use SObjectDescribeOptions.FULL to eager-load all elements of the describe, including child relationships, up-front at the time of method invocation. This describe guarantees fully coherent results, even if the describe object is passed to another namespace, API version, or other Apex context that may have different results when generating describe attributes.
+-   Use SObjectDescribeOptions.DEFERRED to enable lazy initialization of describe attributes on first use. This means that all child relationships will not be loaded at the time of first invocation of the method.
+-   Use SObjectDescribeOptions.DEFAULT to default to either eager-load or lazy-load depending on the API version.
+
+The type of describe operation, as determined by the parameter value is depicted in this table.
+
+| Parameter Value | API Version 43.0 and Earlier | API Version 44.0 and Later |
+| --- | --- | --- |
+| Full | Eager | Eager |
+| Deferred | Lazy | Lazy |
+| Default | Lazy | Lazy |
+
+#### Return Value
+
+Type: [Schema.DescribeSObjectResult](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#apex_methods_system_sobject_describe "Contains methods for describing SObjects. None of the methods take an argument.")
+
+### newSObject()
+
+Constructs a new sObject of this type.
+
+#### Signature
+
+public sObject newSObject()
+
+#### Return Value
+
+Type: [sObject](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_methods_system_sobject "Contains methods for the sObject data type.")
+
+#### Example
+
+For an example, see [Dynamic DML](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_dynamic_dml.htm).
+
+### newSObject(id)
+
+Constructs a new sObject of this type, with the specified ID.
+
+#### Signature
+
+public sObject newSObject(ID id)
+
+#### Parameters
+
+id
+
+Type: [ID](atlas.en-us.apexref.meta/apexref/apex_methods_system_id.htm#apex_methods_system_id "Contains methods for the ID primitive data type.")
+
+#### Return Value
+
+Type: [sObject](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_methods_system_sobject "Contains methods for the sObject data type.")
+
+#### Usage
+
+For the argument, pass the ID of an existing record in the database.
+
+After you create a new sObject, the sObject returned has all fields set to null. You can set any updateable field to desired values and then update the record in the database. Only the fields you set new values for are updated and all other fields which are not system fields are preserved.
 
 ### newSObject(recordTypeId, loadDefaults)
 
@@ -70,3 +187,39 @@ This sample creates an account with any default values populated for its custom 
 ```
 
 ```
+
+## Code Examples
+
+```apex
+Schema.DescribeFieldResult F = Account.Industry.getDescribe();
+List<Schema.sObjectType> P = F.getReferenceTo();
+```
+
+```
+// Create an account with predefined default values
+Account acct = (Account)Account.sObjectType.newSObject(null, true);
+// Provide a value for Name
+acct.Name = 'Acme';
+// Insert new account
+insert acct;
+
+// This is for record type RT1 of Account
+ID rtId = [SELECT Id FROM RecordType WHERE sObjectType='Account' AND Name='RT1'].Id;
+Account acct2 = (Account)Account.sObjectType.newSObject(rtId, true);
+// Provide a value for Name
+acct2.Name = 'Acme2';
+// Insert new account
+insert acct2;
+```
+
+## Related Topics
+
+- Schema (atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm)
+- getDescribe() (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm)
+- getDescribe(options) (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm)
+- newSObject() (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm)
+- newSObject(id) (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm)
+- newSObject(recordTypeId, loadDefaults) (atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm)
+- Schema.DescribeSObjectResult (atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm)
+- sObject (atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)

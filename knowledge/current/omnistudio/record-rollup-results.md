@@ -5,11 +5,14 @@ topic: record-rollup-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.797Z
-keywords: [Record, Rollup, Results]
+lastCollected: 2026-03-12T05:14:50.684Z
+estimatedTokens: 262
+keywords: [Record, Rollup, Results, Output, representation, record, rollup, results.]
 ---
 
 # Record Rollup Results
+
+> Output representation of the record rollup results.
 
 # Record Rollup Results
 
@@ -30,3 +33,63 @@ JSON Example
 | rows | Record Rollup Result Row[] | List of aggregated records that represent the rows of a table. | Small, 61.0 | 61.0 |
 | statusCode | String | HTTP response code for the request. | Small, 61.0 | 61.0 |
 | totalResult​Count | Integer | Total number of record aggregation results. | Small, 61.0 | 61.0 |
+
+## Code Examples
+
+```
+{
+  "columns": [
+    {
+      "fieldApiName": "Name",
+      "displayFormatType": "text",
+      "fieldLabel": "Name",
+      "sequence": 0,
+      "isRedirectionEnabled": true,
+      "isSortable": true,
+      "isTypeName": true,
+      "sortByField": "Name"
+    },
+    {
+      "fieldApiName": "BranchUnit",
+      "displayFormatType": "reference",
+      "fieldLabel": "Branch Unit",
+      "sequence": 4,
+      "isRedirectionEnabled": true,
+      "isSortable": true,
+      "isTypeName": false,
+      "sortByField": "BranchUnit.Name"
+    }
+  ],
+  "message": "Successful",
+  "rows": [
+    {
+      "rowData": {
+        "Status": "Active",
+        "Type": "Savings",
+        "Id": "0c7xx000000006TAAQ",
+        "FinancialAccountNumber": "*********0001",
+        "Name": "John Doe",
+        "Case__c": {
+          "Id": "Some ID",
+          "CaseNumber": "000001"
+        }
+      }
+    }
+  ],
+  "statusCode": "200",
+  "totalResultCount": 1,
+  "definitionDisplayName": "Savings Financial Account"
+  "lastUpdatedDetails": {
+	"errorType": "NOT_FOUND",
+	"epochTime": 1733734423000,
+	"processingMode": "Batch"
+  }
+}
+```
+
+## Related Topics
+
+- Record Rollup Result Column (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_rollup_result_column_output.htm)
+- Record Rollup
+                  Result Last Updated Details (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_rollup_result_last_updated_details_output.htm)
+- Record Rollup Result Row (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_record_rollup_result_row_output.htm)

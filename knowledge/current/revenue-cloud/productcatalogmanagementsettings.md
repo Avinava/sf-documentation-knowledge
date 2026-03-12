@@ -5,11 +5,15 @@ topic: productcatalogmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.549Z
-keywords: [ProductCatalogManagementSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:08.827Z
+estimatedTokens: 575
+keywords: [ProductCatalogManagementSettings, Represents, settings, Product, Catalog, Management., Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Fields, Declarative, Metadata, Sample]
 ---
 
 # ProductCatalogManagementSettings
+
+> Represents the settings for Product Catalog
+			Management.
 
 # ProductCatalogManagementSettings
 
@@ -57,3 +61,23 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_settings.htm "HTML (New Window)"). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<ProductCatalogManagementSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+<productDeepCloneContextDefOrgValue>ProductDeepCloneContextDefinition</productDeepCloneContextDefOrgValue>
+<productDeepCloneExpressionSetOrgValue>ProductDeepCloneExpressionSet</productDeepCloneExpressionSetOrgValue>
+</ProductCatalogManagementSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ProductCatalogManagement</members>
+        <name>Settings</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

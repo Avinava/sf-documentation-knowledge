@@ -5,11 +5,17 @@ topic: publisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.569Z
-keywords: [Publisher, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Special, Access, Rules, Fields, Note]
+lastCollected: 2026-03-12T05:14:46.534Z
+estimatedTokens: 1037
+keywords: [Publisher, Represents, publisher, objects, fields., example, Salesforce, standard, organization, custom, package, installed, packages., Tooling, API, version, 34.0, later., Supported, SOAP]
 ---
 
 # Publisher
+
+> Represents the publisher of objects and fields. For example, Salesforce is the
+        publisher for standard objects, the organization is the publisher for custom objects, and
+        the package is the publisher for installed packages. Available in Tooling API version 34.0
+        and later.
 
 # Publisher
 
@@ -49,3 +55,8 @@ As of Spring ’20 and later, only authenticated internal and external users can
 #### Note
 
 Publisher fields are exposed in SOAP API version 46.0 and later. You can use Tooling API to query for Publisher fields in guest user mode in API version 45.0 and earlier. In API version 46.0 and later, use SOAP API to get this data in guest user mode. Publisher is still exposed in Tooling API to User Profiles with the ViewSetup permission.
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

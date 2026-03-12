@@ -5,11 +5,15 @@ topic: deploy-a-recently-validated-component-set-without-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.424Z
-keywords: [Deploy, Recently, Validated, Component, Set, Without, Tests, Request, Body, Note, Response]
+lastCollected: 2026-03-12T05:14:42.460Z
+estimatedTokens: 645
+keywords: [Deploy, Recently, Validated, Component, Set, Without, Tests, deploy, components, production, less, time, skipping, execution, Apex, tests, testing, requirements, already, met.]
 ---
 
 # Deploy a Recently Validated Component Set Without Tests
+
+> You can deploy components to production in less time by skipping the execution of Apex
+  tests when testing requirements have already been met.
 
 # Deploy a Recently Validated Component Set Without Tests
 
@@ -68,3 +72,32 @@ The response body from the deployment without validation request includes a new 
 ```
 
 When an HTTP status code of 201 (Created) is returned, your request has succeeded and resulted in the creation of a deployment that is being processed. In the preceding example response body, the ID of the validation-only deployment request is 0Afxx00000000lWCAQ; the ID of the deployment without validation request is 0Afxx00000000lWMEM.
+
+## Code Examples
+
+```
+{ 
+       "validatedDeployRequestId" : "0Afxx00000000lWCAQ"
+    }
+```
+
+```
+{ 
+       "validatedDeployRequestId" : "0Afxx00000000lWCAQ"
+       "id" : "0Afxx00000000lWMEM"
+       "url" : "https://host/services/data/vXX.0/metadata/deployRequest/0Afxx00000000lWMEM",
+       "deployOptions" :
+             {
+             "allowMissingFiles" : false,
+             "autoUpdatePackage" : false,
+             "checkOnly" : true,
+             "ignoreWarnings" : false,
+             "performRetrieve" : false,
+             "purgeOnDelete" : false,
+             "rollbackOnError" : false,
+             "runTests" : null,
+             "singlePackage" : true,
+             "testLevel" : "RunAllTestsInOrg"
+}
+     }
+```

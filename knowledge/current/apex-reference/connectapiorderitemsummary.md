@@ -5,11 +5,14 @@ topic: connectapiorderitemsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.460Z
-keywords: [ConnectApi.OrderItemSummary, See]
+lastCollected: 2026-03-12T05:14:28.215Z
+estimatedTokens: 212
+keywords: [ConnectApi.OrderItemSummary, Order, item, summary.]
 ---
 
 # ConnectApi.OrderItemSummary
+
+> Order item summary.
 
 # ConnectApi.OrderItemSummary
 
@@ -26,3 +29,12 @@ Order item summary.
 #### See Also
 
 -   [ConnectApi.OrderItemSummaryCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_collection.htm "Collection of order item summaries.")
+
+## Related Topics
+
+- ConnectApi.​OrderItemSummary​AdjustmentAggregates (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_adjustment_aggregates.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​RecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordField.htm)
+- ConnectApi.​OrderItemSummary​Product (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_product.htm)
+- ConnectApi.OrderItemSummaryCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_collection.htm)

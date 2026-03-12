@@ -5,11 +5,15 @@ topic: authenticationprotocol-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.338Z
-keywords: [AuthenticationProtocol, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.432Z
+estimatedTokens: 120
+keywords: [AuthenticationProtocol, Determines, credentials, used, authenticate, external, system., Values]
 ---
 
 # AuthenticationProtocol Enum
+
+> Determines what type of credentials are used to authenticate to the external
+    system.
 
 # AuthenticationProtocol Enum
 

@@ -5,11 +5,18 @@ topic: salesforce-crm-lead-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.166Z
-keywords: [Salesforce, CRM, Lead, Mappings, Usage, Data, Bundles, DLO, DMO, Mapping]
+lastCollected: 2026-03-12T05:14:13.644Z
+estimatedTokens: 824
+keywords: [Salesforce, CRM, Lead, Mappings, After, data, stream, deployed, starter, bundle, automatically, maps, Sales, Cloud, Service, model, objects, DMO, Data, Cloud.]
 ---
 
 # Salesforce CRM: Lead Mappings
+
+> After a data stream is deployed, the Salesforce CRM starter data
+         bundle automatically maps data from Sales Cloud or Service Cloud to data model objects
+         (DMO)s in Data Cloud. The Sales Cloud and Service Cloud
+      bundles deploy mappings to Contact Point type DMOs. Identity Resolution uses the DMOs, which
+      link multiple records into a unified customer profile.
 
 # Salesforce CRM: Lead Mappings
 

@@ -5,11 +5,15 @@ topic: flowelementtestcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.014Z
-keywords: [FlowElementTestCoverage, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage, Tip, Sample, Queries]
+lastCollected: 2026-03-12T05:14:45.708Z
+estimatedTokens: 390
+keywords: [FlowElementTestCoverage, Represents, flow, element, executed, given, Apex, test, method., Supported, SOAP, Calls, REST, HTTP, Fields, Usage, Tip, Sample, Queries]
 ---
 
 # FlowElementTestCoverage
+
+> Represents a flow element that was
+            executed by a given Apex test method.
 
 # FlowElementTestCoverage
 
@@ -59,4 +63,25 @@ Get the names of the elements that were executed by any test
 
 ```
 
+```
+
+## Code Examples
+
+```
+SELECT Id, Elementname, FlowTestCoverageId 
+FROM FlowElementTestCoverage 
+WHERE FlowVersionId='301RM0000004GiK'
+```
+
+```
+SELECT count_distinct(ElementName) 
+FROM FlowElementTestCoverage 
+WHERE FlowVersionId='301RM0000004GiK'
+```
+
+```
+SELECT ElementName, count(Id) 
+FROM FlowElementTestCoverage 
+WHERE FlowVersionId='301RM0000004GiK' 
+GROUP BY ElementName
 ```

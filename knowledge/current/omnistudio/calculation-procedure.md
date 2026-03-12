@@ -5,11 +5,15 @@ topic: calculation-procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.618Z
-keywords: [Calculation, Procedure, Note]
+lastCollected: 2026-03-12T05:14:48.913Z
+estimatedTokens: 213
+keywords: [Calculation, Procedure, Retrieve, details, given, expression, set, known, calculation, procedure, record., Note]
 ---
 
 # Calculation Procedure
+
+> Retrieve the details for a given expression set (also known as
+      calculation procedure) record.
 
 # Calculation Procedure
 
@@ -48,3 +52,17 @@ GET
 Response body for GET
 
 [Calculation Procedure Detail Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_detail_output.htm "Output representation of the expression set details.")
+
+## Code Examples
+
+```
+/connect/omnistudio/evaluation-services/${id}
+```
+
+```
+/services/data/v53.0/connect/omnistudio/evaluation-services/0k0x000000000BQAAY
+```
+
+## Related Topics
+
+- Calculation Procedure Detail Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_calculation_procedure_detail_output.htm)

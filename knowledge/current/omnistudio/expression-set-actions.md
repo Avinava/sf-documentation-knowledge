@@ -5,11 +5,16 @@ topic: expression-set-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.449Z
-keywords: [Expression, Set, Actions, Supported, REST, HTTP, Methods, Note, Inputs, Outputs, Usage]
+lastCollected: 2026-03-12T05:14:47.295Z
+estimatedTokens: 439
+keywords: [Expression, Set, Actions, Invoke, active, expression, set., set, user-defined, rule, accepts, input, output, based, configured, function., Supported, REST, HTTP, Note]
 ---
 
 # Expression Set Actions
+
+> Invoke an active expression set. An expression set is a user-defined
+      rule that accepts an input and returns the output based on the configured
+    function.
 
 # Expression Set Actions
 
@@ -75,4 +80,66 @@ Here’s an example response that has the premium and tax values based on the in
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "Age": "25.00",
+      "Salary": "50000.00"
+    },
+    {
+      "Age": "30.00",
+      "Salary": "70000.00"
+    },
+    {
+      "Age": "40.00",
+      "Salary": "90000.00"
+    }
+  ]
+}
+```
+
+```
+[
+  {
+    "actionName": "TaxPremiumES",
+    "errors": null,
+    "isSuccess": true,
+    "outputValues": {
+      "TaxPremium__Premium": 1000,
+      "TaxPremium__Tax": 10,
+      "TaxToBePaid": 1050,
+      "condition_output__2": "false",
+      "condition_output__1": "true"
+    }
+  },
+  {
+    "actionName": "TaxPremiumES",
+    "errors": null,
+    "isSuccess": true,
+    "outputValues": {
+      "TaxPremium__Premium": 1500,
+      "TaxPremium__Tax": 12,
+      "TaxToBePaid": 1512,
+      "condition_output__2": "true",
+      "condition_output__1": "false"
+    }
+  },
+  {
+    "actionName": "TaxPremiumES",
+    "errors": null,
+    "isSuccess": true,
+    "outputValues": {
+      "TaxPremium__Premium": 2000,
+      "TaxPremium__Tax": 15,
+      "TaxToBePaid": 2015,
+      "condition_output__2": "false",
+      "condition_output__1": "true"
+    }
+  }
+]
 ```

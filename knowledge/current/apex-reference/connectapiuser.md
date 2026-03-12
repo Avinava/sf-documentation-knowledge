@@ -5,11 +5,14 @@ topic: connectapiuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.750Z
-keywords: [ConnectApi.User, See]
+lastCollected: 2026-03-12T05:14:25.821Z
+estimatedTokens: 660
+keywords: [ConnectApi.User, User.]
 ---
 
 # ConnectApi.User
+
+> User.
 
 # ConnectApi.User
 
@@ -44,3 +47,16 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.RecommendationAudience](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recommendation_audience.htm "A custom recommendation audience.")
+
+## Related Topics
+
+- ConnectApi.ActionWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.UserDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_detail.htm)
+- ConnectApi.UserSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.OutOfOffice (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_out_of_office.htm)
+- ConnectApi.Photo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_photo.htm)
+- ConnectApi.Reputation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reputation.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.Stamp (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_stamp.htm)

@@ -5,11 +5,17 @@ topic: close-or-abort-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.107Z
-keywords: [Close, Abort, Job, Note, Example]
+lastCollected: 2026-03-12T05:14:12.063Z
+estimatedTokens: 341
+keywords: [Close, Abort, Job, job, updating, state, UploadComplete., close, uploaded, data, enqueued, processing., abort, update, Aborted., doesn’t, get, queued, processed., Any]
 ---
 
 # Close or Abort a Job
+
+> Close a job by updating the job state to UploadComplete. When you
+  close a job, the uploaded data is enqueued for processing. To abort a job, update the job state to
+   Aborted. If you abort a job, the job doesn’t get queued or processed. Any data
+  uploaded as part of the aborted job is deleted.
 
 # Close or Abort a Job
 
@@ -66,4 +72,40 @@ Response body
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+   "state" : "UploadComplete"
+}
+```
+
+```
+{
+       "id": "7505e000001NLkPAAW",
+       "operation": "upsert",
+       "object": "Contact",
+       "createdById": "0055e000003PfMYAA0",
+       "createdDate": "2021-06-10T13:25:40.000Z",
+       "systemModstamp": "2021-06-10T13:25:40.000Z",
+       "state": "UploadComplete",
+       "contentType": "CSV",
+       "apiVersion": "v1"
+}
+```
+
+```
+curl --location --request PATCH 'https://{instance_url}/api/v1/ingest/jobs/{id}' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer <access_token>' \
+--data-raw '{
+   "state":"UploadComplete"
+}'
+< HTTP/1.1 200 OK
+< Content-Type: application/json;charset=UTF-8
+< Transfer-Encoding: chunked
+<
+{"id":"7505e000001NLkPAAW","operation":"upsert","object":"Contact","createdById":"0055e000003PfMYAA0","createdDate":"2021-06-10T13:25:40.000Z","systemModstamp":"2021-06-10T13:25:40.000Z","state":"UploadComplete","contentType":"CSV","apiVersion":1}
 ```

@@ -5,11 +5,14 @@ topic: connectapisupportedemojis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.076Z
-keywords: [ConnectApi.SupportedEmojis]
+lastCollected: 2026-03-12T05:14:29.097Z
+estimatedTokens: 60
+keywords: [ConnectApi.SupportedEmojis, collection, supported, emoji.]
 ---
 
 # ConnectApi.SupportedEmojis
+
+> A collection of supported emoji.
 
 # ConnectApi.SupportedEmojis
 
@@ -18,3 +21,7 @@ A collection of supported emoji.
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | supportedEmojis | ConnectApi.EmojiCollection | A collection of supported emoji. | 39.0 |
+
+## Related Topics
+
+- ConnectApi.EmojiCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_emoji_collection.htm)

@@ -5,11 +5,15 @@ topic: getsublocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.124Z
-keywords: [getSublocation, Signature, Return, Value, Usage]
+lastCollected: 2026-03-12T05:14:19.363Z
+estimatedTokens: 235
+keywords: [getSublocation, Retrieves, display, sublocation, where, canvas, app, being, called, from., Usage]
 ---
 
 # getSublocation()
+
+> Retrieves the display sublocation where
+the canvas app is being called from.
 
 # getSublocation()
 
@@ -33,3 +37,7 @@ The return value can be one of the following strings:
 ## Usage
 
 Use this method to obtain the display sublocation for the canvas app. Use only if the primary display location can be displayed on mobile devices.
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -5,11 +5,16 @@ topic: safe-navigation-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.007Z
-keywords: [Safe, Navigation, Operator, Important, Note, Examples]
+lastCollected: 2026-03-12T05:14:34.596Z
+estimatedTokens: 1063
+keywords: [Safe, Navigation, Operator, safe, navigation, operator, replace, explicit, sequential, checks, null, references., short-circuits, expressions, attempt, operate, instead, throwing, NullPointerException., Important]
 ---
 
 # Safe Navigation Operator
+
+> Use the safe navigation operator (?.) to replace explicit, sequential checks for null references. This
+            operator short-circuits expressions that attempt to operate on a null value and returns
+            null instead of throwing a NullPointerException.
 
 # Safe Navigation Operator
 
@@ -32,49 +37,49 @@ All Apex types are implicitly nullable and can hold a null value returned from t
 ## Examples
 
 -   This example first evaluates a, and returns null if a is null. Otherwise the return value is a.b.
-    
+
     ```
-    
+
     ```
-    
+
 -   This example returns null if a\[x\] evaluates to null. If a\[x\] doesn’t evaluate to null and aMethod() returns null, then this expression throws a NullPointerException.
-    
+
     ```
-    
+
     ```
-    
+
 -   This example returns null if a\[x\].aMethod() evaluates to null.
-    
+
     ```
-    
+
     ```
-    
+
 -   This example indicates that the type of the expression is the same whether the safe navigation operator is used in the expression or not.
-    
+
     ```
-    
+
     ```
-    
+
 -   This example shows a single statement replacing a block of code that checks for nulls.
-    
+
     ```
-    
+
     ```
-    
+
     ```
-    
+
     ```
-    
+
 -   This example shows a single-row SOQL query using the safe navigation operator.
-    
+
     ```
-    
+
     ```
-    
+
     ```
-    
+
     ```
-    
+
 
 | Allowed use-case | Example | More information |
 | --- | --- | --- |
@@ -100,19 +105,45 @@ You can’t use the Safe Navigation Operator in certain cases. Attempting to use
     -   foo?.bar = 42;
     -   ++foo?.bar;
 -   SOQL bind expressions. For example:
-    
+
     ```
-    
+
     ```
-    
+
 -   With addError() on SObject scalar fields. For example:
-    
+
     ```
-    
+
     ```
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     You can use the operator with addError() on SObjects, including lookup and master-detail fields.
+
+## Code Examples
+
+```
+a?.b // Evaluates to: a == null ? null : a.b
+```
+
+```
+a[x]?.aMethod().aField // Evaluates to null if a[x] == null
+```
+
+```
+a[x].aMethod()?.aField
+```
+
+```
+Integer x = anObject?.anIntegerField; // The expression is of type Integer because the field is of type Integer
+```
+
+```
+// Previous code checking for nulls
+String profileUrl = null;
+if (user.getProfileUrl() != null) {
+   profileUrl = user.getProfileUrl().toExternalForm();
+}
+```

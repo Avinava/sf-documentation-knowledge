@@ -5,11 +5,15 @@ topic: expression-set-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.276Z
-keywords: [Expression, Set, Input]
+lastCollected: 2026-03-12T05:14:48.393Z
+estimatedTokens: 256
+keywords: [Expression, Set, Input, representation, expression, set, create, update, request.]
 ---
 
 # Expression Set Input
+
+> Input representation of the expression set create and update
+      request.
 
 # Expression Set Input
 
@@ -35,3 +39,79 @@ Properties
 | name | String | Name of the expression set. | Required | 58.0 |
 | usage​Type | String | Usage type of the expression set.Valid value is Bre. The default value is Bre.When Business Rules Engine is enabled for a Salesforce org, the default value is Bre. Other usage types may be available to you depending on your industry solution and permission sets. | Required | 58.0 |
 | versions | Expression Set Version Input[] | List of the expression set versions. | Optional | 58.0 |
+
+## Code Examples
+
+```
+{
+  "name": "CTX Mapping ES",
+  "apiName": "CTX_Mapping_ES_1",
+  "description": "...",
+  "usageType": "Bre",
+  "contextDefinitions": [
+    {
+      "id": "11Oxx0000006PcLEAU"
+    }
+  ],
+  "versions": [
+    {
+      "name": "CTX_Mapping_ES_1 V1",
+      "apiName": "CTX_Mapping_ES_1_V1",
+      "description": "Sample CTX Mapping",
+      "startDate": "2022-11-14T20:31:47.000+0000",
+      "endDate": "2022-11-14T20:31:47.000+0000",
+      "versionNumber": 1,
+      "rank": 1,
+      "enabled": true,
+      "showExplExternally": false,
+      "steps": [
+        {
+          "name": "Condition1",
+          "description": "Condition step for conditions w.r.t product",
+          "sequenceNumber": 1,
+          "resultIncluded": true,
+          "stepType": "Condition",
+          "conditionExpression": {
+            "expression": "productName == 'iPhone' && productColor == 'Red'",
+            "resultParameter": "condition_output__1"
+          }
+        }
+      ],
+      "variables": [
+        {
+          "name": "productName",
+          "collection": false,
+          "dataType": "Text",
+          "description": "productName",
+          "input": true,
+          "output": false,
+          "type": "Variable"
+        },
+        {
+          "name": "productColor",
+          "collection": false,
+          "dataType": "Text",
+          "description": "productColor",
+          "input": true,
+          "output": false,
+          "type": "Variable"
+        },
+        {
+          "name": "condition_output__1",
+          "dataType": "Boolean",
+          "description": "condition_output__1",
+          "input": false,
+          "output": true,
+          "resultStep": "Condition1",
+          "type": "Variable"
+        }
+      ]
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Context Definition Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_definition_input.htm)
+- Expression Set Version Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_expression_set_version.htm)

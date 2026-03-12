@@ -5,11 +5,14 @@ topic: application-form-seller-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.039Z
-keywords: [Application, Form, Seller, Item, Input]
+lastCollected: 2026-03-12T05:14:48.052Z
+estimatedTokens: 631
+keywords: [Application, Form, Seller, Item, Input, representation, application, form, seller, item.]
 ---
 
 # Application Form Seller Item Input
+
+> Input representation of the application form seller item.
 
 # Application Form Seller Item Input
 
@@ -44,3 +47,8 @@ Properties
 | vehicle​Identification​Number | String | Unique identifier for the vehicle. | Optional | 61.0 |
 | vehicle​Registration​Number | String | Registration number of the vehicle. | Optional | 61.0 |
 | year | Integer | Manufacture date of the seller item. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)
+- Address Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_application_form_address_input.htm)

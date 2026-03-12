@@ -5,11 +5,15 @@ topic: connectapireturnorderlineitemfeeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.553Z
-keywords: [ConnectApi.ReturnOrderLineItemFeeInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.524Z
+estimatedTokens: 603
+keywords: [ConnectApi.ReturnOrderLineItemFeeInputRepresentation, Data, creating, ReturnOrderLineItem, represents, fee.]
 ---
 
 # ConnectApi.ReturnOrderLineItemFeeInputRepresentation
+
+> Data for creating a ReturnOrderLineItem that represents a return
+      fee.
 
 # ConnectApi.ReturnOrderLineItemFeeInputRepresentation
 
@@ -26,7 +30,15 @@ Data for creating a ReturnOrderLineItem that represents a return fee.
 #### See Also
 
 -   [ConnectApi.ReturnOrderInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order.htm "Data for creating a ReturnOrder and ReturnOrderLineItems.")
-    
+
 -   [createReturnOrder(returnOrderInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm#apex_ConnectAPI_ReturnOrder_createReturnOrder_1 "Create a ReturnOrder and ReturnOrderLineItems for items belonging to an OrderSummary.")
-    
+
 -   [ConnectApi.ReturnOrderLineItemInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order_line_item.htm "Data for creating a ReturnOrderLineItem for an order item being returned, including data to create ReturnOrderLineItems representing any return fees associated with it.")
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ReturnOrderInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order.htm)
+- createReturnOrder(returnOrderInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm)
+- ConnectApi.ReturnOrderLineItemInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order_line_item.htm)

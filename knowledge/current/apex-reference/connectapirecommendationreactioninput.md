@@ -5,11 +5,14 @@ topic: connectapirecommendationreactioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.330Z
-keywords: [ConnectApi.RecommendationReactionInput]
+lastCollected: 2026-03-12T05:14:25.176Z
+estimatedTokens: 370
+keywords: [ConnectApi.RecommendationReactionInput, reaction, recommendation, produced, strategy.]
 ---
 
 # ConnectApi.RecommendationReactionInput
+
+> A reaction to a recommendation produced by a recommendation strategy.
 
 # ConnectApi.RecommendationReactionInput
 
@@ -29,3 +32,9 @@ A reaction to a recommendation produced by a recommendation strategy.
 | targetActionId | String | ID of the target action. | Optional | 45.0 |
 | targetActionName | String | Name of the target action. | Required | 45.0 |
 | targetId | String | ID of the recommendation that is being reacted to. | Required | 45.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​Recommendation​ReactionType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

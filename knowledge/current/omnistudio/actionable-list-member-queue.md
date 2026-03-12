@@ -5,11 +5,14 @@ topic: actionable-list-member-queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.024Z
-keywords: [Actionable, List, Member, Queue]
+lastCollected: 2026-03-12T05:14:49.533Z
+estimatedTokens: 109
+keywords: [Actionable, List, Member, Queue, Output, representation, actionable, list, member, queue, details.]
 ---
 
 # Actionable List Member Queue
+
+> Output representation of the actionable list member queue details.
 
 # Actionable List Member Queue
 
@@ -25,3 +28,20 @@ JSON Example
 | --- | --- | --- | --- | --- |
 | id | String | Queue ID associated with actionable list member object. | Small, 59.0 | 59.0 |
 | name | String | Queue name associated with actionable list member object. | Small, 59.0 | 59.0 |
+
+## Code Examples
+
+```
+{
+  "queues": [
+    {
+      "name": "Queue1",
+      "id": "1sgxx0000000001AAA"
+    },
+    {
+      "name": "Queue2",
+      "id": "1sgxx0000000001BAA"
+    }
+  ]
+}
+```

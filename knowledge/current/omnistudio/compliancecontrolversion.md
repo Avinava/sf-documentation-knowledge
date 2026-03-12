@@ -5,11 +5,15 @@ topic: compliancecontrolversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.882Z
-keywords: [ComplianceControlVersion, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.814Z
+estimatedTokens: 1198
+keywords: [ComplianceControlVersion, Represents, version, compliance, control, implements, requirements.., API, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # ComplianceControlVersion
+
+> Represents the version of the compliance control that implements compliance
+         requirements.. This object is available in API version 65.0 and later.
 
 # ComplianceControlVersion
 
@@ -56,3 +60,10 @@ History is available for tracked fields of the object.
 [ComplianceControlVersionShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ComplianceControlVersionChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- ComplianceControlVersionFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- ComplianceControlVersionHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- ComplianceControlVersionShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

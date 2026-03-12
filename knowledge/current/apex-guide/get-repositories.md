@@ -5,11 +5,14 @@ topic: get-repositories
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.859Z
-keywords: [Get, Repositories]
+lastCollected: 2026-03-12T05:14:34.357Z
+estimatedTokens: 86
+keywords: [Get, Repositories, Call, get, repositories.]
 ---
 
 # Get Repositories
+
+> Call a method to get all repositories.
 
 # Get Repositories
 
@@ -19,4 +22,18 @@ Call [getRepositories()](https://developer.salesforce.com/docs/atlas.en-us.260.0
 
 ```
 
+```
+
+## Code Examples
+
+```
+final string sharePointOnlineProviderType ='ContentHubSharepointOffice365';
+final ConnectApi.ContentHubRepositoryCollection repositoryCollection = ConnectApi.ContentHub.getRepositories();
+ConnectApi.ContentHubRepository sharePointOnlineRepository = null;
+for(ConnectApi.ContentHubRepository repository : repositoryCollection.repositories){
+   if(sharePointOnlineProviderType.equalsIgnoreCase(repository.providerType.type)){
+      sharePointOnlineRepository = repository;
+      break;
+   }
+}
 ```

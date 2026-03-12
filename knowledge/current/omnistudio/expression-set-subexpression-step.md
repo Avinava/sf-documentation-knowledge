@@ -5,11 +5,15 @@ topic: expression-set-subexpression-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.483Z
-keywords: [Expression, Set, SubExpression, Step]
+lastCollected: 2026-03-12T05:14:50.221Z
+estimatedTokens: 85
+keywords: [Expression, Set, SubExpression, Step, Output, representation, subexpression, step, expression, set.]
 ---
 
 # Expression Set SubExpression Step
+
+> Output representation of a subexpression step in an expression
+      set.
 
 # Expression Set SubExpression Step
 

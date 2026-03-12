@@ -5,11 +5,15 @@ topic: field-service-core-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:12.275Z
-keywords: [Field, Service, Core, Data, Model, Note, Who, Performs, Work, Where, Occurs, See]
+lastCollected: 2026-03-12T05:14:55.557Z
+estimatedTokens: 1454
+keywords: [Field, Service, Core, Data, Model, Service’s, core, objects, complete, essential, field, service, tasks, such, managing, work, orders, defining, territories, tracking]
 ---
 
 # Field Service Core Data Model
+
+> Use Field Service’s core objects to complete essential field service tasks such as
+  managing work orders, defining your service territories, and tracking your workforce.
 
 # Field Service Core Data Model
 

@@ -5,11 +5,15 @@ topic: working-with-polymorphic-relationships-in-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.977Z
-keywords: [Working, Polymorphic, Relationships, SOQL, Queries]
+lastCollected: 2026-03-12T05:14:34.552Z
+estimatedTokens: 842
+keywords: [Working, Polymorphic, Relationships, SOQL, Queries, polymorphic, relationship, between, objects, where, referenced, several, different, types., example, Who, field, Task, Contact, Lead.]
 ---
 
 # Working with Polymorphic Relationships in SOQL Queries
+
+> A polymorphic relationship is a relationship between objects where a referenced
+        object can be one of several different types. For example, the Who relationship field of a Task can be a Contact or a Lead.
 
 # Working with Polymorphic Relationships in SOQL Queries
 
@@ -47,3 +51,28 @@ public class PolymorphismExampleClass { // Utility method for a User public stat
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_filtering_nulls.htm "Improve Performance by Avoiding Null Values")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm "Using Apex Variables in SOQL and SOSL Queries")
+
+## Code Examples
+
+```apex
+List<Event> events = [SELECT Description FROM Event WHERE What.Type IN ('Account', 'Opportunity')];
+```
+
+```apex
+List<Event> events = [SELECT TYPEOF What WHEN Account THEN Phone WHEN Opportunity THEN Amount END FROM Event];
+```
+
+```
+Event myEvent = eventFromQuery;
+if (myEvent.What instanceof Account) {
+    // myEvent.What references an Account, so process accordingly
+} else if (myEvent.What instanceof Opportunity) {
+    // myEvent.What references an Opportunity, so process accordingly
+}
+```
+
+## Related Topics
+
+- instanceof (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_instanceof.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_filtering_nulls.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_variables.htm)

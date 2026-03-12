@@ -5,11 +5,14 @@ topic: fulfillment-step-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.528Z
-keywords: [Fulfillment, Step, Details]
+lastCollected: 2026-03-12T05:14:50.285Z
+estimatedTokens: 214
+keywords: [Fulfillment, Step, Details, Output, representation, fulfillment, steps, associated, stage.]
 ---
 
 # Fulfillment Step Details
+
+> Output representation of the fulfillment steps associated with a stage.
 
 # Fulfillment Step Details
 
@@ -29,3 +32,49 @@ JSON Example
 | name | String | Name of the fulfillment step. | Small, 61.0 | 61.0 |
 | status | String | Status of the current fulfillment step. | Small, 61.0 | 61.0 |
 | stepType | String | Step type of the current fulfillment step, such as manual task, auto task, and callout. | Small, 61.0 | 61.0 |
+
+## Code Examples
+
+```
+"fulfillmentSteps": [
+        {
+          "actions": {},
+          "details": {
+            "dynamicFields": {
+              "Fulfillment Step Definition Name": "T_I_RS_1"
+            },
+            "taskSubType": "Manual Task"
+          },
+          "id": "0qDxx00000000BJEAY",
+          "name": "T_I_RS_1",
+          "status": "Started",
+          "stepType": "ManualTask"
+        },
+        {
+          "actions": {},
+          "details": {
+            "dynamicFields": {
+              "Fulfillment Step Definition Name": "T_I_IR_2"
+            },
+            "taskSubType": "Screen Flow"
+          },
+          "id": "0qDxx00000000BKEAY",
+          "name": "T_I_IR_2",
+          "status": "Not Started",
+          "stepType": "ManualTask"
+        },
+        {
+          "actions": {},
+          "details": {
+            "dynamicFields": {
+              "Fulfillment Step Definition Name": "S_RS_I_1"
+            },
+            "taskSubType": "Manual Task"
+          },
+          "id": "0qDxx00000000CvEAI",
+          "name": "S_RS_I_1",
+          "status": "Completed",
+          "stepType": "ManualTask"
+        }
+      ]
+```

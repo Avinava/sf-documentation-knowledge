@@ -6,12 +6,15 @@ topic: login-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.262Z
-keywords: [login, Lightning, Experience, Arguments, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.820Z
+estimatedTokens: 132
+keywords: [login, Lightning, Experience, Logs, agent, Omni-Channel, specific, presence, status., Arguments, Sample, Code, Response]
 ---
 
 # login for Lightning Experience for Lightning
             Experience
+
+> Logs an agent in to Omni-Channel with a specific presence status.
 
 # login for Lightning Experience for Lightning Experience
 
@@ -40,3 +43,29 @@ Controller code:
 ## Response
 
 This method returns a promise that, upon success, resolves to true and is rejected on error.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />
+    <lightning:button label="Login" onclick="{! c.login }" />
+</aura:component>
+```
+
+```
+({
+    login: function(cmp, evt, hlp) {
+        var omniAPI = cmp.find("omniToolkit");
+        omniAPI.login({statusId: "0N5xx0000000001"}).then(function(result) {
+            if (result) {
+                console.log("Login successful");
+            } else {
+                console.log("Login failed");
+            }
+        }).catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```

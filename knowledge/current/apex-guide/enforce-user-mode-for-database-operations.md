@@ -5,11 +5,16 @@ topic: enforce-user-mode-for-database-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.551Z
-keywords: [Enforce, User, Mode, Database, Operations, Note, Example, Permission, Sets, Security, DML, Search, Developer, Preview]
+lastCollected: 2026-03-12T05:14:32.566Z
+estimatedTokens: 1868
+keywords: [Enforce, User, Mode, Database, Operations, run, database, operations, user, mode, rather, default, system, SOQL, SOSL, queries, special, keywords, DML, overloads.]
 ---
 
 # Enforce User Mode for Database Operations
+
+> You can run database operations in user mode rather than in the default system mode
+        by using SOQL or SOSL queries with special keywords or by using DML method
+        overloads.
 
 # Enforce User Mode for Database Operations
 
@@ -80,3 +85,25 @@ This example runs the AccessLevel.withPermissionSetId() method with the specifie
 #### Note
 
 Checkmarx, the [AppExchange Security Review](https://developer.salesforce.com/docs/atlas.en-us.260.0.packagingGuide.meta/packagingGuide/security_review_partner_security_portal_scanners.htm) source code scanner, hasn’t been updated with this new Apex feature. Until it’s updated, Checkmarx can generate false positives for field or object level security violations that require exception documentation.
+
+## Code Examples
+
+```apex
+try {
+List<Account> accts = new Account[] {new Account(name ='foo', AnnualRevenue=2000)};
+Database.insert(accts, AccessLevel.USER_MODE); // throws an exception
+Assert.fail('DmlException expected');
+} catch (DmlException dex) {
+   Assert.isTrue(dex.getMessage()
+      .contains(
+      'Operation failed due to fields being inaccessible on Sobject <object name>, check errors on Exception or Result!'
+      )
+   );
+   Assert.isTrue(dex.getDmlFieldNames(0).contains('AnnualRevenue'));
+}
+```
+
+## Related Topics
+
+- Use the with sharing, without sharing, and inherited sharing Keywords (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)
+- Dynamic SOQL (atlas.en-us.apexcode.meta/apexcode/apex_dynamic_soql.htm)

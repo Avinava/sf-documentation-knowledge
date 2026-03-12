@@ -5,11 +5,14 @@ topic: connectapirefundresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.912Z
-keywords: [ConnectApi.RefundResponse]
+lastCollected: 2026-03-12T05:14:28.853Z
+estimatedTokens: 221
+keywords: [ConnectApi.RefundResponse, Refund, output.]
 ---
 
 # ConnectApi.RefundResponse
+
+> Refund output.
 
 # ConnectApi.RefundResponse
 
@@ -25,3 +28,9 @@ Refund output.
 | refundNumber | String | Number of the refund record that was created as a result of the request processing. | 50.0 |
 | requestDate | Datetime | Date when the refund occurred. | 50.0 |
 | status | String | Indicates the results of processing the refund transaction in the gateway. Can be DRAFT, PROCESSED or CANCELLED. | 50.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

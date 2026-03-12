@@ -5,11 +5,16 @@ topic: retrievalsummarydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.442Z
-keywords: [RetrievalSummaryDefinition, Parent, Type, File, Suffix, Directory, Location, Version, Fields, RetrievalSummaryDefField, RetrievalSummaryDefObject, Usage, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:42.488Z
+estimatedTokens: 1373
+keywords: [RetrievalSummaryDefinition, Represents, metadata, stores, header, information, retrieval, definition., enables, configuration, data, patterns, summarizing, related, records, across, relationships., Parent, File, Suffix]
 ---
 
 # RetrievalSummaryDefinition
+
+> Represents a metadata type that stores the header information of a retrieval definition.
+		It enables the configuration of data retrieval patterns for summarizing related records
+		across object relationships.
 
 # RetrievalSummaryDefinition
 
@@ -81,3 +86,49 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RetrievalSummaryDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+   <masterLabel>Account Revenue Summary</masterLabel>
+   <rootObject>Account</rootObject>
+   <retrievalSummaryDefFields>
+      <field>Name</field>
+      <sequenceNumber>1</sequenceNumber>
+   </retrievalSummaryDefFields>
+   <retrievalSummaryDefFields>
+      <field>Industry</field>
+      <sequenceNumber>2</sequenceNumber>
+   </retrievalSummaryDefFields>
+   <retrievalSummaryDefObjects>
+      <recordAggregationDefinition>OpportunityRevenueRollup</recordAggregationDefinition>
+      <sequenceNumber>1</sequenceNumber>
+      <retrievalSummaryDefFields>
+         <field>Amount</field>
+         <sequenceNumber>1</sequenceNumber>
+      </retrievalSummaryDefFields>
+      <retrievalSummaryDefFields>
+         <field>CloseDate</field>
+         <sequenceNumber>2</sequenceNumber>
+      </retrievalSummaryDefFields>
+   </retrievalSummaryDefObjects>
+</RetrievalSummaryDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>RetrievalSummaryDefinition</name>
+    </types>
+    <version>61.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

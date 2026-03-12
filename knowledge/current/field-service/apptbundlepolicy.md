@@ -5,11 +5,15 @@ topic: apptbundlepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.438Z
-keywords: [ApptBundlePolicy, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:55.824Z
+estimatedTokens: 994
+keywords: [ApptBundlePolicy, Policy, defines, how, bundling, service, appointments, should, handled., API, version, 54.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # ApptBundlePolicy
+
+> Policy that defines how the bundling of service appointments should be
+         handled. This object is available in API version 54.0 and later.
 
 # ApptBundlePolicy
 

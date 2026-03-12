@@ -5,11 +5,14 @@ topic: lists-of-custom-types-and-sorting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.599Z
-keywords: [Lists, Custom, Types, Sorting, See]
+lastCollected: 2026-03-12T05:14:32.629Z
+estimatedTokens: 374
+keywords: [Lists, Custom, Types, Sorting, hold, objects, user-defined, types, Apex, classes, sorted.]
 ---
 
 # Lists of Custom Types and Sorting
+
+> Lists can hold objects of your user-defined types (your Apex classes). Lists of user-defined types can be sorted.
 
 # Lists of Custom Types and Sorting
 
@@ -27,7 +30,12 @@ To perform locale-sensitive comparisons and sorting, use the Collator class. Bec
 #### See Also
 
 -   [*Apex Reference Guide*: Collator Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_Collator.htm)
-    
+
 -   [*Apex Reference Guide*: Comparable Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_comparable.htm)
-    
+
 -   [*Apex Reference Guide*: Comparator Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_System_Comparator.htm)
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_version_settings_intro.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_maps_keys_userdefined.htm)

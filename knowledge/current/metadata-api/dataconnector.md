@@ -5,11 +5,15 @@ topic: dataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:51.666Z
-keywords: [DataConnector, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, DataConnectorAttribute, DataConnectorAttributeOpt, DataConnectorError, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:38.450Z
+estimatedTokens: 1962
+keywords: [DataConnector, Represents, white-labeled, metadata, configuration, external, connector, Data, 360., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # DataConnector
+
+> Represents the white-labeled metadata configuration for an external
+			connector in Data 360.
 
 # DataConnector
 
@@ -119,3 +123,56 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DataConnector xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Iceberg Override</masterLabel>
+    <icon>Salesforce</icon>
+    <parentConnector>ICEBERG</parentConnector>
+    <releaseLevel>BETA</releaseLevel>
+    <description>Connect to Apache Iceberg tables</description>
+    <features>Override</features>
+    <ownerName>Slack</ownerName>
+    <ownerLogo>Salesforce</ownerLogo>
+    <ownerLocation>Settle, USA</ownerLocation>
+    <supportMessage>Click download logs before reachout</supportMessage>
+    <supportPhone>+15788467513</supportPhone>
+    <licenseAgreement>https://www.salesforce.com/company/legal</licenseAgreement>
+    <attributes>
+        <fullName>IcebergOverride_storageSourceType</fullName>
+        <externalName>storageSourceType</externalName>
+        <masterLabel>Storage Type</masterLabel>
+        <dataType>COMBOBOX</dataType>
+        <defaultValue>CATALOG_PROVIDED</defaultValue>
+        <capabilities>DataIn</capabilities>
+        <capabilities>Hidden</capabilities>
+        <order>20</order>
+        <editable>true</editable>
+        <required>true</required>
+        <secure>true</secure>
+    </attributes>
+</DataConnector>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>DataConnector</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

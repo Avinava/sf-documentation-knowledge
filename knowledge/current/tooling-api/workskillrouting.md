@@ -5,11 +5,16 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:39.002Z
-keywords: [WorkSkillRouting, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:47.159Z
+estimatedTokens: 548
+keywords: [WorkSkillRouting, Represents, setup, stores, set, WorkSkillRoutingAttribute, objects, used, route, work, item, agent, who, skills, necessary, take, work., API, version, 46.0]
 ---
 
 # WorkSkillRouting
+
+> Represents a setup object that stores a set of
+        WorkSkillRoutingAttribute objects used to route a work item to an agent who has the skills
+        necessary to take the work. Available in API version 46.0 and later.
 
 # WorkSkillRouting
 
@@ -40,3 +45,8 @@ DELETE, GET, PATCH, POST
 | MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionMaster label for this object. This display value is the internal label that is not translated. |
 | Metadata | Typemns:WorkSkillRoutingPropertiesCreate, Nillable, UpdateDescriptionThe associated metadata type in Metadata API. |
 | RelatedEntity | TypepicklistPropertiesFilter, Group, Restricted picklist, Sort, UniqueDescriptionType of Salesforce object that the attributes are associated with. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

@@ -5,11 +5,14 @@ topic: extlclntappnotificationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.544Z
-keywords: [ExtlClntAppNotificationSettings, Note, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppNotificationType]
+lastCollected: 2026-03-12T05:14:39.735Z
+estimatedTokens: 770
+keywords: [ExtlClntAppNotificationSettings, Represents, external, client, app’s, notification, subscriptions, mobile., Note, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppNotificationType]
 ---
 
 # ExtlClntAppNotificationSettings
+
+> Represents an external client app’s notification subscriptions for mobile.
 
 # ExtlClntAppNotificationSettings
 
@@ -61,3 +64,7 @@ You can use Notification Builder in Setup to configure a notification type for t
 | --- | --- | --- |
 | notificationType | string | Required. The API name of the notification type. |
 | pushByDefault | boolean | Required. Indicates whether the notification type is sent as a push notification on mobile devices.To send a notification type as a push notification, you must also configure the ExtlClntAppPushSettings metadata type. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

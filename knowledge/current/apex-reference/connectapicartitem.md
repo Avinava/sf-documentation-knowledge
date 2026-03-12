@@ -5,11 +5,14 @@ topic: connectapicartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.119Z
-keywords: [ConnectApi.CartItem]
+lastCollected: 2026-03-12T05:14:26.327Z
+estimatedTokens: 664
+keywords: [ConnectApi.CartItem, item, cart.]
 ---
 
 # ConnectApi.CartItem
+
+> An item in a cart.
 
 # ConnectApi.CartItem
 
@@ -38,3 +41,10 @@ Subclass of [ConnectApi.AbstractCartItem](atlas.en-us.apexref.meta/apexref/apex_
 | unitAdjusted​PriceWith​ItemAdj | String | Unit price, including both tier and item level discounts, for the item. This value is informational only and isn’t used in pricing calculations. | 61.0 |
 | unitAdjustment​Amount | String | Tier level adjustments made to the unit price for the item. This value is informational only and isn’t used in pricing calculations. | 50.0 |
 | unitItem​Adjustment​Amount | String | Item level adjustments made to the unit price for the item. This value is informational only and isn’t used in pricing calculations. | 61.0 |
+
+## Related Topics
+
+- ConnectApi.AbstractCartItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_cart_item.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CartItemCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item_collection.htm)
+- ConnectApi.​ProductClass (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

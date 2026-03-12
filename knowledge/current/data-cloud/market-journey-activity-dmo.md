@@ -5,11 +5,15 @@ topic: market-journey-activity-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.637Z
-keywords: [Market, Journey, Activity, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.408Z
+estimatedTokens: 753
+keywords: [Market, Journey, Activity, DMO, data, model, Data, Cloud, step, activity, within, journey, Builder., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Market Journey Activity DMO
+
+> The Market Journey Activity data model object (DMO) is a Data Cloud
+      DMO for a step or activity within a journey in Journey Builder.
 
 # Market Journey Activity DMO
 

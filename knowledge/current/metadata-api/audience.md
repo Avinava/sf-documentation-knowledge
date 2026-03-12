@@ -5,11 +5,17 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.695Z
-keywords: [Audience, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AudienceCriteria, AudienceCriterion, AudienceCriteriaValue, PersonalizationTargetInfos, PersonalizationTargetInfo, Declarative, Metadata, Sample, Definition, Usage]
+lastCollected: 2026-03-12T05:14:37.099Z
+estimatedTokens: 2860
+keywords: [Audience, Represents, audience, Experience, Builder, site., consists, different, types, criteria, where, assigned, used, targeting, extends, Metadata, metadata, inherits, its, fullName]
 ---
 
 # Audience
+
+> Represents the audience in an Experience Builder site. 
+    An audience consists of different types of criteria, where the audience can be assigned and 
+    used for targeting in a site. This type extends the Metadata metadata type and inherits its 
+    fullName field.
 
 # Audience
 
@@ -168,3 +174,151 @@ To reassign a target to a new audience, deploy both audiences with their entire 
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Audience xmlns="http://soap.sforce.com/2006/04/metadata">
+    <audienceName>Audience Metadata</audienceName>
+    <container>Customer</container>
+    <criteria>
+        <criterion>
+            <criteriaNumber>1</criteriaNumber>
+            <criterionValue>
+                <country>United States</country>
+                <subdivision>Nevada</subdivision>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>GeoLocation</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>2</criteriaNumber>
+            <criterionValue>
+                <profile>customer community user</profile>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>Profile</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>3</criteriaNumber>
+            <criterionValue>
+                <domain>sampledomain.example.com</domain>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>Domain</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>4</criteriaNumber>
+            <criterionValue>
+                <entityField>Manager.Profile.CreatedBy.Contact.MailingCountry</entityField>
+                <entityType>User</entityType>
+                <fieldValue>USA</fieldValue>
+            </criterionValue>
+            <operator>StartsWith</operator>
+            <type>FieldBased</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>5</criteriaNumber>
+            <criterionValue>
+                <entityField>RecordTypeId</entityField>
+                <entityType>CollaborationGroup</entityType>
+                <fieldValue>CollaborationGroup.Group_RT2</fieldValue>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>FieldBased</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>6</criteriaNumber>
+            <criterionValue>
+                <isEnabled>true</isEnabled>
+                <permissionName>ManageUsers</permissionName>
+                <permissionType>Standard</permissionType>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>Permission</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>7</criteriaNumber>
+            <criterionValue>
+                <isEnabled>false</isEnabled>
+                <permissionName>NamespaceXYZ__CustomPermABC</permissionName>
+                <permissionType>Custom</permissionType>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>Permission</type>
+        </criterion>
+        <criterion>
+            <criteriaNumber>8</criteriaNumber>
+            <criterionValue>
+                <audienceDeveloperName>Audience1</audienceDeveloperName>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>Audience</type>
+        </criterion>
+    </criteria>
+    <formula>1 AND (2 OR 3 OR 4 OR 5 OR 6 OR 7) AND 8</formula>
+    <formulaFilterType>CustomLogicMatches</formulaFilterType>
+    <isDefaultAudience>false</isDefaultAudience>
+    <targets>
+        <target>
+            <groupName>c194d79c-5c6b-4c6a-8d14-0e7042564355$#$Branding</groupName>
+            <priority>1</priority>
+            <targetType>ExperienceVariation</targetType>
+            <targetValue>Customer_Service_testBrandingSet_Branding</targetValue>
+        </target>
+    </targets>
+</Audience>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Audience
+    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <audienceName>testAudience</audienceName>
+    <container>testContainer</container>
+    <criteria>
+        <criterion>
+            <criteriaNumber>1</criteriaNumber>
+            <criterionValue>
+                <country>United States</country>
+                <subdivision>Nevada</subdivision>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>GeoLocation</type>
+        </criterion>
+    </criteria>
+    <formulaFilterType>AllCriteriaMatch</formulaFilterType>
+    <isDefaultAudience>false</isDefaultAudience>
+    <targets>
+    </targets>
+</Audience>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Audience
+    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <audienceName>testAudience</audienceName>
+    <container>testContainer</container>
+    <criteria>
+        <criterion>
+            <criteriaNumber>1</criteriaNumber>
+            <criterionValue>
+                <country>United States</country>
+                <subdivision>Nevada</subdivision>
+            </criterionValue>
+            <operator>Equal</operator>
+            <type>GeoLocation</type>
+        </criterion>
+    </criteria>
+    <formulaFilterType>AllCriteriaMatch</formulaFilterType>
+    <isDefaultAudience>false</isDefaultAudience>
+</Audience>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- ExperienceBundle (atlas.en-us.api_meta.meta/api_meta/meta_experiencebundle.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

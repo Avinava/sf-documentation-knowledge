@@ -5,11 +5,15 @@ topic: domainprovision
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.639Z
-keywords: [DomainProvision, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:45.193Z
+estimatedTokens: 587
+keywords: [DomainProvision, Represents, provisioned, changes, custom, domains., API, version, 50.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # DomainProvision
+
+> Represents provisioned changes to custom domains. This object is
+      available in API version 50.0 and later.
 
 # DomainProvision
 

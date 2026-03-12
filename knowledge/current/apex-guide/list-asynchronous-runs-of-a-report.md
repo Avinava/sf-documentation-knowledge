@@ -5,11 +5,15 @@ topic: list-asynchronous-runs-of-a-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.248Z
-keywords: [List, Asynchronous, Runs, Report, Example]
+lastCollected: 2026-03-12T05:14:32.178Z
+estimatedTokens: 123
+keywords: [List, Asynchronous, Runs, Report, retrieve, 000, instances, report, ran, asynchronously., Example]
 ---
 
 # List Asynchronous Runs of a Report
+
+> You can retrieve up to 2,000 instances of a report that
+you ran asynchronously.
 
 # List Asynchronous Runs of a Report
 
@@ -23,4 +27,18 @@ You can get the instance list by calling the ReportManager.getReportInstances me
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+// Get the report ID
+List <Report> reportList = [SELECT Id,DeveloperName FROM Report where
+    DeveloperName = 'Closed_Sales_This_Quarter'];
+String reportId = (String)reportList.get(0).get('Id');
+
+// Run a report asynchronously
+Reports.ReportInstance instance = Reports.ReportManager.runAsyncReport(reportId, true);
+System.debug('List of asynchronous runs: ' + 
+    Reports.ReportManager.getReportInstances(reportId));
 ```

@@ -5,11 +5,17 @@ topic: asynchronous-callout-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.895Z
-keywords: [Asynchronous, Callout, Limits, Continuation-Specific, Differences, Between, Continuation, Controller, State, Visualforce, View]
+lastCollected: 2026-03-12T05:14:33.057Z
+estimatedTokens: 728
+keywords: [Asynchronous, Callout, Limits, continuation, executing, continuation-specific, limits, apply., request, resumes, new, Apex, transaction, starts., Visualforce, apply, reset, including, callout, limits.]
 ---
 
 # Asynchronous Callout Limits
+
+> When a continuation is executing, the continuation-specific limits apply. When the
+    continuation returns and the request resumes, a new Apex transaction starts. All Apex and
+    Visualforce limits apply and are reset in the new transaction, including the Apex callout
+    limits.
 
 # Asynchronous Callout Limits
 

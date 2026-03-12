@@ -5,11 +5,15 @@ topic: get-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.503Z
-keywords: [Get, Process, Approvals, Syntax]
+lastCollected: 2026-03-12T05:14:35.778Z
+estimatedTokens: 120
+keywords: [Get, Process, Approvals, list, approval, processes., resource, REST, API, version, 30.0, later., Syntax]
 ---
 
 # Get Process Approvals
+
+> Gets a list of all approval processes. This
+    resource is available in REST API version 30.0 and later.
 
 # Get Process Approvals
 
@@ -40,3 +44,7 @@ None required
 Example
 
 See [Get a List of All Approval Processes.](atlas.en-us.api_rest.meta/api_rest/dome_process_approvals.htm "Use the *** resource to get information about approvals.").
+
+## Related Topics
+
+- Get a List of All Approval Processes. (atlas.en-us.api_rest.meta/api_rest/dome_process_approvals.htm)

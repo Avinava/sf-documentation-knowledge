@@ -5,11 +5,20 @@ topic: standardobjectnamechangeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:11.416Z
-keywords: [StandardObjectNameChangeEvent, Supported, Calls, Special, Access, Rules, Change, Event, Name, Fields, Message, Example, API, Version, Schema, Usage, Objects, Support, Events]
+lastCollected: 2026-03-12T05:14:53.120Z
+estimatedTokens: 4197
+keywords: [StandardObjectNameChangeEvent, ChangeEvent, supports, Change, Data, Capture., subscribe, stream, change, events, Capture, receive, data, tied, record, changes, Salesforce., Changes, include, creation]
 ---
 
 # StandardObjectNameChangeEvent
+
+> A ChangeEvent object is available for each object that supports Change Data Capture.
+        You can subscribe to a stream of change events using Change Data Capture to receive data
+        tied to record changes in Salesforce. Changes include record creation, updates to an
+        existing record, deletion of a record, and undeletion of a record. A change event isn’t a
+        Salesforce object—it doesn’t support CRUD operations or queries. It’s included in the
+        object reference so you can discover which Salesforce objects support change
+        events.
 
 # StandardObjectNameChangeEvent
 
@@ -152,3 +161,57 @@ The following objects have associated ChangeEvent objects.
 -   Vehicle
 -   VehicleDefinition
 -   Visit
+
+## Code Examples
+
+```
+<Standard_Object_Name>ChangeEvent
+```
+
+```
+<Custom_Object_Name>__ChangeEvent
+```
+
+```
+{
+  "schema": "IeRuaY6cbI_HsV8Rv1Mc5g", 
+  "payload": {
+    "ChangeEventHeader": {
+      "entityName": "Account", 
+      "recordIds": [
+        "<record_ID>"
+      ], 
+      "changeType": "CREATE", 
+      "changeOrigin": "com/salesforce/api/soap/51.0;client=SfdcInternalAPI/", 
+      "transactionKey": "0002343d-9d90-e395-ed20-cf416ba652ad", 
+      "sequenceNumber": 1, 
+      "commitTimestamp": 1612912679000, 
+      "commitNumber": 10716283339728, 
+      "commitUser": "<User_ID>"
+    }, 
+    "Name": "Acme", 
+    "Description": "Everyone is talking about the cloud. But what does it mean?", 
+    "OwnerId": "<Owner_ID>", 
+    "CreatedDate": "2021-02-09T23:17:59Z", 
+    "CreatedById": "<User_ID>", 
+    "LastModifiedDate": "2021-02-09T23:17:59Z", 
+    "LastModifiedById": "<User_ID>"
+  }, 
+  "event": {
+    "replayId": 6
+  }
+}
+```
+
+## Related Topics
+
+- AccountAccountRelation (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_accountaccountrelation.htm)
+- AccountContactRelation (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_accountcontactrelation.htm)
+- BusOperProcParticipant (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_busoperprocparticipant.htm)
+- CmplControlParticipant (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_cmplcontrolparticipant.htm)
+- CmplControlVersionTest (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_cmplcontrolversiontest.htm)
+- CmplCtrlVerTestExecution (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_cmplctrlvertestexecution.htm)
+- CmplPolicyParticipant (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_cmplpolicyparticipant.htm)
+- CmplValidationProcedure (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_cmplvalidationprocedure.htm)
+- CmplVldProcdParticipant (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_cmplvldprocdparticipant.htm)
+- ComplianceTest (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_objects_compliancetest.htm)

@@ -5,11 +5,15 @@ topic: loading-test-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.626Z
-keywords: [Loading, Test, Data, Test.loadData, Example]
+lastCollected: 2026-03-12T05:14:34.061Z
+estimatedTokens: 476
+keywords: [Loading, Test, Data, Test.loadData, populate, data, test, without, having, write, many, lines, code., Example]
 ---
 
 # Loading Test Data
+
+> Using the Test.loadData method, you can populate data in your test methods without having
+to write many lines of code.
 
 # Loading Test Data
 
@@ -43,11 +47,11 @@ Once you create a static resource for your .csv file, the static resource will b
 The following are steps for creating a sample .csv file and a static resource, and calling Test.loadData to insert the test records.
 
 1.  Create a .csv file that has the data for the test records. This sample .csv file has three account records. You can use this sample content to create your .csv file.
-    
+
     ```
-    
+
     ```
-    
+
 2.  Create a static resource for the .csv file:
     1.  From Setup, enter Static Resources in the Quick Find box, then select **Static Resources**.
     2.  Click **New**.
@@ -55,7 +59,39 @@ The following are steps for creating a sample .csv file and a static resource, a
     4.  Choose the file you created.
     5.  Click **Save**.
 3.  Call Test.loadData in a test method to populate the test accounts.
-    
+
     ```
-    
+
     ```
+
+## Code Examples
+
+```apex
+List<sObject> ls = Test.loadData(Account.sObjectType, 'myResource');
+```
+
+```
+Name,Website,Phone,BillingStreet,BillingCity,BillingState,BillingPostalCode,BillingCountry
+sForceTest1,http://www.sforcetest1.com,(415) 901-7000,The Landmark @ One Market,San Francisco,CA,94105,US
+sForceTest2,http://www.sforcetest2.com,(415) 901-7000,The Landmark @ One Market Suite 300,San Francisco,CA,94105,US
+sForceTest3,http://www.sforcetest3.com,(415) 901-7000,1 Market St,San Francisco,CA,94105,US
+```
+
+```apex
+@isTest 
+private class DataUtil {
+    static testmethod void testLoadData() {
+        // Load the test accounts from the static resource
+        List<sObject> ls = Test.loadData(Account.sObjectType, 'testAccounts');
+        // Verify that all 3 test accounts were created
+        System.assert(ls.size() == 3);
+
+        // Get first test account
+        Account a1 = (Account)ls[0];
+        String acctName = a1.Name;
+        System.debug(acctName);
+
+        // Perform some testing using the test records
+    }
+}
+```

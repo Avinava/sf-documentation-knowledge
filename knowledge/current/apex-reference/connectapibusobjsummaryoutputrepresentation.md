@@ -5,11 +5,14 @@ topic: connectapibusobjsummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.059Z
-keywords: [ConnectApi.BusObjSummaryOutputRepresentation]
+lastCollected: 2026-03-12T05:14:26.237Z
+estimatedTokens: 188
+keywords: [ConnectApi.BusObjSummaryOutputRepresentation, Summary, business, objective, goal.]
 ---
 
 # ConnectApi.BusObjSummaryOutputRepresentation
+
+> Summary of a business objective, or goal.
 
 # ConnectApi.BusObjSummaryOutputRepresentation
 
@@ -23,3 +26,9 @@ Summary of a business objective, or goal.
 | kpi | String | Key performance indicator associated with the business objective. | 61.0 |
 | labelName | String | Display name of the business objective. | 59.0 |
 | recommendationSummary | ConnectApi.​BusObjRecommendations​OutputRepresentation | Summary of recommended actions for the business objective. | 59.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​BusObjInsights​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_bus_obj_insights_output.htm)
+- ConnectApi.​BusObjRecommendations​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_bus_obj_recommendations_output.htm)

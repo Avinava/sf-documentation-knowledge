@@ -5,11 +5,14 @@ topic: connectapirecordsetfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.897Z
-keywords: [ConnectApi.RecordsetFilterCriteria, See]
+lastCollected: 2026-03-12T05:14:28.833Z
+estimatedTokens: 129
+keywords: [ConnectApi.RecordsetFilterCriteria, Recordset, filter, criteria, filtered, records.]
 ---
 
 # ConnectApi.RecordsetFilterCriteria
+
+> Recordset filter criteria and the filtered records.
 
 # ConnectApi.RecordsetFilterCriteria
 
@@ -23,3 +26,9 @@ Recordset filter criteria and the filtered records.
 #### See Also
 
 -   [ConnectApi.RecordsetFilterCriteriaCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordset_filter_criteria_collection.htm "List of the recordset filters and records.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.RecordsetFilterCriteriaCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordset_filter_criteria_collection.htm)

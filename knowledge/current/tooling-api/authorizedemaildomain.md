@@ -5,11 +5,15 @@ topic: authorizedemaildomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.288Z
-keywords: [AuthorizedEmailDomain, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:44.742Z
+estimatedTokens: 1217
+keywords: [AuthorizedEmailDomain, Represents, authorized, domain, email, verification., API, version, 64.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules, Fields, Usage]
 ---
 
 # AuthorizedEmailDomain
+
+> Represents an authorized domain for email verification. This
+      object is available in API version 64.0 and later.
 
 # AuthorizedEmailDomain
 
@@ -76,3 +80,17 @@ If a DNS TXT record already exists for DomainName and \_sfdv.DomainName, you can
 Changes to DNS can take up to 48 hours to propagate across the internet.
 
 To start the domain verification process after the required DNS TXT record exists, set IsDomainOwnershipVerified to true. If that verification process succeeds, IsDomainOwnershipVerified remains true. Otherwise, an error is returned and IsDomainOwnershipVerified is set to false.
+
+## Code Examples
+
+```
+Name                TTL  CLASS  TYPE     VALUE
+-------------------------------------------------------------------- 
+example.com.        600  IN     TXT      "00D000000000P08=1TB00000000000B”
+```
+
+```
+Name                TTL  CLASS  TYPE     VALUE
+-------------------------------------------------------------------- 
+_sfdv.example.com.  600  IN     TXT      "00D000000000P08=1TB00000000000B”
+```

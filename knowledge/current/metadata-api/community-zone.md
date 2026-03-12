@@ -5,11 +5,17 @@ topic: community-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.179Z
-keywords: [Community, Zone, Note, File, Suffix, Directory, Location, Version, Fields, ReputationLevels, ChatterAnswersReputationLevel, IdeaReputationLevel, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.795Z
+estimatedTokens: 1476
+keywords: [Community, Zone, Represents, zone, contains, Ideas, Chatter, Answers, objects., Zones, shared, features, allowing, view, create, zones, those, locations.This, extends, Metadata]
 ---
 
 # Community (Zone)
+
+> Represents a zone that contains Ideas or Chatter Answers
+            objects. Zones are shared by the Ideas, Answers, and Chatter Answers features, allowing
+            you to view and create zones from those locations.This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # Community (Zone)
 
@@ -93,3 +99,62 @@ The following is the definition of a community (zone) component:
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Community xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <communityFeedPage>communityWithHeaderAndFooter_main</communityFeedPage>
+    <description>Metadata Test</description>
+    <emailFooterDocument>sampleFolder/emailFooter.html</emailFooterDocument>
+    <emailHeaderDocument>sampleFolder/emailHeader.html</emailHeaderDocument>
+    <enableChatterAnswers>true</enableChatterAnswers>
+    <enablePrivateQuestions>true</enablePrivateQuestions>
+    <expertsGroup>CommunityExperts</expertsGroup>
+    <portal>Customer Portal</portal>
+    <emailNotificationUrl>http://yourURL</emailNotificationUrl>
+<reputationLevels>
+        <chatterAnswersReputationLevels>
+            <name>Newbie</name>
+            <value>0</value>
+        </chatterAnswersReputationLevels>
+        <chatterAnswersReputationLevels>
+            <name>Smartie</name>
+            <value>500</value>
+        </chatterAnswersReputationLevels>
+        <chatterAnswersReputationLevels>
+            <name>Pro</name>
+            <value>2000</value>
+        </chatterAnswersReputationLevels>
+        <chatterAnswersReputationLevels>
+            <name>All Star</name>
+            <value>5000</value>
+        </chatterAnswersReputationLevels>
+        <ideaReputationLevels>
+            <name>Observer</name>
+            <value>0</value>
+        </ideaReputationLevels>
+        <ideaReputationLevels>
+            <name>Contributor</name>
+            <value>100</value>
+        </ideaReputationLevels>
+        <ideaReputationLevels>
+            <name>Influencer</name>
+            <value>400</value>
+        </ideaReputationLevels>
+        <ideaReputationLevels>
+            <name>Thought Leader</name>
+            <value>1500</value>
+        </ideaReputationLevels>
+    </reputationLevels>
+    <showInPortal>true</showInPortal>
+    <site>ChatterAnswersSite</site>
+</Community>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

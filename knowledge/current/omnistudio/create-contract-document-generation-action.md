@@ -5,11 +5,14 @@ topic: create-contract-document-generation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.422Z
-keywords: [Create, Contract, Document, Generation, Action, Supported, REST, HTTP, Methods, Inputs, Output, Usage]
+lastCollected: 2026-03-12T05:14:47.271Z
+estimatedTokens: 303
+keywords: [Create, Contract, Document, Generation, Action, contract, specified, record., Supported, REST, HTTP, Inputs, Output, Usage]
 ---
 
 # Create Contract Document Generation Action
+
+> Create a contract for a specified record.
 
 # Create Contract Document Generation Action
 
@@ -66,4 +69,23 @@ This sample response is for the Create Contract Document Generation action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "sourceRecordId": "13ZSB0000000OYxxAM",
+  "contractRecordType": "ContractLifecycleManagement",
+  "documentTemplateName": "SAMPLE_LoanApprovalTemplate",
+  "isCreateContractDocument": true
+}
+```
+
+```
+{
+  "contractId": [
+    "800SB00000KLbHxxA1"
+  ]
+}
 ```

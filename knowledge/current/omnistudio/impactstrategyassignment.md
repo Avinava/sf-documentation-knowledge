@@ -5,11 +5,16 @@ topic: impactstrategyassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.247Z
-keywords: [ImpactStrategyAssignment, Important, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:52.816Z
+estimatedTokens: 647
+keywords: [ImpactStrategyAssignment, Represents, connection, between, impact, strategy, outcome, related, strategy., API, version, 59.0, later., Important, Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # ImpactStrategyAssignment
+
+> Represents the connection between the impact strategy and the outcome
+         or other object related to the impact strategy. This object is available in API
+      version 59.0 and later.
 
 # ImpactStrategyAssignment
 
@@ -19,7 +24,7 @@ Represents the connection between the impact strategy and the outcome or other o
 
 #### Important
 
-Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations. 
+Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
 ## Supported Calls
 

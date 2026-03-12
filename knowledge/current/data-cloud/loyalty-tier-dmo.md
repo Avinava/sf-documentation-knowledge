@@ -5,11 +5,16 @@ topic: loyalty-tier-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.617Z
-keywords: [Loyalty, Tier, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.372Z
+estimatedTokens: 569
+keywords: [Loyalty, Tier, DMO, Data, Cloud, data, model, level, loyalty, program, where, member, benefits, increase, higher, levels, hierarchy., API, Name, Category]
 ---
 
 # Loyalty Tier DMO
+
+> The Loyalty Tier DMO is a Data Cloud data model object
+      (DMO) for a level of a loyalty program where member benefits increase at 
+      higher levels of the hierarchy.
 
 # Loyalty Tier DMO
 

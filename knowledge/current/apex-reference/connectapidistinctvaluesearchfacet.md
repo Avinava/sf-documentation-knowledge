@@ -5,11 +5,14 @@ topic: connectapidistinctvaluesearchfacet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.597Z
-keywords: [ConnectApi.DistinctValueSearchFacet]
+lastCollected: 2026-03-12T05:14:27.057Z
+estimatedTokens: 119
+keywords: [ConnectApi.DistinctValueSearchFacet, Facet, distinct, values, product, search, results.]
 ---
 
 # ConnectApi.DistinctValueSearchFacet
+
+> Facet with distinct values in product search results.
 
 # ConnectApi.DistinctValueSearchFacet
 
@@ -20,3 +23,9 @@ This class is a subclass of [ConnectApi.SearchFacet](atlas.en-us.apexref.meta/ap
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | values | List<ConnectApi.​DistinctFacetValue> | Values of the facet found in the search result. Sorted by display name in alphabetical order. | 52.0 |
+
+## Related Topics
+
+- ConnectApi.SearchFacet (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_facet.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​DistinctFacetValue (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_distinct_facet_value.htm)

@@ -5,11 +5,16 @@ topic: recordpagesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.296Z
-keywords: [RecordPageSettings, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition, Example, Package, Manifest, Wildcard, Support, See]
+lastCollected: 2026-03-12T05:14:42.258Z
+estimatedTokens: 762
+keywords: [RecordPageSettings, Represents, org’s, record, page, settings., extends, Metadata, metadata, inherits, its, fullName, field., Declarative, File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # RecordPageSettings
+
+> Represents an org’s record page settings.
+        This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # RecordPageSettings
 
@@ -56,3 +61,31 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 #### See Also
 
 -   [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordPageSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableDynamicForms>true</enableDynamicForms>
+    <enableActivityRelatedList>true</enableActivityRelatedList>
+    <enableFullRecordView>true</enableFullRecordView>
+</RecordPageSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>RecordPage</members>
+        <name>Settings</name>
+    </types>
+    <version>47.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

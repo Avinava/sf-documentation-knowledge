@@ -5,11 +5,15 @@ topic: searchable-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.822Z
-keywords: [Searchable, Criteria]
+lastCollected: 2026-03-12T05:14:50.723Z
+estimatedTokens: 231
+keywords: [Searchable, Criteria, Output, representation, filter, returned, part, search, configuration, metadata.]
 ---
 
 # Searchable Criteria
+
+> Output representation of the filter that is returned as part of the
+      search configuration metadata.
 
 # Searchable Criteria
 

@@ -5,11 +5,16 @@ topic: aiusecasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.448Z
-keywords: [AIUsecaseDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, AIUsecaseFieldMapping, AIUsecaseModel, AIFeatureExtractor, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:36.771Z
+estimatedTokens: 2860
+keywords: [AIUsecaseDefinition, Represents, collection, fields, Salesforce, org, used, define, machine, learning, case, get, real-time, predictions., Important, Parent, File, Suffix, Directory, Location]
 ---
 
 # AIUsecaseDefinition
+
+> Represents a collection of fields in your Salesforce org
+			used to define a machine learning use case and get real-time
+		predictions.
 
 # AIUsecaseDefinition
 
@@ -121,3 +126,156 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AIUsecaseDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aiUsecaseFieldMappings>
+        <developerName>DevNamee1</developerName>
+        <mappedFieldName>Name</mappedFieldName>
+        <mappedFieldType>INSIGHT</mappedFieldType>
+        <masterLabel>DevName</masterLabel>
+        <responseFieldName>AnnualRevenue</responseFieldName>
+        <responseObject>Lead</responseObject>
+        <sequenceNumber>2</sequenceNumber>
+    </aiUsecaseFieldMappings>
+    <aiUsecaseFieldMappings>
+        <developerName>DevNamee2</developerName>
+        <mappedFieldName>Value</mappedFieldName>
+        <mappedFieldType>INSIGHT</mappedFieldType>
+        <masterLabel>DevName</masterLabel>
+        <responseFieldName>Id</responseFieldName>
+        <responseObject>Account</responseObject>
+        <sequenceNumber>2</sequenceNumber>
+    </aiUsecaseFieldMappings>
+    <aiUsecaseFieldMappings>
+        <developerName>DevNamee3</developerName>
+        <mappedFieldName>Score</mappedFieldName>
+        <mappedFieldType>PREDICTION_SCORE</mappedFieldType>
+        <masterLabel>DevName</masterLabel>
+        <responseFieldName>Company</responseFieldName>
+        <responseObject>Lead</responseObject>
+    </aiUsecaseFieldMappings>
+    <aiUsecaseFieldMappings>
+        <developerName>DevNamee4</developerName>
+        <mappedFieldName>RecordId</mappedFieldName>
+        <mappedFieldType>SECONDARY_RESPONSE_RECORD_ID</mappedFieldType>
+        <masterLabel>DevName</masterLabel>
+        <responseFieldName>Address</responseFieldName>
+        <responseObject>Lead</responseObject>
+        <joinFieldInformation>joinFieldInformation</joinFieldInformation>
+    </aiUsecaseFieldMappings>
+    <aiUsecaseFieldMappings>
+        <developerName>DevName5</developerName>
+        <mappedFieldName>DevName4</mappedFieldName>
+        <mappedFieldType>PREDICTION_SCORE_INPUT</mappedFieldType>
+        <masterLabel>DevName</masterLabel>
+        <responseFieldName>Address</responseFieldName>
+        <responseObject>Lead_Dmo</responseObject>
+        <joinFieldInformation>{"recordIdField":"Value2","recordIdObject":"Value1","recordJoinRelation":"Value3"}</joinFieldInformation>
+    </aiUsecaseFieldMappings>
+    <aiUsecaseFieldMappings>
+        <developerName>DevName6</developerName>
+        <mappedFieldName>DevName5</mappedFieldName>
+        <mappedFieldType>PREDICTION_SCORE_INPUT</mappedFieldType>
+        <masterLabel>DevName</masterLabel>
+        <responseFieldName>Address</responseFieldName>
+        <responseObject>Lead_Dmo</responseObject>
+        <joinFieldInformation>{"recordIdField":"Value2","recordIdObject":"Value1","recordJoinRelation":"Value3"}</joinFieldInformation>
+        <additionalFieldInformation>{"customPredictionAttributes":[{"id":1,"fieldLabel":"Label 1","sourceField":"Total_Spend_c__c"},{"id":2,"fieldLabel":"Label 2","sourceField":"Predicted_Churned2_recommendation_impact__c"}]}</additionalFieldInformation>
+        <customPredictionLabel>%%SCORE%%</customPredictionLabel>
+    </aiUsecaseFieldMappings>
+    <aiUsecaseModels>
+        <aiFeatureExtractors>
+            <className>01pxx0000004X2CAAU</className>
+            <extractorType>APEX</extractorType>
+            <developerName>DevNamee2</developerName>
+            <masterLabel>DevName</masterLabel>
+            <featureInputType>Realtime_Input</featureInputType>
+            <inputContext>"{columnNames=[column1, column2], rawData=[S, 315090]}"</inputContext>
+            <batchInputSourceIdentifier>DatasetName</batchInputSourceIdentifier>
+            <batchInputSourceType>CRMA</batchInputSourceType>
+            <batchInputSourceInformation>{"streamingTransformName":"SDT_Name","recordIdField":"fieldname","featureFieldsMapping":{"feature1":"field1","feature2":"field2"},"streaminTransformLabel":"SDT_Label","batchInputSourceLabel":"DMO_Label"}</batchInputSourceInformation>
+        </aiFeatureExtractors>
+        <defaultFeatureExtractor>
+            <className>01pxx0000004X0aAAE</className>
+            <extractorType>APEX</extractorType>
+            <developerName>DevNamee1</developerName>
+            <masterLabel>DevName</masterLabel>
+            <featureInputType>Realtime_Input</featureInputType>
+            <inputContext>"{columnNames=[column1, column2], rawData=[S, 315090]}"</inputContext>
+            <batchInputSourceIdentifier>DatasetName</batchInputSourceIdentifier>
+            <batchInputSourceType>CRMA</batchInputSourceType>
+            <batchInputSourceInformation>{"streamingTransformName":"SDT_Name","recordIdField":"fieldname","featureFieldsMapping":{"feature1":"field1","feature2":"field2"},"streaminTransformLabel":"SDT_Label","batchInputSourceLabel":"DMO_Label"}</batchInputSourceInformation>
+        </defaultFeatureExtractor>
+        <developerName>DevNamee1</developerName>
+        <masterLabel>DevName</masterLabel>
+        <predictionDefinition>PredictionDefinitionD</predictionDefinition>
+        <predictionPlatform>Einstein_Discovery</predictionPlatform>
+        <arePredctGenInRealTime>true</arePredctGenInRealTime>
+    </aiUsecaseModels>
+    <aiUsecaseModels>
+        <developerName>DevNamee2</developerName>
+        <masterLabel>DevName</masterLabel>
+        <predictionDefinition>PredictionDefinitionBA</predictionDefinition>
+        <predictionPlatform>Einstein_Discovery</predictionPlatform>
+        <arePredctGenInRealTime>true</arePredctGenInRealTime>
+    </aiUsecaseModels>
+    <aiUsecaseModels>
+        <developerName>DevNamee3</developerName>
+        <masterLabel>DevName</masterLabel>
+        <predictionDefinition>PredictionDefinitionCA</predictionDefinition>
+        <predictionPlatform>Einstein_Discovery</predictionPlatform>
+        <arePredctGenInRealTime>true</arePredctGenInRealTime>
+    </aiUsecaseModels>
+    <aiUsecaseModels>
+        <developerName>DevName4</developerName>
+        <masterLabel>DevName</masterLabel>
+        <predictionDefinition>Model1</predictionDefinition>
+        <predictionPlatform>Data_Cloud</predictionPlatform>
+        <arePredctGenInRealTime>false</arePredctGenInRealTime>
+    </aiUsecaseModels>
+    <aiUsecaseModels>
+        <developerName>DevName5</developerName>
+        <masterLabel>DevName</masterLabel>
+        <predictionDefinition>Model1</predictionDefinition>
+        <predictionPlatform>Einstein_on_Data_Cloud</predictionPlatform>
+        <arePredctGenInRealTime>false</arePredctGenInRealTime>
+    </aiUsecaseModels>
+    <masterLabel>DevName</masterLabel>
+    <maximumInsightCount>3</maximumInsightCount>
+    <maximumSuggestionCount>3</maximumSuggestionCount>
+    <maximumRecommendationCount>3</maximumRecommendationCount>
+    <primaryResponseObject>Lead</primaryResponseObject>
+    <secondaryResponseObject>Account</secondaryResponseObject>
+    <recommendationResponseObject>Contact</recommendationResponseObject>
+    <shouldSaveFeatures>true</shouldSaveFeatures>
+    <shouldSaveInsights>true</shouldSaveInsights>
+    <shouldSaveRecommendation>false</shouldSaveRecommendation>
+    <shouldSaveRequestResponse>false</shouldSaveRequestResponse>
+    <shouldSaveScore>true</shouldSaveScore>
+    <shouldSaveSuggestions>true</shouldSaveSuggestions>
+    <suggestionImpactMinimumPct>50</suggestionImpactMinimumPct>
+    <usecaseName>FTestSampleMLUsecase</usecaseName>
+    <recommendationSource>Next_Best_Action_Flow</recommendationSource>
+    <creatorType>INTERNAL_USER</creatorType>
+</AIUsecaseDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>*AIUsecaseDefinition*</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

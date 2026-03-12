@@ -5,11 +5,14 @@ topic: metadata-api-edit-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.538Z
-keywords: [Metadata, API, Edit, Access]
+lastCollected: 2026-03-12T05:14:41.142Z
+estimatedTokens: 430
+keywords: [Metadata, API, Edit, Access, user, must, things.]
 ---
 
 # Metadata API Edit Access
+
+> To use Metadata API, a user must have these things.
 
 # Metadata API Edit Access
 

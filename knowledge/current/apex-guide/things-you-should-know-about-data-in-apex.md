@@ -5,11 +5,17 @@ topic: things-you-should-know-about-data-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.094Z
-keywords: [Things, Should, Know, Data, Apex, Note]
+lastCollected: 2026-03-12T05:14:34.727Z
+estimatedTokens: 2131
+keywords: [Things, Should, Know, Data, Apex, upsert, statement, consists, two, operations, inserting, records, updating, records., subject, runtime, limits, insert, update, respectively.]
 ---
 
 # Things You Should Know about Data in Apex
+
+> Each upsert statement consists of two operations, one for inserting records and
+            one for updating records. Each of these operations is subject to the runtime limits for
+              insert and update, respectively. For example, if you upsert more than 10,000 records
+            and all o
 
 # Things You Should Know about Data in Apex
 
@@ -100,3 +106,36 @@ As a workaround, cast the input array to the DML statement from an array of FAQ\
 ```
 
 ```
+
+## Code Examples
+
+```
+account1, account2, contact1, contact2, contact3, case1, account3, account4, contact4
+```
+
+```apex
+public class KnowledgeAccess {
+ 
+  public void doNothing() {
+  }
+  
+  public void DMLOperation() {  
+    FAQ__kav[] articles = [SELECT Id FROM FAQ__kav WHERE PublishStatus = 'Draft' and Language = 'en_US'];
+    update articles;
+  }
+ 
+}
+```
+
+```apex
+public void DMLOperation() {  
+    FAQ__kav[] articles = [SELECT id FROM FAQ__kav WHERE PublishStatus = 'Draft' and Language = 'en_US'];
+    update (sObject[]) articles;
+}
+```
+
+## Related Topics
+
+- sObjects That Don’t Support DML Operations (atlas.en-us.apexcode.meta/apexcode/apex_dml_non_dml_objects.htm)
+- Lists (atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_lists.htm)
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)

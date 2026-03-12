@@ -5,11 +5,14 @@ topic: testing-metadata-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.363Z
-keywords: [Testing, Metadata, Deployments]
+lastCollected: 2026-03-12T05:14:33.720Z
+estimatedTokens: 263
+keywords: [Testing, Metadata, Deployments, Apex, code, accesses, metadata, must, properly, tested.]
 ---
 
 # Testing Metadata Deployments
+
+> Apex code that accesses metadata must be properly tested.
 
 # Testing Metadata Deployments
 
@@ -25,4 +28,16 @@ When creating a test instance of DeployCallbackContext, subclass DeployCallbackC
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+// DeployCallbackContext subclass for testing that returns myJobId
+public class TestingDeployCallbackContext extends Metadata.DeployCallbackContext {
+  private Id myJobId = '000000000000000000'; // replace value with a job ID that you can use for testing
+  public override Id getCallbackJobId() {
+    return myJobId;
+  }
+}
 ```

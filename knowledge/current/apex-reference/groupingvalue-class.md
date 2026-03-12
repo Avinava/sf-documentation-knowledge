@@ -4,15 +4,76 @@ domain: apex-reference
 topic: groupingvalue-class
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:42:35.856Z
-keywords: [GroupingValue, Class, Returns, value, field, used, row, column, grouping., getValue, Syntax, Return, Value, Usage]
+docType: api-reference
+lastCollected: 2026-03-12T05:14:23.054Z
+estimatedTokens: 932
+namespace: Reports
+keywords: [GroupingValue, Contains, grouping, values, row, column, including, key, label, value., getGroupings, Syntax, getKey, getLabel, getValue, Usage]
 ---
 
 # GroupingValue Class
 
-> Returns the value of the field that is used as a row or
-column grouping.
+> Contains grouping values for a row or column, including
+the key, label, and value.
+
+**Namespace:** `Reports`
+
+# GroupingValue Class
+
+Contains grouping values for a row or column, including the key, label, and value.
+
+## Namespace
+
+[Reports](atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm "The Reports namespace provides classes for accessing the same data as is available in the Salesforce Reports and Dashboards REST API.")
+
+## GroupingValue Methods
+
+The following are methods for GroupingValue. All are instance methods.
+
+-   **[getGroupings()](atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm#apex_Reports_GroupingValue_getGroupings)**
+    Returns a list of second- or third-level row or column groupings. If there are none, the value is an empty array.
+-   **[getKey()](atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm#apex_Reports_GroupingValue_getKey)**
+    Returns the unique identifier for a row or column grouping. The identifier is used by the fact map to specify data values within each grouping.
+-   **[getLabel()](atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm#apex_Reports_GroupingValue_getLabel)**
+    Returns the localized display name of a row or column grouping. For date and time fields, the label is the localized date or time.
+-   **[getValue()](atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm#apex_Reports_GroupingValue_getValue)**
+    Returns the value of the field that is used as a row or column grouping.
+
+### getGroupings()
+
+Returns a list of second- or third-level row or column groupings. If there are none, the value is an empty array.
+
+#### Syntax
+
+public LIST<Reports.GroupingValue> getGroupings()
+
+#### Return Value
+
+Type: [List](atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm#apex_methods_system_list "Contains methods for the List collection type.")<[Reports.GroupingValue](#apex_class_reports_groupingvalue "Contains grouping values for a row or column, including the key, label, and value.")\>
+
+### getKey()
+
+Returns the unique identifier for a row or column grouping. The identifier is used by the fact map to specify data values within each grouping.
+
+#### Syntax
+
+public String getKey()
+
+#### Return Value
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+### getLabel()
+
+Returns the localized display name of a row or column grouping. For date and time fields, the label is the localized date or time.
+
+#### Syntax
+
+public String getLabel()
+
+#### Return Value
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
 
 ### getValue()
 
@@ -38,3 +99,13 @@ The value depends on the field’s data type.
 -   Record type fields: API name.
 -   Date and time fields: Date or time in ISO-8601 format.
 -   Lookup fields: Unique API name. For example, for the Opportunity Owner lookup field, the ID of each opportunity owner’s Chatter profile page can be a grouping value.
+
+## Related Topics
+
+- Reports (atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm)
+- getGroupings() (atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm)
+- getKey() (atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm)
+- getLabel() (atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm)
+- getValue() (atlas.en-us.apexref.meta/apexref/apex_class_reports_groupingvalue.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

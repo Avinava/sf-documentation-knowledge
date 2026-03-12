@@ -5,11 +5,16 @@ topic: timeslot-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.144Z
-keywords: [TimeSlot, Custom, Fields, Supported, Calls, Special, Access, Rules, See]
+lastCollected: 2026-03-12T05:14:55.371Z
+estimatedTokens: 462
+keywords: [TimeSlot, Custom, Fields, fields, associated, period, time, specified, day, week, during, which, field, service, work, performed, Field, Service., Operating, hours]
 ---
 
 # TimeSlot Custom Fields
+
+> Custom fields associated with a period of time on a specified day of the week
+         during which field service work can be performed in Field Service. Operating hours consist
+         of one or more time slots.
 
 # TimeSlot Custom Fields
 

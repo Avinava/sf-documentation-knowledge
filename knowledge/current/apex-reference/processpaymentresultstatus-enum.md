@@ -5,11 +5,14 @@ topic: processpaymentresultstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.407Z
-keywords: [ProcessPaymentResultStatus, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.527Z
+estimatedTokens: 98
+keywords: [ProcessPaymentResultStatus, Represents, status, payment, processing, result., Values]
 ---
 
 # ProcessPaymentResultStatus Enum
+
+> Represents the status of a payment processing result.
 
 # ProcessPaymentResultStatus Enum
 

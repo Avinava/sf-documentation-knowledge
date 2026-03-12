@@ -5,11 +5,15 @@ topic: decision-matrix-lookup-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.589Z
-keywords: [Decision, Matrix, Lookup, POST]
+lastCollected: 2026-03-12T05:14:48.876Z
+estimatedTokens: 260
+keywords: [Decision, Matrix, Lookup, POST, Performs, lookup, decision, matrix, rows, based, input, values, provided, row’s, output.]
 ---
 
 # Decision Matrix Lookup (POST)
+
+> Performs a lookup on decision matrix rows based on the input values
+      provided, and returns the row’s output.
 
 # Decision Matrix Lookup (POST)
 
@@ -59,3 +63,46 @@ Properties
 Response body for POST
 
 [Decision Matrix Lookup Result](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_bre_decision_matrix_lookup_result.htm "Output representation of the individual output of a decision matrix version lookup.")
+
+## Code Examples
+
+```
+/connect/business-rules/decision-matrices/${matrixName}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/business-rules/decision-matrices/InsurancePremium
+```
+
+```
+{
+  "inputs": [
+    {
+      "input": [
+        {
+          "name": "Premium",
+          "value": "2400"
+        }
+      ]
+    },
+    {
+      "input": [
+        {
+          "name": "Tenure",
+          "value": "10"
+        }
+      ]
+    }
+  ],
+  "options": {
+    "effectiveDate": "2022-12-03T10:15:30Z"
+  }
+}
+```
+
+## Related Topics
+
+- Decision Matrix Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_matrix_input.htm)
+- Decision Matrix Options Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_matrix_options.htm)
+- Decision Matrix Lookup Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_bre_decision_matrix_lookup_result.htm)

@@ -4,12 +4,15 @@ domain: apex-guide
 topic: http-classes
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.637Z
-keywords: [HTTP, Classes, Considerations]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.687Z
+estimatedTokens: 1171
+keywords: [HTTP, Classes, classes, expose, request, response, functionality., Considerations]
 ---
 
 # HTTP Classes
+
+> These classes expose the HTTP request and response functionality.
 
 # HTTP Classes
 
@@ -58,3 +61,57 @@ Use the [XML classes](atlas.en-us.apexcode.meta/apexcode/apex_xml_dom.htm "Apex 
 -   Callouts are blocked if you have pending uncommitted transactions from DML operations, queueable jobs (that are queued with System.enqueueJob), Database.executeBatch, or future methods.
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing.htm "Testing HTTP Callouts")
+
+## Code Examples
+
+```apex
+public class HttpCalloutSample {
+
+  // Pass in the endpoint to be used using the string url
+  public String getCalloutResponseContents(String url) {
+
+    // Instantiate a new Http object
+    Http h = new Http();
+
+     // Instantiate a new HTTP request, specify the method (GET) as well as the endpoint
+    HttpRequest req = new HttpRequest();
+    req.setEndpoint(url);
+    req.setMethod('GET');
+
+    // Send the request, and return a response
+    HttpResponse res = h.send(req);
+    return res.getBody();
+  }
+}
+```
+
+```apex
+public class HttpPostCalloutSample {
+
+  // Pass in the endpoint to be used using the string url
+  public String getPostCalloutResponseContents(String url) {
+
+    // Instantiate a new Http object
+    Http h = new Http();
+
+    // Instantiate a new HTTP request
+    // Specify request properties such as the endpoint, the POST method, etc. 
+    HttpRequest req = new HttpRequest();
+    req.setEndpoint(url);
+    req.setMethod('POST');
+    req.setHeader('Content-Type', 'application/json');
+    req.setBody('{Your_JSON_Content}');
+
+    // Send the request, and return a response
+    HttpResponse res = h.send(req);
+    return res.getBody();
+  }
+}
+```
+
+## Related Topics
+
+- @future annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm)
+- XML classes (atlas.en-us.apexcode.meta/apexcode/apex_xml_dom.htm)
+- JSON classes (atlas.en-us.apexcode.meta/apexcode/apex_methods_system_json_overview.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing.htm)

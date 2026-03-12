@@ -5,11 +5,17 @@ topic: setcustomconsolecomponentwindowvisible
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.700Z
-keywords: [setCustomConsoleComponentWindowVisible, Note, Syntax, Arguments, Sample, Code–Visualforce, Response]
+lastCollected: 2026-03-12T05:14:58.448Z
+estimatedTokens: 398
+keywords: [setCustomConsoleComponentWindowVisible, window, visibility, application-level, custom, console, component, that’s, page., API, versions, 25.0, through, 31.0., isn’t, supported, Lightning, Console., Note, Syntax]
 ---
 
 # setCustomConsoleComponentWindowVisible()
+
+> Sets the window visibility of an
+            application-level custom console component that’s on a page. This method is
+        available in API versions 25.0 through 31.0. This method isn’t supported in Lightning
+        Console.
 
 # setCustomConsoleComponentWindowVisible()
 
@@ -45,3 +51,29 @@ If this method is called from a popped out component in a Salesforce console whe
 | Name | Type | Description |
 | --- | --- | --- |
 | success | boolean | true if setting the button window visibility was successful; false if setting the button window visibility wasn't successful. |
+
+## Code Examples
+
+```
+sforce.console.setCustomConsoleComponentWindowVisible(visible:Boolean, (optional)callback:Function)
+```
+
+```
+<apex:page>
+
+    <A HREF="#" onClick="testSetCustomConsoleComponentWindowVisible();return false">
+         Click here to make the custom console component window visible</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testSetCustomConsoleComponentWindowVisible() {
+        //Make the custom console component window visible
+            sforce.console.setCustomConsoleComponentWindowVisible(true);
+        }
+    </script>
+</apex:page>
+```
+
+## Related Topics
+
+- setCustomConsoleComponentVisible() (atlas.en-us.api_console.meta/api_console/sforce_api_console_setcustomconsolecomponentvisible.htm)

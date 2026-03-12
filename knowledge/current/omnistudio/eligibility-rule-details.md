@@ -5,11 +5,15 @@ topic: eligibility-rule-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:09.369Z
-keywords: [Eligibility, Rule, Details]
+lastCollected: 2026-03-12T05:14:50.090Z
+estimatedTokens: 707
+keywords: [Eligibility, Rule, Details, Output, representation, eligibility, rule, details, qualification, disqualification, decision, tables.]
 ---
 
 # Eligibility Rule Details
+
+> Output representation of eligibility rule details for qualification or disqualification
+    decision tables.
 
 # Eligibility Rule Details
 
@@ -43,3 +47,102 @@ JSON example
 | sourceType | String | Type of data source that's used to create a decision table. Valid values are:SingleSobjectMultipleSobjectsCSV Upload | Small, 66.0 | 66.0 |
 | status | String | Status of the decision table. Valid values are:ActiveInactiveDraftActivationInProgress | Small, 66.0 | 66.0 |
 | usageType | String | Type of industry or the application that's using a decision table. Valid values are:ProductQualificationProductCategoryQualificationNone | Small, 66.0 | 66.0 |
+
+## Code Examples
+
+```
+{
+  "message": "Records fetched successfully",
+  "status": "success",
+  "qualificationDecisionTableDetails": [
+    {
+      "conditionCriteria": "1 AND 2 AND 3",
+      "conditionType": "All",
+      "createdDate": "2025-09-10T08:30:00Z",
+      "decisionTableId": "0lDZ80000004CAN",
+      "decisionTableName": "ProductQualificationDT",
+      "description": "Product Qualification Decision Table",
+      "hasIncrementalSyncFailed": false,
+      "isIncrementalSyncEnabled": true,
+      "lastIncrementalSyncDate": "2025-09-15T06:10:00Z",
+      "lastModifiedDate": "2025-09-14T12:45:00Z",
+      "lastSyncDate": "2025-09-15T06:10:00Z",
+      "refreshFailureReason": null,
+      "refreshStatus": "Queued",
+      "rowLevelOverrideType": "None",
+      "sourceObject": "ProductQualification",
+      "sourceType": "SingleSobject",
+      "status": "Active",
+      "usageType": "ProductQualification",
+      "sourceCriteria": [
+        {
+          "sourceFieldName": "Country__c",
+          "operator": "Equals",
+          "valueType": "Literal",
+          "value": "USA",
+          "sequence": 1
+        }
+      ],
+      "parameters": [
+        {
+          "columnMapping": "ProductId",
+          "dataType": "String",
+          "fieldName": "ProductId",
+          "isRequired": true,
+          "operator": "Equals",
+          "sequence": 1,
+          "targetLookupObject": "Product2",
+          "usage": "Input"
+        }
+      ]
+    }
+  ],
+  "disQualificationDecisionTableDetails": [
+    {
+      "conditionCriteria": "1 OR 2",
+      "conditionType": "Any",
+      "createdDate": "2025-09-05T09:15:00Z",
+      "decisionTableId": "0lDZ80000005XYZ",
+      "decisionTableName": "ProductDisQualificationDT",
+      "description": "Product Disqualification Decision Table",
+      "hasIncrementalSyncFailed": false,
+      "isIncrementalSyncEnabled": true,
+      "lastIncrementalSyncDate": "2025-09-15T06:20:00Z",
+      "lastModifiedDate": "2025-09-13T10:30:00Z",
+      "lastSyncDate": "2025-09-15T06:20:00Z",
+      "refreshFailureReason": null,
+      "refreshStatus": "Queued",
+      "rowLevelOverrideType": "None",
+      "sourceObject": "ProductDisQualification",
+      "sourceType": "SingleSobject",
+      "status": "Active",
+      "usageType": "ProductDisQualification",
+      "sourceCriteria": [
+        {
+          "sourceFieldName": "Status__c",
+          "operator": "Equals",
+          "valueType": "PickList",
+          "value": "Inactive",
+          "sequence": 1
+        }
+      ],
+      "parameters": [
+        {
+          "columnMapping": "ProductId",
+          "dataType": "String",
+          "fieldName": "ProductId",
+          "isRequired": true,
+          "operator": "Equals",
+          "sequence": 1,
+          "usage": "Input"
+        }
+      ]
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Eligibility Rule Parameter (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_eligibility_rule_parameter.htm)
+- Decision Table Source Criteria (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_table_source_criteria_output.htm)

@@ -5,11 +5,18 @@ topic: embeddedservicecustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.685Z
-keywords: [EmbeddedServiceCustomization, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.249Z
+estimatedTokens: 303
+keywords: [EmbeddedServiceCustomization, Represents, mapping, between, record, parent, EmbeddedServiceConfiguration, EmbeddedServiceMenuSettings, set, Embedded, Service, resources., resource, customizations, applied, via, uploaded, Chat., API, version]
 ---
 
 # EmbeddedServiceCustomization
+
+> Represents a mapping between the EmbeddedServiceCustomization record parent
+         and the EmbeddedServiceConfiguration or EmbeddedServiceMenuSettings, for a set of Embedded
+         Service resources. Each resource is set of customizations applied via an uploaded static
+         resource for your Embedded Chat. This object is available in API version 52.0 and
+      later.
 
 # EmbeddedServiceCustomization
 

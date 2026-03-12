@@ -5,11 +5,17 @@ topic: permissionsetgroupcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.488Z
-keywords: [PermissionSetGroupComponent, Supported, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.414Z
+estimatedTokens: 326
+keywords: [PermissionSetGroupComponent, junction, relates, PermissionSetGroup, PermissionSet, objects, via, their, respective, IDs, enables, permission, set, group, recalculation, determine, aggregated, permissions, group., Tooling]
 ---
 
 # PermissionSetGroupComponent
+
+> A junction object that relates the PermissionSetGroup and
+            PermissionSet objects via their respective IDs; enables permission set group
+            recalculation to determine the aggregated permissions for the group. Available in
+        Tooling API version 45.0 and later.
 
 # PermissionSetGroupComponent
 

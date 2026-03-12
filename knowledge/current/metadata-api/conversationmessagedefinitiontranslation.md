@@ -5,11 +5,16 @@ topic: conversationmessagedefinitiontranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:51.365Z
-keywords: [ConversationMessageDefinitionTranslation, Note, Parent, Type, Version, Fields, ConversationMessageConstantValueTranslation, Usage, Example]
+lastCollected: 2026-03-12T05:14:38.077Z
+estimatedTokens: 629
+keywords: [ConversationMessageDefinitionTranslation, Represents, translated, labels, constant, values, conversation, message, definitions, Enhanced, Messaging, In-App, Web., Note, Parent, Version, Fields, ConversationMessageConstantValueTranslation, Usage, Example]
 ---
 
 # ConversationMessageDefinitionTranslation
+
+> Represents translated labels and constant
+      values for conversation message definitions in Enhanced Messaging and Messaging for In-App and
+      Web.
 
 # ConversationMessageDefinitionTranslation
 
@@ -53,3 +58,25 @@ This complex type is used within ConversationMessageDefinition to provide transl
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ConversationMessageDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Welcome_Message</fullName>
+    <label>Welcome Message</label>
+    <conversationMessageDefinitionTranslations>
+        <constantValueTranslations>
+            <name>greeting_text</name>
+            <value>Bienvenido</value>
+        </constantValueTranslations>
+        <label>Mensaje de Bienvenida</label>
+        <name>Welcome_Message</name>
+    </conversationMessageDefinitionTranslations>
+</ConversationMessageDefinition>
+```
+
+## Related Topics
+
+- ConversationMessageDefinition (atlas.en-us.api_meta.meta/api_meta/meta_conversationmessagedefinition.htm)

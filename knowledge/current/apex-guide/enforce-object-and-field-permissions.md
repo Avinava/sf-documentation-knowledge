@@ -4,12 +4,20 @@ domain: apex-guide
 topic: enforce-object-and-field-permissions
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.629Z
-keywords: [Enforce, Object, Field, Permissions, User, Mode, Check, Field-Level, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.674Z
+estimatedTokens: 1272
+keywords: [Enforce, Field, Permissions, Apex, generally, runs, system, context, current, user's, permissions, field-level, security, FLS, aren’t, taken, account, during, code, execution.]
 ---
 
 # Enforce Object and Field Permissions
+
+> Apex generally runs in system context, so the current user's permissions and
+        field-level security (FLS) aren’t taken into account during code execution. To
+        enforce the FLS and object permissions of the current user, you can enforce user mode for
+        database operations and SOQL queries. You can also check the current user's permissions for
+        an object or a field, and then perform a specific DML operation or a query only if the user
+        has sufficient permissions.
 
 # Enforce Object and Field Permissions
 
@@ -60,3 +68,33 @@ To check the object-level permission for the contact before deleting the contact
 #### See Also
 
 -   [*Salesforce Help*: Set Up Your Users’ Object, User, and Field Permissions](https://help.salesforce.com/s/articleView?id=platform.security_data_access_mgmt.htm&type=5&language=en_US)
+
+## Code Examples
+
+```
+if (Schema.sObjectType.Contact.fields.Email.isUpdateable()) {
+    // Update contact
+}
+```
+
+```
+if (Schema.sObjectType.Contact.fields.Email.isCreateable()) {
+    // Create new contact
+}
+```
+
+```
+if (Schema.sObjectType.Contact.fields.Email.isAccessible()) {
+    Contact c = [SELECT Email FROM Contact WHERE Id= :Id];
+}
+```
+
+```
+if (Schema.sObjectType.Contact.isDeletable()) {
+    // Delete contact
+}
+```
+
+## Related Topics
+
+- Use the with sharing, without sharing, and inherited sharing Keywords (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_sharing.htm)

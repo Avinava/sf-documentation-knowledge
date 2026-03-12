@@ -5,11 +5,19 @@ topic: safely-upgrade-packages-from-developer-and-subscriber-perspectives
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.336Z
-keywords: [Safely, Upgrade, Packages, Developer, Subscriber, Perspectives, Package, Publishes, Version, 1.0, Adds, Functionality, Overriding, Method, Releases, 2.0, Implements, Subscriber’s, Custom, Upgrades]
+lastCollected: 2026-03-12T05:14:33.683Z
+estimatedTokens: 3049
+namespace: CustomCart
+keywords: [Safely, Upgrade, Packages, Developer, Subscriber, Perspectives, how, upgrade, managed, package, safely, through, extended, example., actions, developers, subscribers, take, ensure, smooth]
 ---
 
 # Safely Upgrade Packages from Developer and Subscriber Perspectives
+
+> Learn how to upgrade a managed package safely through this extended example. See the
+  actions that package developers and subscribers can take to ensure a smooth transition and
+  safeguard the backwards compatibility of existing integrations.
+
+**Namespace:** `CustomCart`
 
 # Safely Upgrade Packages from Developer and Subscriber Perspectives
 
@@ -129,5 +137,153 @@ The extended example demonstrates that the package developer and package subscri
 #### See Also
 
 -   [Develop and Distribute Apex for Managed Packages](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_chapter.htm "As an independent software vendor (ISV) or Salesforce partner, you can distribute Apex code to customer orgs by using managed packages. For first-generation managed packages (1GP) and migrated second-generation managed packages (2GP), use versioning to evolve components of your managed package gracefully without breaking existing customer integrations. Understand how global Apex in managed packages behaves and learn how to develop global Apex in managed packages specifically for agents.")
-    
+
 -   [Use Apex Referenced by Managed Packages](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_intro.htm "Learn how to use managed Apex effectively as a managed package subscriber.")
+
+## Code Examples
+
+```apex
+/**
+ * CustomCart
+ * Simple container for item prices used in a managed package context.
+ * @version 1.0
+ * @since 1.0
+ */
+global with sharing class CustomCart {
+
+    global List<Decimal> itemPrices;
+
+    global CustomCart() {
+        this.itemPrices = new List<Decimal>{0.0};
+    }
+}
+```
+
+```apex
+/**
+ * CartCalculator
+ * Handles tasks about calculating items and prices in customer carts.
+ * @version 1.0
+ * @since 1.0
+ */
+global virtual class CartCalculator {
+    /**
+     * Adds item prices in a custom cart.
+     * @param c A CustomCart object that represents a list of items that the customer 
+     * wants to buy
+     * @return A Decimal object that represents the total price of items in the
+     * cart
+     * @version 1.0
+     * @since 1.0
+     */
+    global virtual Decimal getTotalPrice(CustomCart c) {
+        Decimal price = 0.0;
+        // Add up items in cart
+        for (Decimal itemPrice : c.itemPrices) {
+            price += itemPrice;
+        }
+        return price;
+    }
+}
+```
+
+```apex
+// Package Subscriber - CartCalculatorWithShipping.cls
+
+/**
+* Handles tasks about calculating items and prices in customer carts,
+* including shipping costs.
+*/
+public with sharing class CartCalculatorWithShipping extends eshop.CartCalculator {
+
+    /**
+    * Adds item prices in a cart and adds the shipping cost to the total price.
+    * @param c A CustomCart object that represents a list of items that the customer 
+    * wants to buy
+    * @return A Decimal object that represents the total price of items in the
+    * cart, including the shipping cost 
+    */
+    public override Decimal getTotalPrice(eshop.CustomCart c) {
+        return super.getTotalPrice(c) + getShippingCost(c);
+    }
+
+    /**
+    * Get the shipping cost based on the items in a customer's cart
+    * @param c A CustomCart object that represents a list of items that the customer 
+    * wants to buy
+    * @return A Decimal object that represents the total shipping cost
+    * for the cart
+    */ 
+    public Decimal getShippingCost(eshop.CustomCart c) {
+      // Flat rate shipping
+      return 20.0;
+    }
+
+}
+```
+
+```apex
+// Package Developer - CartCalculator.cls 
+
+/**
+* Handles tasks about calculating items and prices in customer carts.
+* @version 2.0
+* @since 1.0
+*/
+global virtual class CartCalculator {
+    /**
+    * Adds item prices in a cart, including the shipping cost
+    * @param c A CustomCart object that represents a list of items that the customer 
+    * wants to buy
+    * @return A Decimal object that represents the total price of items in the
+    * cart, including the total shipping cost
+    * @version 2.0
+    * @since 1.0
+    */ 
+    global virtual Decimal getTotalPrice(CustomCart c) {
+        Decimal price = 0.0;
+        // Add up items in cart
+        for (Decimal itemPrice : c.itemPrices) {
+        price += itemPrice;
+    }
+    return price + getShippingCost(c);
+  }
+
+    /**
+    * Get the shipping cost based on the items in a customer's cart
+    * @param c A CustomCart object that represents a list of items that the customer 
+    * wants to buy
+    * @return A Decimal object that represents the total shipping cost
+    * for the cart
+    * @version 2.0
+    * @since 2.0
+    */ 
+    global virtual Decimal getShippingCost(CustomCart c) {
+        // Flat rate shipping
+        return 20.0;
+    }
+}
+```
+
+```
+<!-- CartCalculatorWithShipping.cls-meta.xml -->
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>66.0</apiVersion>
+    <status>Active</status>
+    <packageVersions>
+        <namespace>eshop</namespace> <!-- For only 1GP  -->
+        <majorNumber>1</majorNumber>
+        <minorNumber>0</minorNumber>
+    </packageVersions>
+</ApexClass>
+```
+
+## Related Topics
+
+- Set Package Versions for Apex Classes and
+          Triggers (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm)
+- Set Package Versions for Apex Classes
+                    and Triggers (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm)
+- Version Apex in Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_package_versions.htm)
+- Develop and Distribute Apex for Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_chapter.htm)
+- Use Apex Referenced by Managed Packages (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_intro.htm)

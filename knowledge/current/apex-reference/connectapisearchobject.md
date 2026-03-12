@@ -5,11 +5,14 @@ topic: connectapisearchobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.992Z
-keywords: [ConnectApi.SearchObject, See]
+lastCollected: 2026-03-12T05:14:28.970Z
+estimatedTokens: 328
+keywords: [ConnectApi.SearchObject, Record, results, keyword, search.]
 ---
 
 # ConnectApi.SearchObject
+
+> Record results for the keyword search.
 
 # ConnectApi.SearchObject
 
@@ -28,7 +31,20 @@ Record results for the keyword search.
 #### See Also
 
 -   [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
-    
+
 -   [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
-    
+
 -   [ConnectApi.ScopedSearchResults](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scoped_search_result.htm "Keyword search results for an object.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​SearchApplied​OrderBy (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_applied_order_b.htm)
+- ConnectApi.​PageInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_page_inf.htm)
+- ConnectApi.​SearchResult (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_resul.htm)
+- ConnectApi.​SpellCorrection​Info (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_spell_correction_inf.htm)
+- ConnectApi.​SearchStatus (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_statu.htm)
+- ConnectApi.SearchResultGroups (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm)
+- ConnectApi.SearchAnswer (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm)
+- ConnectApi.ScopedSearchResults (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scoped_search_result.htm)

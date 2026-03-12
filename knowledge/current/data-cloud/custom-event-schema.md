@@ -5,11 +5,16 @@ topic: custom-event-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.238Z
-keywords: [Custom, Event, Schema]
+lastCollected: 2026-03-12T05:14:12.194Z
+estimatedTokens: 517
+keywords: [Custom, Event, Schema, event, data, models, provided, Engagement, Mobile, SDK, cart, catalog, order, unified, model, across, Salesforce., create, capture, custom]
 ---
 
 # Custom Event Schema
+
+> Use the event data models provided by the Engagement Mobile SDK for cart event, catalog
+    event, and order event to use the unified data model across Salesforce. You can create and
+    capture a custom event.
 
 # Custom Event Schema
 
@@ -35,3 +40,99 @@ If eventType isn’t provided but name is then eventType defaults to the value o
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+  "masterLabel": "CustomEvent",  
+  "developerName": "Custom Event",  
+  "category": "Engagement",  
+  "externalDataTranFields": [
+    {
+      "masterLabel": "category",     
+      "developerName": "category",      
+      "dataType": "Text",      
+      "isDataRequired": true    
+    },    
+    {
+      "masterLabel": "channel",      
+      "developerName": "channel",      
+      "dataType": "Text",      
+      "isDataRequired": false    
+    },    
+    {
+      "masterLabel": "dateTime",      
+      "developerName": "dateTime",      
+      "dataType": "DateTime",      
+      "isDataRequired": true    
+    },    
+    {
+      "masterLabel": "deviceId",      
+      "developerName": "deviceId",      
+      "dataType": "Text",      
+      "isDataRequired": true,      
+      "primaryIndexOrder": 1    
+    },    
+    {
+      "masterLabel": "eventId",      
+      "developerName": "eventId",      
+      "dataType": "Text",      
+      "isDataRequired": true    
+    },    
+    {
+      "masterLabel": "eventType",      
+      "developerName": "eventType",      
+      "dataType": "Text",      
+      "isDataRequired": true    
+    },    
+    {
+      "masterLabel": "latitude",      
+      "developerName": "latitude",      
+      "dataType": "Number",      
+      "isDataRequired": false    
+    },    
+    {
+      "masterLabel": "longitude",      
+      "developerName": "longitude",      
+      "dataType": "Number",      
+      "isDataRequired": false    
+    },        
+    {
+      "masterLabel": "sessionId",      
+      "developerName": "sessionId",      
+      "dataType": "Text",      
+      "isDataRequired": true    
+    },
+    {
+      "masterLabel": "giftMessage",      
+      "developerName": "giftMessage",      
+      "dataType": "Text",      
+      "isDataRequired": false   
+    },
+    {
+      "masterLabel": "giftWrap",      
+      "developerName": "giftWrap",      
+      "dataType": "Text",      
+      "isDataRequired": false   
+    },
+    {
+      "masterLabel": "giftWrapOptionsPaperColor",      
+      "developerName": "giftOptionsPaperColor",      
+      "dataType": "Text",      
+      "isDataRequired": false   
+    },
+    {
+      "masterLabel": "giftWrapOptionsRibbon",      
+      "developerName": "giftOptionsRibbon",      
+      "dataType": "bool",      
+      "isDataRequired": false   
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Custom Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_custom_event.htm)
+- Location Tracking (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_location_tracking.htm)

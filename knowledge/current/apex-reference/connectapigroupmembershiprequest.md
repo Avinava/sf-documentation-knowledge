@@ -5,11 +5,14 @@ topic: connectapigroupmembershiprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.976Z
-keywords: [ConnectApi.GroupMembershipRequest, See]
+lastCollected: 2026-03-12T05:14:27.566Z
+estimatedTokens: 318
+keywords: [ConnectApi.GroupMembershipRequest, Request, become, group, member.]
 ---
 
 # ConnectApi.GroupMembershipRequest
+
+> Request to become a group member.
 
 # ConnectApi.GroupMembershipRequest
 
@@ -29,3 +32,11 @@ Request to become a group member.
 #### See Also
 
 -   [ConnectApi.GroupMembershipRequests](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_group_membership_requests.htm "Requests to become group members.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​​Reference (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_reference.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)
+- ConnectApi.GroupMembershipRequests (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_group_membership_requests.htm)

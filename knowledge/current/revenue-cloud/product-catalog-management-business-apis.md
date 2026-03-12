@@ -5,11 +5,15 @@ topic: product-catalog-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.592Z
-keywords: [Product, Catalog, Management, Business, APIs, See]
+lastCollected: 2026-03-12T05:14:08.985Z
+estimatedTokens: 803
+keywords: [Product, Catalog, Management, Business, APIs, primitive, serve, catalog, definitions, users, applications.]
 ---
 
 # Product Catalog Management Business APIs
+
+> Use primitive APIs of Product Catalog Management that serve catalog definitions to
+        users or applications.
 
 # Product Catalog Management Business APIs
 
@@ -36,13 +40,26 @@ This table lists the available Product Catalog Management resources.
 | /connect/pcm/unit-of-measure/info (GET) | Get details about the unit of measure for a specific set of records. |
 | /connect/pcm/unit-of-measure/rounded-data (POST) | Round off and scale decimal data for a specific set of fields. |
 
--   **[Resources](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_catalog_management_api_resources.htm)**  
+-   **[Resources](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_catalog_management_api_resources.htm)**
     Learn more about the available Product Catalog Management API resources.
--   **[Request Bodies](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_catalog_management_api_requests.htm)**  
+-   **[Request Bodies](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_catalog_management_api_requests.htm)**
     Learn more about the available Product Catalog Management API request bodies.
--   **[Response Bodies](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_catalog_management_api_responses.htm)**  
+-   **[Response Bodies](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_catalog_management_api_responses.htm)**
     Learn more about the available Product Catalog Management API response bodies.
 
 #### See Also
 
 -   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.260.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
+
+## Related Topics
+
+- /connect/pcm/catalogs (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_catalogs.htm)
+- /connect/pcm/catalogs/catalogId (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_catalogs_by_ID.htm)
+- /connect/pcm/catalogs/catalogId/categories (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_categories.htm)
+- /connect/pcm/categories/categoryId (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_category_by_ID.htm)
+- /connect/pcm/products (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_products.htm)
+- /connect/pcm/products/productId (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_get_product_by_ID.htm)
+- /connect/pcm/products/bulk (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_product_catalog_bulk_product_details.htm)
+- /connect/pcm/index/configurations (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_index_configuration.htm)
+- /connect/pcm/relatedRecords/entityName (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_related_records.htm)
+- /connect/pcm/index/snapshots (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_snapshot_get.htm)

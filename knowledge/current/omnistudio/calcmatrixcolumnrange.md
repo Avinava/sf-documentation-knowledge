@@ -5,11 +5,16 @@ topic: calcmatrixcolumnrange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.734Z
-keywords: [CalcMatrixColumnRange, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:53.634Z
+estimatedTokens: 355
+keywords: [CalcMatrixColumnRange, Represents, information, decision, matrix, column, number, range, text, range., API, version, 59.0, later., Supported, Calls, Fields]
 ---
 
 # CalcMatrixColumnRange
+
+> Represents information about a value in a decision matrix column when
+         the column is of the type number range or text range. This object is available in API
+      version 59.0 and later.
 
 # CalcMatrixColumnRange
 

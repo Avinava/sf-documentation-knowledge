@@ -5,11 +5,16 @@ topic: apex-email-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:46.547Z
-keywords: [Apex, Email, Service]
+lastCollected: 2026-03-12T05:14:32.559Z
+estimatedTokens: 714
+keywords: [Apex, Email, Service, email, services, process, contents, headers, attachments, inbound, email., example, create, service, automatically, creates, contact, records, based, information]
 ---
 
 # Apex Email Service
+
+> You can use email services to process the contents, headers, and attachments of
+        inbound email. For example, you can create an email service that automatically creates
+        contact records based on contact information in messages.
 
 # Apex Email Service
 
@@ -26,13 +31,13 @@ To use email services, from Setup, enter Email Services in the Quick Find box, t
 -   Select an existing email service to view its configuration, activate or deactivate it, and view or specify addresses for that email service.
 -   Click **Edit** to make changes to an existing email service.
 -   Click **Delete** to delete an email service.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Before deleting email services, you must delete all associated email service addresses.
-    
+
 
 When defining email services, note the following:
 
@@ -44,3 +49,8 @@ When defining email services, note the following:
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_rest.htm "Exposing Apex Classes as REST Web Services")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_email_inbound_using.htm "Using the InboundEmail Object")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_rest.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_email_inbound_using.htm)

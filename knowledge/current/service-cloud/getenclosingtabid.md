@@ -5,11 +5,17 @@ topic: getenclosingtabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.019Z
-keywords: [getEnclosingTabId, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:57.457Z
+estimatedTokens: 279
+keywords: [getEnclosingTabId, tab, contains, current, Visualforce, page, which, may, primary, subtab., work, call, made, within, component, enclosed, only, API, version, 20.0]
 ---
 
 # getEnclosingTabId()
+
+> Returns the ID of the tab that contains the current
+                Visualforce page, which may be a
+            primary tab or subtab. This method will work if the call is made within a component
+            enclosed within a subtab. This method is only available in API version 20.0 or later.
 
 # getEnclosingTabId()
 
@@ -46,3 +52,30 @@ This method is asynchronous, so it returns its response in an object in a callba
 | Name | Type | Description |
 | --- | --- | --- |
 | id | string | The ID of the current primary tab or subtab. |
+
+## Code Examples
+
+```
+sforce.console.getEnclosingTabId()
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testCloseTab();return false">
+        Click here to close this tab</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testCloseTab() {
+            //First find the ID of the current tab to close it
+            sforce.console.getEnclosingTabId(closeSubtab);
+        }
+        
+        var closeSubtab = function closeSubtab(result) {
+            //Now that we have the tab ID, we can close it
+            var tabId = result.id;
+            sforce.console.closeTab(tabId);
+        };
+    </script>
+</apex:page>
+```

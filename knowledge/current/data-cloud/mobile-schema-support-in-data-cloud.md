@@ -5,11 +5,15 @@ topic: mobile-schema-support-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.267Z
-keywords: [Mobile, Schema, Support, Data, Cloud, Translating, SDK, Events, Connector, Schemas, Automatic, Population, Module, Engagement, Fields, Field, Naming, Rules]
+lastCollected: 2026-03-12T05:14:12.229Z
+estimatedTokens: 1832
+keywords: [Mobile, Schema, Support, Data, Cloud, unified, data, model, across, Salesforce, recommended, Connector, configuring, Connector., Translating, SDK, Events, Schemas, Automatic, Population]
 ---
 
 # Mobile Schema Support in Data Cloud
+
+> To use a unified data model across Salesforce, we recommended using the Mobile
+    Connector Schema when configuring a Mobile Connector.
 
 # Mobile Schema Support in Data Cloud
 
@@ -67,9 +71,30 @@ In order for events to be properly ingested, the data format used with a Data Cl
 -   CamelCase: Field names constructed using snake case or all capitalized, the field name is transformed to camel case and the casing is normalized. For instance, the field name PROMO\_CODE is referenced in the schema as promoCode.
 -   Special Characters and Extra Spacing: Field names consist of extra spacing or special characters are removed. For instance, the field name special #size's is transformed to specialSizes.
 -   Nested Properties: The schema names for nested attribute arrays are attribute is constructed using the parent child relationship. For instance, the schema name paperColor giftWrapOptionsPaperColor.
-    
+
     ```
-    
+
     ```
-    
+
 -   Array Values: If an array is a simple string array such as "list": \["aaa", "bbb"\], the schema name references the particular elements in numeric order. For instance, "list0": "aaa", "list1": "bbb".
+
+## Code Examples
+
+```
+"giftWrapOptions": {
+    "paperColor": "green"
+}
+```
+
+## Related Topics
+
+- Cart Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_cart_schema.htm)
+- Catalog Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_catalog_schema.htm)
+- Order Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_order_schema.htm)
+- Custom Event Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_custom_event_schema.htm)
+- Consent Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_consent_schema.htm)
+- Behavior Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_behavior_schema.htm)
+- Contact Point Email Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_contact_point_email_schema.htm)
+- Contact Point Phone Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_contact_point_phone_schema.htm)
+- Contact Point Address Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_contact_point_address_schema.htm)
+- Party Identification Schema (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_party_identification_schema.htm)

@@ -5,11 +5,16 @@ topic: connectapitrackedchangebundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.138Z
-keywords: [ConnectApi.TrackedChangeBundleCapability]
+lastCollected: 2026-03-12T05:14:29.184Z
+estimatedTokens: 158
+keywords: [ConnectApi.TrackedChangeBundleCapability, feed, element, capability, group, elements, aggregated, called, bundle., bundle, aggregates, tracked, changes.]
 ---
 
 # ConnectApi.TrackedChangeBundleCapability
+
+> If a feed element has this capability, it has a group of other feed
+   elements aggregated into one feed element called a bundle. This type of bundle
+   aggregates feed tracked changes.
 
 # ConnectApi.TrackedChangeBundleCapability
 
@@ -20,3 +25,9 @@ Subclass of [ConnectApi.BundleCapability](atlas.en-us.apexref.meta/apexref/apex_
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | changes | List<ConnectApi.​TrackedChangeItem> | Collection of feed tracked changes. | 31.0 |
+
+## Related Topics
+
+- ConnectApi.BundleCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_bundle_capability.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​TrackedChangeItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_TrackedChangeItem.htm)

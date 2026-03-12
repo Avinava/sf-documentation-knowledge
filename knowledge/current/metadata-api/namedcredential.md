@@ -5,11 +5,19 @@ topic: namedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.677Z
-keywords: [NamedCredential, Note, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, NamedCredentialParameter, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:41.335Z
+estimatedTokens: 4248
+namespace: AllowedManagedPackageNamespaces
+keywords: [NamedCredential, Represents, named, credential, which, specifies, URL, callout, endpoint, its, required, authentication, definition., specified, simplify, setup, authenticated, callouts., Note, Parent]
 ---
 
 # NamedCredential
+
+> Represents a named credential, which specifies the URL of a callout endpoint and its
+		required authentication parameters in one definition. A named credential can be specified as
+		an endpoint to simplify the setup of authenticated callouts.
+
+**Namespace:** `AllowedManagedPackageNamespaces`
 
 # NamedCredential
 
@@ -114,17 +122,63 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [ExternalCredential](atlas.en-us.api_meta.meta/api_meta/meta_externalcredential.htm "Represents the details of how Salesforce authenticates to the external system.")
-    
+
 -   [*Salesforce Help*: Named Credentials](https://help.salesforce.com/s/articleView?id=xcloud.named_credentials_about.htm&type=5&language=en_US "Salesforce Help: Named Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Get Started with Named Credentials](https://developer.salesforce.com/docs/platform/named-credentials/guide/get-started.html "Named Credentials Developer Guide: Get Started with
     Named Credentials - HTML (New Window)")
-    
+
 -   [*Named Credentials Developer Guide*: Named Credential API Links](https://developer.salesforce.com/docs/platform/named-credentials/references/named-credentials-reference/nc-api-links.html "Named Credentials Developer Guide: Named Credential
     API Links - HTML (New Window)")
-    
+
 -   [*Apex Developer Guide*: Invoking Callouts Using Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts.htm " Apex Developer Guide: Invoking Callouts Using
     Apex - html (New Window)")
-    
+
 -   [*Apex Developer Guide*: Named Credentials as Callout Endpoints](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts_named_credentials.htm " Apex Developer Guide: Named Credentials as Callout
     Endpoints - HTML (New Window)")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<NamedCredential xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>SampleNamedCredential</label>
+    <namedCredentialType>SecuredEndpoint</namedCredentialType>
+    <namedCredentialParameters>
+        <description>IAM Endpoint</description>
+        <parameterName>DefaultEndpoint</parameterName>
+        <parameterType>Url</parameterType>
+        <parameterValue>https://iam.amazonaws.com/</parameterValue>
+    </namedCredentialParameters>
+    <namedCredentialParameters>
+        <description>AWS Auth</description>
+        <parameterName>DefaultAuth</parameterName>
+        <parameterType>Authentication</parameterType>
+        <externalCredential>SampleExternalCredential</externalCredential>
+    </namedCredentialParameters>
+    <namedCredentialParameters>
+        <description>Cert</description>
+        <parameterName>DefaultCert</parameterName>
+        <parameterType>ClientCertificate</parameterType>
+        <certificate>MyCertificate</certificate>
+    </namedCredentialParameters>
+    <allowMergeFieldsInBody>true</allowMergeFieldsInBody>
+    <allowMergeFieldsInHeader>true</allowMergeFieldsInHeader>
+    <generateAuthorizationHeader>true</generateAuthorizationHeader>
+</NamedCredential>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>NamedCredential</name>
+    </types>
+    <version>56.0</version>
+</Package>
+```
+
+## Related Topics
+
+- ExternalCredential (atlas.en-us.api_meta.meta/api_meta/meta_externalcredential.htm)

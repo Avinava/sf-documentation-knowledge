@@ -5,11 +5,17 @@ topic: wavetemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.327Z
-keywords: [WaveTemplateBundle, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.913Z
+estimatedTokens: 686
+keywords: [WaveTemplateBundle, Represents, Analytics, template, bundle, which, used, create, apps., contains, definition, its, related, resources.This, extends, Metadata, metadata, inherits, fullName, field.]
 ---
 
 # WaveTemplateBundle
+
+> Represents an Analytics template bundle, which can be
+      used to create Analytics apps. A bundle contains an Analytics template definition and all its
+      related resources.This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # WaveTemplateBundle
 
@@ -50,3 +56,20 @@ Definitions can be created in both managed and unmanaged packages.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+waveTemplates
+    template1
+        template-info.json 
+        variables.json 
+        ui.json 
+        extFiles
+            PostalCodes.csv
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

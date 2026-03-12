@@ -5,11 +5,15 @@ topic: sharingrecalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.571Z
-keywords: [SharingRecalculation, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:36.921Z
+estimatedTokens: 325
+keywords: [SharingRecalculation, Represents, Apex, classes, recalculate, managed, sharing, specific, custom, object., Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
 
 # SharingRecalculation
+
+> Represents Apex classes that recalculate the
+            Apex managed sharing for a specific custom object.
 
 # SharingRecalculation
 
@@ -39,3 +43,21 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 -   [← Previous](atlas.en-us.api_meta.meta/api_meta/meta_apexsharingreason.htm "SharingReason")
 -   [Next →](atlas.en-us.api_meta.meta/api_meta/meta_validationformulas.htm "ValidationRule")
+
+## Code Examples
+
+```
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+. . .
+    <sharingRecalculations>
+        <className>RecruiterRecalculation</className>
+    </sharingRecalculations>
+ . . .
+</CustomObject>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_apexsharingreason.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/meta_validationformulas.htm)

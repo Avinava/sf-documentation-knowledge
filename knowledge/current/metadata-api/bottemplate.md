@@ -5,11 +5,15 @@ topic: bottemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.851Z
-keywords: [BotTemplate, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.327Z
+estimatedTokens: 1079
+keywords: [BotTemplate, Represents, configuration, details, specific, Einstein, Bot, template, including, dialogs, variables., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # BotTemplate
+
+> Represents the configuration details for a specific Einstein Bot
+			template, including dialogs and variables.
 
 # BotTemplate
 
@@ -77,3 +81,206 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<BotTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <botDialogGroups>
+        <developerName>dialog_group1</developerName>
+        <label>dialog group1</label>
+    </botDialogGroups>
+    <botDialogs>
+        <developerName>Test_Dialog_1</developerName>
+        <label>Test_Dialog_1</label>
+        <showInFooterMenu>false</showInFooterMenu>
+    </botDialogs>
+    <botDialogs>
+        <developerName>Test_Dialog_2</developerName>
+        <label>Test_Dialog_2</label>
+        <showInFooterMenu>false</showInFooterMenu>
+    </botDialogs>
+    <botDialogs>
+        <botSteps>
+            <botMessages>
+                <message>Hi! I&apos;m your helpful bot.</message>
+                <messageIdentifier>m1</messageIdentifier>
+            </botMessages>
+            <stepIdentifier>s1</stepIdentifier>
+            <type>Message</type>
+        </botSteps>
+        <botSteps>
+           <conversationRecordLookup>
+               <SObjectType>Account</SObjectType>
+               <conditions>
+                   <leftOperand>Account.Phone</leftOperand>
+                   <operatorType>Equal</operatorType>
+                   <rightOperandValue>Value</rightOperandValue>
+                   <sortOrder>0</sortOrder>
+               </conditions>
+               <lookupFields>
+                   <fieldName>Account.Phone</fieldName>
+               </lookupFields>
+               <lookupFields>
+                   <fieldName>Account.OwnerId</fieldName>
+               </lookupFields>
+               <maxLookupResults>1</maxLookupResults>
+               <sourceVariableName>_LastCustomerInput</sourceVariableName>
+               <sourceVariableType>ConversationVariable</sourceVariableType>
+               <targetVariableName>MyCustomVariable</targetVariableName>
+           </conversationRecordLookup>
+           <stepIdentifier>s2</stepIdentifier>
+           <type>RecordLookup</type>
+        </botSteps>
+        <botSteps>
+            <botNavigation>
+                <botNavigationLinks>
+                    <targetBotDialog>Main_Menu</targetBotDialog>
+                </botNavigationLinks>
+                <type>Redirect</type>
+            </botNavigation>
+            <stepIdentifier>s3</stepIdentifier>
+            <type>Navigation</type>
+        </botSteps>
+        <developerName>Welcome</developerName>
+        <label>Welcome</label>
+        <mlIntent>Welcome</mlIntent>
+        <showInFooterMenu>false</showInFooterMenu>
+    </botDialogs>
+    <botDialogs>
+        <botSteps>
+            <stepIdentifier>s4</stepIdentifier>
+            <type>Wait</type>
+        </botSteps>
+        <developerName>Main_Menu</developerName>
+        <label>Main Menu</label>
+        <mlIntent>Main_Menu</mlIntent>
+        <showInFooterMenu>false</showInFooterMenu>
+    </botDialogs>
+    <botDialogs>
+        <botSteps>
+            <botMessages>
+                <message>Goodbye! Click the &quot;End Chat&quot; button to end this chat</message>
+                <messageIdentifier>m2</messageIdentifier>
+            </botMessages>
+            <stepIdentifier>s6</stepIdentifier>
+            <type>Message</type>
+        </botSteps>
+        <botSteps>
+            <stepIdentifier>s7</stepIdentifier>
+            <type>Wait</type>
+        </botSteps>
+        <developerName>End_Chat</developerName>
+        <label>End Chat</label>
+        <mlIntent>End_Chat</mlIntent>
+        <showInFooterMenu>false</showInFooterMenu>
+    </botDialogs>
+    <botDialogs>
+        <botSteps>
+            <botMessages>
+                <message>Unfortunately, there are no agents available at the moment</message>
+                <messageIdentifier>m3</messageIdentifier>
+            </botMessages>
+            <stepIdentifier>s8</stepIdentifier>
+            <type>Message</type>
+        </botSteps>
+        <botSteps>
+            <stepIdentifier>s9</stepIdentifier>
+            <type>Wait</type>
+        </botSteps>
+        <developerName>No_Agent_Available</developerName>
+        <label>No Agent</label>
+        <showInFooterMenu>false</showInFooterMenu>
+    </botDialogs>
+    <contextVariables>
+        <contextVariableMappings>
+            <SObjectType>LiveChatTranscript</SObjectType>
+            <fieldName>LiveChatTranscript.ChatKey</fieldName>
+            <messageType>WebChat</messageType>
+        </contextVariableMappings>
+        <dataType>Text</dataType>
+        <developerName>ChatKey</developerName>
+        <label>Chat Key</label>
+    </contextVariables>
+    <conversationLanguages>en_US</conversationLanguages>
+    <conversationSystemDialogs>
+        <dialog>No_Agent_Available</dialog>
+        <type>TransferFailed</type>
+    </conversationSystemDialogs>
+    <conversationSystemDialogs>
+        <dialog>Test_Dialog_1</dialog>
+        <type>ErrorHandling</type>
+    </conversationSystemDialogs>
+    <conversationVariables>
+        <dataType>Text</dataType>
+        <developerName>TestVariableXYZ</developerName>
+        <label>TestVariableXYZ</label>
+    </conversationVariables>
+    <conversationVariables>
+        <collectionType>List</collectionType>
+        <dataType>Object</dataType>
+        <developerName>MyCustomVariable</developerName>
+        <label>MyCustomVariable</label>
+    </conversationVariables>
+    <description>Description of BotTemplate</description>
+    <entryDialog>Test_Dialog_1</entryDialog>
+    <icon>AA8qwqXXXXX</icon>
+    <mainMenuDialog>Test_Dialog_2</mainMenuDialog>
+    <masterLabel>Astro Bot</masterLabel>
+    <mlDomain>
+        <label>Astro Bot</label>
+        <mlIntents>
+            <developerName>End_Chat</developerName>
+            <label>End Chat</label>
+            <mlIntentUtterances>
+                <utterance>Utterance1</utterance>
+                <language>es</language>
+            </mlIntentUtterances>
+            <mlIntentUtterances>
+                <utterance>Utterance2</utterance>
+                <language>es</language>
+            </mlIntentUtterances>
+            <mlIntentUtterances>
+                <utterance>Utterance3</utterance>
+                <language>es</language>
+            </mlIntentUtterances>
+        </mlIntents>
+        <mlIntents>
+            <developerName>Main_Menu</developerName>
+            <label>Main Menu</label>
+            <description>Main Menu Intent</description>
+        </mlIntents>
+        <mlIntents>
+            <developerName>Welcome</developerName>
+            <label>Welcome</label>
+            <description>Welcome Intent</description>
+        </mlIntents>
+        <name>Astro_Bot_ld1</name>
+    </mlDomain>
+    <richContentEnabled>true</richContentEnabled>
+</BotTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>BotTemplate</name>
+    </types>
+    <version>55.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- BotDialogGroup[] (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- BotDialog[] (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- ConversationContextVariable[] (atlas.en-us.api_meta.meta/api_meta/meta_bot.htm)
+- ConversationDefinitionGoal[] (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- ConversationSystemDialog[] (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- ConversationVariable[] (atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm)
+- LocalMlDomain (atlas.en-us.api_meta.meta/api_meta/meta_bot.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

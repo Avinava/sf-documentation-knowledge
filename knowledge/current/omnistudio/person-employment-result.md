@@ -5,11 +5,14 @@ topic: person-employment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.724Z
-keywords: [Person, Employment, Result]
+lastCollected: 2026-03-12T05:14:50.561Z
+estimatedTokens: 551
+keywords: [Person, Employment, Result, Output, representation, person, employment, result.]
 ---
 
 # Person Employment Result
+
+> Output representation of the person employment result.
 
 # Person Employment Result
 
@@ -39,3 +42,9 @@ Output representation of the person employment result.
 | startDate | String | Start date of employment at this job. | Small, 61.0 | 61.0 |
 | weeklyHourCount | Integer | Number of hours per week that the party works for the employer. | Small, 61.0 | 61.0 |
 | workerType | String | Worker type for the party that's employed. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Address
+                Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_address_result.htm)

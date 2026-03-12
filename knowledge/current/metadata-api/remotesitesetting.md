@@ -5,11 +5,17 @@ topic: remotesitesetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.332Z
-keywords: [RemoteSiteSetting, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, Sample, Definition]
+lastCollected: 2026-03-12T05:14:42.315Z
+estimatedTokens: 760
+keywords: [RemoteSiteSetting, Represents, remote, site, setting., Before, any, Visualforce, page, Apex, callout, JavaScript, code, XmlHttpRequest, s-control, custom, button, call, external, must]
 ---
 
 # RemoteSiteSetting
+
+> Represents a remote site setting. Before any 
+        Visualforce page, Apex callout, or JavaScript code using XmlHttpRequest in an s-control or 
+        custom button can call an external site, that site must be registered in the Remote Site 
+        Settings page, or the call fails.
 
 # RemoteSiteSetting
 
@@ -42,3 +48,20 @@ A sample XML definition of a remote site setting is shown in this code block.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RemoteSiteSetting xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Used for Apex callout to mapping web service</description>
+    <disableProtocolSecurity>false</disableProtocolSecurity>
+    <isActive>true</isActive>
+    <url>https://www.maptestsite.net/mapping1</url>
+</RemoteSiteSetting>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)

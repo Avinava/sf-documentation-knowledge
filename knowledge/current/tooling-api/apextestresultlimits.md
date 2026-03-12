@@ -5,11 +5,16 @@ topic: apextestresultlimits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.243Z
-keywords: [ApexTestResultLimits, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.682Z
+estimatedTokens: 684
+keywords: [ApexTestResultLimits, Captures, Apex, test, limits, used, particular, execution., instance, associated, ApexTestResult, object., API, version, 37.0, later., Supported, SOAP, Calls, REST]
 ---
 
 # ApexTestResultLimits
+
+> Captures the Apex test limits used for a particular test method
+   execution. An instance of this object is associated with each ApexTestResult object.
+  Available from API version 37.0 or later.
 
 # ApexTestResultLimits
 

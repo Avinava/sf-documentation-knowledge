@@ -5,11 +5,14 @@ topic: prompt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.130Z
-keywords: [Prompt, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Prompts, Walkthroughs, Managed, Packages, Fields, PromptVersion, UiFormulaRule, UiFormulaCriterion]
+lastCollected: 2026-03-12T05:14:41.993Z
+estimatedTokens: 3758
+keywords: [Prompt, Represents, metadata, related, in-app, guidance, which, includes, prompts, walkthroughs., Help, users, discover, products, services, adopt, processes, how, new, feature.]
 ---
 
 # Prompt
+
+> Represents the metadata related to in-app guidance, which includes prompts and walkthroughs. Help users discover your products and services, adopt your processes, or learn how to use a new feature. Write the content, select the target audience, and specify where and when the in-app guidance appears.
 
 # Prompt
 
@@ -139,3 +142,82 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Prompt xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Prompt Label</masterLabel>
+    <promptVersions>
+        <actionButtonLabel>Learn How</actionButtonLabel>
+        <actionButtonLink>https://trailhead.salesforce.com/en/content/learn/modules/scrum-and-kanban-at-salesforce/learn-about-kanban</actionButtonLink>
+        <body>Explore how the Path and the Kanban view can help you track, manage, and update your records.</body>
+        <delayDays>1</delayDays>
+        <description>Kanban floating prompt</description>
+        <dismissButtonLabel>OK</dismissButtonLabel>
+        <displayPosition>TopLeft</displayPosition>
+        <displayType>FloatingPanel</displayType>
+        <endDate>2019-03-11</endDate>
+        <isPublished>true</isPublished>
+        <masterLabel>Prompt Label</masterLabel>
+        <publishedDate>2019-03-11</publishedDate>
+        <shouldDisplayActionButton>false</shouldDisplayActionButton>
+        <shouldIgnoreGlobalDelay>false</shouldIgnoreGlobalDelay>
+        <startDate>2019-03-11</startDate>
+        <targetAppDeveloperName>LightningSales</targetAppDeveloperName>
+        <targetAppNamespacePrefix>standard</targetAppNamespacePrefix>
+        <timesToDisplay>3</timesToDisplay>
+        <title>Get on the Path to Success</title>
+        <userAccess>SpecificPermissions</userAccess>
+        <userProfileAccess>SpecificProfiles</userProfileAccess>
+        <versionNumber>1</versionNumber>
+        <videolink>https://www.youtube.com/embed/Ko-gcObzTVo</videolink>
+        <uiFormulaRule>
+            <booleanFilter>(1 AND 2 AND 3) AND (4 OR 5)</booleanFilter>
+            <criteria>
+                <leftValue>{!$Permission.StandardPermission.ActivitiesAccess}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>TRUE</rightValue>
+            </criteria>
+            <criteria>
+                <leftValue>{!$Permission.StandardPermission.ContentWorkspaces}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>TRUE</rightValue>
+            </criteria>
+            <criteria>
+                <leftValue>{!$Permission.CustomPermission.MyCustomPerm}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>TRUE</rightValue>
+            </criteria>
+            <criteria>
+                <leftValue>{!ENCODED:{!ID:$User.Profile.Key}}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>Standard</rightValue>
+            </criteria>
+            <criteria>
+                <leftValue>{!ENCODED:{!ID:$User.Profile.Key}}</leftValue>
+                <operator>EQUAL</operator>
+                <rightValue>custom_mysysadmin</rightValue>
+            </criteria>
+        </uiFormulaRule>
+    </promptVersions>
+</Prompt>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>Prompt</name>
+    </types>
+    <version>46.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the
+          Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

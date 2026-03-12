@@ -51,9 +51,10 @@ Collect (fetch raw) → Process (HTML→MD + tag) → Generate (knowledge files)
 Each step is a separate CLI command and can run independently.
 
 ### Knowledge Output
-- `knowledge/current/<domain>/_index.md` — routing table for LLMs
-- `knowledge/current/<domain>/<topic>.md` — self-contained topic (2-4K tokens)
-- Each file has YAML frontmatter with metadata
+- `knowledge/current/<domain>/_index.md` — deduplicated routing table for LLMs (one row per file, with descriptions)
+- `knowledge/current/<domain>/<topic>.md` — self-contained topic with full documentation (page-level processing)
+- Each file has YAML frontmatter: `title`, `domain`, `topic`, `apiVersion`, `release`, `docType`, `namespace`, `estimatedTokens`, `keywords`
+- Files include code examples, cross-references to related topics, and callout boxes
 
 ## How to Add a New Documentation Domain
 

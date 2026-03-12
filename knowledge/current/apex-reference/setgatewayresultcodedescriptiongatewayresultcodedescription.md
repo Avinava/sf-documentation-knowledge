@@ -5,11 +5,15 @@ topic: setgatewayresultcodedescriptiongatewayresultcodedescription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.667Z
-keywords: [setGatewayResultCodeDescription, gatewayResultCodeDescription, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.143Z
+estimatedTokens: 169
+keywords: [setGatewayResultCodeDescription, gatewayResultCodeDescription, description, gateway-specific, result, code, payment, gateway, returned., Maximum, length, 1000, characters.]
 ---
 
 # setGatewayResultCodeDescription(gatewayResultCodeDescription)
+
+> Sets a description of the gateway-specific result code that a payment gateway returned.
+    Maximum length of 1000 characters.
 
 # setGatewayResultCodeDescription(gatewayResultCodeDescription)
 
@@ -30,3 +34,7 @@ Provides additional information about the result code and why the gateway return
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

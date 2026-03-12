@@ -5,11 +5,14 @@ topic: get-apiv1datagraphdatagraphnamedatagraphrecordid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:42.540Z
-keywords: [GET, api, dataGraph, dataGraphName, dataGraphRecordId, Syntax, Request, Parameters, Example]
+lastCollected: 2026-03-12T05:14:12.652Z
+estimatedTokens: 214
+keywords: [GET, api, dataGraph, dataGraphName, dataGraphRecordId, Request, data, specified, graph., Syntax, Example]
 ---
 
 # GET /api/v1/dataGraph/{dataGraphName}/{dataGraphRecordId}
+
+> Request data from a specified data graph.
 
 # GET /api/v1/dataGraph/{dataGraphName}/{dataGraphRecordId}
 
@@ -54,4 +57,20 @@ Response
 
 ```
 
+```
+
+## Code Examples
+
+```
+https://{TSE}.360a.salesforce.com/api/v1/dataGraph/individual_eng_dg/100005
+```
+
+```
+{
+   "data":[
+      {         "json_blob__c":"{"ssot__Id__c":"100005","UnifiedLinkssotIndividualIr1__dlm":[{"SourceRecordId__c":"10000001","UnifiedRecordId__c":"100005","ssot__Individual__dlm":[{"ssot__FirstName__c":"Jean","ssot__Id__c":"10000001","ssot__LastName__c":"Johnson","ssot__SalesOrder__dlm":[{"ssot__PurchaseOrderDate__c":"2023-07-26T07:37:57.927Z","ssot__Id__c":"100002","ssot__SoldToCustomerId__c":"10000001","ssot__TotalProductAmount__c":557.000000000000000000},{"ssot__PurchaseOrderDate__c":"2023-07-26T19:52:26.525Z","ssot__Id__c":"100001","ssot__SoldToCustomerId__c":"10000001","ssot__TotalProductAmount__c":192.000000000000000000},{"ssot__PurchaseOrderDate__c":"2023-07-06T20:30:18.255Z","ssot__Id__c":"100005","ssot__SoldToCustomerId__c":"10000001","ssot__TotalProductAmount__c":590.000000000000000000}]}]}]}",
+      }
+   ],
+   "done":true
+}
 ```

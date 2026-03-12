@@ -5,11 +5,16 @@ topic: contractlineoutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.558Z
-keywords: [ContractLineOutcome, Supported, Calls, Special, Access, Rules, Fields, Usage, Associated, Objects, See]
+lastCollected: 2026-03-12T05:14:56.014Z
+estimatedTokens: 1357
+keywords: [ContractLineOutcome, Represents, information, contract, line, outcome’s, captured, data, related, used, capturing, data., API, version, 58.0, later., Supported, Calls, Special, Access]
 ---
 
 # ContractLineOutcome
+
+> Represents information on a contract line outcome’s captured data and other
+         related parameters that are used when capturing data. This object is available in API
+      version 58.0 and later.
 
 # ContractLineOutcome
 
@@ -74,3 +79,7 @@ Sharing is available for the object.
 #### See Also
 
 -   [ContractLineOutcomeData](atlas.en-us.field_service_dev.meta/field_service_dev/sforce_api_objects_contractlineoutcomedata.htm "Represents the contract line outcome’s captured data. It stores the data that was captured between the contract line outcome’s start date and end date. This object is available in API version 58.0 and later.")
+
+## Related Topics
+
+- ContractLineOutcomeData (atlas.en-us.field_service_dev.meta/field_service_dev/sforce_api_objects_contractlineoutcomedata.htm)

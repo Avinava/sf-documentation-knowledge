@@ -5,11 +5,14 @@ topic: connectapimanagedcontentdocumentclone
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:39.155Z
-keywords: [ConnectApi.ManagedContentDocumentClone, See]
+lastCollected: 2026-03-12T05:14:27.799Z
+estimatedTokens: 364
+keywords: [ConnectApi.ManagedContentDocumentClone, Managed, content, document, clone.]
 ---
 
 # ConnectApi.ManagedContentDocumentClone
+
+> Managed content document clone.
 
 # ConnectApi.ManagedContentDocumentClone
 
@@ -32,3 +35,13 @@ Managed content document clone.
 #### See Also
 
 -   [cloneManagedContentDocument(contentKeyOrId, ManagedContentCloneInputParam)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_cloneManagedContentDocument_1 "Clone a piece of managed content.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​CloneStatus (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_clone_status.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ManagedContent​FailedVariants (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_failed_variants.htm)
+- ConnectApi.​ManagedContent​FolderSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_folder_summary.htm)
+- ConnectApi.​ManagedContent​ClonedVariants (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_cloned_variant.htm)
+- cloneManagedContentDocument(contentKeyOrId, ManagedContentCloneInputParam) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm)

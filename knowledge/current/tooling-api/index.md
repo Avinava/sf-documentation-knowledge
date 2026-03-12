@@ -5,11 +5,15 @@ topic: index
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.135Z
-keywords: [Index, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.876Z
+estimatedTokens: 606
+keywords: [Index, Represents, index, defined, within, custom, big, object., Tooling, API, version, 41.0, later., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields]
 ---
 
 # Index
+
+> Represents the index defined within a custom big
+            object. Available in Tooling API version 41.0 and later.
 
 # Index
 
@@ -48,3 +52,25 @@ REST GET
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+  "attributes" : {
+    "type" : "Index",
+    "url" : "/services/data/v41.0/tooling/sobjects/Index/0c0D000000000GUIAY"
+  },
+  "Id" : "0c0D000000000GUIAY",
+  "SobjectType" : "01ID0000000AwIcMAK",
+  "DeveloperName" : "BigObject_PK",
+  "MasterLabel" : "BigOBject_PK",
+  ...
+  "Type" : "PRIMARY"
+}
+```
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

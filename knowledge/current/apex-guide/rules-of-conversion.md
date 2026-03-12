@@ -4,12 +4,18 @@ domain: apex-guide
 topic: rules-of-conversion
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:48.179Z
-keywords: [Rules, Conversion, Note, Additional, Considerations, Data, Types]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.862Z
+estimatedTokens: 1174
+keywords: [Rules, Conversion, general, Apex, requires, explicitly, convert, data, another., example, variable, cannot, implicitly, converted, String., must, string.format, method., However, few]
 ---
 
 # Rules of Conversion
+
+> In general, Apex requires you to explicitly convert one data type to another. For
+        example, a variable of the Integer data type cannot be implicitly converted to a String. You
+        must use the string.format method. However, a few
+        data types can be implicitly converted, without using a method.
 
 # Rules of Conversion
 
@@ -61,3 +67,15 @@ Conversion of Date to Datetime
 Apex supports both implicit and explicit casting of Date values to Datetime, with the time component being zeroed out in the resulting Datetime value.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/langCon_apex_assignment_statements.htm "Assignment Statements")
+
+## Code Examples
+
+```apex
+Long MillsPerYear = 365L * 24L * 60L * 60L * 1000L;
+Long ExpectedValue = 31536000000L;
+System.assertEquals(MillsPerYear, ExpectedValue);
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_assignment_statements.htm)

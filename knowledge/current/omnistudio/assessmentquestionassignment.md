@@ -5,11 +5,16 @@ topic: assessmentquestionassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.615Z
-keywords: [AssessmentQuestionAssignment, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.425Z
+estimatedTokens: 802
+keywords: [AssessmentQuestionAssignment, Represents, junction, between, assessment, question, set, question., API, version, 55.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # AssessmentQuestionAssignment
+
+> Represents a junction between an assessment question set and an
+         assessment question. This object is available in API version 55.0 and
+      later.
 
 # AssessmentQuestionAssignment
 

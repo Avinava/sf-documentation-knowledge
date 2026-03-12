@@ -5,11 +5,17 @@ topic: workflowoutboundmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.989Z
-keywords: [WorkflowOutboundMessage, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.137Z
+estimatedTokens: 605
+keywords: [WorkflowOutboundMessage, Represents, outbound, message., message, sends, information, designated, endpoint, external, service., Outbound, messages, configured, Setup., must, configure, create, listener, SOAP]
 ---
 
 # WorkflowOutboundMessage
+
+> Represents an outbound message.
+            An outbound message sends information to a designated endpoint, like an external
+            service. Outbound messages are configured from Setup. You must configure the external
+            endpoint and create a listener for the messages using the SOAP API.
 
 # WorkflowOutboundMessage
 
@@ -38,3 +44,7 @@ DELETE, GET, PATCH, POST
 | Metadata | Typemns:WorkflowOutboundMessagePropertiesCreate, Nillable, UpdateDescriptionOutbound message definition metadata.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
 | Name | TypestringPropertiesFilter, Group, idLookup, SortDescriptionThe name of the outbound message. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace of the package containing the outbound message. |
+
+## Related Topics
+
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)

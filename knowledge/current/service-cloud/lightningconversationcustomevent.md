@@ -5,11 +5,15 @@ topic: lightningconversationcustomevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.838Z
-keywords: [lightning, conversationCustomEvent, Response, Example]
+lastCollected: 2026-03-12T05:14:57.197Z
+estimatedTokens: 183
+keywords: [lightning, conversationCustomEvent, Event, triggered, custom, event, occurs, during, chat., Response, Example]
 ---
 
 # lightning:conversationCustomEvent
+
+> Event triggered when a custom event occurs
+            during a chat.
 
 # lightning:conversationCustomEvent
 
@@ -35,4 +39,25 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" description="Conversation toolkit api sample">
+  <lightning:conversationToolkitAPI aura:id="conversationKit" />
+  <aura:handler event="lightning:conversationCustomEvent" action="{!c.onCustomEvent}" />
+</aura:component>
+```
+
+```
+({
+    onCustomEvent: function(cmp, evt, helper) {
+        var conversation = cmp.find("conversationKit");
+        var data = evt.getParam("data");
+        var type = evt.getParam("type");
+
+        console.log("type:" + type + " data:" + data);
+    }
+})
 ```

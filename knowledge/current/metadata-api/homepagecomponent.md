@@ -5,11 +5,17 @@ topic: homepagecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.021Z
-keywords: [HomePageComponent, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.384Z
+estimatedTokens: 1132
+keywords: [HomePageComponent, Represents, metadata, associated, home, page, component., customize, Home, tab, Salesforce, Classic, include, components, such, sidebar, links, company, logo, dashboard]
 ---
 
 # HomePageComponent
+
+> Represents the metadata associated with a home
+      page component. You can customize the Home tab in Salesforce Classic to include components
+      such as sidebar links, a company logo, a dashboard snapshot, or custom components that you
+      create. Use to create, update, or delete home page component definitions.
 
 # HomePageComponent
 
@@ -58,5 +64,30 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [HomePageLayout](atlas.en-us.api_meta.meta/api_meta/meta_homepagelayouts.htm "Represents the metadata associated with a home page layout. You can customize home page layouts and assign the layouts to users based on their user profile.")
-    
+
 -   [WebLink](atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm "Represents a custom button or link defined in a custom object.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+  <height>200</height>
+  <page>MyVisualforcePage</page>
+  <pageComponentType>visualforcePage</pageComponentType>
+  <showLabel>true</showLabel>
+  <showScrollbars>true</showScrollbars>
+  <width>wideComponents</width>
+</HomePageComponent>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Declarative Metadata Sample Definition (atlas.en-us.api_meta.meta/api_meta/meta_homepagelayouts.htm)
+- Declarative Metadata Sample Definition (atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- HomePageLayout (atlas.en-us.api_meta.meta/api_meta/meta_homepagelayouts.htm)
+- WebLink (atlas.en-us.api_meta.meta/api_meta/meta_weblink.htm)

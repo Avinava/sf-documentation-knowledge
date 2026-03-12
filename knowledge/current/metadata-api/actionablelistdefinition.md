@@ -5,11 +5,15 @@ topic: actionablelistdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.291Z
-keywords: [ActionableListDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, ActionableListDatasetColumn, ActionableListMemberStatus, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.545Z
+estimatedTokens: 1590
+keywords: [ActionableListDefinition, Represents, data, source, definition, details, associated, actionable, list., Important, Parent, File, Suffix, Directory, Location, Version, Fields, ActionableListDatasetColumn, ActionableListMemberStatus, Declarative]
 ---
 
 # ActionableListDefinition
+
+> Represents the data source definition details
+			associated with an actionable list.
 
 # ActionableListDefinition
 
@@ -88,3 +92,51 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<actionableListDatasetColumns>
+		<isDefault>true</isDefault>
+		<sourceFieldName>NewColumn1</sourceFieldName>
+	</actionableListDatasetColumns>
+	<actionableListDatasetColumns>
+		<sourceColumnApiName>ApiName</sourceColumnApiName>
+		<dataDomain>Dimensions</dataDomain>
+		<isDefault>false</isDefault>
+		<sourceFieldName>NewColumn2</sourceFieldName>
+		<objectName>Account</objectName>
+		<displayOrder>1</displayOrder>
+		<dataType>Text</dataType>
+	</actionableListDatasetColumns>
+	<actionableListMemberStatuses>
+		<iconName>NewMember1</iconName>
+		<status>Active</status>
+	</actionableListMemberStatuses>
+	<isActive>true</isActive>
+	<masterLabel>NewMember2</masterLabel>
+	<objectName>Account</objectName>
+	<isProtected>true</isProtected>
+	<batchCalcJobDefinition>Test1</batchCalcJobDefinition>
+	<datasetName>AccountDef</datasetName>
+</ActionableListDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>ActionableListDefinition</name>
+   </types>
+   <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

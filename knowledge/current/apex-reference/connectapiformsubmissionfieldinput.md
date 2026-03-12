@@ -5,11 +5,14 @@ topic: connectapiformsubmissionfieldinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.200Z
-keywords: [ConnectApi.FormSubmissionFieldInput, See]
+lastCollected: 2026-03-12T05:14:24.965Z
+estimatedTokens: 134
+keywords: [ConnectApi.FormSubmissionFieldInput, Marketing, integration, form, field, submission.]
 ---
 
 # ConnectApi.FormSubmissionFieldInput
+
+> Marketing integration form field submission.
 
 # ConnectApi.FormSubmissionFieldInput
 
@@ -23,3 +26,8 @@ Marketing integration form field submission.
 #### See Also
 
 -   [ConnectApi.FormSubmissionInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_form_submission.htm "Marketing integration form submission.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.FormSubmissionInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_form_submission.htm)

@@ -5,11 +5,15 @@ topic: decision-table-source-criteria-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.336Z
-keywords: [Decision, Table, Source, Criteria, Output]
+lastCollected: 2026-03-12T05:14:50.037Z
+estimatedTokens: 215
+keywords: [Decision, Table, Source, Criteria, Output, representation, decision, table, source, criteria.]
 ---
 
 # Decision Table Source Criteria Output
+
+> Output representation of the decision table source
+    criteria.
 
 # Decision Table Source Criteria Output
 

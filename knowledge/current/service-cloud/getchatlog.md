@@ -5,11 +5,15 @@ topic: getchatlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.970Z
-keywords: [getChatLog, Syntax, Arguments, Sample, Code–Visualforce, Response, customEvent, message]
+lastCollected: 2026-03-12T05:14:57.382Z
+estimatedTokens: 542
+keywords: [getChatLog, chat, log, associated, specific, key., API, version, 29.0, later., Syntax, Arguments, Sample, Code–Visualforce, Response, customEvent, message]
 ---
 
 # getChatLog()
+
+> Returns the chat log of a chat associated with a specific chat key. Available in API version 29.0 or
+            later.
 
 # getChatLog()
 
@@ -65,3 +69,38 @@ The message object contains a single chat message from the chat log and the foll
 | name | String | The name of the user who sent the message in the chat log. This appears exactly as it is displayed in the chat log. |
 | type | String | The type of message that was received, such as Agent or Visitor. |
 | timestamp | Date/Time | The date and time the chat message was received. |
+
+## Code Examples
+
+```
+sforce.console.chat.getChatLog(chatKey:String, callback:Function)
+```
+
+```
+<apex:page >
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <a href="#" onClick="testGetChatLog();">Get Chat Log</a> 
+
+    <script type="text/javascript">
+
+        function testGetChatLog() {
+            //Get the value for 'myChatKey'from the sforce.console.chat.getDetailsByPrimaryTabId() or other chat methods. 
+            //These values are for example purposes only
+            var chatKey = 'myChatKey';
+            sforce.console.chat.getChatLog(chatKey, getChatLogSuccess);
+        }
+        
+        function getChatLogSuccess(result) {
+            //Report whether getting the chat log was succesful
+            if (result.success == true) {
+                chatLogMessage = result.messages[0].content;
+                alert('The first message in this chatLog is: ' + chatLogMessage);
+            } else {
+                alert('Getting the chat log was not successful');
+            }
+        };
+    
+
+    </script>
+</apex:page>
+```

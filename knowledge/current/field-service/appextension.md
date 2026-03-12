@@ -5,11 +5,16 @@ topic: appextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.411Z
-keywords: [AppExtension, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:55.783Z
+estimatedTokens: 606
+keywords: [AppExtension, Represents, connection, between, Field, Service, mobile, app, another, typically, passing, record, data, Salesforce, apps., API, version, 41.0, later., Supported]
 ---
 
 # AppExtension
+
+> Represents a connection between the Field Service mobile app
+			and another app, typically for passing record data to the Salesforce mobile app or other
+			apps. This object is available in API version 41.0 and later.
 
 # AppExtension
 

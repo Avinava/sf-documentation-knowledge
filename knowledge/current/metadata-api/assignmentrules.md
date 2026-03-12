@@ -5,11 +5,17 @@ topic: assignmentrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.667Z
-keywords: [AssignmentRules, File, Suffix, Directory, Location, Version, Fields, AssignmentRule, RuleEntry, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:37.058Z
+estimatedTokens: 999
+keywords: [AssignmentRules, Represents, assignment, rules, allow, automatically, route, cases, appropriate, users, queues., access, metadata, applicable, objects, specific, rule, object., File, Suffix]
 ---
 
 # AssignmentRules
+
+> Represents assignment rules that allow you to
+            automatically route cases to the appropriate users or queues. You can access rules
+            metadata for all applicable objects, for a specific object, or for a specific rule on a
+            specific object.
 
 # AssignmentRules
 
@@ -84,3 +90,68 @@ The following is an example file showing two assignment rules on the Case object
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<types>
+        <members>*</members>
+        <name>AssignmentRules</name>
+    </types>
+```
+
+```
+<types>
+        <members>Case</members>
+        <name>AssignmentRules</name>
+    </types>
+```
+
+```
+<types>
+        <members>Case.samplerule</members>
+        <members>Case.newrule</members>
+        <name>AssignmentRule</name>
+    </types>
+```
+
+```
+<AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <assignmentRule>
+        <fullName>samplerule</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>testUser@org.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.IsEscalated</field>
+                <operation>equals</operation>
+                <value>True</value>
+            </criteriaItems>
+            <template>emailtemplate</template>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>Another samplerule</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>otherUser@org.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.IsEscalated</field>
+                <operation>equals</operation>
+                <value>False</value>
+            </criteriaItems>
+            <template>emailtemplate</template>
+        </ruleEntry>
+    </assignmentRule>
+</AssignmentRules>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Deploying and Retrieving Metadata with the Zip
+                    File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

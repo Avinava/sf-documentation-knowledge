@@ -5,11 +5,15 @@ topic: connectapiengagementattendeecreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.765Z
-keywords: [ConnectApi.EngagementAttendeeCreateInput]
+lastCollected: 2026-03-12T05:14:47.663Z
+estimatedTokens: 500
+keywords: [ConnectApi.EngagementAttendeeCreateInput, Input, representation, create, engagement, attendee, record.]
 ---
 
 # ConnectApi.EngagementAttendeeCreateInput
+
+> Input representation to create an engagement attendee
+    record.
 
 # ConnectApi.EngagementAttendeeCreateInput
 
@@ -29,3 +33,7 @@ Input representation to create an engagement attendee record.
 | role | String | The role of an engagement attendee. The possible values are:OnBehalfSelf |  | 56.0 |
 | startDateTime | String | The date and time when the engagement with the attendee starts. | Required | 55.0 |
 | verificationTime | String | The time when the attendee was verified for the engagement interaction. |  | 55.0 |
+
+## Related Topics
+
+- ConnectApi.EngagementCustomFieldsInput (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_input_custom_fields.htm)

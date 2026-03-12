@@ -5,11 +5,15 @@ topic: scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.199Z
-keywords: [Scheduling, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.328Z
+estimatedTokens: 86
+keywords: [Scheduling, list, Salesforce, Scheduler, REST, resources, corresponding, URIs., resource, API, version, 45.0, later., Syntax, Example]
 ---
 
 # Scheduling
+
+> Returns a list of available Salesforce Scheduler REST resources and corresponding URIs.
+    This resource is available in REST API version 45.0 and later.
 
 # Scheduling
 
@@ -39,4 +43,13 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "getAppointmentCandidates" : "/services/data/v66.0/scheduling/getAppointmentCandidates",
+  "getAppointmentSlots" : "/services/data/v66.0/scheduling/getAppointmentSlots"
+}
 ```

@@ -5,27 +5,44 @@ topic: api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:44.091Z
-keywords: [API, Reference]
+lastCollected: 2026-03-12T05:14:12.114Z
+estimatedTokens: 731
+keywords: [API, Reference, section, provides, guidance, around, references, provided, Engagement, Mobile, SDK., Salesforce, Interactions, Web]
 ---
 
 # API Reference
 
+> This section provides guidance around references provided with the Engagement Mobile
+  SDK.
+
 # API Reference
 
-This section provides guidance around references provided with the Salesforce Interactions Web SDK.
+This section provides guidance around references provided with the Engagement Mobile SDK.
 
--   **[Initialization](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_initialization.htm)**  
-    The recommended initialization flow for the Salesforce Interactions SDK follows a general pattern.
--   **[Data Collection](atlas.en-us.252.0.c360a_api.meta/c360a_api/c36a_api_data_collection.htm)**  
-    Before the Salesforce Interactions SDK can begin capturing data, initialize the Salesforce Interactions SDK and gain the user’s consent to track the data.
--   **[Identity](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_identity.htm)**  
-    The Salesforce Interactions SDK supports identification of new and returning customer using the first-party cookie \_sfid\_${domainHash}. Also, the domainHash is produced by running the website’s domain through a hashing function.
--   **[Consent](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_consent.htm)**  
-    The Salesforce Interactions SDK has been designed to respect user privacy and doesn’t store or transmit data collected until it has been granted consent. If your site has existing consent management features, those features must integrate with the SDK to signal when the user has given consent to track.
--   **[Sitemap](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_sitemap.htm)**  
-    Salesforce Interactions SDK Sitemap provides the ability to extract data during page navigation. Also, the sitemap can share data capture logic across multiple pages, and it can separate data capture logic from web page presentation logic.
--   **[Integrations](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_integration.htm)**  
-    The Salesforce Interactions SDK features built-in CustomEvents that you can use to bind listeners to events that are specific to the Web SDK. Data that these events pass are in the detail properties of the event object passed to a listener’s callback function.
--   **[Debugging](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_debugging.htm)**  
-    When configured, the Salesforce Interaction SDK can output messages to the browser console for debugging purposes. By default, the logger is configured with a log level of none. The logger used by the Web SDK wraps the standard browser console.log function and can be accessed at SalesforceInteractions.log.
+-   **[Initialization](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_initialization.htm)**
+    Before the Data Cloud Module for the Engagement Mobile SDK can be used to invoke web services using the API, the SDK must be configured. Use the CdpConfigBuilder for iOS or CdpConfig.Builder for Android helper class to build your SDK configuration by providing required settings appId and endpoint that can be obtained from your Mobile Connector. Optionally, configuration can be provided for the settings trackScreens, trackLifecycle, and sessionTimeoutInSeconds.
+-   **[Capturing Engagement Data](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_capturing_engagement_data.htm)**
+    The Data Cloud Module for the Engagement Mobile SDK enables collection of granular data about the customer’s mobile app interactions through event tracking.
+-   **[Capturing Profile Data](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_capturing_profile_data.htm)**
+    The Data Cloud Module for the Engagement Mobile SDK enables collection of profile data through the SDK’s Identity APIs.
+-   **[Capturing Behavior Data](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_capturing_behavior_data.htm)**
+    The Data Cloud Module for the Engagement Mobile SDK enables the collection of granular data about a customer’s mobile app interactions through event tracking.
+-   **[Consent Management](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_consent_management.htm)**
+    Engagement Mobile SDK offers a managed solution for allowing and restricting collection of event data. Your mobile application is responsible for presenting the device owner with the choice to opt in or opt out of data collection and for setting the Data Cloud Module consent property accordingly.
+-   **[Location Tracking](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_location_tracking.htm)**
+    The Data Cloud Module for the Engagement Mobile SDK supports location tracking for all events. Enable this functionality using the setLocation method on the Data Cloud Module to set coordinates and expiresIn.
+-   **[Logging and Debugging](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_logging_and_debugging.htm)**
+    Logging is optional, yet critical, SDK feature that allows the mobile application developer to select the verbosity of the Data Cloud Module for the Engagement Mobile SDK’s output. By default, logging is disabled and must be enabled using the setLogger for iOS or setLogging for Android method on the SFMCSdk instance. Define the desired logging level and output destination. Enabling logging results in log capture using the native unified logging system.
+
+## Related Topics
+
+- Initialization (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_initialization.htm)
+- Capturing Engagement Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_capturing_engagement_data.htm)
+- Capturing Profile Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_capturing_profile_data.htm)
+- Capturing Behavior Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_capturing_behavior_data.htm)
+- Consent Management (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_consent_management.htm)
+- Location Tracking (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_location_tracking.htm)
+- Logging and Debugging (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_logging_and_debugging.htm)
+- Initialization (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_initialization.htm)
+- Data Collection (atlas.en-us.252.0.c360a_api.meta/c360a_api/c36a_api_data_collection.htm)
+- Identity (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_identity.htm)

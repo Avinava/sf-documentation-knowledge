@@ -5,11 +5,17 @@ topic: field-service-warranty-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.297Z
-keywords: [Field, Service, Warranty, Management, Data, Model, Note]
+lastCollected: 2026-03-12T05:14:55.589Z
+estimatedTokens: 281
+keywords: [Field, Service, Warranty, Management, Data, Model, warranty, items, record, details, labor, parts, expenses, along, any, exchange, options, provided, rectify, issues]
 ---
 
 # Field Service Warranty Management Data Model
+
+> Use warranty items to record details of the labor, parts, and expenses, along with any
+  exchange options, that are provided to rectify issues with products sold or installed. Create
+  standard warranties for products and product families and, for products you install, record
+  details of additional or extended warranties along with exclusions and void terms.
 
 # Field Service Warranty Management Data Model
 

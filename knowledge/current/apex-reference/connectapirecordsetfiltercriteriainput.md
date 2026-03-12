@@ -5,11 +5,15 @@ topic: connectapirecordsetfiltercriteriainput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.513Z
-keywords: [ConnectApi.RecordsetFilterCriteriaInput, See]
+lastCollected: 2026-03-12T05:14:25.461Z
+estimatedTokens: 243
+keywords: [ConnectApi.RecordsetFilterCriteriaInput, set, recordset, filter, criteria, applied, records, such, service, appointment, records.]
 ---
 
 # ConnectApi.RecordsetFilterCriteriaInput
+
+> A set of recordset filter criteria applied to records, such as
+      service appointment records.
 
 # ConnectApi.RecordsetFilterCriteriaInput
 
@@ -25,3 +29,10 @@ A set of recordset filter criteria applied to records, such as service appointme
 #### See Also
 
 -   [evaluateRecordsetFilterCriteria(recordsetFilterCriteriaInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_RecordFilterCriteriaFamily_static_methods.htm#apex_ConnectAPI_RecordFilterCriteriaFamily_evaluateRecordsetFilterCriteria_1 "Filter records on recordset filter criteria.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- evaluateRecordsetFilterCriteria(recordsetFilterCriteriaInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_RecordFilterCriteriaFamily_static_methods.htm)

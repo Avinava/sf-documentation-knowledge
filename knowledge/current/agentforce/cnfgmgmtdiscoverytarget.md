@@ -5,11 +5,17 @@ topic: cnfgmgmtdiscoverytarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.885Z
-keywords: [CnfgMgmtDiscoveryTarget, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.406Z
+estimatedTokens: 748
+keywords: [CnfgMgmtDiscoveryTarget, Represents, definition, logical, grouping, endpoints, environments, scanned, during, infrastructure, asset, discovery., example, New, York, datacenter, Washington, office, ground, floor]
 ---
 
 # CnfgMgmtDiscoveryTarget
+
+> Represents the definition of a logical grouping of endpoints or environments
+         to be scanned during IT infrastructure or asset discovery. For example, New York
+         datacenter, Washington office ground floor, or AWS Staging. This object is available
+      in API version 65.0 and later.
 
 # CnfgMgmtDiscoveryTarget
 

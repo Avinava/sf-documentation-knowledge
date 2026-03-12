@@ -5,11 +5,21 @@ topic: revsignaling-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:42:42.104Z
-keywords: [RevSignaling, Namespace]
+lastCollected: 2026-03-12T05:14:31.586Z
+estimatedTokens: 341
+namespace: RevSignaling
+keywords: [RevSignaling, provides, classes, extend, standard, procedure, plan, implementation, through, custom, logic., helps, set, procedures, configure, execution, settings, relate, context, definition]
 ---
 
 # RevSignaling Namespace
+
+> The RevSignaling namespace provides classes to
+        extend the standard procedure plan implementation through custom logic. A procedure plan
+        helps you set up your procedures, configure the procedure execution settings, and relate
+        them to a context definition in one centralized location based on your
+        requirements.
+
+**Namespace:** `RevSignaling`
 
 # RevSignaling Namespace
 

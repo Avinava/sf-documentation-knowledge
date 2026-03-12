@@ -5,11 +5,14 @@ topic: connectapisearchappliedorderby
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.935Z
-keywords: [ConnectApi.SearchAppliedOrderBy, See]
+lastCollected: 2026-03-12T05:14:26.064Z
+estimatedTokens: 196
+keywords: [ConnectApi.SearchAppliedOrderBy, applied, order, search.]
 ---
 
 # ConnectApi.SearchAppliedOrderBy
+
+> The applied order for object search.
 
 # ConnectApi.SearchAppliedOrderBy
 
@@ -24,5 +27,13 @@ The applied order for object search.
 #### See Also
 
 -   [ConnectApi.ObjectQueryInfo](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_query_inf.htm "Search query metadata related to the object.")
-    
+
 -   [ConnectApi.SearchObject](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm "Record results for the keyword search.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​OrderDirection (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​OrderNulls (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ObjectQueryInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_object_query_inf.htm)
+- ConnectApi.SearchObject (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_objec.htm)

@@ -5,11 +5,18 @@ topic: implementing-dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.203Z
-keywords: [Implementing, DataWeave, Apex, Namespace, Supporting, Information, Versioned, Behavior, Changes, See]
+lastCollected: 2026-03-12T05:14:32.144Z
+estimatedTokens: 772
+namespace: Script
+keywords: [Implementing, DataWeave, Apex, Create, scripts, metadata, invoke, directly, Apex., exceptions, load, execute, scripts., Supporting, Information, Versioned, Behavior, Changes]
 ---
 
 # Implementing DataWeave in Apex
+
+> Create DataWeave scripts as metadata and invoke them directly from Apex. Use class
+        methods and exceptions in the DataWeave namespace to load and execute the scripts.
+
+**Namespace:** `Script`
 
 # Implementing DataWeave in Apex
 

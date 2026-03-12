@@ -5,11 +5,15 @@ topic: learningitemprogressstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.532Z
-keywords: [LearningItemProgressStatus, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.707Z
+estimatedTokens: 199
+keywords: [LearningItemProgressStatus, Represents, status, user’s, progress, learning, item, Enablement, program., Usage, Values]
 ---
 
 # LearningItemProgressStatus Enum
+
+> Represents the status of a user’s progress for a learning item in an Enablement
+    program.
 
 # LearningItemProgressStatus Enum
 
@@ -28,3 +32,7 @@ The following are the values for the sfdc\_enablement.LearningItemProgressStatus
 | NotStarted | The user hasn't started the custom exercise. |
 | InProgress | The user's custom exercise is in progress. |
 | Completed | The user completed the custom exercise. |
+
+## Related Topics
+
+- sfdc_enablement.LearningEvaluationResult (atlas.en-us.apexref.meta/apexref/apex_class_sfdc_enablement_LearningEvaluationResult.htm)

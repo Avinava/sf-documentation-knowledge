@@ -5,11 +5,15 @@ topic: connectapiproductvariationinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.766Z
-keywords: [ConnectApi.ProductVariationInfo, See]
+lastCollected: 2026-03-12T05:14:28.652Z
+estimatedTokens: 182
+keywords: [ConnectApi.ProductVariationInfo, Product, variation, attributes, metadata, mappings, attribute, combinations, product, IDs.]
 ---
 
 # ConnectApi.ProductVariationInfo
+
+> Product variation attributes, metadata, and mappings of attribute
+      combinations to variation product IDs.
 
 # ConnectApi.ProductVariationInfo
 
@@ -23,3 +27,12 @@ Product variation attributes, metadata, and mappings of attribute combinations t
 #### See Also
 
 -   [ConnectApi.ProductDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm "Details of a product.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ProductAttributes​ToProductEntry (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attributes_to_product_entry.htm)
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ProductAttributeInfo (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_attribute_info.htm)
+- ConnectApi.ProductDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_detail.htm)

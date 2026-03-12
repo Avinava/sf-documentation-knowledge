@@ -5,11 +5,14 @@ topic: party-financial-liability-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.685Z
-keywords: [Party, Financial, Liability, Result]
+lastCollected: 2026-03-12T05:14:50.501Z
+estimatedTokens: 809
+keywords: [Party, Financial, Liability, Result, Output, representation, party, financial, liability, result.]
 ---
 
 # Party Financial Liability Result
+
+> Output representation of the party financial liability result.
 
 # Party Financial Liability Result
 
@@ -47,3 +50,8 @@ Output representation of the party financial liability result.
 | type | String | Type of the liability. | Small, 61.0 | 61.0 |
 | usageType | String | Usage type of the liability. | Small, 61.0 | 61.0 |
 | verification​Status | String | Verification status of the liability. | Small, 61.0 | 61.0 |
+
+## Related Topics
+
+- Custom Fields Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_digital_lending_custom_fields_result.htm)
+- Party Financial Liability Borrower Result (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_party_financial_liability_borrower_result.htm)

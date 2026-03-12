@@ -5,11 +5,15 @@ topic: schedulingobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.722Z
-keywords: [SchedulingObjective, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:46.750Z
+estimatedTokens: 848
+keywords: [SchedulingObjective, Represents, scheduling, objective, settings, Workforce, Engagement., API, version, 55.0, later., Important, Supported, SOAP, Calls, REST, Special, Access, Rules, Fields]
 ---
 
 # SchedulingObjective
+
+> Represents scheduling objective settings for Workforce Engagement. This
+      object is available in API version 55.0 and later.
 
 # SchedulingObjective
 

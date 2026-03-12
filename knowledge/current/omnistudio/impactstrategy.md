@@ -5,11 +5,16 @@ topic: impactstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.242Z
-keywords: [ImpactStrategy, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:52.809Z
+estimatedTokens: 838
+keywords: [ImpactStrategy, Represents, high-level, strategy, affect, change, individual, population, stakeholder, environment., API, version, 59.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # ImpactStrategy
+
+> Represents a high-level strategy to affect change in an individual,
+         population, stakeholder, or the environment. This object is available in API version
+      59.0 and later.
 
 # ImpactStrategy
 

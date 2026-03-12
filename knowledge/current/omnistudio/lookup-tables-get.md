@@ -5,11 +5,14 @@ topic: lookup-tables-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.616Z
-keywords: [Lookup, Tables, GET]
+lastCollected: 2026-03-12T05:14:48.908Z
+estimatedTokens: 272
+keywords: [Lookup, Tables, GET, Retrieve, lookup, tables.]
 ---
 
 # Lookup Tables (GET)
+
+> Retrieve lookup tables.
 
 # Lookup Tables (GET)
 
@@ -58,3 +61,26 @@ Request parameters for GET
 Response body for GET
 
 [Lookup Tables Result List](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_lookup_tables_result_list.htm "Output representation of the result of a lookup table search request.")
+
+## Code Examples
+
+```
+/connect/business-rules/lookup-tables
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/lookup-tables?searchKey=D&usageType=Bre&lookupTypes=DecisionTable,DecisionMatrix
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/lookup-tables?searchKey=D&usageType=Bre
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/business-rules/lookup-tables?searchKey=D&usageType=Bre&lookupTypes=DecisionTable&businessKnowledgeModelName=ManualDiscount
+```
+
+## Related Topics
+
+- Lookup Tables Result
+              List (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_lookup_tables_result_list.htm)

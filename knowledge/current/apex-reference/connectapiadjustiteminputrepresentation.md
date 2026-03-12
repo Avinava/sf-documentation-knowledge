@@ -5,11 +5,15 @@ topic: connectapiadjustiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.756Z
-keywords: [ConnectApi.AdjustItemInputRepresentation]
+lastCollected: 2026-03-12T05:14:24.279Z
+estimatedTokens: 353
+keywords: [ConnectApi.AdjustItemInputRepresentation, price, adjustment, OrderItemSummary., only, supports, discounts, increases.]
 ---
 
 # ConnectApi.AdjustItemInputRepresentation
+
+> A price adjustment to an OrderItemSummary. It only supports
+      discounts, not increases.
 
 # ConnectApi.AdjustItemInputRepresentation
 
@@ -22,3 +26,8 @@ A price adjustment to an OrderItemSummary. It only supports discounts, not incre
 | description | String | Description of the adjustment. | Optional | 49.0 |
 | orderItem​SummaryId | String | ID of the OrderItemSummary. | Required | 49.0 |
 | reason | String | Reason for the adjustment. The value must match one of the picklist values on the Reason field of the OrderItemSummaryChange object. | Required | 49.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

@@ -5,11 +5,15 @@ topic: getcaseidfromemailheadersheaders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.005Z
-keywords: [getCaseIdFromEmailHeaders, headers, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.180Z
+estimatedTokens: 1131
+keywords: [getCaseIdFromEmailHeaders, headers, case, corresponding, specified, email, header, information, null, none, found., Usage, Example]
 ---
 
 # getCaseIdFromEmailHeaders(headers)
+
+> Returns the case ID corresponding to the specified email header
+      information, or returns null if none is found.
 
 # getCaseIdFromEmailHeaders(headers)
 
@@ -46,3 +50,8 @@ If you implement header-based threading in your Email Services currently, we rec
 In this example, we rely on threading tokens and use header-based threading as a fallback.
 
 global class AttachEmailMessageToCaseExample implements Messaging.InboundEmailHandler { global Messaging.InboundEmailResult handleInboundEmail(Messaging.inboundEmail email, Messaging.InboundEnvelope env) { // Create an InboundEmailResult object for returning the result of the // Apex Email Service. Messaging.InboundEmailResult result = new Messaging.InboundEmailResult(); // Try to find the Case ID using threading tokens in email attributes. Id caseId = EmailMessages.getRecordIdFromEmail(email.subject, email.plainTextBody, email.htmlBody); // If we haven't found the Case ID, try finding it using headers. if (caseId == null) { caseId = Cases.getCaseIdFromEmailHeaders(email.headers); } // If a Case isn’t found, create a new Case record. if (caseId == null) { Case c = new Case(Subject = email.subject); insert c; System.debug('New Case Object: ' + c); caseId = c.Id; } // Process recipients String toAddresses; if (email.toAddresses != null) { toAddresses = String.join(email.toAddresses, '; '); } // To store an EmailMessage for threading, you need at minimum // the Status, the MessageIdentifier, and the ParentId fields. EmailMessage em = new EmailMessage( Status = '0', MessageIdentifier = email.messageId, ParentId = caseId, // Other important fields. FromAddress = email.fromAddress, FromName = email.fromName, ToAddress = toAddresses, TextBody = email.plainTextBody, HtmlBody = email.htmlBody, Subject = email.subject // Other fields you wish to add. ); // Insert the new EmailMessage. insert em; System.debug('New EmailMessage Object: ' + em ); // Set the result to true. No need to send an email back to the user // with an error message. result.success = true; // Return the result for the Apex Email Service. return result; } }
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- Messaging.InboundEmail.Header (atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_inbound.htm)

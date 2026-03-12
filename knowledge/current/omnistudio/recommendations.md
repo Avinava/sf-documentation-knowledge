@@ -5,11 +5,16 @@ topic: recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.850Z
-keywords: [Recommendations]
+lastCollected: 2026-03-12T05:14:49.281Z
+estimatedTokens: 480
+keywords: [Recommendations, Get, recommendations, Einstein, Next, Best, Action., now, work, actionable, next, steps, unified, synchronized, view, real-time, score, predictions, recommendations.]
 ---
 
 # Recommendations
+
+> Get recommendations with Einstein Next Best Action. You can now work
+      on actionable next steps with a unified, synchronized view of real-time score predictions and
+      recommendations.
 
 # Recommendations
 
@@ -63,3 +68,32 @@ Properties
 Response body for POST
 
 [Recommendation](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_recommendation_output.htm "Output representation of the recommendation request with Einstein Next Best Action.")
+
+## Code Examples
+
+```
+/connect/aiaccelerator/recommendations
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect​/aiaccelerator/recommendations
+```
+
+```
+{
+    "usecaseDefinitionName": "ChurnPredictionRealTime",
+    "strategyName": "flow_sample",
+    "rcmdStrategyParameters": [
+      {
+       "recordId": "a02xx000001nd0RAAQ",
+       "predictionScore": 96
+      }
+    ],
+    "maxRecommendationsCount": 1,
+    "recommendationFieldMapping": {}
+}
+```
+
+## Related Topics
+
+- Recommendation (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_recommendation_output.htm)

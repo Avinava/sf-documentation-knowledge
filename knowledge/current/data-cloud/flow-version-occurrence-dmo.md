@@ -5,11 +5,16 @@ topic: flow-version-occurrence-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.471Z
-keywords: [Flow, Version, Occurrence, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.135Z
+estimatedTokens: 1028
+keywords: [Flow, Version, Occurrence, DMO, Data, Cloud, data, model, instance, recurring, flow, runs, schedule., example, weekly, Wednesdays, creates, occurrence, time, runs.]
 ---
 
 # Flow Version Occurrence DMO
+
+> The Flow Version Occurrence DMO is a Data Cloud data
+      model object (DMO) for an instance of a recurring flow that runs on a schedule. For example, a
+      flow that runs weekly on Wednesdays creates an occurrence each time it runs.
 
 # Flow Version Occurrence DMO
 

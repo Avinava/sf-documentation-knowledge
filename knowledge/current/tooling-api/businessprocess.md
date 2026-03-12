@@ -5,11 +5,15 @@ topic: businessprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.318Z
-keywords: [BusinessProcess, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:44.779Z
+estimatedTokens: 346
+keywords: [BusinessProcess, Represents, business, process., Supported, SOAP, Calls, REST, HTTP, Special, Access, Rules, Fields]
 ---
 
 # BusinessProcess
+
+> Represents a business
+        process.
 
 # BusinessProcess
 
@@ -20,9 +24,9 @@ This object is available in API version 33.0 and later.
 ## Supported SOAP Calls
 
 -   getDeleted(), getUpdated(), query(), retrieve(), and upsert() are available in API version 33.0 and later.
-    
+
 -   create() and update() are available in API version 36.0 and later.
-    
+
 
 ## Supported REST HTTP Methods
 

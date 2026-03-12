@@ -5,11 +5,18 @@ topic: salesforce-crm-loyalty-program-engagement-attribute-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.187Z
-keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Promotion, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.710Z
+estimatedTokens: 346
+keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Promotion, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Data, Cloud., refers, association, between]
 ---
 
 # Salesforce CRM: Loyalty Program Engagement Attribute Promotion Mapping
+
+> These data mappings are for the Loyalty Program Engagement Attribute Promotion DLO found
+  in the Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. Data refers to an
+  association between a promotion and an engagement attribute. Use engagement attributes to track
+  the progress of loyalty program members towards achieving promotion
+  targets.
 
 # Salesforce CRM: Loyalty Program Engagement Attribute Promotion Mapping
 

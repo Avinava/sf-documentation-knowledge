@@ -5,11 +5,14 @@ topic: cart-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.201Z
-keywords: [Cart, Schema, Note]
+lastCollected: 2026-03-12T05:14:12.148Z
+estimatedTokens: 1193
+keywords: [Cart, Schema, Map, Engagement, Mobile, SDK, cart, event, schema., Note]
 ---
 
 # Cart Schema
+
+> Map an Engagement Mobile SDK cart event to the cart schema.
 
 # Cart Schema
 
@@ -52,3 +55,9 @@ Each [Line Item Attribute](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_
 #### Note
 
 Properties added to lineItem.attributes aren’t automatically defined in the recommended schema. They’re shown to demonstrate how the source properties are mapped to the target schema. You must manually add the properties to the schema.
+
+## Related Topics
+
+- Location Tracking (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_location_tracking.htm)
+- Line Item Attribute (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_line_item_attribute.htm)
+- Cart Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_cart_event.htm)

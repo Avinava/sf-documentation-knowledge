@@ -5,11 +5,16 @@ topic: apex-versioning-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.328Z
-keywords: [Apex, Versioning, Managed, Packages, See]
+lastCollected: 2026-03-12T05:14:33.670Z
+estimatedTokens: 904
+keywords: [Apex, Versioning, Managed, Packages, managed, package, component, exhibit, different, behavior, versions., versioning, add, refine, components, while, maintaining, backwards, compatibility, existing]
 ---
 
 # Apex Versioning in Managed Packages
+
+> A managed package component can exhibit different behavior in different package
+  versions. By versioning managed Apex, you can add and refine components in the managed package,
+  while maintaining backwards compatibility for existing subscribers.
 
 # Apex Versioning in Managed Packages
 
@@ -24,11 +29,20 @@ When an existing subscriber installs a new package version, there’s still only
 #### See Also
 
 -   [Version Apex Code Behavior](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_behavior.htm "Package developers can use conditional logic in Apex classes and triggers to exhibit different behavior for different versions. With this conditional logic, you can support existing behavior in classes and triggers in previous package versions while evolving the code.")
-    
+
 -   [Apex Code Items That Aren’t Versioned](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_behavior_not_versioned.htm "Some Apex items in managed packages can’t be versioned. The changes that you make to these items are reflected across all package versions. Additionally, there are limitations to the changes that you can make to some of these items when they are used in Apex code in managed packages.")
-    
+
 -   [Deprecate Managed Apex](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_deprecated.htm "Use the @Deprecated annotation to specify Apex identifiers that can subscribers can no longer reference in subsequent releases of the managed package. Deprecation is useful when you’re refactoring code in managed packages as the requirements evolve.")
-    
+
 -   [Testing Versioned Behavior in Apex Code](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_behavior_testing.htm "When you change the behavior in an Apex class or trigger for different package versions, it’s important to test that your code runs as expected in the different package versions. You can write test methods that change the package version context to a different package version by using the System.runAs method. You can only use System.runAs in a test method.")
-    
+
 -   [Set Package Versions for Apex Classes and Triggers (for package subscribers)](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm#apex_manpkgs_subscriber_version "As a managed package subscriber, you can specify which package version that your managed Apex classes and triggers use. Set the package version in Setup, through metadata deployments, or with API requests.")
+
+## Related Topics
+
+- Version Apex Code Behavior (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_behavior.htm)
+- Apex Code Items That Aren’t Versioned (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_behavior_not_versioned.htm)
+- Deprecate Managed Apex (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_deprecated.htm)
+- Testing Versioned Behavior in Apex Code (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_behavior_testing.htm)
+- Set Package Versions for Apex Classes and Triggers (for package
+       subscribers) (atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_subscriber_version.htm)

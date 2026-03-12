@@ -5,11 +5,15 @@ topic: listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.355Z
-keywords: [ListView, Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ListViewFilter, FilterScope, Sample, Definition, Usage, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:40.897Z
+estimatedTokens: 2017
+keywords: [ListView, allows, filtered, list, records, such, contacts, accounts, custom, objects., Note, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ListViewFilter]
 ---
 
 # ListView
+
+> ListView allows you to see a filtered list of records,
+            such as contacts, accounts, or custom objects.
 
 # ListView
 
@@ -96,5 +100,51 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [CustomObject](atlas.en-us.api_meta.meta/api_meta/customobject.htm "Represents a custom object that stores data unique to your org or an external object that maps to data stored outside your org.")
-    
+
 -   [Sample package.xml Manifest Files](atlas.en-us.api_meta.meta/api_meta/manifest_samples.htm "This section includes sample package.xml manifest files that show you how to work with different subsets of metadata. A manifest file can include multiple <types> elements so you could combine the individual samples into one package.xml manifest file if you want to work with all the metadata in one batch.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+. . .
+    <listViews>
+        <fullName>All_Mileages</fullName>
+        <filterScope>everything</filterScope>
+        <label>All Mileages</label>
+    </listViews>
+    <listViews>
+        <fullName>My_Mileages</fullName>
+        <booleanFilter>1 AND 2</booleanFilter>
+        <columns>NAME</columns>
+        <columns>CREATED_DATE</columns>
+        <filterScope>mine</filterScope>
+        <filters>
+            <field>NAME</field>
+            <operation>equals</operation>
+            <value>Eric Bristow</value>
+        </filters>
+        <filters>
+            <field>City__c</field>
+            <operation>equals</operation>
+            <value>Paris</value>
+        </filters>
+        <label>My Mileages</label>
+    </listViews>
+. . .
+</CustomObject>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Metadata (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- Language (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)
+- SharedTo (atlas.en-us.api_meta.meta/api_meta/meta_sharedto.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ← Previous (atlas.en-us.api_meta.meta/api_meta/meta_index.htm)
+- Next → (atlas.en-us.api_meta.meta/api_meta/namedfilter.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)

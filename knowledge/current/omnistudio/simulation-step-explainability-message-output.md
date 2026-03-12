@@ -5,11 +5,15 @@ topic: simulation-step-explainability-message-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.855Z
-keywords: [Simulation, Step, Explainability, Message, Output]
+lastCollected: 2026-03-12T05:14:50.773Z
+estimatedTokens: 269
+keywords: [Simulation, Step, Explainability, Message, Output, representation, decision, explanation, message, step, simulation.]
 ---
 
 # Simulation Step Explainability Message Output
+
+> Output representation of a decision explanation message for a step
+      from the simulation.
 
 # Simulation Step Explainability Message Output
 

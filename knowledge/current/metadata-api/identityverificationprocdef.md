@@ -5,11 +5,15 @@ topic: identityverificationprocdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.048Z
-keywords: [IdentityVerificationProcDef, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, IdentityVerificationProcDtl, IdentityVerificationProcFld, Declarative, Metadata, Sample, Definition, Wildcard]
+lastCollected: 2026-03-12T05:14:40.423Z
+estimatedTokens: 1831
+keywords: [IdentityVerificationProcDef, Represents, definition, identity, verification, process., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, IdentityVerificationProcDtl, IdentityVerificationProcFld, Declarative]
 ---
 
 # IdentityVerificationProcDef
+
+> Represents the definition of the identity
+			verification process.
 
 # IdentityVerificationProcDef
 
@@ -104,3 +108,92 @@ This is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IdentityVerificationProcDef xmlns="http://soap.sforce.com/2006/04/metadata">
+   <identityVerificationProcDtls>
+      <fullName>Sample93AccountSearch</fullName>
+      <dataSourceType>Salesforce</dataSourceType>
+      <developerName>Sample93AccountSearch</developerName>
+      <identityVerificationProcFlds>
+         <fullName>Sample93AccountName</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93AccountName</developerName>
+         <fieldName>Name</fieldName>
+         <fieldType>requiredVerifier</fieldType>
+         <isActive>false</isActive>
+         <masterLabel>Sample93 Account Name</masterLabel>
+         <fieldValueFormula>abcd</fieldValueFormula>
+         <customFieldLabel>Name</customFieldLabel>
+         <sequenceNumber>1</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <identityVerificationProcFlds>
+         <fullName>Sample93Phone</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93Phone</developerName>
+         <fieldName>phone</fieldName>
+         <fieldType>optionalVerifier</fieldType>
+         <isActive>false</isActive>
+         <masterLabel>Sample93 Phone</masterLabel>
+         <sequenceNumber>93</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <identityVerificationProcFlds>
+         <fullName>Sample93PostalCode</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93PostalCode</developerName>
+         <fieldName>BillingPostalCode</fieldName>
+         <fieldType>optionalVerifier</fieldType>
+         <isActive>true</isActive>
+         <masterLabel>Sample93 Postal Code</masterLabel>
+         <sequenceNumber>4</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <identityVerificationProcFlds>
+         <fullName>Sample93Account</fullName>
+         <dataSourceType>Salesforce</dataSourceType>
+         <developerName>Sample93Account</developerName>
+         <fieldName>Name</fieldName>
+         <fieldType>resultField</fieldType>
+         <isActive>false</isActive>
+         <masterLabel>Sample93 Account</masterLabel>
+         <sequenceNumber>1</sequenceNumber>
+         <isManualInput>false</isManualInput>
+      </identityVerificationProcFlds>
+      <isActive>true</isActive>
+      <masterLabel>Sample93 Account Search</masterLabel>
+      <objectName>Account</objectName>
+      <searchRecordUniqueIdField>Id</searchRecordUniqueIdField>
+      <searchSequenceNumber>1</searchSequenceNumber>
+      <searchType>Text-Based</searchType>
+      <searchResultSortBy>Name</searchResultSortBy>
+      <optionalVerifiersMinVerfCount>1</optionalVerifiersMinVerfCount>
+      <isRetryAllowedAfterLimit>false</isRetryAllowedAfterLimit>
+      <retryLimit>5</retryLimit>
+      <searchFilter></searchFilter>
+      <displayRecordFieldName>LastModifiedById</displayRecordFieldName>
+   </identityVerificationProcDtls>
+   <masterLabel>Sample93 Verification Flow</masterLabel>
+   <searchLayoutType>Tab</searchLayoutType>
+</IdentityVerificationProcDef>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>IdentityVerificationProcDef</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

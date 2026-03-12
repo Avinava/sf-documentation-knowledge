@@ -5,11 +5,14 @@ topic: connectapialternativepaymentmethodoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.925Z
-keywords: [ConnectApi.AlternativePaymentMethodOutput]
+lastCollected: 2026-03-12T05:14:26.052Z
+estimatedTokens: 226
+keywords: [ConnectApi.AlternativePaymentMethodOutput, Alternative, payment, details, output.]
 ---
 
 # ConnectApi.AlternativePaymentMethodOutput
+
+> Alternative payment method details output.
 
 # ConnectApi.AlternativePaymentMethodOutput
 
@@ -23,3 +26,7 @@ Alternative payment method details output.
 | gatewayToken | String | A unique, alphanumeric ID, called a token, that a payment gateway generates when it first processes a payment. The token replaces the actual payment data so that the data is kept secure. This token is stored as encrypted text, and can be used for recurring payments. | 56.0 |
 | gatewayToken​Details | String | Detailed information about the gateway token. | 56.0 |
 | name | String | Name that you assign to the payment method object. | 56.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

@@ -5,11 +5,16 @@ topic: actionablelistdeffltrcrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.508Z
-keywords: [ActionableListDefFltrCrit, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.254Z
+estimatedTokens: 1148
+keywords: [ActionableListDefFltrCrit, Represents, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, list, definition., API, version, 60.0, later.]
 ---
 
 # ActionableListDefFltrCrit
+
+> Represents a logical expression containing filter conditions to include or
+         exclude data from the dataset that's associated with the actionable list definition.
+      This object is available in API version 60.0 and later.
 
 # ActionableListDefFltrCrit
 
@@ -57,3 +62,11 @@ Sharing rules are available for the object.
 [ActionableListDefFltrCritShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ActionableListDefFltrCritChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- ActionableListDefFltrCritFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- ActionableListDefFltrCritHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- ActionableListDefFltrCritOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- ActionableListDefFltrCritShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

@@ -5,11 +5,16 @@ topic: geolocationbasedaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.651Z
-keywords: [GeolocationBasedAction, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:56.154Z
+estimatedTokens: 667
+keywords: [GeolocationBasedAction, Represents, geolocation-based, action, which, that’s, triggered, user, enters, exits, within, area, associated, object., API, version, 61.0, later., Supported, Calls]
 ---
 
 # GeolocationBasedAction
+
+> Represents a geolocation-based action, which is an action that’s
+         triggered when a user enters, exits, or is within the area of the associated object.
+      Available in API version 61.0 and later.
 
 # GeolocationBasedAction
 

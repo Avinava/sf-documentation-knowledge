@@ -5,11 +5,16 @@ topic: setting-dml-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.055Z
-keywords: [Setting, DML, Options, allowFieldTruncation, Property, assignmentRuleHeader, Note, duplicateRuleHeader, emailHeader, localeOptions, optAllOrNone]
+lastCollected: 2026-03-12T05:14:34.667Z
+estimatedTokens: 1971
+keywords: [Setting, DML, Options, specify, options, insert, update, operations, setting, desired, Database.DMLOptions, object., set, operation, calling, setOptions, sObject, passing, Database.insert, Dat]
 ---
 
 # Setting DML Options
+
+> You can specify DML options for insert and update operations by setting the desired options
+      in the Database.DMLOptions object. You can set Database.DMLOptions for the operation by calling the setOptions method on the sObject, or by passing it as a
+      parameter to the Database.insert and Dat
 
 # Setting DML Options
 
@@ -109,13 +114,13 @@ Using the emailHeader property, you can set these options.
 -   triggerAutoResponseEmail: Indicates whether to trigger auto-response rules (true) or not (false), for leads and cases. This email can be automatically triggered by a number of events, for example when creating a case or resetting a user password. If this value is set to true, when a case is created, if there is an email address for the contact specified in ContactID, the email is sent to that address. If not, the email is sent to the address specified in SuppliedEmail.
 -   triggerOtherEmail: Indicates whether to trigger email outside the organization (true) or not (false). This email can be automatically triggered by creating, editing, or deleting a contact for a case.
 -   triggerUserEmail: Indicates whether to trigger email that is sent to users in the organization (true) or not (false). This email can be automatically triggered by a number of events; resetting a password, creating a new user, or creating or modifying a task.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     Adding comments to a case in Apex doesn’t trigger email to users in the organization even if triggerUserEmail is set to true.
-    
+
 
 Even though auto-sent emails can be triggered by actions in the Salesforce user interface, the DMLOptions settings for emailHeader take effect only for DML operations carried out in Apex code.
 
@@ -138,3 +143,57 @@ The localeOptions property specifies the language of any labels that are returne
 ## optAllOrNone Property
 
 The optAllOrNone property specifies whether the operation allows for partial success. If optAllOrNone is set to true, all changes are rolled back if any record causes errors. The default for this property is false and successfully processed records are committed while records with errors aren't. This property is available in Apex saved against Salesforce API version 20.0 and later.
+
+## Code Examples
+
+```apex
+Database.DMLOptions dml = new Database.DMLOptions();
+
+dml.allowFieldTruncation = true;
+```
+
+```apex
+Database.DMLOptions dmo = new Database.DMLOptions();
+dmo.assignmentRuleHeader.useDefaultRule= true;
+
+Lead l = new Lead(company='ABC', lastname='Smith');
+l.setOptions(dmo);
+insert l;
+```
+
+```apex
+Database.DMLOptions dmo = new Database.DMLOptions();
+dmo.assignmentRuleHeader.assignmentRuleId= '01QD0000000EqAn';
+
+Lead l = new Lead(company='ABC', lastname='Smith');
+l.setOptions(dmo);
+insert l;
+```
+
+```apex
+Database.DMLOptions dml = new Database.DMLOptions(); 
+dml.DuplicateRuleHeader.AllowSave = true;
+Account duplicateAccount = new Account(Name='dupe');
+Database.SaveResult sr = Database.insert(duplicateAccount, dml);
+if (sr.isSuccess()) {
+	System.debug('Duplicate account has been inserted in Salesforce!');
+}
+```
+
+```apex
+Account a = new Account(name='Acme Plumbing');
+
+insert a;
+
+Contact c = new Contact(email='jplumber@salesforce.com', firstname='Joe',lastname='Plumber', accountid=a.id);
+
+insert c;
+
+Database.DMLOptions dlo = new Database.DMLOptions();
+
+dlo.EmailHeader.triggerAutoResponseEmail = true;
+
+Case ca = new Case(subject='Plumbing Problems', contactid=c.id);
+
+database.insert(ca, dlo);
+```

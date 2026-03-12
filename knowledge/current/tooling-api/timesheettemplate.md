@@ -5,11 +5,15 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.876Z
-keywords: [TimeSheetTemplate, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:46.972Z
+estimatedTokens: 950
+keywords: [TimeSheetTemplate, Represents, template, creating, time, sheets, Field, Service., API, version, 46.0, later., Supported, SOAP, Calls, REST, HTTP, Special, Access, Rules]
 ---
 
 # TimeSheetTemplate
+
+> Represents a template for creating time sheets in Field
+        Service. Available in API version 46.0 and later.
 
 # TimeSheetTemplate
 
@@ -49,3 +53,8 @@ Field Service must be enabled to access TimeSheetTemplate. Users must have the C
 | TimeSheetTemplateAssignments | TypeQueryResultPropertiesNillableDescriptionA list of profiles that the template is assigned to. This field is only visible when the template has been assigned to at least one user profile. Available in API version 48.0 and later. |
 | WorkWeekEndDay | TypepicklistPropertiesDefaulted On Create, Filter, Group, Restricted picklist, SortDescriptionThe end day of the template's work week. One of the following values:MondayTuesdayWednesdayThursdayFridaySaturdaySunday (default) |
 | WorkWeekStartDay | TypepicklistPropertiesDefaulted On Create, Filter, Group, Restricted picklist, SortDescriptionThe start day of the template's work week. One of the following values:MondayTuesdayWednesdayThursdayFridaySaturdaySunday (default) |
+
+## Related Topics
+
+- SOQL
+                Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)

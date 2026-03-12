@@ -5,11 +5,18 @@ topic: working-with-feeds-and-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.948Z
-keywords: [Working, Feeds, Feed, Elements, Note, Capabilities, How, Salesforce, Displays, Items, Element, Visibility, Types, Important, Post, Item, postFeedElement, Tip, Get, See]
+lastCollected: 2026-03-12T05:14:34.512Z
+estimatedTokens: 5026
+keywords: [Working, Feeds, Feed, Elements, Chatter, feed, container, elements., abstract, ConnectApi.FeedElement, parent, ConnectApi.FeedItem, representing, posts, ConnectApi.GenericFeedElement, bundles, recommendations, feed., Note, Capabilities]
 ---
 
 # Working with Feeds and Feed Elements
+
+> The Chatter feed is a container of feed elements. The abstract
+         class ConnectApi.FeedElement is a parent class to
+         the ConnectApi.FeedItem class, representing feed
+         posts, and the ConnectApi.GenericFeedElement class,
+         representing bundles and recommendations in the feed.
 
 # Working with Feeds and Feed Elements
 
@@ -43,9 +50,9 @@ The feed item ([ConnectApi.FeedItem](https://developer.salesforce.com/docs/atlas
 
 1.  Actor (ConnectApi.FeedItem.actor)—A photo or icon of the creator of the feed item. (You can override the creator at the feed item type level. For example, the dashboard snapshot feed item type shows the dashboard as the creator.)
 2.  Header (ConnectApi.FeedElement.header)—Context for the feed item. The same feed item can have a different header depending on who posted it and where it was posted. For example, Ted posted this feed item to a group.
-    
+
     Timestamp (ConnectApi.FeedElement.relativeCreatedDate)—The date and time when the feed item was posted. If the feed item is less than two days old, the date and time are formatted as a relative, localized string, such as “17m ago”. Otherwise, the date and time are formatted as an absolute, localized string.
-    
+
 3.  Body (ConnectApi.FeedElement.body)—All feed items have a body. The body can be null, which is the case when the user doesn’t provide text for the feed item. Because the body can be null, you can’t use it as the default case for rendering text. Instead, use the ConnectApi.FeedElement.header.text property, which always contains a value.
 4.  Auxiliary Body (ConnectApi.FeedElement.capabilities)—The visualization of the capabilities. See [Capabilities](#capabilities).
 
@@ -256,9 +263,74 @@ The record can be a record of any type that supports feeds, including group. The
 #### See Also
 
 -   [*Apex Reference Guide*: ChatterFavorites Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_ChatterFavorites_static_methods.htm "Apex Reference Guide: ChatterFavorites Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ChatterFeeds Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm "Apex Reference Guide: ChatterFeeds Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ConnectApi Output Classes](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_output.htm "Apex Reference Guide: ConnectApi Output Classes - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: ConnectApi Input Classes](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_connectapi_input.htm "Apex Reference Guide: ConnectApi Input Classes - HTML (New Window)")
+
+## Code Examples
+
+```
+ConnectApi.FeedElementPage newsFeedElementPage = 
+   ConnectApi.ChatterFeeds.getFeedElementsFromFeed(null, 
+      ConnectApi.FeedType.News, 'me');
+
+ConnectApi.FeedElementPage topicsFeedElementPage = 
+   ConnectApi.ChatterFeeds.getFeedElementsFromFeed(null, 
+      ConnectApi.FeedType.Topics, '0TOD00000000cld');
+```
+
+```
+ConnectApi.FeedElement feedElement = ConnectApi.ChatterFeeds.postFeedElement(null, 'me', ConnectApi.FeedElementType.FeedItem, 'Working from home today.');
+```
+
+```
+ConnectApi.FeedElement feedElement = ConnectApi.ChatterFeeds.postFeedElement(null, '005D00000016Qxp', ConnectApi.FeedElementType.FeedItem, 'Kevin, do you have information about the new categories?');
+```
+
+```apex
+ConnectApi.FeedItemInput feedItemInput = new ConnectApi.FeedItemInput();
+ConnectApi.MentionSegmentInput mentionSegmentInput = new ConnectApi.MentionSegmentInput();
+ConnectApi.MessageBodyInput messageBodyInput = new ConnectApi.MessageBodyInput();
+ConnectApi.TextSegmentInput textSegmentInput = new ConnectApi.TextSegmentInput();
+
+messageBodyInput.messageSegments = new List<ConnectApi.MessageSegmentInput>();
+
+mentionSegmentInput.id = '005RR000000Dme9';
+messageBodyInput.messageSegments.add(mentionSegmentInput);
+
+textSegmentInput.text = 'Could you take a look?';
+messageBodyInput.messageSegments.add(textSegmentInput);
+
+feedItemInput.body = messageBodyInput;
+feedItemInput.feedElementType = ConnectApi.FeedElementType.FeedItem;
+feedItemInput.subjectId = '0F9RR0000004CPw';
+
+ConnectApi.FeedElement feedElement = ConnectApi.ChatterFeeds.postFeedElement(Network.getNetworkId(), feedItemInput);
+```
+
+```apex
+ConnectApi.FeedItemInput feedItemInput = new ConnectApi.FeedItemInput();
+ConnectApi.MentionSegmentInput mentionSegmentInput = new ConnectApi.MentionSegmentInput();
+ConnectApi.MessageBodyInput messageBodyInput = new ConnectApi.MessageBodyInput();
+ConnectApi.TextSegmentInput textSegmentInput = new ConnectApi.TextSegmentInput();
+
+messageBodyInput.messageSegments = new List<ConnectApi.MessageSegmentInput>();
+
+textSegmentInput.text = 'Does anyone know anyone with contacts here?';
+messageBodyInput.messageSegments.add(textSegmentInput);
+
+// Mention a group.
+mentionSegmentInput.id = '0F9D00000000oOT';
+messageBodyInput.messageSegments.add(mentionSegmentInput);
+
+feedItemInput.body = messageBodyInput;
+feedItemInput.feedElementType = ConnectApi.FeedElementType.FeedItem;
+
+// Use a record ID for the subject ID.
+feedItemInput.subjectId = '001D000000JVwL9';
+
+ConnectApi.FeedElement feedElement = ConnectApi.ChatterFeeds.postFeedElement(null, feedItemInput);
+```

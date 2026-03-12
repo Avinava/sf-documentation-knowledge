@@ -5,11 +5,15 @@ topic: forecastingtypesource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.830Z
-keywords: [ForecastingTypeSource, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+lastCollected: 2026-03-12T05:14:40.151Z
+estimatedTokens: 939
+keywords: [ForecastingTypeSource, Represents, mapping, forecasting, source, definition, forecast, type., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # ForecastingTypeSource
+
+> Represents the mapping of a forecasting source definition to
+      a forecast type.
 
 # ForecastingTypeSource
 
@@ -71,3 +75,43 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 -   Forecast types that were available before API version 52.0 can be activated, deactivated, and deleted but not created. To enable an existing forecast type, update the active flag.
 -   Forecast types that are available only in API version 52.0 and later can be created, activated, deactivated, and deleted. If the forecast type doesn’t exist, it is created in the inactive state. If the forecast type exists, the active flag is updated. Deploy the zip file twice to create and activate the forecast type.
 -   Deploy Metadata API types in the following sequence: ForecastingSettings, ForecastingType, ForecastingSourceDefinition, and then ForecastingTypeSource. If all are specified in the package file, the sequence is followed automatically.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingTypeSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <forecastingSourceDefinition>FSD_OpportunityLineItem</forecastingSourceDefinition>
+    <forecastingType>d</forecastingType>
+    <masterLabel>ForecastingTypeSource_d7</masterLabel>
+    <parentSourceDefinition>FSD_OpportunityLineItemSchedule1</parentSourceDefinition>
+    <relationField>OpportunityLineItemSchedule.OpportunityLineItemId</relationField>
+    <sourceGroup>1</sourceGroup>
+</ForecastingTypeSource>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingTypeSource xmlns="http://soap.sforce.com/2006/04/metadata">
+<forecastingSourceDefinition>FSDOpportunityLineItemSchedule</forecastingSourceDefinition>
+    <forecastingType>c3</forecastingType>
+    <masterLabel>ForecastingTypeSource_c37syR</masterLabel>
+    <sourceGroup>1</sourceGroup>
+</ForecastingTypeSource>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ForecastingTypeSource</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

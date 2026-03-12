@@ -5,11 +5,17 @@ topic: permissionsetgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.936Z
-keywords: [PermissionSetGroup, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.708Z
+estimatedTokens: 845
+keywords: [PermissionSetGroup, Represents, group, permission, permissions, within, them., set, groups, organize, based, job, functions, tasks., Then, package, needed., Declarative, Metadata, File]
 ---
 
 # PermissionSetGroup
+
+> Represents a group of permission
+                sets and the permissions within them. Use permission set groups to
+            organize permissions based on job functions or tasks. Then, you can package the groups
+            as needed.
 
 # PermissionSetGroup
 
@@ -69,3 +75,58 @@ This example package.xml manifest retrieves the PermissionSetGroup metadata for 
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+     <fullName>Finance_Mgmt_PermSetGroup</fullName>
+     <description>Finance_Mgmt_PermSetGroup desc</description>
+     <label>Finance_Mgmt_PermSetGroup</label>
+     <permissionSets>Billing_PS</permissionSets>
+</PermissionSetGroup>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+     <fullName>Billing_PS</fullName>
+     <description>Billing_PS</description>
+     <label>Billing_PS</label>
+     <hasActivationRequired>false</hasActivationRequired>
+     <license>Salesforce</license>
+     <userPermissions>
+          <enabled>true</enabled>
+          <name>ViewSetup</name>
+     </userPermissions>
+     <userPermissions>
+          <enabled>true</enabled>
+          <name>ViewRoles</name>
+     </userPermissions>
+     <userPermissions>
+          <enabled>true</enabled>
+          <name>EditBillingInfo</name>
+    </userPermissions>
+</PermissionSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>
+          <members>Finance_Mgmt_PermSetGroup</members>
+          <name>PermissionSetGroup</name>
+     </types>
+     <types>
+          <members>Billing_PS</members>
+          <name>PermissionSet</name>
+     </types>
+     <version>45.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

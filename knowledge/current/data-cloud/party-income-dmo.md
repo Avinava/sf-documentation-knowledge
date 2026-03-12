@@ -5,11 +5,16 @@ topic: party-income-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.844Z
-keywords: [Party, Income, DMO, API, Name, Category, Primary, Subject, Area, Key, Label, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.699Z
+estimatedTokens: 874
+keywords: [Party, Income, DMO, Represents, income, individual, business., salaries, commissions, fees, rental, sources., API, version, later., Name, Category, Primary, Subject, Area]
 ---
 
 # Party Income DMO
+
+> Represents the income of an individual or a business. The income can be from salaries,
+      commissions, fees, rental properties, and other sources. This DMO is available in API version
+      61 and later.
 
 # Party Income DMO
 

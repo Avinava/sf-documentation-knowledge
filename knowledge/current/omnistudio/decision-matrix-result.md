@@ -5,11 +5,14 @@ topic: decision-matrix-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.287Z
-keywords: [Decision, Matrix, Result]
+lastCollected: 2026-03-12T05:14:49.963Z
+estimatedTokens: 237
+keywords: [Decision, Matrix, Result, Output, representation, decision, matrix, details.]
 ---
 
 # Decision Matrix Result
+
+> Output representation of the decision matrix details.
 
 # Decision Matrix Result
 
@@ -31,3 +34,45 @@ Sample Response
 | message | String | The request response message. | Small, 53.0 | 53.0 |
 | name | String | The name of the decision matrix. | Small, 53.0 | 53.0 |
 | outputVariables | Decision Matrix Variable[] | The list of output variables of the decision matrix. | Small, 53.0 | 53.0 |
+
+## Code Examples
+
+```
+{
+   "code" : "200",
+   "id" : "0lIx0000000000zEAA",
+   "inputVariables" : [ {
+      "dataType" : "Number",
+      "id" : "0lJx0000000000zEAA",
+      "name" : "IN1"
+   }, {
+      "dataType" : "Text",
+      "id" : "0lJx00000000010EAA",
+      "name" : "IN2"
+   }, {
+      "dataType" : "Text",
+      "id" : "0lJx00000000011EAA",
+      "name" : "IN3"
+   }, {
+      "dataType" : "Text",
+      "id" : "0lJx00000000012EAA",
+      "name" : "IN4"
+   } ],
+   "isSuccess" : true,
+   "message" : "",
+   "name" : "DescisionMatrix2",
+   "outputVariables" : [ {
+      "dataType" : "Text",
+      "id" : "0lJx00000000013EAA",
+      "name" : "OUT1"
+   }, {
+      "dataType" : "Text",
+      "id" : "0lJx00000000014EAA",
+      "name" : "OUT2"
+   } ]
+}
+```
+
+## Related Topics
+
+- Decision Matrix Variable[] (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_variable.htm)

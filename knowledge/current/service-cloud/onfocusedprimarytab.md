@@ -5,11 +5,16 @@ topic: onfocusedprimarytab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.577Z
-keywords: [onFocusedPrimaryTab, Syntax, Arguments, Sample, Code–Visualforce, Event, Handler, Response]
+lastCollected: 2026-03-12T05:14:58.262Z
+estimatedTokens: 210
+keywords: [onFocusedPrimaryTab, Registers, function, call, focus, browser, changes, different, primary, tab., only, API, version, 25.0, later., Syntax, Arguments, Sample, Code–Visualforce, Event]
 ---
 
 # onFocusedPrimaryTab()
+
+> Registers a function to call when the focus of the
+            browser changes to a different primary tab. This method is only available in API version 25.0 or
+                later.
 
 # onFocusedPrimaryTab()
 
@@ -41,3 +46,24 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | id | string | The ID of the primary tab on which the browser is focused. |
 | objectId | string | The object ID of the primary tab on which the browser is focused or null if no object exists. |
+
+## Code Examples
+
+```
+sforce.console.onFocusedPrimaryTab(eventHandler:Function)
+```
+
+```
+<apex:page>
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+
+    <script type="text/javascript">
+        var eventHandler = function (result) {
+            alert('Focus changed to a different primary tab. The primary tab ID is:' 
+        + result.id + 'and the object Id is:' + result.objectId);
+        };
+        sforce.console.onFocusedPrimaryTab(eventHandler);
+    </script>
+</apex:page>
+```

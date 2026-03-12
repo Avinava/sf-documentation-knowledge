@@ -5,11 +5,14 @@ topic: retrieve-compliance-async-evaluation-job-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.493Z
-keywords: [Retrieve, Compliance, Async, Evaluation, Job, Detail, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:47.340Z
+estimatedTokens: 348
+keywords: [Retrieve, Compliance, Async, Evaluation, Job, Detail, Action, Get, job, details, asynchronous, compliance, evaluation., Special, Access, Rules, Supported, REST, HTTP, Inputs]
 ---
 
 # Retrieve Compliance Async Evaluation Job Detail Action
+
+> Get job details for an asynchronous compliance evaluation.
 
 # Retrieve Compliance Async Evaluation Job Detail Action
 
@@ -73,4 +76,100 @@ This example shows a sample response for the Retrieve Compliance Async Evaluatio
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "complianceAsyncEvaluationJobId": "1VUSG000000N4J3",
+      "pageSize":10,
+      "offsetSize":0
+    }
+  ]
+}
+```
+
+```apex
+public class JobStatus {
+  public void getJobStatus() {
+    String jobId = '<JOB ID>';
+    Integer pageSize = 10;
+    Integer offset = 0;
+
+    // Call API
+    ConnectApi.ComplianceJobStatusRepresentation response = 
+      ConnectApi.IndustriesCompliance.getComplianceJobResults(jobId, pageSize,
+      offset);
+    System.debug('Response**********' + response);
+  }
+}
+
+// Execute the method
+JobStatus jobStatus = new JobStatus();
+jobStatus.getJobStatus();
+```
+
+```
+{
+  "actionName": "retrieveCmplAsyncEvalJobDtl",
+  "errors": null,
+  "invocationId": null,
+  "isSuccess": true,
+  "outcome": null,
+  "outputValues": {
+    "retrieveCmplJobDetailActionResponse": {
+      "complianceProcedureId": "1Naxx0000004C92CAE",
+      "complianceProcedureVersionId": "1Nbxx0000004C92CAE",
+      "failedEvaluationsCount": 0,
+      "jobId": "1VUxx0000004C92",
+      "results": [
+        {
+          "controls": [
+            {
+              "complianceControlId": "18Qxx0000004C92EAE",
+              "complianceControlVersionId": "18txx0000004C92AAE",
+              "complianceMessage": "Compliant!",
+              "errorId": null,
+              "errorMessage": null,
+              "isCompliant": true,
+              "status": "Success"
+            }
+          ],
+          "errorId": null,
+          "errorMessage": null,
+          "isCompliant": true,
+          "status": "Success",
+          "transactionId": "c6357adf-9798-4549-9d7f-80c12adfad89",
+          "transactionKey": "myKey1"
+        },
+        {
+          "controls": [
+            {
+              "complianceControlId": "18Qxx0000004C92EAE",
+              "complianceControlVersionId": "18txx0000004C92AAE",
+              "complianceMessage": "Not Compliant!",
+              "errorId": null,
+              "errorMessage": null,
+              "isCompliant": false,
+              "status": "Success"
+            }
+          ],
+          "errorId": null,
+          "errorMessage": null,
+          "isCompliant": false,
+          "status": "Success",
+          "transactionId": "c6357adf-9798-4549-9d7f-80c12adfad89",
+          "transactionKey": "myKey2"
+        }
+      ],
+      "successfulEvaluationsCount": 2,
+      "totalEvaluationsCount": 2
+    }
+  },
+  "sortOrder": -1,
+  "version": 1
+}
 ```

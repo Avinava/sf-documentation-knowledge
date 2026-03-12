@@ -5,11 +5,16 @@ topic: communityworkspacesnode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.420Z
-keywords: [CommunityWorkspacesNode, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.876Z
+estimatedTokens: 479
+keywords: [CommunityWorkspacesNode, Represents, node, used, Experience, Workspaces., Tooling, API, version, 39.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # CommunityWorkspacesNode
+
+> Represents a
+            node used in Experience Workspaces. Available in Tooling API version 39.0 and
+        later.
 
 # CommunityWorkspacesNode
 

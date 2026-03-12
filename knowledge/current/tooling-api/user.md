@@ -5,11 +5,16 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.903Z
-keywords: [User, Note, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:47.009Z
+estimatedTokens: 360
+keywords: [User, Represents, user., retrieve, standard, fields, Tooling, API, custom, can’t, retrieved., Note, Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # User
+
+> Represents a user. You can retrieve standard
+            fields on User with the Tooling API, but custom fields
+            can’t be retrieved.
 
 # User
 

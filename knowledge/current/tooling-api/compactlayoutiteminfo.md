@@ -5,11 +5,15 @@ topic: compactlayoutiteminfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.436Z
-keywords: [CompactLayoutItemInfo, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Fields]
+lastCollected: 2026-03-12T05:14:44.896Z
+estimatedTokens: 423
+keywords: [CompactLayoutItemInfo, Represents, field, selected, compact, layout, order, layout., Supported, SOAP, Calls, REST, HTTP, Limitations, Fields]
 ---
 
 # CompactLayoutItemInfo
+
+> Represents a field selected for
+            a compact layout, and the order of that field in the compact layout.
 
 # CompactLayoutItemInfo
 
@@ -41,3 +45,9 @@ GET
 | FieldDefinition | TypeFieldDefinitionPropertiesFilter, Group, Nillable, SortDescriptionRequired. The definition of this field. |
 | FieldDefinitionId | TypestringPropertiesFilter, Group, Nillable, SortDescriptionRequired. ID of this field. |
 | SortOrder | TypeintPropertiesFilter, Group, Nillable, SortDescriptionThe order of the field in the compact layout. 1 is first. |
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)
+- FieldDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm)

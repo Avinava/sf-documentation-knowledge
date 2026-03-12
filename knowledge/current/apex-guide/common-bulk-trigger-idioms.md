@@ -5,11 +5,18 @@ topic: common-bulk-trigger-idioms
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.711Z
-keywords: [Common, Bulk, Trigger, Idioms, Maps, Sets, Triggers, Correlating, Records, Query, Results, Insert, Update, Unique, Fields]
+lastCollected: 2026-03-12T05:14:34.153Z
+estimatedTokens: 714
+keywords: [Common, Bulk, Trigger, Idioms, Although, bulk, triggers, allow, developers, process, records, without, exceeding, execution, governor, limits, they, difficult, understand, code]
 ---
 
 # Common Bulk Trigger Idioms
+
+> Although bulk triggers allow developers to process more records
+without exceeding execution governor limits, they can be more difficult
+for developers to understand and code because they involve processing
+batches of several records at a time. The following sections provide
+examples of idioms that s
 
 # Common Bulk Trigger Idioms
 
@@ -41,3 +48,44 @@ When there are triggers present, the retry logic in bulk operations causes a rol
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables_considerations.htm "Context Variable Considerations")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm "Defining Triggers")
+
+## Code Examples
+
+```apex
+// When a new line item is added to an opportunity, this trigger copies the value of the
+// associated product's color to the new record.
+trigger oppLineTrigger on OpportunityLineItem (before insert) {
+
+    // For every OpportunityLineItem record, add its associated pricebook entry
+    // to a set so there are no duplicates.
+    Set<Id> pbeIds = new Set<Id>();
+    for (OpportunityLineItem oli : Trigger.new) 
+        pbeIds.add(oli.pricebookentryid);
+
+    // Query the PricebookEntries for their associated product color and place the results
+    // in a map.
+    Map<Id, PricebookEntry> entries = new Map<Id, PricebookEntry>(
+        [select product2.color__c from pricebookentry 
+         where id in :pbeIds]);
+         
+    // Now use the map to set the appropriate color on every OpportunityLineItem processed
+    // by the trigger.
+    for (OpportunityLineItem oli : Trigger.new) 
+        oli.color__c = entries.get(oli.pricebookEntryId).product2.color__c;  
+}
+```
+
+```
+trigger oppTrigger on Opportunity (before delete) {
+    for (Quote__c q : [SELECT opportunity__c FROM quote__c 
+                       WHERE opportunity__c IN :Trigger.oldMap.keySet()]) {
+        Trigger.oldMap.get(q.opportunity__c).addError('Cannot delete 
+                                                       opportunity with a quote');
+    }
+}
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_triggers_context_variables_considerations.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_triggers_defining.htm)

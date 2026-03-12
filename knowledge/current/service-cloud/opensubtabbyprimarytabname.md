@@ -5,11 +5,18 @@ topic: opensubtabbyprimarytabname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.607Z
-keywords: [openSubtabByPrimaryTabName, Syntax, Arguments, Sample, Code–Visualforce, Note, Response]
+lastCollected: 2026-03-12T05:14:58.304Z
+estimatedTokens: 595
+keywords: [openSubtabByPrimaryTabName, Opens, new, subtab, within, primary, tab, displays, content, specified, URL, which, relative, absolute., override, existing, subtab., open, via, tab's]
 ---
 
 # openSubtabByPrimaryTabName()
+
+> Opens a new subtab (within a primary tab)
+            that displays the content of a specified URL, which can be relative or absolute. You can
+            also override an existing subtab. Use to open a new subtab on a primary tab via the
+            primary tab's name. This
+                method is only available in API version 22.0 or later.
 
 # openSubtabByPrimaryTabName()
 
@@ -55,3 +62,40 @@ This method is asynchronous so it returns its response in an object in a callbac
 | --- | --- | --- |
 | success | boolean | true if the subtab successfully opened; false if the subtab didn't open. |
 | id | string | ID of the subtab. IDs are only valid during a user session; IDs become invalid when the user leaves the Salesforce console. |
+
+## Code Examples
+
+```
+sforce.console.openSubtabByPrimaryTabName(primaryTabName:String, url:URL, active:Boolean, tabLabel:String, id:String, (optional)callback:Function, (optional)name:String)
+```
+
+```
+<apex:page standardController="Case">
+
+    <A HREF="#" onClick="testOpenSubtab();return false">
+        Click here to open a new subtab by primary tab name</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testOpenSubtabByPrimaryTabName() {
+            //First open a primary tab by name
+            sforce.console.openPrimaryTab(null, 'http://www.yahoo.com', true, 'Yahoo', openSubtab, 'yahoo');
+        }
+        
+        var openSubtab = function openSubtab(result) {
+            //Open the subtab by the name specified in function testOpenSubtabByPrimaryTabName()
+            sforce.console.openSubtabByPrimaryTabName('yahoo', 'https://salesforce.com', true, 
+                'salesforce', null, openSuccess);
+        };
+        
+        var openSuccess = function openSuccess(result) {
+            //Report whether we succeeded in opening the subtab
+            if (result.success == true) {
+                alert('subtab successfully opened');
+            } else {
+                alert('subtab cannot be opened');
+            }
+        };
+    </script>
+</apex:page>
+```

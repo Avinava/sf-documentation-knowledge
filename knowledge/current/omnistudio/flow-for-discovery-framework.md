@@ -5,11 +5,17 @@ topic: flow-for-discovery-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.048Z
-keywords: [Flow, Discovery, Framework, FlowActionCall]
+lastCollected: 2026-03-12T05:14:51.068Z
+estimatedTokens: 244
+keywords: [Flow, Discovery, Framework, Represents, metadata, associated, flow., create, application, navigates, users, through, series, screens, query, update, records, database., execute, logic]
 ---
 
 # Flow for Discovery Framework
+
+> Represents the metadata associated with a flow. With Flow, you can create an
+    application that navigates users through a series of screens to query and update records in the
+    database. You can also execute logic and provide branching capability based on user input to
+    build dynamic applications.
 
 # Flow for Discovery Framework
 

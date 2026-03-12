@@ -4,16 +4,21 @@ domain: omnistudio
 topic: ocrsampledocument
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.561Z
-keywords: [OcrSampleDocument, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:51.274Z
+estimatedTokens: 727
+keywords: [OcrSampleDocument, Represents, details, sample, document, that's, used, reference, while, extracting, mapping, information, customer, document., API, version, 50.0, later., Supported, Calls]
 ---
 
 # OcrSampleDocument
 
+> Represents the details of a sample document or a document type
+      that's used as a reference while extracting and mapping information from a customer form. This type extends 
+      the Metadata metadata type and inherits its fullName field.
+
 # OcrSampleDocument
 
-Represents the details of a sample document or a document type that's used as a reference while extracting and mapping information from a customer document. This object is available in API version 52.0 and later.
+Represents the details of a sample document or a document type that's used as a reference while extracting and mapping information from a customer form. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=industries_reference)
 
@@ -21,28 +26,152 @@ Represents the details of a sample document or a document type that's used as a 
 
 Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
-## Supported SOAP API Calls
+The OcrSampleDocument type doesn’t need to represent a real sample document. It can also be an abstract document that represents all documents of the same DocumentType. In such cases, the contentAsset and documentHeight fields are null.
 
-create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
+## File Suffix and Directory Location
 
-## Supported REST API Methods
+OcrSampleDocument components have the suffix .ocrSampleDocument and are stored in the ocrSampleDocuments folder.
 
-DELETE, GET, HEAD, PATCH, POST, Query
+## Version
+
+OcrTemplate components are available in API version 52.0 and later.
 
 ## Special Access Rules
 
-To use this tooling API object, your Salesforce org must have the AWSTextract1000LimitAddOn license.
+To use this metadata type, your Salesforce org must have the AWSTextract1000LimitAddOn license.
 
 ## Fields
 
-| Field | Details |
-| --- | --- |
-| ApplicationType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe application associated with the OCR sample document. Available in API version 54.0 and later.Possible values are:EinsteinDocumentReaderIndustries |
-| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
-| DocumentHeight | TypedoublePropertiesFilter, Nillable, SortDescriptionNormalized height of the OCR sample document page. |
-| FullName | TypestringPropertiesCreate, Group, NillableDescriptionFull name of the associated metadata type in Metadata API.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
-| Language | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionLanguage of the OCR sample document. |
-| ManageableState | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package.Possible values are:beta—Managed-Betadeleted—Managed-Proposed-Deleteddeprecated—Managed-Proposed-DeprecateddeprecatedEditable—SecondGen-Installed-Deprecatedinstalled—Managed-InstalledinstalledEditable—SecondGen-Installed-Editablereleased—Managed-Releasedunmanaged—Unmanaged |
-| MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionLabel of the OCR sample document. |
-| Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionOCR sample document metadata. |
-| NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionNamespace prefix associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. |
+| Field Name | Field Type | Description |
+| --- | --- | --- |
+| applicationType | OcrApplicationType (enumeration of type string) | The type of application using the OCR sample document.Possible values are:EinsteinDocumentReaderIndustries |
+| contentAsset | string | The ID of the OCR sample document asset.This field is null if the OcrSampleDocument is an abstract document representing the DocumentType. |
+| documentHeight | double | The normalized height of the OCR sample document page.This field is null if the OcrSampleDocument is an abstract document representing the DocumentType. |
+| documentType | string | Required. The type of the OCR sample document. |
+| masterLabel | string | Required. The label for the OCR sample document. |
+| ocrSampleDocumentFields | OcrSampleDocumentField[] | The details of the field in a form whose value is extracted and mapped to a Salesforce object field. |
+| ocrSampleDocumentPages | OcrSampleDocumentPage[] | A collection of fields that define a page in the OCR sample document. |
+
+## OcrSampleDocumentField
+
+Represents the details of the field in a form whose value is extracted and mapped to a Salesforce object field.
+
+| Field Name | Field Type | Description |
+| --- | --- | --- |
+| cellColumnNumber | int | The column number in the item with the cell storing this field’s value. Available in API version 56.0 and later. |
+| cellColumnSpanValue | int | The number of columns that span the cell storing this field’s value. Available in API version 56.0 and later. |
+| cellRowNumber | int | The row number in the item with the cell storing this field’s value. Available in API version 56.0 and later. |
+| cellRowSpanValue | int | The number of rows that span the cell storing this field’s value. Available in API version 56.0 and later. |
+| fieldLabelMaxX | double | A normalized coordinate representing the right edge of the bounding box of the key. |
+| fieldLabelMaxY | double | A normalized coordinate representing the bottom edge of the bounding box of the key. |
+| fieldLabelMinX | double | A normalized coordinate representing the left edge of the bounding box of the key. |
+| fieldLabelMinY | double | A normalized coordinate representing the top edge of the bounding box of the key. |
+| fieldValueName | string | Name of the referred field value. Available in API version 56.0 and later. |
+| isAutoExtractedValue | boolean | Indicates whether the key is automatically extracted (true) or not (false). Available in API version 57.0 and later.This field helps to distinguish auto-extracted keys from manual ones. |
+| keyContent | string | The content in a particular area of the form, representing the field that is extracted by OCR. |
+| ocrSampleDocument | string | Required. The associated OCR sample document used as a reference while extracting and mapping information from a customer form. |
+| ocrSampleDocumentPage | string | A reference to a page of the OCR sample document that contains the key.This field is null if the OcrSampleDocument is an abstract document representing the DocumentType. |
+| ocrSampleDocumentPageItem | OcrTemplate | A reference to the item on the sample document page containing this field's value. Available in API version 56.0 and later. |
+
+## OcrSampleDocumentPage
+
+Represents a collection of fields that define a page in the OCR sample document. This type exists only if the OcrSampleDocument is a real sample document and not an abstract document representing the DocumentType.
+
+| Field Name | Field Type | Description |
+| --- | --- | --- |
+| ocrSampleDocument | string | Required. The associated OCR sample document used as a reference while extracting and mapping information from a customer form. |
+| ocr​Sample​Document​Page​Items | OcrSampleDocument | The collection of page items with the associated OCR sample document page. Available in API version 56.0 and later. |
+| pageHeight | double | The normalized height of the OCR sample document page. |
+| pageNumber | integer | Required. The page number of the page in the associated OCR sample document. |
+
+## OcrSampleDocumentPageItem
+
+Represents a foreign key reference to the item on the sample document page containing a value for the page item.
+
+| Field Name | Field Type | Description |
+| --- | --- | --- |
+| hasHeader | boolean | Indicates whether the OCR sample document page item has a header (true) or not (false). The default value is false. Available in API version 56.0 and later. |
+| sequenceNumber | int | Required. The sequence number of the item on an OCR sample document page with multiple items. Available in API version 56.0 and later. |
+| title | string | The title of the OCR sample document page item. Available in API version 56.0 and later. |
+| type | ItemType (enumeration of type string) | Required. Specifies the type of OCR sample document page item. Available in API version 56.0 and later.Valid value is TABLE. |
+
+## Declarative Metadata Sample Definition
+
+The following is an example of a OcrSampleDocument component.
+
+```
+
+```
+
+The following is an example package.xml that references the previous definition.
+
+```
+
+```
+
+## Wildcard Support in the Manifest File
+
+This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OcrSampleDocument xmlns="http://soap.sforce.com/2006/04/metadata">
+   <contentAsset>asset_01jpeg</contentAsset>
+   <documentHeight>1.24</documentHeight>
+   <documentType>Form</documentType>
+   <masterLabel>Form</masterLabel>
+   <ocrSampleDocumentFields>
+   ...<cellColumnNumber>1</cellColumnNumber>
+      <cellColumnSpanValue>1</cellColumnSpanValue>
+      <cellRowNumber>1</cellRowNumber>
+      <cellRowSpanValue>1</cellRowSpanValue>
+      <fieldLabelMaxX>0.5975854</fieldLabelMaxX>
+      <fieldLabelMaxY>0.46625894</fieldLabelMaxY>
+      <fieldLabelMinX>0.5065626</fieldLabelMinX>
+      <fieldLabelMinY>0.39605626</fieldLabelMinY>
+      <keyContent>Last Name</keyContent>
+     <ocrSampleDocument>image240</ocrSampleDocument>
+     <ocrSampleDocumentPage>1</ocrSampleDocumentPage>
+     <ocrSampleDocumentPageItem>
+         <hasHeader>false</hasHeader>
+         <sequenceNumber>1</sequenceNumber>
+         <title>Table1</title>
+         <type>TABLE</type>
+     </ocrSampleDocumentPageItem>
+   </ocrSampleDocumentFields>
+   <ocrSampleDocumentPages>
+      <ocrSampleDocument>Form</ocrSampleDocument>
+      <pageHeight>1.0</pageHeight>
+      <pageNumber>1</pageNumber>
+   </ocrSampleDocumentPages>
+   <ocrSampleDocumentPages>
+      <ocrSampleDocument>Form</ocrSampleDocument>
+      <pageNumber>2</pageNumber>
+   </ocrSampleDocumentPages>
+</OcrSampleDocument>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+      <members>*</members>
+      <name>DocumentType</name>
+   </types>
+   <types>
+      <members>*</members>
+      <name>ContentAsset</name>
+   </types>
+   <types>
+      <members>*</members>
+      <name>OcrSampleDocument</name>
+   </types>
+   <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- OcrTemplate (atlas.en-us.industries_reference.meta/industries_reference/meta_ocrtemplate.htm)

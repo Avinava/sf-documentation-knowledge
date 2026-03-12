@@ -5,11 +5,15 @@ topic: unified-object-search-result-record-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.913Z
-keywords: [Unified, Object, Search, Result, Record, Field, Value]
+lastCollected: 2026-03-12T05:14:50.860Z
+estimatedTokens: 129
+keywords: [Unified, Search, Result, Record, Field, Output, representation, unified, search, data, result, record, value.]
 ---
 
 # Unified Object Search Result Record Field Value
+
+> Output representation of the unified object search data result record
+      value.
 
 # Unified Object Search Result Record Field Value
 

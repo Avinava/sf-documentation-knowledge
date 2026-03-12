@@ -4,12 +4,19 @@ domain: apex-guide
 topic: use-batch-apex
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:46.320Z
-keywords: [Batch, Apex, Implement, Database.Batchable, Interface, Database.BatchableContext, Database.QueryLocator, Define, Scope, Iterable, Database.executeBatch, Method, Submit, Jobs, Important, Holding, Flex, Queue, Job, Statuses]
+docType: concept
+lastCollected: 2026-03-12T05:14:32.253Z
+estimatedTokens: 8392
+keywords: [Batch, Apex, batch, write, implements, Salesforce-provided, Database.Batchable, then, invoke, programmatically., monitor, stop, execution, job, Setup, enter, Jobs, Quick, Find, box]
 ---
 
 # Use Batch Apex
+
+> To use batch Apex, write an Apex class that implements the Salesforce-provided
+        interface Database.Batchable and then invoke the
+        class programmatically. To monitor or stop the execution of the batch Apex job, from Setup,
+        enter Apex Jobs in the Quick Find box and then select Apex
+            Jobs.
 
 # Use Batch Apex
 
@@ -20,44 +27,44 @@ To use batch Apex, write an Apex class that implements the Salesforce-provided i
 The Database.Batchable interface contains three methods that must be implemented.
 
 -   start method:
-    
+
     ```
-    
+
     ```
-    
+
     The start method is called at the beginning of a batch Apex job. In the start method, you can include code that collects records or objects to pass to the interface method execute. This method returns either a Database.QueryLocator object or an iterable that contains the records or objects passed to the job.
-    
+
     When you’re using a simple query (SELECT) to generate the scope of objects in the batch job, use the Database.QueryLocator object. If you use a QueryLocator object, the governor limit for the total number of records retrieved by SOQL queries is bypassed. For example, a batch Apex job for the Account object can return a QueryLocator for all account records (up to 50 million records) in an org. Another example is a sharing recalculation for the Contact object that returns a QueryLocator for all account records in an org.
-    
+
     Use the iterable to create a complex scope for the batch job. You can also use the iterable to create your own custom process for iterating through the list.
-    
+
     ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexcode)
-    
+
     #### Important
-    
+
     If you use an iterable, the governor limit for the total number of records retrieved by SOQL queries is still enforced. For more information on using iterables for batch jobs, see [Batch Apex Considerations and Best Practices](#batch_apex_bp_section).
-    
+
 -   execute method:
-    
+
     ```
-    
+
     ```
-    
+
     The execute method is called for each batch of records that you pass to it and takes these parameters.
-    
+
     -   A reference to the Database.BatchableContext object.
     -   A list of sObjects, such as List<sObject>, or a list of parameterized types. If you’re using a Database.QueryLocator, use the returned list.
-    
+
     Batches of records tend to execute in the order in which they’re received from the start method. However, the order in which batches of records execute depends on various factors. The order of execution isn’t guaranteed.
-    
+
 -   finish method:
-    
+
     ```
-    
+
     ```
-    
+
     The finish method is called after all batches are processed and can be used to send confirmation emails or execute post-processing operations.
-    
+
 
 Each execution of a batch Apex job is considered a discrete transaction. For example, a batch Apex job that contains 1,000 records and is executed without the optional scope parameter from Database.executeBatch is considered five transactions of 200 records each. The Apex governor limits are reset for each transaction. If the first transaction succeeds but the second fails, the database updates made in the first transaction aren’t rolled back.
 
@@ -331,21 +338,21 @@ Keep in mind these governor limits and other limitations for batch Apex.
 -   Salesforce recommends that you design your asynchronous Apex jobs to handle variations in processing time. For example, to handle potential processing overlaps, consider [chaining batch jobs](#batch_apex_chaining_section) instead of scheduling jobs at fixed intervals.
 -   Ensure that batch jobs execute as fast as possible. To ensure fast execution of batch jobs, minimize Web service callout times and tune the queries used in your batch Apex code. The longer the batch job executes, the more likely other queued jobs are delayed when many jobs are in the queue.
 -   If you use batch Apex with Database.QueryLocator to access external objects via an OData adapter for Salesforce Connect:
-    
+
     -   Enable Request Row Counts on the external data source, and each response from the external system must include the total row count of the result set.
     -   We recommend enabling Server-Driven Pagination on the external data source and having the external system determine page sizes and batch boundaries for large result sets. Typically, server-driven paging can adjust batch boundaries to accommodate changing datasets more effectively than client-driven paging.
-        
+
         When Server-Driven Pagination is disabled on the external data source, the OData adapter controls the paging behavior (client-driven). If external object records are added to the external system while a job runs, other records can be processed twice. If external object records are deleted from the external system while a job runs, other records can be skipped.
-        
+
     -   When Server-Driven Pagination is enabled on the external data source, the batch size at runtime is the smaller of these two sizes:
         -   Batch size specified in the scope parameter of Database.executeBatch. The default is 200 records.
         -   Page size returned by the external system. We recommend that you set up your external system to return page sizes of 200 or fewer records.
 -   Batch Apex jobs run faster when the start method returns a QueryLocator object that doesn't include related records via a subquery. Avoiding relationship subqueries in a QueryLocator allows batch jobs to run using a faster, chunked implementation. If the start method returns an iterable or a QueryLocator object with a relationship subquery, the batch job uses a slower, non-chunking, implementation. For example, if this query is used in the QueryLocator, the batch job uses a slower implementation because of the relationship subquery:
-    
+
     ```
-    
+
     ```
-    
+
     A better strategy is to perform the subquery separately, from within the execute method, which allows the batch job to run using the faster, chunking implementation.
 -   To implement record locking as part of the batch job, you can requery records inside the execute method, using FOR UPDATE. Requerying records in this manner ensures that conflicting updates aren’t overwritten by DML in the batch job. To requery records, simply select the Id field in the batch job's main query locator.
 -   The Salesforce Platform's flow control mechanism and fair-usage algorithm can cause a delay in running batch jobs.
@@ -371,15 +378,84 @@ The API version that’s used is the version of the running batch class that sta
 #### See Also
 
 -   [*Apex Reference Guide*: Batchable Interface](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_interface_database_batchable.htm "Apex Reference Guide: Batchable Interface - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*:FlexQueue Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_FlexQueue.htm "Apex Reference Guide:FlexQueue Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Test.enqueueBatchJobs()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_test.htm "Apex Reference Guide: Test.enqueueBatchJobs() - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Test.getFlexQueueOrder()](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_methods_system_test.htm "Apex Reference Guide: Test.getFlexQueueOrder() - HTML (New Window)")
-    
+
 -   [*Salesforce Help*: Client-driven and Server-driven Paging for Salesforce Connect—OData 2.0 and 4.0 Adapters](https://help.salesforce.com/articleView?id=odata_paging.htm&language=en_US "Salesforce Help: Client-driven and Server-driven Paging for
     Salesforce Connect—OData 2.0 and 4.0 Adapters - HTML (New Window)")
-    
+
 -   [*Salesforce Help*: Define an External Data Source for Salesforce Connect—OData 2.0 or 4.0 Adapter](https://help.salesforce.com/articleView?id=platform_connect_add_external_data_source.htm&language=en_US "Salesforce Help: Define an External Data Source for
     Salesforce Connect—OData 2.0 or 4.0 Adapter - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public (Database.QueryLocator | Iterable<sObject>) start(Database.BatchableContext bc) {}
+```
+
+```apex
+public void execute(Database.BatchableContext bc, list<P>){}
+```
+
+```apex
+public void finish(Database.BatchableContext bc){}
+```
+
+```apex
+public void finish(Database.BatchableContext bc){
+   // Get the ID of the AsyncApexJob representing this batch job
+   // from Database.BatchableContext.
+   // Query the AsyncApexJob object to retrieve the current job's information.
+   AsyncApexJob a = [SELECT Id, Status, NumberOfErrors, JobItemsProcessed,
+      TotalJobItems, CreatedBy.Email
+      FROM AsyncApexJob WHERE Id =
+      :bc.getJobId() WITH USER_MODE];
+   // Send an email to the Apex job's submitter notifying of job completion.
+   Messaging.SingleEmailMessage mail = new Messaging.SingleEmailMessage();
+   String[] toAddresses = new String[] {a.CreatedBy.Email};
+   mail.setToAddresses(toAddresses);
+   mail.setSubject('Apex Sharing Recalculation ' + a.Status);
+   mail.setPlainTextBody
+   ('The batch Apex job processed ' + a.TotalJobItems +
+   ' batches with '+ a.NumberOfErrors + ' failures.');
+   Messaging.sendEmail(new Messaging.SingleEmailMessage[] { mail });
+}
+```
+
+```apex
+public with sharing class SearchAndReplace implements Database.Batchable<sObject>{
+
+   public final String Query;
+   public final String Entity;
+   public final String Field;
+   public final String Value;
+
+   public SearchAndReplace(String q, String e, String f, String v){
+
+      Query=q; Entity=e; Field=f;Value=v;
+   }
+
+   public Database.QueryLocator start(Database.BatchableContext bc){
+      return Database.getQueryLocator(query, AccessLevel.USER_MODE);
+   }
+
+   public void execute(Database.BatchableContext bc, List<sObject> scope){
+     for(sobject s : scope){
+     s.put(Field,Value); 
+     }
+     update as user scope;
+    }
+
+   public void finish(Database.BatchableContext bc){
+   }
+}
+```
+
+## Related Topics
+
+- callout (atlas.en-us.apexcode.meta/apexcode/apex_callouts.htm)
+- Queueable Apex (atlas.en-us.apexcode.meta/apexcode/apex_queueing_jobs.htm)

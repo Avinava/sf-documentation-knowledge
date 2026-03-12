@@ -5,11 +5,14 @@ topic: product-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T14:37:50.178Z
-keywords: [Product, Details, Input]
+lastCollected: 2026-03-12T05:14:06.358Z
+estimatedTokens: 939
+keywords: [Product, Details, Input, representation, request, get, product, details.]
 ---
 
 # Product Details Input
+
+> Input representation of the request to get product details.
 
 # Product Details Input
 
@@ -39,3 +42,72 @@ Properties
 | product​SellingModel​Id | String | ID of the product selling model. | Optional | 60.0 |
 | qualification​Procedure | String | API name of the custom qualification procedure that’s used for the product qualification process. If this property isn’t specified, then the default qualification procedure is executed. | Optional | 60.0 |
 | user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
+
+## Code Examples
+
+```
+{
+  "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
+  "catalogId": "0ZSxx0000000001GAA",
+  "priceBookId": "01s26000002ZT71AAG",
+  "productSellingModelId": "0jP1Q000000CaVFUA0",
+  "userContext": {
+    "accountId": "001xx0000000001AAA",
+    "contactId": "003xx00000000D7AAI"
+  },
+  "enablePricing": true,
+  "enableQualification": true,
+  "qualificationProcedure": "QualificationProcedure",
+  "pricingProcedure": "Preview",
+  "contextDefinition": "TestDefinition",
+  "contextMapping": "TestDefinitionNode",
+  "additionalFields": {
+    "ProductSellingModelOption": {
+      "additionalFields": {
+        "ProrationPolicy": {
+          "fields": [
+            "ArePartialPeriodsAllowed",
+            "ProrationPolicyType"
+          ]
+        }
+      }
+    },
+    "Product2": {
+      "fields": [
+        "field1",
+        "field2"
+      ]
+    },
+    "ProductAttributeDefinition": {
+      "fields": [
+        "field3",
+        "field4"
+      ]
+    }
+  },
+  "additionalContextData": [
+    {
+      "nodeName": "Contract",
+      "nodeData": {
+        "id": "xxxxx231",
+        "name": "Contract1"
+      }
+    },
+    {
+      "nodeName": "Lead",
+      "nodeData": {
+        "id": "lllllll31",
+        "name": "Lead1"
+      }
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_additional_fields_input.htm)
+- User Context
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)

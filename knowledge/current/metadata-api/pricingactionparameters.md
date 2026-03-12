@@ -5,11 +5,15 @@ topic: pricingactionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.029Z
-keywords: [PricingActionParameters, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.846Z
+estimatedTokens: 694
+keywords: [PricingActionParameters, Represents, pricing, action, that's, associated, context, definition, procedure., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # PricingActionParameters
+
+> Represents the pricing action that's associated with a
+			context definition and pricing procedure.
 
 # PricingActionParameters
 
@@ -67,3 +71,29 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<PricingActionParameters xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>CMEDefaultActionParameters</developerName>
+    <objectName>ORDER</objectName>
+    <pricingProcedure>PP</pricingProcedure>
+    <effectiveFrom>2024-04-08T07:32:00.000Z</effectiveFrom>
+    <effectiveTo>2024-04-11T07:32:00.000Z</effectiveTo>
+    <contextDefinition>SalesTransactionContext__stdctx</contextDefinition>
+    <contextMapping>SalesAgreementEntitiesMapping</contextMapping>
+    <masterLabel>PAP_test</masterLabel>
+</PricingActionParameters>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>PricingActionParameters</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

@@ -5,11 +5,15 @@ topic: brand-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.764Z
-keywords: [Brand, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.978Z
+estimatedTokens: 539
+keywords: [Brand, DMO, Data, Cloud, data, model, product’s, brand, example, Northern, Trail, Outfitters., API, Name, Category, Primary, Subject, Area, Key, Relationships]
 ---
 
 # Brand DMO
+
+> The Brand DMO is a Data Cloud data model object (DMO) for the product’s
+      brand, for example, Northern Trail Outfitters.
 
 # Brand DMO
 

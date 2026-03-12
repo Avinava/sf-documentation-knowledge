@@ -5,11 +5,14 @@ topic: connectapidashboardcomponentattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.500Z
-keywords: [ConnectApi.DashboardComponentAttachment, Important]
+lastCollected: 2026-03-12T05:14:26.904Z
+estimatedTokens: 495
+keywords: [ConnectApi.DashboardComponentAttachment, Attachments, feed, items, DashboardSnapshot., Important]
 ---
 
 # ConnectApi.DashboardComponentAttachment
+
+> Attachments in feed items with type DashboardSnapshot.
 
 # ConnectApi.DashboardComponentAttachment
 
@@ -35,3 +38,11 @@ Subclass of [ConnectApi.FeedItemAttachment](atlas.en-us.apexref.meta/apexref/ape
 | lastRefreshDate​DisplayText | String | The text of the last refresh date to be displayed, such as, “Last refreshed on October 31, 2011.” | 28.0–31.0 |
 | runningUser | ConnectApi.​User​Summary | The user running the dashboard. | 28.0–31.0 |
 | thumbnailUrl | String | URL of the thumbnail-sized dashboard image. | 28.0–31.0 |
+
+## Related Topics
+
+- ConnectApi.DashboardComponentSnapshotCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_dashboard_capability.htm)
+- ConnectApi.FeedItemAttachment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_item_attachment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- ConnectApi.​User​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_summary.htm)

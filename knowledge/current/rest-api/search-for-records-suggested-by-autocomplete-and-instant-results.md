@@ -6,12 +6,18 @@ topic: search-for-records-suggested-by-autocomplete-and-instant-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.618Z
-keywords: [Search, Records, Suggested, Autocomplete, Instant, Results, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.935Z
+estimatedTokens: 2140
+keywords: [Search, Records, Suggested, Autocomplete, Instant, Results, list, suggested, records, whose, names, match, user’s, search, string., suggestions, resource, provides, autocomplete, results]
 ---
 
 # Search for Records Suggested by Autocomplete and Instant
     Results
+
+> Returns a list of suggested records whose names match the
+      user’s search string. The suggestions resource provides autocomplete results and instant
+      results for users to navigate directly to likely relevant records, before performing a full
+      search. This resource is available in REST API version 32.0 and later.
 
 # Search for Records Suggested by Autocomplete and Instant Results
 
@@ -106,4 +112,129 @@ Example XML Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+...search/suggestions?q=Smith 
+&sobject=Account,Contact,KnowledgeArticleVersion,CollaborationGroup,Topic,FeedItem 
+// Specifies a global where clause (to filter Account and Contact)
+&where=name%20LIKE%20%27Smith%25%27 
+// Overrides the global where clause for Knowledge Article 
+(filtering by PublishStatus and Language is required for KnowledgeArticle)
+&knowledgearticleversion.where=PublishStatus='online'+and+language='en_US'
+// Overrides the global where clause for Topic
+&topic.where=networkid=<1234567891> 
+// Overrides the global where clause for CollaborationGroup
+&collaborationgroup.where=networkid=<1234567891> 
+// FeedItem-Question doesn't support where clauses, but we can filter 
+the type and networkId&type=question 
+&networkId==<1234567891>
+```
+
+```
+{
+  "autoSuggestResults" : [ {
+      "attributes" : {
+        "type" : "Account",
+        "url" : "/services/data/v66.0/sobjects/Account/001xx000003DH6WAAW"
+      },
+      "Id" : "001xx000003DH6WAAW",
+      "Name" : "National Utility Service"
+    }, { 
+    {
+      "attributes" : {
+        "type" : "Account",
+        "url" : "/services/data/v66.0/sobjects/Account/001xx000003DHJ4AAO"
+      },
+      "Id" : "001xx000003DHJ4AAO",
+      "Name" : "National Utility Service"
+    }, {
+    {
+      "attributes" : {
+        "type" : "Account",
+        "url" : "/services/data/v66.0/sobjects/Account/001xx000003DHscAAG"
+      },
+      "Id" : "001xx000003DHscAAG",
+      "Name" : "National Urban Technology Center"
+    } ],
+  "hasMoreResults" : false,
+  "meta" : {
+    "nameFields" : [ {
+      "entityApiName" : "Account",
+      "fieldApiName" : "Name"
+    } ],
+    "secondaryFields" : [ ]
+  }
+}
+```
+
+```
+{
+  "autoSuggestResults" : [ {
+      "attributes" : {
+        "type" : "Account",
+        "url" : "/services/data/v66.0/sobjects/Account/001xx000003DMEKAA4"
+      },
+      "Id" : "001xx000003DMEKAA4"
+      "Name" : "Joe Doe Printing"
+    }, { 
+    {
+      "attributes" : {
+        "type" : "Account",
+        "url" : "/services/data/v66.0/sobjects/Account/001xx000003DLjvAAG"
+      },
+      "Id" : "001xx000003DLjvAAGO"
+      "Name" : "Joe Doe Plumbing"
+    }, {
+    {
+      "attributes" : {
+        "type" : "Contact",
+        "url" : "/services/data/v66.0/sobjects/Contact/003xx000004U9Y9AAK"
+      },
+      "Id" : "003xx000004U9Y9AAK"
+      "Name" : "John Doe"
+    } ],
+  "hasMoreResults" : false,
+  "meta" : {
+    "nameFields" : [ {
+      "entityApiName" : "Account",
+      "fieldApiName" : "Name"
+    }, {
+      "entityApiName" : "Contact",
+      "fieldApiName" : "Name"
+    } ],
+    "secondaryFields" : [ ]
+  }
+}
+```
+
+```
+<?xml version=”1.0” encoding=”UTF-8”?
+<suggestions>
+  <autoSuggestResults type="Account" url="/services/data/v66.0/sobjects/Account/001xx000003DH6WAAW">  
+    <Id>001xx000003DH6WAAW</Id>
+    <Name>National Utility Service</Name>
+  </autoSuggestResults>
+  <autoSuggestResults type="Account" url="/services/data/v66.0/sobjects/Account/001xx000003DHJ4AAO">
+    <Id>001xx000003DHJ4AAO</Id>
+    <Name>National Utility Service</Name>
+  </autoSuggestResults> 
+  <autoSuggestResults type="Account" url="/services/data/v66.0/sobjects/Account/001xx000003DHscAAG"> 
+    <Id>001xx000003DHscAAG</Id> 
+    <Name>National Urban Technology Center</Name>
+  </autoSuggestResults>
+  <hasMoreResults>true</hasMoreResults>
+  <meta>
+    <nameFields>
+      <entityApiName>Account</entityApiName>
+      <fieldApiName>Name</fieldApiName>
+    </nameFields>
+    <nameFields>
+      <entityApiName>ContentDocument</entityApiName>
+      <fieldApiName>Title</fieldApiName>
+    </nameFields>
+  </meta>   
+</suggestions>
 ```

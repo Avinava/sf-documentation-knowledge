@@ -5,11 +5,16 @@ topic: forecastingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.812Z
-keywords: [ForecastingSettings, Important, Note, File, Suffix, Directory, Location, Version, Fields, ForecastingCategoryMapping, ForecastingDisplayedFamilySettings, ForecastingSubmissionSettings, ForecastingTypeSettings, AdjustmentsSettings, ForecastingGroup, ForecastingGroupItem, ForecastRangeSettings, OpportunityListFieldsLabelMapping, OpportunityListFields​SelectedSettings, OpportunityListFields​UnselectedSettings]
+lastCollected: 2026-03-12T05:14:40.124Z
+estimatedTokens: 5895
+keywords: [ForecastingSettings, Represents, Forecasts, settings, options., extends, Metadata, metadata, inherits, its, fullName, field., Important, Note, File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # ForecastingSettings
+
+> Represents the Forecasts settings options. This
+            type extends the Metadata metadata type and inherits its fullName
+            field.
 
 # ForecastingSettings
 
@@ -200,3 +205,141 @@ The following is an example of a [ForecastingSettings](#meta_forecastingsettings
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultToPersonalCurrency>false</defaultToPersonalCurrency>
+    <enableForecasts>true</enableForecasts>    
+    <globalAdjustmentsSettings>
+        <enableAdjustments>true</enableAdjustments>
+        <enableOwnerAdjustments>true</enableOwnerAdjustments>
+    </globalAdjustmentsSettings>
+    <globalForecastRangeSettings>
+        <beginning>1</beginning>
+        <displaying>6</displaying>
+        <periodType>Month</periodType>
+    </globalForecastRangeSettings>
+    <globalQuotasSettings>
+        <showQuotas>true</showQuotas>
+    </globalQuotasSettings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>commitonly</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>commit</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>closedonly</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>closed</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>openpipeline</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>most likely</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>commit</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>pipeline</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>best case</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>omittedonly</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>omitted</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>bestcaseforecast</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>most likely</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>commit</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>closed</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>best case</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>pipelineonly</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>pipeline</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>commitforecast</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>closed</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>commit</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingCategoryMappings>
+        <forecastingItemCategoryApiName>bestcaseonly</forecastingItemCategoryApiName>
+        <weightedSourceCategories>
+            <sourceCategoryApiName>best case</sourceCategoryApiName>
+            <weight>1.0</weight>
+        </weightedSourceCategories>
+    </forecastingCategoryMappings>
+    <forecastingTypeSettings>
+	<name>OpportunityRevenue</name>
+        <active>true</active>    
+        <hasProductFamily>false</hasProductFamily>
+        <isAmount>true</isAmount>
+        <isAvailable>true</isAvailable>
+        <isQuantity>false</isQuantity>
+        <managerAdjustableCategoryApiNames>commitonly</managerAdjustableCategoryApiNames>
+        <managerAdjustableCategoryApiNames>bestcaseonly</managerAdjustableCategoryApiNames>
+        <masterLabel>Opportunities</masterLabel>
+	<displayedCategoryApiNames>closedonly</displayedCategoryApiNames>
+        <displayedCategoryApiNames>commitonly</displayedCategoryApiNames>
+        <displayedCategoryApiNames>bestcaseonly</displayedCategoryApiNames>
+        <displayedCategoryApiNames>pipelineonly</displayedCategoryApiNames>
+        <forecastedCategoryApiNames>commitonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>closedonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>pipelineonly</forecastedCategoryApiNames>
+        <forecastedCategoryApiNames>bestcaseonly</forecastedCategoryApiNames>
+        <forecastingDateType>OpportunityCloseDate</forecastingDateType>
+        <opportunityListFieldsSelectedSettings>
+            <field>OPPORTUNITY.NAME</field>
+        </opportunityListFieldsSelectedSettings>
+    </forecastingTypeSettings>
+</ForecastingSettings>
+```
+
+## Related Topics
+
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- ForecastingSourceDefinition (atlas.en-us.api_meta.meta/api_meta/meta_forecastingsourcedefinition.htm)
+- ForecastingType (atlas.en-us.api_meta.meta/api_meta/meta_forecastingtype.htm)
+- ForecastingTypeSource (atlas.en-us.api_meta.meta/api_meta/meta_forecastingtypesource.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

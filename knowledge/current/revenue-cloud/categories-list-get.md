@@ -5,11 +5,16 @@ topic: categories-list-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.273Z
-keywords: [Categories, List, GET]
+lastCollected: 2026-03-12T05:14:06.862Z
+estimatedTokens: 378
+keywords: [Categories, List, GET, Retrieve, root-level, categories, catalog, based, subcategories, parent, category., search, filter, sort, categories.]
 ---
 
 # Categories List (GET)
+
+> Retrieve the root-level categories of a catalog based
+      on a catalog ID, or subcategories based on a parent category. You can also search, filter, or
+      sort the categories.
 
 # Categories List (GET)
 
@@ -56,3 +61,21 @@ Request parameters for GET
 Response body for GET
 
 [Categories Output](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_categories_output.htm "Output representation of the retrieved categories result.")
+
+## Code Examples
+
+```
+/connect/pcm/catalogs/catalogId/categories
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ/categories
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ/categories?language=spanish
+```
+
+## Related Topics
+
+- Categories Output (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_categories_output.htm)

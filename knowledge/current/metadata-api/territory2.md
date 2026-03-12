@@ -5,11 +5,16 @@ topic: territory2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.843Z
-keywords: [Territory2, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, FieldValue, Territory2AccessLevel, Territory2RuleAssociation, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:43.124Z
+estimatedTokens: 2016
+keywords: [Territory2, Represents, metadata, associated, sales, territory., extends, Metadata, inherits, its, fullName, field., Sales, Territories, enabled., File, Suffix, Directory, Location, Version]
 ---
 
 # Territory2
+
+> Represents the metadata associated with a sales territory.
+    This type extends the Metadata metadata type and inherits its fullName
+    field. Available if Sales Territories has been enabled.
 
 # Territory2
 
@@ -93,3 +98,78 @@ The following is a package.xml sample. FY13 and FY14 represent the names of terr
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2 xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <name>USA</name>
+    <description>United States sales</description>
+    <accountAccessLevel>Edit</accountAccessLevel>
+    <opportunityAccessLevel>Read</opportunityAccessLevel>
+    <caseAccessLevel>Edit</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <parentTerritory>Worldwide_Sales</parentTerritory>
+    <territory2Type>Geo</territory2Type>
+    <objectAccessLevels>
+        <accessLevel>All</accessLevel>
+        <objectType>Lead</objectType>
+    </objectAccessLevels>
+    <ruleAssociations>
+        <ruleName>AccRule1</name>
+        <inherited>True</inherited>
+     </ruleAssociations>
+     <ruleAssociations>
+        <ruleName>AccRule2</name>
+        <inherited>False</inherited>
+     </ruleAssociations>
+     <customFields>
+        <name>Activation_DateTime__c</name>
+        <value xsi:type="xsd:dateTime">2014-07-16T05:05:00.000Z</value>
+     </customFields>
+     <customFields>
+        <name>AutoNumber__c</name>
+        <value xsi:type="xsd:string">T# 000001</value>
+     </customFields>
+     <customFields>
+        <name>DeactivationDate__c</name>
+        <value xsi:type="xsd:date">2016-07-12</value>
+     </customFields>
+     <customFields>
+        <name>External_Id__c</name>
+        <value xsi:type="xsd:string">AB2345</value>
+     </customFields>
+     <customFields>
+        <name>ManagersPhone__c</name>
+        <value xsi:nil="true"/>
+     </customFields>
+</Territory2>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">    
+    <types>
+        <members>FY13</members>
+        <members>FY14</members>
+        <name>Territory2Model</name>
+    </types>    
+
+    <types>
+        <members>FY13.USA</members>
+        <members>FY13.Worldwide_Sales</members>
+        <members>FY14.APAC</members>
+        <members>FY14.USA</members>
+        <name>Territory2</name>
+    </types>
+        
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- CRUD
+            calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

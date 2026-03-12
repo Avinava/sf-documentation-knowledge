@@ -5,11 +5,14 @@ topic: connectapisortrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.039Z
-keywords: [ConnectApi.SortRule, See]
+lastCollected: 2026-03-12T05:14:29.043Z
+estimatedTokens: 589
+keywords: [ConnectApi.SortRule, Sort, rule.]
 ---
 
 # ConnectApi.SortRule
+
+> Sort rule.
 
 # ConnectApi.SortRule
 
@@ -28,3 +31,12 @@ Sort rule.
 #### See Also
 
 -   [ConnectApi.SortRulesCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_sort_rules_collection_output.htm "Collection of sort rules.")
+
+## Related Topics
+
+- ConnectApi.​CommerceSearch​SortRuleDirection (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CommerceSearch​SortRuleLabelSuffix (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.​CommerceSearch​SortRuleType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.SortRulesCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_sort_rules_collection_output.htm)

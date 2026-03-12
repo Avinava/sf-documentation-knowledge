@@ -5,11 +5,14 @@ topic: connectapicompliancejobstatusrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:07.802Z
-keywords: [ConnectApi.ComplianceJobStatusRepresentation]
+lastCollected: 2026-03-12T05:14:47.715Z
+estimatedTokens: 209
+keywords: [ConnectApi.ComplianceJobStatusRepresentation, Output, representation, job, status, response.]
 ---
 
 # ConnectApi.ComplianceJobStatusRepresentation
+
+> Output representation for job status response.
 
 # ConnectApi.ComplianceJobStatusRepresentation
 
@@ -24,3 +27,7 @@ Output representation for job status response.
 | results | List<ConnectApi.ComplianceProcedureEvaluation> | List of evaluation results for the compliance procedure. | 65.0 |
 | successful​EvaluationCount | Integer | Number of evaluations that are successful. | 65.0 |
 | total​EvaluationCount | Integer | Total number of evaluations. | 65.0 |
+
+## Related Topics
+
+- ConnectApi.ComplianceProcedureEvaluation (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_compliance_procedure_evaluation_output.htm)

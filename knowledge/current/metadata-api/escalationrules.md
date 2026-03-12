@@ -5,11 +5,17 @@ topic: escalationrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.310Z
-keywords: [EscalationRules, File, Suffix, Directory, Location, Version, Fields, EscalationRule, RuleEntry, EscalationAction, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.374Z
+estimatedTokens: 1162
+keywords: [EscalationRules, Represents, case, escalation, rules, escalate, cases, automatically, they, aren’t, resolved, within, certain, time., access, metadata, applicable, objects, specific, rule]
 ---
 
 # EscalationRules
+
+> Represents case escalation rules to escalate cases
+            automatically if they aren’t resolved within a certain time. You can access rules
+            metadata for all applicable objects, for a specific object, or for a specific rule on a
+            specific object.
 
 # EscalationRules
 
@@ -96,3 +102,60 @@ The following is an example EscalationRules component:
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<types>
+        <members>*</members>
+        <name>EscalationRules</name>
+    </types>
+```
+
+```
+<types>
+        <members>Case</members>
+        <name>EscalationRules</name>
+    </types>
+```
+
+```
+<types>
+        <members>Case.samplerule</members>
+        <members>Case.newrule</members>
+        <name>EscalationRule</name>
+    </types>
+```
+
+```
+<EscalationRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <escalationRule>
+        <fullName>samplerule</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <businessHours>test</businessHours>
+            <businessHoursSource>Static</businessHoursSource>
+            <criteriaItems>
+                <field>Case.Description</field>
+                <operation>contains</operation>
+                <value>test</value>
+            </criteriaItems>
+            <escalationAction>
+                <assignedTo>someuser@org.com</assignedTo>
+                <assignedToTemplate>emailtemplatename</assignedToTemplate>
+                <assignedToType>User</assignedToType>
+                <minutesToEscalation>1440</minutesToEscalation>
+                <notifyCaseOwner>false</notifyCaseOwner>
+            </escalationAction>
+            <escalationStartTime>CaseLastModified</escalationStartTime>
+        </ruleEntry>
+    </escalationRule>
+</EscalationRules>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- createMetadata() (atlas.en-us.api_meta.meta/api_meta/meta_createMetadata.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

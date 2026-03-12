@@ -5,11 +5,17 @@ topic: displaytype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.416Z
-keywords: [DisplayType, Enum, Namespace, Usage]
+lastCollected: 2026-03-12T05:14:29.540Z
+estimatedTokens: 693
+namespace: Schema
+keywords: [DisplayType, Schema.DisplayType, returned, field, describe, result's, getType, method., Usage]
 ---
 
 # DisplayType Enum
+
+> A Schema.DisplayType enum value is returned by the field describe result's getType method.
+
+**Namespace:** `Schema`
 
 # DisplayType Enum
 
@@ -55,3 +61,8 @@ A Schema.DisplayType enum value is returned by the field describe result's getTy
 ## Usage
 
 For more information, see [Field Types](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/field_types.htm "html (New Window)") in the Object Reference for Salesforce. For more information about the methods shared by all enums, see [Enum Methods](atlas.en-us.apexref.meta/apexref/apex_methods_system_enum.htm "An enum is an abstract data type with values that each take on exactly one of a finite set of identifiers that you specify. Apex provides built-in enums, such as LoggingLevel, and you can define your own enum.").
+
+## Related Topics
+
+- Schema (atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm)
+- Enum Methods (atlas.en-us.apexref.meta/apexref/apex_methods_system_enum.htm)

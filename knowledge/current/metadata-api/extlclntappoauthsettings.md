@@ -5,11 +5,15 @@ topic: extlclntappoauthsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.569Z
-keywords: [ExtlClntAppOauthSettings, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppOauthSettingsAttribute, ExtlClntAppOauthIpRange, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:39.771Z
+estimatedTokens: 2423
+keywords: [ExtlClntAppOauthSettings, Represents, settings, configuration, external, client, app’s, OAuth, plugin., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ExtlClntAppOauthSettingsAttribute]
 ---
 
 # ExtlClntAppOauthSettings
+
+> Represents the settings configuration for the external
+			client app’s OAuth plugin.
 
 # ExtlClntAppOauthSettings
 
@@ -86,3 +90,55 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalClientApplication>myeca</externalClientApplication>
+    <label>My Oauth Settings</label>
+    <trustedIpRanges>
+        <startIpAddress>10.55.2.0</startIpAddress>
+        <endIpAddress>10.55.2.255</endIpAddress>
+        <description>Building 6</description>
+    </trustedIpRanges>
+    <trustedIpRanges>
+        <startIpAddress>10.55.12.0</startIpAddress>
+        <endIpAddress>10.55.12.255</endIpAddress>
+    </trustedIpRanges>
+    <customAttributes>
+        <key>userattribute</key>
+        <formula>User.Country</formula>
+    </customAttributes>
+    <commaSeparatedOauthScopes>Basic, Web</commaSeparatedOauthScopes>
+</ExtlClntAppOauthSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppGlobalOauthSettings</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExtlClntAppOauthConfigurablePolicies</name>
+    </types>
+    <version>59.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

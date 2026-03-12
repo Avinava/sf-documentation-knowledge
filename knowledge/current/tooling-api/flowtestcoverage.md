@@ -5,11 +5,15 @@ topic: flowtestcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.024Z
-keywords: [FlowTestCoverage, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage, Tip, Sample, Query, See]
+lastCollected: 2026-03-12T05:14:45.722Z
+estimatedTokens: 686
+keywords: [FlowTestCoverage, Represents, test, coverage, flow, process, given, Apex, method., Supported, SOAP, Calls, REST, HTTP, Fields, Usage, Tip, Sample, Query]
 ---
 
 # FlowTestCoverage
+
+> Represents test coverage for a flow or
+            process by a given Apex method.
 
 # FlowTestCoverage
 
@@ -70,3 +74,25 @@ Get overall test coverage for a flow version.
 #### See Also
 
 -   [*Salesforce Help*: Deploy Processes and Flows as Active](https://help.salesforce.com/s/articleView?id=platform.flow_distribute_deploy_active.htm&type=5&language=en_US "Salesforce Help: Deploy Processes and Flows as Active - HTML (New Window)")
+
+## Code Examples
+
+```
+SELECT FlowVersion.Definition.DeveloperName
+FROM FlowTestCoverage
+GROUP BY FlowVersion.Definition.DeveloperName
+```
+
+```
+SELECT Definition.DeveloperName
+FROM Flow
+WHERE Status = 'Active'
+      AND (ProcessType = 'AutolaunchedFlow' OR ProcessType = 'Workflow' OR ProcessType = 'CustomEvent' OR ProcessType = 'InvocableProcess')
+      AND Id NOT IN (SELECT FlowVersionId FROM FlowTestCoverage)
+```
+
+```
+SELECT Id, ApexTestClassId, TestMethodName, FlowVersionId, NumElementsCovered, NumElementsNotCovered 
+FROM FlowTestCoverage 
+WHERE flowversionid='301RM0000004GiK'
+```

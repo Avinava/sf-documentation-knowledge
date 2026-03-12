@@ -5,11 +5,15 @@ topic: get-report-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.251Z
-keywords: [Get, Report, Data, Example]
+lastCollected: 2026-03-12T05:14:32.181Z
+estimatedTokens: 298
+keywords: [Get, Report, Data, ReportResults, get, fact, map, which, contains, data, that’s, associated, report., Example]
 ---
 
 # Get Report Data
+
+> You can use the ReportResults class to get the fact map, which contains data that’s associated
+with a report.
 
 # Get Report Data
 
@@ -28,4 +32,38 @@ To access data values of the fact map, you can map grouping value keys to the co
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+// Get the report ID
+List <Report> reportList = [SELECT Id,DeveloperName FROM Report where 
+    DeveloperName = 'Closed_Sales_This_Quarter'];
+String reportId = (String)reportList.get(0).get('Id');
+
+// Run a report synchronously
+Reports.reportResults results = Reports.ReportManager.runReport(reportId, true);
+
+// Get the first down-grouping in the report
+Reports.Dimension dim = results.getGroupingsDown();
+Reports.GroupingValue groupingVal = dim.getGroupings()[0];
+System.debug('Key: ' + groupingVal.getKey());
+System.debug('Label: ' + groupingVal.getLabel());
+System.debug('Value: ' + groupingVal.getValue());
+
+// Construct a fact map key, using the grouping key value
+String factMapKey = groupingVal.getKey() + '!T';
+
+// Get the fact map from the report results
+Reports.ReportFactWithDetails factDetails =
+    (Reports.ReportFactWithDetails)results.getFactMap().get(factMapKey);
+
+// Get the first summary amount from the fact map
+Reports.SummaryValue sumVal = factDetails.getAggregates()[0];
+System.debug('Summary Value: ' + sumVal.getLabel());
+
+// Get the field value from the first data cell of the first row of the report
+Reports.ReportDetailRow detailRow = factDetails.getRows()[0];
+System.debug(detailRow.getDataCells()[0].getLabel());
 ```

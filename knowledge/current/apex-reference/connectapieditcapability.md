@@ -5,11 +5,15 @@ topic: connectapieditcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.612Z
-keywords: [ConnectApi.EditCapability, See]
+lastCollected: 2026-03-12T05:14:27.080Z
+estimatedTokens: 387
+keywords: [ConnectApi.EditCapability, feed, element, comment, capability, users, who, permission, edit, it.]
 ---
 
 # ConnectApi.EditCapability
+
+> If a feed element or comment has this capability, users who have
+            permission can edit it.
 
 # ConnectApi.EditCapability
 
@@ -27,5 +31,17 @@ If a feed element or comment has this capability, users who have permission can 
 #### See Also
 
 -   [ConnectApi.CommentCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm "A set of capabilities on a comment.")
-    
+
 -   [ConnectApi.FeedElementCapabilities](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm "A container for all capabilities that can be included with a feed element.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- isFeedElementEditableByMe(communityId, feedElementId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm)
+- isCommentEditableByMe(communityId, commentId) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ChatterFeeds_static_methods.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Actor (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actor.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.CommentCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment_capabilities.htm)
+- ConnectApi.FeedElementCapabilities (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element_capabilities.htm)

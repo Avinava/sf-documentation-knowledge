@@ -4,12 +4,18 @@ domain: apex-guide
 topic: restoring-deleted-records
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:48.080Z
-keywords: [Restoring, Deleted, Records, Example, Note, Undelete, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.704Z
+estimatedTokens: 390
+keywords: [Restoring, Deleted, Records, After, deleted, records, placed, Recycle, Bin, days, after, which, they, permanently, deleted., While, still, restore, undelete, operation.]
 ---
 
 # Restoring Deleted Records
+
+> After you have deleted records, the records are placed in the Recycle Bin for 15 days,
+            after which they are permanently deleted. While the records are still in the Recycle
+            Bin, you can restore them using the undelete
+            operation. If you accidentally deleted some rec
 
 # Restoring Deleted Records
 
@@ -40,3 +46,24 @@ Note the following when using the undelete statement.
 #### See Also
 
 -   [Querying All Records with a SOQL Statement](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_query_all_rows.htm)
+
+## Code Examples
+
+```
+Account a = new Account(Name='Universal Containers');
+insert(a);
+insert(new Contact(LastName='Carter',AccountId=a.Id));
+delete a;
+
+Account[] savedAccts = [SELECT Id, Name FROM Account WHERE Name = 'Universal Containers' ALL ROWS]; 
+try {
+    undelete savedAccts;
+} catch (DmlException e) {
+    // Process exception here
+}
+```
+
+## Related Topics
+
+- Referential Integrity When Deleting and Restoring Records (atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_examples_delete.htm)
+- Querying All Records with a SOQL Statement (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_query_all_rows.htm)

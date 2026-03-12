@@ -5,11 +5,14 @@ topic: connectapiproductcategorymedia
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.672Z
-keywords: [ConnectApi.ProductCategoryMedia, See]
+lastCollected: 2026-03-12T05:14:28.514Z
+estimatedTokens: 363
+keywords: [ConnectApi.ProductCategoryMedia, Media, associated, product, category.]
 ---
 
 # ConnectApi.ProductCategoryMedia
+
+> Media associated with a product category.
 
 # ConnectApi.ProductCategoryMedia
 
@@ -29,5 +32,13 @@ Media associated with a product category.
 #### See Also
 
 -   [ConnectApi.ProductCategoryMediaGroup](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category_media_group.htm "Media group associated with a product category.")
-    
+
 -   [ConnectApi.ProductCategoryDetail](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category_detail.htm "Details of a product category.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ProductMediaType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ProductCategoryMediaGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category_media_group.htm)
+- ConnectApi.ProductCategoryDetail (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_product_category_detail.htm)

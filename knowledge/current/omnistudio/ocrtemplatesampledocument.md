@@ -4,16 +4,20 @@ domain: omnistudio
 topic: ocrtemplatesampledocument
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.592Z
-keywords: [OcrTemplateSampleDocument, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:51.313Z
+estimatedTokens: 216
+keywords: [OcrTemplateSampleDocument, Represents, relationship, between, OCR, template, sample, document., API, version, 50.0, later., Supported, Calls, Fields, 55.0, SOAP, REST, Special, Access]
 ---
 
 # OcrTemplateSampleDocument
 
+> Represents a relationship between an OCR template and an OCR sample document. This
+        object is available in API version 55.0 and later.
+
 # OcrTemplateSampleDocument
 
-Represents a relationship between an OCR template and an OCR sample document. This object is available in API version 52.0 and later.
+Represents a relationship between an OCR template and an OCR sample document. This object is available in API version 55.0 and later.
 
 ## Supported SOAP API Calls
 

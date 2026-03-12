@@ -5,11 +5,14 @@ topic: connectapiusermissionactivitycollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.179Z
-keywords: [ConnectApi.UserMissionActivityCollection, See]
+lastCollected: 2026-03-12T05:14:29.242Z
+estimatedTokens: 173
+keywords: [ConnectApi.UserMissionActivityCollection, List, mission, activities, user.]
 ---
 
 # ConnectApi.UserMissionActivityCollection
+
+> List of mission activities for a user.
 
 # ConnectApi.UserMissionActivityCollection
 
@@ -25,3 +28,11 @@ List of mission activities for a user.
 #### See Also
 
 -   [ConnectApi.UserMissionActivitiesJob](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_mission_activities_job.htm "User mission activities job.")
+
+## Related Topics
+
+- ConnectApi.​CommunitySummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_community_summary.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​AbstractUser​MissionActivity (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_user_mission_activity.htm)
+- ConnectApi.UserMissionActivitiesJob (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_user_mission_activities_job.htm)

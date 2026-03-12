@@ -4,12 +4,17 @@ domain: omnistudio
 topic: explainabilitymsgtemplate
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.504Z
-keywords: [ExplainabilityMsgTemplate, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.209Z
+estimatedTokens: 702
+keywords: [ExplainabilityMsgTemplate, Represents, information, template, contains, decision, explanation, message, specified, expression, set, step, type., Parent, File, Suffix, Directory, Location, Version, Fields]
 ---
 
 # ExplainabilityMsgTemplate
+
+> Represents the template that contains the decision explanation
+         message for a specified element type. This object is available in API version 56.0 and
+      later.
 
 # ExplainabilityMsgTemplate
 
@@ -43,3 +48,30 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | Message | TypetextareaPropertiesCreate, Filter, Sort, UpdateDescriptionThe message associated with the template for a specific expression set step type. This is a required field. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe namespace prefix associated with this object. Each Developer Edition organization that creates a managed package has a unique namespace prefix. Limit: 15 characters. You can refer to a component in a managed package by using the namespacePrefix__componentName notation.The namespace prefix can have one of the following values:In Developer Edition organizations, the namespace prefix is set to the namespace prefix of the organization for all objects that support it. There is an exception if an object is in an installed managed package. In that case, the object has the namespace prefix of the installed managed package. This field’s value is the namespace prefix of the Developer Edition organization of the package developer.In organizations that are not Developer Edition organizations, NamespacePrefix is only set for objects that are part of an installed managed package. There is no namespace prefix for all other objects. |
 | ResultType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe type of result for which the message template can be used. The step type for which the result is evaluated can be a condition, conditional group, or branch. This is a required field.Possible values are:FailedNoResult—This value is available from API version 59.0 and later.PassedThe default value is Passed. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExplainabilityMsgTemplate
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<evaluationResult>Passed</evaluationResult>
+	<expressionSetStepType>Condition</expressionSetStepType>
+	<expsSetProcessType>ProductQualification</expsSetProcessType>
+	<isDefault>false</isDefault>
+	<masterLabel>ML EMT testDM</masterLabel>
+	<message>EMT Testing</message>
+</ExplainabilityMsgTemplate>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ExplainabilityMsgTemplate</name>
+	</types>
+	<version>66.0</version>
+</Package>
+```

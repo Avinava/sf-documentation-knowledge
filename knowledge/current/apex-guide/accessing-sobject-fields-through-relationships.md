@@ -5,11 +5,18 @@ topic: accessing-sobject-fields-through-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.000Z
-keywords: [Accessing, sObject, Fields, Through, Relationships, Note, Tip]
+lastCollected: 2026-03-12T05:14:34.585Z
+estimatedTokens: 862
+keywords: [Accessing, sObject, Fields, Through, Relationships, records, represent, relationships, two, fields, address, points, representation, associated, sObject., example, Contact, both, AccountId, field]
 ---
 
 # Accessing sObject Fields Through Relationships
+
+> sObject records represent relationships to other records with two fields: an ID and an
+            address that points to a representation of the associated sObject. For example, the
+            Contact sObject has both an AccountId field of
+            type ID, and an Account field of type Account
+
 
 # Accessing sObject Fields Through Relationships
 
@@ -66,3 +73,54 @@ The following code is equivalent to the code above. However, because it uses a S
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_working_with_results.htm "Working with SOQL and SOSL Query Results")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm "Understanding Foreign Key and Parent-Child Relationship SOQL Queries")
+
+## Code Examples
+
+```
+Account a = new Account(Name = 'Acme');
+insert a;  // Inserting the record automatically assigns a 
+           // value to its ID field
+Contact c = new Contact(LastName = 'Weissman');
+c.AccountId = a.Id;
+// The new contact now points at the new account
+insert c;
+
+// A SOQL query accesses data for the inserted contact, 
+// including a populated c.account field
+c = [SELECT Account.Name FROM Contact WHERE Id = :c.Id];
+
+// Now fields in both records can be changed through the contact
+c.Account.Name = 'salesforce.com';
+c.LastName = 'Roth';
+
+// To update the database, the two types of records must be 
+// updated separately
+update c;         // This only changes the contact's last name
+update c.Account; // This updates the account name
+```
+
+```apex
+List<List<SObject>> searchList = [FIND 'Acme' IN ALL FIELDS RETURNING Contact(id,Account.Name)]
+```
+
+```
+Account refAcct = new Account(externalId__c = '12345');
+
+Contact c = new Contact(Account = refAcct, LastName = 'Kay');
+
+insert c;
+```
+
+```
+Account refAcct = [SELECT Id FROM Account WHERE externalId__c='12345'];
+
+Contact c = new Contact(Account = refAcct.Id);
+
+insert c;
+```
+
+## Related Topics
+
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_working_with_results.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/langCon_apex_SOQL_foreign_key.htm)

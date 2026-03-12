@@ -5,11 +5,18 @@ topic: using-regions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.624Z
-keywords: [Regions]
+lastCollected: 2026-03-12T05:14:32.665Z
+estimatedTokens: 211
+keywords: [Regions, Matcher, finds, matches, subset, its, input, called, region., default, region, always, entirety, string., However, change, start, end, points, query]
 ---
 
 # Using Regions
+
+> A Matcher object finds matches in a subset of its input string
+called a region. The default region for a Matcher object
+is always the entirety of the input string. However, you can change
+the start and end points of a region by using the region method, and you can query
+the region's end points by us
 
 # Using Regions
 

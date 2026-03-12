@@ -5,11 +5,15 @@ topic: connectapitaxdetailsresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.090Z
-keywords: [ConnectApi.TaxDetailsResponse]
+lastCollected: 2026-03-12T05:14:29.115Z
+estimatedTokens: 221
+keywords: [ConnectApi.TaxDetailsResponse, Tax, details, line, item, tax, output.]
 ---
 
 # ConnectApi.TaxDetailsResponse
+
+> Tax details for each line item in a tax line item
+    output.
 
 # ConnectApi.TaxDetailsResponse
 
@@ -25,3 +29,10 @@ Tax details for each line item in a tax line item output.
 | tax | Double | Total amount of tax on the line item. | 55.0 |
 | taxId | String | ID for the type of tax applied to the line item. | 55.0 |
 | taxableAmount | Double | Amount of line item that can be taxed. | 55.0 |
+
+## Related Topics
+
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​TaxImposition​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tax_imposition_output.htm)
+- ConnectApi.​TaxJurisdiction​Response (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_tax_jurisdiction_output.htm)

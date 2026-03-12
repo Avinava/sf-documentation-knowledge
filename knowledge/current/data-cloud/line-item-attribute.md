@@ -5,11 +5,15 @@ topic: line-item-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.255Z
-keywords: [Line, Item, Attribute, Example]
+lastCollected: 2026-03-12T05:14:12.214Z
+estimatedTokens: 194
+keywords: [Line, Item, Attribute, items, intended, describe, purchasable, used, cart, order, interactions., Example]
 ---
 
 # Line Item Attribute
+
+> Line items are intended to describe purchasable items and are used in cart and order
+  interactions.
 
 # Line Item Attribute
 
@@ -36,4 +40,32 @@ Line items are intended to describe purchasable items and are used in cart and o
 
 ```
 
+```
+
+## Code Examples
+
+```
+LineItem(
+    catalogObjectType: "Product", 
+    catalogObjectId: "product-11", 
+    quantity: 1,
+    price: 20.0,
+    currency: "USD",
+    attributes: [
+      "gift_wrap: true
+    ]
+)
+```
+
+```
+LineItem(
+    catalogObjectId = "product-1",
+    catalogObjectType = "Product",
+    quantity = 1,
+    price = 20.0,
+    currency = "USD",
+    attributes = mapOf(
+      "gift_wrap" to true
+    )
+    )
 ```

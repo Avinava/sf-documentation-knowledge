@@ -5,11 +5,14 @@ topic: context-runtime-schema-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.681Z
-keywords: [Context, Runtime, Schema, DELETE]
+lastCollected: 2026-03-12T05:14:49.015Z
+estimatedTokens: 195
+keywords: [Context, Runtime, Schema, DELETE, Clear, runtime, schema, cache, context, definitions, their, associated, mappings.]
 ---
 
 # Context Runtime Schema (DELETE)
+
+> Clear runtime schema cache for context definitions and their associated mappings.
 
 # Context Runtime Schema (DELETE)
 
@@ -45,3 +48,13 @@ Request parameters for DELETE
 Response body for DELETE
 
 This resource uses query parameters only and returns HTTP 204 No Content on success.
+
+## Code Examples
+
+```
+/connect/context-runtime-schema/clear
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/context-runtime-schema/clear?contextDefinitionDevlName=CustomerProfile&contextMappingNames=StandardMapping,CustomMapping
+```

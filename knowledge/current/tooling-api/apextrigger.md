@@ -5,11 +5,16 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.261Z
-keywords: [ApexTrigger, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:44.706Z
+estimatedTokens: 1310
+keywords: [ApexTrigger, Represents, saved, copy, Apex, trigger., uses, cached, version, unless, unavailable., API, 28.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # ApexTrigger
+
+> Represents the saved copy of an Apex trigger. ApexTrigger uses the
+      cached version of the class unless one is unavailable. Available from API version 28.0 or
+    later.
 
 # ApexTrigger
 
@@ -54,3 +59,8 @@ To retrieve information about an Apex trigger, create an ApexTrigger object that
 To edit, save, or compile Apex triggers, use [ApexTriggerMember](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm "Represents the working copy of an Apex trigger for editing, saving, or compiling in a MetadataContainer.").
 
 Although Apex classes and triggers have the Create and Update field properties, a runtime exception occurs if you try to create, update, or delete them using the API. Instead, use the Salesforce Extensions for Visual Studio Code or the Ant Migration Tool to create or update Apex classes or triggers. Apex classes and triggers can’t be created, edited, or deleted in a production org. See [Deploying Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_deploying.htm).
+
+## Related Topics
+
+- ApexTriggerMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm)
+- SOAP Calls (atlas.en-us.api_tooling.meta/api_tooling/intro_soap_overview.htm)

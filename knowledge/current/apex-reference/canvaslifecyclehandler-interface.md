@@ -5,11 +5,19 @@ topic: canvaslifecyclehandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.724Z
-keywords: [CanvasLifecycleHandler, Interface, Namespace, Usage, Example, Implementation, See]
+lastCollected: 2026-03-12T05:14:29.965Z
+estimatedTokens: 335
+namespace: Canvas
+keywords: [CanvasLifecycleHandler, Implement, control, context, information, add, custom, behavior, during, application, render, phase., Usage, Example, Implementation]
 ---
 
 # CanvasLifecycleHandler Interface
+
+> Implement this interface to control
+context information and add custom behavior during the application
+render phase.
+
+**Namespace:** `Canvas`
 
 # CanvasLifecycleHandler Interface
 
@@ -33,10 +41,32 @@ The following example shows a simple implementation of CanvasLifecycleHandler th
 
 ```
 
--   **[CanvasLifecycleHandler Methods](atlas.en-us.apexref.meta/apexref/apex_canvas_CanvasLifecycleHandler_methods.htm)**  
-    
+-   **[CanvasLifecycleHandler Methods](atlas.en-us.apexref.meta/apexref/apex_canvas_CanvasLifecycleHandler_methods.htm)**
+
 
 #### See Also
 
 -   [*Canvas Developer Guide*: Customizing Your App Lifecycle](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_connect.meta/platform_connect/canvas_customizing_app_lifecycle.htm "Canvas Developer Guide: Customizing Your App
     Lifecycle - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public class MyCanvasListener 
+implements Canvas.CanvasLifecycleHandler{
+    public Set<Canvas.ContextTypeEnum> excludeContextTypes(){
+        Set<Canvas.ContextTypeEnum> excluded = new Set<Canvas.ContextTypeEnum>();
+        excluded.add(Canvas.ContextTypeEnum.ORGANIZATION);
+        return excluded;
+    }
+    
+    public void onRender(Canvas.RenderContext renderContext){
+        System.debug('Canvas lifecycle called.');
+    }
+}
+```
+
+## Related Topics
+
+- Canvas (atlas.en-us.apexref.meta/apexref/apex_namespace_Canvas.htm)
+- CanvasLifecycleHandler Methods (atlas.en-us.apexref.meta/apexref/apex_canvas_CanvasLifecycleHandler_methods.htm)

@@ -5,11 +5,14 @@ topic: getting-flow-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.182Z
-keywords: [Getting, Flow, Variables, See]
+lastCollected: 2026-03-12T05:14:33.452Z
+estimatedTokens: 224
+keywords: [Getting, Flow, Variables, retrieve, flow, variables, specific, Apex.]
 ---
 
 # Getting Flow Variables
+
+> You can retrieve flow variables for a specific flow in Apex.
 
 # Getting Flow Variables
 
@@ -24,3 +27,22 @@ The Flow.Interview Apex class provides the getVariableValue method for retrievin
 #### See Also
 
 -   [*Apex Reference Guide*: Interview Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/flow_interview_class.htm "Apex Reference Guide: Interview Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+public class SampleContoller {
+
+   // Instance of the flow
+   public Flow.Interview.Flow_Template_Gallery myFlow {get; set;}
+
+   public String getBreadCrumb() {
+      String aBreadCrumb;
+      if (myFlow==null) { return 'Home';}
+      else aBreadCrumb = (String) myFlow.getVariableValue('vaBreadCrumb');
+
+      return(aBreadCrumb==null ? 'Home': aBreadCrumb);
+
+   }
+}
+```

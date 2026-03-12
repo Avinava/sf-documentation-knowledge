@@ -5,11 +5,15 @@ topic: deploy-metadata-to-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.030Z
-keywords: [Deploy, Metadata, Production, Recent, Validation, See]
+lastCollected: 2026-03-12T05:14:43.436Z
+estimatedTokens: 410
+keywords: [Deploy, Metadata, Production, final, step, development, cycle, move, customizations, source, control, system, such, Git, production, API., Recent, Validation]
 ---
 
 # Deploy Metadata to Production
+
+> In the final step of the development cycle, move customizations from a
+      source control system such as Git into production with Metadata API.
 
 # Deploy Metadata to Production
 
@@ -26,7 +30,12 @@ A regular deploy call executes automated Apex tests that can take a long time to
 #### See Also
 
 -   [deploy()](atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm "Uses file representations of components to create, update, or delete those components in a Salesforce org.")
-    
+
 -   [force:source:push Command](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_source.htm#cli_reference_force_source_push)
-    
+
 -   [Deploy a Recently Validated Component Set Without Tests](atlas.en-us.api_meta.meta/api_meta/meta_rest_deploy_recentvalidation.htm "You can deploy components to production in less time by skipping the execution of Apex tests when testing requirements have already been met.")
+
+## Related Topics
+
+- deploy() (atlas.en-us.api_meta.meta/api_meta/meta_deploy.htm)
+- Deploy a Recently Validated Component Set Without Tests (atlas.en-us.api_meta.meta/api_meta/meta_rest_deploy_recentvalidation.htm)

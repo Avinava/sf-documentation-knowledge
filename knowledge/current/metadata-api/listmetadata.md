@@ -5,11 +5,18 @@ topic: listmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.344Z
-keywords: [listMetadata, Syntax, Usage, Permissions, Note, Sample, Code—Java, Arguments, Response]
+lastCollected: 2026-03-12T05:14:40.880Z
+estimatedTokens: 872
+keywords: [listMetadata, call, retrieves, information, metadata, components, organization., Data, returned, match, criteria, specified, queries, parameter., array, contain, three, ListMetadataQuery, call., supports]
 ---
 
 # listMetadata()
+
+> This call retrieves property information about metadata components in your
+    organization. Data is returned for the components that match the criteria specified in the
+    queries parameter. The queries array can contain up to three ListMetadataQuery queries for each call. This call supports every metadata type:
+    both top-level, such as CustomObject and ApexClass, and child types, such as CustomField and
+    RecordType.
 
 # listMetadata()
 
@@ -55,3 +62,42 @@ This sample code lists information about your custom objects. The code assumes t
 ## Response
 
 [FileProperties](atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm#retrieveresult_fileproperties)
+
+## Code Examples
+
+```
+FileProperties[] = metadataConnection.listMetadata(ListMetadataQuery[] queries, double asOfVersion);
+```
+
+```apex
+public void listMetadata() {
+  try {
+    ListMetadataQuery query = new ListMetadataQuery();
+    query.setType("CustomObject");
+    //query.setFolder(null);
+    double asOfVersion = 66.0;
+    // Assuming that the SOAP binding has already been established.
+    FileProperties[] lmr = metadataConnection.listMetadata(
+        new ListMetadataQuery[] {query}, asOfVersion);
+    if (lmr != null) {
+      for (FileProperties n : lmr) {
+        System.out.println("Component fullName: " + n.getFullName());
+        System.out.println("Component type: " + n.getType());
+      }
+    }            
+  } catch (ConnectionException ce) {
+    ce.printStackTrace();
+  }
+}
+```
+
+## Related Topics
+
+- FileProperties (atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm)
+- ListMetadataQuery (atlas.en-us.api_meta.meta/api_meta/meta_listmetadataquery.htm)
+- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)
+- CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
+- Layout (atlas.en-us.api_meta.meta/api_meta/meta_layouts.htm)
+- Deploying and Retrieving Metadata (atlas.en-us.api_meta.meta/api_meta/file_based.htm)
+- Modify
+                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)

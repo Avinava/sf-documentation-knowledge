@@ -5,11 +5,15 @@ topic: console-api-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:50.735Z
-keywords: [Console, API, Typographical, Conventions]
+lastCollected: 2026-03-12T05:14:58.499Z
+estimatedTokens: 457
+keywords: [Console, API, Typographical, Conventions, conventions, used, code, examples., Courier, font, italics, brackets, mean.]
 ---
 
 # Console API Typographical Conventions
+
+> Typographical conventions are used in our code examples. Learn what Courier font,
+    italics, and brackets mean.
 
 # Console API Typographical Conventions
 
@@ -24,3 +28,18 @@ Typographical conventions are used in our code examples. Learn what Courier font
 | { } | In descriptions of syntax, braces ({ }) are typed exactly as shown.<apex:page>     Hello {!$User.FirstName}! </apex:page> |
 | [ ] | In descriptions of syntax, anything included in brackets is optional. In the following example, specifying value is optional: data_type variable_name [ = value]; |
 | \| | In descriptions of syntax, the pipe sign means “or”. You can do one of the following (not all). In the following example, you can create a new unpopulated set in one of two ways, or you can populate the set:Set<data_type> set_name     [= new Set<data_type>();] \|    [= new Set<data_type{value [, value2. . .] };] \|    ; |
+
+## Code Examples
+
+```
+<apex:page>
+    Hello {!$User.FirstName}!
+</apex:page>
+```
+
+```
+Set<data_type> set_name 
+   [= new Set<data_type>();] |
+   [= new Set<data_type{value [, value2. . .] };] |
+   ;
+```

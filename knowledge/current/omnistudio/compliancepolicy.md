@@ -5,11 +5,15 @@ topic: compliancepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.898Z
-keywords: [CompliancePolicy, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.839Z
+estimatedTokens: 1063
+keywords: [CompliancePolicy, Represents, information, internal, policies, organization., API, version, 65.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # CompliancePolicy
+
+> Represents information on internal policies of the organization. This
+      object is available in API version 65.0 and later.
 
 # CompliancePolicy
 
@@ -55,3 +59,10 @@ History is available for tracked fields of the object.
 [CompliancePolicyShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- CompliancePolicyChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- CompliancePolicyFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- CompliancePolicyHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- CompliancePolicyShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

@@ -5,11 +5,16 @@ topic: formulafunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.063Z
-keywords: [FormulaFunction, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Fields, FormulaFunctionCategory, Query, Examples]
+lastCollected: 2026-03-12T05:14:45.777Z
+estimatedTokens: 925
+keywords: [FormulaFunction, Represents, function, used, building, formula, including, examples, uses., Tooling, API, version, 39.0, later., Supported, SOAP, Calls, REST, HTTP, Special]
 ---
 
 # FormulaFunction
+
+> Represents a function used when building a formula, including
+            examples and uses. This object is available in Tooling API version 39.0 and
+        later.
 
 # FormulaFunction
 
@@ -71,3 +76,23 @@ To get all the categories and their functions using SOQL:
 ```
 
 ```
+
+## Code Examples
+
+```
+req.setEndpoint('http://instance.salesforce.com/services/data/v66.0/tooling/query?q=SELECT+label+FROM+FormulaFunction );
+req.setMethod('GET');
+```
+
+```
+SELECT DurableID FROM FormulaFunctionCategory
+```
+
+```
+SELECT Name, Label, (SELECT Name, Label, Description, ExampleString FROM Functions) FROM FormulaFunctionCategory
+```
+
+## Related Topics
+
+- FormulaFunctionAllowedType (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_formulafunctionallowedtype.htm)
+- QueryResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_queryresult.htm)

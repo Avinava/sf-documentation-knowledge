@@ -5,11 +5,16 @@ topic: portaldelegablepermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.006Z
-keywords: [PortalDelegablePermissionSet, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:41.812Z
+estimatedTokens: 504
+keywords: [PortalDelegablePermissionSet, Represents, org-level, permission, assigned, particular, profile, external, users, shoppers, store, after, enabling, Delegable, Administration, perm., Important, Parent, File, Suffix]
 ---
 
 # PortalDelegablePermissionSet
+
+> Represents the org-level permission sets that can
+      be assigned to a particular profile for external users or shoppers in a store after enabling
+      the Delegable Administration perm.
 
 # PortalDelegablePermissionSet
 
@@ -59,3 +64,44 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm).
+
+## Code Examples
+
+```
+<xsd:complexType name="PortalDelegablePermissionSet">
+    <xsd:complexContent>
+     <xsd:extension base="tns:Metadata">
+      <xsd:sequence>
+       <xsd:element name="isProtected" minOccurs="0" type="xsd:boolean"/>
+       <xsd:element name="masterLabel" type="xsd:string"/>
+       <xsd:element name="permissionSet" type="xsd:string"/>
+       <xsd:element name="profile" type="xsd:string"/>
+      </xsd:sequence>
+     </xsd:extension>
+    </xsd:complexContent>
+   </xsd:complexType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>PortalDelegablePermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+<version>56.0</version>
+</Package>
+```
+
+## Related Topics
+
+- permissionSet (atlas.en-us.api_meta.meta/api_meta/meta_permissionset.htm)
+- profile (atlas.en-us.api_meta.meta/api_meta/meta_profile.htm)

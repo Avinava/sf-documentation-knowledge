@@ -5,11 +5,14 @@ topic: quickactionlistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.601Z
-keywords: [QuickActionListItem, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage]
+lastCollected: 2026-03-12T05:14:46.578Z
+estimatedTokens: 365
+keywords: [QuickActionListItem, Represents, item, quick, action, list., Supported, SOAP, Calls, REST, HTTP, Fields, Usage]
 ---
 
 # QuickActionListItem
+
+> Represents an item in a quick action list.
 
 # QuickActionListItem
 
@@ -41,4 +44,21 @@ The following example reverses the order in the list of the actions, and then re
 
 ```
 
+```
+
+## Code Examples
+
+```
+String query = "SELECT Id,SortOrder FROM QuickActionListItem Where QuickActionListId='" + listId + "'"
+SObject[] records = sforce.query(query).getRecords();
+
+for(int i=0;i<records.length;i++) {
+   QuickActionListItem item = (QuickActionListItem)records[i];
+   item.setSortOrder(records.length-i);
+}
+
+sforce.update(records);
+
+// Last record in array is first record in reordered list
+sforce.delete(records[records.length-1].getId());
 ```

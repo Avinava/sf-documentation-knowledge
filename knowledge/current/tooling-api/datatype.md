@@ -5,11 +5,16 @@ topic: datatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.592Z
-keywords: [DataType, Supported, SOAP, Calls, REST, HTTP, Methods, Limitations, Special, Access, Rules, Fields, Note, Example, SOQL]
+lastCollected: 2026-03-12T05:14:45.128Z
+estimatedTokens: 1018
+keywords: [DataType, Represents, datatype, field., EntityDefinition, EntityParticle, FieldDefinition, simplify, queries., Tooling, API, version, 34.0, later., Supported, SOAP, Calls, REST, HTTP, Limitations]
 ---
 
 # DataType
+
+> Represents the datatype of a field. Use this object with EntityDefinition,
+        EntityParticle, or FieldDefinition to simplify queries. Available in Tooling API version
+        34.0 and later.
 
 # DataType
 
@@ -92,3 +97,8 @@ INCLUDES
 Example Query: SELECT ComplianceGroup FROM FieldDefinition WHERE EntityDefinitionId = 'Account' AND ComplianceGroup includes('GDPR')
 
 Error Returned: Unsupported filter type
+
+## Related Topics
+
+- SOQL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_soql_limits.htm)
+- SOSL Limitations (atlas.en-us.api_tooling.meta/api_tooling/reference_objects_sosl_limits.htm)

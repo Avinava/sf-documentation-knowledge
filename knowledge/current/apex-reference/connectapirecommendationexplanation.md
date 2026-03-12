@@ -5,11 +5,14 @@ topic: connectapirecommendationexplanation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.854Z
-keywords: [ConnectApi.RecommendationExplanation, See]
+lastCollected: 2026-03-12T05:14:28.770Z
+estimatedTokens: 171
+keywords: [ConnectApi.RecommendationExplanation, Explanation, Chatter, recommendation.]
 ---
 
 # ConnectApi.RecommendationExplanation
+
+> Explanation for a Chatter recommendation.
 
 # ConnectApi.RecommendationExplanation
 
@@ -24,3 +27,9 @@ Subclass of [ConnectApi.AbstractRecommendationExplanation](atlas.en-us.apexref.m
 #### See Also
 
 -   [ConnectApi.AbstractRecommendation](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_recommendation.htm "A Chatter, custom, or static recommendation.")
+
+## Related Topics
+
+- ConnectApi.AbstractRecommendationExplanation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_rec_explanation.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.AbstractRecommendation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_recommendation.htm)

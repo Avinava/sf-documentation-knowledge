@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchannelsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.100Z
-keywords: [ConnectApi.ManagedContentChannelSummary, See]
+lastCollected: 2026-03-12T05:14:27.727Z
+estimatedTokens: 463
+keywords: [ConnectApi.ManagedContentChannelSummary, Managed, content, channel.]
 ---
 
 # ConnectApi.ManagedContentChannelSummary
+
+> Managed content channel.
 
 # ConnectApi.ManagedContentChannelSummary
 
@@ -30,7 +33,17 @@ Subclass of [ConnectApi.AbstractManagedContentChannelRepresentation](atlas.en-us
 #### See Also
 
 -   [ConnectApi.ManagedContentDeliveryDocument](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm "Managed content in delivery scope.")
-    
+
 -   [ConnectApi.ManagedContentCollectionItems](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_collection_items.htm "Managed content collection Items.")
-    
+
 -   [ConnectApi.ManagedContentDeliveryDocumentCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm "Managed content delivery document collection.")
+
+## Related Topics
+
+- ConnectApi.AbstractManagedContentChannelRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_managed_content_channel.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ManagedContent​ChannelTarget​Summary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel_target_entity_summary.htm)
+- ConnectApi.​ManagedContent​ChannelType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.ManagedContentDeliveryDocument (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document.htm)
+- ConnectApi.ManagedContentCollectionItems (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_collection_items.htm)
+- ConnectApi.ManagedContentDeliveryDocumentCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_delivery_document_collection.htm)

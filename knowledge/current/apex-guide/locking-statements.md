@@ -4,12 +4,17 @@ domain: apex-guide
 topic: locking-statements
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.146Z
-keywords: [Locking, Statements, Note, Considerations, Warning]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.810Z
+estimatedTokens: 790
+keywords: [Locking, Statements, Apex, UPDATE, lock, sObject, records, while, they’re, being, updated, order, prevent, race, conditions, thread, safety, problems., Note, Considerations]
 ---
 
 # Locking Statements
+
+> In Apex, you can use FOR UPDATE to lock
+    sObject records while they’re being updated in order to prevent race conditions and other
+    thread safety problems.
 
 # Locking Statements
 
@@ -42,3 +47,13 @@ You can’t use the ORDER BY keywords in any SOQL query that uses locking.
 #### Warning
 
 Use care when setting locks in your Apex code. See [Avoiding Deadlocks](atlas.en-us.apexcode.meta/apexcode/langCon_apex_deadlocks.htm#langCon_apex_deadlocks).
+
+## Code Examples
+
+```
+Account [] accts = [SELECT Id FROM Account LIMIT 2 FOR UPDATE];
+```
+
+## Related Topics
+
+- Avoiding Deadlocks (atlas.en-us.apexcode.meta/apexcode/langCon_apex_deadlocks.htm)

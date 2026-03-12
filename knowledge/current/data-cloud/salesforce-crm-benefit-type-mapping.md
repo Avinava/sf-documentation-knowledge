@@ -5,11 +5,16 @@ topic: salesforce-crm-benefit-type-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.066Z
-keywords: [Salesforce, CRM, Benefit, Type, Mapping, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.481Z
+estimatedTokens: 286
+keywords: [Salesforce, CRM, Benefit, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Data, Cloud., benefit, used, categorize, benefits, offered, members]
 ---
 
 # Salesforce CRM: Benefit Type Mapping
+
+> These data mappings are for the Benefit DLO found in the Loyalty Management bundle of
+  the Salesforce CRM Connector for Data Cloud. A benefit type is used to categorize benefits that
+  are offered to members of the loyalty program.
 
 # Salesforce CRM: Benefit Type Mapping
 

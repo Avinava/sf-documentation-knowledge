@@ -5,11 +5,14 @@ topic: connectapimcsfoldershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.064Z
-keywords: [ConnectApi.MCSFolderShare, See]
+lastCollected: 2026-03-12T05:14:27.683Z
+estimatedTokens: 222
+keywords: [ConnectApi.MCSFolderShare, Target, managed, content, space, folder, shared, with.]
 ---
 
 # ConnectApi.MCSFolderShare
+
+> Target that a managed content space folder is shared with.
 
 # ConnectApi.MCSFolderShare
 
@@ -25,3 +28,10 @@ Target that a managed content space folder is shared with.
 #### See Also
 
 -   [ConnectApi.MCSFolderShareCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_m_c_s_folder_share_collection.htm "Collection of targets that a managed content space folder is shared with.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​MCSFolderShare​Status (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.MCSFolderShareCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_m_c_s_folder_share_collection.htm)

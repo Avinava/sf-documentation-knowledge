@@ -5,11 +5,16 @@ topic: standardvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.750Z
-keywords: [StandardValueSetTranslation, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:43.001Z
+estimatedTokens: 610
+keywords: [StandardValueSetTranslation, Contains, details, standard, picklist, translation., translated, set.This, extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
 ---
 
 # StandardValueSetTranslation
+
+> Contains details for a standard picklist
+      translation. It returns a translated standard value set.This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # StandardValueSetTranslation
 
@@ -58,3 +63,41 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 #### See Also
 
 -   [Translations](atlas.en-us.api_meta.meta/api_meta/meta_translations.htm "Metadata type that enables work with translations for various supported languages. The ability to translate component labels is part of the Translation Workbench.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Cold</masterLabel>
+        <translation><!-- Cold --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Hot</masterLabel>
+        <translation><!-- Hot --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Warm</masterLabel>
+        <translation><!-- Warm --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+        <types>
+        <members>AccountRating-fr</members>
+        <name>StandardValueSetTranslation</name>
+    </types>
+    <version>38.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- ValueTranslation[] (atlas.en-us.api_meta.meta/api_meta/meta_globalvaluesettranslation.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Translations (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)

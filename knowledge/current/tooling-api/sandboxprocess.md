@@ -5,11 +5,15 @@ topic: sandboxprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.709Z
-keywords: [SandboxProcess, Supported, SOAP, Calls, REST, HTTP, Methods, Fields, Usage, Creating, Sandbox, Refreshing, Deleting, Checking, Progress, Note]
+lastCollected: 2026-03-12T05:14:46.729Z
+estimatedTokens: 2260
+keywords: [SandboxProcess, Represents, sandbox, copy, process, SandboxInfo, record., Supported, SOAP, Calls, REST, HTTP, Fields, Usage, Creating, Sandbox, Refreshing, Deleting, Checking, Progress]
 ---
 
 # SandboxProcess
+
+> Represents the sandbox copy process for a
+            SandboxInfo record.
 
 # SandboxProcess
 
@@ -95,3 +99,7 @@ While the system can't provide a time-based estimate, you can track your place i
 
 -   If IsActualWorkFinal = true, then ActualTotalWork is a better representation of the total work required.
 -   If IsActualWorkFinal = false, then EstimatedTotalWork is a better representation of the total work required.
+
+## Related Topics
+
+- SandboxInfo (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_sandboxinfo.htm)

@@ -5,11 +5,14 @@ topic: field-data-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.134Z
-keywords: [Field, Data, Input]
+lastCollected: 2026-03-12T05:14:06.069Z
+estimatedTokens: 123
+keywords: [Field, Data, Input, representation, details, field, data, input.]
 ---
 
 # Field Data Input
+
+> Input representation of the details of the field data input.
 
 # Field Data Input
 
@@ -28,3 +31,20 @@ Properties
 | fieldApi​Name | String | Unique API name of the field. | Required | 63.0 |
 | original​Value | String | Original value of the fields. | Required | 63.0 |
 | unitOf​MeasureId | String | ID of the unit of measure record that’s associated to the field. | Required | 63.0 |
+
+## Code Examples
+
+```
+"fieldDataInputs": [
+        {
+          "fieldApiName": "MaxQuantity",
+          "originalValue": 0.437584,
+          "unitOfMeasureId": "uomId2"
+        },
+        {
+          "fieldApiName": "MinQuantity",
+          "originalValue": 7364.58923,
+          "unitOfMeasureId": "uomId2"
+        }
+      ]
+```

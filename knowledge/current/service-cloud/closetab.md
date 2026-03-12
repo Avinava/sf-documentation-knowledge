@@ -5,11 +5,15 @@ topic: closetab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:49.796Z
-keywords: [closeTab, Syntax, Note, Arguments, Sample, Code, API, 20.0, Later–Visualforce, Response, Version, 35.0, Tip]
+lastCollected: 2026-03-12T05:14:57.150Z
+estimatedTokens: 561
+keywords: [closeTab, Closes, specified, primary, tab, subtab., Keep, mind, closing, first, closes, itself., only, API, version, 20.0, later., Syntax, Note, Arguments]
 ---
 
 # closeTab()
+
+> Closes a specified primary tab or subtab. Keep in mind that
+            closing the first tab in a primary tab closes the primary tab itself. This method is only available in API version 20.0 or later.
 
 # closeTab()
 
@@ -76,3 +80,56 @@ This method is asynchronous, so it returns its response in an object in a callba
 #### Tip
 
 When using Firefox, we recommend that you don't call closeTab() on a tab with an active alert box because the browser may not load properly.
+
+## Code Examples
+
+```
+sforce.console.closeTab(id:String, (optional) callback:Function)
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testCloseTab();return false">
+           Click here to close this tab</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+        function testCloseTab() {
+            //First find the ID of the current tab to close it
+            sforce.console.getEnclosingTabId(closeSubtab);
+        }
+        
+        var closeSubtab = function closeSubtab(result) {
+            //Now that we have the tab ID, we can close it
+            var tabId = result.id;
+            sforce.console.closeTab(tabId);
+        };
+    </script>
+</apex:page>
+```
+
+```
+<apex:page standardController="Case">
+    <A HREF="#" onClick="testCloseTab();return false">
+           Click here to close this tab</A> 
+
+    <apex:includeScript value="/support/console/66.0/integration.js"/>
+    <script type="text/javascript">
+         var callback = function () {
+             if (result.error) {
+		        alert("Error message is " + result.error);
+             }
+         };
+        function testCloseTab() {
+            //First find the ID of the current tab to close it
+            sforce.console.getEnclosingTabId(closeSubtab);
+         }
+
+        var closeSubtab = function closeSubtab(result) {
+            //Now that we have the tab ID, we can close it
+            var tabId = result.id;
+            sforce.console.closeTab(tabId, callback);
+        };
+    </script>
+</apex:page>
+```

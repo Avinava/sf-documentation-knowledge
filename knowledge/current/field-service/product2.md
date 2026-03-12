@@ -5,11 +5,14 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.723Z
-keywords: [Product2, Note, Supported, Calls, Special, Access, Rules, Fields, Schedule, Enabled, Flags, Default, Usage, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.262Z
+estimatedTokens: 4458
+keywords: [Product2, Represents, product, company, sells., Note, Supported, Calls, Special, Access, Rules, Fields, Schedule, Enabled, Flags, Default, Usage, Associated, Objects]
 ---
 
 # Product2
+
+> Represents a product that your company sells.
 
 # Product2
 

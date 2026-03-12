@@ -5,11 +5,14 @@ topic: connectapicommentpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.341Z
-keywords: [ConnectApi.CommentPage, See]
+lastCollected: 2026-03-12T05:14:26.654Z
+estimatedTokens: 430
+keywords: [ConnectApi.CommentPage, page, comments.]
 ---
 
 # ConnectApi.CommentPage
+
+> A page of comments.
 
 # ConnectApi.CommentPage
 
@@ -30,3 +33,11 @@ A page of comments.
 #### See Also
 
 -   [ConnectApi.CommentsCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comments_capability.htm "If a feed element or comment has this capability, the context user can add a comment to it.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Comment (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comment.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.CommentsCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_comments_capability.htm)

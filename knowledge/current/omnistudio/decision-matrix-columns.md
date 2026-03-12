@@ -5,11 +5,16 @@ topic: decision-matrix-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.731Z
-keywords: [Decision, Matrix, Columns]
+lastCollected: 2026-03-12T05:14:49.095Z
+estimatedTokens: 336
+keywords: [Decision, Matrix, Columns, Retrieve, list, manage, columns, decision, matrix., resource, add, new, update, delete, existing]
 ---
 
 # Decision Matrix Columns
+
+> Retrieve a list of or manage columns in a decision matrix. Use this
+      resource to add new columns, or update or delete existing columns in a decision
+    matrix.
 
 # Decision Matrix Columns
 
@@ -80,3 +85,52 @@ Properties
 Response body for POST
 
 [Decision Matrix Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_output.htm "Output representation the action performed on a decision matrix version.")
+
+## Code Examples
+
+```
+/connect/omnistudio/decision-matrices/${matrixId}/columns
+```
+
+```
+/services/data/v53.0/connect/omnistudio/decision-matrices/0lIR000000000u0MAA/columns
+```
+
+```
+{
+   "columns" : [ {
+      "apiName" : "Name",
+      "columnType" : "Input",
+      "dataType" : "Text",
+      "displaySequence" : 4,
+      "name" : "Name"
+   }]
+}
+```
+
+```
+{
+   "columns" : [ {
+      "action" : "delete",
+      "id" : "0lJR0000000014bMAA"
+   }]
+}
+```
+
+```
+{
+   "columns" : [ {
+      "id" : "0lJR0000000014hMAA",
+      "action" : "update",
+      "columnType" : "Input",
+      "name" : "First Name"
+   }]
+}
+```
+
+## Related Topics
+
+- Decision Matrix Columns Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_columns_output.htm)
+- Decision Matrix
+                                    Column Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_decision_matrix_column.htm)
+- Decision Matrix Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_decision_matrix_output.htm)

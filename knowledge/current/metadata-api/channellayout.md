@@ -5,11 +5,19 @@ topic: channellayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.636Z
-keywords: [ChannelLayout, File, Suffix, Directory, Location, Version, Fields, ChannelLayoutItem, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:37.012Z
+estimatedTokens: 642
+keywords: [ChannelLayout, Represents, metadata, associated, communication, channel, layout., Communication, layouts, let, admins, share, article, content, inline, channels, example, email, publishers, Experience]
 ---
 
 # ChannelLayout
+
+> Represents the metadata associated with a communication
+      channel layout. Communication channel layouts let admins share article content inline into
+      communication channels (for example, in email publishers, Experience Builder sites, or social
+      media publishers). Admins can create a list of fields for an article type or record type that
+      they want to share for each communication channel. You can customize the order of the
+      fields.
 
 # ChannelLayout
 
@@ -52,4 +60,35 @@ The following is an example package.xml that references the previous definition.
 
 ```
 
+```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ChannelLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Layout for Email</label>
+    <layoutItems>
+        <field>Knowledge.Question</field>
+    </layoutItems>
+    <layoutItems>
+        <field>Knowledge.Answer</field>
+    </layoutItems>
+    <enabledChannels>Email</enabledChannels>
+    <enabledChannels>Social</enabledChannels>
+    <enabledChannels>Chat</enabledChannels>
+    <doesExcludeFiles>false</doesExcludeFiles>
+    <doesExcludeFieldLabels>true</doesExcludeFieldLabels>
+</ChannelLayout>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ChannelLayout</name>
+    </types>
+    <version>41.0</version>
+</Package>
 ```

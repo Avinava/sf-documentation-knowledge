@@ -5,11 +5,17 @@ topic: data-cloud-query-profile-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.246Z
-keywords: [Data, Cloud, Query, Profile, Parameters, Supported, SOQL, Limitations, Sample, Queries]
+lastCollected: 2026-03-12T05:14:35.386Z
+estimatedTokens: 707
+keywords: [Data, Cloud, Query, Profile, Unified, allow, leverage, Salesforce, REST, API, endpoint, execute, SOQL, queries, against, Source, objects, Model, within, org.]
 ---
 
 # Data Cloud Query Profile Parameters
+
+> Data Cloud Query and Unified Profile parameters allow you to leverage Salesforce REST
+		API Query endpoint to execute SOQL queries against the Unified Profile, Data Source objects,
+		or Data Model objects within your org. This functionality is supported using API version
+		51.0 or later.
 
 # Data Cloud Query Profile Parameters
 
@@ -26,9 +32,9 @@ The following SOQL parameters are supported for use with Data Cloud:
 -   SOQL WHERE clause: contains operators
 -   SOQL LIKE
 -   SOQL LIMIT clause
-    
+
     The default limit is set to 100. The max limit is 2,000 records in a single call.
-    
+
 -   SOQL OFFSET clause
 -   SOQL ORDER BY clause
 

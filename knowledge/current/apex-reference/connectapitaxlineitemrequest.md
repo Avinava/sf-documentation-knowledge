@@ -5,11 +5,15 @@ topic: connectapitaxlineitemrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.244Z
-keywords: [ConnectApi.TaxLineItemRequest]
+lastCollected: 2026-03-12T05:14:25.037Z
+estimatedTokens: 319
+keywords: [ConnectApi.TaxLineItemRequest, list, line, items, passed, tax, engine, calculation.]
 ---
 
 # ConnectApi.TaxLineItemRequest
+
+> A list of line items passed to the tax engine for tax
+      calculation.
 
 # ConnectApi.TaxLineItemRequest
 
@@ -29,3 +33,10 @@ A list of line items passed to the tax engine for tax calculation.
 | quantity | Double | Quantity of the line item. | Optional | 55.0 |
 | taxCode | String | Tax code for the line item. | Optional | 55.0 |
 | unitPrice | Double | Unit price of the product. | Optional | 63.0 |
+
+## Related Topics
+
+- ConnectApi.​TaxAddresses​Request (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_addresses.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)

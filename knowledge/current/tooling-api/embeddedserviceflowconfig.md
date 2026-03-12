@@ -5,11 +5,15 @@ topic: embeddedserviceflowconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.709Z
-keywords: [EmbeddedServiceFlowConfig, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.282Z
+estimatedTokens: 596
+keywords: [EmbeddedServiceFlowConfig, Represents, whether, Embedded, Service, Flow, feature, enabled, not., API, version, 45.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # EmbeddedServiceFlowConfig
+
+> Represents whether an Embedded Service Flow feature is enabled or not.
+    This object is available in API version 45.0 and later.
 
 # EmbeddedServiceFlowConfig
 
@@ -39,3 +43,8 @@ To access this type, you need the Customize Application user permission.
 ## Usage
 
 To get a Flow feature working, you need three things: an [EmbeddedServiceConfig](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceconfig.htm "Represents a setup node for creating an Embedded Service deployment. Available in API version 38.0 and later.") deployment, an EmbeddedServiceFlowConfig record, and an [EmbeddedServiceFlow](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceflow.htm "Represents a Flow Definition used by an Embedded Service deployment. This object is available in API version 45.0 and later.") record with the type set to FL\_Flow. The EmbeddedServiceFlowConfig record controls whether the Flow feature associated with this deployment is enabled or disabled.
+
+## Related Topics
+
+- EmbeddedServiceConfig (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceconfig.htm)
+- EmbeddedServiceFlow (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceflow.htm)

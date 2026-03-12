@@ -5,11 +5,14 @@ topic: connectapireferencerecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.904Z
-keywords: [ConnectApi.ReferenceRecordField]
+lastCollected: 2026-03-12T05:14:28.842Z
+estimatedTokens: 106
+keywords: [ConnectApi.ReferenceRecordField, Record, field, label, text, value.]
 ---
 
 # ConnectApi.ReferenceRecordField
+
+> Record field with a label and text value.
 
 # ConnectApi.ReferenceRecordField
 
@@ -20,3 +23,8 @@ Subclass of [ConnectApi.LabeledRecordField](atlas.en-us.apexref.meta/apexref/ape
 | Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | reference | ConnectApi.​RecordSummary | Object referenced by the record field. | 29.0 |
+
+## Related Topics
+
+- ConnectApi.LabeledRecordField (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_labeledRecordField.htm)
+- ConnectApi.​RecordSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_rec_sum.htm)

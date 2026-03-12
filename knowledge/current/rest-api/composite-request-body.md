@@ -5,11 +5,15 @@ topic: composite-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.171Z
-keywords: [Composite, Request, Body, Collection, Input, Subrequest, Note]
+lastCollected: 2026-03-12T05:14:35.286Z
+estimatedTokens: 1706
+keywords: [Composite, Request, Body, Describes, collection, subrequests, execute, resource., Collection, Input, Subrequest, Note]
 ---
 
 # Composite Request Body
+
+> Describes a collection of subrequests to execute with the Composite
+  resource.
 
 # Composite Request Body
 
@@ -82,3 +86,58 @@ Because referenceId is case-sensitive, it’s important to note the case of the 
 #### Note
 
 You can have up to 25 subrequests in a single call. Up to 5 of these subrequests can be sObject Collections or query operations, including Query and QueryAll requests.
+
+## Code Examples
+
+```
+{
+   "allOrNone" : true,
+   "collateSubrequests": true,
+   "compositeRequest" : [{
+      Composite Subrequest
+      },{
+      Composite Subrequest
+      },{
+      Composite Subrequest
+   }]
+}
+```
+
+```
+{
+   "method" : "GET",
+   "url" : "/services/data/v66.0/sobjects/Account/describe",
+   "httpHeaders" : { "If-Modified-Since" : "Tue, 31 May 2016 18:00:00 GMT" },    
+   "referenceId" : "AccountInfo"
+}
+```
+
+```
+{
+   "method" : "POST",
+   "url" : "/services/data/v66.0/sobjects/Account",
+   "referenceId" : "refAccount",
+   "body" : { "Name" : "Sample Account" }
+}
+```
+
+```
+{
+   "method" : "GET",
+   "url" : "/services/data/v66.0/sobjects/Account/@{refAccount.id}",
+   "referenceId" : "NewAccountFields"
+}
+```
+
+```
+{
+   "method" : "PATCH",
+   "url" : "/services/data/v66.0/sobjects/Account/ExternalAcctId__c/ID12345",
+   "referenceID" : "NewAccount",
+   "body" : { "Name" : "Acme" }
+}
+```
+
+## Related Topics
+
+- allOrNone Parameters in Composite and Collections Requests (atlas.en-us.api_rest.meta/api_rest/resources_composite_allornone.htm)

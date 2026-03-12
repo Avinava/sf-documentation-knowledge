@@ -5,11 +5,14 @@ topic: bookmark-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.824Z
-keywords: [Bookmark, Feed, Element]
+lastCollected: 2026-03-12T05:14:34.304Z
+estimatedTokens: 95
+keywords: [Bookmark, Feed, Element, Call, bookmark, feed, element.]
 ---
 
 # Bookmark a Feed Element
+
+> Call a method to bookmark a feed element.
 
 # Bookmark a Feed Element
 
@@ -19,4 +22,10 @@ Call [updateFeedElementBookmarks(communityId, feedElementId, isBookmarkedByCurre
 
 ```
 
+```
+
+## Code Examples
+
+```
+ConnectApi.BookmarksCapability bookmark = ConnectApi.ChatterFeeds.updateFeedElementBookmarks(null, '0D5D0000000KuGh', true);
 ```

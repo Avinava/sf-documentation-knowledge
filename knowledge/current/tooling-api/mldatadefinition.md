@@ -5,11 +5,17 @@ topic: mldatadefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.278Z
-keywords: [MLDataDefinition, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:46.080Z
+estimatedTokens: 1411
+keywords: [MLDataDefinition, Represents, modeling, data, definition, which, specifies, used, create, model, machine, learning, application., Examples, such, include, filters, fields, exclude., API]
 ---
 
 # MLDataDefinition
+
+> Represents a modeling data definition, which specifies the data used
+            to create a model for a machine learning (ML) application. Examples of such data can
+            include filters, fields to include, and fields to exclude. Available from API
+        version 50.0 or later.
 
 # MLDataDefinition
 

@@ -5,11 +5,15 @@ topic: forresourceresourcename-path
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.031Z
-keywords: [forResource, resourceName, path, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:19.214Z
+estimatedTokens: 225
+keywords: [forResource, resourceName, path, Create, PageReference, nested, content, inside, zip, resource, name, path.]
 ---
 
 # forResource(resourceName, path)
+
+> Create a PageReference for nested content inside a zip static
+      resource, by name and path.
 
 # forResource(resourceName, path)
 
@@ -36,3 +40,8 @@ The resource path
 ## Return Value
 
 Type: [System.PageReference](atlas.en-us.apexref.meta/apexref/apex_system_pagereference.htm "A PageReference is a reference to an instantiation of a page. Among other attributes, PageReferences consist of a URL and a set of query parameter names and values.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- System.PageReference (atlas.en-us.apexref.meta/apexref/apex_system_pagereference.htm)

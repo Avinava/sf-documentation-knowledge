@@ -5,11 +5,15 @@ topic: resultcode-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.486Z
-keywords: [ResultCode, Enum, Usage, Values]
+lastCollected: 2026-03-12T05:14:29.640Z
+estimatedTokens: 202
+keywords: [ResultCode, Code, represents, results, tax, request, made, engine., Usage, Values]
 ---
 
 # ResultCode Enum
+
+> Code that represents the results of a tax request made to the tax
+      engine.
 
 # ResultCode Enum
 
@@ -27,3 +31,7 @@ The commercetax.ResultCode enum includes these values.
 | --- | --- |
 | TaxEngineError | Represents an error that occurred during the tax request process. |
 | ReferenceDocumentCodeMissing | Specifies if the document mentioned as a referenceDocumentCode value isn't available in the tax engine. |
+
+## Related Topics
+
+- ErrorResponse (atlas.en-us.apexref.meta/apexref/apex_class_commercetax_ErrorResponse.htm)

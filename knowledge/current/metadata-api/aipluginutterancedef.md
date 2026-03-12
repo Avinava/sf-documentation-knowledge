@@ -5,11 +5,15 @@ topic: aipluginutterancedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.417Z
-keywords: [AiPluginUtteranceDef, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:36.727Z
+estimatedTokens: 384
+keywords: [AiPluginUtteranceDef, Represents, utterance, used, pick, topic, during, runtime., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata]
 ---
 
 # AiPluginUtteranceDef
+
+> Represents an utterance that can be used to pick a topic
+			during runtime.
 
 # AiPluginUtteranceDef
 
@@ -43,3 +47,8 @@ AiPluginUtteranceDef is available only if Agents is enabled in your org.
 ## Declarative Metadata Sample Definition
 
 See [GenAiPlugin](atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm "Represents an agent topic, which is a category of actions related to a particular job to be done by AI agents.").
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- GenAiPlugin (atlas.en-us.api_meta.meta/api_meta/meta_genaiplugin.htm)

@@ -5,11 +5,15 @@ topic: batchdatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.341Z
-keywords: [BatchDataSource, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:54.580Z
+estimatedTokens: 429
+keywords: [BatchDataSource, Represents, source, information, which, batch, job, retrieves, records, processing., API, version, 66.0, later., Supported, Calls, Fields]
 ---
 
 # BatchDataSource
+
+> Represents the source of information from which a batch job retrieves records
+         for processing. This object is available in API version 66.0 and later.
 
 # BatchDataSource
 

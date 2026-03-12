@@ -4,12 +4,16 @@ domain: omnistudio
 topic: recordalertdatasource
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.634Z
-keywords: [RecordAlertDataSource, Important, Supported, SOAP, API, Calls, REST, Methods, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.636Z
+estimatedTokens: 524
+keywords: [RecordAlertDataSource, Represents, internal, external, source, record, alert, data., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition]
 ---
 
 # RecordAlertDataSource
+
+> Represents an internal or external source for record alert data. This
+      object is available in API version 54.0 and later.
 
 # RecordAlertDataSource
 
@@ -44,3 +48,30 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionRecord alert data source metadata. |
 | NamespacePrefix | TypestringPropertiesFilter, Group, Nillable, SortDescriptionNamespace prefix associated with this object. Each Developer Edition org that creates a managed package has a unique namespace prefix. |
 | Type | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe type of active data source used to fetch a record alert. This field is available in API version 55.0 and later.Possible values are:APEXBusinessRulesEngine |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordAlertDataSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>FeeInfo</masterLabel>
+    <apexClass>SalesforceProvider</apexClass>
+    <isActive>false</isActive>
+</RecordAlertDataSource>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <namespacePrefix>[namespacePrefix]</namespacePrefix>
+    <types>
+        <members>SalesforceProvider</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>RecordAlertDataSource</name>
+    </types>
+    <version>54.0</version>
+</Package>
+```

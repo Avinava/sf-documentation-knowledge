@@ -5,11 +5,14 @@ topic: connectapiwishlistsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.232Z
-keywords: [ConnectApi.WishlistSummary, See]
+lastCollected: 2026-03-12T05:14:29.314Z
+estimatedTokens: 228
+keywords: [ConnectApi.WishlistSummary, Summary, wishlist.]
 ---
 
 # ConnectApi.WishlistSummary
+
+> Summary of a wishlist.
 
 # ConnectApi.WishlistSummary
 
@@ -26,5 +29,13 @@ Summary of a wishlist.
 #### See Also
 
 -   [ConnectApi.Wishlist](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist.htm "Wishlist, including summary and items.")
-    
+
 -   [ConnectApi.WishlistsSummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_summaries.htm "List of wishlist summaries and the displayed list for the context user.")
+
+## Related Topics
+
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.Wishlist (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist.htm)
+- ConnectApi.WishlistsSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_summaries.htm)

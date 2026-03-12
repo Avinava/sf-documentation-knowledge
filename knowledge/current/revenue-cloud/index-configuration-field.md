@@ -5,11 +5,14 @@ topic: index-configuration-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.438Z
-keywords: [Index, Configuration, Field]
+lastCollected: 2026-03-12T05:14:07.769Z
+estimatedTokens: 230
+keywords: [Index, Configuration, Field, Output, representation, details, index-configured, field.]
 ---
 
 # Index Configuration Field
+
+> Output representation of the details of the index-configured field.
 
 # Index Configuration Field
 
@@ -30,3 +33,34 @@ JSON example
 | is​Searchable | Boolean | Indicates whether the index-configured field is searchable (true) or not (false). | Small, 62.0 | 62.0 |
 | name | String | Name of the index-configured field. | Small, 62.0 | 62.0 |
 | type | String | Type of the index-configured field. | Small, 62.0 | 62.0 |
+
+## Code Examples
+
+```
+"indexConfigurations": [
+    {
+      "attributeDefinitionId": "0tjT1000000002bIAA",
+      "name": "Color",
+      "type": "ProductDynamicAttribute",
+      "isSearchable": true
+    },
+    {
+      "attributeFieldId": "00Nxx000001FwnABII",
+      "name": "Message__c",
+      "type": "Custom",
+      "isSearchable": true
+    },
+    {
+      "name": "Code",
+      "type": "Standard",
+      "isSearchable": true
+    },
+    {
+      "facetDisplayRank": 1,
+      "isFacetable": false,
+      "isSearchable": true,
+      "name": "Family",
+      "type": "Standard"
+    }
+  ]
+```

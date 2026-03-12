@@ -5,11 +5,15 @@ topic: flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.003Z
-keywords: [Flow, Note, Supported, SOAP, Calls, REST, API, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.694Z
+estimatedTokens: 2682
+keywords: [Flow, retrieve, update, specific, flow, versions., Note, Supported, SOAP, Calls, REST, API, HTTP, Fields]
 ---
 
 # Flow
+
+> Use the Flow object to retrieve and update
+            specific flow versions.
 
 # Flow
 
@@ -60,3 +64,7 @@ DELETE, GET, HEAD, PATCH, POST
 | Status | TypeRestricted picklistPropertiesFilter, GroupDescriptionThe flow’s status.ActiveDraftObsoleteUnderReviewInvalidDraft |
 | TimeZoneSidKey | TypestringPropertiesNillableDescriptionThe ID that defines the time zone in which the flow runs. Available in API version 56.0 and later. |
 | VersionNumber | TypeintPropertiesFilter, Group, SortDescriptionThe flow’s version number. |
+
+## Related Topics
+
+- FlowDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_flowdefinition.htm)

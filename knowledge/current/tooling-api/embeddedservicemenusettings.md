@@ -5,11 +5,16 @@ topic: embeddedservicemenusettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.738Z
-keywords: [EmbeddedServiceMenuSettings, Important, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.320Z
+estimatedTokens: 1296
+keywords: [EmbeddedServiceMenuSettings, Represents, setup, node, creating, channel, menu, deployment., Channel, menus, list, ways, which, customers, contact, business., API, version, 47.0, later.]
 ---
 
 # EmbeddedServiceMenuSettings
+
+> Represents a setup node for creating a channel menu deployment. Channel menus
+      list the ways in which customers can contact your business. This object is available in
+    API version 47.0 and later.
 
 # EmbeddedServiceMenuSettings
 
@@ -53,4 +58,18 @@ An EmbeddedServiceMenuSettings record creates a channel menu. A channel menu lis
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+    "FullName" : "embeddedServiceMenuSettingsName",
+    "Metadata" : {
+        "branding" : "brandingSetRecordDevName",
+        "isEnabled" : true,
+        "masterLabel" : "embeddedServiceMenuSettingsName",
+        "site" : "siteRecordDevName"
+    }
+}
 ```

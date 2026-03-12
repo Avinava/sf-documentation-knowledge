@@ -4,12 +4,16 @@ domain: omnistudio
 topic: expressionsetobjectalias
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:25:12.527Z
-keywords: [ExpressionSetObjectAlias, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+docType: developer-guide
+lastCollected: 2026-03-12T05:14:52.280Z
+estimatedTokens: 684
+keywords: [ExpressionSetObjectAlias, Represents, information, alias, source, that’s, used, expression, set., Parent, File, Suffix, Directory, Location, Version, Fields, ExpressionSetObjectAliasField, Declarative, Metadata, Sample]
 ---
 
 # ExpressionSetObjectAlias
+
+> Represents the alias of the source object that's used in an
+         expression set. This object is available in API version 56.0 and later.
 
 # ExpressionSetObjectAlias
 
@@ -42,3 +46,38 @@ To use this object, users must have the Modify All Data permission, and the orgH
 | ObjectAlias | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe alias that corresponds to the source object that's used in an expression set. In the context of an expression set, this alias in a group that contains the aliases of fields from the source object. The length of the object alias can’t exceed 40 characters. This is a required field. |
 | ObjectApiName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe API name of the source object associated with the alias that's being used in an expression set. |
 | UsageType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe type of application associated with the industry that's using an expression set.Possible values are:Bre–DefaultProductCategoryQualificationProductQualificationRecordAlertWhen Business Rules Engine is enabled for a Salesforce org, the default value is 'Bre’. Other usage types may be available to you depending on your industry solution and permission sets. |
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpressionSetObjectAlias xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataType>sObject</dataType>
+    <mappings>
+        <fieldAlias>dum2</fieldAlias>
+        <sourceFieldName>CreatedBy.Contact.Name</sourceFieldName>
+    </mappings>
+    <mappings>
+        <fieldAlias>dum3</fieldAlias>
+        <sourceFieldName>CreatedBy.Name</sourceFieldName>
+    </mappings>
+    <mappings>
+        <fieldAlias>dum1</fieldAlias>
+        <sourceFieldName>Owner.Contact.Name</sourceFieldName>
+    </mappings>
+    <objectApiName>Account</objectApiName>
+    <usageType>Bre</usageType>
+</ExpressionSetObjectAlias>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ExpressionSetObjectAlias</name>
+	</types>
+	<version>66.0</version>
+</Package>
+```

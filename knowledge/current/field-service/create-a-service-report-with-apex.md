@@ -5,11 +5,16 @@ topic: create-a-service-report-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.167Z
-keywords: [Create, Service, Report, Apex, Note, Field, Descriptions, Limitations, See]
+lastCollected: 2026-03-12T05:14:55.402Z
+estimatedTokens: 774
+keywords: [Create, Service, Report, Apex, action, work, orders, order, line, items, service, appointments, called, code., code, example, shown, creates, report, two]
 ---
 
 # Create a Service Report with Apex
+
+> The Create Service Report action on work orders, work order line items, and service
+  appointments can also be called using Apex code. The code example shown creates a service report
+  with two signatures by making an Apex callout to the createServiceReport action REST API resource.
 
 # Create a Service Report with Apex
 
@@ -57,3 +62,55 @@ If you’re a guest user and are using Future annotation, the ContentDocument ob
 #### See Also
 
 -   [Salesforce Actions Developer Guide: Create Service Report Actions](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_action.meta/api_action/actions_obj_create_service_report.htm "Salesforce Actions Developer Guide: Create Service Report Actions - HTML (New Window)")
+
+## Code Examples
+
+```apex
+String salesforceHost = System.Url.getSalesforceBaseURL().toExternalForm();
+String url = salesforceHost + '/services/data/v41.0/actions/standard/createServiceReport';
+// Create HTTP request
+HttpRequest request = new HttpRequest();
+request.setEndpoint(url);
+request.setMethod('POST');
+request.setHeader('Content-Type', 'application/json');
+request.setHeader('Authorization', 'OAuth ' + UserInfo.getSessionId());
+// Set the body as a JSON object
+request.setBody('{"inputs" : [ {"entityId" : "0WOxx000000001E","signatures" : [{"data":"Base64 code for the captured signature image","contentType":"image/png","name":"Customer Signature","signatureType":"Default","place":"San Francisco","signedBy":"John Doe","signedDate":"2019-06-05 12:00:00"}],"templateId" : "0SLR00000004DBFOA2"} ]}');
+Http http = new Http();
+HttpResponse response = http.send(request);
+// Parse the JSON response
+if (response.getStatusCode() != 201) {
+    System.debug('The status code returned was not expected: ' +
+                 response.getStatusCode() + ' ' + response.getStatus());
+} else {
+    System.debug(response.getBody());
+}
+```
+
+```
+{
+   "inputs":[
+      {
+         "entityId":"0WOxx000000001E",
+         "signatures":[
+            {
+               "data":"Base64 code for the captured signature image",
+               "contentType":"image/png",
+               "name":"Customer Signature",
+               "signatureType":"Customer",
+               "place":"San Francisco",
+               "signedBy":"John Doe",
+               "signedDate":"Thu Jul 13 22:34:43 GMT 2017"
+            },
+            {
+               "data":"Base64 code for the captured signature image",
+               "contentType":"image/png",
+               "name":"Technician Signature",
+               "signatureType":"Technician"
+            }
+         ],
+         "templateId":"0SLR00000004DBFOA2"
+      }
+   ]
+}
+```

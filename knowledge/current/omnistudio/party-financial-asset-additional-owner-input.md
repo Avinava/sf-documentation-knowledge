@@ -5,11 +5,15 @@ topic: party-financial-asset-additional-owner-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.382Z
-keywords: [Party, Financial, Asset, Additional, Owner, Input]
+lastCollected: 2026-03-12T05:14:48.584Z
+estimatedTokens: 326
+keywords: [Party, Financial, Asset, Additional, Owner, Input, representation, details, additional, owner, party, financial, asset.]
 ---
 
 # Party Financial Asset Additional Owner Input
+
+> Input representation of the details of the additional owner of the party financial
+    asset.
 
 # Party Financial Asset Additional Owner Input
 
@@ -28,3 +32,7 @@ Properties
 | partyProfileId | String | Party profile associated with the additional owner of the financial asset. | Optional | 61.0 |
 | recordTypeId | String | ID of the record type assigned to this object. | Optional | 61.0 |
 | sourceSystem​Identifier | String | Unique identifier of the record in an external system. | Optional | 61.0 |
+
+## Related Topics
+
+- Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_digital_lending_custom_fields_input.htm)

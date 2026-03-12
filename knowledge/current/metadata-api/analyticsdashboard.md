@@ -5,11 +5,14 @@ topic: analyticsdashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:50.481Z
-keywords: [AnalyticsDashboard, Important, Parent, Type, File, Suffix, Directory, Location, Version, Limits, Fields, AnalyticsDashboardLayout, AnalyticsDashboardPage, AnalyticsDashPageWidget, AnalyticsDashboardWidget, AnalyticsAssetAction, AnalyticsButtonWidgetDef, AnalyticsContainerWidgetDef, AnlytDshbrdWdgtDynamicTkn, AnalyticsFilterWidgetDef]
+lastCollected: 2026-03-12T05:14:36.817Z
+estimatedTokens: 3474
+keywords: [AnalyticsDashboard, Represents, Tableau, Next, dashboard., Important, Parent, File, Suffix, Directory, Location, Version, Limits, Fields, AnalyticsDashboardLayout, AnalyticsDashboardPage, AnalyticsDashPageWidget, AnalyticsDashboardWidget, AnalyticsAssetAction, AnalyticsButtonWidgetDef]
 ---
 
 # AnalyticsDashboard
+
+> Represents a Tableau Next dashboard.
 
 # AnalyticsDashboard
 
@@ -237,3 +240,175 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticsDashboard xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <analyticsWorkspace>My_Workspace</analyticsWorkspace>
+    <description>A dashboard</description>
+    <layouts>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <columnCount>36</columnCount>
+        <layoutName>default</layoutName>
+        <maxWidth>1200</maxWidth>
+        <label>layoutLabel</label>
+        <pages>
+            <index>0</index>
+            <label>Page 1</label>
+            <pageName>e412bc11-d43b-4fba-ab44-b31bb842b49a</pageName>
+            <pageWidgets>
+                <analyticsDashboardWidget>visualization_1</analyticsDashboardWidget>
+                <colspan>11</colspan>
+                <column>1</column>
+                <row>2</row>
+                <rowspan>10</rowspan>
+            </pageWidgets>
+            <pageWidgets>
+                <analyticsDashboardWidget>button_1</analyticsDashboardWidget>
+                <colspan>9</colspan>
+                <column>13</column>
+                <row>8</row>
+                <rowspan>2</rowspan>
+            </pageWidgets>
+            <pageWidgets>
+                <analyticsDashboardWidget>container_1</analyticsDashboardWidget>
+                <colspan>11</colspan>
+                <column>23</column>
+                <row>2</row>
+                <rowspan>10</rowspan>
+            </pageWidgets>
+            <pageWidgets>
+                <analyticsDashboardWidget>text_2</analyticsDashboardWidget>
+                <colspan>9</colspan>
+                <column>13</column>
+                <row>5</row>
+                <rowspan>2</rowspan>
+            </pageWidgets>
+            <pageWidgets>
+                <analyticsDashboardWidget>metric_1</analyticsDashboardWidget>
+                <colspan>11</colspan>
+                <column>1</column>
+                <row>13</row>
+                <rowspan>10</rowspan>
+            </pageWidgets>
+            <pageWidgets>
+                <analyticsDashboardWidget>list_4</analyticsDashboardWidget>
+                <colspan>9</colspan>
+                <column>13</column>
+                <row>13</row>
+                <rowspan>2</rowspan>
+            </pageWidgets>
+            <pageWidgets>
+                <analyticsDashboardWidget>list_1</analyticsDashboardWidget>
+                <colspan>9</colspan>
+                <column>13</column>
+                <row>2</row>
+                <rowspan>2</rowspan>
+            </pageWidgets>
+        </pages>
+        <rowHeight>24</rowHeight>
+        <style>{&quot;backgroundColor&quot;:&quot;#ffffff&quot;,&quot;gutterColor&quot;:&quot;#f3f3f3&quot;,&quot;cellSpacingX&quot;:8,&quot;cellSpacingY&quot;:8}</style>
+    </layouts>
+    <masterLabel>My Dashboard</masterLabel>
+    <style>{&quot;widgetStyle&quot;:{&quot;backgroundColor&quot;:&quot;#ffffff&quot;,&quot;borderEdges&quot;:[],&quot;borderColor&quot;:&quot;#cccccc&quot;,&quot;borderWidth&quot;:1,&quot;borderRadius&quot;:0}}</style>
+    <version>64.0</version>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <type>visualization</type>
+        <vizWidgetDefs>
+            <analyticsVisualization>New_Visualization</analyticsVisualization>
+            <parameters>{&quot;legendPosition&quot;:&quot;Right&quot;,&quot;receiveFilterSource&quot;:{&quot;filterMode&quot;:&quot;all&quot;,&quot;widgetIds&quot;:[]}}</parameters>
+        </vizWidgetDefs>
+        <widgetName>visualization_1</widgetName>
+    </widgets>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <buttonWidgetDefs>
+            <parameters>{&quot;text&quot;:&quot;Button&quot;,&quot;alignmentX&quot;:&quot;center&quot;,&quot;alignmentY&quot;:&quot;center&quot;,&quot;fontSize&quot;:16}</parameters>
+        </buttonWidgetDefs>
+        <type>button</type>
+        <widgetActions>
+            <actionType>navigate</actionType>
+            <eventType>click</eventType>
+            <parameters>{&quot;destination&quot;:{&quot;type&quot;:&quot;url&quot;,&quot;target&quot;:&quot;www.salesforce.com&quot;}}</parameters>
+            <version>63.0</version>
+        </widgetActions>
+        <widgetName>button_1</widgetName>
+    </widgets>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <containerWidgetDefs>
+            <parameters>{&quot;widgetStyle&quot;:{&quot;backgroundColor&quot;:&quot;#1295FF&quot;,&quot;borderEdges&quot;:[]}}</parameters>
+        </containerWidgetDefs>
+        <type>container</type>
+        <widgetName>container_1</widgetName>
+    </widgets>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <textWidgetDefs>
+            <parameters>{&quot;content&quot;:[{&quot;attributes&quot;:{&quot;color&quot;:&quot;#000000&quot;,&quot;size&quot;:&quot;12px&quot;},&quot;insert&quot;:&quot;full dashboard&quot;},{&quot;attributes&quot;:{&quot;align&quot;:&quot;left&quot;},&quot;insert&quot;:&quot;
+&quot;}]}</parameters>
+        </textWidgetDefs>
+        <type>text</type>
+        <widgetName>text_2</widgetName>
+    </widgets>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <metricWidgetDefs>
+            <parameters>{&quot;metricOption&quot;:{&quot;layout&quot;:{&quot;componentVisibility&quot;:{&quot;details&quot;:true,&quot;title&quot;:true,&quot;value&quot;:true,&quot;comparison&quot;:true,&quot;chart&quot;:true,&quot;insights&quot;:false}},&quot;sdmApiName&quot;:&quot;AccountModel&quot;,&quot;sdmId&quot;:&quot;2SMxx0000004CFUGA2&quot;},&quot;receiveFilterSource&quot;:{&quot;filterMode&quot;:&quot;all&quot;,&quot;widgetIds&quot;:[]}}</parameters>
+            <source>AccountMetric_mtc</source>
+        </metricWidgetDefs>
+        <type>metric</type>
+        <widgetName>metric_1</widgetName>
+    </widgets>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <filterWidgetDefs>
+            <initialValues>null</initialValues>
+            <parameters>{&quot;receiveFilterSource&quot;:{&quot;filterMode&quot;:&quot;all&quot;,&quot;widgetIds&quot;:[]},&quot;filterOption&quot;:{&quot;objectName&quot;:&quot;Account&quot;,&quot;fieldName&quot;:&quot;Account_Id&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;selectionType&quot;:&quot;multiple&quot;},&quot;isLabelHidden&quot;:false}</parameters>
+            <source>AccountModel</source>
+        </filterWidgetDefs>
+        <label>Account Id</label>
+        <type>filter</type>
+        <widgetName>list_4</widgetName>
+    </widgets>
+    <widgets>
+        <analyticsDashboard>My_Dashboard</analyticsDashboard>
+        <label>AccountParameter</label>
+        <parameterWidgetDefs>
+            <initialValues>null</initialValues>
+            <parameters>{&quot;parameterName&quot;:&quot;AccountParameter_prm&quot;,&quot;isLabelHidden&quot;:false}</parameters>
+            <source>AccountModel</source>
+        </parameterWidgetDefs>
+        <type>parameter</type>
+        <widgetName>list_1</widgetName>
+    </widgets>
+    <templateSource></templateSource>
+    <templateAssetSourceName></templateAssetSourceName>
+    <workspaceAssetRelationships>
+        <asset xsi:nil="true"/>
+        <assetType>AnalyticsDashboard</assetType>
+        <assetUsageType>Created</assetUsageType>
+        <workspace>My_Workspace</workspace>
+    </workspaceAssetRelationships>
+</AnalyticsDashboard>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>My_Dashboard</members>
+        <name>AnalyticsDashboard</name>
+    </types>
+    <version>64.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- AnalyticsWorkspaceAsset[] (atlas.en-us.api_meta.meta/api_meta/meta_analyticsworkspace.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

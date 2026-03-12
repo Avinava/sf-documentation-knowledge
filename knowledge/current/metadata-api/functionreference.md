@@ -5,11 +5,17 @@ topic: functionreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.843Z
-keywords: [FunctionReference, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:40.172Z
+estimatedTokens: 350
+keywords: [FunctionReference, Represents, information, deployed, Salesforce, Function, invoked, org., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version]
 ---
 
 # FunctionReference
+
+> Represents information about a deployed Salesforce Function
+      that can be invoked from the org.
+    This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # FunctionReference
 
@@ -34,3 +40,7 @@ FunctionReference components can’t be used directly. Always use Salesforce CLI
 | description | string | Represents the description of the Salesforce Function. |
 | label | string | Represents the label for the Salesforce Function. |
 | permissionSet | string | Represents a set of permissions that's used to control org resources that the Function has access to. |
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

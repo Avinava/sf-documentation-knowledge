@@ -5,11 +5,15 @@ topic: salesforce-crm-skill-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.815Z
-keywords: [Salesforce, CRM, Skill, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.057Z
+estimatedTokens: 179
+keywords: [Salesforce, CRM, Skill, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Skill Mapping
+
+> These data mappings are for the Skill DLO found in the Services bundle of the Salesforce
+  CRM Connector for Data Cloud.
 
 # Salesforce CRM: Skill Mapping
 

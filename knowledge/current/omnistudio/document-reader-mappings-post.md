@@ -5,11 +5,15 @@ topic: document-reader-mappings-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:10.357Z
-keywords: [Document, Reader, Mappings, POST, Permission, Usage, See]
+lastCollected: 2026-03-12T05:14:51.513Z
+estimatedTokens: 634
+keywords: [Document, Reader, Mappings, POST, Retrieve, mappings, between, values, keys, extracted, document, Salesforce, fields, respect, given, template., Permission, Usage]
 ---
 
 # Document Reader Mappings (POST)
+
+> Retrieve the mappings between the values of the keys extracted from
+   the document to the Salesforce object fields with respect to a given template.
 
 # Document Reader Mappings (POST)
 
@@ -72,5 +76,27 @@ Response body for POST
 #### See Also
 
 -   [OcrDocumentScanResult](https://developer.salesforce.com/docs/atlas.en-us.260.0.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_ocrdocumentscanresult.htm "OcrDocumentScanResult - HTML (New Window)")
-    
+
 -   [OcrTemplate](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/meta_ocrtemplate.htm "OcrTemplate - HTML (New Window)")
+
+## Code Examples
+
+```
+/connect/form-reader/mapping
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/form-reader/mapping
+```
+
+```
+{
+   "scanResultId" : "0ixS7000000001TIAQ",
+   "templateId" : "48tS70000004C9DIAU"
+}
+```
+
+## Related Topics
+
+- Form Reader Map Output (atlas.en-us.industries_reference.meta/industries_reference/intelligent_document_reader_connect_responses_document_reader_map_output.htm)

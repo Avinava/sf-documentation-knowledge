@@ -5,11 +5,14 @@ topic: connectapicdpsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.951Z
-keywords: [ConnectApi.CdpSegmentInput]
+lastCollected: 2026-03-12T05:14:24.591Z
+estimatedTokens: 449
+keywords: [ConnectApi.CdpSegmentInput, Segment, input.]
 ---
 
 # ConnectApi.CdpSegmentInput
+
+> Segment input.
 
 # ConnectApi.CdpSegmentInput
 
@@ -28,3 +31,11 @@ Segment input.
 | publishSchedule​StartDateTime | String | Datetime indicating the start of the publish schedule. | Optional if publishSchedule isn’t specified | 55.0 |
 | segmentOnApiName | String | API name of the SegmentOn entity. | Optional | 57.0 |
 | segmentType | ConnectApi.​SegmentType | Type of segment. Value is:Dbt—Data build toolAfter a segment is created, the segment type can’t be changed. | Required for creating a segmentNot supported for updating a segment | 55.0 |
+
+## Related Topics
+
+- Map (atlas.en-us.apexref.meta/apexref/apex_methods_system_map.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​CdpSegment​DbtInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_cdp_segment_dbt.htm)
+- ConnectApi.​PublishSchedule (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- ConnectApi.​SegmentType (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)

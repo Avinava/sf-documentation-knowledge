@@ -5,11 +5,15 @@ topic: refreshtab-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.334Z
-keywords: [refreshTab, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Response, Note]
+lastCollected: 2026-03-12T05:14:57.899Z
+estimatedTokens: 724
+keywords: [refreshTab, Lightning, Experience, Refreshes, workspace, tab, subtab, specified, tabId., Keep, mind, first, same, tabId, tab., works, only, console, apps., Arguments]
 ---
 
 # refreshTab() for Lightning Experience for Lightning Experience
+
+> Refreshes a workspace tab or a subtab specified by tabId. Keep in mind that the first subtab has the same tabId as the workspace tab. This method works only in
+   Lightning console apps.
 
 # refreshTab() for Lightning Experience for Lightning Experience
 
@@ -67,3 +71,57 @@ This method returns a promise that, upon success, resolves to true. If there was
 #### Note
 
 true doesn’t necessarily mean that the refresh was successful. For example, if the tab has unsaved changes when this method was called, the user has a choice to save or discard their changes. The refresh is canceled depending on user’s choice.
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import {
+    IsConsoleNavigation,
+    getFocusedTabInfo,
+    refreshTab
+} from 'lightning/platformWorkspaceApi';
+
+export default class WorkspaceAPIRefreshTab extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async refreshTab() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        const { tabId } = await getFocusedTabInfo();
+        await refreshTab(tabId, {
+            includeAllSubtabs: true
+        });
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <lightning:workspaceAPI aura:id="workspace"/>
+    <lightning:button label="Refresh Focused Tab" onclick="{!c.refreshFocusedTab}"/>
+</aura:component>
+```
+
+```
+({
+    refreshFocusedTab : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getFocusedTabInfo().then(function(response) {
+            var focusedTabId = response.tabId;
+            workspaceAPI.refreshTab({
+                      tabId: focusedTabId,
+                      includeAllSubtabs: true
+             });
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+## Related Topics
+
+- getFocusedTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getFocusedTabInfo.htm)

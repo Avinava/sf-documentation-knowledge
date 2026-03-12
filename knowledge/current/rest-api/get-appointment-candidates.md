@@ -5,11 +5,15 @@ topic: get-appointment-candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.188Z
-keywords: [Get, Appointment, Candidates, Note, Syntax, Examples]
+lastCollected: 2026-03-12T05:14:35.312Z
+estimatedTokens: 1580
+keywords: [Get, Appointment, Candidates, list, service, resources, appointment, candidates, based, work, group, territories., Note, Syntax, Examples]
 ---
 
 # Get Appointment Candidates
+
+> Returns a list of service resources (appointment candidates) based on work type group
+    or work type and service territories.
 
 # Get Appointment Candidates
 
@@ -117,3 +121,84 @@ Example Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+{
+  "startTime": "2019-01-23T00:00:00.000Z",
+  "endTime": "2019-02-30T00:00:00.000Z",
+  "workTypeGroupId": "0VSB0000000KyjBOAS",
+  "accountId": "001B000000qAUAWIA4",
+  "territoryIds": [
+    "0HhB0000000TO9WKAW"
+  ],
+  "schedulingPolicyId": "0VrB0000000KyjB",
+  "engagementChannelTypeIds": [
+    "0eFRM00000000Bv2AI"
+  ]
+}
+```
+
+```
+{
+  "startTime": "2019-01-23T00:00:00.000Z",
+  "endTime": "2019-02-30T00:00:00.000Z",
+  "workType": {
+    "id": "08qRM00000003fkYAA"
+  },
+  "territoryIds": [
+    "0HhRM00000003OZ0AY"
+  ],
+  "accountId": "001B000000qAUAWIA4",
+  "schedulingPolicyId": "0VrB0000000KyjB",
+  "engagementChannelTypeIds": [
+    "0eFRM00000000Bv2AI"
+  ]
+}
+```
+
+```
+{
+  "candidates": [
+    {
+      "endTime": "2019-01-23T19:15:00.000+0000",
+      "resources": [
+        "0HnB0000000D2DsKAK"
+      ],
+      "startTime": "2019-01-23T16:15:00.000+0000",
+      "territoryId": "0HhB0000000TO9WKAW",
+      "engagementChannelTypeIds": [
+        "0eFRM00000000Bv2AI"
+      ]
+    },
+    {
+      "endTime": "2019-01-23T19:30:00.000+0000",
+      "resources": [
+        "0HnB0000000D2DsKAK"
+      ],
+      "startTime": "2019-01-23T16:30:00.000+0000",
+      "territoryId": "0HhB0000000TO9WKAW",
+      "engagementChannelTypeIds": [
+        "0eFRM00000000Bv2AI"
+      ]
+    },
+    {
+      "endTime": "2019-01-23T19:45:00.000+0000",
+      "resources": [
+        "0HnB0000000D2DsKAK"
+      ],
+      "startTime": "2019-01-23T16:45:00.000+0000",
+      "territoryId": "0HhB0000000TO9WKAW",
+      "engagementChannelTypeIds": [
+        "0eFRM00000000Bv2AI"
+      ]
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Work Type (atlas.en-us.api_rest.meta/api_rest/request_body_ls_worktype.htm)
+- Candidates (atlas.en-us.api_rest.meta/api_rest/responses_ls_candidates.htm)

@@ -5,11 +5,15 @@ topic: engagement-interaction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.411Z
-keywords: [Engagement, Interaction, Output]
+lastCollected: 2026-03-12T05:14:50.129Z
+estimatedTokens: 571
+keywords: [Engagement, Interaction, Output, representation, fetch, engagement, interaction, record.]
 ---
 
 # Engagement Interaction Output
+
+> Output representation to fetch an engagement interaction
+    record.
 
 # Engagement Interaction Output
 
@@ -38,3 +42,9 @@ Output representation to fetch an engagement interaction record.
 | startDateTime | String | The start date and time of an engagement interaction. | Small, 55.0 | 55.0 |
 | status | String | The status of an engagement interaction. | Small, 55.0 | 55.0 |
 | type | String | The type of an engagement interaction. | Small, 55.0 | 55.0 |
+
+## Related Topics
+
+- Engagement Custom Fields Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_custom_field_output.htm)
+- Engagement Attendee Details Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_engagement_attendee_output.htm)
+- Engagement Topic Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_engagement_topic_output.htm)

@@ -5,11 +5,18 @@ topic: globalvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.992Z
-keywords: [GlobalValueSet, Important, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.341Z
+estimatedTokens: 706
+keywords: [GlobalValueSet, Represents, metadata, picklist, set, which, shared, values, custom, fields, use., isn’t, field, itself., contrast, based, ValueSet., extends, Metadata, inherits]
 ---
 
 # GlobalValueSet
+
+> Represents the metadata for a global picklist value set,
+      which is the set of shared values that custom picklist fields can use. A global value set
+      isn’t a field itself. In contrast, the custom picklist fields that are based on a global
+      picklist are of type ValueSet. This type extends the  Metadata metadata type and inherits
+    its fullName field.
 
 # GlobalValueSet
 
@@ -57,3 +64,45 @@ Any global value set created in API version 57.0 or later automatically has the 
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+   <description>Updated:This is a basic global value set.</description>
+   <masterLabel>UpsellGlobal</masterLabel>
+   <customValue>
+      <fullName>Maybe</fullName>
+      <default>false</default>
+      <label>Maybe</label>
+   </customValue>
+   <customValue>
+      <fullName>No</fullName>
+      <default>false</default>
+      <label>No</label>
+   </customValue>
+   <customValue>
+      <fullName>Yes</fullName>
+      <default>false</default>
+      <label>Yes</label>
+   </customValue>
+   <sorted>false</sorted>
+</GlobalValueSet>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>UpsellGlobal</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <version>40.0</version>
+</Package>
+```
+
+## Related Topics
+
+- CustomValue (atlas.en-us.api_meta.meta/api_meta/meta_customvalue.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

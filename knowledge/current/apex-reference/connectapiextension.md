@@ -5,11 +5,14 @@ topic: connectapiextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.704Z
-keywords: [ConnectApi.Extension, See]
+lastCollected: 2026-03-12T05:14:27.216Z
+estimatedTokens: 194
+keywords: [ConnectApi.Extension, extension.]
 ---
 
 # ConnectApi.Extension
+
+> An extension.
 
 # ConnectApi.Extension
 
@@ -26,3 +29,9 @@ An extension.
 #### See Also
 
 -   [ConnectApi.ExtensionsCapability](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_extensions_capability.htm "If a feed element has this capability, it has one or more extension attachments.")
+
+## Related Topics
+
+- ConnectApi.Alternative (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_alternative.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ExtensionsCapability (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_extensions_capability.htm)

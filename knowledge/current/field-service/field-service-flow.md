@@ -5,11 +5,15 @@ topic: field-service-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.194Z
-keywords: [Field, Service, Flow, Response, Body, Example]
+lastCollected: 2026-03-12T05:14:55.441Z
+estimatedTokens: 765
+keywords: [Field, Service, Flow, information, corresponding, field, service, flow., resource, REST, API, version, 42.0, later., Response, Body, Example]
 ---
 
 # Field Service Flow
+
+> Returns information corresponding to a field service flow. This resource is available in
+    REST API version 42.0 and later.
 
 # Field Service Flow
 
@@ -100,4 +104,163 @@ Response
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "flows" : [ {
+    "Id" : "301R000000008grIAA",
+    "DefinitionId" : "300R00000004OLFIA2",
+    "MasterLabel" : "FS_Flow",
+    "ManageableState" : "unmanaged",
+    "VersionNumber" : 1,
+    "Status" : "Draft",
+    "Description" : "FS Flow",
+    "ProcessType" : "FieldServiceMobile",
+    "CreatedDate" : "2017-12-05T19:22:16.000+0000",
+    "CreatedById" : "005R0000000J2glIAC",
+    "LastModifiedDate" : "2017-12-05T19:22:16.000+0000",
+    "LastModifiedById" : "005R0000000J2glIAC",
+    "Metadata" : {
+      "actionCalls" : null,
+      "apexPluginCalls" : null,
+      "assignments" : null,
+      "choices" : [ {
+        "choiceText" : "Choice A",
+        "dataType" : "String",
+        "description" : null,
+        "name" : "Choice_A",
+        "processMetadataValues" : null,
+        "userInput" : null,
+        "value" : null
+      }, {
+        "choiceText" : "Choice B",
+        "dataType" : "String",
+        "description" : null,
+        "name" : "Choice_B",
+        "processMetadataValues" : null,
+        "userInput" : null,
+        "value" : null
+      } ],
+      "constants" : null,
+      "decisions" : null,
+      "description" : "FS Flow",
+      "dynamicChoiceSets" : null,
+      "formulas" : null,
+      "fullName" : "FS_Flow-1",
+      "interviewLabel" : "FS_Flow {!$Flow.CurrentDateTime}",
+      "label" : "FS Flow",
+      "loops" : null,
+      "module" : null,
+      "processMetadataValues" : null,
+      "processType" : "FieldServiceMobile",
+      "recordCreates" : null,
+      "recordDeletes" : null,
+      "recordLookups" : null,
+      "recordUpdates" : null,
+      "screens" : [ {
+        "allowBack" : true,
+        "allowFinish" : true,
+        "allowPause" : true,
+        "connector" : {
+          "processMetadataValues" : null,
+          "targetReference" : "Screen_2"
+        },
+        "description" : null,
+        "fields" : [ {
+          "choiceReferences" : null,
+          "dataType" : "String",
+          "defaultSelectedChoiceReference" : null,
+          "defaultValue" : null,
+          "description" : null,
+          "extensionName" : null,
+          "fieldText" : "Field 1",
+          "fieldType" : "InputField",
+          "helpText" : "Help Text 1",
+          "inputParameters" : [ ],
+          "isRequired" : false,
+          "isVisible" : null,
+          "name" : "Field_1",
+          "outputParameters" : [ ],
+          "processMetadataValues" : null,
+          "scale" : null,
+          "validationRule" : null
+        }, {
+          "choiceReferences" : [ "Choice_A", "Choice_B" ],
+          "dataType" : "String",
+          "defaultSelectedChoiceReference" : null,
+          "defaultValue" : null,
+          "description" : null,
+          "extensionName" : null,
+          "fieldText" : "Pick a choice",
+          "fieldType" : "RadioButtons",
+          "helpText" : "Pick a Choice help text",
+          "inputParameters" : [ ],
+          "isRequired" : false,
+          "isVisible" : null,
+          "name" : "Pick_a_choice",
+          "outputParameters" : [ ],
+          "processMetadataValues" : null,
+          "scale" : null,
+          "validationRule" : null
+        } ],
+        "helpText" : null,
+        "label" : "Screen 1",
+        "locationX" : 189,
+        "locationY" : 178,
+        "name" : "Screen_1",
+        "pausedText" : null,
+        "processMetadataValues" : null,
+        "rules" : null,
+        "showFooter" : true,
+        "showHeader" : true
+      }, {
+        "allowBack" : true,
+        "allowFinish" : true,
+        "allowPause" : true,
+        "connector" : null,
+        "description" : null,
+        "fields" : [ {
+          "choiceReferences" : null,
+          "dataType" : "String",
+          "defaultSelectedChoiceReference" : null,
+          "defaultValue" : null,
+          "description" : null,
+          "extensionName" : null,
+          "fieldText" : "Field 1",
+          "fieldType" : "InputField",
+          "helpText" : null,
+          "inputParameters" : [ ],
+          "isRequired" : false,
+          "isVisible" : null,
+          "name" : "Field_1",
+          "outputParameters" : [ ],
+          "processMetadataValues" : null,
+          "scale" : null,
+          "validationRule" : null
+        } ],
+        "helpText" : null,
+        "label" : "Screen 2",
+        "locationX" : 437,
+        "locationY" : 289,
+        "name" : "Screen_2",
+        "pausedText" : null,
+        "processMetadataValues" : null,
+        "rules" : null,
+        "showFooter" : true,
+        "showHeader" : true
+      } ],
+      "startElementReference" : "Screen_1",
+      "steps" : null,
+      "subflows" : null,
+      "textTemplates" : null,
+      "urls" : null,
+      "variables" : null,
+      "waits" : null
+    },
+    "FullName" : "FS_Flow-1"
+  } ]
+}
 ```

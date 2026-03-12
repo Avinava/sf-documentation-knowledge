@@ -5,11 +5,14 @@ topic: product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.471Z
-keywords: [Product, Component, Group]
+lastCollected: 2026-03-12T05:14:08.194Z
+estimatedTokens: 389
+keywords: [Product, Component, Group, Output, representation, product, component, group.]
 ---
 
 # Product Component Group
+
+> Output representation of the product component group.
 
 # Product Component Group
 
@@ -35,3 +38,124 @@ JSON example
 | parent​Product​Id | String | ID associated with the parent product record. | Small, 60.0 | 60.0 |
 | parent​GroupId | String | ID of the parent group record. | Small, 62.0 | 62.0 |
 | sequence | Integer | Order in which the groups are listed in the bundle. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"productComponentGroups":[
+  {
+    "childGroups":[
+     {
+      "childGroups":[],
+    "    components":[
+          {
+            "additionalFields":{},
+            "attributeCategory":[],
+            "attributes":[],
+            "catalogs":[],
+            "categories":[],
+            "childProducts":[],
+            "id":"01txx0000006i2aAAA",
+            "isActive":true,
+            "isAssetizable":true,
+            "isSoldOnlyWithOtherProds":true,
+            "name":"GenWatt Diesel 1000kW",
+            "nodeType":"simpleProduct",
+            "productCode":"GC1060",
+            "productComponentGroups":[],
+            "productRelatedComponent":
+             {
+              "childProductId":"01txx0000006i2aAAA",
+              "doesBundlePriceIncludeChild":true,
+              "id":"0dSxx00000001P7EAI",
+              "isComponentRequired":false,
+              "isDefaultComponent":true,
+              "isExcluded":false,
+              "isQuantityEditable":false,
+              "parentProductId":"01txx0000006iC8AAI",
+              "productRelationshipTypeId":"0yoxx000000001dAAA",
+              "quantity":1,
+              "quantityScaleMethod":"Proportional"
+              },
+              "productSellingModelOptions":[]
+              },
+              {
+              "additionalFields":{},
+              "attributeCategory":[],
+              "attributes":[],
+              "catalogs":[],
+              "categories":[],
+              "childProducts":[],
+              "id":"01txx0000006i2TAAQ",
+              "isActive":true,
+              "isAssetizable":true,
+              "isSoldOnlyWithOtherProds":true,
+              "name":"GenWatt Diesel 10kW",
+              "nodeType":"simpleProduct",
+              "productCode":"GC1020",
+              "productComponentGroups":[],
+              "productRelatedComponent":{
+                  "childProductId":"01txx0000006i2TAAQ",
+                  "doesBundlePriceIncludeChild":true,
+                  "id":"0dSxx00000001P8EAI",
+                  "isComponentRequired":false,
+                  "isDefaultComponent":true,
+                  "isExcluded":false,
+                  "isQuantityEditable":false,
+                  "parentProductId":"01txx0000006iC8AAI",
+                  "productRelationshipTypeId":"0yoxx000000001dAAA",
+                  "quantity":1,"quantityScaleMethod":"Proportional"
+               },
+              "productSellingModelOptions":[]
+               },
+               {
+                "additionalFields":{},
+                "attributeCategory":[],
+                "attributes":[],
+                "catalogs":[],
+                "categories":[],
+                "childProducts":[],
+                "id":"01txx0000006i2SAAQ",
+                "isActive":true,
+                "isAssetizable":true,
+                "isSoldOnlyWithOtherProds":true,
+                "name":"GenWatt Diesel 200kW",
+                "nodeType":"simpleProduct",
+                "productCode":"GC1040",
+                "productComponentGroups":[],
+                "productRelatedComponent":
+                  {
+                    "childProductId":"01txx0000006i2SAAQ",
+                    "doesBundlePriceIncludeChild":true,
+                    "id":"0dSxx00000001P9EAI",
+                    "isComponentRequired":false,
+                    "isDefaultComponent":true,
+                    "isExcluded":false,
+                    "isQuantityEditable":false,
+                    "parentProductId":"01txx0000006iC8AAI",
+                    "productRelationshipTypeId":"0yoxx000000001dAAA",
+                    "quantity":1,
+                    "quantityScaleMethod":"Proportional"
+                   },
+                  "productSellingModelOptions":[]
+                    }
+                  ],
+                  "id":"0y7xx000000015lAAA",
+                  "isExcluded":false,
+                  "name":"G1.1",
+                  "parentGroupId":"0y7xx0000000149AAA",
+                  "parentProductId":"01txx0000006iC8AAI"
+                   }
+                  ],
+                "components":[],
+                "id":"0y7xx0000000149AAA",
+                "isExcluded":false,
+                "name":"G1",
+                "parentProductId":"01txx0000006iC8AAI"
+                }
+          ]
+```
+
+## Related Topics
+
+- Product (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_output.htm)

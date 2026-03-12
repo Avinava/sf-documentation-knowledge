@@ -5,11 +5,15 @@ topic: actionablelistdtastclmnusr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.513Z
-keywords: [ActionableListDtastClmnUsr, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.263Z
+estimatedTokens: 1235
+keywords: [ActionableListDtastClmnUsr, Represents, user, preference, actionable, list, dataset, column., API, version, 59.0, later., Supported, Calls, Fields, Associated, Objects]
 ---
 
 # ActionableListDtastClmnUsr
+
+> Represents the user preference for an actionable list dataset
+         column. This object is available in API version 59.0 and later.
 
 # ActionableListDtastClmnUsr
 
@@ -56,3 +60,11 @@ Sharing rules are available for the object.
 [ActionableListDtastClmnUsrShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ActionableListDtastClmnUsrChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- ActionableListDtastClmnUsrFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- ActionableListDtastClmnUsrHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- ActionableListDtastClmnUsrOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- ActionableListDtastClmnUsrShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

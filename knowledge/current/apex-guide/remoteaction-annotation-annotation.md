@@ -5,11 +5,16 @@ topic: remoteaction-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.475Z
-keywords: [RemoteAction, Annotation, Note, Warning]
+lastCollected: 2026-03-12T05:14:32.456Z
+estimatedTokens: 723
+keywords: [RemoteAction, Annotation, annotation, provides, support, Apex, used, Visualforce, called, via, JavaScript., process, often, referred, JavaScript, remoting., Note, Warning]
 ---
 
 # RemoteAction Annotation Annotation
+
+> The RemoteAction annotation
+      provides support for Apex methods used in Visualforce to be called via JavaScript. This
+      process is often referred to as JavaScript remoting.
 
 # RemoteAction Annotation Annotation
 
@@ -62,3 +67,27 @@ For more information, see “JavaScript Remoting for Apex Controllers” in the 
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm "ReadOnly Annotation Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_SuppressWarnings.htm "SuppressWarnings Annotation Annotation")
+
+## Code Examples
+
+```
+<apex:page controller="MyController" extension="MyExtension">
+```
+
+```
+[namespace.]MyController.method(
+    [parameters...,]
+    callbackFunction,
+    [configuration]
+);
+```
+
+```apex
+@RemoteAction
+global static String getItemId(String objectName) { ... }
+```
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_SuppressWarnings.htm)

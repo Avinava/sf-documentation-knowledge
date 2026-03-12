@@ -5,11 +5,16 @@ topic: delete-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.297Z
-keywords: [Delete, Records, sObject, Collections, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.459Z
+estimatedTokens: 457
+keywords: [Delete, Records, sObject, Collections, DELETE, request, delete, 200, records, returning, list, DeleteResult, objects., choose, roll, back, entire, error, occurs., Syntax]
 ---
 
 # Delete Records Using sObject Collections
+
+> Use a DELETE request with sObject Collections to delete up to 200 records, returning a
+      list of DeleteResult objects. You can choose to roll back the entire request when an error
+      occurs.
 
 # Delete Records Using sObject Collections
 
@@ -70,3 +75,80 @@ Example Response Body (Some Items Failed and allOrNone is true)
 ```
 
 ```
+
+## Code Examples
+
+```
+curl -X DELETE https://MyDomainName.my.salesforce.com/services/data/v66.0/composite/sobjects?ids=001xx000003DGb2AAG,003xx000004TmiQAAS&allOrNone=false -H "Authorization: Bearer token"
+```
+
+```
+HTTP/1.1 200 OK
+
+[
+   {
+      "id" : "001RM000003oLrHYAU",
+      "success" : true,
+      "errors" : [ ]
+   },
+   {
+      "id" : "001RM000003oLraYAE",
+      "success" : true,
+      "errors" : [ ]
+   }
+]
+```
+
+```
+HTTP/1.1 200 OK
+
+[
+   {
+      "id" : "001RM000003oLrfYAE",
+      "success" : true,
+      "errors" : [ ]
+   },
+   {
+      "success" : false,
+      "errors" : [
+         {
+            "statusCode" : "MALFORMED_ID",
+            "message" : "malformed id 001RM000003oLrB000",
+            "fields" : [ ]
+         }
+      ]
+   }
+]
+```
+
+```
+HTTP/1.1 200 OK
+
+[
+   {
+      "id" : "001RM000003oLruYAE",
+      "success" : false,
+      "errors" : [
+         {
+            "statusCode" : "ALL_OR_NONE_OPERATION_ROLLED_BACK",
+            "message" : "Record rolled back because not all records were valid and the request was using AllOrNone header",
+            "fields" : [ ]
+         }
+      ]
+   },
+   {
+      "success" : false,
+      "errors" : [
+         {
+            "statusCode" : "MALFORMED_ID",
+            "message" : "malformed id 001RM000003oLrB000",
+            "fields" : [ ]
+         }
+      ]
+   }
+]
+```
+
+## Related Topics
+
+- allOrNone Parameters in Composite and Collections Requests (atlas.en-us.api_rest.meta/api_rest/resources_composite_allornone.htm)

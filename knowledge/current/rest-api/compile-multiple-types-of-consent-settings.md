@@ -5,11 +5,16 @@ topic: compile-multiple-types-of-consent-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.468Z
-keywords: [Compile, Multiple, Types, Consent, Settings, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.731Z
+estimatedTokens: 2434
+keywords: [Compile, Multiple, Types, Consent, Settings, consent, details, based, multiple, actions, email, track, across, specific, management, objects, records, lookup, relationship., API]
 ---
 
 # Compile Multiple Types of Consent Settings
+
+> Gets consent details based on multiple actions, like email and track, across specific
+  consent management objects when the records have a lookup relationship. Available in API version
+  45.0 and later.
 
 # Compile Multiple Types of Consent Settings
 
@@ -99,3 +104,67 @@ Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/multiaction?actions=track,geotrack,email&ids=003xx000008TiyY,00Qxx00000skwO,dek65@tf7h.com -H "Authorization: Bearer token"
+```
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/consent/action/email?ids=j0t5t5b2@tkbxp5ia.com,4quxlswo@23wj7pwh.com&datetime=2018-12-12T00:00:00Z&purpose=billing&verbose=true -H "Authorization: Bearer token"
+```
+
+```
+{
+  "j0t5t5b2@tkbxp5ia.com" : {
+    "result" : "Success",
+    "proceed" : {
+       "email" : "false"
+      "emailResult" : "Success"
+      "track" : "false"
+      "trackResult" : "Success"
+      "solicit" : "false"
+      "solicitResult" : "Success"
+    },
+    "explanation" : [ {
+      "objectConsulted" : "ContactTypePointConsent",
+      "status" : "opt_in",
+      "purpose" : "billing",
+      "recordId" : "003xx000004TxyY",
+      "value" : "true"
+    },{
+      "objectConsulted" : "Individual",
+      "field" : "HasOptedOutOfTracking",
+      "recordId" : "0PKx000006JkyZ",
+      "value" : "true"
+    }]
+  },
+  "4quxlswo@23wj7pwh.com" : {
+    "result" : "Success",
+    "proceed" : {
+       "email" : "false"
+      "emailResult" : "Success"
+      "track" : "false"
+      "trackResult" : "Success"
+      "solicit" : "true"
+      "solicitResult" : "Success"
+    },
+    "explanation" : [ {
+      "objectConsulted" : "Contact",
+      "field" : "HasOptedOutOfEmail",
+      "recordId" : "00Qxx00000skwO",
+      "value" : "true"
+    },{
+      "objectConsulted" : "Individual",
+      "field" : "HasOptedOutOfSolicit",
+      "recordId" : "0PKx000003JcpK",
+      "value" : "false"
+    }]
+  }
+}
+```
+
+## Related Topics
+
+- Valid Date and DateTime Formats (atlas.en-us.api_rest.meta/api_rest/intro_valid_date_formats.htm)

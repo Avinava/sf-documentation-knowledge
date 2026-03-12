@@ -5,11 +5,16 @@ topic: ctxattrhydrationctx
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.428Z
-keywords: [CtxAttrHydrationCtx, Supported, Calls, REST, API, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.716Z
+estimatedTokens: 280
+keywords: [CtxAttrHydrationCtx, Represents, queries, fetch, data, chosen, attribute, input, schema, context-to-context, mapping, API, version, 61.0, later., Supported, Calls, REST, Fields]
 ---
 
 # CtxAttrHydrationCtx
+
+> Represents the queries that fetch the data for a chosen attribute from the
+         input schema for context-to-context mapping This object is available in API version
+      61.0 and later.
 
 # CtxAttrHydrationCtx
 

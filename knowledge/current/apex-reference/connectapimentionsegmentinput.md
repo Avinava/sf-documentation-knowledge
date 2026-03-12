@@ -5,11 +5,15 @@ topic: connectapimentionsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.310Z
-keywords: [ConnectApi.MentionSegmentInput, See]
+lastCollected: 2026-03-12T05:14:25.144Z
+estimatedTokens: 235
+keywords: [ConnectApi.MentionSegmentInput, Include, @mention, user, group, feed, post, comment., creating, comment, include, mentions.]
 ---
 
 # ConnectApi.MentionSegmentInput
+
+> Include an @mention of a user or group in a feed post or comment. When creating a feed
+    post or comment, you can include up to 25 mentions.
 
 # ConnectApi.MentionSegmentInput
 
@@ -25,3 +29,9 @@ Subclass of [ConnectApi.MessageSegmentInput](atlas.en-us.apexref.meta/apexref/ap
 #### See Also
 
 -   [ConnectApi.MessageBodyInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm "Add rich messages to feed items and comments.")
+
+## Related Topics
+
+- ConnectApi.MessageSegmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_messageSegmentInput.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.MessageBodyInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_msgBody.htm)

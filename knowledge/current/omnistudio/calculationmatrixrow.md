@@ -5,11 +5,15 @@ topic: calculationmatrixrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.749Z
-keywords: [CalculationMatrixRow, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:53.658Z
+estimatedTokens: 444
+keywords: [CalculationMatrixRow, Defines, row, Decision, Matrix., label, Matrix, Row., API, version, 53.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # CalculationMatrixRow
+
+> Defines a row in a Decision Matrix. The label for this object is Decision
+         Matrix Row. This object is available in API version 53.0 and later.
 
 # CalculationMatrixRow
 

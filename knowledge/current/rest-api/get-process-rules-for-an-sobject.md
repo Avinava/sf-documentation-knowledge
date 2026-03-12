@@ -5,11 +5,15 @@ topic: get-process-rules-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.530Z
-keywords: [Get, Process, Rules, sObject, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.814Z
+estimatedTokens: 107
+keywords: [Get, Process, Rules, sObject, active, workflow, rules, sObject., resource, REST, API, version, 30.0, later., Syntax, Example]
 ---
 
 # Get Process Rules for an sObject
+
+> Gets all active workflow rules for an sObject. This resource is available in REST API
+        version 30.0 and later.
 
 # Get Process Rules for an sObject
 
@@ -53,4 +57,29 @@ Example Response Body
 
 ```
 
+```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/process/rules/Account -H "Authorization: Bearer token"
+```
+
+```
+{
+  "rules" : {
+    "Account" : [ {
+      "actions" : [ {
+        "id" : "01VD0000000D2w7",
+        "name" : "ApprovalProcessTask",
+        "type" : "Task"
+      } ],
+      "description" : null,
+      "id" : "01QD0000000APli",
+      "name" : "My Rule",
+      "namespacePrefix" : null,
+      "object" : "Account"
+    } ]
+  }
+}
 ```

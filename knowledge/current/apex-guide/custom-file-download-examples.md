@@ -5,11 +5,16 @@ topic: custom-file-download-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.552Z
-keywords: [Custom, File, Download, Examples, Example, Note]
+lastCollected: 2026-03-12T05:14:33.951Z
+estimatedTokens: 416
+keywords: [Custom, File, Download, Examples, Apex, customize, behavior, files, upon, attempted, download., examples, assume, only, file, being, downloaded., download, customization, API]
 ---
 
 # Custom File Download Examples
+
+> You can use Apex to customize the behavior of files upon attempted download. These
+        examples assume that only one file is being downloaded. File download customization is
+        available in API version 39.0 and later.
 
 # Custom File Download Examples
 
@@ -51,4 +56,106 @@ You can also prevent downloading a file from a mobile device and require that a 
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+// Allow customization of the content Download experience
+public class ContentDownloadHandlerFactoryImpl implements Sfc.ContentDownloadHandlerFactory {
+
+public Sfc.ContentDownloadHandler getContentDownloadHandler(List<ID> ids, Sfc.ContentDownloadContext context) {
+    Sfc.ContentDownloadHandler contentDownloadHandler = new Sfc.ContentDownloadHandler();
+
+    if(UserInfo.getUserId() == '005xx') {
+        contentDownloadHandler.isDownloadAllowed = true;
+        return contentDownloadHandler;
+    }
+    
+    contentDownloadHandler.isDownloadAllowed = false;
+    contentDownloadHandler.downloadErrorMessage = 'This file needs to be IRM controlled. You're not allowed to download it';
+    contentDownloadHandler.redirectUrl ='/apex/IRMControl?Id='+ids.get(0);
+    return contentDownloadHandler;
+}
+}
+```
+
+```apex
+public class IRMController {
+    
+private String downloadEndpoint;
+    
+public IRMController() {
+    downloadEndpoint = '';
+}
+    
+public void applyIrmControl() {
+    String versionId = ApexPages.currentPage().getParameters().get('id');
+    Http h = new Http();
+
+    //Instantiate a new HTTP request, specify the method (GET) as well as the endpoint
+    HttpRequest req = new HttpRequest();
+    req.setEndpoint('http://irmsystem?versionId=' + versionId);
+    req.setMethod('GET');
+
+    // Send the request, and retrieve a response
+    HttpResponse r = h.send(req);
+    JSONParser parser = JSON.createParser(r.getBody());
+      while (parser.nextToken() != null) {
+        if ((parser.getCurrentToken() == JSONToken.FIELD_NAME) &&
+            (parser.getText() == 'downloadEndpoint')) {
+                parser.nextToken();
+                downloadEndpoint = parser.getText();
+                break;
+        }
+    }
+}
+    
+public String getDownloadEndpoint() {
+    return downloadEndpoint;
+}
+    
+}
+```
+
+```apex
+// Allow customization of the content Download experience
+public class ContentDownloadHandlerFactoryImpl implements Sfc.ContentDownloadHandlerFactory {
+
+public Sfc.ContentDownloadHandler getContentDownloadHandler(List<ID> ids, Sfc.ContentDownloadContext context) {
+    Sfc.ContentDownloadHandler contentDownloadHandler = new Sfc.ContentDownloadHandler();
+    
+    if(context == Sfc.ContentDownloadContext.MOBILE) {
+        contentDownloadHandler.isDownloadAllowed = false;
+        contentDownloadHandler.downloadErrorMessage = 'Downloading a file from a mobile device isn't allowed.';
+        return contentDownloadHandler;
+    }
+    contentDownloadHandler.isDownloadAllowed = true;
+    return contentDownloadHandler;
+}
+```
+
+```apex
+// Allow customization of the content Download experience
+public class ContentDownloadHandlerFactoryImpl implements Sfc.ContentDownloadHandlerFactory {
+
+public Sfc.ContentDownloadHandler getContentDownloadHandler(List<ID> ids, Sfc.ContentDownloadContext context) {
+    Sfc.ContentDownloadHandler contentDownloadHandler = new Sfc.ContentDownloadHandler();
+
+    if(UserInfo.getUserId() == '005xx000001SvogAAC') {
+        contentDownloadHandler.isDownloadAllowed = true;
+        return contentDownloadHandler;
+    }
+    if(context == Sfc.ContentDownloadContext.MOBILE) {
+        contentDownloadHandler.isDownloadAllowed = false;
+        contentDownloadHandler.downloadErrorMessage = 'Downloading a file from a mobile device isn't allowed.';
+        return contentDownloadHandler;
+    }
+    
+    contentDownloadHandler.isDownloadAllowed = false;
+    contentDownloadHandler.downloadErrorMessage = 'This file needs to be IRM controlled. You're not allowed to download it';
+    contentDownloadHandler.redirectUrl ='/apex/IRMControl?Id='+id.get(0);
+    return contentDownloadHandler;
+}
+}
 ```

@@ -5,11 +5,15 @@ topic: actionable-list-member-queues-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.801Z
-keywords: [Actionable, List, Member, Queues, GET]
+lastCollected: 2026-03-12T05:14:49.204Z
+estimatedTokens: 210
+keywords: [Actionable, List, Member, Queues, GET, Fetch, list, queues, contain, actionable, member, supported, object.]
 ---
 
 # Actionable List Member Queues (GET)
+
+> Fetch a list of queues that contain the actionable list member as a supported
+    object.
 
 # Actionable List Member Queues (GET)
 
@@ -49,3 +53,17 @@ Request parameters for GET
 Response body for GET
 
 [Actionable List Member Queues](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_actionable_list_member_queues.htm "Output representation of the fetch request of the queues that contain the actionable list member as a supported object.")
+
+## Code Examples
+
+```
+/connect/sales-excellence/actionable-list-member/queues
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0connect/sales-excellence/actionable-list-members/queues?searchTerm=Queue1&nextPageCursor=0xsgtef
+```
+
+## Related Topics
+
+- Actionable List Member Queues (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_actionable_list_member_queues.htm)

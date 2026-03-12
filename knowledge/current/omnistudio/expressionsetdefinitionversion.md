@@ -5,11 +5,15 @@ topic: expressionsetdefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.516Z
-keywords: [ExpressionSetDefinitionVersion, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.839Z
+estimatedTokens: 743
+keywords: [ExpressionSetDefinitionVersion, Represents, information, expression, set, definition, version., API, version, 55.0, later., Supported, SOAP, Calls, REST, Fields]
 ---
 
 # ExpressionSetDefinitionVersion
+
+> Represents information about an expression set definition
+         version. This object is available in API version 55.0 and later.
 
 # ExpressionSetDefinitionVersion
 

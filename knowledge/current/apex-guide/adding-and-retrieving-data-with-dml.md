@@ -5,11 +5,18 @@ topic: adding-and-retrieving-data-with-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:48.101Z
-keywords: [Adding, Retrieving, Data, DML]
+lastCollected: 2026-03-12T05:14:34.736Z
+estimatedTokens: 524
+keywords: [Adding, Retrieving, Data, DML, Apex, tightly, integrated, Lightning, Platform, persistence, layer., Records, database, inserted, manipulated, through, directly, simple, statements., language]
 ---
 
 # Adding and Retrieving Data With DML
+
+> Apex is tightly integrated with the Lightning Platform persistence layer. Records in
+        the database can be inserted and manipulated through Apex directly using simple statements.
+        The language in Apex that allows you to add and manage records in the database is the Data
+        Manipulation Language (DML). In contrast to the SOQL language, which is used for read
+        operations (querying records), DML is used for write operations.
 
 # Adding and Retrieving Data With DML
 
@@ -31,4 +38,42 @@ Also, you can use DML to modify records that have already been inserted. Among t
 
 ```
 
+```
+
+## Code Examples
+
+```
+Account a = new Account(Name='Account Example');
+```
+
+```
+Account a = new Account(Name='Account Example');
+insert a;
+```
+
+```apex
+// Query existing account.
+Account a = [SELECT Name,Industry 
+               FROM Account 
+               WHERE Name='Account Example' LIMIT 1];
+
+// Write the old values the debug log before updating them.
+System.debug('Account Name before update: ' + a.Name); // Name is Account Example
+System.debug('Account Industry before update: ' + a.Industry);// Industry is not set
+
+// Modify the two fields on the sObject.
+a.Name = 'Account of the Day';
+a.Industry = 'Technology';
+
+// Persist the changes.
+update a;
+
+// Get a new copy of the account from the database with the two fields.
+Account a = [SELECT Name,Industry 
+             FROM Account 
+             WHERE Name='Account of the Day' LIMIT 1];
+
+// Verify that updated field values were persisted.
+System.assertEquals('Account of the Day', a.Name);
+System.assertEquals('Technology', a.Industry);
 ```

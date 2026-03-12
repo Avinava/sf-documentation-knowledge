@@ -5,11 +5,14 @@ topic: rest-header-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:46:36.910Z
-keywords: [REST, Header, Examples, Note]
+lastCollected: 2026-03-12T05:14:44.255Z
+estimatedTokens: 283
+keywords: [REST, Header, Examples, examples, understand, headers., Note]
 ---
 
 # REST Header Examples
+
+> Use these examples to understand REST headers.
 
 # REST Header Examples
 
@@ -38,3 +41,21 @@ At the end of each request, add the following code to send the request and retri
 ```
 
 ```
+
+## Code Examples
+
+```
+HttpRequest req = new HttpRequest();
+req.setHeader('Authorization', 'Bearer ' + UserInfo.getSessionID());
+req.setHeader('Content-Type', 'application/json');
+```
+
+```
+Http h = new Http();
+HttpResponse res = h.send(req);
+system.debug(res.getBody());
+```
+
+## Related Topics
+
+- REST Headers for Tooling API (atlas.en-us.api_tooling.meta/api_tooling/intro_api_tooling_rest_headers.htm)

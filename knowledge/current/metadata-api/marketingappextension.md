@@ -5,11 +5,15 @@ topic: marketingappextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:53.458Z
-keywords: [MarketingAppExtension, Important, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, MarketingAppExtActivity, Declarative, Metadata, Sample, Definition, MarketingAppExtAction, Wildcard]
+lastCollected: 2026-03-12T05:14:41.064Z
+estimatedTokens: 1415
+keywords: [MarketingAppExtension, Represents, integration, third-party, app, service, used, work, prospects., Important, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields]
 ---
 
 # MarketingAppExtension
+
+> Represents an integration with a third-party app or service that is used to work with
+		prospects.
 
 # MarketingAppExtension
 
@@ -120,3 +124,137 @@ This example package.xml references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketingAppExtension xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>VidLand extension for US region</description>
+    <isActive>true</isActive>
+    <marketingAppExtActivities>
+        <fullName>user_attended</fullName>
+        <description>User attended activity capture for VidLand</description>
+        <isActive>true</isActive>
+        <marketingAppExtension>VidLand_US</marketingAppExtension>
+        <masterLabel>user attended</masterLabel>
+    </marketingAppExtActivities>
+    <marketingAppExtActivities>
+        <fullName>user_registered</fullName>
+        <description>User registered activity capture for VidLand</description>
+        <isActive>true</isActive>
+        <marketingAppExtension>VidLand_US</marketingAppExtension>
+        <masterLabel>user registered</masterLabel>
+    </marketingAppExtActivities>
+    <masterLabel>VidLand_US</masterLabel>
+</MarketingAppExtension>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+~ Copyright 2021 Salesforce, Inc.
+~ All Rights Reserved
+~ Company Confidential
+-->
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>VidLand_US</members>
+<name>MarketingAppExtension</name>
+</types>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketingAppExtension xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>VidLand extension for US region</description>
+    <isActive>true</isActive>
+    <marketingAppExtActivities>
+        <fullName>user_attended</fullName>
+        <description>User attended activity capture for VidLand</description>
+        <isActive>true</isActive>
+        <marketingAppExtension>VidLand_US</marketingAppExtension>
+        <masterLabel>user attended</masterLabel>
+    </marketingAppExtActivities>
+    <masterLabel>VidLand_US</masterLabel>
+</MarketingAppExtension>
+```
+
+```
+<<?xml version="1.0" encoding="UTF-8"?>
+<!--
+~ Copyright 2021 salesforce.com, inc.
+~ All Rights Reserved
+~ Company Confidential
+-->
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>VidLand_US.user_attended</members>
+<name>MarketingAppExtActivity</name>
+</types>
+<types>
+<members>VidLand_US</members>
+<name>MarketingAppExtension</name>
+</types>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketingAppExtension xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>VidLand_US</fullName>
+    <description>VidLand extension for US region</description>
+    <isActive>true</isActive>
+    <marketingAppExtActions>
+        <marketingAppExtension>VidLand_US</marketingAppExtension>
+        <apiName>register_user</apiName>
+        <isActive>true</isActive>
+        <description>Register User for VidLand</description>>
+        <actionSelector>VidLand_Register_User</actionSelector>
+        <actionSchema>
+			<![CDATA[
+   				{
+	"properties": {
+	  "UserId": {
+		"type": "string",
+		"title": ""
+	  },
+	  "WebinarId": {
+		"type": "string",
+		"value": "webinarIdXYZ"
+	  }
+	},
+	"view": {
+	  "components": [{
+		"definition": "lightning/control",
+		"scope": "#/properties/UserId"
+	  }]
+	},
+	"required": [
+	  "UserId",
+	  "WebinarId",
+	  "From",
+	  "Body"
+	]
+  }
+			]]>
+        </actionSchema>
+        <actionParams>
+        <![CDATA[
+   				{
+	"isStandard": false,
+    "type": "apex"
+  }
+			]]>
+        </actionParams>
+        <actionName>Register User</actionName>
+    </marketingAppExtActions>
+    <masterLabel>VidLand US</masterLabel>
+</MarketingAppExtension>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

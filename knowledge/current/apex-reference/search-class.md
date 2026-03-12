@@ -5,76 +5,606 @@ topic: search-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:41.586Z
-keywords: [Search, Class, Returns, list, records, Salesforce, Knowledge, articles, whose, names, titles, match, user’s, search, query, string., method, provide, users, shortcuts]
+lastCollected: 2026-03-12T05:14:18.911Z
+estimatedTokens: 4624
+namespace: ConnectApi
+keywords: [Search, objects, keywords, natural, language, query., answer, API, Version, Guest, Users, Requires, Chatter, Usage, objectApiName, displayFields, findAndGroup, configurationName, highlights, find]
 ---
 
 # Search Class
 
-> Returns a list of records or Salesforce Knowledge articles whose names or
-      titles match the user’s search query string. Use this method to provide users with shortcuts
-      to navigate to relevant records or articles before they perform a search.
+> Search objects using keywords or a natural language query.
 
-### suggest(searchQuery, sObjectType, suggestions)
+**Namespace:** `ConnectApi`
 
-Returns a list of records or Salesforce Knowledge articles whose names or titles match the user’s search query string. Use this method to provide users with shortcuts to navigate to relevant records or articles before they perform a search.
+# Search Class
+
+Search objects using keywords or a natural language query.
+
+## Namespace
+
+[ConnectApi](atlas.en-us.apexref.meta/apexref/apex_classes_connect_api.htm "The ConnectApi namespace (also called Connect in Apex) provides classes for accessing the same data available in Connect REST API. Use Connect in Apex to create custom experiences in Salesforce.")
+
+## Search Methods
+
+These methods are for Search. All methods are static.
+
+-   **[answer(q)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_answer_objects_1)**
+    Search objects using a natural language query and return an answer.
+-   **[answer(q, objectApiName)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_answer_object_1)**
+    Search an object using a natural language query and return an answer.
+-   **[answer(q, objectApiName, displayFields)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_answer_object_2)**
+    Search an object using a natural language query and display fields.
+-   **[findAndGroup(q)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_find_objects_1)**
+    Search objects using keyword search and return result groups.
+-   **[findAndGroup(q, configurationName)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_find_objects_2)**
+    Search objects using keyword search and a configuration. The search returns result groups.
+-   **[findAndGroup(q, configurationName, highlights)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_find_objects_3)**
+    Search objects using keyword search, a configuration, and highlights. The search returns result groups.
+-   **[find(objectApiName, request)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm#apex_ConnectAPI_Search_find_object_1)**
+    Search an object using keywords and return results.
+
+### answer(q)
+
+Search objects using a natural language query and return an answer.
+
+#### API Version
+
+63.0
+
+#### Available to Guest Users
+
+63.0
+
+#### Requires Chatter
+
+No
 
 #### Signature
 
-public static Search.SuggestionResults suggest(String searchQuery, String sObjectType, Search.SuggestionOption suggestions)
+public static ConnectApi.SearchAnswer answer(String q)
 
 #### Parameters
 
-searchQuery
+q
 
 Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
 
-A SOSL query string.
-
-sObjectType
-
-Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
-
-An sObject type.
-
-options
-
-Type: [Search.SuggestionOption](atlas.en-us.apexref.meta/apexref/apex_class_Search_SuggestionOption.htm#apex_class_Search_SuggestionOption "Options that narrow record and article suggestion results returned from a call to System.Search.suggest(String, String, Search.SuggestionOption).")
-
-This object contains options that change the suggestion results.
-
-If the searchQuery returns KnowledgeArticleVersion objects, pass an options parameter with a Search.SuggestionOption object that contains a language KnowledgeSuggestionFilter and a publish status KnowledgeSuggestionFilter.
-
-For suggestions for all other record types, the only supported option is a limit, which sets the maximum number of suggestions returned.
+Natural language query to search for in the org.
 
 #### Return Value
 
-Type: [SuggestionResults](atlas.en-us.apexref.meta/apexref/apex_class_Search_SuggestionResults.htm#apex_class_Search_SuggestionResults "Wraps the results returned by the Search.suggest(​String, String, Search.SuggestionOption) method.")
+Type: [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
 
 #### Usage
 
-Use this method to return:
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
 
-Suggestions for Salesforce Knowledge articles (KnowledgeArticleVersion)
+### answer(q, objectApiName)
 
-Salesforce Knowledge must be enabled in your organization. The user must have the “View Articles” permission enabled.
+Search an object using a natural language query and return an answer.
 
-The articles suggested include only the articles the user can access, based on the data categories and article types the user has permissions to view.
+#### API Version
 
-Suggestions for other record types
+63.0
 
-The records suggested include only the records the user can access.
+#### Available to Guest Users
 
-This method returns a record if its name field starts with the text in the search string. This method automatically appends an asterisk wildcard (\*) at the end of the search string. Records that contain the search string within a word aren’t considered a match.
+63.0
 
-Records are suggested if the entire search string is found in the record name, in the same order as specified in the search string. For example, the text string national u is treated as national u\* and returns “National Utility” and “National Urban Company” but not “National Company Utility” or “Urban National Company”.
+#### Requires Chatter
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexref)
+No
 
-#### Note
+#### Signature
 
-If the user’s search query contains quotation marks or wildcards, those symbols are automatically removed from the query string in the URI.
+public static ConnectApi.SearchAnswer answer(String q, String objectApiName)
 
-#### See Also
+#### Parameters
 
--   [*Apex Developer Guide*: Suggest Salesforce Knowledge Articles](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_forcecom_kb_suggestions.htm "Apex Developer Guide: Suggest Salesforce Knowledge Articles - HTML (New Window)")
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Natural language query to search for in the org.
+
+objectApiName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+API name of the object.
+
+#### Return Value
+
+Type: [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
+
+#### Usage
+
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
+
+### answer(q, objectApiName, displayFields)
+
+Search an object using a natural language query and display fields.
+
+#### API Version
+
+63.0
+
+#### Available to Guest Users
+
+63.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.SearchAnswer answer(String q, String objectApiName, List<String\> displayFields)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Natural language query to search for in the org.
+
+objectApiName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+API name of the object.
+
+displayFields
+
+Type: [List](atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm#apex_methods_system_list "Contains methods for the List collection type.")<[String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")\>
+
+List of fields to display and return in the search answer. The default is the citation field.
+
+#### Return Value
+
+Type: [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
+
+#### Usage
+
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
+
+### findAndGroup(q)
+
+Search objects using keyword search and return result groups.
+
+#### API Version
+
+63.0
+
+#### Available to Guest Users
+
+63.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.SearchResultGroups findAndGroup(String q)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+One or more keywords to search for in the org.
+
+#### Return Value
+
+Type: [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
+
+#### Usage
+
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
+
+### findAndGroup(q, configurationName)
+
+Search objects using keyword search and a configuration. The search returns result groups.
+
+#### API Version
+
+63.0
+
+#### Available to Guest Users
+
+63.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.SearchResultGroups findAndGroup(String q, String configurationName)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+One or more keywords to search for in the org.
+
+configurationName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Search configuration to apply.
+
+#### Return Value
+
+Type: [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
+
+#### Usage
+
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
+
+### findAndGroup(q, configurationName, highlights)
+
+Search objects using keyword search, a configuration, and highlights. The search returns result groups.
+
+#### API Version
+
+63.0
+
+#### Available to Guest Users
+
+63.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.SearchResultGroups findAndGroup(String q, String configurationName, Boolean highlights)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+One or more keywords to search for in the org.
+
+configurationName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Search configuration to apply.
+
+highlights
+
+Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
+
+Specifies whether search generates a text highlight (true) or not (false).
+
+#### Return Value
+
+Type: [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
+
+#### Usage
+
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
+
+### find(objectApiName, request)
+
+Search an object using keywords and return results.
+
+#### API Version
+
+63.0
+
+#### Available to Guest Users
+
+63.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.ScopedSearchResults find(String objectApiName, ConnectApi.SearchRequest request)
+
+#### Parameters
+
+objectApiName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+API name of the object to search.
+
+request
+
+Type: [ConnectApi.SearchRequest](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_search_reques.htm "Search request input for searching an object.")
+
+ConnectApi.SearchRequest input class with more information about what and how to search.
+
+#### Return Value
+
+Type: [ConnectApi.ScopedSearchResults](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scoped_search_result.htm "Keyword search results for an object.")
+
+#### Usage
+
+To test code that uses this method, use the matching set test method (prefix the method name with setTest). Use the set test method with the same parameters or the code throws an exception.
+
+## Search Test Methods
+
+These test methods are for Search. All methods are static.
+
+For information about using these methods to test your ConnectApi code, see [Testing ConnectApi Code](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/connectAPI_TestingApex.htm).
+
+### setTestAnswer(q, result)
+
+Registers a ConnectApi.SearchAnswer object to be returned when the matching answer(q) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+63.0
+
+#### Signature
+
+public static Void setTestAnswer(String q, ConnectApi.SearchAnswer result)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Natural language query to search for in the org.
+
+result
+
+Type: [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+### setTestAnswer(q, objectApiName, result)
+
+Registers a ConnectApi.SearchAnswer object to be returned when the matching answer(q, objectApiName) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+63.0
+
+#### Signature
+
+public static Void setTestAnswer(String q, String objectApiName, ConnectApi.SearchAnswer result)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Natural language query to search for in the org.
+
+objectApiName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+API name of the object.
+
+result
+
+Type: [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+### setTestAnswer(q, objectApiName, displayFields, result)
+
+Registers a ConnectApi.SearchAnswer object to be returned when the matching answer(q, objectApiName, displayFields) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+62.0
+
+#### Signature
+
+public static Void setTestAnswer(String q, String objectApiName, List<String\> displayFields, ConnectApi.SearchAnswer result)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Natural language query to search for in the org.
+
+objectApiName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+API name of the object.
+
+displayFields
+
+Type: [List](atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm#apex_methods_system_list "Contains methods for the List collection type.")<[String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")\>
+
+List of fields to display and return in the search results. By default, the fields displayed are defined by the search layout.
+
+result
+
+Type: [ConnectApi.SearchAnswer](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm "Results of searching objects using a natural language query.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+### setTestFindAndGroup(q, result)
+
+Registers a ConnectApi.SearchResultGroups object to be returned when the matching findAndGroup(q) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+63.0
+
+#### Signature
+
+public static Void setTestFindAndGroup(String q, ConnectApi.SearchResultGroups result)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+One or more keywords to search for in the org.
+
+result
+
+Type: [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+### setTestFindAndGroup(q, configurationName, result)
+
+Registers a ConnectApi.SearchResultGroups object to be returned when the matching findAndGroup(q, configurationName) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+63.0
+
+#### Signature
+
+public static Void setTestFindAndGroup(String q, String configurationName, ConnectApi.SearchResultGroups result)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+One or more keywords to search for in the org.
+
+configurationName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Search configuration to apply.
+
+result
+
+Type: [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+### setTestFindAndGroup(q, configurationName, highlights, result)
+
+Registers a ConnectApi.SearchResultGroups object to be returned when the matching findAndGroup(q, configurationName, highlights) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+63.0
+
+#### Signature
+
+public static Void setTestFindAndGroup(String q, String configurationName, Boolean highlights, ConnectApi.SearchResultGroups result)
+
+#### Parameters
+
+q
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+One or more keywords to search for in the org.
+
+configurationName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Search configuration to apply.
+
+highlights
+
+Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
+
+Specifies whether search generates a text highlight (true) or not (false).
+
+result
+
+Type: [ConnectApi.SearchResultGroups](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_result.htm "Results of searching objects using keywords.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+### setTestFind(objectApiName, request, result)
+
+Registers a ConnectApi.ScopedSearchResults object to be returned when the matching find(objectApiName, request) method is called in a test context. Use the method with the same parameters or you receive an exception.
+
+#### API Version
+
+63.0
+
+#### Signature
+
+public static Void setTestFind(String objectApiName, ConnectApi.SearchRequest request, ConnectApi.ScopedSearchResults result)
+
+#### Parameters
+
+objectApiName
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+API name of the object to search.
+
+request
+
+Type: [ConnectApi.SearchRequest](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_search_reques.htm "Search request input for searching an object.")
+
+ConnectApi.SearchRequest input class with more information about what and how to search.
+
+result
+
+Type: [ConnectApi.ScopedSearchResults](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_scoped_search_result.htm "Keyword search results for an object.")
+
+Object containing test data.
+
+#### Return Value
+
+Type: Void
+
+## Related Topics
+
+- ConnectApi (atlas.en-us.apexref.meta/apexref/apex_classes_connect_api.htm)
+- answer(q) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- answer(q, objectApiName) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- answer(q, objectApiName, displayFields) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- findAndGroup(q) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- findAndGroup(q, configurationName) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- findAndGroup(q, configurationName, highlights) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- find(objectApiName, request) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Search_static_methods.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.SearchAnswer (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_answe.htm)

@@ -5,11 +5,15 @@ topic: actionablelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.493Z
-keywords: [ActionableList, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:53.228Z
+estimatedTokens: 2850
+keywords: [ActionableList, Represents, actionable, list., API, version, 57.0, later., Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
 ---
 
 # ActionableList
+
+> Represents an actionable list. This object is available in API version
+      57.0 and later.
 
 # ActionableList
 
@@ -85,3 +89,11 @@ Sharing rules are available for the object.
 [ActionableListShare](atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ActionableListChangeEvent (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_change_event.htm)
+- ActionableListFeed (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_feed.htm)
+- ActionableListHistory (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_history.htm)
+- ActionableListOwnerSharingRule (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
+- ActionableListShare (atlas.en-us.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)

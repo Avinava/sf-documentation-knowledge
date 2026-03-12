@@ -5,11 +5,16 @@ topic: composite-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.256Z
-keywords: [Composite, Batch, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.401Z
+estimatedTokens: 670
+keywords: [Composite, Batch, Executes, subrequests, single, request., response, bodies, HTTP, statuses, batch, returned, body., subrequest, counts, against, rate, limits., Syntax, Example]
 ---
 
 # Composite Batch
+
+> Executes up to 25 subrequests in a single request. The
+    response bodies and HTTP statuses of the subrequests in the batch are returned in a single
+    response body. Each subrequest counts against rate limits.
 
 # Composite Batch
 
@@ -66,3 +71,10 @@ Response body
 ## Example
 
 For an example of using the Composite Batch resource, see [Update a Record and Get Its Field Values in a Single Request](atlas.en-us.api_rest.meta/api_rest/dome_composite_batch.htm "Use the Composite Batch resource to execute multiple requests in a single API call.").
+
+## Related Topics
+
+- Batch Request Body (atlas.en-us.api_rest.meta/api_rest/requests_composite_batch.htm)
+- Batch Response Body (atlas.en-us.api_rest.meta/api_rest/responses_composite_batch.htm)
+- Update a Record and
+          Get Its Field Values in a Single Request (atlas.en-us.api_rest.meta/api_rest/dome_composite_batch.htm)

@@ -5,11 +5,15 @@ topic: order-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.283Z
-keywords: [Order, Schema, Note]
+lastCollected: 2026-03-12T05:14:12.253Z
+estimatedTokens: 1334
+keywords: [Order, Schema, order, interaction, commerce, action, captures, actions, performed, user, manage, new, progress, completed, orders., Note]
 ---
 
 # Order Schema
+
+> An order interaction is a commerce action that captures actions performed by a user to
+  manage new, in progress, or completed orders.
 
 # Order Schema
 
@@ -56,3 +60,10 @@ Each [Line Item Attribute](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_
 #### Note
 
 Properties added to lineItem.attributes aren’t automatically defined in the recommended schema. They’re shown to demonstrate how the source properties are mapped to the target schema. Manually add the properties to the schema.
+
+## Related Topics
+
+- Schema Field Naming
+         Rules (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_mobile_schema_support.htm)
+- Line Item Attribute (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_line_item_attribute.htm)
+- Order Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_order_event.htm)

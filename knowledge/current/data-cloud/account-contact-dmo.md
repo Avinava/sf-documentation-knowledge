@@ -5,11 +5,16 @@ topic: account-contact-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.597Z
-keywords: [Account, Contact, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.754Z
+estimatedTokens: 1457
+keywords: [Account, Contact, DMO, Data, Cloud, data, model, individual, who, role, specific, account., Provided, both, Sales, Service, Kits., API, Name, Category]
 ---
 
 # Account Contact DMO
+
+> The Account Contact DMO is a Data Cloud data model object for an
+		individual who has a role specific to an account. Provided in both the Sales and Service
+		Data Kits.
 
 # Account Contact DMO
 

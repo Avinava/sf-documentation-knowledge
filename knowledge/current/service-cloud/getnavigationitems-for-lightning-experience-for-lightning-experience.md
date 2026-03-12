@@ -6,12 +6,16 @@ topic: getnavigationitems-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.227Z
-keywords: [getNavigationItems, Lightning, Experience, Arguments, Sample, Code, Response]
+lastCollected: 2026-03-12T05:14:57.765Z
+estimatedTokens: 316
+keywords: [getNavigationItems, Lightning, Experience, information, items, navigation, menu., works, only, console, apps., Arguments, Sample, Code, Response]
 ---
 
 # getNavigationItems() for Lightning Experience for
       Lightning Experience
+
+> Returns information about all the items in the navigation menu. This method works only
+    in Lightning console apps.
 
 # getNavigationItems() for Lightning Experience for Lightning Experience
 
@@ -54,4 +58,36 @@ Here’s the structure of a navigationItemInfo object.
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <lightning:navigationItemAPI aura:id="navigationItemAPI"/>
+    <lightning:button label="Get navigation item" onclick="{!c.getNavigationItems}"/>
+</aura:component>
+```
+
+```
+({
+    getNavigationItems : function(component, event, helper) {
+        var navigationItemAPI = component.find("navigationItemAPI");
+        navigationItemAPI.getNavigationItems().then(function(response) {
+            console.log(response);
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+```
+{
+      developerName : string,
+      label : string,
+      pageReference: object,
+      selected : boolean
+}
 ```

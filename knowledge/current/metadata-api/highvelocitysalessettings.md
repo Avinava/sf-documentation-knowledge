@@ -5,11 +5,15 @@ topic: highvelocitysalessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.013Z
-keywords: [HighVelocitySalesSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Example, Package, Manifest]
+lastCollected: 2026-03-12T05:14:40.372Z
+estimatedTokens: 1252
+keywords: [HighVelocitySalesSettings, Represents, org’s, Sales, Engagement, settings., inside, sales, team, effective, possible., File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample]
 ---
 
 # HighVelocitySalesSettings
+
+> Represents an org’s Sales Engagement settings.
+      With Sales Engagement, you can make your inside sales team as effective as possible.
 
 # HighVelocitySalesSettings
 
@@ -64,3 +68,44 @@ The following is an example package manifest used to deploy or retrieve the High
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<HighVelocitySalesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+  <enableACAutoSendEmail>false</enableACAutoSendEmail>
+  <enableACChangeTargetAssignee>false</enableACChangeTargetAssignee>
+  <enableACSkipWeekends>false</enableACSkipWeekends>
+  <enableBusinessHours>false</enableBusinessHours>
+  <enableCadenceVariantTestingPref>false</enableCadenceVariantTestingPref>
+  <enableChgTgtAssigneeUsrPermPref>false</enableChgTgtAssigneeUsrPermPref>
+  <enableDispositionCategory>true</enableDispositionCategory>
+  <enableEngagementWaveAnalyticsPref>true</enableEngagementWaveAnalyticsPref>
+  <enableHighVelocitySales>true</enableHighVelocitySales>
+  <enableHighVelocitySalesSetup>true</enableHighVelocitySalesSetup>
+  <enableInvoiceAttributionPref>false</enableInvoiceAttributionPref>
+  <enableLogACallForCTIPref>false</enableLogACallForCTIPref>
+  <enableLogTasksForLinkedInPref>false</enableLogTasksForLinkedInPref>
+  <enableMultipleCadencesPref>false</enableMultipleCadencesPref>
+  <enableOpportunityAttributionPermPref>false</enableOpportunityAttributionPermPref>
+  <enableQuickCadenceAutoSendEmail>false</enableQuickCadenceAutoSendEmail>
+  <enableTaskLoggingPref>true</enableTaskLoggingPref>
+</HighVelocitySalesSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>HighVelocitySalesSettings</members>
+		<name>Settings</name>
+	</types>
+	<version>47.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

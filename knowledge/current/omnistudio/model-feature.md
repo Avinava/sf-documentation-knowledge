@@ -5,11 +5,15 @@ topic: model-feature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.599Z
-keywords: [Model, Feature]
+lastCollected: 2026-03-12T05:14:50.387Z
+estimatedTokens: 138
+keywords: [Model, Feature, Output, representation, feature, model, used, making, predictions.]
 ---
 
 # Model Feature
+
+> Output representation of the feature model that is used for making
+      predictions.
 
 # Model Feature
 

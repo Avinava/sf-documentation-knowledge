@@ -5,11 +5,14 @@ topic: related-object-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.211Z
-keywords: [Related, Object, Node, Input]
+lastCollected: 2026-03-12T05:14:06.417Z
+estimatedTokens: 244
+keywords: [Related, Node, Input, representation, details, related, node.]
 ---
 
 # Related Object Node Input
+
+> Input representation of the details of a related object node.
 
 # Related Object Node Input
 
@@ -29,3 +32,42 @@ Properties
 | offSet | Integer | Number of records to skip. The default value is 0. | Optional | 62.0 |
 | pageSize | Integer | Number of records per page. Valid values are from 1 through 100. If unspecified, the default value is 100. | Optional | 62.0 |
 | relatedObject​APIName | String | API name of the related object to return the records for. The supported related objects are ProductRampSegment and ProductUsageGrant. | Required | 62.0 |
+
+## Code Examples
+
+```
+"relatedObjectNodes": [
+    {
+      "relatedObjectAPIName": "ProductRampSegment",
+      "pageSize": 20,
+      "offSet": 0
+    },
+    {
+      "relatedObjectAPIName": "ProductUsageGrant",
+      "pageSize": 10,
+      "offSet": 0,
+      "filter": {
+        "criteria": [
+          {
+            "property": "status",
+            "operator": "eq",
+            "value": "active"
+          },
+          {
+            "property": "effectivestartdate",
+            "operator": "lte",
+            "value": "2024-06-25"
+          },
+          {
+            "criteriaType": "CustomWhereCondition",
+            "value": "(effectiveenddate = null OR effectiveenddate >= 2024-06-25)"
+          }
+        ]
+      }
+    }
+  ]
+```
+
+## Related Topics
+
+- Criteria (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_criteria.htm)

@@ -5,11 +5,15 @@ topic: connectapiholdfocapacityresponseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.990Z
-keywords: [ConnectApi.HoldFOCapacityResponseOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.584Z
+estimatedTokens: 102
+keywords: [ConnectApi.HoldFOCapacityResponseOutputRepresentation, Response, request, hold, fulfillment, order, capacity, locations.]
 ---
 
 # ConnectApi.HoldFOCapacityResponseOutputRepresentation
+
+> Response to a request to hold fulfillment order capacity at one or
+      more locations.
 
 # ConnectApi.HoldFOCapacityResponseOutputRepresentation
 
@@ -18,3 +22,8 @@ Response to a request to hold fulfillment order capacity at one or more location
 | Property Name | Type | Description | Available Version |
 | --- | --- | --- | --- |
 | capacityResponses | List<ConnectApi.​CapacityResponse​OutputRepresentation> | List of responses to the requests to hold fulfillment order capacity at individual locations. | 55.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CapacityResponse​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_capacity_response_output.htm)

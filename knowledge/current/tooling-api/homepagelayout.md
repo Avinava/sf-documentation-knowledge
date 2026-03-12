@@ -5,11 +5,15 @@ topic: homepagelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.115Z
-keywords: [HomePageLayout, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.847Z
+estimatedTokens: 228
+keywords: [HomePageLayout, Represents, home, page, layout., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # HomePageLayout
+
+> Represents a home page
+        layout.
 
 # HomePageLayout
 

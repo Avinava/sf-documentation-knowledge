@@ -5,11 +5,17 @@ topic: timeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.060Z
-keywords: [TimeSlot, Supported, Calls, Fields, Usage, Tip, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.740Z
+estimatedTokens: 1073
+keywords: [TimeSlot, Represents, period, time, specified, day, week, during, which, work, performed, Field, Service, Salesforce, Scheduler, Workforce, Engagement., Operating, hours, consist]
 ---
 
 # TimeSlot
+
+> Represents a period of time on a specified day of the week during which
+   work can be performed in Field Service, Salesforce Scheduler, or Workforce Engagement. Operating
+   hours consist of one or more time slots. This object is available in API version 38.0 and
+  later.
 
 # TimeSlot
 

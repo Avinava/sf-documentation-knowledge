@@ -5,11 +5,15 @@ topic: settablabel-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.382Z
-keywords: [setTabLabel, Lightning, Experience, Arguments, LWC, Sample, Code, Aura, Components, Response]
+lastCollected: 2026-03-12T05:14:57.969Z
+estimatedTokens: 429
+keywords: [setTabLabel, Lightning, Experience, label, specified, tab., works, only, console, apps., Arguments, LWC, Sample, Code, Aura, Components, Response]
 ---
 
 # setTabLabel() for Lightning Experience for Lightning Experience
+
+> Sets the label of the specified tab. This method works only in
+   Lightning console apps.
 
 # setTabLabel() for Lightning Experience for Lightning Experience
 
@@ -57,3 +61,99 @@ This method returns a promise that, upon success, resolves to a tabInfo object r
 ```
 
 ```
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import {
+    IsConsoleNavigation,
+    getFocusedTabInfo,
+    setTabLabel
+} from 'lightning/platformWorkspaceApi';
+
+const TAB_LABEL = 'Awesome Label';
+
+export default class WorkspaceAPISetTabLabel extends LightningElement {
+    @wire(IsConsoleNavigation) isConsoleNavigation;
+
+    async setTabLabel() {
+        if (!this.isConsoleNavigation) {
+            return;
+        }
+        const { tabId } = await getFocusedTabInfo();
+        setTabLabel(tabId, TAB_LABEL);
+    }
+}
+```
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:workspaceAPI aura:id="workspace" />
+    <lightning:button label="Set Focused Tab with Label" onclick="{! c.setFocusedTabLabel }" />
+ </aura:component>
+```
+
+```
+({
+    setFocusedTabLabel : function(component, event, helper) {
+        var workspaceAPI = component.find("workspace");
+        workspaceAPI.getFocusedTabInfo().then(function(response) {
+            var focusedTabId = response.tabId;
+            workspaceAPI.setTabLabel({
+                tabId: focusedTabId,
+                label: "Focused Tab"
+            });
+        })
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+})
+```
+
+```
+{
+     tabId: string,
+     url: string (URL),
+     pinned: boolean,
+     closeable: boolean,
+     title: string,
+     icon: string (SLDS iconKey),
+     iconAlt: string,
+     customTitle: string (optional),
+     customIcon: string (optional),
+     customIconAlt: string (optional),
+     highlighted: boolean,
+     pageReference: object,
+     isSubtab: boolean,
+     parentTabId: string,
+     subtabs: [
+         {
+             tabId: string,
+             url: string (URL),
+             pinned: boolean,
+             closeable: boolean,
+             title: string,
+             icon: string (SLDS iconKey),
+             iconAlt: string,
+             customTitle: string (optional),
+             customIcon: string (optional),
+             customIconAlt: string (optional),
+             highlighted: boolean,
+             pageReference: object,
+             isSubtab: boolean,
+             parentTabId: string,
+             focused: boolean,
+             recordId: string,
+          },
+           ... 
+     ],
+     focused: boolean,
+     recordId: string
+}
+```
+
+## Related Topics
+
+- getFocusedTabInfo() (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_getFocusedTabInfo.htm)

@@ -5,11 +5,16 @@ topic: addentityfieldfieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:33.110Z
-keywords: [addEntityField, fieldName, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:19.339Z
+estimatedTokens: 482
+keywords: [addEntityField, fieldName, Adds, field, list, fields, returned, signed, request, Record, component, appears, Visualforce, page, that’s, placed, object., Usage, Example]
 ---
 
 # addEntityField(fieldName)
+
+> Adds a field to the list of object fields that are returned in the signed request Record
+  object when the component appears on a Visualforce page that’s placed on an
+  object.
 
 # addEntityField(fieldName)
 
@@ -46,3 +51,18 @@ This example adds the Name and BillingAddress fields to the list of object field
 ```
 
 ```
+
+## Code Examples
+
+```
+Canvas.EnvironmentContext env = renderContext.getEnvironmentContext();
+
+// Add Name and BillingAddress to fields (assumes we'll run from the Account detail page)
+env.addEntityField('Name');
+env.addEntityField('BillingAddress');
+```
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Canvas.EnvironmentContext.getEntityFields() (atlas.en-us.apexref.meta/apexref/apex_canvas_EnvironmentContext_getEntityFields.htm)

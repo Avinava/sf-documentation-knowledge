@@ -5,11 +5,15 @@ topic: reminderrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:12.208Z
-keywords: [ReminderRecord, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:54.350Z
+estimatedTokens: 257
+keywords: [ReminderRecord, Represents, reminder, that's, sent., API, version, 60.0, later., Supported, Calls, Fields]
 ---
 
 # ReminderRecord
+
+> Represents a reminder that's sent. This object is available in API
+      version 60.0 and later.
 
 # ReminderRecord
 

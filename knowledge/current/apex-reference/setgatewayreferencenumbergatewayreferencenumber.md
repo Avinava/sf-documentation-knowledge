@@ -5,11 +5,14 @@ topic: setgatewayreferencenumbergatewayreferencenumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.663Z
-keywords: [setGatewayReferenceNumber, gatewayReferenceNumber, Signature, Parameters, Return, Value]
+lastCollected: 2026-03-12T05:14:24.136Z
+estimatedTokens: 105
+keywords: [setGatewayReferenceNumber, gatewayReferenceNumber, reference, number, gateway, returned.]
 ---
 
 # setGatewayReferenceNumber(gatewayReferenceNumber)
+
+> Sets the reference number that the gateway returned.
 
 # setGatewayReferenceNumber(gatewayReferenceNumber)
 
@@ -28,3 +31,7 @@ Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#a
 ## Return Value
 
 Type: void
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

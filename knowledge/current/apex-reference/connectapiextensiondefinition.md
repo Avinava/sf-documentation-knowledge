@@ -5,11 +5,14 @@ topic: connectapiextensiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.708Z
-keywords: [ConnectApi.ExtensionDefinition, See]
+lastCollected: 2026-03-12T05:14:27.221Z
+estimatedTokens: 331
+keywords: [ConnectApi.ExtensionDefinition, extension's, definition.]
 ---
 
 # ConnectApi.ExtensionDefinition
+
+> An extension's definition.
 
 # ConnectApi.ExtensionDefinition
 
@@ -32,3 +35,13 @@ An extension's definition.
 #### See Also
 
 -   [ConnectApi.ExtensionDefinitions](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_extension_definition_collection.htm "A collection of extension definitions.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​AbstractExtension​Information (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_extension_information.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.ExtensionDefinitions (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_extension_definition_collection.htm)

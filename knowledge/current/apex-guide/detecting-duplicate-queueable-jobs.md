@@ -5,11 +5,17 @@ topic: detecting-duplicate-queueable-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.987Z
-keywords: [Detecting, Duplicate, Queueable, Jobs, Build, Signature, Enqueue, Job, Examples]
+lastCollected: 2026-03-12T05:14:33.194Z
+estimatedTokens: 930
+keywords: [Detecting, Duplicate, Queueable, Jobs, Reduce, resource, contention, race, conditions, enqueuing, only, single, instance, async, job, based, its, signature., Attempting, add]
 ---
 
 # Detecting Duplicate Queueable Jobs
+
+> Reduce resource contention and race conditions by enqueuing only a
+        single instance of your async Queueable job based on its signature. Attempting to add more
+        than one Queueable job to the processing queue with the same signature results in a
+        DuplicateMessageException when you try to enqueue subsequent jobs.
 
 # Detecting Duplicate Queueable Jobs
 

@@ -5,11 +5,16 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.159Z
-keywords: [ApexClass, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields, Usage, Note]
+lastCollected: 2026-03-12T05:14:44.555Z
+estimatedTokens: 1621
+keywords: [ApexClass, Represents, saved, copy, Apex, class., uses, cached, version, unless, unavailable., API, 28.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # ApexClass
+
+> Represents the saved copy of an Apex class. ApexClass uses the cached
+   version of the class unless one is unavailable. Available from API version 28.0 or
+  later.
 
 # ApexClass
 
@@ -55,3 +60,9 @@ To edit, save, or compile Apex classes, use [ApexClassMember](atlas.en-us.api_to
 If there Isn't a cached version of [SymbolTable](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_symboltable.htm "A complex type that represents all user-defined tokens in the Body of an ApexClass, ApexClassMember, or ApexTriggerMember and their associated line and column locations within the Body."), it’s compiled in the background and the query can take longer than expected. The SymbolTable returned from ApexClass doesn't contain references. To retrieve a SymbolTable with references, use [ApexClassMember](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm "Represents the working copy of an Apex class for editing, saving, or compiling in a MetadataContainer.").
 
 Although Apex classes and triggers have the Create and Update field properties, a runtime exception occurs if you try to create, update, or delete them using the API. Instead, use the Salesforce Extensions for Visual Studio Code or the Ant Migration Tool to create or update Apex classes or triggers. Apex classes and triggers can’t be created, edited, or deleted in a production org. See [Deploying Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_deploying.htm).
+
+## Related Topics
+
+- ApexClassMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm)
+- SymbolTable (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_symboltable.htm)
+- SOAP Calls (atlas.en-us.api_tooling.meta/api_tooling/intro_soap_overview.htm)

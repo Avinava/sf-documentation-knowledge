@@ -5,11 +5,18 @@ topic: omniintegrationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.015Z
-keywords: [OmniIntegrationProcedure, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OmniProcessElement, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:52.496Z
+estimatedTokens: 2039
+keywords: [OmniIntegrationProcedure, Represents, Omnistudio, Integration, Procedure, Discovery, Framework., enables, declarative, server-side, processing, perform, multiple, actions, single, server, call, supporting, sales, service]
 ---
 
 # OmniIntegrationProcedure
+
+> Represents an Omnistudio Integration Procedure for the
+			Discovery Framework. It enables declarative, server-side processing to perform multiple
+			actions in a single server call, supporting sales, service, and other business
+			workflows. For Discovery Framework, the customization type is
+				discoveryframework.
 
 # OmniIntegrationProcedure
 
@@ -113,3 +120,92 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 Before you retrieve or deploy Discovery Framework OmniScripts, we recommend that you review this consideration.
 
 -   When deploying the OmniIntegrationProcedure of type Discovery Framework, enable Discovery Framework Metadata Enabled setting.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniIntegrationProcedure xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customJavaScript>{&quot;salary&quot;:332}</customJavaScript>
+    <elementTypeComponentMapping>{&quot;ElementTypeToHTMLTemplateList&quot;:[]}</elementTypeComponentMapping>
+    <integrationProcedureInput>{
+  &quot;properties&quot;: {
+    &quot;salary&quot;: {
+      &quot;type&quot;: &quot;integer&quot;
+    }
+  },
+  &quot;type&quot;: &quot;object&quot;,
+  &quot;title&quot;: &quot;Data&quot;,
+  &quot;$schema&quot;: &quot;https://json-schema.org/draft/2020-12/schema&quot;
+}</integrationProcedureInput>
+    <integrationProcedureOutput>{
+  &quot;properties&quot;: {
+    &quot;tax&quot;: {
+      &quot;type&quot;: &quot;double&quot;
+    }
+  },
+  &quot;type&quot;: &quot;object&quot;,
+  &quot;title&quot;: &quot;Data&quot;,
+  &quot;$schema&quot;: &quot;https://json-schema.org/draft/2020-12/schema&quot;
+}</integrationProcedureOutput>
+    <isActive>true</isActive>
+    <isIntegProcdSignatureAvl>true</isIntegProcdSignatureAvl>
+    <isIntegrationProcedure>true</isIntegrationProcedure>
+    <isManagedUsingStdDesigner>false</isManagedUsingStdDesigner>
+    <isMetadataCacheDisabled>false</isMetadataCacheDisabled>
+    <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
+    <isTestProcedure>false</isTestProcedure>
+    <isWebCompEnabled>false</isWebCompEnabled>
+    <language>English</language>
+    <name>Calc</name>
+    <omniProcessElements>
+        <description>Response Action</description>
+        <isActive>true</isActive>
+        <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
+        <level>0.0</level>
+        <name>Response</name>
+        <omniProcessVersionNumber>0.0</omniProcessVersionNumber>
+        <propertySetConfig>{
+  &quot;responseJSONPath&quot; : &quot;&quot;,
+  &quot;responseJSONNode&quot; : &quot;&quot;,
+  &quot;executionConditionalFormula&quot; : &quot;&quot;,
+  &quot;returnFullDataJSON&quot; : false,
+  &quot;additionalOutput&quot; : {
+    &quot;tax&quot; : &quot;=%salary%*0.3&quot;
+  },
+  &quot;returnOnlyAdditionalOutput&quot; : false,
+  &quot;sendJSONPath&quot; : &quot;&quot;,
+  &quot;responseFormat&quot; : &quot;&quot;,
+  &quot;id&quot; : &quot;&quot;,
+  &quot;isActive&quot; : true,
+  &quot;restOptions&quot; : { },
+  &quot;sendJSONNode&quot; : &quot;&quot;
+}</propertySetConfig>
+        <sequenceNumber>1.0</sequenceNumber>
+        <type>Response Action</type>
+    </omniProcessElements>
+    <omniProcessKey>calc_calc</omniProcessKey>
+    <omniProcessType>Integration Procedure</omniProcessType>
+    <propertySetConfig>{
+  &quot;transientValues&quot; : {
+    &quot;deactivateConsent&quot; : false
+  }
+}</propertySetConfig>
+    <subType>calc</subType>
+    <type>calc</type>
+    <uniqueName>calc_calc_English_1</uniqueName>
+    <versionNumber>1.0</versionNumber>
+</OmniIntegrationProcedure>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+    xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>OmniIntegrationProcedure</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```

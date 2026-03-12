@@ -5,11 +5,15 @@ topic: transaction-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.189Z
-keywords: [Transaction, Control, Generating, Savepoints, Rolling, Back, Transactions, Releasing, Callouts, Versioned, Behavior, Changes]
+lastCollected: 2026-03-12T05:14:34.876Z
+estimatedTokens: 1601
+keywords: [Transaction, Control, Read, transaction, requests, generating, releasing, savepoints, rolling, back, transactions, more., Generating, Savepoints, Rolling, Back, Transactions, Releasing, Callouts, Versioned]
 ---
 
 # Transaction Control
+
+> Read about transaction requests, generating and releasing savepoints, rolling back
+    transactions, and more.
 
 # Transaction Control
 
@@ -27,7 +31,7 @@ The following limitations apply to generating savepoint variables and rolling ba
 -   References to savepoints can’t cross-trigger invocations because each trigger invocation is a new trigger context. If you declare a savepoint as a static variable then try to use it across trigger contexts, you receive a run-time error.
 -   Each savepoint you set counts against the governor limit for DML statements.
 -   Static variables aren’t reverted during a rollback. If you try to run the trigger again, the static variables retain the values from the first run.
-    
+
 -   Database.rollback(Savepoint) and Database.setSavepoint()don’t count against the DML row limit, but count toward the DML statement limit. This behavior applies to all API versions.
 -   The ID on an sObject inserted after setting a savepoint isn’t cleared after a rollback. Attempting to insert the sObject using the variable created before the rollback fails because the sObject variable has an ID. Updating or upserting the sObject using the same variable also fails because the sObject isn’t in the database and, thus, can’t be updated. To perform further DML operations, create an sObject variable without setting its ID.
 
@@ -57,7 +61,7 @@ Use these guidelines for using callouts and savepoints.
 
 -   If there’s uncommitted work pending when Database.releaseSavepoint() is called, the uncommitted work isn’t rolled back. It’s committed if the transaction succeeds.
 -   Attempts to roll back to a released savepoint result in a TypeException.
--   Attempts to roll back after calling Database.releaseSavepoint() result in a System.InvalidOperationException. 
+-   Attempts to roll back after calling Database.releaseSavepoint() result in a System.InvalidOperationException.
 -   Calling the Database.releaseSavepoint() method on a savepoint also releases nested savepoints, that is, any subsequent savepoints created after a savepoint.
 
 ## Versioned Behavior Changes

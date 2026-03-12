@@ -5,11 +5,16 @@ topic: installedsubscriberpackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.146Z
-keywords: [InstalledSubscriberPackageVersion, Warning, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.894Z
+estimatedTokens: 248
+keywords: [InstalledSubscriberPackageVersion, Deprecated, slated, removal., Represents, package, version, first-, second-generation, installed, subscriber’s, org., API, 41.0, later., Warning, Supported, SOAP, Calls, REST]
 ---
 
 # InstalledSubscriberPackageVersion
+
+> Deprecated and slated for removal.
+            Represents a package version (first- or second-generation) that is installed in a
+            subscriber’s org. Available in API version 41.0 and later.
 
 # InstalledSubscriberPackageVersion
 

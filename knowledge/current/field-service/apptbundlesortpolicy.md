@@ -5,11 +5,17 @@ topic: apptbundlesortpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.459Z
-keywords: [ApptBundleSortPolicy, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:55.854Z
+estimatedTokens: 694
+keywords: [ApptBundleSortPolicy, Policy, defines, which, bundle, members, sorted, within, bundle., used, automatic, mode, determining, order, selection, members., API, version, 54.0, later.]
 ---
 
 # ApptBundleSortPolicy
+
+> Policy that defines the properties by which the bundle members are sorted
+         within the bundle. Can also be used in the automatic mode for determining the order of the
+         automatic selection of bundle members. This object is available in API version 54.0
+      and later.
 
 # ApptBundleSortPolicy
 

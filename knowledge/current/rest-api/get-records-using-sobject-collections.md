@@ -5,11 +5,17 @@ topic: get-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.301Z
-keywords: [Get, Records, sObject, Collections, Note, Syntax, Example]
+lastCollected: 2026-03-12T05:14:35.463Z
+estimatedTokens: 459
+keywords: [Get, Records, sObject, Collections, GET, request, get, records, same, type., list, sObjects, represents, individual, specified, returned., number, returned, matches, IDs]
 ---
 
 # Get Records Using sObject Collections
+
+> Use a GET request with sObject Collections to get one or more records of the same object
+      type. A list of sObjects that represents the individual records of the specified type is
+      returned. The number of sObjects returned matches the number of IDs passed in the
+      request.
 
 # Get Records Using sObject Collections
 
@@ -64,3 +70,35 @@ Example Response Body
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/composite/sobjects/Account?ids=001xx000003DGb1AAG,001xx000003DGb0AAG,001xx000003DGb9AAG&fields=id,name -H "Authorization: Bearer token"
+```
+
+```
+[
+   {
+      "attributes" : {
+         "type" : "Account",
+         "url" : "/services/data/v66.0/sobjects/Account/001xx000003DGb1AAG"
+      },
+      "Id" : "001xx000003DGb1AAG",
+      "Name" : "Acme"
+   },
+   {
+      "attributes" : {
+         "type" : "Account",
+         "url" : "/services/data/v66.0/sobjects/Account/001xx000003DGb0AAG"
+      },
+      "Id" : "001xx000003DGb0AAG",
+      "Name" : "Global Media"
+   },
+   null
+]
+```
+
+## Related Topics
+
+- sObject Blob Retrieve (atlas.en-us.api_rest.meta/api_rest/resources_sobject_blob_retrieve.htm)

@@ -5,11 +5,15 @@ topic: contact-point-social-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.035Z
-keywords: [Contact, Point, Social, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:13.430Z
+estimatedTokens: 1503
+keywords: [Contact, Point, Social, DMO, Data, Cloud, data, model, social, media, handle, party, example, @trustednews, Twitter., API, Name, Category, Primary, Subject]
 ---
 
 # Contact Point Social DMO
+
+> The Contact Point Social DMO is a Data Cloud data model object (DMO) for
+      the social media handle for a party, for example @trustednews on Twitter.
 
 # Contact Point Social DMO
 

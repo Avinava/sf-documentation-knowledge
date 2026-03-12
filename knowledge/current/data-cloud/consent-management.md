@@ -5,11 +5,17 @@ topic: consent-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.215Z
-keywords: [Consent, Management, States, Granting, Revoking, Reading, State]
+lastCollected: 2026-03-12T05:14:12.165Z
+estimatedTokens: 445
+keywords: [Consent, Management, Engagement, Mobile, SDK, offers, managed, solution, allowing, restricting, collection, event, data., mobile, application, responsible, presenting, device, owner, choice]
 ---
 
 # Consent Management
+
+> Engagement Mobile SDK offers a managed solution for allowing and restricting collection
+    of event data. Your mobile application is responsible for presenting the device owner with the
+    choice to opt in or opt out of data collection and for setting the Data Cloud Module consent
+    property accordingly.
 
 # Consent Management
 
@@ -57,4 +63,42 @@ Access the current state of consent in the Data Cloud Module:
 
 ```
 
+```
+
+## Code Examples
+
+```
+import Cdp
+
+...
+
+// when a user consents to data collection
+CdpModule.shared.setConsent(consent: Consent.optIn)
+
+// when a user does not consent to data collection
+CdpModule.shared.setContent(consent: Consent.optOut)
+```
+
+```
+import com.salesforce.marketingcloud.cdp.CdpSdk
+import com.salesforce.marketingcloud.cdp.consent.Consent.OPT_IN
+import com.salesforce.marketingcloud.cdp.consent.Consent.OPT_OUT
+
+...
+
+// when a user consents to data collection
+CdpSdk.requestSdk { sdk -> sdk.consent = OPT_IN }
+
+// when a user does not consent to data collection
+CdpSdk.requestSdk { sdk -> sdk.consent = OPT_OUT }
+```
+
+```
+let consent = CdpModule.shared.getConsent()
+```
+
+```
+CdpSdk.requestSdk { sdk ->
+  let consent = sdk.consent
+}
 ```

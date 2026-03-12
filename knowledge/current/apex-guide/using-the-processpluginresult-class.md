@@ -5,11 +5,16 @@ topic: using-the-processpluginresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:47.441Z
-keywords: [Process.PluginResult, Class, Tip]
+lastCollected: 2026-03-12T05:14:33.794Z
+estimatedTokens: 341
+keywords: [Process.PluginResult, output, implements, flow., Tip]
 ---
 
 # Using the Process.PluginResult Class
+
+> The Process.PluginResult class returns
+                output parameters from the class that implements the interface to the
+                flow.
 
 # Using the Process.PluginResult Class
 
@@ -36,4 +41,15 @@ The following is an example of instantiating a Process.PluginResult class.
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+string url = 'https://docs.google.com/document/edit?id=abc';
+                String status = 'Success';
+                Map<String,Object> result = new Map<String,Object>();
+                result.put('url', url);
+                result.put('status',status);
+                new Process.PluginResult(result);
 ```

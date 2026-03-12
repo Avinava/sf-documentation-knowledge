@@ -5,11 +5,15 @@ topic: get-specific-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.706Z
-keywords: [Get, Specific, sObject, Quick, Actions, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.059Z
+estimatedTokens: 185
+keywords: [Get, Specific, sObject, Quick, Actions, specific, action, well, action’s, details., resource, REST, API, version, 28.0, later., Syntax, Example]
 ---
 
 # Get Specific sObject Quick Actions
+
+> Gets a specific action for an object, as well as the action’s details. This resource is
+  available in REST API version 28.0 and later.
 
 # Get Specific sObject Quick Actions
 
@@ -46,3 +50,13 @@ Example Request
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/quickActions/CreateContact -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_quickactions.htm)

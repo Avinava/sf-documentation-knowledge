@@ -5,11 +5,16 @@ topic: expressionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.977Z
-keywords: [ExpressionSet, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:53.954Z
+estimatedTokens: 679
+keywords: [ExpressionSet, Represents, information, expression, set., set, performs, series, calculations, lookups, user-defined, variables, constants., API, version, 55.0, later., Supported, Calls, Fields]
 ---
 
 # ExpressionSet
+
+> Represents information about an expression set. An expression set
+         performs a series of calculations using lookups and user-defined variables and
+         constants. This object is available in API version 55.0 and later.
 
 # ExpressionSet
 

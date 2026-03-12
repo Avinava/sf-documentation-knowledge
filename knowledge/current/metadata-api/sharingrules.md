@@ -5,11 +5,17 @@ topic: sharingrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.659Z
-keywords: [SharingRules, Declarative, Metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, SharingCriteriaRule, SharingGuestRule, Note, SharingOwnerRule, SharingTerritoryRule, AccountSharingRules, CampaignSharingRules, CaseSharingRules]
+lastCollected: 2026-03-12T05:14:42.851Z
+estimatedTokens: 3379
+keywords: [SharingRules, Represents, base, container, sharing, rules, which, criteria-based, ownership-based, territory-based, guest, user, access., enables, share, records, set, users, specify, access]
 ---
 
 # SharingRules
+
+> Represents the base container for sharing rules,
+            which can be criteria-based, ownership-based, territory-based, or for guest user access.
+            SharingRules enables you to share records with a set of users, using rules that specify
+            the access level for the target user group.
 
 # SharingRules
 
@@ -208,9 +214,154 @@ The following shows a sample package.xml file.
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
-1.  [BaseSharingRule](atlas.en-us.api_meta.meta/api_meta/meta_basesharingrule.htm)  
+1.  [BaseSharingRule](atlas.en-us.api_meta.meta/api_meta/meta_basesharingrule.htm)
     This component is removed as of API version 33.0 and is available in earlier versions only. Use SharingBaseRule instead. Represents the base container for criteria-based and owner-based sharing rules.
-2.  [CriteriaBasedSharingRule](atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)  
+2.  [CriteriaBasedSharingRule](atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)
     This component is removed as of API version 33.0 and is available in earlier versions only. Use [SharingRules](# "Represents the base container for sharing rules, which can be criteria-based, ownership-based, territory-based, or for guest user access. SharingRules enables you to share records with a set of users, using rules that specify the access level for the target user group.") instead. Represents a criteria-based sharing rule. CriteriaBasedSharingRule enables you to share records based on specific criteria.
-3.  [OwnerSharingRule](atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm)  
+3.  [OwnerSharingRule](atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm)
     Represents an ownership-based sharing rule. OwnerSharingRule enables you to share records owned by a set of users with another set, using rules that specify the access level of the target user group. This component is removed as of API version 33.0 and is available in earlier versions only.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>AccountCriteriaShareWithCEO</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>Read</caseAccessLevel>
+            <contactAccessLevel>Edit</contactAccessLevel>
+            <opportunityAccessLevel>Edit</opportunityAccessLevel>
+        </accountSettings>
+        <criteriaItems>
+            <field>Name</field>
+            <operation>startsWith</operation>
+            <value>Test</value>
+        </criteriaItems>
+        <description>my account criteria rule description</description>
+        <label>AccountCriteriaShareWithCEO</label>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+    </sharingCriteriaRules>
+</SharingRules>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingOwnerRules>
+        <fullName>MyCase</fullName>
+        <accessLevel>Edit</accessLevel>
+        <description>my case test owner sharing rule desc</description>
+        <label>MyCase</label>
+        <sharedFrom>
+            <role>COO</role>
+        </sharedFrom>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+    </sharingOwnerRules>
+</SharingRules>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingTerritoryRules>
+        <fullName>MyAccountTerritoryRule</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>Read</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <description>MyAccountTerritoryRule desc</description>
+        <label>MyAccountTerritoryRule</label>
+        <sharedFrom>
+            <territory>My_territory</territory>
+        </sharedFrom>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+    </sharingTerritoryRules>
+</SharingRules>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountSharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <ownerRules>
+        <fullName>G1Dev_G2New</fullName>
+        <sharedFrom>
+            <group>G1Dev</group>
+        </sharedFrom>
+        <sharedTo>
+            <group>G2New</group>
+        </sharedTo>
+        <accountAccessLevel>Read</caseAccessLevel>
+        <caseAccessLevel>None</caseAccessLevel>
+        <contactAccessLevel>Read</contactAccessLevel>
+        <name>G1Dev_G2New</name>
+        <opportunityAccessLevel>Edit</opportunityAccessLevel>
+    </ownerRules>
+    <ownerRules>
+        <fullName>G2New_R1New</fullName>
+        <sharedFrom>
+            <group>G2New</group>
+        </sharedFrom>
+        <sharedTo>
+            <roleAndSubordinates>R1New</roleAndSubordinates>
+        </sharedTo>
+        <accountAccessLevel>Edit</accountAccessLevel>
+        <caseAccessLevel>Read</caseAccessLevel>
+        <contactAccessLevel>Edit</contactAccessLevel>
+        <name>G2New_R1New</name>
+        <opportunityAccessLevel>None</opportunityAccessLevel>
+    </ownerRules>
+</AccountSharingRules>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<UserSharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <criteriaBasedRules>
+        <fullName>shareUsers2</fullName>
+        <sharedTo>
+            <group>Asia_Division</group>
+        </sharedTo>
+        <criteriaItems>
+            <field>FirstName</field>
+            <operation>equals</operation>
+            <value>John</value>
+        </criteriaItems>
+        <name>shareUsers2</name>
+        <userAccessLevel>Read</userAccessLevel>
+    </criteriaBasedRules>
+    <membershipRules>
+        <fullName>shareUsers1</fullName>
+        <sharedTo>
+            <group>South_America_Division</group>
+        </sharedTo>
+        <sharedFrom>
+            <group>Asia_Division</group>
+        </sharedFrom>
+        <name>shareUsers1</name>
+        <userAccessLevel>Read</userAccessLevel>
+    </membershipRules>
+</UserSharingRules>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- SharingBaseRule (atlas.en-us.api_meta.meta/api_meta/meta_sharingbaserule.htm)
+- FilterItem (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- SharedTo (atlas.en-us.api_meta.meta/api_meta/meta_sharedto.htm)
+- AccountCriteriaBasedSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)
+- AccountOwnerSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm)
+- CampaignCriteriaBasedSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)
+- CampaignOwnerSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm)
+- CaseCriteriaBasedSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_cbsrule.htm)
+- CaseOwnerSharingRule (atlas.en-us.api_meta.meta/api_meta/meta_ownersharingrule.htm)

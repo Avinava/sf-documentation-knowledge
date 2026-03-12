@@ -5,11 +5,15 @@ topic: data-mapper-execution-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.153Z
-keywords: [Data, Mapper, Execution, Options]
+lastCollected: 2026-03-12T05:14:48.217Z
+estimatedTokens: 430
+keywords: [Data, Mapper, Execution, Options, Input, representation, optional, data, mapper, execution.]
 ---
 
 # Data Mapper Execution Options
+
+> Input representation of the optional parameters for the data mapper
+    execution.
 
 # Data Mapper Execution Options
 
@@ -33,3 +37,14 @@ Properties
 | shouldIgnore​Commit | Boolean | Indicates whether to skip committing the transaction data to database (true)or not (false).The default value is true. | Optional | 64.0 |
 | shouldSend​LegacyResponse | Boolean | Indicates whether response is displayed in the legacy Apex object format (true) or in generic format (false).The default value is false. | Optional | 64.0 |
 | withoutSharing | Boolean | Indicates whether the Data Mapper must ignore the user sharing rules while executing the data (true) or not (false).The default value is false. | Optional | 64.0 |
+
+## Code Examples
+
+```
+{
+  "options": {
+    "ignoreCache": false,
+    "locale": "en-US"
+  }
+}
+```

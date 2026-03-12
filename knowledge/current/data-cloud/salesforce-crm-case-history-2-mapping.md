@@ -5,11 +5,15 @@ topic: salesforce-crm-case-history-2-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.801Z
-keywords: [Salesforce, CRM, Case, History, Mapping, Usage, Data, Bundle, DLO, DMO]
+lastCollected: 2026-03-12T05:14:13.034Z
+estimatedTokens: 290
+keywords: [Salesforce, CRM, Case, History, Mapping, data, mappings, CaseHistory2, DLO, found, Services, bundle, Connector, Data, Cloud., Usage, Bundle, DMO]
 ---
 
 # Salesforce CRM: Case History 2 Mapping
+
+> These data mappings are for the CaseHistory2 DLO found in the Services bundle of the
+  Salesforce CRM Connector for Data Cloud.
 
 # Salesforce CRM: Case History 2 Mapping
 

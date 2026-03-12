@@ -5,11 +5,16 @@ topic: member-benefit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.754Z
-keywords: [Member, Benefit, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.548Z
+estimatedTokens: 637
+keywords: [Member, Benefit, DMO, Data, Cloud, data, model, benefit, within, loyalty, program, member, qualified, elected, receive., API, Name, Category, Primary, Subject]
 ---
 
 # Member Benefit DMO
+
+> The Member Benefit DMO is a Data Cloud data model object (DMO) for a
+      benefit available within the loyalty program that a member is qualified for and has elected to
+      receive.
 
 # Member Benefit DMO
 

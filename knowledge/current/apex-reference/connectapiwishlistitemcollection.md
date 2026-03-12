@@ -5,11 +5,14 @@ topic: connectapiwishlistitemcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.225Z
-keywords: [ConnectApi.WishlistItemCollection, See]
+lastCollected: 2026-03-12T05:14:29.307Z
+estimatedTokens: 311
+keywords: [ConnectApi.WishlistItemCollection, Collection, wishlist, items.]
 ---
 
 # ConnectApi.WishlistItemCollection
+
+> Collection of wishlist items.
 
 # ConnectApi.WishlistItemCollection
 
@@ -30,3 +33,11 @@ Collection of wishlist items.
 #### See Also
 
 -   [ConnectApi.Wishlist](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist.htm "Wishlist, including summary and items.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​WishlistItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist_item.htm)
+- ConnectApi.Wishlist (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_wishlist.htm)

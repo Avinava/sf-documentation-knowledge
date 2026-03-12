@@ -5,11 +5,15 @@ topic: resource-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.528Z
-keywords: [Resource, Input, Note]
+lastCollected: 2026-03-12T05:14:48.788Z
+estimatedTokens: 491
+keywords: [Resource, Input, representation, expression, set, resource, variable, constant, Note]
 ---
 
 # Resource Input
+
+> Input representation of the expression set resource (variable or
+      constant).
 
 # Resource Input
 
@@ -42,3 +46,32 @@ Properties
 | name | String | The name of the variable or constant. | Required | 53.0 |
 | precision | Integer | The floating-point precision of the variable or constant. | RequiredNoteThis field is required when the data type is number, currency, or percentage. | 53.0 |
 | uiDisplayOrder | Integer | The display order of the variable or constant in the UI.NoteReserved for future use. | Optional | 53.0 |
+
+## Code Examples
+
+```
+{
+   "variables":{
+      "details":[ {
+         "apiName":"condition_output__1",
+         "dataType":"Boolean",
+         "defaultValue":"False",
+         "id":"0kJxx00000000KzEAI",
+         "isEditable":false,
+         "isUserDefined":false,
+         "name":"condition_output__1"
+      } ]
+   }
+}
+"constants":{
+   "details":[ {
+      "apiName":"SENIOR_CITIZEN_AGE",
+      "dataType":"Number",
+      "defaultValue":"60",
+      "isEditable":true,
+      "isUserDefined":true,
+      "name":"SENIOR_CITIZEN_AGE",
+      "precision":2
+   }.]
+}
+```

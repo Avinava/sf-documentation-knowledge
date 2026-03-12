@@ -5,11 +5,14 @@ topic: query-more-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.542Z
-keywords: [Query, Results, Syntax, Example, Resources, Executing, SOQL, Queries]
+lastCollected: 2026-03-12T05:14:35.830Z
+estimatedTokens: 493
+keywords: [Query, Results, next, batch, results, SOQL, query, locator., Syntax, Example, Resources, Executing, Queries]
 ---
 
 # Query More Results
+
+> Returns the next batch of results from a SOQL query using a query locator.
 
 # Query More Results
 
@@ -56,3 +59,24 @@ Example Response Body
 -   For an example of how to use the query locator see [Execute a SOQL Query.](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/dome_query.htm "HTML (New Window)")
 -   For another option to change the batch size, see [Query Options Header](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/headers_queryoptions.htm "HTML (New Window)").
 -   For more information on SOQL in general, see the [SOQL and SOSL Reference](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_sosl_intro.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+{
+  "totalSize": 3222,
+  "done": false,
+  "nextRecordsUrl": "/services/data/v66.0/query/01gRO0000016PIAYA2-500",
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "url": "/services/data/v66.0/sobjects/Contact/003RO0000035WQgYAM"
+      },
+      "Id": "003RO0000035WQgYAM",
+      "Name": "John Smith"
+    },
+    ...
+  ]
+}
+```

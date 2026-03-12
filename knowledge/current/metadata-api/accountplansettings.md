@@ -5,11 +5,14 @@ topic: accountplansettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:50.267Z
-keywords: [AccountPlanSettings, Parent, Type, Manifest, Access, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:36.513Z
+estimatedTokens: 653
+keywords: [AccountPlanSettings, Represents, org’s, account, plan, settings., settings, control, features, easy, sales, reps, set, objectives, actionable, metrics, store, research, analysis., Parent]
 ---
 
 # AccountPlanSettings
+
+> Represents an org’s account plan settings. These settings control features that make it easy for sales reps to set objectives with actionable metrics and to store account research and analysis.
 
 # AccountPlanSettings
 
@@ -52,3 +55,29 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountPlanSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+	<enableAccountPlan>true</enableAccountPlan>
+</AccountPlanSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+     <types>
+         <members>AccountPlan</members>
+         <name>Settings</name>
+     </types>
+     <version>63.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

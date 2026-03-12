@@ -5,11 +5,15 @@ topic: explainability-logs-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.972Z
-keywords: [Explainability, Logs, GET]
+lastCollected: 2026-03-12T05:14:49.447Z
+estimatedTokens: 496
+keywords: [Explainability, Logs, GET, Retrieves, explainability, logs, expression, step, elements, which, explanation, messages, configured.]
 ---
 
 # Explainability Logs (GET)
+
+> Retrieves explainability logs for expression step elements for which
+      explanation messages are configured.
 
 # Explainability Logs (GET)
 
@@ -55,3 +59,18 @@ Request parameters for GET
 Response body for GET
 
 [Explainability Logs](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_explainability_logs.htm "Output representation of the list of explainability action logs.")
+
+## Code Examples
+
+```
+/connect/business-rules/explainability/logs
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect
+/business-rules/explainability/logs?actionContextCode=001x0000005DmI3AAK
+```
+
+## Related Topics
+
+- Explainability Logs (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_explainability_logs.htm)

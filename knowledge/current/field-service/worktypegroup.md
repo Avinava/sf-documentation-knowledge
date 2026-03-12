@@ -5,11 +5,16 @@ topic: worktypegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:13.200Z
-keywords: [WorkTypeGroup, Supported, Calls, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:56.942Z
+estimatedTokens: 619
+keywords: [WorkTypeGroup, Represents, grouping, work, types, used, categorize, appointments, Lightning, Scheduler, define, scheduling, limits, Field, Service., API, version, 45.0, later., Supported]
 ---
 
 # WorkTypeGroup
+
+> Represents a grouping of work types used to categorize types of
+			appointments available in Lightning Scheduler, or to define scheduling limits in Field
+			Service. This object is available in API version 45.0 and later.
 
 # WorkTypeGroup
 

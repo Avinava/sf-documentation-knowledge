@@ -5,11 +5,15 @@ topic: root-step-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.811Z
-keywords: [Root, Step, List, Output, Note]
+lastCollected: 2026-03-12T05:14:50.707Z
+estimatedTokens: 199
+keywords: [Root, Step, List, Output, representation, first, step, expression, set, version, record., Note]
 ---
 
 # Root Step List Output
+
+> Output representation of the first step of the expression set version
+      record.
 
 # Root Step List Output
 

@@ -5,11 +5,14 @@ topic: form-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.519Z
-keywords: [Form, Verification]
+lastCollected: 2026-03-12T05:14:48.447Z
+estimatedTokens: 146
+keywords: [Form, Verification, Input, representation, form, verification, requests., Output, responses.]
 ---
 
 # Form Verification
+
+> Output representation of form verification responses.
 
 # Form Verification
 
@@ -30,3 +33,77 @@ JSON example
 | retryCount | Integer | For internal use only. | Small, 58.0 | 58.0 |
 | selectedRecordId | String | Record ID of the selected customer or representative. | Small, 58.0 | 58.0 |
 | status | Error Response | Status of the form verification API request. | Small, 58.0 | 58.0 |
+
+## Code Examples
+
+```
+{
+  "developerName": "SampleAccountSearch",
+  "selectedRecordId": "001xx000003DGV3AAO",
+  "formVerificationFieldList": {
+  "formVerificationFields": [
+    {
+      "developerName": "SampleAccountName",
+      "value": "Acme",
+    },
+    {
+      "developerName": "SampleAccountNumber",
+      "value": "123456",
+      "isVerified":true
+    },
+    {
+      "developerName": "SamplePhone",
+      "value": "4158764524"
+    },
+    {
+      "developerName": "SamplePostalCode",
+      "value": "51605"
+    }
+  ]
+  }
+}
+```
+
+```
+{
+  "developerName": "SampleAccountSearch",
+  "selectedRecordId": "001xx000003DGV3AAO",
+  "isVerified": false,
+  "formVerificationFieldList": {
+    "formVerificationFields": [
+    {
+      "developerName": "SampleAccountName",
+      "isVerified": true
+    },
+    {
+      "developerName": "SampleAccountNumber",
+      "isVerified": true
+    },
+    {
+      "developerName": "SamplePhone",
+      "value": "4158764524",
+      "isVerified": false
+    },
+    {
+      "developerName": "SamplePostalCode",
+      "isVerified": true
+    }
+    ]
+  },
+  “displayRecordDetails”: {
+	“displayRecordId”: “001axxxxxxx”,
+	“displayRecordName”: “SomeReferenceRecord”
+  },
+ "status": {
+    "code":201,
+    "message": "Identity Verification is processed successfully."
+  }
+}
+```
+
+## Related Topics
+
+- Identity Verf Form Field Input[] (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_form_verification_field_input.htm)
+- Identity Verf Form Display Record (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_form_verification_display_record_details_outpu.htm)
+- Identity Verf
+                  Form Field List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_form_verification_field_list.htm)

@@ -5,11 +5,16 @@ topic: apptbundleaggrpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:12.423Z
-keywords: [ApptBundleAggrPolicy, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:55.801Z
+estimatedTokens: 1170
+keywords: [ApptBundleAggrPolicy, Policy, defines, how, values, bundle, members, aggregated, assigned, bundle., API, version, 54.0, later., Supported, Calls, Special, Access, Rules, Fields]
 ---
 
 # ApptBundleAggrPolicy
+
+> Policy that defines how the property values of the bundle members are
+         aggregated and assigned to the bundle. This object is available in API version 54.0
+      and later.
 
 # ApptBundleAggrPolicy
 

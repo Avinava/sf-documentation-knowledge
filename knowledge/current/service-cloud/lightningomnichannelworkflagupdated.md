@@ -5,11 +5,15 @@ topic: lightningomnichannelworkflagupdated
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:47:49.867Z
-keywords: [lightning, omniChannelWorkFlagUpdated, Response, Example]
+lastCollected: 2026-03-12T05:14:57.234Z
+estimatedTokens: 191
+keywords: [lightning, omniChannelWorkFlagUpdated, Indicates, agent’s, work, item, flag, raised, lowered., Response, Example]
 ---
 
 # lightning:omniChannelWorkFlagUpdated
+
+> Indicates that an agent’s work item flag has been
+            raised or lowered.
 
 # lightning:omniChannelWorkFlagUpdated
 
@@ -39,4 +43,27 @@ Controller code:
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:omniToolkitAPI aura:id="omniToolkit" />  
+    <aura:handler event="lightning:omniChannelWorkFlagUpdated" action="{! c.onChannelWorkFlagUpdated }"/>
+</aura:component>
+```
+
+```
+({
+onChannelWorkFlagUpdated : function(cmp, evt, hlp) {
+    var workId = evt.getParam('workId');
+    var message = evt.getParam('message');
+    var isFlagged = evt.getParam('isFlagged');
+    console.log("WorkFlag  event");
+    console.log("  workId    : "+ workId);
+    console.log("  isFlagged : "+ isFlagged);
+    console.log("  message   : "+ message);
+}
+})
 ```

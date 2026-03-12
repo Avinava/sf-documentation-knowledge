@@ -5,11 +5,15 @@ topic: batchjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.357Z
-keywords: [BatchJobDefinition, Note, Supported, SOAP, API, Calls, REST, Methods, Fields]
+lastCollected: 2026-03-12T05:14:54.606Z
+estimatedTokens: 1095
+keywords: [BatchJobDefinition, Represents, definition, batch, job., API, version, 51.0, later., Note, Supported, SOAP, Calls, REST, Fields]
 ---
 
 # BatchJobDefinition
+
+> Represents the definition of a batch job. This object is available in API
+    version 51.0 and later.
 
 # BatchJobDefinition
 

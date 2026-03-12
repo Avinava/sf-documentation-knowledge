@@ -5,11 +5,17 @@ topic: connectapifulfillmentgroupoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.955Z
-keywords: [ConnectApi.FulfillmentGroupOutputRepresentation]
+lastCollected: 2026-03-12T05:14:27.538Z
+estimatedTokens: 333
+keywords: [ConnectApi.FulfillmentGroupOutputRepresentation, Information, FulfillmentOrder, request, create, fulfillment, orders, multiple, OrderDeliveryGroupSummaries., created, then, its, returned., failed, data, input, returned, resubmit, it.]
 ---
 
 # ConnectApi.FulfillmentGroupOutputRepresentation
+
+> Information about one FulfillmentOrder from a request to create
+      fulfillment orders from multiple OrderDeliveryGroupSummaries. If the FulfillmentOrder was
+      created, then its ID is returned. If it failed, then data from the input is returned so you
+      can resubmit it.
 
 # ConnectApi.FulfillmentGroupOutputRepresentation
 
@@ -26,3 +32,10 @@ Subclass of [ConnectApi.BaseOutputRepresentation](atlas.en-us.apexref.meta/apexr
 | orderItemSummaries | List<ConnectApi.​OrderItemSummary​OutputRepresentation> | (Creation failed) The input list of OrderItemSummaries. | 50.0 |
 | orderSummaryId | String | (Creation failed) The input OrderSummaryId. | 50.0 |
 | referenceId | String | The referenceId from the FulfillmentGroup input representation. Use this value to troubleshoot a failure. | 50.0 |
+
+## Related Topics
+
+- ConnectApi.BaseOutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_base_output.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​OrderItemSummary​OutputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_order_item_summary_output.htm)

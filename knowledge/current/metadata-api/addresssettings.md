@@ -5,11 +5,19 @@ topic: addresssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.364Z
-keywords: [AddressSettings, Declarative, Metadata, File, Suffix, Directory, Location, Version, Salesforce, CLI, Usage, CountriesAndStates, Note, Country, State, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:36.651Z
+estimatedTokens: 1813
+keywords: [AddressSettings, Represents, configuration, country, territory, state, picklists., component, configure, data, organization, convert, text-based, values, standard, picklist, values., Setup, enter, State]
 ---
 
 # AddressSettings
+
+> Represents the configuration of country/territory
+      and state picklists. Use the AddressSettings component type to configure state and
+    country/territory data in your organization so that you can convert text-based values into
+    standard picklist values. To convert your state and country/territory values, from Setup, enter
+      State and Country/Territory Picklists in the Quick Find box, then
+    select State and Country/Territory Picklists.
 
 # AddressSettings
 
@@ -84,3 +92,82 @@ The following is sample XML that configures state and country picklists for the 
 ## Wildcard Support in the Manifest File
 
 The wildcard character \* (asterisk) in the package.xml manifest file doesn’t apply to metadata types for feature settings. The wildcard applies only when retrieving all settings, not for an individual setting. For details, see [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type."). For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+  <countriesAndStates>
+    <countries>
+      <country>
+        <active>true</active>
+        <integrationValue>United States</integrationValue>
+        <isoCode>US</isoCode>
+        <label>United States</label>
+        <orgDefault>true</orgDefault>
+        <standard>true</standard>
+        <states>
+          <state>
+            <active>true</active>
+            <integrationValue>Alabama</integrationValue>
+            <isoCode>AL</isoCode>
+            <label>Alabama</label>
+            <standard>true</standard>
+            <visible>true</visible>
+          </state>
+          <state>
+            <active>true</active>
+            <integrationValue>Alaska</integrationValue>
+            <isoCode>AK</isoCode>
+            <label>Alaska</label>
+            <standard>true</standard>
+            <visible>true</visible>
+          </state>
+        </states>
+        <visible>true</visible>
+      </country>
+      <country>
+        <active>true</active>
+        <integrationValue>Canada</integrationValue>
+        <isoCode>CA</isoCode>
+        <label>Canada</label>
+        <orgDefault>false</orgDefault>
+        <states>
+          <state>
+            <active>true</active>
+            <integrationValue>Alberta</integrationValue>
+            <isoCode>AB</isoCode>
+            <label>Alberta</label>
+             <standard>true</standard>
+             <visible>true</visible>
+          </state>
+          <state>
+            <active>true</active>
+            <integrationValue>British Columbia</integrationValue>
+            <isoCode>BC</isoCode>
+            <label>British Columbia</label>
+            <standard>true</standard>
+            <visible>true</visible>
+          </state>
+        </states>
+        <visible>true</visible>
+      </country>
+      <country>
+        <active>true</active>
+        <integrationValue>Greenland</integrationValue>
+        <isoCode>GL</isoCode>
+        <label>Greenland</label>
+        <standard>true</standard>
+        <visible>false</visible>
+      </country>
+    </countries>
+  </countriesAndStates>
+</AddressSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

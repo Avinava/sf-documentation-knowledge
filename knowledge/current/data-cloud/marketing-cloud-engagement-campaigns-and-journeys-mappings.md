@@ -5,11 +5,19 @@ topic: marketing-cloud-engagement-campaigns-and-journeys-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.669Z
-keywords: [Marketing, Cloud, Engagement, Campaigns, Journeys, Mappings, DLO, DMO, Mapping, SFMC, Campaign, Data, Stream, Email, Publication, Template, Journey, Activity, Push, SMS]
+lastCollected: 2026-03-12T05:14:14.459Z
+estimatedTokens: 1111
+keywords: [Marketing, Cloud, Engagement, Campaigns, Journeys, Mappings, After, data, stream, deployed, starter, bundle, automatically, maps, model, objects, DMO, Data, Cloud., includes]
 ---
 
 # Marketing Cloud Engagement: Campaigns and Journeys Mappings
+
+> After a data stream is deployed, the Marketing Cloud Engagement
+         starter data bundle automatically maps data from Marketing Cloud Engagement to data model
+         objects (DMO)s in Data Cloud. The Campaigns and Journeys data
+         includes the following DLOs and associated data streams: SFMC Campaign, SFMC Email
+         Publication, SFMC Email Template, SFMC Journey, SFMC Journey Activity, SFMC Push Template,
+         SFMC SMS Template, and SFMC WhatsApp Message Template.
 
 # Marketing Cloud Engagement: Campaigns and Journeys Mappings
 

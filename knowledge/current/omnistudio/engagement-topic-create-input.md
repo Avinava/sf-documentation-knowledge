@@ -5,11 +5,15 @@ topic: engagement-topic-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.244Z
-keywords: [Engagement, Topic, Create, Input]
+lastCollected: 2026-03-12T05:14:48.348Z
+estimatedTokens: 447
+keywords: [Engagement, Topic, Create, Input, representation, create, engagement, topic, record.]
 ---
 
 # Engagement Topic Create Input
+
+> Input representation to create an engagement topic
+    record.
 
 # Engagement Topic Create Input
 
@@ -42,3 +46,63 @@ Properties
 | processType | String | The type of the process executed during the engagement interaction. | Optional | 55.0 |
 | relatedPersonId | String | The person for whom an engagement interaction was initiated. | Optional | 55.0 |
 | topicId | String | The engagement topic record that’s associated with the parent engagement topic. | Optional | 55.0 |
+
+## Code Examples
+
+```
+{
+  "engagementTopics": {
+    "topicId": "testTopicId",
+    "relatedPersonId": "testRelatedPersonId",
+    "name": "fee reversal",
+    "parentTopicId": "testParentTopicId",
+    "processName": "Card Fee Reversal",
+    "processType": "Flow",
+    "processStatus": "Completed",
+    "interactionSummary": "Summary",
+    "processFailureReason": "unknown",
+    "customFieldsList": [
+      {
+        "key": "sampleCheckbox__c",
+        "value": true
+      },
+      {
+        "key": "sampleDate__c",
+        "value": "06/17/2022"
+      },
+      {
+        "key": "sampleDateTime__c",
+        "value": "2022-04-17T12:00:00.000Z"
+      },
+      {
+        "key": "sampleEmail__c",
+        "value": "sample@email.com"
+      },
+      {
+        "key": "sampleLocation__c",
+        "value": {
+          "latitude": 12,
+          "longitude": 17
+        }
+      },
+      {
+        "key": "sampleNumber__c",
+        "value": 1706
+      },
+      {
+        "key": "samplePercentage__c",
+        "value": 17
+      },
+      {
+        "key": "samplePhoneNumber__c",
+        "value": "1234567890"
+      }
+    ]
+  }
+}
+```
+
+## Related Topics
+
+- Engagement
+                                                Custom Fields Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_custom_fields_input.htm)

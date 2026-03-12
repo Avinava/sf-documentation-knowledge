@@ -4,12 +4,15 @@ domain: apex-guide
 topic: considerations-for-using-the-webservice-keyword
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.772Z
-keywords: [Considerations, webservice, Keyword]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.229Z
+estimatedTokens: 682
+keywords: [Considerations, webservice, Keyword, invoke, Web, service, AJAX., information, Apex]
 ---
 
 # Considerations for Using the webservice Keyword
+
+> You can invoke this Web service using AJAX. For more information, see Apex in AJAX.
 
 # Considerations for Using the webservice Keyword
 
@@ -48,3 +51,57 @@ The following example shows a class with Web service member variables and a Web 
 ```
 
 You can invoke this Web service using AJAX. For more information, see [Apex in AJAX](atlas.en-us.apexcode.meta/apexcode/apex_and_ajax.htm "The AJAX toolkit includes built-in support for invoking Apex through anonymous blocks or public webservice methods.").
+
+## Code Examples
+
+```apex
+global class SpecialAccounts {
+
+  global class AccountInfo {
+     webservice String AcctName;
+     webservice Integer AcctNumber;
+  }
+
+  webservice static Account createAccount(AccountInfo info) {
+    Account acct = new Account();
+    acct.Name = info.AcctName;
+    acct.AccountNumber = String.valueOf(info.AcctNumber);
+    insert acct;
+    return acct;
+  }
+
+  webservice static Id [] createAccounts(Account parent, 
+       Account child, Account grandChild) {
+
+        insert parent;
+        child.parentId = parent.Id;
+        insert child;
+        grandChild.parentId = child.Id;
+        insert grandChild;
+
+        Id [] results = new Id[3];
+        results[0] = parent.Id;
+        results[1] = child.Id;
+        results[2] = grandChild.Id;
+        return results;
+    }
+}
+```
+
+```apex
+// Test class for the previous class.
+@isTest
+private class SpecialAccountsTest {
+  testMethod static void testAccountCreate() {
+    SpecialAccounts.AccountInfo info = new SpecialAccounts.AccountInfo();
+    info.AcctName = 'Manoj Cheenath';
+    info.AcctNumber = 12345;
+    Account acct = SpecialAccounts.createAccount(info);
+    System.assert(acct != null);
+  }
+}
+```
+
+## Related Topics
+
+- Apex in AJAX (atlas.en-us.apexcode.meta/apexcode/apex_and_ajax.htm)

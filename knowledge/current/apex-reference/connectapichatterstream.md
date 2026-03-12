@@ -5,11 +5,14 @@ topic: connectapichatterstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.838Z
-keywords: [ConnectApi.ChatterStream, See]
+lastCollected: 2026-03-12T05:14:27.405Z
+estimatedTokens: 201
+keywords: [ConnectApi.ChatterStream, Chatter, feed, stream.]
 ---
 
 # ConnectApi.ChatterStream
+
+> A Chatter feed stream.
 
 # ConnectApi.ChatterStream
 
@@ -28,3 +31,12 @@ A Chatter feed stream.
 #### See Also
 
 -   [ConnectApi.ChatterStreamPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_stream_collection.htm "A collection of Chatter feed streams.")
+
+## Related Topics
+
+- ConnectApi.CommunitySummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_community_summary.htm)
+- Datetime (atlas.en-us.apexref.meta/apexref/apex_methods_system_datetime.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.FeedEnabledEntity (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_enabled_entity_summary.htm)
+- ConnectApi.ChatterStreamPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_stream_collection.htm)

@@ -5,11 +5,14 @@ topic: connectapiocireleasereservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.370Z
-keywords: [ConnectApi.OCIReleaseReservationSingleInputRepresentation]
+lastCollected: 2026-03-12T05:14:25.244Z
+estimatedTokens: 286
+keywords: [ConnectApi.OCIReleaseReservationSingleInputRepresentation, single, inventory, reservation, release.]
 ---
 
 # ConnectApi.OCIReleaseReservationSingleInputRepresentation
+
+> A single inventory reservation to release.
 
 # ConnectApi.OCIReleaseReservationSingleInputRepresentation
 
@@ -24,3 +27,8 @@ A single inventory reservation to release.
 | quantity | Double | The quantity of reserved inventory to release. | Required | 51.0 |
 | reservationId | String | The ID of the inventory reservation. | Optional | 58.0 |
 | stockKeepingUnit | String | The SKU of the product to release. | Required | 51.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Double (atlas.en-us.apexref.meta/apexref/apex_methods_system_double.htm)

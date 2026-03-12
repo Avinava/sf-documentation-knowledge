@@ -5,11 +5,17 @@ topic: recommendationstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.264Z
-keywords: [RecommendationStrategy, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, StrategyNodeBase, StrategyAction, StrategyActionArg, StrategyNodeUnionBase, StrategyNodeFilter, StrategyNodeIf, IfExpression, StrategyNodeInvocableAction, StrategyNodeInvocableActionArg, StrategyNodeRecommendationLimit]
+lastCollected: 2026-03-12T05:14:42.205Z
+estimatedTokens: 18057
+keywords: [RecommendationStrategy, Represents, recommendation, strategy., Recommendation, strategies, applications, similar, data, flows, determine, set, recommendations, delivered, client, through, retrieval, branching, logic, operations.]
 ---
 
 # RecommendationStrategy
+
+> Represents a recommendation strategy.
+      Recommendation strategies are applications, similar to data flows, that determine a set of
+      recommendations to be delivered to the client through data retrieval, branching, and logic
+      operations.
 
 # RecommendationStrategy
 
@@ -229,3 +235,134 @@ The following is an example of a RecommendationStrategy component that reference
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RecommendationStrategy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contextRecordType>Asset</contextRecordType>
+    <description>Hills Brothers Coffee strategy to handle machine down incidents</description>
+    <if>
+        <childNode>IfNoEscaladeOrBetterSupport</childNode>
+        <childNode>IfModel</childNode>
+        <description>If Machine Down</description>
+        <label>RootNode</label>
+        <name>RootNode</name>
+        <childNodeExpression>
+            <childName>IfModel</childName>
+            <expression>ISPICKVAL($Record.Status, &quot;OutOfOrder&quot;)</expression>
+        </childNodeExpression>
+        <childNodeExpression>
+            <childName>IfNoEscaladeOrBetterSupport</childName>
+            <expression>ISPICKVAL($Record.Status, &quot;OutOfOrder&quot;)</expression>
+        </childNodeExpression>
+        <onlyFirstMatch>false</onlyFirstMatch>
+    </if>
+    <if>
+        <childNode>LoadEscalade</childNode>
+        <description>If Customer does not have escalade support plan</description>
+        <label>IfNoEscaladeOrBetterSupport</label>
+        <name>IfNoEscaladeOrBetterSupport</name>
+        <childNodeExpression>
+            <childName>LoadEscalade</childName>
+            <expression>NOT(ISPICKVAL($Record.Account.SLA__c, &quot;Gold&quot;) || ISPICKVAL($Record.Account.SLA__c, &quot;Platinum&quot;))</expression>
+        </childNodeExpression>
+        <onlyFirstMatch>false</onlyFirstMatch>
+    </if>
+    <if>
+        <childNode>LoadMiniDiagnostic</childNode>
+        <childNode>LoadMaxiDiagnostic</childNode>
+        <description>If Machine Model switch node</description>
+        <label>IfModel</label>
+        <name>IfModel</name>
+        <childNodeExpression>
+            <childName>LoadMiniDiagnostic</childName>
+            <expression>$Record.Product2.Name == &quot;Mini Coffee Roaster&quot;</expression>
+        </childNodeExpression>
+        <childNodeExpression>
+            <childName>LoadMaxiDiagnostic</childName>
+            <expression>$Record.Product2.Name == &quot;Maxi Coffee Roaster&quot;</expression>
+        </childNodeExpression>
+        <onlyFirstMatch>false</onlyFirstMatch>
+    </if>
+    <label>HillsBrothersCoffee</label>
+    <recommendationLoad>
+        <description>Load upgrade to escalade support plan</description>
+        <label>LoadEscalade</label>
+        <name>LoadEscalade</name>
+        <condition>
+            <field>Name</field>
+            <operator>EQUALS</operator>
+            <value>
+                <type>TEXT</type>
+                <value>Upgrade your Maintenance Package</value>
+            </value>
+        </condition>
+        <conditionLogic>and</conditionLogic>
+    </recommendationLoad>
+    <recommendationLoad>
+        <description>Load Mini Coffee Roaster Diagnostic Troubleshooting proposition</description>
+        <label>LoadMiniDiagnostic</label>
+        <name>LoadMiniDiagnostic</name>
+        <condition>
+            <field>Name</field>
+            <operator>EQUALS</operator>
+            <value>
+                <type>TEXT</type>
+                <value>Mini Coffee Roaster Diagnostic Troubleshooting</value>
+            </value>
+        </condition>
+        <conditionLogic>and</conditionLogic>
+    </recommendationLoad>
+    <recommendationLoad>
+        <description>Load Maxi Coffee Roaster Diagnostic Troubleshooting proposition</description>
+        <label>LoadMaxiDiagnostic</label>
+        <name>LoadMaxiDiagnostic</name>
+        <condition>
+            <field>Name</field>
+            <operator>EQUALS</operator>
+            <value>
+                <type>TEXT</type>
+                <value>Maxi Coffee Roaster Diagnostic Troubleshooting</value>
+            </value>
+        </condition>
+        <conditionLogic>and</conditionLogic>
+    </recommendationLoad>
+    <union>
+        <childNode>RootNode</childNode>
+        <label>Output</label>
+        <name>Output</name>
+    </union>
+    <invocableAction>
+        <action>MyInvocableApexClass</action>
+        <isGenerator>true</isGenerator>
+        <type>apex</type>
+        <argument>
+            <name>MyNameParam</name>
+            <value>$User.FirstName</value>
+        </argument>
+        <argument>
+            <name>MyIdParam</name>
+            <value>$Record.Id</value>
+        </argument>
+    </invocableAction>
+    <map>
+        <expression>
+            <name>Name</name>
+            <expression>'Hello' & $User.FirstName</expression>
+            <type>TEXT</type>
+        </expression>
+        <expression>
+            <name>MyDynamicField</name>
+            <expression>Id == $Record.Id</expression>
+            <type>BOOLEAN</type>
+        </expression>
+    </map>
+</RecommendationStrategy>
+```
+
+## Related Topics
+
+- QuickAction (atlas.en-us.api_meta.meta/api_meta/meta_quickaction.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

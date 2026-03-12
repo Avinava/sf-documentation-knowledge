@@ -5,11 +5,14 @@ topic: rest-api-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.087Z
-keywords: [REST, API, Architecture, Note]
+lastCollected: 2026-03-12T05:14:35.173Z
+estimatedTokens: 872
+keywords: [REST, API, Architecture, follows, standard, RESTful, principles, characteristics., Note]
 ---
 
 # REST API Architecture
+
+> REST API follows the standard RESTful principles and characteristics.
 
 # REST API Architecture
 
@@ -86,3 +89,11 @@ The \_HttpMethod parameter is case-sensitive. Use the correct case for all value
 HTTPS
 
 All communication between client and server is over HTTPS.
+
+## Code Examples
+
+```
+POST https://instance_name/services/data/v66.0/chatter/
+/chatter/users/me/conversations/03MD0000000008KMAQ
+?_HttpMethod=PATCH&read=true
+```

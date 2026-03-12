@@ -5,11 +5,15 @@ topic: process-for-using-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.908Z
-keywords: [Process, Asynchronous, Callouts, Invoking, Callout, Action, Method, Note, Defining, Callback, See]
+lastCollected: 2026-03-12T05:14:33.078Z
+estimatedTokens: 1079
+keywords: [Process, Asynchronous, Callouts, asynchronous, callouts, create, Continuation, action, controller, implement, callback, method., Invoking, Callout, Action, Note, Defining, Callback]
 ---
 
 # Process for Using Asynchronous Callouts
+
+> To use asynchronous callouts, create a Continuation object in an action method of a controller, and implement a callback
+    method.
 
 # Process for Using Asynchronous Callouts
 
@@ -86,3 +90,30 @@ If the continuationMethod property isn’t set for a continuation, the same acti
 #### See Also
 
 -   [*Apex Reference Guide*: Continuation Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_Continuation.htm "Apex Reference Guide: Continuation Class - HTML (New Window)")
+
+## Code Examples
+
+```
+Continuation cont = new Continuation(60);
+cont.continuationMethod = 'processResponse';
+```
+
+```
+String requestLabel = cont.addHttpRequest(request);
+```
+
+```apex
+public Object calloutActionMethodName()
+```
+
+```apex
+public Object callbackMethodName()
+```
+
+```apex
+public static Object callbackMethodName(List< String> labels, Object state)
+```
+
+## Related Topics
+
+- Making an Asynchronous Callout from an Imported WSDL (atlas.en-us.apexcode.meta/apexcode/apex_continuation_callout_soap.htm)

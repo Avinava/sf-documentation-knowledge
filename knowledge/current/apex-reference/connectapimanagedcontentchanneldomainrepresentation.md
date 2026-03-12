@@ -5,11 +5,14 @@ topic: connectapimanagedcontentchanneldomainrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.096Z
-keywords: [ConnectApi.ManagedContentChannelDomainRepresentation, See]
+lastCollected: 2026-03-12T05:14:27.723Z
+estimatedTokens: 159
+keywords: [ConnectApi.ManagedContentChannelDomainRepresentation, Domain, associated, managed, content, channel.]
 ---
 
 # ConnectApi.ManagedContentChannelDomainRepresentation
+
+> Domain associated with a managed content channel.
 
 # ConnectApi.ManagedContentChannelDomainRepresentation
 
@@ -24,3 +27,9 @@ Domain associated with a managed content channel.
 #### See Also
 
 -   [ConnectApi.ManagedContentChannel](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel.htm "Managed content channel.")
+
+## Related Topics
+
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ManagedContentChannel (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_managed_content_channel.htm)

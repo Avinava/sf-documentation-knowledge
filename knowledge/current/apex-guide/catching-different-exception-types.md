@@ -5,11 +5,18 @@ topic: catching-different-exception-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:47.117Z
-keywords: [Catching, Different, Exception, Types]
+lastCollected: 2026-03-12T05:14:33.370Z
+estimatedTokens: 510
+keywords: [Catching, Different, Exception, Types, previous, examples, used, specific, exception, catch, block., could, just, caught, generic, which, catches, types., example, try]
 ---
 
 # Catching Different Exception Types
+
+> In the previous examples, we used the specific exception type in
+the catch block. We could have also just caught the generic Exception
+type in all examples, which catches all exception types. For example,
+try running this example that throws an SObjectException and has a
+catch statement with an argu
 
 # Catching Different Exception Types
 
@@ -35,4 +42,45 @@ The last catch block is handy because it catches any exception type, and so catc
 
 ```
 
+```
+
+## Code Examples
+
+```apex
+try {
+    Merchandise__c m = [SELECT Name FROM Merchandise__c LIMIT 1];
+    // Causes an SObjectException because we didn't retrieve
+    // the Total_Inventory__c field.
+    Double inventory = m.Total_Inventory__c;
+} catch(Exception e) {
+    System.debug('The following exception has occurred: ' + e.getMessage());    
+}
+```
+
+```apex
+try {
+    Merchandise__c m = [SELECT Name FROM Merchandise__c LIMIT 1];
+    // Causes an SObjectException because we didn't retrieve
+    // the Total_Inventory__c field.
+    Double inventory = m.Total_Inventory__c;
+} catch(DmlException e) {
+    System.debug('DmlException caught: ' + e.getMessage());    
+} catch(SObjectException e) {
+    System.debug('SObjectException caught: ' + e.getMessage());    
+} catch(Exception e) {
+    System.debug('Exception caught: ' + e.getMessage());    
+}
+```
+
+```apex
+try {
+    String s;
+    Boolean b = s.contains('abc'); // Causes a NullPointerException
+} catch(DmlException e) {
+    System.debug('DmlException caught: ' + e.getMessage());    
+} catch(SObjectException e) {
+    System.debug('SObjectException caught: ' + e.getMessage());    
+} catch(Exception e) {
+    System.debug('Exception caught: ' + e.getMessage());    
+}
 ```

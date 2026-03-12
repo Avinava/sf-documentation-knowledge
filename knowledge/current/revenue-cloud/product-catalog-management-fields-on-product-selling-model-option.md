@@ -5,11 +5,16 @@ topic: product-catalog-management-fields-on-product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.617Z
-keywords: [Product, Catalog, Management, Fields, Selling, Model, Option, See]
+lastCollected: 2026-03-12T05:14:09.025Z
+estimatedTokens: 211
+keywords: [Product, Catalog, Management, Fields, Selling, Model, Option, Standard, custom, fields, extend, standard, Management., API, version, 60.0, later.]
 ---
 
 # Product Catalog Management Fields on Product Selling Model Option
+
+> Standard and custom fields extend the standard Product Selling Model
+         Option object for use in Product Catalog Management. This object is available in API
+      version 60.0 and later.
 
 # Product Catalog Management Fields on Product Selling Model Option
 

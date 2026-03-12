@@ -5,11 +5,14 @@ topic: connectapicdpcalculatedinsightpagedata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.198Z
-keywords: [ConnectApi.CdpCalculatedInsightPageData, See]
+lastCollected: 2026-03-12T05:14:26.441Z
+estimatedTokens: 306
+keywords: [ConnectApi.CdpCalculatedInsightPageData, Calculated, insight, collection, data.]
 ---
 
 # ConnectApi.CdpCalculatedInsightPageData
+
+> Calculated insight collection data.
 
 # ConnectApi.CdpCalculatedInsightPageData
 
@@ -30,3 +33,11 @@ Calculated insight collection data.
 #### See Also
 
 -   [ConnectApi.CdpCalculatedInsightPage](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight_collection.htm "Collection of calculated insights.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​CdpCalculated​InsightOutput (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight.htm)
+- ConnectApi.CdpCalculatedInsightPage (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_calculated_insight_collection.htm)

@@ -5,11 +5,18 @@ topic: upserting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:48.084Z
-keywords: [Upserting, Records, Note, Examples]
+lastCollected: 2026-03-12T05:14:34.712Z
+estimatedTokens: 801
+keywords: [Upserting, Records, Custom, field, matching, case-insensitive, only, custom, Unique, Treat, "ABC", "abc", duplicate, values, case, insensitive, attributes, selected, part, definition.]
 ---
 
 # Upserting Records
+
+> Custom field matching is case-insensitive only if the custom field has the
+               Unique and Treat "ABC" and "abc" as duplicate
+               values (case insensitive) attributes selected as part of the field
+            definition. If this is the case, “ABC123” is matched with
+            
 
 # Upserting Records
 
@@ -62,3 +69,132 @@ External ID fields used in upsert calls must be unique or the user must have the
 ```
 
 ```
+
+## Code Examples
+
+```
+Account[] acctsList = [SELECT Id, Name, BillingCity
+                        FROM Account WHERE BillingCity = 'Bombay'];
+for (Account a : acctsList) {
+    a.BillingCity = 'Mumbai';
+}
+Account newAcct = new Account(Name = 'Acme', BillingCity = 'San Francisco');
+acctsList.add(newAcct);
+try {
+    upsert acctsList;
+} catch (DmlException e) {
+    // Process exception here
+}
+```
+
+```apex
+/* This class demonstrates and tests the use of the
+ * partial processing DML operations */ 
+
+public class DmlSamples {
+
+   /* This method accepts a collection of lead records and 
+      creates a task for the owner(s) of any leads that were 
+      created as new, that is, not updated as a result of the upsert
+      operation */
+   public static List<Database.upsertResult> upsertLeads(List<Lead> leads)  {
+
+      /* Perform the upsert. In this case the unique identifier for the
+         insert or update decision is the Salesforce record ID. If the 
+         record ID is null the row will be inserted, otherwise an update
+         will be attempted. */
+      List<Database.upsertResult> uResults = Database.upsert(leads,false);
+
+      /* This is the list for new tasks that will be inserted when new 
+         leads are created. */
+      List<Task> tasks = new List<Task>();
+      for(Database.upsertResult result:uResults) {
+         if (result.isSuccess() && result.isCreated()) 
+              tasks.add(new Task(Subject = 'Follow-up', WhoId = result.getId()));
+      }
+
+      /* If there are tasks to be inserted, insert them */
+      Database.insert(tasks);
+
+      return uResults;
+   }
+}
+```
+
+```apex
+@isTest
+private class DmlSamplesTest {
+   public static testMethod void testUpsertLeads() {
+        /* We only need to test the insert side of upsert */
+      List<Lead> leads = new List<Lead>();
+
+      /* Create a set of leads for testing */
+      for(Integer i = 0;i < 100; i++) {
+         leads.add(new Lead(LastName = 'testLead', Company = 'testCompany'));
+      }
+
+      /* Switch to the runtime limit context */
+      Test.startTest();
+
+      /* Exercise the method */
+      List<Database.upsertResult> results = DmlSamples.upsertLeads(leads);
+
+      /* Switch back to the test context for limits */
+      Test.stopTest();
+
+      /* ID set for asserting the tasks were created as expected */
+      Set<Id> ids = new Set<Id>();
+
+      /* Iterate over the results, asserting success and adding the new ID
+         to the set for use in the comprehensive assertion phase below. */
+      for(Database.upsertResult result:results) {
+         System.assert(result.isSuccess());
+         ids.add(result.getId());
+      }
+
+      /* Assert that exactly one task exists for each lead that was inserted. */
+      for(Lead l:[SELECT Id, (SELECT Subject FROM Tasks) FROM Lead WHERE Id IN :ids]) {
+         System.assertEquals(1,l.tasks.size());
+      }
+   }
+}
+```
+
+```apex
+public void upsertExample() {
+    Opportunity opp = [SELECT Id, Name, AccountId, 
+                              (SELECT Id, PricebookEntry.Product2Id, PricebookEntry.Name 
+                               FROM OpportunityLineItems)
+                       FROM Opportunity 
+                       WHERE HasOpportunityLineItem = true 
+                       LIMIT 1]; 
+
+    Asset[] assets = new Asset[]{}; 
+
+    // Create an asset for each line item on the opportunity
+    for (OpportunityLineItem lineItem:opp.OpportunityLineItems) {
+
+        //This code populates the line item Id, AccountId, and Product2Id for each asset
+        Asset asset = new Asset(Name = lineItem.PricebookEntry.Name,
+                                Line_Item_ID__c = lineItem.Id,
+                                AccountId = opp.AccountId,
+                                Product2Id = lineItem.PricebookEntry.Product2Id);
+
+        assets.add(asset);
+    }
+ 
+    try {
+        upsert assets Line_Item_ID__c;  // This line upserts the assets list with
+                                        // the Line_Item_Id__c field specified as the 
+                                        // Asset field that should be used for matching
+                                        // the record that should be upserted. 
+    } catch (DmlException e) {
+        System.debug(e.getMessage());
+    }
+}
+```
+
+## Related Topics
+
+- Execution
+               Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)

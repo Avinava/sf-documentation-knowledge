@@ -5,11 +5,15 @@ topic: expression-set-version-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.497Z
-keywords: [Expression, Set, Version, Step]
+lastCollected: 2026-03-12T05:14:50.241Z
+estimatedTokens: 1110
+keywords: [Expression, Set, Version, Step, Output, representation, step, expression, set, version.]
 ---
 
 # Expression Set Version Step
+
+> Output representation of a step in an expression set
+    version.
 
 # Expression Set Version Step
 
@@ -40,3 +44,22 @@ Output representation of a step in an expression set version.
 | should​ShowExpl​Externally | Boolean | Indicates whether the decision explanation is exposed to community users for the step (true) or not (false). | Small, 58.0 | 58.0 |
 | step​Type | String | Step type of the expression set.Valid values are:Advanced​ConditionBranchBusiness​Knowledge​ModelConditionDefaultPathSubExpression | Small, 58.0 | 58.0 |
 | sub​Expression | Expression Set SubExpression Step | Details of the subexpression set in case of a subexpression step. | Small, 58.0 | 58.0 |
+
+## Related Topics
+
+- Expression Set Advanced Condition
+                                    Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_advanced_condition_step_output.htm)
+- Expression Set Aggregation
+                                Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_aggregation_step_output.htm)
+- Expression Set Assignment
+                                Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_assignment_step_output.htm)
+- Expression Set Condition Expression
+                                    Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_condition_expression_step_output.htm)
+- Expression Set Custom Element
+                                Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_custom_element_step_output.htm)
+- Expression Set DES Token
+                                Mapping (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_des_token_mapping.htm)
+- Expression Set Lookup Table
+                                Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_lookup_table_step_output.htm)
+- Expression Set SubExpression
+                                Step (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_expression_set_sub_expression_step_output.htm)

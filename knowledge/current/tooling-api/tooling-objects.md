@@ -5,11 +5,15 @@ topic: tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:37.069Z
-keywords: [Tooling, Objects]
+lastCollected: 2026-03-12T05:14:44.421Z
+estimatedTokens: 1048
+keywords: [Tooling, Objects, objects, build, tools, around, test, results, debugging, code, coverage, more.]
 ---
 
 # Tooling Objects
+
+> Use these objects to build tools around test results, debugging, code coverage, and
+    more.
 
 # Tooling Objects
 
@@ -62,3 +66,16 @@ A complex type that represents all user-defined tokens in the Body of an ApexCla
 [TraceFlag](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_traceflag.htm "Represents a trace flag that triggers an Apex debug log at the specified logging level.")
 
 Represents a trace flag that triggers an Apex debug log at the specified logging level.
+
+## Related Topics
+
+- ApexCodeCoverage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcodecoverage.htm)
+- ApexCodeCoverageAggregate (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcodecoverageaggregate.htm)
+- ApexExecutionOverlayAction (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexexecutionoverlayaction.htm)
+- ApexExecutionOverlayResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexexecutionoverlayresult.htm)
+- ApexLog (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexlog.htm)
+- ApexOrgWideCoverage (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexorgwidecoverage.htm)
+- ApexResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexresult.htm)
+- ApexTestQueueItem (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextestqueueitem.htm)
+- HeapDump (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_heapdump.htm)
+- SOQLResult (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_soqlresult.htm)

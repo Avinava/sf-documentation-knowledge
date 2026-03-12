@@ -5,11 +5,19 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:43:47.355Z
-keywords: [Metadata, See]
+lastCollected: 2026-03-12T05:14:33.710Z
+estimatedTokens: 596
+namespace: Metadata
+keywords: [Metadata, Salesforce, uses, metadata, types, components, represent, org, configuration, customization., used, settings, admins, control, information, applied, installed, apps, packages.]
 ---
 
 # Metadata
+
+> Salesforce uses metadata types and components to represent org configuration and
+    customization. Metadata is used for org settings that admins control, or configuration
+    information applied by installed apps and packages.
+
+**Namespace:** `Metadata`
 
 # Metadata
 
@@ -26,15 +34,22 @@ Metadata access in Apex is available for Apex classes using API version 40.0 and
 
 For more information on metadata types and components, see the [Metadata API Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_intro.htm "HTML (New Window)") and [Custom Metadata Types](https://help.salesforce.com/s/articleView?id=platform.custommetadatatypes_overview.htm&language=en_US "HTML (New Window)").
 
--   **[Retrieving and Deploying Metadata](atlas.en-us.apexcode.meta/apexcode/apex_metadata_retrieve_deploy.htm)**  
+-   **[Retrieving and Deploying Metadata](atlas.en-us.apexcode.meta/apexcode/apex_metadata_retrieve_deploy.htm)**
     Retrieve and deploy metadata by using the Metadata.Operations class.
--   **[Supported Metadata Types](atlas.en-us.apexcode.meta/apexcode/apex_metadata_supported_types.htm)**  
+-   **[Supported Metadata Types](atlas.en-us.apexcode.meta/apexcode/apex_metadata_supported_types.htm)**
     Apex supports a subset of metadata types and components.
--   **[Security Considerations](atlas.en-us.apexcode.meta/apexcode/apex_metadata_security.htm)**  
+-   **[Security Considerations](atlas.en-us.apexcode.meta/apexcode/apex_metadata_security.htm)**
     Be aware of security considerations when using Apex to access metadata.
--   **[Testing Metadata Deployments](atlas.en-us.apexcode.meta/apexcode/apex_metadata_testing.htm)**  
+-   **[Testing Metadata Deployments](atlas.en-us.apexcode.meta/apexcode/apex_metadata_testing.htm)**
     Apex code that accesses metadata must be properly tested.
 
 #### See Also
 
 -   [*Apex Reference Guide*: Metadata Namespace](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_namespace_Metadata.htm "Apex Reference Guide: Metadata Namespace - HTML (New Window)")
+
+## Related Topics
+
+- Retrieving and Deploying Metadata (atlas.en-us.apexcode.meta/apexcode/apex_metadata_retrieve_deploy.htm)
+- Supported Metadata Types (atlas.en-us.apexcode.meta/apexcode/apex_metadata_supported_types.htm)
+- Security Considerations (atlas.en-us.apexcode.meta/apexcode/apex_metadata_security.htm)
+- Testing Metadata Deployments (atlas.en-us.apexcode.meta/apexcode/apex_metadata_testing.htm)

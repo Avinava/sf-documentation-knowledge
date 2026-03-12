@@ -5,11 +5,14 @@ topic: connectapicontenthubrepository
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.456Z
-keywords: [ConnectApi.ContentHubRepository, See]
+lastCollected: 2026-03-12T05:14:26.835Z
+estimatedTokens: 235
+keywords: [ConnectApi.ContentHubRepository, repository.]
 ---
 
 # ConnectApi.ContentHubRepository
+
+> A repository.
 
 # ConnectApi.ContentHubRepository
 
@@ -29,3 +32,12 @@ Subclass of [ConnectApi.ActorWithId](atlas.en-us.apexref.meta/apexref/apex_conne
 #### See Also
 
 -   [ConnectApi.ContentHubRepositoryCollection](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository_collection.htm "A collection of repositories.")
+
+## Related Topics
+
+- ConnectApi.ActorWithId (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actorWithIdOutput.htm)
+- ConnectApi.ContentHubRepositoryAuthentication (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository_authentication.htm)
+- ConnectApi.​ContentHub​RepositoryFeatures (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository_features.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​ContentHub​ProviderType (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_provider_type.htm)
+- ConnectApi.ContentHubRepositoryCollection (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository_collection.htm)

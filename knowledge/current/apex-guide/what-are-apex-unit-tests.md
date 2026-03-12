@@ -4,12 +4,18 @@ domain: apex-guide
 topic: what-are-apex-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-11T15:43:47.652Z
-keywords: [Apex, Unit, Tests?, Note, Test, Considerations, See]
+docType: concept
+lastCollected: 2026-03-12T05:14:34.100Z
+estimatedTokens: 1450
+keywords: [Apex, Unit, Tests?, facilitate, development, robust, error-free, code, supports, creation, execution, unit, tests., tests, verify, whether, particular, piece, working, properly.]
 ---
 
 # What Are Apex Unit Tests?
+
+> To facilitate the development of robust, error-free code, Apex supports the creation and
+            execution of unit tests. Unit tests are class methods that verify whether a
+            particular piece of code is working properly. Unit test methods take no arguments,
+            commit no data t
 
 # What Are Apex Unit Tests?
 
@@ -66,9 +72,126 @@ Here are some things to note about unit tests.
 -   Tracked changes for a record (FeedTrackedChange records) in Chatter feeds aren't available when test methods modify the associated record. FeedTrackedChange records require the change to the parent record they're associated with to be committed to the database before they're created. Since test methods don't commit data, they don't result in the creation of FeedTrackedChange records. Similarly, field history tracking records can't be created in test methods because they require other sObject records to be committed first. For example, AccountHistory records can’t be created in test methods because Account records must be committed first.
 -   If your tests include DML, make sure that you don’t exceed the MAX\_DML\_ROWS limit. See “Miscellaneous Apex Limits” in [Execution Governors and Limits](atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm "Because Apex runs in a multitenant environment, the Apex runtime engine strictly enforces limits so that runaway Apex code or processes don’t monopolize shared resources. If some Apex code exceeds a limit, the associated governor issues a runtime exception that can’t be handled.")
 
-1.  [Accessing Private Test Class Members](atlas.en-us.apexcode.meta/apexcode/apex_testing_testvisible.htm)  
-    
+1.  [Accessing Private Test Class Members](atlas.en-us.apexcode.meta/apexcode/apex_testing_testvisible.htm)
+
 
 #### See Also
 
 -   [IsTest Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)
+
+## Code Examples
+
+```apex
+@IsTest
+private class myClass {
+    @IsTest
+    static void myTest() {
+        // code_block
+    }
+}
+```
+
+```apex
+@IsTest
+private class MyTestClass {
+
+   // Methods for testing
+   @IsTest
+   static void test1() {
+      // Implement test code
+   }
+
+   @IsTest
+   static void test2() {
+      // Implement test code
+   }
+
+}
+```
+
+```apex
+public class TVRemoteControl {
+    // Volume to be modified
+    Integer volume;
+    // Constant for maximum volume value
+    static final Integer MAX_VOLUME = 50;    
+    
+    // Constructor
+    public TVRemoteControl(Integer v) {
+        // Set initial value for volume
+        volume = v;
+    }
+        
+    public Integer increaseVolume(Integer amount) {
+        volume += amount;
+        if (volume > MAX_VOLUME) {
+            volume = MAX_VOLUME;
+        } 
+        return volume;
+    }
+    
+    public Integer decreaseVolume(Integer amount) {
+        volume -= amount;
+        if (volume < 0) {
+            volume = 0;
+        }  
+        return volume;
+    }    
+    
+    public static String getMenuOptions() {
+        return 'AUDIO SETTINGS - VIDEO SETTINGS';
+    }
+       
+}
+```
+
+```apex
+@IsTest
+class TVRemoteControlTest {
+    @IsTest 
+    static void testVolumeIncrease() {
+        TVRemoteControl rc = new TVRemoteControl(10);
+        Integer newVolume = rc.increaseVolume(15);
+        System.assertEquals(25, newVolume);
+    }
+    
+    @IsTest
+    static void testVolumeDecrease() {
+        TVRemoteControl rc = new TVRemoteControl(20);
+        Integer newVolume = rc.decreaseVolume(15);
+        System.assertEquals(5, newVolume);        
+    } 
+        
+    @IsTest
+    static void testVolumeIncreaseOverMax() {
+        TVRemoteControl rc = new TVRemoteControl(10);
+        Integer newVolume = rc.increaseVolume(100);
+        System.assertEquals(50, newVolume);        
+    }
+    
+    @IsTest
+    static void testVolumeDecreaseUnderMin() {
+        TVRemoteControl rc = new TVRemoteControl(10);
+        Integer newVolume = rc.decreaseVolume(100);
+        System.assertEquals(0, newVolume);        
+    }
+    
+    @IsTest
+    static void testGetMenuOptions() {
+        // Static method call. No need to create a class instance.
+        String menu = TVRemoteControl.getMenuOptions();
+        System.assertNotEquals(null, menu);
+        System.assertNotEquals('', menu);
+    }
+}
+```
+
+## Related Topics
+
+- TestVisible (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testvisible.htm)
+- Test Web Service Callouts (atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_testing.htm)
+- Testing HTTP
+                        Callouts (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing.htm)
+- Execution Governors and Limits (atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm)
+- Accessing Private Test Class Members (atlas.en-us.apexcode.meta/apexcode/apex_testing_testvisible.htm)
+- IsTest Annotation (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)

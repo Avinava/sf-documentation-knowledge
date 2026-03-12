@@ -5,11 +5,14 @@ topic: connectapiactorwithid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.910Z
-keywords: [ConnectApi.ActorWithId, See]
+lastCollected: 2026-03-12T05:14:26.032Z
+estimatedTokens: 675
+keywords: [ConnectApi.ActorWithId, Actor, ID.]
 ---
 
 # ConnectApi.ActorWithId
+
+> Actor with ID.
 
 # ConnectApi.ActorWithId
 
@@ -39,11 +42,24 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.FeedElement](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_element.htm "Feed elements are the top-level items that a feed contains. Feeds are feed element containers.")
-    
+
 -   [ConnectApi.FeedEntitySummary](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_entity_summary.htm "The summary of a feed entity that is shared with a feed element.")
-    
+
 -   [ConnectApi.GroupRecord](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_GroupRecord.htm "A record associated with a group.")
-    
+
 -   [ConnectApi.MentionSegment](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_mention_msg_seg.htm "Mention segment.")
-    
+
 -   [ConnectApi.RecordSummaryList](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_recordSummaryList.htm "Summary information about a list of records in the organization including custom objects.")
+
+## Related Topics
+
+- ConnectApi.Actor (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_actor.htm)
+- ConnectApi.AbstractRecordView (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstractRecordView.htm)
+- ConnectApi.ArticleSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_article_summary.htm)
+- ConnectApi.ChatterGroup (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_chatter_group.htm)
+- ConnectApi.ContentHubRepository (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_content_hub_repository.htm)
+- ConnectApi.File (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_file.htm)
+- ConnectApi.RelatedFeedPost (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_abstract_related_feed_post.htm)
+- ConnectApi.User (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_User.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.​Motif (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_motif.htm)

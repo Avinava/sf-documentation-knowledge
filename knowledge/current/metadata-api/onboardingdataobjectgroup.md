@@ -5,11 +5,17 @@ topic: onboardingdataobjectgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:53.816Z
-keywords: [OnboardingDataObjectGroup, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, OnboardingDataObjGrpVer, OnbrdDataObjGrpDocCatgMap, OnboardingDataObject, OnboardingDataObjectField, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:41.528Z
+estimatedTokens: 1620
+keywords: [OnboardingDataObjectGroup, Represents, configuration, groups, fields, objects, specific, business, purpose., example, Customer, Contact, Information, onboarding, data, group, includes, Name, Email, Phone]
 ---
 
 # OnboardingDataObjectGroup
+
+> Represents a configuration that groups fields from
+			one or more objects for a specific business purpose. For example, the Customer Contact
+			Information onboarding data object group includes Name, Email, Phone Number, and
+			Address.
 
 # OnboardingDataObjectGroup
 
@@ -107,3 +113,227 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OnboardingDataObjectGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>description text</description>
+    <masterLabel>Field Group Valid Configuration</masterLabel>
+    <usageType>ValidityPeriod</usageType>
+    <versionDetail>
+        <computationType>StandardMinimumValidity</computationType>
+        <objectDetail>
+            <businessContext>KYC_VALIDITY</businessContext>
+            <fieldDetail>
+                <name>Status</name>
+            </fieldDetail>
+            <name>PartyFinancialAssetLien</name>
+            <pathToRoot>PartyFinancialAsset.PartyProfile.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>PartyFinancialAsset</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>KYC_VALIDITY</businessContext>
+            <fieldDetail>
+                <name>ValuationAmount</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>VerificationStatus</name>
+            </fieldDetail>
+            <name>PartyFinancialAsset</name>
+            <pathToRoot>PartyProfile.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>PartyProfile</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>KYC_VALIDITY</businessContext>
+            <fieldDetail>
+                <name>IncomeAmount</name>
+            </fieldDetail>
+            <name>PartyIncome</name>
+            <pathToRoot>Party.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>Party</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>KYC_VALIDITY</businessContext>
+            <fieldDetail>
+                <name>CreditScore</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>EmploymentType</name>
+            </fieldDetail>
+            <name>PartyProfile</name>
+            <pathToRoot>Id</pathToRoot>
+        </objectDetail>
+        <status>Inactive</status>
+    </versionDetail>
+</OnboardingDataObjectGroup>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<OnboardingDataObjectGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>description text</description>
+     <masterLabel>Application Form DVC Orig</masterLabel>
+    <usageType>DocumentValidation</usageType>
+    <versionDetail>
+        <objectDetail>
+            <businessContext>DVC</businessContext>
+            <fieldDetail>
+                <name>BureauReportedFirstName</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>Name</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>Id</name>
+            </fieldDetail>
+            <name>PartyCreditProfile</name>
+            <pathToRoot>ReferenceObject.ApplicationForm.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>ReferenceObject</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>DVC</businessContext>
+            <fieldDetail>
+                <name>ApplicantId</name>
+            </fieldDetail>
+            <name>PartyFinancialAsset</name>
+            <pathToRoot>Applicant.ApplicationForm.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>Applicant</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>DVC</businessContext>
+            <fieldDetail>
+                <name>Name</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>ProductId</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>RequestedAmount</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>RequestedMonthlyPayment</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>RequestedTerm</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>Stage</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>SystemModstamp</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>TotalBrandOwnedItemAmt</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>TotalVendorOwnedItemAmt</name>
+            </fieldDetail>
+            <name>ApplicationFormProduct</name>
+            <pathToRoot>ApplicationForm.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>ApplicationForm</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>DVC</businessContext>
+            <fieldDetail>
+                <name>Name</name>
+            </fieldDetail>
+            <name>ApplicationForm</name>
+            <pathToRoot>Id</pathToRoot>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>DVC</businessContext>
+            <fieldDetail>
+                <name>FirstName</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>LastName</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>Name</name>
+            </fieldDetail>
+            <name>Applicant</name>
+            <pathToRoot>ApplicationForm.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>ApplicationForm</targetObjectRelationshipField>
+        </objectDetail>
+        <objectDetail>
+            <businessContext>DVC</businessContext>
+            <fieldDetail>
+                <name>AccountId</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>ApplicantId</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>ApplicationFormId</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>InterestRate</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>LastReferencedDate</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>LastViewedDate</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>Lender</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>Name</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>ShareType</name>
+            </fieldDetail>
+            <fieldDetail>
+                <name>SourceSystemIdentifier</name>
+            </fieldDetail>
+            <name>PartyFinancialLiability</name>
+            <pathToRoot>ApplicationForm.Id</pathToRoot>
+            <relatedObjectRole>Parent</relatedObjectRole>
+            <targetObjectRelationshipField>ApplicationForm</targetObjectRelationshipField>
+        </objectDetail>
+        <onbrdDataObjGrpDocCatgMaps>
+            <documentCategory>Id_Proof</documentCategory>
+            <documentType>Aadhaar</documentType>
+        </onbrdDataObjGrpDocCatgMaps>
+        <onbrdDataObjGrpDocCatgMaps>
+            <documentCategory>Address_Proof</documentCategory>
+            <documentType>Passport</documentType>
+        </onbrdDataObjGrpDocCatgMaps>
+        <onbrdDataObjGrpDocCatgMaps>
+            <documentCategory>Id_Proof</documentCategory>
+            <documentType>Passport</documentType>
+        </onbrdDataObjGrpDocCatgMaps>
+        <onbrdDataObjGrpDocCatgMaps>
+            <documentCategory>Id_Proof</documentCategory>
+            <documentType>Pan_Card</documentType>
+        </onbrdDataObjGrpDocCatgMaps>
+        <status>Inactive</status>
+    </versionDetail>
+</OnboardingDataObjectGroup>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>OnboardingDataObjectGroup</name>
+    </types>
+    <version>66.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

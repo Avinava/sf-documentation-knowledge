@@ -5,11 +5,18 @@ topic: testing-and-code-coverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.689Z
-keywords: [Testing, Code, Coverage, How, Calculated?, Note, Inspecting]
+lastCollected: 2026-03-12T05:14:32.763Z
+estimatedTokens: 1788
+keywords: [Testing, Code, Coverage, Apex, testing, framework, generates, code, coverage, numbers, classes, triggers, every, time, run, tests., indicates, how, many, executable]
 ---
 
 # Testing and Code Coverage
+
+> The Apex testing framework generates code coverage numbers for your Apex classes and
+  triggers every time you run one or more tests. Code coverage indicates how many executable lines
+  of code in your classes and triggers have been exercised by test methods. Write test methods to
+  test your triggers and classes, and then run those tests to generate code coverage
+  information.
 
 # Testing and Code Coverage
 
@@ -95,3 +102,26 @@ Here’s a sample query result.
 If a single deployment has over 2,000 Apex classes, ApexCodeCoverage objects for the deployed classes are deleted even if the deployment fails or is rolled back.ApexCodeCoverageAggregate objects aren’t affected.
 
 The NumLinesUncovered values in ApexCodeCoverage differ from the corresponding value for the aggregate result in ApexCodeCoverageAggregate because they represent the coverage related to one test method each. For example, test method testTaskPriority() covered 7 lines in the entire class out of a total of 10 coverable lines, so the number of uncovered lines with regard to testTaskPriority() is 3 lines (10–7). Because the aggregate coverage stored in ApexCodeCoverageAggregate includes coverage by all test methods, the coverage of testTaskPriority() and testTaskHighPriority() is included, which leaves only 2 lines that are not covered by any test methods.
+
+## Code Examples
+
+```
+String s = 'Hello'
+    + ' World!';
+```
+
+```
+String s = 'Hello World!';
+```
+
+```
+SELECT ApexClassOrTrigger.Name, NumLinesCovered, NumLinesUncovered 
+FROM ApexCodeCoverageAggregate 
+WHERE ApexClassOrTrigger.Name = 'TaskUtil'
+```
+
+```
+SELECT ApexTestClass.Name,TestMethodName,NumLinesCovered,NumLinesUncovered 
+FROM ApexCodeCoverage 
+WHERE ApexClassOrTrigger.Name = 'TaskUtil'
+```

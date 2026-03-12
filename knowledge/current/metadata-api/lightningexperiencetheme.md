@@ -5,11 +5,19 @@ topic: lightningexperiencetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.324Z
-keywords: [LightningExperienceTheme, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:40.852Z
+estimatedTokens: 1038
+keywords: [LightningExperienceTheme, Represents, details, custom, theme, including, BrandingSet., Themes, enable, admins, specify, configurable, attributes, such, three, colors, five, images., images, override]
 ---
 
 # LightningExperienceTheme
+
+> Represents the details of a
+      custom theme, including the BrandingSet. Themes
+      enable admins to specify configurable attributes, such as three colors and
+      five images. The colors and some of the images override SLDS token values
+      and influence the generation of
+    app.css.
 
 # LightningExperienceTheme
 
@@ -63,3 +71,36 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningExperienceTheme xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultBrandingSet>SummerCelebrationBrand</defaultBrandingSet>
+    <description>Theme for summer celebration week.</description>
+    <masterLabel>Summer Celebration</masterLabel>
+    <shouldOverrideLoadingImage>false</shouldOverrideLoadingImage>
+</LightningExperienceTheme>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LEXTHEMINGThemeName</members>
+        <name>BrandingSet</name>
+    </types>
+    <types>
+    	<members>Summer Celebration</members>
+    	<name>LightningExperienceTheme</name>
+    </types>
+    <version>42.0</version>
+</Package>
+```
+
+## Related Topics
+
+- BrandingSet (atlas.en-us.api_meta.meta/api_meta/meta_brandingset.htm)
+- LightningExperienceSettings (atlas.en-us.api_meta.meta/api_meta/meta_lightningexperiencesettings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

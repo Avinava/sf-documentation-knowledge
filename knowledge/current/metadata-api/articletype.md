@@ -5,11 +5,15 @@ topic: articletype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:50.632Z
-keywords: [ArticleType, Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ArticleTypeChannelDisplay, ArticleTypeTemplate, Sample, Definitions, Wildcard, Support, Manifest, See]
+lastCollected: 2026-03-12T05:14:37.006Z
+estimatedTokens: 1704
+keywords: [ArticleType, Represents, metadata, associated, article, type., Declarative, Metadata, File, Suffix, Directory, Location, Version, Fields, ArticleTypeChannelDisplay, ArticleTypeTemplate, Sample, Definitions, Wildcard, Support]
 ---
 
 # ArticleType
+
+> Represents the metadata associated with an article
+        type.
 
 # ArticleType
 
@@ -72,15 +76,77 @@ A sample article type definition follows:
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
--   **[ArticleType Layout](atlas.en-us.api_meta.meta/api_meta/meta_articletype_layout.htm)**  
+-   **[ArticleType Layout](atlas.en-us.api_meta.meta/api_meta/meta_articletype_layout.htm)**
     Represents the metadata associated with an article type page layout. Article type layouts determine which fields users can view and edit when entering data for an article. Article type layouts also determine which sections appear when users view articles.
--   **[ChannelLayout](atlas.en-us.api_meta.meta/api_meta/meta_articletype_channellayout.htm)**  
+-   **[ChannelLayout](atlas.en-us.api_meta.meta/api_meta/meta_articletype_channellayout.htm)**
     Represents the metadata associated with a communication channel layout. Communication channel layouts let admins share article content inline into communication channels (for example, in email publishers, Experience Builder sites, or social media publishers). Admins can create a list of fields for an article type or record type that they want to share for each communication channel. You can customize the order of the fields.
--   **[ArticleType CustomField](atlas.en-us.api_meta.meta/api_meta/meta_articletype_customfield.htm)**  
+-   **[ArticleType CustomField](atlas.en-us.api_meta.meta/api_meta/meta_articletype_customfield.htm)**
     Represents the metadata associated with an article type custom field. Use this metadata type to create, update, or delete article type custom field definitions.
 
 #### See Also
 
 -   [ArticleType Layout](atlas.en-us.api_meta.meta/api_meta/meta_articletype_layout.htm "Represents the metadata associated with an article type page layout. Article type layouts determine which fields users can view and edit when entering data for an article. Article type layouts also determine which sections appear when users view articles.")
-    
+
 -   [ArticleType CustomField](atlas.en-us.api_meta.meta/api_meta/meta_articletype_customfield.htm "Represents the metadata associated with an article type custom field. Use this metadata type to create, update, or delete article type custom field definitions.")
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>articlefilemetadata</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <types>
+        <members>newarticle__kav.description__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>newarticle__kav</members>
+        <name>CustomObject</name>
+    </types>
+</Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <articleTypeChannelDisplay>
+        <articleTypeTemplates>
+            <channel>App</channel>
+            <template>Tab</template>
+        </articleTypeTemplates>
+        <articleTypeTemplates>
+            <channel>Prm</channel>
+            <template>Tab</template>
+        </articleTypeTemplates>
+        <articleTypeTemplates>
+            <channel>Csp</channel>
+            <template>Tab</template>
+        </articleTypeTemplates>
+        <articleTypeTemplates>
+            <channel>Pkb</channel>
+            <template>Toc</template>
+        </articleTypeTemplates>
+    </articleTypeChannelDisplay>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Article type with custom fields</description>
+    <fields>
+        <fullName>description__c</fullName>
+        <label>Description</label>
+        <length>48</length>
+        <type>Text</type>
+    </fields>
+    <label>newarticle</label>
+    <pluralLabel>newarticles</pluralLabel>
+</CustomObject>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- CustomField[] (atlas.en-us.api_meta.meta/api_meta/customfield.htm)
+- StartsWith (atlas.en-us.api_meta.meta/api_meta/meta_field_types.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- ArticleType Layout (atlas.en-us.api_meta.meta/api_meta/meta_articletype_layout.htm)
+- ChannelLayout (atlas.en-us.api_meta.meta/api_meta/meta_articletype_channellayout.htm)
+- ArticleType CustomField (atlas.en-us.api_meta.meta/api_meta/meta_articletype_customfield.htm)

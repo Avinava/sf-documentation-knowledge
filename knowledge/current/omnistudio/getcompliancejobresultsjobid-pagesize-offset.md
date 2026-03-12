@@ -6,12 +6,15 @@ topic: getcompliancejobresultsjobid-pagesize-offset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.572Z
-keywords: [getComplianceJobResults, jobId, pageSize, offset, API, Version, Requires, Chatter, Signature, Parameters, Return, Value, Usage, Example]
+lastCollected: 2026-03-12T05:14:47.429Z
+estimatedTokens: 218
+keywords: [getComplianceJobResults, jobId, pageSize, offset, Get, compliance, job, results, specific, job., API, Version, Requires, Chatter, Usage, Example]
 ---
 
 # getComplianceJobResults(jobId, pageSize,
     offset)
+
+> Get the compliance job results for a specific job.
 
 # getComplianceJobResults(jobId, pageSize, offset)
 
@@ -62,3 +65,29 @@ You need Compliance User permission set to use this method.
 ```
 
 ```
+
+## Code Examples
+
+```apex
+public class JobStatus {
+  public void getJobStatus() {
+    String jobId = '<JOB ID>';
+    Integer pageSize = 10;
+    Integer offset = 0;
+
+    // Call API
+    ConnectApi.ComplianceJobStatusRepresentation response = 
+      ConnectApi.IndustriesCompliance.getComplianceJobResults(jobId, pageSize,
+      offset);
+    System.debug('Response**********' + response);
+  }
+}
+
+// Execute the method
+JobStatus jobStatus = new JobStatus();
+jobStatus.getJobStatus();
+```
+
+## Related Topics
+
+- ConnectApi.ComplianceJobStatusRepresentation (atlas.en-us.industries_reference.meta/industries_reference/apex_connectapi_output_compliance_job_status.htm)

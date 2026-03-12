@@ -5,11 +5,14 @@ topic: connectapifeedfavorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.688Z
-keywords: [ConnectApi.FeedFavorites]
+lastCollected: 2026-03-12T05:14:25.727Z
+estimatedTokens: 66
+keywords: [ConnectApi.FeedFavorites, Feed, favorites.]
 ---
 
 # ConnectApi.FeedFavorites
+
+> Feed favorites.
 
 # ConnectApi.FeedFavorites
 
@@ -19,3 +22,9 @@ Feed favorites.
 | --- | --- | --- | --- |
 | favorites | List<ConnectApi.​Feed​Favorite> | Complete list of favorites. | 28.0 |
 | total | Integer | Total number of favorites. | 28.0 |
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​Feed​Favorite (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_Feed_Favorite.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)

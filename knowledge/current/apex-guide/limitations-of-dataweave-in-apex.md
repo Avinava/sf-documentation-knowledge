@@ -5,11 +5,14 @@ topic: limitations-of-dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.208Z
-keywords: [Limitations, DataWeave, Apex, Note]
+lastCollected: 2026-03-12T05:14:32.147Z
+estimatedTokens: 545
+keywords: [Limitations, DataWeave, Apex, limitations., Note]
 ---
 
 # Limitations of DataWeave in Apex
+
+> DataWeave in Apex has these limitations.
 
 # Limitations of DataWeave in Apex
 
@@ -19,13 +22,13 @@ DataWeave in Apex has these limitations.
 -   You must specify an encoding for binary input (Apex Blobs) to be coerced to strings: binaryVariable as String {encoding: 'utf8' }".
 -   DataWeave is constrained to disallow the loading of additional libraries. Therefore, scripts must be self-contained.
 -   DataWeave modules and importing other scripts aren’t supported. For example, import modules::MyMapping as per [Using a Mapping File](https://docs.mulesoft.com/dataweave/2.4/dataweave-create-module#using-a-mapping-file-in-a-dataweave-script "HTML (New Window)") in a DataWeave Script isn’t supported.
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     The feature supports built-in modules. See [DataWeave Reference](https://docs.mulesoft.com/dataweave/2.3/dw-functions "HTML (New Window)").
-    
+
 -   DataWeave in Apex doesn’t support these content types.
     -   [Flat File Format](https://docs.mulesoft.com/dataweave/2.4/dataweave-formats-flatfile "HTML (New Window)") (application/flatfile)
     -   [Excel](https://docs.mulesoft.com/dataweave/2.4/dataweave-formats-excel "HTML (New Window)") (application/xlsx)

@@ -6,12 +6,16 @@ topic: update-a-record-and-get-its-field-values-in-a-single-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:24.849Z
-keywords: [Update, Record, Get, Its, Field, Values, Single, Request, See]
+lastCollected: 2026-03-12T05:14:34.937Z
+estimatedTokens: 207
+keywords: [Update, Record, Get, Its, Field, Values, Single, Request, Composite, Batch, resource, execute, multiple, requests, single, API, call.]
 ---
 
 # Update a Record and Get Its Field Values in a Single
         Request
+
+> Use the Composite Batch resource to execute multiple requests in a single API
+        call.
 
 # Update a Record and Get Its Field Values in a Single Request
 
@@ -40,3 +44,48 @@ Response body after successfully executing the subrequests
 #### See Also
 
 -   [Composite Batch](atlas.en-us.api_rest.meta/api_rest/resources_composite_batch.htm "Executes up to 25 subrequests in a single request. The response bodies and HTTP statuses of the subrequests in the batch are returned in a single response body. Each subrequest counts against rate limits.")
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/composite/batch/ -H "Authorization: Bearer token -H "Content-Type: application/json" -d "@batch.json"
+```
+
+```
+{
+"batchRequests" : [
+    {
+    "method" : "PATCH",
+    "url" : "v66.0/sobjects/account/001D000000K0fXOIAZ",
+    "richInput" : {"Name" : "NewName"}
+    },{
+    "method" : "GET",
+    "url" : "v66.0/sobjects/account/001D000000K0fXOIAZ?fields=Name,BillingPostalCode"
+    }]
+}
+```
+
+```
+{
+   "hasErrors" : false,
+   "results" : [{
+      "statusCode" : 204,
+      "result" : null
+      },{
+      "statusCode" : 200,
+      "result": {
+         "attributes" : {
+            "type" : "Account",
+            "url" : "/services/data/v66.0/sobjects/Account/001D000000K0fXOIAZ"
+         },
+         "Name" : "NewName",
+         "BillingPostalCode" : "94105",
+         "Id" : "001D000000K0fXOIAZ"
+      }
+   }]
+}
+```
+
+## Related Topics
+
+- Composite Batch (atlas.en-us.api_rest.meta/api_rest/resources_composite_batch.htm)

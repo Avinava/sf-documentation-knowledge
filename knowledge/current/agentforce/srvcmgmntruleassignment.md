@@ -5,11 +5,16 @@ topic: srvcmgmntruleassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.955Z
-keywords: [SrvcMgmntRuleAssignment, Supported, Calls, Fields]
+lastCollected: 2026-03-12T05:14:15.515Z
+estimatedTokens: 435
+keywords: [SrvcMgmntRuleAssignment, Represents, relationship, between, business, operation, group, user, which, assigned, default., API, version, 65.0, later., Supported, Calls, Fields]
 ---
 
 # SrvcMgmntRuleAssignment
+
+> Represents the relationship between a business operation and a group or user
+         to which the operation is assigned by default. This object is available in API version
+      65.0 and later.
 
 # SrvcMgmntRuleAssignment
 

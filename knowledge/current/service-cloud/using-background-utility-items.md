@@ -5,11 +5,16 @@ topic: using-background-utility-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:47:50.098Z
-keywords: [Background, Utility, Items, Note, See]
+lastCollected: 2026-03-12T05:14:57.572Z
+estimatedTokens: 391
+keywords: [Background, Utility, Items, Implement, lightning, backgroundUtilityItem, create, component, fires, responds, events, without, rendering, utility, bar., Note]
 ---
 
 # Using Background Utility Items
+
+> Implement the lightning:backgroundUtilityItem
+        interface to create a component that fires and responds to events without rendering in the
+        utility bar.
 
 # Using Background Utility Items
 
@@ -38,3 +43,29 @@ Background utility items are added to an app the same way normal utility items a
 #### See Also
 
 -   [*Salesforce Help*: Add a Utility Bar to Lightning Apps](https://help.salesforce.com/articleView?id=apps_lightning_utilities.htm&language=en_US "Salesforce Help: Add a Utility Bar to Lightning Apps  - HTML (New Window)")
+
+## Code Examples
+
+```
+<aura:component implements="lightning:backgroundUtilityItem">
+    <aura:attribute name="limit" default="5" type="Integer" />
+    <aura:handler event="lightning:tabCreated" action="{!c.onTabCreated}" />
+    <lightning:workspaceAPI aura:id="workspace" />
+</aura:component>
+```
+
+```
+({
+    onTabCreated: function(cmp) {
+        var workspace = cmp.find("workspace");
+        var limit = cmp.get("v.limit");
+        workspace.getAllTabInfo().then(function (tabInfo) {
+            if (tabInfo.length > limit) {
+                workspace.closeTab({
+                    tabId: tabInfo[0].tabId
+                });
+            }
+        });
+    }
+})
+```

@@ -5,11 +5,15 @@ topic: cleandataservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.398Z
-keywords: [CleanDataService, Supported, SOAP, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:44.849Z
+estimatedTokens: 724
+keywords: [CleanDataService, Represents, data, service, adds, updates, existing, records, org., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # CleanDataService
+
+> Represents a data service that adds and
+            updates data in existing records in an org.
 
 # CleanDataService
 

@@ -5,11 +5,14 @@ topic: qoc-qualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.202Z
-keywords: [QOC, Qualification]
+lastCollected: 2026-03-12T05:14:06.394Z
+estimatedTokens: 375
+keywords: [QOC, Qualification, Input, representation, qualification, request.]
 ---
 
 # QOC Qualification
+
+> Input representation of the qualification request.
 
 # QOC Qualification
 
@@ -34,3 +37,25 @@ Properties
 | product​Ids | String[] | List of product IDs for qualification check. | Required | 60.0 |
 | qualification​Procedure | String | API name of the custom qualification procedure that’s sent for processing. If this property isn’t specified, the default qualification procedure is executed. | Optional | 60.0 |
 | user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
+
+## Code Examples
+
+```
+{
+  "productIds": [
+    "01txx0000006i7PAAQ",
+    "01txx0000006i7QAAQ",
+    "01txx0000006i7IAAQ"
+  ],
+  "userContext": {
+    "accountId": "001xx000003GZHgAAO"
+  }
+}
+```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- User Context
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)

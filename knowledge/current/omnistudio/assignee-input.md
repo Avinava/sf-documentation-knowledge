@@ -5,11 +5,16 @@ topic: assignee-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.058Z
-keywords: [Assignee, Input]
+lastCollected: 2026-03-12T05:14:48.077Z
+estimatedTokens: 115
+keywords: [Assignee, Input, representation, updating, assignee, details, actionable, list, member.]
 ---
 
 # Assignee Input
+
+> Input
+    representation for updating the assignee details of an actionable list
+    member.
 
 # Assignee Input
 
@@ -27,3 +32,14 @@ Properties
 | --- | --- | --- | --- | --- |
 | name | String | Owner ID of the assignee of an actionable list member. | Required | 57.0 |
 | type | String | Type of the assignee. The assignee can be either a user or the owner of the record. | Required | 57.0 |
+
+## Code Examples
+
+```
+{
+ "assignee": {
+ "type": "RecordOwner",
+ "name": ""
+ }
+}
+```

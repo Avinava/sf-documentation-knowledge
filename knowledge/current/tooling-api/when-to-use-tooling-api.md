@@ -5,11 +5,17 @@ topic: when-to-use-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.002Z
-keywords: [Tooling, API, See]
+lastCollected: 2026-03-12T05:14:44.338Z
+estimatedTokens: 1907
+keywords: [Tooling, API, need, fine-grained, access, org’s, metadata., API’s, SOQL, capabilities, many, metadata, types, allow, retrieve, smaller, pieces, Smaller, retrieves, improve]
 ---
 
 # When to Use Tooling API
+
+> Use Tooling API when you need fine-grained access to an org’s metadata. Tooling API’s
+    SOQL capabilities for many metadata types allow you to retrieve smaller pieces of metadata.
+    Smaller retrieves improve performance, which makes Tooling API a better fit for developing
+    interactive applications.
 
 # When to Use Tooling API
 
@@ -86,5 +92,18 @@ Use [ValidationRule](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_object
 #### See Also
 
 -   [REST Overview](atlas.en-us.api_tooling.meta/api_tooling/intro_rest_overview.htm "Use REST if you’re using a language that isn’t strongly typed, like JavaScript.")
-    
+
 -   [SOAP Calls](atlas.en-us.api_tooling.meta/api_tooling/intro_soap_overview.htm)
+
+## Related Topics
+
+- FieldDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm)
+- EntityDefinition (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)
+- ApexClassMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexclassmember.htm)
+- ApexTriggerMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apextriggermember.htm)
+- ApexPageMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexpagemember.htm)
+- ApexComponentMember (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexcomponentmember.htm)
+- MetadataContainer (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_metadatacontainer.htm)
+- StaticResource (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_staticresource.htm)
+- ContainerAsyncRequest (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_containerasyncrequest.htm)
+- ApexExecutionOverlayAction (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_apexexecutionoverlayaction.htm)

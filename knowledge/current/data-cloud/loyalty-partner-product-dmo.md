@@ -5,11 +5,16 @@ topic: loyalty-partner-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.583Z
-keywords: [Loyalty, Partner, Product, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.317Z
+estimatedTokens: 834
+keywords: [Loyalty, Partner, Product, DMO, Data, Cloud, data, model, product, offered, loyalty, program, partner, such, coupon, another, company., API, Name, Category]
 ---
 
 # Loyalty Partner Product DMO
+
+> The Loyalty Partner Product DMO is a Data Cloud data model object
+      (DMO) for a product offered by a loyalty program partner, such as a coupon from another
+      company.
 
 # Loyalty Partner Product DMO
 

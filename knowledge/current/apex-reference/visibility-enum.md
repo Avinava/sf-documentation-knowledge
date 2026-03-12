@@ -5,11 +5,19 @@ topic: visibility-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.451Z
-keywords: [Visibility, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.586Z
+estimatedTokens: 157
+namespace: Cache.Visibility
+keywords: [Visibility, Cache.Visibility, enumeration, Cache.Session, Cache.Org, indicate, whether, cached, visible, only, value’s, namespaces., Values]
 ---
 
 # Visibility Enum
+
+> Use the Cache.Visibility
+      enumeration in the Cache.Session or Cache.Org methods to indicate whether a cached value is
+      visible only in the value’s namespace or in all namespaces.
+
+**Namespace:** `Cache.Visibility`
 
 # Visibility Enum
 

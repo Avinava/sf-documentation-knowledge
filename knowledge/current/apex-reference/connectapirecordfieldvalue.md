@@ -5,11 +5,14 @@ topic: connectapirecordfieldvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.853Z
-keywords: [ConnectApi.RecordFieldValue, See]
+lastCollected: 2026-03-12T05:14:27.419Z
+estimatedTokens: 120
+keywords: [ConnectApi.RecordFieldValue, Field, value.]
 ---
 
 # ConnectApi.RecordFieldValue
+
+> Field value.
 
 # ConnectApi.RecordFieldValue
 
@@ -24,3 +27,8 @@ Field value.
 #### See Also
 
 -   [ConnectApi.SearchResult](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_resul.htm "Results from searching an object using keywords.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.SearchResult (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_search_resul.htm)

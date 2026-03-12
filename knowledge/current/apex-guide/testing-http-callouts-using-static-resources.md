@@ -5,11 +5,16 @@ topic: testing-http-callouts-using-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.652Z
-keywords: [Testing, HTTP, Callouts, Static, Resources, StaticResourceCalloutMock, Note, MultiStaticResourceCalloutMock]
+lastCollected: 2026-03-12T05:14:32.709Z
+estimatedTokens: 1223
+keywords: [Testing, HTTP, Callouts, Resources, test, callouts, specifying, body, response, you’d, receive, resource, two, built-in, classes—StaticResourceCalloutMock, MultiStaticResourceCalloutMock., StaticResourceCalloutMock, Note, MultiStaticResourceCalloutMock]
 ---
 
 # Testing HTTP Callouts Using Static Resources
+
+> You can test HTTP callouts by specifying the body of the
+response you’d like to receive in a static resource and using
+one of two built-in classes—StaticResourceCalloutMock or MultiStaticResourceCalloutMock.
 
 # Testing HTTP Callouts Using Static Resources
 
@@ -89,4 +94,67 @@ This is a full example containing the test method (testCalloutWithMultipleStatic
 
 ```
 
+```
+
+## Code Examples
+
+```
+StaticResourceCalloutMock mock = new StaticResourceCalloutMock();
+mock.setStaticResource('myStaticResourceName');
+mock.setStatusCode(200);
+mock.setHeader('Content-Type', 'application/json');
+```
+
+```
+Test.setMock(HttpCalloutMock.class, mock);
+```
+
+```apex
+public class CalloutStaticClass {
+    public static HttpResponse getInfoFromExternalService(String endpoint) {
+        HttpRequest req = new HttpRequest();
+        req.setEndpoint(endpoint);
+        req.setMethod('GET');
+        Http h = new Http();
+        HttpResponse res = h.send(req);
+        return res;
+    }
+}
+```
+
+```apex
+@isTest
+private class CalloutStaticClassTest {
+    @isTest static void testCalloutWithStaticResources() {
+        // Use StaticResourceCalloutMock built-in class to
+        // specify fake response and include response body 
+        // in a static resource.
+        StaticResourceCalloutMock mock = new StaticResourceCalloutMock();
+        mock.setStaticResource('mockResponse');
+        mock.setStatusCode(200);
+        mock.setHeader('Content-Type', 'application/json');
+        
+        // Set the mock callout mode
+        Test.setMock(HttpCalloutMock.class, mock);
+        
+        // Call the method that performs the callout
+        HTTPResponse res = CalloutStaticClass.getInfoFromExternalService(
+            'https://example.com/example/test');
+        
+        // Verify response received contains values returned by
+        // the mock response.
+        // This is the content of the static resource.
+        System.assertEquals('{"hah":"fooled you"}', res.getBody());
+        System.assertEquals(200,res.getStatusCode());
+        System.assertEquals('application/json', res.getHeader('Content-Type'));   
+    }
+}
+```
+
+```
+MultiStaticResourceCalloutMock multimock = new MultiStaticResourceCalloutMock();
+multimock.setStaticResource('https://example.com/example/test', 'mockResponse');
+multimock.setStaticResource('https://example.com/example/sfdc', 'mockResponse2');
+multimock.setStatusCode(200);
+multimock.setHeader('Content-Type', 'application/json');
 ```

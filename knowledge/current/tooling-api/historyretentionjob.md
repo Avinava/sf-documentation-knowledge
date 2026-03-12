@@ -5,11 +5,15 @@ topic: historyretentionjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.107Z
-keywords: [HistoryRetentionJob, Supported, SOAP, API, Calls, REST, HTTP, Methods, Fields]
+lastCollected: 2026-03-12T05:14:45.836Z
+estimatedTokens: 423
+keywords: [HistoryRetentionJob, Represents, body, retained, data, archive, status, archived, data., API, version, 29.0, later., Supported, SOAP, Calls, REST, HTTP, Fields]
 ---
 
 # HistoryRetentionJob
+
+> Represents the body of retained data from the archive,
+   and the status of the archived data. Available in API version 29.0 or later.
 
 # HistoryRetentionJob
 

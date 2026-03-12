@@ -5,11 +5,15 @@ topic: unified-object-search-result-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.918Z
-keywords: [Unified, Object, Search, Result, Summary]
+lastCollected: 2026-03-12T05:14:50.864Z
+estimatedTokens: 190
+keywords: [Unified, Search, Result, Summary, Output, representation, unified, search, result.]
 ---
 
 # Unified Object Search Result Summary
+
+> Output representation of the unified object search
+    result.
 
 # Unified Object Search Result Summary
 

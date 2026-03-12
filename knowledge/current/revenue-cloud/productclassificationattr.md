@@ -5,11 +5,16 @@ topic: productclassificationattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T14:37:50.689Z
-keywords: [ProductClassificationAttr, Supported, Calls, Special, Access, Rules, Fields, Associated, Objects]
+lastCollected: 2026-03-12T05:14:11.100Z
+estimatedTokens: 1862
+keywords: [ProductClassificationAttr, Represents, relationship, between, product, classification, its, attributes., default, configuration, products, based, classification., API, version, 60.0, later., Supported, Calls, Special]
 ---
 
 # ProductClassificationAttr
+
+> Represents the relationship between a product classification and its
+         attributes. This is the default configuration for products based on the product
+         classification. This object is available in API version 60.0 and later.
 
 # ProductClassificationAttr
 
@@ -70,3 +75,9 @@ Sharing rules are available for the object.
 [ProductClassificationAttrShare](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 
 Sharing is available for the object.
+
+## Related Topics
+
+- ProductClassificationAttrFeed (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+- ProductClassificationAttrHistory (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+- ProductClassificationAttrShare (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)

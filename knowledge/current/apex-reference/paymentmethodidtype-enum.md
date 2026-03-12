@@ -5,11 +5,14 @@ topic: paymentmethodidtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.467Z
-keywords: [PaymentMethodIdType, Enum, Values]
+lastCollected: 2026-03-12T05:14:29.615Z
+estimatedTokens: 77
+keywords: [PaymentMethodIdType, Specifies, payment, type., Values]
 ---
 
 # PaymentMethodIdType Enum
+
+> Specifies the ID of the payment method type.
 
 # PaymentMethodIdType Enum
 

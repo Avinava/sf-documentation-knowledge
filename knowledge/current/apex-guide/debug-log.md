@@ -5,11 +5,18 @@ topic: debug-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.943Z
-keywords: [Debug, Log, Limits, Inspecting, Sections, Note, Warning, Setting, Filters, Apex, Classes, Triggers, See]
+lastCollected: 2026-03-12T05:14:33.131Z
+estimatedTokens: 2569
+namespace: YourClass
+keywords: [Debug, Log, debug, log, record, database, operations, system, processes, errors, occur, executing, transaction, running, unit, tests., logs, contain, information, Limits]
 ---
 
 # Debug Log
+
+> A debug log can record database operations, system processes, and errors that occur when
+      executing a transaction or running unit tests. Debug logs can contain information about:
+
+**Namespace:** `YourClass`
 
 # Debug Log
 
@@ -20,18 +27,18 @@ A debug log can record database operations, system processes, and errors that oc
 -   Apex errors
 -   Resources used by Apex
 -   Automated workflow processes, such as:
-    
+
     -   Workflow rules
     -   Assignment rules
     -   Approval processes
     -   Validation rules
-    
+
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexcode)
-    
+
     #### Note
-    
+
     The debug log doesn’t include information from actions triggered by time-based workflows. It also doesn’t include information from standard or custom controllers used in Visualforce email templates.
-    
+
 
 You can retain and manage debug logs for specific users, including yourself, and for classes and triggers. Setting class and trigger trace flags doesn’t cause logs to be generated or saved. Class and trigger trace flags override other logging levels, including logging levels set by user trace flags, but they don’t cause logging to occur. If logging is enabled when classes or triggers execute, logs are generated at the time of execution.
 
@@ -44,13 +51,13 @@ Debug logs have the following limits.
 -   Each debug log must be 20 MB or smaller. Debug logs that are larger than 20 MB are reduced in size by removing older log lines, such as log lines for earlier System.debug statements. The log lines can be removed from any location, not just the start of the debug log.
 -   System debug logs are retained for 24 hours. Monitoring debug logs are retained for seven days.
 -   If you generate more than 1,000 MB of debug logs in a 15-minute window, your trace flags are disabled. We send an email to the users who last modified the trace flags, informing them that they can re-enable the trace flag in 15 minutes.
-    
+
     ![Warning](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_warning.png&folder=apexcode)
-    
+
     #### Warning
-    
+
     If the debug log trace flag is enabled on a frequently accessed Apex class or for a user executing requests often, the request can result in failure, regardless of the time window and the size of the debug logs.
-    
+
 -   When your org accumulates more than 1,000 MB of debug logs, we prevent users in the org from adding or editing trace flags. To add or edit trace flags so that you can generate more logs after you reach the limit, delete some debug logs.
 
 ## Inspecting the Debug Log Sections
@@ -140,15 +147,15 @@ Log lines are made up of a set of fields, delimited by a pipe (|). The format is
 
 -   timestamp: Consists of the time when the event occurred and a value between parentheses. The time is in the user’s time zone and in the format HH:mm:ss.SSS. The value in parentheses represents the time elapsed in nanoseconds since the start of the request. The elapsed time value is excluded from logs reviewed in the Developer Console when you use the Execution Log view. However, you can see the elapsed time when you use the Raw Log view. To open the Raw Log view, from the Developer Console’s Logs tab, right-click the name of a log and select **Open Raw Log**.
 -   event identifier: Specifies the event that triggered the debug log entry (such as SAVEPOINT\_RESET or VALIDATION\_RULE).
-    
+
     Also includes additional information logged with that event, such as the method name or the line and character number where the code was executed. If a line number can’t be located, \[EXTERNAL\] is logged instead. For example, \[EXTERNAL\] is logged for built-in Apex classes or code that’s in a managed package.
-    
+
     For some events (CODE\_UNIT\_STARTED, CODE\_UNIT\_FINISHED, VF\_APEX\_CALL\_START, VF\_APEX\_CALL\_END, CONSTRUCTOR\_ENTRY, and CONSTRUCTOR\_EXIT), the end of the event identifier includes a pipe (|) followed by a typeRef for an Apex class or trigger.
-    
+
     For a trigger, the typeRef begins with the SFDC trigger prefix \_\_sfdc\_trigger/. For example, \_\_sfdc\_trigger/YourTriggerName or \_\_sfdc\_trigger/YourNamespace/YourTriggerName.
-    
+
     For a class, the typeRef uses the format YourClass, YourClass$YourInnerClass,, or YourNamespace/YourClass$YourInnerClass.
-    
+
 
 More Log Data
 
@@ -172,11 +179,11 @@ For an explanation and an example of how Apex class and trigger trace flags work
 
 For concrete instructions about how to configure debug log filters, see [Set Up Apex Class and Trigger Trace Flags](https://help.salesforce.com/s/articleView?id=platform.code_debug_log_classes_setup.htm&type=5&language=en_US "HTML (New Window)") in Salesforce Help.
 
--   **[Working with Logs in the Developer Console](atlas.en-us.apexcode.meta/apexcode/apex_debugging_system_log_console.htm)**  
+-   **[Working with Logs in the Developer Console](atlas.en-us.apexcode.meta/apexcode/apex_debugging_system_log_console.htm)**
     Use the Logs tab in the Developer Console to open debug logs.
--   **[Debugging Apex API Calls](atlas.en-us.apexcode.meta/apexcode/apex_debugging_API_calls.htm)**  
-    
--   **[Debug Log Order of Precedence](atlas.en-us.apexcode.meta/apexcode/apex_debugging_debug_log_precedence.htm)**  
+-   **[Debugging Apex API Calls](atlas.en-us.apexcode.meta/apexcode/apex_debugging_API_calls.htm)**
+
+-   **[Debug Log Order of Precedence](atlas.en-us.apexcode.meta/apexcode/apex_debugging_debug_log_precedence.htm)**
     Which events are logged depends on various factors. These factors include your trace flags, the default logging levels, your API header, user-based system log enablement, and the log levels set by your entry points.
 
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_exception_definition.htm "Exceptions in Apex")
@@ -184,7 +191,73 @@ For concrete instructions about how to configure debug log filters, see [Set Up 
 #### See Also
 
 -   [*Salesforce Help*: Set Up Debug Logging](https://help.salesforce.com/HTViewHelpDoc?id=code_add_users_debug_log.htm&language=en_US)
-    
+
 -   [*Salesforce Help*: View Debug Logs](https://help.salesforce.com/HTViewHelpDoc?id=code_viewing_log_details.htm&language=en_US)
-    
+
 -   [*Salesforce Help*: Delete Debug Logs](https://help.salesforce.com/HTViewHelpDoc?id=code_debug_log_delete.htm&language=en_US)
+
+## Code Examples
+
+```
+66.0 APEX_CODE,DEBUG;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;
+WORKFLOW,INFO
+```
+
+```
+EXECUTION_STARTED
+CODE_UNIT_STARTED|[EXTERNAL]execute_anonymous_apex
+CODE_UNIT_STARTED|[EXTERNAL]MyTrigger on Account trigger event BeforeInsert for [new]|__sfdc_trigger/MyTrigger
+CODE_UNIT_FINISHED <-- The trigger ends
+CODE_UNIT_FINISHED <-- The executeAnonymous ends
+EXECUTION_FINISHED
+```
+
+```apex
+37.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;
+    VALIDATION,INFO;VISUALFORCE,INFO;WORKFLOW,INFO
+Execute Anonymous: System.debug('Hello World!');
+16:06:58.18 (18043585)|USER_INFO|[EXTERNAL]|005D0000001bYPN|devuser@example.org|
+    Pacific Standard Time|GMT-08:00
+16:06:58.18 (18348659)|EXECUTION_STARTED
+16:06:58.18 (18383790)|CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_apex
+16:06:58.18 (23822880)|HEAP_ALLOCATE|[72]|Bytes:3
+16:06:58.18 (24271272)|HEAP_ALLOCATE|[77]|Bytes:152
+16:06:58.18 (24691098)|HEAP_ALLOCATE|[342]|Bytes:408
+16:06:58.18 (25306695)|HEAP_ALLOCATE|[355]|Bytes:408
+16:06:58.18 (25787912)|HEAP_ALLOCATE|[467]|Bytes:48
+16:06:58.18 (26415871)|HEAP_ALLOCATE|[139]|Bytes:6
+16:06:58.18 (26979574)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:1
+16:06:58.18 (27384663)|STATEMENT_EXECUTE|[1]
+16:06:58.18 (27414067)|STATEMENT_EXECUTE|[1]
+16:06:58.18 (27458836)|HEAP_ALLOCATE|[1]|Bytes:12
+16:06:58.18 (27612700)|HEAP_ALLOCATE|[50]|Bytes:5
+16:06:58.18 (27768171)|HEAP_ALLOCATE|[56]|Bytes:5
+16:06:58.18 (27877126)|HEAP_ALLOCATE|[64]|Bytes:7
+16:06:58.18 (49244886)|USER_DEBUG|[1]|DEBUG|Hello World!
+16:06:58.49 (49590539)|CUMULATIVE_LIMIT_USAGE
+16:06:58.49 (49590539)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+16:06:58.49 (49590539)|CUMULATIVE_LIMIT_USAGE_END
+
+16:06:58.18 (52417923)|CODE_UNIT_FINISHED|execute_anonymous_apex
+16:06:58.18 (54114689)|EXECUTION_FINISHED
+```
+
+## Related Topics
+
+- Working with Logs in the Developer Console (atlas.en-us.apexcode.meta/apexcode/apex_debugging_system_log_console.htm)
+- Debugging Apex API Calls (atlas.en-us.apexcode.meta/apexcode/apex_debugging_API_calls.htm)
+- Debug Log Order of Precedence (atlas.en-us.apexcode.meta/apexcode/apex_debugging_debug_log_precedence.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_exception_definition.htm)

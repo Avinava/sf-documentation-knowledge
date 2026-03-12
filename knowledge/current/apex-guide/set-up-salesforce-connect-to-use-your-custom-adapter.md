@@ -5,11 +5,16 @@ topic: set-up-salesforce-connect-to-use-your-custom-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.881Z
-keywords: [Set, Salesforce, Connect, Custom, Adapter]
+lastCollected: 2026-03-12T05:14:33.036Z
+estimatedTokens: 301
+keywords: [Set, Salesforce, Connect, Custom, Adapter, After, create, DataSource.Connection, DataSource.Provider, classes, custom, adapter, becomes, Setup.]
 ---
 
 # Set Up Salesforce Connect to Use Your Custom Adapter
+
+> After you create your DataSource.Connection and
+      DataSource.Provider classes, the Salesforce Connect
+    custom adapter becomes available in Setup.
 
 # Set Up Salesforce Connect to Use Your Custom Adapter
 
@@ -23,3 +28,7 @@ To add write capability for external objects to your adapter:
 2.  Implement the DataSource.Connection.upsertRows() and DataSource.Connection.deleteRows() methods for the adapter. For details, see [Connection Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_DataSource_Connection.htm).
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_connector_start_provider_class.htm "Create a Sample DataSource.Provider Class Class")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_connector_start_provider_class.htm)

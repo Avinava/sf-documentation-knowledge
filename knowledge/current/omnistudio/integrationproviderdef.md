@@ -5,11 +5,16 @@ topic: integrationproviderdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.941Z
-keywords: [IntegrationProviderDef, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, IntegrationProviderAttr, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:52.376Z
+estimatedTokens: 1484
+keywords: [IntegrationProviderDef, Represents, integration, definition, associated, service, process., Stores, data, Industries, Send, Apex, Async, Request, External, invocable, actions., Parent, File, Suffix]
 ---
 
 # IntegrationProviderDef
+
+> Represents an integration definition associated with a service process. Stores data for
+		the Industries: Send Apex Async Request and Industries: Send External Async Request
+		invocable actions.
 
 # IntegrationProviderDef
 
@@ -89,3 +94,33 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see Deploying and Retrieving Metadata with the Zip File.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<IntegrationProviderDef xmlns="http://soap.sforce.com/2006/04/metadata">
+   <developerName>EmailUpdate</developerName>
+   <providerLabel>EmailUpdate</providerLabel>
+   <type>Apex</type>
+   <apexClass>SendEmailUpdate</apexClass>
+   <integrationProviderAttributes>
+      <developerName>EmailAddress</developerName>
+      <label>EmailAddress</label>
+      <dataType>String</dataType>
+      <stringValue>person@example.com</stringValue>
+      <required>true</required>
+   </integrationProviderAttributes>
+</IntegrationProviderDef>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>IntegrationProviderDef</name>
+    </types>
+    <version>57.0</version>
+</Package>
+```

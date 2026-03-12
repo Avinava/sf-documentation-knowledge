@@ -5,11 +5,15 @@ topic: fields-without-conflict-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:10.342Z
-keywords: [Fields, Without, Conflict, Input]
+lastCollected: 2026-03-12T05:14:48.435Z
+estimatedTokens: 83
+keywords: [Fields, Without, Conflict, Input, representation, list, fields, without, conflict, record, creation.]
 ---
 
 # Fields Without Conflict Input
+
+> Input representation of the list of fields without conflict for record
+      creation.
 
 # Fields Without Conflict Input
 

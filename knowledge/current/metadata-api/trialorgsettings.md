@@ -5,11 +5,15 @@ topic: trialorgsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:54.946Z
-keywords: [TrialOrgSettings, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.276Z
+estimatedTokens: 545
+keywords: [TrialOrgSettings, Represents, settings, trial, user’s, org., extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # TrialOrgSettings
+
+> Represents the settings in a trial user’s org. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # TrialOrgSettings
 
@@ -46,3 +50,18 @@ The following is an example of a TrialOrgSettings component.
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<TrialOrgSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableSampleDataDeleted>false</enableSampleDataDeleted>
+</TrialOrgSettings>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

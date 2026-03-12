@@ -5,11 +5,18 @@ topic: enforce-security-with-the-stripinaccessible-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.681Z
-keywords: [Enforce, Security, stripInaccessible, Method, Important, Note, Example, See]
+lastCollected: 2026-03-12T05:14:32.752Z
+estimatedTokens: 1335
+keywords: [Enforce, Security, stripInaccessible, enforce, field-level, object-level, data, protection., used, strip, fields, relationship, query, subquery, results, user, can’t, access., remove, inaccessible]
 ---
 
 # Enforce Security with the stripInaccessible Method
+
+> Use the stripInaccessible method to enforce
+    field-level and object-level data protection. This method can be used to strip the fields and
+    relationship fields from query and subquery results that the user can’t access. The method can
+    also be used to remove inaccessible sObject fields before DML operations to avoid exceptions and
+    to sanitize sObjects that have been deserialized from an untrusted source.
 
 # Enforce Security with the stripInaccessible Method
 
@@ -90,8 +97,97 @@ This example code removes inaccessible relationship fields from the query result
 #### See Also
 
 -   [*Apex Reference Guide*: AccessType Enum](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_enum_System_AccessType.htm "Apex Reference Guide: AccessType Enum - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: Security Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_Security.htm "Apex Reference Guide: Security Class - HTML (New Window)")
-    
+
 -   [*Apex Reference Guide*: SObjectAccessDecision Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_System_SObjectAccessDecision.htm "Apex Reference Guide: SObjectAccessDecision
     Class - HTML (New Window)")
+
+## Code Examples
+
+```apex
+SObjectAccessDecision securityDecision = Security.stripInaccessible(AccessType.READABLE, sourceRecords);
+Contact c = securityDecision.getRecords()[0];
+System.debug(c.isSet('social_security_number__c')); // prints "false"
+```
+
+```apex
+SObjectAccessDecision securityDecision = 
+         Security.stripInaccessible(AccessType.READABLE,
+                 [SELECT Name, BudgetedCost, ActualCost FROM Campaign]                 );
+
+    // Construct the output table
+    if (securityDecision.getRemovedFields().get('Campaign').contains('ActualCost')) {
+        for (Campaign c : securityDecision.getRecords()) {
+        //System.debug Output: Name, BudgetedCost
+        }
+    } else {
+        for (Campaign c : securityDecision.getRecords()) {
+        //System.debug Output: Name, BudgetedCost, ActualCost
+        }
+}
+```
+
+```apex
+List<Account> accountsWithContacts =
+	[SELECT Id, Name, Phone,
+	    (SELECT Id, LastName, Phone FROM Account.Contacts)
+	FROM Account];
+  
+   // Strip fields that are not readable
+   SObjectAccessDecision decision = Security.stripInaccessible(
+	                                   AccessType.READABLE,
+	                                   accountsWithContacts);
+ 
+// Print stripped records
+   for (Integer i = 0; i < accountsWithContacts.size(); i++) 
+  {
+      System.debug('Insecure record access: '+accountsWithContacts[i]);
+      System.debug('Secure record access: '+decision.getRecords()[i]);
+   }
+ 
+// Print modified indexes
+   System.debug('Records modified by stripInaccessible: '+decision.getModifiedIndexes());
+ 
+// Print removed fields
+   System.debug('Fields removed by stripInaccessible: '+decision.getRemovedFields());
+```
+
+```apex
+List<Account> newAccounts = new List<Account>();
+Account a = new Account(Name='Acme Corporation');
+Account b = new Account(Name='Blaze Comics', Rating=’Warm’);
+newAccounts.add(a);
+newAccounts.add(b);
+
+SObjectAccessDecision securityDecision = Security.stripInaccessible(
+                                         AccessType.CREATABLE, newAccounts);
+
+// No exceptions are thrown and no rating is set
+insert securityDecision.getRecords();
+
+System.debug(securityDecision.getRemovedFields().get('Account')); // Prints "Rating"
+System.debug(securityDecision.getModifiedIndexes()); // Prints "1"
+```
+
+```apex
+String jsonInput =
+'[' +
+'{' +
+'"Name": "InGen",' +
+'"AnnualRevenue": "100"' +
+'},' +
+'{' +
+'"Name": "Octan"' +
+'}' +
+']';
+
+List<Account> accounts = (List<Account>)JSON.deserializeStrict(jsonInput, List<Account>.class);
+SObjectAccessDecision securityDecision = Security.stripInaccessible(
+                                         AccessType.UPDATABLE, accounts);
+
+// Secure update
+update securityDecision.getRecords(); // Doesn’t update AnnualRevenue field
+System.debug(String.join(securityDecision.getRemovedFields().get('Account'), ', ')); // Prints "AnnualRevenue"
+System.debug(String.join(securityDecision.getModifiedIndexes(), ', ')); // Prints "0”
+```

@@ -5,11 +5,16 @@ topic: search-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:08:17.805Z
-keywords: [Search, Configuration, Item, Request, SearchObject, Properties, FilterCriteria, SortCriteria, Response, Note]
+lastCollected: 2026-03-12T05:14:15.292Z
+estimatedTokens: 2066
+keywords: [Search, Configuration, Item, Perform, paginated, search, across, configuration, items, filtering, sorting, options., list, match, criteria., Request, SearchObject, FilterCriteria, SortCriteria, Response]
 ---
 
 # Search Configuration Item
+
+> Perform a paginated search across configuration items with filtering
+      and sorting options. Returns a list of configuration items that match the search
+      criteria.
 
 # Search Configuration Item
 
@@ -93,3 +98,70 @@ When using the searchCI operation, you can request any available attribute to be
 -   Custom Attributes: You can create and include custom attributes using the sObject API.
 
 Add any attribute using its Developer Name (for example, SD\_AsNa—Asset Name) to specify exactly which information you want to receive for your Configuration Items (CIs).
+
+## Code Examples
+
+```
+query SearchCI {
+  searchCI(
+    searchObject: {
+      pageSize: 10
+      sort: [{ sortKey: SD_ApNa, sortOrder: ASC }]
+      cursor_position: "W251bGwsIjE3NjE4MDQ1OTExMzYiLCIzMjc2ODAxIl0="
+    }
+  ) {
+    totalCount
+    pageSize
+    next_cursor
+    hasMoreRecords
+    data {
+      id
+      SD_Co
+      SD_LoBaPo
+      SD_LoBaSt
+      SD_SeSt
+      SD_LaTeAr
+      SD_AuScGrN
+      SD_DeCa
+    }
+  }
+}
+```
+
+```
+{
+  "field": "id",
+  "operator": "EQUALS",
+  "values": ["101020"]
+}
+```
+
+```
+{
+  "sortKey": "SD_ApNa",
+  "sortOrder": "ASC"
+}
+```
+
+```
+{
+  "data": {
+    "searchCI": {
+      "totalCount": 50,
+      "hasMoreRecords": true,
+      "data": [
+        {
+          "id": 1001,
+          "name": "Server-01",
+          "SD_OpSy": "Windows Server 2019",
+          "SD_CiLo": "Data Center 1"
+        }
+      ]
+    }
+  }
+}
+```
+
+## Related Topics
+
+- ci_type (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/graphql_api_agentic_it_service_canonical.htm)

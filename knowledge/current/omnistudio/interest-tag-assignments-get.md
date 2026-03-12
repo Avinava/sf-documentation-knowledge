@@ -5,11 +5,15 @@ topic: interest-tag-assignments-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.858Z
-keywords: [Interest, Tag, Assignments, GET]
+lastCollected: 2026-03-12T05:14:49.293Z
+estimatedTokens: 295
+keywords: [Interest, Tag, Assignments, GET, Retrieve, list, record, assignments, Tag.]
 ---
 
 # Interest Tag Assignments (GET)
+
+> Retrieve a list of record assignments by an Interest
+    Tag.
 
 # Interest Tag Assignments (GET)
 
@@ -51,3 +55,18 @@ Query parameters for GET
 Response body for GET
 
 [Tag Record Assignment Collection](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_tag_record_assignment_collection.htm "Output representation of a collection of record assignments for an Interest Tag.")
+
+## Code Examples
+
+```
+/connect/interest-tags/assignments/tag/${tagId}
+```
+
+```
+https://yourInstance.salesforce.com/services/data/vXX.X/connect
+/interest-tags/assignments/tag/0qOxx0000004C94EAE
+```
+
+## Related Topics
+
+- Tag Record Assignment Collection (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_tag_record_assignment_collection.htm)

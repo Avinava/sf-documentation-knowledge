@@ -5,11 +5,15 @@ topic: order-delivery-method-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:17:43.807Z
-keywords: [Order, Delivery, Method, DMO, Important, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.642Z
+estimatedTokens: 656
+keywords: [Order, Delivery, DMO, data, model, Data, Cloud, order, delivery, products, service, fulfillment., Important, API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Order Delivery Method DMO
+
+> The Order Delivery Method data model object (DMO) is a Data Cloud DMO
+      for the order and delivery methods for products or service fulfillment.
 
 # Order Delivery Method DMO
 

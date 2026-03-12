@@ -5,11 +5,18 @@ topic: package-version-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:46:36.884Z
-keywords: [Package, Version, Header, Field, Name, Values]
+lastCollected: 2026-03-12T05:14:44.237Z
+estimatedTokens: 192
+keywords: [Package, Version, Header, Specifies, version, package, referenced, client., number, identifies, set, components, behavior, contained, package., header, used, specify, making, calls]
 ---
 
 # Package Version Header
+
+> Specifies the version of each package referenced by a
+   client. A package version is a number that identifies the set of components and behavior
+   contained in a package.
+  This header can also be used to specify a package version
+   when making calls to an Apex REST web service.
 
 # Package Version Header
 

@@ -5,11 +5,16 @@ topic: get-started-with-ingestion-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:17:42.338Z
-keywords: [Get, Started, Ingestion, API, Prerequisites, Authentication, Important, Note, Bulk, Ingest, Limits, Streaming, Status, Codes, Error, Responses, Data, Upload, See]
+lastCollected: 2026-03-12T05:14:12.319Z
+estimatedTokens: 1521
+keywords: [Get, Started, Ingestion, API, Before, Data, Cloud, complete, prerequisites, set, authentication, know, limits, apply, bulk, ingestion, streaming, ingestion., Prerequisites, Authentication]
 ---
 
 # Get Started with Ingestion API
+
+> Before using Ingestion API in Data Cloud, complete the prerequisites, set
+  up authentication, and know the limits that apply to bulk ingestion and streaming
+  ingestion.
 
 # Get Started with Ingestion API
 
@@ -120,11 +125,54 @@ This example shows a sample response.
 
 For guidance on overall limitations view [Data Cloud Limits and Guidelines](https://help.salesforce.com/s/articleView?id=sf.c360_a_limits_and_guidelines.htm&type=5&language=en_US).
 
--   **[Streaming Ingestion Walkthrough](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_streaming_insert_example.htm)**  
+-   **[Streaming Ingestion Walkthrough](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_streaming_insert_example.htm)**
     Use this walkthrough to understand the steps for loading records using streaming ingestion.
--   **[Bulk Ingestion Walkthrough](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_bulk_insert_example.htm)**  
+-   **[Bulk Ingestion Walkthrough](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_bulk_insert_example.htm)**
     This walkthrough guides you through the steps for loading records using bulk ingestion.
 
 #### See Also
 
 -   [*Data Cloud Reference Guide*: Get Started](atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm "Use this section to understand the prerequisites required to get started with Data Cloud API libraries and SDKs.")
+
+## Code Examples
+
+```
+POST https://login.salesforce.com/services/oauth2/token
+Content-Type : x-www-form-urlencoded
+grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer
+&assertion=<JWT_ASSERTION_TOKEN>
+```
+
+```json
+{
+  "access_token": "<SALESFORCE_ACCESS_TOKEN>",
+  "scope": "cdp_ingest_api",
+  "instance_url": "https://<YOUR_INSTANCE>.salesforce.com",
+  "id": "https://<YOUR_INSTANCE>.salesforce.com/id/<ORG_ID>/<USER_ID>",
+  "token_type": "Bearer"
+}
+```
+
+```
+POST https://<DATA_CLOUD_INSTANCE>/services/a360/token
+Content-Type : x-www-form-urlencoded
+grant_type=urn:salesforce:grant-type:external:cdp
+&subject_token=<SALESFORCE_ACCESS_TOKEN>
+&subject_token_type=urn:ietf:params:oauth:token-type:access_token
+```
+
+```json
+{
+  "access_token": "<DATA_CLOUD_ACCESS_TOKEN>",
+  "instance_url": "https://<DATA_CLOUD_INSTANCE>",
+  "token_type": "Bearer",
+  "issued_token_type": "urn:ietf:params:oauth:token-type:jwt",
+  "expires_in": 7191
+}
+```
+
+## Related Topics
+
+- Streaming Ingestion Walkthrough (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_streaming_insert_example.htm)
+- Bulk Ingestion Walkthrough (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_bulk_insert_example.htm)
+- Data Cloud Reference Guide: Get Started (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm)

@@ -5,11 +5,16 @@ topic: embeddedserviceliveagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:52.210Z
-keywords: [EmbeddedServiceLiveAgent, Important, File, Suffix, Directory, Location, Version, Fields, EmbeddedServiceQuickAction, Declarative, Metadata, Sample, Definition, Usage, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:39.235Z
+estimatedTokens: 1357
+keywords: [EmbeddedServiceLiveAgent, Represents, setup, node, creating, embedded, chat, deployment., extends, Metadata, metadata, inherits, its, fullName, field., Important, File, Suffix, Directory, Location]
 ---
 
 # EmbeddedServiceLiveAgent
+
+> Represents a setup node for creating an
+    embedded chat deployment. This type extends the Metadata metadata type and inherits its 
+    fullName field.
 
 # EmbeddedServiceLiveAgent
 
@@ -90,3 +95,49 @@ Any changes you make to the image fields override what you’ve entered in Setup
 ## Wildcard Support in the Manifest File
 
 This metadata type doesn’t support the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceLiveAgent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <avatarImg>https://google.com/avatar.png</avatarImg>
+    <customPrechatComponent>auraCustomPrechat</customPrechatComponent>
+    <embeddedServiceConfig>EswConfig001</embeddedServiceConfig>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>EmbeddedServiceLiveAgent_Parent04Ixx0000000001EAA_15ec5bd2971</embeddedServiceLiveAgent>
+        <order>1</order>
+        <quickActionDefinition>Snapins_Contact_QuickAction_08hRM000000001h</quickActionDefinition>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>EmbeddedServiceLiveAgent_Parent04Ixx0000000001EAA_15ec5bd2971</embeddedServiceLiveAgent>
+        <order>1</order>
+        <quickActionDefinition>Snapins_Case_OfflineCaseQuickAction_08hRM000000001h</quickActionDefinition>
+        <quickActionType>OfflineCase</quickActionType>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>EmbeddedServiceLiveAgent_Parent04Ixx0000000001EAA_15ec5bd2971</embeddedServiceLiveAgent>
+        <order>2</order>
+        <quickActionDefinition>Snapins_Case_QuickAction_08hRM000000001h</quickActionDefinition>
+    </embeddedServiceQuickActions>
+    <enabled>true</enabled>
+    <fontSize>Medium</fontSize>
+    <headerBackgroundImg>https://google.com/headerBackgroundImg.png</headerBackgroundIm>
+    <isOfflineCaseEnabled>true</isOfflineCaseEnabled>
+    <isQueuePositionEnabled>true</isQueuePositionEnabled>
+    <liveChatButton>chatButton01</liveChatButton>
+    <liveChatDeployment>liveAgentDeployment01</liveChatDeployment>
+    <masterLabel>EmbeddedServiceLiveAgent_Parent04Ixx0000000001EAA_15ec5bd2971</masterLabel>
+    <offlineCaseBackgroundImg>https://google.com/offlineCaseBackgroundImg.png</offlineCaseBackgroundImg>
+    <prechatBackgroundImg>https://google.com/prechatBackgroundImg.png</prechatBackgroundImg>
+    <prechatEnabled>true</prechatEnabled>
+    <scenario>Service</scenario>
+    <smallCompanyLogoImg>https://google.com/smallCompanyLogoImg.png</smallCompanyLogoImg>
+    <waitingStateBackgroundImg>https://google.com/waitingImage.png</waitingStateBackgroundImg>
+</EmbeddedServiceLiveAgent>
+```
+
+## Related Topics
+
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

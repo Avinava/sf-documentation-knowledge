@@ -5,11 +5,15 @@ topic: deploy-apex-using-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.997Z
-keywords: [Deploy, Apex, Metadata, API, Note, See]
+lastCollected: 2026-03-12T05:14:33.209Z
+estimatedTokens: 401
+keywords: [Deploy, Apex, Metadata, API, deploy, customization, information, such, custom, definitions, org., Note]
 ---
 
 # Deploy Apex Using Metadata API
+
+> Use Metadata API to deploy customization information, such as custom object definitions
+  for your org.
 
 # Deploy Apex Using Metadata API
 
@@ -29,5 +33,10 @@ If a single deployment has over 2,000 Apex classes, [ApexCodeCoverage](https://d
 #### See Also
 
 -   [*Metadata API Developer Guide*: deploy()](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_deploy.htm "Metadata API Developer Guide: deploy() - HTML (New Window)")
-    
+
 -   [*Using Salesforce Features with Apex*: Metadata](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_metadata.htm "Using Salesforce Features with Apex: Metadata - HTML (New Window)")
+
+## Related Topics
+
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_deploying_ide.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_deploying_toolingAPI.htm)

@@ -5,11 +5,15 @@ topic: authorization-form-text-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:42.677Z
-keywords: [Authorization, Form, Text, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:12.885Z
+estimatedTokens: 535
+keywords: [Authorization, Form, Text, DMO, Data, Cloud, data, model, authorization, form’s, text, language, settings., API, Name, Category, Primary, Subject, Area, Key]
 ---
 
 # Authorization Form Text DMO
+
+> The Authorization Form Text DMO is a Data Cloud data model object
+      (DMO) for an authorization form’s text and language settings.
 
 # Authorization Form Text DMO
 

@@ -5,11 +5,17 @@ topic: supported-salesforce-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.120Z
-keywords: [Supported, Salesforce, Editions, Note, Metadata, API, Access, Professional, Edition]
+lastCollected: 2026-03-12T05:14:39.097Z
+estimatedTokens: 664
+keywords: [Supported, Salesforce, Editions, Metadata, API, organization, must, Enterprise, Edition, Unlimited, Performance, Developer, Edition., you’re, existing, customer, want, upgrade, contact, account]
 ---
 
 # Supported Salesforce Editions
+
+> To use Metadata API, your organization must use Enterprise Edition, Unlimited
+        Edition, Performance Edition, or Developer Edition. If you’re an existing
+      Salesforce customer and want to upgrade to Enterprise, Unlimited, or Performance Edition,
+      contact your account representative.
 
 # Supported Salesforce Editions
 
@@ -35,3 +41,7 @@ As an ISV partner, you can request Metadata API access by following these steps.
 2.  After your app is approved, log a case in the [Partner Community](https://partners.salesforce.com/ "HTML (New Window)") in **AppExchange and Feature Requests** | **API Token Request**, and specify SOAP for the type of token.
 
 To make calls to the Metadata API, append the API token to the [CallOptions](atlas.en-us.api_meta.meta/api_meta/meta_calloptions.htm "Specifies the API client identifier.") SOAP header in your calls.
+
+## Related Topics
+
+- CallOptions (atlas.en-us.api_meta.meta/api_meta/meta_calloptions.htm)

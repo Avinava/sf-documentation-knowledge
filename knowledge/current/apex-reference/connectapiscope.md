@@ -5,11 +5,14 @@ topic: connectapiscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:39.978Z
-keywords: [ConnectApi.Scope, See]
+lastCollected: 2026-03-12T05:14:28.950Z
+estimatedTokens: 105
+keywords: [ConnectApi.Scope, Scope, information, target.]
 ---
 
 # ConnectApi.Scope
+
+> Scope information for a target.
 
 # ConnectApi.Scope
 
@@ -23,3 +26,8 @@ Scope information for a target.
 #### See Also
 
 -   [ConnectApi.Target](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target.htm "Personalization target information.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Target (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_target.htm)

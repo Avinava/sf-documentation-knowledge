@@ -5,11 +5,15 @@ topic: disclosuretype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.008Z
-keywords: [DisclosureType, Parent, Type, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:38.917Z
+estimatedTokens: 532
+keywords: [DisclosureType, Represents, types, disclosures, done, individual, organization, associated, metadata., Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative]
 ---
 
 # DisclosureType
+
+> Represents the types of disclosures that are done by an
+			individual or an organization and the associated metadata.
 
 # DisclosureType
 
@@ -59,3 +63,35 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<DisclosureType
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<description>This is ESG Disclosure Type</description>
+	<disclosureBodyLogo>asdf</disclosureBodyLogo>
+	<disclosureCategory>EnvSocGvnc</disclosureCategory>
+	<disclosureBodyUrl>disclosure body url</disclosureBodyUrl>
+	<isProtected>false</isProtected>
+	<masterLabel>ESG</masterLabel>
+</DisclosureType>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package
+	xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>Pkg</fullName>
+	<types>
+		<members>ESG</members>
+		<name>DisclosureType</name>
+	</types>
+	<types>
+		<name>StaticResource</name>
+		<members>asdf</members>
+	</types>
+	<version>57.0</version>
+</Package>
+```

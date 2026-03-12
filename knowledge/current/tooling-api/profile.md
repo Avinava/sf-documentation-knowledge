@@ -5,11 +5,16 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:38.562Z
-keywords: [Profile, Supported, SOAP, Calls, REST, HTTP, Methods, Special, Access, Rules, Important, Fields]
+lastCollected: 2026-03-12T05:14:46.521Z
+estimatedTokens: 802
+keywords: [Profile, Represents, user, profile., profile, defines, user’s, permission, perform, different, functions, within, Salesforce., extends, Metadata, metadata, inherits, its, fullName, field.]
 ---
 
 # Profile
+
+> Represents a user profile. A profile defines a user’s
+        permission to perform different functions within Salesforce. This type extends the Metadata 
+        metadata type and inherits its fullName field.
 
 # Profile
 

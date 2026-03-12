@@ -5,11 +5,16 @@ topic: sobject-rich-text-image-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.737Z
-keywords: [sObject, Rich, Text, Image, Get, Syntax, Example, See]
+lastCollected: 2026-03-12T05:14:36.103Z
+estimatedTokens: 497
+keywords: [sObject, Rich, Text, Image, Get, specified, image, data, specific, rich, text, area, field, given, record., get, must, record, uploaded, field.]
 ---
 
 # sObject Rich Text Image Get
+
+> Gets the specified image data from a specific rich text area
+   field in a given record. To get an image, you must have a record with an image uploaded to a
+  rich text area field.
 
 # sObject Rich Text Image Get
 
@@ -49,3 +54,28 @@ For an example of retrieving the blob data from a rich text area field, see [Get
 #### See Also
 
 -   [Object Reference for the Salesforce Platform](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/)
+
+## Code Examples
+
+```
+{
+   "attributes" : {
+      "type" : "Lead",
+      "url" : "/services/data/v66.0/sobjects/Lead/00QRM000003ZfDb2AK"
+   },
+   "Id" : "00QRM000003ZfDb2AK",
+   ...
+   "ContactPhoto__c" : 
+   "Sarah Loehr and her two dogs.
+   <img alt="Sarah Loehr." 
+   src="https://MyDomainName.file.force.com/servlet/rtaImage?
+   eid=00QRM000003ZfDb&amp;
+   feoid=00NRM000001E73j&amp;
+   refid=0EMRM00000002Ip"></img>"
+}
+```
+
+## Related Topics
+
+- retrieving information for the object (atlas.en-us.api_rest.meta/api_rest/resources_sobject_retrieve.htm)
+- Get an Image from a Rich Text Area Field (atlas.en-us.api_rest.meta/api_rest/dome_sobject_rich_text_image_retrieve.htm)

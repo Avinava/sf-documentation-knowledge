@@ -5,11 +5,15 @@ topic: alternativepaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.620Z
-keywords: [alternativePaymentMethod, Signature, Property, Value]
+lastCollected: 2026-03-12T05:14:24.067Z
+estimatedTokens: 73
+keywords: [alternativePaymentMethod, alternative, payment, used, postauthorizaiton, request.]
 ---
 
 # alternativePaymentMethod
+
+> The alternative payment method object used in a postauthorizaiton
+      payment method request.
 
 # alternativePaymentMethod
 

@@ -5,11 +5,15 @@ topic: predictions-version-2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.948Z
-keywords: [Predictions, Version, Special, Access, Rules]
+lastCollected: 2026-03-12T05:14:49.408Z
+estimatedTokens: 578
+keywords: [Predictions, Version, Identify, prediction, scores, given, request, which, customer, service, representatives, utilize, improve, overall, experience., Special, Access, Rules]
 ---
 
 # Predictions Version 2
+
+> Identify the prediction scores for the given request which the customer service
+    representatives can utilize to improve overall customer experience.
 
 # Predictions Version 2
 
@@ -67,3 +71,44 @@ Properties
 Response body for POST
 
 [Prediction Response](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_prediction_response.htm "Predictions for a given request.")
+
+## Code Examples
+
+```
+/connect/aiaccelerator/v2/predictions
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/aiaccelerator/v2/predictions
+```
+
+```
+{
+  "usecaseName": "usecaseApiName",
+  "predictionPlatform": "Einstein_on_Data_Cloud",
+  "usecaseModelName": "usecaseNameApiName",
+  "featureExtractorDevName": "featureExtractorIdentifier",
+  "featureExtractorId": "a0Bx00000007YZzEAM",
+  "featureExtractionParameters": [
+    {
+      "featureExtractionParametersMapValue": {
+        "recordId": "01tx00000006j2DAAQ1"
+      }
+    }
+  ],
+  "records": {
+    "wrappedList": [
+      "a00x0000000CHa0AAG"
+    ]
+  },
+  "scoringThreshold": "50",
+  "maxInsights": 3,
+  "sortingOrder": "ASC",
+  "scoreFilterCriteria": "GreaterThanEquals"
+}
+```
+
+## Related Topics
+
+- Feature Extraction Parameters Map Value (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_feature_extraction_parameters_map_value.htm)
+- Prediction Response (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_prediction_response.htm)

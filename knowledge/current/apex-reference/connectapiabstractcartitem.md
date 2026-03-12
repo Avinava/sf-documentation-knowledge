@@ -5,11 +5,14 @@ topic: connectapiabstractcartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:37.768Z
-keywords: [ConnectApi.AbstractCartItem, See]
+lastCollected: 2026-03-12T05:14:25.845Z
+estimatedTokens: 690
+keywords: [ConnectApi.AbstractCartItem, cart, item.]
 ---
 
 # ConnectApi.AbstractCartItem
+
+> A cart item.
 
 # ConnectApi.AbstractCartItem
 
@@ -47,3 +50,16 @@ Superclass of:
 #### See Also
 
 -   [ConnectApi.CartItemResult](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item_result.htm "Result after requesting a cart item.")
+
+## Related Topics
+
+- ConnectApi.CartItem (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item.htm)
+- ConnectApi.CartItemWithoutPrice (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_item_no_price.htm)
+- ConnectApi.​BillingFrequency (atlas.en-us.apexref.meta/apexref/connectAPI_enums.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- SObject (atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm)
+- Boolean (atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm)
+- ConnectApi.​CartMessagesSummary (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_messages_summary.htm)
+- ConnectApi.​CartItemProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_summary.htm)

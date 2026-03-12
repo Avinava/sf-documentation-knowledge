@@ -5,11 +5,15 @@ topic: using-certificates-with-http-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:43:46.372Z
-keywords: [Certificates, HTTP, Requests]
+lastCollected: 2026-03-12T05:14:32.316Z
+estimatedTokens: 227
+keywords: [Certificates, HTTP, Requests, After, generated, certificate, Salesforce, support, two-way, authentication, callout, request.]
 ---
 
 # Using Certificates with HTTP Requests
+
+> After you have generated a certificate in Salesforce, you can use it to support two-way
+   authentication for a callout to an HTTP request.
 
 # Using Certificates with HTTP Requests
 
@@ -27,3 +31,15 @@ The following example illustrates the last step of the previous procedure. This 
 ```
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_soap.htm "Using Certificates with SOAP Services")
+
+## Code Examples
+
+```
+HttpRequest req = new HttpRequest();
+req.setClientCertificateName('DocSampleCert');
+```
+
+## Related Topics
+
+- Generate a certificate (atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_generate.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs_soap.htm)

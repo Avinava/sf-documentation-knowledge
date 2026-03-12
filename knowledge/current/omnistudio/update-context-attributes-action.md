@@ -5,11 +5,14 @@ topic: update-context-attributes-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:07.506Z
-keywords: [Update, Context, Attributes, Action, Special, Access, Rules, Supported, REST, HTTP, Methods, Inputs, Outputs, Example]
+lastCollected: 2026-03-12T05:14:47.355Z
+estimatedTokens: 211
+keywords: [Update, Context, Attributes, Action, attributes, context, instance, tags., Special, Access, Rules, Supported, REST, HTTP, Inputs, Outputs, Example]
 ---
 
 # Update Context Attributes Action
+
+> Update the attributes in the context instance using tags.
 
 # Update Context Attributes Action
 
@@ -58,4 +61,32 @@ This sample request is for the Update Context Attributes action.
 
 ```
 
+```
+
+## Code Examples
+
+```
+{
+  "inputs": [
+    {
+      "contextId": "0000000a07da09100251752497651022c35b6150a4d04cd6a84bf1a0439cc609",
+      "NodePathAndUpdatedValues": [
+        {
+          "nodePath": {
+            "dataPath": [
+              "account1",
+              "contact1"
+            ]
+          },
+          "tagValues": [
+            {
+              "tagName": "Contact_LastName",
+              "tagValue": "UPDATED_MILLER"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
 ```

@@ -5,11 +5,14 @@ topic: context-mapping-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:08.667Z
-keywords: [Context, Mapping, POST, PATCH]
+lastCollected: 2026-03-12T05:14:48.990Z
+estimatedTokens: 479
+keywords: [Context, Mapping, POST, PATCH, Create, update, context, mappings.]
 ---
 
 # Context Mapping (POST, PATCH)
+
+> Create and update context mappings.
 
 # Context Mapping (POST, PATCH)
 
@@ -79,3 +82,72 @@ JSON example
 Response body for PATCH
 
 [Context Mapping List Output](atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_mapping_list.htm "Output representation of a list of context mappings.")
+
+## Code Examples
+
+```
+/connect/context-definitions/${contextDefinitionId}/context-mappings
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-mappings
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v59.0/connect/context-definitions/${contextDefinitionId}/context-mappings
+```
+
+```
+{
+  "contextMappings": [
+    {
+      "name": "ExampleMapping",
+      "description": "Example Mapping Description",
+      "isDefault": true,
+      "intents": [
+        "ASSOCIATION",
+        "HYDRATION",
+        "PERSISTENCE",
+        "TRANSLATION"
+      ]
+    }
+  ],
+  "generateInputMappings": false,
+  "generateSObjectMappings": false
+}
+```
+
+```
+{
+    "contextMappings": [
+      {
+        "contextMappingId": "11jxx0000005UXnAAM",
+        "contextNodeMappings": {
+          "contextNodeMappings": [
+            {
+              "attributeMappings": {
+                "contextAttributeMappings": [
+                  {
+                    "hydrationDetails": {
+                      "contextAttrHydrationDetails": []
+                    },
+                    "contextAttributeId": "11nxx000001ihzFAAQ",
+                    "contextInputAttributeName": "Node1A1"
+                  }
+                ]
+              },
+              "contextNodeId": "11oxx000001HS0iAAG",
+              "sObjectName": "Node1"
+            }
+          ]
+        }
+      }
+    ]
+  }
+```
+
+## Related Topics
+
+- Context Node Mappings
+                                                Input[] (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_node_mappings_input.htm)
+- Context Mapping List Output (atlas.en-us.industries_reference.meta/industries_reference/connect_responses_context_mapping_list.htm)

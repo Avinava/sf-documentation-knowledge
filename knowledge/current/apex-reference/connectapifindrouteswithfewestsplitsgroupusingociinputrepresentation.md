@@ -5,11 +5,15 @@ topic: connectapifindrouteswithfewestsplitsgroupusingociinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.187Z
-keywords: [ConnectApi.FindRoutesWithFewestSplitsGroupUsingOCIInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:24.943Z
+estimatedTokens: 513
+keywords: [ConnectApi.FindRoutesWithFewestSplitsGroupUsingOCIInputRepresentation, Data, used, calculate, inventory, availability, fulfillment, routes, order, involving, fewest, number, shipment, splits.]
 ---
 
 # ConnectApi.FindRoutesWithFewestSplitsGroupUsingOCIInputRepresentation
+
+> Data used to calculate inventory availability and fulfillment routes for one order
+    involving the fewest number of shipment splits.
 
 # ConnectApi.FindRoutesWithFewestSplitsGroupUsingOCIInputRepresentation
 
@@ -24,5 +28,14 @@ Data used to calculate inventory availability and fulfillment routes for one ord
 #### See Also
 
 -   [findRoutesWithFewestSplitsUsingOCI(findRoutesWithFewestSplitsUsingOCIInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Routing_static_methods.htm#apex_ConnectAPI_Routing_findRoutesWithFewestSplitsUsingOCI_1 "For one or more order summaries, find inventory availability using Omnichannel Inventory and identify the fulfillment routes with fewest splits. By default, checks up to 1,000,000 potential routes, returning a maximum of 10,000 results. This method combines the functionality of the getInventoryAvailability() and findRoutesWithFewestSplits() methods.")
-    
+
 -   [ConnectApi.FindRoutesWithFewestSplitsUsingOCIInputRepresentation](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_find_routes_with_fewest_splits_using_o_c_i.htm "Data used to calculate order fulfillment routes involving the fewest number of shipment splits, taking into account inventory availability.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.FindRoutesWithFewestSplits​UsingOCIItemInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_find_routes_with_fewest_splits_using_o_c_i_item.htm)
+- findRoutesWithFewestSplitsUsingOCI(findRoutesWithFewestSplitsUsingOCIInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Routing_static_methods.htm)
+- ConnectApi.FindRoutesWithFewestSplitsUsingOCIInputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_find_routes_with_fewest_splits_using_o_c_i.htm)

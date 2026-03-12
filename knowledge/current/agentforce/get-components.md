@@ -5,11 +5,15 @@ topic: get-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:08:17.782Z
-keywords: [Get, Components, Request, Response, CIComponent, Note]
+lastCollected: 2026-03-12T05:14:15.268Z
+estimatedTokens: 550
+keywords: [Get, Components, Retrieve, child, components, specific, configuration, item, its, unique, identifier., Request, Response, CIComponent, Note]
 ---
 
 # Get Components
+
+> Retrieve child components of a specific type for a configuration
+      item by its unique identifier.
 
 # Get Components
 
@@ -69,3 +73,61 @@ Properties
 #### Note
 
 You can request any available configuration item attribute in the records selection by using its developer name (for example, SD\_AsNa, SD\_OpSy). The response includes only the fields you request. Learn more [CI Types and Attributes](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/graphql_api_agentic_it_service_canonical.htm#CI_Types_Attributes).
+
+## Code Examples
+
+```
+query GetComponentsByCIId {
+   getComponentsByCIId(
+       ciId: 6460949
+       componentCiType: "SD_NeAd"
+       pageNumber: null
+       pageSize: null
+   ) {
+       ciId
+       records {
+           id
+           SD_AsNa
+           SD_AsId
+           SD_CiOwGr
+       }
+   }
+}
+```
+
+```
+{
+   "data": {
+       "getComponentsByCIId": {
+           "ciId": "6460949",
+           "records": [
+               {
+                   "id": 6899801,
+                   "SD_AsNa": "New Component",
+                   "SD_AsId": "AST6899801",
+                   "SD_CiOwGr": null
+               },
+               {
+                   "id": 6460950,
+                   "SD_AsNa": "eni-0a13f4fe4dede3844",
+                   "SD_AsId": "AST6460950",
+                   "SD_CiOwGr": null
+               }
+           ]
+       }
+   }
+}
+```
+
+```
+{
+  "id": 6899801,
+  "SD_AsNa": "New Component",
+  "SD_AsId": "AST6899801",
+  "SD_CiOwGr": null
+}
+```
+
+## Related Topics
+
+- CI Types and Attributes (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/graphql_api_agentic_it_service_canonical.htm)

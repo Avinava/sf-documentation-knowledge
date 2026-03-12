@@ -5,11 +5,15 @@ topic: connectapireturnorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.539Z
-keywords: [ConnectApi.ReturnOrderInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.499Z
+estimatedTokens: 435
+keywords: [ConnectApi.ReturnOrderInputRepresentation, Data, creating, ReturnOrder, ReturnOrderLineItems.]
 ---
 
 # ConnectApi.ReturnOrderInputRepresentation
+
+> Data for creating a ReturnOrder and
+    ReturnOrderLineItems.
 
 # ConnectApi.ReturnOrderInputRepresentation
 
@@ -26,3 +30,9 @@ Data for creating a ReturnOrder and ReturnOrderLineItems.
 #### See Also
 
 -   [createReturnOrder(returnOrderInput)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm#apex_ConnectAPI_ReturnOrder_createReturnOrder_1 "Create a ReturnOrder and ReturnOrderLineItems for items belonging to an OrderSummary.")
+
+## Related Topics
+
+- ConnectApi.​RefundInstructionsHint​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order_line_item.htm)
+- ConnectApi.​ReturnOrderLineItem​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_return_order_line_item.htm)
+- createReturnOrder(returnOrderInput) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ReturnOrder_static_methods.htm)

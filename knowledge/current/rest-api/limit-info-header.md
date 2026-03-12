@@ -5,11 +5,14 @@ topic: limit-info-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:44:25.050Z
-keywords: [Limit, Info, Header, Field, Name, Values, See]
+lastCollected: 2026-03-12T05:14:35.136Z
+estimatedTokens: 299
+keywords: [Limit, Info, Header, response, header, returned, request, REST, API, except, calls, Versions, URI, which, count, towards, org’s, limit, information, monitor]
 ---
 
 # Limit Info Header
+
+> This response header is returned in each request to REST API (except for calls to the Versions URI, /, which do not count towards your org’s limit). You can use the information to monitor API limits.
 
 # Limit Info Header
 
@@ -34,3 +37,7 @@ Sforce-Limit-Info: api-usage=10018/100000
 #### See Also
 
 -   [*Salesforce Functions Guide*: Functions Limits](https://developer.salesforce.com/docs/platform/functions/guide/limits.html "Salesforce Functions Guide: Functions Limits - HTML (New Window)")
+
+## Related Topics
+
+- Versions (atlas.en-us.api_rest.meta/api_rest/resources_versions.htm)

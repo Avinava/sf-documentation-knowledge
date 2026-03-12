@@ -5,11 +5,18 @@ topic: expssetobjectaliasfieldvw
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:11.999Z
-keywords: [ExpsSetObjectAliasFieldVw, Supported, Calls, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:53.989Z
+estimatedTokens: 1229
+keywords: [ExpsSetObjectAliasFieldVw, Represents, virtual, provides, consolidated, view, source, its, alias, fields, their, aliases, used, expression, set., check, permission, level, required, access]
 ---
 
 # ExpsSetObjectAliasFieldVw
+
+> Represents the virtual object that provides a consolidated view of
+         source object and its alias, and the source object fields and their aliases that are used
+         in an expression set. This object is used to check the permission level required to access
+         the underlying object fields associated with their field aliases. This object is
+      available in API version 56.0 and later.
 
 # ExpsSetObjectAliasFieldVw
 

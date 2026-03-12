@@ -5,11 +5,15 @@ topic: expression-set-version-variable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.502Z
-keywords: [Expression, Set, Version, Variable]
+lastCollected: 2026-03-12T05:14:50.248Z
+estimatedTokens: 455
+keywords: [Expression, Set, Version, Variable, Output, representation, variable, expression, set, version.]
 ---
 
 # Expression Set Version Variable
+
+> Output representation of a variable in an expression set
+    version.
 
 # Expression Set Version Variable
 

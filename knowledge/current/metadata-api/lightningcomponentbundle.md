@@ -5,11 +5,15 @@ topic: lightningcomponentbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.309Z
-keywords: [LightningComponentBundle, Important, Special, Access, Rules, Fields, Capabilities, LwcResources, LwcResource, Targets, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
+lastCollected: 2026-03-12T05:14:40.829Z
+estimatedTokens: 1581
+keywords: [LightningComponentBundle, Represents, Lightning, web, component, bundle., bundle, contains, resources., Important, Special, Access, Rules, Fields, Capabilities, LwcResources, LwcResource, Targets, Declarative, Metadata]
 ---
 
 # LightningComponentBundle
+
+> Represents a Lightning web component bundle. A
+      bundle contains Lightning web component resources.
 
 # LightningComponentBundle
 
@@ -116,3 +120,58 @@ Content of hello.js-meta.xml.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<ai>
+    <description>AI component description Example: The component enables users to add and style text content for dashboards, supporting features such as hyperlinks, bullet points, and text alignment. Ideal for adding formatted text sections such as instructions</description>
+    <property name="prop1" aiDescription="AI description for prop1"/>
+    <property name="prop2" aiDescription="AI description for prop2"/>
+</ai>
+```
+
+```
+<targetConfigs>
+    <targetConfig targets="lightning__RecordPage">
+        <objects>
+            <object>Contact</object>
+        </objects>
+    </targetConfig>
+</targetConfigs>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>45.0</version>
+</Package>
+```
+
+```
+lwc
+    hello
+        hello.html
+        hello.js
+        hello.js-meta.xml
+```
+
+```
+<template>
+
+    <lightning-card title="Hello" icon-name="custom:custom14">
+        <div class="slds-m-around_medium">
+            Hello, {greeting}!
+        </div>
+    </lightning-card>
+
+</template>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

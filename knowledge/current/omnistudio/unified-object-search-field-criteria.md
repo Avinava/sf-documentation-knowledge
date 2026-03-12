@@ -5,11 +5,15 @@ topic: unified-object-search-field-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:08.564Z
-keywords: [Unified, Object, Search, Field, Criteria]
+lastCollected: 2026-03-12T05:14:48.842Z
+estimatedTokens: 211
+keywords: [Unified, Search, Field, Criteria, Input, representation, search, unified, field, criteria.]
 ---
 
 # Unified Object Search Field Criteria
+
+> Input representation to search the unified object search field
+      criteria.
 
 # Unified Object Search Field Criteria
 

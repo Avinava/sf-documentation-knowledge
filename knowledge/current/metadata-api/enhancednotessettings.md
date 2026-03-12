@@ -5,11 +5,16 @@ topic: enhancednotessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.277Z
-keywords: [EnhancedNotesSettings, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Example, Package, Manifest]
+lastCollected: 2026-03-12T05:14:39.327Z
+estimatedTokens: 512
+keywords: [EnhancedNotesSettings, Represents, org’s, enhanced, note, settings, such, enabling, notes, tasks, notes.This, extends, Metadata, metadata, inherits, its, fullName, field., File, Suffix]
 ---
 
 # EnhancedNotesSettings
+
+> Represents an org’s enhanced note settings, such as
+      enabling enhanced notes and enabling tasks in enhanced notes.This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # EnhancedNotesSettings
 
@@ -47,3 +52,29 @@ The following is an example package manifest used to deploy or retrieve the Enha
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<EnhancedNotesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+	<enableEnhancedNotes>true</enableEnhancedNotes>
+	<enableTasksOnEnhancedNotes>true</enableTasksOnEnhancedNotes>
+</EnhancedNotesSettings>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>EnhancedNotes</members>
+		<name>Settings</name>
+	</types>
+	<version>47.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

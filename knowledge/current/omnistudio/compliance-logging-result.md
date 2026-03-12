@@ -5,11 +5,14 @@ topic: compliance-logging-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.138Z
-keywords: [Compliance, Logging, Result]
+lastCollected: 2026-03-12T05:14:49.699Z
+estimatedTokens: 120
+keywords: [Compliance, Logging, Result, Output, representation, single, compliance, logging.]
 ---
 
 # Compliance Logging Result
+
+> Output representation of a single compliance logging.
 
 # Compliance Logging Result
 

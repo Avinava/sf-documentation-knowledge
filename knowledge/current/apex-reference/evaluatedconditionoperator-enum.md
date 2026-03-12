@@ -5,11 +5,19 @@ topic: evaluatedconditionoperator-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:40.525Z
-keywords: [EvaluatedConditionOperator, Enum, Namespace, Values]
+lastCollected: 2026-03-12T05:14:29.698Z
+estimatedTokens: 202
+namespace: Reports
+keywords: [EvaluatedConditionOperator, Reports.EvaluatedConditionOperator, describes, operator, used, compare, aggregate, value., returned, getOperator, method., Values]
 ---
 
 # EvaluatedConditionOperator Enum
+
+> The Reports.EvaluatedConditionOperator enum
+  describes the type of operator used to compare an aggregate to a value. It is returned by the
+   getOperator method.
+
+**Namespace:** `Reports`
 
 # EvaluatedConditionOperator Enum
 
@@ -31,3 +39,7 @@ The following are the values of the Reports.EvaluatedConditionOperator enum.
 | LESS_THAN | Less than operator. |
 | LESS_THAN_EQUAL | Less than or equal to operator. |
 | NOT_EQUAL | Inequality operator. |
+
+## Related Topics
+
+- Reports (atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm)

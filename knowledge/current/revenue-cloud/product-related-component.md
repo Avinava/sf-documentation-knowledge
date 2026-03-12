@@ -5,11 +5,14 @@ topic: product-related-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.485Z
-keywords: [Product, Related, Component]
+lastCollected: 2026-03-12T05:14:08.220Z
+estimatedTokens: 693
+keywords: [Product, Related, Component, Output, representation, product-related, component.]
 ---
 
 # Product Related Component
+
+> Output representation of the product-related component.
 
 # Product Related Component
 
@@ -42,3 +45,28 @@ JSON example
 | quantity​Scale​Method | String | Method to scale the quantity of the child product in relation to the quantity of the parent. Valid values are:ConstantProportional | Small, 60.0 | 60.0 |
 | quote​Visibility | String | Specifies whether a quote line item must be shown on the transaction line editor or quote document. Valid values are:AlwaysTransaction Line Editor Only—Specifies whether to show a quote line item on quote editor only.Quote Document Only—Specifies whether to show a quote line item on quote proposal only.NeverThe API returns this property only if the CoreCPQ permission set is available. | Small, 64.0 | 64.0 |
 | sequence | Integer | Order in which the child products are displayed. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"productRelatedComponent": {
+      "childProductId": "01tT1000000F0YyIAK",
+      "childSellingModelId": "0jPT10000004CAfMAM",
+      "doesBundlePriceIncludeChild": true,
+      "id": "0dST100000000rgMAA",
+      "isComponentRequired": false,
+      "isDefaultComponent": false,
+      "isExcluded": false,
+      "isQuantityEditable": true,
+      "maxQuantity": 3,
+      "minQuantity": 1,
+      "parentProductId": "01tT1000000F0afIAC",
+      "parentSellingModelId": "0jPT10000004CAfMAM",
+      "productClassificationId": "11BRO00000000222AA",
+      "productRelationshipTypeId": "0yoT1000000002WIAQ",
+      "quantity": 1,
+      "quantityScaleMethod": "Proportional",
+      "quoteVisibility": "Quote Document Only",
+      "sequence": 1
+}
+```

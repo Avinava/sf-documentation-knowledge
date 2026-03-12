@@ -6,12 +6,16 @@ topic: getinfo-for-lightning-experience-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:50.439Z
-keywords: [getInfo, Lightning, Experience, Arguments, LWC, Sample, Code, Response, See]
+lastCollected: 2026-03-12T05:14:58.049Z
+estimatedTokens: 489
+keywords: [getInfo, Lightning, Experience, state, current, utility, utilityInfo, object., Web, Components, LWC, only., Arguments, Sample, Code, Response]
 ---
 
 # getInfo() for Lightning Experience for Lightning
             Experience
+
+> Returns the state of the current utility as a utilityInfo object. This method is available for Lightning Web Components
+        (LWC) only.
 
 # getInfo() for Lightning Experience for Lightning Experience
 
@@ -56,3 +60,27 @@ This method returns a promise that resolves to a utilityInfo object representing
 #### See Also
 
 -   [*MDN Web Docs*: async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function "MDN Web Docs: async function - HTML (New Window)")
+
+## Code Examples
+
+```
+import { LightningElement, wire } from 'lwc';
+import { EnclosingUtilityId, getInfo } from 'lightning/platformUtilityBarApi';
+
+export default class UtilityInfoExample extends LightningElement {
+    @wire(EnclosingUtilityId) utilityId;
+
+    async handleGetUtilityInfo() {
+        try {
+            if (!this.utilityId) {
+                return;
+            }
+            const utilityInfo = await getInfo(this.utilityId);
+            console.log(utilityInfo);
+        }
+        catch (error) {
+            // handle error
+        }
+    }
+}
+```

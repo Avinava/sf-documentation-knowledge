@@ -5,11 +5,14 @@ topic: connectapifeeditemattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:36.682Z
-keywords: [ConnectApi.FeedItemAttachmentInput, Important]
+lastCollected: 2026-03-12T05:14:24.164Z
+estimatedTokens: 327
+keywords: [ConnectApi.FeedItemAttachmentInput, Used, attach, file, feed, item., Important]
 ---
 
 # ConnectApi.FeedItemAttachmentInput
+
+> Used to attach a file to a feed item.
 
 # ConnectApi.FeedItemAttachmentInput
 
@@ -30,3 +33,12 @@ Superclass for:
 -   [ConnectApi.LinkAttachmentInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_linkAttach.htm "Add links to a feed item.")
 -   [ConnectApi.NewFileAttachmentInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_NewFileAtt.htm "Attach a new file to a feed item.")
 -   [ConnectApi.PollAttachmentInput](atlas.en-us.apexref.meta/apexref/apex_connectapi_input_PollAttachInput.htm "Attach a poll to a feed item.")
+
+## Related Topics
+
+- ConnectApi.FeedElementCapabilityInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_feed_element_capability.htm)
+- ConnectApi.CanvasAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_canvasAtt.htm)
+- ConnectApi.ContentAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_contentAtt.htm)
+- ConnectApi.LinkAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_linkAttach.htm)
+- ConnectApi.NewFileAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_NewFileAtt.htm)
+- ConnectApi.PollAttachmentInput (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_PollAttachInput.htm)

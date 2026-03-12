@@ -5,11 +5,14 @@ topic: connectapicartproductattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.149Z
-keywords: [ConnectApi.CartProductAttribute, See]
+lastCollected: 2026-03-12T05:14:26.366Z
+estimatedTokens: 134
+keywords: [ConnectApi.CartProductAttribute, Product, attribute, cart, item.]
 ---
 
 # ConnectApi.CartProductAttribute
+
+> Product attribute for a cart item.
 
 # ConnectApi.CartProductAttribute
 
@@ -24,3 +27,9 @@ Product attribute for a cart item.
 #### See Also
 
 -   [ConnectApi.CartItemProduct](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_summary.htm "Product summary for a cart item.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- ConnectApi.CartItemProduct (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cart_product_summary.htm)

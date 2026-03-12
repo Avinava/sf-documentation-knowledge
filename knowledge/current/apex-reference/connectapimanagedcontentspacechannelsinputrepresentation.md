@@ -5,11 +5,14 @@ topic: connectapimanagedcontentspacechannelsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:37.290Z
-keywords: [ConnectApi.ManagedContentSpaceChannelsInputRepresentation, See]
+lastCollected: 2026-03-12T05:14:25.113Z
+estimatedTokens: 176
+keywords: [ConnectApi.ManagedContentSpaceChannelsInputRepresentation, Channels, add, remove, managed, content, space.]
 ---
 
 # ConnectApi.ManagedContentSpaceChannelsInputRepresentation
+
+> Channels to add or remove from the managed content space.
 
 # ConnectApi.ManagedContentSpaceChannelsInputRepresentation
 
@@ -22,3 +25,9 @@ Channels to add or remove from the managed content space.
 #### See Also
 
 -   [patchManagedContentSpaceChannels(contentSpaceId, spaceChannels)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm#apex_ConnectAPI_ManagedContentSpaces_patchManagedContentSpaceChannels_2 "Add or remove channels from a managed content space.")
+
+## Related Topics
+
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- ConnectApi.​ManagedContent​SpaceChannel​Input​Representation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_managed_content_space_channel.htm)
+- patchManagedContentSpaceChannels(contentSpaceId, spaceChannels) (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContentSpaces_static_methods.htm)

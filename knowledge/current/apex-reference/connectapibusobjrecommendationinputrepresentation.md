@@ -5,11 +5,14 @@ topic: connectapibusobjrecommendationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:36.845Z
-keywords: [ConnectApi.BusObjRecommendationInputRepresentation]
+lastCollected: 2026-03-12T05:14:24.419Z
+estimatedTokens: 647
+keywords: [ConnectApi.BusObjRecommendationInputRepresentation, Recommended, action, business, objective, goal.]
 ---
 
 # ConnectApi.BusObjRecommendationInputRepresentation
+
+> Recommended action for a business objective, or goal.
 
 # ConnectApi.BusObjRecommendationInputRepresentation
 
@@ -37,3 +40,8 @@ Recommended action for a business objective, or goal.
 | secondaryState | String | Optional state field for additional filtering of recommended action states. | Optional | 62.0 |
 | state | String | Primary state of the recommended action (e.g., "ACTIVE", "INACTIVE", "ACCEPTED", "NOT_EXPIRING"). | Optional | 60.0 |
 | tertiaryState | String | Optional state field for additional filtering of recommended action states. | Optional | 62.0 |
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.ActionInfo​InputRepresentation (atlas.en-us.apexref.meta/apexref/apex_connectapi_input_action_info.htm)

@@ -5,11 +5,15 @@ topic: omnistudio-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:11.200Z
-keywords: [Omnistudio, Business, APIs, Note, See]
+lastCollected: 2026-03-12T05:14:52.744Z
+estimatedTokens: 298
+keywords: [Omnistudio, Business, APIs, RESTful, sometimes, Apex, classes, methods., Note]
 ---
 
 # Omnistudio Business APIs
+
+> Omnistudio Business APIs are RESTful APIs that are sometimes available as Apex classes
+    and methods.
 
 # Omnistudio Business APIs
 
@@ -23,9 +27,13 @@ These APIs have been deprecated as of API version 55.0. In API version 55.0 and 
 
 OmniStudio provides a suite of services, components, and data model objects that combine to create Industry Cloud applications. Create guided interactions using data from your Salesforce org and external sources.
 
--   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/omnistudio_apis_rest_references.htm)**  
+-   **[REST Reference](atlas.en-us.industries_reference.meta/industries_reference/omnistudio_apis_rest_references.htm)**
     You can access Omnistudio APIs using REST endpoints. These REST APIs follow similar conventions as Connect REST APIs.
 
 #### See Also
 
 -   [Omnistudio Foundation Guide](https://volt.my.salesforce.com/sfc/p/o0000000IKm8/a/3m000000nWyq/erXZ51SEaoeirtkzzlQnC5GehNzqvrSTTU3I1rOd3gs "Omnistudio Foundation Guide - HTML (New Window)")
+
+## Related Topics
+
+- REST Reference (atlas.en-us.industries_reference.meta/industries_reference/omnistudio_apis_rest_references.htm)

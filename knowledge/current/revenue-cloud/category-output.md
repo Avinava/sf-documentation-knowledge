@@ -5,11 +5,14 @@ topic: category-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T14:37:50.384Z
-keywords: [Category, Output]
+lastCollected: 2026-03-12T05:14:07.454Z
+estimatedTokens: 383
+keywords: [Category, Output, representation, category, definition.]
 ---
 
 # Category Output
+
+> Output representation of the category definition.
 
 # Category Output
 
@@ -34,3 +37,23 @@ JSON example
 | parent​CategoryId | String | ID of the parent category. | Small, 60.0 | 60.0 |
 | sort​Order | Integer | Display order of the product category relative to the siblings with the same parent category. | Small, 60.0 | 60.0 |
 | sub​Categories | Category Output[] | List of subcategories, if available. This property is returned with the Categories List (GET) API response. | Small, 60.0 | 60.0 |
+
+## Code Examples
+
+```
+"categories": [
+    {
+      "catalogId": "0ZS1Q000000XbZAWA0",
+      "code": "B2B Category",
+      "description": "Products Category",
+      "hasSubCategories": true,
+      "id": "0ZG1Q000000XbVGWA0",
+      "name": "Unified Computing",
+      "numberOfProducts": 2,
+      "parentCategoryId": "0ZGT100000000qlOAA",
+      "sortOrder": 2,
+      "subCategories": [],
+      "isNavigational: false
+    }
+  ]
+```

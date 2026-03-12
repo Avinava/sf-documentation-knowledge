@@ -5,11 +5,15 @@ topic: forecastingsourcedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:52.818Z
-keywords: [ForecastingSourceDefinition, Important, Parent, Type, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Usage]
+lastCollected: 2026-03-12T05:14:40.132Z
+estimatedTokens: 1109
+keywords: [ForecastingSourceDefinition, Represents, measure, date, hierarchy, forecast, uses, project, sales., Important, Parent, File, Suffix, Directory, Location, Version, Fields, Declarative, Metadata, Sample]
 ---
 
 # ForecastingSourceDefinition
+
+> Represents the object, measure, date type, and hierarchy
+      that a forecast uses to project sales.
 
 # ForecastingSourceDefinition
 
@@ -69,3 +73,33 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 -   Forecast types that were available before API version 52.0 can be activated, deactivated, and deleted but not created. To enable an existing forecast type, update the active flag.
 -   Forecast types that are available only in API version 52.0 and later can be created, activated, deactivated, and deleted. If the forecast type doesn’t exist, it is created in the inactive state. If the forecast type exists, the active flag is updated. Deploy the zip file twice to create and activate the forecast type.
 -   Deploy Metadata API types in the following sequence: ForecastingSettings, ForecastingType, ForecastingSourceDefinition, and then ForecastingTypeSource. If all are specified in the package file, the sequence is followed automatically.
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingSourceDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>TestFsd</masterLabel>
+    <sourceObject>Opportunity</sourceObject>
+    <measureField>Opportunity.Amount</measureField>
+    <dateField>Opportunity.CloseDate</dateField>
+    <userField>Opportunity.OwnerId</userField>
+    <categoryField>Opportunity.ForecastCategoryName</categoryField>
+</ForecastingSourceDefinition>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ForecastingSourceDefinition</name>
+    </types>
+    <version>52.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,11 +5,15 @@ topic: report
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:45:54.395Z
-keywords: [Report, Important, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Reports, Version, Fields, ReportAggregateFilter, ReportAggregate, ReportBlockInfo, ReportAggregateReference, ReportBucketField, ReportBucketFieldValue, ReportGrouping, ReportHistoricalSelector]
+lastCollected: 2026-03-12T05:14:42.414Z
+estimatedTokens: 10419
+keywords: [Report, Represents, custom, report., metadata, only, supports, reports, standard, aren’t, supported., Important, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Reports]
 ---
 
 # Report
+
+> Represents a custom report. This metadata type only
+        supports custom reports; standard reports aren’t supported.
 
 # Report
 
@@ -615,3 +619,89 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 #### See Also
 
 -   [Dashboard](atlas.en-us.api_meta.meta/api_meta/meta_dashboard.htm "Represents a dashboard. Dashboards are visual representations of data that allow you to see key metrics and performance at a glance.")
+
+## Code Examples
+
+```apex
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MyDBFolder/MyDBName</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>MyDocumentFolder/MyDocumentName</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SalesNewCustomerEmail</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>MyReportFolder/MyReportName</members>
+        <name>Report</name>
+    </types>
+    <version>66.0</version>
+                        </Package>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>TopLevel/SubLevel/</members>
+        <members>TopLevel/SubLevel/MyReport</members>
+        <name>Report</name>
+    </types>
+    <version>58.0</version>
+</Package>
+```
+
+```
+<filter>
+	<criteriaItems>
+		<column>AMOUNT</column>
+		<operator>greaterThan</operator>
+		<value>1000</value>
+	</criteriaItems>
+</filter>
+```
+
+```
+<criteriaItems>
+   criteriaItems ReportFilterItem
+   <column>Opportunity.Opportunity__hd$Amount__hst</column>
+   <columnToColumn>false</columnToColumn>
+   <operator>equals</operator>
+   <snapshot>N_DAYS_AGO:90</snapshot>
+   <value>100</value>
+</criteriaItems>
+```
+
+```
+<formattingRules>
+	<aggregate>Sum</aggregate>
+	<columnName>Sales</columnName>
+        <values>
+            <backgroundColor>#B50E03</backgroundColor> 
+            <rangeUpperBound>100.0</rangeUpperBound>
+        </values>
+        <values>
+            <rangeUpperBound>1000.0</rangeUpperBound>
+        </values>
+        <values>
+            <backgroundColor>#006714</backgroundColor>
+        </values>
+</formattingRules>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- ListMetadataQuery (atlas.en-us.api_meta.meta/api_meta/meta_listmetadataquery.htm)
+- FileProperties (atlas.en-us.api_meta.meta/api_meta/meta_retrieveresult.htm)
+- Language (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)
+- enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
+- Dashboard (atlas.en-us.api_meta.meta/api_meta/meta_dashboard.htm)

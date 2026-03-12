@@ -5,11 +5,15 @@ topic: geterrortypename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:42:38.029Z
-keywords: [getErrorTypeName, Signature, Return, Value]
+lastCollected: 2026-03-12T05:14:26.195Z
+estimatedTokens: 77
+keywords: [getErrorTypeName, contains, name, error, type.]
 ---
 
 # getErrorTypeName()
+
+> Returns a String that contains the name
+of the error type.
 
 # getErrorTypeName()
 
@@ -22,3 +26,7 @@ public String getErrorTypeName()
 ## Return Value
 
 Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)

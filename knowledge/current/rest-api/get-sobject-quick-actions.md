@@ -5,11 +5,15 @@ topic: get-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:44:25.700Z
-keywords: [Get, sObject, Quick, Actions, Syntax, Example]
+lastCollected: 2026-03-12T05:14:36.050Z
+estimatedTokens: 202
+keywords: [Get, sObject, Quick, Actions, specific, object’s, actions, well, actions., resource, REST, API, version, 28.0, later., Syntax, Example]
 ---
 
 # Get sObject Quick Actions
+
+> Returns a specific object’s actions as well as global actions. This resource is
+  available in REST API version 28.0 and later.
 
 # Get sObject Quick Actions
 
@@ -48,3 +52,13 @@ Example Request
 ```
 
 ```
+
+## Code Examples
+
+```
+curl https://MyDomainName.my.salesforce.com/services/data/v66.0/sobjects/Account/quickActions/ -H "Authorization: Bearer token"
+```
+
+## Related Topics
+
+- Quick Actions (atlas.en-us.api_rest.meta/api_rest/resources_quickactions.htm)

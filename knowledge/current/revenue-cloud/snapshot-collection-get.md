@@ -5,11 +5,14 @@ topic: snapshot-collection-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T14:37:50.344Z
-keywords: [Snapshot, Collection, GET]
+lastCollected: 2026-03-12T05:14:07.224Z
+estimatedTokens: 183
+keywords: [Snapshot, Collection, GET, Retrieve, created, snapshots, snapshot, indexes.]
 ---
 
 # Snapshot Collection (GET)
+
+> Retrieve the created snapshots and snapshot indexes.
 
 # Snapshot Collection (GET)
 
@@ -44,3 +47,18 @@ Query Parameter for GET
 Response body for GET
 
 [Snapshot Collection](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_snapshot_collection_output.htm "Output representation of the retrieved snapshot collection.")
+
+## Code Examples
+
+```
+/connect/pcm/index/snapshots
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/index/snapshots
+```
+
+## Related Topics
+
+- Snapshot
+              Collection (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_snapshot_collection_output.htm)

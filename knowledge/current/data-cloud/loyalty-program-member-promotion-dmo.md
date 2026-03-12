@@ -5,11 +5,16 @@ topic: loyalty-program-member-promotion-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:17:43.603Z
-keywords: [Loyalty, Program, Member, Promotion, DMO, Object, API, Name, Category, Primary, Subject, Area, Key, Relationships, Fields]
+lastCollected: 2026-03-12T05:14:14.351Z
+estimatedTokens: 770
+keywords: [Loyalty, Program, Member, Promotion, DMO, Data, Cloud, data, model, represents, details, promotion, loyalty, program, member., example, allows, double, points, outdoor]
 ---
 
 # Loyalty Program Member Promotion DMO
+
+> The Loyalty Program Member Promotion DMO is a Data Cloud data model
+      object (DMO) that represents details about a promotion available to a loyalty program member.
+      For example, if a program allows double points on outdoor purchases.
 
 # Loyalty Program Member Promotion DMO
 

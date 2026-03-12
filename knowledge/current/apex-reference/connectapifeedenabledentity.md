@@ -5,11 +5,14 @@ topic: connectapifeedenabledentity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:38.793Z
-keywords: [ConnectApi.FeedEnabledEntity, See]
+lastCollected: 2026-03-12T05:14:27.361Z
+estimatedTokens: 157
+keywords: [ConnectApi.FeedEnabledEntity, entity, feeds, associated, it.]
 ---
 
 # ConnectApi.FeedEnabledEntity
+
+> An entity that can have feeds associated with it.
 
 # ConnectApi.FeedEnabledEntity
 
@@ -26,3 +29,9 @@ An entity that can have feeds associated with it.
 #### See Also
 
 -   [ConnectApi.ChatterStream](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_stream.htm "A Chatter feed stream.")
+
+## Related Topics
+
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- ConnectApi.Motif (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_motif.htm)
+- ConnectApi.ChatterStream (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_feed_stream.htm)

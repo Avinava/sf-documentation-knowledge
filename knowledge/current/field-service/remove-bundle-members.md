@@ -5,11 +5,16 @@ topic: remove-bundle-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:47:12.330Z
-keywords: [Remove, Bundle, Members, Add, Remote, Site, Request, Body, Example, Response]
+lastCollected: 2026-03-12T05:14:55.644Z
+estimatedTokens: 1901
+keywords: [Remove, Bundle, Members, Removes, service, appointments, existing, bundle., resource, accepts, appointment, IDs., API, supported, Gov, Cloud., endpoint, version, 54.0, later]
 ---
 
 # Remove Bundle Members
+
+> Removes one or more service appointments from an existing bundle. This resource accepts
+  service appointment IDs. This API is not supported in Gov Cloud. This endpoint is available in
+  version 54.0 and later of the Salesforce API.
 
 # Remove Bundle Members
 
@@ -167,3 +172,60 @@ This example shows the output of a request where the user entered an invalid ser
 | 44 | ERROR_UNBUNDLING | We couldn’t unbundle the service appointment. |
 | 58 | ERROR_IN_MSW_VALIDATIONS | We can’t bundle service appointments with dependencies. Remove the dependencies and try again. |
 | -500 | http error | Hmm… Something went wrong. Try again. |
+
+## Code Examples
+
+```
+{
+   "user":"Misha",
+   "initiate":"manual",
+   "saRequestPayloads":[
+      {
+         "serviceAppointmentId":"08px000000NzbmkAAB",
+         "action":"remove"
+      },
+      {
+         "serviceAppointmentId":"08pT300000006LLIAY",
+         "action":"remove"
+      }
+   ]
+}
+```
+
+```
+{
+    "bundleId": "08px000000OAkUXAA1",
+    "responsePayloads": [
+        {
+            "objectName": "ServiceAppointment",
+            "objectId": "08px000000OAjPRAA1",
+            "action": "remove",
+            "status": "SUCCESS",
+            "messageCode": "NONE",
+            "message": "Success",
+            "messageParams": []
+        }
+    ],
+    "status": "SUCCESS",
+    "messageCode": "NONE",
+    "message": "Success"
+}
+```
+
+```
+{
+    "bundleId": null,
+    "responsePayloads": [
+        {
+            "status": "FAIL",
+            "messageCode": "GET_BUNDLE_INFO_FAILURE",
+            "message": "Try again later.",
+            "messageParams": []
+        }
+    ],
+    "status": "FAIL",
+    "messageCode": "ERROR_REMOVING_FROM_BUNDLE",
+    "message": "We couldn't remove the service appointment from the bundle."
+   "messageAdditionalInfo": ""
+}
+```

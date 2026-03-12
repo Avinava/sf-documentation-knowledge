@@ -5,11 +5,15 @@ topic: context-data-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:25:09.167Z
-keywords: [Context, Data, Record]
+lastCollected: 2026-03-12T05:14:49.744Z
+estimatedTokens: 234
+keywords: [Context, Data, Record, Output, representation, context, data, record, including, its, attributes, associated, child, objects, relevant, metadata.]
 ---
 
 # Context Data Record
+
+> Output representation of context data record, including its attributes, type, associated
+    child objects, and other relevant metadata.
 
 # Context Data Record
 
@@ -29,3 +33,33 @@ Sample Response
 | contextDataRecordId | String | Unique ID of the context data record. | Small, 59.0 | 59.0 |
 | currentState | String | The current status of the context data record. | Small, 59.0 | 59.0 |
 | lastUpdatedTimeStamp | String | The last updated time stamp of context data record. | Small, 59.0 | 59.0 |
+
+## Code Examples
+
+```
+{
+            "childQueryRecords": [
+                {
+                    "childQueryRecords": [],
+                    "record": {
+                        "attributesAndValues": {
+                            "Name": "Acme Corp",
+                            "BillingAddress": "{city:New York,country:USA,geocodeAccuracy:null,latitude:null,longitude:null,postalCode:31349,state:NY,street:10 Main Rd.}",
+                            "Industry": "Manufacturing",
+                            "Type": "Prospect"
+                        },
+                        "businessObjectType": "Account",
+                        "childBusinessObjectTypes": [
+                            "OpportunityItem",
+                            "OrderItem"
+                        ],
+                        "contextDataRecordId": "003xx000004WhFsAAK",
+                        "currentState": "CREATED",
+                        "lastUpdatedTimeStamp": "2023-10-11 04:46:13.804"
+                    }
+                }
+            ]
+        }
+    ]
+}
+```

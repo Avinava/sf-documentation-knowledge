@@ -5,11 +5,14 @@ topic: connectapistrategytracenode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:42:40.060Z
-keywords: [ConnectApi.StrategyTraceNode, See]
+lastCollected: 2026-03-12T05:14:29.075Z
+estimatedTokens: 224
+keywords: [ConnectApi.StrategyTraceNode, trace, node, recommendation, strategy, execution.]
 ---
 
 # ConnectApi.StrategyTraceNode
+
+> A trace node for a recommendation strategy execution.
 
 # ConnectApi.StrategyTraceNode
 
@@ -29,3 +32,11 @@ A trace node for a recommendation strategy execution.
 #### See Also
 
 -   [ConnectApi.StrategyTrace](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_strategy_trace.htm "Messages and trace nodes for a recommendation strategy execution.")
+
+## Related Topics
+
+- Integer (atlas.en-us.apexref.meta/apexref/apex_methods_system_integer.htm)
+- List (atlas.en-us.apexref.meta/apexref/apex_methods_system_list.htm)
+- String (atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm)
+- Long (atlas.en-us.apexref.meta/apexref/apex_methods_system_long.htm)
+- ConnectApi.StrategyTrace (atlas.en-us.apexref.meta/apexref/apex_connectapi_output_strategy_trace.htm)

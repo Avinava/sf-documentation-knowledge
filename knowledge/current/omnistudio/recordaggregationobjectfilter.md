@@ -5,11 +5,16 @@ topic: recordaggregationobjectfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:25:12.621Z
-keywords: [RecordAggregationObjectFilter, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields]
+lastCollected: 2026-03-12T05:14:55.000Z
+estimatedTokens: 443
+keywords: [RecordAggregationObjectFilter, Represents, filter, applied, records, record, aggregation, join, sequence., API, version, 60.0, later., Supported, SOAP, Calls, REST, Special, Access, Rules]
 ---
 
 # RecordAggregationObjectFilter
+
+> Represents a filter that is applied to the records of an object in the record
+         aggregation join sequence. This object is available in API version 60.0 and
+      later.
 
 # RecordAggregationObjectFilter
 

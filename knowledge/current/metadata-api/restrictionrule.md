@@ -5,11 +5,18 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:54.433Z
-keywords: [RestrictionRule, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition]
+lastCollected: 2026-03-12T05:14:42.475Z
+estimatedTokens: 730
+keywords: [RestrictionRule, Represents, restriction, rule, scoping, rule., enforcementType, set, Restrict, controls, access, specified, users, designated, records., Scoping, default, records, without, restricting]
 ---
 
 # RestrictionRule
+
+> Represents a restriction rule or a scoping rule. A
+      restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records.
+      A scoping rule has enforcementType set to Scoping and controls the default records that your users see without restricting
+      access. This type extends the Metadata metadata type and inherits its
+                        fullName field.
 
 # RestrictionRule
 
@@ -65,3 +72,48 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>Allows users with a specific profile to see only tasks that they own.</description>
+    <enforcementType>Restrict</enforcementType>
+    <masterLabel>Tasks You Own</masterLabel>
+    <recordFilter>OwnerId = $User.Id</recordFilter>
+    <targetEntity>Task</targetEntity>
+    <userCriteria>$User.ProfileId = '00exxxxxxxxxxxx'</userCriteria>
+    <version>1</version>
+</RestrictionRule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<RestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>View tasks contacts from Department A.</description>
+    <enforcementType>Scoping</enforcementType>
+    <masterLabel>SR for Department A contacts</masterLabel>
+    <recordFilter>Department=$User.Department</recordFilter>
+    <targetEntity>Contact</targetEntity>
+    <userCriteria>$User.UserRoleId = '00Exxxxxxxxxxxx'</userCriteria>
+    <version>1</version>
+</RestrictionRule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>RestrictionRule</name>
+    </types>
+    <version>55.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

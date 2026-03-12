@@ -5,11 +5,16 @@ topic: usercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:45:55.058Z
-keywords: [UserCriteria, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-03-12T05:14:43.494Z
+estimatedTokens: 609
+keywords: [UserCriteria, Represents, member, criteria, Experience, Cloud, site, moderation, rules., extends, Metadata, metadata, inherits, its, fullName, field.., Important, File, Suffix, Directory]
 ---
 
 # UserCriteria
+
+> Represents the member criteria to use in Experience Cloud
+      site moderation rules. This type extends the Metadata metadata type and inherits its
+        fullName field..
 
 # UserCriteria
 
@@ -54,3 +59,20 @@ The following is an example of a UserCriteria component.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<UserCriteria xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Customer and Partner Members</masterLabel>
+    <description>Member criteria matches customer and partner member</description>
+    <userTypes>Partner</userTypes>
+    <userTypes>Customer</userTypes>
+</UserCriteria>
+```
+
+## Related Topics
+
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

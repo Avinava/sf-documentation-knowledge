@@ -5,11 +5,17 @@ topic: classes-and-casting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-11T15:43:46.512Z
-keywords: [Classes, Casting, Tip]
+lastCollected: 2026-03-12T05:14:32.509Z
+estimatedTokens: 459
+keywords: [Classes, Casting, general, information, run, time., means, Apex, enables, casting, data, assigned, another, only, subclass, class., want, convert, another., Tip]
 ---
 
 # Classes and Casting
+
+> In general, all type information is available at run time. This means that Apex
+        enables casting, that is, a data type of one class can be assigned to a data
+        type of another class, but only if one class is a subclass of the other class. Use casting
+        when you want to convert an object from one data type to another.
 
 # Classes and Casting
 
@@ -41,10 +47,54 @@ In addition, an interface type can be cast to a sub-interface or a class type th
 
 To verify if a class is a specific type of class, use the instanceOf keyword. For more information, see [Using the instanceof Keyword](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_instanceof.htm).
 
-1.  [Classes and Collections](atlas.en-us.apexcode.meta/apexcode/apex_classes_collections.htm)  
-    
-2.  [Collection Casting](atlas.en-us.apexcode.meta/apexcode/apex_classes_casting_collections.htm)  
-    
+1.  [Classes and Collections](atlas.en-us.apexcode.meta/apexcode/apex_classes_collections.htm)
+
+2.  [Collection Casting](atlas.en-us.apexcode.meta/apexcode/apex_classes_casting_collections.htm)
+
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation.htm "Annotations")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_java_diffs.htm "Differences Between Apex Classes and Java Classes")
+
+## Code Examples
+
+```apex
+public virtual class Report {
+}
+```
+
+```apex
+public class CustomReport extends Report {
+}
+```
+
+```
+...
+  // Create a list of report objects
+  Report[] Reports = new Report[5];
+
+  // Create a custom report object
+  CustomReport a = new CustomReport();
+
+  // Because the custom report is a sub class of the Report class,
+  // you can add the custom report object a to the list of report objects
+  Reports.add(a);
+
+  // The following is not legal:
+  // CustomReport c = Reports.get(0);
+  // because the compiler does not know that what you are
+  // returning is a custom report. 
+
+  // You must use cast to tell it that you know what
+  // type you are returning. Instead, get the first item in the list
+  // by casting it back to a custom report object
+  CustomReport c = (CustomReport) Reports.get(0);
+...
+```
+
+## Related Topics
+
+- Using the instanceof Keyword (atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_instanceof.htm)
+- Classes and Collections (atlas.en-us.apexcode.meta/apexcode/apex_classes_collections.htm)
+- Collection Casting (atlas.en-us.apexcode.meta/apexcode/apex_classes_casting_collections.htm)
+- ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation.htm)
+- Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_java_diffs.htm)

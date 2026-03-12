@@ -5,11 +5,18 @@ topic: moderationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-11T15:45:53.635Z
-keywords: [ModerationRule, Important, File, Suffix, Directory, Location, Version, Special, Access, Rules, Fields, ModeratedEntityField, ModerationRuleType, RateLimitTimePeriod, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-03-12T05:14:41.274Z
+estimatedTokens: 1556
+keywords: [ModerationRule, Represents, rule, used, Experience, Cloud, site, moderate, member-generated, content., specifies, content, applies, criteria, enforce, moderation, action, take., Moderation, rules]
 ---
 
 # ModerationRule
+
+> Represents a rule used in your Experience Cloud site to moderate member-generated
+    content. Each rule specifies the member-generated content the rule applies to, the criteria to
+    enforce the rule on, and the moderation action to take. Moderation rules help protect your site
+    from spammers, bots, and offensive or inappropriate content. This type extends the Metadata
+    metadata type and inherits its fullName field.
 
 # ModerationRule
 
@@ -104,3 +111,58 @@ The following is an example package.xml that references the previous definition.
 ## Wildcard Support in the Manifest File
 
 This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
+
+## Code Examples
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<ModerationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+   <description>Blocks Bad Word List in posts, comments, Link URLs, titles, and poll choices.</description>
+   <masterLabel>Blocking Rule</masterLabel>
+   <action>Block</action>
+   <active>true</active>
+   <userMessage>You can't use %BLOCKED_KEYWORD% or other inappropriate words in this site. Review your content and try again.</userMessage>
+   <!-- Applies the rule to FeedComment.RawCommentBody (an internal only field), if it contains words from the keyword list specified -->
+   <entitiesAndFields>
+     <entityName>FeedComment</entityName>
+     <fieldName>RawCommentBody</fieldName>
+     <keywordList>site1.badword_list</keywordList>
+   </entitiesAndFields>
+   <entitiesAndFields>
+     <entityName>FeedItem</entityName>
+     <fieldName>LinkUrl</fieldName>
+     <keywordList>site1.badword_list</keywordList>
+   </entitiesAndFields>
+   <!-- Applies the rule to FeedItem.RawBody (an internal only field), if it contains words from the keyword list specified -->
+   <entitiesAndFields>
+     <entityName>FeedItem</entityName>
+     <fieldName>RawBody</fieldName>
+     <keywordList>site1.badword_list</keywordList>
+   </entitiesAndFields>
+   <entitiesAndFields>
+     <entityName>FeedItem</entityName>
+     <fieldName>Title</fieldName>
+     <keywordList>site1.badword_list</keywordList>
+   </entitiesAndFields>
+   <entitiesAndFields>
+     <entityName>FeedPollChoice</entityName>
+     <fieldName>ChoiceBody</fieldName>
+     <keywordList>site1.badword_list</keywordList>
+   </entitiesAndFields>
+</ModerationRule>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+   <types>
+     <name>ModerationRule</name>
+     <members>site1.blocking_rule</members>
+   </types>
+   <version>36.0</version>
+</Package>
+```
+
+## Related Topics
+
+- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

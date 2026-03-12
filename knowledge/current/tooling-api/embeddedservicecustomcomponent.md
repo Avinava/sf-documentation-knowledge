@@ -5,11 +5,16 @@ topic: embeddedservicecustomcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-11T15:46:37.681Z
-keywords: [EmbeddedServiceCustomComponent, Supported, SOAP, API, Calls, REST, Methods, Special, Access, Rules, Fields, Usage]
+lastCollected: 2026-03-12T05:14:45.244Z
+estimatedTokens: 582
+keywords: [EmbeddedServiceCustomComponent, Represents, custom, component, created, Embedded, Service, feature., components, Aura, Lightning, Web, Component., API, version, 44.0, later., Supported, SOAP, Calls]
 ---
 
 # EmbeddedServiceCustomComponent
+
+> Represents a custom component created for an Embedded Service feature. The
+    custom components can be an Aura or Lightning Web Component. This object is available in API
+    version 44.0 and later.
 
 # EmbeddedServiceCustomComponent
 
@@ -41,3 +46,9 @@ This type is available only if Salesforce Experiences and Salesforce Sites are e
 Each Embedded Service feature has a defined set of components that can be customized. You can customize the feature using your own Lightning Web Components or Aura Components. Right now, you can only customize components of the Embedded Service Chat feature. For example, you can customize the prechat form, minimized state, chat bubble, and chat header of a Chat widget.
 
 To customize a component, link the Lightning Web Component or Aura Component to an Embedded Service Custom Component object. Then link an Embedded Service Configuration to this object. The Embedded Service Configuration represents the Chat widget that you want to customize.
+
+## Related Topics
+
+- LightningComponentBundle (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_lightningcomponentbundle.htm)
+- AuraDefinitionBundle (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_auradefinitionbundle.htm)
+- EmbeddedServiceConfig (atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceconfig.htm)
