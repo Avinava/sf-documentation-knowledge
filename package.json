@@ -12,6 +12,7 @@
     "collect": "node dist/cli/collect.js",
     "process": "node dist/cli/process.js",
     "generate": "node dist/cli/generate.js",
+    "discover": "node dist/cli/discover.js",
     "mcp:dev": "node dist/mcp/server.js",
     "test": "vitest run",
     "test:watch": "vitest",
