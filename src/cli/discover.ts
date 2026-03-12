@@ -13,10 +13,8 @@ import {
   deliverableToId,
   type IndexEntry,
 } from "../collectors/index-fetcher.js";
-import { getCollectableDomains, type DomainConfig } from "../config/domains.js";
-import { createChildLogger } from "../utils/logger.js";
+import { getCollectableDomains } from "../config/domains.js";
 
-const log = createChildLogger("cli:discover");
 
 const program = new Command();
 

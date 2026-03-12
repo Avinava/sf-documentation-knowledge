@@ -1,7 +1,9 @@
 import fs from "fs-extra";
 import path from "node:path";
+// eslint-disable-next-line @typescript-eslint/no-require-imports, @typescript-eslint/no-var-requires
 import pkg from "graphology";
-const { DirectedGraph } = pkg;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const DirectedGraph = (pkg as any).DirectedGraph || pkg;
 import { createChildLogger } from "./logger.js";
 
 const log = createChildLogger("utils:graph-query");
@@ -40,7 +42,8 @@ export interface DocContext {
  * Load once, query many times.
  */
 export class GraphQuery {
-  private graph = new DirectedGraph();
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  private graph: any = new DirectedGraph();
   private loaded = false;
   private graphPath: string;
 
@@ -80,7 +83,7 @@ export class GraphQuery {
 
   private buildIndices() {
     // Build keyword → docs index
-    this.graph.forEachEdge((_, attrs, source, target) => {
+    this.graph.forEachEdge((_: any, attrs: any, source: any, target: any) => {
       if (attrs.type === "tagged_with") {
         const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
         const keyword = targetAttrs.label?.toLowerCase();
@@ -94,7 +97,7 @@ export class GraphQuery {
     });
 
     // Build label word → node index
-    this.graph.forEachNode((nodeId, attrs) => {
+    this.graph.forEachNode((nodeId: any, attrs: any) => {
       const label = (attrs.label as string)?.toLowerCase();
       if (!label) return;
       const words = label.split(/\s+/);
@@ -199,7 +202,7 @@ export class GraphQuery {
       const nextFrontier: string[] = [];
       for (const nodeId of frontier) {
         // Outgoing reference edges
-        this.graph.forEachOutEdge(nodeId, (_, attrs, _src, target) => {
+        this.graph.forEachOutEdge(nodeId, (_: any, attrs: any, _src: any, target: any) => {
           if (attrs.type === "references" && !visited.has(target)) {
             visited.add(target);
             nextFrontier.push(target);
@@ -214,7 +217,7 @@ export class GraphQuery {
           }
         });
         // Incoming reference edges
-        this.graph.forEachInEdge(nodeId, (_, attrs, source) => {
+        this.graph.forEachInEdge(nodeId, (_: any, attrs: any, source: any) => {
           if (attrs.type === "references" && !visited.has(source)) {
             visited.add(source);
             nextFrontier.push(source);
@@ -244,7 +247,7 @@ export class GraphQuery {
     if (!this.graph.hasNode(nsNodeId)) return [];
 
     const results: GraphSearchResult[] = [];
-    this.graph.forEachInEdge(nsNodeId, (_, attrs, source) => {
+    this.graph.forEachInEdge(nsNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "belongs_to_namespace") {
         const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
         results.push({
@@ -269,7 +272,7 @@ export class GraphQuery {
     if (!this.graph.hasNode(serviceNodeId)) return [];
 
     const results: GraphSearchResult[] = [];
-    this.graph.forEachInEdge(serviceNodeId, (_, attrs, source) => {
+    this.graph.forEachInEdge(serviceNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "belongs_to_service") {
         const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
         results.push({
@@ -292,7 +295,7 @@ export class GraphQuery {
     if (!this.graph.hasNode(dtNodeId)) return [];
 
     const results: GraphSearchResult[] = [];
-    this.graph.forEachInEdge(dtNodeId, (_, attrs, source) => {
+    this.graph.forEachInEdge(dtNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "is_type" && results.length < limit) {
         const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
         results.push({
@@ -323,7 +326,7 @@ export class GraphQuery {
     const referencedBy: GraphSearchResult[] = [];
 
     // Traverse outgoing edges
-    this.graph.forEachOutEdge(docNodeId, (_, edgeAttrs, _src, target) => {
+    this.graph.forEachOutEdge(docNodeId, (_: any, edgeAttrs: any, _src: any, target: any) => {
       const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
       switch (edgeAttrs.type) {
         case "tagged_with":
@@ -345,7 +348,7 @@ export class GraphQuery {
     });
 
     // Traverse incoming edges
-    this.graph.forEachInEdge(docNodeId, (_, edgeAttrs, source) => {
+    this.graph.forEachInEdge(docNodeId, (_: any, edgeAttrs: any, source: any) => {
       const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
       switch (edgeAttrs.type) {
         case "contains":
@@ -383,7 +386,7 @@ export class GraphQuery {
     this.ensureLoaded();
     const results: GraphSearchResult[] = [];
 
-    this.graph.forEachNode((nodeId, attrs) => {
+    this.graph.forEachNode((nodeId: any, attrs: any) => {
       if (attrs.type === "domain") {
         results.push({
           nodeId,
@@ -403,10 +406,10 @@ export class GraphQuery {
     this.ensureLoaded();
     const results: Array<{ namespace: string; docCount: number }> = [];
 
-    this.graph.forEachNode((nodeId, attrs) => {
+    this.graph.forEachNode((nodeId: any, attrs: any) => {
       if (attrs.type === "namespace") {
         let docCount = 0;
-        this.graph.forEachInEdge(nodeId, (_, edgeAttrs) => {
+        this.graph.forEachInEdge(nodeId, (_: any, edgeAttrs: any) => {
           if (edgeAttrs.type === "belongs_to_namespace") docCount++;
         });
         results.push({ namespace: attrs.label as string, docCount });
@@ -423,10 +426,10 @@ export class GraphQuery {
     this.ensureLoaded();
     const results: Array<{ service: string; domainCount: number }> = [];
 
-    this.graph.forEachNode((nodeId, attrs) => {
+    this.graph.forEachNode((nodeId: any, attrs: any) => {
       if (attrs.type === "service") {
         let domainCount = 0;
-        this.graph.forEachInEdge(nodeId, (_, edgeAttrs) => {
+        this.graph.forEachInEdge(nodeId, (_: any, edgeAttrs: any) => {
           if (edgeAttrs.type === "belongs_to_service") domainCount++;
         });
         results.push({ service: attrs.label as string, domainCount });

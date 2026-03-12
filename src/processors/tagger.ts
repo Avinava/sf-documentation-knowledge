@@ -123,7 +123,7 @@ function extractKeywords(
 
   // Split into words, clean and filter noise
   const words = allText
-    .split(/[\s,;:()\[\]{}|/\\]+/)
+    .split(/[\s,;:()[\]{}|/\\]+/)
     .map((w) => w.trim())
     .map((w) => w.replace(/[.,:;!?'"]+$/g, "")) // Strip trailing punctuation
     .map((w) => w.replace(/^[.,:;!?'"]+/g, "")) // Strip leading punctuation

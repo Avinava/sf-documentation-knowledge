@@ -1,4 +1,7 @@
-# SF Documentation Knowledge System
+# @sfdxy/sf-documentation-knowledge
+
+[![npm version](https://img.shields.io/npm/v/@sfdxy/sf-documentation-knowledge)](https://www.npmjs.com/package/@sfdxy/sf-documentation-knowledge)
+[![CI](https://github.com/Avinava/sf-documentation-knowledge/actions/workflows/ci.yml/badge.svg)](https://github.com/Avinava/sf-documentation-knowledge/actions/workflows/ci.yml)
 
 **Collect, process, and serve Salesforce documentation for LLM agents — using Context Engineering + MCP, not RAG.**
 
@@ -7,27 +10,76 @@
 This system programmatically collects **all** Salesforce documentation from `developer.salesforce.com` (121 domains, 31,000+ pages), processes it into structured, curated knowledge files, and serves them to LLM agents via:
 
 1. **Context Engineering** — Pre-compiled Markdown files with `_index.md` routing tables
-2. **MCP Server** — 5 Model Context Protocol tools for on-demand knowledge access
+2. **MCP Server** — 5 tools + 3 prompt templates via Model Context Protocol
 3. **Knowledge Graph** — 53,000+ nodes and 450,000+ edges connecting SF concepts, namespaces, services, and cross-references
 
 No embeddings. No vector stores. No blind chunking.
 
-## Prerequisites
+---
 
-- Node.js 20 or higher
-- Git
-- (Optional) Claude Desktop or an MCP-compatible agent
+## Quick Start
 
-## 1. Installation
+### Use with Claude Desktop (recommended)
+
+Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "sf-docs": {
+      "command": "npx",
+      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+    }
+  }
+}
+```
+
+Restart Claude Desktop. You'll have access to 5 tools and 3 prompt templates for exploring Salesforce documentation.
+
+### Use with Cursor / Windsurf / Other MCP Clients
+
+Point the MCP config to:
+```
+npx -y @sfdxy/sf-documentation-knowledge
+```
+
+### Use from Source
 
 ```bash
 git clone https://github.com/Avinava/sf-documentation-knowledge.git
 cd sf-documentation-knowledge
 npm install
 npm run build
+npm run mcp:start
 ```
 
-## 2. Using the Pre-Compiled Knowledge Base
+---
+
+## MCP Server
+
+The MCP server loads the full 53k-node knowledge graph into memory on startup (~3s) and serves all queries instantly.
+
+### Tools
+
+| Tool | Purpose | Example Usage |
+|---|---|---|
+| `sf_search` | Search across all 121 SF documentation domains | *"Find docs about Platform Events"* |
+| `sf_read_topic` | Read a specific documentation topic's content | *Read the SOQL reference page* |
+| `sf_graph_query` | Navigate the knowledge graph — related docs, namespaces, services | *"Show all docs in the System namespace"* |
+| `sf_list_domains` | List all available domains, filter by service category | *"List analytics domains"* |
+| `sf_apex_lookup` | Look up an Apex class with full documentation | *"Look up the String class"* |
+
+### Prompt Templates
+
+| Prompt | What It Does | Arguments |
+|---|---|---|
+| `explore_api` | Walk through a Salesforce API — endpoints, auth, best practices | `api`: API name (e.g., "REST API") |
+| `debug_apex` | Debug an Apex issue — class lookup, error patterns, examples | `topic`: class/error (e.g., "System.QueryException") |
+| `compare_services` | Compare Salesforce products by documentation coverage | `services`: categories (e.g., "analytics vs commerce") |
+
+---
+
+## Knowledge Base
 
 The repository comes pre-loaded with **31,000+ curated markdown files** and a **Knowledge Graph** (53,000+ nodes, 450,000+ edges) covering **121 domains** of Salesforce documentation.
 
@@ -45,13 +97,13 @@ Each domain folder also has a `SKILL.md` in `skills/<domain-name>/SKILL.md` that
 
 The graph at `knowledge/current/graph.json` connects all documentation with semantic relationships:
 
-| Edge Type | What it connects |
+| Edge Type | What It Connects |
 |---|---|
-| `references` | Document → Document (cross-references between docs) |
-| `belongs_to_namespace` | Document → Apex Namespace (e.g., `System`, `ConnectApi`) |
-| `belongs_to_service` | Domain → Service Category (e.g., `analytics`, `commerce`) |
-| `is_type` | Document → DocType (`api-reference`, `developer-guide`, `concept`) |
-| `tagged_with` | Document → Keyword |
+| `references` | Document → Document (52,988 cross-references) |
+| `belongs_to_namespace` | Document → Apex Namespace (143 namespaces) |
+| `belongs_to_service` | Domain → Service Category (16 categories) |
+| `is_type` | Document → DocType (`api-reference`, `developer-guide`, `concept`, etc.) |
+| `tagged_with` | Document → Keyword (22,610 unique keywords) |
 | `contains` | Domain → Document |
 
 Inspect it with:
@@ -59,72 +111,23 @@ Inspect it with:
 npm run graph:stats
 ```
 
-### Option C: MCP Server (Model Context Protocol)
-
-The MCP server exposes 5 tools and 3 prompt templates for AI agents:
-
-**Tools:**
-| Tool | Purpose |
-|---|---|
-| `sf_search` | Search across all 121 domains |
-| `sf_read_topic` | Read a specific documentation topic |
-| `sf_graph_query` | Navigate the knowledge graph (related docs, namespaces, services) |
-| `sf_list_domains` | List all domains, filter by service category |
-| `sf_apex_lookup` | Look up an Apex class with full documentation |
-
-**Prompt Templates:**
-| Prompt | What it does |
-|---|---|
-| `explore_api` | Walk through a Salesforce API — endpoints, auth, best practices |
-| `debug_apex` | Debug an Apex issue — class lookup, error patterns, examples |
-| `compare_services` | Compare SF products by documentation coverage |
-
-**Quick start (local):**
-```bash
-npm run mcp:start
-```
-
-**Quick start (npx — no clone needed):**
-```bash
-npx @sfdxy/sf-documentation-knowledge
-```
-
-**Claude Desktop** — add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
-```json
-{
-  "mcpServers": {
-    "sf-docs": {
-      "command": "npx",
-      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
-    }
-  }
-}
-```
-
-**Cursor / Windsurf / Other MCP clients** — point the MCP config to:
-```
-npx -y @sfdxy/sf-documentation-knowledge
-```
-
-The server loads the full 53k-node knowledge graph into memory on startup (~3s) and serves all queries instantly.
+See [Graph Schema Documentation](docs/graph-schema.md) for the full schema with node/edge types, ID conventions, and a visual diagram.
 
 ---
 
-## 3. Running the Data Pipeline
+## Data Pipeline
 
 To update the knowledge base with the latest Salesforce releases, run the pipeline in order:
 
 ### Step 1: Discover Available Deliverables
 
-See what documentation deliverables are available from the SF index API:
-
 ```bash
 npm run discover
 ```
 
-### Step 2: Collect Raw Data
+Lists all documentation deliverables available from the Salesforce Index API (~127 deliverables).
 
-Downloads raw HTML documentation from the Salesforce Atlas metadata APIs.
+### Step 2: Collect Raw Data
 
 ```bash
 # Collect a specific domain
@@ -139,27 +142,24 @@ npm run collect -- --discover
 
 ### Step 3: Process HTML to Markdown
 
-Cleans the raw HTML, strips noise, parses tables, formats code blocks, creates clean Markdown, and **automatically redacts** any Salesforce tokens or secrets.
-
 ```bash
 # Process a specific domain
 npm run process -- --domain cli-commands
 
-# Process ALL collected domains (including discovered ones)
+# Process ALL collected domains
 npm run process -- --discover
 ```
 
-### Step 4: Generate Knowledge Graph & Artifacts
+Automatically cleans HTML, strips noise, parses tables, formats code blocks, creates clean Markdown, and **redacts** any Salesforce tokens or secrets.
 
-Builds the knowledge graph (with cross-references, namespaces, service categories, and doctype clustering), generates context files for each domain, and updates the `README` and `docs/inventory.md`.
+### Step 4: Generate Knowledge Files & Graph
 
 ```bash
-# Generate a specific domain
-npm run generate -- --domain cli-commands
-
 # Generate ALL collected domains and rebuild the full Knowledge Graph
 npm run generate -- --discover
 ```
+
+Builds the knowledge graph (cross-references, namespaces, service categories, doctype clustering), generates context files, and updates inventory docs.
 
 ### Step 5: Inspect the Graph
 
@@ -167,20 +167,60 @@ npm run generate -- --discover
 npm run graph:stats
 ```
 
+### Full Pipeline (One-liner)
+
+```bash
+npm run collect -- --discover && npm run process -- --discover && npm run generate -- --discover
+```
+
 ---
 
-## Architecture & Contributions
+## CLI Reference
 
-| Document                                              | Description               |
-| ----------------------------------------------------- | ------------------------- |
-| [Architecture](docs/architecture.md)                  | System design & data flow |
-| [Repo Skill](.agent/skills/repo-development/SKILL.md) | How to work on this repo  |
+| Command | Description |
+|---|---|
+| `npm run discover` | List available SF documentation deliverables |
+| `npm run collect` | Download raw HTML documentation |
+| `npm run process` | Convert HTML → Markdown with tagging |
+| `npm run generate` | Generate knowledge files + graph |
+| `npm run graph:stats` | Analyze the knowledge graph |
+| `npm run mcp:start` | Start the MCP server (stdio) |
+| `npm run build` | Compile TypeScript |
+| `npm run test` | Run test suite |
+| `npm run lint` | Run ESLint |
+
+All pipeline commands support `--domain <name>` for single-domain processing and `--discover` for all-domain processing.
+
+---
+
+## CI/CD
+
+| Workflow | Trigger | What It Does |
+|---|---|---|
+| [CI](.github/workflows/ci.yml) | Push / PR to master | Build, test, lint, MCP smoke test |
+| [Release](.github/workflows/release.yml) | Push `v*` tag | Build, test, publish to npm, create GitHub release |
+| [Update Knowledge](.github/workflows/update-knowledge.yml) | Weekly (Sunday) | Run full pipeline to refresh docs |
+
+---
+
+## Documentation
+
+| Document | Description |
+|---|---|
+| [Architecture](docs/architecture.md) | System design, data flow, 4-layer architecture |
+| [Graph Schema](docs/graph-schema.md) | Node/edge types, ID conventions, query examples |
+| [Full Inventory](docs/inventory.md) | Complete list of all 121 documentation domains |
+| [Repo Development Skill](.agent/skills/repo-development/SKILL.md) | How to develop and extend this repo |
+
+---
 
 ## License
 
-Copyright © 2026. All rights reserved.
+MIT © [Avinava](https://github.com/Avinava)
 
-## Documentation
+---
+
+## Inventory
 
 <!-- INVENTORY:START -->
 | Domain | Description | Status | Files |
@@ -206,7 +246,7 @@ Copyright © 2026. All rights reserved.
 | **Data Cloud** | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400 |
 | **ISVforce Guide** | Plan, build, and sell AppExchange solutions and consulting services. | ✅ Available | 347 |
 | **Tooling API** | Tooling API — code coverage, debug logs, custom fields | ✅ Available | 338 |
-| **Einstein Discovery REST API Developer Guide** | Describes how to create and access Einstein Discovery predictions, discovery mod | ✅ Available | 312 |
+| **Einstein Discovery REST API Developer Guide** | Describes how to send queries directly to CRM Analytics, access datasets that ha | ✅ Available | 312 |
 | **REST API** | Salesforce REST API — resources, methods, composite, batch | ✅ Available | 307 |
 | **Nonprofit Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 304 |
 | **Education Cloud Developer Guide** | Education Cloud gives you the tools and developer resources you need to support  | ✅ Available | 301 |

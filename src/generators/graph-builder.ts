@@ -20,7 +20,8 @@ const GRAPH_KEYWORD_BLOCKLIST = new Set([
 ]);
 
 export class GraphBuilder {
-  private graph = new DirectedGraph();
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  private graph: any = new DirectedGraph();
   private readonly knowledgeDir: string;
   private readonly processedDir: string;
   /** Map from href fragments to doc node IDs, for cross-reference resolution */
@@ -43,7 +44,7 @@ export class GraphBuilder {
     const start = Date.now();
 
     // 1. Find all domain manifests
-    let domains: string[] = [];
+    const domains: string[] = [];
     try {
       const items = await fs.readdir(this.processedDir);
       for (const item of items) {
@@ -52,7 +53,7 @@ export class GraphBuilder {
           domains.push(item);
         }
       }
-    } catch (err) {
+    } catch (_err) {
       log.warn("No processed data found.");
       return;
     }
@@ -91,13 +92,13 @@ export class GraphBuilder {
 
     // Count node types for logging
     const nodeTypes: Record<string, number> = {};
-    this.graph.forEachNode((_, attrs) => {
+    this.graph.forEachNode((_: any, attrs: any) => {
       const t = attrs.type as string;
       nodeTypes[t] = (nodeTypes[t] || 0) + 1;
     });
 
     const edgeTypes: Record<string, number> = {};
-    this.graph.forEachEdge((_, attrs) => {
+    this.graph.forEachEdge((_: any, attrs: any) => {
       const t = attrs.type as string;
       edgeTypes[t] = (edgeTypes[t] || 0) + 1;
     });
@@ -272,7 +273,7 @@ export class GraphBuilder {
    * Returns null if the keyword should be skipped.
    */
   private normalizeKeyword(keyword: string): string | null {
-    let normalized = keyword
+    const normalized = keyword
       .toLowerCase()
       .trim()
       .replace(/[.,:;!?'"]+$/g, "")  // Strip trailing punctuation

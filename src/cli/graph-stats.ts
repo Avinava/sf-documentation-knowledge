@@ -68,7 +68,6 @@ async function main() {
     .slice(0, 20);
 
   // Find top-referenced documents
-  const docNodes = graph.nodes.filter((n) => n.attributes.type === "document");
   const refEdges = graph.edges.filter(
     (e) => e.attributes.type === "references",
   );

@@ -9,8 +9,6 @@
  *   Meta: https://developer.salesforce.com/docs/get_document/{deliverable}.meta
  *   Content: https://developer.salesforce.com/docs/get_document_content/{deliverable}/{page}/en-us/{version}
  */
-import fs from "fs-extra";
-import path from "node:path";
 import { BaseCollector } from "./base-collector.js";
 import type { DomainConfig } from "../config/domains.js";
 
