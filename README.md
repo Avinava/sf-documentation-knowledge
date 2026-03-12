@@ -114,9 +114,9 @@ npm run mcp:start
 
 ## MCP Server
 
-The MCP server loads the full 53k-node knowledge graph into memory on startup (~3s) and serves all queries instantly.
+The MCP server loads the full 53k-node knowledge graph and 18,000+ code snippets into memory on startup (~5s) and serves all queries instantly.
 
-### Tools
+### Tools (9)
 
 | Tool | Purpose | Example Usage |
 |---|---|---|
@@ -125,14 +125,30 @@ The MCP server loads the full 53k-node knowledge graph into memory on startup (~
 | `sf_graph_query` | Navigate the knowledge graph — related docs, namespaces, services | *"Show all docs in the System namespace"* |
 | `sf_list_domains` | List all available domains, filter by service category | *"List analytics domains"* |
 | `sf_apex_lookup` | Look up an Apex class with full documentation | *"Look up the String class"* |
+| `sf_code_examples` | Find working code snippets by topic, language, or domain | *"Show batch apex code examples"* |
+| `sf_object_reference` | Look up Salesforce objects and fields (6,500+ ref pages) | *"Look up Account.Industry field"* |
+| `sf_explain_error` | Decode error messages with context and resolution steps | *"Explain UNABLE_TO_LOCK_ROW"* |
+| `sf_limits` | Governor limits lookup — exact numbers for 15 categories | *"What are SOQL limits?"* |
 
-### Prompt Templates
+### Prompt Templates (4)
 
 | Prompt | What It Does | Arguments |
 |---|---|---|
 | `explore_api` | Walk through a Salesforce API — endpoints, auth, best practices | `api`: API name (e.g., "REST API") |
 | `debug_apex` | Debug an Apex issue — class lookup, error patterns, examples | `topic`: class/error (e.g., "System.QueryException") |
 | `compare_services` | Compare Salesforce products by documentation coverage | `services`: categories (e.g., "analytics vs commerce") |
+| `write_apex` | Write production-ready Apex — gathers limits, patterns, examples first | `task`: what to build (e.g., "batch job to update Accounts") |
+
+### Resources (4)
+
+Agents can read these without making a tool call:
+
+| Resource URI | Content |
+|---|---|
+| `sf://overview` | System stats, available tools, quick start guide |
+| `sf://domains` | All 121 documentation domains |
+| `sf://namespaces` | All 143 Apex namespaces with doc counts |
+| `sf://services` | All 16 service categories with domain counts |
 
 ---
 
