@@ -123,7 +123,12 @@ export class GraphQuery {
   ): GraphSearchResult[] {
     this.ensureLoaded();
     const { type, limit = 25 } = options;
-    const terms = query.toLowerCase().split(/\s+/).filter((t) => t.length >= 3);
+    // Split on whitespace, underscores, dots, and camelCase boundaries
+    const terms = query.toLowerCase()
+      .replace(/[._]/g, ' ')
+      .replace(/([a-z])([A-Z])/g, '$1 $2')
+      .split(/\s+/)
+      .filter((t) => t.length >= 3);
     if (terms.length === 0) return [];
 
     // Find candidate nodes from label index

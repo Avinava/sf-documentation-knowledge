@@ -475,7 +475,16 @@ server.tool(
   },
   async ({ error }) => {
     // Search across all domains with priority on error-relevant ones
-    const results = gq.searchNodes(error, { type: 'document', limit: 20 });
+    // Split error codes on underscores/dots for better matching
+    const errorWords = error.replace(/[._]/g, ' ').toLowerCase();
+    
+    // Try multiple search strategies
+    let results = gq.searchNodes(errorWords, { type: 'document', limit: 20 });
+    
+    // If no results, try the original error string
+    if (results.length === 0) {
+      results = gq.searchNodes(error, { type: 'document', limit: 20 });
+    }
 
     // Prioritize apex, api, and guide domains
     const priorityDomains = ['apex-guide', 'apex-reference', 'api', 'api-asynch', 'api-streaming'];
@@ -485,9 +494,13 @@ server.tool(
       return bPriority - aPriority;
     });
 
-    // Also try keyword search for the error code
-    const errorCode = error.replace(/[^a-zA-Z_]/g, '_').toLowerCase();
-    const kwResults = gq.findDocsByKeyword(errorCode, 5);
+    // Also try keyword search with individual parts of the error
+    const errorParts = error.toLowerCase().replace(/[^a-z]/gi, ' ').split(/\s+/).filter(w => w.length >= 4);
+    const kwResults: typeof results = [];
+    for (const part of errorParts.slice(0, 3)) {
+      const kw = gq.findDocsByKeyword(part, 3);
+      kwResults.push(...kw);
+    }
 
     // Merge and deduplicate
     const allResults = [...sorted];
@@ -626,6 +639,279 @@ server.prompt(
   }),
 );
 
+// ─── MCP Resources (free context for agents) ───────────────────
+server.resource(
+  "overview",
+  "sf://overview",
+  { description: "Overview of the SF Documentation Knowledge system — stats, available tools, and how to use them" },
+  async () => {
+    const stats = gq.getStats();
+    const cStats = codeIndex.getStats();
+    return {
+      contents: [{
+        uri: "sf://overview",
+        mimeType: "text/plain",
+        text: [
+          `# Salesforce Documentation Knowledge`,
+          ``,
+          `## Stats`,
+          `- ${stats.nodes.toLocaleString()} graph nodes`,
+          `- ${stats.edges.toLocaleString()} graph edges`,
+          `- ${cStats.totalSnippets.toLocaleString()} code snippets`,
+          `- 121 documentation domains`,
+          `- 33,000+ curated markdown files`,
+          ``,
+          `## Tools (9)`,
+          `| Tool | Description |`,
+          `|---|---|`,
+          `| sf_search | Search docs by topic |`,
+          `| sf_read_topic | Read a specific doc page |`,
+          `| sf_graph_query | Navigate the knowledge graph |`,
+          `| sf_list_domains | List all domains |`,
+          `| sf_apex_lookup | Look up Apex class/method |`,
+          `| sf_code_examples | Find code snippets |`,
+          `| sf_object_reference | Look up objects/fields |`,
+          `| sf_explain_error | Decode error messages |`,
+          `| sf_limits | Governor limits lookup |`,
+          ``,
+          `## Quick Start`,
+          `1. sf_search("your topic") to find docs`,
+          `2. sf_read_topic(domain, topic) to read one`,
+          `3. sf_code_examples("your topic") for code`,
+        ].join('\n'),
+      }],
+    };
+  },
+);
+
+server.resource(
+  "domains",
+  "sf://domains",
+  { description: "All 121 Salesforce documentation domains with descriptions" },
+  async () => {
+    const domains = gq.listDomains();
+    const text = domains.map(d => `- ${d.label}`).join('\n');
+    return {
+      contents: [{
+        uri: "sf://domains",
+        mimeType: "text/plain",
+        text: `# Salesforce Documentation Domains (${domains.length})\n\n${text}\n\nUse sf_read_topic(domain, "_index") to explore a domain.`,
+      }],
+    };
+  },
+);
+
+server.resource(
+  "namespaces",
+  "sf://namespaces",
+  { description: "All Apex namespaces with document counts" },
+  async () => {
+    const ns = gq.listNamespaces();
+    const text = ns.map(n => `- **${n.namespace}** (${n.docCount} docs)`).join('\n');
+    return {
+      contents: [{
+        uri: "sf://namespaces",
+        mimeType: "text/plain",
+        text: `# Apex Namespaces (${ns.length})\n\n${text}\n\nUse sf_graph_query(action="namespace", namespace="Name") to explore.`,
+      }],
+    };
+  },
+);
+
+server.resource(
+  "services",
+  "sf://services",
+  { description: "Salesforce service categories with domain counts" },
+  async () => {
+    const services = gq.listServices();
+    const text = services.map(s => `- **${s.service}** (${s.domainCount} domains)`).join('\n');
+    return {
+      contents: [{
+        uri: "sf://services",
+        mimeType: "text/plain",
+        text: `# Service Categories (${services.length})\n\n${text}\n\nUse sf_graph_query(action="service", service="name") to explore.`,
+      }],
+    };
+  },
+);
+
+// ─── Tool 9: sf_limits ──────────────────────────────────────────
+const GOVERNOR_LIMITS: Record<string, Record<string, string | number>> = {
+  soql: {
+    "Synchronous SOQL queries": 100,
+    "Async SOQL queries (batch/future)": 200,
+    "SOQL query rows returned": 50000,
+    "SOQL query rows (async)": 50000,
+    "Subqueries per query": 20,
+    "Aggregate queries": 300,
+    "SOQL query locator rows": 10000000,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  sosl: {
+    "SOSL searches": 20,
+    "SOSL search rows returned": 2000,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  dml: {
+    "DML statements": 150,
+    "DML rows processed": 10000,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  callout: {
+    "HTTP callouts": 100,
+    "Callout timeout (ms)": 120000,
+    "Max callout response size (MB)": 12,
+    "Max callout request size (MB)": 12,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  cpu: {
+    "CPU time (synchronous, ms)": 10000,
+    "CPU time (async, ms)": 60000,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  heap: {
+    "Heap size (synchronous, MB)": 6,
+    "Heap size (async, MB)": 12,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  batch: {
+    "Batch Apex jobs queued/active": 5,
+    "Batch Apex start executions/24hrs": 250000,
+    "Batch scope size (default)": 200,
+    "Batch scope size (max)": 2000,
+    "docs": "apex-guide/apex_batch",
+  },
+  future: {
+    "@future calls per transaction": 50,
+    "@future calls per 24hrs (per license)": 250000,
+    "docs": "apex-guide/apex_classes_annotation",
+  },
+  queueable: {
+    "Queueable jobs added per transaction": 50,
+    "Queueable chain depth": 5,
+    "docs": "apex-guide/apex_queueing_jobs",
+  },
+  email: {
+    "Single emails per transaction": 10,
+    "Email invocations per transaction": 10,
+    "Mass email recipients/day": 5000,
+    "docs": "apex-guide/apex_gov_limits",
+  },
+  api: {
+    "API requests per 24hrs (Enterprise)": 100000,
+    "API requests per 24hrs (Unlimited)": 500000,
+    "API request timeout (ms)": 120000,
+    "Composite sub-requests": 25,
+    "Composite Batch sub-requests": 25,
+    "docs": "api/limits",
+  },
+  "platform-events": {
+    "Published per transaction": 150,
+    "Published per hour (standard channel)": 100000,
+    "Subscribers max": 2000,
+    "docs": "platform-events/platform_events_publish_apex",
+  },
+  triggers: {
+    "Trigger recursion depth": 16,
+    "Max code statements": 200000,
+    "SOQL queries in triggers": 100,
+    "DML statements in triggers": 150,
+    "docs": "apex-guide/apex_triggers",
+  },
+  flow: {
+    "Flow interviews per transaction": 2000,
+    "Flow elements per transaction": 100000,
+    "Scheduled flow runs per 24hrs": 250000,
+    "docs": "flow/flow_concepts_limits",
+  },
+  deployment: {
+    "Max metadata components per deploy": 10000,
+    "Max deploy size (MB)": 39,
+    "Apex test timeout (min)": 60,
+    "docs": "api_meta/meta_deploy",
+  },
+};
+
+server.tool(
+  "sf_limits",
+  "Look up Salesforce governor limits and platform constraints. Returns exact numbers for SOQL, DML, callout, CPU, heap, batch, API limits and more.",
+  {
+    feature: z.string().describe("Feature area (e.g. 'soql', 'dml', 'callout', 'cpu', 'heap', 'batch', 'future', 'queueable', 'api', 'platform-events', 'triggers', 'flow', 'email', 'deployment')"),
+  },
+  async ({ feature }) => {
+    const key = feature.toLowerCase().replace(/\s+/g, '-');
+
+    // Exact match
+    let limits = GOVERNOR_LIMITS[key];
+
+    // Fuzzy match
+    if (!limits) {
+      const match = Object.keys(GOVERNOR_LIMITS).find(k =>
+        k.includes(key) || key.includes(k),
+      );
+      if (match) limits = GOVERNOR_LIMITS[match];
+    }
+
+    if (!limits) {
+      const allCategories = Object.keys(GOVERNOR_LIMITS).join(', ');
+      return {
+        content: [{
+          type: "text" as const,
+          text: `No limits found for "${feature}". Available categories: ${allCategories}\n\n💡 Next: sf_search("governor limits") for full documentation.`,
+        }],
+      };
+    }
+
+    const docRef = limits['docs'] as string;
+    const entries = Object.entries(limits).filter(([k]) => k !== 'docs');
+    const table = entries.map(([name, value]) => `| ${name} | **${typeof value === 'number' ? value.toLocaleString() : value}** |`).join('\n');
+
+    const text = [
+      `## Governor Limits: ${feature}`,
+      '',
+      '| Limit | Value |',
+      '|---|---|',
+      table,
+      '',
+      docRef ? `*Source: ${docRef}*` : '',
+      '',
+      `💡 Next: sf_read_topic("${docRef?.split('/')[0] || 'apex-guide'}", "${docRef?.split('/')[1] || 'apex_gov_limits'}") for full documentation.`,
+    ].filter(Boolean).join('\n');
+
+    return { content: [{ type: "text" as const, text }] };
+  },
+);
+
+// ─── Prompt 4: sf_write_apex ────────────────────────────────────
+server.prompt(
+  "write_apex",
+  "Write production-ready Apex code — gathers limits, patterns, and examples before coding",
+  { task: z.string().describe("What to build (e.g. 'batch job to update Account ratings', 'trigger to validate Opportunities', 'REST callout to external API')") },
+  ({ task }) => ({
+    messages: [
+      {
+        role: "user" as const,
+        content: {
+          type: "text" as const,
+          text: `Write production-ready Apex code for: "${task}". Before writing code, gather context:
+
+1. Use sf_limits to check relevant governor limits
+2. Use sf_code_examples to find similar patterns in the docs
+3. Use sf_apex_lookup to get class/method signatures you'll need
+4. Use sf_explain_error to understand common errors in this area
+
+Then write the code that:
+- Respects all governor limits
+- Follows documented best practices
+- Includes error handling
+- Has test class with assertions
+- Comments explaining key design decisions`,
+        },
+      },
+    ],
+  }),
+);
+
 // ─── Start the server ───────────────────────────────────────────
 async function main() {
   // Pre-load graph and code index in parallel
@@ -638,7 +924,7 @@ async function main() {
   const { nodes, edges } = gq.getStats();
   const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v1.1.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v1.2.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 9 tools + 4 prompts + 4 resources)`,
   );
 }
 
