@@ -7,7 +7,7 @@
 This system programmatically collects **all** Salesforce documentation from `developer.salesforce.com` (121 domains, 31,000+ pages), processes it into structured, curated knowledge files, and serves them to LLM agents via:
 
 1. **Context Engineering** — Pre-compiled Markdown files with `_index.md` routing tables
-2. **MCP Server** — Model Context Protocol tools for on-demand knowledge access _(Phase 3)_
+2. **MCP Server** — 5 Model Context Protocol tools for on-demand knowledge access
 3. **Knowledge Graph** — 53,000+ nodes and 450,000+ edges connecting SF concepts, namespaces, services, and cross-references
 
 No embeddings. No vector stores. No blind chunking.
@@ -61,7 +61,40 @@ npm run graph:stats
 
 ### Option C: MCP Server (Model Context Protocol)
 
-_Note: The MCP Server is currently in development (Phase 3)._
+The MCP server exposes 5 tools for AI agents to search, read, and navigate SF docs:
+
+| Tool | Purpose |
+|---|---|
+| `sf_search` | Search across all 121 domains |
+| `sf_read_topic` | Read a specific documentation topic |
+| `sf_graph_query` | Navigate the knowledge graph (related docs, namespaces, services) |
+| `sf_list_domains` | List all domains, filter by service category |
+| `sf_apex_lookup` | Look up an Apex class with full documentation |
+
+**Quick start:**
+```bash
+npm run mcp:dev
+```
+
+**Claude Desktop** — add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+```json
+{
+  "mcpServers": {
+    "sf-docs": {
+      "command": "node",
+      "args": ["dist/mcp/server.js"],
+      "cwd": "/absolute/path/to/sf-documentation-knowledge"
+    }
+  }
+}
+```
+
+**Cursor / Windsurf / Other MCP clients** — point the MCP config to:
+```
+node /absolute/path/to/sf-documentation-knowledge/dist/mcp/server.js
+```
+
+The server loads the full 53k-node knowledge graph into memory on startup (~3s) and serves all queries instantly.
 
 ---
 

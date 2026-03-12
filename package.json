@@ -15,6 +15,7 @@
     "discover": "node dist/cli/discover.js",
     "graph:stats": "node dist/cli/graph-stats.js",
     "mcp:dev": "node dist/mcp/server.js",
+    "mcp:start": "node dist/mcp/server.js",
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "eslint src/",
