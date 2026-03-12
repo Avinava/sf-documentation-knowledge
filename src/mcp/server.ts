@@ -331,6 +331,86 @@ server.tool(
   },
 );
 
+// ─── MCP Prompts ────────────────────────────────────────────────
+server.prompt(
+  "explore_api",
+  "Explore a Salesforce API — discover endpoints, methods, and usage patterns",
+  { api: z.string().describe("API to explore (e.g. 'REST API', 'Tooling API', 'Metadata API', 'Bulk API')") },
+  ({ api }) => ({
+    messages: [
+      {
+        role: "user" as const,
+        content: {
+          type: "text" as const,
+          text: `I want to understand the Salesforce ${api}. Please:
+
+1. Use sf_search to find documentation about "${api}"
+2. Use sf_read_topic to read the overview/introduction
+3. Use sf_graph_query with action="related" to find connected documentation
+4. Summarize:
+   - What the API does and when to use it
+   - Key endpoints/methods with examples
+   - Authentication requirements
+   - Rate limits and best practices
+   - Links to the most important reference topics`,
+        },
+      },
+    ],
+  }),
+);
+
+server.prompt(
+  "debug_apex",
+  "Debug an Apex issue — look up classes, methods, and known patterns",
+  { topic: z.string().describe("Apex class, method, or error to debug (e.g. 'System.QueryException', 'DML limits', 'trigger recursion')") },
+  ({ topic }) => ({
+    messages: [
+      {
+        role: "user" as const,
+        content: {
+          type: "text" as const,
+          text: `I'm debugging an Apex issue related to "${topic}". Please:
+
+1. Use sf_apex_lookup to find the relevant class documentation
+2. Use sf_search to find related guides in apex-guide domain
+3. Use sf_graph_query with action="context" to understand the full context
+4. Provide:
+   - Class/method signatures and descriptions
+   - Common gotchas and error patterns
+   - Code examples from the documentation
+   - Links to related classes and methods`,
+        },
+      },
+    ],
+  }),
+);
+
+server.prompt(
+  "compare_services",
+  "Compare Salesforce products by exploring their documentation domains",
+  { services: z.string().describe("Service categories to compare (e.g. 'analytics vs commerce', 'platform vs industries')") },
+  ({ services }) => ({
+    messages: [
+      {
+        role: "user" as const,
+        content: {
+          type: "text" as const,
+          text: `Compare these Salesforce service areas: ${services}. Please:
+
+1. Use sf_graph_query with action="service" to list domains in each category
+2. For each category, use sf_list_domains to see the documentation available
+3. Use sf_read_topic to read the overview of 2-3 key domains in each
+4. Provide a comparison:
+   - Number of documentation domains and total pages
+   - Key products and features in each
+   - API coverage and integration patterns
+   - Which to use for what scenarios`,
+        },
+      },
+    ],
+  }),
+);
+
 // ─── Start the server ───────────────────────────────────────────
 async function main() {
   // Pre-load graph
@@ -340,8 +420,9 @@ async function main() {
   await server.connect(transport);
 
   // Log to stderr (stdout is for MCP protocol)
+  const { nodes, edges } = gq.getStats();
   console.error(
-    `SF Documentation Knowledge MCP Server running (${gq.getStats().nodes} nodes, ${gq.getStats().edges} edges)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v1.0.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges)`,
   );
 }
 

@@ -1,8 +1,28 @@
 {
-  "name": "sf-documentation-knowledge",
-  "version": "0.1.0",
+  "name": "@sfdxy/sf-documentation-knowledge",
+  "version": "1.0.0",
   "description": "Salesforce documentation knowledge system — collect, process, and serve SF docs for LLM agents via MCP + Context Engineering",
   "type": "module",
+  "main": "./dist/mcp/server.js",
+  "types": "./dist/mcp/server.d.ts",
+  "bin": {
+    "sf-knowledge": "./dist/cli/generate.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/mcp/server.d.ts",
+      "import": "./dist/mcp/server.js"
+    },
+    "./graph-query": {
+      "types": "./dist/utils/graph-query.d.ts",
+      "import": "./dist/utils/graph-query.js"
+    }
+  },
+  "files": [
+    "dist",
+    "knowledge/current",
+    "README.md"
+  ],
   "engines": {
     "node": ">=20.0.0"
   },
@@ -19,8 +39,33 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "eslint src/",
-    "clean": "rm -rf dist/"
+    "format": "prettier --write \"src/**/*.ts\"",
+    "format:check": "prettier --check \"src/**/*.ts\"",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist/",
+    "prepublishOnly": "npm run build"
   },
+  "keywords": [
+    "salesforce",
+    "documentation",
+    "mcp",
+    "knowledge-graph",
+    "context-engineering",
+    "llm",
+    "ai-agent",
+    "apex",
+    "sfdc"
+  ],
+  "author": "Avinava",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Avinava/sf-documentation-knowledge"
+  },
+  "bugs": {
+    "url": "https://github.com/Avinava/sf-documentation-knowledge/issues"
+  },
+  "homepage": "https://github.com/Avinava/sf-documentation-knowledge#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.27.1",
     "axios": "^1.7.0",

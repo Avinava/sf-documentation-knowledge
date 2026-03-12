@@ -61,8 +61,9 @@ npm run graph:stats
 
 ### Option C: MCP Server (Model Context Protocol)
 
-The MCP server exposes 5 tools for AI agents to search, read, and navigate SF docs:
+The MCP server exposes 5 tools and 3 prompt templates for AI agents:
 
+**Tools:**
 | Tool | Purpose |
 |---|---|
 | `sf_search` | Search across all 121 domains |
@@ -71,9 +72,21 @@ The MCP server exposes 5 tools for AI agents to search, read, and navigate SF do
 | `sf_list_domains` | List all domains, filter by service category |
 | `sf_apex_lookup` | Look up an Apex class with full documentation |
 
-**Quick start:**
+**Prompt Templates:**
+| Prompt | What it does |
+|---|---|
+| `explore_api` | Walk through a Salesforce API — endpoints, auth, best practices |
+| `debug_apex` | Debug an Apex issue — class lookup, error patterns, examples |
+| `compare_services` | Compare SF products by documentation coverage |
+
+**Quick start (local):**
 ```bash
-npm run mcp:dev
+npm run mcp:start
+```
+
+**Quick start (npx — no clone needed):**
+```bash
+npx @sfdxy/sf-documentation-knowledge
 ```
 
 **Claude Desktop** — add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
@@ -81,9 +94,8 @@ npm run mcp:dev
 {
   "mcpServers": {
     "sf-docs": {
-      "command": "node",
-      "args": ["dist/mcp/server.js"],
-      "cwd": "/absolute/path/to/sf-documentation-knowledge"
+      "command": "npx",
+      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
     }
   }
 }
@@ -91,7 +103,7 @@ npm run mcp:dev
 
 **Cursor / Windsurf / Other MCP clients** — point the MCP config to:
 ```
-node /absolute/path/to/sf-documentation-knowledge/dist/mcp/server.js
+npx -y @sfdxy/sf-documentation-knowledge
 ```
 
 The server loads the full 53k-node knowledge graph into memory on startup (~3s) and serves all queries instantly.

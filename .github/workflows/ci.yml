@@ -1,0 +1,63 @@
+name: CI
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20, 22]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Run tests
+        run: npm test
+
+      - name: Run linter
+        run: npm run lint
+
+      - name: Test MCP server starts
+        run: |
+          echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"ci","version":"1.0.0"}}}' | timeout 15 node dist/mcp/server.js 2>/dev/null | grep -q '"serverInfo"'
+          echo "✅ MCP server initialized successfully"
+
+      - name: Test CLI tools
+        run: |
+          node dist/cli/graph-stats.js
+          echo "✅ graph:stats works"
+
+      - name: Test graph query API
+        run: |
+          node -e "
+            const {GraphQuery} = require('./dist/utils/graph-query.js');
+            (async () => {
+              const gq = new GraphQuery();
+              await gq.load();
+              const stats = gq.getStats();
+              console.log('Graph:', stats.nodes, 'nodes,', stats.edges, 'edges');
+              if (stats.nodes < 1000) throw new Error('Graph too small');
+              const results = gq.searchNodes('SOQL');
+              if (results.length === 0) throw new Error('Search returned no results');
+              console.log('✅ Graph query API works');
+            })();
+          "
