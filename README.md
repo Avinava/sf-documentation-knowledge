@@ -19,7 +19,7 @@ No embeddings. No vector stores. No blind chunking.
 
 ## Quick Start
 
-### Use with Claude Desktop (recommended)
+### Claude Desktop
 
 Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
@@ -34,14 +34,71 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 }
 ```
 
-Restart Claude Desktop. You'll have access to 5 tools and 3 prompt templates for exploring Salesforce documentation.
+Restart Claude Desktop.
 
-### Use with Cursor / Windsurf / Other MCP Clients
+### VS Code (GitHub Copilot)
 
-Point the MCP config to:
+Add to `.vscode/mcp.json` in your workspace (or globally in VS Code settings):
+
+```json
+{
+  "servers": {
+    "sf-docs": {
+      "command": "npx",
+      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+    }
+  }
+}
+```
+
+Then use `@sf-docs` in Copilot Chat to query Salesforce documentation.
+
+### Gemini Code Assist / Gemini CLI
+
+Add to your MCP config (`~/.gemini/settings.json` or project `.gemini/settings.json`):
+
+```json
+{
+  "mcpServers": {
+    "sf-docs": {
+      "command": "npx",
+      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+    }
+  }
+}
+```
+
+### Cursor
+
+Add in `Settings → MCP Servers → Add Server`:
+
+- **Name**: `sf-docs`
+- **Command**: `npx -y @sfdxy/sf-documentation-knowledge`
+- **Transport**: `stdio`
+
+### Windsurf
+
+Add to `~/.codeium/windsurf/mcp_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "sf-docs": {
+      "command": "npx",
+      "args": ["-y", "@sfdxy/sf-documentation-knowledge"]
+    }
+  }
+}
+```
+
+### Any MCP Client (Generic)
+
+Point your MCP client to:
 ```
 npx -y @sfdxy/sf-documentation-knowledge
 ```
+
+The server uses **stdio** transport and is compatible with any MCP client.
 
 ### Use from Source
 
@@ -259,3 +316,7 @@ MIT © [Avinava](https://github.com/Avinava)
 
 *121 domains | 33,188 knowledge files*
 <!-- INVENTORY:END -->
+
+---
+
+<p align="center"><sub>Built with <a href="https://github.com/google-deepmind/antigravity">Antigravity</a></sub></p>
