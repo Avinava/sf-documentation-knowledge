@@ -89,9 +89,11 @@ program
           priority: "P2",
           atlas: atlasKey,
           description: entry.shortdesc.slice(0, 100),
-          tags: [entry.service.toLowerCase().replace(/\s+/g, "-")].filter(
-            Boolean,
-          ),
+          tags: [
+            typeof entry.service === "string"
+              ? entry.service.toLowerCase().replace(/\s+/g, "-")
+              : "",
+          ].filter(Boolean),
         };
 
         try {

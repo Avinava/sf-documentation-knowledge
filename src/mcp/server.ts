@@ -57,15 +57,15 @@ server.tool(
     limit: z.number().optional().default(15).describe("Max results to return (default 15)"),
   },
   async ({ query, domain, docType, limit }) => {
-    const results = gq.searchNodes(query, { type: "document", limit: limit || 15 });
+    // Pre-filter via SearchOptions — avoids scoring irrelevant nodes
+    const results = gq.searchNodes(query, {
+      type: "document",
+      limit: limit || 15,
+      domain: domain || undefined,
+      docType: docType || undefined,
+    });
 
     let filtered = results;
-    if (domain) {
-      filtered = filtered.filter((r) => r.nodeId.startsWith(`doc:${domain}:`));
-    }
-    if (docType) {
-      filtered = filtered.filter((r) => r.docType === docType);
-    }
 
     if (filtered.length === 0) {
       // Fallback: try keyword-based search
@@ -102,12 +102,13 @@ server.tool(
 // ─── Tool 2: sf_read_topic ──────────────────────────────────────
 server.tool(
   "sf_read_topic",
-  "Read a specific Salesforce documentation topic file. Use sf_search first to find the domain and topic ID.",
+  "Read a specific Salesforce documentation topic file. Use sf_search first to find the domain and topic ID. Optionally request a specific section by heading.",
   {
     domain: z.string().describe("Domain ID (e.g. 'apex-reference', 'rest-api', 'metadata-api')"),
     topic: z.string().describe("Topic ID (e.g. 'apex_methods_system_string', 'intro_rest_resources')"),
+    section: z.string().optional().describe("Optional heading to extract a specific section (e.g. 'Parameters', 'Example', 'Return Value')"),
   },
-  async ({ domain, topic }) => {
+  async ({ domain, topic, section }) => {
     const filePath = path.join(KNOWLEDGE_DIR, domain, `${topic}.md`);
 
     if (!(await fs.pathExists(filePath))) {
@@ -129,7 +130,42 @@ server.tool(
       };
     }
 
-    const content = await fs.readFile(filePath, "utf-8");
+    let content = await fs.readFile(filePath, "utf-8");
+
+    // Section extraction: return only the matching ## or ### section
+    if (section) {
+      const sectionLower = section.toLowerCase();
+      const lines = content.split("\n");
+      let startIdx = -1;
+      let startLevel = 0;
+
+      for (let i = 0; i < lines.length; i++) {
+        const match = lines[i].match(/^(#{1,4})\s+(.*)/);
+        if (match && match[2].toLowerCase().includes(sectionLower)) {
+          startIdx = i;
+          startLevel = match[1].length;
+          break;
+        }
+      }
+
+      if (startIdx >= 0) {
+        // Find the end of this section (next heading at same or higher level)
+        let endIdx = lines.length;
+        for (let i = startIdx + 1; i < lines.length; i++) {
+          const match = lines[i].match(/^(#{1,4})\s+/);
+          if (match && match[1].length <= startLevel) {
+            endIdx = i;
+            break;
+          }
+        }
+        content = lines.slice(startIdx, endIdx).join("\n").trim();
+      } else {
+        content = `Section "${section}" not found in ${domain}/${topic}. Available headings:\n\n` +
+          lines.filter(l => l.match(/^#{1,4}\s+/)).map(l => `- ${l.trim()}`).join("\n") +
+          `\n\nUse sf_read_topic("${domain}", "${topic}") without section to read the full document.`;
+      }
+    }
+
     return { content: [{ type: "text" as const, text: `${content}\n\n${suggestNext('sf_read_topic', { topic })}` }] };
   },
 );
@@ -529,17 +565,41 @@ server.tool(
     let explanation = '';
     if (await fs.pathExists(filePath)) {
       const content = await fs.readFile(filePath, 'utf-8');
-      // Try to extract a relevant section (up to 2000 chars around the error mention)
       const errorLower = error.toLowerCase();
       const contentLower = content.toLowerCase();
       const idx = contentLower.indexOf(errorLower);
+
       if (idx >= 0) {
-        const start = Math.max(0, content.lastIndexOf('\n#', idx) + 1);
-        const end = Math.min(content.length, idx + 2000);
-        explanation = content.slice(start, end).trim();
+        // Extract the full section containing the error mention
+        const sectionStart = Math.max(0, content.lastIndexOf('\n#', idx) + 1);
+        // Find the next heading after the error mention (section boundary)
+        const nextHeading = content.indexOf('\n#', idx + errorLower.length);
+        const sectionEnd = nextHeading > 0 ? nextHeading : Math.min(content.length, idx + 3000);
+        explanation = content.slice(sectionStart, sectionEnd).trim();
+        // If still too long, truncate at the last paragraph boundary
+        if (explanation.length > 3000) {
+          const lastParagraph = explanation.lastIndexOf('\n\n', 3000);
+          if (lastParagraph > 500) {
+            explanation = explanation.slice(0, lastParagraph).trim() + '\n\n*(truncated — use sf_read_topic for full content)*';
+          }
+        }
       } else {
-        // Return first 2000 chars if exact error not found in text
-        explanation = content.slice(0, 2000).trim();
+        // Error not found verbatim — return first meaningful section
+        const lines = content.split('\n');
+        const firstHeadingIdx = lines.findIndex((l, i) => i > 0 && l.startsWith('#'));
+        const endIdx = firstHeadingIdx > 0
+          ? content.indexOf('\n#', content.indexOf(lines[firstHeadingIdx]) + 1)
+          : -1;
+        explanation = endIdx > 0
+          ? content.slice(0, endIdx).trim()
+          : content.slice(0, 2500).trim();
+        // Clean truncation at paragraph boundary
+        if (explanation.length > 2500) {
+          const lastParagraph = explanation.lastIndexOf('\n\n', 2500);
+          if (lastParagraph > 500) {
+            explanation = explanation.slice(0, lastParagraph).trim() + '\n\n*(truncated — use sf_read_topic for full content)*';
+          }
+        }
       }
     }
 

@@ -37,9 +37,90 @@ export interface DocContext {
   referencedBy: GraphSearchResult[];
 }
 
+export interface SearchOptions {
+  type?: string;
+  limit?: number;
+  /** Pre-filter by domain prefix (e.g. "apex-reference") */
+  domain?: string;
+  /** Pre-filter by docType */
+  docType?: string;
+}
+
+// ─── Lightweight suffix-stripping stemmer ─────────────────────────
+const SUFFIX_RULES: Array<[RegExp, string]> = [
+  [/ational$/, "ate"],
+  [/tional$/, "tion"],
+  [/ization$/, "ize"],
+  [/fulness$/, "ful"],
+  [/ousness$/, "ous"],
+  [/iveness$/, "ive"],
+  [/ibilities$/, "ible"],
+  [/ically$/, "ic"],
+  [/ating$/, "ate"],
+  [/ising$/, "ise"],
+  [/izing$/, "ize"],
+  [/abling$/, "able"],
+  [/ement$/, ""],
+  [/ment$/, ""],
+  [/tion$/, "t"],
+  [/sion$/, "s"],
+  [/ness$/, ""],
+  [/able$/, ""],
+  [/ible$/, ""],
+  [/ment$/, ""],
+  [/ious$/, ""],
+  [/eous$/, ""],
+  [/ous$/, ""],
+  [/ive$/, ""],
+  [/ful$/, ""],
+  [/ing$/, ""],
+  [/ies$/, "y"],
+  [/ied$/, "y"],
+  [/ion$/, ""],
+  [/ers$/, ""],
+  [/est$/, ""],
+  [/ely$/, ""],
+  [/ed$/, ""],
+  [/er$/, ""],
+  [/ly$/, ""],
+  [/es$/, ""],
+  [/s$/, ""],
+];
+
+/** Simple, dependency-free stemmer optimised for technical documentation. */
+export function stem(word: string): string {
+  if (word.length < 4) return word;
+  const lower = word.toLowerCase();
+  for (const [re, replacement] of SUFFIX_RULES) {
+    if (re.test(lower)) {
+      const stemmed = lower.replace(re, replacement);
+      // Only keep stems ≥ 3 chars to avoid over-stripping
+      if (stemmed.length >= 3) return stemmed;
+    }
+  }
+  return lower;
+}
+
+// ─── Trigram helpers ──────────────────────────────────────────────
+function trigrams(word: string): string[] {
+  if (word.length < 3) return [word];
+  const tris: string[] = [];
+  for (let i = 0; i <= word.length - 3; i++) {
+    tris.push(word.slice(i, i + 3));
+  }
+  return tris;
+}
+
 /**
  * GraphQuery provides fast, in-memory traversal of the SF Knowledge Graph.
  * Load once, query many times.
+ *
+ * Indexing strategy (v2):
+ *   1. Stemmed label index — stem(word) → Set<nodeId>
+ *   2. Trigram index — 3-char substring → Set<stemmed word>  (for fuzzy recall)
+ *   3. Keyword index — keyword → Set<nodeId>  (from tagged_with edges)
+ *   4. IDF table — stem → log(N / df)  (for TF-IDF scoring)
+ *   5. LRU query cache — query key → results
  */
 export class GraphQuery {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -49,8 +130,19 @@ export class GraphQuery {
 
   /** Inverted keyword index: lowercase keyword → Set of doc node IDs */
   private keywordIndex = new Map<string, Set<string>>();
-  /** Inverted label index: lowercase word → Set of node IDs */
+  /** Stemmed label index: stemmed word → Set of node IDs */
   private labelIndex = new Map<string, Set<string>>();
+  /** Trigram index: trigram → Set of stemmed words (for fuzzy matching) */
+  private trigramIndex = new Map<string, Set<string>>();
+  /** IDF table: stemmed word → inverse-document-frequency weight */
+  private idfTable = new Map<string, number>();
+  /** Total number of document nodes (for IDF calculation) */
+  private totalDocs = 0;
+
+  /** LRU query cache: cache key → { results, timestamp } */
+  private queryCache = new Map<string, { results: GraphSearchResult[]; ts: number }>();
+  private readonly CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
+  private readonly CACHE_MAX_SIZE = 200;
 
   constructor(knowledgeDir = "knowledge/current") {
     this.graphPath = path.join(knowledgeDir, "graph.json");
@@ -82,7 +174,8 @@ export class GraphQuery {
   }
 
   private buildIndices() {
-    // Build keyword → docs index
+    // Build keyword → docs index from tagged_with edges
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachEdge((_: any, attrs: any, source: any, target: any) => {
       if (attrs.type === "tagged_with") {
         const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
@@ -96,69 +189,184 @@ export class GraphQuery {
       }
     });
 
-    // Build label word → node index
+    // Build stemmed label index + trigram index + IDF table
+    // Track document frequency (how many DOCUMENT nodes each stem appears in)
+    const docFrequency = new Map<string, number>();
+    let docCount = 0;
+
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachNode((nodeId: any, attrs: any) => {
       const label = (attrs.label as string)?.toLowerCase();
       if (!label) return;
-      const words = label.split(/\s+/);
+
+      const isDoc = attrs.type === "document";
+      if (isDoc) docCount++;
+
+      const words = label.split(/[\s_\-.]+/);
+      const seenStems = new Set<string>();
+
       for (const word of words) {
         if (word.length < 3) continue;
-        if (!this.labelIndex.has(word)) {
-          this.labelIndex.set(word, new Set());
+        const stemmed = stem(word);
+        seenStems.add(stemmed);
+
+        // Stemmed label index
+        if (!this.labelIndex.has(stemmed)) {
+          this.labelIndex.set(stemmed, new Set());
         }
-        this.labelIndex.get(word)!.add(nodeId);
+        this.labelIndex.get(stemmed)!.add(nodeId);
+
+        // Trigram index: map each trigram to the stemmed word
+        for (const tri of trigrams(stemmed)) {
+          if (!this.trigramIndex.has(tri)) {
+            this.trigramIndex.set(tri, new Set());
+          }
+          this.trigramIndex.get(tri)!.add(stemmed);
+        }
+      }
+
+      // Track DF for document nodes only
+      if (isDoc) {
+        for (const s of seenStems) {
+          docFrequency.set(s, (docFrequency.get(s) || 0) + 1);
+        }
       }
     });
+
+    // Compute IDF: log(N / df) for each stem
+    this.totalDocs = docCount;
+    for (const [stemmedWord, df] of docFrequency) {
+      this.idfTable.set(stemmedWord, Math.log(docCount / df));
+    }
+
+    log.info(
+      {
+        labelTerms: this.labelIndex.size,
+        trigrams: this.trigramIndex.size,
+        keywords: this.keywordIndex.size,
+        docs: docCount,
+      },
+      "Search indices built (stemmed + trigram + IDF)",
+    );
+  }
+
+  // ─── Cache helpers ──────────────────────────────────────────────
+  private getCached(key: string): GraphSearchResult[] | null {
+    const entry = this.queryCache.get(key);
+    if (!entry) return null;
+    if (Date.now() - entry.ts > this.CACHE_TTL_MS) {
+      this.queryCache.delete(key);
+      return null;
+    }
+    return entry.results;
+  }
+
+  private setCache(key: string, results: GraphSearchResult[]) {
+    // Evict oldest if at capacity
+    if (this.queryCache.size >= this.CACHE_MAX_SIZE) {
+      const oldest = this.queryCache.keys().next().value;
+      if (oldest !== undefined) this.queryCache.delete(oldest);
+    }
+    this.queryCache.set(key, { results, ts: Date.now() });
   }
 
   // ─── Query Methods ─────────────────────────────────────────────
 
   /**
    * Search across all node labels for a query string.
-   * Returns nodes whose labels contain the query terms.
+   *
+   * Uses stemming + trigram fuzzy matching + TF-IDF scoring.
+   * Supports optional pre-filters for domain and docType.
    */
   searchNodes(
     query: string,
-    options: { type?: string; limit?: number } = {},
+    options: SearchOptions = {},
   ): GraphSearchResult[] {
     this.ensureLoaded();
-    const { type, limit = 25 } = options;
-    // Split on whitespace, underscores, dots, and camelCase boundaries
-    const terms = query.toLowerCase()
-      .replace(/[._]/g, ' ')
-      .replace(/([a-z])([A-Z])/g, '$1 $2')
+    const { type, limit = 25, domain, docType } = options;
+
+    // Check cache
+    const cacheKey = `search:${query}|${type || ""}|${domain || ""}|${docType || ""}|${limit}`;
+    const cached = this.getCached(cacheKey);
+    if (cached) return cached;
+
+    // Tokenise and stem the query
+    const rawTerms = query.toLowerCase()
+      .replace(/[._]/g, " ")
+      .replace(/([a-z])([A-Z])/g, "$1 $2")
       .split(/\s+/)
       .filter((t) => t.length >= 3);
-    if (terms.length === 0) return [];
+    if (rawTerms.length === 0) return [];
 
-    // Find candidate nodes from label index
+    const stemmedTerms = rawTerms.map(stem);
+
+    // Collect candidate nodes via stemmed label index
+    // For each stemmed term, find exact stem matches + trigram-expanded fuzzy matches
     const candidates = new Map<string, number>();
 
-    for (const term of terms) {
-      for (const [word, nodeIds] of this.labelIndex) {
-        // Require meaningful overlap: shorter string must be ≥60% of longer
-        const shorter = Math.min(word.length, term.length);
-        const longer = Math.max(word.length, term.length);
-        if (shorter / longer < 0.6) continue;
-        if (word.includes(term) || term.includes(word)) {
-          for (const nodeId of nodeIds) {
-            candidates.set(nodeId, (candidates.get(nodeId) || 0) + 1);
+    for (const st of stemmedTerms) {
+      const matchedStems = new Set<string>();
+
+      // Exact stem match
+      if (this.labelIndex.has(st)) {
+        matchedStems.add(st);
+      }
+
+      // Trigram fuzzy expansion: find other stems that share trigrams
+      const queryTrigrams = trigrams(st);
+      const trigramHits = new Map<string, number>();
+      for (const tri of queryTrigrams) {
+        const stems = this.trigramIndex.get(tri);
+        if (stems) {
+          for (const s of stems) {
+            trigramHits.set(s, (trigramHits.get(s) || 0) + 1);
           }
+        }
+      }
+      // Accept stems with ≥60% trigram overlap
+      const threshold = Math.max(1, Math.floor(queryTrigrams.length * 0.6));
+      for (const [s, count] of trigramHits) {
+        if (count >= threshold) matchedStems.add(s);
+      }
+
+      // Collect node IDs from matched stems
+      for (const ms of matchedStems) {
+        const nodeIds = this.labelIndex.get(ms);
+        if (!nodeIds) continue;
+        // Weight by IDF of the matched stem
+        const idf = this.idfTable.get(ms) || 1.0;
+        for (const nodeId of nodeIds) {
+          candidates.set(nodeId, (candidates.get(nodeId) || 0) + idf);
         }
       }
     }
 
-    // Score and filter
+    // Score, filter, and rank
     const results: GraphSearchResult[] = [];
-    for (const [nodeId, matchCount] of candidates) {
+    const queryLower = query.toLowerCase();
+
+    for (const [nodeId, tfidfScore] of candidates) {
       const attrs = this.graph.getNodeAttributes(nodeId) as NodeAttributes;
+
+      // Pre-filter by type
       if (type && attrs.type !== type) continue;
 
+      // Pre-filter by domain (node IDs are doc:<domain>:<topic>)
+      if (domain && !nodeId.startsWith(`doc:${domain}:`)) continue;
+
+      // Pre-filter by docType
+      if (docType && attrs.docType !== docType) continue;
+
       const label = attrs.label?.toLowerCase() || "";
-      // Exact match gets highest score
-      let score = matchCount / terms.length;
-      if (label === query.toLowerCase()) score = 10;
-      else if (label.startsWith(query.toLowerCase())) score += 2;
+
+      // Compute final score: TF-IDF base + bonuses
+      let score = tfidfScore / stemmedTerms.length; // normalize by query length
+
+      // Exact match bonus
+      if (label === queryLower) score += 10;
+      else if (label.startsWith(queryLower)) score += 3;
+      // Contains full query bonus
+      else if (label.includes(queryLower)) score += 1.5;
 
       results.push({
         nodeId,
@@ -170,10 +378,13 @@ export class GraphQuery {
       });
     }
 
-    return results
-      .filter((r) => (r.score || 0) >= 0.3) // Filter weak matches
+    const sorted = results
+      .filter((r) => (r.score || 0) >= 0.3)
       .sort((a, b) => (b.score || 0) - (a.score || 0))
       .slice(0, limit);
+
+    this.setCache(cacheKey, sorted);
+    return sorted;
   }
 
   /**
@@ -212,6 +423,7 @@ export class GraphQuery {
       const nextFrontier: string[] = [];
       for (const nodeId of frontier) {
         // Outgoing reference edges
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         this.graph.forEachOutEdge(nodeId, (_: any, attrs: any, _src: any, target: any) => {
           if (attrs.type === "references" && !visited.has(target)) {
             visited.add(target);
@@ -227,6 +439,7 @@ export class GraphQuery {
           }
         });
         // Incoming reference edges
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         this.graph.forEachInEdge(nodeId, (_: any, attrs: any, source: any) => {
           if (attrs.type === "references" && !visited.has(source)) {
             visited.add(source);
@@ -257,6 +470,7 @@ export class GraphQuery {
     if (!this.graph.hasNode(nsNodeId)) return [];
 
     const results: GraphSearchResult[] = [];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachInEdge(nsNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "belongs_to_namespace") {
         const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
@@ -282,6 +496,7 @@ export class GraphQuery {
     if (!this.graph.hasNode(serviceNodeId)) return [];
 
     const results: GraphSearchResult[] = [];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachInEdge(serviceNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "belongs_to_service") {
         const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
@@ -305,6 +520,7 @@ export class GraphQuery {
     if (!this.graph.hasNode(dtNodeId)) return [];
 
     const results: GraphSearchResult[] = [];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachInEdge(dtNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "is_type" && results.length < limit) {
         const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
@@ -336,6 +552,7 @@ export class GraphQuery {
     const referencedBy: GraphSearchResult[] = [];
 
     // Traverse outgoing edges
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachOutEdge(docNodeId, (_: any, edgeAttrs: any, _src: any, target: any) => {
       const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
       switch (edgeAttrs.type) {
@@ -358,6 +575,7 @@ export class GraphQuery {
     });
 
     // Traverse incoming edges
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachInEdge(docNodeId, (_: any, edgeAttrs: any, source: any) => {
       const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
       switch (edgeAttrs.type) {
@@ -396,6 +614,7 @@ export class GraphQuery {
     this.ensureLoaded();
     const results: GraphSearchResult[] = [];
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachNode((nodeId: any, attrs: any) => {
       if (attrs.type === "domain") {
         results.push({
@@ -416,9 +635,11 @@ export class GraphQuery {
     this.ensureLoaded();
     const results: Array<{ namespace: string; docCount: number }> = [];
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachNode((nodeId: any, attrs: any) => {
       if (attrs.type === "namespace") {
         let docCount = 0;
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         this.graph.forEachInEdge(nodeId, (_: any, edgeAttrs: any) => {
           if (edgeAttrs.type === "belongs_to_namespace") docCount++;
         });
@@ -436,9 +657,11 @@ export class GraphQuery {
     this.ensureLoaded();
     const results: Array<{ service: string; domainCount: number }> = [];
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachNode((nodeId: any, attrs: any) => {
       if (attrs.type === "service") {
         let domainCount = 0;
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         this.graph.forEachInEdge(nodeId, (_: any, edgeAttrs: any) => {
           if (edgeAttrs.type === "belongs_to_service") domainCount++;
         });

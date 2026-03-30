@@ -108,9 +108,11 @@ function printEntries(entries: IndexEntry[]) {
 
 function printDomainConfig(entry: IndexEntry) {
   const id = deliverableToId(entry.deliverable);
-  const tags = [entry.service.toLowerCase().replace(/\s+/g, "-")].filter(
-    Boolean,
-  );
+  const tags = [
+    typeof entry.service === "string"
+      ? entry.service.toLowerCase().replace(/\s+/g, "-")
+      : "",
+  ].filter(Boolean);
 
   console.log(`  {
     id: "${id}",

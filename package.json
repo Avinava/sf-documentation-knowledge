@@ -1,6 +1,6 @@
 {
   "name": "@sfdxy/sf-documentation-knowledge",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Salesforce documentation knowledge system — collect, process, and serve SF docs for LLM agents via MCP + Context Engineering",
   "type": "module",
   "main": "./dist/mcp/server.js",
@@ -38,6 +38,7 @@
     "mcp:start": "node dist/mcp/server.js",
     "test": "vitest run",
     "test:watch": "vitest",
+    "quality": "node dist/cli/data-quality.js",
     "lint": "eslint src/",
     "format": "prettier --write \"src/**/*.ts\"",
     "format:check": "prettier --check \"src/**/*.ts\"",
