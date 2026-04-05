@@ -5,7 +5,7 @@ topic: salestransactiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.462Z
+lastCollected: 2026-04-05T00:23:27.802Z
 estimatedTokens: 257
 keywords: [SalesTransactionType, sales, transaction, API, version, 61.0, later, Calls, Special, Access, Rules]
 ---

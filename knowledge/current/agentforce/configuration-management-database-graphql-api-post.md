@@ -5,8 +5,8 @@ topic: configuration-management-database-graphql-api-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:15.828Z
-estimatedTokens: 2040
+lastCollected: 2026-04-05T00:23:34.697Z
+estimatedTokens: 2418
 keywords: [Configuration, Management, Database, GraphQL, API, POST, Access, manage, items, Agentforce, Service, CMDB, Execute, operations, assets]
 ---
 
@@ -76,27 +76,39 @@ Performs a paginated search across configuration items with filtering and sortin
 
 Mutation: upsertCI
 
-Submits a bulk operation to create or update one or more configuration items as an asynchronous job. See [Upsert Configuration Item](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCI.htm#mutation_upsertCI "Submit a bulk operation to create or update one or more configuration items. This is an asynchronous operation that returns a job ID, which you can use with the getStatus query to check the operation progress.") for request and response details.
+Submits a bulk operation to create or update one or more configuration items as an asynchronous job. See [Upsert Configuration Item](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCI.htm#mutation_upsertCI "Submit a bulk operation to create or update one or more configuration items (CIs). This is an asynchronous operation that returns a job ID, which you can use with the getStatus query to check the operation progress.") for request and response details.
 
-Mutation: upsertCIRelationship
+Mutation: updateCIById
 
-Submits a bulk operation to create or update one or more relationships between configuration items as an asynchronous job. See [Upsert Configuration Item Relationship](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCIRelationship.htm#mutation_upsertCIRelationship "Submit a bulk operation to create or update one or more relationships between configuration items. This is an asynchronous operation that returns a job ID, which you can use with the getStatus query to check the operation progress.") for request and response details.
-
-Query: getStatus
-
-Retrieves the status of a previously submitted asynchronous job. See [Get Status of Operation](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm#query_getStatus "Retrieve the status of a previously submitted asynchronous job. For example, upsertCI a bulk upsert operation. Use this query to check the progress and completion status of the asynchronous operations.") for request and response details.
-
-Query: getComponentsByCiId
-
-Retrieves a paginated list of child components of a specific type for a configuration item by its unique identifier. See [Get Components](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getComponentsByCiId.htm#query_getComponentsByCiId "Retrieve child components of a specific type for a configuration item by its unique identifier.") for request and response details.
+Updates either partial or all attributes of an existing configuration item specified by its unique identifier. See [Update Configuration Item](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_updateCIById.htm#mutation_updateCIById "Updates one or more attributes of an existing configuration item specified by its unique identifier. You can update a subset of attributes or all attributes in a single request.") for request and response details.
 
 Mutation: deleteCI
 
 Deletes a configuration item by its unique identifier. See [Delete Configuration Item](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_deleteCI.htm#mutation_deleteCI "Delete a configuration item from the Configuration Management Database using its unique identifier.") for request and response details.
 
-Mutation: updateCIById
+Query: getCIRelationship
 
-Updates either partial or all attributes of an existing configuration item specified by its unique identifier. See [Update Configuration Item](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_updateCIById.htm#mutation_updateCIById "Updates one or more attributes of an existing configuration item specified by its unique identifier. You can update a subset of attributes or all attributes in a single request.") for request and response details.
+Retrieves detailed information about all configuration item (CI) relationships by using the unique identifier of a CI record. See [Get Configuration Item Relationship](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getCIRelationship.htm "Retrieves detailed information about all configuration item (CI) relationships by using the unique identifier of a CI record.") for request and response details.
+
+Mutation: upsertCIRelationship
+
+Submits a bulk operation to create or update one or more relationships between configuration items as an asynchronous job. See [Upsert Configuration Item Relationship](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCIRelationship.htm#mutation_upsertCIRelationship "Submit a bulk operation to create or update one or more relationships between configuration items. This is an asynchronous operation that returns a job ID, which you can use with the getStatus query to check the operation progress.") for request and response details.
+
+Mutation: deleteCIRelationship
+
+Submit an operation to delete relationships between configuration items (CIs). This is a synchronous request. See [Delete Configuration Item Relationship](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_deleteCIRelationship.htm "Submit an operation to delete relationships between configuration items (CIs). This is a synchronous request.") for request and response details.
+
+Query: getComponentsByCiId
+
+Retrieves a paginated list of child components of a specific type for a configuration item by its unique identifier. See [Get Components for Configuration Item](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getComponentsByCiId.htm#query_getComponentsByCiId "Retrieve child components of a specific type for a configuration item by its unique identifier.") for request and response details.
+
+Query: getCIHistory
+
+Perform a paginated retrieval of the audit trail for a specific configuration item. Returns a list of changes, including field-level modifications, timestamps, and user information. See [Get Configuration Item History](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getCIhistory.htm "Perform a paginated retrieval of the audit trail for a specific configuration item. Returns a list of changes, including field-level modifications, timestamps, and user information.") for request and response details.
+
+Query: getStatus
+
+Retrieves the status of a previously submitted asynchronous job. See [Get Status of Operation](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm#query_getStatus "Retrieve the status of a previously submitted asynchronous job. For example, upsertCI a bulk upsert operation. Use this query to check the progress and completion status of the asynchronous operations.") for request and response details.
 
 #### See Also
 
@@ -131,5 +143,5 @@ curl --location 'https://api.salesforce.com/service/itsm/v1/cmdb/graphql' \
 - Query Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_cibyid.htm)
 - Search Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_searchCI.htm)
 - Upsert Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCI.htm)
-- Upsert Configuration Item Relationship (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_upsertCIRelationship.htm)
-- Get Status of Operation (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm)
+- Update Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_updateCIById.htm)
+- Delete Configuration Item (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/mutation_deleteCI.htm)

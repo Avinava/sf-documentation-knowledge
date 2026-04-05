@@ -5,7 +5,7 @@ topic: connectapicontactpointfilterexpression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.883Z
+lastCollected: 2026-04-05T00:23:50.459Z
 estimatedTokens: 76
 keywords: [ConnectApi.ContactPointFilterExpression, activation, contact, point, filter, expression, output]
 ---

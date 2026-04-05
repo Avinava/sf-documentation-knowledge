@@ -5,7 +5,7 @@ topic: invoice-ingestion-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:08.761Z
+lastCollected: 2026-04-05T00:23:19.095Z
 estimatedTokens: 673
 keywords: [Invoice, Ingestion, POST, Ingest, generate, internal, external, billing, transaction, data]
 ---
@@ -131,12 +131,12 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
           {
             "referenceId": "refInvoice",
             "record": {
-              "Attributes": {
+              "attributes": {
                 "type": "Invoice",
                 "method": "POST"
               },
-              "billingAccountId": "001SG00000mKFfGYAW",
-              "billToContactId": "003SG00000Bnv5HYAR",
+              "billingAccountId": "@{refAccount.Id}",
+              "billToContactId": "@{refContact.Id}",
               "paymentTermId": "2OXxx0000004CFUGA2",
               "referenceEntityId": "801xx000003GeQQAA0",
               "status": "Draft",
@@ -151,7 +151,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
           {
             "referenceId": "refBillingAddress",
             "record": {
-              "Attributes": {
+              "attributes": {
                 "type": "InvoiceAddressGroup",
                 "method": "POST"
               },
@@ -162,7 +162,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "country": "US",
               "longitude": "123.456",
               "latitude": "78.910",
-              "invoiceId": "3ttSG000000EPjJYAW"
+              "invoiceId": "@{refInvoice.id}"
             }
           },
           {
@@ -179,7 +179,24 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "country": "US",
               "longitude": "123.456",
               "latitude": "78.910",
-              "invoiceId": "3ttSG000000EPjJYAW"
+              "invoiceId": "@{refInvoice.id}"
+            }
+          },
+          {
+            "referenceId": "refShipFromAddress",
+            "record": {
+              "attributes": {
+                "type": "InvoiceAddressGroup",
+                "method": "POST"
+              },
+              "street": "1 Market Street",
+              "city": "San Francisco",
+              "postalCode": "94105",
+              "state": "CA",
+              "country": "US",
+              "longitude": "123.456",
+              "latitude": "78.910",
+              "invoiceId": "@{refInvoice.id}"
             }
           },
           {
@@ -196,10 +213,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "quantity": "10",
               "unitPrice": "10",
               "chargeAmount": "100",
-              "invoiceId": "3ttSG000000EPjJYAW",
+              "invoiceId": "@{refInvoice.id}",
               "referenceEntityItemId": "802xx000001neB9AAI",
-              "billingAddressId": "8zzSG0000000IbFYAU",
-              "shippingAddressId": "8zzSG0000000IbGYAU",
+              "billingAddressId": "@{refBillingAddress.id}",
+              "shippingAddressId": "@{refShippingAddress.id}",
+              "shipFromAddressId": "@{refShipFromAddress.id}",
               "taxTreatmentId": "1ttxx0000000BOTAA2",
               "legalEntityId": "0fwxx0000000001AAA",
               "legalEntityAccountingPeriodId": "1HLxx0000004C92GAE"
@@ -219,10 +237,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "quantity": "10",
               "unitPrice": "10",
               "chargeAmount": "100",
-              "invoiceId": "3ttSG000000EPjJYAW",
+              "invoiceId": "@{refInvoice.id}",
               "referenceEntityItemId": "802xx000001neB9AAI",
-              "billingAddressId": "8zzSG0000000IbFYAU",
-              "shippingAddressId": "8zzSG0000000IbGYAU",
+              "billingAddressId": "@{refBillingAddress.id}",
+              "shippingAddressId": "@{refShippingAddress.id}",
+              "shipFromAddressId": "@{refShipFromAddress.id}",
               "taxTreatmentId": "1ttxx00000001DpAAI",
               "legalEntityId": "0fwxx0000000001AAA",
               "legalEntityAccountingPeriodId": "1HLxx0000004C92GAE"
@@ -244,7 +263,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "taxExemptAmount": 0,
               "taxTransactionNumber": "kl",
               "description": "Associated tax line.",
-              "invoiceLineId": "5TVSG0000004dAr4AI"
+              "invoiceLineId": "@{refInvoiceLine1.id}"
             }
           },
           {
@@ -262,7 +281,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "taxDocumentNumber": "123",
               "taxExemptAmount": 0,
               "taxTransactionNumber": "125",
-              "invoiceLineId": "5TVSG0000004xeD4AQ",
+              "invoiceLineId": "@{refInvoiceLine2.id}",
               "description": "Associated tax line."
             }
           }
@@ -294,7 +313,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
           {
             "referenceId": "refInvoice",
             "record": {
-              "Attributes": {
+              "attributes": {
                 "type": "Invoice",
                 "method": "POST"
               },
@@ -314,7 +333,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
           {
             "referenceId": "refBillingAddress",
             "record": {
-              "Attributes": {
+              "attributes": {
                 "type": "InvoiceAddressGroup",
                 "method": "POST"
               },
@@ -346,6 +365,23 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
             }
           },
           {
+            "referenceId": "refShipFromAddress",
+            "record": {
+              "attributes": {
+                "type": "InvoiceAddressGroup",
+                "method": "POST"
+              },
+              "street": "1 Market Street",
+              "city": "San Francisco",
+              "postalCode": "94105",
+              "state": "CA",
+              "country": "US",
+              "longitude": "123.456",
+              "latitude": "78.910",
+              "invoiceId": "@{refInvoice.id}"
+            }
+          },
+          {
             "referenceId": "refInvoiceLine1",
             "record": {
               "attributes": {
@@ -363,6 +399,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "referenceEntityItemId": "802xx000001neB9AAI",
               "billingAddressId": "@{refBillingAddress.id}",
               "shippingAddressId": "@{refShippingAddress.id}",
+              "shipFromAddressId": "@{refShipFromAddress.id}",
               "taxTreatmentId": "1ttxx0000000BOTAA2",
               "legalEntityId": "0fwxx0000000001AAA",
               "legalEntityAccountingPeriodId": "1HLxx0000004C92GAE"
@@ -386,6 +423,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "referenceEntityItemId": "802xx000001neB9AAI",
               "billingAddressId": "@{refBillingAddress.id}",
               "shippingAddressId": "@{refShippingAddress.id}",
+              "shipFromAddressId": "@{refShipFromAddress.id}",
               "taxTreatmentId": "1ttxx00000001DpAAI",
               "legalEntityId": "0fwxx0000000001AAA",
               "legalEntityAccountingPeriodId": "1HLxx0000004C92GAE"
@@ -457,7 +495,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
           {
             "referenceId": "refInvoice",
             "record": {
-              "Attributes": {
+              "attributes": {
                 "type": "Invoice",
                 "method": "POST"
               },
@@ -477,7 +515,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
           {
             "referenceId": "refBillingAddress",
             "record": {
-              "Attributes": {
+              "attributes": {
                 "type": "InvoiceAddressGroup",
                 "method": "POST"
               },
@@ -488,7 +526,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "country": "US",
               "longitude": "123.456",
               "latitude": "78.910",
-              "invoiceId": "3ttSG000000FFWbYAO"
+              "invoiceId": "@{refInvoice.id}"
             }
           },
           {
@@ -505,7 +543,24 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "country": "US",
               "longitude": "123.456",
               "latitude": "78.910",
-              "invoiceId": "3ttSG000000FFWbYAO"
+              "invoiceId": "@{refInvoice.id}"
+            }
+          },
+          {
+            "referenceId": "refShipFromAddress",
+            "record": {
+              "attributes": {
+                "type": "InvoiceAddressGroup",
+                "method": "POST"
+              },
+              "street": "1 Market Street",
+              "city": "San Francisco",
+              "postalCode": "94105",
+              "state": "CA",
+              "country": "US",
+              "longitude": "123.456",
+              "latitude": "78.910",
+              "invoiceId": "@{refInvoice.id}"
             }
           },
           {
@@ -522,10 +577,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "quantity": "10",
               "unitPrice": "10",
               "chargeAmount": "100",
-              "invoiceId": "3ttSG000000FFWbYAO",
+              "invoiceId": "@{refInvoice.id}",
               "referenceEntityItemId": "802xx000001neB9AAI",
-              "billingAddressId": "8zzSG0000000NmDYAU",
-              "shippingAddressId": "8zzSG0000000IbGYAU",
+              "billingAddressId": "@{refBillingAddress.id}",
+              "shippingAddressId": "@{refShippingAddress.id}",
+              "shipFromAddressId": "@{refShipFromAddress.id}",
               "taxTreatmentId": "1ttxx0000000BOTAA2",
               "legalEntityId": "0fwxx0000000001AAA",
               "legalEntityAccountingPeriodId": "1HLxx0000004C92GAE"
@@ -545,10 +601,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "quantity": "10",
               "unitPrice": "10",
               "chargeAmount": "100",
-              "invoiceId": "3ttSG000000FFWbYAO",
+              "invoiceId": "@{refInvoice.id}",
               "referenceEntityItemId": "802xx000001neB9AAI",
-              "billingAddressId": "8zzSG0000000NmDYAU",
-              "shippingAddressId": "8zzSG0000000IbGYAU",
+              "billingAddressId": "@{refBillingAddress.id}",
+              "shippingAddressId": "@{refShippingAddress.id}",
+              "shipFromAddressId": "@{refShipFromAddress.id}",
               "taxTreatmentId": "1ttxx00000001DpAAI",
               "legalEntityId": "0fwxx0000000001AAA",
               "legalEntityAccountingPeriodId": "1HLxx0000004C92GAE"
@@ -569,7 +626,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/commerce/invoicing/invoi
               "taxDocumentNumber": "123",
               "taxExemptAmount": 0,
               "taxTransactionNumber": "125",
-              "invoiceLineId": "5TVSG0000004mJ04AI",
+              "invoiceLineId": "@{refInvoiceLine1.id}",
               "description": "Associated tax line."
             }
           }

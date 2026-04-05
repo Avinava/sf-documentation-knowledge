@@ -5,7 +5,7 @@ topic: agent-work-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.670Z
+lastCollected: 2026-04-05T00:23:30.359Z
 estimatedTokens: 775
 keywords: [Agent, Work, DMO, Data, Cloud, model, assignment, routed, API, Category, Primary, Subject, Area, Key, Relationships]
 ---

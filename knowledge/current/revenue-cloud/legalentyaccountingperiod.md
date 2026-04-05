@@ -5,7 +5,7 @@ topic: legalentyaccountingperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:11.722Z
+lastCollected: 2026-04-05T00:23:26.229Z
 estimatedTokens: 1283
 keywords: [LegalEntyAccountingPeriod, junction, legal, entity, accounting, period, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
 ---

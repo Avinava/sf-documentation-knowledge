@@ -5,7 +5,7 @@ topic: connectapiaddressrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.557Z
+lastCollected: 2026-04-05T00:23:45.641Z
 estimatedTokens: 151
 keywords: [ConnectApi.AddressRequest, Address, input, representation, payment, card]
 ---

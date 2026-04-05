@@ -5,7 +5,7 @@ topic: salesforce-crm-service-presence-status-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.892Z
+lastCollected: 2026-04-05T00:23:30.856Z
 estimatedTokens: 208
 keywords: [Salesforce, CRM, Service, Presence, Status, Mapping, data, mappings, ServicePresenceStatus, DLO, found, Services, bundle, Connector, Cloud]
 ---

@@ -5,7 +5,7 @@ topic: connectapicontenthubitemtypesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.924Z
+lastCollected: 2026-04-05T00:23:50.531Z
 estimatedTokens: 146
 keywords: [ConnectApi.ContentHubItemTypeSummary, summary, item, associated, repository, folder]
 ---

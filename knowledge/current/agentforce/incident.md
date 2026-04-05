@@ -5,8 +5,8 @@ topic: incident
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:16.100Z
-estimatedTokens: 948
+lastCollected: 2026-04-05T00:23:35.353Z
+estimatedTokens: 1100
 keywords: [Incident, Standard, extend, Agentforce, Service, represent, issue, API, version, 65.0, later, Calls]
 ---
 
@@ -33,10 +33,13 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | EntitlementId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the entitlement related to the incident.This field is a relationship field.Relationship NameEntitlementRefers ToEntitlement |
 | IsAutomaticallyCreated | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether an incident is created automatically (true) or not (false).The default value is false. |
 | IsClosed | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether an incident is closed (true) or not (false).The default value is false. |
+| IsVipUserImpacted | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the incident is reported by or created for a high-priority user (true) or not (false). If the incident impacts users who have VIP permissions, these incidents are given higher priority.The default value is false. |
 | IsStopped | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether an incident is paused for further processing (true) or not (false).The default value is false. |
-| MajorIncidentStatus | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the status of the incident if it's a major incident.Possible values are:ApprovedProposedRejected |
+| MajorIncidentStatus | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the status of the incident if it's a major incident.Possible values are:ApprovedProposedRejectedDemoted |
 | MajorIncidentStatusComments | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe comments related to a major incident for a specific status. |
 | MilestoneStatus | TypestringPropertiesGroup, Nillable, SortDescriptionThe milestone status related to the entitlement process for an incident. |
+| MilestoneTimer | TypestringPropertiesGroup, Nillable, SortDescriptionTrack time remaining or overdue duration for incident milestones. |
+| NextMilestone | TypereferencePropertiesGroup, Nillable, SortDescriptionIdentify the specific action required to complete a milestone. |
 | ReportedById | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe user who reported the incident.This field is a polymorphic relationship field.Relationship NameReportedByRefers ToAccount, User |
 | ResolutionStatusCode | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the status code for the incident when it's resolved, such as resolved by the reportee, known error, or workaround provided.Possible values are:Change Request CreatedDuplicateKnown ErrorNo Resolution ProvidedOtherResolved By ReporterResolved Post ChangeSolution ProvidedUser ErrorWorkaround Provided |
 | SlaExitDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date and time when the entitlement process ends for an incident. |

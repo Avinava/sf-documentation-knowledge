@@ -5,7 +5,7 @@ topic: loyalty-program-currency-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:15.041Z
+lastCollected: 2026-04-05T00:23:33.189Z
 estimatedTokens: 989
 keywords: [Loyalty, Program, Currency, DMO, Data, Cloud, model, representing, offers, customers, API, Category, Primary, Subject, Area]
 ---

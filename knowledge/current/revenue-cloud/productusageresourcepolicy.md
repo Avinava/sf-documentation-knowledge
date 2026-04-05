@@ -5,7 +5,7 @@ topic: productusageresourcepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.287Z
+lastCollected: 2026-04-05T00:23:27.436Z
 estimatedTokens: 903
 keywords: [ProductUsageResourcePolicy, policies, applicable, usage, resource, it’s, associated, sellable, product, derived, parent, overridden, setting, modeling.This, API]
 ---

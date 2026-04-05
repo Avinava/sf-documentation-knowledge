@@ -5,7 +5,7 @@ topic: cnfgmgmtcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:16.028Z
+lastCollected: 2026-04-05T00:23:35.203Z
 estimatedTokens: 613
 keywords: [CnfgMgmtCredential, authentication, needed, access, interact, various, devices, systems, discovery, processes, SSH, key, API, version, 65.0]
 ---

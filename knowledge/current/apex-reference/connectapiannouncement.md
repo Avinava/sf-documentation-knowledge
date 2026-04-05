@@ -5,7 +5,7 @@ topic: connectapiannouncement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.233Z
+lastCollected: 2026-04-05T00:23:48.998Z
 estimatedTokens: 333
 keywords: [ConnectApi.Announcement, announcement, displays, designated, location, Salesforce, until, p.m, expiration, date, unless, it’s, deleted, replaced, another]
 ---

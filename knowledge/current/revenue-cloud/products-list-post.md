@@ -5,7 +5,7 @@ topic: products-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:08.718Z
+lastCollected: 2026-04-05T00:23:18.916Z
 estimatedTokens: 1278
 keywords: [Products, POST, Retrieve, search, filter, sort, catalog, category, subcategory, API, composite, Product, Discovery]
 ---
@@ -49,6 +49,12 @@ JSON example
 
 If a parent category ID is specified in the request body, then the API returns all products associated to all child categories.
 
+This example shows a sample request to retrieve a product list with promotions.
+
+```
+
+```
+
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
@@ -74,6 +80,7 @@ Properties
 | product​Classification​Id | String | ID of the product classification. | Optional | 60.0 |
 | qualification​Procedure | String | API name of the custom qualification procedure that’s used for the product qualification process. If this property isn’t specified, then the default qualification procedure is executed. | Optional | 60.0 |
 | related​Object​Filters | Related Object Filter Input[] | Filter records based on supported criteria for related objects.The supported object is ProductSpecificationRecType.The supported property is IsCommerical.The supported operator is eq.The supported values are true and false. | Optional | 60.0 |
+| usePromotions | Boolean | Indicates whether to fetch applicable promotions from Global Promotion Management (GPM) for each product in the list (true) or not (false). If Promotion feature is enabled in the org and this property isn't specified, then the default value is true. If the Promotion feature isn't enabled, the default value is false. | Optional | 66.0 |
 | user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
 
 Response body for POST
@@ -148,11 +155,9 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products?pro
                         Object Filter (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filters_input.htm)
 - Sort (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_order.htm)
 - Products Output (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_products_output.htm)
-- Context Data
-                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
+- Context Data Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_context_data_input.htm)
 - Additional Fields Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_additional_fields_input.htm)
 - Filter
-                      Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_filter_input.htm)
-- Related
-                        Object Filter Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filter_input.htm)
+                        Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_filter_input.htm)
+- Related Object Filter Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filter_input.htm)
 - User Context Input (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_user_context_input.htm)

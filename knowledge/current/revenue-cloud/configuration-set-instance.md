@@ -5,7 +5,7 @@ topic: configuration-set-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.963Z
+lastCollected: 2026-04-05T00:23:21.861Z
 estimatedTokens: 329
 keywords: [Configuration, Instance, Output, representation, context, session]
 ---

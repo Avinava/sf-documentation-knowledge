@@ -5,7 +5,7 @@ topic: connectapistandalonecreditmemoinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.123Z
+lastCollected: 2026-04-05T00:23:14.522Z
 estimatedTokens: 437
 keywords: [Input, representation, standalone, credit, memo]
 ---

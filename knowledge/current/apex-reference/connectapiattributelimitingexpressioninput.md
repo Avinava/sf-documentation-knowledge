@@ -5,7 +5,7 @@ topic: connectapiattributelimitingexpressioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:24.601Z
+lastCollected: 2026-04-05T00:23:45.729Z
 estimatedTokens: 150
 keywords: [limiting, expression, input, activation]
 ---

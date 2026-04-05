@@ -5,7 +5,7 @@ topic: connectapicommentcapabilitiesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:24.901Z
+lastCollected: 2026-04-05T00:23:46.315Z
 estimatedTokens: 196
 keywords: [ConnectApi.CommentCapabilitiesInput, container, capabilities, included, comment]
 ---

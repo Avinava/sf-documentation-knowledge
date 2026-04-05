@@ -5,7 +5,7 @@ topic: connectapinewfileattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.460Z
+lastCollected: 2026-04-05T00:23:45.190Z
 estimatedTokens: 372
 keywords: [ConnectApi.NewFileAttachmentInput, Attach, new, file, feed, item]
 ---

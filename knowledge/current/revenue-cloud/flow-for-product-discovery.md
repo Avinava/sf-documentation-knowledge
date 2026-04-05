@@ -5,7 +5,7 @@ topic: flow-for-product-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.458Z
+lastCollected: 2026-04-05T00:23:23.431Z
 estimatedTokens: 372
 keywords: [Flow, Product, Discovery, metadata, associated, application, users, series, pages, query, records, database, run, logic, provide]
 ---

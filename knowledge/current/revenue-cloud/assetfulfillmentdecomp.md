@@ -5,7 +5,7 @@ topic: assetfulfillmentdecomp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.784Z
+lastCollected: 2026-04-05T00:23:24.167Z
 estimatedTokens: 836
 keywords: [AssetFulfillmentDecomp, relationship, ordered, asset, corresponding, fulfillment, API, version, 62.0, later, Calls, Associated, Objects]
 ---

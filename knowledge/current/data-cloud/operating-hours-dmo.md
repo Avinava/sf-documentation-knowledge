@@ -5,7 +5,7 @@ topic: operating-hours-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.323Z
+lastCollected: 2026-04-05T00:23:33.682Z
 estimatedTokens: 829
 keywords: [Operating, Hours, DMO, Data, Cloud, model, business, function, API, Category, Primary, Subject, Area, Key, Relationships]
 ---

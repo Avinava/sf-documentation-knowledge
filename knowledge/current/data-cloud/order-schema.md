@@ -5,7 +5,7 @@ topic: order-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.209Z
+lastCollected: 2026-04-05T00:23:29.320Z
 estimatedTokens: 1334
 keywords: [Order, Schema, interaction, commerce, action, captures, actions, performed, user, manage, new, progress, completed, orders]
 ---

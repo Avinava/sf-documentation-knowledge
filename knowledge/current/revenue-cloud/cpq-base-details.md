@@ -5,8 +5,8 @@ topic: cpq-base-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.323Z
-estimatedTokens: 229
+lastCollected: 2026-04-05T00:23:20.430Z
+estimatedTokens: 251
 keywords: [CPQ, Base, Output, representation, catalog, category, product]
 ---
 
@@ -34,6 +34,12 @@ This example shows the sample category details.
 ```
 
 This example shows the sample product details.
+
+```
+
+```
+
+This example shows a sample of category details with eligible promotions.
 
 ```
 
@@ -169,6 +175,55 @@ This example shows the sample product details.
         
       }
     }
+  }
+}
+```
+
+```
+{
+  "apiStatus": {
+    "messages": [],
+    "statusCode": "FetchedDetailsSuccessfully"
+  },
+  "correlationId": "f9fb90de-36aa-44a1-9961-a9ef5fc0cad8",
+  "result": {
+    "catalogId": "0ZSxx0000000001GAA",
+    "childCategories": [],
+    "description": "Category for Samsung phones",
+    "id": "0ZGxx000000004rGAA",
+    "name": "Samsung",
+    "isNavigational": true,
+    "sortOrder": 2,
+    "eligiblePromotions": [
+      {
+        "id": "0ZPxx0000000001AAA",
+        "name": "Summer Sale 2025",
+        "displayName": "Summer Electronics Sale",
+        "description": "Get 20% off on all Samsung devices",
+        "priority": 100,
+        "startDateTime": "2025-06-01T00:00:00Z",
+        "endDateTime": "2025-08-31T23:59:59Z",
+        "isAutomatic": true,
+        "isCategoryPromo": true,
+        "isProductPromo": false,
+        "couponCode": null,
+        "termsAndConditions": "Valid on all Samsung products. Cannot be combined with other offers."
+      },
+      {
+        "id": "0ZPxx0000000002AAA",
+        "name": "Electronics Bundle Deal",
+        "displayName": "Bundle & Save",
+        "description": "Save 15% when you buy 2 or more items",
+        "priority": 90,
+        "startDateTime": "2025-05-15T00:00:00Z",
+        "endDateTime": "2025-12-31T23:59:59Z",
+        "isAutomatic": false,
+        "isCategoryPromo": false,
+        "isProductPromo": true,
+        "couponCode": "BUNDLE15",
+        "termsAndConditions": "Minimum 2 items required."
+      }
+    ]
   }
 }
 ```

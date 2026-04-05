@@ -5,7 +5,7 @@ topic: invoice-preview-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.482Z
+lastCollected: 2026-04-05T00:23:20.846Z
 estimatedTokens: 102
 keywords: [Invoice, Preview, Result, Output, representation, invoices, generated, billing, transaction]
 ---

@@ -5,7 +5,7 @@ topic: connectapimanagedcontentdeliverychannelsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:27.821Z
+lastCollected: 2026-04-05T00:23:52.349Z
 estimatedTokens: 247
 keywords: [Collection, managed, content, delivery, channels]
 ---
@@ -28,7 +28,7 @@ Collection of managed content delivery channels.
 
 #### See Also
 
--   [getAllDeliveryChannels(pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#unique_1286680801 "Get managed content delivery channels for the context user.")
+-   [getAllDeliveryChannels(pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#unique_2070512392 "Get managed content delivery channels for the context user.")
 
 ## Related Topics
 

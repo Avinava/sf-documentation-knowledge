@@ -5,7 +5,7 @@ topic: starter-data-bundles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.587Z
+lastCollected: 2026-04-05T00:23:30.170Z
 estimatedTokens: 12977
 keywords: [Starter, Data, Bundles, bundle, Salesforce-defined, stream, definition, includes, mapping, source, Cloud, DMO, structure, customized, connectors]
 ---

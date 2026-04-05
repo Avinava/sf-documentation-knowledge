@@ -1,8 +1,8 @@
 ---
 domain: agentforce
 name: Agentforce
-documentCount: 66
-lastGenerated: 2026-03-12T09:36:25.064Z
+documentCount: 71
+lastGenerated: 2026-04-05T00:23:55.121Z
 ---
 
 # Agentforce — Knowledge Index
@@ -31,6 +31,8 @@ lastGenerated: 2026-03-12T09:36:25.064Z
         |
 | [changerequestcnfgitem.md](./changerequestcnfgitem.md) | ChangeRequestCnfgItem | developer-guide | Represents the relationship between a change request and a configuration item
    |
+| [changerequestconflict.md](./changerequestconflict.md) | ChangeRequestConflict | api-reference | Represents the details related to a conflict between a change request and
+       |
 | [cnfgitemattrdef.md](./cnfgitemattrdef.md) | CnfgItemAttrDef | api-reference | Represents the definition of an attribute or a property for a configuration
      |
 | [cnfgitemattrpcklstvaldef.md](./cnfgitemattrpcklstvaldef.md) | CnfgItemAttrPcklstValDef | api-reference | Represents a specific value for a configuration item attribute. For example,
@@ -73,8 +75,14 @@ lastGenerated: 2026-03-12T09:36:25.064Z
          conf |
 | [delete-configuration-item.md](./delete-configuration-item.md) | Delete Configuration Item | developer-guide | Delete a configuration item from the Configuration Management
       Database usi |
-| [get-components.md](./get-components.md) | Get Components | developer-guide | Retrieve child components of a specific type for a configuration
+| [delete-configuration-item-relationship.md](./delete-configuration-item-relationship.md) | Delete Configuration Item Relationship | developer-guide | Submit an operation to delete relationships between configuration
+      items (C |
+| [get-components-for-configuration-item.md](./get-components-for-configuration-item.md) | Get Components for Configuration Item | developer-guide | Retrieve child components of a specific type for a configuration
       item by i |
+| [get-configuration-item-history.md](./get-configuration-item-history.md) | Get Configuration Item History | api-reference | Perform a paginated retrieval of the audit trail for a specific
+      configurat |
+| [get-configuration-item-relationship.md](./get-configuration-item-relationship.md) | Get Configuration Item Relationship | developer-guide | Retrieves detailed information about all configuration item (CI)
+      relations |
 | [get-status-of-operation.md](./get-status-of-operation.md) | Get Status of Operation | developer-guide | Retrieve the status of a previously submitted asynchronous job. For
       exampl |
 | [incident.md](./incident.md) | Incident | developer-guide | Standard fields extend the Incident object for use in Agentforce IT Service
@@ -104,6 +112,8 @@ lastGenerated: 2026-03-12T09:36:25.064Z
       and s |
 | [serviceitsmintelligenceuddsettings.md](./serviceitsmintelligenceuddsettings.md) | ServiceItsmIntelligenceUddSettings | developer-guide | Represents the settings for enabling IT Service
 			Management (ITSM) Intelligenc |
+| [servicemanagementprivilege.md](./servicemanagementprivilege.md) | ServiceManagementPrivilege | developer-guide | Represents an individual service management privilege available in the
+          |
 | [servicemgmtknwlgartclconfig.md](./servicemgmtknwlgartclconfig.md) | ServiceMgmtKnwlgArtclConfig | developer-guide | Represents a collection of settings to configure Service Management
          Kno |
 | [serviceoppriorityconfig.md](./serviceoppriorityconfig.md) | ServiceOpPriorityConfig | api-reference | Represents the configuration that determines the priority of a service

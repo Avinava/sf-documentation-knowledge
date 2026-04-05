@@ -5,7 +5,7 @@ topic: authconfiguration-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.095Z
+lastCollected: 2026-04-05T00:23:42.687Z
 estimatedTokens: 6294
 namespace: Auth
 keywords: [AuthConfiguration, whether, Experience, Cloud, site, internal, users, log, login, enable, admins, configure, setting, Allow, directly]

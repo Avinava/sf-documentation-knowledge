@@ -5,7 +5,7 @@ topic: applauncher-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.694Z
+lastCollected: 2026-04-05T00:23:53.143Z
 estimatedTokens: 565
 namespace: AppLauncher
 keywords: [AppLauncher, managing, appearance, apps, App, Launcher, including, their, visibility, sort, order]

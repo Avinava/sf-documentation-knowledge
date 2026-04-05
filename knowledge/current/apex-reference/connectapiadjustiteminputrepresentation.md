@@ -5,7 +5,7 @@ topic: connectapiadjustiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:24.566Z
+lastCollected: 2026-04-05T00:23:45.659Z
 estimatedTokens: 353
 keywords: [price, adjustment, OrderItemSummary, supports, discounts, increases]
 ---

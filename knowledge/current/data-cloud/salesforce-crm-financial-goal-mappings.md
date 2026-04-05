@@ -5,7 +5,7 @@ topic: salesforce-crm-financial-goal-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.379Z
+lastCollected: 2026-04-05T00:23:31.785Z
 estimatedTokens: 266
 keywords: [Salesforce, CRM, Financial, Goal, Mappings, data, FinancialGoal, DLO, found, Services, Cloud, bundle, Connector, Usage, DMO]
 ---

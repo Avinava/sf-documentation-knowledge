@@ -5,7 +5,7 @@ topic: getentityfields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.014Z
+lastCollected: 2026-04-05T00:23:42.529Z
 estimatedTokens: 508
 keywords: [getEntityFields, Retrieves, signed, Record, component, appears, Visualforce, that’s, placed, Usage]
 ---

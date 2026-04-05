@@ -5,7 +5,7 @@ topic: market-segment-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.119Z
+lastCollected: 2026-04-05T00:23:33.364Z
 estimatedTokens: 635
 keywords: [Market, Segment, DMO, Data, Cloud, model, group, people, share, common, characteristics, grouped, marketing, purposes, API]
 ---

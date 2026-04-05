@@ -5,7 +5,7 @@ topic: productfulfillmentdecomprule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:12.138Z
+lastCollected: 2026-04-05T00:23:27.191Z
 estimatedTokens: 997
 keywords: [ProductFulfillmentDecompRule, rule, determines, how, order, broken, sub-orders, specific, technical, help, fulfillment, applied, commercial, product, API]
 ---

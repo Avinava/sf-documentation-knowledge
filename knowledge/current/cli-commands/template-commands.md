@@ -5,8 +5,8 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:05.776Z
-estimatedTokens: 8000
+lastCollected: 2026-04-05T00:23:11.309Z
+estimatedTokens: 8070
 keywords: [template, Commands, Generate, simple, Analytics, Examples, Flags, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage]
 ---
 
@@ -1185,9 +1185,13 @@ The standard template provides a complete force-app directory structure so you k
 
 The analytics template provides similar files and the force-app/main/default/waveTemplates directory.
 
+The reactb2e and reactb2x templates provide React-based project scaffolding for B2E and B2X web application use cases.
+
+The agent template provides project scaffolding for building Agentforce agents and includes a sample agent called Local Info Agent.
+
 Type: option
 
-Permissible values are: standard, empty, analytics
+Permissible values are: standard, empty, analytics, reactb2e, reactb2x, agent
 
 Default value: standard
 

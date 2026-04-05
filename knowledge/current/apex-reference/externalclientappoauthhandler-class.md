@@ -5,7 +5,7 @@ topic: externalclientappoauthhandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.182Z
+lastCollected: 2026-04-05T00:23:42.853Z
 estimatedTokens: 1849
 namespace: Auth
 keywords: [ExternalClientAppOauthHandler, extending, behavior, external, client, app, customize, how, invoked, depending, protocol, gives, control, over, interaction]

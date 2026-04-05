@@ -5,7 +5,7 @@ topic: orgpartition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.020Z
+lastCollected: 2026-04-05T00:23:43.399Z
 estimatedTokens: 817
 namespace: Cache
 keywords: [OrgPartition, manage, cache, org, specific, partition, Unlike, session, tied, any, It’s, across, requests, users, Usage]

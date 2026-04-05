@@ -5,7 +5,7 @@ topic: get-products-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.015Z
+lastCollected: 2026-04-05T00:23:11.915Z
 estimatedTokens: 1839
 keywords: [Products, Action, catalog, category, subcategory, including, product, qualification, pricing, Special, Access, Rules, REST, HTTP, Inputs]
 ---

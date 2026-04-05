@@ -5,7 +5,7 @@ topic: cardpaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.328Z
+lastCollected: 2026-04-05T00:23:44.008Z
 estimatedTokens: 3602
 namespace: CommercePayments
 keywords: [CardPaymentMethodRequest, data, card, payment, gateway, adapter, service, call, Usage, cardCategory, accountId, autoPay, cardHolderFirstName, cardHolderLastName, cardHolderName]

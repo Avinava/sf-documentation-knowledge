@@ -5,7 +5,7 @@ topic: line-item-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.153Z
+lastCollected: 2026-04-05T00:23:29.244Z
 estimatedTokens: 194
 keywords: [Line, Item, Attribute, items, intended, describe, purchasable, cart, order, interactions]
 ---

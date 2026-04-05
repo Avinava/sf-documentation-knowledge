@@ -5,7 +5,7 @@ topic: externalemailservices-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:18.833Z
+lastCollected: 2026-04-05T00:23:40.618Z
 estimatedTokens: 456
 namespace: ConnectApi
 keywords: [ExternalEmailServices, Access, integration, external, email, services, sending, Salesforce, account, getUserOauthInfo, landingPage, API, Version, Requires, Chatter]

@@ -5,7 +5,7 @@ topic: connectapiocireleasereservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:25.467Z
+lastCollected: 2026-04-05T00:23:47.422Z
 estimatedTokens: 286
 keywords: [inventory, reservation, release]
 ---

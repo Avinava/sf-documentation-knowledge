@@ -5,7 +5,7 @@ topic: invoice-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.489Z
+lastCollected: 2026-04-05T00:23:20.867Z
 estimatedTokens: 87
 keywords: [Invoice, Ingestion, Output, representation, generated, invoices]
 ---

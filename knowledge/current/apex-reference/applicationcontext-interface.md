@@ -5,7 +5,7 @@ topic: applicationcontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.031Z
+lastCollected: 2026-04-05T00:23:52.882Z
 estimatedTokens: 180
 namespace: Canvas
 keywords: [ApplicationContext, retrieve, application, context, version, URL, Usage]

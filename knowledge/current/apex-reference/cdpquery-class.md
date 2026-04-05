@@ -5,8 +5,8 @@ topic: cdpquery-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:16.530Z
-estimatedTokens: 30989
+lastCollected: 2026-04-05T00:23:36.190Z
+estimatedTokens: 32076
 namespace: ConnectApi
 keywords: [CdpQuery, Synchronously, query, data, across, model, lake, unified, linked, objects, Specify, batch, size, offset, order]
 ---
@@ -63,6 +63,12 @@ These methods are for CdpQuery. All methods are static.
     Get metadata for a Calculated Insight object. Metadata includes dimensions and measures.
 -   **[getInsightsMetadata(ciName, dataspace)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_getInsightsMetadata_3)**
     Get metadata for a Calculated Insight object and specify the data space. Metadata includes dimensions and measures.
+-   **[getMetadataEntities()](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_getMetadataEntities_1)**
+    Get a list of metadata entities and retrieve only essential fields to optimize performance at scale.
+-   **[getMetadataEntities(entityCategory, entityType)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_getMetadataEntities_2)**
+    Get a list of metadata entities and retrieve only essential fields to optimize performance at scale. Specify the entity category and type.
+-   **[getMetadataEntities(entityCategory, entityType, dataspace)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_getMetadataEntities_3)**
+    Get a list of metadata entities and retrieve only essential fields to optimize performance at scale. Specify the entity category, type, and data space.
 -   **[getProfileMetadata()](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_getProfileMetadata_1)**
     Get metadata for data model objects in the profile category, including Individual, Contact Point Email, Unified Individual, and Contact Point Address objects. Metadata includes the objects, their fields, and category.
 -   **[getProfileMetadata(dataModelName)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpQuery_static_methods.htm#apex_ConnectAPI_CdpQuery_getProfileMetadata_2)**
@@ -700,6 +706,146 @@ Name of the data space to query. If unspecified, the default data space is used.
 #### Return Value
 
 Type: [ConnectApi.CdpQueryMetadataOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_query_metadata_output.htm "Query metadata result.")
+
+### getMetadataEntities()
+
+Get a list of metadata entities and retrieve only essential fields to optimize performance at scale.
+
+#### API Version
+
+66.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.CdpQueryMetadataEntitiesOutput getMetadataEntities()
+
+#### Return Value
+
+Type: [ConnectApi.CdpQueryMetadataEntitiesOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_query_metadata_entities_output.htm "Represents a list of metadata entities.")
+
+#### Example
+
+```
+
+```
+
+### getMetadataEntities(entityCategory, entityType)
+
+Get a list of metadata entities and retrieve only essential fields to optimize performance at scale. Specify the entity category and type.
+
+#### API Version
+
+66.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.CdpQueryMetadataEntitiesOutput getMetadataEntities(String entityCategory, String entityType)
+
+#### Parameters
+
+entityCategory
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Category of the metadata entity. Supported values are:
+
+-   Activation\_Audience
+-   CG\_Audience
+-   Content
+-   Directory\_Table
+-   Engagement
+-   Profile
+-   Related
+-   Segment\_Membership
+-   Vector\_Embedding
+
+entityType
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Type of metadata entity. Supported values are:
+
+-   Calculated\_Insight
+-   DataLakeObject
+-   DataModelObject
+
+#### Return Value
+
+Type: [ConnectApi.CdpQueryMetadataEntitiesOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_query_metadata_entities_output.htm "Represents a list of metadata entities.")
+
+#### Example
+
+```
+
+```
+
+### getMetadataEntities(entityCategory, entityType, dataspace)
+
+Get a list of metadata entities and retrieve only essential fields to optimize performance at scale. Specify the entity category, type, and data space.
+
+#### API Version
+
+66.0
+
+#### Requires Chatter
+
+No
+
+#### Signature
+
+public static ConnectApi.CdpQueryMetadataEntitiesOutput getMetadataEntities(String entityCategory, String entityType, String dataspace)
+
+#### Parameters
+
+entityCategory
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Category of the metadata entity. Supported values are:
+
+-   Activation\_Audience
+-   CG\_Audience
+-   Content
+-   Directory\_Table
+-   Engagement
+-   Profile
+-   Related
+-   Segment\_Membership
+-   Vector\_Embedding
+
+entityType
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Type of metadata entity. Supported values are:
+
+-   Calculated\_Insight
+-   DataLakeObject
+-   DataModelObject
+
+dataspace
+
+Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+
+Name of the data space in which to query the metadata entities.
+
+#### Return Value
+
+Type: [ConnectApi.CdpQueryMetadataEntitiesOutput](atlas.en-us.apexref.meta/apexref/apex_connectapi_output_cdp_query_metadata_entities_output.htm "Represents a list of metadata entities.")
+
+#### Example
+
+```
+
+```
 
 ### getProfileMetadata()
 
@@ -2832,6 +2978,59 @@ Type: [ConnectApi.CdpQueryDataOutput](atlas.en-us.apexref.meta/apexref/apex_conn
 ## Code Examples
 
 ```apex
+// Initial query
+ConnectApi.MetadataEntityCollectionRepresentation entityCollection = ConnectApi.CdpQuery.getMetadataEntities();
+
+// Process the batch
+System.debug('Processing initial batch:');
+System.debug(entities);
+processEntitiesBatch(entities);
+
+// Process individual entity details
+for (ConnectApi.MetadataEntityRepresentation entity : entityCollection.metadata) {
+    System.debug('Entity details');
+    System.debug('Name: ' + entity.name);
+    System.debug('Display Name: ' + entity.displayName);
+    System.debug('Type: ' + entity.type);
+    System.debug('Category: ' + entity.category);
+    
+    // Optional: Add specific processing based on entity category
+    switch on entity.category {
+        when 'Profile' {
+            System.debug('Found Profile entity: ' + entity.displayName);
+        }
+        when 'Engagement' {
+            System.debug('Found Engagement entity: ' + entity.displayName);
+        }
+        when 'Related' {
+            System.debug('Found Related entity: ' + entity.displayName);
+        }
+        when else {
+            System.debug('Other entity type: ' + entity.category);
+        }
+    }
+}
+```
+
+```apex
+ConnectApi.MetadataEntityCollectionRepresentation entities = ConnectApi.CdpQuery.getMetadataEntities('Profile', 'DataModelObject');
+System.debug(entities);
+
+System.debug(entities.metadata);
+System.debug(entities.done);
+System.debug(entities.nextBatchId);
+```
+
+```apex
+ConnectApi.MetadataEntityCollectionRepresentation entities = ConnectApi.CdpQuery.getMetadataEntities('Profile', 'DataModelObject', 'default');
+System.debug(entities);
+
+System.debug(entities.metadata);
+System.debug(entities.done);
+System.debug(entities.nextBatchId);
+```
+
+```apex
 ConnectApi.QuerySqlInput query = new ConnectApi.QuerySqlInput();
 query.sql = 'SELECT street_address__c FROM test__dll limit 200000';
 
@@ -2891,35 +3090,6 @@ System.debug(output.dataRows);
 System.debug(output.metadata);
 System.debug(output.status);
 System.debug(output.returnedRows);
-```
-
-```apex
-ConnectApi.QuerySqlInput input = new ConnectApi.QuerySqlInput();
-input.sql = 'select * from "passenger2__dll"';
-
-ConnectApi.QuerySqlOutput output = ConnectApi.CdpQuery.querySql(input, 'workloadName', 'default');
-System.debug(output);
-
-System.debug(output.dataRows);
-System.debug(output.metadata);
-System.debug(output.status);
-System.debug(output.returnedRows);
-```
-
-```apex
-ConnectApi.QuerySqlPageOutput pageOutput = ConnectApi.CdpQuery.querySqlRows(output.status.queryId, 100, 200);
-System.debug(pageOutput);
-System.debug(pageOutput.dataRows);
-System.debug(pageOutput.metadata);
-System.debug(pageOutput.returnedRows);
-```
-
-```apex
-ConnectApi.QuerySqlPageOutput pageOutput = ConnectApi.CdpQuery.querySqlRows(output.status.queryId, 100, 200, true);
-System.debug(pageOutput);
-System.debug(pageOutput.dataRows);
-System.debug(pageOutput.metadata);
-System.debug(pageOutput.returnedRows);
 ```
 
 ## Related Topics

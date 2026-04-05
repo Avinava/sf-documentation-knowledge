@@ -5,8 +5,8 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:33:23.770Z
-estimatedTokens: 6177
+lastCollected: 2026-04-05T00:23:45.006Z
+estimatedTokens: 6240
 namespace: ConnectApi
 keywords: [ConnectApi, Connect, Apex, classes, accessing, data, REST, API, custom, experiences, Salesforce]
 ---
@@ -33,6 +33,8 @@ For information about working with the ConnectApi classes, see [Connect in Apex]
     Access and update activation information of a bot version.
 -   **[CdpActivation Class](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm#apex_ConnectAPI_CdpActivation_static_methods)**
     Get, create, update, and delete Data 360 activations.
+-   **[CdpActivationExternalPlatform Class](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationExternalPlatform_static_methods.htm#apex_ConnectAPI_CdpActivationExternalPlatform_static_methods)**
+    Get Data 360 activation external platforms.
 -   **[CdpActivationTarget Class](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm#apex_ConnectAPI_CdpActivationTarget_static_methods)**
     Get, create, and update Data 360 activation targets.
 -   **[CdpAudienceDMO Class](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpAudienceDMO_static_methods.htm#apex_ConnectAPI_CdpAudienceDMO_static_methods)**
@@ -224,9 +226,9 @@ For information about working with the ConnectApi classes, see [Connect in Apex]
 - Announcements Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_Announcements_static_methods.htm)
 - BotVersionActivation Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_BotVersionActivation_static_methods.htm)
 - CdpActivation Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivation_static_methods.htm)
+- CdpActivationExternalPlatform Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationExternalPlatform_static_methods.htm)
 - CdpActivationTarget Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpActivationTarget_static_methods.htm)
 - CdpAudienceDMO Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpAudienceDMO_static_methods.htm)
 - CdpCalculatedInsight Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpCalculatedInsight_static_methods.htm)
 - CdpConnection Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpConnection_static_methods.htm)
 - CdpDataSpace Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpDataSpace_static_methods.htm)
-- CdpDataStreams Class (atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_CdpDataStreams_static_methods.htm)

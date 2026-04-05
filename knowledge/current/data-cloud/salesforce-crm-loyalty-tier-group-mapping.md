@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-tier-group-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.548Z
+lastCollected: 2026-04-05T00:23:32.158Z
 estimatedTokens: 457
 keywords: [Salesforce, CRM, Loyalty, Tier, Group, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud, consists]
 ---

@@ -5,7 +5,7 @@ topic: marketing-cloud-account-engagement-web-page-activity-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.147Z
+lastCollected: 2026-04-05T00:23:33.416Z
 estimatedTokens: 694
 keywords: [Marketing, Cloud, Account, Engagement, Web, Activity, Mapping, data, stream, deployed, maps, source, objects, model, DMOs]
 ---

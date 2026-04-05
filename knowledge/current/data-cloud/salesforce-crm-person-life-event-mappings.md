@@ -5,7 +5,7 @@ topic: salesforce-crm-person-life-event-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.419Z
+lastCollected: 2026-04-05T00:23:31.863Z
 estimatedTokens: 232
 keywords: [Salesforce, CRM, Person, Life, Event, Mappings, data, PersonLifeEvent, DLO, found, Financial, Services, Cloud, bundle, Connector]
 ---

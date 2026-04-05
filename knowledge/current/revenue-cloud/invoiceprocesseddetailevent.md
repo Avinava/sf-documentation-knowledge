@@ -5,7 +5,7 @@ topic: invoiceprocesseddetailevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:11.699Z
+lastCollected: 2026-04-05T00:23:26.179Z
 estimatedTokens: 433
 keywords: [InvoiceProcessedDetailEvent, notification, customers, regarding, results, attempt, invoice, billing, schedules, part, commerce, invoices, platform, event, share]
 ---

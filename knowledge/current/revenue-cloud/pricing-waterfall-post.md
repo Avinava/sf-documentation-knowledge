@@ -5,7 +5,7 @@ topic: pricing-waterfall-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:08.853Z
+lastCollected: 2026-04-05T00:23:19.319Z
 estimatedTokens: 381
 keywords: [Pricing, Waterfall, POST, log, price, insights, every, step, process]
 ---

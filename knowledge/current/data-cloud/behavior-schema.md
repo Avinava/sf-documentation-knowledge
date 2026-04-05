@@ -5,7 +5,7 @@ topic: behavior-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.031Z
+lastCollected: 2026-04-05T00:23:29.044Z
 estimatedTokens: 538
 keywords: [Behavior, Schema, events, sent, Data, Cloud, customer, navigates, application, Module, Engagement, Mobile, SDK, running, include]
 ---

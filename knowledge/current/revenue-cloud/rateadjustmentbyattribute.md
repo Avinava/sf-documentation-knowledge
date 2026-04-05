@@ -5,7 +5,7 @@ topic: rateadjustmentbyattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.390Z
+lastCollected: 2026-04-05T00:23:27.648Z
 estimatedTokens: 1243
 keywords: [RateAdjustmentByAttribute, adjustments, determine, rate, resource, rate-impacting, attributes, linked, usage, product, record, Rates, influenced, conditions, Attribute]
 ---

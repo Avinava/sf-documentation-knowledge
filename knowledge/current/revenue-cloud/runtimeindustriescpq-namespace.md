@@ -5,7 +5,7 @@ topic: runtimeindustriescpq-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:07.338Z
+lastCollected: 2026-04-05T00:23:15.050Z
 estimatedTokens: 4663
 namespace: The
 keywords: [runtime_industries_cpq, classes, search, products, manage, catalogs, categories, runtime, _industries, _cpq, Usage]

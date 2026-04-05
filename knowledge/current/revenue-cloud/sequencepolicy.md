@@ -5,7 +5,7 @@ topic: sequencepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:12.502Z
+lastCollected: 2026-04-05T00:23:27.889Z
 estimatedTokens: 1162
 keywords: [SequencePolicy, configuration, rules, generating, unique, sequential, numbers, records, Stores, settings, numbering, patterns, prefixes, suffixes, sequence]
 ---

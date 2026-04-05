@@ -5,7 +5,7 @@ topic: commerce-product-attribute-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.093Z
+lastCollected: 2026-04-05T00:23:31.223Z
 estimatedTokens: 191
 keywords: [Commerce, Product, Attribute, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
 ---

@@ -5,7 +5,7 @@ topic: connectapicreditmemolineunapplyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.086Z
+lastCollected: 2026-04-05T00:23:14.447Z
 estimatedTokens: 139
 keywords: [ConnectApi.CreditMemoLineUnapplyInput, Input, representation, unapply, credit, memo, line, invoice]
 ---

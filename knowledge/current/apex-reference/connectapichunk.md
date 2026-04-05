@@ -5,7 +5,7 @@ topic: connectapichunk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.763Z
+lastCollected: 2026-04-05T00:23:50.178Z
 estimatedTokens: 53
 keywords: [ConnectApi.Chunk, Content, chunk, search, result]
 ---

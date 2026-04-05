@@ -5,7 +5,7 @@ topic: connectapicontenthubfieldvalueinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:24.944Z
+lastCollected: 2026-04-05T00:23:46.402Z
 estimatedTokens: 140
 keywords: [ConnectApi.ContentHubFieldValueInput, item]
 ---

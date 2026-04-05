@@ -5,8 +5,8 @@ topic: code-analyzer-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:05.284Z
-estimatedTokens: 6591
+lastCollected: 2026-04-05T00:23:10.206Z
+estimatedTokens: 6757
 keywords: [code-analyzer, Commands, Output, current, state, configuration, Code, Analyzer, config, Examples, Flags, rules, run]
 ---
 
@@ -463,6 +463,12 @@ Analyze the files using only the "getter-return" rule of the "eslint" engine and
 
 ```
 
+Analyze the files and ignore all inline suppression markers (code-analyzer-suppress/unsuppress) in the source code:
+
+```
+
+```
+
 ### Flags
 
 \--flags-dir FLAGS-DIR
@@ -582,6 +588,18 @@ We recommend that you name your Code Analyzer configuration file \`code-analyzer
 To help you get started, use the \`code-analyzer config\` command to create your first Code Analyzer configuration file. With it, you can change the severity of an existing rule, change a rule's tags, and so on. Then use this flag to specify the file so that the command takes your customizations into account.
 
 Type: option
+
+\--no-suppressions
+
+Optional
+
+Disable processing of inline suppression markers.
+
+By default, Code Analyzer processes inline suppression markers (code-analyzer-suppress and code-analyzer-unsuppress) found in your source code to filter out violations. Use this flag to ignore all suppression markers and report all violations.
+
+Note: If you have a \`code-analyzer.yml\` or \`code-analyzer.yaml\` configuration file with the \`suppressions.disable\_suppressions\` field, the configuration file takes precedence over this flag.
+
+Type: boolean
 
 ## Code Examples
 

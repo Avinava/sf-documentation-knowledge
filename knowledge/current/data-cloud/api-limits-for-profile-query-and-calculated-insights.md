@@ -5,7 +5,7 @@ topic: api-limits-for-profile-query-and-calculated-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:13.327Z
+lastCollected: 2026-04-05T00:23:29.592Z
 estimatedTokens: 308
 keywords: [API, Limits, Profile, Query, Calculated, Insights, There, three, distinct, classes, APIs, extract, data, Cloud, formerly]
 ---

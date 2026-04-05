@@ -5,7 +5,7 @@ topic: connectapiensurerefundsasyncinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:25.087Z
+lastCollected: 2026-04-05T00:23:46.671Z
 estimatedTokens: 675
 keywords: [credit, memo, ensure, refunds, amount, excess, funds, refund, least, includes, any, invoices, fees, reduce, multiple]
 ---

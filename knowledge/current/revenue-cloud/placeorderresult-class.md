@@ -5,7 +5,7 @@ topic: placeorderresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.421Z
+lastCollected: 2026-04-05T00:23:12.960Z
 estimatedTokens: 859
 namespace: CommerceOrders
 keywords: [PlaceOrderResult, hold, place, order, orderId, requestIdentifier, responseError, statusURL, success]

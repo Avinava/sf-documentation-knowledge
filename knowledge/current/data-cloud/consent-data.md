@@ -5,7 +5,7 @@ topic: consent-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.988Z
+lastCollected: 2026-04-05T00:23:28.944Z
 estimatedTokens: 502
 keywords: [Consent, Data, either, grant, revoke, Salesforce, Interactions, SDK, customer, chooses, opt, tracking, attached, Event, Structure]
 ---

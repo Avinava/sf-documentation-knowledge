@@ -5,8 +5,8 @@ topic: guided-selection-search-term-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:08.030Z
-estimatedTokens: 80
+lastCollected: 2026-04-05T00:23:17.283Z
+estimatedTokens: 105
 keywords: [Guided, Selection, Search, Term, Input, representation, terms]
 ---
 
@@ -26,22 +26,33 @@ JSON example
 
 Properties
 
-| Name | Type | Description | Required or Optional | Available Version |
-| --- | --- | --- | --- | --- |
-| term | String | Search term for the guided selection. | Required | 62.0 |
+| Name |  | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- | --- |
+| tags |  | String[] | Search term tags for the guided selection. | Optional | 62.0 |
+| term |  | String | Search term for the guided selection. | Required | 62.0 |
 
 ## Code Examples
 
 ```
 "searchTerms": [
     {
-      "term": "IPhone"
+      "term": "IPhone",
+      "tags": [
+        "deviceType",
+        "mobile"
+      ]
     },
     {
-      "term": "4GB"
+      "term": "4GB",
+      "tags": [
+        "RAM"
+      ]
     },
     {
-      "term": "64GB"
+      "term": "64GB",
+      "tags": [
+        "Storage"
+      ]
     }
   ]
 ```

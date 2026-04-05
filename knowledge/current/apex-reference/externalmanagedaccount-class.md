@@ -5,7 +5,7 @@ topic: externalmanagedaccount-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:18.842Z
+lastCollected: 2026-04-05T00:23:40.637Z
 estimatedTokens: 1511
 namespace: ConnectApi
 keywords: [ExternalManagedAccount, externally, managed, accounts, getCommunitiesExternalManagedAccounts, communityId, API, Version, Requires, Chatter, includeMyAccount, getExternalManagedAccounts, webstoreId]

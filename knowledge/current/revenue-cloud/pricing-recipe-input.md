@@ -5,7 +5,7 @@ topic: pricing-recipe-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:08.152Z
+lastCollected: 2026-04-05T00:23:17.577Z
 estimatedTokens: 155
 keywords: [Pricing, Recipe, Input, representation]
 ---

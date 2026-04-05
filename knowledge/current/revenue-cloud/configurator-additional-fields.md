@@ -5,7 +5,7 @@ topic: configurator-additional-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.191Z
+lastCollected: 2026-04-05T00:23:20.106Z
 estimatedTokens: 107
 keywords: [Configurator, Additional, Output, representation, product, configuration]
 ---

@@ -5,8 +5,8 @@ topic: agentforce-it-service-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:15.816Z
-estimatedTokens: 1917
+lastCollected: 2026-04-05T00:23:34.678Z
+estimatedTokens: 2114
 keywords: [Agentforce, Service, Standard, Objects, data, model, track, manage, issues, requests, processes]
 ---
 
@@ -26,6 +26,8 @@ Agentforce IT Service data model provides objects and fields to track and manage
 
 -   **[ChangeRequestCnfgItem](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_changerequestcnfgitem.htm)**
     Represents the relationship between a change request and a configuration item reference. This object is available in API version 65.0 and later.
+-   **[ChangeRequestConflict](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_changerequestconflct.htm)**
+    Represents the details related to a conflict between a change request and other scheduled activities, such as scheduled events or other change requests that are planned for deployment in the same period. This object is available in API version 66.0 and later.
 -   **[ConfigurationItem](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_configurationitem.htm)**
     Represents a record in the core Salesforce system that refers to a configuration item record stored in an external system. This object is available in API version 65.0 and later.
 -   **[CnfgMgmtCredential](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtcredential.htm)**
@@ -64,10 +66,13 @@ Agentforce IT Service data model provides objects and fields to track and manage
     Represents the relationship between events automatically created by the system and assigned to a related record, such as a release or a change request. This object is available in API version 65.0 and later.
 -   **[SrvcMgmntRuleAssignment](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_srvcmgmntruleassignment.htm)**
     Represents the relationship between a business operation and a group or user to which the operation is assigned by default. This object is available in API version 65.0 and later.
+-   **[ServiceManagementPrivilege](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_servicemanagementprivilege.htm)**
+    Represents an individual service management privilege available in the system, including its type, scope, and permitted level of access. This object is available in API version 66.0 and later.
 
 ## Related Topics
 
 - ChangeRequestCnfgItem (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_changerequestcnfgitem.htm)
+- ChangeRequestConflict (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_changerequestconflct.htm)
 - ConfigurationItem (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_configurationitem.htm)
 - CnfgMgmtCredential (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtcredential.htm)
 - CnfgMgmtDiscoveryAgent (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtdiscoveryagent.htm)
@@ -76,4 +81,3 @@ Agentforce IT Service data model provides objects and fields to track and manage
 - CnfgMgmtDiscoveryProbe (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtdiscoveryprobe.htm)
 - CnfgMgmtDiscoverySchd (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtdiscoveryschd.htm)
 - CnfgMgmtDiscoveryTarget (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtdiscoverytarget.htm)
-- CnfgMgmtDiscoveryTgtCrdl (atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/sforce_api_objects_cnfgmgmtdiscoverytgtcrdl.htm)

@@ -5,7 +5,7 @@ topic: connectapicapturerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.735Z
+lastCollected: 2026-04-05T00:23:45.981Z
 estimatedTokens: 315
 keywords: [ConnectApi.CaptureRequest, Payment, capture, input, consumed, service]
 ---

@@ -5,7 +5,7 @@ topic: connectapicreditmemoaddressesinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.070Z
+lastCollected: 2026-04-05T00:23:14.410Z
 estimatedTokens: 119
 keywords: [Input, representation, billing, shipping, addresses]
 ---

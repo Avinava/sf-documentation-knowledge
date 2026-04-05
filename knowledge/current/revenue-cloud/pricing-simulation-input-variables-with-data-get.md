@@ -5,7 +5,7 @@ topic: pricing-simulation-input-variables-with-data-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:08.682Z
+lastCollected: 2026-04-05T00:23:18.836Z
 estimatedTokens: 264
 keywords: [Pricing, Simulation, Input, Variables, Data, along, associated]
 ---

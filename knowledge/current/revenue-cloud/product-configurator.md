@@ -5,8 +5,8 @@ topic: product-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.358Z
-estimatedTokens: 376
+lastCollected: 2026-04-05T00:23:23.201Z
+estimatedTokens: 476
 keywords: [Product, Configurator, Customize, components, attributes, align, specific, business, requirements]
 ---
 
@@ -32,6 +32,8 @@ Customize the components and attributes of a product to align with specific busi
     Learn more about the standard invocable actions available with Product Configurator.
 -   **[Product Configurator Metadata API Types](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_metadata_api_parent.htm)**
     Metadata API enables you to access some types and feature settings that you can customize in the user interface.
+-   **[Constraint Modeling Language](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_what_is_constraint_modeling_language.htm)**
+    Constraint Modeling Language (CML) is a domain-specific language that defines models for complex systems. For product configuration, constraint models describe real-world entities and their relationships to each other.
 
 ## Related Topics
 
@@ -39,3 +41,4 @@ Customize the components and attributes of a product to align with specific busi
 - Product Configurator Business APIs (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_business_api_overview.htm)
 - Product Configurator Standard Invocable Actions (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_invocable_actions_parent.htm)
 - Product Configurator Metadata API Types (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_metadata_api_parent.htm)
+- Constraint Modeling Language (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_what_is_constraint_modeling_language.htm)

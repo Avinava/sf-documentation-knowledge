@@ -5,7 +5,7 @@ topic: bulk-unit-of-measure-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.151Z
+lastCollected: 2026-04-05T00:23:20.017Z
 estimatedTokens: 213
 keywords: [Bulk, Unit, Measure, Info, Output, representation, records, along, error]
 ---

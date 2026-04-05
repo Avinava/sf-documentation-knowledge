@@ -5,7 +5,7 @@ topic: transaction-management-fields-on-object-state-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.502Z
+lastCollected: 2026-04-05T00:23:23.539Z
 estimatedTokens: 177
 keywords: [Transaction, Management, State, Definition, Standard, custom, extend, represent, model, particular, status, entity, API, version, 60.0]
 ---

@@ -5,8 +5,8 @@ topic: chatterfavorites-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:16.663Z
-estimatedTokens: 13346
+lastCollected: 2026-04-05T00:23:36.339Z
+estimatedTokens: 13272
 namespace: ConnectApi
 keywords: [ChatterFavorites, feed, elements, favorite, Usage, addFavorite, communityId, subjectId, searchText, API, Version, Requires, Chatter, addRecordFavorite, targetId]
 ---
@@ -272,13 +272,13 @@ public static ConnectApi.FeedElementPage getFeedElements(String communityId, Str
 
 communityId
 
-Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+Type: String
 
 ID for an Experience Cloud site, internal, or null.
 
 subjectId
 
-Type: [String](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_methods_system_string "Contains methods for the String primitive data type.")
+Type: String
 
 ID of the context user or the alias me.
 

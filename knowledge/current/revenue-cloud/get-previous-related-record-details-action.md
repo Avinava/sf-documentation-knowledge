@@ -5,7 +5,7 @@ topic: get-previous-related-record-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:05.985Z
+lastCollected: 2026-04-05T00:23:11.846Z
 estimatedTokens: 348
 keywords: [Previous, Record, Action, submitted, approval, current, submission, steps, custom, logic, auto-approvals, REST, HTTP, Inputs, Outputs]
 ---

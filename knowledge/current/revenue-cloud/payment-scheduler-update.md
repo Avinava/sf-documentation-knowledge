@@ -5,7 +5,7 @@ topic: payment-scheduler-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.538Z
+lastCollected: 2026-04-05T00:23:20.980Z
 estimatedTokens: 118
 keywords: [Payment, Scheduler, Output, representation, updated, covers, status]
 ---

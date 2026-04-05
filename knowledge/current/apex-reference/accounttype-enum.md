@@ -5,7 +5,7 @@ topic: accounttype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:29.638Z
+lastCollected: 2026-04-05T00:23:52.564Z
 estimatedTokens: 52
 keywords: [AccountType, account]
 ---

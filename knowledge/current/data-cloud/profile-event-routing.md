@@ -5,7 +5,7 @@ topic: profile-event-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.544Z
+lastCollected: 2026-04-05T00:23:30.083Z
 estimatedTokens: 397
 keywords: [Profile, Event, Routing, Events, described, Web, Connector, Schema, mapped, individual, data, streams, deployed, route, collected]
 ---

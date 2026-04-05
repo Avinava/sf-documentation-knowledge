@@ -5,7 +5,7 @@ topic: context-aware-standalone-billing-schedule-metadata-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.860Z
+lastCollected: 2026-04-05T00:23:16.872Z
 estimatedTokens: 381
 keywords: [Context-Aware, Standalone, Billing, Schedule, Metadata, Input, representation, includes, context, definition, mapping, along, transaction, group]
 ---

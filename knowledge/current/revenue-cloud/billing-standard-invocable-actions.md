@@ -5,8 +5,8 @@ topic: billing-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.423Z
-estimatedTokens: 1303
+lastCollected: 2026-04-05T00:23:15.251Z
+estimatedTokens: 1570
 keywords: [Billing, Standard, Invocable, Actions, automate, processes, credit, application, schedules, creation, invoice, management, Commerce, Payments]
 ---
 
@@ -38,10 +38,14 @@ Billing provides these invocable actions.
     Create one or more billing schedules for a specified billing transaction ID.
 -   **[Create Standalone Billing Schedules Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_create_billing_schedules_from_transaction.htm)**
     Creates billing schedules for internal or external transaction records by calling the Create Standalone Billing Schedules API.
+-   **[Extend Invoice Due Date Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_blng_svc_inv_extend_due_date.htm)**
+    Update the due date on an invoice to accommodate payment extensions or resolve billing disputes.
 -   **[Generate Account Statement](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_generate_statement_of_account.htm)**
     Generates a comprehensive account statement for a specified account with transaction history and balance information.
 -   **[Generate Invoice Documents Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_generate_batch_invoice_documents.htm)**
     Asynchronously generate PDF documents for the invoices associated with an invoice batch run record that are in the Draft or Posted status.
+-   **[Issue Credit Memo Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_blng_dspt_issue_credit_memo.htm)**
+    Issue credit memos for disputed invoices to resolve billing disputes.
 -   **[Post Draft Credit Memo Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_post_draft_credit_memo.htm)**
     Post a draft credit memo to a credit memo record for review and approval.
 -   **[Post Draft Invoice Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_post_draft_invoice.htm)**
@@ -50,6 +54,10 @@ Billing provides these invocable actions.
     Update the status of a batch of invoices from Draft to Posted for a credit memo application.
 -   **[Recover Billing Schedules Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_recover_billing_schedule.htm)**
     Recover one or more billing schedules in the Error or Processing status.
+-   **[Suspend Billing Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_blng_svc_suspend_billing.htm)**
+    Suspend or resume the billing of an account to handle billing disputes.
+-   **[Update Bill To Contact Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_blng_svc_update_bill_to_contact.htm)**
+    Update the Bill to Contact detail on an invoice to ensure accurate billing communication and routing.
 -   **[Unapply Credit Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_run_unapply_credit.htm)**
     Unapply a credit memo or credit memo line from an invoice or invoice line, respectively.
 -   **[Unapply Payment Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_unapply_payment.htm)**
@@ -71,9 +79,9 @@ Billing provides these invocable actions.
 - Apply Payments and Credits by Rules Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_apply_rules.htm)
 - Create Billing Schedules From Billing Transaction Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_create_billing_schedule_from_billing_transaction.htm)
 - Create Standalone Billing Schedules Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_create_billing_schedules_from_transaction.htm)
+- Extend Invoice Due Date Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_blng_svc_inv_extend_due_date.htm)
 - Generate Account Statement (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_generate_statement_of_account.htm)
 - Generate Invoice Documents Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_generate_batch_invoice_documents.htm)
+- Issue Credit Memo Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_blng_dspt_issue_credit_memo.htm)
 - Post Draft Credit Memo Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_post_draft_credit_memo.htm)
 - Post Draft Invoice Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_post_draft_invoice.htm)
-- Post Draft Invoice Batch Run Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_post_draft_invoice_batch_run.htm)
-- Recover Billing Schedules Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_recover_billing_schedule.htm)

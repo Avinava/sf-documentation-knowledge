@@ -5,7 +5,7 @@ topic: connectapicartcouponinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:24.760Z
+lastCollected: 2026-04-05T00:23:46.030Z
 estimatedTokens: 55
 keywords: [ConnectApi.cartCouponInput, Cart, coupon, input]
 ---

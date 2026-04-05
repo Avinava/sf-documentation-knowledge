@@ -5,8 +5,8 @@ topic: tax-mappings-for-invoices-and-credits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:07.530Z
-estimatedTokens: 3030
+lastCollected: 2026-04-05T00:23:15.504Z
+estimatedTokens: 3488
 keywords: [Tax, Mappings, Invoices, Credits, extend, customize, custom, metadata, customizations, help, unique, business, requirements, inclusion, specific]
 ---
 
@@ -33,17 +33,23 @@ This table defines the request mappings between the header attributes of a tax c
 | Header Attributes | Invoice Mapping | Negative Invoice Mapping | Credit Mapping |
 | --- | --- | --- | --- |
 | currencyIsoCode | Invoice.CurrencyISOCode | Invoice.CurrencyISOCode | CreditMemo.CurrencyISOCode |
-| isCommit | If status is DRAFT then this value is False. If status is POSTED, then this value is True. | If status is DRAFT then this value is False. If status is POSTED, then this value is True. | This value is True until Summer ’25. From Winter ’26, if status is DRAFT, then this value is False and if status is POSTED, then this value is True. |
+| isCommit | If status is DRAFT then this value is False. If status is POSTED, then this value is True. | If status is DRAFT then this value is False. If status is POSTED, then this value is True. | This value is True until Summer ’25. From Winter ’26, if status is DRAFT, then this value is False. If status is POSTED, then this value is True. |
 | referenceEntityId | Invoice.ID | Invoice.ID | CreditMemo.ID |
 | taxEngineId | TaxTreatment.TaxEngine.ID | TaxTreatment.TaxEngine.ID | TaxTreatment.TaxEngine.ID |
 | transactionDate | SystemDate | SystemDate | SystemDate |
 | sellerDetails |  |  |  |
 | code | TaxEngine.SellerCode | TaxEngine.SellerCode | TaxEngine.SellerCode |
 | customerDetails |  |  |  |
-| accountId | Invoice.BillingAccount.ID | Invoice.BillingAccount.ID | Invoice.BillingAccount.ID |
+| accountId | Invoice.BillingAccount.ID | Invoice.BillingAccount.ID | CreditMemo.BillingAccount.ID |
 | code | NULL | NULL | NULL |
-| exemptionNo | NULL |  | NULL |
+| exemptionNo | Invoice.BillingAccount.TaxExemptionNumber.Available from Spring ’26. | Invoice.BillingAccount.TaxExemptionNumberAvailable from Spring ’26. | CreditMemo.BillingAccount.TaxExemptionNumberAvailable from Spring ’26. |
 | exemptionReason | NULL | NULL | NULL |
+| exemptionStatus | Invoice.BillingAccount.TaxExemptionStatusAvailable from Spring ’26. | Invoice.BillingAccount.TaxExemptionStatusAvailable from Spring ’26. | CreditMemo.BillingAccount.TaxExemptionStatusAvailable from Spring ’26. |
+| exemptionExpirationDate | Invoice.BillingAccount.TaxExemptionExpirationDateAvailable from Spring ’26. | Invoice.BillingAccount.TaxExemptionExpirationDateAvailable from Spring ’26. | CreditMemo.BillingAccount.TaxExemptionExpirationDateAvailable from Spring ’26. |
+| deliveryTerms | Invoice.BillingAccount.DeliveryTermsAvailable from Spring ’26. | Invoice.BillingAccount.DeliveryTermsAvailable from Spring ’26. | CreditMemo.BillingAccount.DeliveryTermsAvailable from Spring ’26. |
+| billingProfileId | Invoice.BillingAccount.IDAvailable from Spring ’26. | Invoice.BillingAccount.IDAvailable from Spring ’26. | CreditMemo.BillingAccount.IDAvailable from Spring ’26. |
+| additionalTaxIdentificationDetails | Invoice.BillingAccount.AddTaxIdentificationDetailsAvailable from Spring ’26. | Invoice.BillingAccount.AddTaxIdentificationDetailsAvailable from Spring ’26. | CreditMemo.BillingAccount.AddTaxIdentificationDetailsAvailable from Spring ’26. |
+| taxIdentificationNumber | Invoice.BillingAccount.TaxIdentificationNumberAvailable from Spring ’26. | Invoice.BillingAccount.TaxIdentificationNumberAvailable from Spring ’26. | CreditMemo.BillingAccount.TaxIdentificationNumberAvailable from Spring ’26. |
 | taxType | If status is DRAFT, then this value is Estimated. If status is POSTED, then this value is Actual. | If status is DRAFT, then this value is Estimated. If status is POSTED, then this value is Actual. | This value is Actual until Summer ’25. From Winter ’26, if status is DRAFT, then this value is Estimated. If status is POSTED, then this value is Actual. |
 | taxTransactionType | Debit | Credit | Credit |
 | effectiveDate | invoice.InvoiceDate | If you're creating from negative lines, then this value is the original Invoice.InvoiceDate value. | If you're using standalone credit memo, then this value is the CreditMemo.CreditDate value. |
@@ -119,7 +125,7 @@ This table defines the response mappings between the header attributes of a tax 
 | transactionDate | Not persisted. | Not persisted. | Not persisted. |
 | amountDetails |  |  |  |
 | exemptAmount | Not persisted. | Not persisted. | Not persisted. |
-| taxAmount | Not persisted. | Not persisted. | Not persisted. |
+| taxAmount | If header tax is enabled, then this value is Invoice.TotalTaxesCapturedAtHeader. | If header tax is enabled, then this value is Invoice.TotalTaxesCapturedAtHeader. | If header tax is enabled, then this value is CreditMemo.TotalTaxesCapturedAtHeader. |
 | totalAmount | Not persisted. | Not persisted. | Not persisted. |
 | totalAmountWithTax | Not persisted. | Not persisted. | Not persisted. |
 | lineItems | Refer to the next line attributes section. | Refer to the next line attributes section. | Refer to the next line attributes section. |

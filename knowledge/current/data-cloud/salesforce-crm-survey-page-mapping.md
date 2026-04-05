@@ -5,7 +5,7 @@ topic: salesforce-crm-survey-page-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.913Z
+lastCollected: 2026-04-05T00:23:30.897Z
 estimatedTokens: 314
 keywords: [Salesforce, CRM, Survey, Mapping, data, mappings, SurveyPage, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---

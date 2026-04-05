@@ -5,7 +5,7 @@ topic: connectapiabstractrecordview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.011Z
+lastCollected: 2026-04-05T00:23:48.518Z
 estimatedTokens: 232
 keywords: [ConnectApi.AbstractRecordView, view, any, record, org, including, custom, specialized, User, ChatterGroup, isn’t]
 ---

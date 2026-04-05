@@ -5,7 +5,7 @@ topic: industriesratingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.211Z
+lastCollected: 2026-04-05T00:23:22.868Z
 estimatedTokens: 658
 keywords: [IndustriesRatingSettings, settings, Rate, Management, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative]
 ---

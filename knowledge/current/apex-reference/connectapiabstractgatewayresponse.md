@@ -5,7 +5,7 @@ topic: connectapiabstractgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:26.047Z
+lastCollected: 2026-04-05T00:23:48.590Z
 estimatedTokens: 541
 keywords: [ConnectApi.AbstractGatewayResponse, Payment, gateway, sale, authorization, capture, services]
 ---

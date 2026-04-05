@@ -5,7 +5,7 @@ topic: salesforce-crm-financial-account-role-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.404Z
+lastCollected: 2026-04-05T00:23:31.836Z
 estimatedTokens: 284
 keywords: [Salesforce, CRM, Financial, Account, Role, Mappings, data, FinancialAccountRole, DLO, found, Services, Cloud, bundle, Connector, Usage]
 ---

@@ -5,7 +5,7 @@ topic: authorizationreversalresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.220Z
+lastCollected: 2026-04-05T00:23:43.786Z
 estimatedTokens: 2374
 namespace: CommercePayments
 keywords: [AuthorizationReversalResponse, sent, payment, gateway, authorization, reversal, service, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]

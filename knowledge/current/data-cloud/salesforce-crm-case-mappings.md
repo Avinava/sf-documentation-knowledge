@@ -5,7 +5,7 @@ topic: salesforce-crm-case-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.319Z
+lastCollected: 2026-04-05T00:23:31.683Z
 estimatedTokens: 590
 keywords: [Salesforce, CRM, Case, Mappings, data, stream, deployed, starter, bundle, automatically, maps, Sales, Cloud, Service, model]
 ---

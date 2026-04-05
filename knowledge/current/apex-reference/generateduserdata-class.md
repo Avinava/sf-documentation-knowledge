@@ -5,7 +5,7 @@ topic: generateduserdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.195Z
+lastCollected: 2026-04-05T00:23:42.878Z
 estimatedTokens: 3468
 namespace: Auth
 keywords: [GeneratedUserData, Stores, output, Generate, User, Data, invocable, action, access, Flow, Builder, Usage, firstName, lastName, email]

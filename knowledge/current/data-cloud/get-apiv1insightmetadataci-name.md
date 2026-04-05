@@ -5,7 +5,7 @@ topic: get-apiv1insightmetadataci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.306Z
+lastCollected: 2026-04-05T00:23:29.546Z
 estimatedTokens: 223
 keywords: [api, insight, metadata, ci-name, includes, dimension, measure, part, calculated, Examples, HTTP, Responses]
 ---

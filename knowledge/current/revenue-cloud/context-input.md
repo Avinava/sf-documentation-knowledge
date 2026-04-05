@@ -5,7 +5,7 @@ topic: context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.867Z
+lastCollected: 2026-04-05T00:23:16.887Z
 estimatedTokens: 142
 keywords: [Context, Input, representation, that's, associated, sales, transaction, quote, order]
 ---

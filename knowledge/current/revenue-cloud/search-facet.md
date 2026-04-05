@@ -5,7 +5,7 @@ topic: search-facet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.928Z
+lastCollected: 2026-04-05T00:23:21.780Z
 estimatedTokens: 192
 keywords: [Search, Facet, Output, representation, faceted]
 ---

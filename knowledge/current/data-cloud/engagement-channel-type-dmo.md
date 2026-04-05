@@ -5,7 +5,7 @@ topic: engagement-channel-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.735Z
+lastCollected: 2026-04-05T00:23:32.537Z
 estimatedTokens: 984
 keywords: [Engagement, Channel, DMO, Data, Cloud, model, channels, individual, preferences, individuals, consent, SMS, phone, call, API]
 ---

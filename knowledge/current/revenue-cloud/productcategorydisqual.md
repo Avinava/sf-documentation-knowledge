@@ -5,7 +5,7 @@ topic: productcategorydisqual
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.061Z
+lastCollected: 2026-04-05T00:23:26.996Z
 estimatedTokens: 920
 keywords: [ProductCategoryDisqual, disqualification, rules, product, categories, determine, category, doesn’t, qualify, users, API, version, 60.0, later, Calls]
 ---

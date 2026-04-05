@@ -5,7 +5,7 @@ topic: omnichannelinventoryservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:19.257Z
+lastCollected: 2026-04-05T00:23:41.375Z
 estimatedTokens: 3744
 namespace: ConnectApi
 keywords: [OmnichannelInventoryService, inventory, reservation, Omnichannel, createReservation, createReservationInputRepresentation, API, Version, Requires, Chatter, fulfillReservation, fulfillReservationInputRepresentation, getInventoryAvailability, getInventoryAvailabilityUploadStatus, uploadId]

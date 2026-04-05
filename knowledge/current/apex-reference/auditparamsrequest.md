@@ -5,7 +5,7 @@ topic: auditparamsrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.164Z
+lastCollected: 2026-04-05T00:23:43.676Z
 estimatedTokens: 1175
 namespace: CommercePayments
 keywords: [AuditParamsRequest, audit, transaction, abstract, extended, BaseRequest, Usage, email, macAddress, ipAddress, phone]

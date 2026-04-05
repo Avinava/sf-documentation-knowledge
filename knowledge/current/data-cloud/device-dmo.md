@@ -5,7 +5,7 @@ topic: device-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.669Z
+lastCollected: 2026-04-05T00:23:32.407Z
 estimatedTokens: 749
 keywords: [Device, DMO, data, model, Cloud, specific, electronic, unit, want, track, signals, refrigerator, watch, car, API]
 ---

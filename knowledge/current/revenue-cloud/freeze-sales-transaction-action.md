@@ -5,7 +5,7 @@ topic: freeze-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:05.914Z
+lastCollected: 2026-04-05T00:23:11.676Z
 estimatedTokens: 514
 keywords: [Freeze, Sales, Transaction, Action, disable, modification, line, item, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

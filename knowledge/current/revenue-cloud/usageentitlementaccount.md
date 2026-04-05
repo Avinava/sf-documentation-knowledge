@@ -5,7 +5,7 @@ topic: usageentitlementaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.655Z
+lastCollected: 2026-04-05T00:23:28.206Z
 estimatedTokens: 1054
 keywords: [UsageEntitlementAccount, entitlement, account, asset, holds, wallet, granted, units, API, version, 63.0, later, Calls, Associated, Objects]
 ---

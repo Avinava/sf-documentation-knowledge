@@ -5,7 +5,7 @@ topic: attribute-picklist-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.094Z
+lastCollected: 2026-04-05T00:23:19.863Z
 estimatedTokens: 274
 keywords: [Attribute, Picklist, Output, representation]
 ---

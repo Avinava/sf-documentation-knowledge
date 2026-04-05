@@ -5,7 +5,7 @@ topic: connectapitargetinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:25.794Z
+lastCollected: 2026-04-05T00:23:48.139Z
 estimatedTokens: 553
 keywords: [ConnectApi.TargetInput, Target]
 ---

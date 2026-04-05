@@ -5,7 +5,7 @@ topic: pricingadjbatchjoblog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:11.977Z
+lastCollected: 2026-04-05T00:23:26.799Z
 estimatedTokens: 957
 keywords: [PricingAdjBatchJobLog, report, failed, adjustment, requests, along, error, message, reason, failure, API, version, 62.0, later, Calls]
 ---

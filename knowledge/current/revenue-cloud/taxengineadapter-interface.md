@@ -5,10 +5,10 @@ topic: taxengineadapter-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:07.308Z
-estimatedTokens: 1133
+lastCollected: 2026-04-05T00:23:14.961Z
+estimatedTokens: 3211
 namespace: CommerceTax
-keywords: [TaxEngineAdapter, processRequest, instance, TaxEngineContext, calculated, tax, TaxDetailsResponse, error, ErrorResponse, requestType, Implementation, Usage, Retrieves, evaluates, engine, define]
+keywords: [TaxEngineAdapter, processRequest, instance, TaxEngineContext, calculated, tax, TaxDetailsResponse, error, ErrorResponse, requestType, Implementation, Usage, Mappings, Quotes, Orders, Retrieves, evaluates, engine, define]
 ---
 
 # TaxEngineAdapter Interface
@@ -31,6 +31,8 @@ Retrieves information from the tax engine and evaluates the information to defin
     Learn more about the available methods with the TaxEngineAdapter class.
 -   **[TaxEngineAdapter Example Implementation](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_interface_commercetax_TaxEngineAdapter.htm#apex_interface_commercetax_TaxEngineAdapter_Example)**
     Refer to the example implementation of the TaxEngineAdapter interface to accept information from a tax engine and evaluate the information to define tax details.
+-   **[Tax Mappings for Quotes and Orders](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_interface_commercetax_TaxEngineAdapter.htm#tax_contract_mappings_for_quotes_and_orders)**
+    You can extend and customize the tax interface for quotes and orders by using custom metadata types and tax mappings. These customizations help you with unique business requirements such as the inclusion of specific data for accurate calculations and audits.
 
 ## TaxEngineAdapter Methods
 
@@ -116,6 +118,159 @@ Use these steps to build a sample tax adapter implementation. Each tax adapter i
     ```
 
     ```
+
+
+## Tax Mappings for Quotes and Orders
+
+You can extend and customize the tax interface for quotes and orders by using custom metadata types and tax mappings. These customizations help you with unique business requirements such as the inclusion of specific data for accurate calculations and audits.
+
+Tax callout extensions are supported for the Quote, QuoteLineItem, Order, and OrderItem objects to include additional fields to tax requests. You must manually write back tax response extensions to the objects. See [custom metadata types](https://help.salesforce.com/s/articleView?id=platform.custommetadatatypes_overview.htm&language=en_US) to specify all your tax mapping definitions.
+
+### Request Mappings for Header Attributes
+
+This table defines the request mappings between the header attributes of a tax callout and fields of applicable quote and order objects.
+
+| Header Attributes | Quote Mapping | Order Mapping |
+| --- | --- | --- |
+| currencyIsoCode | If multi-currency is enabled, then this value is Quote.CurrencyISOCode. Otherwise, this value is NULL. | If multi-currency is enabled, then this value is Order.CurrencyISOCode. Otherwise, this value is NULL. |
+| isCommit | False | False |
+| referenceEntityId | Quote.ID | Order.ID |
+| taxEngineId | TaxTreatment.TaxEngine.ID | TaxTreatment.TaxEngine.ID |
+| transactionDate | Current System Date | System Date |
+| sellerDetails | NULL |  |
+| code |  | TaxEngine.SellerCode |
+| customerDetails |  |  |
+| accountId | Quote.AccountId | Order.AccountId |
+| code | NULL | NULL |
+| exemptionNo | NULL | NULL |
+| exemptionReason | NULL | NULL |
+| taxType | Estimated | Estimated |
+| taxTransactionType | NULL | NULL |
+| effectiveDate | NULL | NULL |
+| addresses |  |  |
+| billTo | NULL | NULL |
+| shipTo | NULL | NULL |
+| shipFrom | NULL | NULL |
+| soldTo | NULL | NULL |
+| taxEngineAddress | TaxEngine.Address | TaxEngine.Address |
+| referenceDocumentCode | NULL | NULL |
+| description | NULL | NULL |
+| documentCode | Quote.ID-TaxEngineId | Order.ID-TaxEngineId |
+| shouldVoid | FALSE | FALSE |
+| lineItems | Refer to the next line attributes section. | Refer to the next line attributes section. |
+
+### Request Mappings for Line Attributes
+
+This table defines the request mappings between the line attributes of a tax callout and fields of applicable quote line items and order products.
+
+| Line Attributes | Quote Line Item Mapping | Order Product Mapping |
+| --- | --- | --- |
+| taxCode | TaxTreatment.TaxCode | TaxTreatment.TaxCode |
+| productCode | TaxTreatment.ProductCode | TaxTreatment.ProductCode |
+| productId | QuoteLineItem.Product2.Id | OrderItem.Product2.Id |
+| amount | QuoteLineItem.TotalPrice | OrderItem.TotalPrice |
+| effectiveDate | Current System Date | Current System Date |
+| lineNumber | QuoteLineItem.Id | OrderItem.Id |
+| description | NULL | NULL |
+| quantity | QuoteLineItem.Quantity | OrderItem.Quantity |
+| addresses |  |  |
+| billTo | Quote.BillingAddress. If Quote.BillingAddress is null, then this value is Quote.Account.BillingAddress. | Order.BillingAddress |
+| shipTo | Quote.ShippingAddress. If Quote.ShippingAddress is null, then this value is Quote.Account.ShippingAddress. | Order.ShippingAddress |
+| shipFrom | NULL | NULL |
+| soldTo | NULL | NULL |
+| productsku | QuoteLineItem.Product2.ProductCode | OrderItem.Product2.ProductCode |
+| referenceDocumentCode | NULL | NULL |
+
+### Response Mappings for Header Attributes
+
+This table defines the response mappings between the header attributes of a tax callout and fields of applicable objects. Most response data is used for tax calculation and isn’t persisted on quote or order records.
+
+| Header Attributes | Quote Mapping | Order Mapping |
+| --- | --- | --- |
+| currencyIsoCode | Quote.CurrencyISOCode | Order.CurrencyISOCode |
+| isCommit | Not returned. | Not returned. |
+| referenceEntityId | Quote.ID | Order.ID |
+| taxEngineId | TaxTreatment.TaxEngine.ID | TaxTreatment.TaxEngine.ID |
+| transactionDate | System Date | System Date |
+| sellerDetails | Not returned. | Not returned. |
+| code | Not returned. | Not returned. |
+| customerDetails | Not returned. | Not returned. |
+| accountId | Not returned. | Not returned. |
+| code | Not returned. | Not returned. |
+| exemptionNo | Not returned. | Not returned. |
+| exemptionReason | Not returned. | Not returned. |
+| taxType | Estimated | Estimated |
+| taxTransactionType | Not returned. | Not returned. |
+| effectiveDate | System Date | System Date |
+| addresses |  |  |
+| billTo | Not returned. | Not returned. |
+| shipTo | locationCode -> locationCode | locationCode -> locationCode |
+| shipFrom | Not returned. | Not returned. |
+| soldTo | Not returned. | Not returned. |
+| taxEngineAddress | Not returned. | Not returned. |
+| referenceDocumentCode | Not returned. | Not returned. |
+| description | Not returned. | Not returned. |
+| documentCode | Quote.ID-TaxEngineId | Order.ID-TaxEngineId |
+| status | Uncommitted | Uncommitted |
+| taxEngineLogs | Not returned. | Not returned. |
+| resultCode | Not returned. | Not returned. |
+| transactionDate | System Date | System Date |
+| amountDetails |  |  |
+| exemptAmount | Actual exemptAmount from response. | Actual exemptAmount from response. |
+| taxAmount | Actual taxAmount from response. | Actual taxAmount from response. |
+| totalAmount | Quote.Subtotal | Order.Subtotal |
+| totalAmountWithTax | TaxAmount + TotalAmount | TaxAmount + TotalAmount |
+| lineItems | Refer to the next line attributes section. | Refer to the next line attributes section. |
+
+### Response Mappings for Line Attributes
+
+This table defines the response mappings between the line attributes of a tax callout and fields of applicable objects.
+
+| Line Attributes | Quote Line Item Mapping | Order Product Mapping |
+| --- | --- | --- |
+| taxCode | TaxTreatment.TaxCode | TaxTreatment.TaxCode |
+| productCode | TaxTreatment.ProductCode | TaxTreatment.ProductCode |
+| productId | Not returned. | Not returned. |
+| amountDetails |  |  |
+| exemptAmount | Actual exemptAmount from response | Actual exemptAmount from response |
+| taxAmount | Actual taxAmount from response | Actual taxAmount from response |
+| totalAmount | QuoteLineItem.Subtotal | OrderItem.Subtotal |
+| totalAmountWithTax | TaxAmount + TotalAmount | TaxAmount + TotalAmount |
+| effectiveDate | System Date | System Date |
+| lineNumber | QuoteLineItem.Id | OrderItem.Id |
+| description | Not returned. | Not returned. |
+| quantity | Not returned. | Not returned. |
+| addresses |  |  |
+| billTo | Not persisted. | Not persisted. |
+| shipTo | locationCode -> locationCode | locationCode -> locationCode |
+| shipFrom | Not returned. | Not returned. |
+| soldTo | Not returned. | Not returned. |
+| productsku | Not returned. | Not returned. |
+| referenceDocumentCode | Not returned. | Not returned. |
+| taxes | Refer to the next tax attributes section. | Refer to the next tax attributes section. |
+
+### Response Mappings for Tax Attributes
+
+This table defines the response mappings between the tax attributes of a tax callout and fields of applicable objects.
+
+| Tax Attributes | Quote Mapping | Order Mapping |
+| --- | --- | --- |
+| exemptAmount | Not returned. | Not returned. |
+| exemptReason | Not returned. | Not returned. |
+| imposition |  |  |
+| type | Not returned. | Not returned. |
+| Name | Not returned. | Not returned. |
+| jurisdiction |  |  |
+| country | Not returned. | Not returned. |
+| id | Not returned. | Not returned. |
+| level | Not returned. | Not returned. |
+| name | Not returned. | Not returned. |
+| region | Not returned. | Not returned. |
+| stateAssignedNo | Not returned. | Not returned. |
+| rate | QuoteItemTaxItem.Rate | OrderItemTaxItem.Rate |
+| tax | QuoteItemTaxItem.amount | OrderItemTaxItem.amount |
+| taxId | Not returned. | Not returned. |
+| taxableAmount | Not returned. | Not returned. |
 
 ## Code Examples
 
@@ -978,6 +1133,7 @@ public with sharing class AvalaraJSONBuilder
 - CommerceTax (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_commercetax.htm)
 - TaxEngineAdapter Methods (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_interface_commercetax_TaxEngineAdapter.htm)
 - TaxEngineAdapter Example Implementation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_interface_commercetax_TaxEngineAdapter.htm)
+- Tax Mappings for Quotes and Orders (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_interface_commercetax_TaxEngineAdapter.htm)
 - processRequest(requestType) (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_interface_commercetax_TaxEngineAdapter.htm)
 - TaxEngineContext (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_class_commercetax_TaxEngineContext.htm)
 - commercetax (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_commercetax.htm)

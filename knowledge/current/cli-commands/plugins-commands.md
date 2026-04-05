@@ -5,7 +5,7 @@ topic: plugins-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:05.634Z
+lastCollected: 2026-04-05T00:23:10.995Z
 estimatedTokens: 135
 keywords: [plugins, Commands, 3rd-party, install, discover, Examples, Flags]
 ---

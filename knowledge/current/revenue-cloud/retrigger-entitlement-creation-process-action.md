@@ -5,7 +5,7 @@ topic: retrigger-entitlement-creation-process-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.106Z
+lastCollected: 2026-04-05T00:23:12.139Z
 estimatedTokens: 307
 keywords: [Retrigger, Entitlement, Creation, Process, Action, failed, unprocessed, assets, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

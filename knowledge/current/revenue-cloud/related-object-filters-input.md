@@ -5,7 +5,7 @@ topic: related-object-filters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:08.264Z
+lastCollected: 2026-04-05T00:23:17.826Z
 estimatedTokens: 132
 keywords: [Filters, Input, representation, filter, objects]
 ---

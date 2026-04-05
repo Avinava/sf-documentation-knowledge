@@ -5,7 +5,7 @@ topic: refresh-usage-entitlement-bucket-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.096Z
+lastCollected: 2026-04-05T00:23:12.114Z
 estimatedTokens: 366
 keywords: [Refresh, Usage, Entitlement, Bucket, Action, entitlements, evaluating, records, creating, new, entry, Special, Access, Rules, REST]
 ---

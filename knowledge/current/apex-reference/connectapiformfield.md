@@ -5,7 +5,7 @@ topic: connectapiformfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.583Z
+lastCollected: 2026-04-05T00:23:51.811Z
 estimatedTokens: 129
 keywords: [ConnectApi.FormField, Marketing, integration, form]
 ---

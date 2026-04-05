@@ -5,7 +5,7 @@ topic: tokenizenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.527Z
+lastCollected: 2026-04-05T00:23:44.437Z
 estimatedTokens: 2914
 namespace: TokenizeNotification
 keywords: [TokenizeNotification, payment, gateway, notification, tokenization, adapter, creates, store, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate]

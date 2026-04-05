@@ -5,7 +5,7 @@ topic: selection-condition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:08.306Z
+lastCollected: 2026-04-05T00:23:17.925Z
 estimatedTokens: 201
 keywords: [Selection, Condition, Input, representation, criteria, that's, determine, sequencing, policy, applied, record, stores, conditions, any, standard]
 ---

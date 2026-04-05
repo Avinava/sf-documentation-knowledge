@@ -5,8 +5,8 @@ topic: guided-selection-search-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.442Z
-estimatedTokens: 83
+lastCollected: 2026-04-05T00:23:20.725Z
+estimatedTokens: 105
 keywords: [Guided, Selection, Search, Term, Output, representation]
 ---
 
@@ -26,20 +26,33 @@ JSON example
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
+| tags | String[] | Search term tags for the guided selection. | Small, 62.0 | 62.0 |
 | term | String | Search term value for the guided selection. | Small, 62.0 | 62.0 |
 
 ## Code Examples
 
 ```
-"searchTerms": [
+{
+  "searchTerms": [
     {
-      "term": "IPhone"
+      "term": "IPhone",
+      "tags": [
+        "deviceType",
+        "mobile"
+      ]
     },
     {
-      "term": "4GB"
+      "term": "4GB",
+      "tags": [
+        "RAM"
+      ]
     },
     {
-      "term": "64GB"
+      "term": "64GB",
+      "tags": [
+        "Storage"
+      ]
     }
   ]
+}
 ```

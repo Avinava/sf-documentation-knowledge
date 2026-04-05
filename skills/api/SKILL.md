@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-api
-description: Apply Salesforce knowledge and best practices for SOAP API Developer Guide
+description: Apply Salesforce knowledge and best practices for SOAP API Developer GuideSOA
 ---
 
-# Salesforce Knowledge Skill: SOAP API Developer Guide
+# Salesforce Knowledge Skill: SOAP API Developer GuideSOA
 
 > Build robust, server-side solutions that integrate your Salesforce data using SOAP API. Choose the W
 
-This repository contains curated, accurate knowledge mapping for Salesforce **SOAP API Developer Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **SOAP API Developer GuideSOA**.
 
 ## How to Use This Knowledge
 

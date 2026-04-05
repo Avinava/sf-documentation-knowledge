@@ -5,8 +5,8 @@ topic: get-renewable-assets-summary-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.021Z
-estimatedTokens: 386
+lastCollected: 2026-04-05T00:23:11.925Z
+estimatedTokens: 397
 keywords: [Renewable, Assets, Summary, Action, Retrieve, order, renewal, opportunities, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -57,7 +57,7 @@ Authorization: Bearertoken
 
 | Output | Details |
 | --- | --- |
-| renewableAssetsSummary | TypeApex-definedDescriptionSummary of the assets associated with the order, including details about renewal opportunities such as renewal pricing information. |
+| renewableAssetsSummary | TypeApex-definedDescriptionSummary of the assets associated with the order, including details about renewal opportunities such as renewal pricing information. See renew_assets_summary Apex Namespace. |
 
 ## Example
 

@@ -5,7 +5,7 @@ topic: post-apiv2query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.417Z
+lastCollected: 2026-04-05T00:23:29.789Z
 estimatedTokens: 258
 keywords: [POST, api, query, endpoint, SQL, data, along, batchId, batch, Examples, HTTP, Responses]
 ---

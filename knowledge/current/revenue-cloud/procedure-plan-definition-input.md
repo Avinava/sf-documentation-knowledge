@@ -5,7 +5,7 @@ topic: procedure-plan-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:08.184Z
+lastCollected: 2026-04-05T00:23:17.650Z
 estimatedTokens: 507
 keywords: [Procedure, Plan, Definition, Input, representation]
 ---

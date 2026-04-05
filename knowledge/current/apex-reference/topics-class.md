@@ -5,7 +5,7 @@ topic: topics-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:19.717Z
+lastCollected: 2026-04-05T00:23:42.241Z
 estimatedTokens: 19259
 namespace: ConnectApi
 keywords: [Topics, topic, assignTopic, communityId, recordId, topicId, API, Version, Requires, Chatter, Usage, assignTopicByName, topicName, createTopic, createTopicDataCategoryRules]

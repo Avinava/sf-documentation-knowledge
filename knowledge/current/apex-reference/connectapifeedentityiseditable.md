@@ -5,7 +5,7 @@ topic: connectapifeedentityiseditable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.433Z
+lastCollected: 2026-04-05T00:23:51.563Z
 estimatedTokens: 133
 keywords: [ConnectApi.FeedEntityIsEditable, context, user, edit, feed, element, comment]
 ---

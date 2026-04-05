@@ -5,7 +5,7 @@ topic: salesforce-crm-survey-version-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.940Z
+lastCollected: 2026-04-05T00:23:30.954Z
 estimatedTokens: 293
 keywords: [Salesforce, CRM, Survey, Version, Mapping, data, mappings, SurveyVersion, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---

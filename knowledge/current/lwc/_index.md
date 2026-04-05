@@ -1,8 +1,8 @@
 ---
 domain: lwc
 name: Lightning Web Components
-documentCount: 1
-lastGenerated: 2026-03-12T09:36:25.650Z
+documentCount: 0
+lastGenerated: 2026-04-05T00:23:55.416Z
 ---
 
 # Lightning Web Components — Knowledge Index
@@ -13,7 +13,6 @@ lastGenerated: 2026-03-12T09:36:25.650Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
-| [lightning-web-components-developer-guide.md](./lightning-web-components-developer-guide.md) | Lightning Web Components Developer Guide | developer-guide | Build Lightning components using two programming models: Lightning Web Component |
 
 ## How to Use
 

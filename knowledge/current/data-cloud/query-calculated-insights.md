@@ -5,7 +5,7 @@ topic: query-calculated-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:12.974Z
+lastCollected: 2026-04-05T00:23:28.913Z
 estimatedTokens: 545
 keywords: [Query, Calculated, Insights, API, calls, support, data, collection, Cloud, selected, SQL, dimensions, measures, filters, Key]
 ---

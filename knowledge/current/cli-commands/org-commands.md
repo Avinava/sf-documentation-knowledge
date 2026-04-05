@@ -5,9 +5,9 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:05.544Z
-estimatedTokens: 21610
-keywords: [org, Commands, Assign, permission, users, permset, Examples, Flags, permsetlicense, sandbox, Aliases, scratch, shape, snapshot, user]
+lastCollected: 2026-04-05T00:23:10.803Z
+estimatedTokens: 22444
+keywords: [org, Commands, Assign, permission, users, permset, Examples, Flags, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot]
 ---
 
 # org Commands
@@ -22,6 +22,8 @@ Commands to create and manage orgs and scratch org users.
     Assign a permission set to one or more org users.
 -   **[org assign permsetlicense](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_assign_permsetlicense_unified)**
     Assign a permission set license to one or more org users.
+-   **[org create agent-user](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_create_agent-user_unified)**
+    Create the default Salesforce user that is used to run an agent.
 -   **[org create sandbox](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_create_sandbox_unified)**
     Create a sandbox org.
 -   **[org create scratch](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_create_scratch_unified)**
@@ -252,6 +254,120 @@ Optional
 Override the api version used for api requests made by this command
 
 Type: option
+
+## org create agent-user
+
+Create the default Salesforce user that is used to run an agent.
+
+### Description for org create agent-user
+
+You specify this user in the agent's Agent Script file using the "default\_agent\_user" parameter in the "config" block.
+
+By default, this command:
+
+\- Generates a user called "Agent User" with a globally unique username. Use flags to change these default names.
+
+\- Sets the user's email to the new username.
+
+\- Assigns the user the "Einstein Agent User" profile.
+
+\- Assigns the user these required permission sets: AgentforceServiceAgentBase, AgentforceServiceAgentUser, EinsteinGPTPromptTemplateUser.
+
+\- Checks that the user licenses required by the profile and permission sets are available in your org.
+
+The generated user doesn't have a password. You can’t log into Salesforce using the agent user's username. Only Salesforce users with admin permissions can view or edit an agent user in Setup.
+
+To assign additional permission sets or licenses after the user was created, use the "org assign permset" or "org assign permsetlicense" commands.
+
+When the command completes, it displays a summary of what it did, including the new agent user's username and ID, the available licenses associated with the Einstein Agent User profile, and the profile and permission sets assigned to the agent user.
+
+### Examples for org create agent-user
+
+Create an agent user with an auto-generated username; create the user in the org with alias "myorg":
+
+```
+
+```
+
+Create an agent user by specifying a base username pattern; to make the username unique, the command appends a unique identifier:
+
+```
+
+```
+
+Create an agent user with an auto-generated username but the custom name "Service Agent"; create the user in your default org:
+
+```
+
+```
+
+### Flags
+
+\--json
+
+Optional
+
+Format output as json.
+
+Type: boolean
+
+\--flags-dir FLAGS-DIR
+
+Optional
+
+Import flag values from a directory.
+
+Type: option
+
+\-o | \--target-org TARGET-ORG
+
+Required
+
+Username or alias of the target org. Not required if the \`target-org\` configuration variable is already set.
+
+Type: option
+
+\--api-version API-VERSION
+
+Optional
+
+Override the api version used for api requests made by this command
+
+Type: option
+
+\--base-username BASE-USERNAME
+
+Optional
+
+Base username pattern. A unique ID is appended to ensure global uniqueness of the usename.
+
+Specify a base username in email format, such as "service-agent@corp.com". The command then appends a 12-character globally unique ID (GUID) to the name before the "@" sign, which ensures that the username is globally unique across all Salesforce orgs and sandboxes.
+
+For example, if you specify "service-agent@corp.com", then the username might be "service-agent.a1b2c3d4e5f6@corp.com".
+
+If not specified, the command auto-generates the username using this pattern: "agent.user.<GUID>@your-org-domain.com".
+
+Type: option
+
+\--first-name FIRST-NAME
+
+Optional
+
+First name for the agent user.
+
+Type: option
+
+Default value: Agent
+
+\--last-name LAST-NAME
+
+Optional
+
+Last name for the agent user.
+
+Type: option
+
+Default value: User
 
 ## org create sandbox
 
@@ -1573,7 +1689,7 @@ Generate a password for the original admin user of your default scratch org:
 
 ```
 
-Generate a password that contains 12 characters for the original admin user of the scratch org with alias "my-scratch":
+Generate a password that contains 25 characters for the original admin user of the scratch org with alias "my-scratch":
 
 ```
 
@@ -1621,11 +1737,11 @@ Type: option
 
 Optional
 
-Number of characters in the generated password; valid values are between 8 and 100.
+Number of characters in the generated password; valid values are between 20 and 100. Default value is 20.
 
 Type: option
 
-Default value: 13
+Default value: 20
 
 \-c | \--complexity COMPLEXITY
 
@@ -3655,6 +3771,7 @@ sf org assign permsetlicense --name DreamHouse --name CloudHouse --target-org my
 
 - org assign permset (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org assign permsetlicense (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
+- org create agent-user (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create sandbox (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create scratch (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create shape (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
@@ -3662,4 +3779,3 @@ sf org assign permsetlicense --name DreamHouse --name CloudHouse --target-org my
 - org create user (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org delete sandbox (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org delete scratch (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
-- org delete shape (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)

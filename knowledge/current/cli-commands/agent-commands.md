@@ -5,9 +5,9 @@ topic: agent-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:05.174Z
-estimatedTokens: 14036
-keywords: [agent, Commands, Activate, org, Examples, Flags, deactivate, generate, agent-spec, authoring-bundle, template, test-spec, preview, end, Beta]
+lastCollected: 2026-04-05T00:23:09.915Z
+estimatedTokens: 14110
+keywords: [agent, Commands, Activate, org, Examples, Flags, deactivate, generate, agent-spec, authoring-bundle, template, test-spec, preview, end, send]
 ---
 
 # agent Commands
@@ -29,18 +29,18 @@ Commands to work with agents.
 -   **[agent generate authoring-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_authoring-bundle_unified)**
     Generate an authoring bundle from an existing agent spec YAML file.
 -   **[agent generate template](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_template_unified)**
-    Generate an agent template from an existing agent in your DX project so you can then package the template in a managed package.
+    Generate an agent template from an existing agent in your DX project so you can then package the template in a second-generation managed package.
 -   **[agent generate test-spec](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_test-spec_unified)**
     Generate an agent test spec, which is a YAML file that lists the test cases for testing a specific agent.
 -   **[agent preview](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_unified)**
     Interact with an agent to preview how it responds to your statements, questions, and commands (utterances).
--   **[agent preview end (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_end_unified)**
+-   **[agent preview end](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_end_unified)**
     End an existing programmatic agent preview session and get trace location.
--   **[agent preview send (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_send_unified)**
+-   **[agent preview send](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_send_unified)**
     Send a message to an existing agent preview session.
--   **[agent preview sessions (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_sessions_unified)**
+-   **[agent preview sessions](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_sessions_unified)**
     List all known programmatic agent preview sessions.
--   **[agent preview start (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_start_unified)**
+-   **[agent preview start](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_start_unified)**
     Start a programmatic agent preview session.
 -   **[agent publish authoring-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_publish_authoring-bundle_unified)**
     Publish an authoring bundle to your org, which results in a new agent or a new version of an existing agent.
@@ -63,19 +63,21 @@ Activate an agent in an org.
 
 ### Description for agent activate
 
-Activating an agent makes it immediately available to your users. An agent must be active before you can preview it with the "agent preview" CLI command or VS Code.
+Activating an agent makes it immediately available to your users. A published agent must be active before you can preview it with the "agent preview" CLI command or VS Code. Agents can have multiple versions; only one version can be active at a time.
 
-You must know the agent's API name to activate it; you can either be prompted for it or you can specify it with the --api-name flag. Find the agent's API name in its Agent Details page of your org's Agentforce Studio UI in Setup.
+If you run the command without the --api-name or --version flags, the command provides a list of agent API names and versions for you to choose from. Use the flags to specify the exact agent and version without being prompted. If you use the --json flag and not --version, then the latest agent version is automatically activated.
+
+The value of the --version flag is always a number, corresponding to the "vX" part of the "BotVersion" metadata in your project. For example, if you have a force-app/main/default/bots/My\_Agent/v4.botVersion-meta.xml file in your project, then you activate this version with the "--version 4" flag.
 
 ### Examples for agent activate
 
-Activate an agent in your default target org by being prompted:
+Activate an agent in your default target org by being prompted for both its API name and version:
 
 ```
 
 ```
 
-Activate an agent with API name Resort\_Manager in the org with alias "my-org":
+Activate version 2 of an agent with API name Resort\_Manager in the org with alias "my-org":
 
 ```
 
@@ -119,7 +121,15 @@ Type: option
 
 Optional
 
-API name of the agent to activate.
+API name of the agent to activate; if not specified, the command provides a list that you choose from.
+
+Type: option
+
+\--version VERSION
+
+Optional
+
+Version number of the agent to activate; if not specified, the command provides a list that you choose from.
 
 Type: option
 
@@ -233,7 +243,7 @@ Deactivate an agent in an org.
 
 Deactivating an agent makes it unavailable to your users. To make changes to an agent, such as adding or removing topics or actions, you must deactivate it. You can't preview an agent with the "agent preview" CLI command or VS Code if it's deactivated.
 
-You must know the agent's API name to deactivate it; you can either be prompted for it or you can specify it with the --api-name flag. Find the agent's API name in its Agent Details page of your org's Agentforce Studio UI in Setup.
+If you run the command without the --api-name flag, the command provides a list of agent API names for you to choose from. Use the flag to specify the exact agent without being prompted.
 
 ### Examples for agent deactivate
 
@@ -287,7 +297,7 @@ Type: option
 
 Optional
 
-API name of the agent to deactivate.
+API name of the agent to deactivate; if not specified, the command provides a list that you choose from.
 
 Type: option
 
@@ -627,19 +637,23 @@ Type: boolean
 
 ## agent generate template
 
-Generate an agent template from an existing agent in your DX project so you can then package the template in a managed package.
+Generate an agent template from an existing agent in your DX project so you can then package the template in a second-generation managed package.
 
 ### Description for agent generate template
 
-At a high-level, agents are defined by the Bot, BotVersion, and GenAiPlannerBundle metadata types. The GenAiPlannerBundle type in turn defines the agent's topics and actions. This command uses the metadata files for these three types, located in your local DX project, to generate a BotTemplate file for a specific agent (Bot). You then use the BotTemplate file, along with the GenAiPlannerBundle file that references the BotTemplate, to package the template in a managed package that you can share between orgs or on AppExchange.
+WARNING: This command doesn't work for agents that were created from an Agent Script file. In other words, you can't currently package an agent template for agents that use Agent Script.
 
-Use the --agent-file flag to specify the relative or full pathname of the Bot metadata file, such as force-app/main/default/bots/My\_Awesome\_Agent/My\_Awesome\_Agent.bot-meta.xml. A single Bot can have multiple BotVersions, so use the --agent-version flag to specify the version. The corresponding BotVersion file must exist locally. For example, if you specify "--agent-version 4", then the file force-app/main/default/bots/My\_Awesome\_Agent/v4.botVersion-meta.xml must exist.
+At a high-level, agents are defined by the Bot, BotVersion, and GenAiPlannerBundle metadata types. The GenAiPlannerBundle type in turn defines the agent's topics and actions. This command uses the metadata files for these three types, located in your local DX project, to generate a BotTemplate metadata file for a specific agent (Bot). You then use the BotTemplate metadata file, along with the GenAiPlannerBundle metadata file that references the BotTemplate, to package the template in a managed package that you can share between orgs or on AppExchange.
 
-The new BotTemplate file is generated in the "botTemplates" directory in your local package directory, and has the name <Agent\_API\_name>\_v<Version>\_Template.botTemplate-meta.xml, such as force-app/main/default/botTemplates/My\_Awesome\_Agent\_v4\_Template.botTemplate-meta.xml. The command displays the full pathname of the generated files when it completes.
+Use the --agent-file flag to specify the relative or full pathname of the Bot metadata file, such as force-app/main/default/bots/My\_Awesome\_Agent/My\_Awesome\_Agent.bot-meta.xml. A single Bot can have multiple BotVersions, so use the --agent-version flag to specify the version. The corresponding BotVersion metadata file must exist locally. For example, if you specify "--agent-version 4", then the file force-app/main/default/bots/My\_Awesome\_Agent/v4.botVersion-meta.xml must exist.
+
+The new BotTemplate metadata file is generated in the "botTemplates" directory in the output directory specified with the --output-dir flag, and has the name <Agent\_API\_name>\\\_v<Version>\\\_Template.botTemplate-meta.xml, such as my-package/botTemplates/My\_Awesome\_Agent\_v4\_Template.botTemplate-meta.xml. The command displays the full pathname of the generated files when it completes.
+
+See "Develop and Package Agent Templates Using Scratch Orgs" (https://developer.salesforce.com/docs/atlas.en-us.pkg2\_dev.meta/pkg2\_dev/dev2gp\_package\_agent\_templates.htm) for details about the complete process, which includes using a scratch org to create and test the agent, retrieving the agent metadata to your DX project, running this command to create the agent template, and then packaging the template.
 
 ### Examples for agent generate template
 
-Generate an agent template from a Bot metadata file in your DX project that corresponds to the My\_Awesome\_Agent agent; use version 1 of the agent.
+Generate an agent template from the My\_Awesome\_Agent Bot metadata file in your DX project and save the BotTemplate and GenAiPlannerBundle to the specified directory; use version 1 of the agent. The agent that the template is based on is in the org with alias "my-scratch-org":
 
 ```
 
@@ -671,6 +685,14 @@ Override the api version used for api requests made by this command
 
 Type: option
 
+\-s | \--source-org SOURCE-ORG
+
+Required
+
+Username or alias of the namespaced scratch org that contains the agent which this template is based on.
+
+Type: option
+
 \--agent-version AGENT-VERSION
 
 Required
@@ -684,6 +706,14 @@ Type: option
 Required
 
 Path to an agent (Bot) metadata file.
+
+Type: option
+
+\-r | \--output-dir OUTPUT-DIR
+
+Optional
+
+Directory where the generated BotTemplate and GenAiPlannerBundle files are saved.
 
 Type: option
 
@@ -708,6 +738,8 @@ To generate a specific agent test case, this command prompts you for this inform
 \- (Optional) Custom evaluation: Test an agent's response for specific strings or numbers.
 
 \- (Optional) Conversation history: Boilerplate for additional context you can add to the test in the form of a conversation history.
+
+You can manually add contextVariables to test cases in the generated YAML file to inject contextual data (such as CaseId or RoutableId) into agent sessions. This is useful for testing agent behavior with different contextual information.
 
 When your test spec is ready, you then run the "agent test create" command to actually create the test in your org and synchronize the metadata with your DX project. The metadata type for an agent test is AiEvaluationDefinition.
 
@@ -869,15 +901,9 @@ Use real actions in the org; if not specified, preview uses AI to simulate (mock
 
 Type: boolean
 
-## agent preview end (Beta)
+## agent preview end
 
 End an existing programmatic agent preview session and get trace location.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
-
-#### Note
-
-This feature is a Beta Service. Customers may opt to try such Beta Service in its sole discretion. Any use of the Beta Service is subject to the applicable Beta Services Terms provided at Agreements and Terms ([https://www.salesforce.com/company/legal/agreements/](https://www.salesforce.com/company/legal/agreements/ "HTML (New Window)")).
 
 ### Description for agent preview end
 
@@ -963,15 +989,9 @@ API name of the authoring bundle metadata component that contains the agent's Ag
 
 Type: option
 
-## agent preview send (Beta)
+## agent preview send
 
 Send a message to an existing agent preview session.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
-
-#### Note
-
-This feature is a Beta Service. Customers may opt to try such Beta Service in its sole discretion. Any use of the Beta Service is subject to the applicable Beta Services Terms provided at Agreements and Terms ([https://www.salesforce.com/company/legal/agreements/](https://www.salesforce.com/company/legal/agreements/ "HTML (New Window)")).
 
 ### Description for agent preview send
 
@@ -1065,15 +1085,9 @@ API name of the authoring bundle metadata component that contains the agent's Ag
 
 Type: option
 
-## agent preview sessions (Beta)
+## agent preview sessions
 
 List all known programmatic agent preview sessions.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
-
-#### Note
-
-This feature is a Beta Service. Customers may opt to try such Beta Service in its sole discretion. Any use of the Beta Service is subject to the applicable Beta Services Terms provided at Agreements and Terms ([https://www.salesforce.com/company/legal/agreements/](https://www.salesforce.com/company/legal/agreements/ "HTML (New Window)")).
 
 ### Description for agent preview sessions
 
@@ -1107,15 +1121,9 @@ Import flag values from a directory.
 
 Type: option
 
-## agent preview start (Beta)
+## agent preview start
 
 Start a programmatic agent preview session.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
-
-#### Note
-
-This feature is a Beta Service. Customers may opt to try such Beta Service in its sole discretion. Any use of the Beta Service is subject to the applicable Beta Services Terms provided at Agreements and Terms ([https://www.salesforce.com/company/legal/agreements/](https://www.salesforce.com/company/legal/agreements/ "HTML (New Window)")).
 
 ### Description for agent preview start
 
@@ -1854,7 +1862,7 @@ sf agent activate
 ```
 
 ```
-sf agent activate --api-name Resort_Manager --target-org my-org
+sf agent activate --api-name Resort_Manager --version 2 --target-org my-org
 ```
 
 ```
@@ -1879,5 +1887,5 @@ sf agent create --name "Resort Manager" --spec specs/resortManagerAgent.yaml --p
 - agent generate template (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
 - agent generate test-spec (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
 - agent preview (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent preview end (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent preview send (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent preview end (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent preview send (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)

@@ -5,7 +5,7 @@ topic: decompose-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:05.882Z
+lastCollected: 2026-04-05T00:23:11.602Z
 estimatedTokens: 788
 keywords: [Decompose, Sales, Transaction, Action, quote, order, summary, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

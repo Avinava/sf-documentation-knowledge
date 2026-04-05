@@ -5,7 +5,7 @@ topic: addentityfieldsfieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.006Z
+lastCollected: 2026-04-05T00:23:42.514Z
 estimatedTokens: 552
 keywords: [addEntityFields, fieldNames, Adds, signed, Record, component, appears, Visualforce, that’s, placed, Usage]
 ---

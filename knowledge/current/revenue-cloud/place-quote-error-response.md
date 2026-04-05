@@ -5,7 +5,7 @@ topic: place-quote-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.549Z
+lastCollected: 2026-04-05T00:23:21.003Z
 estimatedTokens: 154
 keywords: [Place, Quote, Error, Output, representation, responses]
 ---

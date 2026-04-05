@@ -5,7 +5,7 @@ topic: upsert-configuration-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.922Z
+lastCollected: 2026-04-05T00:23:34.892Z
 estimatedTokens: 809
 keywords: [Upsert, Configuration, Item, Relationship, Submit, bulk, operation, relationships, items, asynchronous, job, getStatus, query, check, progress]
 ---

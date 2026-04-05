@@ -5,7 +5,7 @@ topic: productcomponentgrouprepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.869Z
+lastCollected: 2026-04-05T00:23:13.996Z
 estimatedTokens: 2188
 keywords: [ProductComponentGroupRepresentation, product, component, group, bulk, operations, similar, specifically, detail, representations, components, represented, BulkProductDetailsRepresentation, objects, apexObj]
 ---

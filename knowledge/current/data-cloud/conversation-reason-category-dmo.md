@@ -5,7 +5,7 @@ topic: conversation-reason-category-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.275Z
+lastCollected: 2026-04-05T00:23:31.592Z
 estimatedTokens: 610
 keywords: [Conversation, Reason, Category, DMO, Data, Cloud, model, grouping, reasons, overall, topic, aggregated, metrics, associated, include]
 ---

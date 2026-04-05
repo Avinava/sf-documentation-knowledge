@@ -5,7 +5,7 @@ topic: usage-management-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.893Z
+lastCollected: 2026-04-05T00:23:28.754Z
 estimatedTokens: 277
 keywords: [Usage, Management, Product2, Standard, custom, extend, represent, products]
 ---

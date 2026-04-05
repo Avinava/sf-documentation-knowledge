@@ -5,7 +5,7 @@ topic: usageprdgrantbindingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.702Z
+lastCollected: 2026-04-05T00:23:28.336Z
 estimatedTokens: 565
 keywords: [UsagePrdGrantBindingPolicy, association, usage, resource's, grants, sellable, product, API, version, 63.0, later, Calls, Associated, Objects]
 ---

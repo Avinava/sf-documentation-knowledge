@@ -5,7 +5,7 @@ topic: flow-for-product-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.436Z
+lastCollected: 2026-04-05T00:23:23.377Z
 estimatedTokens: 245
 keywords: [Flow, Product, Configurator, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

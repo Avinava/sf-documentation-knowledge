@@ -5,7 +5,7 @@ topic: usagesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.760Z
+lastCollected: 2026-04-05T00:23:28.456Z
 estimatedTokens: 1459
 keywords: [UsageSummary, aggregation, entries, transaction, journal, usage, entitlement, period, API, version, 63.0, later, Calls, Associated, Objects]
 ---

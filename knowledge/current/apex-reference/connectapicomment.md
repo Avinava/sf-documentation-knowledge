@@ -5,7 +5,7 @@ topic: connectapicomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.778Z
+lastCollected: 2026-04-05T00:23:50.213Z
 estimatedTokens: 828
 keywords: [ConnectApi.Comment, comment]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-crm-knowledge-data-category-selection-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.457Z
+lastCollected: 2026-04-05T00:23:31.934Z
 estimatedTokens: 257
 keywords: [Salesforce, CRM, Knowledge, Data, Category, Selection, Mapping, mappings, Knowledge_DataCategorySelection, DLO, found, bundle, Connector, Cloud, Usage]
 ---

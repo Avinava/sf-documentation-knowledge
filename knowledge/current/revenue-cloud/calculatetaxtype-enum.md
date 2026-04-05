@@ -5,7 +5,7 @@ topic: calculatetaxtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:07.246Z
+lastCollected: 2026-04-05T00:23:14.797Z
 estimatedTokens: 309
 keywords: [CalculateTaxType, whether, tax, calculation, estimated, actual, Usage]
 ---

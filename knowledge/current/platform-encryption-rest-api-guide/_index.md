@@ -1,8 +1,8 @@
 ---
 domain: platform-encryption-rest-api-guide
 name: Platform Encryption REST API Developer Guide
-documentCount: 1
-lastGenerated: 2026-03-12T09:36:27.750Z
+documentCount: 0
+lastGenerated: 2026-04-05T00:23:55.502Z
 ---
 
 # Platform Encryption REST API Developer Guide — Knowledge Index
@@ -13,8 +13,6 @@ lastGenerated: 2026-03-12T09:36:27.750Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
-| [introducing-the-salesforce-shield-platform-encryption-rest-api.md](./introducing-the-salesforce-shield-platform-encryption-rest-api.md) | Introducing the Salesforce Shield Platform Encryption REST API | api-reference | The Salesforce Shield Platform Encryption API enables you to bring your own key
- |
 
 ## How to Use
 

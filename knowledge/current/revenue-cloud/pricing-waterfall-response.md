@@ -5,7 +5,7 @@ topic: pricing-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:09.634Z
+lastCollected: 2026-04-05T00:23:21.206Z
 estimatedTokens: 186
 keywords: [Pricing, Waterfall, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-crm-data-category-group-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.360Z
+lastCollected: 2026-04-05T00:23:31.759Z
 estimatedTokens: 250
 keywords: [Salesforce, CRM, Data, Category, Group, Mapping, mappings, DataCategoryGroup, DLO, found, Knowledge, bundle, Connector, Cloud, Usage]
 ---

@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-related-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.407Z
+lastCollected: 2026-04-05T00:23:23.314Z
 estimatedTokens: 282
 keywords: [Product, Catalog, Management, Component, Standard, custom, extend]
 ---

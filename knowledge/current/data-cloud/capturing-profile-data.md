@@ -5,7 +5,7 @@ topic: capturing-profile-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.044Z
+lastCollected: 2026-04-05T00:23:29.073Z
 estimatedTokens: 1119
 keywords: [Capturing, Profile, Data, Cloud, Module, Engagement, Mobile, SDK, collection, SDK’s, Identity, APIs, Setting, Attributes, Customer]
 ---

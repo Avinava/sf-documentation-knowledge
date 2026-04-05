@@ -5,7 +5,7 @@ topic: survey-invitation-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.659Z
+lastCollected: 2026-04-05T00:23:34.392Z
 estimatedTokens: 681
 keywords: [Survey, Invitation, DMO, Data, Cloud, model, sent, participant, API, Category, Primary, Subject, Area, Key, Relationships]
 ---

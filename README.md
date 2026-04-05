@@ -299,11 +299,11 @@ MIT © [Avinava](https://github.com/Avinava)
 | Domain | Description | Status | Files |
 |---|---|---|---|
 | **Salesforce Field Reference Guide** | Use this concise reference to quickly look up details of the standard fields for | ✅ Available | 4817 |
-| **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4604 |
+| **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4612 |
 | **Connect REST API Developer Guide** | Integrate mobile apps, intranet sites, and third-party web applications with Sal | ✅ Available | 2431 |
 | **Object Reference for the Salesforce Platform** | Get details on standard objects so that you can interface with your Salesforce d | ✅ Available | 1774 |
+| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1323 |
 | **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1295 |
-| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1209 |
 | **Public Sector Solutions Developer Guide** | Use Public Sector Solutions API and developer resources to unify public service  | ✅ Available | 1003 |
 | **Salesforce Health Cloud Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 832 |
 | **Life Sciences Cloud Developer Guide** | Use the developer resources of Life Sciences Cloud to automate the operations av | ✅ Available | 699 |
@@ -319,7 +319,7 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Data Cloud** | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400 |
 | **ISVforce Guide** | Plan, build, and sell AppExchange solutions and consulting services. | ✅ Available | 347 |
 | **Tooling API** | Tooling API — code coverage, debug logs, custom fields | ✅ Available | 338 |
-| **Einstein Discovery REST API Developer Guide** | Describes how to send queries directly to CRM Analytics, access datasets that ha | ✅ Available | 312 |
+| **Einstein Discovery REST API Developer Guide** | Describes how to create and access Einstein Discovery predictions, discovery mod | ✅ Available | 312 |
 | **REST API** | Salesforce REST API — resources, methods, composite, batch | ✅ Available | 307 |
 | **Nonprofit Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 304 |
 | **Education Cloud Developer Guide** | Education Cloud gives you the tools and developer resources you need to support  | ✅ Available | 301 |
@@ -328,9 +328,9 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Net Zero Cloud Developer Guide** | Use Net Zero API and developer resources to integrate a complete sustainability  | ✅ Available | 265 |
 | **User Interface API Developer Guide** | User Interface API enables you to create native mobile apps and custom web apps  | ✅ Available | 257 |
 | **Field Service** | Field Service — work orders, scheduling, mobile, territories | ✅ Available | 247 |
-| *+ 91 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *5,859* |
+| *+ 91 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *5,866* |
 
-*121 domains | 33,188 knowledge files*
+*121 domains | 33,317 knowledge files*
 <!-- INVENTORY:END -->
 
 ---

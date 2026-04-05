@@ -5,7 +5,7 @@ topic: transactionprocessingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:12.870Z
+lastCollected: 2026-04-05T00:23:28.700Z
 estimatedTokens: 1140
 keywords: [TransactionProcessingType, settings, configure, processing, constraints, API, version, 63.0, later, SOAP, Calls, REST, Usage]
 ---

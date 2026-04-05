@@ -5,7 +5,7 @@ topic: configurator-product-classification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.244Z
+lastCollected: 2026-04-05T00:23:20.244Z
 estimatedTokens: 84
 keywords: [Configurator, Product, Classification, Output, representation, configuration]
 ---

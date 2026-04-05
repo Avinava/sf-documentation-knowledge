@@ -5,7 +5,7 @@ topic: get-apiv1datagraphmetadataentitynamedatagraphname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.529Z
+lastCollected: 2026-04-05T00:23:30.048Z
 estimatedTokens: 224
 keywords: [api, dataGraph, metadata?entityName=, dataGraphName, metadata, data, graph, includes, object's, primary, model, objects, Examples]
 ---

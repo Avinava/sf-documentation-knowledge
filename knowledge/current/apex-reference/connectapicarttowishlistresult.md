@@ -5,7 +5,7 @@ topic: connectapicarttowishlistresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.559Z
+lastCollected: 2026-04-05T00:23:49.707Z
 estimatedTokens: 90
 keywords: [ConnectApi.CartToWishlistResult, Result, copying, products, cart, wishlist]
 ---

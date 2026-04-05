@@ -5,7 +5,7 @@ topic: cart-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.071Z
+lastCollected: 2026-04-05T00:23:29.102Z
 estimatedTokens: 1193
 keywords: [Cart, Schema, Map, Engagement, Mobile, SDK, event]
 ---

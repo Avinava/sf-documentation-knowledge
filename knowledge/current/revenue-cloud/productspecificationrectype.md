@@ -5,7 +5,7 @@ topic: productspecificationrectype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.276Z
+lastCollected: 2026-04-05T00:23:23.001Z
 estimatedTokens: 603
 keywords: [ProductSpecificationRecType, association, product, specification, record, defined, determines, sold, commercially, Parent, File, Suffix, Directory, Location, Version, relationship, industry-specific, specifications, API, version]
 ---

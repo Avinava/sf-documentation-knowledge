@@ -1,0 +1,23 @@
+---
+domain: mc-getting-started
+name: Get Started, Marketing Cloud Developers
+documentCount: 0
+lastGenerated: 2026-04-05T00:23:55.543Z
+---
+
+# Get Started, Marketing Cloud Developers — Knowledge Index
+
+> Get started documentation for Marketing Cloud developers
+
+## Available Topics
+
+| File | Title | Type | Description |
+|---|---|---|---|
+
+## How to Use
+
+1. Read this index to find the relevant topic for your question
+2. Load the specific topic file(s) for detailed information
+3. Each file is self-contained — no need to load other files for context
+
+*Tags: marketing*

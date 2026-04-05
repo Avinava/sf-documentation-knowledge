@@ -5,7 +5,7 @@ topic: jurisdictionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.623Z
+lastCollected: 2026-04-05T00:23:44.637Z
 estimatedTokens: 1414
 namespace: CommerceTax
 keywords: [JurisdictionResponse, Stores, external, tax, engine, jurisdiction, calculation, process, government, entity, collects, setCountry, country, setId, setLevel]

@@ -5,7 +5,7 @@ topic: releasemgmtsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.880Z
+lastCollected: 2026-04-05T00:23:34.798Z
 estimatedTokens: 450
 keywords: [ReleaseMgmtSettings, settings, enabling, Release, Management, features, Service, Parent, Manifest, Access, File, Suffix, Directory, Location, Version]
 ---

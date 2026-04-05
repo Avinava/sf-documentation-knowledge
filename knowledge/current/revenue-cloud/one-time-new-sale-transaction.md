@@ -5,7 +5,7 @@ topic: one-time-new-sale-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:07.687Z
+lastCollected: 2026-04-05T00:23:16.479Z
 estimatedTokens: 3526
 keywords: [One-Time, New, Sale, Transaction, Understand, key, considerations, billing, schedule, OneTime, selling, model]
 ---

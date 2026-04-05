@@ -5,7 +5,7 @@ topic: early-renewal-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:07.655Z
+lastCollected: 2026-04-05T00:23:16.415Z
 estimatedTokens: 3493
 keywords: [Early, Renewal, Transaction, Understand, key, considerations, billing, schedule]
 ---

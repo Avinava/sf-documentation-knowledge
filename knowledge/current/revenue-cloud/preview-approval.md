@@ -5,7 +5,7 @@ topic: preview-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.595Z
+lastCollected: 2026-04-05T00:23:21.114Z
 estimatedTokens: 232
 keywords: [Preview, Approval, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: testcanvaslifecyclelifecyclehandler-mockrendercontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.056Z
+lastCollected: 2026-04-05T00:23:42.609Z
 estimatedTokens: 658
 keywords: [testCanvasLifecycle, lifecycleHandler, mockRenderContext, Calls, Canvas, test, framework, invoke, CanvasLifecycleHandler, provided, RenderContext, Usage]
 ---

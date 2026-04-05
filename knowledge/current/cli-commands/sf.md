@@ -5,8 +5,8 @@ topic: sf
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:33:05.786Z
-estimatedTokens: 1747
+lastCollected: 2026-04-05T00:23:11.340Z
+estimatedTokens: 1816
 keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, synchronize, source, install, packages]
 ---
 
@@ -18,32 +18,33 @@ keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, syn
 
 Commands to manage Salesforce DX projects, create and manage scratch orgs and sandboxes, synchronize source to and from orgs, create and install packages, and more.
 
-This version of the sf command reference includes details about version 2.126.1 of the sf executable of Salesforce CLI and the following plug-in versions:
+This version of the sf command reference includes details about version 2.129.8 of the sf executable of Salesforce CLI and the following plug-in versions:
 
--   @salesforce/plugin-deploy-retrieve version 3.24.11
--   @salesforce/plugin-settings version 2.4.60
--   @salesforce/plugin-info version 3.4.107
--   @salesforce/plugin-sobject version 1.4.85
--   @salesforce/plugin-limits version 3.3.79
--   @salesforce/plugin-schema version 3.3.96
--   @salesforce/plugin-custom-metadata version 3.3.80
--   @salesforce/plugin-data version 4.0.75
--   @salesforce/plugin-community version 3.3.48
+-   @salesforce/plugin-deploy-retrieve version 3.24.18
+-   @salesforce/plugin-settings version 2.4.62
+-   @salesforce/plugin-info version 3.4.114
+-   @salesforce/plugin-sobject version 1.4.88
+-   @salesforce/plugin-limits version 3.3.81
+-   @salesforce/plugin-schema version 3.3.100
+-   @salesforce/plugin-custom-metadata version 3.3.88
+-   @salesforce/plugin-data version 4.0.83
+-   @salesforce/plugin-community version 3.3.51
 -   @salesforce/plugin-signups version 2.6.56
--   @salesforce/plugin-user version 3.6.53
--   @salesforce/plugin-org version 5.9.71
--   @salesforce/plugin-packaging version 2.25.5
--   @salesforce/plugin-templates version 56.9.2
--   @salesforce/plugin-apex version 3.9.11
--   @salesforce/plugin-auth version 4.2.0
+-   @salesforce/plugin-user version 3.8.0
+-   @salesforce/plugin-org version 5.9.75
+-   @salesforce/plugin-packaging version 2.25.12
+-   @salesforce/plugin-templates version 56.11.4
+-   @salesforce/plugin-apex version 3.9.15
+-   @salesforce/plugin-auth version 4.3.2
 -   @salesforce/plugin-dev version 2.5.2
 -   @salesforce/sfdx-plugin-lwc-test version 1.2.1
 -   @salesforce/plugin-devops-center version 1.2.27
 -   @salesforce/plugin-marketplace version 1.3.10
--   @salesforce/plugin-code-analyzer version 5.10.0
--   @salesforce/plugin-api version 1.3.11
--   @salesforce/plugin-agent version 1.30.11
+-   @salesforce/plugin-code-analyzer version 5.11.0
+-   @salesforce/plugin-api version 1.3.12
+-   @salesforce/plugin-agent version 1.32.11
 -   @salesforce/plugin-flow version 1.0.5
+-   @salesforce/plugin-lightning-dev version 6.2.16
 
 For information about installing Salesforce CLI, see the [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm "HTML (New Window)").
 
@@ -77,6 +78,8 @@ For information about Salesforce CLI changes, see the [Salesforce CLI Release No
     Legacy commands for backward compatibility.
 -   **[info Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm#cli_reference_info_commands_unified)**
     Access Salesforce CLI information from the command line.
+-   **[lightning Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_commands_unified)**
+    Commands to work with Lightning applications.
 -   **[logic Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_commands_unified)**
     Use the logic commands to run Apex and Flow tests and view the test results.
 -   **[org Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_commands_unified)**

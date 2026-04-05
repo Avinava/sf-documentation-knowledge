@@ -5,7 +5,7 @@ topic: connectapifindrouteswithfewestsplitsusingociinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:25.193Z
+lastCollected: 2026-04-05T00:23:46.875Z
 estimatedTokens: 317
 keywords: [Data, calculate, order, fulfillment, routes, involving, fewest, number, shipment, splits, taking, account, inventory, availability]
 ---

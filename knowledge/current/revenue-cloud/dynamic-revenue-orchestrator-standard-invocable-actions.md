@@ -5,8 +5,8 @@ topic: dynamic-revenue-orchestrator-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.156Z
-estimatedTokens: 650
+lastCollected: 2026-04-05T00:23:22.758Z
+estimatedTokens: 738
 keywords: [Dynamic, Revenue, Orchestrator, Standard, Invocable, Actions, submit, order, sales, transaction, DRO, fulfillment]
 ---
 
@@ -27,6 +27,8 @@ Use standard invocable actions to submit an order or a sales transaction to Dyna
     Get details about the point of no return milestone for each line item in a sales transaction.
 -   **[Orchestrate Sales Transaction Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_orchestrate_sales_transaction.htm)**
     Initiate the orchestration process for a sales transaction. This action executes only the plan composition and orchestration phases, without performing decomposition.
+-   **[Orchestrate Transaction Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_orchestrate_transaction.htm)**
+    Orchestrate a transaction for any domain-specific object, such as a collection plan for Revenue billing, that requires the composition and execution of a fulfillment plan.
 -   **[Submit Order Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_submit_order.htm)**
     Submit an order to Dynamic Revenue Orchestrator (DRO) for fulfillment.
 -   **[Submit Sales Transaction Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_submit_sales_transaction.htm)**
@@ -46,6 +48,7 @@ Use standard invocable actions to submit an order or a sales transaction to Dyna
 - Freeze Sales Transaction Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_freeze_sales_transaction.htm)
 - Get Point Of No Return Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_get_point_of_no_return.htm)
 - Orchestrate Sales Transaction Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_orchestrate_sales_transaction.htm)
+- Orchestrate Transaction Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_orchestrate_transaction.htm)
 - Submit Order Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_submit_order.htm)
 - Submit Sales Transaction Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_submit_sales_transaction.htm)
 - Unfreeze Sales Transaction Action (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_unfreeze_sales_transaction.htm)

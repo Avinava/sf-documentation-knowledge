@@ -5,7 +5,7 @@ topic: warning-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.094Z
+lastCollected: 2026-04-05T00:23:22.166Z
 estimatedTokens: 136
 keywords: [Message, Output, representation, records, triggered, specific]
 ---

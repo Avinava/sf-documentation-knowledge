@@ -5,7 +5,7 @@ topic: bindingobjectrateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:11.077Z
+lastCollected: 2026-04-05T00:23:24.804Z
 estimatedTokens: 911
 keywords: [BindingObjectRateAdjustment, rate, adjustments, usage, resource, associated, binding, that's, charge, over, consumption, API, version, 64.0, later]
 ---

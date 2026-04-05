@@ -5,26 +5,26 @@ topic: upsert-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.915Z
-estimatedTokens: 661
-keywords: [Upsert, Configuration, Item, Submit, bulk, operation, items, asynchronous, job, getStatus, query, check, progress]
+lastCollected: 2026-04-05T00:23:34.875Z
+estimatedTokens: 797
+keywords: [Upsert, Configuration, Item, Submit, bulk, operation, items, CIs, asynchronous, job, getStatus, query, check, progress, UpsertCI]
 ---
 
 # Upsert Configuration Item
 
 > Submit a bulk operation to create or update one or more
-      configuration items. This is an asynchronous operation that returns a job ID, which you can
-      use with the getStatus query to check the operation progress.
+      configuration items (CIs). This is an asynchronous operation that returns a job ID, which you
+      can use with the getStatus query to check the operation progress.
 
 # Upsert Configuration Item
 
-Submit a bulk operation to create or update one or more configuration items. This is an asynchronous operation that returns a job ID, which you can use with the [getStatus](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm "Retrieve the status of a previously submitted asynchronous job. For example, upsertCI a bulk upsert operation. Use this query to check the progress and completion status of the asynchronous operations.") query to check the operation progress.
+Submit a bulk operation to create or update one or more configuration items (CIs). This is an asynchronous operation that returns a job ID, which you can use with the [getStatus](atlas.en-us.agentforce_it_service_dev_guide.meta/agentforce_it_service_dev_guide/query_getStatus.htm "Retrieve the status of a previously submitted asynchronous job. For example, upsertCI a bulk upsert operation. Use this query to check the progress and completion status of the asynchronous operations.") query to check the operation progress.
 
 ## Request
 
 JSON example
 
-This example shows a sample request to upsert configuration items in bulk.
+This example shows a sample request to upsert configuration items in bulk, including parent and relationship details.
 
 ```
 
@@ -34,7 +34,17 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| input | UpsertCIBulkInput | A container object that holds the payload array containing one or more configuration item objects to create or update. | Required | 66.0 |
+| input | UpsertCIBulkInput | A container object that holds the payload array containing one or more configuration item objects. | Required | 66.0 |
+
+## UpsertCI Properties
+
+Defines the structure for a single configuration item within the mutation payload.
+
+| Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| cnfgItemType | String | The type of configuration item. | Required | 66.0 |
+| parentCiId | String | The ID of the parent configuration item for which a component configuration item is created. | Optional | 66.0 |
+| relationshipType | String | Developer name of the CI Relationship. | Optional | 66.0 |
 
 ## Response
 
@@ -69,57 +79,39 @@ Properties
 
 ```
 mutation UpsertCI {
-  upsertCI(
-    input: {
-      payload: [
-        {
-          cnfgItemType: "F5 Load Balancer"
-          SD_AsNa: "LB-PROD-F5-01"
-          SD_Ty: "Application Delivery Controller"
-          SD_De: "Production load balancer for web tier"
-          SD_St: "Active"
-          SD_BuCr: "Critical"
-          SD_Co: "Network Infrastructure"
-          SD_HoNa: "lb-prod-f5-01.corp.local"
-          SD_CiOw: "network.team@company.com"
-          SD_CiLo: "Data Center 1 - DMZ"
-          SD_Ma: "F5 Networks"
-          SD_MoNu: "BIG-IP 4000s"
-          SD_SeNu: "f5-4000s-2021-12345"
-          SD_IpAd: "10.0.2.10"
-          SD_ViIpAd: "10.0.100.10, 10.0.100.11"
-          SD_LoBaPo: "443"
-          SD_LoBaSt: "Available"
-          SD_LoBaMe: "Round Robin"
-          SD_DePo: "web-pool-01"
-          SD_SsPo: "TLS-1.2"
-          SD_SoVe: "16.1.2"
-        }
-      ]
-    }
-  ) {
-    id
-    status
-    updatedAt
-    details
-    totalRecordCount
-    successRecordCount
-    failureRecordCount
-  }
-}
+              upsertCI(
+              input: {
+              payload: [
+              {
+              cnfgItemType: "F5 Load Balancer"
+              parentCiId: "6780001"
+              relationshipType: "runs_on"
+              SD_AsNa: "LB-PROD-F5-01"
+              SD_St: "Active"
+              SD_IpAd: "10.0.2.10"
+              }
+              ]
+              }
+              ) {
+              id
+              status
+              updatedAt
+              details
+              }
+              }
 ```
 
 ```
 {
-  "data": {
-    "upsertCI": {
-      "id": 108,
-      "status": "Processing",
-      "updatedAt": "2025-11-14T10:15:00.123456Z",
-      "details": "Job queued - Upsert CI - Canonical API (1 items)"
-    }
-  }
-}
+              "data": {
+              "upsertCI": {
+              "id": 108,
+              "status": "Processing",
+              "updatedAt": "2025-11-14T10:15:00.123456Z",
+              "details": "Job queued - Upsert CI - Canonical API (1 items)"
+              }
+              }
+              }
 ```
 
 ## Related Topics

@@ -5,7 +5,7 @@ topic: salesforce-crm-agent-work-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.856Z
+lastCollected: 2026-04-05T00:23:30.783Z
 estimatedTokens: 471
 keywords: [Salesforce, CRM, Agent, Work, Mapping, data, mappings, AgentWork, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---

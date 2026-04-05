@@ -5,7 +5,7 @@ topic: connectapivoidpostedcreditmemooutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.213Z
+lastCollected: 2026-04-05T00:23:14.724Z
 estimatedTokens: 150
 keywords: [Output, representation, posted, credit, memo]
 ---

@@ -5,7 +5,7 @@ topic: pricingrecipetablemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.019Z
+lastCollected: 2026-04-05T00:23:26.901Z
 estimatedTokens: 505
 keywords: [PricingRecipeTableMapping, mapping, pricing, components, lookup, chosen, recipe, API, version, 60.0, later, Calls]
 ---

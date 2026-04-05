@@ -5,7 +5,7 @@ topic: attributeadjustmentcondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.864Z
+lastCollected: 2026-04-05T00:23:24.346Z
 estimatedTokens: 1044
 keywords: [AttributeAdjustmentCondition, condition, applied, attribute, determines, price, product, service, sold, API, version, 60.0, later, Calls, Associated]
 ---

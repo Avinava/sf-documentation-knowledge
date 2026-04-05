@@ -5,7 +5,7 @@ topic: generalledgeracctasgntrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:11.546Z
+lastCollected: 2026-04-05T00:23:25.793Z
 estimatedTokens: 1178
 keywords: [GeneralLedgerAcctAsgntRule, rule, general, ledger, accounts, assigned, transaction, journals, created, billing, transactions, API, version, 63.0, later]
 ---

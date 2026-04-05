@@ -5,7 +5,7 @@ topic: order-delivery-method-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:15.348Z
+lastCollected: 2026-04-05T00:23:33.737Z
 estimatedTokens: 656
 keywords: [Order, Delivery, DMO, data, model, Cloud, products, service, fulfillment, API, Category, Primary, Subject, Area, Key]
 ---

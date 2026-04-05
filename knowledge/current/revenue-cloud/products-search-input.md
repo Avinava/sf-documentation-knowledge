@@ -5,8 +5,8 @@ topic: products-search-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:08.303Z
-estimatedTokens: 1439
+lastCollected: 2026-04-05T00:23:17.916Z
+estimatedTokens: 1586
 keywords: [Products, Search, Input, representation]
 ---
 
@@ -34,6 +34,12 @@ This example shows a sample request to search products by using the searchTerm p
 
 If a parent category ID is specified in the request body, then the API returns all products associated to all child categories.
 
+This example shows a sample request to search products with eligible promotions. To fetch eligible promotions, specify a value for the query or searchTerm property, and set the usePromotions property to true.
+
+```
+
+```
+
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
@@ -50,45 +56,49 @@ Properties
 | enable​Pricing | Boolean | Indicates whether to enable pricing for the products (true) or not (false). The default value is true.The Pricing Procedure toggle from the Product Discovery Settings page from Setup overrides this property. For example, if the Pricing Procedure toggle is disabled, then setting the enablePricing property to true has no effect and the prices property in the API response is returned empty. | Optional | 60.0 |
 | enable​Qualification | Boolean | Indicates whether to enable qualification rules for the products (true) or not (false). The default value is true.The Qualification Procedure toggle from the Product Discovery Settings page from Setup overrides this property. For example, if the Qualification Procedure toggle is disabled, then setting the enableQualification property to true has no effect and the qualificationContext property in the API response isn’t returned. | Optional | 60.0 |
 | filter | Filter Input | Filters records based on supported criteria.The supported property is name.The supported operators are:eqincontainsgt—Specifies a greater than criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.lt—Specifies a less than criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.gte—Specifies a greater than or equal to criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.lte—Specifies a less than or equal to criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.If multiple criteria are specified, then the resultant criteria are combined by using the and operator. | Optional | 60.0 |
-| include​Catalog​Details | Boolean | Indicates whether to include catalog details in the response (true) or not (false). | Optional | 61.0 |
+| include​CatalogDetails | Boolean | Indicates whether to include catalog details in the response (true) or not (false). | Optional | 61.0 |
 | limit | Integer | Number of items to include in the response. The default value is 10. | Optional | 60.0 |
 | offset | Integer | Reserved for internal use. | Optional | 60.0 |
-| order​By | String[] | Sort order of the results, which is either ascending or descending order. The default sort order is ascending order. The default value is asc. | Optional | 60.0 |
-| priceBook​Id | String | ID of the price book to get the prices from. If this property isn’t specified, then prices from the standard price book are fetched. | Optional | 60.0 |
-| pricing​Procedure | String | API name of the custom pricing procedure that’s used for the pricing process. If this property isn’t specified, then the default pricing procedure is executed. | Optional | 60.0 |
-| product​Classification​Id | String | ID of the product classification. | Optional | 60.0 |
+| orderBy | String[] | Sort order of the results, which is either ascending or descending order. The default sort order is ascending order. The default value is asc. | Optional | 60.0 |
+| priceBookId | String | ID of the price book to get the prices from. If this property isn’t specified, then prices from the standard price book are fetched. | Optional | 60.0 |
+| pricingProcedure | String | API name of the custom pricing procedure that’s used for the pricing process. If this property isn’t specified, then the default pricing procedure is executed. | Optional | 60.0 |
+| product ClassificationId | String | ID of the product classification. | Optional | 60.0 |
 | qualification​Procedure | String | API name of the custom qualification procedure that’s used for the product qualification process. If this property isn’t specified, then the default qualification procedure is executed. | Optional | 60.0 |
-| query | Map<String, Object>> | Query to search the products. | Required | 60.0 |
-| related​Object​Filter | Related Object Filter Input[] | Filter records based on supported criteria for related objects.The supported object is ProductSpecificationRecType.The supported property is IsCommerical.The supported operator is eq.The supported values are true and false. | Optional | 60.0 |
+| query | Map<String, Object> | Query to search the products. | Required | 60.0 |
+| related​ObjectFilter | Related Object Filter Input[] | Filter records based on supported criteria for related objects.The supported object is ProductSpecificationRecType.The supported property is IsCommerical.The supported operator is eq.The supported values are true and false. | Optional | 60.0 |
 | searchTerm | String | String used to get products with the product name containing the search term. See Search Considerations When Using Indexed Data. | Optional | 62.0 |
-| user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
+| usePromotions | Boolean | Indicates whether to retrieve eligible promotions from Global Promotion Management (GPM) for each product in the search results (true) or not (false). If Promotion feature is enabled in the org and this property isn't specified, then the default value is true. If the Promotion feature isn't enabled, the default value is false. | Optional | 66.0 |
+| userContext | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
 
 ## Code Examples
 
 ```
 {
-    "query": {
-        "textQuery": {
-            "searchPhrase": "firstproduct"
-        }
-    },
-    "catalogId": "0ZSxx0000000001GAA",
-    "categoryId": "0ZGT100000000qlOAA",
-    "correlationId":"9cbb9650-48c5-11ed-96d1-0afcf185843b",
-    "limit":10,
-    "cursor": "MTAwMDAwMDAwNg==",
-    "orderBy":["name:asc","id:desc"],
-    "userContext": {
-      "accountId": "001xx0000000001AAA",
-      "contactId": "003xx00000000D7AAI"
-    },
+  "query": {
+    "textQuery": {
+      "searchPhrase": "firstproduct"
+    }
+  },
+  "catalogId": "0ZSxx0000000001GAA",
+  "categoryId": "0ZGT100000000qlOAA",
+  "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
+  "limit": 10,
+  "cursor": "MTAwMDAwMDAwNg==",
+  "orderBy": [
+    "name:asc",
+    "id:desc"
+  ],
+  "userContext": {
+    "accountId": "001xx0000000001AAA",
+    "contactId": "003xx00000000D7AAI"
+  },
   "additionalFields": {
     "Product2": {
-       "fields" : [
-            "CustomField1__c",
-            "CustomField2__c",
-            "StandardField1"
-        ]
+      "fields": [
+        "CustomField1__c",
+        "CustomField2__c",
+        "StandardField1"
+      ]
     }
   }
 }
@@ -96,16 +106,52 @@ Properties
 
 ```
 {
-    "searchTerm": "Laptop",
-    "catalogId": "0ZSDU0000002Og64AE",
-    "categoryId": "0ZGDU0000002P0A4AU",
-    "correlationId":"d9d8f898-19f5-464a-ba2b-6a070783f6c4",
-    "limit":10,
-    "cursor": "MTAwMDAwMDAwNw==",
-    "orderBy":["name:asc","id:desc"],
-    "userContext": {
-        "accountId": "001DU000001o2V0YAI"
+  "searchTerm": "Laptop",
+  "catalogId": "0ZSDU0000002Og64AE",
+  "categoryId": "0ZGDU0000002P0A4AU",
+  "correlationId": "d9d8f898-19f5-464a-ba2b-6a070783f6c4",
+  "limit": 10,
+  "cursor": "MTAwMDAwMDAwNw==",
+  "orderBy": [
+    "name:asc",
+    "id:desc"
+  ],
+  "userContext": {
+    "accountId": "001DU000001o2V0YAI"
+  }
+}
+```
+
+```
+{
+  "query": {
+    "textQuery": {
+      "searchPhrase": "laptop"
     }
+  },
+  "catalogId": "0ZSxx0000000001GAA",
+  "categoryId": "0ZGT100000000qlOAA",
+  "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
+  "limit": 10,
+  "cursor": "MTAwMDAwMDAwNg==",
+  "orderBy": [
+    "name:asc",
+    "id:desc"
+  ],
+  "userContext": {
+    "accountId": "001xx0000000001AAA",
+    "contactId": "003xx00000000D7AAI"
+  },
+  "additionalFields": {
+    "Product2": {
+      "fields": [
+        "CustomField1__c",
+        "CustomField2__c",
+        "StandardField1"
+      ]
+    }
+  },
+  "usePromotions": true
 }
 ```
 

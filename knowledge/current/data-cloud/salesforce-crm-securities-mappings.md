@@ -5,7 +5,7 @@ topic: salesforce-crm-securities-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.422Z
+lastCollected: 2026-04-05T00:23:31.870Z
 estimatedTokens: 167
 keywords: [Salesforce, CRM, Securities, Mappings, data, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage, DMO, Mapping]
 ---

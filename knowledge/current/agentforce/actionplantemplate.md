@@ -5,7 +5,7 @@ topic: actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.857Z
+lastCollected: 2026-04-05T00:23:34.755Z
 estimatedTokens: 1385
 keywords: [ActionPlanTemplate, instance, action, plan, template, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, ActionPlanTemplateItem]
 ---

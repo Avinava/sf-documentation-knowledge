@@ -5,7 +5,7 @@ topic: payment-line-unapply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:08.106Z
+lastCollected: 2026-04-05T00:23:17.476Z
 estimatedTokens: 145
 keywords: [Payment, Line, Unapply, Input, representation, covers, specify, revert, application, their, preapplication, state]
 ---

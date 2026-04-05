@@ -5,7 +5,7 @@ topic: setgatewayresultcodegatewayresultcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.434Z
+lastCollected: 2026-04-05T00:23:45.151Z
 estimatedTokens: 140
 keywords: [setGatewayResultCode, gatewayResultCode, gateway-specific, result, code, may, mapped, Salesforce-specific, Maximum, length, characters]
 ---

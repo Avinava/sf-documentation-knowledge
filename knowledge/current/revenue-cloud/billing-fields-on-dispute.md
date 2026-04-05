@@ -5,7 +5,7 @@ topic: billing-fields-on-dispute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.450Z
+lastCollected: 2026-04-05T00:23:15.315Z
 estimatedTokens: 656
 keywords: [Billing, Dispute, involves, invoice, disputed, lines, include, amount, approved, subtype, status, API, version, 66.0, later]
 ---

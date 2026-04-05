@@ -5,7 +5,7 @@ topic: query-data-using-query-api-v1
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.414Z
+lastCollected: 2026-04-05T00:23:29.781Z
 estimatedTokens: 1045
 keywords: [Query, Data, API, supports, SQL, ANSI, standard, free, form, objects, include, streams, profile, engagement, model]
 ---

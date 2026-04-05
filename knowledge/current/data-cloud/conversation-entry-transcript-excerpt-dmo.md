@@ -5,7 +5,7 @@ topic: conversation-entry-transcript-excerpt-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.270Z
+lastCollected: 2026-04-05T00:23:31.582Z
 estimatedTokens: 767
 keywords: [Conversation, Entry, Transcript, Excerpt, DMO, Data, Cloud, model, portion, includes, API, Category, Primary, Subject, Area]
 ---

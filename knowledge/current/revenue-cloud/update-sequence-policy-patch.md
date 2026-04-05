@@ -5,7 +5,7 @@ topic: update-sequence-policy-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:09.011Z
+lastCollected: 2026-04-05T00:23:19.678Z
 estimatedTokens: 916
 keywords: [Sequence, Policy, PATCH, settings, how, unique, sequential, numbers, generated, specific, patterns, filters, Special, Access, Rules]
 ---

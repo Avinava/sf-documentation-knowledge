@@ -5,7 +5,7 @@ topic: billingschedulegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:11.039Z
+lastCollected: 2026-04-05T00:23:24.708Z
 estimatedTokens: 2976
 keywords: [BillingScheduleGroup, consolidated, view, billing, schedules, order, items, generated, asset, including, new, orders, amendment, API, version]
 ---

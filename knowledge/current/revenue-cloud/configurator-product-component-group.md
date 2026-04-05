@@ -5,7 +5,7 @@ topic: configurator-product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.249Z
+lastCollected: 2026-04-05T00:23:20.254Z
 estimatedTokens: 324
 keywords: [Configurator, Product, Component, Group, Output, representation, classification]
 ---

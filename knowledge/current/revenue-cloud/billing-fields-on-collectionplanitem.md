@@ -5,7 +5,7 @@ topic: billing-fields-on-collectionplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.444Z
+lastCollected: 2026-04-05T00:23:15.297Z
 estimatedTokens: 711
 keywords: [Billing, CollectionPlanItem, Standard, extend, represent, invoice, balance, API, version, 64.0, later, Calls, Special, Access, Rules]
 ---

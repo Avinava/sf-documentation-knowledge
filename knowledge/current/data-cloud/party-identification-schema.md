@@ -5,7 +5,7 @@ topic: party-identification-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.215Z
+lastCollected: 2026-04-05T00:23:29.331Z
 estimatedTokens: 492
 keywords: [Party, Identification, Schema, capture, profile, data, map, individual, streams]
 ---

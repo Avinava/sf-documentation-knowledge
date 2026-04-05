@@ -5,7 +5,7 @@ topic: ordersummarycreation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:19.275Z
+lastCollected: 2026-04-05T00:23:41.406Z
 estimatedTokens: 565
 namespace: ConnectApi
 keywords: [OrderSummaryCreation, OrderSummary, order, considered, original, Subsequent, change, orders, apply, represented, specify, whether, managed, Salesforce, Management]

@@ -5,7 +5,7 @@ topic: create-standalone-billing-schedules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:05.843Z
+lastCollected: 2026-04-05T00:23:11.516Z
 estimatedTokens: 563
 keywords: [Standalone, Billing, Schedules, Action, Creates, internal, external, transaction, records, calling, API, Special, Access, Rules, REST]
 ---

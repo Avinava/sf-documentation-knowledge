@@ -5,7 +5,7 @@ topic: connectapideliveryestimationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.115Z
+lastCollected: 2026-04-05T00:23:50.886Z
 estimatedTokens: 66
 keywords: [Delivery, estimation, error]
 ---

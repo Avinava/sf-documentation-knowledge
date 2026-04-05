@@ -5,7 +5,7 @@ topic: contenthub-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:18.777Z
+lastCollected: 2026-04-05T00:23:40.500Z
 estimatedTokens: 43550
 namespace: ConnectApi
 keywords: [ContentHub, repository, file, preview, Experience, Cloud, site, addRepositoryItem, repositoryId, repositoryFolderId, API, Version, Requires, Chatter, Usage]

@@ -5,7 +5,7 @@ topic: procedureplandefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:12.816Z
+lastCollected: 2026-04-05T00:23:28.574Z
 estimatedTokens: 887
 keywords: [ProcedurePlanDefinition, setup, unified, procedure, multiple, procedures, sequenced, any, order, business, needs, plan, definition, sections, subsections]
 ---

@@ -5,8 +5,8 @@ topic: graph-record-for-invoice-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:08.020Z
-estimatedTokens: 3420
+lastCollected: 2026-04-05T00:23:17.240Z
+estimatedTokens: 3457
 keywords: [Graph, Record, Invoice, Ingestion, that’s, part, structure, representing, relationships, among, different, objects, contain, attributes, references]
 ---
 
@@ -92,11 +92,11 @@ JSON example
 | invoiceDate | Invoice.invoiceDate | Date when the invoice was created or issued. | Required |
 | billingAccountId | Invoice.billingAccountId | Billing account associated with this invoice, which you can resolve with the externalId field by using the GET method. | Required |
 | billToContactId | Invoice.billToContactId | Contact to whom the invoice is billed, which you can resolve with the externalId field by using the GET method. | Required |
-| paymentTermId | Invoice.paymentTermId | Payment term associated with the invoice. | Optional |
+| paymentTermId | Invoice.paymentTermId | Payment term associated with the invoice. If a value isn’t specified, then the default payment term ID is used. | Optional |
 | referenceEntityId | Invoice.referenceEntityId | Reference to a related object, if applicable.To generate invoices from debit memos, specify the debit memo ID as the property value. Make sure that the debit memo is in Posted status. Available in API version 66.0 and later. The invoice is generated in Draft status. | Optional |
 | status | Invoice.status | Status of the invoice. Valid values are:DraftPosted.The default value is Draft. | Optional |
 | currencyIsoCode | Invoice.currencyIsoCode | ISO code representing the currency of the invoice. This property must be specified if multi-currency is enabled in the organization. | Optional |
-| dueDate | Invoice.dueDate | Due date for the invoice payment. | Optional |
+| dueDate | Invoice.dueDate | Due date for the invoice payment. If a value isn’t specified, then this value is set based on the payment term. | Optional |
 | postedDate | Invoice.postedDate | Date the invoice was posted to the system.Until API version 64.0, the default value is the current date irrespective of the value that’s specified in the input payload. In API version 65.0 and later, the posted date specified in the input payload is considered. | Required in API version 65.0 and later. |
 | invoiceNumber | Invoice.invoiceNumber | Unique identifier for the invoice. | Optional |
 | uniqueIdentifier | Invoice.uniqueIdentifier | Unique identifier for the invoice. This property is used as the idempotency key to avoid duplicate invoice generation. | Optional |

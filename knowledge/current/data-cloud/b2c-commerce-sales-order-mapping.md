@@ -5,7 +5,7 @@ topic: b2c-commerce-sales-order-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.773Z
+lastCollected: 2026-04-05T00:23:30.597Z
 estimatedTokens: 369
 keywords: [B2C, Commerce, Sales, Order, Mapping, data, stream, deployed, Salesforce, starter, bundle, automatically, maps, source, objects]
 ---

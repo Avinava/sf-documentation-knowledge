@@ -5,7 +5,7 @@ topic: product-category-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.475Z
+lastCollected: 2026-04-05T00:23:34.023Z
 estimatedTokens: 813
 keywords: [Product, Category, DMO, data, model, Cloud, products, company, offers, shoes, services, API, Primary, Subject, Area]
 ---

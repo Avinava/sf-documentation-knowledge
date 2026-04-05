@@ -5,8 +5,8 @@ topic: canceled-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:07.638Z
-estimatedTokens: 3105
+lastCollected: 2026-04-05T00:23:16.381Z
+estimatedTokens: 3107
 keywords: [Canceled, Transaction, Understand, key, considerations, billing, schedule]
 ---
 
@@ -58,7 +58,7 @@ When you're creating a billing schedule for a canceled transaction, make sure th
 | RelatedTransactionId__std | The ID of the transaction that’s related to the original transaction. | This value isn't populated on any BillingSchedule or BillingScheduleGroup field. | Required |
 | RampIdentifier__std | When the transaction is part of a ramp deal, the RampIdentifier value is a unique identifier for that ramp. All the transactions with the same RampIdentifier value are grouped to have billing schedules for the same billing schedule group. | This value isn't populated on any BillingSchedule or BillingScheduleGroup field. | Optional |
 | ProrationPolicy__std | The ID of the Proration Policy record that's related to the Product Selling Model Option record of the transaction. | ProrationPolicyId field on the BillingScheduleGroup object | Optional |
-| BillingActionType__std | The action that you want to perform for the transaction. Valid values are:AddAmendRenewcSpecify Cancel as the BillingActionType for canceled transactions. | Category field on the BillingSchedule object is populated as Cancellation. | Required |
+| BillingActionType__std | The action that you want to perform for the transaction. Valid values are:AddAmendRenewCancelSpecify Cancel as the BillingActionType for canceled transactions. | Category field on the BillingSchedule object is populated as Cancellation. | Required |
 | UnitPrice__std | The unit price of the transaction. | UnitPrice field on the BillingSchedule object | Either the UnitPrice or the NetUnitPrice value is required |
 | TotalPrice__std | The total price of the transaction. | TotalAmount field on the BillingSchedule object | Required |
 | ProductUsageModelType__std | The type of usage model for the transaction product or service. Valid values are:Anchor—Anchor is the main subscription product or service.Pack—Pack is the add-on product or service that grants additional usage resources for consumption. | BillingMethod value field on the BillingSchedule object is populated as OrderAmount. | Optional |

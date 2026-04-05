@@ -5,7 +5,7 @@ topic: capture-web-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.439Z
+lastCollected: 2026-04-05T00:23:29.849Z
 estimatedTokens: 1391
 namespace: SalesforceInteractions
 keywords: [Capture, Web, Interactions, Salesforce, SDK, extensible, data, collection, framework, track, different, user, website, send, build]

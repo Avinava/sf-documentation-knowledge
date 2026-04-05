@@ -5,8 +5,8 @@ topic: get-started-with-revenue-cloud-developer-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:10.630Z
-estimatedTokens: 4084
+lastCollected: 2026-04-05T00:23:23.824Z
+estimatedTokens: 4214
 keywords: [Started, Revenue, Cloud, Developer, Resources, unified, system, automate, CRM, processes, sources, backend, work, support, end-to-end]
 ---
 
@@ -53,6 +53,7 @@ Customize the components and attributes of a product to meet the business requir
 
 -   Use [standard objects](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/prod_config_std_objects_parent.htm "The Product Configurator data model provides objects and fields to manage the product configurator flow.") to manage product-related information.
 -   Use the [business APIs](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_business_api_overview.htm "Use the Product Configurator Business APIs to customize a product or a service according to your business-specific requirements.") to retrieve and update a product’s configuration from a configurator or to access configurator capabilities by integrating with any front-end application.
+-   Use [constraint modeling language](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_what_is_constraint_modeling_language.htm "Constraint Modeling Language (CML) is a domain-specific language that defines models for complex systems. For product configuration, constraint models describe real-world entities and their relationships to each other.") to enforce business logic declaratively, without the need for extensive code in a general-purpose programming language.
 
 ## Transaction Management
 

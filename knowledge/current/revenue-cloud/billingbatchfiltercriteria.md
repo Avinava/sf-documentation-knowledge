@@ -5,7 +5,7 @@ topic: billingbatchfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.938Z
+lastCollected: 2026-04-05T00:23:24.496Z
 estimatedTokens: 1490
 keywords: [BillingBatchFilterCriteria, filter, eligible, billing, schedules, satisfy, order, picked, invoice, run, API, version, 62.0, later, Calls]
 ---

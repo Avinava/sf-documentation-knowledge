@@ -5,7 +5,7 @@ topic: data-use-purpose-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:14.635Z
+lastCollected: 2026-04-05T00:23:32.340Z
 estimatedTokens: 707
 keywords: [Data, Purpose, DMO, Cloud, model, contacting, prospect, customer, billing, marketing, surveys, API, Category, Primary, Subject]
 ---

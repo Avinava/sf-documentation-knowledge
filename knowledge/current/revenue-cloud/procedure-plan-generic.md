@@ -5,7 +5,7 @@ topic: procedure-plan-generic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.686Z
+lastCollected: 2026-04-05T00:23:21.284Z
 estimatedTokens: 191
 keywords: [Procedure, Plan, Generic, Output, representation, created, definition, record]
 ---

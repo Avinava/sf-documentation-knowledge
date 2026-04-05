@@ -5,7 +5,7 @@ topic: connectapilocationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.733Z
+lastCollected: 2026-04-05T00:23:52.188Z
 estimatedTokens: 84
 keywords: [ConnectApi.LocationOutputRepresentation, inventory, location’s, distance, order, recipient]
 ---

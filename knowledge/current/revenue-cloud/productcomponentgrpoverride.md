@@ -5,7 +5,7 @@ topic: productcomponentgrpoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.093Z
+lastCollected: 2026-04-05T00:23:27.067Z
 estimatedTokens: 609
 keywords: [ProductComponentGrpOverride, override, Product, Component, Group, cardinality, overridden, context, bundle, API, version, 60.0, later, Calls, Special]
 ---

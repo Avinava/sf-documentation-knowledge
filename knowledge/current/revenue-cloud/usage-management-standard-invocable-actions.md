@@ -5,7 +5,7 @@ topic: usage-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:12.905Z
+lastCollected: 2026-04-05T00:23:28.778Z
 estimatedTokens: 544
 keywords: [Usage, Management, Standard, Invocable, Actions]
 ---

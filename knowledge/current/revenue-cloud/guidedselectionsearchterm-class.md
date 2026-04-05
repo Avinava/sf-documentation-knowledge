@@ -5,7 +5,7 @@ topic: guidedselectionsearchterm-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.823Z
+lastCollected: 2026-04-05T00:23:13.894Z
 estimatedTokens: 950
 keywords: [GuidedSelectionSearchTerm, search, term, guided, product, selection, text, associated, tags, filtering, searching, products, Discovery, apexObj]
 ---

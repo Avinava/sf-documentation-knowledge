@@ -5,7 +5,7 @@ topic: managedcontentdelivery-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:18.956Z
+lastCollected: 2026-04-05T00:23:40.872Z
 estimatedTokens: 14078
 namespace: ConnectApi
 keywords: [ManagedContentDelivery, collection, items, managed, content, channel, getChannels, pageParam, pageSize, API, Version, Guest, Users, Requires, Chatter]

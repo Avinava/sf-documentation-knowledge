@@ -5,7 +5,7 @@ topic: get-apiv1insightcalculated-insightsci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.299Z
+lastCollected: 2026-04-05T00:23:29.536Z
 estimatedTokens: 523
 keywords: [api, insight, calculated-insights, ci-name, query, Calculated, Insights, Users, filter, selecting, different, dimensions, measures, filters, Examples]
 ---

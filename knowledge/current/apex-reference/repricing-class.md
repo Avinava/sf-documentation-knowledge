@@ -5,7 +5,7 @@ topic: repricing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:19.553Z
+lastCollected: 2026-04-05T00:23:41.918Z
 estimatedTokens: 1617
 namespace: ConnectApi
 keywords: [Repricing, product, web, store, productDetails, webstoreId, skuOrProductId, effectiveAccountId, currencyCode, locale, API, Version, Requires, Chatter, searchProducts]

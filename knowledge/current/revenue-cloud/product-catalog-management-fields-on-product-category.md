@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.401Z
+lastCollected: 2026-04-05T00:23:23.294Z
 estimatedTokens: 227
 keywords: [Product, Catalog, Management, Category, Standard, custom, extend]
 ---

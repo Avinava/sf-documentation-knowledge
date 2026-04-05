@@ -5,7 +5,7 @@ topic: connectapiquerypathinputconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:25.611Z
+lastCollected: 2026-04-05T00:23:47.722Z
 estimatedTokens: 72
 keywords: [ConnectApi.QueryPathInputConfig, query, path, configuration, input]
 ---

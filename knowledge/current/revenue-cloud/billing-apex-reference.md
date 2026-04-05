@@ -5,8 +5,8 @@ topic: billing-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:07.366Z
-estimatedTokens: 879
+lastCollected: 2026-04-05T00:23:15.119Z
+estimatedTokens: 961
 namespace: ConnectApi
 keywords: [Billing, Apex, ConnectApi, Connect, classes, accessing, capabilities, Business, APIs, Additionally, built-in, interfaces, grouped]
 ---
@@ -54,6 +54,8 @@ For more information about Apex classes that are available for Commerce Payments
     The ConnectApi namespace (also called Connect in Apex) provides classes to manage credit applications and billing scenarios.
 -   **[InvoiceWriteOff Namespace](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_InvoiceWriteOff.htm)**
     Create credit memos with the total charge amount on the invoice as the write-off amount and close the invoice.
+-   **[IssueCreditMemo Namespace](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_IssueCreditMemo.htm)**
+    Issue credit memos from disputed invoices. Use this namespace to create and apply credit memos against invoices or invoice lines based on dispute adjustments.
 -   **[RulesAppln Namespace](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_RulesAppln.htm)**
     Apply payments and credits to posted invoices by adhering to the specified rules.
 -   **[TaxEngineAdapter Interface](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/billing_tax_engine_adapter_interface_for_standard_tax.htm)**
@@ -63,5 +65,6 @@ For more information about Apex classes that are available for Commerce Payments
 
 - ConnectApi Namespace (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/billing_connect_api_namespace.htm)
 - InvoiceWriteOff Namespace (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_InvoiceWriteOff.htm)
+- IssueCreditMemo Namespace (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_IssueCreditMemo.htm)
 - RulesAppln Namespace (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_namespace_RulesAppln.htm)
 - TaxEngineAdapter Interface (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/billing_tax_engine_adapter_interface_for_standard_tax.htm)

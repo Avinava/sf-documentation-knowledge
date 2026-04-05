@@ -1,0 +1,47 @@
+---
+title: "Core Concepts"
+domain: revenue-cloud
+topic: core-concepts
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-04-05T00:23:15.846Z
+estimatedTokens: 538
+keywords: [Core, Concepts, Constraint, Modeling, Language, CML, includes, components, cover, high-level, configurations, specific, data, constraints]
+---
+
+# Core Concepts
+
+> Constraint Modeling Language (CML) includes components that cover high-level global
+        configurations to specific data types and constraints.
+
+# Core Concepts
+
+Constraint Modeling Language (CML) includes components that cover high-level global configurations to specific data types and constraints.
+
+See these topics for information on each core concept and the ways they work together.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+
+#### Note
+
+CML supports single-line code comments with // and block comments with /\* \*/.
+
+-   **[Global Properties and Settings](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_global_properties_and_settings.htm)**
+    Header-level declarations define the global properties and settings for a model, including constants, properties, and external values that set up the foundation of the CML code.
+-   **[Variables](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_variables.htm)**
+    Variables are the properties or characteristics defined within a type. Variables can hold different types of data and can be calculated from other values.
+-   **[Types](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_types.htm)**
+    In Constraint Modeling Language (CML), you define types to represent entities or objects in the model. Types are the foundational building blocks of CML. A type encapsulates the property, relationships, constraint, and rules for the entity.
+-   **[Relationships](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_relationships.htm)**
+    Relationships in Constraint Modeling Language (CML) define how different product types are associated with each other, forming the structural hierarchy of a product bundle. Relationships are also referred to as ports.
+-   **[Constraints](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_constraints.htm)**
+    Constraints enforce rules and conditions on types, variables, and relationships. Use constraints to define logical restrictions and ensure consistency within the model.
+
+## Related Topics
+
+- Global Properties and Settings (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_global_properties_and_settings.htm)
+- Variables (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_variables.htm)
+- Types (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_types.htm)
+- Relationships (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_relationships.htm)
+- Constraints (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_constraints.htm)

@@ -5,7 +5,7 @@ topic: connectapicdpidentityresolutionreconciliationfieldruleoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:26.633Z
+lastCollected: 2026-04-05T00:23:49.862Z
 estimatedTokens: 263
 keywords: [Identity, resolution, ruleset's, reconciliation, rule]
 ---

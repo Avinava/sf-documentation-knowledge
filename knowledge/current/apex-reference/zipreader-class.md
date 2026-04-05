@@ -5,7 +5,7 @@ topic: zipreader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.823Z
+lastCollected: 2026-04-05T00:23:44.952Z
 estimatedTokens: 1426
 namespace: Compression
 keywords: [ZipReader, zip, entries, extract, content, file, data, entry, getEntries, getEntriesMap, getEntry, getEntryNames]

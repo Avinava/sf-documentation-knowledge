@@ -5,7 +5,7 @@ topic: post-a-draft-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:08.818Z
+lastCollected: 2026-04-05T00:23:19.235Z
 estimatedTokens: 263
 keywords: [Post, Draft, Memo, credit, record, review, approval]
 ---

@@ -5,7 +5,7 @@ topic: verificationmethod-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.468Z
+lastCollected: 2026-04-05T00:23:52.529Z
 estimatedTokens: 606
 keywords: [VerificationMethod, different, ways, users, identify, themselves, logging, implement, mobile-centric, passwordless, login, pages, self-register, deregister, verification]
 ---

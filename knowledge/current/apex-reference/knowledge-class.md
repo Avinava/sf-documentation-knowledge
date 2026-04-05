@@ -5,7 +5,7 @@ topic: knowledge-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:18.882Z
+lastCollected: 2026-04-05T00:23:40.720Z
 estimatedTokens: 2696
 namespace: ConnectApi
 keywords: [Knowledge, trending, articles, topic, Experience, Cloud, site, getTopViewedArticlesForTopic, communityId, topicId, maxResults, API, Version, Guest, Users]

@@ -5,7 +5,7 @@ topic: unapply-payment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.189Z
+lastCollected: 2026-04-05T00:23:12.334Z
 estimatedTokens: 515
 keywords: [Unapply, Payment, Action, Unapplies, that's, already, applied, invoice, line, crediting, amount, back, Special, Access, Rules]
 ---

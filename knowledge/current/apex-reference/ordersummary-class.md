@@ -5,7 +5,7 @@ topic: ordersummary-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:19.308Z
+lastCollected: 2026-04-05T00:23:41.461Z
 estimatedTokens: 11166
 namespace: ConnectApi
 keywords: [OrderSummary, Retrieve, expected, results, adjusting, price, OrderItemSummaries, actually, executing, adjustment, data, financial, changes, result, submitting]

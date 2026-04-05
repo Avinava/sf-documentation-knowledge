@@ -5,7 +5,7 @@ topic: delete-ramp-deal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:07.951Z
+lastCollected: 2026-04-05T00:23:17.096Z
 estimatedTokens: 82
 keywords: [Ramp, Deal, Input, representation]
 ---

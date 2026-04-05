@@ -5,8 +5,8 @@ topic: transaction-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.483Z
-estimatedTokens: 1111
+lastCollected: 2026-04-05T00:23:23.493Z
+estimatedTokens: 1312
 keywords: [Transaction, Management, Business, APIs, fetch, instant, pricing, data, quote, order]
 ---
 
@@ -39,6 +39,9 @@ This table lists the available Transaction Management resources.
 | /connect/revenue/transaction-management/sales-transactions/actions/read (POST) | Retrieve sales transaction data efficiently from an initialized or a hydrated context. |
 | /connect/advanced-approvals/approval-submission/preview (POST) | Preview the approval levels of a record and associated level details, approval chains, approvers, and conditions before you submit the record for an approval. |
 | /revenue/transaction-management/sales-transactions/actions/get-eligible-promotions (POST) | Get eligible promotions for line items within a quote or an order. |
+| /revenue/transaction-management/assets/actions/swap (POST) | Create an amendment that trades a quantity of one product for another. This change is tracked as a swap request with linked asset actions and a net-zero order total where applicable. |
+| /revenue/transaction-management/assets/actions/upgrade (POST) | Create an amendment that moves a lower-tier product to a higher-tier product. This change is tracked as an upgrade request with linked asset actions and quote or order line linkage for reporting and auditing. |
+| /revenue/transaction-management/assets/actions/downgrade (POST) | Create an amendment that moves a higher-tier product to a lower-tier product. This change is tracked as a downgrade request with linked asset actions and quote or order line linkage for reporting and auditing. |
 
 -   **[Resources](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/qoc_business_apis_rest_references.htm)**
     Learn more about the available Quote and Order Capture resources.

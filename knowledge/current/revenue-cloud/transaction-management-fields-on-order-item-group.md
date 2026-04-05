@@ -5,7 +5,7 @@ topic: transaction-management-fields-on-order-item-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:10.545Z
+lastCollected: 2026-04-05T00:23:23.631Z
 estimatedTokens: 1148
 keywords: [Transaction, Management, Order, Item, Group, Standard, custom, extend, Special, Access, Rules]
 ---

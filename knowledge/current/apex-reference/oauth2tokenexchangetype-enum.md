@@ -5,7 +5,7 @@ topic: oauth2tokenexchangetype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:29.454Z
+lastCollected: 2026-04-05T00:23:52.496Z
 estimatedTokens: 344
 keywords: [OAuth2TokenExchangeType, OAuth, 2.0, token, exchange, flow, specify, that’s, exchanged, Salesforce, Usage]
 ---

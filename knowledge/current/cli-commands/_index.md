@@ -1,8 +1,8 @@
 ---
 domain: cli-commands
 name: SF CLI Commands
-documentCount: 26
-lastGenerated: 2026-03-12T09:36:24.789Z
+documentCount: 27
+lastGenerated: 2026-04-05T00:23:54.669Z
 ---
 
 # SF CLI Commands — Knowledge Index
@@ -29,6 +29,7 @@ lastGenerated: 2026-03-12T09:36:24.789Z
 | [help-for-sf-commands.md](./help-for-sf-commands.md) | Help for sf Commands | help-article | The -h and --help flags show details about sf topics and
     their commands. |
 | [info-commands.md](./info-commands.md) | info Commands | release-note | Display Salesforce CLI release notes on the command line. |
+| [lightning-commands.md](./lightning-commands.md) | lightning Commands | developer-guide | Preview a Lightning Experience app locally and in real-time, without deploying i |
 | [logic-commands.md](./logic-commands.md) | logic Commands | api-reference | Get the results of a test run. |
 | [org-commands.md](./org-commands.md) | org Commands | api-reference | Assign a permission set to one or more org users. |
 | [package-commands.md](./package-commands.md) | package Commands | release-note | Convert a managed-released first-generation managed package into a second-genera |

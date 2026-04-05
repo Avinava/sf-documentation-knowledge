@@ -5,7 +5,7 @@ topic: attributecategoryoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.725Z
+lastCollected: 2026-04-05T00:23:13.672Z
 estimatedTokens: 1264
 keywords: [AttributeCategoryOutputRepresentation, Stores, attribute, code, usage, records, status, totalSize, usageType]
 ---

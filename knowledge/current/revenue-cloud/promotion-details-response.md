@@ -5,7 +5,7 @@ topic: promotion-details-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:09.798Z
+lastCollected: 2026-04-05T00:23:21.488Z
 estimatedTokens: 502
 keywords: [Promotion, Output, representation, eligible, includes, any, coupons, eligibility, rules, terms, conditions]
 ---

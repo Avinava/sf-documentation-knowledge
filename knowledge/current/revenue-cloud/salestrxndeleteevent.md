@@ -5,7 +5,7 @@ topic: salestrxndeleteevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:12.471Z
+lastCollected: 2026-04-05T00:23:27.823Z
 estimatedTokens: 124
 keywords: [SalesTrxnDeleteEvent, platform, event, triggers, deletion, sales, transaction, fulfillment, records, corresponding, deleted, API, version, 64.0, later]
 ---

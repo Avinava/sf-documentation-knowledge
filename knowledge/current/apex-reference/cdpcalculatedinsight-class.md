@@ -5,7 +5,7 @@ topic: cdpcalculatedinsight-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:16.373Z
+lastCollected: 2026-04-05T00:23:35.898Z
 estimatedTokens: 2458
 namespace: ConnectApi
 keywords: [CdpCalculatedInsight, calculated, insight, createCalculatedInsight, input, API, Version, Requires, Chatter, deleteCalculatedInsight, apiName, getCalculatedInsight, getCalculatedInsights, definitionType, batchSize]

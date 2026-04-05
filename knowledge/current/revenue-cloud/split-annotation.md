@@ -1,0 +1,110 @@
+---
+title: "split Annotation"
+domain: revenue-cloud
+topic: split-annotation
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-04-05T00:23:15.740Z
+estimatedTokens: 1024
+keywords: [split, Annotation, Constraint, Modeling, Language, CML, whether, instances, Configurator, Result, Configuration, Settings]
+---
+
+# split Annotation
+
+> split is a Constraint Modeling Language (CML)
+    annotation that specifies whether the instances of the type should be split or not.
+
+# split Annotation
+
+split is a Constraint Modeling Language (CML) annotation that specifies whether the instances of the type should be split or not.
+
+| Annotation | split |
+| --- | --- |
+| Applicable to | Type |
+| Value Type/Values | true, false |
+| Description | If split is not specified, there are multiple instances of the same type in the relationship with different quantities.If the split is specified as true, there can be multiple instances of the type, and the quantity of each instance is always 1.If the split is specified as false, there is only one instance in the relationship.If the user adds more instances, the engine adds more quantity to the existing instance. |
+
+## Example 1
+
+In this example, the split annotation is not specified for the type (Model).
+
+```
+
+```
+
+## Example Description and Configurator Result
+
+In this example, the system allows the multiple instances of the Model type with different quantities defined by the user.
+
+## Example 2
+
+In this example, the split annotation is specified as true for the type (Model).
+
+```
+
+```
+
+## Example Description and Configurator Result
+
+In this example, the annotation split = true specifies that the multiple Model instances are split into individual items with fixed quantity 1.
+
+## Example 3
+
+In this example, the split annotation is specified as false for the type (Model).
+
+```
+
+```
+
+## Example Description and Configurator Result
+
+In this example, the system allows one instance of the Model type with different quantity defined by the user.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+
+#### Note
+
+If there are multiple products of type Model (e.g., FESBA 900kW and FESBA 1500kW), the user can add both models to the configuration and adjust the quantity for each one. However, the user cannot add additional separate instances of the same product (e.g., to configure unique instances with different variable values).
+
+## split Configuration Settings
+
+| Product Group Structure | "split" annotation | Engine Action | user Action | UI Behavior |
+| --- | --- | --- | --- | --- |
+| Product Classification | TRUE | Add multiple products | N/A | N/A |
+| Product Classification | TRUE | N/A | Selecting or adding the product multiple times manually | Multiple instances created (qty = 1 each). User can add more instances, but can't change quantity per instance. |
+| Product Classification | FALSE | Add multiple products | N/A | One instance created with qty > 1. User can change the quantity of this instance, but can't add more instances. |
+| Product Classification | FALSE | N/A | Selecting or adding the product multiple times manually | One instance created with qty = 1. User can change the quantity of this instance, but can't add more instances. |
+| Product Classification | (empty) | Add multiple products | N/A | One instance created with qty > 1. User can change quantity and can add more instances. |
+| Product Classification | (empty) | N/A | Selecting or adding the product multiple times manually | One instance created with qty = 1. User can change quantity and can add more instances. |
+| Individual Product | TRUE | Add multiple products | N/A | Multiple line items created, but Configurator displays only one instance. Users cannot modify quantity for that instance. |
+| Individual Product | TRUE | N/A | Selecting or adding the product manually | One instance created with qty = 1. Users cannot change quantity. |
+| Individual Product | FALSE | Add multiple products |  | One instance created with qty > 1. Users can't modify quantity for that instance. |
+| Individual Product | FALSE | N/A | Selecting or adding the product manually | One instance created with qty = 1. Users can modify quantity for that instance. |
+| Individual Product | (empty) | Add multiple products |  | One instance created with qty > 1. Users can't modify quantity for that instance. |
+| Individual Product | (empty) | N/A | Selecting or adding the product manually | One instance created with qty = 1. Users can modify quantity for that instance. |
+
+## Code Examples
+
+```
+type FESBAGeneratorSet {
+    relation models : Model;
+}
+type Model;
+```
+
+```
+type FESBAGeneratorSet {
+    relation models : Model;
+}
+@(split = true)
+type Model;
+```
+
+```
+type FESBAGeneratorSet {
+    relation models : Model;
+}
+@(split = false)
+type Model;
+```

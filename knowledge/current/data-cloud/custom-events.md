@@ -5,7 +5,7 @@ topic: custom-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.002Z
+lastCollected: 2026-04-05T00:23:28.975Z
 estimatedTokens: 211
 keywords: [Custom, Events, recommended, Cart, Interaction, Catalog, Order, data, models, provided, Salesforce, Interactions, SDK, unified, model]
 ---

@@ -5,7 +5,7 @@ topic: shopping-cart-event-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:15.608Z
+lastCollected: 2026-04-05T00:23:34.276Z
 estimatedTokens: 339
 keywords: [Shopping, Cart, Event, DMO, Data, Cloud, model, customer, interacts, commerce, site’s, API, Category, Primary, Subject]
 ---

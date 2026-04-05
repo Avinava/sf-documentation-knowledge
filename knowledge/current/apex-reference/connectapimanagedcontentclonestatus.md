@@ -5,7 +5,7 @@ topic: connectapimanagedcontentclonestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.788Z
+lastCollected: 2026-04-05T00:23:52.278Z
 estimatedTokens: 139
 keywords: [ConnectApi.ManagedContentCloneStatus, managed, content's, clone, status]
 ---

@@ -5,7 +5,7 @@ topic: card-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:13.826Z
+lastCollected: 2026-04-05T00:23:30.720Z
 estimatedTokens: 339
 keywords: [Card, Account, DMO, financial, tool, offered, bank, loan, line, revolving, credit, access, via, card's, Provided]
 ---

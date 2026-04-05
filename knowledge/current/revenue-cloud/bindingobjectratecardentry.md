@@ -5,7 +5,7 @@ topic: bindingobjectratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:11.091Z
+lastCollected: 2026-04-05T00:23:24.825Z
 estimatedTokens: 1294
 keywords: [BindingObjectRateCardEntry, rate, card, entry, usage, resource, associated, binding, that's, charge, over, consumption, API, version, 64.0]
 ---

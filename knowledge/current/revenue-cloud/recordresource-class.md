@@ -5,7 +5,7 @@ topic: recordresource-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:06.349Z
+lastCollected: 2026-04-05T00:23:12.752Z
 estimatedTokens: 2322
 namespace: RevSalesTrxn
 keywords: [RecordResource, record, sales, transaction, groupAction, criteria, fieldValues, order, quote]

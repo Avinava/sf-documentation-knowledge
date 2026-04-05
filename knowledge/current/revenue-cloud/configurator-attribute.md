@@ -5,7 +5,7 @@ topic: configurator-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:09.207Z
+lastCollected: 2026-04-05T00:23:20.138Z
 estimatedTokens: 697
 keywords: [Configurator, Attribute, Output, representation, product, configuration]
 ---

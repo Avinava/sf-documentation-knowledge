@@ -5,7 +5,7 @@ topic: get-apiv1profiledatamodelnameidchilddatamodelname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:13.376Z
+lastCollected: 2026-04-05T00:23:29.701Z
 estimatedTokens: 477
 keywords: [api, profile, dataModelName, childDataModelName, data, model, objects, child, indexes, search, filters, Examples, HTTP, Responses]
 ---

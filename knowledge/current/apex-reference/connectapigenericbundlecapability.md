@@ -5,7 +5,7 @@ topic: connectapigenericbundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.609Z
+lastCollected: 2026-04-05T00:23:51.870Z
 estimatedTokens: 105
 keywords: [ConnectApi.GenericBundleCapability, feed, element, capability, group, elements, condensed, bundle]
 ---

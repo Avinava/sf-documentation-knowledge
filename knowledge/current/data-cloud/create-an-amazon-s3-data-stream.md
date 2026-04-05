@@ -5,7 +5,7 @@ topic: create-an-amazon-s3-data-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:12.999Z
+lastCollected: 2026-04-05T00:23:28.968Z
 estimatedTokens: 821
 keywords: [Amazon, Data, Stream, programmatically, source, ingest, Cloud, lake]
 ---

@@ -5,7 +5,7 @@ topic: getdevelopername
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:19.973Z
+lastCollected: 2026-04-05T00:23:42.448Z
 estimatedTokens: 118
 keywords: [getDeveloperName, Retrieves, internal, API, canvas, app, Usage]
 ---
