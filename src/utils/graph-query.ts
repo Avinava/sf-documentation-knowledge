@@ -294,9 +294,9 @@ export class GraphQuery {
   }
 
   /**
-   * Build the Orama BM25 search engine from graph nodes + section-level chunks.
-   * Indexes all document nodes with title, keywords, domain, and docType.
-   * Also indexes section-level chunks from knowledge files for precision retrieval.
+   * Build the Orama BM25 search engine from graph nodes.
+   * Phase 1: Index document nodes immediately (fast startup).
+   * Phase 2: Load chunks from disk in the background (deferred).
    */
   private buildOramaIndex(): void {
     // Pass 1: Collect keywords per document via a single edge traversal (O(edges))
@@ -311,7 +311,7 @@ export class GraphQuery {
       docKeywordsMap.get(source)!.push(kw);
     });
 
-    // Pass 2: Build document list
+    // Pass 2: Build document list (fast — uses in-memory graph only)
     const documents: IndexedDocument[] = [];
 
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -332,11 +332,25 @@ export class GraphQuery {
       });
     });
 
-    // Pass 3: Load and index section-level chunks from knowledge files
-    const chunkDocs = this.loadChunks(docKeywordsMap);
-    documents.push(...chunkDocs);
-
+    // Initialize Orama with docs only (fast startup)
     this.searchEngine.init(documents);
+
+    // Phase 3: Load and index section-level chunks asynchronously
+    // This runs in the background so the server can start responding immediately
+    setImmediate(() => {
+      try {
+        const chunkDocs = this.loadChunks(docKeywordsMap);
+        if (chunkDocs.length > 0) {
+          // Re-initialize with docs + chunks
+          documents.push(...chunkDocs);
+          this.searchEngine.init(documents);
+          // Clear cache so new searches use the chunk-enhanced index
+          this.queryCache.clear();
+        }
+      } catch {
+        log.warn("Background chunk indexing failed — using doc-only index");
+      }
+    });
   }
 
   /**

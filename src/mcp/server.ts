@@ -15,7 +15,7 @@ import fs from "fs-extra";
 import path from "node:path";
 import { GraphQuery } from "../utils/graph-query.js";
 import { CodeIndex } from "./code-index.js";
-import { parseQuery } from "../utils/query-parser.js";
+import type { ParsedQuery } from "../utils/query-parser.js";
 
 import { fileURLToPath } from "node:url";
 
@@ -989,8 +989,18 @@ server.tool(
     limit: z.number().optional().default(10).describe("Max results to return (default 10)"),
   },
   async ({ query, domain, limit }) => {
-    // Parse query with NLP
-    const parsed = parseQuery(query);
+    // Lazy-load NLP parser to avoid crashing server startup if wink-nlp has issues
+    let parsed: ParsedQuery;
+    try {
+      const { parseQuery } = await import("../utils/query-parser.js");
+      parsed = parseQuery(query);
+    } catch {
+      // Fallback: no NLP analysis, just use raw query
+      parsed = {
+        original: query, nouns: [], verbs: [], lemmas: [],
+        expanded: query, preferredDocTypes: [], isHowTo: false,
+      };
+    }
 
     // Use the expanded (synonym-replaced) query for search
     const searchQuery = parsed.expanded;

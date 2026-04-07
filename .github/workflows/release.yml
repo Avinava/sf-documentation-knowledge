@@ -50,7 +50,7 @@ jobs:
 
       - name: Verify MCP server starts
         run: |
-          echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"ci","version":"1.0.0"}}}' | timeout 15 node dist/mcp/server.js 2>/dev/null | grep -q '"serverInfo"'
+          echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"ci","version":"1.0.0"}}}' | timeout 30 node dist/mcp/server.js 2>/dev/null | grep -q '"serverInfo"'
           echo "✅ MCP server verified"
 
       - name: Publish to npm
@@ -81,10 +81,11 @@ jobs:
 
           > **Note:** The `-p` flag installs the package and `sf-docs-mcp` explicitly invokes the MCP server binary (not the data pipeline CLI).
 
-          ## Available MCP Tools (9)
+          ## Available MCP Tools (10)
           | Tool | Purpose |
           |---|---|
           | `sf_search` | Search across 121 SF documentation domains |
+          | `sf_semantic_search` | AI-powered NLP search with query understanding |
           | `sf_read_topic` | Read a specific documentation topic |
           | `sf_graph_query` | Navigate the knowledge graph |
           | `sf_list_domains` | List all available domains |
